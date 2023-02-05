@@ -5,40 +5,127 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efc6e6ba-7a04-4476-95a0-bdcca17a9e9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/client/.babelrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.nvmrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.prettierignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.prettierrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.stylelintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/.yarnrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/commitlint.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/jest.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/next-env.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/next.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/tsconfig.test.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.babelrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.docker/Cache.Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/Cache.Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.docker/Server.Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/Server.Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.docker/Storybook.Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/Storybook.Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.docker/config/nginx.cache.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/config/nginx.cache.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.docker/config/nginx.storybook.conf" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/config/nginx.storybook.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.docker/production/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/production/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.github/workflows/linting.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/linting.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.github/workflows/pr-lint.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/pr-lint.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.husky/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.husky/commit-msg" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/commit-msg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/.husky/pre-commit" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.nvmrc" beforeDir="false" afterPath="$PROJECT_DIR$/.nvmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.prettierignore" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.prettierrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierrc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.storybook/StorybookTheme.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/StorybookTheme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.storybook/manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.storybook/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/preview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.storybook/viewports.js" beforeDir="false" afterPath="$PROJECT_DIR$/.storybook/viewports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.stylelintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/.stylelintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/.yarnrc" beforeDir="false" afterPath="$PROJECT_DIR$/.yarnrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/_templates/component/new/Component.stories.tsx.t" beforeDir="false" afterPath="$PROJECT_DIR$/_templates/component/new/Component.stories.tsx.t" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/_templates/component/new/Component.styled.ts.t" beforeDir="false" afterPath="$PROJECT_DIR$/_templates/component/new/Component.styled.ts.t" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/_templates/component/new/Component.test.tsx.t" beforeDir="false" afterPath="$PROJECT_DIR$/_templates/component/new/Component.test.tsx.t" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/_templates/component/new/Component.tsx.t" beforeDir="false" afterPath="$PROJECT_DIR$/_templates/component/new/Component.tsx.t" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/_templates/component/new/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/_templates/component/new/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/commitlint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/commitlint.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jest.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/fonts/PT_Sans/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/PT_Sans/OFL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/fonts/PT_Sans/PTSans-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/PT_Sans/PTSans-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/fonts/PT_Sans/PTSans-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/PT_Sans/PTSans-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/fonts/PT_Sans/PTSans-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/PT_Sans/PTSans-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/public/fonts/PT_Sans/PTSans-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/PT_Sans/PTSans-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Anchor/Anchor.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Anchor/Anchor.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Anchor/Anchor.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Anchor/Anchor.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Anchor/Anchor.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Anchor/Anchor.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Anchor/Anchor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Anchor/Anchor.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Anchor/__snapshots__/Anchor.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Anchor/__snapshots__/Anchor.test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Badge/Badge.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Badge/Badge.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Badge/Badge.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Badge/Badge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Badge/__snapshots__/Badge.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Badge/__snapshots__/Badge.test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Button/Button.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Button/Button.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Button/Button.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Button/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Button/__snapshots__/Button.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Button/__snapshots__/Button.test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/ImageBadge/ImageBadge.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/ImageBadge/ImageBadge.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/ImageBadge/ImageBadge.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/ImageBadge/ImageBadge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/ImageBadge/__snapshots__/ImageBadge.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ImageBadge/__snapshots__/ImageBadge.test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Text/Text.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Text/Text.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Text/Text.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Text/Text.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Text/Text.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Text/Text.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Text/Text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Text/Text.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/atoms/Text/__snapshots__/Text.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Text/__snapshots__/Text.test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Header/Header.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Header/Header.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Header/Header.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Header/Header.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Header/Header.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Header/Header.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Header/__snapshots__/Header.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Header/__snapshots__/Header.test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Select/Select.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Select/Select.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Select/Select.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Select/Select.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Select/Select.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Select/Select.test.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Select/Select.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Select/Select.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Select/__snapshots__/Select.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Select/__snapshots__/Select.test.tsx.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Status/Status.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Status/Status.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Status/Status.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Status/Status.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/molecules/Status/Status.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Status/Status.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/organisms/Tile/Tile.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/Tile/Tile.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/organisms/Tile/Tile.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/organisms/Tile/Tile.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/templates/Filter/Filter.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/Filter/Filter.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/templates/Filter/Filter.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/Filter/Filter.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/templates/Filter/Filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/Filter/Filter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/templates/IndexLayout/IndexLayout.helpers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.helpers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/templates/IndexLayout/IndexLayout.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/templates/IndexLayout/IndexLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/helpers/__snapshots__/filterBuilder.test.ts.snap" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/__snapshots__/filterBuilder.test.ts.snap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/helpers/api/getGoalProgress.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/api/getGoalProgress.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/helpers/enumToArray.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/enumToArray.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/helpers/filterBuilder.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/filterBuilder.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/helpers/getQueryParams.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/getQueryParams.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/helpers/logger.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/logger.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/helpers/queryFilterToFormikFilter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/queryFilterToFormikFilter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/helpers/queryFilterToHTTPFilter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/queryFilterToHTTPFilter.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_document.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/routes/goals/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/goals/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/style/breakpoints.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/breakpoints.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/style/colors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/colors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/style/helpers/GlobalStyles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/helpers/GlobalStyles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/style/helpers/css/fonts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/helpers/css/fonts.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/style/helpers/mixins/mediaQueries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/helpers/mixins/mediaQueries.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/types/Donations.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/Donations.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/types/Filter.type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/Filter.type.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/types/declaration.test.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/declaration.test.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/types/declarations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/declarations.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/types/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/next-env.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/storybook-static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/storybook-static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/storybook-static/fonts/PT_Sans/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/OFL.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/storybook-static/fonts/PT_Sans/PTSans-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/PTSans-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/storybook-static/fonts/PT_Sans/PTSans-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/PTSans-BoldItalic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/storybook-static/fonts/PT_Sans/PTSans-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/PTSans-Italic.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/storybook-static/fonts/PT_Sans/PTSans-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/PTSans-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/tsconfig.test.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +159,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
-    "ts.external.directory.path": "/Users/doga.budak/Documents/piarka/yesildoga/yesildoga/client/node_modules/typescript/lib",
+    "ts.external.directory.path": "/Users/doga.budak/Documents/piarka/yesildoga/yesildoga/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -91,7 +178,12 @@
       <option name="presentableId" value="Default" />
       <updated>1636230704600</updated>
       <workItem from="1636230705656" duration="1381000" />
-      <workItem from="1671532903088" duration="2810000" />
+      <workItem from="1671532903088" duration="3655000" />
+      <workItem from="1674726561811" duration="1215000" />
+      <workItem from="1674833148531" duration="598000" />
+      <workItem from="1674996125113" duration="599000" />
+      <workItem from="1675064507979" duration="598000" />
+      <workItem from="1675438954554" duration="9765000" />
     </task>
     <servers />
   </component>

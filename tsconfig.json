@@ -1,0 +1,39 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "esnext",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "noEmit": true,
+    "skipLibCheck": true,
+    "strictNullChecks": true,
+    "jsx": "preserve",
+    "lib": ["dom"],
+    "baseUrl": "./",
+    "paths": {
+      "@atoms": ["src/components/atoms/"],
+      "@atoms/*": ["src/components/atoms/*"],
+      "@helpers": ["src/helpers/"],
+      "@helpers/*": ["src/helpers/*"],
+      "@molecules": ["src/components/molecules/"],
+      "@molecules/*": ["src/components/molecules/*"],
+      "@organisms": ["src/components/organisms/"],
+      "@organisms/*": ["src/components/organisms/*"],
+      "@style": ["src/style/"],
+      "@style/*": ["src/style/*"],
+      "@templates": ["src/components/templates/"],
+      "@templates/*": ["src/components/templates/*"],
+      "@type": ["src/types/"],
+      "@type/*": ["src/types/*"],
+      "@mockdata/*": ["src/mockdata/*"]
+    },
+    "allowJs": true,
+    "strict": false,
+    "forceConsistentCasingInFileNames": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true
+  },
+  "exclude": ["node_modules"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx"]
+}
