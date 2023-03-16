@@ -1,5 +1,5 @@
 export enum Donations {
-  tree = 'Tree',
+  forest = 'Forest',
   charity = 'Charity',
   seas = 'Seas',
   agriculture = 'Agriculture',

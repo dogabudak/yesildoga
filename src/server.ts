@@ -28,7 +28,6 @@ if (!(SERVER_PORT && SERVER_HOST)) {
       throw error;
     } else {
       server.next('/');
-      // REMOVED server.next('/auto/*'); from here
     }
   });
 

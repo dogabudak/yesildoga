@@ -1,13 +1,13 @@
-import ReactPaginate from "react-paginate";
-import {Tile} from '@organisms/Tile/Tile';
+import ReactPaginate from 'react-paginate';
+import { Tile } from '@organisms/Tile/Tile';
 import {
-    fromDesktop,
-    onlyTablet,
-    untilMobile,
-    untilTablet,
+  fromDesktop,
+  onlyTablet,
+  untilMobile,
+  untilTablet,
 } from '@style/helpers/mixins/mediaQueries';
-import styled, {css} from 'styled-components';
-import {Donations} from "@type/Donations";
+import styled, { css } from 'styled-components';
+import { Donations } from '@type/Donations';
 
 export const IndexLayout = styled.div`
   display: flex;
@@ -19,7 +19,7 @@ export const IndexLayout = styled.div`
   `)}
 `;
 
-export const TreeTheme = styled.div`
+export const ForestTheme = styled.div`
   background: green;
   border: 2px solid green;
   color: green;

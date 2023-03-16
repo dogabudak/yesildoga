@@ -7,9 +7,9 @@ import { useRouter } from 'next/router';
 import type { IndexServerProps } from '../../../pages';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
-import { ThemeProvider } from 'styled-components';
+import { ForestTheme } from './IndexLayout.styled';
 
-export function IndexLayout({ donations, filters }: IndexServerProps['props']): JSX.Element {
+export function IndexLayout({ donations }: IndexServerProps['props']): JSX.Element {
   const [storedDonations, setStoredDonations] = useState<Donations[]>(donations);
   const [isLoading, setLoading] = useState(false);
   const [page, setPage] = useState(0);
@@ -41,9 +41,6 @@ export function IndexLayout({ donations, filters }: IndexServerProps['props']): 
       setLoading(false);
     });
   };
-  const selectTemplate = (event) => {
-    setPage(event.selected);
-  };
 
   return (
     <>
@@ -53,7 +50,7 @@ export function IndexLayout({ donations, filters }: IndexServerProps['props']): 
           <Tab> {Donations.education} </Tab>
           <Tab> {Donations.charity} </Tab>
           <Tab> {Donations.seas} </Tab>
-          <Tab> {Donations.tree} </Tab>
+          <Tab> {Donations.forest} </Tab>
         </TabList>
         <TabPanel>
           <S.AgricultureTheme>
@@ -76,9 +73,9 @@ export function IndexLayout({ donations, filters }: IndexServerProps['props']): 
           </S.SeasTheme>
         </TabPanel>
         <TabPanel>
-          <S.TreeTheme>
-            <h2>{Donations.tree}</h2>
-          </S.TreeTheme>
+          <S.ForestTheme>
+            <h2>{Donations.forest}</h2>
+          </S.ForestTheme>
         </TabPanel>
       </Tabs>
     </>
