@@ -1,10 +1,11 @@
-// TODO colors, donations tiplerinden gelsin
+import { Donations } from '@type/Donations';
+
 export const colors = {
   primary: '#0C9346',
-  primaryHover: '#0C6100',
   secondary: '#23cafd',
-  secondaryHover: '#FA8000',
-  rejected: '#fa0000',
-  confirmed: '#0015fa',
-  requested: '#6d836c',
+  [Donations.forest]: '#0C6100',
+  [Donations.seas]: '#23cafd',
+  [Donations.agriculture]: '#c4ad1e',
+  [Donations.education]: '#0015fa',
+  [Donations.charity]: '#6d836c',
 };

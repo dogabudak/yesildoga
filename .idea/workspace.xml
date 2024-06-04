@@ -6,10 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="efc6e6ba-7a04-4476-95a0-bdcca17a9e9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/Status/Status.stories.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/Status/Status.styled.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/Status/Status.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/helpers/api/getGoalProgress.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/api/getGoalProgress.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/goals/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/goals/index.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/Donations.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/Donations.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/style/colors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/style/colors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +38,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="20Yo6EkudtAAnNZfKWwc0zHhhAF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -44,13 +53,14 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/doga.budak/Documents/piarka/yesildoga/yesildoga&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/doga.budak/Documents/piarka/yesildoga/yesildoga/node_modules/typescript/lib&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -60,7 +70,7 @@
       <recent name="$PROJECT_DIR$/client" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.watch:sb">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -71,8 +81,19 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="watch:sb" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="watch:sb" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.watch:sb" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -93,6 +114,9 @@
       <workItem from="1675064507979" duration="598000" />
       <workItem from="1675438954554" duration="10542000" />
       <workItem from="1678970493214" duration="7703000" />
+      <workItem from="1717400418745" duration="825000" />
+      <workItem from="1717487322047" duration="973000" />
+      <workItem from="1717500170429" duration="2462000" />
     </task>
     <servers />
   </component>

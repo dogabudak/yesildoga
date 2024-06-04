@@ -7,7 +7,7 @@ type GetGoalQuery = {
 };
 
 export async function getGoalProgress({ page, pageSize, type }: GetGoalQuery): Promise<any[]> {
-  const response = await axios.get('http://localhost:7001/goalProgress', {
+  const response = await axios.get('http://localhost:8081/goalProgress', {
     params: { page, pageSize, type },
   });
 

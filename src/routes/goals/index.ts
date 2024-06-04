@@ -7,7 +7,7 @@ type query = {
   type?: string;
 };
 
-export async function routes(fastify: FastifyInstance): Promise<void> {
+export async function goalProgress(fastify: FastifyInstance): Promise<void> {
   fastify.get('/goals', async (req, res) => {
     const { page, pageSize, type } = req.query as query;
     const response = await getGoalProgress({ page, pageSize, type });
