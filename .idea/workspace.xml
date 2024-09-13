@@ -5,39 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efc6e6ba-7a04-4476-95a0-bdcca17a9e9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/121.5b94600e4e4246d987b2.manager.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/121.981689ae.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/278.5cc1655e.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/278.5cc1655e.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/278.bfb7403198de8382d0d5.manager.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/278.bfb7403198de8382d0d5.manager.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/295.7d18f3492399e3c1c49e.manager.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/331.daf0e3e79d2a739058a0.manager.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/331.daf0e3e79d2a739058a0.manager.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/331.fbca7c1e.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/331.fbca7c1e.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/416.e5326c7f.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/416.e5326c7f.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/423.943341ee.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/449.7b56dc06417a5fcb51b8.manager.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/449.7b56dc06417a5fcb51b8.manager.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/459.57e72b15b5348626f9c4.manager.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/459.6e8ba88c.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/525.3181f0fda542724473b6.manager.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/PTSans-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/PTSans-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/PTSans-Italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/fonts/PT_Sans/PTSans-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/iframe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/main.47126486df3f3d1e23a7.manager.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/main.71e5e94d.iframe.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/main.71e5e94d.iframe.bundle.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/runtime~main.da566ba44d7300cf5636.manager.bundle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storybook-static/runtime~main.ef0a2a8e.iframe.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/atoms/Text/Text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Text/Text.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/Header/Header.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Header/Header.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/Select/Select.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Select/Select.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/organisms/Tile/Tile.styled.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/organisms/Tile/Tile.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/templates/Filter/Filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/Filter/Filter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,29 +49,40 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga/node_modules/typescript/lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "js.last.introduce.type": "LET",
+    "last_opened_file_path": "/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/client" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.watch:sb">
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -115,6 +105,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.watch:sb" />
         <item itemvalue="npm.start" />
       </list>
@@ -138,7 +129,9 @@
       <workItem from="1678970493214" duration="7703000" />
       <workItem from="1717400418745" duration="825000" />
       <workItem from="1717487322047" duration="973000" />
-      <workItem from="1717500170429" duration="2522000" />
+      <workItem from="1717500170429" duration="3132000" />
+      <workItem from="1719841970046" duration="15000" />
+      <workItem from="1726257451813" duration="1402000" />
     </task>
     <servers />
   </component>

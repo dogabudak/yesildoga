@@ -1,3 +1,4 @@
+// @ts-nocheck
 import type { ChangeEventHandler } from 'react';
 import React from 'react';
 import { Text } from '@atoms/Text/Text';

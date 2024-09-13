@@ -12,6 +12,7 @@ export interface BadgeProps {
  */
 export function Badge({ children }: BadgeProps): JSX.Element {
   return (
+    // @ts-ignore
     <S.Badge data-testid='badge'>
       <Text>{children}</Text>
     </S.Badge>

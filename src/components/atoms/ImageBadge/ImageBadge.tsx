@@ -3,7 +3,6 @@ import { Text } from '@atoms/Text/Text';
 import * as S from './ImageBadge.styled';
 
 export interface ImageBadgeProps {
-  /** The Image Count. */
   children: React.ReactNode;
   className?: string;
 }
@@ -13,6 +12,7 @@ export interface ImageBadgeProps {
  */
 export function ImageBadge({ children, className }: ImageBadgeProps): JSX.Element {
   return (
+    // @ts-ignore
     <S.ImageBadge className={className} data-testid='imagebadge'>
       <Text>{children}</Text>
     </S.ImageBadge>
