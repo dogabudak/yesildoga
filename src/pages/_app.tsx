@@ -4,6 +4,7 @@ import { colors } from '@style/colors';
 import { GlobalStyles } from '@style/helpers/GlobalStyles';
 import type { AppProps } from 'next/app';
 import NextNprogress from 'nextjs-progressbar';
+import { Footer } from '@molecules/Footer/Footer';
 
 function CrewmesinterRecruitmentTask({ Component, pageProps }: AppProps): JSX.Element {
   return (
@@ -13,6 +14,7 @@ function CrewmesinterRecruitmentTask({ Component, pageProps }: AppProps): JSX.El
       <Header />
       {/* eslint-disable-next-line react/jsx-props-no-spreading */}
       <Component {...pageProps} />
+      <Footer />
     </>
   );
 }

@@ -6,17 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="efc6e6ba-7a04-4476-95a0-bdcca17a9e9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Text/Text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/atoms/Text/Text.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Header/Header.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Header/Header.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Select/Select.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Select/Select.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organisms/Tile/Tile.styled.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/organisms/Tile/Tile.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/Filter/Filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/Filter/Filter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.helpers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.helpers.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -49,23 +42,23 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "js.last.introduce.type": "LET",
-    "last_opened_file_path": "/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "ts.external.directory.path": "/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -131,7 +124,9 @@
       <workItem from="1717487322047" duration="973000" />
       <workItem from="1717500170429" duration="3132000" />
       <workItem from="1719841970046" duration="15000" />
-      <workItem from="1726257451813" duration="1402000" />
+      <workItem from="1726257451813" duration="2036000" />
+      <workItem from="1726470919337" duration="606000" />
+      <workItem from="1726511776247" duration="862000" />
     </task>
     <servers />
   </component>
