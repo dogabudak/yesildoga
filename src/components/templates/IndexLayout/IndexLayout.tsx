@@ -1,47 +1,10 @@
-import React, { useEffect, useState } from 'react';
-import { queryFilterToHTTPFilter } from '@helpers/queryFilterToHTTPFilter';
+import React from 'react';
 import * as S from './IndexLayout.styled';
-import { makeRequest } from './IndexLayout.helpers';
 import { Donations } from '@type/Donations';
-import { useRouter } from 'next/router';
-import type { IndexServerProps } from '../../../pages';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
-import { ForestTheme } from './IndexLayout.styled';
 
-export function IndexLayout({ donations }: IndexServerProps['props']): JSX.Element {
-  const [storedDonations, setStoredDonations] = useState<Donations[]>(donations);
-  const [isLoading, setLoading] = useState(false);
-  const [page, setPage] = useState(0);
-  const [totalPageCount, setTotalPageCount] = useState(0);
-  const router = useRouter();
-  const [filter, setFilter] = useState(queryFilterToHTTPFilter(router.query));
-  useEffect(() => {
-    const fetchUsers = async () => {
-      if (isLoading) {
-        return;
-      }
-      setLoading(true);
-      const result = await makeRequest(page, filter);
-      setStoredDonations(result.records);
-      setTotalPageCount(result.count / 10);
-      setLoading(false);
-    };
-    fetchUsers();
-  }, [filter, page]);
-
-  const handleFilter = (selectedFilters) => {
-    setLoading(true);
-    setPage(0);
-    setFilter(selectedFilters);
-
-    makeRequest(page, selectedFilters).then((result) => {
-      setStoredDonations(result.records);
-      setTotalPageCount(result.count / 10);
-      setLoading(false);
-    });
-  };
-
+export function IndexLayout(): JSX.Element {
   // TODO move this TabPanel styles properly
   return (
     <>

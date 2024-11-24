@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="efc6e6ba-7a04-4476-95a0-bdcca17a9e9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/Footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +67,7 @@
       <recent name="$PROJECT_DIR$/client" />
     </key>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.start">
     <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -96,9 +100,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.build" />
         <item itemvalue="npm.watch:sb" />
-        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -125,6 +129,8 @@
       <workItem from="1726257451813" duration="2036000" />
       <workItem from="1726470919337" duration="606000" />
       <workItem from="1726511776247" duration="2098000" />
+      <workItem from="1732452679077" duration="898000" />
+      <workItem from="1732454486438" duration="2186000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,7 @@ import type { AppProps } from 'next/app';
 import NextNprogress from 'nextjs-progressbar';
 import { Footer } from '@molecules/Footer/Footer';
 
-function CrewmesinterRecruitmentTask({ Component, pageProps }: AppProps): JSX.Element {
+function YesilDogaMainPage({ Component, pageProps }: AppProps): JSX.Element {
   return (
     <>
       <GlobalStyles />
@@ -19,4 +19,4 @@ function CrewmesinterRecruitmentTask({ Component, pageProps }: AppProps): JSX.El
   );
 }
 
-export default CrewmesinterRecruitmentTask;
+export default YesilDogaMainPage;

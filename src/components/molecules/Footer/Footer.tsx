@@ -16,31 +16,27 @@ export function Footer(): JSX.Element {
         <div>
           <FooterHeading>About Us</FooterHeading>
           <p>
-            We are dedicated to providing excellent services to our customers. Stay updated by
-            following us on social media.
+            At yesildoga, every dollar we earn is dedicated entirely to the impactful projects we
+            proudly share with you. Our mission is to create change by transparently funding
+            initiatives that matter. Together, we transform support into meaningful action for a
+            better future.
           </p>
         </div>
         <div>
           <FooterHeading>Quick Links</FooterHeading>
           <FooterLinks>
             <FooterLinkItem>
-              <a href='#'>Home</a>
+              <a href='/about'>About</a>
             </FooterLinkItem>
             <FooterLinkItem>
-              <a href='#'>About</a>
-            </FooterLinkItem>
-            <FooterLinkItem>
-              <a href='#'>Services</a>
-            </FooterLinkItem>
-            <FooterLinkItem>
-              <a href='#'>Contact</a>
+              <a href='/progress'>Progress</a>
             </FooterLinkItem>
           </FooterLinks>
         </div>
         <div>
           <FooterHeading>Contact Us</FooterHeading>
-          <p>Email: contact@example.com</p>
-          <p>Phone: +123 456 7890</p>
+          <p>Email: dogabudak@gmail.com</p>
+          <p>Phone: +49 176 432 27 537</p>
           <FooterSocialIcons>
             <a href='#'> {/* Add your social icon */} </a>
             <a href='#'> {/* Add your social icon */} </a>
