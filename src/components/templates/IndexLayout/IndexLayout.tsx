@@ -3,17 +3,11 @@ import * as S from './IndexLayout.styled';
 import { Donations } from '@type/Donations';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
+import { SearchBar } from '@molecules/SearchBar/SearchBar';
 
 export function IndexLayout(): JSX.Element {
-  // TODO move this TabPanel styles properly
-  // TODO search bar should be inside of this tab panel not all the way up
   return (
     <>
-      <S.SearchBarContainer>
-        <S.SearchInput type='text' placeholder='Search for a cause...' />
-        <S.SearchButton>Search</S.SearchButton>
-      </S.SearchBarContainer>
-
       <Tabs defaultIndex={1}>
         <TabList>
           <Tab>{Donations.agriculture}</Tab>
@@ -25,6 +19,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.AgricultureTheme>
+            <SearchBar />
             <S.ContentWrapper>
               <h2>{Donations.agriculture}</h2>
               <p>Support sustainable farming and help communities thrive.</p>
@@ -34,6 +29,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.EducationTheme>
+            <SearchBar />
             <S.ContentWrapper>
               <h2>{Donations.education}</h2>
               <p>Empower the next generation through education.</p>
@@ -43,6 +39,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.CharityTheme>
+            <SearchBar />
             <S.ContentWrapper>
               <h2>{Donations.charity}</h2>
               <p>Make a difference by supporting those in need.</p>
@@ -52,6 +49,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.SeasTheme>
+            <SearchBar />
             <S.ContentWrapper>
               <h2>{Donations.seas}</h2>
               <p>Protect our oceans and marine life.</p>
@@ -61,6 +59,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.ForestTheme>
+            <SearchBar />
             <S.ContentWrapper>
               <h2>{Donations.forest}</h2>
               <p>Preserve our forests for future generations.</p>
