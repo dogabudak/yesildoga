@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="efc6e6ba-7a04-4476-95a0-bdcca17a9e9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/SearchBar/SearchBar.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/SearchBar/SearchBar.styled.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/molecules/SearchBar/SearchBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/molecules/SearchBar/SearchBar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/goals/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/goals/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +134,8 @@
       <workItem from="1732454486438" duration="2211000" />
       <workItem from="1734943446104" duration="2044000" />
       <workItem from="1740227945517" duration="1700000" />
-      <workItem from="1740574087265" duration="1073000" />
+      <workItem from="1740574087265" duration="1097000" />
+      <workItem from="1740986990013" duration="2355000" />
     </task>
     <servers />
   </component>

@@ -1,6 +1,17 @@
 import { colors } from '@style/colors';
 import styled from 'styled-components';
 
+interface SearchButtonProps {
+  children: string;
+  onClick: () => Promise<void> | void;
+}
+interface SearchInputProps {
+  type?: string;
+  placeholder?: string;
+  value?: string;
+  onChange?: (event: React.ChangeEvent<HTMLInputElement>) => void;
+}
+
 export const SearchBarContainer = styled.div`
   align-items: center;
   display: flex;
@@ -11,10 +22,10 @@ export const SearchBarContainer = styled.div`
   width: 100%;
 `;
 
-export const SearchInput = styled.input.attrs((props: any) => ({
+export const SearchInput = styled.input.attrs<SearchInputProps>((props: any) => ({
   type: props.type || 'text',
   placeholder: props.placeholder || 'Search...',
-}))`
+}))<SearchInputProps>`
   border: 2px solid ${colors.primary};
   border-radius: 25px;
   font-size: 1rem;
@@ -29,7 +40,7 @@ export const SearchInput = styled.input.attrs((props: any) => ({
   }
 `;
 
-export const SearchButton = styled.button`
+export const SearchButton = styled.button<SearchButtonProps>`
   background-color: ${colors.primary};
   border: none;
   border-radius: 25px;

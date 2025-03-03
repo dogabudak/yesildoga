@@ -5,6 +5,7 @@ import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import { SearchBar } from '@molecules/SearchBar/SearchBar';
 
+// TODO goalId's should come from somewhere
 export function IndexLayout(): JSX.Element {
   return (
     <>
@@ -19,7 +20,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.AgricultureTheme>
-            <SearchBar />
+            <SearchBar goalId='todo' />
             <S.ContentWrapper>
               <h2>{Donations.agriculture}</h2>
               <p>Support sustainable farming and help communities thrive.</p>
@@ -29,7 +30,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.EducationTheme>
-            <SearchBar />
+            <SearchBar goalId='todo' />
             <S.ContentWrapper>
               <h2>{Donations.education}</h2>
               <p>Empower the next generation through education.</p>
@@ -39,7 +40,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.CharityTheme>
-            <SearchBar />
+            <SearchBar goalId='todo' />
             <S.ContentWrapper>
               <h2>{Donations.charity}</h2>
               <p>Make a difference by supporting those in need.</p>
@@ -49,7 +50,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.SeasTheme>
-            <SearchBar />
+            <SearchBar goalId='todo' />
             <S.ContentWrapper>
               <h2>{Donations.seas}</h2>
               <p>Protect our oceans and marine life.</p>
@@ -59,7 +60,7 @@ export function IndexLayout(): JSX.Element {
 
         <TabPanel>
           <S.ForestTheme>
-            <SearchBar />
+            <SearchBar goalId='todo' />
             <S.ContentWrapper>
               <h2>{Donations.forest}</h2>
               <p>Preserve our forests for future generations.</p>

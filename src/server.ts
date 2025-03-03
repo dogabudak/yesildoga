@@ -3,7 +3,7 @@ import fastify from 'fastify';
 import next from 'fastify-nextjs';
 import fstatic from 'fastify-static';
 import path from 'path';
-import { goalProgress } from './routes/goals';
+import { goalProgress, registerSearch } from './routes/goals';
 
 const { NODE_ENV, SERVER_HOST = '0.0.0.0', SERVER_PORT = '1337' } = process.env;
 
@@ -22,6 +22,7 @@ if (!(SERVER_PORT && SERVER_HOST)) {
     root: path.join(__dirname, '..', 'public'),
   });
   server.register(goalProgress);
+  server.register(registerSearch);
 
   server.register(next, { dev: NODE_ENV === 'development' }).after((error) => {
     if (error) {
