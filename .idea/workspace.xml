@@ -5,130 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="efc6e6ba-7a04-4476-95a0-bdcca17a9e9c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.babelrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.babelrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/Cache.Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.docker/Cache.Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/Server.Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.docker/Server.Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/Storybook.Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.docker/Storybook.Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/config/nginx.cache.conf" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.docker/config/nginx.cache.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/config/nginx.storybook.conf" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.docker/config/nginx.storybook.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/production/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.docker/production/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.dockerignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.dockerignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.eslintrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/linting.yml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.github/workflows/linting.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/pr-lint.yml" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.github/workflows/pr-lint.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.husky/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.husky/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.husky/commit-msg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.husky/commit-msg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.husky/pre-commit" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.husky/pre-commit" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.nvmrc" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.nvmrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.prettierignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.prettierrc.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.prettierrc.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/StorybookTheme.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.storybook/StorybookTheme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.storybook/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.storybook/manager.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.storybook/preview.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/viewports.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.storybook/viewports.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.stylelintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.stylelintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.yarnrc" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.yarnrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_templates/component/new/Component.stories.tsx.t" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/_templates/component/new/Component.stories.tsx.t" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_templates/component/new/Component.styled.ts.t" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/_templates/component/new/Component.styled.ts.t" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_templates/component/new/Component.test.tsx.t" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/_templates/component/new/Component.test.tsx.t" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_templates/component/new/Component.tsx.t" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/_templates/component/new/Component.tsx.t" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_templates/component/new/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/_templates/component/new/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commitlint.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/commitlint.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jest.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/jest.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/next-env.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Agriculture/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/projects/Agriculture/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Charity/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/projects/Charity/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Education/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/projects/Education/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Forest/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/projects/Forest/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/Sea/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/projects/Sea/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/background/Agriculture.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/background/Agriculture.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/background/Charity.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/background/Charity.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/background/Education.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/background/Education.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/background/Forest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/background/Forest.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/background/Sea.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/background/Sea.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/PT_Sans/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/fonts/PT_Sans/OFL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/PT_Sans/PTSans-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/fonts/PT_Sans/PTSans-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/PT_Sans/PTSans-BoldItalic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/fonts/PT_Sans/PTSans-BoldItalic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/PT_Sans/PTSans-Italic.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/fonts/PT_Sans/PTSans-Italic.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/fonts/PT_Sans/PTSans-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/fonts/PT_Sans/PTSans-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Anchor/Anchor.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Anchor/Anchor.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Anchor/Anchor.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Anchor/Anchor.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Anchor/Anchor.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Anchor/Anchor.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Anchor/Anchor.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Anchor/Anchor.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Anchor/__snapshots__/Anchor.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Anchor/__snapshots__/Anchor.test.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Badge/Badge.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Badge/Badge.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Badge/Badge.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Badge/Badge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Badge/Badge.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Badge/__snapshots__/Badge.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Badge/__snapshots__/Badge.test.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Button/Button.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Button/Button.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Button/Button.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Button/Button.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Button/Button.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Button/Button.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Button/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Button/Button.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Button/__snapshots__/Button.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Button/__snapshots__/Button.test.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/ImageBadge/ImageBadge.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/ImageBadge/ImageBadge.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/ImageBadge/ImageBadge.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/ImageBadge/ImageBadge.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/ImageBadge/ImageBadge.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/ImageBadge/__snapshots__/ImageBadge.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/ImageBadge/__snapshots__/ImageBadge.test.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Text/Text.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Text/Text.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Text/Text.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Text/Text.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Text/Text.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Text/Text.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Text/Text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Text/Text.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/atoms/Text/__snapshots__/Text.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/atoms/Text/__snapshots__/Text.test.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Footer/Footer.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Footer/Footer.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Footer/Footer.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Footer/Footer.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Footer/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Header/Header.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Header/Header.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Header/Header.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Header/Header.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Header/Header.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Header/Header.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Header/__snapshots__/Header.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Header/__snapshots__/Header.test.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/SearchBar/SearchBar.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/SearchBar/SearchBar.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/SearchBar/SearchBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/SearchBar/SearchBar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Select/Select.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Select/Select.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Select/Select.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Select/Select.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Select/Select.test.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Select/Select.test.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Select/Select.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Select/Select.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/molecules/Select/__snapshots__/Select.test.tsx.snap" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/molecules/Select/__snapshots__/Select.test.tsx.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/Filter/Filter.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/templates/Filter/Filter.stories.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/Filter/Filter.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/templates/Filter/Filter.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/Filter/Filter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/templates/Filter/Filter.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.helpers.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/templates/IndexLayout/IndexLayout.helpers.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.styled.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/templates/IndexLayout/IndexLayout.styled.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/templates/IndexLayout/IndexLayout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/components/templates/IndexLayout/IndexLayout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/__snapshots__/filterBuilder.test.ts.snap" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/helpers/__snapshots__/filterBuilder.test.ts.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/api/getGoalProgress.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/helpers/api/getGoalProgress.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/enumToArray.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/helpers/enumToArray.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/filterBuilder.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/helpers/filterBuilder.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/getQueryParams.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/helpers/getQueryParams.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/logger.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/helpers/logger.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/queryFilterToFormikFilter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/helpers/queryFilterToFormikFilter.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/queryFilterToHTTPFilter.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/helpers/queryFilterToHTTPFilter.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/_document.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routes/goals/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/breakpoints.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/style/breakpoints.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/colors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/style/colors.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/helpers/GlobalStyles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/style/helpers/GlobalStyles.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/helpers/css/fonts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/style/helpers/css/fonts.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/style/helpers/mixins/mediaQueries.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/style/helpers/mixins/mediaQueries.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/Donations.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/types/Donations.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/Filter.type.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/types/Filter.type.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/declaration.test.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/types/declaration.test.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/declarations.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/types/declarations.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/types/next-env.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.test.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tsconfig.test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,23 +40,23 @@
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "js.last.introduce.type": "LET",
-    "last_opened_file_path": "/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "ts.external.directory.path": "/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga/frontend/node_modules/typescript/lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Users/doga.budak/Documents/piarcha/yesildoga/yesildoga/frontend/node_modules/typescript/lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/frontend" />
@@ -256,7 +133,8 @@
       <workItem from="1740574087265" duration="1097000" />
       <workItem from="1740986990013" duration="2377000" />
       <workItem from="1744744387016" duration="5806000" />
-      <workItem from="1744786361715" duration="3421000" />
+      <workItem from="1744786361715" duration="4052000" />
+      <workItem from="1744871684761" duration="599000" />
     </task>
     <servers />
   </component>

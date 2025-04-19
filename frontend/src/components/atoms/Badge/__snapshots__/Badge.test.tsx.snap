@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge 1`] = `
+.c1 {
+  font-family: 'PT Sans',sans-serif;
+  font-style: regular;
+  font-weight: 400;
+}
+
+.c0 {
+  background-color: rgba(196,196,196,0.5);
+  border: #c4c4c4 1px solid;
+  border-radius: 4px;
+  display: inline-block;
+  padding: 6px 8px;
+}
+
+<div
+  class="c0"
+  data-testid="badge"
+>
+  <p
+    class="c1"
+  >
+    Badge
+  </p>
+</div>
+`;

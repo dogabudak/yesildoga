@@ -1,0 +1,62 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button 1`] = `
+.c1 {
+  font-family: 'PT Sans',sans-serif;
+  font-style: regular;
+  font-weight: 400;
+}
+
+.c0 {
+  background-color: #0B4256;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  outline: none;
+  padding: 10px 28px;
+  -webkit-transition: background-color 0.1s ease-in-out;
+  transition: background-color 0.1s ease-in-out;
+}
+
+@media (hover:hover) {
+  .c0:hover {
+    background-color: #0e546d;
+    cursor: pointer;
+  }
+}
+
+@media (max-width:1223px) {
+  .c0 {
+    padding: 10px 14px;
+  }
+}
+
+<button
+  class="c0"
+  data-testid="button"
+  type="button"
+>
+  <p
+    class="c1"
+  >
+    Button
+  </p>
+</button>
+`;
+
+exports[`Button 2`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+@@ -1,8 +1,8 @@
+  <DocumentFragment>
+    <button
+-     class=\\"sc-gtsrHT eIuphD\\"
++     class=\\"sc-gtsrHT hhjUsd\\"
+      data-testid=\\"button\\"
+      type=\\"button\\"
+    >
+      <p
+        class=\\"sc-bdnxRM unfAt\\""
+`;

@@ -1,0 +1,41 @@
+name: Lint & Test
+
+on:
+  pull_request:
+    branches: ['main']
+    types: [ready_for_review, synchronize, opened]
+
+jobs:
+  linting:
+    if: ${{ github.event.pull_request.draft == false }}
+    runs-on: ubuntu-latest
+    steps:
+      - run: sudo timedatectl set-timezone Europe/Berlin
+      - uses: actions/checkout@v2
+      - name: node_modules cache
+        uses: actions/cache@v2.1.5
+        id: module-cache
+        with:
+          path: node_modules
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
+      - name: Prepare dependencies
+        run: yarn
+      - name: ESLint
+        uses: reviewdog/action-eslint@v1.12.3
+        with:
+          github_token: ${{ secrets.github_token }}
+          reporter: github-pr-review
+          level: 'warning'
+          fail_on_error: true
+      - name: Stylelint
+        uses: reviewdog/action-stylelint@v1
+        with:
+          github_token: ${{ secrets.github_token }}
+          reporter: github-pr-review
+          fail_on_error: true
+      - name: Build it
+        run: yarn tsc && yarn build
+      - name: Run Tests
+        run: yarn test
