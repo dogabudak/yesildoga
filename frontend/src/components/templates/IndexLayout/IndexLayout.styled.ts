@@ -1,6 +1,5 @@
 import styled from 'styled-components';
-import { DonationBackgroundPath, Donations } from 'src/types/Donations';
-import { colors } from 'src/style/colors';
+import { DonationBackgroundPath } from 'src/types/Donations';
 
 // Common styles for all themes
 const CommonThemeStyles = styled.div`

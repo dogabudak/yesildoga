@@ -5,7 +5,7 @@ export const colors = {
   secondary: '#23cafd',
   [Donations.forest]: '#0C6100',
   [Donations.seas]: '#23cafd',
-  [Donations.agriculture]: '#c4ad1e',
+  [Donations.agriculture]: '#dabc0c',
   [Donations.education]: '#0015fa',
   [Donations.charity]: '#6d836c',
 };
