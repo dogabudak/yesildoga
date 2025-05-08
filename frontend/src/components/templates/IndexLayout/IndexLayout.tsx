@@ -34,6 +34,8 @@ export function IndexLayout(): JSX.Element {
             <S.ContentWrapper>
               <h2>{Donations.education}</h2>
               <p>Empower the next generation through education.</p>
+              <ProjectTab goalId='todo' projectName={Donations.education} />
+
             </S.ContentWrapper>
           </S.EducationTheme>
         </TabPanel>
@@ -43,6 +45,8 @@ export function IndexLayout(): JSX.Element {
             <S.ContentWrapper>
               <h2>{Donations.charity}</h2>
               <p>Make a difference by supporting those in need.</p>
+              <ProjectTab goalId='todo' projectName={Donations.charity} />
+
             </S.ContentWrapper>
           </S.CharityTheme>
         </TabPanel>
@@ -52,6 +56,8 @@ export function IndexLayout(): JSX.Element {
             <S.ContentWrapper>
               <h2>{Donations.seas}</h2>
               <p>Protect our oceans and marine life.</p>
+              <ProjectTab goalId='todo' projectName={Donations.seas} />
+
             </S.ContentWrapper>
           </S.SeasTheme>
         </TabPanel>
@@ -61,6 +67,8 @@ export function IndexLayout(): JSX.Element {
             <S.ContentWrapper>
               <h2>{Donations.forest}</h2>
               <p>Preserve our forests for future generations.</p>
+              <ProjectTab goalId='todo' projectName={Donations.forest} />
+
             </S.ContentWrapper>
           </S.ForestTheme>
         </TabPanel>
