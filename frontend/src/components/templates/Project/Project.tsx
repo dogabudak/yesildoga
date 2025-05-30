@@ -5,7 +5,7 @@ import {SeaProject} from './Seas';
 import {ForestProject} from './Forest';
 import {CharityProject} from './Charity';
 import {EducationProject} from './Education';
-import { ProjectContainer } from './ProjectContainer.styled';
+import { ProjectContainer, DiscoverButton } from './ProjectContainer.styled';
 
 interface ProjectTabProps {
     projectName: string; // without extension
@@ -20,6 +20,8 @@ const ProjectComponents: { [key: string]: React.FC } = {
     Education: EducationProject,
 };
 
+
+
 export const ProjectTab: React.FC<ProjectTabProps> = ({ projectName, goalId }) => {
     const [isProjectVisible, setProjectVisible] = useState(false);
     const ProjectComponent = ProjectComponents[projectName];
@@ -31,14 +33,14 @@ export const ProjectTab: React.FC<ProjectTabProps> = ({ projectName, goalId }) =
     return (
         <div>
             <SearchBar goalId={goalId} />
-            <button onClick={toggleProjectVisibility}>
-                {isProjectVisible ? 'Hide Project' : 'Show Project'}
-            </button>
-            {isProjectVisible && ProjectComponent && (
-                <ProjectContainer>
+            <DiscoverButton onClick={toggleProjectVisibility}>
+                {isProjectVisible ? 'Hide Project' : 'Show Project Details'}
+            </DiscoverButton>
+            {ProjectComponent && (
+                <ProjectContainer isVisible={isProjectVisible}>
                     <ProjectComponent />
                 </ProjectContainer>
-            ) }
+            )}
         </div>
     );
 };
