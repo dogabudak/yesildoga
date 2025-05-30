@@ -5,11 +5,14 @@ const isDev = process.env.NODE_ENV === 'development';
 
 const Logger = pino({
   level: LOGGER_LEVEL,
-  prettyPrint: isDev
-    ? {
-        hideObject: LOGGER_LEVEL !== 'trace',
-      }
-    : false,
+  transport: {
+    target: 'pino-pretty',
+    options: {
+      colorize: true,
+      singleLine: true,
+      ignore: 'pid,hostname',
+    },
+  },
 });
 
 // eslint-disable-next-line import/no-default-export

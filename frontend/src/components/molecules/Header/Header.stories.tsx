@@ -1,5 +1,5 @@
 import React from 'react';
-import type { Meta, Story } from '@storybook/react';
+import type { Meta, StoryFn } from '@storybook/react';
 import { Header } from 'src/components/molecules/Header/Header';
 
 export default {
@@ -7,7 +7,7 @@ export default {
   component: Header,
 } as Meta;
 
-const HeaderComponent: Story = (args) => <Header {...args} />;
+const HeaderComponent: StoryFn = (args) => <Header {...args} />;
 
 export const Default = HeaderComponent.bind({});
 Default.args = {

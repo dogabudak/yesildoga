@@ -1,5 +1,5 @@
 import React from 'react';
-import type { Meta, Story } from '@storybook/react';
+import type { Meta, StoryFn } from '@storybook/react';
 import type { SelectProps } from 'src/components/molecules/Select/Select';
 import { Select } from 'src/components/molecules/Select/Select';
 
@@ -8,7 +8,7 @@ export default {
   component: Select,
 } as Meta;
 
-const SelectComponent: Story<SelectProps> = (args) => <Select {...args} />;
+const SelectComponent: StoryFn<SelectProps> = (args) => <Select {...args} />;
 
 export const Default = SelectComponent.bind({});
 Default.args = {

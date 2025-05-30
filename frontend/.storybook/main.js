@@ -24,6 +24,12 @@ module.exports = {
       })
     );
     config.resolve.extensions.push('.ts', '.tsx');
+    config.resolve.fallback = {
+      ...config.resolve.fallback,
+      stream: require.resolve('stream-browserify'),
+      fs: false,
+      zlib: require.resolve('browserify-zlib'), 
+    };
     return config;
   },
 };

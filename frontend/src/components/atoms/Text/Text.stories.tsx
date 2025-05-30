@@ -1,5 +1,5 @@
 import React from 'react';
-import type { Meta, Story } from '@storybook/react';
+import type { Meta, StoryFn } from '@storybook/react';
 import type { TextProps } from 'src/components/atoms/Text/Text';
 import { Text } from 'src/components/atoms/Text/Text';
 
@@ -8,7 +8,7 @@ export default {
   component: Text,
 } as Meta;
 
-const TextComponent: Story<TextProps> = (args) => <Text {...args} />;
+const TextComponent: StoryFn<TextProps> = (args) => <Text {...args} />;
 
 export const Default = TextComponent.bind({});
 Default.args = {

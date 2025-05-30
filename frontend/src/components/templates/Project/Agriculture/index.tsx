@@ -2,9 +2,9 @@ import React from 'react';
 import styled from 'styled-components';
 
 const Container = styled.div`
-  max-width: 800px;
+  max-width: 600px;
   margin: 0 auto;
-  padding: 20px;
+  padding: 15px;
   font-family: Arial, sans-serif;
   line-height: 1.6;
 `;
@@ -12,23 +12,23 @@ const Container = styled.div`
 const Title = styled.h1`
   color: #2c3e50;
   border-bottom: 2px solid #eee;
-  padding-bottom: 10px;
+  padding-bottom: 8px;
 `;
 
 const Section = styled.section`
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 `;
 
 const Heading = styled.h2`
   color: #34495e;
-  margin-top: 30px;
+  margin-top: 20px;
 `;
 
 const List = styled.ol`
-  padding-left: 20px;
+  padding-left: 15px;
   
   li {
-    margin-bottom: 10px;
+    margin-bottom: 8px;
   }
 `;
 

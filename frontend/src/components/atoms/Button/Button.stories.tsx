@@ -1,5 +1,5 @@
 import React from 'react';
-import type { Meta, Story } from '@storybook/react';
+import type { Meta, StoryFn } from '@storybook/react';
 import type { ButtonProps } from 'src/components/atoms/Button/Button';
 import { Button } from 'src/components/atoms/Button/Button';
 
@@ -8,7 +8,7 @@ export default {
   component: Button,
 } as Meta;
 
-const ButtonComponent: Story<ButtonProps> = (args) => <Button {...args} />;
+const ButtonComponent: StoryFn<ButtonProps> = (args) => <Button {...args} />;
 
 export const Primary = ButtonComponent.bind({});
 export const Secondary = ButtonComponent.bind({});
