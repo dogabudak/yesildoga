@@ -1,4 +1,3 @@
-// @ts-nocheck
 import React from 'react';
 import { Button } from 'src/components/atoms/Button/Button';
 import { ToArray } from 'src/helpers/enumToArray';

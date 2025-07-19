@@ -1,4 +1,3 @@
-// @ts-nocheck
 import React, { useState } from 'react';
 import { Turn } from 'hamburger-react';
 import { HeaderContainer, HamburgerContainer } from 'src/components/molecules/Header/Header.styled';

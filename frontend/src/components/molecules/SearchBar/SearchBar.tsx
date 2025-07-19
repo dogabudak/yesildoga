@@ -31,7 +31,6 @@ export const SearchBar = ({ goalId }) => {
       console.error('Error calling the server:', error);
     }
     const query = encodeURIComponent(searchQuery);
-    // You will build a custom route to handle the query and return results with ads
     window.location.href = `/search?q=${query}`;
   };
 
@@ -41,7 +40,7 @@ export const SearchBar = ({ goalId }) => {
             type='text'
             placeholder='Search and support good causes...'
             value={searchQuery}
-            onChange={(e: any) => setSearchQuery(e.target.value)}
+            onChange={(e: React.ChangeEvent<HTMLInputElement>) => setSearchQuery(e.target.value)}
         />
         <S.SearchButton onClick={handleSearch}>Search</S.SearchButton>
       </S.SearchBarContainer>

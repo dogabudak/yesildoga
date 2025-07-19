@@ -22,7 +22,7 @@ export const SearchBarContainer = styled.div`
   width: 100%;
 `;
 
-export const SearchInput = styled.input.attrs<SearchInputProps>((props: any) => ({
+export const SearchInput = styled.input.attrs<SearchInputProps>((props: SearchInputProps) => ({
   type: props.type || 'text',
   placeholder: props.placeholder || 'Search...',
 }))<SearchInputProps>`

@@ -1,7 +1,8 @@
 import { untilTablet } from 'src/style/helpers/mixins/mediaQueries';
 import styled, { css } from 'styled-components';
+import { HTMLAttributes } from 'react';
 
-export const HeaderContainer = styled.div`
+export const HeaderContainer = styled.div<HTMLAttributes<HTMLDivElement>>`
   align-items: center;
   background-color: white;
   display: flex;
@@ -13,7 +14,7 @@ export const HeaderContainer = styled.div`
   `)}
 `;
 
-export const HamburgerContainer = styled.div`
+export const HamburgerContainer = styled.div<HTMLAttributes<HTMLDivElement>>`
   display: none;
   flex-direction: column;
   margin-right: 16px;
