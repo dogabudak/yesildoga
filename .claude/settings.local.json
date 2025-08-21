@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(yarn install)",
+      "Bash(cp:*)",
+      "Bash(yarn build)",
+      "Bash(yarn start)",
+      "Bash(curl:*)"
+    ],
+    "deny": []
+  }
+}

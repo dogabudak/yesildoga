@@ -15,6 +15,7 @@ const ConfigSchema = Type.Object({
   LOG_LEVEL: Type.String(),
   API_HOST: Type.String(),
   API_PORT: Type.String(),
+  BING_API_KEY: Type.Optional(Type.String()),
 });
 
 const ajv = new Ajv({
