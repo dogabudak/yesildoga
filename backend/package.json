@@ -7,7 +7,12 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "build": "tsc --noEmit",
-    "start": "tsx watch src .env | pino-pretty --colorize"
+    "start": "tsx watch src .env | pino-pretty --colorize",
+    "seed": "tsx scripts/seed-database.ts",
+    "db:init": "tsx scripts/init-database.ts",
+    "db:setup": "tsx scripts/setup.ts",
+    "db:reset": "tsx scripts/reset-schema.ts",
+    "postinstall": "tsx scripts/init-database.ts"
   },
   "repository": {
     "type": "git",
@@ -31,10 +36,13 @@
     "env-schema": "^6.0.0",
     "fastify": "^5.1.0",
     "fastify-plugin": "^5.0.1",
-    "node-cron": "^3.0.3"
+    "@fastify/cors": "^10.0.1",
+    "node-cron": "^3.0.3",
+    "pg": "^8.11.3"
   },
   "devDependencies": {
     "@types/node": "^22.14.1",
+    "@types/pg": "^8.10.9",
     "@typescript-eslint/eslint-plugin": "^8.16.0",
     "@typescript-eslint/parser": "^8.16.0",
     "esbuild": "^0.24.0",

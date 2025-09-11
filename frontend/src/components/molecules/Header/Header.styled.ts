@@ -1,6 +1,6 @@
 import { untilTablet } from 'src/style/helpers/mixins/mediaQueries';
 import styled, { css } from 'styled-components';
-import { HTMLAttributes } from 'react';
+import type { HTMLAttributes } from 'react';
 
 export const HeaderContainer = styled.div<HTMLAttributes<HTMLDivElement>>`
   align-items: center;

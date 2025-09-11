@@ -1,6 +1,6 @@
 import { Text } from 'src/components/atoms/Text/Text';
 import styled from 'styled-components';
-import { HTMLAttributes } from 'react';
+import type { HTMLAttributes } from 'react';
 
 export const Filter = styled.div<HTMLAttributes<HTMLDivElement>>`
   background-color: white;
