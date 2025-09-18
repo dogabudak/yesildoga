@@ -3,7 +3,32 @@ from django.db.models import Count
 from django.utils.html import format_html
 from django.urls import reverse
 from django.utils.safestring import mark_safe
-from .models import Company, DataVersion
+from .models import Company, DataVersion, CompanyAlternative
+
+
+class CompanyAlternativeInline(admin.TabularInline):
+    """
+    Inline admin for managing carbon neutral alternatives.
+    Shows alternatives directly in the Company admin page.
+    """
+    model = CompanyAlternative
+    fk_name = 'from_company'
+    extra = 1
+    verbose_name = "Carbon Neutral Alternative"
+    verbose_name_plural = "Carbon Neutral Alternatives"
+    
+    fields = ['to_company', 'relevance_score', 'description']
+    autocomplete_fields = ['to_company']
+    
+    def get_queryset(self, request):
+        """Only show carbon neutral companies as alternatives."""
+        return super().get_queryset(request).select_related('to_company')
+    
+    def formfield_for_foreignkey(self, db_field, request, **kwargs):
+        """Limit to_company choices to only carbon neutral companies."""
+        if db_field.name == "to_company":
+            kwargs["queryset"] = Company.objects.filter(carbon_neutral=True)
+        return super().formfield_for_foreignkey(db_field, request, **kwargs)
 
 
 @admin.register(Company)
@@ -65,6 +90,9 @@ class CompanyAdmin(admin.ModelAdmin):
     )
     
     ordering = ['company']
+    
+    # Inline models
+    inlines = [CompanyAlternativeInline]
     
     # Admin actions
     actions = ['mark_carbon_neutral', 'mark_not_carbon_neutral', 'clear_renewable_data']
@@ -129,6 +157,82 @@ class CompanyAdmin(admin.ModelAdmin):
     def get_queryset(self, request):
         """Optimize queryset to avoid N+1 queries."""
         return super().get_queryset(request).select_related()
+
+
+@admin.register(CompanyAlternative)
+class CompanyAlternativeAdmin(admin.ModelAdmin):
+    """
+    Django admin interface for CompanyAlternative model.
+    Manages carbon neutral alternative relationships.
+    """
+    
+    list_display = [
+        'from_company',
+        'to_company', 
+        'relevance_score',
+        'carbon_neutral_status',
+        'created_at'
+    ]
+    
+    list_filter = [
+        'relevance_score',
+        'created_at',
+        'to_company__sector',
+        'from_company__sector'
+    ]
+    
+    search_fields = [
+        'from_company__company',
+        'from_company__domain',
+        'to_company__company',
+        'to_company__domain',
+        'description'
+    ]
+    
+    autocomplete_fields = ['from_company', 'to_company']
+    
+    readonly_fields = ['created_at', 'updated_at']
+    
+    fieldsets = (
+        ('Relationship', {
+            'fields': ('from_company', 'to_company')
+        }),
+        ('Details', {
+            'fields': ('relevance_score', 'description')
+        }),
+        ('Metadata', {
+            'fields': ('created_at', 'updated_at'),
+            'classes': ('collapse',)
+        })
+    )
+    
+    ordering = ['-relevance_score', 'from_company__company']
+    
+    def carbon_neutral_status(self, obj):
+        """Display carbon neutral status of the alternative."""
+        if obj.to_company.carbon_neutral:
+            return format_html(
+                '<span style="color: green; font-weight: bold;">✓ Carbon Neutral</span>'
+            )
+        return format_html(
+            '<span style="color: red;">✗ Not Carbon Neutral</span>'
+        )
+    carbon_neutral_status.short_description = 'Alternative Status'
+    carbon_neutral_status.admin_order_field = 'to_company__carbon_neutral'
+    
+    def get_queryset(self, request):
+        """Optimize queryset to avoid N+1 queries."""
+        return super().get_queryset(request).select_related(
+            'from_company', 'to_company'
+        )
+    
+    def formfield_for_foreignkey(self, db_field, request, **kwargs):
+        """Customize foreign key choices."""
+        if db_field.name == "to_company":
+            kwargs["queryset"] = Company.objects.filter(carbon_neutral=True).order_by('company')
+        elif db_field.name == "from_company":
+            kwargs["queryset"] = Company.objects.order_by('company')
+        return super().formfield_for_foreignkey(db_field, request, **kwargs)
 
 
 @admin.register(DataVersion)

@@ -61,6 +61,16 @@ class Company(models.Model):
         help_text="Environmental, Social, and Governance policy information"
     )
     
+    carbon_neutral_alternatives = models.ManyToManyField(
+        'self',
+        through='CompanyAlternative',
+        through_fields=('from_company', 'to_company'),
+        symmetrical=False,
+        blank=True,
+        related_name='alternative_for',
+        help_text="Carbon neutral alternatives for this company"
+    )
+    
     # Tracking fields
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
@@ -192,3 +202,58 @@ class DataVersion(models.Model):
         self.public_companies_count = 0
         self.save()
         return self
+
+
+class CompanyAlternative(models.Model):
+    """
+    Through model for company carbon neutral alternatives.
+    Allows non-carbon-neutral companies to reference carbon-neutral alternatives.
+    """
+    
+    from_company = models.ForeignKey(
+        Company,
+        on_delete=models.CASCADE,
+        related_name='alternative_relationships',
+        help_text="The company that needs carbon neutral alternatives"
+    )
+    to_company = models.ForeignKey(
+        Company,
+        on_delete=models.CASCADE,
+        related_name='alternative_for_relationships',
+        help_text="The carbon neutral alternative company"
+    )
+    relevance_score = models.PositiveIntegerField(
+        default=1,
+        validators=[MinValueValidator(1), MaxValueValidator(10)],
+        help_text="Relevance score (1-10) - how similar the alternative is"
+    )
+    description = models.CharField(
+        max_length=500,
+        blank=True,
+        help_text="Optional description of why this is a good alternative"
+    )
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+    
+    class Meta:
+        unique_together = ('from_company', 'to_company')
+        verbose_name = "Company Alternative"
+        verbose_name_plural = "Company Alternatives"
+        ordering = ['-relevance_score', 'to_company__company']
+        indexes = [
+            models.Index(fields=['from_company']),
+            models.Index(fields=['to_company']),
+            models.Index(fields=['relevance_score']),
+        ]
+    
+    def __str__(self):
+        return f"{self.from_company.company} → {self.to_company.company}"
+    
+    def clean(self):
+        """Validation to ensure to_company is carbon neutral."""
+        from django.core.exceptions import ValidationError
+        if self.to_company and not self.to_company.carbon_neutral:
+            raise ValidationError("Alternative company must be carbon neutral")
+        
+        if self.from_company and self.to_company and self.from_company == self.to_company:
+            raise ValidationError("Company cannot be an alternative to itself")
