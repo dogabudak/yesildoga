@@ -5,7 +5,11 @@
       "Bash(cp:*)",
       "Bash(yarn build)",
       "Bash(yarn start)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(find:*)",
+      "Bash(python manage.py makemigrations:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)"
     ],
     "deny": []
   }

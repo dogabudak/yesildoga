@@ -46,12 +46,14 @@ class CompanyAdmin(admin.ModelAdmin):
         'parent',
         'sector',
         'headquarters',
+        'origin',
         'updated_at'
     ]
     
     list_filter = [
         'carbon_neutral',
         'sector',
+        'origin',
         ('renewable_share_percent', admin.EmptyFieldListFilter),
         'created_at',
         'updated_at'
@@ -80,7 +82,7 @@ class CompanyAdmin(admin.ModelAdmin):
             'description': 'Environmental sustainability information'
         }),
         ('Corporate Details', {
-            'fields': ('headquarters', 'sector', 'esg_policy'),
+            'fields': ('headquarters', 'origin', 'sector', 'esg_policy'),
             'classes': ('collapse',)
         }),
         ('Metadata', {

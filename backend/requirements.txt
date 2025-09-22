@@ -6,3 +6,4 @@ python-decouple==3.8
 gunicorn==21.2.0
 psycopg2-binary==2.9.10
 python-dateutil==2.8.2
+django-countries==7.5.1

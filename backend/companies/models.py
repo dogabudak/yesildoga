@@ -1,6 +1,7 @@
 from django.db import models
 from django.core.validators import MinValueValidator, MaxValueValidator
 from django.utils import timezone
+from django_countries.fields import CountryField
 
 
 class Company(models.Model):
@@ -49,6 +50,11 @@ class Company(models.Model):
         blank=True,
         help_text="Company headquarters location"
     )
+    origin = CountryField(
+        null=True,
+        blank=True,
+        help_text="Country of origin (ISO 3166-1 alpha-2 code)"
+    )
     sector = models.CharField(
         max_length=100,
         null=True,
@@ -84,6 +90,7 @@ class Company(models.Model):
             models.Index(fields=['company']),
             models.Index(fields=['carbon_neutral']),
             models.Index(fields=['parent']),
+            models.Index(fields=['origin']),
         ]
     
     def __str__(self):

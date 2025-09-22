@@ -44,6 +44,7 @@ class CompanySerializer(serializers.ModelSerializer):
     Matches the JSON structure from the Node.js backend.
     """
     carbon_neutral_alternatives = serializers.SerializerMethodField()
+    origin = serializers.CharField(source='origin.code', read_only=True, allow_null=True)
     
     class Meta:
         model = Company
@@ -54,6 +55,7 @@ class CompanySerializer(serializers.ModelSerializer):
             'renewable_share_percent',
             'parent',
             'headquarters',
+            'origin',
             'sector',
             'esg_policy',
             'carbon_neutral_alternatives',
@@ -81,6 +83,7 @@ class CompanyListSerializer(serializers.ModelSerializer):
     """
     Simplified serializer for company lists (excludes large text fields).
     """
+    origin = serializers.CharField(source='origin.code', read_only=True, allow_null=True)
     
     class Meta:
         model = Company
@@ -91,6 +94,7 @@ class CompanyListSerializer(serializers.ModelSerializer):
             'renewable_share_percent',
             'parent',
             'headquarters',
+            'origin',
             'sector'
         ]
 
