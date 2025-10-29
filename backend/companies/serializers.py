@@ -57,7 +57,6 @@ class CompanySerializer(serializers.ModelSerializer):
             'headquarters',
             'origin',
             'sector',
-            'esg_policy',
             'carbon_neutral_alternatives',
             'created_at',
             'updated_at'

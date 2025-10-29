@@ -15,10 +15,10 @@ class Command(BaseCommand):
     
     def add_arguments(self, parser):
         parser.add_argument(
-            '--file',
+            '--directory',
             type=str,
-            help='Path to JSON data file (default: ../data/data.json)',
-            default='../data/data.json'
+            help='Path to directory containing JSON data files (default: ../data/chunked)',
+            default='../data/chunked'
         )
         parser.add_argument(
             '--clear',
@@ -38,20 +38,20 @@ class Command(BaseCommand):
         )
     
     def handle(self, *args, **options):
-        file_path = options['file']
+        directory_path = options['directory']
         clear_data = options['clear']
         batch_size = options['batch_size']
-        update_existing = options['update_existing']
+        update_existing = options.get('update-existing', False)
         
-        # Resolve file path relative to manage.py location
-        if not os.path.isabs(file_path):
-            base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
-            file_path = os.path.join(base_dir, file_path)
+        # Resolve directory path relative to manage.py location
+        base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
+        if not os.path.isabs(directory_path):
+            directory_path = os.path.join(base_dir, directory_path)
         
-        self.stdout.write(f"Looking for data file at: {file_path}")
+        self.stdout.write(f"Looking for data files in: {directory_path}")
         
-        if not os.path.exists(file_path):
-            raise CommandError(f'Data file does not exist: {file_path}')
+        if not os.path.exists(directory_path):
+            raise CommandError(f'Data directory does not exist: {directory_path}')
         
         # Clear existing data if requested
         if clear_data:
@@ -60,52 +60,77 @@ class Command(BaseCommand):
             DataVersion.objects.all().delete()
             self.stdout.write(self.style.SUCCESS('Existing data cleared.'))
         
-        # Load and parse JSON data
-        try:
-            with open(file_path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
+        json_files = [f for f in os.listdir(directory_path) if f.endswith('.json')]
+        if not json_files:
+            raise CommandError(f'No JSON files found in directory: {directory_path}')
             
-            if not isinstance(data, list):
-                raise CommandError('JSON data must be a list of company objects')
-                
-        except json.JSONDecodeError as e:
-            raise CommandError(f'Invalid JSON file: {e}')
-        except Exception as e:
-            raise CommandError(f'Error reading file: {e}')
+        total_companies_in_files = 0
+        all_company_data = []
         
-        self.stdout.write(f"Loaded {len(data)} companies from JSON file")
+        for json_file in json_files:
+            file_path = os.path.join(directory_path, json_file)
+            try:
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                
+                if not isinstance(data, list):
+                    self.stdout.write(self.style.ERROR(f'Skipping file {json_file}: JSON data must be a list of company objects'))
+                    continue
+                
+                all_company_data.extend(data)
+                total_companies_in_files += len(data)
+                    
+            except json.JSONDecodeError as e:
+                self.stdout.write(self.style.ERROR(f'Invalid JSON file {json_file}: {e}'))
+                continue
+            except Exception as e:
+                self.stdout.write(self.style.ERROR(f'Error reading file {json_file}: {e}'))
+                continue
+        
+        self.stdout.write(f"Loaded {total_companies_in_files} companies from {len(json_files)} JSON files")
         
         # Process data in batches
         created_count = 0
         updated_count = 0
         skipped_count = 0
         error_count = 0
+        skipped_companies = []  # Track skipped companies for report
         
         with transaction.atomic():
             companies_to_create = []
             
-            for i, company_data in enumerate(data):
+            for i, company_data in enumerate(all_company_data):
                 try:
                     # Validate required fields
-                    if 'domain' not in company_data or 'company' not in company_data:
+                    if 'company' not in company_data or company_data['company'] is None:
                         self.stdout.write(
-                            self.style.ERROR(f'Skipping record {i+1}: missing required fields')
+                            self.style.ERROR(f'Skipping record {i+1}: missing required field (company)')
                         )
                         error_count += 1
                         continue
                     
-                    domain = company_data['domain'].strip()
                     company_name = company_data['company'].strip()
                     
-                    if not domain or not company_name:
+                    if not company_name:
                         self.stdout.write(
-                            self.style.ERROR(f'Skipping record {i+1}: empty required fields')
+                            self.style.ERROR(f'Skipping record {i+1}: empty required field (company)')
                         )
                         error_count += 1
                         continue
                     
-                    # Check if company exists
-                    existing_company = Company.objects.filter(domain__iexact=domain).first()
+                    # Domain is optional - use None if not present or empty
+                    domain = company_data.get('domain', '').strip() if company_data.get('domain') else None
+                    
+                    # Check if company exists - by domain if available, otherwise by company name
+                    if domain:
+                        existing_company = Company.objects.filter(domain__iexact=domain).first()
+                    else:
+                        # If no domain, use company name for uniqueness check
+                        existing_company = Company.objects.filter(company__iexact=company_name).filter(domain__isnull=True).first()
+                    
+                    # Prepare description as JSON
+                    description_text = company_data.get('description', '')
+                    description_json = {'en': description_text} if description_text else None
                     
                     if existing_company:
                         if update_existing:
@@ -115,12 +140,20 @@ class Command(BaseCommand):
                             existing_company.renewable_share_percent = company_data.get('renewable_share_percent')
                             existing_company.parent = company_data.get('parent')
                             existing_company.headquarters = company_data.get('headquarters')
+                            existing_company.origin = company_data.get('origin')
                             existing_company.sector = company_data.get('sector')
-                            existing_company.esg_policy = company_data.get('esg_policy')
+                            existing_company.description = description_json
+                            existing_company.is_approved = company_data.get('is_approved', False) # Set default to False if not present
                             existing_company.save()
                             updated_count += 1
                         else:
                             skipped_count += 1
+                            # Track skipped company for report
+                            skipped_companies.append({
+                                'company': company_name,
+                                'domain': domain,
+                                'reason': 'Already exists in database'
+                            })
                         continue
                     
                     # Prepare new company for batch creation
@@ -131,8 +164,10 @@ class Command(BaseCommand):
                         renewable_share_percent=company_data.get('renewable_share_percent'),
                         parent=company_data.get('parent'),
                         headquarters=company_data.get('headquarters'),
+                        origin=company_data.get('origin'),
                         sector=company_data.get('sector'),
-                        esg_policy=company_data.get('esg_policy')
+                        description=description_json,
+                        is_approved=company_data.get('is_approved', False) # Set default to False if not present
                     )
                     companies_to_create.append(company)
                     
@@ -142,11 +177,13 @@ class Command(BaseCommand):
                         created_count += len(companies_to_create)
                         companies_to_create = []
                         
-                        self.stdout.write(f"Processed {i+1}/{len(data)} records...")
+                        self.stdout.write(f"Processed {i+1}/{total_companies_in_files} records...")
                 
                 except Exception as e:
+                    company_name = company_data.get("company", "N/A")
+                    domain_val = company_data.get("domain", "N/A")
                     self.stdout.write(
-                        self.style.ERROR(f'Error processing record {i+1}: {e}')
+                        self.style.ERROR(f'Error processing record {i+1} (Company: {company_name}, Domain: {domain_val}): {e}')
                     )
                     error_count += 1
                     continue
@@ -194,3 +231,10 @@ class Command(BaseCommand):
             self.stdout.write(
                 self.style.WARNING(f"Completed with {error_count} errors. Check output above for details.")
             )
+        
+        # Save skipped companies to JSON file
+        if skipped_companies:
+            skipped_file = os.path.join(base_dir, 'data', 'skipped_companies.json')
+            with open(skipped_file, 'w', encoding='utf-8') as f:
+                json.dump(skipped_companies, f, ensure_ascii=False, indent=2)
+            self.stdout.write(f"\nSkipped companies report saved to: {skipped_file}")

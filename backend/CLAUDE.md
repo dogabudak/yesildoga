@@ -33,8 +33,6 @@ backend/
 │   │   └── create_sample_data.py  # Generate test data
 │   ├── migrations/          # Database migrations
 │   └── fixtures/            # Test data fixtures
-├── data/                    # External data files
-│   └── data.json           # Company data for seeding
 ├── requirements.txt         # Python dependencies
 ├── manage.py               # Django management script
 └── README.md               # Project documentation
@@ -65,7 +63,6 @@ python manage.py migrate
 python manage.py createsuperuser
 
 # Load sample data
-python manage.py seed_companies --file ../data/data.json
 # OR create test data
 python manage.py create_sample_data --count 100
 ```
@@ -95,7 +92,6 @@ class Company(models.Model):
     headquarters = models.CharField(max_length=255, null=True) # HQ location
     origin = CountryField(null=True, blank=True)             # Country of origin (ISO)
     sector = models.CharField(max_length=100, null=True)     # Business sector
-    esg_policy = models.TextField(null=True)                 # ESG information
     
     # Relationships
     carbon_neutral_alternatives = models.ManyToManyField('self') # Alternative companies

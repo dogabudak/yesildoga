@@ -1,0 +1,1772 @@
+[
+  {
+    "company": "Akçasaray",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alphatec",
+    "description": "1993 yılında kurulmuş olan Alphatec Schaltschranksysteme Gmbh bünyesindeki güç dağıtım ve şarj istasyonları markasıdır.ISO 9001 belgesine sahiptir.Alphatec Schaltschranksysteme Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kaytus",
+    "description": "Kaytus Systems Pte. Ltd. bünyesindeki sunucular, veri merkezleri alanları için tasarlanmış ürünler markasıdır.Kaytus Systems Pte. Ltd. Singapur merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Britool",
+    "description": "1908 yılında kurulmuş olan The British Tool & Engineering Company Ltd. bünyesindeki tork anahtarı, soket ve aksesuar markasıdır.The British Tool & Engineering Company Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Matilde Vicenzi",
+    "description": "1905 yılında kurulmuş olan Vicenzi S.p.A. bünyesinde üretilen ince hamur işleri, kek tabanları, bisküvi ve fırın ürünleri markasıdır.Helal ve Koşer belgelerine sahiptir.Vicenzi S.p.A. İtalya merkezlidir ve ürünleri 110’dan fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Aqua Solar",
+    "description": "1976 yılında kurulmuş olan Aqua Solar AG bünyesindeki yüzme havuzu ve filtre teknolojisi markasıdır.Çeşitli şekillerde ve renklerde polyester havza, çeşitli pompalar ve filtreler, çeşitli tasarımlarda silindir deklanşörü kapakları, besgo’dan otomatik geri yıkama valfleri, otomatik yüzme havuzu temizleyici, su bakım ürünleri ve ilişkili kontrol teknolojisi, su cazibe merkezleri gibi ürün gruplarına sahiptir.Aqua Solar AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Schwarze Herren",
+    "description": "1839 yılında kurulmuş olan Stollwerck Gmbh bünyesindeki çikolata, tablet çikolata, pralin markasıdır.Almanya’da dört lokasyon ve üretim tesislerine sahip Stollwerck Gmbh, Belçika merkezli Baronie Belgium NV’nin bir parçasıdır. Belçika, Almanya, Büyük Britanya, İsviçre ve Hollanda’da yer ve üretim tesislerine sahiptir.Bünyesindeki markalar;AlpiaAlproseChocolat JacquesDuc d’O",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Termaton",
+    "description": "1992 yılında Franz Lackermeier tarafından kurulmuş olan Berger Holding Se bünyesindeki yalıtım malzemeleri markasıdır.Berger betonundan yalıtım malzemesi, şap altındaki yalıtım için ürünler sunmaktadır.Berger Holding Se Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aklight",
+    "description": "2004 yılında kurulmuş olan Alkanlar Elektrik San. ve Tic. Ltd. Şti. bünyesindeki kompakt floresan, halojen, deşarjlı ve led ampuller, downlight, projektör, spot armatür ve kontrol üniteleri gibi aydınlatma ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Belstaff",
+    "description": "1924 yılında kurulmuş olan Belstaff International Ltd. bünyesindeki dış giyim, aksesuar ve motosiklet kıyafetleri markasıdır.Belstaff International Ltd. İngiltere merkezli Ineos Group Limited bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Amsine",
+    "description": "2015 yılında kurulmuş olan Amsine Tech. Co. Ltd. bünyesinde üretilen ızgara güneş inverter, güneş pompalama inverter, güneş paneli, montaj sistemi, enerji depolama sistemi, şarj denetleyicileri markasıdır.Amsine Tech. Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dudao",
+    "description": "2014 yılında kurulmuş olan Guangdong Dudao Technology Company Limited bünyesindeki akıllı mobil çevre aksesuarları markasıdır.Ürün yelpazesinde kulaklık, veri kablosu, araba şarj cihazı, duvar şarj cihazı, mobil güç bankası, kablosuz şarj cihazı, bluetooth kulaklık, bluetooth kulaklık, bluetooth hoparlörleri gibi ürünler yer almaktadır.Guangdong Dudao Technology Company Limited Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Uludağ Elektrik",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Belecoo",
+    "description": "2011 yılında kurulmuş olan Hubei Belecoo Children’s Products Co. Ltd. bünyesindeki bebek, çocuk arabası, bebek araç koltuğu ve plastik parçaları markasıdır.Hubei Belecoo Children’s Products Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Systemair",
+    "description": "1974 yılında Gerald Engström tarafından kurulmuş olan Systemair AB bünyesindeki enerji tasarruflu fan, hava taşıma ünitesi, hava dağıtım ürünleri, klima ürünleri, hava perdesi, ısıtma ve soğutma ürünleri markasıdır.ISO 9001, ISO 14001 ve ISO 45001 belgelerine sahiptir.Systemair AB İsveç merkezlidir. 50’den fazla ülkede faaliyet göstermektedir. Türkiye’de Systemair HSK Havalandırma Endüstri San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Shunfa",
+    "description": "1997 yılında kurulmuş olan Zhejiang New Shunfa Sewing Machine Technology Co. Ltd. bünyesinde üretilen bilgisayarlı düz dikiş makineleri, yüksek hızlı endüstriyel overlocklar ve nakış makineleri, düğme makineleri, ağır malzemeler için dikiş makineleri, zincir dikiş makinesi ve parçaları markasıdır.ISO 9001 belgesine sahiptir.Zhejiang New Shunfa Sewing Machine Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Heller Tools",
+    "description": "1849 yılında kurulmuş olan Heller Tools Gmbh bünyesinde üretilen çekiç matkap uçları, beton ve taş matkap uçları, elmas aletleri, ahşap matkap uçları, metal matkap uçları, evrensel ve özel matkap uçları, keskiler, testere bıçakları, dairesel testere bıçakları markasıdır.Heller Tools Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Go-Des",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Curegen",
+    "description": "Estemedikal Ltd. Şti. bünyesindeki saç ürünleri, güneş koruyucular, vücut ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Teclumen",
+    "description": "1978 yılında kurulmuş olan Teclumen s.r.l. bünyesindeki aydınlatma çözümleri markasıdır.Teclumen s.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Everlite",
+    "description": "2002 yılında kurulmuş olan Everlite Led Lighting Co. Ltd. bünyesindeki LED sokak lambaları, LED bahçe ışıkları, güneş LED sokak lambaları, LED projeler markasıdır.Everlite Led Lighting Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 60 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vaporatic",
+    "description": "2016 yılında kurulmuş olan Nordel İklimlendirme ve Mühendislik San. Tic. Ltd. Şti. bünyesinde ithal edilen nemlendirici ve nem alma cihazları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Frank & Oli",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Helfer Watches",
+    "description": "2009 yılında Livio Helfer tarafından kurulmuş olan Helfer Watches S.A. bünyesinde üretilen erkek ve kadın saatleri markasıdır.Helfer Watches S.A. İsviçre merkezlidir. Ürünleri İsviçre’de üretilmektedir ve 40’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Aggiy",
+    "description": "2020 yılında kurulmuş olan AGGIY Teknoloji Ltd. Şti. bünyesindeki kablosuz şarj cihazları, hoparlör, kulaklık, şarj kabloları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Herth+Buss",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Joven",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  },
+  {
+    "company": "Fluvo",
+    "description": "1970 yılında kurulmuş olan Schmalenberger GmbH + Co. KG bünyesinde üretilen yüzme havuzu ve güçlü pompa teknolojileri, hidro-masaj, su perde sistemleri, hava kabarcığı sistemleri, havuz aydınlatması, yüzme havuzu pompaları markasıdır.Schmalenberger GmbH + Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Witor’s",
+    "description": "",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Jamboree",
+    "description": "1978 yılında kurulmuş olan Wohlgemuth Süsswaren Gmbh bünyesindeki köpük şeker ve çiğneme sakız markasıdır.Wohlgemuth Süsswaren Gmbh Almanya merkezlidir. Ürünlerini 64 ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kerry Asav",
+    "description": "1994 yılında kurulmuş olan Asav Lojistik Hizmetleri A.Ş. bünyesindeki depolama, dağıtım ve gümrük aracısı, birinci sınıf hava yükü, deniz yükü ve yol yük hizmetleri markasıdır.2019 yılında Çin merkezli SF Holding Co. Ltd.’ye ait Kerry Logistics tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Zinedent",
+    "description": "2015 yılında kurulmuş olan Zinedent İmplant Üretim A.Ş. bünyesindeki diş implantı markasıdır.Şirketin tüm hisseleri İsviçre merkezli Straumann Holding AG’nin, iştiraki Instradent AG’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Speck Pumpen",
+    "description": "1909 yılında kurulmuş olan Speck Pumpen Verkaufsgesellschaft Gmbh bünyesinde üretilen endüstriyel pompalar, pompa teknolojileri ve çözümleri markasıdır.Speck Pumpen Verkaufsgesellschaft Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hongji Toys",
+    "description": "1996 yılında kurulmuş olan Zhejiang Hongji Toys Manufacture Co. Ltd. bünyesinde üretilen ahşap oyuncaklar markasıdır.Tahta oyuncak bloklar, tel labirent, bulmaca, oyunlar ve diğer eğitim oyuncakları sunmaktadır.ISO 9001 belgesine sahiptir.Zhejiang Hongji Toys Manufacture Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sometech",
+    "description": "2006 yılında kurulmuş olan Sometech Inc. bünyesindeki 2D video endoskopi sistemi, 3D video dijital İşletim mikroskopi sistemi, 3D video dijital laparoskopi sistemi, RF cerrahi cihaz markasıdır.Sometech Inc. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Aterna",
+    "description": "2011 yılında kurulmuş olan Aterna Zeytincilik Tarım ve Turizm San. Tic. Ltd. Şti. bünyesindeki zeytin, zeytinyağı, baharat, atıştırmalık markasıdır.Troy Group bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hydro Pack",
+    "description": "1996 yılında kurulmuş olan Hydro-Pack Ltd. bünyesindeki hidrolik dişli pompaları, yön kontrol vanaları, hidrolik valfler, hidrolik motorlar ve direksiyon üniteleri, hidrolik güç birimleri, yağ soğutucuları, dişliler üzerinde pompa, eğik sürücüler, piston pompaları, traktör ve forklift yedek parçaları markasıdır.Hydro-Pack Ltd. Bulgaristan merkezlidir. Ürünlerini 60’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Migimar",
+    "description": "2009 yılında kurulmuş olan Mgm Tekstil İnş. Nak. Tur. San ve Tic. Ltd. Şti. bünyesindeki avm markasıdır.Mardin merkezli Alışveriş ve Yaşam Merkezi 2 bin 500 metrekarelik alanda yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Antenx",
+    "description": "Antenx LLC bünyesindeki antenler ve RF/mikrodalga cihazları, VNA kalibrasyon kiti, SMA tork anahtarı, aksesuarlar markasıdır.Antenx LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Doğal Agro",
+    "description": "",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Movfazz",
+    "description": "2016 yılında kurulmuş olan Movfazz Limited bünyesindeki telefon, tablet ve bilgisayar ekran koruyucusu markasıdır.Movfazz Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "PhLab",
+    "description": "2018 yılında kurulmuş olan Peak Sales Dijital Pazarlama Satış ve Dış Tic. Ltd. Şti. bünyesindeki cilt serumu, katı sabun, yüz maskesi, yüz temizleyicileri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biorel",
+    "description": "2005 yılında kurulmuş olan Akfer Mühendislik Müşavirlik Gıda ve Dış Tic. Ltd. Şti. bünyesindeki el yapımı sabunlar, oyun köpüğü markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Curl Keeper",
+    "description": "1985 yılında kurulmuş olan Torch beauty Treatments Ltd. bünyesindeki saç bakım ürünleri markasıdır.Torch beauty Treatments Ltd. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Dunspin",
+    "description": "2016 yılında kurulmuş olan Dunspin Technology Co. Ltd. bünyesindeki akıllı saatler, veri kabloları, güç bankaları, otomobil şarj cihazları, şarj kafaları, DSP/CVC dijital gürültü azaltma çözümleri, TWS çift kanallı kablosuz bağlantı çözümleri, aktif gürültü azaltma kontrol çözümleri, bluetooth kulaklıklar ve diğer gelişmiş ekipmanlar markasıdır.Dunspin Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hang Onn",
+    "description": "2010 yılında kurulmuş olan Walmart Apollo LLC bünyesindeki televizyon montaj ürünleri, raf ve bileşen parçaları markasıdır.Walmart Apollo LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gopuff",
+    "description": "2013 yılında Yakir Gola, Rafael Ilishayev tarafından kurulmuş olan Gobrands Inc. bünyesindeki günlük ihtiyaçları karşılayan anlık ticaret platformudur.Gobrands Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Polo Sharpshots",
+    "description": "1994 yılında kurulmuş olan American Hi-Fi Industrial 26 Inc. bünyesindeki dijital kameralar markasıdır.American Hi-Fi Industrial 26 Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Spillbuster",
+    "description": "1910 yılında kurulmuş olan Stanley Black & Decker Inc. bünyesindeki taşınabilir kablosuz halı temizleyiciler markasıdır.Stanley Black & Decker Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cordina Hair",
+    "description": "2015 yılında Yanika Cordina tarafından kurulmuş olan Cordina Ltd. bünyesindeki saç şekillendirme çözümleri ve saç bakım ürünleri markasıdır.Cordina Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Channellock",
+    "description": "1886 yılında George Dearment tarafından kurulmuş olan Channellock Inc. bünyesindeki el araçları ve otomotiv aksesuarları markasıdır.Channellock Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dormer Tools",
+    "description": "1993 yılında Sandvik AB tarafından satın alınan çelik kesme araçları markasıdır.Sandvik AB İsveç merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Pek Food",
+    "description": "2012 yılında kurulmuş olan Özsoy Unlu Mamüller Gıda San. ve Tic. A.Ş. bünyesindeki hazır dondurulmuş pizza, börek, mantı, lahmacun, milföy, patates markasıdır.Ürünleri suni koruyucu yada katkı maddesi içermemektedir.ISO 9001, FSSC 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Veryfit",
+    "description": "2012 yılında kurulmuş olan Shenzhen Do Intelligent Technology Co. Ltd. bünyesindeki kalp atış hızı monitörü Akıllı bileklik, akıllı bant, adım pedometresi, akıllı giyilebilir cihazlar markasıdır.ISO 9001 belgesine sahiptir.Shenzhen Do Intelligent Technology Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 30’dan fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Baproy",
+    "description": "2019 yılında kurulan Yenidünya Endüstriyel Tedarik – Batuhan Yenidünya bünyesindeki endüstriyel temizlik ürünleri, kağıt havlu, çöp torbası, dezenfektan, dispenserler markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kapeda",
+    "description": "1971 yılında kurulan Koçak Farma İlaç ve Kimya San. A.Ş. bünyesinde üretilen ilaç markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.İstanbul merkezli firma ürünlerini Çerkezköy OSB’de 140 bin metrekarelik alanda kurulu tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Balanu",
+    "description": "2020 yılında kurulmuş olan Balanu Organik Gıda San. ve Tic. A.Ş. bünyesindeki sağlıklı atıştırmalıklar markasıdır.Ürünleri doğal, katkısız, koruyucusuz, glütensiz ve şeker ilavesizdir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nishman",
+    "description": "2016 yılında kurulmuş olan Asil Group Kozmetik İmalat San. Tic. Ltd. Şti. bünyesindeki saç bakım ürünleri, saç şekillendiriciler, şampuan, tıraş jeli, cilt bakım ürünleri, sakal bıyık bakım ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oddly Drinks",
+    "description": "2024 yılında kurulmuş olan Payros Gıda İçecek A.Ş. bünyesinde üretilen meyve suyu, asitli turşu suyu, asitli içecekler markasıdır.Renklendirici ve koruyucu içermez.Firma İstanbul merkezlidir.Bünyesindeki markalar;OddlySizzle-PopNeoNappoPetra Roasting Co.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-09-29"
+  },
+  {
+    "company": "Evvahe Doğal",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zeero",
+    "description": "2022 yılında kurulmuş olan Zeero Kozmetik ve Gıda San. ve Tic. A.Ş. bünyesindeki elde bulaşık yıkama deterjanı, yüzey temizleme spreyi,çamaşır deterjanı,yün kurutma topları, ev bakım ürünleri, kişisel bakım, yıkanabilir regl pedleri markasıdır.Ürünleri zararlı kimyasallar içermemektedir ve plastik ambalaj kullanmamaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Erde",
+    "description": "2004 yılında kurulmuş olan Erde Ambalaj San. ve Tic. A.Ş. bünyesinde üretilen alüminyum, kağıt, karton ve plastik üzerine her türlü gıda ambalajları, hediye ambalajları, çiçek ambalajları ve kırtasiye ürünleri markasıdır.İstanbul merkezli firma ürünlerini Başakşehir’de 15 bin metrekarelik kapalı alanda bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bimbo QSR",
+    "description": "1945 yılında kurulan Grupo Bimbo S.A.B. DE C.V. bünyesine ait Bimbo Qsr Turkey Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen börek çörekler, hamburger ekmekleri, hawaiian çörekler, patates çörekler, çok taneli çörekler, sandviç ekmekleri, unlu mamuller markasıdır.Türkiye’de 2017 yılından beri faaliyet gösteren Grupo Bimbo S.A.B. DE C.V. Meksika merkezlidir. 20’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "MX",
+    "updated_date": null
+  },
+  {
+    "company": "Pol’s",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Visam",
+    "description": "1964 yılında kurulmuş olan Visam Plastik ve Metal Enj. San. ve Tic. A.Ş. bünyesindeki gömme rezervuarlar, gömme rezervuar kumanda panelleri, cam gövdeli duvar önü rezervuarlar, bide, lavabo ve pisuvar konsolları, plastik rezervuarlar, rezervuar iç takımları, flotörler, klozet kapakları, paslanmaz çelik süzgeçli yer sifonları, paslanmaz çelik duş süzgeçleri, ankastre stop valfler, yer sifonları markasıdır.ISO 9001, ISO 14001, ISO 45001, TSE belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jiekai",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ion",
+    "description": "1991 yılında kurulmuş olan Inmusic Brands Inc. bünyesindeki bluetooth ses ürünleri, pikaplar, elektronik müzik aletleri ve dönüşüm ürünleri, analogdan dijital dönüştürücü ürünleri markasıdır.Inmusic Brands Inc. Amerika merkezlidir.Bünyesindeki markalar;AIR Music TechnologyAkai ProfessionalAlesisAlto ProfessionalDenon DJDenon ProHeadRushION AudioM-Audio",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Howly",
+    "description": "2018 yılında kurulmuş olan Normfeed Su Ürünleri Yem San. Tic. A.Ş. bünyesinde üretilen yavru ve yetişkin köpek mamaları markasıdır.ISO 9001, ISO 22000, GMP, HACCP, Helal belgelerine sahiptir.Firma İzmir merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flysky",
+    "description": "2006 yılında kurulmuş olan Shenzhen Flysky Technology Co. Ltd. bünyesinde üretilen 10 kanal uzaktan kumanda 2.4ghz + alıcı, drone aksesuarları, rc ekipmanları, rc yedek parçaları, telemetri veri toplama modülü markasıdır.Shenzhen Flysky Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Smith & Nephew",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "RZ Medizintechnik",
+    "description": "1995 yılında Rainer Zubrod tarafından kurulmuş olan Rz Medizintechnik Gmbh bünyesindeki endoskopik ve açık cerrahi için yüksek kaliteli enstrümanlar, fullhd endoskoplar, kameralar ve ışık kaynakları markasıdır.Rz Medizintechnik Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Charvel",
+    "description": "1974 yılında kurulmuş olan gitarlar, baslar ve aksesuarlar markasıdır. 2002 yılından beri Fender Musical Instruments Corporation bünyesinde yer almaktadır.Fender Musical Instruments Corporation çoğunluk hisseleri 2020 yılından beri Amerika merkezli Servco Pacific Inc.’e aittir, geri kalan hisseler Amerika merkezli TPG Inc.’e aittir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Auroled",
+    "description": "2012 yılında kurulmuş olan Shenzhen Auroled Technology Co. Ltd. bünyesinde üretilen led ekranlar markasıdır.Shenzhen Auroled Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Carlover",
+    "description": "2005 yılında kurulmuş olan Shenzhen Zhongxiang Technology Co. Ltd. bünyesinde üretilen araç kameraları, gizli araç DVR, GPS takip cihazları, WIFI araç DVR, 4G uzaktan izleme araç DVR, 2K/4K ultra yüksek çözünürlüklü araç DVR, özel araç dikiz aynası DVR, evrensel akış ortamlı dikiz aynası DVR markasıdır.Shenzhen Zhongxiang Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Giorgione",
+    "description": "2016 yılında kurulmuş olan Yiwu Giorgione Art Material Co. Ltd. bünyesinde üretilen sanatçı fırçaları, boya renkleri, suluboya fırçaları, şövale, tuval markasıdır.Yiwu Giorgione Art Material Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Biorock",
+    "description": "2007 yılında kurulmuş olan Aktiva Kozmetik İlaç Sağlık Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki kişisel bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Range Hector",
+    "description": "2022 yılında Fakir Elektrikli Ev Aletleri Dış Tic. A.Ş. bünyesinde kurulmuş olan elektrikli ev aletleri, elektrikli mutfak aletleri, kişisel bakım ürünleri markasıdır.Saruhan Holding bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brahmin",
+    "description": "1982 yılında kurulmuş olan Brahmin Leather Works LLC bünyesindeki lüks el çantaları, cüzdanlar ve aksesuarlar markasıdır.Brahmin Leather Works LLC 2018 yılında Amerika merkezli Markel Corporation tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "remo+",
+    "description": "2015 yılında kurulmuş olan Olive & Dove Co. Ltd. bünyesinde üretilen kablosuz güvenlik kamerası, iot güvenlik kamerası, kablosuz video kapı zili, akıllı ev güvenlik kamerası, pir hareket algılama, bulut kayıt hizmeti ve ip kamera ürünleri markasıdır.Olive & Dove Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretilmektedir.Remo+ Hangi Ülkenin Malı Markası :",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Switcheasy",
+    "description": "2005 yılında kurulmuş olan Galastar Technology Co. Ltd. bünyesinde üretilen telefon, bilgisayar kılıfları, çantalar, adaptör, kablo ve aksesuarlar markasıdır.Galastar Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pufu Toys",
+    "description": "2018 yılında kurulmuş olan Oturakçı Toys San. Tic. A.Ş. bünyesindeki peluş oyuncaklar, çocuk koltukları, ayıcıklar, oyun çadırları, tavşanlar, uyku arkadaşları, yastıklar markasıdır.Firma Şanlıurfa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rossie",
+    "description": "2009 yılında kurulmuş olan Yakamoz Oyuncak Paz. Dış Tic. Ltd. Şti. bünyesindeki bebek oyuncakları, ahşap yap-boz, eğitici oyunlar, ahşap mıknatıslı oyuncaklar, rol yapma oyuncakları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ccfoud",
+    "description": "2017 yılında kurulmuş olan Shenzhen Lanyu Qingfeng Technology Co. Ltd. bünyesinde üretilen kalemler, boya kalemleri, marker kalemi, eskiz seti, suluboya markasıdır.Shenzhen Lanyu Qingfeng Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Peraqua",
+    "description": "1971 yılında kurulmuş olan Peraqua Professional Water Products Gmbh bünyesindeki havuz teknolojisi setleri, filtre ve filtre ortamı, beyaz ürünler abs ve paslanmaz çelik ürünler, filtre pompaları, geri yıkama vanası kılavuzu ve otomatik, havuz kontrol sistemleri, otomatik vanalar, pvc ürünleri ve çözücüler, temizleyiciler, akıllı havuz ısı pompaları, güneş emici, ısı eşanjörü ve elektrikli isıtma, ölçme, kontrol ve dozlama sistemleri, yüzme havuzu astarları ve akıllı polistiren tuğlalar, akıllı temizlik aksesuarları, doğal havuz ürünleri, ticari havuz ekipmanı, yedek parça, aksesuarlar markasıdır.Peraqua Professional Water Products Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Corals",
+    "description": "1982 yılında kurulmuş olan Mercanlar Otomotiv Tic. A.Ş. bünyesindeki süspansiyon sistemleri, motor sistemleri, fren sistemleri, soğutma sistemleri, egzoz sistemleri, elektrik sistemleri, su depo sistemleri, ateşleme sistemleri, kimyasal, aydınlatma ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Babybel",
+    "description": "1869 yılında kurulmuş olan Bel Brands Usa Inc. bünyesindeki peynik tekerlekleri markasıdır.Bel Brands Usa Inc. Amerika merkezlidir.Bünyesindeki markalar;BabybelBoursinKaukaunaMerktsPrice*s",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rovnie",
+    "description": "2018 yılında kurulmuş olan Zehra Global Gıda İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki çikolata kaplı drajeler, çikolata kaplı marshmallow, çikolatalı kornetler, fındık ve fıstık ezmeleri, jelibonlar, sütlü fındık kreması, smood markasıdır.Firma Sakarya merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Inskam",
+    "description": "2022 yılında kurulmuş olan Shenzhen Inskam Company Ltd. bünyesinde üretilen endoskop kamera, mikroskop, otoskop, kulak temizleyici, bebek monitörleri, bebek nazal aspiratörü markasıdır.Shenzhen Inskam Company Ltd. Çin merkezlidir. Ürünleri Çin’de üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.CE, FCC, ROHS, ISO 9001 ve ISO 13485 belgelerine sahiptir.Bünyesindeki markalar;",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Siia Cosmetics",
+    "description": "2019 yılında kurulmuş olan JKY Group LLC bünyesindeki cilt bakım ürünleri markasıdır.JKY Group LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Exocare",
+    "description": "2009 yılında kurulmuş olan Vispo İnşaat Enerji Gıda Mobilya Medikal San. ve Tic. Ltd. Şti. bünyesindeki bakım yağları, oda kokusu markasıdır.Firma Mersin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Girman",
+    "description": "1996 yılında kurulmuş olan Girman Otomotiv Makina Metal Ve Plastik Mam. Tur. Taşım. San. Tic. Ltd. Şti. bünyesinde üretilen araçlar için krank mili kasnağı markasıdır.ISO 9001 belgesine sahiptir.Firma Konya merkezlidir. Ürünlerini Konya’da üretmektedir ve 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kailas",
+    "description": "2003 yılında kurulmuş olan Kailas Sports Product Co. Ltd. bünyesinde üretilen açık hava giyim ürünleri ve ekipmanları markasıdır.Kailas Sports Product Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pindu",
+    "description": "2005 yılında kurulmuş olan Guangzhou Geni Watch Co. Ltd. bünyesinde üretilen kol saati markasıdır.Guangzhou Geni Watch Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "OneThing",
+    "description": "One Sing Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Toner, serum, güneş bakım kremleri, temizleme ürünüleri, maskeler, dudak bakım ürünleri gibi ürünler sunmaktadır.One Sing Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Coolman",
+    "description": "2007 yılında kurulmuş olan Sotek Klima ve Soğutucu İzo. İnş. San. Tic. Ltd. Şti. bünyesindeki klima sistemleri, araç içi buzdolaplar, yakıtlı ısıtıcıları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Crown Micro",
+    "description": "1992 yılında kurulmuş olan Crown Micro Technology Ltd. bünyesinde üretilen klavye, fare kulaklıkları, şarj cihazları, usb hub ve kart okuyucular hoparlörler, oyun aksesuarları, güç kaynakları kılıfları, dizüstü kılıflar, kablo şarj cihazları, taşınabilir güç bankaları, vr-box, ups, inverter, avr, batarya, tonerler, mürekkep kartuşları markasıdır.Crown Micro Technology Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sarkch",
+    "description": "2021 yılında kurulan Hak Global Hırdavat San. ve Tic. Ltd. Şti. bünyesinde ithal edilen el ve ayak hava pompaları markasıdır.Firma İstanbul merkezlidir ve ürünlerini Asya ülkelerinden ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Emirgan Sütiş",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stern",
+    "description": "1987 yılında kurulmuş olan Soma Kimya A.Ş. bünyesinde üretilen tabancalı poliüretan köpük, normal poliüretan köpük, silikonlar, mastikler, yapıştırıcılar, endüstriyel spreyler, tabancalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aldeon",
+    "description": "2011 yılında kurulmuş olan Aldeon Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen tarım, yem ve kimya sanayi için kalsine manyezit, magnezyum oksit, magnezyum sülfat, magnezyum karbonat, manganez cevheri, manganez dioksit markasıdır.Firma İzmir merkezlidir. Kütahya ve Yozgat’ta üretim tesislerine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eastpower",
+    "description": "1995 yılında kurulmuş olan Guangzhou Eastpower Battery Ind. Co. Ltd. bünyesinde üretilen çinko klor, alkalin, düğme ve lityum piller markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Guangzhou Eastpower Battery Ind. Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "TürkPetrol",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lesjöfors Automotive",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Songmics Home",
+    "description": "2010 yılında kurulmuş olan Ameziel Inc. bünyesindeki ev geliştirme ürünleri, taşınabilir oda organizatörü, ev organizatör ve evcil hayvan malzemeleri üzerine e-ticaret markasıdır.Ameziel Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Powwa",
+    "description": "2000 yılında kurulmuş olan Desan Electric Co. Ltd. bünyesinde üretilen elektrikli gıda karıştırıcıları, küçük mutfak aletleri markasıdır.Desan Electric Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Laperas",
+    "description": "2023 yılında kurulmuş olan Laperas Dış Tic. ve Kozmetik San. Tic. Ltd. Şti. bünyesindeki şampuanlar, akne, gözenek kontrolü, cilt bakım setleri, cilt serumu, göz altı torbası ve morluk bakımı, göz serumu, güneş krem ve losyonları, jel ve sabunlar, kozmetik kişisel bakım, leke gidericiler, nemlendirici kremler, saç dökülmesine karşı ürünler, saç maskeleri, bakım kremi, losyon ve spreyleri, saç serum ve yağı, serumlar, tonikler, yüz kremi, yüz temizleyicileri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "NRF",
+    "description": "1927 yılında kurulmuş olan NRF B.V. bünyesindeki otomotiv, deniz ve endüstriyel uygulamalar için soğutma ve klima ürünleri, radyatör markasıdır.ISO 9001, EN 15085 ve ISO 14001 belgelerine sahiptir.NRF B.V. Hollanda merkezlidir. Avrupa’da 3 ve Asya’da 5 olmak üzere 8 fabrikada üretim yapmaktadır. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Superfire",
+    "description": "2008 yılında kurulmuş olan Shenzhen Supfire Prosperity Equ. Co. Ltd. bünyesindeki aydınlatma ürünleri ve el fenerleri, farlar, bisiklet ışıkları, iş ışıkları, kamp ışıkları, mobil projektörler, güneş aydınlatma ürünleri markasıdır.CE, ISO 9001, FCC ve ROHS belgelerine sahiptir.Shenzhen Supfire Prosperity Equ. Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wokai Electronics",
+    "description": "2018 yılında kurulmuş olan Wokai Electronics Technology Co. Ltd. bünyesindeki dokunmatik ekran etkileşimli beyaz tahta, reklam ekranı, sorgu kiosk, nano smart blackboard, led akıllı tv markasıdır.Wokai Electronics Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Carwiz International",
+    "description": "1999 yılında kurulmuş olan CARWIZ International d.o.o bünyesindeki araç kiralama hizmetleri markasıdır.Franchise iş modelini kullanmaktadır.CARWIZ International d.o.o Hırvatistan merkezlidir. 30’dan fazla ülkede şubelere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HR",
+    "updated_date": null
+  },
+  {
+    "company": "Wirquin",
+    "description": "1977 yılında Daniel Le Coent tarafından kurulmuş olan Wirquin Group bünyesindeki sıhhi tesisat bağlantı parçaları markasıdır.Wirquin Group Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Aset Plastik",
+    "description": "1975 yılında kurulmuş olan Aset Plastik San. ve Tic. Ltd. Şti. bünyesinde üretilen rezervuar, vitrifiye iç takımları, klozet markasıdır.Firma İstanbul merkezlidir ve ürünlerini İstanbul’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Btap",
+    "description": "1994 yılında kurulmuş olan Benyue Automotive Group bünyesinde üretilen araç yedek parçaları, otomobil motor sistemi, şasi sistemi, fren sistemi, süspansiyon ve direksiyon sistemi, işletme sistemi, hava, elektrik sistemi markasıdır.Benyue Automotive Group Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fornax",
+    "description": "1990 yılında kurulmuş olan Yelken Madeni Eşya San. Tic. Ltd. bünyesindeki pencere ve kapı sistemleri, güvenlik sistemleri, sürme sistemler markasıdır.ISO 9001, ISO 14001, ISO 45001, ISO 50001 belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 65 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doras",
+    "description": "1982 yılında kurulmuş olan Doruk Yapı Gereçleri San. ve Tic. Ltd. Şti. bünyesinde üretilen iç kapı gömme kilitleri, asma kilitler, elektrikli kilitler, silindirler, silindirli gömme kilitler, tirajlı kilitler markasıdır.Firma İstanbul merkezlidir ve ürünleri bir çok ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Transtec",
+    "description": "1996 yılında kurulmuş olan Freudenberg SE bünyesinde üretilen direksiyon kitleri ve fren bileşenleri, şanzıman, direksiyon, ağır hizmet tipi direksiyon, OE contaları, elektronik hidrolik direksiyon markasıdır.Freudenberg SE Almanya merkezlidir. 15’ten fazla ülkede üretim tesisleri, dağıtım merkezlerine sahiptir ve ürünlerini 60 ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kaymaklava",
+    "description": "2021 yılında kurulmuş olan Vogen Endüstriyel Ürünler San. Tic. A.Ş. bünyesindeki tatlı şubeleri markasıdır.Ürünleri arasında baklavalar, şöbiyetler, billuriye, kadayıflar, fıstıkpare, fıstıksarma, havuç dilimi, kabaktatlısı, kaymaklı katmer dilimi gibi lezzetler yer almaktadır.Firma Ankara merkezlidir. 10 şubesiyle faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elite Tactical",
+    "description": "1982 yılında kurulan Master Cutlery Inc. bünyesinde üretilen sabit ve katlanır bıçaklar markasıdır.CNC ile işlenmiş parçalar ve titanyum kaplı çeliklere sahip olan ürünler, güvenlik ve kurtarma personelleri tarafından tercih edilmektedir.Amerika merkezli Master Cutlery Inc. ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "The Espressonist Coffee",
+    "description": "2011 yılında Georger Georgiou tarafından kurulmuş olan The Espressonist Coffee Company bünyesindeki kahve zinciri markasıdır.Kahve dışında soğuk sandviçler, tatlı yemekler ve taze, doğal, organik meyve suları sunmaktadır.Brezilya, Uganda, Hindistan, Vietnam gibi ülkelerden kahve çeşitleri sunmaktadır.The Espressonist Coffee Company Yunanistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Fabron",
+    "description": "2024 yılında kurulmuş olan Fabron İthalat İhracat San. ve Tic. Ltd. Şti. tarafından ithal edilen kulak içi bluetooth kulaklık markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gamegos",
+    "description": "2006 yılında kurulan Gamegos Teknoloji A.Ş. bilgisayar, tablet ve cep telefonları için ücretsiz çevrimiçi ve mobil oyunlar hazırlamaktadır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Adventure BayCafeland-World Kitchen",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "EBY Teknoloji",
+    "description": "1982 yılında kurulmuş olan Yavuzlar Tarım ve Enerji bünyesinde üretilen elektrikli çit sistemleri ve aksesuarları markasıdır.Tarım ve hayvancılık sektörü için elektrikli çit sistemleri, elektrikli çit telleri ve elekrikli çit izolatörleri üretmektedir.Firma Isparta merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "EBY Teknoloji",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Buckin Coffee",
+    "description": "2019 yılında kurulmuş olan Abson Gıda A.Ş. bünyesindeki kahve zincirleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "RestApp",
+    "description": "2015 yılında kurulmuş olan RestApp UK Limited bünyesindeki çevrimiçi sipariş, mobil uygulamalar, envanter, raporlar, entegre çevrimiçi sipariş çözümleri, CRM markasıdır.RestApp UK Limited İngiltere merkezlidir. Türkiye’de RestApp A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Estathe",
+    "description": "1946 yılında kurulmuş olan Ferrero International S.A. bünyesindeki soğuk çay, alkolsüz içecekler markasıdır.Ferrero International S.A. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Digilux",
+    "description": "2003 yılında kurulmuş olan Digilux Technology Corp. bünyesindeki bellek kartı, SSD, USB sürücüsü, flash depolama ürünleri markasıdır.Digilux Technology Corp. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Haiboxing",
+    "description": "2003 yılında kurulmuş olan Shantou Haiboxing Toys Factory bünyesinde üretilen kumandalı helikopter, kumandalı otomobil, çarpışma kiti, kumandalı uçak, kumandalı oyuncaklar markasıdır.Shantou Haiboxing Toys Factory Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bloomberg HT",
+    "description": "2010 yılında Bloomberg L.P. ve Ciner Medya Grubu ortaklığında kurulmuş olan ekonomi kanalıdır.Michael Bloomberg’e ait olan Bloomberg L.P. Amerika merkezlidir. Diğer ortak Can Holding’dir. Can Holding’e 2025 yılında TMSF kayyum atamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-09-11"
+  },
+  {
+    "company": "Jocky",
+    "description": "2005 yılında kurulmuş olan Zhejiang Jocky Machinery Technology Co. Ltd. bünyesinde üretilen dikiş makineleri, çamaşır makineleri, malzeme taşıma ekipmanı, paketleme makineleri markasıdır.Zhejiang Jocky Machinery Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Luba Baby",
+    "description": "2019 yılında kurulmuş olan Luba Baby Sağlık Ürünleri Ltd. Şti. bünyesindeki ıslak mendil markasıdır.Firma Gaziantep merkezlidir. Ürünlerini Gaziantep 3. OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SK Hand Tools",
+    "description": "1900 yılında kurulmuş olan SK Hand Tools Corporation bünyesindeki anahtarlar, mandal, tornavida, alet kutuları ve hava aletleri gibi araçlar markasıdır.SK Hand Tools Corporation 2021 yılında Çin merkezli Hangzhou Greatstar Industrial Co. Ltd. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cellairis",
+    "description": "2000 yılında kurulmuş olan Global Cellular Inc. bünyesindeki mobil cihazlar, aksesuarlar, hizmetler ve özel çözümler markasıdır.Global Cellular Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rent Go",
+    "description": "2015 yılında kurulmuş olan M.N.B Oto Kiralama ve Nakliyat Tic. A.Ş. bünyesindeki araç kiralama hizmetleri markasıdır.Tunalar Şirketler Topluluğu bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Talay Logistic",
+    "description": "2014 yılında kurulmuş olan Talay Logistic A.Ş. bünyesindeki nakliye hizmetleri, lojistiğin her alanında hizmet veren markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Klokkerholm",
+    "description": "1969 yılında kurulmuş olan Klokkerholm Karosseridele A/S bünyesindeki otomobil sektörü için yedek parçalar hasar ve pas parçaları markasıdır.Klokkerholm Karosseridele A/S Danimarka merkezlidir. Ürünleri 40’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Milklaç",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-04-18"
+  },
+  {
+    "company": "Mooncorn",
+    "description": "2023 yılında kurulmuş olan Mooncorn Tekstil Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki şal, eşarp ve tesettür giyim ürünleri markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Conthes",
+    "description": "2005 yılında kurulmuş olan Karad Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen kırlent kılıflar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Forssi Sport",
+    "description": "2017 yılında kurulmuş olan Ramazan Fors Forssi Sport bünyesindeki plastik toplar ve oyuncaklar markasıdır.Firma Şanlıurfa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Paccor",
+    "description": "1987 yılında kurulmuş olan Paccor Packaging Gmbh bünyesinde üretilen plastik ambalajlar markasıdır.Paccor Packaging Gmbh Danimarka merkezli Faerch A/S’nin bir parçasıdır. Türkiye’de Paccor Turkey Ambalaj San. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "PCT",
+    "description": "1997 yılında kurulmuş olan PCT International Inc. bünyesindeki koaksiyel ve hibrit fiber kablo, konektörler, fiber optik, bölme, ayırıcılar, fiber düğümler ve rfog, amplifikatörler, mdus, bypass/moCA/moCA baypas amplifikatörleri, hfc platformu markasıdır.PCT International Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Copic",
+    "description": "1989 yılında kurulmuş olan Too Marker Products Inc. bünyesindeki çizim kalemleri, boya işaretleri, işaretler, kopik mürekkep markasıdır.Too Marker Products Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Pine-Sol",
+    "description": "1913 yılında kurulmuş olan The Clorox Company bünyesindeki çok yüzeyli kokulu temizleyiciler markasıdır.The Clorox Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Robopac",
+    "description": "1935 yılında kurulmuş olan Aetna Grup Spa bünyesindeki kutu bantlama makineleri, palet sarma makineleri ve diğer paketleme ekipmanı markasıdır.Aetna Grup Spa İtalya merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Aifo",
+    "description": "2007 yılında kurulmuş olan AiFO Components sp. z o.o. bünyesindeki soğutma, klima ve havalandırma cihazları markasıdır.AiFO Components sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Buture",
+    "description": "Puture Co. Ltd. bünyesindeki elektrikli süpürgeler, takviye başlatıcıları, süpürge paketleri, parçalar ve aksesuarlar markasıdır.Puture Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Veithdia",
+    "description": "2017 yılında kurulan V2rx Eyewear & Accesories LLC bünyesindeki güneş gözlüğü ve optik çerçeveler markasıdır.V2rx Eyewear & Accesories LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tyrosur",
+    "description": "1872 yılında kurulan Engelhard Arzneimittel Gmbh & CO. KG bünyesindeki yara iyileştirici jel ve yara iyileşme tozu markasıdır.Engelhard Arzneimittel Gmbh & CO. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Crosscamp",
+    "description": "1957 yılında kurulan Erwin Hymer Group SE bünyesindeki kamp araçları, motor evler, karavan ve aksesuarlar markasıdır.Erwin Hymer Group SE Amerika merkezli Thor Industries Inc.’in iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nopa Instruments",
+    "description": "1982 yılında kurulmuş olan Nopa Instruments Medizintechnik Gmbh bünyesinde üretilen cerrahi, endoskopik, diş ve veteriner enstrümanları, ekipman ve sterilizasyon kapları markasıdır.Nopa Instruments Medizintechnik Gmbh Almanya merkezlidir ve ürünlerini 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Melag",
+    "description": "1951 yılında kurulmuş olan Melag Medizintechnik Gmbh & Co. Kg bünyesinde üretilen otoklavlar, rondelalar, su arıtma sistemleri, sızdırmazlık cihazları, aksesuarlar markasıdır.Melag Medizintechnik Gmbh & Co. Kg Almanya merkezlidir ve tüm ürünleri Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Eldipa",
+    "description": "2022 yılında kurulmuş olan Eldipa Bilişim Dış Tic. San. İthalat İhracat Ltd. Şti. bünyesindeki çok amaçlı organizerler, dekoratif sepetler, saklama kapları, çöp kovası, kek kalıbı, döküm tencere markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fendre",
+    "description": "2004 yılında temelleri atılan Efedoğan Tekstil ve Ayakkabı San. Tic. Ltd. Şti. bünyesindeki giyim, ayakkabı ve aksesuar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "KBE",
+    "description": "1897 yılında kurulmuş olan Profine Gmbh bünyesinde üretilen pencere ve konut kapısı sistemleri, eşik sistemleri, kayar sistemler, deklanşör sistemleri, pencerenin her tarafında yardımcı malzemeler markasıdır.Profine Gmbh Almanya merkezlidir ve ürünlerini 70 ülkeye pazarlamaktadır. 2005 yılından beri Türkiye’de Profine Uluslararası Pvc Sistemleri San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Coco Bite",
+    "description": "2006 yılında kurulmuş olan Antat Gıda A.Ş. bünyesinde üretilen hindistan cevizli, kokolin kaplı çikolatalar markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini 6 bin metrekaresi kapalı toplam 20 bin metrekareslik alanda bulunan fabrikasında üretmektedir ve 100’e yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dupray",
+    "description": "2008 yılında kurulmuş olan Dupray Inc. bünyesindeki buhar temizleyicileri, hava temizleyicileri, kıyafetler, spot temizleyiciler, aksesuarlar markasıdır.Dupray Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Dafron",
+    "description": "2010 yılında kurulmuş olan Prosport Spor Ürünleri ve Promosyon San. Tic. Ltd. Şti. bünyesindeki spor ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gloryfy",
+    "description": "2002 yılında kurulmuş olan Iq Brand, Design & Production Gmbh bünyesinde üretilen spor güneş gözlüğü, güneş gözlüğü, optik, yedek lensler, aksesuarlar markasıdır.Iq Brand, Design & Production Gmbh Avusturya merkezlidir ve ürünleri Avusturya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Aztron Sport",
+    "description": "Aztron Sports Co. Ltd. bünyesinde üretilen spor ürünleri markasıdır.Aztron Sports Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Butler Engineering",
+    "description": "1988 yılında kurulmuş olan Vehicle Service Group Italy S.r.l. bünyesindeki lastik değiştiriciler, tekerlek hizalayıcı, test şeritleri, asansör, tekerlek dengeleyicileri, lastik servis ekipmanları, kaldırma platformları markasıdır.Vehicle Service Group Italy S.r.l. Amerika merkezli Dover Corporation bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Leupold & Stevens",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Talkpal",
+    "description": "2023 yılında kurulmuş olan Talkpal Inc. bünyesindeki GPT ile çalışan bir AI dil eğitmenidir.Gerçekçi bir sesle mesaj alıp, yazarak veya konuşarak sınırsız konular hakkında sohbet edilmesini sağlar.Talkpal Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Baybee",
+    "description": "2014 yılında kurulmuş olan Galaxy Pvt Ltd. bünyesindeki bebek ürünleri markasıdır.Araç koltukları, besleme masaları, oyuncaklar ve pille çalışan arabalar gibi ürün yelpazesine sahiptir.Galaxy Pvt Ltd. Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Kolege",
+    "description": "2017 yılında kurulmuş olan Kolege Makina İmalat San. Tic. Ltd. Şti. bünyesinde üretilen gaz altı kaynak makinesi, elektrod kaynak makinesi, tig kaynak makinesi ve invertör tabanlı çeşitli makineler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Poppi",
+    "description": "2015 yılında kurulmuş olan Vngr Beverage LLC. bünyesinde üretilen prebiyotik soda içecekleri gibi alkolsüz içecek ürünler markasıdır.Vngr Beverage LLC. 2025 yılında Amerika merkezli Pepsico Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lebelage",
+    "description": "2017 yılında kurulmuş olan Dongdonggurimoo Co. Ltd. bünyesinde üretilen şampuanlar, ayak bakım ürünleri, dudak parlatıcıları, el kremi, göz kremi, güneş krem ve losyonları, köpük, kırışıklık karşıtı ürünler, krem fondöten, maskeler, nemlendirici kremler, peeling ürünleri, pudra, rujlar, temizleyici mendiller ve bantlar, tonikler, vücut losyon ve kremleri markasıdır.Dongdonggurimoo Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "MyDay",
+    "description": "1958 yılında kurulmuş olan Coopervision Inc. bünyesindeki kontakt lens markasıdır.Coopervision Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Haeusler",
+    "description": "1936 yılında kurulmuş olan Haeusler AG bünyesindeki bükme makineleri markasıdır.Haeusler AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Cadiveu Professional",
+    "description": "2007 yılında kurulmuş olan Cadiveu Ltda. bünyesinde üretilen güzellik ürünleri, saç ürünleri markasıdır.Cadiveu Ltda. Brezilya merkezlidir. Ürünleri 80’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr.Banggiwon",
+    "description": "2019 yılında kurulmuş olan Cosniz Co. Ltd. bünyesinde üretilen kozmetik ve cilt bakım ürünleri markasıdır.Cosniz Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.Bünyesindeki markalar;CosnizDr+ Banggiwon",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Doğruluk",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lee Kum Kee",
+    "description": "1888 yılında kurulmuş olan Lee Kum Kee Company Limited bünyesinde üretilen soslar, susam yağı markasıdır.Lee Kum Kee Company Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Writech",
+    "description": "2000 yılında kurulmuş olan Qingdao Best Point Stationery Co. Ltd. bünyesinde üretilen kalemler, sıvı rollerball kalemler, işaretleyiciler markasıdır.Qingdao Best Point Stationery Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Teptip",
+    "description": "1985 yılında kurulmuş olan Vara Food And Drink Co. Ltd. bünyesinde üretilen hindistan cevizi suyu, hindistancevizi sütü, tropikal meyve suyu, konserve sebze ve diğer gıda malzemeleri markasıdır.Brc, Gmp, Haccp, Helal, Ifs belgelerine sahiptir.Vara Food And Drink Co. Ltd. Tayland merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Dee-DeeSun & DragonTASTascoTeptipZ-Zun",
+    "documents": [
+      "BRC",
+      "CE",
+      "GMP",
+      "HACCP",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "Telkotürk",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Scoot And Ride",
+    "description": "2012 yılında kurulmuş olan Scoot & Ride Vertriebs Gmbh bünyesindeki çocuk ve gençler için scooter markasıdır.Scoot & Ride Vertriebs Gmbh Avusturya merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Ren",
+    "description": "1996 yılında kurulmuş olan Ren Gıda San. Tic. A.Ş. bünyesindeki kurabiye, kraker, çikolata kaplamalı ürünler, bisküvi, gofret ve fındık kreması markasıdır.ISO 9001, HACCP belgelerine sahiptir.Firma Tekirdağ merkezlidir. Ürünlerini toplam 25 bin metrekarelik arazide, 9 bin metrekarelik kapalı alana sahip tesisinde üretmektedir. Ürünlerini bir çok ülkeye ihraç etmektedir.Bünyesindeki markalar;Şokolina",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cpanel",
+    "description": "1997 yılında J.Nick Koston tarafından kurulmuş olan Cpanel LLC. bünyesinde geliştirilen web barındırma kontrol paneli araçları yazılımı markasıdır.Cpanel LLC. 2018 yılında Amerika merkezli Oakley Capital’in yatırımıyla WebPros BV tarafından çoğunluk hissesi satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Drybar",
+    "description": "2010 yılında kurulmuş olan Drybar Products LLC saç şekillendirme ürünleri, saç bakım cihazları, fırça ve taraklar markasıdır.Drybar Products LLC 2019 yılında Amerika merkezli Helen of Troy Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vanward",
+    "description": "1993 yılında kurulmuş olan Guangdong Vanward New Electric Co. Ltd. bünyesinde üretilen gaz su ısıtıcılar, gaz kazanları, elektrikli su ısıtıcılar, ısı pompaları, elektrik şömineleri, fırınlar, ocaklar ve küçük ev aletleri ve gazlı dış mekan ürünleri markasıdır.Guangdong Vanward New Electric Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Luminae",
+    "description": "Luminae İnşaat Giyim Kozmetik Danışmanlık San. ve Tic. Ltd. Şti. bünyesindeki akne, gözenek kontrolü, ayak bakım ürünleri, ayak kremi, cilt serumu, dudak bakımı, dudak kremi ve peelingi, el kremi, göz anti-aging bakımı, göz kremi, göz serumu, güneş krem ve losyonları, gece kremleri, köpük, kapatıcı, leke gidericiler, nemlendirici kremler, saç dökülmesine karşı ürünler, saç serum ve yağı, serumlar, vücut kremleri, yüz güneş kremi, yüz kremi, yüz peelingi, yüz temizleyicileri markasıdır.Firma Bingöl merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ekleristan",
+    "description": "2020 yılında kurulmuş olan Cevizden Gıda San. ve Tic. Ltd. Şti. bünyesindeki ekler, makaron, sütlü tatlılar, pastalar, dondurmalar markasıdır.Firma Bursa merkezlidir. Ürünlerini Bursa’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hince",
+    "description": "2019 yılında kurulmuş olan Vivawave Co. Ltd. bünyesindeki makyaj ürünleri markasıdır.Vivawave Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Bitufa Flexobit",
+    "description": "1979 yılında kurulmuş olan Bitufa Waterproofing BV bünyesinde üretilen akıllı su yalıtımı çözümleri, yeraltı su geçirmez ve bitümlü membranlar, inşaat malzemeleri markasıdır.ISO 9001 belgesine sahiptir.Bitufa Waterproofing BV Hollanda merkezlidir. Ürünlerini 20’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Purles",
+    "description": "Proconcept Labs Sp. z o.o. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri paraben, sls, sles, mineral yağ, gdo, gluten içermez ve hayvanlar üzerinde test edilmemektedir.Proconcept Labs Sp. z o.o. Polonya merkezlidir. Ürünlerin yüzde 80’i Fransa’da, yüzde 20’si İspanya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Dinçsu",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Laban Pen",
+    "description": "1981 yılında Charles Hu, John Hu tarafından kurulmuş olan The Thong Yeong Corporation bünyesindeki kalemler, uçlar, doldurma sistemleri ve aksesuarlar markasıdır.The Thong Yeong Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Troika",
+    "description": "1992 yılında kurulmuş olan Troika Germany Gmbh bünyesindeki çantalar, anahtarlıklar, kalemler, promosyon ürünleri, standlar ve aksesuarlar markasıdır.Troika Germany Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Syloon",
+    "description": "2004 yılında kurulmuş olan Ningbo Syloon Import & Export Co. Ltd. bünyesindeki çanta ve kılıflar, kağıt ve defterler, kalemler, ofis malzemeleri, sanat ve el sanatları ürünleri, termoslar ve kupalar markasıdır.Ningbo Syloon Import & Export Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hishtil",
+    "description": "1974 yılında kurulmuş olan Hishtil Ltd. bünyesinde üretilen sebze, ot, fide ve genç bitkiler, aşılı bitkiler markasıdır.Gelişmiş bahçecilik fidanlıkları üretiminde sürekli olarak benzersiz teknolojiler ve üretim protokolleri geliştirmektedir.Hishtil Ltd. İsrail merkezlidir. İsrail’de 4 saha ve Türkiye, Güney Afrika, İtalya, İspanya, Bosna Hersek ve ABD’de 6 ortak girişim fidanlığından oluşan ve yılda 1 milyardan fazla yüksek kaliteli genç bitki üretimi yapan küresel bir fidanlık ağına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Madlions",
+    "description": "Shenzhen Shuomuda Technology Co. Ltd. bünyesinde üretilen oyuncu klavyeleri, fareleri ve fare altlıkları markasıdır.Shenzhen Shuomuda Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Etibeyaz",
+    "description": "2001 yılında kurulmuş olan Defnekaya Dönercilik San. Tic. Ltd. Şti. bünyesindeki piliç döner, tavuk döner, tavuk dürüm döner şubeleri markasıdır.Firmalara günlük çiğ hazır baton döner vermektedir.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yeni İnci",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Koru Sigorta",
+    "description": "2017 yılında kurulmuş olan Koru Sigorta A.Ş. bünyesindeki sigortacılık hizmetleri markasıdır.Firma İstanbul merkezlidir.Hissedarları:Erhan Çiftcioğlu (yüzde 71,8)Atıf Bülent Bora (yüzde 15,9)Sim Bora (yüzde 5,9)Esra Bora (yüzde 5,9)",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Finetoo",
+    "description": "2018 yılında kurulmuş olan Yiwu Chugan E-Commerce Co. Ltd. bünyesinde üretilen dikişsiz kadın rahat iç çamaşırları markasıdır.Yiwu Chugan E-Commerce Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nezih Kitap Kırtasiye",
+    "description": "1970 yılında kurulmuş olan Nezih Kitap Kırtasiye San. ve Tic. A.Ş. bünyesindeki kitap, kırtasiye ve oyuncak ürünleri mağazlarıdır.Firma İstanbul merkezlidir. İstanbul ve Ankara’da 30’dan fazla mağazaya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cennetoğlu Tekstil",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gurvita",
+    "description": "2021 yılında kurulmuş olan İyileştiren Mamuller Gıda San. ve Tic. A.Ş. bünyesindeki balık suyu, bebek püresi, işkembe çorbaları, ilik yağı, ilikli kemik suyu, kelle paça çorbası, kemik suyuna çorbalar, kolajen kürü, organik sirkeler, paça çorbası, tavuk suyu markasıdır.ISO 9001, ISO 14001, ISO 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Claw’s",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

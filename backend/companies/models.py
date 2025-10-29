@@ -14,6 +14,8 @@ class Company(models.Model):
     domain = models.CharField(
         max_length=255, 
         unique=True, 
+        null=True,
+        blank=True,
         db_index=True,
         help_text="Primary domain of the company (e.g., google.com)"
     )
@@ -61,10 +63,16 @@ class Company(models.Model):
         blank=True,
         help_text="Business sector/industry"
     )
-    esg_policy = models.TextField(
+    description = models.JSONField(
         null=True,
         blank=True,
-        help_text="Environmental, Social, and Governance policy information"
+        help_text="Description of the company in multiple languages (e.g., {'en': 'description', 'tr': 'açıklama'})"
+    )
+    
+    is_approved = models.BooleanField(
+        default=False,
+        db_index=True,
+        help_text="Whether the company data is approved by an admin"
     )
     
     carbon_neutral_alternatives = models.ManyToManyField(
@@ -91,6 +99,7 @@ class Company(models.Model):
             models.Index(fields=['carbon_neutral']),
             models.Index(fields=['parent']),
             models.Index(fields=['origin']),
+            models.Index(fields=['is_approved']),
         ]
     
     def __str__(self):

@@ -82,7 +82,7 @@ class CompanyAdmin(admin.ModelAdmin):
             'description': 'Environmental sustainability information'
         }),
         ('Corporate Details', {
-            'fields': ('headquarters', 'origin', 'sector', 'esg_policy'),
+            'fields': ('headquarters', 'origin', 'sector'),
             'classes': ('collapse',)
         }),
         ('Metadata', {

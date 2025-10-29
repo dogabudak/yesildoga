@@ -44,6 +44,8 @@ python manage.py createsuperuser
 python manage.py create_sample_data --count 50
 # OR load from JSON file
 python manage.py seed_companies --file ../data/data.json
+# OR load from directory with multiple JSON files
+python manage.py seed_companies --directory ../data/chunked --clear
 ```
 
 ### 3. Run Development Server
@@ -77,17 +79,30 @@ The API will be available at `http://localhost:8082`
 
 ### Seeding Data
 
-#### From JSON File
+#### From JSON File or Directory
 ```bash
-# Seed from data file (matches Node.js backend structure)
+# Seed from a single JSON file
 python manage.py seed_companies --file ../data/data.json
 
+# Seed from a directory containing multiple JSON files
+python manage.py seed_companies --directory ../data/chunked
+
 # Clear existing data before seeding
-python manage.py seed_companies --file ../data/data.json --clear
+python manage.py seed_companies --directory ../data/chunked --clear
 
 # Update existing companies instead of skipping
-python manage.py seed_companies --file ../data/data.json --update-existing
+python manage.py seed_companies --directory ../data/chunked --update-existing
+
+# Set custom batch size for processing (default: 1000)
+python manage.py seed_companies --directory ../data/chunked --batch-size 500
 ```
+
+**Note**: The seeder supports companies with or without domains. Companies without domains will be matched by company name for duplicate detection.
+
+The seeder automatically generates a skipped companies report when there are duplicate entries. The report is saved to `data/skipped_companies.json` and contains:
+- Company name
+- Domain (if available)
+- Reason for skipping (typically "Already exists in database")
 
 #### Create Sample Data
 ```bash
@@ -117,17 +132,21 @@ Access the admin interface at `/admin/` to:
 ### Company
 ```python
 class Company(models.Model):
-    domain = models.CharField(max_length=255, unique=True)    # Primary domain
+    domain = models.CharField(max_length=255, unique=True, null=True, blank=True)  # Primary domain (optional)
     company = models.CharField(max_length=255)               # Company name  
     carbon_neutral = models.BooleanField(default=False)      # Carbon neutrality
     renewable_share_percent = models.FloatField(null=True)   # Renewable energy %
     parent = models.CharField(max_length=255, null=True)     # Parent company
     headquarters = models.CharField(max_length=255, null=True) # HQ location
+    origin = CountryField(null=True, blank=True)             # Country of origin (ISO code)
     sector = models.CharField(max_length=100, null=True)     # Business sector
-    esg_policy = models.TextField(null=True)                 # ESG information
+    description = models.JSONField(null=True)                # Multi-language descriptions
+    is_approved = models.BooleanField(default=False)         # Admin approval status
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
 ```
+
+**Note**: The `domain` field is optional. Companies can be stored with just a company name if the domain is not available.
 
 ### DataVersion  
 ```python
@@ -243,10 +262,13 @@ This Django backend provides:
 - **Better error handling** and logging
 
 ### ✅ **Data Management**
-- **Seeding from JSON** - Compatible with existing data files
+- **Seeding from JSON** - Compatible with existing data files (supports single files or directories)
+- **Flexible domain handling** - Companies can be stored with or without domains
+- **Duplicate detection** - Automatically skips existing companies (with or without domains)
 - **Sample data generation** - Create test data easily
 - **Batch operations** - Admin bulk actions for data management
 - **Statistics tracking** - Automatic data version and metrics updates
+- **Skipped companies report** - JSON report of companies not imported due to duplicates
 
 ## Development
 

@@ -93,7 +93,6 @@ class Command(BaseCommand):
                     sector=random.choice(self.SECTORS),
                     headquarters=random.choice(self.LOCATIONS),
                     parent=f"Parent Corp {random.randint(1, 20)}" if random.random() > 0.7 else None,
-                    esg_policy=f"Sample ESG policy for {company_name}." if random.random() > 0.5 else None
                 )
                 created_count += 1
         
