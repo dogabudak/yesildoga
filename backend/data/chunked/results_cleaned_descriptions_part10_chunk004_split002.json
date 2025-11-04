@@ -1,0 +1,216 @@
+[
+  {
+    "company": "Herth+Buss",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Joven",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  },
+  {
+    "company": "Fluvo",
+    "description": "1970 yılında kurulmuş olan Schmalenberger GmbH + Co. KG bünyesinde üretilen yüzme havuzu ve güçlü pompa teknolojileri, hidro-masaj, su perde sistemleri, hava kabarcığı sistemleri, havuz aydınlatması, yüzme havuzu pompaları markasıdır.Schmalenberger GmbH + Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Witor’s",
+    "description": "",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Jamboree",
+    "description": "1978 yılında kurulmuş olan Wohlgemuth Süsswaren Gmbh bünyesindeki köpük şeker ve çiğneme sakız markasıdır.Wohlgemuth Süsswaren Gmbh Almanya merkezlidir. Ürünlerini 64 ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kerry Asav",
+    "description": "1994 yılında kurulmuş olan Asav Lojistik Hizmetleri A.Ş. bünyesindeki depolama, dağıtım ve gümrük aracısı, birinci sınıf hava yükü, deniz yükü ve yol yük hizmetleri markasıdır.2019 yılında Çin merkezli SF Holding Co. Ltd.’ye ait Kerry Logistics tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Zinedent",
+    "description": "2015 yılında kurulmuş olan Zinedent İmplant Üretim A.Ş. bünyesindeki diş implantı markasıdır.Şirketin tüm hisseleri İsviçre merkezli Straumann Holding AG’nin, iştiraki Instradent AG’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Speck Pumpen",
+    "description": "1909 yılında kurulmuş olan Speck Pumpen Verkaufsgesellschaft Gmbh bünyesinde üretilen endüstriyel pompalar, pompa teknolojileri ve çözümleri markasıdır.Speck Pumpen Verkaufsgesellschaft Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hongji Toys",
+    "description": "1996 yılında kurulmuş olan Zhejiang Hongji Toys Manufacture Co. Ltd. bünyesinde üretilen ahşap oyuncaklar markasıdır.Tahta oyuncak bloklar, tel labirent, bulmaca, oyunlar ve diğer eğitim oyuncakları sunmaktadır.ISO 9001 belgesine sahiptir.Zhejiang Hongji Toys Manufacture Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sometech",
+    "description": "2006 yılında kurulmuş olan Sometech Inc. bünyesindeki 2D video endoskopi sistemi, 3D video dijital İşletim mikroskopi sistemi, 3D video dijital laparoskopi sistemi, RF cerrahi cihaz markasıdır.Sometech Inc. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Aterna",
+    "description": "2011 yılında kurulmuş olan Aterna Zeytincilik Tarım ve Turizm San. Tic. Ltd. Şti. bünyesindeki zeytin, zeytinyağı, baharat, atıştırmalık markasıdır.Troy Group bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hydro Pack",
+    "description": "1996 yılında kurulmuş olan Hydro-Pack Ltd. bünyesindeki hidrolik dişli pompaları, yön kontrol vanaları, hidrolik valfler, hidrolik motorlar ve direksiyon üniteleri, hidrolik güç birimleri, yağ soğutucuları, dişliler üzerinde pompa, eğik sürücüler, piston pompaları, traktör ve forklift yedek parçaları markasıdır.Hydro-Pack Ltd. Bulgaristan merkezlidir. Ürünlerini 60’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Migimar",
+    "description": "2009 yılında kurulmuş olan Mgm Tekstil İnş. Nak. Tur. San ve Tic. Ltd. Şti. bünyesindeki avm markasıdır.Mardin merkezli Alışveriş ve Yaşam Merkezi 2 bin 500 metrekarelik alanda yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Antenx",
+    "description": "Antenx LLC bünyesindeki antenler ve RF/mikrodalga cihazları, VNA kalibrasyon kiti, SMA tork anahtarı, aksesuarlar markasıdır.Antenx LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Doğal Agro",
+    "description": "",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Movfazz",
+    "description": "2016 yılında kurulmuş olan Movfazz Limited bünyesindeki telefon, tablet ve bilgisayar ekran koruyucusu markasıdır.Movfazz Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "PhLab",
+    "description": "2018 yılında kurulmuş olan Peak Sales Dijital Pazarlama Satış ve Dış Tic. Ltd. Şti. bünyesindeki cilt serumu, katı sabun, yüz maskesi, yüz temizleyicileri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biorel",
+    "description": "2005 yılında kurulmuş olan Akfer Mühendislik Müşavirlik Gıda ve Dış Tic. Ltd. Şti. bünyesindeki el yapımı sabunlar, oyun köpüğü markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Curl Keeper",
+    "description": "1985 yılında kurulmuş olan Torch beauty Treatments Ltd. bünyesindeki saç bakım ürünleri markasıdır.Torch beauty Treatments Ltd. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Dunspin",
+    "description": "2016 yılında kurulmuş olan Dunspin Technology Co. Ltd. bünyesindeki akıllı saatler, veri kabloları, güç bankaları, otomobil şarj cihazları, şarj kafaları, DSP/CVC dijital gürültü azaltma çözümleri, TWS çift kanallı kablosuz bağlantı çözümleri, aktif gürültü azaltma kontrol çözümleri, bluetooth kulaklıklar ve diğer gelişmiş ekipmanlar markasıdır.Dunspin Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hang Onn",
+    "description": "2010 yılında kurulmuş olan Walmart Apollo LLC bünyesindeki televizyon montaj ürünleri, raf ve bileşen parçaları markasıdır.Walmart Apollo LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gopuff",
+    "description": "2013 yılında Yakir Gola, Rafael Ilishayev tarafından kurulmuş olan Gobrands Inc. bünyesindeki günlük ihtiyaçları karşılayan anlık ticaret platformudur.Gobrands Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Polo Sharpshots",
+    "description": "1994 yılında kurulmuş olan American Hi-Fi Industrial 26 Inc. bünyesindeki dijital kameralar markasıdır.American Hi-Fi Industrial 26 Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Spillbuster",
+    "description": "1910 yılında kurulmuş olan Stanley Black & Decker Inc. bünyesindeki taşınabilir kablosuz halı temizleyiciler markasıdır.Stanley Black & Decker Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cordina Hair",
+    "description": "2015 yılında Yanika Cordina tarafından kurulmuş olan Cordina Ltd. bünyesindeki saç şekillendirme çözümleri ve saç bakım ürünleri markasıdır.Cordina Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

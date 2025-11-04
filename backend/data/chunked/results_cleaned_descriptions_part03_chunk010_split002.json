@@ -1,0 +1,219 @@
+[
+  {
+    "company": "Trucktec",
+    "description": "Trucktec, 1989 yılında kurulan Trucktec Automotive Gmbh bünyesinde üretilen otomotiv parçaları markasıdır.Fren disklerinden hava şeritlerine kadar tüm popüler parçaları üretmektedir.Trucktec Automotive Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Strivectin",
+    "description": "Strivectin, 2002 yılında kurulan StriVectin Operating Company, Inc. bünyesindeki cilt bakımı ve saç bakımı ürünleri markasıdır.StriVectin Operating Company, Inc. Amerika merkezlidir. StriVectin ürünleri çevrimiçi olarak ve Kuzey Amerika, Avrupa, Orta Doğu ve Asya’daki mağazalar ve özel perakendeciler aracılığıyla satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Utah",
+    "description": "Utah, 2011 yılında Pınar Aktuğu tarafından kurulan Aktuğu Kozmetik bünyesinde üretilen saç bakım ürünleri markasıdır.Firma kişisel bakım, kozmetik ve saç bakım ürünleri üretmektedir.Bünyesindeki markalar:BioflexUTAHLisa Bella",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SkinClinic",
+    "description": "Skinclinic, 2009 yılında kurulan Carmado S.L. bünyesinde üretilen cilt ve saç bakım ürünleri markasıdır.Carmado S.L. İspanya merkezlidir ve ürünlerini İspanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2021-01-03"
+  },
+  {
+    "company": "Hisar Su",
+    "description": "Hisar, 1993 yılında kurulan Hisar Doğal Kaynak Su A.Ş. bünyesinde üretilen kaynak suyu markasıdır.İstanbul Belgrad ormanları içerisinde 20 bin metrekarelik fabrikasında üretim yapmaktadır.Ürünlerini 25’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar:ELVİNHİSARNİCESERİN",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Victor Reinz",
+    "description": "Victor Reinz, 1920 yılında kurulan silikon conta macunu, poliüretan conta macunu, conta sökücü, yalıtım malzemeleri, tamir takımları, makara biçimli yalıtım malzemeleri, tezgâh ve zemin display’ler markasıdır.1997 yılında Amerika merkezli Dana Holding Corporation bünyesine geçmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Grado",
+    "description": "Grado, 1953 yılında Joseph Grado tarafından kurulan Grado Labs, Inc. bünyesinde el yapımı üretilen kulaklık ve pikap markasıdır.Grado Labs, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kentcafe",
+    "description": "Kentcafe, 2000 yılında kurulan Soyyiğit Gıda San. ve Tic. A.Ş bünyesinde üretilen mocha klasik, mocha beyaz çikolata, latte orjinal, latte vanilya, 3in1 ve 2in1 kahveler, klasik kahve ve kahve kreması, cappuccino kahveler, sıcak çikolatalar, salep, zipli ambalaj klasik, gold kahve kahve kreması markasıdır.İstanbul’da yer alan toz gıda üretim tesisi ve Edirne’de yer alan entegre yağ tesisinde yağlı tohum kırma, rafine yağ üretimi, dolum ve paketleme işlemleri yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dekang",
+    "description": "Dekang, 1997 yılında kurulan Beyazlar Gıda Teks. Kuyum. ve Day. Tüketim Mal. San. Tic. Ltd. Şti. bünyesinde üretilen kozmetik, bitkisel ürünler, bitkisel çay, doğal yağlar markasıdır.Tüm ürünlerinin bitkisel hammaddesi Türkiye’dir ve alerjen bileşenler içermemektedir. Bitkisel ürünler ve kozmetik ürünler olmak üzere iki ayrı üretim tesisinde Kocaeli’de üretim yapmaktadır.ISO 22000, 14001, OHSAS 18001, ISO 9001 ve GMP belgelerine sahiptir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Expert",
+    "description": "Expert, 2002 yılında kurulan Salkom Kozmetik Turizm Orman Ürünleri İthalat İhracat Ticaret Limited Şirketi bünyesinde üretilen saç bakım ürünleri markasıdır.Salkom, insan sağlığına zarar vermeyen, natural, bitkisel ürünleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vocom",
+    "description": "Vocom, 2003 yılında kurulan Movimento, Inc. tarafından üretilen Euro 5 ve Euro 6 araçlar için arıza tespit cihazı markasıdır.Volvo, Renault gibi birden fazla marka ile uyumludur. Kamyon, otobüs ve diğer ağır vasıta araçların bakımı için hazırlanan cihazdır.Movimento, Inc. Amerika merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Skinceuticals",
+    "description": "Skinceuticals, 1994 yılında Dr.Sheldon Pinnell tarafından kurulan cilt bakım ürünleri markasıdır.2005 yılında Loreal Group bünyesine dahil oldu.Önleme, anti-oksidan, temizleme, nemlendirici, düzeltme, koruma ürünlerine sahiptir.Loreal Group başlıca hissedarlarından biri yüzde 33 hisse ile Françoise Bettencourt Meyers ve Nestle’nin yüzde 23,29 oranında hissesi vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Methode Jeanne Piaubert",
+    "description": "Methode Jeanne Piaubert, 1928 yılında Institut Jeanne Piaubert SAS bünyesinde kurulan yüz kremi, gece kremi, vücut jeli, sıkılaştırıcı ve birçok bakım ürünü markasıdır.Institut Jeanne Piaubert SAS Fransa merkezlidir. Ürünleri 40’ın üzerinde ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Aunde",
+    "description": "Aunde, 1899 yılında Conrad Ebels ve Victor Achter tarafından temelleri atılan AUNDE Group SE bünyesindeki otomotiv endüstrisi için tekstil ürünleri markasıdır.UNDE Group SE Almanya merkezlidir ve ürünleri 29 ülkede 116 tesise sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Betonel",
+    "description": "Betonel, 1968 yılında Betonel Prefabrik Beton Elemanlari İnşaat Elekt. Müh. Mak. Mad. Tur. Bil. San. ve Tic. A.Ş. bünyesindeki üst yapılar, ahır binası, ahır izgaraları, bordür taşları, görme engelli taşları, köprü kirişleri, yürüme yolları, kanaletler, kuşatma elemanları, menholler, tahliye ve vantuz odaları, telekom ek odaları markasıdır.Ürünlerini Ankara’da bulunan 25 bin ve 11 bin metrekarelik tesislerine üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tekin Özalit",
+    "description": "Tekin Özalit, 1990 yılında kurulan Tekin Ozalit Baskı ve Reklam San. Dış Tic. A.Ş. bünyesinde üretilen kırtasiye ürünleri, bilgisayar sarf malzemeleri, araç giydirme, tabela, dijital baskı, ozalit ve kopyalama, tekstil baskı, bayrak, endüstriyel kesim, stand ve reklam aksesuar ürünleri markasıdır.30’un üzerinde şubesi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biltur Catering",
+    "description": "Biltur Catering, 1993 yılında Osman Öztürk tarafından kurulan Bilfen Şirketler Grubu bünyesinde yemek üretimi yapan yemek hizmeti markasıdır.İstanbul, Kocaeli ve Ankara’da toplam 22 bin metrekarelik kapalı alanda bulunan fabrikalarında üretim yapmaktadır.1972 yılında Otelcilik ve Turizm Meslek Lisesi ile faaliyetlerine başlayan Bilfen Şirketler Grubu kendi ihtiyaçlarını karşılamak için eğitimden yayıncılığa, matbaadan inşaata, taşımacılıktan toplu yemek hizmetine kadar çok sayıda şirketi bünyesinde bulundurmaktadır.Bilfen bünyesindeki şirketler:İskenderunbil Eğitim Kurumları A.Ş.Antabil Özel Eğitim Turizm ve Tic. A.Ş.Bilfen Eğitim Kurumları A.Ş.Bilfen Emlak Yatırım A.Ş.Bilfen Gayrimenkul A.Ş.Bilfen Yayıncılık ve Ticaret A.Ş.Bilnet Eğitim Hizmetleri A.Ş.Bilnet Matbaacılık ve Yayıncılık A.Ş.Biltur Catering ve Gıda A.Ş.Bilyapı İnşaat A.Ş.Egebil Özel Eğitim Kurumları A.Ş.Egeyurt Eğitim Hizmetleri A.Ş.Etur Servis İşletmeciliği ve Turizm Tic. Ltd. Şti.Fenbil Yayıncılık ve Ticaret A.Ş.Gaziantepbil Eğitim Kurumları A.Ş.Netbil Basım ve Yayıncılık A.Ş.Samsunbil Eğitim Hizmetleri A.Ş.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ulbay",
+    "description": "Ulbay, 1983 yılında Mehmet Bakır Ulubayram tarafından kurulan Ulubayram İthalat İhracat ve Dahili Dış Ticaret bünyesinde ithal edilen aydınlatma, elektrik ve lüks hırdavat ürünleri markasıdır.Bünyesindeki markalar:BEMAXCapital LightingHhLEDBAYULBAY",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Go Petrol",
+    "description": "Go, 2013 yılında İpra Enerji A.Ş. bünyesinde kurulan yeni nesil yakıt istasyonu markasıdır.GO markalı ilk istasyon Konya’da açıldı. Müşterilerine İpragaz Otogaz ve Mobil motor yağları sunmaktadır.Hollandalı SHV Holdings N.V. bünyesindeki 28 ülkede faaliyet gösteren SHV Energy bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Agar Scientific",
+    "description": "Agar Scientific, 1975 Agar Scientific Ltd. bünyesindeki mikroskopi ve laboratuvar malzemeleri markasıdır.ISO 9001 belgesine sahiptir.Agar Scientific Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Stakpure",
+    "description": "Stakpure, 2013 yılında kurulan Stakpure GmbH bünyesinde üretilen iletkenlik ölçer, ters ozmoz sistemleri, elektrodeiyonizasyon, saf ve ultra saf su sistemleri markasıdır.Hastaneler, laboratuvarlar ve endüstri için saf ve ultra saf su sistemleri geliştirmektedir.Stakpure GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "HunterLab",
+    "description": "HunterLab, 1952 yılında Richard Hunter tarafından kurulan Hunter Associates Laboratory, Inc. bünyesindeki renk ölçüm cihazları markasıdır.Yapı malzemesi, kimya, gıda, boya, kağıt, ilaç, plastik, tekstil ve diğer tüm endüstri alanları için renk ölçüm teknolojileri üretmektedir.Hunter Associates Laboratory, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bidvest",
+    "description": "Bidvest, 1988 yılında Brian Joffe tarafından kurulan Bidvest Group Limited bünyesindeki ticaret ve dağıtım hizmetleri markasıdır.Bidvest Group Limited Güney Afrika merkezlidir.Bidvest Bank, Bidvest Group’un yüzde 100 iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ZA",
+    "updated_date": null
+  },
+  {
+    "company": "Meditolia",
+    "description": "Meditolia, 2017 yılında kurulan Meditolia Doğal Yaşam ve Sağlık Ürünleri San.i Tic. A.Ş. bünyesindeki cilt bakım ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lenor",
+    "description": "Lenor, 1960 yılında Procter & Gamble Company bünyesinde üretilen yumuşatıcı markasıdır.Lenor (Downy) dünyanın 100’den fazla ülkesinde satılmaktadır.Procter & Gamble Company (P&G) Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

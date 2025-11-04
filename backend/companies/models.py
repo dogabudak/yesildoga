@@ -11,13 +11,10 @@ class Company(models.Model):
     """
     
     # Core company information
-    domain = models.CharField(
-        max_length=255, 
-        unique=True, 
-        null=True,
+    domains = models.JSONField(
+        default=list,
         blank=True,
-        db_index=True,
-        help_text="Primary domain of the company (e.g., google.com)"
+        help_text="List of domains owned by the company (e.g., ['google.com', 'alphabet.com'])"
     )
     company = models.CharField(
         max_length=255,
@@ -94,7 +91,6 @@ class Company(models.Model):
         verbose_name_plural = "Companies"
         ordering = ['company']
         indexes = [
-            models.Index(fields=['domain']),
             models.Index(fields=['company']),
             models.Index(fields=['carbon_neutral']),
             models.Index(fields=['parent']),
@@ -103,7 +99,8 @@ class Company(models.Model):
         ]
     
     def __str__(self):
-        return "{} ({})".format(self.company, self.domain)
+        domains_str = ", ".join(self.domains) if self.domains else "No domains"
+        return "{} ({})".format(self.company, domains_str)
     
     @property
     def is_carbon_neutral(self):
@@ -115,20 +112,28 @@ class Company(models.Model):
         """Check if company has renewable energy data."""
         return self.renewable_share_percent is not None
     
-    def get_normalized_domain(self):
+    def get_normalized_domains(self):
         """
-        Get normalized domain for matching (removes www., converts to lowercase).
-        Mimics the Node.js backend domain matching logic.
+        Get normalized domains for matching (removes www., converts to lowercase).
+        Returns list of normalized domains.
         """
-        domain = self.domain.lower()
-        if domain.startswith('www.'):
-            domain = domain[4:]
-        return domain
+        normalized = []
+        for domain in self.domains:
+            normalized_domain = domain.lower()
+            if normalized_domain.startswith('www.'):
+                normalized_domain = normalized_domain[4:]
+            normalized.append(normalized_domain)
+        return normalized
+    
+    @property
+    def primary_domain(self):
+        """Get the first domain as primary domain for compatibility."""
+        return self.domains[0] if self.domains else None
     
     @classmethod
     def find_by_domain(cls, domain):
         """
-        Find company by domain with flexible matching.
+        Find company by domain with flexible matching across domains array.
         Mimics the Node.js backend domain matching logic.
         """
         if not domain:
@@ -139,24 +144,23 @@ class Company(models.Model):
         if normalized_domain.startswith('www.'):
             normalized_domain = normalized_domain[4:]
         
+        # Search for companies that contain this domain in their domains array
         # Try exact match first
-        try:
-            return cls.objects.get(domain__iexact=normalized_domain)
-        except cls.DoesNotExist:
-            pass
+        companies = cls.objects.filter(domains__icontains=normalized_domain)
+        for company in companies:
+            for comp_domain in company.domains:
+                comp_normalized = comp_domain.lower()
+                if comp_normalized.startswith('www.'):
+                    comp_normalized = comp_normalized[4:]
+                if comp_normalized == normalized_domain:
+                    return company
         
         # Try with www prefix
-        try:
-            return cls.objects.get(domain__iexact=f"www.{normalized_domain}")
-        except cls.DoesNotExist:
-            pass
-        
-        # Try without www prefix if original had it
-        if domain.lower().startswith('www.'):
-            try:
-                return cls.objects.get(domain__iexact=normalized_domain)
-            except cls.DoesNotExist:
-                pass
+        www_domain = f"www.{normalized_domain}"
+        companies = cls.objects.filter(domains__icontains=www_domain)
+        for company in companies:
+            if www_domain in [d.lower() for d in company.domains]:
+                return company
         
         return None
 

@@ -40,7 +40,7 @@ class CompanyAdmin(admin.ModelAdmin):
     
     list_display = [
         'company',
-        'domain', 
+        'domains_display', 
         'carbon_neutral_badge',
         'renewable_percentage',
         'parent',
@@ -61,7 +61,7 @@ class CompanyAdmin(admin.ModelAdmin):
     
     search_fields = [
         'company',
-        'domain',
+        'domains',
         'parent',
         'headquarters',
         'sector'
@@ -70,12 +70,12 @@ class CompanyAdmin(admin.ModelAdmin):
     readonly_fields = [
         'created_at',
         'updated_at',
-        'get_normalized_domain'
+        'get_normalized_domains_display'
     ]
     
     fieldsets = (
         ('Basic Information', {
-            'fields': ('company', 'domain', 'parent')
+            'fields': ('company', 'domains', 'parent')
         }),
         ('Sustainability Metrics', {
             'fields': ('carbon_neutral', 'renewable_share_percent'),
@@ -86,7 +86,7 @@ class CompanyAdmin(admin.ModelAdmin):
             'classes': ('collapse',)
         }),
         ('Metadata', {
-            'fields': ('created_at', 'updated_at', 'get_normalized_domain'),
+            'fields': ('created_at', 'updated_at', 'get_normalized_domains_display'),
             'classes': ('collapse',)
         })
     )
@@ -124,10 +124,18 @@ class CompanyAdmin(admin.ModelAdmin):
     renewable_percentage.short_description = 'Renewable Energy'
     renewable_percentage.admin_order_field = 'renewable_share_percent'
     
-    def get_normalized_domain(self, obj):
-        """Show normalized domain for debugging."""
-        return obj.get_normalized_domain()
-    get_normalized_domain.short_description = 'Normalized Domain'
+    def domains_display(self, obj):
+        """Display domains as a comma-separated list."""
+        if obj.domains:
+            return ', '.join(obj.domains)
+        return 'No domains'
+    domains_display.short_description = 'Domains'
+    
+    def get_normalized_domains_display(self, obj):
+        """Show normalized domains for debugging."""
+        normalized = obj.get_normalized_domains()
+        return ', '.join(normalized) if normalized else 'No domains'
+    get_normalized_domains_display.short_description = 'Normalized Domains'
     
     def mark_carbon_neutral(self, request, queryset):
         """Admin action to mark companies as carbon neutral."""
@@ -185,9 +193,9 @@ class CompanyAlternativeAdmin(admin.ModelAdmin):
     
     search_fields = [
         'from_company__company',
-        'from_company__domain',
+        'from_company__domains',
         'to_company__company',
-        'to_company__domain',
+        'to_company__domains',
         'description'
     ]
     

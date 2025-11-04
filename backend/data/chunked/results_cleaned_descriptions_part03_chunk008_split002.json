@@ -1,0 +1,229 @@
+[
+  {
+    "company": "Filmam",
+    "description": "Filmam, 1870 yılında kurulan Mam Filmam Ltd. bünyesinde üretilen el yapımı çakı markasıdır.Ürünlerinde paslanmaz Alman inox çelik ile İspanya ve Güney Afrika’daki özel ağaçlardan üretilen ahşap saplar kullanılmaktadır.Mam Filmam Ltd. Portekiz merkezlidir ve ürünlerini Porketiz’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Vitakraft",
+    "description": "Vitakraft, 1837 yılında kurulan Vitakraft pet care GmbH & Co. KG bünyesindeki hayvan besinleri markasıdır.Tüm evcil hayvanların beslenmesi için ürünler üretmektedir.Vitakraft pet care GmbH & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.Bünyesindeki markalar:VitalityPoésieVitaNatureEmotion",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bafang",
+    "description": "Bafang, 2003 yılında kurulan Bafang Electric (Suzhou) Co.,Ltd. bünyesinde üretilen elektrikli araç aksesuarları markasıdır.Yüksek kaliteli motorlar dışında, elektrikli bisiklet ve elektrikli scooter için bileşenlerin tam ürün yelpazesi sunmaktadır. ISO 9001 belgesine sahiptir. Ürünleri RoHS uyumlu ve CE etiketine sahiptir.Bafang Electric (Suzhou) Co.,Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Konchero",
+    "description": "Konchero, 2013 yılında kurulan Atsis Dış Ticaret ve Makine Danışmanlık Ltd. Şti. bünyesinde ithal edilen otomatik espresso makineleri, ticari ve ev tipi filtre kahve makineleri ve 3.dalga kahve ekipmanları markasıdır.Ürünlerini doğrudan Çin’deki üretici firmalardan ithal etmektedir ve üretimin her aşamasını mühendis kadrosuyla tüketicilere ulaştırmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Osawa",
+    "description": "Osawa, 1987 yılında kurulan Efor Dayanıklı Tüketim Malları Pazarlama Tic. Ltd. Şti. bünyesindeki ses sistemleri, ses mikserleri, mikrofonlar, ışıklandırma sistemleri, hoparlörler, amplifikatör ve aksesuarları markasıdır.Bünyesindeki markalar:BardiChankerDdsDexunEfor OsawaEfor StoreKajiwaKönigKönigelektronikLöweLtoMekseOkmikOkpaOsawaÖzayRoofSound WaveSoundkingWoll",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evans Drumheads",
+    "description": "Evans Drumheads, 1996 yılında D’Addario and Company tarafından satın alınan, müzik aleti aksesuarları markasıdır.Gitar telleri, bas telleri, mandolin dizeleri, banjo dizeleri, dobro dizeleri, ukulele dizeleri, gitar kayışları, gitar kabloları, gitar alır, gitar tuners, davul kafaları gibi ürünler üretmektedir.D’Addario and Company Amerika merkezlidir ve ürünleri Amerika’da bulunan üretim tesislerinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dunlop Manufacturing",
+    "description": "Dunlop Manufacturing, 1965 yılında Jim Dunlop tarafından kurulan Dunlop Manufacturing, Inc. bünyesindeki müzikal aksesuarlar markasıdır.Dunlop Cry Baby, MXR ve Way Huge gibi birçok tanınmış efekt pedalı markası satın aldı.Dunlop Manufacturing, Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alfais",
+    "description": "Alfais, 2010 yılında İsmail Akpınar tarafından kurulan Alfais Elektronik bünyesinde ithal edilen cep telefonu aksesuarları, bilgisayar için çevirici ve adaptörler, ses ve görüntü sistemleri aksesuarları, usb ürünleri markasıdır.Alfais Elektronik tarafından satılan Alfais markalı ürünler Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Payot",
+    "description": "Payot, 1920 yılında Nadia Payot tarafından kurulan PAYOT Laboratories bünyesinde üretilen cilt bakım ürünleri markasıdır.PAYOT Laboratories Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Denkrom",
+    "description": "Denkrom, 2010 yılında kurulan gıda makineleri markasıdır.Denizli merkezli firma süt depolama, soğutma tankları ve süt ürünleri üretim makineleri üretmekte ve yüzde 90’ını ihraç etmektedir.Türkiye’de süt soğutma ve depolama, pişirme, fermantasyon ve üretim hatları sistemi üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-09-16"
+  },
+  {
+    "company": "Janssen Cosmetics",
+    "description": "Janssen Cosmetics, 1990 yılında Walther Janssen tarafından kurulan Janssen Cosmetics GmbH bünyesindeki cilt bakım ürünleri markasıdır.Ürünlerini 80’e yakın ülkede dağıtmaktadır.Janssen Cosmetics GmbH Almanya merkezlidir ve ürünlerini Almanya’da üreterek Alman malı mührü taşıyarak pazarlamaktadır. TÜV belgelerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Peter Thomas Roth",
+    "description": "Peter Thomas Roth, 1993 yılında kurulan Peter Thomas Roth Labs LLC. bünyesindeki cilt bakımı ürünleri markasıdır.Şirket parfüm, kozmetik, cilt bakımı ve diğer ürünler sunmaktadır.Peter Thomas Roth Labs LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Histomer",
+    "description": "Histomer, 1982 yılında Vittorio Bortolin tarafından kurulan Valetudo Srl. bünyesinde üretilen cilt bakım ürünleri markasıdır.EN ISO 9001 belgesine sahiptir.Valetudo Srl. İtalya merkezlidir ve ürünlerini İtalya’da üreterek İtalya malı mührüyle 30’dan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar:BiogenaCalciferinaHistomerPlanta Pura",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Klapp",
+    "description": "Klapp, 1980 yılında Gerhard Klapp tarafından kurulan Klapp Cosmetics GmbH bünyesindeki göz çevresi, yüz, el ve ayak, sakal, vücut, boyun ve dekolte , dudak bakım ürünler, kırışıklık giderici, anti aging ürünler, cilt keleri için ürünler, akne önleyici ürünler, problemli cilt ürünleri, olgun cilt ürünleri, erkek cilt ürünleri, temizleyici ve nemlendirici ürünler, selülit ürünleri markasıdır.Ürünleri 60’tan fazla ülkede satılmaktadır.Klapp Cosmetics GmbH Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.Bünyesindeki markalar:Clinical CareGk CosmeticsHealth CosmeticalsKlapp GroupRepacell",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tiande",
+    "description": "Tiande, 2007 yılında kurulan Tiande Limited Liability Company bünyesindeki cilt bakım, makyaj ve saç bakım ürünleri, diş ve ağız hijyen ürünleri, wellness ve spa ürünleri, kişisel hijyen ürünleri, sağlık ürünleri, el ve ayak bakım ürünleri, vücut şekillendirme ürünleri markasıdır.Tiande ürünleri Çin, Avrupa ve Rusya’da üretilmektedir. ISO 9001 ve GMP belgelerine sahiptir.Tiande Limited Liability Company Rusya merkezlidir. Altay bölgesinde dünyanın en ekolojik temiz bölgelerinden birinde kurulmuş uluslararası bir güzellik ve sağlık şirketidir. Tiande markası 32 ülkede bulunmaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Aircosy",
+    "description": "Aircosy, 1999 yılında kurulan Aysu Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen bebek tekstil ürünleri markasıdır.Ürün yelpazesi arasında uyku tulumu, pijama, zıbın veya badi, ana kucağı, bornoz veya kundak veya panço, nevresim takımı seti, battaniye veya örtü, önlük veya bandana önlük, şapka veya eldiven, çarşaf veya lastikli çarşaf gibi ürünler yer almaktadır.Ürünlerini 12 bin metrekarelik kapalı alanda üretmektedir. BSCI, BCI, Oeko-Tex ve Organic belgelerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mauri Maya",
+    "description": "Mauri Maya, 1935 yılında W. Garfield Weston tarafından kurulan Associated British Foods plc bünyesinde yer alan maya ve ekmek hammadde departmanı olan AB Mauri’nin bir parçası olan ekmek mayası markasıdır.Firma şeker ve fırıncı mayası, emülgatörler, enzimler ve laktozda dahil olmak üzere dünyanın ikinci büyük üreticisidir.Associated British Foods plc’nin çoğunluk hisseleri Wittington Investments Limited’e aittir. Wittington Investments Limited hisselerinin yüzde 79,2’si Kanadalı iş adamı W. Garfield Weston tarafından kurulan Garfield Weston Vakfına, yüzde 20,8’i ise Weston Ailesine aittir. Türkiye’de Mauri Maya San. A.Ş. olarak faaliyet göstermektedir.Bünyesindeki markalar:Marmara MayaMauri MayaAllinsonArgo cornstarchAladino Peanut ButterBurgenBlue DragonCapulloDorset CerealsDromedary cake mixesElephant AttaFleischmann’s YeastHigh5Jordans cerealsLucky Boat NoodlesKaro corn syrupKingsmill breadMazola corn oilOvaltinePatak’sPrideRyvitaSilver SpoonSunblestThai Lotus PastesTolly Boy RiceTone’s SpicesTwinings",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Chr. Hansen",
+    "description": "Chr. Hansen, 1874 yılında Christian Hansen tarafından kurulan Chr. Hansen Holding A/S bünyesindeki süt ve et kültürleri, doğal gıda renklendiricileri, enzimler gibi doğal hammaddeler markasıdır.Chr. Hansen A/S’nin Danimarka 2, Almanya, Fransa ve Amerika’da birer olmak üzere beş ana üretim tesisi bulunmaktadır.Chr. Hansen Holding A/S, ana hissedarları arasında Danimar şirketi Novo A/S, Amerika şirketi Capital Group Companies ve Hollandalı APG Asset Management’ın bulunduğu Danimarka merkezli bir limited şirkettir. Türkiye’de Chr Hansen Gıda San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tosla Kart",
+    "description": "Tosla, Bir Akbank girişimi olan Aköde Elektronik Para ve Ödeme Hizmetleri A.Ş. bünyesindeki elektronik para platformudur. Tosla markasıyla Tosla Kart adında bir ön ödemeli kart bulunmaktadır.Carrefoursa ve Teknosa mağazalarından isimsiz Tosla Kart almak mümkündür.Akbank, 1948 yılında kurulan ve çoğunluk hisseleri Sabancı Holding, İlişkili Kuruluşlar ve Kişilere ait olan özel bankadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "CSM Bakery Supplies",
+    "description": "CSM Bakery Supplies, 2012 yılında Rhone Group LLC’nin yatırım kolu Rhone Capital tarafından satın alınan pastacılık ve unlu mamuller markasıdır.Hammadde ve yarı bitmiş ürünlerden dondurulmuş ve tüketime hazır ürünlere kadar değişen oldukça geniş bir ürün yelpazesine sahiptir.Türkiye’de CSM Bakery Supplies Gıda San. Tic. A.Ş. olarak faaliyet göstermektedir.Rhone Capital, Amerikalı özel sermaye şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mayadağ",
+    "description": "Mayadağ Nerenin Malı MarkasıMayadağ, 1973 yılında Engin Pak tarafından kurulan Pak Holding A.Ş. bünyesindeki Pak Gıda Üretim ve Pazarlama A.Ş. tarafından üretilen hamur mayası markasıdır.Fırın ve unlu mamüller için hazırlanan Mayadağ yaş hamur mayası doğal maya (saccharomyces cerevisiae) içermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Donella",
+    "description": "Donella, 1995 yılında kurulan Lara Tekstil San. Tic. Ltd. Şti. bünyesindeki pijama ve iç giyim ürünleri markasıdır.Ürünlerini 80’den fazla ülkeye ihraç etmektedir. ISO 9001 ve ISO 10002 belgelerine sahiptir.Bünyesindeki markalar:DONELLADONELLA MANLaraAlsanalsa",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mıtsuka",
+    "description": "Mıtsuka, 1974 yılında kurulan Finspor Dış Tic. Ltd. Şti. bünyesinde ithal edilen masa tenisi masası markasıdır.Finspor Türkiye çapında 15 mağazada 40’tan fazla markanın dağıtıcılığını yapmaktadır.Bünyesindeki markalar:AbdomenizerActionAdvance AAmfBioluxBrineCandyCollage & UniversityDepeDerbystarDolfin SwimgearDynamotion FitnessFantasticFinsporGalaMagnumMagnum ProfitnessMambo Body MassagerMaxconcept MaxcareMaxicamMd Muscle DynamicsMıtsukaNordictrackPowerfitPro FitnessProtechRip:60S Finder’sSari KanaryaSportsartStarkStrikerSuper GymThighciserValeoValeo VVarioluxVoitYork",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Niken",
+    "description": "1978 yılında kurulmuş olan Oto Erbaylar Ltd. Şti. bünyesindeki led far ampulü markasıdır.Firma İstanbul merkezlidir. Ürünlerini Yalova’daki 6 bin metrekarelik tesisinde üretmektedir ve 20’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar:",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-03-11"
+  },
+  {
+    "company": "Neffos",
+    "description": "Neffos, 1996 yılında kurulan TP-LINK Technologies Co., Ltd.’nin yan kuruluşu Neffos Limited bünyesinde üretilen akıllı telefon markasıdır.Dünyanın en büyük kablosuz ağ ürünleri sağlayıcısı TP-Link Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,223 @@
+[
+  {
+    "company": "Emerica",
+    "description": "1887 yılında kurulmuş olan Nidecker SA bünyesindeki ayakkabı, giyim ve aksesuarlar markasıdır.Nidecker SA Belçika merkezlidir.Bünyesindeki markalar;És",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Dymatize",
+    "description": "1994 yılında kurulmuş olan Dymatize Enterprises LLC. bünyesindeki gıda ve fitness takviyeleri markasıdır.Dymatize Enterprises LLC. Amerika merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cremorlab",
+    "description": "Samwhan Corporation bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri hipoalerjenik bileşenlerden oluşmaktadır.Samwhan Corporation Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Briviga",
+    "description": "2008 Ningbo Eastpower Electronics Co. Ltd. bünyesinde üretilen bisiklet parçaları ve aksesuarları, bisiklet ışıkları markasıdır.Ningbo Eastpower Electronics Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "DamPaste",
+    "description": "2007 yılında kurulmuş olan Marinsu İzolasyon San. Tic. Ltd. Şti. bünyesinde üretilen titreşim sönümleyici macunu markasıdır.Yat ve mega yatlar, römorkör tekneleri, askeri gemiler, hizmet tekneleri ticari gemiler demiryolu sistemleri ve yüzeylerde oluşan mekanik kaynaklı gürültüyü önlemek için kullanılır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "K-Paw",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mickle",
+    "description": "2008 yılında kurulmuş olan Mickle Audio Equipment Co. Ltd. bünyesinde üretilen üst düzey ekolayzır, analog mikser, dijital mikser, güçlendirilmiş mikser, ses arabirimi, mini mikser arayüzü markasıdır.Mickle Audio Equipment Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bonoch",
+    "description": "2021 yılında kurulmuş olan Shenzhen Velocity Technology Innovations Co. Ltd. bünyesinde üretilen bebek monitörü, bebek taşıyıcı, aksesuarlar markasıdır.Shenzhen Velocity Technology Innovations Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sterwins",
+    "description": "2004 yılında kurulmuş olan Ggp Italy S.P.A. bünyesindeki kesme ve budama işlemleri için kullanılabilen güçlü bir elektrikli zincirli testeredir.Ggp Italy S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Koppert",
+    "description": "1967 yılında kurulmuş olan Koppert B.V. bünyesindeki biyolojik bitki koruma, bombus arıları ve sineklerle doğal tozlaşma, dirençli yetiştirme, haşere kontrolü ve hastalık kontrolü, sebzeler, meyveler, tarla ve süs bitkileri için tarımsal çözümler markasıdır.Koppert B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Frohe",
+    "description": "1991 yılında kurulmuş olan Frohe AB bünyesinde üretilen çeşitli endüstrilerde kullanılmak üzere enjeksiyon kalıplı plastik parçalar ve montaj üniteleri markasıdır.ISO 13485, ISO 9001 ve ISO 14001 belgelerine sahiptir.IV Frohe SWEDEN AB İsveç merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Hampback",
+    "description": "2019 yılında kurulmuş olan Ningbo Jinglinjia Electronic Technology Co. Ltd. bünyesinde üretilen müzik aletleri, elektrikli davul ve çevre birimleri, hoparlör, kulaklık, çubuklar markasıdır.Ningbo Jinglinjia Electronic Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Herbalife",
+    "description": "1980 yılında Mark R. Hughes tarafından kurulmuş olan Herbalife International Inc. bünyesindeki takviye edici gıdalar, sporcu besinleri, kilo kontrol yiyecek ve içecekleri, cilt bakım ürünleri markasıdır.Herbalife International Inc. Amerika merkezlidir. Ürünlerini 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hollyland",
+    "description": "2013 yılında kurulmuş olan Shenzhen Hollyland Technology Co. Ltd. bünyesinde üretilen interkom sistemleri, kablosuz mikrofonlar, kameralar, video çözümleri markasıdır.Shenzhen Hollyland Technology Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Jeriyan",
+    "description": "2005 yılında kurulmuş olan Jeriyan Mühendislik İnş. Tic. Ltd. Şti. bünyesindeki ısıtma, soğutma, aydınlatma ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Onvita",
+    "description": "1993 yılında kurulmuş olan Algan Gıda Maddeleri İhracat İthalat Nakliye Petrol Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki antioksidan takviyeleri, omega-3 ve balık yağı ürünleri, vitamin ve mineral kompleksleri markasıdır.ISO 9001, GMP, HACCP belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Isoweir",
+    "description": "1989 yılında kurulmuş olan Star Boya ve Kimya San. Tic. Ltd. Şti. bünyesindeki çatı izolasyonu, iç ve dış cephe astarları, dış ve iç cephe boyaları, epoksi, esnek zemin kaplama, güçlendirme, izolasyon ürünleri, mantolama, tavan boyası, temel izolasyonu çözümleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dersar",
+    "description": "2000 yılında kurulmuş olan Long Xiang Group bünyesindeki robot süpürge, negatif iyon saç kurutma makinesi ve aksesuarlar markasıdır.Long Xiang Group Çin merkezlidir. 2018 yılından beri Türkiye’de Mieko Bilgi Teknolojileri A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vkemall",
+    "description": "Vkemall International Trading Co. Ltd. bünyesindeki ölçüm cihazları ve test araçları, iş sağlığı ve güvenliği, akülü vidalama, akıllı ev sistemleri, aksesuar ve tuning, avcılık ve balıkçılık, bahçe makineleri, bahçe sulama, banyo ve ev gereçleri, boya ve boya malzemeleri, dekorasyon ve aydınlatma, el aletleri, elektrik ve aydınlatma, elektrikli aletler, evcil hayvan ürünleri, fotoğraf ve kamera, güneş ve rüzgar enerjisi sistemleri, havuz ve ekipmanları, hayvancılık ekipmanları ve makineleri, ısıtma ve soğutma ürünleri, kaynak ve lehimleme, makine parçaları ve aksesuarları, mangal ve barbekü, matkaplar, mutfak gereçleri, nalburiye ve hırdavat, outdoor ve kamp, telefon ve aksesuarları, televizyon ve ses sistemleri, yapı malzemeleri, yedek parçalar markasıdır.Vkemall International Trading Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alfalink",
+    "description": "2018 yılında kurulmuş olan Proment Bilişim Teknolojileri San. ve Tic. Ltd. Şti. bünyesindeki saat, mikroskop kiti, bilgisayar bileşenleri, çevre birimleri, aksesuar ve yedek parçaları, modem ve ağ ürünleri, fener ve kafa lambası, dürbün ve teleskop, telefon ve aksesuarları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Anyela",
+    "description": "Aly Güzellik ve Kozmetik Ürünleri Tic. Ltd. Şti. bünyesindeki saç ve cilt bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coofbe",
+    "description": "2022 yılında kurulmuş olan Coofbe E-Ticaret Hizmetleri Ltd. Şti. bünyesinde ithal edilen çevirici ve adaptörler, ön cam güneşliği, şarj cihazları, şarj kabloları, akıllı saat ve bileklik aksesuarları, araç içi telefon tutacağı, bardaklık, bluetooth kulaklık, ekran koruyucu, çok amaçlı temizlik ürünleri, kılıflar, motosiklet telefon ve navigasyon tutucular, mouse, notebook standı, tablet kılıf, kalem, standları, telefon kulaklıkları, telefon oyun aksesuarları, vantilatör markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cool cold",
+    "description": "2007 yılında kurulmuş olan Coolcold Technology Co. Ltd. bünyesinde üretilen dizüstü soğutma pedi, dizüstü bilgisayar standı, mikrofon, kulaklık, hoparlörler markasıdır.ISO 9001, CE belgelerine sahiptir.Coolcold Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Highstar",
+    "description": "1994 yılında kurulmuş olan Jiangsu Highstar Battery Manufacturing Co. Ltd. bünyesinde üretilen li-ion pil, sodyum iyon pil, konut enerji depolama sistemi, lityum pil takımı, prizmatik lifepo4 hücresi, silindirik li-ion hücre, telekom istasyonu için yedek güç, ticari ve endüstriyel enerji depolama sistemi markasıdır.Jiangsu Highstar Battery Manufacturing Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yepvital",
+    "description": "2015 yılında kurulmuş olan Yep Pet Food San. Tic. Ltd. Şti. bünyesindeki köpek mamaları markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

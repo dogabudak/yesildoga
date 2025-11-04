@@ -1,0 +1,232 @@
+[
+  {
+    "company": "Chippin",
+    "description": "Chippin, 2002 yılında Koç Grubu bünyesinde kurulmuş olan Tanı Pazarlama ve İletişim Hizmetleri A.Ş. bünyesindeki mobil ödeme uygulaması markasıdır.Markaların mağaza, web ve mobil kanallarında; müşteri sadakati ve müşteri deneyimini müşteri verisi ile uyumlu yönetmeleri sağlayan çözümler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Damson Madder",
+    "description": "Damson Madder, 2019 yılında kurulmuş olan Damson Madder Ltd. bünyesindeki kadın ve erkek giyim ürünleri markasıdır.Tüm kıyafetlerinde geri dönüştürülmüş polyester, doğal boyalar ve pamuk gibi malzemeler kullanmaktadır.Damson Madder Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Klarna",
+    "description": "Klarna, 2005 yılında kurulmuş olan Klarna Bank AB bünyesindeki ödeme ve alışveriş hizmeti markasıdır.Doğrudan ödemeler, teslimat sonrası ödeme seçenekleri ve taksit planları sunmaktadır.Klarna Bank AB İsveç merkezlidir ve 45 ülkede faaliyet göstermektedir.Klarna, Sequoia Capital, Silver Lake, Bestseller Group, Dragoneer, Permira, Visa, Ant Group ve Atomico gibi yatırımcılar tarafından desteklenmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Floorpan",
+    "description": "Floorpan, 1969 yılında kurulmuş olan Kastamonu Entegre Ağaç San. ve Tic. A.Ş. bünyesinde üretilen yer döşemesi markasıdır.TSE ISO 9001, OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;3d Ids- Interior Design StudioAcrymattArt FloorArtfloorAstarpanAtlasfloorBridging Nature And LifeClick Floor PlusColorlamColorpanCraftcoreDekorpanDoğadan Hayata KöprüDoorlamDorpanEvoglossFirelamFlex UpFloormaxFloorpanFloorplanFloorwoodGloss Plus +GlossmaxGlossmax ProGlossplusGoldenclickGoldenfloorHaneconceptHayat EnerjiHayat Peletınspired SolutionsKa 55Ka 65KastamonuKeasKeaşLet’S Innovate Together!LıfepelletLightpanMasifpanMattplusMaxilamMedalamMedecolorMedefloorMedefolMedeglossMedekapMedelamMedelightMedenatMedepanNanoclickNeotop WorktopsNova ClıckNovaclickParlakpanPrintpanQuietpanQuietroomRealclickStepclickSun FloorSunfloorSuperiorpanSüperlamSüperpanTalentreeTechnolamTechnopanTechnopeletTechnotopTeknoglossTeknolamTeknopanTermofloorThermomaxVenüsfloorWallpanWood Is Our LifeYenyleYongakapYongalamYonganatYongapan",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Barak Gurme",
+    "description": "Barak Gurme, B.‘Barak Dibek Kahvesi Baharat ve Kuru Gıda San. Tic. Ltd. Şti. bünyesindeki fındık, fıstık, badem, ceviz kremaları, bitki çayları, kahveler markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Van Houten",
+    "description": "Van Houten, 1828 yılında üretilen gurme çikolatalı içecekler markasıdır.Barry Callebaut AG bünyesinde üretilmektedir ve 40’tan fazla ülkeye pazarlanmaktadır.Barry Callebaut AG İsviçre merkezlidir. Dünya çapında 60’tan fazla üretim tesisi işleten firmanın 2013 yılından beri Türkiye’de bir çikolata fabrikası bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Duralast",
+    "description": "Duralast, 1979 yılında kurulmuş olan AutoZone.com Inc. bünyesindeki otomotiv parçaları ve aksesuarları markasıdır.AutoZone.com Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pino Silvestre",
+    "description": "Pino Silvestre, 1955 yılında kurulmuş olan Mavive S.P.A. bünyesindeki tıraş losyonu, parfümler, kozmetikler, saç losyonları, esans yağları markasıdır.Mavive S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Rox Camping",
+    "description": "Rox, 1990 yılında kurulmuş olan Teknik Alet San. ve Tic. A.Ş. bünyesindeki gazlı ocaklar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;1001 AletAom Asturo OriginaliAsturo Aerografi OriginaliB+BtecBoyatabancamDaystar Power ToolsE 70G 70GardenwindHipo-BoxRed HitRoxRox WoodTa Teknik AletTeknik Alet TaTorque Master",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brouav",
+    "description": "Brouav, 2010 yılında kurulmuş olan Qingdao Zhongfei Intelligent Technology Co. Ltd. bünyesinde üretilen bitki koruma, güvenlik gücü, yangın söndürme, gözetleme, kurtarma, devriye, kargo ve askeri dronlar markasıdır.Qingdao Zhongfei Intelligent Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Soundcast",
+    "description": "Soundcast, 2004 yılında kurulmuş olan Soundcast Systems Inc. bünyesindeki kablosuz hoparlör sistemleri markasıdır.Soundcast Systems Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rossclean",
+    "description": "Rossclean, 2020 yılında kurulmuş olan Yağız Uluslararası İlt. Tel. Bil. San. Tic. Ltd. Şti. bünyesindeki yüz temizleme cihazı, kedi köpek mama ve su kabı, airfryer, buharlı dikey ütü markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Townew",
+    "description": "Townew, 2014 yılında kurulmuş olan Townew Intelligent Technology Co. Ltd. bünyesinde üretilen çöp kutuları, ev aletleri markasıdır.Townew Intelligent Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Byart Cam",
+    "description": "Byart, 2018 yılında kurulmuş olan By Art Dizayn ve Dekorasyon San. Tic. Ltd. Şti. bünyesinde üretilen cam, porselen, sofra ve mutfak eşyaları markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Balıkesir merkezlidir ve ürünlerini Balıkesir’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brioni Kitchenware",
+    "description": "Brioni Kitchenware, 2010 yılında kurulmuş olan Kural Metal Alüminyum San. ve Tic. A.Ş. bünyesinde üretilen granit pişirme ekipmanları, pişirme ekipmanları, sofra ve mutfak eşyaları, tencere, tava, cezve markasıdır.ISO 14001 belgesine sahiptir.Firma İstanbul merkezlidir ve ürünlerini İkitelli O.S.B.’de bulunan 2 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Koç Kablo",
+    "description": "Koç Kablo, 1980 yılında kurulmuş olan Koç Kablo San. Tic. Ltd. Şti. bünyesinde üretilen kablolar markasıdır.ISO 9001, ISO 14001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polaxtor",
+    "description": "Polaxtor, 2007 yılında kurulmuş olan Müzikbank Elektronik Müzik Yapım İnş. İltş. Tic. Ltd. Şti. bünyesindeki uydu sistemleri, solar sistemler, seslendirme, ağ çözümleri, bilgisayar oem ürünleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İlkim",
+    "description": "İlkim Nerenin Malı Markasıİlkim, 1998 yılında kurulmuş olan İlkim Makina Kalıp Plastik San. ve Tic. Ltd. Şti. bünyesinde üretilen süpürge yedek parçaları, beyaz eşya ve küçük ev aletleri yedek parçaları markasıdır.Firma İzmir merkezlidir. Torbalı’da 10 bin 700 metrekarelik alanda bulunan tesisinde üretim yapmaktadır. Ürünlerini pek çok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eva Mia",
+    "description": "Eva Mia, 2013 yılında kurulmuş olan Hane Ev Gereçleri San. ve Tic. Ltd. Şti. bünyesinde üretilen cam, plastik ev eşyaları, bahçe aksesuarları, plastik mutfak gereçleri, sofra ve mutfak eşyaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meşeler",
+    "description": "Meşeler, 1997 yılında kurulmuş olan Meşe Mutfak Ev Gereçleri Ltd. Şti. bünyesinde üretilen sofra ve mutfak eşyaları, pişirme ekipmanları, tencere, tava, cezve, granit pişirme ekipmanları, demir, alüminyum, bakır pişirme ekipmanları markasıdır.Firma Konya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fun Box",
+    "description": "Fun Box, 1975 yılında kurulmuş olan Mizan Ev Gereçleri Plastik İnşaat Ticaret Ltd. Şti. bünyesinde üretilen plastik banyo ve mutfak aksesuarları, plastik ev eşyaları, bahçe aksesuarları, plastik mutfak gereçleri, saklama kapları ve kaseler, organizerler markasıdır.ISO 9001 belgesine sahiptir.İstanbul merkezli firma ürünlerini 3 bin 500 metrekaresi kapalı, toplam 5 bin metrekarelik alanda bulunan tesisinde üretmektedir.Bünyesindeki markalar;Fun BoxMizanPlastixToybox",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Milen Ankastre",
+    "description": "Milen, Milen Teknoloji San. ve Tic. A.Ş. bünyesinde üretilen fırın, mini fırın, ankastre fırın, sofra ve mutfak eşyaları, pişirme ekipmanları, paslanmaz çelik pişirme ekipmanları, emaye pişirme ekipmanları, ev eşyaları, dekoratif ev ve mutfak eşyaları, elektrikli ev aletleri markasıdır.Firma Tekirdağ merkezlidir ve ürünlerini 7 bin metrekarelik kapalı alana sahip üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Borghese",
+    "description": "Borghese, 1985 yılında kurulmuş olan Borghese Inc. bünyesinde üretilen kozmetik ürünleri, cilt bakımı, kokular ve saç bakım ürünleri markasıdır.Borghese Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mi-Da-Jo",
+    "description": "Mi-Da-Jo Nerenin Malı MarkasıMi-Da-Jo, 1998 yılında kurulmuş olan Mi Da Jo Plastik İnşaat Malzemeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen soba, ocak düğmesi, fırın düğmesi, fırın kulbu, infrared soba markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir ve ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Haşema",
+    "description": "Haşema Nerenin Malı MarkasıHaşema, 1985 yılında kurulmuş olan Haşema Tekstil Turizm Spor Malz. ve Ambalaj San. Tic. Ltd. Şti. bünyesindeki tesettür mayo markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

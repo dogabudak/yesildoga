@@ -1,0 +1,222 @@
+[
+  {
+    "company": "Ergee",
+    "description": "Ergee, 1994 yılında kurulmuş olan Kik Textilien Und Non-Food Gmbh bünyesinde üretilen çorap, kumaş ve tekstil ürünleri markasıdır.Kik Textilien Und Non-Food Gmbh Almanya merkezlidir. Almanya merkezli Tengelmann Group şirketin yüzde 84 hissesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Leakfix",
+    "description": "Leakfix, 2007 yılında kurulmuş olan NM Dış Ticaret Pazarlama Ltd. Şti. bünyesindeki sprey kauçuk kaplama, su geçirmez sızdırmazlık ve tamir bandı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Easeus",
+    "description": "Easeus, 2007 yılında kurulmuş olan Chengdu Yiwo Tech Development Co. Ltd. bünyesindeki veri yedekleme, veri kurtarma ve disk yönetimi yazılımları markasıdır.Chengdu Yiwo Tech Development Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bridge Bio",
+    "description": "Bridge Bio, 1994 yılında kurulmuş olan The Bridge S.R.L bünyesinde üretilen yüzde yüz organik içecekler, tatlılar ve kremalar markasıdır.Ürünleri GDO, laktoz ve kolesterol içermez, çoğu glütensizdir.The Bridge S.R.L İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Tatbil",
+    "description": "Tatbil, 2004 yılında kurulan Emirhan Tem. Gıda San. Tic. Ltd. Şti. bünyesinde üretilen pestil, köme, tatlı, muska, çokopestil, sarma ürünleri markasıdır.Gümüşhane merkezli firma ürünlerini Gümüşhane OSB’de toplam 5 bin 500 metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tonkinos",
+    "description": "Tonkinos, 1984 yılında Niyazi Önen tarafından kurulan Dardanel Önentaş Gıda San. A.Ş. bünyesindeki ton balığı markasıdır.Balıkları Hint, Atlantik ve Pasifik okyanuslarından seçilmektedir.Firma Çanakkale merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gaynor Minden",
+    "description": "Gaynor Minden, 1992 yılında John Minden ve Eliza Gaynor Minden tarafından kurulan Gaynor Minden Inc. bünyesindeki ayakkabı, giyim, aksesuarlar markasıdır.Bale dansçıları için ayakkabı ve giyim konusunda uzmanlaşmıştır ve ürün yelpazesini yıllar içinde diğer dans türlerine uygun teknik terlikler, mayolar, taytlar, ısınmalar, aksesuarlar, tutuş ve eğitim yardımlarını içerecek şekilde genişletmiştir.Gaynor Minden Inc. Amerika merkezlidir ve ürünlerini 80 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ovelio",
+    "description": "Ovelio, Ove Gıda San. ve Tic. A.Ş. bünyesinde üretilen zeytinyağı, zeytin, balzamik sirke ve akdeniz gurme gıda ürünleri markasıdır.Ürün yelpazesi tüm zeytinyağı türleri, balzamik sirke, yeşil ve siyah zeytinler, deniz tuzları, baharatlar, orijinal bal ve salamura sebzelerinden oluşmaktadır. Ürünleri yüzde yüz Doğaldır.ISO 9001, ISO 22000, HELAL ve KOŞER belgelerine sahiptir.Firma İzmir merkezlidir ve Aydın’da bulunan fabrikasında ürettiği ürünlerini 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Öz Diyarbakır Seyahat",
+    "description": "Öz Diyarbakır Seyahat, 2012 yılında kurulmuş olan Öz Diyarbakır Seyahat Tic. Ltd. Şti. bünyesinde şehirler arası tarifeli kara yolu yolcu taşımacılığı hizmeti markasıdır.Firma Diyarbakır merkezlidir. Türkiye’nin 7 bölgesine seferler düzenlemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baykar Tekstil",
+    "description": "Baykar, 1984 yılında kurulmuş olan Baykar Tekstil San. ve Tic. A.Ş. bünyesinde üretilen eşofman, iç giyim ve pijama ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Has Diyarbakır Turizm",
+    "description": "Has Diyarbakır Turizm, 2015 yılında kurulan Has Di̇yarbakır Seyahat Turizm İnş. Pet. Market Tic. Ltd. Şti. bünyesindeki yolcu taşımacılığı markasıdır.Diyarbakır’dan Adana, Afyon, Ağrı, Ankara, Antalya, Batman, Bitlis, Bolu, Burdur, Bursa, Düzce, Gaziantep, Hatay, Iğdır, Isparta, İstanbul, İzmir, Kocaeli, Konya, Manisa, Mersin, Osmaniye, Sakarya, Şanlıurfa, Uşak gibi şehirlere seferler düzenlemektedir.Firma Diyarbakır merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Özlem Diyarbakır Seyahat",
+    "description": "Özlem Diyarbakır, 2004 yılında kurulmuş olan Özlem Diyarbakır Turizm İnşaat Nakliye San. ve Tic. Ltd. Şti. bünyesindeki şehirlerarası taşımacılık hizmeti markasıdır.ISO 9001 belgesine sahiptir.Firma Diyarbakır merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İdeal Kaynak",
+    "description": "İdeal Kaynak Nerenin Malı Markasıİdeal, 1998 yılında kurulmuş olan İdeal Kaynak Makina San. Tic. Ltd. Şti. bünyesinde üretilen şalümo takımları, dedektörler, gaz altıkaynak teli, kaynak makineleri, lanslar, matkaplar ve aletleri, propan tav takımları ve başlıkları, regülatörler, sanayi gazları, yön levhaları, yangın dolapları, yangın tüpleri, yedek parçalar , söndürme cihazları markasıdır.Firma Kayseri merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Winix",
+    "description": "Winix, 1973 yılında kurulmuş olan Winix Inc. bünyesinde üretilen hava temizleyici ve nemlendiriciler markasıdır.Şirket, evaporatörler, kondansatörler, klima bileşenleri, soğuk ve sıcak su temizleyicileri, fan ısıtıcıları, nem gidericiler, su sebilleri, hava soğutucuları, hava temizleyicileri, buzdolabı dekorasyon şasisi ve diğer bileşenleri üretmektedir. Ayrıca reçineler ve sigortalar gibi malzemeler de sağlar.Winix Inc. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Sholk",
+    "description": "Sholk, 1937 yılında kurulmuş olan Hayat Kimya A.Ş. bünyesinde üretilen evcil hayvanlar için tuvalet eğitim pedi, çamaşir suyu, yüzey temizleyici, sprey temizleyici, temizleme mendili markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Logmein",
+    "description": "Logmein, 2003 yılında kurulmuş olan LogMeIn Inc. bünyesindeki bulut tabanlı uzaktan çalışma araçları yazılımları markasıdır.Macaristan menşeli LogMeIn Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Akıllı Depo",
+    "description": "Akıllı Depo, 2016 yılında kurulmuş olan Doğançay Nakliyat Tic. A.Ş. bünyesindeki nakliye ve depolama çözümleri markasıdır.Arşiv depolama, depolama hazırlığı, eşya depolama, ofis eşyası depolama, mini akıllı depo, sigorta ve güvenlik, galeri hizmetleri vermektedir.Firma Ankara merkezlidir.Bünyesindeki markalar;Akıllı DepoAkilli Depo Taşınabilir Özel DeponuzDoğançay Akıllıdepo Self StorageDoğançay Akıllıdepo Taşınabilir Özel DeponuzDoğançay Ev&Ofis TaşımaDoğançay Evden Eve NakliyatEvex Ev & Ofis LojistiğiSmartbox Akıllı Deponuz Evinizin Sınırlarını KaldırınSmartdepo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Capcut",
+    "description": "Capcut, 2012 yılında kurulmuş olan Bytedance Ltd. bünyesindeki video düzenleyici ve oluşturucu uygulaması markasıdır.Video düzenleme, metin, çıkartmalar, filtreler, renkler ve müzik gibi temel özelliklere ek olarak, ana kare animasyonu, yumuşak ağır çekim efektleri, yakalama ve kırpma, resim içinde resim (PIP) dahil olmak üzere ücretsiz gelişmiş özellikler sunmaktadır.Bytedance Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Asepsystems",
+    "description": "Asepsystems, 1990 yılında kurulmuş olan Asepsystems S.r.l. bünyesinde üretilen gıda sanayisi tesis ve donanımları, meyve ve sebze işleme, kabuk soyma makineleri ve ocak ızgaraları markasıdır.Asepsystems S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Softpedia",
+    "description": "Softpedia, 2001 yılında kurulmuş olan SoftNews Net SRL bünyesindeki yazılım ve teknoloji haber sitesi markasıdır.Çeşitli indirilebilir yazılımları indeksler, inceler ve teknoloji ile bilim konularıyla ilgili haberleri raporlar.SoftNews Net SRL Romanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RO",
+    "updated_date": null
+  },
+  {
+    "company": "Reda Proses",
+    "description": "Reda, 1983 yılında kurulmuş olan Reda S. p. A. bünyesinde süt ve meyve suyu endüstrisi için üretilen gıda işleme ekipmanları markasıdır.Katı içerikli sıvılar veya yüksek viskoziteli ürünler de dahil olmak üzere çok çeşitli sıvı gıdalar için proses teknolojileri geliştirmektedir.Reda S. p. A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Malwarebytes",
+    "description": "Malwarebytes, 2008 yılında Marcin Kleczynski ve Bruce Harrison tarafından kurulmuş olan Malwarebytes Inc. bünyesindeki ev bilgisayarları, akıllı telefonlar ve şirketleri kötü amaçlı yazılımlardan ve diğer tehditlerden koruma yazılımları markasıdır.Malwarebytes Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Derkab",
+    "description": "Derkab, 2014 yılında kurulmuş olan Deremen Bilgisayar Ltd. Şti. bünyesinde üretilen network ağ ethernet kablosu markasıdır.Firma İstanbul merkezlidir ve ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fenjal",
+    "description": "Fenjal, 1899 yılında kurulmuş olan Doetsch Grether AG bünyesindeki kozmetik hijyen ürünleri markasıdır.Ürün yelpazesi sabun, banyo yağı, vücut losyonu, vücut yıkama, köpük banyosu, duş yağı, duş köpüğü ve diğer cilt bakım ürünlerini içermektedir.Doetsch Grether AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Sunwa Elektrikli Ekipmanlar",
+    "description": "Sunwa, 1949 yılında kurulmuş olan Sun-Wa Technos Corporation bünyesindeki mekatronik ve yarı iletkenler gibi elektronik ekipmanlar, motorlar, sensörler, endüstriyel robotlar, sayısal kontrol sistemleri, yarı iletkenler, programlanabilir kontrolörler, konektörler, küçük fanlar, anahtarlar ve yazıcılar markasıdır.Sun-Wa Technos Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

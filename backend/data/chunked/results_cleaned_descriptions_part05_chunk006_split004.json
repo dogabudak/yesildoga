@@ -1,0 +1,234 @@
+[
+  {
+    "company": "Sakashi",
+    "description": "Sakashi, 1992 yılında kurulan Sa-Ka İç ve Dış Tic. İthalat İhracat ve Makina Ltd. Şti. bünyesindeki konfeksiyon makineleri parça ve iğneleri markasıdır.İstanbul merkezli firma özel üretim endüstriyel dikiş makineleri ile ütüleme sistemleri ürünlerine sahiptir. Ürünlerini Tayvan’dan ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Diptyque",
+    "description": "Diptyque Paris, 1961 yılında Desmond Knox-Leet, Christiane Gautrot, Yves Coueslant tarafından kurulan Diptyque SASU bünyesinde üretilen parfümler, vücut ve yüz bakım ürünleri ve diğer ilgili ürünler markasıdır.Diptyque SASU 2005 yılında İngiltere merkezli özel sermaye şirketi Manzanita Capital tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Alkem Laboratories",
+    "description": "Alkem Laboratories, 1973 yılında Samprada Singh tarafından kurulan Alkem Laboratories Limited bünyesinde üretilen reçetesiz ilaçlar, kontakt lensler, hayvan sağlığı ürünleri markasıdır.Alkem Laboratories Limited Hindistan merkezlidir ve ürünlerini Hindistan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Ferretti Yachts",
+    "description": "Ferretti Yachts, 1968 yılında Alessandro ve Norberto Ferretti tarafından kurulan Ferretti S.p.A. bünyesindeki lüks motorlu yat markasıdır.2012 yılında Ferretti S.p.A.’nın yüzde 86,8 hissesi Çinli çok uluslu ağır makine ve otomotiv imalat şirketi Weichai Group tarafından satın alındı. Şirketin yüzde 13,2 oranındaki hissesi ise Piero Ferrari’ye aittir.Bünyesindeki markalar;CRNCustom LineFerretti YachtsItama YachtMochi CraftPershing YachtRivaWally",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "LuK",
+    "description": "LuK, 1965 yılında Wilhelm ve Georg Schaeffler kardeşler tarafından kurulan LuK GmbH & Co. KG bünyesinde üretilen kara taşıt parçaları, debriyaj, rulman, tamir takımları vs. ürünler markasıdır.Grubun ürün yelpazesi bugün CVT, otomatik ve çift kavramalı şanzımanlar için bağlantı sistemleri, burulma titreşim sönümleyicileri ve şanzıman bileşenlerini içermektedir. Ayrıca traktör ve tarım makineleri için çift kavramalar üretilmektedir.LuK GmbH & Co. KG Almanya merkezli Schaeffler AG’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cloudfare",
+    "description": "Cloudfare, 2009 yılında Matthew Prince, Lee Holloway ve Michelle Zatlyn tarafından kurulan Cloudflare Inc. bünyesindeki web uygulamaları için güvenlik duvarı, değiştirilecek etki alanı adı sunucusu, proxy sunucu, içerik dağıtım ağı, SSL markasıdır.Cloudflare Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zendium",
+    "description": "Zendium, 1969 yılında Henk Hoogendoorn tarafından kurulan Conopco Inc. bünyesinde üretilen kişisel bakım ürünleri, parfüm, sabun ve şampuan, gıda ürünleri markasıdır.Amiloglukosidaz, glikoz oksidaz, laktoperoksidaz, kolostrum, laktoferrin, lizozim, potasyum tiyosiyanat, sodyum florür, çinko glukonat içermektedir.Conopco Inc. İngiltere merkezli Unilever Grubu bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-25"
+  },
+  {
+    "company": "Cosmozone",
+    "description": "Cosmozone, 1998 yılında kurulan Mert Kozmetik Kimya Gıda Ambalaj San. Tic. Ltd. Şti. bünyesinde üretilen anti acne, ayak bakım kremi, el bakım kremi, kil sabunu, pişik bakım kremi, shea yağı sabunu, survival el ve yüz bakım kremi, yüz yıkama sıvısı, yosun sabunu markasıdır.Firma İzmir merkezlidir. ISO 9001 belgesine sahiptir.Bünyesindeki markalar;Baby MoreCosmozoneGood and HealthHermansItriOlive OzoneReve Dor",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "DigiCert",
+    "description": "DigiCert, 2003 yılında kurulan DigiCert Inc. bünyesindeki dijital sertifikalar veya TLS/SSL sertifikaları vermek için gereken ortak anahtar altyapısı (PKI) ve doğrulama sertifikaları markasıdır.Bu sertifikalar, kuruluşların ve etki alanlarının kimliklerini doğrulamak ve kullanıcıların web tarayıcıları, e-posta istemcileri, belgeler, yazılım programları, uygulamalar, ağlar ve bağlı IoT cihazları ile dijital etkileşimlerinin gizliliğini ve veri bütünlüğünü korumak için kullanılır.DigiCert Inc. Amerika merkezlidir ve çok sayıda ofisleri bulunan bir teknoloji şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mi Bebito",
+    "description": "Mi Bebito, 2004 yılında kurulan Mey Kozmetik İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen bebek duş jeli, bebek kolonyası, bebek losyonu, bebek yağıi bebek pudrası ve pişik önleyici krem markasıdır.Firma Tuzla Deri OSB’de bulunan 10 bin metrekarelik üretim tesisinde kozmetik, kişisel bakım ve temizlik ürünleri alanında üretim yapmakta ve üretiminin yüzde 70’ini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aselcioğlu",
+    "description": "Aselcioğlu Nerenin Malı MarkasıAselcioğlu, 1996 yılında Şeyhmus Aselcioğlu tarafından kurulan Aselcioğlu Kozmetik Baharat Gıda Turizm Madencilik Taşımacılık İthalat İhracat San. Tic. Ltd. Şti. bünyesinde üretilen zeytinyağlı ve defneli doğal sabun markasıdır.Acı badem, adaçayı, aloevera, ardıc katranı, argan, aynısefa, bal, böğürtlen, çay ağacı, çilek, çörekotu, defne, elma, eşşek sütü, gül, hindistan cevizi, inci tozu, jojoba, kahve, kakao, kavun, kayısı, keçi sütü, kefir, kekik, kil, kükürt, mango, mavi anemon, menengiç, meyan kökü, miski amber, nar, okaliptus, papatya, pirinç, portakal, salatalık, salyangoz, sarımsak, tarçın, hamam, üzüm çekirdeği, vişne, yasemin, yılan yağlı, yosun, zerdeçal, zeytinyağlı sabunlar, cilt beyazlatıcı sabun, bıttım sabun üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Feiyue",
+    "description": "Feiyue, 1958 yılında kurulan Feiyue International LLC. bünyesinde üretilen ayakkabı markasıdır.Ürünleri uluslararası 20 ülkede dağıtılmaktadır.Feiyue International LLC. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fuji Express",
+    "description": "Fuji Express Sarı İxir, 1978 yılında Musa Uğurlu tarafından kurulan Yeşilılgaz Kozmetik Kimya İnşaat Oto. ve Gıda San. Tic. Ltd. Şti. bünyesinde üretilen yağ ve kir temizleyici markasıdır.Firma kolonya, jel, oda spreyi, bambu oda kokusu, el sabunu, şampuan, saç kremi, duş jeli, el-vücut kremi, deterjan, çamaşır tableti, çok amaçlı yüzey temizleyicileri, aseton, gülsuyu, saç waxı, saç maskesi, fön suyu, saç serumu, masaj yağı ve lavanta yağı – suyu ürünlerini üretmektedir.İstanbul merkezli firma ürünlerini Edirne’de üretmektedir. Üretiminin yarısını 45 ülkeye ihraç etmektedir.ISO 9001, ISO 14001, SGS, SASO, GMP, TSE ve CERTIFICATE OF FREE SALES belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kabura",
+    "description": "Kabura, 2002 yılında kurulan Fora Sportif Balıkçılık ve Av Malzemeleri Tic. Ltd. Şti. bünyesinde ithal edilen amatör ve profesyonel balıkçılık malzemeleri markalarıdır.Olta takımları, yapay balık yemleri, avcılık ve balıkçılık için tuzaklar, olta kamışları, olta makaraları, olta ipleri (misinalar), köstekler, olta iğneleri, oltalar için tuzak yemler, muhtelif tipte zokalar, olta kurşunları, olta mantarları, olta şamandıraları, olta zilleri, balık avlama kepçeleri ürünlerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ricoma",
+    "description": "Ricoma, 1997 yılında kurulan Ricoma Co. Ltd. bünyesinde üretilen nakış makineleri markasıdır.ISO 9001 belgesine sahiptir.Ricoma Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Netlift",
+    "description": "Netlift, 1961 yılında kurulan NetMak Metal Makine San. ve Tic. Ltd. Şti. bünyesindeki endüstriyel kaldırma ekipmanları, transpalet, istif makinesi, forklift, muhtelif itici-çekiciler, makaslı çalışma platformu, personel yükseltici platform, ceraskal, çektirme, vinç, sapan ve aksesuarları, varil kaldırma ekipmanları, hidrolik ve mekanik krikolar, taşınabilir yaşam hattı, polyester gergi kayışları, zincir gerdirme sistemleri, ağır yük taşıma arabaları, kanca altı kaldırma ekipmanları, yük ve insan balansörleri markasıdır.İstanbul merkezli firma ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Final Eğitim Kurumları",
+    "description": "Final Eğitim Kurumları Sahibi Kim Hangi ÜlkeninFinal Eğitim Kurumları, 1980 yılında İbrahim Taşel tarafından kurulan Final Yayıncılık Reklam San. ve Tic. Ltd. Şti. bünyesindeki eğitim hizmetleri markasıdır.Türkiye’de pekçok il ve ilçede temel lise, temel ortaokul ve kurs olarak eğitim-öğretim yapmaktadır. Ayrıca KKTC ve Azerbaycan’da dershane olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Sectigo",
+    "description": "Sectigo, Sectigo Limited bünyesindeki TLS / SSL sertifikaları, DevOps, IoT ve kurumsal düzeyde PKI yönetimi, çok katmanlı web güvenliği, dijital kimlik çözümleri markasıdır.Dijital güvenlik, dijital kimlik çözümleri, ssl sertifikaları, sertifika yönetimi, internet güvenliği, genişletilmiş doğrulama ssl, nesnelerin interneti, ev ssl sertifikaları, web sitesi güvenliği, yönetilen pki, cihaz sertifikaları, mobil sertifikalar, şifreleme teknolojisi, kimlik güvencesi ve iot güvenliği alanlarında faaliyet gösteren siber güvenlik sağlayıcısıdır.Sectigo Limited Amerika merkezlidir. 200 ülkede 15’in üzerinde dilde müşterilerine hizmet vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Qianli",
+    "description": "Qianli, 2016 yılında kurulan Qianli Toolplus Co. Ltd. bünyesinde üretilen cep telefonu tamir servisi onarım araçları markasıdır.Qianli Toolplus Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Organicera",
+    "description": "Organicera, 2006 yılında Nur Beğen tarafından kurulan Yeni Hayat Organik Tekstil San. Tic. Ltd. Şti. bünyesinde üretilen organik bebek tekstil markasıdır.Yeni doğan ve bebek kıyafetleri, peluş oyuncaklar, çocuk ve yetişkinler için havlu ve bornoz, hamile emzirme yastığı, bebek taşıma bezi gibi ürünler üreten organik tekstil firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Blinc",
+    "description": "Blinc, 1999 yılında kurulan Blinc Inc. bünyesindeki tüp maskara, fırçalar ve aletler markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Blinc Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Trouver",
+    "description": "Trouver, 2017 yılında kurulan Dreame Technology Tianjin Co. Ltd. bünyesinde üretilen akıllı ev aletleri, kablosuz elektrikli süpürgeler, yüksek hızlı saç kurutma makineleri, bilgisayar donanımı ve yazılım ürünleri ve diğer ürünler markasıdır.Dreame Technology Tianjin Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Polo Club",
+    "description": "Polo Club, 2010 yılında kurulan Company Bridge & Life S.L. bünyesindeki erkek, kadın ve çocuklar için gömlekler, tekstil ürünleri, ayakkabılar, bez çantalar markasıdır.Company Bridge & Life S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Beem",
+    "description": "Beem, 1974 yılında kurulan Beem Gmbh bünyesinde üretilen semaver, kahve makinesi ve mutfak ve yemek pişirme için ev aletleri, tencere, tava, su ısıtıcısı, fırınlar markasıdır.Beem Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Campingaz",
+    "description": "Campingaz, 1949 yılında Gabriel Corlet, Rene Furrow, Andre Collomb, Lucien Bussiere tarafından kurulan hava yatakları, lambalar ve sobalar, ocaklar, ızgaralar, soğutma ekipmanları, bahçe ekipmanları, şişme ürünleri markasıdır.2016 yılında Amerika merkezli Newell Brands Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

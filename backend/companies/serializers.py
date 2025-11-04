@@ -10,15 +10,21 @@ class CompanyAlternativeSerializer(serializers.ModelSerializer):
     name = serializers.CharField(source='to_company.company', read_only=True)
     url = serializers.SerializerMethodField()
     description = serializers.SerializerMethodField()
-    domain = serializers.CharField(source='to_company.domain', read_only=True)
+    domain = serializers.SerializerMethodField()
     
     class Meta:
         model = CompanyAlternative
         fields = ['name', 'url', 'description', 'domain', 'relevance_score']
     
+    def get_domain(self, obj):
+        """Get primary domain for alternative company."""
+        return obj.to_company.primary_domain
+    
     def get_url(self, obj):
         """Generate URL for the alternative company."""
-        domain = obj.to_company.domain
+        domain = obj.to_company.primary_domain
+        if not domain:
+            return None
         if not domain.startswith('http'):
             return f"https://{domain}"
         return domain
@@ -45,11 +51,13 @@ class CompanySerializer(serializers.ModelSerializer):
     """
     carbon_neutral_alternatives = serializers.SerializerMethodField()
     origin = serializers.CharField(source='origin.code', read_only=True, allow_null=True)
+    domain = serializers.SerializerMethodField()  # For backward compatibility
     
     class Meta:
         model = Company
         fields = [
             'domain',
+            'domains',
             'company', 
             'carbon_neutral',
             'renewable_share_percent',
@@ -76,6 +84,10 @@ class CompanySerializer(serializers.ModelSerializer):
         ).select_related('to_company').order_by('-relevance_score')
         
         return CompanyAlternativeSerializer(alternatives_qs, many=True).data
+    
+    def get_domain(self, obj):
+        """Get primary domain for backward compatibility."""
+        return obj.primary_domain
 
 
 class CompanyListSerializer(serializers.ModelSerializer):
@@ -83,11 +95,13 @@ class CompanyListSerializer(serializers.ModelSerializer):
     Simplified serializer for company lists (excludes large text fields).
     """
     origin = serializers.CharField(source='origin.code', read_only=True, allow_null=True)
+    domain = serializers.SerializerMethodField()  # For backward compatibility
     
     class Meta:
         model = Company
         fields = [
             'domain',
+            'domains',
             'company',
             'carbon_neutral', 
             'renewable_share_percent',
@@ -96,21 +110,31 @@ class CompanyListSerializer(serializers.ModelSerializer):
             'origin',
             'sector'
         ]
+    
+    def get_domain(self, obj):
+        """Get primary domain for backward compatibility."""
+        return obj.primary_domain
 
 
 class CompanySearchSerializer(serializers.ModelSerializer):
     """
     Serializer for search results with minimal fields.
     """
+    domain = serializers.SerializerMethodField()  # For backward compatibility
     
     class Meta:
         model = Company
         fields = [
             'domain',
+            'domains',
             'company',
             'carbon_neutral',
             'renewable_share_percent'
         ]
+    
+    def get_domain(self, obj):
+        """Get primary domain for backward compatibility."""
+        return obj.primary_domain
 
 
 class DataVersionSerializer(serializers.ModelSerializer):

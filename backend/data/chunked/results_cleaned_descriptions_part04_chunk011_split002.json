@@ -1,0 +1,220 @@
+[
+  {
+    "company": "Fabbi",
+    "description": "Fabbi, 1982 yılında Franco Fabbi tarafından kurulan Fabbi Imola s.r.l. bünyesindeki elektrikli cihaz ve ekipman kablolama malzemeleri markasıdır.Firma elektrik, elektromekanik ve aydınlatma pazarlama malzemeleri alanında faaliyet göstermektedir.Fabbi Imola s.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Luciano Bellini",
+    "description": "Luciano Bellini, 1995 yılında kurulan Karar Ayakkabıcılık Deri Mamülleri San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.Ürünlerinde gerçek deri ve doğal materyaller kullanmaktadır. Firma İstanbul’da bulunan fabrikasında üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hoka One One",
+    "description": "Hoka One One, 1973 yılında Doug Otto ve Karl F. Lopker tarafından kurulan Deckers Outdoor Corporation bünyesindeki koşu ayakkabıları markasıdır.Marka 2013 yılında Deckers Outdoor Corporation tarafından satın alındı.Deckers Outdoor Corporation Amerika merkezlidir.Bünyesindeki markalar;AhnuHoka One OneSanukUgg",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Guzzi",
+    "description": "Guzzi, 2000 yılında Mustafa ve İsmail Göçer tarafından kurulan Şah Metal Perde Aksesuarları ve Dekorasyon San. Tic. Ltd. Şti. bünyesindeki rustik ve perde aksesuarları markasıdır.Rustik ve perde aksesuarları, renso, kolbağı, askı, braçol, halka, mıknatıslı tutucu, püskül braçol gibi ev içi perde aksesuarları sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Waben Filtre",
+    "description": "Waben Filtre, 1996 yılında kurulan Erdal Otomotiv Gıda San. ve Tic. Ltd. Şti. bünyesindeki hava, yakıt. yağ ve klima filtreleri markasıdır.2012 yılından beri filtre imalatı yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mbr",
+    "description": "Mbr Medical Beauty Research, Mbr Medical Beauty Research Gmbh bünyesinde üretilen yüz bakımı, saç bakımı, vücut bakımı, erkek bakımı, güneşten korunma bakımı, koku ürünleri markasıdır.Mbr Medical Beauty Research Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Valmont",
+    "description": "Valmont, 1985 yılında kurulan Cvl Cosmetics S.A. bünyesindeki cilt bakım ürünleri markasıdır.Bozulmamış doğal kaynaklardan yaşlanma karşıtı cilt bakım ürünlerini formüle etmektedir.Cvl Cosmetics S.A. İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Penhaligons",
+    "description": "Penhaligon’s, 1870 yılında William Henry Penhaligon tarafından kurulan Penhaligon’s Limited bünyesinde üretilen parfüm markasıdır.2015 yılında Penhaligon’s Limited, moda ve koku şirketi Puig International SA tarafından satın alındı.Puig International SA İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "ORS Rulman",
+    "description": "ORS, 1982 yılında kurulan Ortadoğu Rulman San. ve Tic. A.Ş. bünyesinde üretilen rulman markasıdır.Ürünlerini Ankara’da 300 bin metrekarelik arazide 100 bin metrekarelik kapalı alanda üretmektedir. ISO 9000 belgesine sahiptir.Üretiminin yaklaşık yüzde 50’sini A.B.D., Almanya, İtalya, Fransa, İngiltere, Tayvan, Portekiz ve Mısır gibi ülkelere ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Berlei",
+    "description": "Berlei, 1917 yılında Fred Burley tarafından kurulan Berlei Limited bünyesinde üretilen iç çamaşırı markasıdır.Berlei Limited, çok uluslu külot, çorap, sütyen ve basit tişörtler gibi iç çamaşırı üreten Amerika merkezli Hanesbrands Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Geratherm",
+    "description": "Geratherm, 1990 yılında kurulan Geratherm Medical AG bünyesinde üretilen ateş ölçer ve kan basıncı monitörleri gibi tıbbi ölçüm cihazları markasıdır.Geratherm Medical, sağlık teşhis, tıbbi ısınma sistemleri, kardiyo/inme ve solunum iş bölümleri ile uluslararası düzeyde uyumlu bir tıbbi teknoloji şirketidir.Geratherm Medical AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rk Royal Kludge",
+    "description": "Rk Royal Kludge, 2016 yılında kurulan Ltc Networking Limited bünyesinde üretilen kulaklık, klavye, fare, mikrofon, ses çubuğu markasıdır.Ltc Networking Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Dr Barbara Sturm",
+    "description": "Dr Barbara Sturm, 2014 yılında kurulan Barbara Sturm Molecular Cosmetics Gmbh bünyesinde üretilen cilt bakım ürünleri markasıdır.Yoğun hidrasyon damlalarından süper şarjlı serumlara ve lüks yüz kremlerine kadar, cilt bakım ürünleri üretmektedir. Ürünleri sentetik kokular, sert koruyucular ve mineral yağlar içermez.Barbara Sturm Molecular Cosmetics Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Berloni",
+    "description": "Berloni, 1960 yılında Antonio ve Marcello Berloni tarafından kurulan Berloni Group s.r.l. bünyesinde üretilen modüler mutfak mobilyaları markasıdır.Berloni Group s.r.l. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dermacol",
+    "description": "Dermacol, 1966 yılında Olga Knoblochova tarafından kurulan Dermacol, a. s. bünyesinde üretilen kişisel bakım, makyaj ürünleri markasıdır.Tüm cilt tipleri için bakım kozmetikleri, makyaj çıkarıcılar, vücut bakım ürünleri ve kozmetikler üretmektedir. Ürünleri 70’ten fazla ülkede satılmaktadır.Dermacol, a. s. Çek Cumhuriyeti merkezlidir ve ürünlerini Çek Cumhuriyeti’nde bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Sensatia Botanicals",
+    "description": "Sensatia Botanicals, 2000 yılında kurulan PT. Sensatia Botanicals bünyesinde üretilen doğal cilt bakım ürünleri markasıdır.Saf, doğal maddeler içeren sağlıklı cilt bakım ürünleri, el yapımı, soğuk preslenmiş hindistancevizi yağı sabunları üretmektedir. Ürünlerinde kimyasal, sentetik madde kullanılmaz.PT. Sensatia Botanicals Endonezya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ID",
+    "updated_date": null
+  },
+  {
+    "company": "Arcaya",
+    "description": "Arcaya, 2000 yılında kurulan Arcaya Gmbh bünyesinde üretilen kozmetik ürünler markasıdır.Güzellik ürünleri saç ürünleri ve kokular üretmektedir.Arcaya Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Veasoon",
+    "description": "Veasoon, 2000 yılında kurulan Veasoon Industrial Co., Ltd. bünyesindeki ev eşyaları, mutfak eşyaları, komik aletler, yenilikçi elektronik, moda ve mücevher, moda ve güzellik aksesuarları, yeni mutfak eşyaları, hediyeler markasıdır.Veasoon Industrial Co., Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Saban",
+    "description": "Saban, 1996 yılında kurulan Dünya Plastik Ev Gereçleri İmalat San. ve Tic. Ltd. Şti. bünyesinde üretilen ev gereçleri ve nem giderici ürünler markasıdır.Firma plastik banyo, mutfak aksesuarları ve çeşitli ev gereçleri, nem alıcı aparat ve tablet üretimini İstanbul’da bulunan 10 bin metrekarelik kapalı alana sahip tesisinde üretmektedir. Ayrıca çeşitli markalara özel etiket üretimi yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tokalon",
+    "description": "Tokalon, 1964 yılında Cooper Cosmetics S.A. bünyesinde üretilen parfüm, cilt kremi ve cilt losyonu, talk, poşet ve ayak tozlar, yüz tozlar ve ruj, kompakt ve sıvı, saç için tonik ve temizlik ürünleri, kaşlar için kalemler yüz, dudaklar ve kırışıklıkların, tırnaklar için mine, ağız yıkama, kişisel deodorantlar ve tüy dökücüler markasıdır.Cooper Cosmetics S.A. İsviçre merkezlidir.Bünyesindeki markalar;AseptineBiocelCabotNovalonTokalon",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Lutron",
+    "description": "Lutron, 1976 yılında kurulan Lutron Electronic Enterprise Co., Ltd. bünyesinde üretilen test ve ölçüm cihazları markasıdır.Ürünlerinin yüzde 95’i 80’den fazla ülkeye pazarlanmaktadır. ISO 9001 belgesidir.Lutron Electronic Enterprise Co., Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Woyax",
+    "description": "Woyax, 2013 yılında kurulan Mucize Batarya Teknolojileri San. Tic. A.Ş. bünyesindeki batarya markasıdır.Batarya gücünü iki katına çıkarmak için Woyax wonder Battery geliştirilmiştir.Woyax markalı ürünler Çin’den ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aloha Browser",
+    "description": "“Aloha Tarayıcı“2015 yılında Andrew Frost Moroz tarafından kurulan Aloha Mobile Ltd. bünyesinde geliştirilen web tarayıcı markasıdır.Android ve iOS çalıştıran akıllı telefonlar için kullanılabilen web tarayıcı, sınırsız ücretsiz olan ve tek bir tıklama ile etkinleştirilebilen yerleşik VPN hizmeti aracılığıyla herhangi bir sitenin engelini kaldırma yeteneğine sahiptir.Aloha Mobile Ltd. Güney Kıbrıs Rum kesimi merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CY",
+    "updated_date": "2024-09-12"
+  },
+  {
+    "company": "Kyver",
+    "description": "Kyver, 1991 yılında kurulan Magnetics Inc. bünyesindeki araç ses ekipmanları, müzik aletleri, rollins gitar, klavyeler, resif perküsyon, dc/dc adaptörler, priz adaptörleri, kulaklık, telefon adaptörleri ve kabloları, ses ve video çalar, cep telefonu kılıfları ve kablolar, piller, pil şarj cihazları, mikrofonlar, fare altlıkları, taşıma çantaları ve kasetleri markasıdır.Magnetics USA Inc. Amerika merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Blumarine",
+    "description": "Blumarine, 1977 yılında Anna Molinari ve Gianpaolo Tarabini tarafından kurulan Blufin S.p.A. bünyesindeki Kadın giyim, iç çamaşırı, plaj kıyafeti, gelinlik, çanta, ayakkabı, kemer, eldiven, saat, koku, ev dekorasyonu ve sofra takımı markasıdır.Blufin S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]
