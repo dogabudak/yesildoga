@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Liba",
+    "description": "Liba, 1945 yılında Lale ve Necip Barlas tarafından kurulan Liba Laboratuarları A.Ş. bünyesindeki ilaç, kozmetik ürünler, tıbbi cihaz markasıdır.Ana faaliyet alanları oftalmoloji, santral sinir sistemi, dermatoloji ve ürolojidir.Novartis, Alcon, Aspen ve Galderma gibi küresel ilaç firmalarıyla çalışmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ludwik",
+    "description": "Ludwik, 1964 yılında kurulan Grupa Inco S.A. bünyesindeki ev temizlik kimyasalları markasıdır.Bulaşık makinesi, cam, döşeme ve yıkama sıvıları ile evde tüm yüzeyler için birçok özel temizlik ürünleri vardır.Grupa Inco S.A. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Cella",
+    "description": "Cella, 1899 yılında kurulan Nicky Chini Srl bünyesinde üretilen tıraş ve cilt bakımı ürünleri markasıdır.Klasik bir berber sabunudur. İçeriğinde donyağı, yoğun miktarda badem özü bulunur.Nicky Chini Srl. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Eat Real",
+    "description": "Eat Real, 1974 yılında kurulan Lakshmi & Sons Ltd. bünyesindeki atıştırmalık markasıdır.Mercimek cipsi, Quinoa cipsi, humus cipsi üretmektedir. Cipleri GDO, MSG ve Gluten içermez. Ürünlerinde yapay renk verici, koruyucu yoktur.Lakshmi & Sons Ltd. İngiltere merkezldir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Asya Meyve Suyu",
+    "description": "Asya Meyve Suyu, 1972 yılında kurulan AGE Holding çatısı altında faaliyet gösteren Asya Meyve Suyu ve Gıda San. A.Ş. bünyesinde üretilen konsantre, püre, püre konsantresi ve nfc markasıdır.Ürünlerini 25 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

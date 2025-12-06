@@ -1,0 +1,45 @@
+[
+  {
+    "company": "SHOV",
+    "description": "SHOV, Shov Elektronik San. ve Tic. A.Ş. bünyesinde üretilmiş olan televizyon, küçük ev aletleri, tüketici elektroniği ürünleri markasıdır.İstanbul’da üretimlerini yapış olan firma faaliyetlerini sonlandırmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gallus",
+    "description": "Gallus, Gallus Ferd. Rüesch AG bünyesindeki etiket ve paketleme işi için tasarlanmış geleneksel ve dijital dar ağlı, makaralı beslemeli presler, geniş bir baskı aksesuarları ve yedek parçaları markasıdır.İsviçre merkezli firma ürünlerini İsviçre ve Almanya’daki üretim tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Özgüllü",
+    "description": "Özgüllü Nerenin Malı MarkasıÖzgüllü, 1958 yılında kurulan Özgüllü Süt Mamülleri Ltd. Şti. bünyesinde üretilen ayran, beyaz peynir, dilimli tost peyniri, kaşar peyniri, peyniraltı suyu tozu, tereyağı, yöresel peynirler, yağsız süt tozu, yoğurt markasıdır.TSE 9000, FSSC 22000 ve Helal belgelerine sahiptir.Sakarya merkezli firma ürünlerini 3. OSB’de 20 bin metrekarelik arazi üzerinde bulunan modern tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Autonics",
+    "description": "Autonics, 1977 yılında kurulan Autonics Corporation bünyesinde üretilen fotoelektrik sensörler, yakınlık sensörleri, fiber optik sensörler, lazer sensörler, fiber optik kablolar, renkli sensörler, çeşitli denetleyicileri ve tahrik sistemleri markasıdır.ISO 9001 belgesine sahiptir.Autonics Corporation Güney Kore merkezlidir. Ürünlerini Kore’de üretmekte ve 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Keten Pnömatik",
+    "description": "Keten Pnömatik, 1998 yılında kurulan Keten Pnömatik Havalı El Aletleri Otomasyon San. Tic. Ltd. Şti. bünyesinde ithal edilen havalı ve elektrikli el aletleri markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

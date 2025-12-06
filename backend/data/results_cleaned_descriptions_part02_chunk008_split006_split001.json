@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Eriş Un",
+    "description": "Eriş Un, 1920 yılında Ali Eriş tarafından kurulan Erişler Gıda Sanayi ve Ticaret A.Ş. bünyesindeki un markasıdır.BRC Gıda Güvenliği Yönetim Sistemi, ISO 9001 Kalite Yönetim Sistemi, ISO 14001 Çevre Yönetim Sistemi, ISO 22000 Gıda Güvenliği Yönetim Sistemi, OHSAS 18001 İş Sağlığı ve Güvenliği Yönetim Sistemi ve GİMDES HELAL Yönetim Sistemleri ve TS 4500 Belgesine sahiptir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dilem Tanem",
+    "description": "Dilem Tanem, 1981 yılında Adnan Çağlayan tarafından kurulan Çağlayan Gıda Sanayi ve Ticaret Limited Şirketi bünyesindeki bakliyat ürünleri markasıdır.Bünyesindeki markalar:DamlaTanemÇam",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mesh",
+    "description": "Mesh, 1986 yılında kurulan Enpa İthalat İhracat ve Gıda Ambalaj San. Tic. Ltd. Şti. bünyesindeki çubuk sıcak çaylar ve kahve markasıdır.Ev dışı tüketim grubu haricinde Gıda ve Ambalaj alanına 2011 yılında yatırım yapan şirket, öz sermayesi ile çay ve kahve dolum ve ambalajlama tesisi oluşturmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stipula",
+    "description": "Stipula, 1973 yılında Renzo Salvadori tarafından kurulan; deri ürünler için altın ve gümüş tokalar ve süs eşyaları, masa üstü aksesuarları ve yazı aletleri markasıdır.Stipula İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Delta Kalem",
+    "description": "Delta, 1982 yılında Nino Marino, Ciro Matrone ve Mario Muscente tarafından kurulan Delta Srl. bünyesindeki yazma aletleri markasıdır.Delta Srl. İtalya merkezlidir. Üretilen kalemler İtalyan işçiliği ve el yapımıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

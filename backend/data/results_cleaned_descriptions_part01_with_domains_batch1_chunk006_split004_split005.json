@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Natures Gate Ülkeye Ait Markadır",
+    "description": "Natures Gate, 1972 yılında kurulan IHERB LLC bünyesinde üretilen saç bakım ürünleri markasıdır.IHERB LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-07-28"
+  },
+  {
+    "company": "Zeytuni",
+    "description": "Zeytuni, 1986 yılında kurulan TEMAŞ A.Ş. bünyesinde üretilen doğal bakım ürünleri markasıdır.Doğal zeytinyağlı ürünler zararlı kimyasallar içermiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Türk Şampuanlar",
+    "description": "Türk Malı ŞampuanlarAgartaArgan cureBiobelindeBioblasBioxcinBioxinDalinDoa KozmetikDuruErsağFaber NaturexFarmasiFiytoFonexGarlexHabipoğluHuggloİmajİzoryaMarankiMecitefendiNaturaliveOtacıProf SaraçoğluSpumyZeytuni",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-01-30"
+  },
+  {
+    "company": "Inditex Ülkeye Aittir",
+    "description": "Inditex, 1985 yılında; 8 ayrı ticari markayı tek çatı altında toplayıp yönetmek için kurulan, 86 ülkede 6 bin 104 mağazaya sahip dünyanın başlıca moda distribütörlerindendir.İspanya merkezli Inditex grubu; tekstil tasarımı, üretimi ve distribütörlüğü iş faaliyetleri yürüten 100’ün üzerinde yan şirketi bünyesinde barındırmaktadır.Bünyesindeki markalar:ZaraPull and BearBershkaMassimo DuttiStradivariusOyshoZara HomeUterqüeTempe",
+    "documents": [
+      "CE"
+    ],
+    "parent": "Inditex Hangi Ülkeye Aittir :",
+    "origin": "ES",
+    "updated_date": "2019-01-20"
+  },
+  {
+    "company": "Deruibo",
+    "description": "Deruibo, 2011 yılında kurulan SHANDONG DERUIBAO TIRE CO.,LTD alt markasıdır.Çin Malıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

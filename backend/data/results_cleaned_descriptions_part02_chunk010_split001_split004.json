@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Nexen",
+    "description": "Nexen, 1942 yılında kurulan Nexen Tire Corporation bünyesindeki lastik ve lastik tüp markasıdır.Nexen 120 ülkeye ürünlerini ihraç etmektedir.Nexen Tire Corporation Güney Kore’de bulunan bir lastik üreticisidir. Kore ve Çin’de üç üretim tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Plesk",
+    "description": "Plesk, 2001 yılında üretilen ticari bir web barındırma otomasyon yazılımıdır.Sunucu sistemi yöneticisine, web tabanlı bir arayüz üzerinden web siteleri, e-posta hesapları oluşturma ve DNS girişlerini sağlar. Çok sayıda işletim sistemini destekler.2003 yılında Plesk Inc. Kanada merkezli Corel’in sahibi olduğu Parallels Inc. bünyesine geçmiştir.Bünyesindeki markalar:VirtuozzoPleskHSPcompleteParallelsPEMSiteBuilderConfixx",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Nankang",
+    "description": "Nankang, 1959 yılında kurulan Nankang Rubber Tire Corporation Ltd. bünyesindeki lastik ve diğer kauçuk ürünler markasıdır.Nankang lastikleri dünya çapında 100’den fazla pazara ihraç edilmektedir. ISO-9001 sertifikasına sahiptir.Nankang, Tayvan merkezlidir ürünlerini Tayvan ve Çin’de üretmektedir.Firma Geostar, Milestar ve Provato gibi markalar için lastik üretmektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Humm",
+    "description": "Humm, 2017 yılında kurulan GGK Gıda Yiyecek ve İçecek Ürünleri İşletmeciliği A.Ş. bünyesinde üretilen organik yulaf bar, kurabiye, kraker, grisini, glutensiz kek markasıdır.Çalışan üç anne tarafından kurulan, çocuklar için atıştırmalık markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wanderer",
+    "description": "Wanderer, 1885 yılında tamirciler Johann Baptist Winklhofer ve Richard Adolf Jaenicke tarafından kuruldu. İlk olarak bisiklet üreten firma sonra motosiklet ve araba üretmeye başladı.Wanderer 1932 yılında 4 markanın birleşmesiyle kurulan Almanya merkezli Auto Union AG’nin bir parçası oldu.Wanderer orta boy otomobil bölümüne ayrıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

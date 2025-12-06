@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Henry Schein",
+    "description": "1932 yılında Henry Schein tarafından kurulan Henry Schein Inc., sağlık ürünleri ve hizmetleri dağıtıcısıdır.Henry Schein Inc.’in 34 ülkede varlığı bulunmaktadır.Henry Schein Inc., Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Avantree",
+    "description": "Avantree, 2004 yılında kurulan Avantronics Limited bünyesindeki akıllı telefon ve tabletler için bluetooth aksesuarları, kulaklık, hoparlör, ekran koruyucuları, güç ve şarj cihazları gibi kablosuz aksesuarlar markasıdır.Ürünlerde biyolojik olarak parçalanabilir malzemeler kullanılırken RoHS standartlarına uyuluyor.Avantronics Limited Hong Kong merkezlidir. Ürünlerini 22 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Aquamatch",
+    "description": "Aquamatch, 1989 yılında kurulan Filtrasyon, Yumuşatma, Atıksu Arıtımı, Gri Su Arıtımı Sistemleri, Membran Teknolojisi, Dezenfeksiyon, Son Arıtım Prosesleri markasıdır.İstanbul merkezli Aquamatch, ürünlerini Aydın’da üretmektedir.Aquamatch 1989 yılından beri, Asya, Avrupa ve Afrika’daki müşterileri için, sürdürülebilir su ve atıksu artımı projeleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vivaldi",
+    "description": "Vivaldi, 2005 yılında kurulan Famipa Dış Ticaret Ltd. Şti. bünyesindeki mutfak ve ev gereçleri markasıdır.Türkiye genelindeki züccaciye ve ev gereçleri satan mağazalar ve toptancılara Vivaldi markalı ürünleri gönderilmektedir.Ürünlerini Avrupa, Orta Doğu ve Türki Cumhuriyetleri ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kormoran",
+    "description": "Kormoran, 1935 yılında kurulan lastik markasıdır. Kormoran markası Michelin lastik tarafından satın alınmıştır.Michelin, 1988 yılında Edouard ve Andre Michelin kardeşler tarafından kurulan Fransa merkezli araç lastiği şirketidir.Çok sayıda Avrupa ülkesinde, Çin’de Amerika’da ve Rusya’da üretim tesisleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2020-12-22"
+  }
+]

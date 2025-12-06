@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ralcorp",
+    "description": "Ralcorp, 1994 yılında kurulan Ralcorp Holdings, Inc. bünyesindeki gıda ürünleri markasıdır.Ürünleri arasında, kahvaltılık gevrek, kurabiye, kraker, çikolata, atıştırmalık, mayonez, makarna ve fıstık ezmesi yer alır.Ralcorp Holdings, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Luminox",
+    "description": "Luminox, 1989 yılında Barry Cohen tarafından kurulan Luminox Watch Company bünyesindeki saat markasıdır.Özel amblemler ve tasarımlar ile çeşitli askeri gruplar için markalı saatler yapar.2006 yılında Luminox Watch Company’nin yüzde 50 hissesi İsviçreli Mondaine Watch Ltd. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rigol",
+    "description": "Rigol, 1998 yılında Yue Wang tarafından kurulan Rigol Technologies, Inc. bünyesindeki elektronik test ve ölçüm ekipmanı markasıdır.Dünyanın en büyük dijital salınım üreticilerinden biridir.Dijital salınım, RF spektrum analizörleri, dijital multimetreler, fonksiyon jeneratörleri veya rasgele dalga formu jeneratörler, dijital programlanabilir güç kaynakları, yüksek performanslı sıvı kromatografisi için ekipman, ultraviyole ve görünür ışık için spektrofotometreler ürünleri üretmektedir.Rigol Technologies, Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Celestica",
+    "description": "Celestica, 1994 yılında kurulan Celestica Inc. bünyesindeki iletişim, kurumsal ve bulut çözümleri, endüstriyel, havacılık ve savunma, yenilenebilir enerji, healthtech ve sermaye ekipmanları markasıdır.Celestica Inc. Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Saray Halı",
+    "description": "Sahibi KimSaray Halı, 1972 yılında Necati Kurmel tarafından kurulan Saray Halı A.Ş. bünyesindeki makine halısı markasıdır.Halı’nın hammaddesini oluşturan yün, akrilik ve polipropilen iplik ve halıları 500 bin metrekarelik açık alanda bulunan 100 bin metrekarelik kapalı alanda bulunan boyama, iplik, dokuma, apre-konfeksiyon fabrikasında üretmektedir.Ürünlerini yaklaşık 50 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

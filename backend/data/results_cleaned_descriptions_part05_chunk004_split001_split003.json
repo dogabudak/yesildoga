@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Grillo",
+    "description": "Grillo, 1953 yılında kurulan Grillo S.P.A bünyesinde üretilen traktör markasıdır.Profesyonel tarım, yeşil alanların bakımı, ev bahçesi ve özel sebze bahçesi için makineler tasarlar ve üretir.Grillo S.P.A İtalya merkezlidir ve ürünlerini İtalya’da bulunan 4 üretim tesisinde üretmektedir ve 55 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Furkan Toys",
+    "description": "Furkan Toys, 1994 yılında kurulan Furkan Oyuncak Sanayi Ltd. Şti. bünyesinde üretilen oyuncak markasıdır.Furkan Group ürünlerini 12 bin metrekarelik alanda bulunan fabrikasında üretmekte ve pek çok ülkeye ihraç etmektedir.Ürettiği ve ithal ettiği tüm ürünlerin anti kanserojen olma özelliğine dikkat eden firma ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Little Tikes",
+    "description": "Little Tikes, 1969 yılında kurulan The Little Tikes Company bünyesindeki bebeklere ve küçük çocuklara yönelik düşük teknolojili kalıplanmış plastik oyuncaklar markasıdır.The Little Tikes Company, Amerika merkezli MGA Entertainment Inc. bünyesindedir. Ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Graziella",
+    "description": "Graziella, 1958 Graziella Group S.p.A bünyesindeki mücevher, saat, çanta, kemer, lüks moda markasıdır.Gümüş, altın ve elmas hatlarının yanı sıra mücevherli çantalar ve kemerler üretmektedir.Graziella Group S.p.A İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Biskrem",
+    "description": "Biskrem, Ülker ailesine ait Yıldız Holding A.Ş. tarafından 1991 yılında üretilen dolgulu bisküvi markasıdır.Ürünleri aşırı şekerlidir. Çok fazla doymuş yağ, aroma vericiler, gluten, nişasta bazlı tatlandırıcı, palm (hurma) yağı içerir.Ülker Bisküvi’de sermayenin yüzde 30’una denk gelen hisse, Yıldız Holding’in İngiltere merkezli yüzde 100 iştiraki Pladis Foods Limited’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

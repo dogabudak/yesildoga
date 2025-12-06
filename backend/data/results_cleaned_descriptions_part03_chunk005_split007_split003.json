@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Somfy",
+    "description": "Somfy, 1969 yılında kurulan Somfy Group bünyesinde akıllı ev sistemleri markasıdır.Evler ve binalarda herkes için konfor ve esenlik, kişi ve mal güvenliği, çevrenin korunması gibi çözümler üretmektedir.Somfy 58 ülkede faaliyet göstermektedir ve ev ve binalarda açıklıklar ve kapatmalar için otomatik kontrollerde dünya lideridir. Akıllı ev sistemlerinde motorlu çözümler ve kontrol noktaları sunmaktadır.Panjurlar ve dış gölgelikler, perdeler ve storlar, teras ve dış mekan, bahçe ve garaj kapıları, akıllı ev sistemleri ve kumandalar, kameralar ve alarmlar, isıtma ve aydınlatma gibi ürünlere sahiptir.Somfy Group Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Berrak Turşu",
+    "description": "Berrak, 1983 yılında kurulan Zey-Tur-San Gıda Sanayi ve Ticaret A.Ş. bünyesinde üretilen turşu, közlenmiş biber, soslar ve konserve gıda markasıdır.Türkiye’nin ilk kavanozda pastörize turşu markasıdır. Mevsiminde toplanan sebzeleri, koruyucu kullanmadan; turşulaştırarak, közleyerek veya ısıl işlem uygulayarak saklamakta ve tercihen cam kavanozlarda tüketiciye sunmaktadır.Zey-Tur-San, 86 bin metrekarelik açık, 15 bin metrekarelik kapalı tesislerinde üretim yapmaktadır.1990 yılında İsviçre gıda devi Reitzel S.A. firmaya ortak oldu.Firma 100’den fazla ülkeye ihracat yapmıştır ve her yıl 35 ülkeye fermente gıda ürünleri göndermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "BTA",
+    "description": "BTA, 1999 yılında TAV Havalimanları’na bağlı olarak kurulan yiyecek ve içecek servis grubu markasıdır.Türkiye, Gürcistan, Makedonya ve Tunus’taki 9 terminalde, yolculara yemekler sunmaktadır. Cakes & Bakes unlu mamül ve pasta fabrikası ile zincir restoranlar için üretim yapmaktadır.TAV hissedarları yüzde 46,12 Aéroports de Paris Grubu, yüzde 5,06 Tepe İnşaat, yüzde 1,29 Sera Yapı ve yüzde 44,33 halka açık hisselerden oluşur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Exergen",
+    "description": "Exergen, 1980 yılında Francesco Pompei tarafından kurulan Exergen Corporation bünyesindeki temassız kızılötesi sıcaklık ölçümü, termometreler ve sensörler markasıdır.Exergen Corporation Amerika merkezlidir. Tüm ürünler Exergen tarafından Amerika’da icat edilerek tasarlanıp üretilmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Advantest",
+    "description": "Advantest, 1954 yılında kurulan Advantest Corporation bünyesindeki ölçüm aletleri markasıdır.Yarı iletken cihaz ölçüm aletleri önde gelen üreticisidir. Advantest, Bellek, SoC ve RF test sistemleri üretmektedir.Şirket ayrıca Asya’da yan kuruluşları vardır ve 13 ülkede faaliyet göstermektedir.Advantest Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

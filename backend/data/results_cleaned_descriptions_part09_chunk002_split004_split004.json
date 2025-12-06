@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Milkplan",
+    "description": "Milkplan1989 yılında kurulmuş olan Milkplan SA bünyesindeki süt soğutma tankları, inek, koyun ve keçi için sağım sistemleri, süt taşıma tankları, ısı geri kazanım sistemleri, pastörizatörler, sürü yönetim sistemleri, hayvan konforu çözümleri, besleme çözümleri ve ürünleri, çiftlik planlama ve tarım ekipmanları markasıdır.Milkplan SA Yunanistan merkezlidir ve ürünlerini Yunanistan’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Facelab",
+    "description": "Facelab2022 yılında kurulmuş olan Scandi Kozmetik Ürünleri A.Ş. bünyesinde üretilen akne ve sivilce karşıtı, yaşlanma ve kırışıklık karşıtı ürünler, göz çevresi, güneş koruyucu, kremler, kuru ciltler, leke karşıtı ürünler, nemlendiriciler, serumlar, temizleme jelleri, tonikler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Revile Araba",
+    "description": "Revile2004 yılında kurulmuş olan Kuba Otomotiv İnşaat San. ve Tic. A.Ş. bünyesinde üretilen elektrikli araçlar markasıdır.Firma Gaziantep merkezlidir. Ürünlerini 4. OSB’de 35 bin metrekarelik kapalı alana sahip fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eppendorf",
+    "description": "Eppendorf1945 yılında kurulmuş olan Eppendorf SE bünyesindeki laboratuvarlarda sıvı elleçleme, numune elleçleme ve hücre elleçleme için aletler, sarf malzemeleri ve hizmetler markasıdır.Ürün yelpazesi pipet ve otomatik pipetleme sistemleri, dağıtıcı, santrifüj, karıştırıcı, spektrometre ve DNA amplifikasyon ekipmanları ile ultra düşük sıcaklıklı dondurucular, fermentörler, biyoreaktörler, CO2 inkübatörleri, çalkalayıcılar ve hücre manipülasyon sistemlerinden oluşmaktadır.ISO 9001, ISO 13485 belgelerine sahiptir.Eppendorf SE Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Artego Kollajen",
+    "description": "Artego2015 yılında kurulmuş olan Arthroline İlaç Sağlık Hizmetleri İthalat İhracat Ltd. Şti. bünyesindeki takviye edici gıdalar markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

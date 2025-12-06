@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Patreon",
+    "description": "Patreon, 2013 yılında Amerikalı müzisyen Jack Conte ve geliştirici Sam Yam tarafından kurulan Patreon, Inc. bünyesindeki içerik oluşturucularına kendi abonelik içeriği hizmetlerini kurmalarına izin veren, İnternet tabanlı bir platformdur.Patreon kullanıcıları, video / film, podcast, komedi, çizgi roman, oyun, eğitim vb. Içerik türüne göre gruplandırılmıştır.Hizmet karşılığında, Patreon her bağış için belirli oranlarda komisyon ücreti almaktadır.Patreon, Inc. Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Neuhaus",
+    "description": "Neuhaus, 1857 yılında Jean Neuhaus tarafından kurulmuş olan Neuhaus NV bünyesinde üretilen bisküvi, çikolata, dondurma markasıdır.Neuhaus NV, Belçika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2024-12-21"
+  },
+  {
+    "company": "Bellona",
+    "description": "Bellona, 1997 yılında kurulmuş olan Bellona Mobilya San. ve Tic. A.Ş. bünyesinde üretilen panel mobilya, oturma grupları, yatak, baza, başlık ve sandalye markasıdır.2016 yılında Tasarruf Mevduatı Sigorta Fonuna (TMSF) devredilmiştir. TMSF yönetimindeki Erciyes Anadolu Holding’e bağlı bir grup şirketidir.Kayseri merkezlidir. Kayseri OSB’de toplam 350 bin metrekarelik alan üzerine kurulu 233 bin metrekarelik kapalı, 117 bin metrekarelik açık alanda faaliyet sürdürmektedir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-12-28"
+  },
+  {
+    "company": "Tasarruf Mevduatı Sigorta Fonu (TMSF) Nedir",
+    "description": "TMSF (Tasarruf Mevduatı Sigorta Fonu), tasarruf sahiplerinin haklarını yolsuzluk ve usulsüzlüklerden korumak amacıyla kurulmuş özerk bir devlet kurumudur.2018 yılında Cumhurbaşkanlığı’na bağlanmıştır.Bankacılık Kanunu ve ilgili diğer mevzuat ile verilen yetkiler kapsamında görevleri yerine getirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Flexi Sports",
+    "description": "Flexi Sports, 1993 yılında kurulan Flexi Otomotiv İnşaat ve Spor Malz. A.Ş. bünyesinde ithal edilen Futbol, Basketbol, Voleybol, Hentbol topları, Kauçuk, Gökkuşağı ve Plastik Toplar markasıdır.Ürünlerini Çin’den ithal etmektedir.Firmanın bünyesinde ayrıca YKB filo araç kiralama markası faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

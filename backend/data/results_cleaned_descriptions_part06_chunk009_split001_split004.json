@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Petguard",
+    "description": "Petguard, 1979 yılında kurulan Petguard Inc. bünyesinde üretilen evcil hayvan gıdaları markasıdır.Ürünleri koruyucular, yapay renkler, tatlandırıcılar ve yan ürünler içermeyen kaliteli malzemelerle sağlıklı, doğaldır.Petguard Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bebevo",
+    "description": "Bebevo, 2012 yılında kurulan Evotronics Bilişim Hizmetleri Ltd. Şti. bünyesindeki bebek monitörü, bebek telsizi markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BebevoEvopowerEvotab",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Swd Rheinol",
+    "description": "Swd Rheinol, 1965 yılında kurulan Swd Lubricants GmbH & Co. KG bünyesinde üretilen motor yağları, endüstriyel ve hidrolik yağlar ve gresler markasıdır.DIN EN ISO 9001, OHSAS 18001, ISO/TS 16949 belgelerine sahiptir.Swd Lubricants GmbH & Co. KG Almanya merkezlidir. Ürünlerini 15’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Monteverde",
+    "description": "Monteverde, 1999 yılında piyasaya sürülen yazı aletleri markasıdır.Dünyanın en büyük mürekkep ve dolum üreticilerinden biridir.Amerika merkezli Yafa Brands Inc. bünyesindedir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.Firma dolma kalem, tükenmez kalem, rollerball, kalem, alet kalemleri, mürekkep, hediyelik ürünler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Derwent",
+    "description": "Derwent, 2005 yılında kurulan ACCO Brands Corporation bünyesindeki kalemler, boyalar, pilli silgiler, fırçalar, diğer kırtasiye ürünleri markasıdır.ACCO Brands Corporation Amerika merkezlidir ve ürünlerini 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

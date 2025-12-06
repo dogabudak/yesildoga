@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Mustafa Erel Zeytinleri",
+    "description": "Mustafa Erel, 2008 yılında kurulan Erel Zeytincilik Gıda San. Tic. Ltd. Şti. bünyesinde üretilen siyah salamura, siyah yağlı sele, Edremit tipi yeşil çizik, Akhisar tipi yeşil kokteyl, yeşil kırma ve yeşil biberli zeytin markasıdır.Ürünlerini Bursa’da bulunan tesislerine üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Helvacızade Şekerleme",
+    "description": "Helvacızade Şekerleme Nerenin Malı MarkasıHelvacızade, 1920 yılında kurulan Helvacızade Helva Şekerleme Çikolata Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen helva, lokum, şeker, tahin, pekmez, çikolata, badem ezmesi, tatlı, şekerleme, reçel, bal ve fındık kreması markasıdır.Ürünlerini 4 bin metrekarelik kapalı alanda üretmektedir.ISO 9001, HACCP ve HELAL belgelerine sahiptir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Banbao",
+    "description": "Banbao, 2003 yılında kurulan Banbao Co. Ltd. bünyesinde üretilen oyuncaklar, oyuncak yapı taşları, oyuncak araçlar, oyunlar, vücut eğitim aparatları, satranç, oyunlar için toplar, süs eşyaları, yüzme havuzları markasıdır.Banbao Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Arpi Çikolata",
+    "description": "Arpi Çikolata, 2008 yılında kurulan Arpi Çikolata Şekerleme ve Gıda Ürünleri A.Ş. bünyesinde üretilen kokolin çikolata, kek ve şeker mamülleri markasıdır.Arpi Çikolata, 1983 yılında kurulan Deresallar Gıda A.Ş.’ye aittir.Bünyesindeki markalar;Arpi ÇikolataDeray BakliyatGökdere",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Riccolivo",
+    "description": "Riccolivo, 2018 yılında kurulan Arnas Tarım Üretim ve Tic. A.Ş. bünyesinde üretilen zeytin ve zeytinyağı markasıdır.HACCP, ISO 22000 belgelerine sahiptir.Firmanın Amerika, Almanya ve Rusya’da şubeleri bulunmaktadır.Bünyesindeki markalar;Alia SultanİskeleRiccolivoRosebellaThe MillThe Soap Factory",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-05-09"
+  }
+]

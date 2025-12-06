@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Hensel",
+    "description": "Hensel, 1931 yılında kurulan Gustav Hensel GmbH & Co. KG bünyesinde üretilen buatlar markasıdır.Elektrik enerjisinin sigortaları, saptırıcıları, dağıtıcıları ve dönüştürücülerini üretmektedir.ISO 9001 belgesine sahiptir.Gustav Hensel GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mil-Tec",
+    "description": "Mil-Tec, 1971 yılında kurulan Sturm Handels Gmbh bünyesinde üretilen açık hava kıyafetleri ve ekipmanları markasıdır.ISO 9001 belgesine sahiptir.Sturm Handels Gmbh Almanya merkezlidir.Bünyesindeki markalar;Mil-TecTeesarMa1",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Puretech Yakut",
+    "description": "Puretech, Oveon Mühendislik Oto. San. ve Tic. Ltd. Şti. bünyesindeki evsel su arıtma cihazları, endüstriyel su artıma cihazları, filtreler, yedek parçalar markasıdır.Suyu Ters Ozmos‘un da dahil olduğu 5 kat filtrelemeden geçirmektedir.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mckinley",
+    "description": "Mckinley, 1968 yılında kurulan Intersport Schweiz AG bünyesindeki dış mekan kıyafetleri, ayakkabılar ve çantalar markasıdır.Açık hava ve kış sporları için ürünler üretmektedir.Intersport Schweiz AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Mastercut Tool",
+    "description": "Mastercut Tool, 1985 yılında kurulan Mastercut Tool Corporation bünyesinde üretilen karbür döner kesme aletleri markasıdır.Ürün yelpazesinde frezeler, matkaplar, yönlendiriciler, raybalar, takım kaplamaları ve diğer araçlar yer almaktadır.Mastercut Tool Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

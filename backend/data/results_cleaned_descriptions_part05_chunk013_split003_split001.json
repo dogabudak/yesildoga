@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Winrar",
+    "description": "Winrar, 1995 yılında Burak Canboy ve Öncül Kaya tarafından kurulan Win.Rar Gmbh bünyesindeki sıkıştırma programıdır.Tek bir programla sıkıştırma, şifreleme, paketleme ve yedekleme yapmaktadır. 50’den fazla dilde 32 bit ve 64 bit versiyonlarında mevcuttur.Win.Rar Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "MF Botanik",
+    "description": "MF Botanik, 2020 yılında kurulan Mf Botanik Peyzaj A. Ş. bünyesinde üretilen bahçe market ürünleri gübre, toprak, plastik saksı beton saksı markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bismak",
+    "description": "Bismak, 2004 yılında kurulan Delta Qrup C.O. MMC bünyesinde üretilen şekerleme ve unlu mamulleri markasıdır.Ürün yelpazesinde un ve makarna, bisküvi, şekerli kurabiye, zencefilli çörek, kraker, gofret, şeker gibi ürünler yer almaktadır.Delta Qrup C.O. MMC Azerbaycan merkezlidir. Ürünlerini Azerbaycan’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Antiefix",
+    "description": "Antiefix, 2018 yılında kurulan Yiwu Antie Hardware Co. Ltd. bünyesinde üretilen elektrikli el aletleri markasıdır.Yiwu Antie Hardware Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hoteche",
+    "description": "Hoteche, Ningbo Genin Industrial Co. Ltd. bünyesinde üretilen el aletleri, elektrikli el aletleri aksesuarları, araba aletleri, hava , bahçe aletleri, kaynak işleme, jeneratör markasıdır.IS0 9002 belgesine sahiptir. Ürünlerinin kalitesini diğerlerinden daha iyi hale getirmek için Japonya, Tayvan ve Almanya’dan hammadde ithal etmektedir.Ningbo Genin Industrial Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

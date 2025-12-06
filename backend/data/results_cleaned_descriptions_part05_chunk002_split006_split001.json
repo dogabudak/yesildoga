@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Valera",
+    "description": "Valera, 1978 yılında kurulan Ligo Electric SA bünyesindeki saç bakım aletleri markasıdır.Saç kurutma makinesi, saç düzleştirici, şekillendirici, saç kesme cihazları Çin’de üretilmektedir.Ligo Electric SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Kardelen Kuruyemiş",
+    "description": "Kardelen Kuruyemiş, Kardelen Leblebi Kuruyemiş Gıda San. ve Tic. Ltd. Şti. bünyesindeki kuruyemiş ve kuru meyve markasıdır.ISO 9001, ISO 22000, HELAL belgelere sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oligo",
+    "description": "Oligo, 1995 yılında kurulan Oligo Group bünyesindeki aydınlatma armatürleri ve aydınlatma sistemleri markasıdır.Otomotiv ve endüstriyel kullanım için en son LED teknolojisini kullanmaktadır.Oligo Group Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Burç",
+    "description": "Burç, 1990 yılında kurulan Burç Aydınlatma San. Tic. Ltd. Şti. bünyesinde üretilen aydınlatma ürünleri markasıdır.Ankara merkezli firma üretiminin yüzde 70’ini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Solis Traktör",
+    "description": "Solis, 1969 yılında kurulan Yanmar Holdings Co. Ltd. bünyesinde üretilen traktör ve tarım ekipmanları markasıdır.130’dan fazla ülkede faaliyet gösteren grubun Türkiye, Brezilya, Kamerun ve Cezayir’de üretim tesisleri bulunmaktadır.Hindistan merkezli International Tractors Ltd., Japonya merkezli Yanmar Holdings Co. arasında ortaklığa gidilmiştir. Bu ortaklık Tükiye’de Solis Traktör San. ve Tica. A.Ş. olarak İzmir’de üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

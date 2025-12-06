@@ -1,0 +1,51 @@
+[
+  {
+    "company": "DFM Dong Feng",
+    "description": "DFM (Dongfeng Motor), 1969 yılında kurulan Dongfeng Motor Corporation bünyesindeki otomotiv markasıdır.Dongfeng Motor Corporation, Binek otomobili, Ticari araç, Otobüs ve Otomotiv parçaları üretmektedir. Fengshen adlı binek otomobil markası vardır.Çin Devletine ait olan Dongfeng’in Renault, Nissan, PSA Peugeot Citroen, Volvo, Honda, Kia ve Yulon Motors ile ortaklığı bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-04-21"
+  },
+  {
+    "company": "Lamy",
+    "description": "Lamy, 1930 yılında Josef Lamy tarafından kurulan C. Josef Lamy GmbH bünyesindeki kalem markasıdır.ORTHOS ve ARTUS marka dolma kalem üretmektedir.C. Josef Lamy GmbH Almanya merkezli bir şirkettir. Lamy yazma aletleri, en iyi Alman tasarım geleneğini ve mühendislik sanatını somutlaştırmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Muratbey",
+    "description": "Murtabey, 1965 yılında temelleri atılan MURATBEY GIDA SANAYİ ve TİCARET A.Ş.’ye ait peynir markasıdır. Necmi ve Recai Erol kardeşler firmanın sahibidir.Muratbey markası 60’a yakın ülkede tescil almıştır ve çok sayıda ülkeye ürünlerini ihraç etmektedir.35 bin metrekare kapalı alana sahip üretim tesisinde 300’den fazla ürün çeşidinin üretimi gerçekleştirilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pereja",
+    "description": "Pereja, 1957 yılında kurulan Pereja ileri Kimya San. A.Ş. bünyesinde üretilen kolonya, parfüm, vücut spreyi, oda ve kumaş spreyi, sabun, şampuan, vücut losyonu kişisel bakım ve kozmetik ürünleri markasıdır.Ürünlerini Edirne OSB’de bulunan 25 bin metrekaresi kapalı toplam 100 bin metrekarelik alanda üretmekte ve 80’den fazla ülkeye ihraç etmektedir.ISO 9001, ISO 14001, OHSAS, GMP belgelerine sahiptir.Bünyesindeki markalar;DaphneHappy BabyPe Re JaPerlonaPrizeRibellaSandySunshowerVerdureVivienWilson",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-10-04"
+  },
+  {
+    "company": "Batiste",
+    "description": "Batiste kuru şampuan markası Church & Dwight Co., Inc. şirketine aittir.Church & Dwight, 1846 yılında John Dwight tarafından kurulan ev tüketim ürünleri ve kişisel bakım ürünleri şirketidir.Church & Dwight Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

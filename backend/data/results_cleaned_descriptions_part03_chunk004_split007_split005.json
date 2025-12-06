@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ciena",
+    "description": "Ciena, 1992 yılında kurulan Ciena Corporation bünyesindeki optik iletim teknolojisi, ağ sistemleri ve ürünleri, telekomünikasyon ağ ekipmanları, erişim ağları, paket anahtarlama, veri taşıma ve anahtarlama, ağ izleme ve ağ hizmetleri için çözümler markasıdır.Ciena Corporation, 2015 yılında Amerika merkezli Cyan, Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zebra Technologies",
+    "description": "Zebra Technologies, 1969 yılında Ed Kaplan ve Gary Cless tarafından kurulan Zebra Technologies Corp. bünyesindeki barkod yazdırma, mobil bilgisayar, veri yakalama, yer belirleme, veri platformları, yazılım, hizmetler, tedarikler markasıdır.100 ülkede faaliyet gösteren Zebra Technologies 45 ülkede 100’ün üzerinde şubeye sahip Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jtekt",
+    "description": "Jtekt, 1935 yılında kurulan Jtekt Corporation Co, Ltd. bünyesindeki direksiyon sistemleri, driveline bileşenleri, takım tezgahları, ev aksesuarları, makine ve otomotiv parçaları, bilyalı rulmanlar markasıdır.Jtekt Corporation Co, Ltd. çoğunluk hisseleri Japonya merkezli Toyota Grubu şirketlerine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Mesilife",
+    "description": "Mesilife, 1986 yılında kurulan Mesitaş Medikal A.Ş. bünyesinde yurdışında üretilen medikal ürünler markasıdır.Mesitaş Medikal, Profesyoneller ve kişisel sağlık ürünleri olmak üzere Dünya çapında tanınmış birçok markanın Türkiye temsilciliğini yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-02-03"
+  },
+  {
+    "company": "Technogym",
+    "description": "Technogym, 1983 yılında Nerio Alessandri tarafından kurulan TECHNOGYM S.p.A bünyesindeki fiziksel egzersiz ekipman ve çözümleri markasıdır.Dünya üzerinde 100’den fazla ülkede ürünleri satılmaktadır.TECHNOGYM S.p.A İtalya merkezlidir. Avrupa, Amerika, Asya, Ortadoğu, Avustralya ve Güney Amerika’da 14 şube ile üretiminin yüzde 90’ını 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Golla",
+    "description": "Golla, 1995 yılında kurulan Golla Oy bünyesindeki çantalar markasıdır.Cep telefonları, kameralar ve diğer elektronik cihazlar için çantalar tasarlamaktadır.Golla Oy Finlandiya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Blüthner",
+    "description": "Blüthner, 1853 yılında Julius Blüthner tarafından kurulan Julius Blüthner Pianofortefabrik Gmbh bünyesindeki kuyruklu piyanolar ve dik piyanolar markasıdır.Julius Blüthner Pianofortefabrik Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "O’Neal",
+    "description": "O’Neal, 1974 yılında kurulan Jim O’Neal Distributing Inc. bünyesindeki motokros ve MTB koruyucu giysi ve aksesuarları markasıdır. Ürün yelpazesinde kask, forma, pantolon, koruyucu, eldiven, bot ve diğer ürünler yer almaktadır.Jim O’Neal Distributing Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Voco The Dentalists",
+    "description": "Voco, 1981 yılında kurulan Voco Gmbh bünyesinde üretilen diş malzemeleri markasıdır.Tıbbi Ürünler ve koruyucu, onarıcı, ve protez diş hekimliği için Yapılan tıbbi cihazlar ile 100’den fazla ülkede diş uygulamaları ve diş laboratuarları tedarik etmektedir. Profilaktik ürünleri, çeşitli sınıflardaki restoratif malzemeler, çatlak dolgu macunları, çekirdek birikmesi, taç ve köprü malzemeleri ile birçok ülkede pazar konumuna sahiptir.Voco Gmbh Almanya merkezlidir ve üretim tesisleri 39 bin metrekareye yakın büyüklüktedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "C. Bechstein",
+    "description": "C. Bechstein, 1853 yılında Carl Bechstein tarafından kurulan kuyruklu piyanolar ve dik piyanolar markasıdır.Dik ve kuyruklu piyanolar el yapımıdır.C. Bechstein Pianoforte AG, 2016 yılında Almanya merkezli Kuthe GmbH tarafından satın alındı. Ürünlerini Çek Cumhuriyeti’nde üretmektedir.Bünyesindeki markalar;C. Bechstein AcademyC. Bechstein ConcertW. HoffmannZimmermann",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

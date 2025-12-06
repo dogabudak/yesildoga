@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Charlie",
+    "description": "Charlie kozmetik ve parfüm evi Revlon tarafından üretilen kadın ve erkek kokuları markasıdır.Çiçek, bergamot, sümbül, yeşil yaprak, tarhun, şeftali, ve aldehit üst notlar, siklamen, karanfil, orris kökü, lily vadi, yasemin ve gül orta notlar, ve sandal ağacı, Misk, vanilya, oakmoss ve sedir kokularından oluşur.Revlon, Amerika merkezli bir şirkettir. Şirketin yüzde 60 hissesi MacAndrews & Forbes’a yüzde 20 hissesi Fidelity Investments’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "JLG",
+    "description": "JLG, 1917 yılında William Besserdich ve Bernhard Mosling tarafından kurulan Oshkosh Corporation bünyesindeki kamyon markasıdır.Ürünleri 150’den fazla ülkede satılmaktadır.Oshkosh Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dostino",
+    "description": "Dostino, Bim A.Ş. adına 2015 yılından itibaren Ak Gıda Sanayi ve Ticaret A.Ş. tarafından üretilen meyveli yoğurt, muz küpleri, yağlı taze peynir markasıdır.Ak Gıda’nın çoğunluk hisseleri 2015 yılında Fransa merkezli Lactalis Group’a satıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr Pepper",
+    "description": "Dr Pepper, 1885 yılında Charles Alderton tarafından üretilen Keurig Dr Pepper Inc. bünyesindeki karışık aromalı şekerli ve tatlandırıcılı enerjisi azaltılmış gazlı içecek markasıdır. Dr Pepper formülü ticari bir sırdır. Üç üretici tarafından çeşitli ülkelerde üretilmektedir.Keurig Dr Pepper yalnızca Amerika Birleşik Devletleri’ne üretim yaparken, PepsiCo sadece Kanada ve Okyanusya’ya üretim yapmakta, The Coca-Cola Company ise sadece Avrupa ve Güney Kore’ye üretim yapmaktadır.Keurig Dr Pepper Inc. Amerika merkezlidir. Şirketin yüzde 67 hissesi JAB Holding Şirketi’ne yüzde 13,6 oranındaki hissesi ise Mondelez International’a aittir.Bünyesindeki markalar:7UPA&WAdagioBaiBarista BrothersBarista Prima CoffeehouseBig RedBrûlerie Mont-RoyalBrûlerie St-DenisCORECactus CoolerCafé EscapesCafé GilaCafé Punta del CieloCanada DryCaribou CoffeeCinnabonClamatoCoffee PeopleCplusCrushDeja BlueDiedrichDiet RiteDonut HouseDr PepperEmeril’sEvianFortoGloria Jean’sGreen Mountain Coffee RoastersHawaiian PunchHigh BrewHiresHolly’sHyDriveIBCKahluaKrispy Kreme DoughnutsLaughing ManLaura SecordLimitlessMargaritavilleMistic FruitMott’sMr & Mrs TNantucket NectarsNehi ColaNeuroNewman’s Own OrganicsOrient ExpressPaneraPeet’sPenafielRC ColaREVVReal LemonReal LimeRose’sSchweppesSnappleSquirtStewart’sStraight Up TeaSun DropSunkistSunnyDSwiss MissTahitian TreatThe Original Donut ShopTimothy’sTully’sVan HoutteVenomVernorsVitaCocoXyienceYoo-Hoo",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Handsfull",
+    "description": "Handsfull, 1990 yılında kurulan Handsfull Technology Corp. bünyesindeki bilgisayar çevre birimleri ve medya depolama ürünleri, fare, klavye kulaklık ve mikrofon, dizüstü bilgisayar çantaları ve aksesuarlar markasıdır.Handsfull Technology Corp. Tayvan merkezlidir.Handsfull Group bünyesindeki markalar:MsonicVakossX-Zero",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

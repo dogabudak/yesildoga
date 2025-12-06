@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Muh Muhs",
+    "description": "Muh Muhs, 1968 yılında kurulan Pico Food Gmbh bünyesinde üretilen sert şekerler, beze, şekerleme, pastalar ve hamur işleri, tuzlu atıştırmalıklar, kaşık bisküvi, çikolata markasıdır.Pico Food Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ovomaltine",
+    "description": "Ovomaltine, 1865 yılında Georg Wander tarafından kurulan Wander AG bünyesindeki kakolu krem çikolata markasıdır.ISO 9001, ISO 14001 ve fssc 22000 belgelerine sahiptir.Wander AG İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Showa Eldiven",
+    "description": "Showa, 1987 yılında kurulan İş Güvenlik Malzemeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen eldiven markasıdır.Firma çevre koruma, işitme koruma, ayak koruma, düşme koruma, el koruma, göz koruma, göz ve boy duşları, göz ve yüz koruma, kafa koruma, kaydırmazlık ürünleri, motor destekli solunum sistemleri ekipmanları, solunum koruma, vücut koruma, yüz koruma ürünleri üretmektedir.ISO 9001 belgesine sahiptir.Bünyesindeki markalar;RytillShowa",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cotton Soft",
+    "description": "Cotton Soft, 1977 yılında kurulan Yürüksan Tıbbi Malzemeler Ltd. Şti. bünyesinde üretilen pamuk ped ürünler, kulak çubuğu, ıslak mendil markasıdır.Kasarlı pamuk, paketli pamuk, kulak çubuğu ve makyaj pedleri gibi ürünlerini Çorlu’da 25 bin metrekarelik alanda bulunan 15 bin metrekarelik kapalı alanda üretmektedir.Ürünlerini Yunanistan, İtalya, Kanada, İngiltere, Almanya, Fransa, İspanya gibi birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;İnci FreshAslanlıCotton Soft",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Super Ego",
+    "description": "1949 yılında kurulan Super Ego Tools S.L. bünyesinde üretilen çalışan metal işleme ve boru için makineler ve makine parçaları, yani, diş çekme makineleri, bükme makineleri, kanal açma makineleri, taşlama makineleri, elektrikli veya hidrolik güç ile çalışan portatif el aletleri, hidrolik boru bükme, elektrikli boru diş açma, elektrikli boru bükme, boru elektrikli testere, elektrikli boru groover, gaz lehim makinesi, kesme meşaleler, darbe boruları vs. gibi ürünler markasıdır.Super Ego Tools S.L., Avusturya merkezli Rothenberger Grup bünyesindedir ve ürünlerini İspanya’da üretmektedir.Rothenberger Grup bünyesindeki markalar;KrollRicoRothenbergerRukoSievert ABSuper EgoViraxWuxi",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

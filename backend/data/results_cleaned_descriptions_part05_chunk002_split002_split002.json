@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Aicook",
+    "description": "Aicook, 2013 yılında kurulan Shenzhen Aukey E-Business Co. Ltd. bünyesinde üretilen bıçak, buharlı ütü, buz makinesi, buzdolabı, el mikseri, elektrikli kalbur, elektrikli süpürge, elektrikli su isıtıcısı, hava fritöz, hava fritöz fırını, kıyma makinesi, kahve makinesi, karıştırıcı, kupalar, kurutucu, meyve sıkacağı, mutfak robotu, nemlendirici, pamuk tiftiği temizleyici, patlamış mısır popper, sandviç makinesi, stand mikseri, tost makinesi, yavaş tencere, yoğurt makinesi, düdüklü tencere, waffle markasıdır.Shenzhen Aukey E-Business Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Elvons",
+    "description": "Elvons, 1999 yılında kurulan Ses Kimya Temizlik Ürünleri Gıda San. ve Tic. A.Ş. bünyesinde üretilen toz ve likit temizlik ürünleri markasıdır.ISO 9001 ve Helal belgelerine sahiptir.Firma ürünlerini çevre ve insan sağlığına duyarlı kimyasallar kullanarak üretmektedir.Bünyesindeki markalar;Bel ChlorisBlue SallyDieiceEcosesEkosesElonsElvonsElvons ShopFunLessie&PussyMagic PowerOvesesRedsesSallySesSes Atlanta AmuSnow Fighter Die-IceSpeedy MagicThunderVoiceVonsWonder Anti Ice SnowWonder WaterWonsel",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "YKC Plastik",
+    "description": "YKC Plastik, 1950 yılında kurulan Ykc Plastik Ambalaj ve Kapak San. Tic. Ltd. Şti. bünyesinde üretilen aseptik kapak, cam şişe kapağı, hissedilebilir yüzey, maske tutma aparatı, modüler evrak rafı, proje kutusu, sms maske – tip 2, stream kapak, yazar kasa ve pos, şarjör grubu plastikleri markasıdır.ISO 9001, ISO 14001, ISO 22000, OHSAS 18001 belgelerine sahiptir.Firma ürünlerini ASO 1.OSB’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Köttermann",
+    "description": "Köttermann Hangi Ülkenin Malı MarkasıdırKöttermann, 1946 yılında kurulan Köttermann Technical AG bünyesinde üretilen çelikten yapılmış komple laboratuvar çözümleri markasıdır.Çok yönlü laboratuvar mobilyaları çelikten imal edilmiştir.Köttermann Technical AG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Arlena Professional Series",
+    "description": "Arlena Professional Series, 2010 yılında kurulan Tnh Medikal Sağlık Hizmetleri İlaç Kozmetik Gıda Ür. Tic. Ltd. Şti. bünyesinde üretilen kozmetik kişisel bakım ürünleri markasıdır.İzmir merkezli firma ISO 9001, ISO 14001, ISO 22000, ISO 22716, ISO 45001, ISO 13485 belgelerine sahiptir.Bünyesindeki markalar;Arlena Professional SeriesElita L’OraneMaximilianPd Glena",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

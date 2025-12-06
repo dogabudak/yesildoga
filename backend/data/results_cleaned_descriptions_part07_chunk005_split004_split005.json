@@ -1,0 +1,60 @@
+[
+  {
+    "company": "Dr.London",
+    "description": "Dr.London, 2008 yılında kurulan Rc Kozmetik İnteraktif San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.ISO 9001, ISO 14001, ISO 22716, ISO 45001, GMP belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pronature",
+    "description": "Pronature, Anadolu Akvaryum ve Pet Ürünleri San. ve Tic. A.Ş. ve Effeffe Pet Ürünleri ve Evcil Hayvan Yem San. Tic. A.Ş. ortaklığında üretilen kedi ve köpek mamaları markasıdır.ISO 9001, ISO 22000 ve GMP belgelerine sahiptir.Ürünleri Belçika merkezli United Petfood Producers NV. bünyesindeki Effeffe ve Anadolu Pet ortaklığı ile Türkiye’de kurulan fabrikasında üretilmektedir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Mixx Audio",
+    "description": "Mixx Audio, 2007 yılında kurulmuş olan Mixx Limited bünyesindeki akıllı saatler, hoparlörler, kulaklıklar markasıdır.Firma kablosuz ses, kablosuz şarj ve yeni teknolojiler kullanan ürünlerin tasarımı, geliştirilmesi ve üretiminde uzmandır.Mixx Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Olgasis",
+    "description": "Olgasis, 1978 yılında kurulmuş olan Yeşil Ilgaz Kozmetik Kimya İnş. Oto. ve Gıda San. Tic. Ltd. Şti. bünyesinde üretilen parfüm markasıdır.ISO 9001, ISO 14001, GMP, TSE belgelerine sahiptir.Firma İstanbul merkezlidir. ve ürünlerini 45 ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Unimet",
+    "description": "Unimet, 2005 yılında kurulmuş olan Unimet Metal San. ve Tic. Ltd. Şti. bünyesinde üretilen mobilya, metal bahçe mobilyaları, karyola, yatak mekanizması, ayarlanabilir yatak, ranza, bebek karyolası, kitaplık ve sehpa markasıdır.Firma Kayseri merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

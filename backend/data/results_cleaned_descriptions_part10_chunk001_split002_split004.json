@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Braid",
+    "description": "1979 yılında kurulmuş olan Tecnologia y Fabricacion SA bünyesindeki her türlü motor sporu ve klasik otomobil için tekerlekler markasıdır.Tecnologia y Fabricacion SA İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Naturagen Kolajen",
+    "description": "2013 yılında kurulmuş olan Naturagen İlaç Kozmetik Gıda San. ve Tic. A.Ş. bünyesinde üretilen gıda takviyeleri, kolajen markasıdır.Tüm ürünleri, tamamı sığır kolajeni ile Türkiye’de üretilmektedir ve Helal belgesine sahiptir.İskefe Holding bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Blueground",
+    "description": "2013 yılında Alex Chatzieleftheriou ve Alexis Maragkos tarafından kurulmuş olan Blueground Holdings Ltd. bünyesindeki teknoloji destekli mülk yönetimi, yüksek kaliteli mobilyalı ve servisli mülkler, kurumsal seyahat, emlak, iş seyahati, ağırlama, tam donanımlı kiralama, seyahat ve kurumsal konut hizmetleri markasıdır.Şirket, bağlı ortaklıkları aracılığıyla konaklamalar için mobilyalı ve donanımlı daireler sunmaktadır.Blueground Holdings Ltd. Amerika merkezlidir. İstanbul dahil dünya çapında 30’dan fazla şehirde binlerce daireden oluşan bir yelpazeye sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zinova",
+    "description": "2011 yılında kurulmuş olan Capar Enerji Sistemleri San. ve Dış Tic. Ltd. Şti. bünyesindeki kuru tip AGM, GEL, Deepcycle GEL, motorsiklet, Start-Stop araç, golf araçları ve elektrikli bisiklet aküleri markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Micron",
+    "description": "1987 yılında kurulmuş olan Esetaş Elektroni̇k Ti̇c. ve San. A.Ş. bünyesinde ithal edilen şarjlı piller, şarjli fener, alkalin pil, kuru bakımsız akü, sulu akü markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

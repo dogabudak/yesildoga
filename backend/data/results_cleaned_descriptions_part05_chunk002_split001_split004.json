@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Hançay",
+    "description": "Hançay Nerenin Malı MarkasıHançay, 2015 yılında Han Gıda bünyesinde üretilen çay, kahve, şeker markasıdır.Firma Kırklareli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Belli",
+    "description": "Belli, 2016 yılında kurulan Belli İçecek Gıda Ambalaj Tekstil San. ve Tic. A.Ş. bünyesinde üretilen küp şeker, toz şeker, stick şeker, tek sargılı küp şeker, esmer şeker, nektar meyve suyu, yarım yağlı süt, tam yağlı kaşar peyniri markasıdır.Firma ürünlerini Gaziantep 4. OSB’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cemkar",
+    "description": "Cemkar, 1997 yılında kurulan Cemkar Gıda Paz. San. Tic. Ltd. Şti. bünyesinde üretilen küp şeker, ıslak mendil markasıdır.Esmer şeker tamamen yerli ve yüzde 100 şeker kamışından üretilmektedir.ISO 9001, ISO13485, ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "ISO13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Freelancer",
+    "description": "Freelancer, 2009 yılında kurulan Freelancer Limited bünyesindeki, potansiyel işverenlerin serbest çalışanların daha sonra tamamlamak için teklif verebilecekleri işleri yayınlamasına izin veren bir serbest pazar sitesidir.Web sitesi geliştirme, logo tasarımı, pazarlama, metin yazarlığı, Astrofizik, havacılık mühendisliği ve üretim gibi 900’den fazla alanda işler bulunmaktadır.Freelancer Limited Avustralya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Persan",
+    "description": "Persan, 1975 yılında kurulan Persan Tekstil San. ve Tic. A.Ş. bünyesindeki perde, döşemelik kumaş, tül markasıdır.İstanbul’da 7 bin metrekarelik merkeze sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

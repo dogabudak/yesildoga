@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Ersatel",
+    "description": "Ersatel, 1992 yılında kurulan Ersa Demir Çelik Sanayi ve Tic. Ltd. Şti. bünyesinde üretilen kaynaklı hasır tel ve çelik hasır markasıdır.Panel tel çit, örgü tel çit, kaynaklı rulo çit, gabion tel, kaynaklı hasır tel, dikenli tel, jiletli tel, yerden ısıtma sistemi telleri, beton ve metal direkler, kapılar ve bariyerler gibi ürünler üretmektedir.TSE ve ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Andoer",
+    "description": "Andoer, Andoer Inc. bünyesindeki tripodlar, dijital kameralar, aksiyon kameraları, fotoğraf aksesuarları, video-ses, müzik aletleri, led video ışıkları, aydınlatma ve stüdyo kitleri, uzaktan kumandalar ve zamanlayıcılar markasıdır.Andoer markalı ürünler Shenzhen Senda Digital Technology Co. Ltd. tarafından Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Katia&Bony",
+    "description": "Katia&Bony Nerenin Malı MarkasıKatia&Bony, 1986 yılında Hasan Gülkaya tarafından kurulan Bony Tekstil İşletmeleri San. ve Tic. A.Ş. bünyesinde üretilen çorap, pijama, iç çamaşırı, ev giyim, plaj ve aksesuar markasıdır.Türkiye’nin kapasite ve teknoloji olarak en büyük çorap üreticisi olan Bony Group, 50 bin metrekarelik kendi tesislerinde ürettiği ürünleri Fransa, İspanya, İtalya, İsveç, İngiltere, Rusya, Japonya ve Amerika gibi ülkelere ihraç etmektedir.ISO 14001, ISO 9001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aden",
+    "description": "Aden, 2018 yılında kurulmuş olan Hubsan Teknoloji ve Tic. A.Ş. bünyesinde üretilen hobi drone markasıdır.Ürün yelpazesinde kameralı uçangöz modelleri, fırçasız motorlu drone, profesyonel drone, r/c uçaklar, yarış drone modelleri ve yedek parçaları yer almaktadır.Firma Ankara merkezlidir. Ürünlerini Türkiye’de üretmektedir. İngiltere, Almanya ve Amerika’da iştirakleri bulunmaktadır.Bünyesindeki markalar;AdenAgradenGorilla CaseGorilla DroneRobo KingThink MasteriBrush",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-01-12"
+  },
+  {
+    "company": "Bonprix",
+    "description": "Bonprix, 1986 yılında Hans-Joachim Mundt ve Michael Newe temeli atılan Bonprix Handelsgesellschaft Mbh bünyesinde çeşitli giyim, ev ve ev tekstili, küçük mobilya ve aksesuarlar satan markadır.Şirket 30 ülkede faaliyet göstermektedir.Almanya merkezli Otto GmbH & Co KG’nin yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

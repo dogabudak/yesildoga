@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Tylenol Baby",
+    "description": "Tylenol Baby, Johnson & Johnson şirketine ait bebek ilaçları markasıdır.Johnson & Johnson Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pax Kauçuk Yama",
+    "description": "Pax, 1981 yılında kurulmuş olan Yee Jee Technology Co. Ltd. bünyesindeki bisiklet, motosiklet, otomobil, kamyonlar için lastik yamaları, tamir araçları markasıdır.Lastik yamaları için tek hammadde olarak yüzde 100 doğal kauçuk kullanmaktadır.Yee Jee Technology Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Verifone",
+    "description": "Verifone, 1981 yılında kurulmuş olan Verifone Holdings Inc. bünyesindeki ödeme terminalleri, tablet tabanlı POS yazılımı, POS sistemleri, ödeme hizmetleri markasıdır.Ürünleri, imza ve kişisel kimlik numarası (PIN) tabanlı banka kartları, kredi kartları, temassız radyo frekansı kimlik kartları, akıllı kartlar, ön ödemeli hediye ve diğer kayıtlı değerli kartlar, elektronik fatura ödemesi, çek yetkilendirme ve dönüştürme, imza yakalama ve elektronik fayda transferi dahil olmak üzere bir dizi ödeme türünü kapsar.Verifone Holdings Inc. 2018 yılında Francisco Partners ve British Columbia Investment Management Corporation’ın da yer aldığı bir grup özel sermaye şirketi tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jazzy Mama",
+    "description": "Jazzy, 1984 yılında kurulmuş olan Dardanel Önentaş Gıda San. A.Ş. bünyesindeki evcil hayvan mamaları markasıdır.Katkı maddesi, renklendirici ve tatlandırıcı içermeyen ürünler, BPA’sız ambalajlarda sunuluyor.Firma Çanakkale merkezlidir ve ürünlerini Çanakkale’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alls Biocosmetics",
+    "description": "Alls Biocosmetics, Herz Pharma Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.Doğa dostu malzemelerden üretim yapmaktadır ve ürünleri hayvanlar üzerinde test edilmemektedir.ISO 9001 ve ISO 10002 belgelerine sahiptir.Firma ürünlerini Zonguldak’ta bulunan Alaplı OSB’de 10 bin metrekarelik açık ve 4 bin 500metrekarelik kapalı alandan oluşan tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Boardman Bikes",
+    "description": "Boardman Bikes, 2007 yılında kurulan Boardman Bikes Ltd. bünyesinde üretilen bisiklet ve bisiklet aksesuarları markasıdır.Boardman Bikes Ltd. 2014 yılında İngiltere merkezli Halfords Group plc tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bricanyl",
+    "description": "Bricanyl, 1999 yılında iki şirketin birleşmesiyle kurulan AstraZeneca plc bünyesindeki eczacılık, veterinerlik ve sağlıkla ilgili ürünler, diş ürünleri, dezenfektanlar markasıdır.AstraZeneca plc İngiltere merkezlidir. İngiltere ve İsveç şirketlerinin birleşmesiyle kurulmuştur ve Türkiye’de 1999 yılından beri AstraZeneca Türkiye İlaç San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir. 18 ülkede üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "GSStore",
+    "description": "GSStore, 2002 yılında tamamı Galatasaray Sportif A.Ş.’ye ait olan Galatasaray Mağazacılık ve Perakendecilik A.Ş. bünyesindeki spor ürünleri mağazaları markasıdır.Galatasaray lisanslı taraftar ürünleri, forma, mont, ceket, sweatshirt, eşofman takımı gibi ürünler sunmaktadır.88 mağaza 1 internet üzerinden satış sitesi ile birlikte 92 noktada faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Boreas",
+    "description": "Boreas, 2004 yılında kurulan Boreas Klima San. ve Tic. A.Ş. bünyesinde üretilen kompakt ve modüler tip klima santralleri, merkezi klima üniteleri ve IEC, CRAC&CRAH üniteleri markasıdır.Merkezi iklimlendirme sistemleri dışında; endüstriyel yapılar, veri merkezleri, yüksek binalar, hastaneler, avm ve oteller için enerji tasarrufu sağlayan ürünler sunmaktadır.Şirket 2017 yılında Açık Holding tarafından satın alındı.İstanbul merkezli firma ISO 9001 belgesine sahiptir.Bünyesindeki markalar;BoreasBoreas Advanced Air Handling Unit TechnologiesFebrisMasterairProximusTeknoklimaTeknovent",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kırpart",
+    "description": "Kırpart Nerenin Malı MarkasıKırpart, 1969 yılında kurulan Kırpart Otomotiv Parçaları San. ve Tic. A.Ş. bünyesinde üretilen motor parçaları markasıdır.Termostatlar, su ve yağ pompaları gibi motor soğutma sistemi bileşenlerinin tasarımı, geliştirilmesi ve üretiminde uzmanlaşmıştır.Bursa merkezli firma üretimini tamamen Bursa tesislerinde yapmaktadır. Ürünlerini 29 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-07-29"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Fellowes",
+    "description": "Fellowes, 1917 yılında Harry Fellowes tarafından kurulan ofis ve teknoloji aksesuarları markasıdır.2015 yılında markanın adı Fellowes Brands olarak değiştirildi.Fellowes Brands Amerika merkezli bir şirkettir.Fellowes Brands bünyesindeki markalar:FellowesBankers BoxAeramaxEsiBody Glove",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tesa Bant",
+    "description": "Tesa, 2001 yılında kurulan tesa SE bünyesinde üretilen teknik yapışkan bantları ve kendinden yapışkanlı 7 binde fazla ürün markasıdır.tesa SE, Beiersdorf AG’nin yüzde yüz iştiraki olan bir şirkettir.Eczacı Paul Carl Beiersdorf tarafından 1882 yılında kurulan cilt bakım kremleri ve kozmetik ürünler üreten çok uluslu Beiersdorf AG şirketinin merkezi Almanya’dır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pakmaya Helal Mi",
+    "description": "Pakmaya, 1973 yılında Engin Pak tarafından kurulan Pak Holding A.Ş. tarafından üretilen gıda ürünleri markasıdır.Mayanın yanı sıra, fırıncılık, değirmencilik, pastacılık ve ev tüketim ürünlerinde, zengin ürün yelpazesine sahiptir. Pişirme yardımcıları yanı sıra, puding, Türk tatlıları, pasta kreması, krem şanti, tatlı sos, çikolata, toz sıcak içecek, ekmek ve çörek karışımlarına sahiptir.Sadece Pakmaya markalı maya ürünü Helal sertifikasına sahiptir.Pak Grubu; gıda, ambalaj, kuşeli karton ve gayrimenkul sektörlerinde faaliyet gösteren 19 şirketten oluşan güçlü bir şirketler topluluğudur.Türk markası Pakmaya, 130 ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Anadolu Efes",
+    "description": "Anadolu Efes, 1950 yılında İzzet Özilhan ve Kamil Yazıcı tarafından kurulan Anadolu Grubu’na ait spor kulübüdür.1976 yılında kurulmuştur. 2010 yılında çıkarılan alkol ve tütün ürünlerinin sportif ve müzikal faaliyetlerde kullanılmasının önlenmesi yasasına göre 2011 yılında Anadolu Efes Spor Kulübü olarak adını değiştirmiştir.Anadolu Grubu, bira, meşrubat, otomotiv, perakende, tarım, gayrimenkul, enerji ve sağlık sektörlerinde 19 ülkede faaliyet gösteren, İstanbul merkezli bir Türk holding’tir. Grubun yüzde 68’i Yazıcılar Holding’in, yüzde 32’si Özilhan Sınai Yatırım’ındır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2019-10-04"
+  },
+  {
+    "company": "Fiskobirlik",
+    "description": "Fiskobirlik (Fındık Tarım Satış Kooperatifleri Birliği), 1938 yılında kuruldu.Fiskobirlik özerkleştirilmeden önce 1964 yılına kadar kendi hesabına, bu tarihten 1994 yılına kadar hazine adına fındık alımı yaptı. 1994 yılından 2002 yılına kadar, DFİF’den (Destekleme ve Fiyat İstikrar Fonu) kredi kullanarak fındık alımını sürdürdü.2003 yılından itibaren tamamen kendi nam ve hesabına fındık alım satımını gerçekleştirmiştir. 2006 yılından itibaren faaliyetlerini özerk olarak sürdürmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

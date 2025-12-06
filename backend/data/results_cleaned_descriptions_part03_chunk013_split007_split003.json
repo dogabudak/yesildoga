@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Macom Technology Solutions",
+    "description": "Macom Technology Solutions, 1950 yılında kurulan MACOM Technology Solutions Inc. bünyesindeki üretilen radyo, mikrodalga ve milimetre dalga yarı iletken cihaz ve bileşenleri markasıdır.ISO 14001 belgesine sahiptir.MACOM Technology Solutions Inc. Amerika merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "All Winner Technology",
+    "description": "All Winner Technology, 2007 yılında kurulan All Winner Technology Co. Ltd. bünyesinde üretilen yarı iletken markasıdır.Android tabanlı tabletler ve akıllı telefonlarda, video kamera sistemlerinde, araç video kaydediciler ve medya oynatıcılarında kullanılmak üzere 15’ten fazla SoC işlemci yayımladı.All Winner Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Quotient Technology",
+    "description": "Quotient Technology, 1998 yılında kurulan Quotient Technology Inc. bünyesinde giyim, otomotiv, içecek, kitap, eğlence, gıda, sağlık, ev, ofis malzemeleri, evcil hayvan, fotoğraf, profesyonel hizmetler ve restoranlarda online yazdırılabilir, sosyal ve mobil dijital kuponlar markasıdır.Tüketici ambalajlı ürün markaları, restoran, oyuncak ve eğlence şirketlerinin yanı sıra genel perakendeciler müşterileri arasında yer almaktadır.Quotient Technology Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Reka",
+    "description": "Reka, 2010 yılında kurulan Reka Bitkisel Yağlar San. ve Tic. A.Ş. bünyesinde üretilen yemeklik bitkisel yağlar markasıdır.2017 yılında Tül Gıda San ve Tic. A.Ş. tarafından çoğunluk hisseleri satın alınmıştır.Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Luxo",
+    "description": "Luxo, 1934 yılında Jac Jacobsen tarafından kurulan Luxo ASA bünyesinde üretilen aydınlatma ürünleri markasıdır.Luxo ASA’nın, Norveç, İsveç ve Amerika’da üretim tesisleri bulunmaktadır.Luxo ASA, Norveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  }
+]

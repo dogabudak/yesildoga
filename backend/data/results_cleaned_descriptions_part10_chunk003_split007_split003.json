@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Fairline Yachts",
+    "description": "1963 yılında kurulmuş olan Fairline Yachts Ltd. bünyesindeki yat markasıdır.Fairline Yachts Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Agfaphoto",
+    "description": "1867 yılında kurulmuş olan Agfaphoto Holding Gmbh bünyesindeki dijital fotoğraf makinesi ve video kamera, 35mm analog film, tek kullanımlık film kamerası, düşük maliyetli film kamerası, flash bellek kartları ve usb sürücüler, piller, dijital fotoğraf çerçeveleri, minilablar, optik ve manyetik depolama ortamları, lcd televizyon, dvd oynatıcılar, cep projektörleri, dürbünler, temizlik ürünleri, mürekkep kartuşları, fotoğraf kağıdı markasıdır.Agfaphoto Holding Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Şanver 1933",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cocomek’s",
+    "description": "1997 yılında kurulmuş olan Mek Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen dökme çikolatalar, pastacılık ürünleri markasıdır.Firma Malatya merkezlidir. Ürünlerini 20 bin metrekarelik alanda üretmektedir ve 65’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fastmax",
+    "description": "1957 yılında kurulmuş olan Hamdi Küçük Çelik Makine A.Ş. bünyesindeki omuz tipi vibratör motoru, omuz tipi vibratör hortumu, sıcak halat kesici ve yedek bıçağı, yuvarlak tip ekonomik caraskal, şerit metreler markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

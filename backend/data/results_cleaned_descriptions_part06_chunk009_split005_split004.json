@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Les Deux",
+    "description": "Les Deux, 2010 yılında kurulan Les Deux Aps bünyesindeki erkek giyim markasıdır.Les Deux Aps 2021 yılında İsveç merkezli Röko AB bünyesindeki II Holding Aps tarafından satın alındı.Firma Avrupa’daki 20 ülkede 700 mağaza aracılığıyla ürünlerini satmaktadır.Bünyesindeki markalar;4×4AddedoArboritecBeths BeautyBilomsetningenBrownellDan-FormDorseyEkstralysEtb TechnologiesGolf ExpertenHot ScreenLes DeuxLundberg TechOppigardsRenovotecRocket MedicalSilk-KaSixty StoresSmit VisualTeccon",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Rova Blue",
+    "description": "Rova Blue, 2005 yılında kurulan Özpa Grup Yapı San. Tic. Ltd. Şti. bünyesinde üretilen hafif poliüretan taban sistemine sahip ayakkabılar, çanta markasıdır.Ankara merkezli firma ürünlerini Türkiye’de üretmekte, yurt içi ve yurt dışına göndermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "NG Hotels",
+    "description": "NG Hotels, 2012 yılında kurulan NG Tasarım Otelcilik ve Turizm A.Ş. bünyesindeki otel zinciridir.Dinlenme, tatil ya da iş toplantıları için hizmet sunmaktadır.NG Sapanca ve NG Afyon otelleri 7 kalite belgesine sahiptir.Firma Kütahya merkezlidir.Bünyesindeki markalar;Aliva NgAliva Spa CenterAquaspaCorporate WellnessInternational Luxury ThermalKahvemizi Alır MıydınızKestane KafeKöz Kestane KafeNg AlivaNg Bitez BodrumNg Corporate WellnessNg FamilyNg Grand BoutiqueNg HotelsNg Hotels AfyonNg Hotels Altın KumNg Hotels Altın KumsalNg Hotels BitezNg Hotels BodrumNg Hotels CanaryNg Hotels CarnasNg Hotels Gold SandNg Hotels Ipekyolu SapancaNg Hotels IstanbulNg Hotels KarnasNg Hotels PhaselisNg Hotels ResortsNg Hotels SapancaNg Hotels Sapanca ClubNg Hotels Sapanca EnjoyNg Hotels Yer Gök SapancaNg Palace SapancaNg Sapanca PalacePilatesPrinceSpaquaTermaquaWellet",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kaukko",
+    "description": "Kaukko, 2006 yılında kurulan Guangzhou Huadu Shiling Biaozhi Handbag Factory bünyesinde üretilen polyester, kanvas çantalar, kanvas sırt çantası, el çantası, askılı çanta, naylon laptop çantası ve bel çantası markasıdır.Guangzhou Huadu Shiling Biaozhi Handbag Factory Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Begg x Co",
+    "description": "Begg x Co, 1850 yılında kurulan Moorbrook Textiles Limited bünyesindeki kaşmir triko, aksesuar ve ev eşyaları markasıdır.Firmanın ürün yelpazesinde battaniye, yatak örtüsü, çarşaf, masa örtüsü, havlu ve duş perdesi gibi ev mobilyaları, giysiler, eşarplar, şapkalar, kazak, hırka yer almaktadır.Moorbrook Textiles Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

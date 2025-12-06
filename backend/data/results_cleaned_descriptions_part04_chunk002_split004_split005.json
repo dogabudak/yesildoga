@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Roborock",
+    "description": "Roborock, 2014 yılında kurulan Beijing Roborock Technology Co. Ltd. bünyesinde üretilen robot elektrikli süpürge ve kablosuz çubuk elektrikli süpürgeler markasıdır.Beijing Roborock Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.2014 yılında Çin merkezli Xiaomi’den yatırım alarak Xiaomi ekolojik zincirinin bir üyesi olmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-10-30"
+  },
+  {
+    "company": "RolliBot",
+    "description": "RolliBot, 2016 yılında kurulan RolliBot, Inc. bünyesinde üretilen robotik temizlik cihazları ve aksesuarları markasıdır.RolliBot, Inc. Amerika merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pure Clean",
+    "description": "Pure Clean, 1999 yılında kurulan Ertek Kimya Tic. ve San. A.Ş. bünyesinde üretilen alkol bazlı el ve cilt antiseptiği markasıdır.Dudullu OSB’de 2 bin metrekarelik kapalı alanda üretim yapmaktadır.Ertek Kimya; teknolojik su islahı, gemi kimyasalları, metal endüstrisi, proses endüstrisi, jeotermal kimyasalları ve akredite laboratuvar konularında hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rdel Young",
+    "description": "Rival de Loop Young (RdeL), 1972 yılında Dirk Rossmann tarafından kurulan Dirk Rossmann GmbH bünyesindeki makyaj ürünleri markasıdır.Türkiye’de 2009 yılından beri faaliyet gösteren Dirk Rossmann GmbH’nin yüzde 60’ı Alman Rossmann Ailesi’ne yüzde 40’ı Hong Kong merkezli Watson Gurubu’na aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ecovacs Robotics",
+    "description": "Ecovacs Robotics, 1998 yılında kurulan Ecovacs Robotics Co. Ltd. bünyesindeki robotik ev temizleyicileri, pencere temizleme robotları, servis robotları, hava temizleme robotları, vakumlama robotları, zemin temizleme robotları markasıdır.Ecovacs Robotics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünleri dünya çapında 145’ten fazla ülke ve bölgede mevcuttur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-10-27"
+  }
+]

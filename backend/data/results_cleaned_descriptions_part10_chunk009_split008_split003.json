@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Frohe",
+    "description": "1991 yılında kurulmuş olan Frohe AB bünyesinde üretilen çeşitli endüstrilerde kullanılmak üzere enjeksiyon kalıplı plastik parçalar ve montaj üniteleri markasıdır.ISO 13485, ISO 9001 ve ISO 14001 belgelerine sahiptir.IV Frohe SWEDEN AB İsveç merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Hampback",
+    "description": "2019 yılında kurulmuş olan Ningbo Jinglinjia Electronic Technology Co. Ltd. bünyesinde üretilen müzik aletleri, elektrikli davul ve çevre birimleri, hoparlör, kulaklık, çubuklar markasıdır.Ningbo Jinglinjia Electronic Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Herbalife",
+    "description": "1980 yılında Mark R. Hughes tarafından kurulmuş olan Herbalife International Inc. bünyesindeki takviye edici gıdalar, sporcu besinleri, kilo kontrol yiyecek ve içecekleri, cilt bakım ürünleri markasıdır.Herbalife International Inc. Amerika merkezlidir. Ürünlerini 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hollyland",
+    "description": "2013 yılında kurulmuş olan Shenzhen Hollyland Technology Co. Ltd. bünyesinde üretilen interkom sistemleri, kablosuz mikrofonlar, kameralar, video çözümleri markasıdır.Shenzhen Hollyland Technology Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Jeriyan",
+    "description": "2005 yılında kurulmuş olan Jeriyan Mühendislik İnş. Tic. Ltd. Şti. bünyesindeki ısıtma, soğutma, aydınlatma ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

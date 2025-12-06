@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Asix",
+    "description": "Asix, 1995 yılında kurulan ASIX Electronics Corp. bünyesinde üretilen ağ, iletişim ve bağlantı uygulamaları odaklı bir yarı iletken markasıdır.PCI olmayan/PCMCIA gömülü Ethernet, Yüksek hızlı USB ile LAN, Gömülü ağ SoC, G/Ç bağlantısı, Gömülü Kablosuz Modüller, Wii LAN Adaptörü için yonga seti üretmektedir.ASIX Electronics Corp. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Ales Groupe",
+    "description": "Ales Groupe, 1969 yılında Patrick Ales tarafından kurulan Alès Groupe SA bünyesindeki bitkisel kozmetik, saç bakım ürünleri ve parfüm markasıdır.Tüm araştırma tesisleri ve laboratuvarları Fransa’da, bulunmaktadır. Ales Groupe, Fransa merkezlidir.Bünyesindeki markalar:CaronLaboratoire DucastelLieraPhytoPhyto Specific",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Baccarat",
+    "description": "Baccarat, 1764 yılında kurulan Baccarat SAS bünyesinde üretilen ince kristal cam eşya ürünleri markasıdır.Ürünlerini Fransa’da üreten şirketi 2005 yılında Amerika merkezli Starwood Capital Group satın aldı.Starwood, şirketin kristal avizelerinin yer aldığı lüks bir otel zincirine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mikuni",
+    "description": "Mikuni, 1923 yılında kurulan Mikuni Corporation bünyesindeki karbüratör markasıdır.Ürünleri arasında otomobil ve motosiklet parçaları, karbüratörler, yakıt enjektörleri, uçak parçaları, hemşirelik yatakları, çim biçme ekipmanları yer almaktadır.Mikuni Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "SAS Yazılım",
+    "description": "SAS, 1976 yılında kurulan SAS Institute Inc. bünyesindeki istatistiksel analiz sistemi yazılımı markasıdır.Veri yönetimi, gelişmiş analitik, çok değişkenli analiz, iş zekası, cezai soruşturma ve tahmine dayalı analitik için geliştirilen istatistiksel bir yazılım paketidir.SAS Institute Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

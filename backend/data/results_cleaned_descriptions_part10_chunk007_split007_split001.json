@@ -1,0 +1,46 @@
+[
+  {
+    "company": "FilterQueen",
+    "description": "1930 yılında kurulmuş olan HMI Industries Inc. bünyesinde üretilen elektrikli süpürge, hava temizleyici ve hava filtreleme ürünleri markasıdır.HMI Industries Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Radisen Radyatör",
+    "description": "1997 yılında kurulmuş olan Dongguan Radisen Electronic Technology Co. Ltd. bünyesinde üretilen radyatör, oto yedek parçaları markasıdır.Dongguan Radisen Electronic Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bobsweep",
+    "description": "2008 yılında kurulmuş olan Bobsweep Inc. bünyesinde üretilen elektrikli robot süpürge markasıdır.Bobsweep Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Sungo",
+    "description": "1981 yılında kurulmuş olan Sungo Valves Group Co. Ltd. bünyesinde üretilen valf istirizli bilyalı valf, sürgülü valf, çek valf, küresel valf ve kelebek valf ve aksesuar markasıdır.ISO 9001 ve CE belgelerine sahiptir.Sungo Valves Group Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Suizan",
+    "description": "2011 yılında kurulmuş olan Cocolable Inc. bünyesinde üretilen el aletleri, testereler, ahşap oymacılık ürünleri markasıdır.Cocolable Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

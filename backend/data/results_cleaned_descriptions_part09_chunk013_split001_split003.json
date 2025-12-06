@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Linkx",
+    "description": "2007 yılında kurulmuş olan Linkx Electronics Co. Ltd. bünyesindeki kızılötesi mikrofon sistemi, kablosuz mikrofon sistemi, kablosuz ses genişletici, kompakt ses güç amplifikatörü, anlık tercüme sistemi, tur rehberi sistemi, hatıra dijital sesli rehber markasıdır.Linkx Electronics Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Lovege",
+    "description": "1992 yılında kurulmuş olan Sante SP. Z o. o. bünyesinde üretilen içecekler, kurutulmuş domates, humus, biber darı lapası, ayçiçeği ve domatesli makarna markasıdır.ISO 9001 ve HACCP belgelerine sahiptir.Sante SP. Z o. o. Polonya merkezlidir ve ürünleri Polonya’da üretilmektedir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Mission",
+    "description": "1996 yılında kurulan Acon Laboratories Inc. bünyesindeki idrar reaktif şeritleri ve analizörleri, idrar tahlili, hemoglobin, hemoglobin test sistemi, kolesterol el tipi bakım noktası cihazı, otomatik hematoloji analizörü, pıhtılaşma izleme sistemi markasıdır.Acon Laboratories Inc. Amerika merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Brudy Cosmetics",
+    "description": "2022 yılında kurulmuş olan Brudy Lab S.L. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri koruyucu içermez, çevre dostudur ve hayvanlar üzerinde test edilmemektedir.Brudy Lab S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Be Natural",
+    "description": "1995 yılında kurulmuş olan Beliso Sp. z o.o. bünyesindeki doğal saç kozmetik ürünler markasıdır.Beliso Sp. z o.o. Polonya merkezlidir.Bünyesindeki markalar;ArganBe NaturalCece MedExperto+",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

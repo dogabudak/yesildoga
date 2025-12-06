@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Omerta",
+    "description": "Omerta, 2003 yılında kurulmuş olan Omerta Coscentra B.V. bünyesindeki parfüm ve kolonyalar markasıdır.Omerta Coscentra B.V. Hollanda merkezlidir ve ürünlerini 45 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Horizon Fitness",
+    "description": "Horizon Fitness, 1975 yılında kurulmuş olan Johnson Health Tech Co. Ltd. bünyesindeki koşu bantları, eliptikler ve iç mekan döngüleri, fitness aksesuarları, kardiyo aksesuarları markasıdır.Johnson Health Tech Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Passionis",
+    "description": "Passionis, 2021 yılında kurulmuş olan Safir Dermocosmetics Medikal ve Sağlık Ürünleri Tic. Ltd. Şti. bünyesindeki cilt bakım ürünleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Senco",
+    "description": "Senco, 2009 yılında kurulmuş olan Kyocera Senco Industrial Tools Inc. bünyesinde üretilen çivi çakma makineleri, akülü pnömatik, kombo kitler, kompresörler, vidalı sistemler, zımbalar markasıdır.Kyocera Senco Industrial Tools Inc. Japonya merkezlidir ve ürünlerini ABD’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Nuit Sense",
+    "description": "Nuit Sense, 2015 yılında kurulmuş olan Sükke Kozmetik Paz. San. ve Tic. Ltd. Şti. bünyesinde üretilen parfüm markasıdır.Ürünleri alkol içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Proton Marka Araba",
+    "description": "Proton, 1983 yılında Dr. Mahathir Mohamad tarafından kurulan Proton Holdings Berhad bünyesindeki araba markasıdır.50’den fazla ülkeye ihracat gerçekleştirmiştir.Proton’un sahibi yüzde 50,1 hisse ile Malezya merkezli DRB-HICOM ve yüzde 49,9 hisse ile Çin merkezli Geely’e aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2020-01-06"
+  },
+  {
+    "company": "Rem Seeds",
+    "description": "Rem Seeds, 1939 yılında kurulan Rem Srl bünyesindeki sebze, çimen, çiçek tohumu markasıdır.Tüm sebze çeşitleri yanında, otl, baklagil, çim, organik tohum ürünleri bulunmaktadır.Ürünleri dünya çapında 35 ülkeye ihraç edilmektedir.Rem Srl İtalya merkezli bir şirkettir.Bünyesindeki markalar:Rem SeedsGeo SeedEuro Seed",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Ekici Peynir",
+    "description": "Ekici, 1957 yılında kurulan Ekiciler Süt Gıda Tarım Hayvancılık San. ve Tic. A.Ş. bünyesindeki peynir markasıdır.Antalya OSB’de 42 metrekarelik alanda 30 çeşit ürün üretmektedir.Ekici markalı ürünler Kıbrıs, Ürdün, Afganistan, Türkmenistan, Azerbaycan, Irak ve Kırgızistan gibi ülkelere ihraç edilmektedir.ISO 9001, ISO 22000, BRC, ISO 10002 ve TSE Helal Belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 10002",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Swellpro",
+    "description": "Swellpro, 2013 yılında Eric Hu tarafından kurulan Swellpro Technology Co.,LTD bünyesindeki su geçirmeyen uçangöz markasıdır.Swellpro Technology Co.,LTD Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Güney Kıbrıs’ta ofisi bulunmaktaıdr.Ürünleri:SplashDrone 3+SpryMariner DroneSplash Drone OtoSplash Drone BalıkçıSu geçirmez kamera gimbalSplashDrone 3+ için yük serisi",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "PCE",
+    "description": "PCE, 2012 yılında kurulan PCE Holding GmbH bünyesindeki bakteri ölçüm cihazı, lumitester veya luminometre markasıdır.Ölçüm teknoloji, terazi veya baskül teknoloji, laboratuvar teknoloji ve kontrol teknoloji alanlarında uzmanlaşmış uluslararası bir şirkettir.PCE-ATP 1, ticari mutfak gıdaları hazırlama, endüstriyel gıda üretimi ve gıda işleme, profesyonel temizlik hizmetleri, ameliyathane ve daha fazlası için temizlik kontrolü için kullanılabilen bir ATP test cihazıdır.Almanya merkezli PCE Holding, İspanya, İtalya, İngiltere, Şili, Fransa, Türkiye, Rusya ve Hollanda’da şirketlere sahiptir. Danimarka, İsviçre, Çin, Hırvatistan, Letonya, Litvanya, Slovakya, Slovenya, Macaristan, Kazakistan ve Bulgaristan’da dağıtıcılar üzerinden ürünlerini satmaktadır.Türkiye’de PCE Teknik Cihazlar Paz. Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

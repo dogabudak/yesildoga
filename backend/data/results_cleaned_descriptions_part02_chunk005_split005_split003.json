@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Teradata",
+    "description": "Teradata, 1979 yılında kurulan Teradata Corporation, bünyesindeki veritabanı ve analitik ile ilgili yazılım, ürün ve hizmet sağlayıcısı markasıdır.Teradata veritabanı analitik yazılım abonelikleri geliştiren ve satan bir kurumsal yazılım şirketidir.Teradata Corporation Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Visteon",
+    "description": "Visteon, 2000 yılında kurulan Visteon Corporation bünyesindeki Otomotiv kokpit elektroniği markasıdır.Ürünleri arasında Otomotiv kokpit elektroniği, Ses kafası üniteleri, Gövde, güvenlik ve özellik denetleyicileri ve Gösterge kümeleri yer almaktadır.Visteon Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cirrus",
+    "description": "Cirrus, 1981 yılında Dr. Suhas Patil tarafından kurulan Cirrus Logic Inc. bünyesindeki Yarıiletken markasıdır.Grafik kartları ve mobil aygıtlar için çip üretmektedir.Cirrus Logic Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alcoa",
+    "description": "Alcoa, 1888 yılında Charles Martin Hall tarafından kurulan Alcoa Corporation bünyesindeki Boksit, alüminyum oksit, alüminyum markasıdır.Alcoa Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Heraeus Ülke",
+    "description": "Heraeus, 1851 yılında kurulan Heraeus Fuel Cells Gmbh bünyesindeki özel metaller, tıbbi teknoloji, kuvars cam, sensörler ve özel ışık kaynaklarına odaklanan markadır.Heraeus Fuel Cells Gmbh Almanya merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

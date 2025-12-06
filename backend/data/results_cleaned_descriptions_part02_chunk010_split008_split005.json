@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Aurelius Group",
+    "description": "Aurelius Group, 2005 yılında Dirk Markus, Gert Purkert tarafından kurulan AURELIUS Equity Opportunities SE & Co. KGaA bünyesindeki varlık yönetim grubudur.Avrupa’da 5 ülkede ofisleri bulunmaktadır.Aurelius Group Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aitken Spence",
+    "description": "Aitken Spence, 1868 yılında Patrick Gordon Spence, Thomas Clark, Edward Aitken, S.R. Aitken tarafından kurulan Aitken Spence PLC bünyesindeki eğlence, ulaşım ve lojistik, güç üretimi, bilgi teknolojileri, finansal hizmetler, baskı, konfeksiyon, plantasyon hizmetleri ve emlak geliştirme konularında hizmet veren şirkettir.Aitken Spence PLC Sri Lanka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "Sri Lanka",
+    "updated_date": "2025-01-26"
+  },
+  {
+    "company": "Altınyıldız Classics",
+    "description": "Altınyıldız Classics, Boyner Grup şirketlerinden AY Marka Mağazacılık A.Ş. çatısı altında faaliyet gösteren erkek giyim markasıdır. Takım elbise, gömlek ve aksesuarlar üretmektedir.Altınyıldız, 1992 yılında Türkiye’de ISO 9001 Kalite Belgesi’ni alan ilk tekstil firmasıdır.Boyner’nin yüzde 42,80’i Boyner Ailesine, yüzde 42,68’i Katarlı Mayhoola for Investments LLC yatırım firmasına aittir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  },
+  {
+    "company": "Atlasglobal",
+    "description": "Atlasglobal, 2001 yılında Öger Holding A.Ş. tarafından kurulan Atlasjet Havacılık A.Ş. bünyesindeki tarifesiz iç ve dış hat uçuşlarda yolcu ve kargo taşımacılığı markasıdır.Türkiye’de IOSA sertifikalı ilk IATA üyesi özel havayolu şirketidir.Atlasglobal 35 farklı ülkede 50’den fazla noktaya uçmaktadır.2006 yılında Ali Murat Ersoy, Öger Grubu’nun Atlasglobal’de bulunan yüzde 45’lik hissesini devralmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dry Center",
+    "description": "Dry Center, 1997 yılında Can Temizleme Hizmetleri ve Dayanıklı Tüketim Mamulleri Tic. Ltd. Şti. bünyesinde kurulan kuru temizleme, halı yıkama, ütüleme, deri temizleme, boyama, ev tekstil temizliği hizmetleri markasıdır.Türkiye genelinde bayilik veren kuru temizleme firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

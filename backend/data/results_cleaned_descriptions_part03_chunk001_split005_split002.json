@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Woozik",
+    "description": "Woozik, 2014 yılında kurulan Woozik Inc bünyesindeki kablosuz kulaklıklar, kulaklıklar ve hoparlörler gibi ses ekipmanları markasıdır.Woozik Amerika merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Syllable",
+    "description": "Syllable, 2007 yılında kurulan Shenzhen Gougoudianzi Technology Co, Ltd bünyesinde üretilen bluetooth kulaklık markasıdır.Shenzhen Gougoudianzi Technology Co, Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Luminarc",
+    "description": "Luminarc, 1958 yılında Arc International Group bünyesinde üretilen bira, kokteyl bardakları, şarap bardakları, sürahi, su ve meyve suyu bardağı, pişirme ve yemek cam ürünleri, saklama kutuları markasıdır.Fransa, Amerika, İspanya ve Çin’de üretim tesisleri bulunmaktadır.Arc International Group hisselerinin yüzde 80’i Amerikalı Peaked Hill Partners ile yüzde 20 hissesi Durand ailesine aittir.Arc International Group bünyesindeki markalar:ArcopalArcorocChef&SommelierCristal d’ArquesDiamaxKwarxLuminarcZenix",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Thinx",
+    "description": "Thinx, 2014 yılında Radha ve Miki Agrawal, Antonia Dunbar kurulan Thinx Inc. bünyesindeki iç çamaşırları, ince ped, temizleyici mendil markasıdır.Thinx Inc. hijyen ürünleri üreten Amerika merkezli bir şirkettir.Bünyesindeki markalar:Icon UndiesTHINX",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Se Electronics",
+    "description": "Se Electronics, 2000 yılında Siwei Zou tarafından kurulan sE Electronics International, Inc. bünyesindeki Mikrofon, Refleksfiltreler, Stüdyo Aksesuarları markasıdır.sE Electronics International, Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

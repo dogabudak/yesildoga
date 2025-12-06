@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Yarnart İplik",
+    "description": "Yarnart1993 yılında kurulmuş olan Dem İplik ve Tekstil Tic. Ltd. Şti. bünyesinde üretilen el örgü iplikleri markasıdır.Klasik ve fantezi iplik alanında çok çeşitlere sahiptir.Firma İstanbul merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Knorr Çabuk",
+    "description": "Knorr Çabuk1922 yılında kurulmuş olan Knorr Naehrmittel Aktiengesellschaft bünyesindeki çabuk makarna ve çorba markasıdır.1978 yılından beri Türkiye pazarında yer almaktadır.Knorr Naehrmittel Aktiengesellschaft, 2000 yılında İngiltere merkezli Unilever PLC tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Systainer",
+    "description": "Systainer1925 yılında kurulmuş olan Festool Group GmbH & Co. KG bünyesindeki modüler plastik istifleme kapları, takım çantaları, alet çantası, yardım çantaları, matkap çantaları, organizer, tekerlekli taşıma araçları markasıdır.Festool Group GmbH & Co. KG, Almanya merkezli TTS Tooltechnic Systems Holding AG bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Shock Out",
+    "description": "Shock Out1990 yılında kurulmuş olan Dual Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen haşere kovucu, ilaçlar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Alfa FlorexBabybooBadcatBlockoutBrezzaCool&CleanExtratrapFaretoxFilitFilit 71Filit PompaFilitoxFiltrapInsectblockKovarMyfreshMygasMytoxPixellanceQuantizeSciroccoShock OutZeronit",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fruga",
+    "description": "Fruga2013 yılında kurulmuş olan Gediz Kaynak Suları Gıda ve İçecek San. ve Tic. A.Ş. bünyesindeki doğal maden suyu markasıdır.Helal belgesine sahiptir.Firma İzmir merkezlidir.Bünyesindeki markalar;ActivafreshÇampınar KulaDandyDr’sEko Bazaar LifeFrigozFrugaGazuzzoGediz BambaşkaGediz VitamineraIcemineraLezittoMeygaMisgibiMiskoSelendiSelgaSodaiceSodakulaSodalemonSodalifeSodamaxSogaSoğucakSoysalSundyTam AyarTam Uyar",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

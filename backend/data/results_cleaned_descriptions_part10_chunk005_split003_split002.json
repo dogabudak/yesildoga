@@ -1,0 +1,49 @@
+[
+  {
+    "company": "ZsaZsaZsu",
+    "description": "2023 yılında kurulmuş olan Solid Mağazacılık Hizmetleri Tic. ve San. A.Ş. bünyesindeki ev dekor ürünleri perakende markasıdır.Firma İstanbul merkezlidir. Ankara, İstanbul, İzmir, Konya, Muğla ve Trabzon’da mağazalara sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bebebus",
+    "description": "2018 yılında kurulmuş olan Bebeboo Iot Technology Co. Ltd. bünyesindeki bebek arabası, çocuk arabası, araba koltuğu, beşik, yemek sandalyesi ve diğer çocuk aletleri gibi bebek ürünleri markasıdır.Bebeboo Iot Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Aobosi Home",
+    "description": "2010 yılında kurulmuş olan Yingshi Consulting Co. Ltd. bünyesindeki mutfak aletleri araç soğutucuları markasıdır.Yingshi Consulting Co. Ltd. Çin merkezlidir tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Natifa Baby",
+    "description": "1998 yılında kurulmuş olan ABL Kozmetik ve Sağlık Ürünleri A.Ş. bünyesindeki bebek şampuanı, bebek bakım ürünleri, bebek krem ve yağlar, bebek pudrası ve kolonyası, güneş kremi markasıdır.Ürünleri paraben sentekik koku, boya gibi zararlı maddeleri içermez. Helal belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Babyish",
+    "description": "1995 yılında kurulmuş olan Elif Kozmetik Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki ıslak mendil, sıvı sabun, şampuan, kolonya markasıdır.ISO 9001, ISO 14001, ISO 22716, ISO 45001 belgelerine sahiptir.Firma İzmir merkezlidir. Ürünlerini 6 bin 600 metrekarelik kapalı alanda üretmektedir ve 70’e yakın ülkeye ihraç etmektedir.Bünyesindeki markalar;Çeşme KolonyalarıİdilAlaçatıBabyishBabysmileCelebreDr.Winclean",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

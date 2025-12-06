@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Pırlanta",
+    "description": "Pırlanta Nerenin Malı MarkasıPırlanta, 1991 yılında kurulan Tekinler Dış Tic. Ltd. Şti. bünyesinde üretilen bakliyat ve hububat markasıdır.Mersin’de üretim yapan firma ürünlerini Avrupa ülkeleri, Amerika ülkeleri, Kuzey Afrika ve Ortadoğu ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Briz Kahve ve Baharat Öğütücü",
+    "description": "Briz Kahve ve Baharat Öğütücü Nerenin MalıBriz, 2018 yılında kurulan Muson Global Tic. ve Mühendislik Ltd. Şti. bünyesinde ithal edilen kahve ve baharat öğütücü markasıdır.Adana merkezli firma ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bompi",
+    "description": "Bompi, 2011 yılında kurulan Bompi Gıda Makine Turizm San. ve Tic. Ltd. Şti. bünyesinde üretilen bezeler ve kurabiyeler markasıdır.Eskişehir merkezli firma 2 bin metrekarelik kapalı alan üzerinde üretim yapmaktadır.TS-EN-ISO-9001, TSE-ISO-EN-22000, TSE-ISO-EN-9000, TSE Helal belgelerine sahiptir.Bünyesindeki markalar;BezoBezo PavlovaBezo QuickBompiBompi Beze DünyasiÇokobezeEskort BompiFamiloKağıt KurabiyeKum KurabiyeKurabiyeci BabaMolino RossoPas-EkPavlovaSütçocuk",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Snoopypizza",
+    "description": "Snoopypizza, 1999 yılında Vedat Özgünhan tarafından kurulan Gds Gıda Dağıtım Servisi ve Restorant İşletmeciliği Tic. Ltd. Şti. bünyesindeki pizza ve tavuk ürünleri sunan restoran zinciridir.Bünyesindeki markalar;Spc Snoopy Pizza&ChickenGds SnoopySnoop",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Paribu",
+    "description": "Paribu, 2017 yılında Yasin Oral tarafından kurulan Paribu Teknoloji A.Ş. bünyesindeki dijital varlık işlem platformu markasıdır.Çok sayıda kripto para için alım satım işlemine aracılık etmektedir. TL ile kripto para alış-satış işlemleri yapılabilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

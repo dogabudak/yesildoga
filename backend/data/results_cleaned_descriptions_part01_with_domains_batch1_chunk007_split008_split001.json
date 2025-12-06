@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Liebherr",
+    "description": "Liebherr Group, 1949 yılında Hans Liebherr tarafından kurulan iş makineleri üreticisidir. 2007 yılı itibari ile dünyanın en büyük vinç üreticisidir.İsviçre merkezli şirket 10 bölümden oluşmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Lotto",
+    "description": "Lotto, 1973 yılında Caberlotto ailesi tarafından kurulan ayakkabı ve spor giyim markasıdır.İtalyan firma Lotto, 2000 yılında Türkiye pazarına girdi. Lotto Sport Italia S.P.A ile Linteks Tekstil Ürünleri Sanayi ve Ticaret A.Ş. arasında yapılan lisans anlaşmasıyla Lotto’nun Türkiye ve Kuzey Kıbrıs Türk Cumhuriyeti’ndeki dağıtım ve pazarlama hakları Linteks Tekstil’in oldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2019-08-14"
+  },
+  {
+    "company": "LS Traktör",
+    "description": "LS Traktör Nerenin MalıLS Traktör geçmişi 1975 yılında Yanmar ve LG işbirliğiyle başladı. LS Traktör bir mühendislik şirketidir.2005 yılında bölünme oldu. LS ve LS-New Holland markaları altında satılmaya başladı. Güney Kore’li LS kablo’nun bir bölümüdür.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2018-11-26"
+  },
+  {
+    "company": "Mytol",
+    "description": "Mytol, 1965 yılında kurulan Numan Özkara Makina San. ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen kaynak makineleri, hava kompresörleri ve ekipmanları markasıdır.İstanbul merkezli firma ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-12-25"
+  },
+  {
+    "company": "Nacar",
+    "description": "Nacar, ilk kez 1921 yılında Kevork Nacaroğlu tarafından kurulan Zila Watch Company bünyesinde üretilen saat markasıdır.İsviçre markası 1985 yılında Konyalı Saat’in sahibi Mustafa Nalçacı tarafından satın alındı. Üretime 1995 yılında başladı. Tasarımı Türkiye’ye ait olan saatlerin, makineleri İsveç ve Japonya’dan alınıp Hong Kong’da üretiliyor.Türkiye’nin ilk ve tek yerli saat üreticisi olan Konyalı Saat ayrıca 35 markanın satışını yapıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

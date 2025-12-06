@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Youban",
+    "description": "Youban, 2010 yılında kurulan Xiaomi Inc. bünyesindeki tüketici elektroniği markasıdır.Çin merkezli şirket ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Profel",
+    "description": "Profel, 1975 yılında kurulan Ceta Form El Aletleri A.Ş. bünyesinde üretilen el aletleri markasıdır.Tüm montaj, bakım, onarım ve servis birimlerine profesyonel el aletleri ve ekipmanları sunmaktadır.ISO 9001 belgesine sahip firma ürünlerini İstanbul’da bulunan fabrikasında üretmekte ve 45 ülkeye ihraç etmektedir.Bünyesindeki markalar;C GearCetaCetaformC-PlusCproC-TronicDerwallDuotechDuramaxEndamEnduroEtaExactoGtGt-PlusLumaxProfelRaptorSmartoolsStripxTorexTucanWemaX Grip",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vika Oto Parçaları",
+    "description": "Vika, 1991 yılında kurulan Tantivy Automotive Co. Ltd. bünyesinde üretilen otomotiv parçaları markasıdır.ISO 9001 belgesine sahiptir.Tantivy Automotive Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;DiamondEccbVikaZki",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Prox",
+    "description": "Prox, 2007 yılında Deha Teknik El Alet. San. Hırd. San. ve Tic. bünyesinde üretilen elektrikli el aletleri markasıdır.Firma ölçü aletleri, allen, anahtarlar, bitsler, elektrikli el aletleri, genel aletler, havalı aletler, kesici aletler, keski ve bijon anahtarları, lokma, matkap uçları ve panç, pense, tornavida gibi profesyonel el aletleri ile endüstriyel kullanıcılar için elektrikli el aletleri üretmektedir.İstanbul merkezli firma TSE TS81, TS3794,TS2725 ve TS3315 belgelerine sahiptir.Bünyesindeki markalar;Deha TeknikDhtDht HandtoolsProdhtProxProxel",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Macro Max",
+    "description": "Macro Max, 2016 yılında kurulan Fathel Ev Bakım Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen temizlik setleri, temizlik sistemleri, paspas, temizlik bezi, sünger ve ovma ürünleri, eldiven, yaşam ürünleri, çamaşır ve bakım ürünleri, askı, mandal ve sepetler markasıdır.Firma ürünlerini Kocaeli’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

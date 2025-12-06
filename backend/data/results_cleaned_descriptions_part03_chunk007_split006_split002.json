@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Barcha Coffee",
+    "description": "Barcha Coffee, 2018 yılında kurulan Global Grup Kahve Hazır Gıda San ve Tic. A.Ş. bünyesinde üretilen kahve, çay grubu, frappe ve smoothies, şurup ve püre markasıdır.Espresso bazlı kahve, aromatik kahve, yerel ve dünya kahveleri, bitki ve meyve çayları, frappe ve smoothies ile kahve ekipmanları sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Goodram",
+    "description": "Goodram, 1991 yılında kurulan Wilk Elektronik SA bünyesindeki dram bellek depolama, flash bellek depolama, ssd sürücüler, flash sürücüler, bellek kartları, endüstriyel depolama, gömülü depolama, bellek modülleri markasıdır.Avrupa’daki tek bellek fabrikasıdır. ISO standardı ile Avrupa kalite belgelerine sahiptir.Wilk Elektronik SA Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Wiwu",
+    "description": "Wiwu, 2011 yılında Jason Zhu tarafından kurulan Dongguan WiWU Co.,Ltd. bünyesinde üretilen elektronik aksesuarlar, dizüstü aksesuarları, seyahat için çanta, kulaklık, vb. ürünlerin markasıdır.Ürünleri arasında çanta, şarj cihazı, ses araç aksesuarları, telefon/tablet/dizüstü bilgisayar aksesuarları yer alır.Dongguan WiWU Co.,Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kolay Gelsin Kargo",
+    "description": "“Kolay Gelsin“2018 yılında Ekol Lojistik A.Ş. tarafından kurulmuş olan kargo markasıdır.1990 yılında Ahmet Musul tarafından kurulan Ekol Lojistik A.Ş. 13 ülkede pek çok alanda faaliyet gösteren entegre bir lojistik şirketidir.Türkiye, Almanya, İtalya, Yunanistan, Fransa, Ukrayna, Romanya, Macaristan, İspanya, Polonya, Çek Cumhuriyeti, İsveç ve Slovenya‘da olmak üzere, kapalı alanı yaklaşık 1 milyon metrekareye ulaşan dağıtım merkezine sahiptir. Ayrıca Intermodal taşımacılığa olanak sağlayan haftalık 52 sefer yapan blok tren ve 6 bin aracıyla faaliyet göstermektedir.2024 yılında Koç Holding A.Ş.’ye ait olan Sendeo ile eşit ortaklık şeklinde ve Kolay Gelsin adı altında birleşmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-12-16"
+  },
+  {
+    "company": "Koop Süt",
+    "description": "Koop Süt Nerenin Malı MarkasıKoop Süt, 1958 yılında kurulan Koop Süt ve Petrol Ürünleri Üretim ve Pazarlama Kooperatifi Ltd. bünyesinde üretilen süt, ayran, yoğurt, peynir, çökelek, taze kaşar, hellim peyniri, krema, meyve suyu çeşitleri (yüzde 100 nektar ve içecek) dondurma markasıdır. 1968 yılında Kıbrıs Türk Kooperatif Merkez Bankası Ltd. tarafından satın alınmıştır.Lefkoşa’da bulunan fabrikasında ürettiği çiğ sütün yüzde 25’ini işleyen KOOP Süt, ISO 9001, ISO 22000 ve HACCP belgelerine sahiptir.KKTC merkezli firmanın Hellim Peyniri ihraç payı yüzde 50, diğer ürünlerde ise yaklaşık yüzde 20 oranlarındadır.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "Northern Cyprus",
+    "updated_date": null
+  }
+]

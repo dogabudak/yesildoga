@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mustafa Nevzat İlaç",
+    "description": "Mustafa Nevzat İlaç Sahibi Kim Hangi ÜlkeninMustafa Nevzat İlaç, 1923 yılında Prof. Mustafa Nevzat Pısak tarafından, Mustafa Nevzat Laboratuvarı adıyla kurulmuştur.Türkiye’nin önde gelen mamul ilaç ve ilaç hammaddesi üreticilerindendir. Yaklaşık 310’un üzerinde ruhsatlı ürünü ve başvurusu süren yaklaşık 30 ürünü bulunmaktadır.2012 yılında Mustafa Nevzat İlaç Sanayii A.Ş. hisselerinin yüzde 99,8’ini Amerikan merkezli Amgen İlaç Ticaret Ltd. Şirketi satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Solgar",
+    "description": "Solgar, 1947 yılında kurulan Solgar Inc. bünyesindeki vitamin, mineral, multivitamin, bitkisel ve özel takviyeler markasıdır.Yapay içerikler ve gereksiz dolgu maddeleri, bağlayıcılar veya renklendiriciler, GDO, Glüten, Süt içermemekte. Koşer ve Helal belgelerine sahiptir.Solgar Inc. Amerika merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır. Türkiye’de 1998 yılından beri Solgar Vitamin ve Sağlık Ürünleri San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-12-13"
+  },
+  {
+    "company": "Sick",
+    "description": "Sick, 1946 yılında kurulan Dr. E.h. Erwin Sick tarafından kurulan Sick AG bünyesindeki akıllı sensörler ve sensör çözümlerinin markasıdır.Sick AG, 50’den fazla iştiraki, öz sermaye yatırımı ve çok sayıda temsilciliği ile dünyanın her yerinde faaliyet göstermektedir.Fabrika otomasyonundan, lojistik ve proses otomasyonuna kadar olan tüm alanlarda, sensör konusunda üreticidir.Sick AG Almanya merkezli bir şirkettir.1984 yılından beri Türkiye’de farklı firmalar tarafından temsil edilen SICK, 2004 yılında yüzde 100 Almanya iştiraki olarak SICK AŞ. unvanını almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ticwatch",
+    "description": "Ticwatch, 2012 yılında Zhifei li tarafından kurulan HK SMARTMV LIMITED. bünyesindeki ses tabanlı teknolojiler markasıdır.Firma yeni nesil insan-makine etkileşimi için Mobvoi ses tanıma, doğal dil işleme ve dikey arama alanlarında kendi ses teknolojileri geliştirdi.Çin merkezli firmanın Amerika’da Uluslararası ofisleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ben & Jerry",
+    "description": "Ben & Jerry, 1978 yılında Ben Cohen ve Jerry Greenfield tarafından piyasaya sürülen dondurma, pasta, yoğurt, şerbet ürünleri markasıdır.2000 yılında İngiltere merkezli Unilever PLC. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-26"
+  }
+]

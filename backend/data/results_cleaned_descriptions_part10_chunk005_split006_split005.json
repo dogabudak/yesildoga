@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Asbien",
+    "description": "2023 yılında kurulmuş olan Asbien İlaç San. ve Tic. A.Ş. bünyesindeki kolajen, vitamin, omega 3 ve diğer gıda takviyeleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Albert Premier",
+    "description": "1947 yılında kurulmuş olan Albert Premier S.A./N.V. bünyesinde üretilen çikolata, para çikolata, kalp çikolata, çikolata altın bar ve katı çikolatalar markasıdır.Albert Premier S.A./N.V. Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Rubix",
+    "description": "1978 yılında kurulmuş olan Akanlar Çikolata İçecek Gıda San. Ltd. Şti. bünyesinde üretilen aromalı iç dolgulu çikolata markasıdır.ISO 9001, ISO 22000, ISO 45001, GMP ve Helal belgelerine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini 3. OSB’de üretmektedir ve 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polident",
+    "description": "2022 yılında kurulmuş olan Haleon plc bünyesindeki protez diş temizleme tableti markasıdır.Haleon plc İngiltere merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Culturelle",
+    "description": "1973 yılında kurulan Farmavita s.r.l. bünyesindeki probiyotik gıda takviyeleri markasıdır.Farmavita s.r.l. İsviçre merkezli DSM-Firmenich AG bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Olimp",
+    "description": "Olimp, 1990 yılında kurulan Olimp Laboratories Sp. z o.o. bünyesindeki takviye gıda ürünleri markasıdır.Avrupa’nın en eski sporcu besinleri markalarından birdir. Ayrıca fitness ve vücut geliştirme ekipmanları ve sporcu kıyafetleri üretimi gerçekleştirmektedir.Polonya merkezli firma Polonya’nın en büyük üreticisidir. Avrupa’nın en büyük üreticileri arasında yer almaktadır. Ürünleri 50’den fazla ülkede tercih edilmektedir. Markaya ait ürünlerin tamamı kendi çatısı altında üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Excon",
+    "description": "Excon, 2013 yılında Akşahin Yapı ve Elektronik İnş. San. Tic. Ltd. Şti. bünyesinde kurulan tablet PC ve cep telefonu markasıdır.2009 yılından beri inşaat ve bilişim sektöründe faaliyetlerini sürdüren şirket Excon markasıyla ürünlerini üretiyor ve satış yetkilisi olarak teknoloji pazarına sunuyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hes Deterjan",
+    "description": "Hes Deterjan, 2001 yılında kurulan Moher Kimya bünyesindeki temizlik ürünleri markasıdır. Moher Kimya, TOPSAKAL ŞİRKETLER GRUBU bünyesindedir.Kayseri OSB’de 33 bin metrekare alan üzerinde 22 bin metrekare kapalı alanda toz deterjan ve likit evsel temizlik ürünleri üretmektedir. Ayrıca çeşitli firmalarla private-label (özel markalar) ürün üretimi konusunda işbirliği yapmaktadır.Moher Kimya bünyesindeki Markalar:HesMioNotGesi",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vip Kahve",
+    "description": "Vip Kahve, BİM AŞ. adına Bakgörler Gıda Tur. Teks. Konf. San. ve Tic. Ltd. Şti. tarafından üretilen kahve içeceği markasıdır.Bakgörler Gıda Ltd. Şti., BAKYAPI İnşaat Enerji Madencilik Sanayi ve Ticaret A.Ş. bünyesindedir.1991 yılında Bursa’da kurulan inşaat, gıda ve hizmet sektörlerinde faaliyet gösteren BAKYAPI GROUP, bugüne kadar 6 bine yakın konut inşa ederken İstanbul, Bursa, Konya, Sakarya ve Çanakkale’de devam ettirdiği konut projeleriyle çalışmalarına etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zeo Zeytin",
+    "description": "Zeo, 2008 yılında kurulan A101 Yeni Mağazacılık A.Ş. adına Güngör Zeytincilik Gıda İnş. Nak. Amb. İth. ve İhr. San. ve Tic. Ltd. Şti. tarafından üretilen siyah salamura zeytin, yeşil zeytin, çizik zeytin zeytinyağı, zeytin ezmesi markasıdır.Bursa’da üretim yapan Bursa merkezli firmanın ISO 9001 ve ISO 22000 belgeleri bulunmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-11-12"
+  }
+]

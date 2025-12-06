@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Inecto",
+    "description": "inecto, 1911 yılında kurulan Karium LTD. bünyesinde üretilen saç bakım ve vücut bakım ürünleri markasıdır.Ürün içeriklerinde paraben yer almıyor ve hayvanlar üzerinde test edilmiyor.Karium LTD. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Everton",
+    "description": "Everton, 2013 yılında kurulan Everton Elektronik İhr. İth. Dahili Dış Tic. bünyesinde ithal edilen portatif radyo, mini speaker, otomobil müzik çalar, müzik kutusu, led ışıldak, solar fener, şarjlı fener, kafa feneri, kamp fener markasıdır.Şanlıurfa’da faaliyet gösteren Everton Elektronik bünyesindeki Everton markalı ürünler Çin’de üretilmektedir.Bünyesindeki markalar:EvertonRodasstarRodiesstarZayko",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "D.A.M",
+    "description": "D.A.M, 1993 yılında kurulan Svendsen Sport A/S bünyesindeki olta malzemeleri, olta makine ve olta kamışı, suni yem, kaşık, misina markasıdır.Ürünleri Avrupa, Asya, Avustralya, Amerika kıtalarında bulunan çok sayıda ülkede satılmaktadır.Svendsen Sport A/S Danimarka merkezlidir. Maj Invest Equity, Svendsen Sport A/S ve D.A.M. Manufaktur Int. GmbH’nin hisselerinin yüzde 85’ini satın almıştır.Bünyesindeki markalar:DAMDamylEffzettImaxLenz OpticsMADMADCATOkumaPrologicQuickRon ThompsonSavage GearScierraShadowSteel Power RedSumo CompetitionSvendsen SportWater Wolf",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": "2022-04-01"
+  },
+  {
+    "company": "Deco",
+    "description": "Deco, 1977 yılında kurulan Erhan Teknik Hırdavat San. Ltd. Şti. bünyesindeki matkap ucu, daire testere gibi hırdavat ürünleri markasıdır.Erhan Teknik Hırdavat 1993 yılından beri toptan hırdavat malzemeleri satışı yaparken, 1996 yılında mağazacılık faaliyetine başladı.Bünyesindeki markalar:AltonAtecDecoErtGsp High TechHomgeMobisletNarex Bucovice A.S.RothenTokiwaTos SvitavyVisWatanoYc",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Quadro",
+    "description": "Quadro, 2011 yılında kurulan Tesla Teknoloji İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen bilgisayar teknolojileri ve akıllı mobil teknolojiler markasıdır.Tesla Teknoloji, Quadro markası altında masaüstü bilgisayar, all in one bilgisayar, standart ve endüstiyel mini bilgisayar, ops bilgisayar, tablet, akıllı saat, giyilebilir akıllı mobil teknolojileri, akıllı ateş ölçer, akıllı yüzük gibi ürünlerin üretim ve satışını yapan bir Türk firmasıdır.Devlet Malzeme Ofisi gibi kanallar üzerinden devlet kurumlarının ihtiyaçlarına cevap vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

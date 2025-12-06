@@ -1,0 +1,62 @@
+[
+  {
+    "company": "Newderm",
+    "description": "Newderm, 2004 yılında kurulan Fargen Sağlık Hizmetleri A. Ş. bünyesinde üretilen kozmetik ve kişisel bakım ürünleri markasıdır.Şirketin ürünleri arasında cilt bakım ürünleri, bebek bakım ürünleri, kişisel bakım ürünleri, saç bakım ürünleri, yaşlanma karşıtı ürünler, güneş koruyucu ürünler, jinekolojik bakım ürünleri, cinsel sağlık ürünleri, cilt yanık ürünleri, dermatolojik ürünler, burun spreyleri, sivrisinek kovucu krem ve spreyler, antiseptik losyonlar ve yara bakım ürünleri gibi ürünler yer almaktadır.CE, GMP , ISO 9001 ve ISO 13485 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini İstanbul’da bulunan fabrikalarında üretmekte ve 25’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;Ardent Cosmetics LondonAynasunBaybitBiogrowt HealthBitexBluelight CosmoceuticalDodocreamDoloroffEndodermFiberexGynoxHemoxKasiflexNasalguardNasopantenNewdermNewderm CliniqueÖkoseptPantoderm LaboratoryPro GrowStopsoreSunbreezeT-KeyTrofolastinVix Cold",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Erin Natural",
+    "description": "Erin Natural, 2020 yılında kurulan Erin Kimya Kozmetik Endüstri Tekstil ve Mobilya Tic. Ltd. Şti. bünyesinde üretilen cilt, saç ve ağız bakım ürünleri markasıdır.Ürünleri zararlı kimyasallar içermemektedir. ISO 9001, ISO 22716 belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Geedel",
+    "description": "Geedel, 1996 yılında kurulan Foshan Shunde Golden Light Electric Appliances Co. Ltd. bünyesinde üretilen mutfak gereçleri markasıdır.Hızlı kıyıcı, karıştırıcı, patates soyucu, meyve sıkacağı, peynir değirmeni, dilimleme, kıyma makinesi gibi ürün yelpazesine sahiptir. Ürünleri BPA içermez.Foshan Shunde Golden Light Electric Appliances Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pilotcar",
+    "description": "Pilotcar, 2011 yılında kurulan Pilotcar Otomotiv San. ve Tic. A.Ş. bünyesinde üretilen elektrikli araçlar, golf arabaları, otomotiv, mini kamyon, hizmet ve yük taşıma araçları markasıdır.ISO 45001, ISO 14001, ISO 9001, ISO 10002 belgelerine sahiptir.Bursa merkezli firma ürünlerini birçok ülkeye ihraç etmektedir. Türkiye ve Amerika’da üretim tesislerine sahiptir.Bünyesindeki markalar;CarecoL LogicartLogicartPilotcarPilottruck",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mabber",
+    "description": "Mabber, 2014 yılında kurulan Maber Kırtasiye Oyuncak Elektrik Elektronik İthalat ve İhracat San. Tic. Ltd. Şti. bünyesindeki silgi, versatil kalem, ahşap standlar, cetveller, kalem uçları, zımba, delgeç, okul öncesi setler, çantalı raket, bantlar, beyaz tahta kalemleri ve mürekkepleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BerriBinbantMabber",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

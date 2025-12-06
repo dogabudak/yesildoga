@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Studioline",
+    "description": "1989 yılında kurulmuş olan Kayatur Optik San. ve Tic. Ltd. Şti. bünyesindeki gözlük markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;EleganceFlottG.Dano",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çalıkoğlu",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bulthaup",
+    "description": "1949 yılında Martin Bulthaup tarafından kurulmuş olan Bulthaup GmbH & Co. KG bünyesinde üretilen mutfak mobilyaları ve aksesuarları markasıdır.Bulthaup GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Blefaclean",
+    "description": "1994 yılında kurulmuş olan Laboratoires Thea SA bünyesindeki göz için ıslak mendil, göz bakım ürünleri markasıdır.Ürünleri koruyucu, paraben, sabun ve parfüm içermez.Laboratoires Thea SA Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Hosa",
+    "description": "1984 yılında Sho Sato tarafından kurulmuş olan Hosa Technology Inc. bünyesindeki ses ve görüntü kabloları, müzisyen için analog ve dijital bağlantı çözümleri markasıdır.Hosa Technology Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

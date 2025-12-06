@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Keepro",
+    "description": "Keepro, 2011 yılında kurulmuş olan Ali Koluaçık – Ars Bilgisayar bünyesinde ithal edilen bilgisayar çevre birimleri, sarf malzemeleri, tablet bilgisayar, notebook adaptör çeşitleri çevirici kablo, dönüştürücü adaptör çeşitleri, usb wireless adaptörler, modem çeşitleri, ses sistemleri markasıdır.Firma Ankara merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Raleigh",
+    "description": "Raleigh, 1885 yılında kurulan Raleigh Bicycle Company bünyesinde üretilen elektrikli bisikletler, elektrikli hibrit bisikletler, elektrikli kargo bisikletleri, katlanır elektrikli bisikletler markasıdır.Raleigh Bicycle Company 2012 yılında Hollanda merkezli Accell Grup N.V. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Bekiroğlu Arvila",
+    "description": "Bekiroğlu Arvila Nerenin Malı MarkasıBekiroğlu Arvila, 2014 yılında temelleri atılan Gülel Gıda Üretim Akaryakıt San. ve Tic. Ltd. bünyesinde üretilen iri pilavlık bulgur, şehriyeli pilavlık bulgur, beyaz köftelik bulgur, bulgur, fasulye, esmer köftelik bulgur, köftelik bulgur, kırmızı mercimek, patlayan mısır, pirinç, yerli nohut markasıdır.Firma Şanlıurfa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gürsoy Fındık",
+    "description": "Gürsoy, 1933 yılında kurulmuş olan Gürsoy Tarımsal Ürünler Gıda San. ve Tic. A.Ş. bünyesinde üretilen fındık ve mamulleri markasıdır.Ürün yelpazesinde şekerli fındık füresi, bayazlatılmış iç fındık, fındık ezmesi ve kremalar, kabuklu fındık, kavrulmuş fındık unu, natürel iç fındık, natürel kıyılmış fındık, pikola fındık yer almaktadır.ISO 9001, BRC, IFS, ISO 17025 belgelerine sahiptir.Firma Ordu merkezlidir.",
+    "documents": [
+      "BRC",
+      "IFS",
+      "ISO",
+      "ISO 17025",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Essager",
+    "description": "Essager, 2017 yılında kurulmuş olan Shenzhen Huachuang Zhibo Technology Co. Ltd. bünyesindeki telefon aksesuarları, usb kablosu, duvar şarj cihazı, araba şarjı, kablosuz şarj cihazı, güç bankası, diğer 3c elektronik ürünler markasıdır.ISO 9001, RoHS, CE belgelerine sahiptir.Shenzhen Huachuang Zhibo Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

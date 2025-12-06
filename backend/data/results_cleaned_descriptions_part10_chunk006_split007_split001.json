@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Dedeks",
+    "description": "2022 yılında kurulmuş olan Dedeks Medikal Teknolojileri Arge San. Tic. Ltd. Şti. bünyesindeki veteriner hekimler ve sağlık profesyonelleri için çözümler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avava",
+    "description": "Avava Inc. bünyesindeki tıbbi ekipmanlar markasıdır. Cilt için ürünler sunmaktadır.Avava Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "ivigo",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Faes",
+    "description": "1933 yılında kurulmuş olan Faes Farma S.A. bünyesindeki ilaç markasıdır.Faes Farma S.A. İspanya merkezlidir. Bir çok ülkeye yan kuruluşları vardır ve ürünlerini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Galara",
+    "description": "2011 yılında kurulmuş olan World Medicine İlaç San. ve Tic. A.Ş. bünyesinde üretilen ilaç markasıdır.Firma İstanbul merkezlidir. Ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

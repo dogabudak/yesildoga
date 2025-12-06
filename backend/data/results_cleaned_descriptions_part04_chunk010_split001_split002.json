@@ -1,0 +1,49 @@
+[
+  {
+    "company": "C.G. Robinson",
+    "description": "C.G. Robinson, 1905 yılında Charles Henry Robinson tarafından kurulan C.H. Robinson Worldwide, Inc. bünyesindeki taşımacılık, üçüncü taraf lojistik, İntermodal demiryolu, genel yönlendirme, tedarik zinciri danışmanlığı hizmetleri markasıdır.Şirket ayrıca tedarik zinciri analizi, navlun konsolidasyonu, çekirdek taşıyıcı program yönetimi ve bilgi raporlama dahil olmak üzere hizmetler sunmaktadır.C. H. Robinson, taze ürün ve ürünlerin satın alınması, satılması ve pazarlanması ile uğraşan Robinson Fresh markasına sahiptir.C.H. Robinson Worldwide, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alfaheat",
+    "description": "Alfaheat, 2014 yılında kurulan Alfaheat Isıtmalı Tekstil Ürünleri ve İleri Kompozit Malzemeleri San. Tic. Ltd. Şti. bünyesinde üretilen ısıtmalı yelek ve mont, ısıtmalı çorap, medikal, aksesuarlar markasıdır.Mont, korse, çorap gibi giyilebilir ısınma ürünleri batarya ile çalışmaktadır. Ürettiği tekstil ısıtıcı ürünler ile, soğuk hava şartlarında kullanıcıların ısınım elde edecek ,minimum enerji sarfiyatı sağlanmasına yönelik yenilikçi çözümler sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Anadolu Isuzu",
+    "description": "Anadolu Isuzu, 1965 yılında kurulan Anadolu Isuzu Otomotiv San. ve Tic. A.Ş. bünyesindeki kamyon, kamyonet, otobüs grubu ve d-max ürünleri markasıdır.Ana faaliyet alanı hafif kamyon, kamyonet, küçük otobüs ve pick-up gibi ticari araçların üretim ve pazarlanmasıdır.ISO-9002, ISO-9001, ISO 14001 belgelerine sahiptir. Kocaeli, Şekerpınar’da bulunan fabrikasında üretim yapmaktadır. Anadolu Isuzu’nun yurt dışında 30’dan fazla ülkede dağıtıcısı bulunmaktadır.Anadolu Isuzu şirketinin ortaklık dağılımı:Anadolu Grubu (yüzde 53.55)Isuzu (yüzde 16,99) Japonya merkezliItochu (yüzde 12.75) Japonya merkezliDiğer (yüzde 1.70)Halka Açık Hisseler (yüzde 15)",
+    "documents": [
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Audiocodes",
+    "description": "Audiocodes, 1993 yılında kurulan AudioCodes Ltd. bünyesinde üretilen gelişmiş iletişim yazılımı, ürünleri ve verimlilik çözümleri markasıdır.Hizmetleri, işletmelerin ve servis sağlayıcıların birleşik iletişim (UC), iletişim merkezleri ve barındırılan iş hizmetleri için tüm IP ses ağlarını oluşturmasına ve çalıştırmasına olanak tanır.Dünyanın en iyi 100 servis sağlayıcısının 60’ından fazlası AT&T, Verizon, BT, DT ve Telefónica dahil olmak üzere AudioCodes teknolojisini kullanıyor.AudioCodes Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Loomis",
+    "description": "Loomis, 1997 yılında Wells Fargo Armored Service ve Loomis Armored Inc.’ in birleşmesiyle kurulan Loomis AB bünyesinde, perakende ve finans sektörleri için varlık ve nakit işleyen ve taşıyan, bankacılık, ATM hizmetleri markasıdır.Para ve değerli eşya taşıma, ATM ikmal ve bakım hizmeti, işleme ve kasalama hizmeti, değerli küçük paket taşıma hizmeti, uluslararası hizmetler ve mücevher fuarlarına yönelik gümrükleme, taşıma ve kasalama hizmeti ile akıllı kasa çözümü ve elektronik kilit çözümü sunmaktadır.Türkiye dahil 23 ülkede faaliyet göstermektedir.Loomis AB, İsveç merkezli Securitas AB’ye ait olan Dansikring’in bir parçasıdır. Türkiye pazarına 1995 yılında Erk Armored Güvenlik Hizmetleri A.Ş.’nin hisselerini satın alarak girdi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Stecell",
+    "description": "2003 yılında kurulmuş olan Ayan Dış Tic. Ltd. Şti. bünyesindeki pisuvar ürünler, fotosel batarya, dijital batarya, termostatik batarya, ayretörler, duş regülatörü, el duşu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cafune",
+    "description": "2015 yılında Queenie Fan ve Day Lau tarafından kurulmuş olan Cafune Limited bünyesindeki çantalar, küçük deri ürünler markasıdır.Cafune Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Acasis",
+    "description": "2008 yılında kurulmuş olan Acasis Inc. Co. Ltd. bünyesindeki usb hub, bilgisayar çevre birimleri, bilgisayar, akıllı telefon periferikleri, hdd, ssd muhafazalar, pcie, usb, ahd yakalama kartları, adaptör ve aksesuarlar markasıdır.Acasis Inc. Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ipega",
+    "description": "1994 yılında kurulmuş olan Shenzhen Ipega Electronic Technology Co. Ltd. bünyesinde üretilen gamepad, vr, ar akıllı ürünler, vr çevre aksesuarları, akıllı yeni enerji aracı oyun aksesuarları, giyilebilir görsel, işitsel ekipman, 3c dijital ürünler, akıllı kontrolör, bulut oyun denetleyicisi, oyun aksesuarları, cep telefonu, bilgisayar aksesuarları, elektronik güzellik ürünleri ve ev aletleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Shenzhen Ipega Electronic Technology Co. Ltd. Çin merkezidir. Tüm ürünleri Çin’de üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Baygon",
+    "description": "1886 yılında kurulmuş olan S. C. Johnson & Son Inc. bünyesinde üretilen kimyasal haşere yok ediciler markasıdır.S. C. Johnson & Son Inc. Amerika merkezlidir. Ürünlerini 200 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "SW-Stahl",
+    "description": "SW-Stahl, 1987 yılında kurulan SW-Stahl Gmbh bünyesindeki el aletleri ve özel aletler markasıdır.SW-Stahl Gmbh Almanya merkezlidir. 20’den fazla ülkeye ürünlerini pazarlamaktır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2024-01-03"
+  },
+  {
+    "company": "Nouryon",
+    "description": "Nouryon, 2018 yılında kurulan Nouryon Chemicals International B.V. bünyesinde üretilen klor, kostik, dimetil eter ve tuz ürünleri markasıdır.Ürün yelpazesinde selülozikler, organik peroksitler, ağartma kimyasalları, genişletilebilir mikroküreler ve yüzey aktif maddeleri yer almaktadır.Nouryon Chemicals International B.V. Hollanda merkezlidir ve 80’den fazla ülkede faaliyet göstermektedir.Bünyesindeki markalar;BerolDissolvineEkaTrigonoxSolvitar",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Cemil Efendi",
+    "description": "Cemil Efendi, 2018 yılında kurulan Cemil Efendi Bitkisel ve Doğal Ürünler Baharat Gıda Kozmetik San. Tic. A.Ş. bünyesindeki arı ürünleri, bitkisel çaylar, bitkisel aromatik sular, bitkisel kozmetik ürünleri, bitkisel yağlar, doğal pekmezler, doğal sirkeler, esans ve aromalar, tahil ürünleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ozlika",
+    "description": "Ozlika, 2018 yılında kurulan Ozlika İlaç Gıda Kozmetik İnşaat ve Turizm San. Tic. Ltd. Şti. bünyesindeki yağlar, yüz kremleri, vücut kremleri markasıdır.Firma Antalya merkezlidir ve ürünlerini Antalya’da bulunan tesisinde insan sağlığına dost hammadeler kullanarak dermokozmetik, gıda ve gıda takviyesi üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Netafim",
+    "description": "Netafim, 1965 yılında kurulan Netafim Ltd. bünyesinde üretilen damlatıcılar, fıskiyeler ve mikro yayıcılar gibi sulama çözümleri markasıdır.Netafim Ltd.’nin yüzde 80’i Meksika merkezli Orbia Advance Corporation S.A.B. de C.V.’ye yüzde 20’si ise İsrailli Kibbutz Hatzerim’e aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

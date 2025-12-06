@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Pixart Imaging",
+    "description": "Pixart Imaging, 1998 yılında kurulan PixArt Imaging Inc. bünyesindeki CMOS görüntüleme algılama teknolojisi ve navigasyon ile ilgili entegre çip markasıdır.Firma karmaşık insan-makine arayüz tasarımlarını desteklemek için çok çeşitli sensör ürünleri ve hizmetleri sunmaktadır. CMOS görüntü sensörleri, kapasitif dokunmatik kontrolörler ve ilgili görüntüleme uygulamalarında uzmanlaşmıştır.PixArt Imaging Inc. Tayvan merkezlidir. Ofisleri Silikon Vadisi, Malezya, Çin, Japonya, Kore ve Danimarka’da yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Nibe Industrier",
+    "description": "Nibe Industrier, 1949 yılında kurulan Nibe Industrier AB bünyesindeki elektrikli ısıtma araçları, evsel ısıtma ürünleri (ısı pompaları ve kazanlar) ve bu tür sobalar markasıdır.Nibe Industrier AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Rostselmash",
+    "description": "Rostselmash, 1929 yılında kurulan Rostselmash Combine Plant, LLC bünyesindeki tahıl ve yem hasat makineleri, traktör, püskürtücüler, yem ekipmanları ve tahıl işleme ekipmanları markasıdır.Rostselmash Rusya merkezlidir ve ürünleri dünya çapında 50’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Lattice Semiconductor",
+    "description": "Lattice Semiconductor, 1983 yılında kurulan Lattice Semiconductor Corp. bünyesindeki yarı iletken markasıdır.İletişim, bilgi işlem, endüstriyel, Otomotiv ve tüketici pazarlarında, uçtan uca buluta kadar ağ genelinde müşteri sorunlarını çözmektedir.Amerika merkezli Lattice Semiconductor şirketinin Çin, Filipinler’de şubeleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Seyntex",
+    "description": "Seyntex, 1908 yılında Arthur Seynaeve tarafından kurulan Seyntex N.V. bünyesindeki tekstil markasıdır.Yüksek teknoloji tekstil ürünlerinin yanı sıra kurşun geçirmez ve CBRN savunma ürünleri üretmektedir.Seyntex N.V. Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Skieer",
+    "description": "Skieer, 2011 yılında kurulan Hangzhou Anzhi Electronic Commerce Co. Ltd. bünyesinde üretilen mont, yağmurluk, ceket markasıdır.Hangzhou Anzhi Electronic Commerce Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bodor",
+    "description": "Bodor, 2008 yılında kurulmuş olan Jinan Bodor Cnc Machine Co. Ltd. bünyesinde üretilen lazer kesim makinesi, metal kesme makinesi, fiber lazer makinesi markasıdır.ISO 9001 belgesine sahiptir.Jinan Bodor Cnc Machine Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ellea Nail",
+    "description": "Ellea Nail, 2016 yılında kurulan Park Kozmetik bünyesinde ithal edilen tırnak şablonları, tırnak bakım yağları, tırnak pensleri, tırnak törpüleri, takma tırnaklar, protez tırnak ürünleri, çalışma lateksleri, çizim kalemleri, akrilik tozlar, anestezi seti, cetveller, et ittiriciler ve kronklar, et makasları, et pensleri, fırçalar, freze makineleri, freze uçları, jeller, kalıcı makyaj ürünleri, kalıcı oje, kartelalar, loop gözlük, manikür sehpaları, microblading, sıvılar, sterilizasyon ve dezenfektan ürünleri, tek kullanımlık ürünler, toz toplama makineleri, uv ve led kurutucu lambalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dekopasaj",
+    "description": "Dekopasaj, 2016 yılında kurulmuş olan Dekopasaj Teknoloji Hizmetleri ve Tic. A.Ş. bünyesindeki ikinci el eşya veya mobilya alım satım pazar yeri markasıdır.Firmanın kendine ait nakliyesi bulunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ünal Kuruyemiş",
+    "description": "Ünal Kuruyemiş, 1956 yılında kurulmuş olan Ünal Kuruyemiş Gıda Maddeleri Üret. Paz. San. ve Tic. Ltd. Şti. bünyesindeki lokum, kuruyemiş, çikolata, kuru kahve markasıdır.Firma Ankara merkezlidir. Sincan’da 8 bin metrekarelik, Kazan’da 10 bin metrekarelik fabrikalara sahiptir. Kuruyemiş kiosk ve mağaza konsepti ile Franchise vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

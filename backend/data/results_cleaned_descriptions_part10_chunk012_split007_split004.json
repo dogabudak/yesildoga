@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Petissimo Care",
+    "description": "2023 yılında kurulmuş olan Eva Global Uluslararası Tic. ve Danışmanlık Ltd. Şti. bünyesindeki köpek şampuanı, kedi şampuanı, kedi koku giderici, kedi vitamini markasıdır.Firma Ordu merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Valcambi",
+    "description": "1961 yılında kurulmuş olan Valcambi SA bünyesinde üretilen altın, gümüş, madeni para, madalya, mücevher markasıdır.Valcambi SA 2015 yılında Hindistan merkezli Rajesh Exports Limited tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Barocook",
+    "description": "2017 yılında kurulmuş olan Saram Co. Ltd. bünyesindeki kutu ısıtıcı, alevsiz pişirme sistemi markasıdır.Her zaman, herhangi bir yerde ateş kullanmadan yiyecek pişirebilir.Saram Co. Ltd. Güney Kore merkezlidir. Ürünlerini 25 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Nadir Gold",
+    "description": "1993 yılında kurulmuş olan Nadir Metal Rafineri San. Tic. Ltd. Şti. bünyesinde üretilen altın ve gümüş ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vitamen Tüyo",
+    "description": "",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

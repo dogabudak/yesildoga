@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Volkano",
+    "description": "Volkano, 2005 yılında kurulan SMD Technologies bünyesindeki bluetooth hoparlör, bluetooth kulaklık, spor aksesuarları, güç bankası, dijital fotoğraf makinesi, bilgisayar çevre birimleri, oyun ekipmanları ve hücresel aksesuarlar markasıdır.SMD Technologies Güney Afrika merkezlidir. Ürünlerini Çin’de üretmektedir.SMD bünyesindeki markalar:VolkanoRockaBounceAmplifyConnex DevicesPremio MobileKD Foods",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Longines",
+    "description": "Longines, 1832 yılında kurulan Montres Longines Francillon S.A. bünyesindeki lüks saat markasıdır.Longines 150’den fazla ülkede mevcuttur.Montres Longines Francillon S.A. İsviçre merkezlidir. Longines, Swatch Group Ltd’nin bir üyesidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Dermokil",
+    "description": "Dermokil, 2006 yılında Ünal Karaca tarafından kurulan Ezel Kozmetik İthalat ve İhracat Tic. ve San. A.Ş. bünyesindeki kozmetik, makyaj ve kişisel bakım markasıdır.Ünal Karaca İsrail’de keşfettiği kil ile Dermokil markası altında, cilt bakım, saç bakım, el ve vücut bakım, hyperpigmentasyon kategorilerinde yaklaşık 500 adet ürünü Sivas OSB’de üretmektedir.SEDEX / SMETA, HACCP, GMP, ISO 9001 belgelerine sahiptir.Bünyesindeki markalar:Clean ClayDermokilDkclayDkdentDkdermDkhairDkkilDkshopDr. KilDr.KilEzelEzel KozmetikKilmatik",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rown",
+    "description": "Rown, 1965 yılında kurulan Numan Özkara Makina San. ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen inşaat aletleri ve aksesuarları, elektrikli el aletleri, bahçe aletleri ve ekipmanları, kaldırma ve garaj ekipmanları, jeneratörler, yıkayıcılar markasıdır.Firma İstanbul merkezlidir ve ürünlerini Çin’den ithal etmektedir.Bünyesindeki markalar;CrownflexEpsgeneraLiangyeLutianMax-ExtraMax-Extra MxpMileseeyMxp GardenMytolRownRownmaxToolbarZobo",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-12-25"
+  },
+  {
+    "company": "Delta",
+    "description": "Delta, 1960 yılında kurulan Delta Büro Gereçleri Endüstri Zımba Telleri Tic. ve San. A.Ş. bünyesinde üretilen zımba makinesi, delgeç, her çeşit zımba teli, ataş, takvim altlığı, mühürlük, tel sökücü, ürün setleri vb. ürünler markasıdır.ISO 9001 belgesine sahiptir. Yüzde 100 yerli üretim yapan firmanın ürünleri 45 ülkeye ihraç edilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

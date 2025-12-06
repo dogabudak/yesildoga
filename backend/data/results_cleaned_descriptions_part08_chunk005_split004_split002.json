@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Eti Maximus",
+    "description": "Eti Maximus, 1962 yılında kurulmuş olan Eti Gıda A.Ş. bünyesinde üretilen çikolata kaplı yer fıstıklı ve karamelli nuga bar markasıdır.Palm yağı ve Nişasta bazlı şeker içermektedir.Firma Eskişehir merkezlidir ve ürünlerini 60 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fareva",
+    "description": "Fareva, 1985 yılında kurulmuş olan Fareva Group bünyesinde üretilen paketleme malzemeleri markasıdır.Kozmetik, ilaç, kimyasal ürünler ve gıda ürünleri alanında faaliyette bulunmaktadır.Fransa menşeli Fareva Group Lüksemburg merkezlidir. Şirketin sahibi Bernard, Jean-Pierre ve Catherine Fraisse’dir. 2009 yılında Fareva Holding’in tüm hissesine sahip olduğu Centragroup Fareva S.A.S. Türkiye’de Coster Aerosol Valf Sanayi A.Ş.’nin yüzde 75 oranındaki hisselerini satın almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Ülker Saklıköy",
+    "description": "Saklıköy, Ülker Bisküvi San. A.Ş. tarafından üretilen klasik, yulaflı, sütlü ve fındıklı kremalı bisküvi markasıdır.Soya, palm yağı, gluten ve nişasta bazlı şeker içermektedir.Ülker Bisküvi San. A.Ş. Yıldız Holding A.Ş. bünyesindedir ve Türkiye’de üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Capitol Şampuan",
+    "description": "Capitol, BİM Birleşik Mağazalar A.Ş. adına Coster Aerosol Valf San. A.Ş. tarafından üretilen şampuan, saç kremi markasıdır.Bernard, Jean-Pierre ve Catherine Fraisse’nin sahibi olduğu Centragroup Fareva S.A.S. 2009 yılında Coster Aerosol Valf San. A.Ş.’nin yüzde 75 hissesini satın almıştır. Fareva Holding bünyesindeki şirket Lüksemburg merkezlidir. Capitol markalı ürünler Türkiye’de bulunan üretim tesislerinde üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tondo Smart",
+    "description": "Tondo Smart, 2016 yılında kurulmuş olan Tondo Smart Ltd. bünyesindeki akıllı şehirler ve binalar için akıllı aydınlatma çözümleri markasıdır.Tondo Smart Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

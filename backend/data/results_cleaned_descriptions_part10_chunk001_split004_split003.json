@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hofmann",
+    "description": "1990 yılında kurulmuş olan Snap-On Equipment Gmbh bünyesindeki otomotiv alt araç servis ekipmanları markasıdır.Araç, ekipman, teşhis, onarım bilgileri ve sistem çözümleri üretmektedir.Snap-On Equipment Gmbh Almanya merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Flipkart",
+    "description": "2007 yılında kurulmuş olan Flipkart Pte. Ltd. bünyesindeki online alışveriş hizmetleri markasıdır.Tüketici elektroniği, moda, ev eşyaları, bakkaliye ve yaşam tarzı ürünleri, kitap ve moda ürünlerini sunmaktadır.Flipkart Private Limited 2018 yılında Amerika merkezli Walmart Inc. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jowe",
+    "description": "2019 yılında kurulmuş olan Jowe Kozmetik A.Ş. bünyesindeki kaş kirpik bakımı, dudak bakımı, saç bakımı, cilt bakımı markasıdır.Firma İstanbul merkezlidir. Ürünleri 15’ten fazla ülkeye dağıtılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dermavise",
+    "description": "2022 yılında kurulmuş olan Lancel Kimya Medikal Kozmetik Tekstil San. ve Tic. Ltd. Şti. bünyesindeki çamaşır leke çıkarıcı, şampuan, deodorant, katı sabun, roll on, saç spreyi, saç toniği, tonik, vücut kremleri, yüz maskesi, yüzey temizleyici markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sawpoo",
+    "description": "2004 yılında kurulmuş olan Hair Pharma – Yeşil Yurt Medikal Sağlık ve Kozmetik Ürünleri San. Tic. Ltd. Şti. bünyesindeki şampuan markasıdır.Saç sorunları, saç dökülmesi, kırılma, çatallanma ve matlaşma gibi sorunlar yaşayan kişiler için geliştirilmiştir.Alerjen kimyasal renklendiriciler, yapay aromalar, SLS, SLES ve paraben içermez.Firma İstanbul merkezlidir.Ürünlerini Onur Kimya Laboratuvarları, Beka İlaç Sanayi ve S.G. Kimya gibi üreticiler üretmektedir.Bünyesindeki markalar;BiotinDermottoHgf PlusHgf SpreyHp BiotinHairforteMenopeciaPedikap BitPostopPruzon PomadSadbe Roll-On",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

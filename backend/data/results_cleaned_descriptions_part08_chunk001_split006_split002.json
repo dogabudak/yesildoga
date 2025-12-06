@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Heller Model Kitleri",
+    "description": "Heller, 1957 yılında kurulmuş olan Heller Hobby Gmbh bünyesindeki model kitleri markasıdır.Küçük uçaklardan dev yelkenli gemilere kadar ürün yelpazesine sahiptir.Heller Hobby Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Duranlar Süt",
+    "description": "Duranlar Süt Nerenin Malı MarkasıDuranlar Süt, 1995 yılında kurulmuş olan Duranlar Süt San. ve Tic. A.Ş. bünyesinde üretilen beyaz peynir, yoğurt, kaşar peyniri, tereyağ, ayran ve yöresel peynirler, dil peyniri, otlu peynir, çerkez peynir markasıdır.ISO 9001 belgesine sahiptir.Firma Burdur merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elsa Sabun",
+    "description": "Elsa, 1998 yılında kurulmuş olan Ateşsönmez Kimya San. ve Tic. A.Ş. bünyesinde üretilen sabun markasıdır.Firma Gaziantep merkezlidir. Ürünlerini 18 bin metrekarelik kapalı alanda üretmektedir ve yüzde 85’ini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tanura",
+    "description": "Tanura, 2005 yılında kurulmuş olan Norm Kozmetik Paz. San. ve Tic. Ltd. Şti. bünyesinde üretilen kabin grubu ürünler, ev devam ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;HerbatechLaciniaTanura",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aveclinic",
+    "description": "Aveclinic, 2018 yılında kurulmuş olan Aveuni Kozmetik Tic. A.Ş. bünyesinde üretilen güzellik ve kişisel bakım ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Aveclinic Advanced Skin CareModelistaOyodouxPicidaSpaconceptSpamood Let Your Soul Renew",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

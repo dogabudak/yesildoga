@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Ordesa",
+    "description": "Ordesa, 1943 yılında kurulan Laboratorios Ordesa SL bünyesinde üretilen hidrolize bebek gevreği, glutensiz bebek gevreği, sindirim değişikliklerini tedavi etmek için özel gıda ürünleri ve özel sütler markasıdır.Laboratorios Ordesa SL İspanya merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Bahçebaşı",
+    "description": "Bahçebaşı Nerenin Malı MarkasıÜnal Süt, 1984 yılında Mustafa Ünal tarafından kurulan Ünal Gıda ve İnşaat San. Tic. Ltd. Şti. bünyesinde üretilen süt ve süt ürünleri markasıdır.TSE, ISO, HACCP ve HELAL belgelerine sahiptir.Kayseri merkezli firma süt, beyaz peynir, kaşar peynir, lor peynir, ayran, kaymak, tereyağ, krema ve yoğurt gibi ürünlerini 15 bin metrekarelik alanda üretmektedir.Bünyesindeki markalar;BahçebaşıSütköyüÜnalÜnalzade Süt Ürünleri",
+    "documents": [
+      "HACCP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Etçii",
+    "description": "Etçii, 1996 yılında kurulan Etçii Gıda A.Ş. bünyesinde üretilen et ve et ürünleri markasıdır.Büyük ve küçükbaş hayvanlar Marmara ve Trakya bölgelerinin çeşitli yörelerindeki çiftliklerden temin edilmektedir. Marble görünümlü yağlı etler ve veal denilen süt danalar ise ithal edilmektedir.Ürünlerini 50 bin metrekarelik kapalı, 13 bin metrekarelik açık alanda bulunan tesisinde üretmektedir.Bünyesindeki markalar;Al Emin HalalBy Emn HalalEmin EtEminetEtçiiEtçii By EmnEtçii Merguez Fresh SosisMerguez Fresh Sosis",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tuna Süt",
+    "description": "Tuna Süt, 1973 yılında kurulan Tuna Süt Mamülleri Makina San. ve Tic. A.Ş. bünyesinde üretilen pastörize süt, yoğurt, ayran, beyaz peynir, kaşar peyniri,tulum peyniri, lor peynir, kaymak markasıdır.Konya merkezli firmanın fabrikası bin 500 metrekaresi kapalı toplam 3 bin 200 metrekareliktir. TSE ISO EN 9000, TS EN ISO 9001, TSE ISO 22000 belgelerine sahiptir.Bünyesindeki markalar;TunaTunabey",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evoo",
+    "description": "Evoo, Evoo Inc. bünyesindeki 2-in-one, akıllı telefon, defter bilgisayar, dizüstü, hepsi bir arada bilgisayar, oyun bilgisayarı, tablet, dönüştürülebilir dokunmatik ekranlı dizüstü bilgisayarı markasıdır.Evoo Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

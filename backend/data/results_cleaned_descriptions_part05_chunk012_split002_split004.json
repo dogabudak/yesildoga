@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Mlekovita",
+    "description": "Mlekovita, 1928 yılında kurulan Grupa Mlekovita bünyesinde üretilen süt ve süt ürünleri markasıdır.HACCP ve ISO 9001 belgelerine sahiptir.Grupa Mlekovita Polonya merkezlidir. Üretiminin yüzde 35’ini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Andalou Naturals",
+    "description": "Andalou Naturals, 2013 yılında Stacey Kelly Egide tarafından kurulan BWX Brands Inc. bünyesinde üretilen doğal ve organik güzellik ürünleri, yüz, vücut ve saç bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. GDO ve gluten içermemektedir ve yüzde 98 oranında doğadan üretilmiştir.BWX Brands Inc. Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mykronoz",
+    "description": "Mykronoz, 2013 yılında kurulan Kronoz LLC. bünyesindeki etkinlik izleyicileri, akıllı saatler, hibrit akıllı saatler, kablosuz kulaklıklar, giyilebilir aksesuarlar markasıdır.Ürünleri iOS, Android ve WindowsPhone ile uyumludur.Kronoz LLC. Lüksemburg merkezli BOW Group’un bir parçasıdır. Ürünlerini İsviçre’de üretmektedir ve 40’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Bow IndustriesLegacy StoreLexonMusartMykronoz",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Policral",
+    "description": "Policral, 2016 yılında kurulan Shenzhen Policral Technology Co. Ltd. bünyesinde üretilen Lcd çizim, Lcd yazma tableti, dijital elektronik ürünler markasıdır.ISO 9001, CE, FCC, BSCI, RoHS belgelerine sahiptir.Shenzhen Policral Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Araree",
+    "description": "Araree, 2008 yılında kurulan Kdlab Inc. bünyesindeki mobil aksesuarlar markasıdır.Ürün yelpazesinde TPU, deri cep telefonu kılıfları, şeffaf temperli cam ekran koruyucuları, ekran koruyucuları temizleme ürünleri yer almaktadır.Kdlab Inc. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Edkon",
+    "description": "Edkon2008 yılında kurulmuş olan Edkon Games Gmbh bünyesindeki mobil oyunlar, çevrimiçi oyunlar ve ücretsiz oyunlar markasıdır.Oyunları Android ve iOS platformlarında mevcuttur.Edkon Games Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Milkyway Çikolata",
+    "description": "Milkyway1911 yılında kurulan Mars Incorporation bünyesinde üretilen çikolata, sıcak çikolata içeceği markasıdır.Mars Incorporated Amerika merkezlidir. Amerika ve çok sayıda ülkede üretim tesisleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Muscletech",
+    "description": "Muscletech1995 yılında kurulmuş olan Iovate Health Sciences Inc. bünyesinde üretilen gıda takviyesi markasıdır.Iovate Health Sciences Inc. 2016 yılında Çin merkezli Xiwang Foodstuffs Co. Ltd. tarafından satın alınmıştır.Bünyesindeki markalar;HydroxycutMuscletechPurely InspiredSix Star",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fensterbau",
+    "description": "Fensterbau1949 yılında kurulan NürnbergMesse GmbH bünyesindeki pvc pencere sistemleri markasıdır.NürnbergMesse GmbH Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hanfırın",
+    "description": "Hanfırın1998 yılında kurulan Han Baharat Ltd. Şti. bünyesinde üretilen doğal ve organik bitki, baharat, fonksiyonel gıdalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

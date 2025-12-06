@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Corsair",
+    "description": "Corsair, 1994 yılında kurulan; klavye, fare, kasa, ram, soğutucu, fan, sdd, psu, usb markasıdır. Oyun bilgisayarları için ürün yelpazesine sahiptir.Corsair Components, Inc Amerikan merkezli bir şirkettir. Ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rexpo",
+    "description": "Rexpo, 2010 yılında kurulan Rexpo Trading Ltd Co & Kg bünyesindeki klavye, mouse, webcam, kulaklık, mikrofon, usb, hub, card reader markasıdır.Rexpo Trading Ltd Co & Kg Almanya merkezli bir şirkettir ancak bilişim sektöründe; Uzakdoğu’da üretim yapmaktadır.Türkiye’de, MEL-SA Bilişim, Rexpo ağı altında birçok ürün satışı yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hiper",
+    "description": "Hiper, 1991 yılında kurulan KALLIN DEVELOPMENT CO.,LTD tarafından üretilen Kasa, Klavye, Mouse, Hoparlör, Web Kamera, LCD Temizlik Seti, Laptop Adaptörü, Kulaklık, Mikrofon, dahili ve harici kart okuyucuları, Bluetooth, Ağ ürünleri, harici ve dahili USB ürünler, USB Görüntü Aktarıcı, USB3.0 Çözümler, USB Çoklayıcı, Anakart, Harici Sabit Disk kutusu, Tablet Aksesuarları, Kablo ve Dönüştürücüler, Sanal Gerçeklik Gözlüğü, Cep Telefonu Aksesuarları, Notebook Soğutucu ve Mousepad markasıdır. Bu ürünler Çin’de üretilmektedir.Türkiye’ye Oxyd – Oksid Bilişim tarafından ithal edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Polyfix Ülke",
+    "description": "Polyfix , 1992 yılında kurulan Poliüretan köpük, yapıştırıcı, Silikon ve Mastik, montaj yapıştırıcı, çatı ürünleri ve bina yalıtım sistemleri ürünleri üretimi yapan Selena firmasının markasıdır.Türkiye’de Selena Yapı Malzemeleri adıyla hizmet veren Polonya merkezli firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Havit",
+    "description": "1998 yılında kurulmuş olan Guangzhou Havit Techonology Co. Ltd. bünyesindeki; klavye, fare, hoparlör, laptop soğutucu, usb hub, aksesuarlar, şarj cihazı ve kulaklık gibi ses cihazları, oyun çevre birimleri, mobil aksesuarlar ve akıllı yaşam elektronik ürünler markasıdır.Guangzhou Havit Techonology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2024-12-25"
+  }
+]

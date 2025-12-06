@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Wellmax",
+    "description": "Wellmax, 1987 yılında kurulan Shanghai Wellmax Lighting Industry Co., Ltd. bünyesindeki led ampul, led panel ve led tüp markasıdır.Dünya çapında 95’ten fazla ülkeye satış yapmaktadır.Shanghai Wellmax Lighting Industry Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Efen",
+    "description": "Efen, 1922 yılında Otto Frees tarafından kurulan EFEN GmbH bünyesindeki otomotiv endüstrisi için elektrik sigortaları markasıdır.Sigortalar ve Sigorta ile ilgili sistem komponentlerinde uzmanlaşmış bir firmadır.2019 yılında Almanya merkezli uesa GmbH tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dalli",
+    "description": "Dalli, 1845 yılında Andreas August Wirtz tarafından kurulan Dalli-Werke Gmbh & Co. Kg bünyesindeki deterjan, temizlik ürünleri, kişisel bakım, kozmetik ve güneşten korunma ürünleri markasıdır.2007 yılında ürün yelpazesi doğal kozmetik alanını kapsayacak şekilde genişletildi. İştiraki Maurer & Wirtz ile Dalli Grubu parfümeri sektöründe de yer almaktadır.Avrupa’nın en büyük ikinci özel etiket üreticisidir.Dalli-Werke Gmbh & Co. Kg Almanya merkezlidir. Ürünlerini Almanya, Hollanda, Avusturya ve Romanya’daki 7 tesisinde üretmektedir.Bünyesindeki markalar:DashDalliEvidurGlix",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Gülsan",
+    "description": "Gülsan, 1983 yılında kurulan Gülsan Çelik Eşya Turizm İnş. San. ve Tic. Ltd. Şti. bünyesinde üretilen çelik tencereler, çelik tavalar, granit tencereler, granit tavalar, mini çelik setler, kek kalıpları, çaydanlık ve cezveler, çeyiz setleri markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doygun Ekmek",
+    "description": "Doygun Ekmek 1999 yılında kurulan ekmek çeşitleri, simit, açma, poğaça, kruvasan, danish, börek ve kurabiye markasıdır. 2016 yılında Pan Gıda Unlu Mamüller San. Tic. A.Ş. tarafından satın alındı.Katkı maddesi içermeyen ürünlerinde gluten bulunmaktadır.Türkiye’de ilk kez ambalajlı ve katkısız tam buğday ekmeğini üretirken ayrıca paketlenmiş roll ekmek, gözeneksiz tost ekmeği, vitaminli light ekmek, kahveli tiramisu keki, ambalajlı geleneksel beyaz köy ekmeği ve mayasız ekmeği ilk kez üreten firmadır.İstanbul’da Esenyurt’ta 18 bin 500 metrekarelik tesislerinde el değmeden üretim yapmaktadır.Doygun, Acıbadem Hastanesi, Amerikan Hastanesi, Florance Nightingale Hastanesi ve Sofra gibi İstanbul genelinde 40 hastane ve projenin endüstriyel ekmek üretimini yapıyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

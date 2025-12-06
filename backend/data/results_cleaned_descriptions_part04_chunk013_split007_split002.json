@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Desni Su",
+    "description": "Desni, 2004 yılında kurulan Desni Group Gıda İnşaat Taahhüt Turizm ve Taşımacılık Tic. San. Ltd. Şti. bünyesinde üretilen doğal kaynak suyu markasıdır.Erzurum merkezli firmanın su kaynağı Palandöken bölgesinde yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Archer Daniels Midland",
+    "description": "Archer Daniels Midland, 1902 yılında George A. Archer ve John W. Daniels tarafından kurulan Archer-Daniels-Midland Company bünyesinde üretilen mısır şurubu, yüksek fruktozlu mısır şurubu, etanol, biyoenerji ve gıdalar markasıdır.Ürünleri, tatlandırıcılar, nişasta, şurup, glikoz (dekstroz) dahil olmak üzere yiyecek ve içecek endüstrisinde kullanılan bileşenleri içerir.Soya fasulyesi, yağ ve küspesi, pamuk tohumu, ayçiçeği tohumu, kanola, yer fıstığı, keten tohumu, hurma çekirdeği ve dag yağı, mısır tohumu, mısır gluten yemi granül, şurup, nişasta, glikoz, dekstroz, kristal dekstroz, yüksek fruktozlu mısır şurubu, tatlandırıcılar, çikolata, etanol, ve buğday unu gibi ürünler üretmektedir.Archer-Daniels-Midland Company Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sönmezler",
+    "description": "Sönmezler, 1988 yılında Yusuf Sönmezler tarafından kurulan Sönmezler Yağ A.Ş. bünyesinde üretilen bitkisel sıvı yağlar markasıdır.Ürünlerini Adana OSB’de 30 bin metrekarelik alanda bulunan 20 bin metrekarelik kapalı entegre üretim tesisinde üretmektedir.ISO 9001, ISO 14001, ISO 18001 belgelerine sahiptir.Bünyesindeki markalar;AsparaffinEzene YemSönmezler",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Burcu Halı",
+    "description": "Burcu Halı Nerenin Malı MarkasıBurcu Halı, 1990 yılında kurulan Burcu Halı Parke ve Yapı Malzemeleri Tic. Ltd. Şti. bünyesindeki halı kilim paspas gibi ürünler markasıdır.ISO 9000, ISO 14000, ISO 9001, ISO14001 markalarına sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 9000",
+      "ISO 9001",
+      "ISO14001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Little People Society",
+    "description": "Little People Society, 1998 yılında kurulan CBF Tekstil ve Dış Tic. A.Ş. bünyesinde üretilen hazır giyim markasıdır.SA8000, ISO 9001, BSCI, SEDEX, WRAP belgelerine sahiptir.Bünyesindeki markalar;Little People SocietyCBF DesignVirsuit",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

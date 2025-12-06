@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Dr. Nl",
+    "description": "Dr. Nl Hangi Ülkenin Malı MarkasıDr. Nl, 2005 yılında kurulmuş olan Alfa Medical Co. Ltd. bünyesinde üretilen kozmetik ve cilt bakımı, saç, tırnak ve salon malzemeleri markasıdır.Alfa Medical Co. Ltd. Güney Kore merkezlidir.Bünyesindeki markalar;AqufillAquliftDr. NlNatural-FillNatural-MesoToas",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Schwert Diş Aletleri",
+    "description": "Schwert Diş Aletleri Hangi Ülkenin Malı MarkasıdırSchwert, 1896 yılında kurulmuş olan A. Schweickhardt GmbH & Co. KG bünyesinde üretilen implantoloji, ağız cerrahisi ve ortodonti, diş aletleri markasıdır.A. Schweickhardt GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Iridium",
+    "description": "Iridium, 2001 yılında kurulmuş olan Iridium Communications Inc. bünyesindeki uydu haberleşme cihazları, uydu ses ve veri hizmetleri markasıdır.Elde taşınabilir uydu telefonlarından, uydu haberci iletişim cihazlarından ve entegre alıcı-vericilerden dünya çapında ses ve veri iletişimi için ve ayrıca desteklenen Android akıllı telefonlardan iki yönlü uydu mesajlaşma servisi için kullanılır. 66 aktif uydu ve dokuz yörünge içi yedek parçadan oluşan bir sistem olan Iridium satellite constellation’ı çalıştırır.Iridium Communications Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oppo Gözlük",
+    "description": "Oppo, 2016 yılında kurulmuş olan Adellens Optik San. ve Tic. A.Ş. bünyesinde üretilen gözlükler, güneş gözlükleri, lensler ve bunların kutuları, kılıfları, parçaları ve aksesuarları markasıdır.Firma İstanbul merkezlidir ve ürünlerini İstanbul’da bulunan fabrikasında üretmektedir. Bulgaristan’da optik cam deposuna sahiptir.Bünyesindeki markalar;CortexCybereyeOppo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sev Deterjan",
+    "description": "Sev Deterjan, 2005 yılında kurulmuş olan Beyaz Kağıt A.Ş. bünyesinde üretilen toz deterjan, sıvı deterjan, yumuşatıcı, kireç önleyici, sıvı ve jel bulaşık deterjanı, çamaşır suyu, genel amaçlı temizleyiciler, sıvı sabun, oda spreyi gibi kozmetik ürünler markasıdır.Firma Adana merkezlidir. Ürünlerini Hacı Sabancı OSB’de bulunan 56 bin metrekarelik açık alan üzerine yer alan 40 bin metrekarelik kapalı alanda bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

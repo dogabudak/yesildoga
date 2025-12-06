@@ -1,0 +1,48 @@
+[
+  {
+    "company": "HD Döner",
+    "description": "HD Döner, 1995 yılında Hakan Demirağ tarafından kurulan HD Holding bünyesindeki restoranlar markasıdır.Döner menüleri, ustalar tarafından katkısız olarak restoranlarda siparişe özel hazırlamaktadır. Self servis noktalarında bisos, patsos ve geleneksel döner seçenekleri sunulmaktadır. Türkiye’de 250’nin üzerinde restoran ile Türkiye’nin en büyük yerli restoran zinciridir.HD Holding bünyesindeki markalar:HD İskenderHD DönerPidemPideko",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "M&W",
+    "description": "M&W, 2007 yılında kurulan Marka Teknoloji bünyesindeki bilişim aksesuarları markasıdır.M&W markalı Çin’den ithal edilen Laptop, tablet çanta ve kılıf ürünleri dışında 2013 yılından itibaren genel çanta ve promosyon ürünleri üretilmeye başlandı.Marka teknoloji bünyesindeki markalar:M&WLuceBiancaCASEBULL",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Washing Solution",
+    "description": "Washing Solution, 1864 yılında kurulan Sigvaris Group bünyesindeki yıkama solüsyonu markasıdır.İsviçre, Fransa, Polonya, ABD ve Brezilya’da üretim tesisleri vardır.Sigvaris Group’un merkezi İsviçre’dedir. Ürünleri 70’ten fazla ülkede dağıtılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Esteemia",
+    "description": "Esteemia, 1970 yılında kurulan Aii Beauty tarafından üretilen güzellik ürünleri markasıdır.Ürünlerini yaklaşık 250 bin metrekarelik alana sahip tesisinde üretmekte ve 180’den fazla ülkeye satmaktadır.Aii Beauty Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tipo Tel",
+    "description": "Tipo Tel, 1950 yılında M. Tacettin ERSOY tarafından temelleri atılan Tipo Tel Raptiye San. Tic. Ltd. Şti. bünyesinde üretilen zımba teli markasıdır.Ürünlerini İzmir’de bulunan 10 bin metrekarelik tesisinde üretmektedir. Türkiye’de ilk kez çengelli zımba teli, mini başlı çivi (brads), rulo koli kapama, paslanmaz-krom zımba teli üretmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

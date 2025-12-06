@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Ornate Cosmetics",
+    "description": "Ornate Cosmetics, 2021 yılında kurulmuş olan Fe Grup Pharma Kozmetik Ltd. Şti. bünyesinde üretilen yüz bakımı, cilt bakımı, vücut bakımı, saç bakımı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bella Yay",
+    "description": "Bella Yay, 2018 yılında kurulmuş olan Özseçkin Yatak Mob. İnş. Pet. San. ve Tic. A.Ş. bünyesinde üretilen yatak ve yay sistemleri markasıdır.Paket yay, micro yay, bonel yay gibi tüm yayları üretmektedir.Firma Bursa merkezlidir. Türkiye’de beş üretim hattında ürettiği ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Chocomel",
+    "description": "Chocomel, 1932 yılında Frieslandcampina N. B.V. bünyesinde üretilen çikolata aromalı süt markasıdır.Dünyanın en büyük süt Kooperatifi Frieslandcampina Nederland B.V. Hollanda merkezlidir. 33 ülkede şubesi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "2M Kablo",
+    "description": "2M Kablo, 1993 yılında kurulmuş olan 2M Kablo A.Ş. bünyesinde üretilen alçak gerilim kabloları, yangına dayanıklı kablolar, enstrümantasyon kabloları, kontrol kabloları markasıdır.ISO 9001, ISO 14001, ISO 45001, ISO 50001 ve ISO 27001 belgelerine sahiptir.Firma Tekirdağ merkezlidir. Ürünlerini 16 bin metrekarelik kapalı alana sahip fabrikasında üretmektedir ve 80’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wondermate",
+    "description": "Wondermate, 2019 yılında kurulmuş olan Plan C Endüstriyel Kim. Koz. San. İth. İhrc. Tic. Ltd. Şti. bünyesinde üretilen saç bakım ürünleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

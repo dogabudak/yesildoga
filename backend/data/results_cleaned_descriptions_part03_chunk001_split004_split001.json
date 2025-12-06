@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Playgro",
+    "description": "Playgro, 1992 yılında kurulan Playgro Pty Ltd bünyesindeki bebek geliştirme oyuncakları, aktivite oyuncakları, bebek arabası aksesuarları ve banyo oyuncakları markasıdır.Ürünlerini Hong Kong’dan ithal etmektedir.Playgro Pty Ltd Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Taronis Technologies",
+    "description": "Taronis Technologies, 2007 yılında kurulan Taronis Technologies, Inc. bünyesindeki yeşil enerji, gaz, endüstriyel gaz, asetilen, propan markasıdır.Türkiye’de gazlaştırma ünitesi için Taronis Fuels Turkey Gaz Enerji San. ve Tic. Ltd Şti olarak faaliyet gösterecek.Taronis Technologies Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Karimex",
+    "description": "Karimex, 2008 yılında kurulan Karimex Gıda San. ve Dış Tic. Ltd. Şti. bünyesinde, Türk fındığıyla üretilen fındık kreması markasıdır.Ordu’da üretim yapmaktadır. TSE, FSSC 22000, HELAL, KOSHER, SEDEX, VEGAN, EKO, IFS ve BRC belgeleri bulunmaktadır.",
+    "documents": [
+      "BRC",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Manheim",
+    "description": "Manheim, 1999 yılında Mehmet Görgel tarafından kurulan Görgel Metal San. ve Tic. Ltd. Şti. bünyesindeki tencere setleri, tencereler, düdüklü tencereler, çeyiz setleri, kuskus setler, semaverler, çaydanlıklar markasıdır.CE 0045, ISO-9001,ISO-14001,OHSAS-18001 belgelerine sahiptir.Bünyesindeki markalar:Royal SongEcotenManheim GermaniaGold Star Home KitchenVivaldi Stainless SteelHoffman Kitchenware",
+    "documents": [
+      "CE",
+      "ISO",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kingvox",
+    "description": "Kingvox, 1993 yılında kurulan Arısoy Elektronik San. ve Tic. Ltd. Şti. bünyesindeki hoparlör, subwoofer, midrange ve tweeter çeşitleri, multimedya ve navigasyon sistemleri, anfi çeşitleri, otomobil teyp çeşitleri markasıdır.Ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

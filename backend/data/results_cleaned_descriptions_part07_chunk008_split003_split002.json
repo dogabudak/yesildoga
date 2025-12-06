@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Emek Un",
+    "description": "Emek Un, 1996 yılında kurulmuş olan Emek Un ve İrmik San. Tic. A.Ş. bünyesinde üretilen un markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;EmekEmek Erdem UstaEmek Gordion Tip 650Emek UnEmek UygunTekçınarTek Atlı PolatlıÇift Atlı PolatlıÖzkaşıkçıÜç Atlı Polatlı",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stilena Şampuan",
+    "description": "Stilena, 1994 yılında kurulmuş olan Mexon Ltd. bünyesindeki şampuanlar, sabunlar, güneş koruyucu müstahzarlar, temizlik ürünleri markasıdır.Mexon Ltd. Bulgaristan merkezlidir. Ürünlerini 20’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;MedixStilenaWaix",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Sardis Peynir",
+    "description": "Sardis, 2020 yılında kurulmuş olan Bhr Süt ve Süt Ürünleri Gıda Turizm Canlı Hayvan Tarım San. ve Tic. Ltd. Şti. bünyesindeki gurme peynirler, taze peynirler, yöresel peynirler, diğer peynirler, tereyağı, kaymak markasıdır.Firma Antalya merkezlidir.Bünyesindeki markalar;Antbahar ÇiftliğiBahar ÇiftliğiCevizlitulumElavittaFıstıklıtulumFormosLavitaLavittaLentePrimaveraSardisSütün En Seçkin Hali",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Madalı Keçi Çiftliği",
+    "description": "Madalı Keçi Çiftliği Nerenin Malı MarkasıMadalı Keçi Çiftliği, 2016 yılında kurulmuş olan Umay Süt Ürünleri A.Ş. bünyesinde üretilen süt ürünleri markasıdır.Ürünleri hiçbir koruyucu katkı maddesi, kültür içermez ve herhangi bir kimyasal işlem görmez. Üretimde doğal maya kullanılmaktadır ve yüzde yüz keçi ve yağı alınmamış sütten üretilmiştir.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hty Sam",
+    "description": "Hty Sam, 2013 yılında kurulmuş olan Arma Grup Gıda San. ve Tic. A.Ş. bünyesinde üretilen donuk ürünler markasıdır.Ürünleri gıda boyası, katkı maddesi, glikoz şurubu içermez. BRC, Helal Gıda, Haccp belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini İstanbul’da toplam 6 bin metrekarelik kapalı alana sahip üretim alanında üretmektedir.Bünyesindeki markalar;AkkünefeAnadolu KünefeArma Grup Sam KünefeHty AnadoluHty İstanbulHty SamHty Sam Künefeİstanbul KünefeNakhaOsmanlı KünefeSam KünefeSam KatmerSam SufleSam ZarifiSultan Künefe",
+    "documents": [
+      "BRC",
+      "HACCP"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

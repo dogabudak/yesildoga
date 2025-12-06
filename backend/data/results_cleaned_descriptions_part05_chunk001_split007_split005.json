@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Grünenthal",
+    "description": "Grünenthal, 1946 yılında Hermann Wirtz tarafından kurulan Grünenthal GmbH bünyesinde üretilen ağrı kesici markasıdır.Grünenthal GmbH Almanya merkezlidir. Şirketin Almanya’da iki ofisi ve Avrupa, Latin Amerika, ABD ve Çin’de yan kuruluşları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Iceco",
+    "description": "Iceco, 2005 yılında kurulan Guangdong Iceco Enterprise Co. Ltd. bünyesinde üretilen araç buzdolabı markasıdır.Günlük yiyecekleri ve içecekleri soğuk tutmak için RVers, minibüs sahipleri, overlanders, kamyon sahipleri için buzdolabı üretmektedir.Guangdong Iceco Enterprise Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Matsuzaki",
+    "description": "Matsuzaki, 1964 yılında Terakazu Matsuzaki tarafından kurulan Matteck Matsuzaki Co. Ltd. bünyesinde üretilen saç şekillendirme makası markasıdır.Makaslar tamamen el yapımıdır.Matteck Matsuzaki Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Tanq",
+    "description": "Tanq, 2018 yılında kurulan Kress Elektronik Pazarlama Ltd. Şti. büyesindeki ev aletleri markasıdır.Ürünleri Türkiye’de üretilmektedir. Üretim aşamasında ara mamül ve hammadde denetiminyle başlayan kontrolleri, ürünün üretim anında kontrol, bant sonunda kontrol ve kutu hasar kontrollerine kadar sürmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Valy",
+    "description": "Valy, 1987 yılında kurulan Okan Dayanıklı Tüketim Malları Elektrikli Ev Cihazları Tic. ve San. Ltd. Şti. bünyesindeki ev aletleri markasıdır.Bünyesindeki markalar;GisowattSkywaterValyValyhome",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

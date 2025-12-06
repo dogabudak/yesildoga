@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Makaroma",
+    "description": "“Makaroma“1972 yılında kurulmuş olan Mutlu Makarnacılık San. ve Tic. A.Ş. bünyesinde üretilen makarna markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gloris",
+    "description": "“Gloris“2021 yılında kurulmuş olan 2d Tekstil Gıda Matbaa İmalat ve Tic. Ltd. Şti. bünyesindeki çamaşırlar, çoraplar, atlet, büyük beden kıyafetler, boxer, eşofman, ev elbisesi, fanila, fantazi ürünler, jüpon, gecelik, korse, pijamalar, plaj ürünleri, sütyen, sabahlık, saten ürünler, slip, termal fanila, termal tayt, tunik markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Solyph",
+    "description": "“Solyph“2009 yılında kurulmuş olan Algovital Ltd. bünyesinde üretilen doğal cilt bakım ürünleri markasıdır.ISO 22716 belgesine sahiptir.Algovital Korea Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Bravery",
+    "description": "“Bravery“2008 yılında şirketlerin birleşmesiyle kurulan Alinatur Petfood SL bünyesinde üretilen köpek maması markasıdır.Ürünlerinde tahıl, gluten içermeyen doğal hammaddeler kullanılmaktadır.Alinatur Petfood SL İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Biontech İlaç",
+    "description": "“Biontech“2008 yılında Uğur Şahin, Özlem Türeci ve Christoph Huber tarafından kurulmuş olan Biontech SE bünyesindeki ilaçlar ve teşhis ürünleri markasıdır.Biontech SE, Almanya merkezlidir.Hissedarları:Baillie Gifford & Co. (yüzde 3,4)PRIMECAP Management Co. (yüzde 2)Flossbach von Storch AG (yüzde 1,8)Harding Loevner LP (yüzde 1,2)Temasek Holdings Pte Ltd. (yüzde 0,76)BlackRock Advisors LLC (yüzde 0,68)Morgan Stanley Investment Management Inc. (yüzde 0,48)Capital Research & Management Co. (yüzde 0,4)Capital Research & Management Co. (yüzde 0,31)Fidelity Management & Research Co. LLC (yüzde 0,29)Bünyesindeki markalar;BiontainerBiontechBiontech TurkeyComirnatyCorvacCovuityKovimerna",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

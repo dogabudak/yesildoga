@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ranker",
+    "description": "Ranker, 2009 yılında Clark Benson tarafından kurulan Ranker, Inc. bünyesindeki filmlerden yiyeceklere kadar her şeyde kitle kaynaklı sıralamalar yapılan bir sitedir. Site eğlence, markalar, spor, yemek ve kültür hakkında anketler sunmaktadır.Ranker, bireysel kullanıcı oylarını toplamak ve bunları pop kültüründeki ilgi alanları arasındaki korelasyonları göstermeyi amaçlayan çeşitli listelerde izlemek için tasarlanmıştır.Ranker, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "DHgate",
+    "description": "DHgate, 2004 yılında Diane Wang tarafından kurulan Dunhuang Group bünyesindeki e-ticaret platformu markasıdır.Küçük ve orta ölçekli perakendecilerin ürünlerinin satışını kolaylaştıran bir e-ticaret ticaret platformudur.Dunhuang Group Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cerave",
+    "description": "Cerave, 2005 yılında L’Oréal S.A. bünyesinde üretilen nemlendirici krem, nemlendirici losyon ve nemlendiren temizleyici ürünleri markasıdır.Koruyucu cilt bariyerinin onarılmasına ve güçlenmesine yardımcı olmak için üretilen bir cilt bakım serisidir.L’Oréal S.A. Fransa merkezlidir. Başlıca hissedarları yüzde 33 hisse ile Françoise Bettencourt Meyers ve yüzde 23,29 oranında hisse ile İsviçre merkezli Nestle’dir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2022-11-21"
+  },
+  {
+    "company": "Eminence",
+    "description": "Eminence, 1966 yılında Bob Gault tarafından kurulan Eminence Speaker LLC bünyesinde üretilen hoparlör markasıdır.Hoparlörlerinin tasarımı, montajı ve dağıtımını yapmaktadır.Eminence Speaker LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "CycloMedia",
+    "description": "CycloMedia, 1980 yılında kurulan CycloMedia Technology BV bünyesindeki mobil haritalama sistemi markasıdır.Panoramik fotoğraflara dayanan ortamların büyük ölçekli ve sistematik görselleştirilmesinde uzmanlaşmış bir şirkettir.CycloMedia Technology BV Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

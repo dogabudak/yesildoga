@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Gosen",
+    "description": "Gosen, 1951 yılında kurulmuş olan Gosen Co. Ltd. bünyesinde üretilen spor malzemeleri, olta takımı, sentetik iplik markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Gosen Co. Ltd. Japonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Kaise",
+    "description": "Kaise, 1955 yılında kurulmuş olan Kaise Corporation Inc. bünyesindeki otomotiv test cihazları, dijital multimetreler, analog multimetreler, izolasyon test cihazları, diğer test cihazları ve aksesuarları markasıdırKaise Corporation Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Cosa Akıllı Kombi Kiti",
+    "description": "Cosa Akıllı Kombi Kiti, 2013 yılında kurulmuş olan Nuvia Enerji Teknolojileri San. ve Tic. A.Ş. bünyesindeki akıllı oda termostatı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cloudera",
+    "description": "Cloudera, 2008 yılında kurulmuş olan Cloudera Inc. bünyesindeki iş zekası araçları, veri görselleştirme araçları, analiz araçları, büyük veri araçları, veri ambarı araçları, etl araçları markasıdır.Cloudera Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Axor",
+    "description": "Axor, 1993 yılında kurulmuş olan Hansgrohe SE bünyesindeki lüks banyo ve mutfaklar için mükemmel musluklar, duş başlıkları ve aksesuarlar markasıdır.Hansgrohe SE Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

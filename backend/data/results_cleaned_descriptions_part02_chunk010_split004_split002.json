@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Coloplast",
+    "description": "Coloplast, 1957 yılında inşaat mühendisi ve plastik üreticisi Aage Louis-Hansen tarafından kurulan Coloplast A/S bünyesindeki ostomi, üroloji, kontinans ve yara bakımı ile ilgili tıbbi cihaz ve hizmetler markasıdır.Coloplast A/S, hastanelere, kurumlara, toptancı ve perakendecilere ürün tedarik eden ve Danimarka, Macaristan, Fransa, Çin ve ABD gibi 53 ülkede satış faaliyetleri bulunan Danimarka merkezli çokuluslu bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Evergreen",
+    "description": "Evergreen, 1995 yılında kurulan Evergreen Tire Pte. Ltd. bünyesindeki lastik üreticisidir.Dünya çapında 100’den fazla ülkeye lastik tedarik edilmektedir.2012 yılında Evergreen Tire Pte. Ltd. Çin merkezli Sailun Jinyu Gurubu ile birleşti. Ürünlerini Çin ve Vietnam’daki fabrikalarda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sunitrac",
+    "description": "Sunitrac, 2002 yılında kurulan Sunitrac Tyre Co., Ltd bünyesindeki lastik markasıdır.Sunitrac, ISO, ECE, S-MARK gibi sertifikalara sahiptir.Çin merkezli Sunitrac lastikleri Çin’de üretilip, Avustralya’da test edilmektedir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Marshal Lastik",
+    "description": "Marshal lastik, 1960 yılında Park In-chon tarafından kurulan Kumho Tire Co., Inc. iştiraki olan lastik markasıdır. Asiana Grup’a aittir.Kore, Çin ve Vietnam’da üretim tesislerine sahip olup, aynı zamanda Kore, Çin, Avrupa ve Kuzey Amerika’da AR-GE Merkezlerine sahiptir.Kumho Tire Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Sanitabant",
+    "description": "Sanitabant, 1983 yılında kurulan Betasan Tıbbi Bant Sanayi ve Ticaret A. Ş. bünyesindeki; yara bandı, elastik bandaj ve flaster ürünleri markasıdır.İstanbul ve Kocaeli şehirlerinde iki üretim tesisinde 7 bin metrekareli kapalı alanda, üretim gerçekleştirmektedir. Ürünlerini 56’dan fazla ülkeye ihraç etmektedir.Betasan Bant Sanayi A.Ş. 2008 yılında Münir Şahin İlaç Sanayi tarafından satın alındı. Münir Şahin İlaç Sanayi, dini grup Mormonlar ve ABD’li Noil Energy tarafından desteklenen İstanbul merkezli SBK Holding’e aittir. SBK Holding, Sezgin Baran Korkmaz tarafından kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Interprox",
+    "description": "Interprox, 1980 yılında kurulmuş olan Dentaid S.L. bünyesindeki diş jeli, interproksimal fırçalar markasıdır.Azı dişleri ile azı dişleri arasındaki boşlukları temizlemek için tasarlanmıştır.Dentaid S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Nescafé Mocha",
+    "description": "Nescafé Mocha, 1866 yılında kurulmuş olan Nestlé SA bünyesinde üretilen çikolatalı kahve markasıdır.Glikoz şurubu içermektedir.Nestlé SA İsviçre merkezlidir. Türkiye pazarına 1909 yılında girmiştir. Türkiye’de Nestlé Türkiye Gıda San. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Kaufland",
+    "description": "Kaufland, 1984 yılında kurulmuş olan Kaufland E-Commerce Gmbh bünyesindeki hipermarket zinciridir.Kaufland E-Commerce Gmbh Almanya merkezli Schwarz Gruppe’nin bir parçasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cantieri Capelli",
+    "description": "Cantieri Capelli, 1974 yılında kurulmuş olan Cantieri Capelli Srl bünyesinde üretilen yarı sert şişme bot ve fiberglass bot markasıdır.İtalya merkezli Cantieri Capelli Srl’nin çoğunluk hisseleri 2023 yılında Rahmi Koç’un şirketi RMK Investments BV tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Serel Pekmez",
+    "description": "Serel, BİM Birleşik Mağazalar A.Ş. adına çeşitli üreticiler tarafından üretilen pekmez ve tahin markasıdır.Hurma, üzüm, dut, incir, keçiboynuzu çeşitlerinden oluşan pekmezler, sade, Antep fıstıklı, kakaolu çeşitlerinden oluşan tahin helvaları sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

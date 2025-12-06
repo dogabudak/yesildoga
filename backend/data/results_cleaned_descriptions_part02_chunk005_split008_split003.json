@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sasol",
+    "description": "Sasol, 1950 yılında kurulan SASOL Limited bünyesindeki entegre enerji ve kimyasal ürünler markasıdır.Alman kimyacılar ve mühendisler tarafından geliştirilen süreçler üzerine kurulmuştur.Sasol, sentetik yakıt teknolojileri dahil teknolojiler geliştirmekte ve pazarlamaktadır ve farklı sıvı yakıtlar, kimyasallar ve elektrik üretmektedir.SASOL Limited, Güney Afrika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ZA",
+    "updated_date": null
+  },
+  {
+    "company": "Cipla",
+    "description": "Cipla, 1935 yılında Khwaja Abdul Hamied tarafından kurulan Cipla Limited bünyesindeki ilaç ve biyoteknoloji markasıdır.Güney Afrika’nın 3. en büyük ilaç şirketi oldu.Cipla Limited Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Noble Group",
+    "description": "Noble Group, 1986 yılında Richard Samuel Elman tarafından kurulan Noble Group Holdings Limited bünyesindeki Enerji, metaller, mineraller, lojistik markasıdır.Noble Group Holdings Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Teremyağ",
+    "description": "Teremyağ, 1992 yılında kurulan Besler Gıda ve Kimya San. ve Tic. A.Ş. bünyesindeki yağ markasıdır.Besler Gıda ve Kimya, Yıldız Holding bünyesindeki Ülker grubuna aittir.2003 yılında yağ üreticisi olarak Türkiye’deki ilk Fraksiyon tesisini kurdu.Besler Gıda, üç tesisinde tüketici kategorisinde toplam 33 marka ve 447 SKU üretimi gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Similac",
+    "description": "Similac, 1888 yılında kurulan Abbott bünyesindeki bebek maması markasıdır.150 ülkede faaliyet göstermektedir. Abbott Türkiye, 1987 yılında kurulmuştur.İlaçtan tıbbi cihazlara, beslenmeden tanı ürünlerine bilimsel ürün yelpazesine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-09-29"
+  }
+]

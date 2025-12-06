@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Spyker Cars",
+    "description": "Spyker Cars, 1999 yılında Maarten de Bruijn ve Victor Muller tarafından kurulan Spyker Limited bünyesindeki spor araba markasıdır.Firma 2014 yılında iflasını ilan ederken, iflas beyannamesi 2015’in başlarında geri alındı.Spyker Limited Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Salvatore Ferragamo",
+    "description": "Salvatore Ferragamo, 1927 yılında kurulan Salvatore Ferragamo S.p.A. bünyesindeki ayakkabı, deri ürünleri, konfeksiyon, ipek ürünleri ve diğer aksesuarlar ile kadın ve erkek parfümleri markasıdır.İtalya merkezli Salvatore Ferragamo S.p.A., Salvatore Ferragamo Group’un ana şirketidir ve dünya çapında faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Cegid",
+    "description": "Cegid, 1983 yılında kurulan Cegid SA bünyesindeki finans ve vergi yöneticilerinin yanı sıra İk, bordro ve perakende profesyonelleri için iş yönetimi çözümleri sağlayıcı markasıdır.Cegid SA bulut hizmetleri ve yazılım çözümlerini 75 ülkede satmaktadır.Cegid SA Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Dentiste",
+    "description": "Dentiste, 2000 yılında kurulan Siam Inter Lock Tek Co. Ltd. bünyesinde üretilen diş macunu, ağız bakım ürünleri markasıdır.SLS içermez.Siam Inter Lock Tek Co. Ltd. Tayland merkezlidir. Ürünlerini 20 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": "2021-08-16"
+  },
+  {
+    "company": "Brit Care",
+    "description": "Brit Care, 1994 yılında kurulan VAFO PRAHA s.r.o. bünyesinde üretilen evcil hayvanlar için vitamin ve mineral takviyeleri, et ve et türevleri, kuru, yarı nemli, ıslak, eksiksiz ve tamamlayıcı evcil hayvan maması; evcil hayvan aperatifler markasıdır.VAFO PRAHA s.r.o. Çek Cumhuriyeti markasıdır. Ürünlerini 70 ülkeye pazarlamaktadır.Bünyesindeki markalar;BritBrit CareCanvitCarniloveChristopherusLet’s BiteNutricanNutri HorseProfineSam’s Field",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": "2023-10-12"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Obagi",
+    "description": "Obagi, 1988 yılında kurulan Obagi Cosmeceuticals LLC bünyesindeki cilt sağlığı ürünleri markasıdır.Firma ürünlerini 42’den fazla ülkede dağıtım ortakları aracılığıyla uluslararası olarak satmaktadır.Obagi Cosmeceuticals LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Apis",
+    "description": "Apis, 1988 yılında Krystyna Arcabowicz tarafından kurulan Apis Natural Cosmetics Sp. z o.o. bünyesindeki vücut ve yüz cilt bakım kozmetik ürünleri markasıdır.Apis Natural Cosmetics Sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Chiesi",
+    "description": "Chiesi, 1935 yılında kurulan Chiesi Farmaceutici S.p.A. bünyesindeki ilaç markasıdır.Chiesi’nin dünyada 28 iştiraki vardır ve 80’den fazla ülkede ürünleri satılmaktadır.Chiesi Farmaceutici S.p.A. İtalya merkezlidir. Türkiye’de 2007 yılından beri Promedica İlaç Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Baco",
+    "description": "Baco, 1981 yılında Antonino Vitulli tarafından kurulan Kaaral s.r.l. bünyesinde üretilen saç kozmetik ürünleri markasıdır.Ürünleri mineral yağ, paraben ve silikon içermez. Dünyanın 35 ülkesinde yer alır.Kaaral s.r.l. İtalya merkezlidir.Bünyesindeki markalar:BacoMaraesPurifyStyle PerfettoK05Människan",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Qtica",
+    "description": "Qtica, 1986 yılında Zoya ve Michael Reyzis tarafından kurulan Art of Beauty Inc. bünyesindeki güzellik ürünleri markasıdır.Tolüen, formaldehit ve dibutil ftalat gibi toksik maddeleri formülasyonlarından çıkarmıştır.Art of Beauty Inc. Amerika merkezlidir.Bünyesindeki markalar:ZoyaQticaSmart SpaZoom",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

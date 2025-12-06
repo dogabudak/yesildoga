@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Koffo",
+    "description": "Koffo1997 yılında kurulmuş olan Oğuz Gıda San. ve Tic. A.Ş. bünyesinde üretilen soğuk kahve markasıdır.Firma Adana merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "No-Vo",
+    "description": "Novo2018 yılında kurulmuş olan Novo Elektronik San. ve Tic. Ltd. Şti. bünyesindeki led aydınlatma, sensör ve sensörlü aydınlatma, yangın alarm sistemi markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BrillanzLedmaticNo-Vo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Optimeal",
+    "description": "Optimeal2003 yılında kurulmuş olan Kormotech LLC bünyesinde üretilen kuru, islak evcil hayvan maması, kedi ve köpekler için ikramlar markasıdır.ISO 22000 ve FSSC 22000 belgelerine sahiptir.Kormotech LLC Ukrayna merkezlidir ve ürünlerini Ukrayna’da bulunan fabrikasında üretmektedir. Ürünlerini 40 ülkeye pazarlamaktadır.Bünyesindeki markalar;Club 4 PawsMasterMy Love/ Miau!My love/GavOptimeal",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Star Diyarbakır",
+    "description": "Star Diyarbakır2001 yılında kurulmuş olan Star Diyarbakır Turizm Ltd. Şti. bünyesindeki şehirlerarası yolcu taşımacılığı markasıdır.Firma Diyarbakır merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Golf Bravo",
+    "description": "Golf Bravo2003 yılında kurulmuş olan Natura Gıda San. ve Tic. A.Ş. bünyesinde üretilen çikolata kaplı çubuk dondurma markasıdır.Glikoz şurubu, emülgatör ve renklendirici içermektedir.2021 yılında Amerika merkezli Davidson Kempner Capital Management LP tarafından kontrol edilen yatırım fonu Foxford Capital L5 DAC bünyesindeki Luxembourg Investment Company 436 Sarl tarafından satın alınmıştır. Ürünlerini Bursa ve Kahramanmaraş’ta bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

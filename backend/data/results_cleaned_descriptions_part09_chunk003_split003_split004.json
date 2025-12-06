@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Infinitylab",
+    "description": "Infinitylab1980 yılında kurulmuş olan Harman International Industries Inc. bünyesindeki duvar şarj cihazları, güç bankaları, hoparlörler, kablolar, kablosuz istasyonlar markasıdır.Harman International Industries Inc. Güney Kore merkezli Samsung Electronics Co. Ltd. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Kesser",
+    "description": "Kesser1996 yılında kurulmuş olan Kema Makina San. ve Tic. Ltd. Şti. bünyesindeki CNC takım tezgâhları markasıdır.Firma Bursa merkezlidir.Bünyesindeki markalar;İyi MakinaKe-Fix Endüstriyel Seviyeleme EkipmanlarıKesser",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "7 Kıta",
+    "description": "7 Kıta2016 yılında kurulmuş olan 7Kıta Petrolcülük Dağıtım ve Pazarlama A.Ş. bünyesindeki akaryakıt dağıtım istasyonları markasıdır.Firma Manisa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-06-11"
+  },
+  {
+    "company": "Sensiblex",
+    "description": "Sensiblex1984 yılında kurulmuş olan Veyx-Pharma Gmbh bünyesindeki ilaç markasıdır.Şirket veteriner eczacılık ürünleri, hayvan yemleri ve sağlık ürünleri sunmaktadır.Veyx-Pharma Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Poptip",
+    "description": "Poptip2012 yılında kurulmuş olan Mondelez International bünyesinde üretilen draje şeker markasıdır.Şirketin ürünleri arasında içecekler, bisküviler, yemekler, çikolata, sakız ve şeker bulunmaktadır.Mondelez International Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

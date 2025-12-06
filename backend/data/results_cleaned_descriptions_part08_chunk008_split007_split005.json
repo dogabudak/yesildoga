@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Royal Robbins",
+    "description": "2018 yılından beri Fenix Outdoor International AG bünyesindeki dış giyim markasıdır.İsveç menşeli Fenix Outdoor International AG’nin merkezi İsviçre’de bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Skin Tech",
+    "description": "1996 yılında kurulmuş olan Skin Tech Pharma Group S.L. bünyesinde üretilen cilt bakım ürünleri markasıdır.Profesyonel tıbbi peelingler ve gelişmiş dermatolojik günlük cilt bakım kremlerinden oluşur.Skin Tech Pharma Group S.L. İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Sumthin’ Sweet",
+    "description": "Sumthin’ Sweet1956 yılında kurulmuş olan Sultana Crackers Inc. bünyesindeki ekşi ve tatlı çeşitli sakızlı şekerler ve lolipoplar, şekerleme markasıdır.Sultana Crackers Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Medirevo",
+    "description": "2019 yılında kurulmuş olan Medirevo Doğrudan Satış A.Ş. bünyesindeki cilt bakım ürünleri, takviye edici gıdalar, yağlar, diş macunu, siyah gurme çay markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Harranlı Plastik",
+    "description": "Harranlı Plastik Nerenin Malı MarkasıHarranlı Plastik2000 yılında kurulmuş olan Harranlı Plastik İmalat Tic. Pazarlama Ltd. Şti. bünyesinde üretilen plastik mutfak ev gereçleri markasıdır.Firma Adana merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

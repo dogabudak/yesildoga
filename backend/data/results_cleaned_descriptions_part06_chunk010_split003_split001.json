@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Roox Beauty",
+    "description": "Roox Beauty, 2017 yılında kurulan Ukn Global Marketing Agency İç ve Dış Tic. Ltd. Şti. bünyesindeki güneş, cilt bakım ürünleri, saç bakım ürünleri, kolajen markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sergio Rossi",
+    "description": "Sergio Rossi, 1951 yılında kurulan Sergio Rossi S.P.A bünyesindeki lüks ayakkabı, çanta ve diğer aksesuarlar markasıdır.Sergio Rossi S.P.A 2021 yılında Çin merkezli Fosun International Ltd.’ye ait olan Lanvin Group tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Yookie",
+    "description": "Yookie, 2008 yılında kurulan Guangzhou Yookie Digital Technology Co. Ltd. bünyesinde üretilen kablolu kulaklık, kablosuz kulaklık, tws kulakiçi, boyun bandı kulaklık, duvar şarj cihazı, veri kablosu, güç bankası, araç tutucu markasıdır.Guangzhou Yookie Digital Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Graf Su Pompası",
+    "description": "Graf, 1920 yılında ilk kez piyasaya sürülen su pompaları, şanzıman, motor parçaları, sürtünmeli fren parçaları, hidrolik fren parçaları markasıdır.2001 yılında İtalya merkezli Metelli S.p.A. tarafından satın alındı. Ürünleri 90 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "İlpea Plastik",
+    "description": "İlpea, 1960 yılında Industrie Ilpea Spa. bünyesinde üretilen plastikler, manyetik ürünler, kauçuk ürünler markasıdır.Firma, plastik, manyetik ve kauçuk olmak üzere üç bölümden oluşmaktadır. ISO 9001 ve ISO TS 16949 belgelerine sahiptir.Industrie Ilpea Spa. İtalya merkezlidir 13 ülkede 34 fabrikada üretim yapmaktadır. Türkiye iştiraki İlpea Plastik ve Kauçuk Ürünleri San. ve Tic. Ltd. Şti.’dir. 2004’ten bu yana Çorlu’da, 2008’den beri Manisa’da, 2013’ten beri Eskişehir’de fabrikalara sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

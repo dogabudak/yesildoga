@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Iman Of Noble Nude",
+    "description": "Iman Of Noble, 2019 yılında kurulan Yiwu Zhuangdian Cosmetics Co. Ltd. bünyesinde üretilen göz farı, dudak parlatıcısı, rimel, fondöten sıvısı, makyaj astarı, ruj, makyaj, şekilli kaş kremi, dudak kremi, hyaluronik asit özü, kaş tozu , kirpik arttırıcı, temizleme maskesi çubuğu markasıdır.Yiwu Zhuangdian Cosmetics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Karba Araç Üstü Ekipmanlar",
+    "description": "Karba, 1994 yılında kurulan Karba Otomotiv A.Ş. bünyesinde üretilen ambulans, itfaiye, çöp arabaları, araç üstü ekipmanları markasıdır.Kamu ve özel kurumların hizmetlerine yönelik üstyapı çözümleri üretmektedir.Ankara merkezli firma ASO 1. OSB’de 36 bin metrekarelik alan ve ASO 2. OSB’de 40 bin metrekarelik olmak üzere toplamda 76. bin metrekarelik alanda faaliyet göstermektedir. Ürünlerini 62 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zatel",
+    "description": "Zatel, 1971 yılında kurulan Zatel Pres Döküm San. ve Tic. A.Ş. bünyesinde üretilen makine parçaları markasıdır.ISO TS 16949 ve ISO 9001 belgelerine sahiptir. Otomotiv ve ev eşyaları endüstrisi için üretim yapmaktadır.Firma Kocaeli merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Benks",
+    "description": "Benks, 2008 yılında kurulan Shenzhen Benks Technology Co. Ltd. bünyesinde üretilen şarj aletleri, adaptörler ve dönüştürücüler, araç aksesuarları, cep telefonu kılıfları, ekran koruyucular, kablolar, kulaklıklar, tripodlar markasıdır.Shenzhen Benks Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Temizmama",
+    "description": "Temizmama, 1982 yılında kurulan Çağatay Evcil Hayvan Mamaları ve Yem Ürünleri San. ve Tic. A.Ş. bünyesindeki yavru ve erişkin kedi ve köpek mamaları, yetişkin kedi ve köpek konserveleri markasıdır.ISO 22000, ISO 9001 belgelerine sahiptir.İzmir merkezli firma 16 bin metrekarelik alanda bulunan üretim tesislerine üretim yapmaktadır. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

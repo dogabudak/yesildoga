@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Önlem Bez",
+    "description": "Önlem Yetişkin Nerenin Malı MarkasıÖnlem Yetişkin, 2000 yılında kurulan Pakten Sağlık Ürünleri A.Ş. bünyesinde üretilen hasta bezi ve yatak koruyucu markasıdır.Pakten Sağlık Ürünleri A.Ş. Gaziantep’te 38 bin metrekarelik alanda üretim yapan yerli sermayeli şirkettir. Ürünlerinin yüzde 70’ni 32 ülkeye ihraç etmektedir. ISO 9001, ISO 22716, ISO 13485 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-05-19"
+  },
+  {
+    "company": "Carrefour Baby",
+    "description": "Carrefour Baby, 1958 yılında Marcel Fournier, Denis ve Jacques Defforey tarafından kurulan Carrefour S.A. bünyesindeki bebek ürünleri markasıdır.Carrefour S.A. Fransa merkezlidir ve ürünlerini muhtelif firmalarda ürettirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Crown Flex",
+    "description": "Crown Flex, 2010 yılında kurulan Zhejiang Gosail Trading Co. Ltd. bünyesinde üretilen boya tabancası, boya ve harç mikserleri, dekupaj, freze, kırıcı ve deliciler, kesici ve taşlayıcı diskler, matkap ve vidalama, mermer kesme, planya, profil kesme, sıcak hava tabancası-üfleyici, somun sıkma, sunta kesme, taşlama ve polisajlar, tilki kuyruğu, zımpara motoru, zımpara markasıdır.Zhejiang Gosail Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mf Product",
+    "description": "Mf Product, 2018 yılında kurulan Monofiyat Elektronik Hizmetler ve Tic. A.Ş. bünyesindeki tüketici elektroniği ürünleri markasıdır.Çevirici ve dönüştürücü, şarj cihazı, akıllı bileklik, akıllı saat, araç kiti, bel kemeri, bluetooth kulaklık, drone, ekran koruyucu, kılıf, kablo, klavye ve mouse, kulaklık ve mikrofon, kulaklık, ses sistemleri ve navigasyon, taşınabilir şarj cihazı gibi ürünlere sahiptir.Mf Product markalı ürünler Çin’de üretilmektedir.Bünyesindeki markalar:Mf ProductMonofiyat",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İtaly Style",
+    "description": "İtaly Style Nerenin Malıİtaly Style, Elçe Hırdavat bünyesinde ithal edilen matkap, vidalama, kırıcı, hava körüğü, sıcak hava tabancası, pasta cilası makinesi, taş motoru, el kompresörü gibi el aletleri markasıdır.İtaly Style markalı ürünler Çin’den ithal edilmektedir.Elçe Bünyesindeki markalar:E Elsa S Superquality ProfessionalHeseneItalystyle",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Aiaiai",
+    "description": "Aiaiai, 2006 yılında kurulan Aiaiai Aps bünyesindeki kablosuz, bluetooth, kulak üstü, kulak içi kulaklıklar markasıdır.Alcantara veya vegan deri kulak yastıklarından hoparlör üniteleri ve geri dönüştürülmüş malzemelerden yapılmış ambalajlara sahiptir.Aiaiai Aps Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Adam Hall",
+    "description": "Adam Hall, 1975 yılında kurulan Adam Hall Gmbh bünyesindeki ışık teknolojisi, sahne ekipmanları, etkinlik taşıma ekipmanları, LED aydınlatma, ses teknolojisi, kablo geçitleri, donanım parçaları markasıdır.Ses ve ses teknolojisinin yanı sıra hoparlörler, güç amplifikatörler ve hareketli ışıklardan kablolara, kablo koruyuculara, standlara ve sahne sistemlerine kadar profesyonel LED aydınlatma çözümleri de bulunuyor.Adam Hall Gmbh Almanya merkezlidir. Ürünlerini 112 ülkeye pazarlamaktadır.Şirket, kendi markalarıLD SystemsCameoGravityDefenderPalmerAdam Hal",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tibtrap",
+    "description": "Tibtrap, 1945 yılında kurulan Sultanlar Grup bünyesindeki Tibet İth. İhr. ve Kozmetik San. A.Ş. tarafından üretilen zehirsiz fare ve haşere yakalayıcı markasıdır.ISO 9001 ve HACCP belgelerine sahiptir.İstanbul merkezli firma ürünlerini İstanbul’da bulunan 100 bin metrekarelik alanda üretmekte ve 70 ülkeye ihraç etmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soulmate Coffee",
+    "description": "Soulmate Coffee, 2013 yılında kurulan Cadosa Grup Gıda San. ve Tic. Ltd. Şti. A.Ş. bünyesindeki kahve zinciri markasıdır.40 mağaza ile yurt içi ve yurt dışında faaliyet göstermektedir.İzmir merkezli firma dünyanın dört bir yanından kahve çekirdeklerini toplayarak İzmir’de bulunan fabrikasında kavurmaktadır.Bünyesindeki markalar;Cup&CakeDowntown CafeOtantiqueSoul RoasterSoulmate CoffeeSoulmate Coffee Cafe&BakeryThe Soul RoasterUpdown",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ausounds",
+    "description": "Ausounds, 2018 yılında Michael Chen tarafından kurulan Ausounds Intelligence LLC. bünyesindeki kulaklık ve ses ürünleri markasıdır.Ausounds Intelligence LLC. Amerika merkezlidir. Ürünlerini Amerika’da tasarlayıp Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

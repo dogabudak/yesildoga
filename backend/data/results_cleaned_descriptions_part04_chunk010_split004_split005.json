@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Handy Eldiven",
+    "description": "Handy, 1981 yılında kurulan Handy Eldiven San. ve Tic. A.Ş. bünyesinde üretilen iş ve sanayi eldivenleri, nitril kaplama pamuk eldivenler, nitril kaplama örme eldivenler, elkor lastik eldivenler, deri iş eldivenleri, medikal muayene eldivenleri, özel amaçlı eldivenler, kesilmeye karşı dirençli eldivenler, ham bez eldivenler, yapışkan bantlar markasıdır.Ürünlerini Çerkezköy OSB’de 20 bin metrekarelik arazide üzerinde 11 bin metrekarelik kapalı alanda üretmektedir. Ek olarak Çin, Malezya ve Hindistan’da ki iş ortaklarından Türkiye’ye ithalat ve dağıtımını gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pinarello",
+    "description": "Pinarello, 1953 yılında Giovanni Pinarello tarafından kurulan Cicli Pinarello S. p. a. bünyesindeki dağ bisikletleri markasıdır.Çoğunlukla el yapımı bisikletler tedarik etmektedirCicli Pinarello S. p. a., 2017 yılında Amerika merkezli özel sermaye grubu olan L Chatterton tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cervelo",
+    "description": "Cervélo, 1995 yılında Gerard Vroomen ve Phil White tarafından kurulan Cervelo Cycles Inc. bünyesindeki yol bisikleti, aksesuar ve giyim markasıdır.Ürettiği bisikletlerin yarısından fazlası elektriklidir.Cervelo Cycles Inc. Hollandalı bir şirket olan Pon Holdings’e aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Habring",
+    "description": "Habring, 2004 yılında kurulan Habring Uhrentechnik OG bünyesinde üretilen el yapımı mekanik kol saatleri markasıdır.Habring Uhrentechnik OG Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Activehand",
+    "description": "Activehand, 2017 yılında kurulan Erkut Endüstriyel A.Ş. bünyesinde üretilen kesilmeye karşı dayanıklı eldivenler ve kılıflar, nitril kaplı eldivenler, köpük nitril kaplı eldivenler, poliüretan kaplı eldivenler, gıda sınıfı eldivenler, pvc noktalı eldivenler markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

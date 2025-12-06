@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Civivi",
+    "description": "“Civivi“2018 yılında kurulmuş olan WE Knife Co. Ltd. bünyesindeki çatal, kaşık ve bıçak markasıdır.Karbon fiber, micarta, ahşap, G10, cam elyaf takviyeli naylon gibi kulp malzemeleri ile CPM S35VN, Şam, 154CM, Nitro-V, N690, 14C28N, VG-10, D2, 10Cr15CoMoV, 9Cr18MoV gibi bıçak malzemelerini birleştirerek ürünlerini üretmektedir.WE Knife Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Digiphone",
+    "description": "“Digiphone“2007 yılında kurulmuş olan BB Elektronik Ltd. Şti. bünyesinde üretilen dayanıklı ve yeni nesil tuşlu cep telefonları, kapaklı cep telefonları markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Menghi",
+    "description": "“Menghi“1980 yılında kurulmuş olan Menghi SpA bünyesinde üretilen termo plastik malzemelerde moda ve lüks ayakkabı, taban ve aksesuarlar markasıdır.Ağırlıklı olarak ayakkabı, sandalet, bot ve çanta içeren plastik malzemelerden yapılmış kendi ürün yelpazesine sahiptir.Menghi SpA İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Indrive",
+    "description": "“Indrive“2013 Arsen Tomsky tarafından kurulmuş olan Suol Innovations Ltd. bünyesindeki mobilite ve kentsel hizmetler platformu markasıdır.Yolcu taşımacılığına ek olarak; şehirlerarası ulaşım, yük teslimatı, görev yardımı ve kurye teslimatı dahil olmak üzere kentsel hizmetler listesi sunar.Suol Innovations Ltd. Amerika merkezlidir. 46 ülkede 750 şehirde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Couchsurfing",
+    "description": "“Couchsurfing“2003 yılında Casey Fenton tarafından kurulmuş olan Couchsurfing International Inc. bünyesindeki sosyal seyahat platformu markasıdır.Dünyanın dört bir yanındaki gezginler ve ev sahipleri arasında bağlantılar kurmakla ilgilidir. Bir otel veya pansiyon rezervasyonu yapmak yerine odalarını ücretsiz sunanlarla birlikte kalırlar. Dünyanın hemen hemen her ülkesinde 10 milyondan fazla üyesye sahiptir.Couchsurfing International Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

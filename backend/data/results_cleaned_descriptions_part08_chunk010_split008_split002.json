@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tom Çanta",
+    "description": "Tom ÇantaTom Çanta San. ve Tic. Ltd. Şti. bünyesinde üretilen beslenme çantaları, kalemlikler, okul çantaları, sırt çantaları markasıdır.Firma İstanbul merkezlidir. Ürünlerini 40’a yakın ülkeye ihraç etmektedir.Bünyesindeki markalar;PippaTom Çanta",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lucatech",
+    "description": "Lucatech2016 yılında kurulmuş olan Lucatech Technology Co. Ltd. bünyesinde üretilen 10G, 25G, 40G, 100G, 200G ve 400G yüksek hızlı optik alıcı-vericiler markasıdır.Lucatech Technology Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Sunthinks",
+    "description": "Sunthinks2002 yılında kurulmuş olan Shenzhen Yuxunda International Ltd. bünyesinde üretilen yazıcı sarf malzemeleri ve süblimasyon transfer makineleri markasıdır.Shenzhen Yuxunda International Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kennametal",
+    "description": "Kennametal1935 yılında kurulmuş olan Kennametal Inc. bünyesindeki metal işleme, aşındırıcı akış ürünleri, kesme aletleri, madencilik ekipmanları, havacılık aletleri, agregalar markasıdır.Kennametal Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Caple Kitchen",
+    "description": "Caple1977 yılında kurulmuş olan Maurice Lay Distributors Limited bünyesindeki ev aletleri, lavabolar, musluklar, mutfak mobilyaları, aksesuarlar ve yedek parçalar markasıdır.Maurice Lay Distributors Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

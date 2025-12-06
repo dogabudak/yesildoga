@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fenoti",
+    "description": "2008 yılında kurulmuş olan MA Elektronik A.Ş. bünyesinde üretilen full hd, 4k, ultra hd, smart tv led televizyonlar, uydu alıcılı televizyonlar markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nikastyle",
+    "description": "2004 yılında kurulmuş olan Nils OOO bünyesindeki çocuk giyim ve ayakkabı markasıdır.Çocuk ve gençler için giyim ürünleri, ayakkabı ve aksesuarlar sunmaktadır.Nils OOO Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Miel Powder",
+    "description": "2022 yılında kurulmuş olan Miel Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen doğal ev bakım temizleyicileri, bitkisel çok amaçlı temizleyiciler markasıdır.Temizlik ürünlerinde doğal, bitki bazlı bileşenler kullanır. Sentetik kokular ve renklendiriciler içermez.Firma İstanbul merkezlidir.Bünyesindeki markalar;Çılgın Güç",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Briston Watches",
+    "description": "2012 yılında Brice Jaunet tarafından kurulmuş olan Jaunet Paris S.A.S bünyesindeki saatler, kayışlar ve aksesuarlar markasıdır.Jaunet Paris S.A.S Fransa merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Cbtxglobal",
+    "description": "2019 yılında kurulmuş olan Cbt Expeditors Limited bünyesindeki çevrimiçi perakende markasıdır.Cbt Expeditors Limited Hong Kong merkezlidir. Türkiye ve İngiltere’de ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

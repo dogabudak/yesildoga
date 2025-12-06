@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Frigoverre",
+    "description": "Frigoverre, 1825 yılında kurulan Bormioli Rocco SpA bünyesinde üretilen cam saklama kapları markasıdır.İtalya, Fransa ve İspanya’da üretim tesisleri bulunan Bormioli Rocco 100’den fazla ülkede faaliyet göstermekte.İngiliz Julian Mash tarafından kurulan Vision Capital yatırım şirketi 2011 yılında Bormioli Rocco SpA’yı satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ki-Sign",
+    "description": "Ki-Sign, 1923 yılında kurulan The clay and Paint Factory SA bünyesindeki şablonlar, tamponlar ve geçici dövme mürekkepleri markasıdır.The clay and Paint Factory SA, Belçika merkezlidir. İtalya ve Hollanda’da iştirakleri, Fransa, İngiltere, İspanya, Rusya, Kırım ve Şili’de şubeleri yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Flourite",
+    "description": "Flourite, 1981 yılında Dr. Leo G. Morin tarafından kurulan Seachem Laboratories, Inc. bünyesindeki akvaryum takviyeleri ve ürünleri markasıdır.60 ülkede faaliyet gösteren Seachem Laboratories, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "7UP",
+    "description": "7UP, 1885 yılında Charles Alderton tarafından kurulan Keurig Dr Pepper Inc. bünyesindeki gazlı içecek markasıdır.Keurig Dr Pepper Inc. Amerika merkezlidir. Şirketin yüzde 67 hissesi JAB Holding Şirketi’nin yüzde 13,6 oranındaki hissesi ise Mondelez International’ındır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Camac",
+    "description": "Camac, 1991 yılında kurulan Yıldırım Elektronik Tic. ve Paz. Ltd. Şti. bünyesinde ithal edilen sinek kovucu markasıdır.Firma elektronik ürünlerin tüketiciye ulaştırılması için toptan satış ve pazarlama hizmetleri sunan bir dağıtım şirketidir.Bünyesindeki markalar:CamacKchiboRoxy ElectronicRsdoTeknoloji KurduVxr",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

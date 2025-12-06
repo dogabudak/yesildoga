@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Toro",
+    "description": "Toro, 1914 yılında kurulan The Toro Company bünyesinde üretilen kar temizleme ekipmanları ve sulama sistemi malzemeleri, kamu parkları, spor alanları ve tarım alanları için çim bakım ekipmanları markasıdır.The Toro Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ariste",
+    "description": "Ariste, 1998 yılında kurulan Aydın Süt Mamülleri ve Gıda Tic. Ltd. Şti. bünyesinde üretilen peynir, zeytin, zeytinyağı, tereyağı, bal, reçel, pekmez, yoğurt, yumurta, süt ve kaymak ürünleri markasıdır.Peynirlerinin tamamında sadece süt, maya ve tuz kullanılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Donaldson",
+    "description": "Donaldson, 1915 yılında kurulan Donaldson Company Inc. bünyesinde üretilen motor, egzoz, şanzıman, özel araçlarda havalandırma, hidrolik filtreler, helikopter, uçak, kimyasal alternatif enerji için kullanılan hava filtreleri markasıdır.Şirket Belçika, Meksika, Çin, İngiltere, Tayland, ABD, Rusya, Japonya, İtalya, Almanya ve Fransa’da faaliyet göstermektedir.Donaldson Company Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ivory",
+    "description": "Ivory, 1879 yılında Procter & Gamble Company bünyesinde üretilen bar sabun, sıvı sabun markasıdır.Klasik Ivory markalı sabun sodyum donyağı, sodyum kokoat veya sodyum hurma çekirdeği, su, sodyum klorür, sodyum silikat, magnezyum sülfat ve koku içermektedir.Procter & Gamble Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İninal",
+    "description": "2012 yılında kurulan İninal Ödeme ve Elektronik Para Hizmetleri A.Ş. bünyesindeki ödeme sistemidir.2025 yılında Türkiye Cumhuriyet Merkez Bankası tarafından faaliyetleri durdurulmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-03-27"
+  }
+]

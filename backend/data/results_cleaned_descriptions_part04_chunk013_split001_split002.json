@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Arde Natura",
+    "description": "Arde Natura, Arde Natura Ltd. Şti. bünyesinde üretilen zeytinyağı soğuk sıkımlar ve çeşitli ürünler markasıdır.Osmaniye merkezli firma yüzde 100 yerli ve doğal üretim yaparak zeytinyağı, nar ekşisi, fıstık ezmesi, tuzlu fıstık gibi ürünler sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sente",
+    "description": "Sente, Sente Inc. bünyesinde üretilen kozmetik, cilt bakım ürünleri markasıdır.Firma tıbbi sınıf, hipoalerjenik ve kokusuz dermal onarım kremi sunmaktadır.Sente Inc., Amerika merkezlidir.Bünyesindeki markalar;MasterplansSenteSente Bio Complete CreamSente Illumine Eye CreamSente Intensive Bio Complete CreamSente Pollution Shield",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Noreame",
+    "description": "Noreame, 2015 yılında kurulan Cosma Provence Sarl bünyesinde üretilen doğal kozmetik ürünler markasıdır.Firma ayrıca fason şampuanlar, kokular ve güzellik ürünleri, cilt bakım ürünleri üretmektedir.Cosma Provence Sarl Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Choco Kruta",
+    "description": "Choco Kruta, 2015 yılında kurulan Kuex Endüstri İnşaat Danışmanlık Tic. ve San. A.Ş. bünyesindeki şekersiz bitter çikolata, fındık kreması markasıdır.Gana kakaolu fındık kreması, yüzde yüz bitter çikolata, tatlandırıcı, palm yağı, katkı, koruyucu içermiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Versailles Beaute",
+    "description": "Versailles Beaute, 2007 yılında kurulan Versailles Beaute SARL bünyesinde üretilen koku ve güzellik ürünleri markasıdır.Versailles Beaute SARL Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

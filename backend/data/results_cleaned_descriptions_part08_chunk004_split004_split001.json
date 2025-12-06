@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Victoptics",
+    "description": "Victoptics, 2007 yılında kurulmuş olan Shanghai Sunclear Vector Optics Trading Co. Ltd. bünyesinde üretilen optik aparatlar ve aletler markasıdır.Shanghai Sunclear Vector Optics Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Topshak",
+    "description": "Topshak, 2004 yılında kurulmuş olan Tong De Limited bünyesinde üretilen elektrikli el aletleri, el aletleri, bahçıvanlık, pnömatik ve elektrik lehimleme, elektrik ekipmanları ve malzemeleri, motorlu testereler, elektrikli el matkapları, elektrikli kaynak makineleri, gölet havalandırma sistemleri markasıdır.Tong De Limited Honk Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "VeriPark",
+    "description": "VeriPark, 1998 yılında kurulmuş olan Veripark Yazılım A.Ş. bünyesindeki akıllı müşteri deneyimi paketi, dijital dönüşüm projeleri markasıdır.ISO 9001, ISO 14001, ISO 27001 belgelerine sahiptir.Firma Kocaeli merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "AEM",
+    "description": "AEM, 1986 yılında kurulmuş olan AEM Inc. bünyesindeki pasif devre koruma bileşenleri, yüksek güvenilirlikli sigortalar, ferrit çip boncukları markasıdır.AEM Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yihua",
+    "description": "Yihua, 2000 yılında kurulmuş olan Guangzhou Yihua Electronic Equipment Co. Ltd. bünyesinde üretilen SMD Rework istasyonu, Lehimleme ve sökme istasyonu, IR BGA Rework istasyonu, SMD ön ısıtma rework istasyonu, dijital havya, DC güç kaynağı ve bakım ürünleri markasıdır.Guangzhou Yihua Electronic Equipment Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

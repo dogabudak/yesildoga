@@ -1,0 +1,50 @@
+[
+  {
+    "company": "D.E",
+    "description": "D.E, 1753 yılında kurulan Koninklijke Douwe Egberts B.V. bünyesinde üretilen kahve markasıdır.Ürünlerinde arabica kahve çekirdekleri kullanılmaktadır.Koninklijke Douwe Egberts B.V. Hollanda merkezlidir. Şirketin yüzde 51 hissesi Hollanda merkezli JDE Peet’s NV.’ye ve yüzde 49 hissesi Amerika merkezli Mondelez International Inc.’e aittir.Bünyesindeki markalar;A Coffee For Every CupAnno 1753Anno D.E 1753BadedasCafitesseCarambaCoffee Made HappyCoffortoCoffy’sCoolCremedasD.ED.E Master Blenders 1753Douwe EgbertsFeelingsFissanGood To The Last DropIce BlueIce PressoJacobs Douwe EgbertsJavivaJdeKeyifLife In Every GrainL’OrL’Or EspressoL’Or LucenteL’OroL’Oro EspressoMastro LorenzoMaxwell HouseMedıterraneoMocconaMonsavonNatreenPiazza D’OroPickwickPickwick Finest TeaPromessoPure And SimpleQuenty FortySabotageSatinaSenseoT DiscTassimoTi OraTopbraunViva Trio",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ziflu",
+    "description": "Ziflu, 2006 yılında kurulan Koç İlaç Kişisel Bakım ve Bitkisel Ürünler Sağlık Paz. İth. İhr. San. Ltd. Şti. bünyesinde üretilen pişik önleyici krem markasıdır.ISO 9001, ISO 22000, GMP belgelerine sahiptir.Tamamı yerli sermayeli olan firma Ankara merkezlidir. Ürünlerini çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;AlmendraAquabestBestflorBitoutBondeCentraminDermorichEurozincFerfolikFolikocFx PlusFx+ Altın Çilek Bitkisel Karışımlı KapsülGastrobestGlucosure PlusHerbixImubestKlnyKp ChondrobestLanobestLanodermLarynMaxi DayMy Long&LovePantonixPleksinolPlorokinProviten A-ZStarfineStilfineTemiz EllerThymexVitkalVitkal’sVitmixZifluZifrax",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tonka",
+    "description": "Tonka, 1946 yılında kurulan Tonka Toys Incorporated bünyesinde üretilen inşaat tipi kamyon ve makinelerin çelik oyuncak modelleri markasıdır.Tonka Toys Incorporated, 2020 yılında Amerika merkezli Basic Fun Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gkn Kargo",
+    "description": "Gkn Kargo, 2018 yılında Gökhan Akyürek tarafından kurulan Gkn Kargo Lojistik Dağıtım ve Depolama San. ve Tic. Ltd. Şti. bünyesindeki kargo markasıdır.Markaların giyim ile ayakkabı sektörü, perakende alanında gıda taşımacılığında kargo süreçlerini yönetmektedir.Firma ayrıca hazır giyim markaları ile kapıda beden seçimi uygulamasını hayata geçirerek kargo hizmetini kişiye özel hâle getirme uygulamasını başlatacak.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arai Helmet",
+    "description": "Arai Helmet, 1950 yılında Hirotake Arai tarafından kurulan Arai Helmet Limited bünyesinde üretilen motosiklet kaskları ve diğer kasklar markasıdır.Arai Helmet Limited Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

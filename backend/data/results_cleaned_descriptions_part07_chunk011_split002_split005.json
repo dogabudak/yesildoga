@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Kokoso Baby",
+    "description": "Kokoso Baby, 2014 yılında kurulmuş olan Kokoso Skin Ltd. bünyesinde üretilen bebekler için cilt bakımı, saç derisi bakımı, saç bakımı ve dezenfektanlar markasıdır.Organik ürünleri zararlı kimyasallar içermez ve hayvanlar üzerinde test edilmemektedir.Kokoso Skin Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Minidolin",
+    "description": "Minidolin, 1982 yılında Nusret Selen tarafından kurulmuş olan Dermadolin Kozmetik Üretim ve Paz. A.Ş. bünyesinde üretilen bebek ve çocuk şampuanları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;CeradolinKadolinMadepantolMinidolinPirdolinSedolinSelyumSeranem",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dermakidda Organics",
+    "description": "Dermakidda Organics, 2019 yılında kurulmuş olan B Field Force Sağlık Hizmetleri ve Ürünleri Tic. Ltd. Şti. bünyesinde üretilen organik bebek ve çocuk şampuanları markasıdır.Ürünleri zararlı kimyasallar içermez ve hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mapfre",
+    "description": "Mapfre, 1993 yılında kurulmuş olan Mapfre S.A bünyesindeki çok uluslu sigorta markasıdır.Ürünlerini, işbirliği anlaşmaları yoluyla bankaların ofisleri ve diğer satış noktaları aracılığıyla pazarlar.Mapfre S.A İspanya merkezlidir ve 49 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Berona Makarna",
+    "description": "Berona, A101 Yeni Mağazacılık A.Ş. adına Acarsan Makarna Un Gıda San. ve Tic. A.Ş. tarafından üretilen makarna markasıdırISO 9001, ISO 22000, HACCP ve HELAL belgelerine sahiptir.Acarsan Gaziantep merkezlidir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

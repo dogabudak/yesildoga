@@ -1,0 +1,46 @@
+[
+  {
+    "company": "İmza Giyim",
+    "description": "İmza, 1985 yılında kurulan Taşkınırmak Giyim San. ve Tic. A.Ş. bünyesinde üretilen takım elbise, ceket, pantolon, gömlek, kravat, kaban, mont, triko, ayakkabı, kemer, çorap markasıdır.Türkiye genelinde 50’den fazla mağaza ve 150’den fazla bayisi ile faaliyet göstermektedir.Kendi üretimi dışında yüzde 100 yerli üreticilerle çalışmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aedle",
+    "description": "Aedle, 2011 yılında kurulan Travel Instruments bünyesindeki kulaklık ve ses aksesuarları markasıdır.Kablosuz kulak üstü kulaklıklar, USB-C Hızlı şarj sistemi, aktif gürültü önleme, telefon görüşmelerini işlemek için cVC teknolojisi, birden fazla cihazla eşleştirme, pilsiz dinleme ve daha etkileyici özellikler sağlamak için USB-C analog ses özelliklerine sahip ürünler hakiki kuzu derisi deri ve doğal alüminyum kullanılarak elle üretilmektedir.Travel Instruments Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Kardem",
+    "description": "Kardem, 1990 yılında kurulan Kardem Tekstil San ve Tic A.Ş. bünyesinde üretilen hazır giyim ürünleri markasıdır.Küresel ağı ile Türkiye ve dünyanın önde gelen markaları için yüksek hacimli, zamana duyarlı malların tedarik zinciri yönetimi konusunda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Audeze",
+    "description": "Audeze, 2008 yılında kurulan Audeze LLC. bünyesindeki kulaklıklar ve hoparlörler markasıdır.Audeze LLC, Amerika merkezli bir ses üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Apogee",
+    "description": "Apogee, 1985 yılında Betty Bennett, Bruce Jackson ve Christof Heidelberger tarafından kurulan Apogee Electronics Corp. bünyesindeki profesyonel ses cihazları markasıdır.Apogee Electronics, dijital ses arayüzleri ve ses dönüştürücüleri, USB ve iOS mikrofonları ve ses üretim yazılımı geliştirmektedir.Apogee Electronics Corp. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

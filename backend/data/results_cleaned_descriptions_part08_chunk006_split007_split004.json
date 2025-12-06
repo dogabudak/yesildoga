@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tonla!",
+    "description": "Tonla!, 1984 yılında kurulmuş olan Dardanel Önentaş Gıda San. A.Ş. bünyesindeki konserve ton balığı markasıdır.Firma Çanakkale merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Relazzo",
+    "description": "Relazzo, 1948 yılında kurulmuş olan Rehau AG + Co. bünyesinde üretilen zemin kaplama sistemleri markasıdır.Rehau AG + Co. Almanya merkezlidir. Ürünleri 170’ten fazla noktada yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ben Natür",
+    "description": "Ben Natür Nerenin Malı MarkasıBen Natür, 2011 yılında kurulmuş olan Toprak Su Fidan Tarımsal Ürn. San. ve Tic. A.Ş. adına Göknur Gıda Maddeleri Enerji İml. İth. İhr. Tic. ve San. A.Ş. tarafından üretilen meyve suyu markasıdır.Ürünlerinde yapay tatlandırıcı, koruyucu, yapay aroma ve yapay renklendirici yoktur.TSF Toprak Su Fidan A.Ş. Ankara merkezlidir.Bünyesindeki markalar;Ben NatürBen Organic",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tatsen",
+    "description": "Tatsen, 1995 yılında kurulmuş olan Kalafatlar Tanzim Satış Mağazaları Gıda Tarım Temizlik Hayvancılık İnşaat Turizm Tic. ve San. Ltd. Şti. bünyesindeki ada çayı, akide şekeri, baharat, baklava, çay, çiğ badem, ekmek, galeta un, iç ceviz, kaju, kuru pasta, kuru yemiş, kuş lokumu, leblebi şekerli, lokum, mısır unu, nohut, sandviç ekmeği, soslu mısır, su böreği, sütlü nuriye, şekerli leblebi, şekerpare, şöbiyet, tam buğday, tereyağ, tost ekmeği, toz biber, tulum peyniri, turta, tuzlu fıstık, unlu mamülleri, yaş pasta, yer fıstığı, yumurta, zeytin markasıdır.Firma Ordu merkezlidir. 10’dan fazla mağaza ile hizmet vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Banduff",
+    "description": "Banduff, 2015 yılında kurulan Honnes Sağlık ve Endüstriyel Ürünleri A.Ş. bünyesinde üretilen yara bandı, burun bandı, göğüs ucu gizleme bandı, ısı düşürücü jel bandı markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

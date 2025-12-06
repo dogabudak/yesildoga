@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Frocx",
+    "description": "Frocx, 2011 yılında kurulan Ottonya İnovasyon Stüdyoları ve Dış Tic. A.Ş. bünyesindeki çanta, oyuncak, kırtasiye, ev aksesuarları ve tekstil markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wilkhahn",
+    "description": "Wilkhahn, 1907 yılında Friedrich Hahne, Christian Wilkening tarafından kurulan Wilkening + Hahne GmbH+Co.KG bünyesinde üretilen ofis ve konferans mobilyaları markasıdır.Wilkening + Hahne GmbH+Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Syloon",
+    "description": "Syloon, 2004 yılında kurulan Ningbo Syloon Imp & Exp Co. Ltd. bünyesinde üretilen kalemler, klips ve pimler, çantalar, ofis malzemeleri, defterler, ev eşyaları markasıdır.BSCI, SEDEX ve ISO 9001 belgelerine sahiptir.Ningbo Syloon Imp & Exp Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kartonsan",
+    "description": "Kartonsan, 1967 yılında kurulan Kartonsan Karton San. ve Tic. A.Ş. bünyesinde üretilen kuşeli karton markasıdır.Kuşeli karton üretiminde yüzde 90’ın üzerinde oranlarda atık kağıt kullanmaktadır.İstanbul merkezli firma üretimden kalan atık suyunu tesislerinde arıtarak tekrar kullanmaktadır. Firma ayrıca kendi enerjisini üretmekte ve türbin egzoz gazını buhar üretmek için kullanmaktadır. Ürünlerini 30’a yakın ülkeye ihraç etmektedir.Kartonsan’ın ana hissedarı Pak Topluluğu’dur ve Asil Holding yüzde 24,45 paya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seyitler",
+    "description": "Seyitler, 1991 yılında kurulan Seyitler Kimya San. A.Ş. bünyesinde üretilen tıbbi plaster, yara örtüsü, ilk yardım bantları ve kapsikumlu yakı markasıdır.Firma ürünlerini Manisa’da bulunan 17 bin 257 metrekarelik tesisinde üretmektedir.CE, ISO 9001, ISO 13485 ve GMP belgelerine sahiptir.Bünyesindeki markalar;ActivolDermafixDermamaskDermaporeEvafreshHürbantKurtbandKurtplastLombaljinMaxiporeMedi BezMedi IpekNeocapsicumNova Ginger PatchNova Heat PatchNovaaidNovabandNovabantNovadialisNovahandNovaipekNovanaturaNovapadNovapatchNovaplastNovaporeNovasilkNovatransNovayakiOpaljinPelikanPenguenPikoporSeyitlerTopplastTri Leaf SuperfrshUnipore",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

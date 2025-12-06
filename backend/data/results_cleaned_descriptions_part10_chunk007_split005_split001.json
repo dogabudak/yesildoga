@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Paul Mitchell",
+    "description": "Paul Mitchell, 1980 yılında Paul Mitchell ve John Paul DeJoria tarafından kurulan John Paul Mitchell Systems Inc. bünyesindeki saç bakım ürünleri ve şekillendirme araçları markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.John Paul Mitchell Systems Inc. Amerika merkezlidir ve ürünlerini 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Truvativ",
+    "description": "1996 yılında kurulmuş olan Starbrands Group bünyesinde üretilen kros, iz, enduro ve yerçekimi sürüşü için çubuklar, gövdeler, kranksetler, alt parantez ve aksesuarlar markasıdır.Starbrands Group Amerika merkezlidir. Dünyada 60’tan fazla ülkede varlığı olan bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Akeso",
+    "description": "2012 yılında kurulmuş olan Akeso Biopharma Co. Ltd. bünyesinde üretilen ilaç markasıdır.Şirket antikor ilaçları üretir ve satar.Akeso Biopharma Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pinko",
+    "description": "1980 yılında Cristina Rubini ve Pietro Negra tarafından kurulmuş olan Cris Conf. SpA bünyesindeki moda markasıdır.Şirket kadınlar için kot pantolon, tişört, pantolon, etek, üstlük, gömlek, mont, ayakkabı, çanta ve aksesuar sunmaktadır.Cris Conf. SpA İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Cartay",
+    "description": "1996 yılında kurulmuş olan Cartay SL bünyesinde üretilen acil durum kitleri markasıdır.Şirketin Unicef ile uzun vadeli bir anlaşması bulunmaktadır. Büyük hijyen ve acil durum malzemeleri stoklarını elinde bulundurmaktadır.Cartay SL İspanya merkezlidir ve ürünlerini İspanya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

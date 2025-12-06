@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Chippin",
+    "description": "Chippin, 2002 yılında Koç Grubu bünyesinde kurulmuş olan Tanı Pazarlama ve İletişim Hizmetleri A.Ş. bünyesindeki mobil ödeme uygulaması markasıdır.Markaların mağaza, web ve mobil kanallarında; müşteri sadakati ve müşteri deneyimini müşteri verisi ile uyumlu yönetmeleri sağlayan çözümler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Damson Madder",
+    "description": "Damson Madder, 2019 yılında kurulmuş olan Damson Madder Ltd. bünyesindeki kadın ve erkek giyim ürünleri markasıdır.Tüm kıyafetlerinde geri dönüştürülmüş polyester, doğal boyalar ve pamuk gibi malzemeler kullanmaktadır.Damson Madder Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Klarna",
+    "description": "Klarna, 2005 yılında kurulmuş olan Klarna Bank AB bünyesindeki ödeme ve alışveriş hizmeti markasıdır.Doğrudan ödemeler, teslimat sonrası ödeme seçenekleri ve taksit planları sunmaktadır.Klarna Bank AB İsveç merkezlidir ve 45 ülkede faaliyet göstermektedir.Klarna, Sequoia Capital, Silver Lake, Bestseller Group, Dragoneer, Permira, Visa, Ant Group ve Atomico gibi yatırımcılar tarafından desteklenmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Floorpan",
+    "description": "Floorpan, 1969 yılında kurulmuş olan Kastamonu Entegre Ağaç San. ve Tic. A.Ş. bünyesinde üretilen yer döşemesi markasıdır.TSE ISO 9001, OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;3d Ids- Interior Design StudioAcrymattArt FloorArtfloorAstarpanAtlasfloorBridging Nature And LifeClick Floor PlusColorlamColorpanCraftcoreDekorpanDoğadan Hayata KöprüDoorlamDorpanEvoglossFirelamFlex UpFloormaxFloorpanFloorplanFloorwoodGloss Plus +GlossmaxGlossmax ProGlossplusGoldenclickGoldenfloorHaneconceptHayat EnerjiHayat Peletınspired SolutionsKa 55Ka 65KastamonuKeasKeaşLet’S Innovate Together!LıfepelletLightpanMasifpanMattplusMaxilamMedalamMedecolorMedefloorMedefolMedeglossMedekapMedelamMedelightMedenatMedepanNanoclickNeotop WorktopsNova ClıckNovaclickParlakpanPrintpanQuietpanQuietroomRealclickStepclickSun FloorSunfloorSuperiorpanSüperlamSüperpanTalentreeTechnolamTechnopanTechnopeletTechnotopTeknoglossTeknolamTeknopanTermofloorThermomaxVenüsfloorWallpanWood Is Our LifeYenyleYongakapYongalamYonganatYongapan",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Barak Gurme",
+    "description": "Barak Gurme, B.‘Barak Dibek Kahvesi Baharat ve Kuru Gıda San. Tic. Ltd. Şti. bünyesindeki fındık, fıstık, badem, ceviz kremaları, bitki çayları, kahveler markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Merc",
+    "description": "Merc, 1967 yılında Javid Alavi tarafından kurulan Merc Group of Companies Ltd. bünyesindeki gömlek, pantolon, takım elbise, ayakkabı ve aksesuarlar markasıdır.Yurt dışında futbol taraftarları ve dazlaklar arasında popüler olan bir giyim markasıdır.Merc Group of Companies Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Evolution Rage",
+    "description": "Evolution Rage, 1992 yılında kurulan Evolution Power Tools Ltd. bünyesinde üretilen elektrikli el aletleri, çelik imalat elektrikli el aletleri ve çoklu malzeme kesme teknolojisi ürünleri markasıdır.Evolution Power Tools Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Saffet Abdullah",
+    "description": "Saffet Abdullah, 1959 yılında kurulan Saffet Kollektif Şirketi bünyesinde üretilen güllaç markasıdır.Ürünleri mısır nişastası ve buğday unu kullanılarak üretilmektedir. Katkı maddesi içermemektedir.Şirketin sahibi Arseven ailesidir. ISO 22000 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SunPlast",
+    "description": "SunPlast, 2003 yılında kurulan Sun Plastik Ev Gereçleri Sanayi ve Tic. Ltd. Şti. bünyesinde üretilen plastik ev ve mutfak gereçleri markasıdır.Kendi kalıbını tasarlayıp üretebilen, kendi makine ve ham maddesini doğrudan ithal edebilen firmanın 450’den fazla ürün çeşitliliği bulunmaktadır. Ürünlerini İstanbul, Elazığ ve Çin’de bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rawsome",
+    "description": "Rawsome, 2015 yılında kurulan Pachamama Gıda Tarım Tekstil Dan. San. ve Tic. A.Ş. bünyesindeki şeker katkısız, vegan, çiğ ve glutensiz kuruyemiş ve meyve barları markasıdır.Yüzde 100 doğal, katkı ve koruyucu içermeyen, Türkiye’de üretilen ürünler 7 ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

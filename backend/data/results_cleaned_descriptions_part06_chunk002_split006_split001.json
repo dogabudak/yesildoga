@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Nakhl Sabz",
+    "description": "Nakhl Sabz, 2002 yılında Sobhi Trading Company tarafından kurulan Nakhl Sabz Sobhi Co. bünyesinde üretilen hurma ezmesi, hurma suyu konsantresi, hurma özsuyu, mazafati hurmaları, kalute hurmaları, rabbi hurmaları, zahedi hurmaları, piarum hurmaları, sayer hurmaları, çekirdeksiz kuru üzüm, altın kuru üzüm markasıdır.Nakhl Sabz Sobhi Co. İran merkezlidir ve ürünlerini 25’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  },
+  {
+    "company": "Dido Gofret",
+    "description": "Dido, 1944 yılında kurulan Yıldız Holding A.Ş. bünyesindeki gofret, bisküvi, çikolata ve şekerleme markasıdır.Soya ve palm yağı içermektedir.12 ülkede 21 fabrikaya sahip olan firmanın Türkiye’de 25 fabrikası bulunmaktadır ve ürünlerini 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aysil",
+    "description": "Aysil, 2000 yılında kurulan ERCN Kimya ve Kozmetik Gıda ve İnş. Ltd. Şti. bünyesinde üretilen antibakteriyel el jeli, arap sabunu, bulaşık deterjanı, cam temizleyici, cep mendil, çamaşır makinesi deterjanı, çamaşır makinesi kireç önleyici, çamaşır suyu elde ve matik, çamaşır yumuşatıcı, dispenser peçete, fotoselli havlu, halı şampuanı, içten çekmeli havlu tuvalet kağıdı, ıslak havlu mendil, kağıt havlu, köpük sıvı sabun, mini jumbo tuvalet kağıdı, oda spreyi, peçete, sıvı sabun, tuvalet kağıdı, ultra çamaşır suyu, yüzey temizleyici, z kat dispenser havlu markasıdır.İstanbul merkezli firma ürünlerini 5 bin metrekarelik kapalı alanda üretmektedir.Bünyesindeki markalar;AysilVatanVietol",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ak Nişasta",
+    "description": "Ak Nişasta Nerenin Malı MarkasıAk Nişasta, 2005 yılında kurulan AK Nişasta San. ve Tic. A.Ş. bünyesinde üretilen doğal mısır nişastası, glikoz ve fruktoz şurupları, sıvı şeker markasıdır.GDO’suz üretim yapan firma Kırklareli’de kurulmuştur.ISO 9001, ISO 22000, ISO 27001, BRC, Helal, Kosher, NON GMO belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hotline Enerji İçeceği",
+    "description": "Hotline, 1994 yılında kurulan Kristal Kola ve Meşrubat San. Tic. A.Ş. bünyesindeki enerji içeceği markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

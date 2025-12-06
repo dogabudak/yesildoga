@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Miba Rulman",
+    "description": "Miba, 1927 yılında kurulan Miba AG bünyesindeki sinterlenmiş komponentler, motor ve endüstriyel rulmanlar, sürtünme malzemeleri, güç elektroniği komponentleri ve kaplamaları markasıdır.Ürünleri motorlu taşıtlar, tren, gemi, uçak, enerji santralleri, rafineriler, kompresörler ve endüstriyel pompalarda kullanılmaktadır.Miba Group Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Slimfast",
+    "description": "Slimfast, 1977 yılında ilk kez üretilen diyet takviyesi markasıdır.Slimfast, 2018 yılında İrlanda merkezli Glanbia Plc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Ereyon",
+    "description": "Ereyon, 2004 yılında Aziz ve Cengiz Ülkü tarafından kurulan Ereyon Elektronik Ticaret ve Sanal Mağ. Hiz. A.Ş. bünyesindeki elektronik ticaret ve sanal mağaza markasıdır.İthalatçı ve üretici firmalarla tedarik anlaşması yaparak garantili sıfır ürünler satmaktadır.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Uncle Ben’s",
+    "description": "Uncle Ben’s, 1943 yılında Mars Incorporated bünyesinde üretilen buğulanmış pirinç ve diğer ilgili gıda ürünleri markasıdır.Ürün yelpazesi dönüştürülmüş pirinç ve kahverengi pirinç gibi favorilerden yasemin, basmati ve yabani pirinçlere kadar tarifleri ve akşam yemeği için her türlü pirinci içerir.Mars Incorporated Amerika merkezlidir. Ürünleri 100’den fazla ülkede bulunabilir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Skippy",
+    "description": "Skippy, 1932 yılında Joseph Rosenfield tarafından ilk kez üretilen azaltılmış yağ kremalı fıstık ezmesi, ballı fıstık ezmesi, bitkisel protein ile harmanlanmış fıstık ezmesi, kavrulmuş ballı fındık kremalı fıstık ezmesi, kremalı fıstık ezmesi, süper parça fıstık ezmesi, tıknaz fıstık ezmesi markasıdır.Hormel Foods LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

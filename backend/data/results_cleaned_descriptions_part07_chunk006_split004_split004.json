@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Luigi’s",
+    "description": "Luigi’s, 1966 yılında kurulmuş olan ERG Şirketler Grubu bünyesindeki Bemse Gıda Turizm İnş. San. Tic. A.Ş.’ye ait restoran işletmeleri markasıdır.İtalyan mutfağı, pizza ve makarna çeşitleri sunmaktadır.Firma Ankara merkezlidir.Bünyesindeki markalar;Leyla Restoran Cafe GrubuLisetteLouLouiseLuigi’s",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pusula Su Deposu",
+    "description": "Pusula, 2001 yılında kurulmuş olan Yeni Rota Makina San. Tic. Ltd. Şti. bünyesindeki su depoları markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Youha",
+    "description": "Youha, 2011 yılında kurulmuş olan Ningbo Youhe Electrical Appliance Technology Co. Ltd. bünyesinde üretilen göğüs pompası, elektrikli anne ve bebek aletleri, besleme malzemeleri, doğum malzemeleri markasıdır.Ningbo Youhe Electrical Appliance Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fertil",
+    "description": "Fertil, 1960 yılında kurulmuş olan Fertil SAS bünyesinde üretilen biyolojik olarak parçalanabilen kaplar, çarpma tapaları ve gübreler markasıdır.Saksıları yüzde yüz biyolojik olarak parçalanabilen ağaç liflerinden yapılmıştır.Fertil SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Xhdata",
+    "description": "Xhdata, 2015 yılında kurulmuş olan Dongguan Xinhuaide Electronic Commerce Co. Ltd. bünyesinde üretilen radyolar, radyo aksesuarı, hoparlör, taşınabilir radyo, lityum pil markasıdır.Dongguan Xinhuaide Electronic Commerce Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Enpara",
+    "description": "Enpara, 2012 yılında QNB Group’a ait olan Finansbank tarafından kurulan şubesiz dijital banka markasıdır.Tüm hizmetlerini sadece dijital kanallar üzerinden sunmaktadır, şubesi yoktur.QNB Group Katar merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  },
+  {
+    "company": "Gedik Piliç",
+    "description": "Gedik Piliç, 1968 yılında Halil Gedik tarafından kurulan Gedik Tavukçuluk ve Tarım Ürünleri Tic. San. A.Ş. bünyesinde üretilen piliç ürünleri, yemeye hazır şarküteri ürünleri markasıdır.Piliçlerini yüzde 100 doğal şartlarda yetiştirmektedir.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma Uşak merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-05-06"
+  },
+  {
+    "company": "Cetaphil",
+    "description": "Cetaphil, 1947 yılında kurulan Galderma laboratories, L.P. bünyesinde üretilen cilt bakım ürünleri markasıdır.Temizleyiciler, nemlendiriciler, bebek ürünleri ve hassas ciltler için geniş bir yelpazede günlük ürünler sunmaktadır. Ürünlerini 70’ten fazla ülkede pazarlamaktadır.Galderma laboratories, L.P. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gate Enterprise",
+    "description": "Gate Enterprise, 2009 yılında GATE Enterprise Sp. z o.o. Sp. k. bünyesinde üretilen airsoft oyunları, ileri teknoloji, yazılım ve donanım ürünleri markasıdır.Yüksek güç devrelerinde, piyasadaki en güçlü transistörleri kullanmaktadır.Ürünleri 63’ten fazla ülkede pazarlanmaktadır.GATE Enterprise Sp. z o.o. Sp. k. Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Feellife",
+    "description": "Feellife, 2013 yılında kurulan Feellife Health Inc. bünyesinde üretilen taşınabilir örgü nebulizatör markasıdır.Ürünleri 50’den fazla ülkeye pazarlanmaktadır.Feellife Health Inc. Çin merkezli uluslararası bir tıbbi şirkettir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fitline",
+    "description": "Fitline, 1993 yılında Sorg Rolf tarafından kurulan PM-International AG bünyesindeki gıda takviyeleri ve kozmetik ürünleri markasıdır.Ürünlerini 40’tan fazla ülkede satmaktadır. Avrupa içi ve dışında 35 şubesi bulunmaktadır.Alman sermayeli PM-International AG şirketinin merkezi Lüksemburg’da bulunur.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Promate",
+    "description": "Promate, 2003 yılında kurulan Promate Technologies Ltd. bünyesindeki BT Çevre Birimleri, Dijital Araçlar, Mobil Aksesuarları, LifeStyle Teknolojileri, Tüketici Elektroniği markasıdır.Kişisel bilgisayar çevre birimleri, MFi sertifikalı ürün, mobil ve akıllı telefon aksesuarları, USB ürünleri, güç bankaları, evrensel güç adaptörleri, ses cihazları, dijital cihazlar, LED ve Güneş ışıkları ve fotoğraf aksesuarları üretir.Promate Technologies Ltd. Tayvan’da kuruldu ve daha sonra şirketin merkezini Çin’e taşıdı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Raqun",
+    "description": "Raqun, 2019 yılında kurulan Raqun Doğal Kozmetik bünyesinde üretilen tamamen doğal içerikli, el yapımı kişisel bakım ürünleri markasıdır.Ürün yelpazesinde kantaronlu krem, el ve vücut kremi, yüz kremi, yaşlanma karşıtı gece kremi, güneş kremi, diş macunu, krem deodorant yer alır. Ürünlerinde sağlığa zararlı katkılar kullanılmamaktadır.Türkiye’de butik üretim yaptığı atölyesinde, soğuk sıkım sabit yağlar ve saf uçucu yağlar kullanarak, cam, porselen ve tahta malzemelerle el yapımı ürünler üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Got2b",
+    "description": "Got2b, 1876 yılında Fritz Henkel ve ortaklarıyla kurulan Henkel AG & Co. KGaA bünyesinde üretilen saç şekillendirici markasıdır.Henkel, çamaşır ve ev bakımı, beauty care ve yapıştırıcı teknolojilerinde faaliyet gösteren Almanya merkezli firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Rimpler",
+    "description": "Dr. Rimpler, 1986 yılında Manfred ve Anita Rimpler tarafından kurulan Rimpler Gmbh bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürün yelpazesi yüz ve vücut için ürünler içerir. Kozmetik ürünleri, doğal ve tıbbi bileşenlerin birleşimidir.Dr. Rimpler GmbH Almanya merkezli bir kozmetik şirketidir. Ürünleri 43’ten fazla ülkede satılmaktadır.Bünyesindeki markalar:Dr. RİMPLERIsabelle Lancray",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

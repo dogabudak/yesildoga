@@ -1,0 +1,46 @@
+[
+  {
+    "company": "LifeFitness",
+    "description": "1977 yılında kurulmuş olan Life Fitness Inc. bünyesindeki kardiyovasküler ve kuvvet antrenmanı ekipmanları, fitness, egzersiz malzemeleri markasıdır.Life Fitness Inc. 2019 yılında Amerika merkezli KPS Capital Partners tarafından satın alınmıştır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Noumes",
+    "description": "2022 yılında kurulmuş olan Hoda Pharma Kimya A.Ş. bünyesinde üretilen bronzlaştırıcı yağ, güneş kremi, güneş sonrası nemlendirici losyon, nemlendirici losyon markasıdır.Firma Antalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Akapen",
+    "description": "1990 yılında kurulmuş olan Akprofil A.Ş. bünyesindeki pvc pencere sistemleri markasıdır.ISO 9001, TSE belgelerine sahiptir.Firma Kayseri merkezlidir ve ürünlerini Kayseri’de toplam 12 bin 750 metrekarelik kapalı ve 82 bin metrekarelik açık alanda bulunan fabrikasında üretmektedir ve 25 ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SPP Pumps",
+    "description": "1875 yılında kurulmuş olan SPP Pumps Limited bünyesinde üretilen santrifüj pompalar ve sistemler, su pompalama uygulamaları, yangın pompaları, transformatör yağ pompaları, susuz pompalar, endüstriyel pompalama uygulamaları markasıdır.SPP Pumps Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Leyhof",
+    "description": "2013 yılında kurulmuş olan Oğuzalp Turizm Ajans İnşaat Temizlik Tekstil Gıda Otomotiv San. Tic. Ltd. Şti. bünyesindeki çamaşır leke çıkarıcı, ara musluk ve musluk başlığı, derz ürünleri, yüzey temizleyici markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

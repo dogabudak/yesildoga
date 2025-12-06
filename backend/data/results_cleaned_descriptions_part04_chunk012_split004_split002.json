@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Caviterm",
+    "description": "Caviterm, 1981 yılında kurulan Caviterm Srl bünyesinde üretilen örgülü, spiral ve termoblok PTFE bant yalıtımlı kablolar markasıdır.Ürün yelpazesi şunları içerir; nikel, nikel kaplı bakır ve termokupllar ve termorezistörler için kompanse kablolar, B’den C’ye yalıtım sınıfı.Caviterm Srl İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Accascup",
+    "description": "Accascup, 2016 yılında kurulan Accas Kurumsal Tedarik Hizmetleri Ltd. Şti. bünyesinde üretilen karton ve plastik bardak serisi, kapak, bardak kolları, bardak tutacağı markasıdır.PET, PLA, PP ve PS’de çok çeşitli şeffaf plastik soğuk içecek kapları üretmektedir.ISO 9001, ISO 22000, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Adonis",
+    "description": "Adonis, 2010 yılında kurulan Adonis Endüstriyel Temizlik Ürünleri A.Ş. bünyesinde üretilen temizlik ürünleri ve hijyen çözümleri markasıdır.Çöp poşetleri, ambalaj ürünleri, kağıt ürünleri ve aparatlar, medikal ve hijyen ürünleri, temizlik ve hijyen kimyasalları üretmektedir.Adonis Endüstriyel Temizlik Ürünleri A.Ş., 2019 yılından beri Bilkent Holding bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ketsan Oyuncak",
+    "description": "Ketsan Oyuncak, 2004 yılında Hüseyin Kette tarafından kurulan Ketsan Oyuncak bünyesinde üretilen aksiyon ve karakter oyuncaklar, model oyuncaklar ve aksesuarları, plastik arabalar, puzzle, kutu ve kart oyunları, zeka geliştirici oyuncaklar markasıdır.Kız çocuk oyuncakları, kamyon ve kepçe grubu, oyuncak silahlar, zeka oyuncakları gibi ürün yelpazesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cablematic",
+    "description": "Cablematic, 2011 yılında kurulan Cablematic Dos Mil SLU bünyesindeki raf dolabı, hdmi kablosu, dvi kablosu, usb kablosu, sata, ses ve video, projeksiyon ekranları, led işareti markasıdır.Cablematic Dos Mil SLU İspanya merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

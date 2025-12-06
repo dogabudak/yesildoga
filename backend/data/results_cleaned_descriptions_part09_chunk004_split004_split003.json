@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Panocer",
+    "description": "Panocer2012 yılında Selçuklu Holding tarafından kurulmuş olan İlko İlaç San. ve Tic. A.Ş. bünyesindeki sindirim sistemiyle alakalı ilaçlar markasıdır.GMP belgesine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Konya’da 250 bin metrekarelik alanda bulunan üretim tesisinde üretmektedir ve 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ferrucci Milano",
+    "description": "Ferrucci Milano1995 yılında kurulmuş olan Arıkan İthalat Saat San. ve Dış Tic. Ltd. Şti. bünyesindeki saat markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Safemom",
+    "description": "Safemom2016 yılında kurulmuş olan Lava Bebek Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki mama sandalyesi ve aksesuarları, bebek ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ankylos",
+    "description": "Ankylos2016 yılında iki şirket birleşmesiyle kurulmuş olan Dentsply Sirona Inc. bünyesindeki implant malzemeleri markasıdır.Dentsply Sirona Inc. Amerika merkezlidir ve ürünlerini 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bick’s",
+    "description": "Bick’s1897 yılında Jerome Monroe Smucker tarafından kurulmuş olan The J. M. Smucker Company bünyesinde üretilen turşu markasıdır.The J. M. Smucker Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

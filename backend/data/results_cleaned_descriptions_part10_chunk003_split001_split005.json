@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tesitay",
+    "description": "2017 yılında kurulmuş olan Özbaylar Isı Sistemleri Yapı İnşaat San. ve Tic. Ltd. Şti. bünyesindeki lavabo banyo bataryası, mutfak bataryası, banyo duş seti markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carl Martin",
+    "description": "1916 yılında kurulmuş olan Carl Martin Gmbh bünyesindeki diş için cerrahi aletler, bıçak, makas, diş aletleri markasıdır.Carl Martin Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Artloop",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stryi",
+    "description": "2009 yılında kurulmuş olan Stryi Carving Tools LLC bünyesinde üretilen ahşap oyma alet ve aksesuarlar, keskiler, oyuklar ve setler markasıdır.Stryi Carving Tools LLC Ukrayna merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Viaypi",
+    "description": "2006 yılında kurulmuş olan Çalı Yapı Malzemeleri Ticaret Mustafa Çalı bünyesindeki berber bataryaları, berber kuaför lavaboları, endüstriyel bataryalar, zaman ayarlı musluk, berber yedek parça ve hidrolikler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

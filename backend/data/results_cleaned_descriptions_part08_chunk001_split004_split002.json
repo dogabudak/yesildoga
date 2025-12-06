@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Javas Bs",
+    "description": "Javas Bs, Javas Bs Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri paraben, alkol ve slikon içermemektedir.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Federico Mahora",
+    "description": "Federico Mahora, 2007 yılında kurulmuş olan Fm World Spolka Z. O.O. bünyesinde üretilen parfüm markasıdır.Fm World Spolka Z. O.O. Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Muson Kozmetik",
+    "description": "Muson, 2020 yılında kurulmuş olan Muson Kozmetik Tic. Ltd. Şti. bünyesindeki yüz bakım, dudak, ten, göz makyajı ürünleri, makyaj aksesuarları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Levy",
+    "description": "Dr. Levy, 2012 yılında Phillip Levy tarafından kurulmuş olan Scientific Cosmeceuticals S.A. bünyesinde üretilen cilt bakımı, güzellik, kozmetik, dermatoloji ürünleri markasıdır.Scientific Cosmeceuticals S.A. İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Ellesse",
+    "description": "Ellesse, 1959 yılında kurulmuş olan ve 1994 yılında Pentland Brands plc’nin bir parçası olan spor giyim markasıdır.Pentland Brands plc İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

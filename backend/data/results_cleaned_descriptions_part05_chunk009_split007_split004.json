@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sayl",
+    "description": "Sayl, 2010 yılında kurulan Sayl Barcelona S.L. bünyesindeki soğutma ve ısıtma yapan dolaplar, tezgah üstü soğutucu dolaplar markasıdır.Sayl Barcelona S.L. İspanya merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Mobile Legends",
+    "description": "Mobile Legends, 2014 yılında Yuan Jing ve Xu Zhenhua tarafından kurulan Shanghai Moonton Technology Co. Ltd. bünyesinde üretilen mobil oyun markasıdır.Shanghai Moonton Technology Co. Ltd. 2021 yılında Çin merkezli ByteDance Ltd. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Akorn",
+    "description": "Akorn, 1971 yılında kurulan Akorn Inc. bünyesinde üretilen jenerik ve reçeteli ilaçların yanı sıra hayvan ve tüketici sağlığı ürünleri markasıdır.Akorn Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Omix Mobile",
+    "description": "Omix Mobile, 2021 yılında kurulan Omix Mobile Technologies Pte. Ltd. bünyesindeki akıllı telefon, kablosuz kulaklık ve tablet markasıdır.Omix Mobile Technologies Pte. Ltd. Singapur merkezlidir. Türkiye’de Omix Mobil Teknoloji A.Ş. olarak faaliyet göstermektedir. Tuzla OSB’de üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Avaya",
+    "description": "Avaya, 2000 yılında kurulan Avaya Inc. bünyesindeki telekomünikasyon ekipmanları markasıdır.Müşterilere dijital işyeri ve müşteri deneyimi altyapısı sunmak için bulut iletişimi ve çoklu bulut uygulama ekosistemine odaklanmaktadır.Avaya Inc. Amerika merkezlidir. 191 ülkede müşterilere hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

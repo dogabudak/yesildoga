@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Özbal Un",
+    "description": "Özbal Un Nerenin Malı MarkasıÖzbal Un, 1991 yılında Ökkaş Şahin Özbal tarafından kurulan Pak Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen ekmeklik, pastalık, tatlılık un markasıdır.Pak Gıda ürünlerini Gaziantep’te bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wyze",
+    "description": "Wyze, 2017 yılında Dave Crosby, Elana Fishman, Dongsheng Song, Yun Zhang tarafından kurulan Wyze Labs Inc. bünyesindeki kapalı sistem ev kamerası, kablosuz akıllı ev kamerası, gece görüşlü 2 yönlü kameralar, akıllı ev ürünleri markasıdır.Şirket, çok çeşitli akıllı ev güvenlik kameraları üretmekte ve dağıtmakta, ayrıca dalgalanma koruyucusu, SD kartlar, kamera montaj kiti ve diğer ilgili aksesuarları sunmaktadır.Wyze Labs Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Belkıs Bulgur",
+    "description": "Belkıs Bulgur Nerenin Malı MarkasıBelkıs, 1978 yılında kurulan Özsarı Gıda San. ve Tic. Paz. Ltd. Şti. bünyesinde üretilen bulgur markasıdır.Bulgurları, Anadolu’da yetişen Durum Buğdayından üretilmektedir.Özsarı Gıda 50 bin metrekarelik alanda bulunan 20 bin metrekarelik kapalı alanda Bulgur, Kırmızı Mercimek ve bakliyat üretmekte ve 30 ülkeye ihraç etmektedir.ISO 9001, ISO 22000 belgelerine sahiptir.Bünyesindeki markalar;Ahmet SarıAzimBahattin SarıBaş TaneBelkısBelkıs BaklavaBelkıs Yöresel Köy ÜrünleriBizim KöyünBulgurgerHayri SarıHedikoKöyÖzsarıÖzsarılarPilavımSahraSahrabesinSarılarSarılar ÇiftliğiSarılaroğluSarızadeSırZeugmaZeugma Antik",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pırlanta Bakliyat",
+    "description": "Pırlanta, 1991 yılında kurulan Tekinler Dış Tic. Ltd. Şti. bünyesinde üretilen bakliyat ve hububat markasıdır.Ürünlerini Avrupa, Kuzey ve Güney Amerika, Kuzey Afrika ve Ortadoğu ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Roversan",
+    "description": "Roversan, 1980 yılında kurulan Roversan İnşaat Petrol Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen meyve aromalı toz içecek, 3in1 kahve ve kahve çeşitleri, zeytinyağı, ayçiçek yağı markasıdır.Bünyesindeki markalar;BrawaliBrawoo DreamFruttidreamKeïtaNewNurhaRoversanRoversan Fresh DrinkShirino",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

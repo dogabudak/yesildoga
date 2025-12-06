@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Bautech",
+    "description": "Bautech, 1992 yılında kurulan Bautech Sp. z o.o. bünyesindeki endüstriyel ve dekoratif zemin markasıdır.Bautech Sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Tytan",
+    "description": "Tytan Professional, 1992 yılında kurulan Selena Group bünyesinde üretilen poliüretan köpükler, montaj köpükleri, silikonlar, akrilikler, montaj yapıştırıcıları ve özel bitüm kütleleri, su yalıtımı, çatı malzemesi, bitüm zona ürünleri markasıdır.ISO 9001 belgesine sahiptir.Selena Group, Polonya merkezlidir. Grup, 17 ülkede 35 şirketten oluşmaktadır. Grubun üretim tesisleri Polonya, Brezilya, Güney Kore, Çin, Romanya, Türkiye, İspanya ve Kazakistan’da bulunmaktadır. Türkiye’de Selena Yapı Malzemeleri San. Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Menzerna",
+    "description": "Menzerna, 1888 yılında kurulan Menzerna Polishing Compounds Gmbh & Co. Kg bünyesinde üretilen endüstriyel parlatma macunları markasıdır.Menzerna Polishing Compounds Gmbh & Co. Kg Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mann Filter",
+    "description": "Mann Filter, 1941 yılında kurulan Mann+Hummel Gmbh bünyesindeki hava filtresi, yağ filtresi, yakıt filtresi, kabin filtresi ve diğer filtreler markasıdır.Mevcut olan tüm motor türleri ve makineler için tam bir filtre ürün yelpazesi sunmaktadır. Endüstriyel filtreler, iş ve tarım makineleri için de küresel standartlar getirir.Mann+Hummel Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Movado",
+    "description": "Movado, 1881 yılında kurulan Movado Group, Inc. bünyesindeki saat markasıdır.Movado Group, Inc. 1983 yılında Amerika merkezli North American Watch Corp. tarafından satın alındı ve firma adını 1996 yılında şimdiki adına dönüştürdü.ConcordEbelMVMTMovadoOlivia Burton",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-03-22"
+  }
+]

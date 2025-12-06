@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Atelier des Ors",
+    "description": "Atelier des Ors, 2013 yılında Jean-Philippe Clermont tarafından kurulan parfüm markasıdır.Haute Parfumerie‘nin kokularından ilham alan Atelier Des Ors özel ve butik bir Fransız markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Prestcold",
+    "description": "Prestcold, 1934 yılında Pressed Steel Co. Ltd. tarafından kurulan ticari ve endüstriyel soğutma ekipmanları markasıdır.Şirketin adı değiştirilerek Prestcold Ltd. oldu.Prestcold 1981 yılında İngiltere merkezli çeşitli bir mühendislik ve kimya şirketi olan Suter plc tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Chryso",
+    "description": "Chryso, 1942 yılında kurulan Chryso SAS bünyesinde üretilen çimento katkı maddeleri markasıdır.Hazır beton, çimento, beton kimyasalları üretmektedir. 22 yan kuruluş, dağıtıcı ve lisans ağı aracılığıyla 100 ülkede faaliyet göstermektedir.Türkiye ile birlikte 14 ülkede doğrudan üretim tesislerine sahiptir. Türkiye’de 1994 yılından beri Chryso-Kat Katkı Malzemeleri San. ve Tic. A.Ş. olarak faaliyet göstermektedir.Chryso SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Berluti",
+    "description": "Berluti, 1895 yılında Alessandro Berluti tarafından kurulan Berluti SA bünyesindeki hazır giyim, ayakkabı, çanta, cüzdan ve aksesuarlar markasıdır.Berluti SA, dünyanın en büyük lüks tüketim malları üreten gruplarından Fransa merkezli LVMH tarafından 1993 yılında satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Fred",
+    "description": "Fred Paris Joaillier, 1908 yılında Fred Samuel tarafından kurulan mücevher ve saat markasıdır.Fred Joaillier’in Fransa, Monako, Japonya ve Güney Kore’de butikleri bulunmaktadır.1995 yılında Fransa merkezli LVMH grubuna katıldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2020-11-10"
+  }
+]

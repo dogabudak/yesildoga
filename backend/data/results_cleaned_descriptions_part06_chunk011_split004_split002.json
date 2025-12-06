@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Nihon Kohden",
+    "description": "Nihon Kohden, 1951 yılında Yoshio Ogino tarafından kurulan Nihon Kohden Corporation bünyesinde üretilen elettroensefalografi, elektromiyografi, elektrokardiyografi ve hastalar için monitör bilgi sistemlerini içeren tıbbi elektronik ekipmanlar markasıdır.Nihon Kohden Corporation Japonya merkezlidir ve ürünleri 120’den fazla ülkede kullanılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Manu Atelier",
+    "description": "Manu Atelier, 2014 yılında Beste ve Merve Manastır tarafından kurulan Manu Atelier Deri Ürünleri Tekstil San. ve Tic. Ltd. bünyesinde üretilen el yapımı deri çanta markasıdır.Yeşim Çanta bünyesindeki firma İstanbul merkezlidir. Ürünleri 24 ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Spy Dome Kamera",
+    "description": "Spy, 2002 yılında kurulan Han Elektronik Bilgisayar ve Güvenlik Sistemleri San. Tic. A.Ş. bünyesindeki güvenlik kameraları, kayıt cihazları, network ürünleri, mobil sistemler, hırsız alarm sistemleri, yangın alarm sistemleri, fiber optik sistemler markasıdır.TSE, ISO 9001, ISO 10002 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Smartmi",
+    "description": "Smartmi, 2017 yılında kurulan Beijing Smartmi Technology Co. Ltd. bünyesinde üretilen hava temizleyici, vakum robotu, akıllı nemlendirici, ayaklı fan ve grafen ısıtıcı, paket ve filtreler markasıdır.Beijing Smartmi Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alpa Un",
+    "description": "Alpa Un, 1950 yılında kurulan Altınapa Değirmencilik Tic. ve San. A.Ş. bünyesinde üretilen böreklik, baklavalık, ekmeklik, elekaltı-tandırlık, lavaşlık, pidelik, pizzalık, sandviçlik, tostluk, yufkalık unlar markasıdır.FCSS 22000, ISO 22000, ISO 9000, ISO 9001, TSE ve GİMDES helal belgelerine sahiptir.Altınapa Değirmencilik A.Ş. 2001 yılında Eksim Yatırım Holding bünyesine katılmıştır.İstanbul merkezli firma ürünlerini Konya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

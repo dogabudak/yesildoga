@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Trucktec",
+    "description": "Trucktec, 1989 yılında kurulan Trucktec Automotive Gmbh bünyesinde üretilen otomotiv parçaları markasıdır.Fren disklerinden hava şeritlerine kadar tüm popüler parçaları üretmektedir.Trucktec Automotive Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Strivectin",
+    "description": "Strivectin, 2002 yılında kurulan StriVectin Operating Company, Inc. bünyesindeki cilt bakımı ve saç bakımı ürünleri markasıdır.StriVectin Operating Company, Inc. Amerika merkezlidir. StriVectin ürünleri çevrimiçi olarak ve Kuzey Amerika, Avrupa, Orta Doğu ve Asya’daki mağazalar ve özel perakendeciler aracılığıyla satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Utah",
+    "description": "Utah, 2011 yılında Pınar Aktuğu tarafından kurulan Aktuğu Kozmetik bünyesinde üretilen saç bakım ürünleri markasıdır.Firma kişisel bakım, kozmetik ve saç bakım ürünleri üretmektedir.Bünyesindeki markalar:BioflexUTAHLisa Bella",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SkinClinic",
+    "description": "Skinclinic, 2009 yılında kurulan Carmado S.L. bünyesinde üretilen cilt ve saç bakım ürünleri markasıdır.Carmado S.L. İspanya merkezlidir ve ürünlerini İspanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2021-01-03"
+  },
+  {
+    "company": "Hisar Su",
+    "description": "Hisar, 1993 yılında kurulan Hisar Doğal Kaynak Su A.Ş. bünyesinde üretilen kaynak suyu markasıdır.İstanbul Belgrad ormanları içerisinde 20 bin metrekarelik fabrikasında üretim yapmaktadır.Ürünlerini 25’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar:ELVİNHİSARNİCESERİN",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

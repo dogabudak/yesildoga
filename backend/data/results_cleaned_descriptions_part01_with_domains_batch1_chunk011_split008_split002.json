@@ -1,0 +1,46 @@
+[
+  {
+    "company": "iPhone",
+    "description": "iPhone, 2007 yılında Apple Şirketi tarafından üretilen akıllı telefon markasıdır.iPhone markalı telefonlar Çin’de üretilmektedir.Apple 1976 yılında Steven Paul Jobs tarafından kurulan; tüketici elektroniği ürünleri ve kişisel bilgisayar tasarlayan, geliştiren, bilgisayar yazılımı üreten ve satan çok uluslu bir Amerikan şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Claas Traktörü",
+    "description": "Claas, 1913 yılında kurulan CLAAS KGaA mbH bünyesindeki iş ve tarım makineleri markasıdır.İş ve Tarım Grubu; bünyesinde iş makinaları, traktör, tarım makinaları ve forklift gibi ürünler yer almaktadır.CLAAS KGaA mbH Almanya merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-12-27"
+  },
+  {
+    "company": "Mikro ve Zirve Yazılım",
+    "description": "Mikro ve Zirve Yazılım, 1988 yılında kuruldu. Mikro Yazılım ürün ve hizmetleri Türkiye ve yabancı ülkelerde; otomotiv, dağıtım, inşaatt, üretim ve perakende gibi her sektörde 100 bine yakın işletme tarafından kullanılıyor. Türkiye’nin en büyük ikinci ve üçüncü ticari iş yazılım firmalarıdır.2017 yılında Mikro ve Zirve Yazılım özel bir girişim sermayesi olan Turkven tarafından satın alındı.Turkven Hissedarları;IFC (Dünya Bankası Grubu’nun bir parçası)Avrupa Kalkınma ve Yeniden Yapılandırma Bankası (EBRD)EIB (Avrupa Yatırım Bankası)Hollanda merkezli kalkınma bankası FMOAlmanya Kalkınma BankasıGoogle’ın eski CEO’su, şu anki grup başkanı Eric Schmidt de ortaklar arasında yer alıyor.Turkven, aynı zamanda dünya çapında 6 milyar dolar üzerinde fon yöneten, Amerikan merkezli Advent International Corporation’un Türkiye’deki münhasır ortağıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Tastech",
+    "description": "Tastech, 2009 yılından beri Öztaş Elektronik bünyesindeki elektronik ürünler ve elektronik ürünlere ait CD, DVD ile bunların kutularının ve kulaklıklarının markasıdır.Yerli sermayeli Öztaş Elektronik bünyesindeki Tastech markalı ürünler Çin’de üretilmektedir.Öztaş Elektronik markaları:CarboonTastech",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fellas Gıda",
+    "description": "Fellas 2015 yılında Mustafa Can Gider ve Gamze Kavaz tarafından kurulan FELLAS Gıda ve Sağlık Ürünleri San. ve Tic. A.Ş. bünyesindeki atıştırmalık kuru et ve fonksiyonel atıştırmalık bar ürünleri markasıdır.Yerli sermayeli şirketin ürünleri yüzde 100 doğal, katkısız, koruyucusuz, şekersiz ve glutensiz olarak üretiliyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

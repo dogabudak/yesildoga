@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Amity Mama",
+    "description": "Amity, 2008 yılında dört şirketin birleşmesiyle kurulmuş olan Alinatur Petfood SL bünyesinde üretilen evcil hayvan yemleri markasıdır.Tahılsız, glutensiz, tamamı doğal hammaddeler kullanmaktadır.Alinatur Petfood SL İspanya merkezlidir.Bünyesindeki markalar;AmityBravery",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Comap",
+    "description": "Comap, 1991 yılında kurulmuş olan Comap A.S. bünyesindeki enerji üretimine akıllı enerji kontrolü için denetleyiciler, uzak ekranlar, aksesuarlar, şalt kontrol ve korumaları markasıdır.Comap A.S. Çek Cumhuriyeti merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Redtape Ayakkabı",
+    "description": "Redtape, 1996 yılında kurulmuş olan Redtape Limited bünyesindeki ayakkabı, gömlek, tişört, pantolon, kazak, ceket, kemer, çorap, cüzdan markasıdır.Redtape Limited Hindistan merkezlidir ve ürünlerini 37 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Penguin Original Paints",
+    "description": "Penguin Original Paints, 1995 yılında Caspi-Marine Technologies MMC bünyesinde kurulmuş olan boya, mantolama, yapı kimyasalları, beton katkı maddeleri, epoksi uygulamaları markasıdır.Caspi-Marine Technologies MMC Azerbaycan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Toya Hamur Makineleri",
+    "description": "Toya, 1976 yılında kurulmuş olan Toya Makina San. ve Tic. A.Ş. bünyesindeki hamur hazırlama makineleri, hamur İşleme makineleri, pişirme üniteleri, paketleme üniteleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;1976 Toya MakineÇevrişFortunaKesçevirKestartKwik Lok KlLa ParmigianaMayamakMimacPeçkoPeçkoarPeçko-KatlıSns 1936 YTartkesToyaUnelYeni KestartZanolli",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

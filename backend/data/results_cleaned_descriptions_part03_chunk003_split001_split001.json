@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Phonak",
+    "description": "Phonak, 1947 yılında kurulan Sonova Holding AG bünyesindeki işitme cihazları markasıdır.En yeni ana teknolojiler AutoSense OS ve Phonak şarj edilebilir teknoloji kullanmaktadır. Pediatrikten derin işitme kaybına kadar, sosyal ve duygusal olarak gelişmek için insanların hayatlarını değiştiren işitme çözümleri üretmedir.İsviçre merkezli Sonova Holding AG küresel işitme cihazı pazarının yüzde 24’ünü elinde tutmaktadır.Ürünleri İsviçre, Çin ve Vietnam’da bulunan üretim tesislerinde üretilmektedir ve 90’dan fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Thin Think",
+    "description": "Thin Think, 2008 yılında Op. Dr. Adem YÜCEL tarafından kurulan Er-Ilgaz Endüstriyel Makina Gıda Ürünleri İnşaat Botanik Taşımacılık İthalat İhracat Tic. Ltd. Şti. bünyesindeki katkısız düşük kalorili ve tuz, transyağ içermeyen ürünler markasıdır.Obezite ile mücadele de kullanılabilecek ürünler obeziteye eşlik eden diyabet ve tansiyon hastalarınıda düşünerek üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Harman Gofret",
+    "description": "Harman Gofret, 1974 yılında Abdullah Evgin tarafından kurulan Eva Gıda bünyesindeki gofret markasıdır.Ürünlerinde hiçbir katkı maddesi ve koruyucu içerik kullanılmamaktadır ve yüzde 100 pancar şekerinden üretilen hammadde kullanılmaktadır.Karaman OSB’de toplam 10 bin metrekarelik alanda bulunan 4 bin metrekarelik kapalı alanda gofret üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Naya Wafers",
+    "description": "Naya Wafers, 1996 yılında Anton Tanev ve Georgi Georgiеv tarafından kurulan Prestige 96 Ltd. bünyesinde üretilen çok çeşitli bisküvi, gofret ve sünger kek markasıdır.2012 yılında, özel sermaye fonları Amerika merkezli TRG Management LP ve İngiltere merkezli Stage Capital tarafından satın alındı.Ürünlerini Bulgaristan’da bulunan fabrikasında üretmektedir. Dünya çapında 25’ten fazla ülkede satılmaktadır. Türkiye’de Efenil Gıda tarafından ithal edilmektedir.ISO 22000, ISO 9001, IFS ve Bulgaristan HALAL sertifikalarına sahiptir.Ürünlerinde palm yağı, doğal aroma verici, renklendirici, peynir altı suyu tozu, patates nişastası, mısır nişastası, asitlik düzenleyici, kolza lesitini gibi katkı maddeleri bulunmaktadır.",
+    "documents": [
+      "IFS",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Erciyes Gofret",
+    "description": "Erciyes Gofret, 1994 yılında Yaşar Okumuşer tarafından kurulan Yaşar Erciyes Gofret bünyesinde üretilen gofret ve helva markasıdır.Tahin helvası yapımında kayseri şekeri, su ve sitrik asit katılarak 40 çeşit helva üretilmektedir.Gofret gluten içerir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

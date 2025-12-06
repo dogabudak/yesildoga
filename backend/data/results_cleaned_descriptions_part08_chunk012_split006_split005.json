@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Five Guys",
+    "description": "Five Guys1986 yılında Jerry ve Janie Murrell tarafından kurulmuş olan Five Guys Enterprises LLC bünyesindeki restoran ziciri markasıdır.Hamburger, sosisli sandviç ve patates kızartmasına odaklanmaktadır.Five Guys Enterprises LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Goya Foods",
+    "description": "Goya Foods1936 yılında kurulmuş olan Goya Foods Inc. bünyesindeki gıda maddeleri markasıdır.Ürün yelpazesinde içecekler, şekerleme, atıştırmalıklar ve kurabiyeler, baharatlar, deniz ürünleri ve et, dondurulmuş hazır yemek, dondurulmuş malzemeler, empanada hamuru, fasulye ve tahıllar, kiler eşyaları, organik ürünler, pişirme bazları ve turşular, pirinç, süt ve şarküteri, soslar ve salçalar, unlar, yağlar, zeytin ve kapari yer almaktadır.Goya Foods Inc. Amerika merkezlidir. Amerika, Dominik Cumhuriyeti ve İspanya’da tesisleri vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fera Coffee",
+    "description": "Fera Coffee2022 yılında Konbeltaş Konya İnşaat Taşımacılık Hizmet Danışmanlık ve Park İşletmeciliği ve Elektrik Üretim A.Ş. bünyesinde kurulmuş olan kahve dükkanları markasıdır.Konbeltaş A.Ş. Konya Büyükşehir Belediyesi iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Loris Parfum",
+    "description": "Loris Parfum2006 yılında kurulmuş olan Okuyucular Gıda Kozmetik Turizm Tic. ve San. Ltd. Şti. bünyesindeki parfüm, oda kokusu, araç kokusu markasıdır.Dünya çapında 400’den fazla mağazaya sahiptir.Firma Kocaeli merkezlidir. Ürünlerini Gebze’deki üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sauflon",
+    "description": "Sauflon1985 yılında kurulmuş olan Sauflon Pharmaceuticals Ltd. bünyesindeki kontakt lens ve solüsyonlar markasıdır.Sauflon Pharmaceuticals Ltd. 2014 yılında Amerika merkezli The Cooper Companies Inc. tarafından satın alınmıştır. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

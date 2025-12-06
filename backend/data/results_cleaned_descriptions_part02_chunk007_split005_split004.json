@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mopak",
+    "description": "Mopak, 1926 yılında Mehmet Ali Molay tarafından kurulan Mopak Kağıt-Karton Sanayi ve Ticaret A.Ş. bünyesindeki kağıt ve karton markasıdır.Fotokopi kağıdı, okul defteri, mukavva kağıdı, kuşeli karton, kuşeli kağıt, selüloz, sigara ve filtre uç kağıdı, Deinking ve OCC hatlarıyla atık kağıt üretmektedir.Yüzde 100 Türk sermayesiyle Mopak Grup, bugün Ortadoğu ve Balkanlar’ın en büyük kağıt ve karton üreticisidir. Ürünlerini 36 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Le coq sportif",
+    "description": "Le coq sportif, 1882 yılında Emile Camuset tarafından kurulan ayakkabı, şort, tişört, spor çorabı ve çeşitli spor malzemeleri markasıdır.70’ten fazla ülkede bulunan markanın 20’si Fransa’da olmak üzere 62 mağazası bulunmaktadır.Le coq sportif Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Forte Battery",
+    "description": "Forte Battery, 2001 yılında kurulan Wuhan Forte Battery Co., Ltd. bünyesindeki lityum tiyonil klorür, lityum manganez dioksit manganez birincil pilleri, nikel-metal hidrit, nikel-kadmiyum şarj edilebilir piller, lityum-iyon piller ve ilgili pil bileşenleri markasıdır.Wuhan Forte Battery Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vi-Vet",
+    "description": "“Vi Vet“1999 yılında kurulmuş olan Vi-Vet Kozmetik San.Tic. A.Ş. bünyesinde üretilen ılık ağda, ağda bezi, ağda ve epilasyon sonrası bakım jeli, dilimli ağda bezi, el ağdası, el ve vücut losyonu, granül sir el ağdası, roll-on ağda ısıtıcı seti, roll-on sir ağda, sir ağda, sir ağda ısıtıcı set, sir ağda bant setleri, sir ağda temizleme mendili, sir el ağdası folyo, siyah soğuk ağda, soğuk ağda, tüy dökücü kremler, sprey, tüy sarartıcı krem, temizleme ve masaj yağı, vazelin markasıdır.Firma İstanbul merkezlidir. Ürünlerini İkitelli OSB’de bulunan 6 bin metrekarelik tesisinde üretmektedir ve birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;Vi-VetVi-Vax",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-08-22"
+  },
+  {
+    "company": "Uniroyal",
+    "description": "Uniroyal, 1966 yılında Uniroyal Goodrich Tire Company bünyesinde kurulan araç lastiği markasıdır.Uniroyal Goodrich Tire Company, 1990 yılında Fransa merkezli Michelin (Compagnie Generale des Etablissements Michelin SCA) tarafından satın alındı.Michelin’in çok sayıda Avrupa ülkesinde, Çin, Amerika ve Rusya’da üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

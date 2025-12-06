@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Organic Colour Systems",
+    "description": "Organic Colour Systems, 1990 yılında kurulan Organic Colour Systems Ltd. bünyesindeki organik ve doğal saç bakım ürünleri markasıdır.Ürün içeriğinde organik maddeler fazla miktarda, kimyasallar az miktardadır.Organic Colour Systems Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Omniplex",
+    "description": "Omniplex, 1973 yılında kurulan Farmavita s.r.l. bünyesindeki saç bakım ürünleri markasıdır.Kendi fabrikasında üretttiği ürünlerini Ar-Ge laboratuvarında formüle ederek geliştirmesini yapmaktadır. Farmavita 40’tan fazla ülkede faaliyet göstermektedir.Farmavita s.r.l. İtalya merkezlidir.Bünyesindeki markalar:Argan Oil AbsoluteArgan SublimeK.LissLinea AmethysteLinea Back BarOmniplexOnely",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "1more",
+    "description": "1more, 2013 yılında kurulan 1more Inc. bünyesindeki tüketici ses elektroniği, kulak üstü kulaklıklar, kulak içi kulaklıklar, çoklu sürücüler, üçlü sürücüler, dört sürücüler, bluetooth, aktif gürültü kesici, apple lightning markasıdır.ABD, Kanada, İngiltere, Almanya, İtalya, İspanya, Yunanistan, Avustralya, Kore, Japonya, Singapur, Malezya, Endonezya, Hindistan ve Vietnam dahil olmak üzere 26 ülke ve bölgeye ulaşmaktadır.1more Inc. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hejalux",
+    "description": "Hejalux, LEDVANCE GmbH bünyesinde yer alan Osram GmbH tarafından üretilen araba, kamyon, motosiklet aydınlatma ürünleri markasıdır.Osram GmbH, 2016 yılında Çinli konsorsiyum (IDG Capital, Çin aydınlatma şirketi MLS Co., Ltd. ve finansal yatırımcı Yiwu Devlet Varlıkları Operasyon Merkezi) tarafından satın alındı. Ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kasei",
+    "description": "Kasei, 1951 yılında kurulan Shandong Huasheng Pesticide Machinery Co., Ltd bünyesinde üretilen püskürtme tankı, fırça kesici, benzinli motor, santrifüj pompa, tarım makineleri, harman makinesi, tarım için su pompası, ağaç dikim makinesi, testere makinesi, kar sabanı markasıdır.Shandong Huasheng Pesticide Machinery Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir. ISO 9001, ISO14001 ve SA8000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "ISO14001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

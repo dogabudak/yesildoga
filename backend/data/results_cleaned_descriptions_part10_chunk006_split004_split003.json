@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Ziya Dede",
+    "description": "2021 yılında kurulmuş olan Atom Çay Gıda Tar. Loj. İnş. San. ve Tic. Ltd. Şti. bünyesinde üretilen bitki çayları markasıdır.Hiçbir katkı maddesi içermemektedir. Tarçın, karanfil, havlıcan, zerdeçal, zencefil, yenibahar, kuşburnu, hibiskus içermektedir.Firma Mersin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Simyi",
+    "description": "1996 yılında kurulmuş olan Shanghai Simyi Auto Parts Industry Co. Ltd. bünyesinde üretilen otomobil parçaları, otomatik, motosiklet parçaları ve aksesuarları, endüstriyel ekipman ve bileşenler markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Shanghai Simyi Auto Parts Industry Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Aniqnaturals",
+    "description": "2011 yılında kurulmuş olan Karina Yazılım Elektronik İnşaat Gıda Danışmanlık Sağlık ve Medikal Ürn. İth. İhr. San. ve Tic. Ltd. Şti. bünyesindeki vitaminler, omega 3 ve balık yağları, bitkisel ürünler, gıda takviyeleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Imprime Parfüm",
+    "description": "2024 yılında kurulmuş olan Evlylab360 Kozmetik Paz. Tic. A.Ş. bünyesindeki parfümler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Why not",
+    "description": "2020 yılında kurulmuş olan Dıypaint Boya ve Dekorasyon San. Tic. Ltd. Şti. bünyesinde üretilen koruyucu örtü, maskeleme bandı, su bazlı sıvı cam, tavan boyası, multisurface markasıdır.Firma Tekirdağ merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Toy Color",
+    "description": "Toy Color, 1996 yılında kurulan Pasuto Srl bünyesinde üretilen suluboya, boya, keçeli kalem, yapıştırıcı, modelleme kili, akrilik, boya ve aksesuarlar markasıdır.Pasuto Srl İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dental Tech",
+    "description": "Dental Tech, 1977 yılında kurulan Dental Tech S.R.L. bünyesinde üretilen diş implant sistemleri markasıdır.UNI EN ISO 9001, EN ISO 13485 belgelerine sahiptir.Dental Tech S.R.L. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Sunstar Dikiş Makinesi",
+    "description": "Sunstar, 1974 yılında kurulan K. Machine Industry Co. Ltd. bünyesinde üretilen dikiş makinesi, endüstriyel dikiş makinesi motorları ve bilgisayarlı nakış makinesi kontrol cihazları, otomatik iplik kesmeli dikiş makineleri markasıdır.Korea Machine Industry Co. Ltd. Güney Kore merkezlidir. Ürünlerini 150 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Owon",
+    "description": "Owon, 1993 yılında Fujian Lilliput Optoelectronics Technology Co. Ltd.’nin bir parçası olarak kurulan Owon Technology Inc. bünyesinde üretilen masaüstü dijital osiloskop ile kombine çalışan ağ, pil, karışık sinyal osiloskop, programlanabilir güç kaynakları, doğru akım jeneratörleri markasıdır.ISO 9001 belgesine sahiptir.Fujian Lilliput Optoelectronics Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sketchup",
+    "description": "Sketchup, 2001 yılında üretilen 3 boyutlu modelleme yazılımı markasıdır.Çok çeşitli çizim ve tasarım uygulamaları dahil olmak üzere, mimari, iç mimari, endüstriyel ve ürün tasarımı, peyzaj mimarlığı, inşaat ve makine mühendisliği, tiyatro, film ve video oyunu geliştirme gibi alanlarda kullanılmaktadır.Sketchup, 2012 yılında Amerika merkezli Trimble Inc. tarafından satın alınmıştır.Trimble, inşaat ve inşaat, tarım, coğrafi, doğal kaynaklar ve kamu hizmetleri, hükümetler, ulaşım ve diğer alanlarda küresel endüstrileri desteklemektedir. Ayrıca küresel navigasyon uydu sistemi (GNSS) alıcıları, tarayıcılar, lazerli telemetreler, insansız hava araçları (İHA) ve yazılım işleme araçlarının donanım geliştirmesini de yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

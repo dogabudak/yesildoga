@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mentorub",
+    "description": "2012 yılında kurulmuş olan Laboratorios Fc Pharma bünyesinde üretilen buharlaşan merhem markasıdır.Mentol, kafur ve okaliptüs içermektedir.Laboratorios Fc Pharma Venezuela merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Vuly Play",
+    "description": "2007 yılında Joe Andon tarafından kurulan Vuly Property Pty. Ltd. bünyesindeki basketbol potası sistemleri, eğlence trambolinleri, salıncak setleri, trambolin aksesuarları, trambolin parkları markasıdır.Vuly Property Pty. Ltd. Avustralya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Jkosmec",
+    "description": "2005 yılında kurulan Jk Tech Gmn Co. Ltd. bünyesinde üretilen nemlendirici cilt maskeleri markasıdır.Jk Tech Gmn Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Opalin",
+    "description": "2022 yılında kurulmuş olan Ankara Gözlük San. İth. İhr. Tic. Ltd. Şti. bünyesindeki optik gözlükler ve çerçeveleri markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Barkleys",
+    "description": "2013 yılında kurulmuş olan J.N.T.C. Trompenburg BV bünyesindeki klasik şekerli naneler, şekersiz mini naneler ve çikolata dolgulu naneler markasıdır.J.N.T.C. Trompenburg BV Hollanda merkezlidir.Bünyesindeki markalar;BarkleysDaybreakMontisseMyntzSure!",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

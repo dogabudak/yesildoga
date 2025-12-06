@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Brid",
+    "description": "Brid, A101 Yeni Mağazacılık A.Ş. adına Beyaz Kağıt ve Hijyenik Temizlik Ürünleri San. Tic. A.Ş. tarafından üretilen bulaşıl makinesi tuzu markasıdır.İstanbul merkezli firma ürünlerini Adana’da ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sumosu",
+    "description": "Sumosu, 2021 yılında kurulmuş olan Arcer Su Teknolojileri San. Tic. Ltd. Şti. bünyesindeki su arıtma cihazı, su arıtma sistemleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bering",
+    "description": "Bering, 2010 yılında kurulmuş olan Bering Time Aps bünyesindeki saat ve mücevherler markasıdır.Bering Time Aps Danimarka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Fimak Fırın",
+    "description": "Fimak Fırın Nerenin Malı MarkasıFimak, 1976 yılında kurulmuş olan Fimak Fırın Makinaları İmalat San. Tic. A.Ş. bünyesinde üretilen fırın makineleri markasıdır.Firma Konya merkezlidir. Ürünlerini Konya OSB’de bulunan 20 bin metrekaresi kapalı 45 bin metrekaresi açık alanda bulunan tesisinde üretmektedir ve ürünlerini 65 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İnvierno Barcelona",
+    "description": "İnvierno Barcelona, 2021 yılında kurulmuş olan Asmall Grup Turizm Organizasyon Danışmanlık San. ve Tic. Ltd. Şti. bünyesindeki cilt bakım kozmetikleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

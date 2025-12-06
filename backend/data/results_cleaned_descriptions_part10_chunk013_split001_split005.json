@@ -1,0 +1,44 @@
+[
+  {
+    "company": "The Ashk",
+    "description": "2014 yılında Narin Akçelik tarafından kurulmuş olan The Ashk Kozmetik Ltd. Şti. bünyesindeki kolonya, mum, oda kokusu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Minar",
+    "description": "2013 yılında kurulmuş olan Minar Mobilya San. ve Tic. Ltd. Şti. bünyesinde üretilen mobilya markasıdır.Firma Çanakkale merkezlidir. Ürünlerini 40 bin metrekarelik açık ve 32 bin metrekarelik kapalı alana sahip üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Quiltza",
+    "description": "Proper Emlak Yatırım Danışmanlığı Tic. ve San. Ltd. Şti. bünyesindeki çubuklu oda kokusu, duş jelleri, kolonyalar, nemlendirici el kremi, oda parfümleri, parfümler, tütsü, vücut losyonları yedek, refill kokuları, aksesuarlar markasıdır.Firma Antalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Visocor",
+    "description": "1890 yılında Wilhelm Uebe tarafından kurulmuş olan Uebe Medical Gmbh bünyesindeki kan basıncı ölçüm cihazları markasıdır.Uebe Medical Gmbh Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bank Mellat",
+    "description": "1980 yılında kurulmuş olan Bank Mellat Group bünyesindeki, finans ve bankacılık hizmetleri markasıdır.Bank Mellat Group İran merkezlidir. Türkiye’de Bank Mellat Türkiye A.Ş. olarak faaliyet göstermektedir. İstanbul, Ankara ve İzmir’de 3 şubeye sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  }
+]

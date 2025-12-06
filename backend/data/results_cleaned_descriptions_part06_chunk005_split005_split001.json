@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Wedze",
+    "description": "Wedze, 2006 yılında Decathlon S.A. bünyesinde üretilen spor giyim ürünleri, kayak, snowboard ve kızak markasıdır.Decathlon S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Bilkapen",
+    "description": "Bilkapen, 1999 yılında kurulan Bilka Pvc Profil A.Ş. bünyesinde üretilen pvc kapı ve pencere profili, pvc hazır kapı ve pencere, kompozit iç oda kapısı, nonwoven kumaş ve çanta, aluminyum doğrama ve cephe sistemleri markasıdır.Ankara merkezli firma ürünlerini 1.OSB’de üretmekte ve 23 ülkeye ihracat etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pletscher",
+    "description": "Pletscher, 1919 yılında kurulan Pletscher AG bünyesinde üretilen bisiklet parçaları markasıdır.Bisiklet aksesuarları için bisiklet rafları ve standları gibi bisiklet bileşenleri, bisikletin arkasındaki rafların ve çamurlukların sabitlenmesi için kullanılan plakalar üretmektedir.Pletscher AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Vimar Anahtar",
+    "description": "Vimar, 1945 yılında kurulan Vimar Spa bünyesinde üretilen elektrik sistemi için ürünler, görüntülü interkom, konut ve ticari otomasyon sistemi için ev otomasyonu, cctv, saklama kutuları ve tüketici üniteleri, fiş ve prizler, bileşenler, aydınlatma, acil durum aydınlatması yapısal kablolama ürünleri markasıdır.Vimar Spa İtalya merkezlidir. Ürünlerini İtalya’da üretmekte ve 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Nakin Natural Anti-Ageing",
+    "description": "Nakin, 2016 yılında Cris Beetham tarafından kurulan Nakin Ltd. bünyesinde üretilen doğal cilt bakım ürünleri, temizleyiciler, nemlendiriciler, göz kremleri, dudak ve yüz bakım kremleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. Petrokimyasallar, parabenler ve yapay renk ve koku gibi gereksiz ve sert bileşenler olmadan formüle edilmiştir.Nakin Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

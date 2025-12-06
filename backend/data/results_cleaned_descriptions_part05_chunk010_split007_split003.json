@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kyknos",
+    "description": "Kyknos, 1915 yılında Michail Manoussakis tarafından kurulan Kyknos A. E. bünyesinde üretilen meyve ve sebze konserveleri markasıdır.Domates salçası, püre, ketçap ve domates sosları üretmektedir. Tüm ürünleri GDO içermez, herhangi bir koruyucu veya yapay renklendirici içermez.Kyknos A. E. Yunanistan merkezlidir. Ürünlerini 15 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Artline",
+    "description": "Artline, 1968 yılında kurulan Shachihata Inc. bünyesindeki bağlayıcılar, klasörler, belge dosyaları, pullar, damgalar, ıstampa, yapışkan bantlar, mürekkepler, tebeşir, tutkal, boya fırçaları, işaretleme kalemleri, dolma kalem, tükenmez kalem, mekanik kurşun kalemler, ataç, silgiler, mektup açacakları, kalıp kağıtları, cetveller, rakor, kesici, yazı tahtaları, düzeltme sıvıları, düzeltme bantları gibi kırtasiye ürünleri markasıdır.Shachihata Inc. Japonya merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;ArtlineShachihataX Stamper",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Mkg Göbel",
+    "description": "Mkg Göbel, 1999 yılında kurulan Mkg Göbel Solutions Gmbh bünyesinde üretilen güneş enerjisi, fotovoltaik sistemler markasıdır.Açık alanda ve Endüstriyel çatılarda fotovoltaik sistemler tasarlar ve inşa eder. Dünya çapında binden fazla sistemler kurmuştur.Mkg Göbel Solutions Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Maldon",
+    "description": "Maldon, 1882 yılında kurulan Maldon Crystal Salt Company Ltd. bünyesinde üretilen tuz ve deniz tuzu markasıdır.Nehrin acı sularından doğal olarak oluşan tuz pullarını elle toplayan tuz üreticileri istihdam etmektedir.Maldon Crystal Salt Company Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Pyramis",
+    "description": "Pyramis, 1959 yılında Alexandros Bakatselos tarafından kurulan Pyramis Metallourgia A.E. bünyesindeki mutfak ürünleri, paslanmaz çelik lavabolar, kompozit lavabo, bataryalar, mutfak aletleri markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Pyramis Metallourgia A.E. Yunanistan merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  }
+]

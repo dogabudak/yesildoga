@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Staedtler",
+    "description": "Staedtler, 1835 yılında Johann Sebastian Staedtler tarafından kurulan Staedtler Mars GmbH & Co. KG bünyesindeki kalem markasıdır.Staedtler Mars GmbH & Co. KG, dünya çapında 20 küresel iştiraki ve 7 üretim tesisi bulunan bir Alman şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fujitel",
+    "description": "Fujitel, 1995 yılında kurulan FUJITEL grubu bünyesindeki elektronik ürünlerin markasıdır.Fujitel ürünleri; Dijital TFT-LCD TV, Dijital alıcı (DVB), Alıcı için dijital anten, Alıcı için dijital LNB, Alıcı için dijital DiSEqC, Alıcı için dijital kablolar, PMR ve DECT, Dijital arayan kimliği telefonlar, MP3 MP4 MP5 ve MP4 çalar gibi ürünlerden oluşmaktadır ve firma ürünlerini Çin merkezli şirketlerde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2018-12-06"
+  },
+  {
+    "company": "Afox",
+    "description": "Afox, 2008 yılında Afox Corporation Limited bünyesinde kurulan; grafik kartı, anakart, hafıza, SSD, işlemci soğutucusu, güç kaynağı, mini bilgisayar ve tablet bilgisayar markasıdır.Afox Corporation Limited, Hong Kong merkezli bilgisayar ürünleri üreten firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Bruno Magli Firmanın",
+    "description": "Bruno Magli , 1936 yılında küçük bir işletme olarak kurulan, erkek ve kadınlar için lüks ayakkabı ve deri mallar markasıdır.Bruno Magli markasının 2015 yılında tüm satın alma ve fikri mülkiyet hakları Amerikan merkezli Marquee Brands bünyesine geçti. Marquee şirketinin merkezi Amerika’da ancak ürünleri İtalya’da üretilmektedir.Marquee Brands Bünyesindeki markalar:BCBGMAXAZRIABCBGenerationBen ShermanBody GloveBruno Magli",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Generali",
+    "description": "Generali, 1831 yılında kurulan Generali Grubu Corporate Knights bünyesindeki sigorta markasıdır.Generali 60’ı geçen ülkede 420 uluslararası şirket ile faaliyetlerini sürdürmektedir.İtalyan merkezli Generali, Türkiye’de 1863 yılından beri (adı değişerek), Generali Sigorta A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

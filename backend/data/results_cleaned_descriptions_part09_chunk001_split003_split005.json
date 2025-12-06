@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kebtek",
+    "description": "Kebtek2013 yılında kurulmuş olan Shenzhen Yangzi Industry & Trade Co. Ltd. bünyesinde üretilen elektrikli bahçe el aletleri, el aletleri ve dış mekan ekipmanları markasıdır.Shenzhen Yangzi Industry & Trade Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Varens Beaute",
+    "description": "Varens Beaute1981 yılında kurulmuş olan Varens Beauté S.A.S. bünyesinde üretilen parfüm ve organik cilt bakım ürünleri markasıdır.Varens Beauté S.A.S. Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Mollis Islak Mendil",
+    "description": "Mollis2011 yılında kurulmuş olan Truva Seramik ve Kozmetik Tem. Paz. Nak. San. Tic. Ltd. Şti. bünyesinde üretilen ıslak mendil markasıdır.Firma Antalya merkezlidir ve ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İkizler Peynir",
+    "description": "İkizler1994 yılında kurulmuş olan İkizler Süt ve Süt Ürünleri Yem İnşaat Hayvancılık Nakliye San. ve Tic. Ltd. Şti. bünyesinde üretilen peynir, kaşar peynir, süt, yoğurtlar, tereyağı, ayran markasıdır.Firma Bolu merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ohuhu",
+    "description": "Ohuhu2010 yılında kurulmuş olan Yiwu Thousand Shores E-Commerce Co. Ltd. bünyesinde üretilen sanatsal boyalar, İşaretleyiciler, kalemler markasıdır.Yiwu Thousand Shores E-Commerce Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;ElechomesIceleverOhuhuSportneerTribit",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

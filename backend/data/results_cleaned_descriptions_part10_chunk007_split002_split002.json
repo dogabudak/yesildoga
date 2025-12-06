@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Beesline",
+    "description": "1993 yılında kurulmuş olan Beesline International Sal bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri doğal içeriklidir ve hayvanlar üzerinde test edilmemektedir.Paraben, parafin, SLS, alüminyum, silikonlar ve ftalatlar gibi zararlı kimyasalları içermez.ISO 9001, ISO 22716 belgelerine sahiptir.Beesline International Sal Lübnan merkezlidir. Ürünlerini 10’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "LB",
+    "updated_date": null
+  },
+  {
+    "company": "Bialabor Biaflex",
+    "description": "2005 Palmiye İlaç Kimya ve Gıda San. Tic. Ltd. Şti. bünyesindeki takviye edici gıda markasıdır.İstanbul merkezli firmanın yüzde 75 hissesi Orzaks İlaç ve Kimya San. Tic. A.Ş.’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bactovis",
+    "description": "2004 yılında kurulmuş olan Anti-Naturel Besin ve Bitkisel Destek Ürünleri San. ve Tic. A.Ş. bünyesindeki probiyotik markasıdır.Ürün hammaddesi Danimarka’dan ithal edilmektedir.ISO 9001, FSSC 22000, GMP belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Axis-y",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Afye",
+    "description": "2010 yılında kurulmuş olan Deva Destek Hizmetleri Kimya Sağlık Gıda İth. İhr. Tic. Ltd. Şti. bünyesindeki takviye edici gıdalar markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

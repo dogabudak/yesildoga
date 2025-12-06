@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Rimac Automobili",
+    "description": "Rimac Automobili, 2009 yılında Mate Rimac tarafından kurulan Rimac Automobili d.o.o. bünyesindeki elektrikli spor arabalar, elektrikli araba aktarma organları, araç sistemleri, akü sistemleri markasıdır.Rimac Automobili d.o.o. Hırvatistan merkezlidir.Rimac Automobili hisse dağılımı:Mate Rimac (yüzde 52,06) (Hırvatistan)Camel Group (yüzde 19,35) (Amerika)Porsche AG (yüzde 15,5) (Almanya)China Dynamics (yüzde 8,06) (Çin)New Automovile Development LLP (yüzde 4,84) (İngiltere)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2021-03-02"
+  },
+  {
+    "company": "Maxeurope",
+    "description": "Maxeurope, 2010 yılında kurulan Maxeurope Holding bünyesindeki bisiklet ve çocuk bakım ürünleri markasıdır.Maxeurope Bulgaristan merkezlidir.Bünyesindeki markalar:ChipolinoFerriniShockblazeSprintVelotec",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Sunedison Semiconductor",
+    "description": "Sunedison Semiconductor, 1959 yılında kurulan Sunedison Semiconductor Pte. Ltd. bünyesindeki gofret, polisilikon, yarı iletken gofret ve silikon markasıdır.Firmanın ABD, Avrupa ve Asya’da Ar-Ge ve üretim tesisleri bulunmaktadır.Semiconductor Pte. Ltd. Amerika merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kraussmaffei Technologies",
+    "description": "Kraussmaffei Technologies, 1838 yılında Joseph Anton von Maffei tarafından kurulan Krauss-Maffei Group bünyesindeki enjeksiyon kalıplama makineleri, plastik ekstrüzyon teknolojisi için makineler ve reaksiyon proses makineleri markasıdır.2016 yılında Çin merkezli China National Chemical Corporation tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Akamai Technologies",
+    "description": "Akamai Technologies, 1998 yılında Daniel Lewin, F. Thomson Leighton, Randall Kaplan, Jonathan Seelig tarafından kurulan Akamai Technologies, Inc. bünyesindek web ve Internet güvenlik hizmetleri sunan küresel bir içerik dağıtım ağı (CDN), siber güvenlik ve bulut hizmeti markasıdır.Şirket, dünyanın dört bir yanındaki sunucular ağını işletmektedir.Akamai Technologies, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

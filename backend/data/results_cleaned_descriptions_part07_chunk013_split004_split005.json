@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Carspa Inverter",
+    "description": "Carspa Inverter, 2005 yılında kurulmuş olan Zhejiang Carspa New Energy Co. Ltd. bünyesinde üretilen şarj cihazı ile invertör, dönüştürücü, güç çevirici, güneş sistemi, pv takım öğeleri, pil şarj cihazı, regüle güç kaynağı, solar şarj regülatörü markasıdır.Zhejiang Carspa New Energy Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Teknofiller",
+    "description": "Teknofiller, 1999 yılında kurulmuş olan İstanbul Teknik Boya ve Kimya San. Ltd. Şti. bünyesinde üretilen solvent içermeyen, iki bileşenli klasik epoksi macunu markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alnova Skincare",
+    "description": "Alnova Skincare, 1962 yılında kurulmuş olan Atomizer Kozmetik A.Ş. bünyesinde üretilen temiz içerikli cilt bakım ürünleri markasıdır.ISO 9001, Cosmetics GMP, HELAL, ISO 14000, ISO 45000 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14000",
+      "ISO 45000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mitanox",
+    "description": "Mitanox, 2009 yılında kurulmuş olan Mitanoks Baca Sistemleri San. Tic. Ltd. Şti. bünyesinde üretilen baca ve havalandırma sistemleri, izolasyon, sac kaplama, susturucu, filtre markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ReVive Skincare",
+    "description": "ReVive Skincare, 1872 yılında kurulmuş olan Shiseido Co. Ltd. bünyesindeki cilt bakım ürünleri markasıdır.Shiseido Co. Ltd. Japonya merkezlidir ve ürünlerini 120 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

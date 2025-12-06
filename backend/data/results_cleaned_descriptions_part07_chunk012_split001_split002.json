@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Elastic Lab",
+    "description": "Elastic Lab, 2019 yılında kurulmuş olan Elastic Lab Inc. bünyesinde üretilen cilt bakımı, güneş bakım ürünleri , kozmetik ve cilt bakımı, yüz bakımı , yaşlanma karşıtı ürünler markasıdır.Elastic Lab Inc. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.Bünyesindeki markalar;AnacellElastic LabElasticlab Skinguard",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Mıtsuyama",
+    "description": "Mıtsuyama, 2008 yılında kurulmuş olan Raider İthalat İhracat Dahili Ticaret bünyesinde ithal edilen tırpan, bahçe makineleri markasıdır.Ürünlerini Çin’den ithal etmektedir.Bünyesindeki markalar;DafuMıtsuyamaMarpexRaiderRangerRoy’sSilen Garden ToolsÖm-Ka Royal Garden Tools",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Labomat",
+    "description": "Labomat, 2016 yılında kurulmuş olan Laboory Kimya San. Tic. A.Ş. bünyesinde üretilen temizlik makineleri markasıdır.ISO 17025, ISO 22000 belgelerine sahiptir.Bünyesindeki markalar;LabomatLaboory",
+    "documents": [
+      "ISO",
+      "ISO 17025",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Belchloris",
+    "description": "Belchloris, 1999 yılında kurulmuş olan Ses Kimya Temizlik Ürünleri Gıda San. ve Tic. A.Ş. bünyesinde üretilen kozmetik, parfüm, kişisel bakım ve bebek bakım ürünleri, ev ürünleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini 28 ülkeye ihraç etmektedir.Bünyesindeki markalar;BelchlorisElvonsFunSallySes",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seluz",
+    "description": "Seluz, 2020 yılında kurulmuş olan Seluz Kimya Kozmetik Tic. ve San. A.Ş. bünyesinde üretilen koku markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

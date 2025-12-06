@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Lavazza",
+    "description": "Lavazza, 1895 yılında Luigi Lavazza tarafından kurulan Luigi Lavazza S.p.A. bünyesindeki kahve markasıdır. Geleneksel kahve içecekleri dışında bütün fasulye kahve ve öğütülmüş kahveyi de sunuyor.Lavazza; Brezilya, Kolombiya, Guatemala, Kosta Rika, Honduras, Uganda, Endonezya, Vietnam, Amerika, Meksika gibi ülkelerden kahve ithal etmektedir.İtalyan kahve üreticisi üretiminin yüzde 46’sını ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dolmar",
+    "description": "Dolmar, 1927 yılında Emil Lerp tarafından kurulan Dolmar Gmbh bünyesinde üretilen motorlu testereler, elektrikli ve termal çit düzelticiler, dairesel testereler, kırıcılar, yapraklar için elektrikli süpürgeleri, fırça kesiciler, çim biçme makineleri, çim traktörleri, kütük ayırıcı, metal kesme makinesi, koruyucu giysiler ve ormancılık araçları, aksesuarlar ve yedek parçaları markasıdır.Dolmar Gmbh, 1991 yılında Japonya merkezli Makita Corporation tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2022-01-18"
+  },
+  {
+    "company": "Pritt",
+    "description": "Pritt, 1876 yılında kurulmuş olan Henkel AG & Co. KGaA bünyesinde üretilen stick yapıştırıcı, düzeltici, kidsart, şerit düzeltici, kalem, boyama, oyun hamuru ve parmak boyası markasıdır.Henkel Ag & Co. Kgaa Almanya merkezlidir ve ürünlerini 38’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-11-17"
+  },
+  {
+    "company": "Schneider",
+    "description": "Schneider, 1836 yılında Eugene Schneider tarafından kurulan Schneider Electric SE bünyesindeki enerji yönetimi, otomasyon çözümleri, kapsayan donanım ve yazılım hizmetleri markasıdır. Aynı zamanda bir araştırma şirketidir.Evler, binalar, veri merkezleri, altyapı ve endüstriler için entegre şirket yönetimine olanak tanıyarak, tüm yaşam döngüsü boyunca dünyanın önde gelen süreç ve enerji teknolojilerini, uç noktadan bulut bağlantılı ürünlere, kontrollere, yazılımlara ve hizmetlere entegre ederek dijital dönüşümü yönlendirmektedir.Şirket, enerji yönetimi, otomasyon ve yazılımı birleştiren entegre verimlilik çözümleri sunmaktadır.Güç yönetimi – orta gerilim, alçak gerilim ve güvenli enerji ve otomasyon sistemlerinde 115’ten fazla ülkede bulunmaktadır.Ana Hissedarları:Schneider Electric SA Çalışan Hisse Senedi Sahiplik Planı (yüzde 3.57)The Vanguard Group Inc. (yüzde 2.52)Norges Bank Investment Management (yüzde 2.22)Schneider Electric S.E. (yüzde 2.19)MFS International Ltd. (yüzde 2.14)Massachusetts Financial Services Co. (yüzde 1.49)BlackRock Investment Management Ltd. (yüzde 1.47)Amundi Asset Management SA (yüzde 1.21)BlackRock Advisors Ltd. (yüzde 1.14)Capital Research & Management Co. (yüzde 1.07)Schneider Electric SE Fransa merkezli çokuluslu bir şirkettir.Bünyesindeki şirketler:7-TechnologiesABS EMEAAEM S.A.APCAPW President SystemsASCOAST ModularAndover ControlsAndromeda TelematicsAreva T&DAveva GroupBEI TechnologiesBerger – PositecCDI PowerCitectClipsalConzerv SystemsCrouzet AutomatismesDigilinkDigital Electronics CorporationEliwellFederal Pioneer LimitedInStep SoftwareInvensysJuno LightingKavlicoLarsen & ToubroLuminousM&C Energy GroupMGE UPS SystemsMeher CapacitorsMerlin GerinMertenModiconNu-Lec IndustriesOVA BargelliniPDLPelcoPower MeasurementSCADAgroupSolveIT SoftwareSquare DSummit EnergyTACTelemecaniqueTelventViconics ElectronicsViridityZicom Security Systems",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2022-05-02"
+  },
+  {
+    "company": "Whiskas",
+    "description": "Whiskas, 1936 yılında kurulan kedi maması markasıdır. Mars, Incorporated bünyesinde; teneke kutularda, torbalarda veya kuru etli bisküvi şeklinde satışı yapılmaktadır.Mars, Incorporated; şeker, sakız, draje, çikolata, içecek ve hayvan mamaları üreten Amerika merkezli çokuluslu bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

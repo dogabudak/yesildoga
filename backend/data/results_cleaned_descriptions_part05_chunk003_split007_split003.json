@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hoffmann",
+    "description": "Hoffmann, 1919 yılında Josef Hoffmann tarafından kurulan Hoffmann SE bünyesindeki alet, ekipman ve kişisel koruyucu ekipmanları markasıdır.Hoffmann Grubu’nun temel işi metal işleme için aletlerin üretimidir. Buna göre, metallerin işlenmesi, delinmesi, tornalanması, sıkıştırılması, ölçülmesi ve öğütülmesi için bir dizi alet sunulmaktadır. Ek olarak, atölye dolapları, atölye arabaları, çalışma tezgahları, kişisel koruyucu ekipman ve el aletleri gibi tesisler bulunmaktadır.Hoffmann SE Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Oliptek",
+    "description": "Oliptek, 2008 yılında kurulan Dijital Mühendislik Hizmetleri San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen led tabanlı görsel mesaj sistemleri, otomasyon sistemleri, görüntüleme çözümleri, dijital elektronik yazılım ve donanım markasıdır.Ürünleri yerli üretimdir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Akyurt",
+    "description": "Akyurt, 1955 yılında kurulan Akyurt Süpermarket Gıda İnş. San. Tic. A.Ş. bünyesindeki perakende markasıdır.Ankara merkezli firma Besi Çiftliği ile tesislerinde kırmızı et üretmektedir.Ankara da 38, Konya da 2 olmak üzere toplam 40 mağaza ile faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Moremo",
+    "description": "Moremo, 1965 yılında kurulan Sewha P&C Inc. bünyesinde üretilen saç kozmetik ürünleri markasıdır.Firma şampuan, saç kremi, saç jeli, saç derisi koruyucu, saç boyası, kına gibi saç ürünleri üretmektedir.Sewha P&C Inc. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir. Ürünlerini 40 ülkeye pazarlamaktadır.Bünyesindeki markalar;B-happyBomigen color powderHi-speedyMoremoRichennaSewha",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Alexrims",
+    "description": "Alexrims, 1987 yılında kurulan Alex Global Technology Inc. bünyesinde üretilen jant, alaşım, lastik ve aksesuarlar markasıdır.Alex Global Technology Inc. Tayvan merkezli alüminyum ürün üreticisidir. Ürünlerini Çin’de bulunan fabrikalarında üretmektedir.ISO 9001 ve ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

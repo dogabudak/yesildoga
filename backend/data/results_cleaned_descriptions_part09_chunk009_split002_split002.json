@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Montauk Cookies",
+    "description": "““1993 yılında kurulmuş olan Pf Brands Inc. bünyesinde üretilen kurabiyeler markasıdır.Ürünleri soya, fruktoz, mısır nişastası içermektedir.Pf Brands Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Toocki",
+    "description": "“Toocki“2015 yılında kurulmuş olan Shenzhen Toocki Network Technology Co. Ltd. bünyesinde üretilen araç şarj cihazı, otg adaptör, usb şarj cihazı, veri kablosu markasıdır.Shenzhen Toocki Network Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Goodday",
+    "description": "“Goodday“2017 yılında kurulmuş olan Eleve İlaç San. ve Tic. A.Ş. bünyesindeki vitamin, mineral ve takviye edici gıdalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "WaspCo",
+    "description": "“WaspCo“2018 yılında kurulmuş olan Wasp Gıda ve Sağlık Ürünleri San. ve Tic. A.Ş. bünyesindeki protein barlar markasıdır.ISO 9001, ISO 22000, Helal ve GMP belgelerine sahiptir.Firma Kocaeli merkezlidir ve ürünlerini 10’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hoffman Watches",
+    "description": "“Hoffman“2016 yılında Will Hoffman tarafından kurulmuş olan Hwosab LLC bünyesindeki spor saatleri markasıdır.Hwosab LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

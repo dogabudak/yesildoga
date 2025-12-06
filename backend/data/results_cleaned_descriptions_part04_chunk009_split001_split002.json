@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Schöffel",
+    "description": "Schöffel, 1804 yılında kurulan Schöffel Sportbekleidung Gmbh bünyesinde üretilen dış ve kayak giyim ürünleri markasıdır.Firma dış mekan ve kayak kıyafetleri üretmektedir.Schöffel Sportbekleidung Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Swimfit",
+    "description": "Swimfit, 1996 yılında kurulan Swimfit Worldwide Corporation Sdn Bhd. bünyesindeki yüzme gözlükleri, optik yüzme gözlükleri ve yüzme şapkaları markasıdır.Swimfit Worldwide Corporation Sdn Bhd. Malezya merkezlidir. Ürünlerini Çin’de üretmekte ve 40 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  },
+  {
+    "company": "Spalding",
+    "description": "Spalding, 1876 yılında Albert Spalding tarafından kurulan spor malzemeleri markasıdır.Spalding 2003 yılında golf operasyonları hariç Russell Brands LLC’nin bir bölümü oldu.Russell Brands LLC. 2006 yılında Warren Buffett tarafından kontrol edilen Amerika merkezli Berkshire Hathaway Corporation bünyesindeki Fruit of the Loom Inc.’e aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-05-26"
+  },
+  {
+    "company": "Saygın Gıda",
+    "description": "Saygın Gıda Nerenin Malı MarkasıSaygın, 2014 yılında kurulan Saygın Gıda Bitkisel ve Hayvancılık Doğal Gıda Ürünleri Tic. San. Ltd. Şti. bünyesinde üretilen andız pekmezi, artisan ekmeği, çilek sirkesi, dut pekmezi, dut pekmezi(özel kıvamlı), elma sirkesi, harnup pekmezi, harnup pekmezi(özel kıvamlı), hurma pekmezi, kaya tuzu, susam tahini, tam buğday unu, tam susam tahini, üzüm pekmezi, üzüm sirkesi, yerli tam susam tahini markasıdır.Ürünlerinde GDO, hibrit, yapay ve kimyasal tatlandırıcı, renklendirici, kıvam verici maddeler yoktur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Barbour",
+    "description": "Barbour, 1894 yılında John Barbour tarafından kurulan J. Barbour and Sons Ltd. bünyesindeki giysi, ayakkabı ve aksesuarlar için giyim, balmumu hazır pamuk ürünler markasıdır.Firma mumlu ve kapitone ceketlerine ek olarak, kazak, moleskin giyim, kadife giyim ve tattersall gömlekleri ile ünlüdür.J. Barbour and Sons Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

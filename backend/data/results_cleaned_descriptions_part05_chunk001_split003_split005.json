@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Yenigüler",
+    "description": "Yenigüler, 1992 yılında kurulan Yeni Güler Gıda İnşaat San. ve Tic. A.Ş. bünyesinde üretilen un markasıdır.Börek, yufka, lüks ekmeklik ve francalık unları Gaziantep’te 10 bin metrekarelik kapalı alanda üretmektedir.TSE, ISO 9001 belgelerine sahiptir.Bünyesindeki markalar;CemCem Doğadan Bize Bizden SizeCem UnGülGülerGülersanSankoSeçYenigülerYeni Güler",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lip Smacker",
+    "description": "Lip Smacker, 1927 yılında Jesse Bell tarafından kurulan Bonne Bell Inc. bünyesinde üretilen dudak kozmetikleri, güneş yanığı ve çatlamaya karşı nemlendirme ve koruma için kozmetik preparatlar markasıdır.Buddy Bell Inc. 2015 yılında Amerika merkezli Markwins International Corporation tarafından satın alındı. Markwins ürünleri 60’tan fazla ülkede mevcuttur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-02-24"
+  },
+  {
+    "company": "Coselgi",
+    "description": "Coselgi, 1961 yılında kurulan Widex A/S bünyesindeki işitme cihazları, işitme engelliler için akustik aparat parçaları markasıdır.Widex A/S, Danimarka merkezlidir. Coselgi ürünleri 30 ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Damla Kuruyemiş",
+    "description": "Damla Kuruyemiş Nerenin Malı MarkasıDamla Kuruyemiş, 1975 yılında Mehmet Vakar Dinler tarafından kurulan A.D. Damla Gıda İnşaat Turizm Otomotiv ve Dış Tic. San. Ltd. Şti. bünyesindeki kuruyemiş ve kuru meyve markasıdır.Ürünlerini Ankara Saray Kazan’da bulunan 7 bin 500 metrekarelik alanda bulunan 3 bin metrekarelik kapalı alanda üretmektedir.ISO 22000 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Düet",
+    "description": "Düet, 2006 yılında kurulan Sardes Besi ve Tarım Ürünleri San. A.Ş. bünyesinde üretilen sızma zeytinyağı markasıdır.Manisa merkezli firma Ayvalık ve Memecik tipi zeytinlerden sızma zeytinyağı üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Korusu",
+    "description": "Korusu, 1992 yılında kurulan Korusu Memba Suları A.Ş. bünyesinde üretilen doğal kaynak suyu markasıdır.Uludağ’dan çıkan kaynaktan üretim yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pevonia",
+    "description": "Pevonia, 1991 yılında kurulan Pevonia International Laboratories tarafından üretilen akne, anti-aging, güneş hasarı gibi doğal cilt bakımı ürünleri markasıdır.Ürünleri paraben, sls, formaldehit, gdo, yapay renk ve koku, gluten gibi zararlı katkıları içermez.Pevonia International Laboratories Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "V Canto",
+    "description": "V Canto, 2015 yılında kurulan Cereria Terenzi Evelino Srl. bünyesinde üretilen koku ve kolonya markasıdır.Cereria Terenzi Evelino Srl. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Beceti",
+    "description": "Beceti, Musa Beceti tarafından kurulan Beceti Dental Medikal Ürünleri İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen vücut temizleyici markasıdır.Beceti Kozmetik, ürettiği aparatlarla geri dolum sistemini hayata taşıdı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sirab",
+    "description": "Sirab, 1950 yılında kurulan Sirab Ojsc bünyesinde üretilen gazlı ve gazsız maden suyu ve doğal mineralli tıbbi içme suyu markasıdır.Sirab markalı ürünler dağ sularının bolluğu ve çeşitliliğine sahip Azerbaycan’ın bir parçası olan Nahçıvan’da üretilmektedir. Maden suyu tesisinde 7 teknolojik hat kurulu 4 atölye bulunmaktadır. ISO 9001 ve ISO 22000 belgelerine sahiptir.Ürünlerini, Rusya, Beyaz Rusya, Kazakistan, Türkiye, Türkmenistan, Çin, Irak, Katar, Polonya, Kuveyt, Ukrayna ve Baltık ülkelerine ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  }
+]

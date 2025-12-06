@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Experian",
+    "description": "Experian, 1980 yılında kurulan Experian Information Solutions, Inc. bünyesindeki kredi hizmetleri, karar analizi ve pazarlama yardımından oluşan bilgi yönetimi markasıdır.Experian, 90’dan fazla ülkede müşterilere veri ve analiz araçları sağlamaktadır.Bir milyardan fazla kişi ve işletme hakkında bilgi toplar. Tüketici hizmetleri arasında kredi geçmişine çevrimiçi erişim, dolandırıcılık ve kimlik hırsızlığına karşı koruma amaçlı ürünler yer almaktadır.Experian Information Solutions, Inc. İrlanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Popçik",
+    "description": "Popçik, 2004 yılında Alev Altınkılıç tarafından kurulan Altınmarka Grubu bünyesindeki Kahve Dünyası tarafından üretilen çikolata markasıdır.Kahve Dünyası; geleneksel Türk kahvesi, espresso bazlı gurme kahve çeşitleri, aromalı filtre kahveler, soğuk kahveler, paketli kahve ürünleri ve yöresel kahveler gibi 50’den fazla kahve çeşidini müşterilerine sunuyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Teymur Telveli",
+    "description": "Teymur Telveli, 2014 yılında kurulan İbrahim Şefik Teymur ve Cüneyt Almacı tarafından kurulan Teymur Tarım Gıda Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen şekerli ve şekersiz sütlü Türk kahvesi, sütlü Türk kahvesi (fındık aromalı), hazır Osmanlı kahvesi, teymur 3ü1 arada markasıdır.Almanya, Hollanda ve Belçika’ya ürünleri ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sihirix",
+    "description": "Sihirix, 2012 yılında kurulan Yaba Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen süt markasıdır.Çocuklar için yüzde 100 doğal içerikli sütü eğlenceli bir lezzete dönüştüren aromalı granüllerle dolu bir pipettir.ABD, Rusya, Avusturalya, Japonya, Hong Kong, Çin, Dubai, İsveç, İngiltere, Almanya, İtalya, Portekiz, İspanya gibi 40’tan fazla ülkeye ihraç edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hansaton",
+    "description": "Hansaton, 1947 yılında kurulan Sonova Holding AG bünyesindeki işitme cihazları markasıdır.Ürünlerini 90’dan fazla ülkeye satmaktadır.Sonova Holding AG İsviçre merkezlidir. İsviçre, Çin ve Vietnam’da üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

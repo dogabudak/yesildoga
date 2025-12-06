@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Plattco",
+    "description": "Plattco, 1897 yılında kurulan Plattco Corporation bünyesindeki endüstriyel vana markasıdır.Dünya çapında 100’den fazla endüstride ürün veya atıkların yem ve deşarjı için kullanılan çift kanat hava kilidi vanaları, bıçak kapıları ve izolasyonlu slayt kapıları tasarlayıp üretiyor.Plattco Corporation Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pandomo",
+    "description": "PANDOMO, 1949 yılında kurulan ARDEX GmbH bünyesindeki çimento bazlı duvar ve zemin dolgu malzemeleri markasıdır.Mimari tasarımlar için çözümler sunan modern bir yüzey kaplama sistemidir.Almanya merkezli ARDEX GmbH, 2006 yılından beri Türkiye’de faaliyet göstermektedir. 2011 yılında ise ARDEX Türkiye, Tuzla Deri OSB’de bir üretim tesisi kurmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Acquaverde",
+    "description": "Acquaverde, 1983 yılında kurulan kot pantolon, denim etek, kot şort, denim gömlek ve denim ceket gibi ürünlerle 15-60 yaş arası kadın ve erkeklere hitap eden giyim markasıdır.Acquaverde Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Alexandre Home Interiors",
+    "description": "Alexandre Home Interiors, 2009 yılında Begüm Bozkaya ve Merve Başeğmez tarafından kurulan lüks ev tekstili markasıdır. 15 ülkede lüks ve butik tekstil mağazalara sahiptir.Kumaş kutular, ev giyimi, kaşmir koleksiyonu, seyahat kiti, mumları, cam objeler, gümüş aksesuarlar, hediyelik eşyalar sunmaktadır.Koleksiyonlarda kullanılan kumaşlar sadece keten, dantel ya da pamuk ürünlerden oluşur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Panama Jack Ayakkabı",
+    "description": "Panama Jack Ayakkabı Hangi Ülkenin Malı MarkasıPanama Jack, 1989 yılında kurulan Panama Jack S.A.U bünyesindeki orijinal deri bot ve ayakkabılar markasıdır.Panama Jack S.A.U İspanya merkezlidir ürünlerini İspanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

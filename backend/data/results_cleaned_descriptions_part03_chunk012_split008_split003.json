@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Atala",
+    "description": "Atala, 1907 yılında kurulan Gruppo Atala S.p.A. bünyesinde üretilen bisiklet, aksesuar ve parçaları, elektrikli bisiklet ve ev egzersiz ürünleri markasıdır.Gruppo Atala S.p.A.2011 yılından bu yana Accell Group’un bir parçasıdır.Accell Grup N.V. 1998 yılında kurulan, Hollanda merkezli bisiklet holding şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Spovan",
+    "description": "Spovan, 2006 yılında kurulan Shenzhen Spovan Technology Co., Ltd. bünyesinde üretilen akıllı saat, akıllı bilezik, açık saat, balık saati, kalp atış hızı monitör kayışı markasıdır.Shenzhen Spovan Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Zeblaze",
+    "description": "Zeblaze, 2014 yılında kurulan Zeblaze Technology Co., Ltd. bünyesinde üretilen akıllı giyilebilir cihazlar markasıdır.Zeblaze Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Coffeeshop Company",
+    "description": "Coffeeshop, 1999 yılında kurulan Scharf Coffeeshop GmbH bünyesindeki kahve zinciri markasıdır.Arabica kahve çekirdekleri ile yüksek kaliteli Espresso kahve üretiminde uzmanlaşmıştır.30 ülkede faaliyet göstermektedir.Scharf Coffeeshop GmbH kahve sektöründe üst sınıf espresso makineleriı ve ekipmanları üretmektedir.Kahvesinin yüzde 100’ünü Avusturya’da kavurur.Coffeeshop Company Avusturyalı bir aile şirketidir ve Scharf Şirketler Grubu’nun bir parçasıdır. Franchise veren bir işletmedir.2012 yılında Türkiye pazarına Eurostil Gıda ile Franchising anlaşması yaparak girmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Digital Storm",
+    "description": "Digital Storm, 2002 yılında kurulan Digital Storm Inc. bünyesindeki yüksek performanslı oyun masaüstü ve dizüstü bilgisayarlar, kulaklıklar, oyun fareleri, özel klavyeler ve yüksek çözünürlüklü bilgisayar monitörleri markasıdır.Digital Storm Amerika merkezli özel sektöre ait bir butik bilgisayar üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

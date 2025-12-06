@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Black Red",
+    "description": "Black Red, 2011 yılında kurulan Dora Kozmetik Ltd. Şti. bünyesinde üretilen cilt ve saç bakım ürünleri markasıdır.Ürünlerini 2 bin metrekarelik kapalı alanda üretmektedir.Bünyesindeki markalar:BIANNABLACK & REDEDWARD BEALEHE & SHELADY IN COLOR",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hands",
+    "description": "Hands, 2005 yılında Hülya Alemdar tarafından kurulan Hs Sabun Kozmetik Teks. ve Tur San. ve Tic. Ltd. Şti. bünyesindeki doğal, zeytinyağlı, hediyelik ve spa sabunları markasıdır.Bünyesindeki markalar:KerpetenAlemdarlarKentDr. EAHANDS",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cuisine",
+    "description": "Cuisine, 1991 yılında kurulan Cuisine Catering Group bünyesindeki restaurant ve toplu yemek hizmeti markasıdır.2006 yılından beri Seyrantepe’de yer alan 4 katlı ve 2 bin 200 metrekarelik merkez binasında tüm catering faaliyetlerini sürdürmekte ve şirket gruplarını aynı çatı altında toplamış bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Definitive Technology",
+    "description": "Definitive Technology , 2004 yılında kurulan Sound United, LLC. bünyesinde üretilen çok odalı ses, bluetooth, bluetooth hoparlör, ev sineması, av receiver, soundbar, yükselticiler, hi-fi komponentleri, amplifikatör, cd/sacd oynatıcısı, network player, turntable, kompakt sistem, ağ müzik sistemi, mini, kulaklıklar, music maniac, seyahat, kritik dinleme ürünleri markasıdır.Özel sermaye şirketi Charlesbank Capital Partners’a ait DEI Holdings bünyesindeki Sound United, LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nautica",
+    "description": "Nautica, 1983 yılında David Chu tarafından kurulan erkek, kadın, çocuk giyim ve aksesuarları markasıdır.2019 yılında uluslararası giyim markalarını bünyesinde bulunduran VF Corporation bünyesine geçmiştir.Nautica 75’ten fazla ülkede mevcut, Amerikan markalarından biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

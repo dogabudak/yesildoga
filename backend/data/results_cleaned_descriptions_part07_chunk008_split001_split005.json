@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mandıradan",
+    "description": "Mandıradan, 2015 yılında kurulmuş olan Getir Perakende Lojistik A.Ş. bünyesindeki peynir markasıdır.Getir Perakende Lojistik A.Ş.’nin 2021 yılında çoğunluk hisseleri kurucu ortaklara ait olan Getir Perakende Lojistik A.Ş.’nin diğer hisseleri Amerika merkezli Sequoia Capital ve Tiger Global tarafından alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Beiji Bisiklet",
+    "description": "Beiji, 2012 yılında kurulmuş olan Xuzhou Beiji Vehicle Co. Ltd. bünyesinde üretilen kargo bisikletleri, yemek bisikletleri, kahve bisikletleri, dondurma bisikletleri, otomat bisikletleri, üç tekerlekli bisikletler, bisiklet taksi markasıdır.Xuzhou Beiji Vehicle Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "AK-DU",
+    "description": "AK-DU, 2013 yılında kurulmuş olan KD Gıda San. ve Tic. Ltd. Şti. bünyesindeki tulum peyniri, beyaz peynir, kaşar peyniri, abaza peynirleri, sepet peynirleri, otlu peynir, tereyağı markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Akmeşe Organik Süt Çiftliği",
+    "description": "Akmeşe Organik Süt Çiftliği Nerenin Malı MarkasıAkmeşe, 2020 yılında kurulmuş olan Akpa Hayvancılık Tarım ve Gıda Ürünleri A.Ş. bünyesinde üretilen organik çiğ süt, organik lor peyniri, organik tam yağlı olgunlaştırılmış beyaz peynir, organik taze kaşar peyniri, organik tereyağı, organik yayık tereyağı, tam yağlı dil peyniri markasıdır.Hayvanların besi sürecinde yüzde yüz doğal yemler kullanılmaktadır.Firma Kocaeli merkezlidir.Bünyesindeki markalar;AkmeşeAkmeşe 2020 Doğal Süt ÇiftliğiAkmeşe Doğal Süt ÇiftliğiAkmeşe Organik Süt Çiftliği",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alberto Di Centa Tradizione Italiana",
+    "description": "Alberto Di Centa Tradizione Italiana, 1985 yılında kurulmuş olan G.C. Gıda San. ve Tic. A.Ş. bünyesinde üretilen peynir markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Alberto Di Centa Tradizione ItalianaBlue TasteBursen PeynirDi PadovaDutcheeseEasy CheeseyFarmella FettaFetadellaFettaG.C.GençGenç GrupGençsütGolden DutchKareMarmara ÇiftliğiMisscheeseMozadelliSür Sür YeTopakTostilloTrakyaTrakya ÇiftliğiTrakya FarmersTrakya Labneh Trakya ÇiftliğiTrakya Süt ÜrünleriTrakyalıTrakyasütVegan Bahçesi Vegan BahçesiVegan Çiftliği",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

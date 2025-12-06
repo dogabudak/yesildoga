@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Dermaprof",
+    "description": "Dermaprof, 1983 yılında kurulan Depar Kozmetik kuruluşundaki Çağ Kozmetik Ltd. vasıtasıyla üretilen cilt bakım ürünleri markasıdır.ISO 9001 ve ISO 22716 belgelerine sahiptir.Tamamen kapalı alanda, üretim, dolum ve depolama tesislerinde, üretim yapmaktadır. Ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kilargo",
+    "description": "Kilargo, 2015 yılında Dormakaba Group bünyesindeki yangın, duman ve sesin yayılmasını önlemek için tasarlanmış çok çeşitli yangın güvenliği ürünleri markasıdır.Dormakaba Group Almanya merkezlidir. Üretim tesisleri Avrupa, Çin, Malezya, Kuzey ve Güney Amerika’da yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nazar Arap Sabunu",
+    "description": "Nazar, 1982 yılında kurulan Nazar Kimya Sabun ve Deterjan Tic. A.Ş. bünyesindeki arap sabunu markasıdır.Ürünleri koruyucu ve zararlı kimyasallar içermemektedir. Bitkisel ve organik içeriklerden oluşmaktadır.ISO 9001, ISO 14001, ECOCERT, VEGAN ve Hypoallergenic belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İpek Pişmaniye",
+    "description": "İpek Pişmaniye, 1954 yılında Lütfü Canıgeniş tarafından temelleri atılan İpek Pişmaniye San. ve Tic. Ltd. Şti. bünyesinde üretilen pişmaniye, saray helva, kestane şekeri, lokum markasıdır.Ürünlerinde zararlı katkı maddeleri yer almamaktadır. Ürünlerini ikibin 200 metrekarelik kapalı fabrikasında üretmektedir. Almanya, Amerika, Hollanda, Romanya ve Fransa, İtalya, Suudi Arabistan, Dubai’ye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Chiruca",
+    "description": "Chiruca, 1965 yılında kurulan Calzados Fal S.A bünyesindeki ayakkabı ve dağ botları markasıdır.Chiruca 14 bin metrekarelik bir fabrikada ürünlerini üretmektedir ve ürünlerini 5 kıtaya ihraç etmektedir.Calzados Fal S.A İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

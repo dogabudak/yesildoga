@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Grandstream",
+    "description": "Grandstream, 2002 yılında kurulmuş olan Grandstream Networks Inc. bünyesindeki İş Konferansı, Ağ Çözümleri, Ağ Geçitleri, Cihaz Yönetimi , IP Görüntülü Telefon, IP Sesli Telefon, IP pbx’ler, Kişisel İşbirliği Cihazları, Tesis Yönetimi, UCM6300 Ekosistemi markasıdır.Grandstream Networks Inc. Amerika merkezlidir. Ürünlerini 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Scotty",
+    "description": "Scotty, 2017 yılında kurulmuş olan Scotty Kurye Dağıtım Teknolojileri A.Ş. bünyesindeki araç paylaşımı, yemek teslimatı ve kurye teslimatı markasıdır.Scotty’nin 11 binden fazla sürücüsü, 1 milyondan fazla kullanıcısı ve 3 milyondan fazla tamamlanmış işlemi var.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dixi Polytool",
+    "description": "Dixi Polytool, 1946 yılında kurulmuş olan Dixi Polytool SA bünyesindeki karbür, katı ve elmas kesici takımlar, form aletleri, raybalar, hassas ocaklarISO 9001, ISO 14001 belgelerine sahiptir.Dixi Polytool SA İsviçre merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Cihanser",
+    "description": "Cihanser, 1997 yılında kurulmuş olan Cihan-Ser Gıda San. Tic. Ltd. Şti. bünyesinde üretilen Kars gravyer peyniri, eski kaşar peyniri, taze kaşar peyniri, klasik inek ve koyun peyniri markasıdır.Firma İstanbul merkezlidir. Ürünlerini Tuzla OSB’de 20 bin metrekarelik açık 4 bin 500 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ooh! Chocola",
+    "description": "Ooh! Chocola, Bicobel nv. bünyesinde üretilen çikolata çubukları, çikolata, çikolata ürünleri, şeffaf ambalajda fındıklı çikolata, beyaz çikolata, bitter çikolata, bitter kremalı çikolata, fındıklı çikolatalar, fındıklı sütlü çikolata, fondan çikolatalar, napolitenler, sütlü çikolata, tam sütlü fındıklı çikolata markasıdır.Bicobel nv. Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

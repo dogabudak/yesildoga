@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Aselsan Ülkeye Kime",
+    "description": "1975 yılında kurulan ASELSAN A.Ş., Türk Silahlı Kuvvetlerini Güçlendirme Vakfı’na aittir.Modern elektronik cihaz ve sistemler geliştiren, üreten, tesis eden, pazarlayan ve satış sonrası hizmetlerini yürüten entegre bir elektronik sanayii kuruluşudur. Aselsan’ın yüzde 15,3 oranındaki hissesi Borsa İstanbul’a kayıtlıdır.Ankara’da dört ayrı tesiste üretim ve mühendislik faaliyetlerini sürdürmektedir.Profesyonel telsiz, PMR telsiz gibi ürünleri AselsanNET şirketi aracılığıyla üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Daphne Çikolatalı Puding",
+    "description": "Daphne Çikolatalı Puding, 1995 yılında kurulmuş olan Bim Birleşik Mağazalar A.Ş. adına muhtelif firmalar tarafından üretilen kakao, krem şanti, çikolatalı puding markasıdır.Kakao ürünleri ithal edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-12-07"
+  },
+  {
+    "company": "Buono Çikolata",
+    "description": "Buono Çikolata Hangi Ülkenin Malı MarkasıBuono, Bim Birleşik Mağazalar A.Ş. adına Detay Gıda San. ve Tic. A.Ş. tarafından üretilmektedir.Detay Gıda San. ve Tic. A.Ş. sahibi Altınmarka grubudur.Detay Gıda, Balin markasının sahibidir.Altınmarka grubu aynı zamanda Kahve Dünyası’nın sahibidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Esenpen",
+    "description": "Esenpen, 1976 yılında kurulan Esen Plastik AŞ. bünyesindeki; PVC kapı, pencere ve panjur profili, plastik boru ve ekipmanları markasıdır.İzmir Atatürk OSB’de ve Adana Hacı Sabancı OSB’de toplam 130 bin metrekarelik tesislerinde üretim yapmaktadır.Esen Plastik bünyesindeki markalar:ESENPENWeissesen",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lexus Arabası",
+    "description": "Lexus Nerenin Arabası MarkasıLexus, 1989 yılında Eiji Toyoda tarafından kurulan lüks otomobil markasıdır.Dünya çapında 70’ten fazla ülke ve bölgede pazarlanmıştır.Lexus, Japonya merkezli otomobil üreticisi Toyota’nın lüks araç bölümüdür.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2020-05-06"
+  }
+]

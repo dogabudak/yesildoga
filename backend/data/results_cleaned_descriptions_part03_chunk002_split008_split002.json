@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Giant Bicycles",
+    "description": "Giant Bicycles, 1972 yılında King Liu tarafından kurulan Giant Manufacturing Co. Ltd. bünyesinde üretilen bisiklet markasıdır.Dünyanın en büyük bisiklet üreticilerindendir. Karbon ve alüminyum çerçeve üretimi ile ilgili en ileri tasarım süreçlerinde öncüdür. Çok sayıda markalı bisikletin üreticisidir.Giant Manufacturing Co. Ltd. Tayvan merkezlidir. Tayvan, Hollanda, Macaristan ve Çin’de üretim tesisleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Fresh Company",
+    "description": "Fresh Company, 1981 yılında Boyner Grubu tarafından kurulan giyim ve ayakkabının ağırlıklı olduğu mağazalar zinciri ve markasıdır.2015 yılında Çarşı mağazaları, Fresh Company’ye dönüştürüldü.Boyner Holding A.Ş. hisselerinin yüzde 42,8 payı Boyner Ailesine, yüzde 42,68 payı Katarlı Mayhoola for Investments LLC yatırım firmasına aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  },
+  {
+    "company": "Goodride",
+    "description": "Goodride, 1958 yılında kurulan Zhongce Rubber Group Co., Ltd. tarafından üretilen araç lastiği markasıdır.Dünyanın en büyük üçüncü Kamyon lastiği üreticisidir. ISO 9000 belgesine sahiptir.Zhongce Rubber Group Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-07-15"
+  },
+  {
+    "company": "Signia",
+    "description": "Signia, 2016 yılında WS Audiology bünyesinde üretilen işitme cihazı markasıdır.WS Audiology, 2019 yılında İsveç merkezli özel sermaye şirketi EQT Group’a ait Singapur merkezli Sivantos ile Danimarka merkezli Widex’in birleşmesiyle kuruldu.Türkiye’de Sivantos İşitme Cihazları Sanayi ve Ticaret A.Ş. olarak faaliyet göstermektedir.Bünyesindeki bazı markalar:WidexSigniaAudio ServiceRexton",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": "2020-02-28"
+  },
+  {
+    "company": "Hask",
+    "description": "Hask, 1975 yılında kurulan Inspired Beauty Brands, Inc. bünyesindeki saç bakım ürünleri markasıdır.Tüm saç tiplerine hitap eden ürünleri çok sayıda farklı aromalar içermektedir. HASK markalı şampuanlar, saç kremleri ve Shine yağları sülfat, paraben, ftalat ve gluten içermez.Inspired Beauty Brands, Inc. Amerika merkezlidir. Bünyesindeki markalar:HaskUnwined by HASKGreek Yogurt by HASKJhirmackMane ClubPure ShineHnP",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ottobock",
+    "description": "Ottobock, 1919 yılında kurulan Ottobock SE & Co. KGaA bünyesinde üretilen tekerlekli sandalye, protezler, yapay uzuvlar markasıdır.Özel gereksinimi olan çocukların ihtiyaçlarını fazlasıyla karşılayacak engelli çocuk puseti üretmektedir.Ottobock SE & Co. KGaA Almanya merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aro Yağ",
+    "description": "Aro, 1964 yılında kurulan Mip Metro Group Intellectual Property Gmbh & Co. Kg bünyesindeki yağ, süt, nar ekşisi, buğday unu, domates salçası, dondurulmuş ürünler markasıdır.Mip Metro Group Intellectual Property Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lucky John",
+    "description": "Lucky John, 1997 yılında kurulan Salmo SIA bünyesindeki şamandıralar, balıkçılık kancaları ve yemler dahil olmak üzere olta takımı, çadırlar, tenteler, brandalar, yelkenler, çuvallar ve çantalar markasıdır.Salmo SIA Letonya merkezlidir.Bünyesindeki markalar;CobraFeeder ConceptFjallravenLucky JohnNorfinSalmoSensasTernua",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LV",
+    "updated_date": null
+  },
+  {
+    "company": "Bebem Natural",
+    "description": "Bebem Natural, 1937 yılında kurulan Hayat Kimya San. A.Ş. bünyesindeki bebek bezi, ıslak mendil markasıdır.Bezleri klor, paraben, latex, parfüm içermez. Organik pamuk özlü ve doğal bambu lifleri içerir.Helal belgesine sahiptir ve ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bi Boya",
+    "description": "Bi’Boya, 1973 yılında kurulan Kalekim Kimyevi Maddeler San. Tic. A.Ş. bünyesinde üretilen astar, boya uygulama setleri, dış cephe, dekoratif, fırça ve rulo, iç cephe, koruyucu örtü ve bantlar markasıdır.İstanbul merkezli firmanın İstanbul, Balıkesir, Isparta, Mersin, Yozgat, Erzurum ve Mardin’de toplam 7 üretim tesisi bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

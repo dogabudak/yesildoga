@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tyr",
+    "description": "Tyr, 1985 yılında kurulan Tyr Sport. Inc. bünyesindeki kadın ve erkek mayo ve diğer yüzme aksesuarları markasıdır.Yüzme gözlükleri, spor kıyafetleri, mayo üretmektedir.Tyr Sport. Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Softnyx",
+    "description": "Softnyx, 2001 yılında Jinho Kim tarafından kurulan Softnyx Ltd. bünyesindeki video oyun markasıdır.Şirket bilgisayarlar için çevrimiçi video oyunları oluşturup yayınlamaktadır.Softnyx Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Şifay",
+    "description": "Şifay, 1982 yılında kurulan Şifay A.Ş. bünyesindeki sofralık tuz, tuz lambaları ve kişisel bakım tuz ürünleri markasıdır.Firma Çankırı kaya tuzu ve Himalaya kaya tuzu ithalatçısı ve üreticisidir. Ürünlerini Brezilya, İran, Bulgaristan, Azerbaycan ve İngiltere gibi ülkelere ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "T Brush",
+    "description": "T-Brush, 2020 yılında kurulan Serra Dermokozmetik ve Medikal Ürünler San. ve Tic. Ltd. bünyesinde üretilen doğal diş macunu tabletleri markasıdır.Diş macunu krem şeklinde değil tablet şeklindedir. Gluten içermez ve hayvanlar üzerinde test edilmemektedir.Hammaddelerini Avrupa’nın kozmetik ve ilaç firmalarından alarak fabrikasında üretim gerçekleştirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-30"
+  },
+  {
+    "company": "Hozan",
+    "description": "Hozan, 1946 yılında kurulan Hozan Tool Ind. Co. Ltd. bünyesindeki alet setleri, alet kutuları, antistatik ürünler, bakım ve güvenlik ürünleri, cımbız, kıvırıcılar, kesiciler ve pense, lehimleme ütüler ve lehim, metal işleme, optik ekipman, ölçüm aletleri, bisiklet araçları markasıdır.Hozan Tool Industrial Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

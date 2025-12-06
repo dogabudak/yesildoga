@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Bofigo",
+    "description": "2009 yılında kurulmuş olan Bofigo Grup A.Ş. bünyesinde üretilen modüler mobilyalar markasıdır.Ayakkabılık, askılıklar, çalışma masası, banyo dolapları, dolap ve gardırop, televizyon ünitesi, sehpa, mutfak standı, oyuncak dolabı, kitaplık, kamp masa ve saldalyeler sunmaktadır.Firma İzmir merkezlidir. Ürünlerini 17 bin 500 metrekarelik alanda bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kano",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Friskies",
+    "description": "1930 yılında piyasaya sürülen ıslak ve kuru kedi maması ve ikram markasıdır.Islak gıdaları yapay renk ve koruyucu içermez.Marka 1985 yılında İsviçre merkezli Société des Produits Nestlé S.A. tarafından satın alınmıştır. Yan kuruluşu olan Nestlé Purina PetCare tarafından üretilmektedir ve pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Babeskin",
+    "description": "2022 yılında kurulmuş olan Babeskin Kozmetik San. ve Tic. Ltd. Şti. bünyesindeki güneş kremi, cilt bakım ürünleri, dudak kremi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beliani",
+    "description": "1911 yılında kurulmuş olan Beliani Gmbh bünyesindeki çocuk odası, aydınlatma, bahçe ve balkon, banyo, ev aksesuarları, ev ofis, koridor, oturma odası, tekstil, yatak odası, yemek odası markasıdır.Beliani Gmbh İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

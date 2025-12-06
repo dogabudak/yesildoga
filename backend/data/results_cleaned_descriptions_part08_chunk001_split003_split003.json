@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Salvanini",
+    "description": "Salvanini, 2016 yılında kurulmuş olan Salvanini Ankastre Sistemleri San. Dış. Tic. Ltd. Şti., bünyesindeki ankastre setler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rosalita Senoritas",
+    "description": "Rosalita Senoritas, 2007 yılında kurulmuş olan Textiles Montecid S.L. bünyesinde üretilen kız çocuk kıyafetleri markasıdır.Firma 6-18 ay bebekler için ve ayrıca 3-12 yaş aralığındaki tüm kız çocukları için giyim ürünleri üretmektedir.Textiles Montecid S.L. İspanya merkezlidir.Bünyesindeki markalar;Missing JohnnyRosalita McGeeRosalita Senoritas",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Coolist",
+    "description": "Coolist, 2015 yılında kurulmuş olan Freze Dış Tic. Ltd. Şti. tarafından ithal edilen katlanabilir termos bez çanta, buzluk, oto buzdolabı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Autofren Seinsa",
+    "description": "Autofren Seinsa, 1972 yılında kurulmuş olan Seguridad Industrial S.A bünyesinde üretilen fren tertibatları, kavramalar, şanzımanlar ve yönlendirmeler için parçalar ve tamir takımları, Araba tamirlerinin diğer unsurları ve genel kauçuk parçaları, termoplastik ve tamamlayıcı metal elemanlar markasıdır.ISO 9001, IATF 16949 belgelerine sahiptir.Seguridad Industrial S.A İspanya merkezlidir. Ürünlerini İspanya ve Hindistan’da bulunan tesislerinde üretmektedir ve 65 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "L’rouge",
+    "description": "L’rouge, 1993 yılında kurulmuş olan PH Farma İlaç ve Kozmetik San. Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.GMP ve ISO 9001 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;34AntimicinClever Home CareColor ProofDentaxDoal MaskeEleniEvinde AlEvindekazanExudareHerpetixHydra ComfortKordofenLa SplashL’rougeLroshMagic ProofNutralenOrtimicinOtcPh Farma LaPh TouchPigmentolinPro GuardPromicinRedblackRed PointValhallaVitafenVous",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Franchetti",
+    "description": "1926 yılında kurulmuş olan Calzaturificio Franceschetti s.r. l. bünyesindeki ayakkabı ve aksesuarları markasıdır.Calzaturificio Franceschetti s.r. l. İtalya merkezlidir. Ürünleri İtalya’da üretilmektedir ve 22 ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Grok",
+    "description": "2023 yılında kurulmuş olan X.AI LLC bünyesinde geliştirilen üretken bir yapay zeka sohbet robotudur.X.AI LLC Amerika merkezlidir ve Elon Musk’a aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mucoplus",
+    "description": "1836 yılında temeli atılan Acino International AG bünyesindeki ilaç markasıdır.Acino International AG, BAE merkezli ADQ tarafından kurulan Arcera’nın bir parçasıdır. 2019 yılından beri Türkiye’de Acino Turkey İlaç A.Ş. olarak faaliyet göstermektedir.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Dideral",
+    "description": "2017 yılında kurulmuş olan BMED İlaç Danışmanlık Sağlık Ürün ve Hizmetleri Tic. Ltd. Şti. bünyesindeki ilaç markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Borjomi",
+    "description": "1995 yılında kurulmuş olan IDS Borjomi Beverages Co. N.V. LLC bünyesinde üretilen maden suyu markasıdır.IDS Borjomi Beverages Co. N.V. LLC Gürcistan merkezlidir. Ürünleri Gürcistan’da üretilmektedir ve 30 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

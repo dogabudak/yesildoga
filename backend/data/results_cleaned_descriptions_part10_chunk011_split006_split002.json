@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Ghisa",
+    "description": "1992 yılında kurulmuş olan Göktaş Giyim Tic. ve San. Ltd. Şti. bünyesindeki kadın giyim ürünleri, aksesuarlar markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "KJ Power Jeneratör",
+    "description": "1996 yılında kurulmuş olan Kürkçüoğlu İç ve Dış Tic. A.Ş. bünyesindeki dizel jeneratör, mobil jeneratör, aydınlatma kulesi markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 90’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Minimono",
+    "description": "2020 yılında kurulmuş olan Minimono Bebek Ürünleri San. ve Tic. A.Ş. bünyesindeki bebek ürünleri, portatif mama sandalyesi, aktivite örtüsü, aksesuarlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Babybay",
+    "description": "2003 yılında kurulmuş olan Tobi GmbH & Co. KG bünyesindeki bebek yatakları ve aksesuarlar markasıdır.Tobi GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Gonuts",
+    "description": "2003 yılında kurulan Dost Fındık Gıda Kuy. İnşaat Tah. Nakliyat Tur. Mühendislik İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen fıstık ezmesi özel ezme sürülebilir çikolata markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Ordu merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

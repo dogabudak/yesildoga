@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Siro Batarya",
+    "description": "Siro2021 yılında Türkiye’nin Otomobili Girişim Grubu A.Ş. ve Çin merkezli Farasis Energy Co. Ltd. ortaklığında kurulmuş olan Siro Silk Road Temiz Enerji Depolama Teknolojileri San. Tic. A.Ş. tarafından üretilen enerji depolama çözümleri markasıdır.Firma Kocaeli merkezlidir.Farasis Energy Hakkında Bilgi",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Aiolosair",
+    "description": "AiolosAir2018 yılında kurulmuş olan AiolosAir İleri Havalandırma Teknolojileri A.Ş. bünyesinde üretilen merkezi havalandırma ve klima ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Türem Yumurta",
+    "description": "Türem1969 yılında kurulmuş olan Türem Tarım Hayvancılık ve Tic. A.Ş. bünyesinde üretilen yumurta ve doğal yem markasıdır.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma Ankara merkezlidir ve ürünlerini Ankara’da bulunan 17 bin metrekarelik kapalı alana sahip tesislerinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ebmpapst Fan",
+    "description": "Ebmpapst2003 yılında şirketlerin birleşmesiyle kurulan Ebm-Papst Mulfingen Gmbh & Co. Kg bünyesindeki aksiyel fanlar, gaz blowerları, kompakt fanlar, motorlar, pompalar, santrifüj fanlar, sirkülasyon fanları, tanjansiyel fanlar markasıdır.Ebm-Papst Mulfingen Gmbh & Co. Kg Almanya merkezlidir. Türkiye’de Ebm Papst Fan San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Vatbuz",
+    "description": "Vatbuz1956 yılında kurulmuş olan Vatbuz Akıllı İklimlendirme Sistemleri A.Ş. bünyesinde üretilen hava soğutmalı chiller, soğutma yardımcı ekipmanları, su soğutmalı chiller markasıdır.Ürün yelpazesinde hava ve su soğutmalı, su soğutucuları, yağ soğutucuları, çevre test dolapları, ultra düşük sıcaklıklı dondurucular yer almaktadır.Firma İstanbul merkezlidir ve ürünlerini 20’ye yakın ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

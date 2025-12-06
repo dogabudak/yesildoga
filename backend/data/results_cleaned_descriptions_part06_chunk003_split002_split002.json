@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Perfect Fit",
+    "description": "Perfect Fit, 1911 yılında kurulan Mars Incorporated bünyesinde üretilen kedi ve köpekler için ıslak ve kuru mamalar markasıdır.Yapay renklendirici ve soya içermemektedir.Mars Incorporated Amerika merkezlidir. Amerika, Birleşik Krallık, Almanya, Macaristan, Avustralya gibi ülkelerde üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zoogurman",
+    "description": "Zoogurman, Zoogurman Kompanija OOO bünyesinde üretilen ıslak ve kuru mamalar, doğal konserve et, hazır tahıllar ve kuru et ürünleri, kedi ve köpekler için evler, yataklar ve taşıyıcılar gibi ikramlar ve aksesuarlar markasıdır.Konserve ve kuru yiyeceklerin üretiminde, sığır ve kümes hayvanı eti (et, kalp, karaciğer, işkembe) kullanmaktadır. Hazır tahılların üretiminde sadece tahıllar ve sebzeler kullanılmaktadır.Ürünleri GDO, yapay koruyucular ve tatlandırıcılar, soya içermez.Zoogurman Kompanija OOO Rusya merkezlidir ve ürünlerini Rusya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Sanyang",
+    "description": "SYM, 1954 yılında kurulan Sanyang Motor Co. Ltd. bünyesinde üretilen motosiklet ve scooter markasıdır.Sanyang Motor Co. Ltd. Tayvan merkezlidir. Ürünlerini Tayvan, Çin ve Vietnam’da bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2022-08-15"
+  },
+  {
+    "company": "Cupra",
+    "description": "Cupra, 1950 yılında kurulan Seat S.A. bünyesindeki spor otomobili markasıdır.Seat S.A. 1982 yılından beri Almanya merkezli Volkswagen Grubu yan kuruluşu olan Volkswagen-Audi-Espana S. A. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-07-05"
+  },
+  {
+    "company": "Via Gold Dedektör",
+    "description": "Via Gold, Asya Dedektör Teknolojileri Maden San. Tic. Ltd. Şti. bünyesindeki dedektörler markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;A3-A5-A6 Plus DedektörAltın Define AvcısıAsya Dedektör TeknolojileriAsya Deep Gold FinderAsya Gold Finder DetectorAsya Jeo Finder DetectorAsya Micro Gold FinderAziz Dedektör Bilişim TeknolojileriAziz PointerBionic At-7 ProGf Gold Finder A3-A5Gold Treasure HunterVia Gold",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

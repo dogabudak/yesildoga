@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Milkten Labne",
+    "description": "Milkten Labne2008 yılında kurulmuş olan A101 Yeni Mağazacılık A.Ş. adına muhtelif üreticiler tarafından üretilen labne peynir markasıdır.Ürünleri laktoz içermektedir ve Türkiye’de üretilemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Secukey",
+    "description": "Secukey2013 yılında kurulmuş olan Secukey Technology Co. Ltd. bünyesindeki her türlü güvenlik uygulaması için erişim kontrol çözümleri markasıdır.Ürün yelpazesinde akıllı erişim, dokunmatik erişim, erişim kontrolü, okuyucu, denetleyici, aksesuarlar yer almaktadır.Secukey Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gim Dog",
+    "description": "Gim Dog1855 yılında kurulmuş olan H. Von Gimborn Gmbh bünyesinde üretilen köpek atıştırmalıkları, ikramları markasıdır.H Von Gimborn Gmbh 2016 yılında Hong Kong merkezli Hillhouse Investment Management Ltd. tarafından satın alınmıştır. Ürünlerini Almanya’da üretmektedir ve 40”tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "FLO Mağazacılık",
+    "description": "FLO Mağazacılık1960 yılında kurulmuş olan FLO Mağazacılık ve Pazarlama A.Ş. bünyesindeki ayakkabı mağazaları markasıdır.Yurtiçinde ve 30 ülkede toplam 800’den fazla mağazasıyla hizmet vermektedir. Ayrıca e- ticaret kanalları ve toptan satış ağıyla da ürünlerini sunmaktadır.2013 yılında FLO Mağazacılık ve Paz. A.Ş.’nin yüzde 27 hissesini İngiltere merkezli Turkven Ltd. bünyesindeki Mater Footwear BV, yüzde 11,5 hissesini Bim A.Ş., yüzde 11,5 hissesini Kökler Yatırım Holding A.Ş., Yıldız Holding A.Ş., Üs Holding A.Ş. ve Amerika menşeli Franklin Templeton Luxembourg SA’nın ortaklık payı olduğu Gözde Girişim A.Ş. ‘den oluşan konsorsiyum satın almıştır. Geri kalan yüzde 50 hissesi ise Ziylan Ailesine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bolat Atom Çapa Makinesi",
+    "description": "Bolat Atom1962 yılında kurulmuş olan Beybolat Tarım Makinaları San. ve Tic. A.Ş. bünyesinde üretilen çapa makinesi markasıdır.ISO 9001 ve TSE belgelerine sahiptir.Firma Mersin merkezlidir ve ürünlerini 7 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

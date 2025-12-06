@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Amica",
+    "description": "Amica, 1945 yılında kurulan Amica S.A. bünyesinde üretilen buzdolabı, dondurucu, ocak, çamaşır makinesi, bulaşık makinesi, fırın, indüksiyon ocakları, gaz ocakları, pişiriciler, mikrodalga, davlumbaz, şarap soğutucuları markasıdır.Dünya çapında 50 ülkede faaliyet göstermektedir.Amica S.A. Polonya merkezlidir.Bünyesindeki markalar:AmicaHansaGramCDAFagor",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Sorvagen",
+    "description": "Sorvagen, Eeose Laboratuarları Koz. ve İlaç San. Ltd. Şti. tarafından üretilen balık yağı markasıdır.Balık Yağının menşei Norveç’tir. Gluten, tatlandırıcı, şeker, renklendirici ve koruyucu içermez ve yenilebilir sığır jelatini içerir.Eeose Laboratuarları; her türlü cilt ve saç problemlerine çözüm getiren ve cildin sağlığını koruyan terapötik ve dermokozmetik ürünler üzerine çalışmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mentor Tıraş Kolonyası",
+    "description": "Mentor Tıraş Kolonyası Nerenin Malı MarkasıMentor, A101 Yeni Mağazacılık A.Ş. adına Lider Kozmetik San. ve Tic. A.Ş. tarafından üretilen body spray, tıraş jelı, tıraş köpüğü, tıraş sonrası balsam ve kolonya markasıdır.1978 yılında İstanbul’da kurulan Lider Kozmetik, ürünlerini Gebze Dilovası Sanayi Bölgesinde bulunan üretim tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Natura & Co",
+    "description": "Natura & Co, 1969 yılında Antônio Luiz Seabra tarafından kurulan Natura Holding S.A. bünyesindeki kişisel bakım kozmetik ürünleri markasıdır.Grup tüm kıtalarda 73 ülkede bulunmaktadır.Natura&Co Brezilya merkezli kişisel bakım kozmetik şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": "2022-04-15"
+  },
+  {
+    "company": "RTA Laboratuvarları",
+    "description": "RTA Labs, 1996 yılında kurulan RTA Laboratuvarları Biyolojik Ürünler İlaç ve Makine San. Tic. A.Ş. bünyesindeki mikrobiyoloji ve moleküler biyoloji ürünleri markasıdır.RTA Laboratuvarları, toplam 18 ülkeye virüs tanı kiti ihracatı gerçekleştirdi.Türkiye’de üretim yapan RTA Laboratuvarları’nın yüzde 17,59 hissesi İcg Finansal Danışmanlık A.Ş.’ye yüzde 8,41 hissesi Güler Yatırım A.Ş.’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

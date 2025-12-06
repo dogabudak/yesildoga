@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Bearack",
+    "description": "2007 yılında kurulmuş olan Kunfu Industrial Co. Ltd. bünyesindeki bisiklet rafları, çatı kutusu ve sepeti, çatı bisiklet rafları, aksesuarlar markasıdır.Kunfu Industrial Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Tea1986",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hazzys",
+    "description": "1974 yılında kurulmuş olan LF Corp. bünyesindeki giyim ve aksesuarlar markasıdır.LF Corp. Güney Kore merkezlidir.Bünyesindeki markalar;Athe VanessabrunoBa&Sh",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "BenOrganic",
+    "description": "2011 yılında kurulmuş olan Toprak Su Fidan Tarımsal Ürünler Gıda San. ve Tic. A.Ş. bünyesinde üretilen organik ve doğal meyve suyu markasıdır.Firma Ankara merkezlidir. Niğde, Afyon, Adana, Mersin’de tesislere sahiptir.Bünyesindeki markalar;Ben NatürBen Natüral",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Granicell",
+    "description": "2008 yılında kurulmuş olan Zhuhai Top Battery Co. Ltd. bünyesinde üretilen pil markasıdır.ISO 9001, ISO 13485, ISO 14001 belgelerine sahiptir.Zhuhai Top Battery Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

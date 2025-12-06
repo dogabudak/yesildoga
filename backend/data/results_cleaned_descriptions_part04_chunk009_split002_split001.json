@@ -1,0 +1,44 @@
+[
+  {
+    "company": "IGK Hair",
+    "description": "IGK Hair, 1998 yılında kurulan Igk Hair & Body Products Ltd. bünyesindeki saç jelleri, saç ve vücut bakım ürünleri, saç spreyleri markasıdır.Ürünleri paraben, sülfat ve gluten içermez. Hayvanlar üzerinde test edilmez.Igk Hair & Body Products Ltd. merkezi Güney Kıbrıs Rum kesiminde yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CY",
+    "updated_date": null
+  },
+  {
+    "company": "Archimede",
+    "description": "Archimede, 1924 yılında Karl Ickler tarafından kurulan Ickler Gmbh bünyesinde üretilen saat kasaları markasıdır.Bir saatin hemen hemen her parçası şirket içinde geliştirilmiş ve üretilmiştir. Saat kılıfları, paslanmaz çelik, saf titanyum veya bronzdan yapılmaktadır.Ickler Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Avenir",
+    "description": "Avenir, 2014 yılında kurulan AVENİR A.Ş. bünyesindeki, elektronik ve güvenlik sektörü için Alarm ve CCTV sistemleri markasıdır.Avenir Güvenlik dağıtımını yaptığı tüm ürünler TSE ve ISO kalite standartlarında üretilmektedir.Avenir Grup Türkiye 2014 yılında gayrimenkul yatırımları ile Kayseri ilinde faaliyete geçmiştir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Chronoswiss",
+    "description": "Chronoswiss, 1983 yılında Gerd Rüdiger Lang tarafından kurulan Chronoswiss AG bünyesindeki hassas mekanik saat ve malzemeler markasıdır.Tüm saatler el yapımıdır.Chronoswiss AG İsviçre merkezlidir. 2012 yılında İsviçreli girişimci Oliver ve Eva Ebstein tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Hazal Bisküvi",
+    "description": "Hazal Bisküvi Nerenin Malı MarkasıHazal Bisküvi, 1995 yılında kurulan Hazal Bisküvi ve Gıda San. A.Ş. bünyesinde üretilen çikolata, bisküvi, dökme, gofret, jelly, kakaolu fındık kreması, kek, kraker, kremalı, marshmallow, sandviç bisküvi, sert şeker, yumuşak şeker ürünleri markasıdır.Ürünlerini 60 bin metrekaresi kapalı, 60 bin metrekaresi açık toplam 120 bin metrekarelik alanda gerçekleştirmektedir.Hazal Bisküvi ve Gıda San. A.Ş. 2014 yılında Aşçılar Grubu tarafından satın alındı. Ürünlerini 87 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Ferring",
+    "description": "Ferring, 1950 yılında Frederik Paulsen tarafından kurulan Ferring Pharmaceuticals bünyesinde üretilen üreme sağlığı, kadın hastalıkları ve doğum, üroloji, gastroenteroloji, endokrinoloji ve ortopedi ürün ve hizmetleri markasıdır.Üretimler Arjantin, Çin, Çek Cumhuriyeti, Danimarka, Almanya, İsrail, Meksika ve İsviçre’de gerçekleşmektedir. Amerika’da kendi araştırma merkezine sahiptir ve uluslararası hizmet merkezi ile geliştirme merkezi Danimarka’da bulunan İsviçre merkezli bir ilaç firmasıdır. Ürün ve hizmetleri 110’dan fazla ülkede kullanılmaktadır. Türkiye’de Ferring İlaç San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.2005 yılında Bio-Technology General’i bünyesine katarak rekombinant biyoteknoloji alanında da varlık göstermeye başlamıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Choicemmed",
+    "description": "Choicemmed, 1993 yılında kurulan Beijing Choice Electronic Tech Co., Ltd bünyesinde üretilen pulse oksimetre serisi evde bakım serisi birincil bakım serisi ürünleri markasıdır.Ürünleri 100’den fazla ülke ve bölgede pazarlanmaktadır. ISO 13485 belgesine sahiptir.Beijing Choice Electronic Tech Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Le Jardin Lingerie",
+    "description": "Le Jardin Lingerie, 2006 yılında kurulan İpeksan İç Giyim ve Hayvancılık San. ve Tic. Ltd. Şti. bünyesinde üretilen iç çamaşırı, bayan iç çamaşırı, jartiyer, sütyen, slip, camisole, pijama, gelinlik, gecelik ürünleri markasıdır.Ürünleri başta Ortadoğu ülkeleri ve Kuzey Afrika olmak üzere çok sayıda ülkede pazarlanmaktadır.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Trudell",
+    "description": "Trudell, 1922 yılında kurulan Trudell Medical International bünyesindeki tepe akış ölçer, aerosol dağıtım maskesi, nebülizasyon ve mdi eğitim cihazı markasıdır.ISO 9001 belgesine sahiptir. Ürünleri 90’dan fazla ülkeye dağıtılmaktadır.Trudell Medical International Kanada merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Milleluna",
+    "description": "Milleluna, 2011 yılından itibaren Tatlı Çikolata Sanayi ve Tic. A.Ş. bünyesinde üretilen çikolatalar, çikolata ürünleri, çikolata veya şekerle kaplanmış ürünler, çikolata veya şekerle kaplanmış oyuncaklar, şekerlemeler, lokumlar markasıdır.Ürünlerini İstanbul’da 14 bin metrekarelik alanda, hiçbir katkı maddesi kullanmadan sadece kakao yağı kullanarak yüzde 100 gerçek çikolatadan üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

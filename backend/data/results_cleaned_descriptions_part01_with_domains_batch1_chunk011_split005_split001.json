@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tongfang",
+    "description": "Tsinghua Tongfang Co, Ltd. 1997 yılında kurulan; tüketici elektroniği, bilgi teknolojisi, enerji ve çevre sektörlerinde faaliyet gösteren bir şirkettir.Tsinghua Tongfang, THTF markasıyla televizyon üretmektedir.Tsinghua Tongfang Co, Ltd. Çin merkezli bir şirkettir. Seiki Digital şirketinin sahibidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Element Electronics",
+    "description": "Element Electronics, 2007 yılında kurulan tüketici elektroniği şirketidir.Element, 2015 yılında ilk Ultra HD ve akıllı Televizyonlara giriş yaparak değişen boyutlarda 25 farklı model üretti.Element Electronics Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Xigmatek",
+    "description": "Xigmatek, 2005 yılında kurulan bilgisayar kasası, hava soğutma ve sıvı soğutma ürünleri, power supply ve aksesuarlar markasıdır.Xigmatek Tayavan menşeli markadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Wei-B",
+    "description": "Wei-B, 1996 yılında kurulan Ümit Çocuk Gereçleri A. Ş. bünyesindeki bebek arabası, akülü otomobil, mama sandalyesi, oyun parkı, beşik, anne bakım çantası, oto ve taşıma koltuğu markasıdır.Bu ürünlerin bir kısmını fabrikasında üretirken bir kısmını ithal etmektedir.Ümit Çocuk Gereçleri A. Ş., bebek gereçleri sektöründe Ümit Bisiklet bünyesinde kurulmuş Wei-ß markasıyla faaliyet gösteren Türk firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-05-21"
+  },
+  {
+    "company": "Asrock Firmanın",
+    "description": "Asrock, 2002 yılında kurulan bilgisayar anakartı, endüstriyel bilgisayar ve ev sinema bilgisayarları üreten bir elektronik şirketidir.ASRock, 2010 yılında Tayvan merkezli Pegatron bünyesine katıldı.Üretici elektronik şirketi Pegatron’un Tayvan, Çek Cumhuriyeti, Meksika ve Çin’de üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

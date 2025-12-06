@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Dehutech",
+    "description": "“Dehutech“1998 yılında kurulmuş olan Dehutech AB bünyesinde üretilen kurutucu nem gidericiler, iklim kontrolü, nemlendirme, hava arıtma sistemleri, endüstriyel kurutucu nem alma sistemleri ve dondurucu markasıdır.Dehutech AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Guardini",
+    "description": "“Guardini“1947 yılında kurulmuş olan Guardini S.p.A. bünyesinde üretilen fırın eşyaları, tepsileri, tavaları markasıdır.UNI EN ISO 9001 ve SA8000 belgelerine sahiptir.Guardini S.p.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Rotem Munters",
+    "description": "“Rotem“2011 yılında kurulmuş olan tarımsal uygulamalar için bilgisayarlı kontrol ve yönetim sistemleri markasıdır.Kümes hayvanları, domuz ve sığırlar için yüksek kaliteli kontrolörler geliştirmektedir. Sera ekipmanları için tarımsal iklim kontrolü ve havalandırma ekipmanlarında uzmanlaşmıştır.2016 yılında İsveç merkezli Munters AB tarafından tüm hisseleri satın alınmıştır. Ürünleri İsrail’de üretilmektedir. İklim çözümlerinde faaliyet gösteren şirket 20’den fazla fabrikaya sahiptir ve 50’den fazla ülkede çalışması mevcuttur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pofu Tuvalet Kağıdı",
+    "description": "“Pofu“1995 yılında kurulan BİM Birleşik Mağazalar A.Ş. adına muhtelif üreticiler tarafından üretilen tuvalet kağıdı markasıdır.Üreticiler ürünlerini Türkiye’de üretmektedir.Bim Kime Aittir?",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Senfoni Sıvı Sabun",
+    "description": "“Senfoni“1995 yılında kurulan BİM Birleşik Mağazalar A.Ş. adına muhtelif üreticiler tarafından üretilmekte olan sıvı sabun markasıdır.Üreticiler ürünlerini Türkiye’de üretmektedir.Bim Kime Aittir?",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

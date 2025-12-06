@@ -1,0 +1,50 @@
+[
+  {
+    "company": "TV 100",
+    "description": "\"TV 100 Kanalı Kime Ait\"\nTV 100 Balıkesir olarak 1994 yılında yılında faaliyete geçen On TV Radyo ve Televizyon Yayıncılığı A.Ş. Necat Gülseven’e ait 3N Medya Grubu tarafından satın alındı.TV 100 ulusal bazlı haber kanalına dönüştürüldü.3N Medya Grubu bünyesinde ayrıca Bizim EV TV, VIVA TV, Show Radyo ve Radyo Viva yer alıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Tokai",
+    "description": "Tokai, 1940 yılında kurulan çakmak markasıdır.Tokai çakmak markası 2020 yılında Can Uluslararası Yatırım Holding A.Ş. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-12-20"
+  },
+  {
+    "company": "Lancia",
+    "description": "Lancia, 1906 yılında Vincenzo Lancia tarafından kurulan Lancia Automobiles S.p.A. bünyesindeki otomobil markasıdır.Lancia Automobiles S.p.A., şirketinin sahibi 2014 yılında Fiat S.p.A. ve Chrysler Group şirketlerinin birleşmesiyle kurulan İtalya ve Amerika ortaklığındaki Fiat Chrysler Automobiles N.V. (FCA)’dır. Fiat Chrysler Automobiles’in iştiraki, FCA Italy bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cornetto",
+    "description": "Cornetto1927 yılında kurulan dondurma firmalarından biri olan ve Unilever PLC’nin yan kuruluşu olan Algida Food Service bünyesinde üretilen külahlı dondurma markasıdır.Glikoz fruktoz şurubu, glutenli buğday, palm yağı, nişasta, soya lesitini içermektedir.Süt bazlı dondurmadan bitkisel yağ bazlı tatlıya kadar çeşitli varyasyonlar mevcuttur.Unilever PLC. İngiltere merkezlidir. Cornetto markalı dondurmalar Türkiye’de Unilever San. ve Tic. Türk A.Ş. tarafından üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2024-06-13"
+  },
+  {
+    "company": "Oralet Yıl Çıktı",
+    "description": "Oralet, 1960 yılında Eczacıbaşı grubu tarafından üretilen portakal özü tozu markasıdır. İlk başta kavanozlarda sadece turuncu renkli portakal aroması olarak satışa sunuldu. Oralet’in, portakal, limon ve vişne aromalı çeşitleri bulunuyor.Eczacıbaşı 1942 yılında Nejat Ferit Eczacıbaşı tarafından kuruldu. Eczacıbaşı temel olarak yapı ürünleri, sağlık, tüketim ürünleri alanında, ulusal ve uluslararası pazarlara yönelik olarak çalışan bir sanayi kuruluşları topluluğudur. Topluluk yapısında, bu temel sektörler dışında finans, bilgi teknolojileri, kaynak teknolojileri, madencilik ve gayrimenkul geliştirme alanında etkinlik gösteren kuruluşlar da yer alıyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

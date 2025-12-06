@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Vox Electronics",
+    "description": "Vox Electronics2003 yılında kurulmuş olan Erg d.o.o. bünyesinde üretilen görsel işitsel teknoloji, beyaz eşya, küçük mutfak aletleri ve klimalar, tüketici elektroniği ürünleri markasıdır.Erg d.o.o. Sırbistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RS",
+    "updated_date": null
+  },
+  {
+    "company": "Bendicks",
+    "description": "Bendicks1930 yılında piyasaya sürülen çikolata, naneli çikolata markasıdır.Nane yüzde 95 kakao katı içeren kalın, bitter çikolata ile kaplanmıştır.Bendicks, 1988’den beri Almanya merkezli August Storck’un bir yan kuruluşu olan Storck UK Limited bünyesinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fronway",
+    "description": "Fronway2011 yılında kurulmuş olan Zodo Tire Co. Ltd. bünyesinde üretilen lastik ve kauçuk ürünleri markasıdır.Ana ürün, yüksek performanslı yarı çelik radyal lastiklerdir.ISO 9001, ISO 14000, OHSAS 18000 belgelerine sahiptir.Zodo Tire Co. Ltd. Çin merkezlidir. Doğal kauçuk ve diğer hammaddeleri Endonezya ve Malezya’dan ithal etmektedir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Zertum",
+    "description": "Zertum1995 yılında kurulmuş olan Zertum Doğal Zeytin Tarım Ürünleri Hayvancılık San. Tic. Ltd. Şti. bünyesinde üretilen erken hasat soğuk sıkım zeytinyağı, kurutulmuş zeytin yaprağı, organik kırma yeşil zeytin, organik sızma zeytinyağı, organik sele zeytin, organik siyah zeytin ezmesi, organik yeşil zeytin salatası markasıdır.ISO 9001, ISO 14001, ISO 22000 belgelerine sahiptir.Firma Manisa merkezlidir. Ürünlerini Salihli OSB’de 11 bin metrekarelik alanda bulunan 3 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Handaiyan Cosmetics",
+    "description": "Handaiyan2018 yılında kurulmuş olan Yiwu Rongge Electronic Commerce Co. Ltd. bünyesindeki allık ve kontur, doğal kompakt toz, dudak kalemi, dudak parlatıcısı, dudak yağı, eyeliner, fondöten, göz farı, mascara, mat sıvı parıltı, ruj, sıvı eyeliner, sıvı kaş kalemi markasıdır.Yiwu Rongge Electronic Commerce Co. Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

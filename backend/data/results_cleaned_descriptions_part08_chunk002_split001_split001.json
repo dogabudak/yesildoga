@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Nothing",
+    "description": "Nothing, 2020 yılında Carl Pei tarafından kurulmuş olan Nothing Technology Limited bünyesindeki akıllı telefonlar, kulaklıklar gibi tüketici elektroniği markasıdır.Şirketteki yatırımcılar arasında Tony Fadell, Kevin Lin, Steve Huffman ve Casey Neistat yer alırken ayrıca Teenage Engineering kurucu ortak olarak duyurulmuş durumda.Nothing Technology Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Duux Bebek Arabası",
+    "description": "Duux, 2000 yılında kurulmuş olan Özelcan Babymall Mağazacılık Dağıtım Tic. ve San. A.Ş. bünyesindeki baston bebek arabaları, mama sandalyesi, bebek kangru taşıma ekipmanları, ev tipi ana kucağı, ahşap güvenlik kapısı markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kiperin",
+    "description": "Kiperin, 2019 yılında kurulmuş olan Kiperin İlaç Gıda San. ve Tic. Ltd. Şti. bünyesindeki kolajen markasıdır.GMP, HAACP, İSO 9001, İSO 14001, İSO 10002, İSO 45001 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "İSO 10002",
+      "İSO 14001",
+      "İSO 45001",
+      "İSO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Firefriend",
+    "description": "Firefriend, 1992 yılında kurulmuş olan Tristar Europe B.V. bünyesindeki şömine, ocaklar markasıdır.Tristar Europe B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Yakult",
+    "description": "Yakult, 1935 yılında kurulmuş olan Kabushiki Kaisha Yakult Honsha bünyesinde üretilen tatlandırılmış probiyotik sütlü içecek markasıdır.Yağsız süt, glikoz-fruktoz şurubu, sakaroz, doğal aromalar ve canlı bakteriler içermektedir.Kabushiki Kaisha Yakult Honsha Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

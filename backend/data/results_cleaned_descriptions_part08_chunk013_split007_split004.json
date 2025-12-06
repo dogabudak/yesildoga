@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Agromed",
+    "description": "Agromed1999 yılında kurulmuş olan Agromed Gmbh bünyesindeki lignoselüloz bazlı hayvan yemi takviyeleri markasıdır.Agromed Austria Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Colorinn",
+    "description": "Colorinn2020 yılında kurulmuş olan Kozmetikyolu Kozmetik Ürünler Dağıtım Pazarlama Ltd. Şti. bünyesindeki şampuan, saç boyası, saç kremi, saç maskesi, saç serum ve yağı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Etesia Laboratories",
+    "description": "Etesia2006 yılında kurulmuş olan Aks Kozmetik Tarım Ürünleri Kimya Gıda Temizlik Maddeleri İnşaat San. İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen kişisel bakım ürünleri markasıdır.ISO 9001, ISO 13485, ISO 22716 belgelerine sahiptir.Firma Ankara merkezlidir.Bünyesindeki markalar;Etesia LaboratoriesMineaderm",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mb Quart",
+    "description": "Mb Quart2001 yılında kurulmuş olan Maxxsonics Usa Inc. bünyesindeki mobil, denizcilik ve powersports ses ürünleri ve aksesuarları markasıdır.Maxxsonics Usa Inc. Amerika merkezlidir.Bünyesindeki markalar;AutotekCrunchHifonicsMB Quart",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fine Life",
+    "description": "Fine Life1964 yılında kurulan Mip Metro Group Intellectual Property Gmbh & Co. Kg bünyesindeki bonbon şekerler markasıdır.Glikoz şurubu, aroma vericiler, dekstroz, hacim arttırıcı içermektedir.Mip Metro Group Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

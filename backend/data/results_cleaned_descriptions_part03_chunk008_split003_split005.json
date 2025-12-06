@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Tom Tailor",
+    "description": "Tom Tailor, 1962 yılında kurulan Tom Tailor Holding SE bünyesindeki her yaştan erkek ve kadın için giyim ve aksesuarları markasıdır.Tom Tailor markası 30’dan fazla ülkede satılmaktadır.Tom Tailor Holding SE, 2019 yılında, Çinli Fosun Grubu tarafından satın alındı. Fosun Grubu hisselerin yüzde 76,75’ini elinde bulundururken geri kalan yüzde 23,25 ise halka açık. Ürünlerini Hong Kong’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-11-06"
+  },
+  {
+    "company": "Auchan",
+    "description": "Auchan, 1961 yılında Gérard Mulliez tarafından kurulan Auchan Retail International S.A. bünyesindeki perakende markasıdır.Şirketin yüzde 95 hissesi Mulliez Ailesine aittir.2019 itibariyle Fransa, İspanya, Portekiz, Lüksemburg, Polonya, Romanya, Macaristan, Çin ve Tayvan’da doğrudan varlığı ile dünyanın en büyük perakendecilerinden biridir.Auchan Retail International S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Coco Deli",
+    "description": "Coco Deli, 2017 yılında Delio Sinapilo tarafından kurulan Tovarystvo Z Obmezhenoiu Vidpovidalnisliu bünyesindeki hindistan cevizli şeker, hindistan cevizli dondurma, hindistan cevizli elma sirkesi, hindistan cevizi şarabı, hindistan cevizi reçeli markasıdır.Tovarystvo Z Obmezhenoiu Vidpovidalnisliu Ukrayna merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Kwadron",
+    "description": "Kwadron, 2013 yılında kurulan Kwadron sp. z o.o. sp. k., ul. bünyesinde üretilen dövme makineleri, dövme için ekipman ve aletleri, dövme makinesi parçaları, dövme el aletleri markasıdır.Kwadron, dövme için kartuş, iğne, mürekkep ve aksesuarlar üretmektedir.Kwadron sp. z o.o. sp. k., ul. Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Emsisoft",
+    "description": "Emsisoft, 2003 yılında Christian Mairoll tarafından kurulan Emsisoft Company bünyesindeki bilgisayar ve ağ güvenliği yazılımı markasıdır.Emsisoft ürün yelpazesi güvenlik programları Anti-Malware, Enterprise Console, Mobil Güvenlik ve dünyanın ilk tam taşınabilir, ücretsiz çift motorlu tarayıcı Emsisoft Acil Kiti içerir.Emsisoft 2014 yılından beri Yeni Zelanda merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "NZ",
+    "updated_date": "2021-11-18"
+  }
+]

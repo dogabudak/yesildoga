@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Peanut Butter",
+    "description": "Peanut Butter, 1998 yılında Lee Zalben tarafından kurulan Peanut Butter & Co. bünyesinde üretilen fıstık ezmesi, fıstık tozu ve çikolatalı fındık markasıdır.Ürünleri GDO içermemektedir.Peanut Butter & Co. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir, sadece Amerika’da üretilen fıstıkları hammadde olarak kullanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "For X5",
+    "description": "For X5, 2008 yılında İrfan Demir tarafından kurulan Nur Baharat Doğal Yaşam Merkezi bünyesindeki tüy dökücü markasıdır.Firma çay ve cilt bakım ürünleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Youngme",
+    "description": "Youngme, 2009 yılında kurulan Shenzhen Youngme Information Communication System Co., Ltd. bünyesinde üretilen kan basıncı ekranı, kablosuz tansiyon ekranı, kızılötesi termometre, kablosuz kızılötesi termometre, giyilebilir kan basıncı ekranı, vücut isı yönetim sistemi, tansiyon yönetim sistemi markasıdır.Tıbbi ekipman üreticisi Shenzhen Youngme Information Communication System Co., Ltd. Çin merkezlidir. Ürünlerinin her bir parçasını Çin’de tasarlayıp üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pakface",
+    "description": "Pakface, 2001 yılında kurulan Yıldız Kimya Kozmetik bünyesinde üretilen tüy dökücü krem markasıdır.Ürünlerini başta Arap ülkeleri olmak üzere çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar:BİO HAİRGLOCKMCKPAKFACEPAKHAİRPAKSİR",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mindivan",
+    "description": "Mindivan, 1997 yılında kurulan Beyazlar Gıda Teks. Kuyum. ve Day. Tüketim Mal. San. Tic. Ltd. Şti. bünyesinde üretilen kozmetik, bitkisel ürünler, bitkisel çay, doğal yağlar markasıdır.Tüm ürünlerinin bitkisel hammaddesi Türkiye’dir ve alerjen bileşenler içermemektedir. Bitkisel ürünler ve kozmetik ürünler olmak üzere iki ayrı üretim tesisinde Kocaeli’de üretim yapmaktadır. Ürünlerini dünyanın pek çok ülkesine ihraç etmektedir.ISO 22000, 14001, OHSAS 18001, ISO 9001 ve GMP belgelerine sahiptir.Bünyesindeki markalar:ApplexinDekangDyb.X-110FigurelleHürrem Sultan SarayıKalpdemKaplıcahaneKarçiğMagic 19MidülsMindivanMoriteaNotix-60Phyto FloraPink MaskP’OliveRayformexs",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ravioli Buton",
+    "description": "Ravioli, 1926 yılında kurulmuş olan Ravioli Spa bünyesinde üretilen taşıma kaldırma sistemlerine yönelik vinç kumanda tuşları, radyo frekanslı vinç kumanda tuşlıarı, vinçlerde kullanılan döner tur switch, elektrikli araçlar için dc kontaktör, dc konnektör ve güç slip rings markasıdır.Ravioli Spa İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bauvian",
+    "description": "Bauvian, 2003 yılında kurulmuş olan Betamark Gıda Sanayi Yatırım A.Ş. bünyesindeki dondurma, çikolata, baklava markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BauvianBursa Uludağ2543 ChocolateChoco MakerCold PizzaH HazzHazzHazzcappadocia Peribacaları ChocolateHazzchocobonsI’MochiIsushiKayseri Erciyes 3917 ChocolateLo’MacaronLovemade For PleasureMacaronMacwichNevermind.Parisian MakaronPerhizPizza FabrikasıSa’AdeSatısfactory GroupTartuffiTuttuno",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kakusiga",
+    "description": "Kakusiga, 2012 yılında kurulmuş olan Guangzhou Huifeng Electronic Co. Ltd. bünyesinde üretilen taşınabilir şarj cihazı, adaptörler, kulaklıklar, bluetooth hoparlör, veri kablosu, 3C dijital cep telefonu aksesuarları markasıdır.Guangzhou Huifeng Electronic Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2024-08-19"
+  },
+  {
+    "company": "Mad Parfüm",
+    "description": "Mad, 1999 yılında kurulmuş olan Mad Parfüm Kozmetik San. ve Tic. A.Ş. bünyesindeki parfüm markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;Dgr PerfumesKoku Bedenin İmzasıdırKoku Bu’Dur!Kokunla Nefes KesLet’S Get Mad!Mad",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Papsan",
+    "description": "Papsan, 2013 yılında kurulmuş olan Papsan Ambalaj ve Makine San. Tic. Ltd. Şti. bünyesindeki ambalaj ürünleri ve makineleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

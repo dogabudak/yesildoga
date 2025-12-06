@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Chekich",
+    "description": "Chekich, 2014 yılında kurulan Chekich Ayakkabı Çanta Aksesuar Tekstil İmalat İth. İhr. Ltd. Şti. bünyesinde üretilen spor ayakkabı, bot, çanta, sweatshirt markasıdır.Ürünleri yüzde yüz deri el işçiliği ile Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vaico",
+    "description": "Vaico, 1977 yılında Jürgen R. Viertelhaus tarafından kurulan Vierol AG bünyesindeki otomotiv parçaları, motor havası, sensörler, şanzıman bileşenleri, egzoz gazı devridaimi, küçük motorlar, yedek parçalar ve filtre markasıdır.Vierol AG Almanya merkezlidir. Ürünlerini 125 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Toyota İstif Makineleri",
+    "description": "Toyota İstif Makineleri, 1967 yılında Toyota Industries Corporation yan kuruluşu olan Toyota Material Handling Inc. bünyesindeki forklift, kaldırma kamyonları, istifleme makineleri, çekici traktörler markasıdır.Toyota Industries Corporation Japonya merkezlidir. 2003 yılından beri Türkiye’de Toyota İstif Makineleri A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "iwis",
+    "description": "iwis, 1916 yılında kurulan Iwis Se & Co. Kg bünyesinde üretilen eksantrik miller, enjeksiyon pompası, diferansiyel milleri, yağ pompası ve yardımcı üniteler için zincir tahrik sistemleri, hassas zincirler, makaralı zincirler, düz üst zincirler, pimli fırın zincirleri, dişliler, tarımsal zincir sistemleri gibi ürünler markasıdır.Otomotiv parçaları ve aksesuarları üreticisi Iwis Se & Co. Kg Almanya merkezlidir.Bünyesindeki markalar;C EurochainEcoplusEliteEuro ChainFlexonIwisJwisJwis Kits",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Looptone",
+    "description": "Looptone, 2008 yılında kurulan Desonic (Huizhou) Electronics Co. Ltd. bünyesinde üretilen ev elektroniği, pikap, gramofon, taşınabilir dvd, radyo, bluetooth markasıdır.ISO 9001 belgesine sahiptir.Desonic (Huizhou) Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

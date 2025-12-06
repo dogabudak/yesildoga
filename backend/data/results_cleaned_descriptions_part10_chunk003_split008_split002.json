@@ -1,0 +1,52 @@
+[
+  {
+    "company": "SMX Car Care Products",
+    "description": "2010 yılında kurulmuş olan Bulut Smx Kimya Paz. San. ve Tic. İthalat İhracat Ltd. Şti. bünyesindeki otomotiv ve endüstriyel bakım kimyasalları ve çeşitli temizlik ürünleri markasıdır.Firma Aydın merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sevaverek",
+    "description": "1995 yılında kurulan Berlin Kozmetik San. ve Tic. Ltd. Şti. bünyesindeki parfüm markasıdır.ISO 9001 belgesine sahiptir.İstanbul merkezli firma 5 bin metrekarelik kapalı alanda faaliyet göstermektedir ve ürünlerini 20 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Athearn Trains",
+    "description": "1985 yılında kurulan Horizon Hobby LLC bünyesindeki model trenler ve aksesuarlar markasıdır.Horizon Hobby LLC Amerika merkezlidir. Ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Milky Candy",
+    "description": "1987 yılında kurulan Beyazpınar Şeker ve Şeker Mamulleri Gıda San. Tic. Ltd. Şti. bünyesinde üretilen bonbon şekerler markasıdır.ISO 22000 ve Helal belgelerine sahiptir.Kocaeli merkezli firma ürünlerini 50 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Labanh",
+    "description": "2019 yılında kurulan Alyan Gıda Üretim İthalat İhracat San. ve Tic. A.Ş. bünyesinde üretilen hurma markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Sakarya merkezli firma ürünlerini Suudi Arabistan’ın Riyad kentindeki kendi bahçesinde yetiştirmektedir ve el değmeden paketlemektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Indra Sistemas",
+    "description": "Indra Sistemas, 1993 yılında kurulan Indra Sistemas S.A. bünyesinde üretilen bilgi teknolojileri, simülasyon, otomatik test ekipmanları ve elektronik savunma ekipmanları markasıdır.Başlıca iş alanları arasında hava trafik kontrol sistemleri, bilet sistemleri, finansal hizmetler, enerji, seçim teknolojisi ve süreçleri, uçak simülatörleri, savunma, sağlık bilgi sistemleri yer almaktadır.Indra Sistemas S.A. İspanya merkezlidir. Çoğunluk hisseleri İspanya maliye bakanlığına ait olan şirketin büyük hissedarları arasında Amerikalı yatırımcılar ile Norveç Merkez Bankası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ingredion",
+    "description": "Ingredion, 1906 yılında kurulan Ingredion Incorporated bünyesinde üretilen tatlandırıcılar, nişastalar, mısır şurupları, şeker, yağ markasıdır.Firma mısır, tapyoka, patates, bitki bazlı stevia, tahıl, meyve ve sebzeleri yiyecek, içecek, bira ve ilaç endüstrileri ve çok sayıda sanayi sektörü için bileşenlere dönüştürmektedir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.Ingredion Incorporated Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Infor",
+    "description": "Infor, 2002 yılında kurulan Infor Inc. bünyesinde üretilen endüstriye göre iş bulut yazılımları markasıdır.Infor (US) Inc. 2020 yılında Amerika merkezli Koch Industries Inc. tarafından satın alındı. 175’ten fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ecoyou",
+    "description": "Ecoyou, 2017 yılında kurulan Ecoyou Gmbh bünyesinde üretilen sızdırmaz yemek kutuları, emniyetli jilet seti, yıkanabilir pedler, bambu diş fırçası, sabun torbası, pamuklu çubuk, fındık sütü torbası, matara, paslanmaz çelik kutular, sebze poşetleri gibi ürünler markasıdır.Ecoyou Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aroma System",
+    "description": "Aroma System 1988 yılında kurulan Aroma System S.r.l. bünyesinde üretilen hermetik olarak kapatılmış bir ambalajın içindeki doğru basıncı geri kazanmak için tasarlanmış tek yönlü gaz giderme vanaları ve kapsülleri markasıdır.Kapsüller farklı modellerde ve malzemelerde mevcuttur, ayrıca tamamen kompostlanabilir. Kahve endüstrisinde paketleme ve tek servis için birlikte, eksiksiz özel çözümler sunabilmektedir.Aroma System S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

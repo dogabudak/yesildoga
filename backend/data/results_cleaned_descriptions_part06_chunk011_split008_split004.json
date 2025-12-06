@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Pi Makina",
+    "description": "Pi Makina, 1972 yılında kurulan Pimakina Otomotiv İnşaat Makina Pazarlama İhracat İthalat San. ve Tic. Ltd. Şti. bünyesinde üretilen beton santralleri, kule vinçler ve iş ve inşaat makineleri markasıdır.ISO 9000, ISO 14001, ISO 18001, ISO 3834 belgelerine sahiptir.Ankara merkezli firma 2 ayrı yerleşkede toplamda 800 bin metrekare açık ve kapalı alanlarda üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 3834",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Anteo Lastik",
+    "description": "Anteo, 2017 yılında kurulan Prometeon Tyre Group S.R.L. bünyesinde üretilen ağır vasıta lastik markasıdır.Prometeon Tyre Group S.R.L., Pirelli & C. S.P.A bünyesindedir. Pirelli & C. S.p.A’nın yüzde 45,52 oranında hissesi Çinli China National Chemical Corporation Ltd. bünyesindeki Marco Polo International Italy S.r.l’ye aittir, yüzde 10,09 hissesi İtalya merkezli Camfin S.p.A.’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Torex Ayakkabı",
+    "description": "Torex Ayakkabı Nerenin Malı MarkasıTorex, 1985 yılında kurulan Flo Mağazacılık ve Pazarlama A.Ş. bünyesinde üretilen ayakkabı ve bot markasıdır.2013 yılında FLO Mağazacılık ve Paz. A.Ş.’nin yüzde 27 hissesini İngiltere merkezli Turkven Ltd. bünyesindeki Mater Footwear BV, yüzde 11,5 hissesini Bim A.Ş., yüzde 11,5 hissesini Kökler Yatırım Holding A.Ş., Yıldız Holding A.Ş., Üs Holding A.Ş. ve Amerika menşeli Franklin Templeton Luxembourg SA’nın ortaklık payı olduğu Gözde Girişim A.Ş. ‘den oluşan konsorsiyum satın almıştır. Geri kalan yüzde 50 hissesi ise Ziylan Ailesine aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-02-12"
+  },
+  {
+    "company": "Robomow",
+    "description": "Robomow, 1932 yılında kurulan Mtd Products Inc. bünyesindeki otomatik çim biçme makineleri, yedek parça ve aksesuarlar markasıdır.Firma çim biçme makineleri ve kar üfleyiciler gibi dış mekan güç ekipmanları üretmektedir.Mtd Products Inc. Amerika merkezlidir. 20’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Combinal",
+    "description": "Combinal, 1947 yılında kurulan W.Pauli Gmbh & Co KG bünyesindeki kirpik ve kaş renk tonları, kirpik kaldırma ve kirpik bakımı içeren göz artırıcı makyaj ürünleri markasıdır.Ürünleri kadınların kirpik ve kaşlarını mavi, siyah veya kahverengi renklendirmenin yanı sıra, boyalar yüzdeki ilk beyaz tüylerin gelişini gizlemek için çözüm sunmaktadır.W.Pauli Gmbh & Co KG Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

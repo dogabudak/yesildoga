@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kryolan",
+    "description": "Kryolan, 1945 yılında Arnold Langer tarafından kurulan Kryolan GmbH bünyesindeki profesyonel makyaj ürünleri markasıdır.Dünyada 70’in üzerinde ülkede makyaj sanatçıları, kozmetik uzmanları, tiyatro, sinema, TV, video ve efekt uzmanları tarafından tercih edilmektedir.Oyun veya film prodüksiyonlarında kullanılan ve yapımcıların ihtiyaçlarına bağlı olarak farklı ton ve dokularda, yılda yaklaşık 20 bin litre yapay kan üretmektedir. Bu maddeler ağırlıklı olarak jelatin, gliserin, su ve gıda boyasından oluşur.Kryolan GmbH Almanya merkezlidir. İngiltere, Hindistan, Polonya, Güney Afrika ve ABD’de ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Navigold",
+    "description": "Navigold, 2011 yılında kurulan Oktay İthalat bünyesinde Çin’den ithal edilen araç ses ve görüntü sistemleri markasıdır.Araç kamera seti, lcd led tv, araç başlık ekranı, oto müzikçalar, taşınabilir dvd divx, araç içi kamera, plakalık, televizyon anteni, kumanda gibi ürün yelpazesine sahiptir.Oktay İthalat bünyesindeki markalar:OktechNavigold",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Troy",
+    "description": "Troy, Ningbo Sun Group Tools Co., Ltd. bünyesinde üretilen aydınlatma, kesici, el aletleri, elektrikli el aletleri, otomotiv araçları, hava araçları ve setleri, ahşap İşleme aletleri, bahçe aletleri, İnşaat araçları, kilit, yapıştırıcılar, garnitür, çok amaçlı spreyler, cam aletler, tel fırçalar, kablo bağları, kablo makaraları, zımba tabancaları ve teller, disk markasıdır.CE, GS, RoHS gibi belgelere sahiptir.Ningbo Sun Group Tools Co., Ltd. Çin merkezlidir ve ürünlerini Çin’deki fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Zig Kuretake",
+    "description": "Zig Kuretake, 1902 yılında Narakichi Watatani tarafından kurulan Kuretake Co, Ltd bünyesindeki kalemler, fırça kalemleri, mürekkepler, suluboya markasıdır.Kuretake Co, Ltd Japonya merkezlidir.Bünyesindeki markalar:KuretakeZigScrapBooking",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Katana",
+    "description": "Katana, 1945 yılında kurulan Katana Güç Ürünleri San. Tic. Ltd. Şti. bünyesinde 2001 yılından beri üretilen jeneratör ve marin motor markasıdır.Jeneratör, kara ve deniz motorlarını 4 bin 500 metrekare kapalı, bin 500 metrekare açık alanda bulunan tesisinde üretmektedir.ISO 9001, IS0 14001, OHSAS 18001 ve CE belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

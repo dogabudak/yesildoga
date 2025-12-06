@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Fpv Drone",
+    "description": "Fpv Drone, 2006 yılında kurulmuş olan SZ DJI Technology Co. Ltd. bünyesinde üretilen drone multikopter, kameralı dronlar markasıdır.SZ DJI Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Masse Knife Haangi",
+    "description": "Masse Knife Haangi Ülkenin Malı MarkasıMasse Knife, 1972 yılında kurulmuş olan PSL İç ve Dış Tic. A.Ş. bünyesinde üretilen bıçak ve kesici aletler markasıdır.Mutfak bıçakları, kasap bıçakları, şef bıçakları, pastacı bıçakları ve bıçak setleri handy, lua, prestij, prood, rosie, rova, veng, zevon serilerinden oluşur.İstanbul merkezli firma ürünlerini Bursa’da bulunan 3 bin 400 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doralife",
+    "description": "DoraLife, Dora Doğal Ürünler Gıda San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen bitkisel karışımlı macun, ballı çerez, nar ekşisi sosu, acı biber sosu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Halls",
+    "description": "Halls, 2012 yılında kurulmuş olan Mondelez Global LLC bünyesinde üretilen şekerlemeler markasıdır.Mondelez Global LLC Amerika merkezlidir.Bünyesindeki markalar;Chips Ahoy!DentyneHallsOreoRitzSour Patch KidsStrideSwedish FishTridentWheat Thins",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hobby Life",
+    "description": "Hobby Life, 1990 yılında kurulmuş olan Demirel Plastik ve Kalıp San. A.Ş. bünyesinde üretilen plastik ev eşyaları markasıdır.ISO 9001, ISO 14001, ISO 22000 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 40 bin metrekarelik kapalı alana sahip tesislerinde üretmektedir ve 75’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

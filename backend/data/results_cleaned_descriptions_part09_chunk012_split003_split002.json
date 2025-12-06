@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Alpen Gold",
+    "description": "“Alpen Gold“1995 yılında piyasaya sürülen çikolata markasıdır.Markayı 2012 yılında Amerika merkezli Mondelez International Inc. satın almıştır.Mondelez Hakkında Bilgi",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cricut",
+    "description": "“Cricut“1969 yılında kurulmuş olan Cricut Inc. bünyesindeki kart, çıkartma ve etiketler için ultra kompakt kesme makinesi, tam renkli çıkartma, özel kart, tişört için kesme makinesi, ahşap kesmek, metal kazımak için kesme makinesi markasıdır.Cricut Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-12-10"
+  },
+  {
+    "company": "Karntnermilch",
+    "description": "“Karntnermilch“1928 yılında kurulmuş olan Karntnermilch reg. Gen.m.b.H bünyesinde üretilen tereyağı, tam yağlı süt, yarı yağlı süt, krem şanti ve ekşi krema, laktoz içermeyen alternatifler markasıdır.Kärntnermilch reg. Gen.m.b.H Avusturya merkezlidir.Bünyesindeki markalar;Bio WiesenmilchKarntnermilch",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Sonti",
+    "description": "“Sonti“1998 yılında kurulmuş olan Göyçay-Süd ASC bünyesindeki meyve suları ve nektarları markasıdır.Göyçay-Süd ASC Azerbaycan merkezlidir. Ürünlerini birçok ülkeye pazarlamaktadır.Bünyesindeki markalar;4uCanaxGarnetOgrayaSonti",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Contractubex",
+    "description": "“Contractubex“1959 yılında Merz Therapeutics Gmbh bünyesinde üretilen yara izi ürünleri markasıdır.Yara izlerinin önlenmesi, normal yara iyileşme sürecinin teşvik edilmesi, iltihap, kızarıklık önleme, şişlik, ağrı ve tahrişi azaltmayı amaçlar.Merz Therapeutics Gmbh Almanya merkezli Merz Group’un bir parçasıdır. Ürünlerini 90’dan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;ContractubexCuvposaHepa-MerzPK-MerzPantogar",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

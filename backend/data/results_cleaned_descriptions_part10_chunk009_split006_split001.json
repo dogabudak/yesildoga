@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Nofar",
+    "description": "2011 yılında kurulmuş olan OY Nofar Energy Ltd. bünyesindeki güneş enerji sistemleri, çatı fotovoltaik sistemler markasıdır.OY Nofar Energy Ltd. İsrail merkezlidir. Dünyanın en büyük ticari ve endüstriyel güneş şirketlerinden biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Dayko’m Çanta",
+    "description": "2003 yılında kurulmuş olan Dayko’m Çanta Deri Teks. Tic. Ltd. Şti. bünyesinde üretilen sırt çantası, okul çantası, laptop çantası, kamp çantası, spor çantası ve seyahat valizi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Multipor",
+    "description": "2002 yılında kurulmuş olan Xella Baustoffe Gmbh bünyesinde üretilen cephe sistemi, ısı yalıtım levhası, mantolama sistemi, tavan ısı yalıtım sistemi markasıdır.Xella Baustoffe Gmbh 2016 yılında Amerika merkezli Lone Star Global Acquisitions Ltd. tarafından satın alınmıştır.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "TPI Composites",
+    "description": "1968 yılında kurulmuş olan TPI Composites Inc. bünyesinde üretilen kompozit rüzgar kanatları markasıdır.TPI Composites Inc. Amerika merkezlidir. ABD, Meksika, Türkiye ve Hindistan’da fabrikalar işletmektedir. Türkiye’de TPI-Kompozit Kanat San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hapon",
+    "description": "1995 yılında kurulmuş olan Hapon Spol. S R.O. bünyesindeki makine ve sondaj aletleri markasıdır.Hapon Spol. S R.O. Çek Cumhuriyeti merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  }
+]

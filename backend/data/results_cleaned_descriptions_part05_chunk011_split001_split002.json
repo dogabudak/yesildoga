@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Workiva",
+    "description": "Workiva, 2008 yılında kurulan Workiva Inc. bünyesindeki bulut bilişim hizmeti markasıdır.Verileri yönetme ve raporlama biçimini dönüştürmektedir. Finansal ve ESG raporlamasını basitleştirmek için işbirliğini ve mevcut iş akışlarına derinlemesine entegrasyonu sorunsuz bir şekilde sağlamak için bağlı bulut platformu kullanılmaktadır.Workiva Inc. Amerika merkezlidir. 180 ülkede kullanılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pekşeker",
+    "description": "Pekşeker, 2004 yılında kurulan Marmara Çay Gıda Paz. ve Reklam Hizmetleri San. ve Tic. A.Ş. bünyesinde, yüzde 100 doğal şeker pancarından üretilen küp, sargılı, dökme, kristal şeker markasıdır.Ürünlerinde hiçbir katkı maddesi kullanılmamaktadır. ISO 22000 belgesine sahiptir.İstanbul merkezli firma Tuzla OSB’de 3 bin 500 metrekarelik alanda bulunan tesislerinde üretim yapmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-08-27"
+  },
+  {
+    "company": "L’Erbolario",
+    "description": "L’Erbolario, 1978 yılında Franco Bergamaschi ve Daniela Villa tarafından kurulan L’Erbolario Societa Benefit S.r.l. bünyesindeki bitki bazlı kozmetik ürünler markasıdır.L’Erbolario Societa Benefit S.r.l. İtalya merkezlidir ve ürünlerini 142 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Sarakan",
+    "description": "Sarakan, 1965 yılında kurulan G. R Lane Health Products Ltd. bünyesindeki diş macunu, diş fırçası gibi ağız sağlığı ürünleri markasıdır.Diş Macunu florür, şeker, yapay renklendirici, sodyum lauril sülfat (sls) ve hayvansal kaynaklı bileşenler içermez. Nane, karanfil ve sardunya yağı ile tatlandırılır.G. R Lane Health Products Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Perlodent",
+    "description": "Perlodent, 1846 yılında John Dwight tarafından kurulan Church & Dwight Co. Inc. bünyesindeki ağız bakım ve ağız hijyeni ürünleri, diş bakım ürünleri, diş macunları, diş jelleri, diş cilası, diş beyazlatıcılar, ağız gargaraları ve ağız çalkalama, nefes tazeleyiciler markasıdır.Church & Dwight Co. Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

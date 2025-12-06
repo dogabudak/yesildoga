@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Piz Buin",
+    "description": "Piz Buin, 1936 yılında kurulan Cilag Gmbh International bünyesindeki nemlendirici, güneş koruma ürünleri, güneş kaynaklı erken cilt yaşlanma önleyici UVA / UVB güneş koruma filtreleri markasıdır.Cilag Gmbh International, 1959 yılında Amerika merkezli Johnson & Johnson Inc. tarafından satın alındı. İsviçre’de farmasötik ve tıbbi ürünler ile aktif bileşenler üreten Cilag AG, Johnson & Johnson Inc.’in ilaç bölümü olan Janssen’in bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Akdoruk",
+    "description": "Akdoruk, 2009 yılında kurulan Aksüt Kaynak Su A.Ş. bünyesinde üretilen doğal kaynak suyu markasıdır.Damacana, cam damacana, bardak su, cam şişe su, şişe suyu, koli su olarak tam otomatik robotlarla dolum yapmaktadır.Üretim yaptığı kaynaklar yerleşim birimlerine ve sanayi alanlara çok uzak olduğu için çevre kirliliğinden etkilenmemektedir ve polietilen borularla suyu tesislerine taşımaktadır. İşletme bünyesinde kullanılan ürün hammadde ve katkı maddelerinde allerjen madde bulunmamaktadır.Firma ürünlerini Aydın’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mousson Laboratories",
+    "description": "Mousson Laboratories, 2000 yılında kurulan Amka Health & Beauty International Ltd. bünyesindeki şampuan, saç kremi, maske, bakım kremi markasıdır.Ürünleri sülfat, paraben, silikon, parafin içermez. Hayvanlar üzerinde test edilmemektedir.Lüks banyo, vücut ve saç ürünleri üreticisi Amka Health & Beauty International Ltd. İrlanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Fujiyama",
+    "description": "Fujiyama, 1974 yılında kurulan Ersel Isıtma Enerji Sistemleri Ekipmanları San. ve Tic. Ltd. Şti. bünyesinde üretilen doğalgazlı soba ve ekipmanları markasıdır.Bacalı doğalgaz ve lpg sobası, gazlı şömine, hermetik doğalgaz ve lpg sobası gibi ürünler üretmektedir.Firma Kayseri merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Membat Tire",
+    "description": "Membat Tire, 1992 yılında kurulan Sentaida Group’un yan kuruluşu Qingdao Sentury Tire Co. Ltd. bünyesinde üretilen araç lastiği markasıdır.Firma ağırlıklı olarak binek otomobil lastikleri üretmektedir.ISO 9001, ISO 14001, ISO 18001 belgelerine sahiptir.Qingdao Sentury Tire Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

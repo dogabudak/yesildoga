@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Foxconn",
+    "description": "Foxconn, 1974 yılında kurulan elektronik bileşenler üretmek amacıyla kuruldu.Hon Hai / Foxconn Industry Co., Ltd. elektronik imalat hizmetleri sektöründe faaaliyet gösteren Tayvan merkezli çok uluslu bir şirkettir.Dünyanın en büyük elektronik imalat hizmetleri sağlayıcısıdır ve Çin’in en büyük ihracatçılarındandır.Foxconn’un, Asya, Avrupa ve Güney Amerika’da çok sayıda fabrikası vardır. Hon Hai ilk imaalat fabrikasını 1988 yılında Çin’de açtı. Çin’in 9 şehrinde toplam 13 fabrikaya sahiptir. Macaristan, Slovakya ve Çek Cumhuriyeti’nde fabrikalara sahiptir. Türkiye’de 23 bin 621 metrekare alan üzerinde kurulu 14 bin metrekarelik bir fabrikası vardır. Meksika’da iki tesise sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Shiseido",
+    "description": "Shiseido, 1872 yılında Arinobu Fukuhara tarafından kurulan kişisel bakım ürünleri markasıdır.Shiseido Company, Japonya merkezli üreticidir ve Japonya’nın en büyük, dünyanın 5. büyük kozmetik şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2019-08-10"
+  },
+  {
+    "company": "La Mer",
+    "description": "“La Mer“1950 yılında Max Huber tarafından kurulmuş olan La Mer Technology Inc. bünyesinde üretilen cilt bakımı ve kozmetik ürünler markasıdır.La Mer Technology Inc. 1995 yılında Amerika merkezli The Estée Lauder Companies Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-09-12"
+  },
+  {
+    "company": "Origins",
+    "description": "Origins, 1990 yılında Leonard Lauder tarafından kurulan cilt Bakımı, saç bakımı, makyaj ve parfüm ürünleri markasıdır.Origins Amerikan merkezli Estee Lauder Şirketler Grubu bünyesinde yer alır.Estee Lauder Türkiye’de ELCA Kozmetik Ltd. Şti. ile hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "FarEasTone",
+    "description": "FarEasTone, 1997 yılında kurulan telekomünikasyon şirketidir.Java 32K SIM Toolkit, mobil bankacılık, mobil ticaret, finansal, eğlence ve başlık haberleri, Mobil Faks / posta, Logo ve e-kuponlar için gerçek zamanlı erişim sunmak için kurulan Tayvanlı şirkettir.Telekom Blockchain konsorsiyumu CBSG; ABD merkezli Blockchain teknolojileri şirketi TBCASoft, Inc. ve Japonya merkezli SoftBank Corp. liderliğinde, ABD merkezli Sprint Corporation ve Tayvan merkezli Far EasTone Telecommunications Co., Ltd.’nin (FarEasTone) ilk kurucu üyelikleriyle telekom operatörleri için özel olarak tasarlanmış yenilikçi bir Blockchain platformunun ortaklaşa geliştirilmesini sağlamak 2017 yılında kuruldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

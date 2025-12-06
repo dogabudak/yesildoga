@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Gegeler",
+    "description": "Gegeler, 1985 yılında kurulan GeGeler Süt Ürünleri Gıda San. Dış Tic. Paz. A.Ş. bünyesinde üretilen Kemal paşa tatlısı ve Biga peynir tatlısı markasıdır.Üretimde kullanılan tüm hammaddeler doğal ve hiçbir katkı maddesi içermemektedir.Firma ürünlerini Çanakkale Biga OSB’de 8 bin 275 metrekarelik arsa üzerinde bulunan 5 bin 500 metrekarelik alana sahip tesisinde üretmektedir.Bünyesindeki markalar;GürşenGegelerGegemGegesanGegetat",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vialli Dispanser",
+    "description": "Vialli, 1993 yılında kurulan Oğuzhan Plastik Kalıp San. Ltd. Şti. bünyesinde üretilen sıvı sabun ve kağıt dispenserleri markasıdır.Firma kağıt havlu dispenserleri, tuvalet kağıdı dispenserleri, peçete dispenserleri, sıvı sabun dispenserleri, köpük dispenserleri, foamhand kartuşlu sistem, cam silgeçi, buz kazıyıcı, metal sap gibi temizlik gereçleri üretmekte ve üretimin büyük bir kısmını yurtdışına ihraç etmektedir.Firma ürünlerini Sakarya’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "First Solar",
+    "description": "First Solar, 1999 yılında Mike Ahearn tarafından kurulan First Solar Inc. bünyesinde üretilen ince film güneş modülleri ve kapsamlı fotovoltaik sistem çözümleri markasıdır.First Solar Inc. Amerika merkezlidir. Amerika ve Malezya’da üretim tesislerine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Karpuzoğlu",
+    "description": "Karpuzoğlu Nerenin Malı MarkasıKarpuzoğlu, 2014 yılında kurulan Biga Dört El Gıda Hayvancılık Nakliye Turizm San. ve Tic. A.Ş. bünyesinde üretilen biga peynir tatlısı, kemalpaşa tatlısı, profiterol, peynir helvası ve süt ürünleri markasıdır.Firma ürünlerini Çanakkale’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Modern Çikolata",
+    "description": "Modern Çikolata, 2015 yılında Tayyar Yatırım tarafından kurulan Modern Çikolata Gıda San. ve Tic. A.Ş. bünyesinde üretilen çikolata, çikolata kaplı ürünler, krem ​​çikolata, kek, kraker, gofret, bisküvi markasıdır.İstanbul merkezli firma Karaman’da bulunan 80 bin metrekarelik açık ve 45 bin metrekarelik kapalı alana sahip iki üretim tesisinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

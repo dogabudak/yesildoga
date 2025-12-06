@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Himel Marka Elektrik Malzemeleri",
+    "description": "Himel, 2007 yılında kurulan Delixi Electric tarafından üretilen alçak gerilim ürünleri markasıdır.Delixi Electric 3 üretim üssü, 2 R&D merkezi, 1 yenilik Merkezi, 17 satış ofisi, 14 lojistik merkezi, 28 servis ofisi olan Çinli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Carex Sweden",
+    "description": "Carex, 2010 yılında kurulan Dermokozmetik, Sağlık, Kozmetik, Güzellik ürünleri markasıdır.2019 yılında İsveç’te açtığı ve 2 bin metrekare kapalı alana sahip üretim tesisi bulunan şirketin Türkiye, Suudi Arabistan ve Cezayir’de satış ofisleri ve üretim tesisleri bulunuyor.Saç ve cilt sorunlarına karşı kimyasal içermeyen bitkisel ve organik çözümler sunuyor.Carex Sweden İsveç merkezli bir firmadır. Dünya’da 35’e yakın ülkede ürünleri satılmaktadır.Bünyesindeki markalar:BionnexCelenesUvelaDr. Oil",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Lavor Ülke",
+    "description": "Lavor, 1975 yılında kurulan Lavorwash grup bünyesindeki her türlü uygulamalara uygun temizlik makineleri markasıdır.Lavor ürünleri; yüksek basınçlı conta, süpürge, Islak veya Kuru Elektrikli süpürge, buhar yüzeyi temizleyicileri, zemin yıkayıcı veya kurutucular ve buhar jeneratörleri içerir.Lavorwash Grup İtalya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Permco",
+    "description": "Permco, 1964 yılında kurulan Permco Inc. bünyesindeki yüksek basınçlı hidrolik dişli pompalar ve motorlar, akış bölücüler, yoğunlaştırıcılar ve aksesuarla üreticisidir.İş ve inşaat makinelerinin en önemli ihtiyacı olan döküm gövdeli dişli pompaları, burçlu pompa ve akış bölücülerine sahiptir.Permco Inc. Amerikan merkezli bir şirkettir. Şirketin Amerika’daki üretim tesisine ek olarak Çin’de üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Organic Natural Colors Kullananlar",
+    "description": "Organic Natural Colors, 1990 yılında kurulan Herb UK Co. Ltd. tarafından üretilen organik saç boyası markasıdır.Boyanın içeriği ana maddesi soya yağıdır, amonyak, resorsinol, paraben içermez. Kullanılan bitki ve meyveler, organik tarım şartlarında yetiştirilmiş ve organik ürün olarak sertifikalandırılmıştır.Hayvanlar üzerinde test edilmemiştir ve formülünde hayvansal içerik yoktur.Herb UK Co. Ltd. İngiltere merkezli bir şirkettir. Ürünlerini 30 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

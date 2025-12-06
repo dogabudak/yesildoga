@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Weinmann",
+    "description": "Weinmann 1874 Gottlieb Weinmann tarafından kurulan Havayolu Basıncı Cihazı markasıdır.2013 yılında Weinmann bölünerek Löwenstein grubu bünyesine dahil oldu. Grup 1986 yılında Reinhard Löwenstein tarafından kurulan Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fisher Paykel",
+    "description": "Fisher Paykel 1934 yılında kurulan Fisher & Paykel Healthcare Limited bünyesindeki medikal sağlık ürünleri markasıdır.Fisher & Paykel Healthcare Limited, 2012 yılında, Çin merkezli cihaz üreticisi Haier tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-01-02"
+  },
+  {
+    "company": "AirTAC",
+    "description": "AirTAC, 1988 yılında kurulan AirTAC International Group bünyesindeki Pnömatik ekipmanları markasıdır.Ambalajlama, baskı, plastik, doldurma, ultrasonik, tıbbi tedavi, eczane, seramik, kaynak, inşaat, torna, dikiş, metalurji, otomobil, elektronik, baskı ve diğer sektörel sektörler için tam tip ve özelliklere sahip geniş bir ürün yelpazesi sunmaktadır.AirTAC International Group merkezi Tayvan’da bulunmaktadır ve üretimlerini Tayvan’da kurulan 3 fabrikasında gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Köhler Elektrik Sayacı",
+    "description": "Köhler, 1970 yılında kurulan Alto Holding Grubu bünyesindeki tesisat, taahhüt ve elektrik malzemeleri markasıdır.1990 yılında Köhler Elektrik Sayaçları San. ve Tic. A.Ş. kurularak üretime geçmiştir. 1993-2002 yılları arasında Türkiye elektrik sayacı pazarının yarısına sahip oldu.İstanbul’daki fabrikasında yıllık 3 milyondan fazla sayaç üretim kapasitesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Teknopest",
+    "description": "Teknopest, 2004 yılında kurulan Teknopest Elektronik bünyesindeki elektronik fare ve haşere kovucu cihazları markasıdır. Elektronik fare ve haşere kovucu cihazlarına 5 yılda bir yazılım ve donanım güncellemesi yapmaktadır.Firma ayrıca tasarruflu duş ve mutfak başlıkları üretmektedir.Ürünlerinin tamamını Türkiye’de, kendi üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-08-03"
+  }
+]

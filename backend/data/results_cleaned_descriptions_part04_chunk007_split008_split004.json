@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Avant Browser",
+    "description": "Avant Browser, 1999 yılında Anderson Che tarafından kurulan Avant Force Company bünyesinde geliştirilen web tarayıcı markasıdır.Üç çekirdekli işleme motoruna sahiptir. İndirme dosyalarını birkaç parçaya bölen hızlandıran çok iş parçacıklı bir tarayıcıya sahiptir. Youtube vb. gömülü videoları indirmeye izin verir. Bir web sayfasının tüm tarayıcıyı dondurmasını engelleyen özel tasarlanmış bir çerçeveye sahiptir. Uzun süreli kullanımdan sonra bile, web sayfalarını tekrar tekrar açıp kapattıktan sonra ana tarayıcılardan daha fazla sistem belleği tasarrufu sağlamaktadır. Bağlantıyı web sayfasının herhangi bir yerine sürükleyip bırakarak yeni sekmede bir bağlantı açabilir. Url’leri kopyala’yı tıklatarak açılan bağlantıların bir kopyası alınabilir.Çinli Avant Force şirketi İngiliz Virgin Adaları merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Browzar",
+    "description": "Browzar, 2006 yılında kurulan Browzar Limited bünyesinde geliştirilen web tarayıcısı markasıdır.Kurulumsuzdur ve taşınabilir. Çerezleri, geçmişi, geçici dosyaları, şifreleri, önbelleği kaydetmez.Browzar Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Maha",
+    "description": "Maha, 1968 yılında kurulan MAHA Maschinenbau Haldenwang GmbH & Co. KG bünyesinde üretilen araç test ve kaldırma ekipmanı markasıdır.Almanya ve ABD’de bulunan 100 bin metrekareden fazla alanda bulunan iki fabrikasında üretim yapmaktadır.MAHA Maschinenbau Haldenwang GmbH & Co. KG Almanya merkezlidir. Ürünlerini 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Abu Garcia",
+    "description": "Abu Garcia, 1937 yılında kurulan Pure Fishing, Inc. bünyesindeki makara, çubuk ve balıkçılık ekipmanları markasıdır. PENN Fishing şirketi Pure Fishing, Inc.’in bir parçasıdır.Pure Fishing, Inc., 2018 yılında Amerika merkezli Sycamore Partners tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-08-07"
+  },
+  {
+    "company": "Pure Natural",
+    "description": "Pure Natural, 1980 yılında kurulan Brillux GmbH & Co. KG bünyesindeki doğal cilt ürünleri ve güzellik salonları ve çok sayıda kişisel bakım.Brillux GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

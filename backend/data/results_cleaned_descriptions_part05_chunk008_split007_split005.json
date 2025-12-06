@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Daylux",
+    "description": "Daylux, 1924 yılında kurulan Daikin Industries Ltd. bünyesindeki Daikin Isıtma ve Soğutma Sistemleri San. Tic. A.Ş. tarafından üretilen klima, kombi, duvar tipi kazan, yer tipi kazan markasıdır.Daikin Industries Ltd. Japonya merkezlidir. Japonya, Çin, Tayland, Belçika, Çek Cumhuriyeti ve Türkiye’de üretim tesisleri bulunmaktadır. 2011 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Crankbrothers",
+    "description": "Crankbrothers, 1997 yılında kurulan Crank Brothers Inc. bünyesindeki spor malzemeleri markasıdır.Dağ bisikleti bileşenleri, pedallar, damlalık direkleri, tekerlekler, pompalar, aletler ve aksesuarları üretmektedir.Crank Brothers Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alfa Krank",
+    "description": "Alfa Krank 2002 yılında kurulan Alfa Krank Makina Döküm San. Tic. Ltd. Şti. otomotiv yedek parçaları markasıdır.Traktör veya zirai makineler, deniz motorları, jeneratör-kompresör-soğutma sistem krankları ve özel amaçlı makineler için krank mili üretmektedir.Ürünlerini Ankara Sincan OSB’de üretmektedir. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ayfar",
+    "description": "Ayfar, 1993 yılında kurulan Ayfar Otomotiv San. ve Tic. A.Ş. bünyesinde üretilen karayolları taşıt araç ve gereçleri aydınlatma lambaları markasıdır.Far, far camı, stop-sinyal sis lamba ve çeşitli aydınlatma aksesuarları üretmektedir.Ürünlerini İstanbul Silivri’de bulunan toplam 40 bin metrekarelik 3 üretim tesisinde üretmektedir. Ürünlerinin yüzde 70’ini 40’tan fazla ülkeye ihraç etmektedir.ISO 9001, IATF 16949, EAC, ECE belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ty Toys",
+    "description": "Ty Toys, 1986 yılında Harold Ty Warner tarafından kurulan Ty Inc. bünyesindeki yumuşak oyuncaklar markasıdır.Peluş hayvan şirketidir. Bugüne kadar en ünlü ürün yelpazesi Beanie Babies olmakla birlikte, diğer üretim hatları doldurulmuş oyuncaklardır.Ty Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

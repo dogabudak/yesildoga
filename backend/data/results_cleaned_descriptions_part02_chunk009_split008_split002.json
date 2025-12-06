@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Yoyoso",
+    "description": "Yoyoso, 2014 yılında Huan Ma tarafından kuruldu. Yiwu Think Tanks Trading Co.,Ltd. şirketi bünyesindeki mağaza, kozmetik, ev aksesuarları, moda aksesuarları, moda çantaları, dijital aksesuarlar, kırtasiye malzemeleri ve hediyelik eşyalar, mevsimlik ürünler markasıdır.Yiwu Think Tanks Trading Co.,Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dualit",
+    "description": "Dualit, 1946 yılında mucit Max Gorth-Barten tarafından kurulan Dualit Limited bünyesindeki elektrikli mutfak aletleri, su ısıtıcısı, tost, kahve ve çay makineleri markasıdır.Dualit Limited İngiltere merkezlidir.2015 yılında kurulan DTM İthalat İhracat ve Dış Ticaret Ltd. Şti. Dualit ürünlerinin Türkiye dağıtıcısıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Only & Sons",
+    "description": "Only & Sons, 1975 yılında Bech Povlsen ve Troels Holch Povlsen tarafından kurulan aile şirketi BESTSELLER Inc. bünyesindeki kadın, erkek ve çocuklar için moda giyim ve aksesuar markasıdır.BESTSELLER Inc. Danimarka merkezlidir. Çin, Hindistan, Bangladeş, Türkiye ve İtalya’da seçilen tedarikçilerle işbirliği yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Reswell",
+    "description": "Reswell, 2000 yılında kurulan Beijing Rongrui-Century Scie. & Tech. Co., Ltd. bünyesindeki CPAP, APAP Serisi, HFNC gibi evde bakım ürünleri markasıdır.Medikal monitör aksesuarları üreticisi Beijing Rongrui-Century Scie. & Tech. Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Palette",
+    "description": "Palette, 1898 yılında kimyager Hans Schwarzkopf tarafından kurulan Schwarzkopf bünyesindeki saç boyası markasıdır. 1995 yılında Henkel tarafından satın alınmıştır.Almanya merkezli Henkel 1963 yılında Türkiye’de faaliyetlere başladı. İstanbul’daki fabrikasında üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

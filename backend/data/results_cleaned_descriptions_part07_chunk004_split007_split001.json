@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Swissport",
+    "description": "Swissport, 1996 yılında kurulmuş olan Swissport International Ltd. bünyesindeki havayolları ve havaalanları için yolcu, yer hizmetleri, misafir evi, kargo elleçleme, rampa kullanımı, uçaklara yakıt ikmali hizmetleri markasıdır.Swissport International Ltd. 2015 yılında Çin merkezli HNA Group tarafından satın alınmıştır. 50 ülkede 315’ten fazla istasyonda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mazagrande",
+    "description": "Mazagrande, 1949 yılında kurulmuş olan Tchibo Markenverwaltungs Gmbh & CO. KG bünyesinde üretilen kahve özlü ve karışık meyveli gazlı içecek markasıdır.Tchibo Markenverwaltungs Gmbh & CO. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ceylor",
+    "description": "Ceylor, Lamprecht AG bünyesindeki konom, yağlar, cinsel oyuncaklar markasıdır.Lamprecht AG İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "BorgWarner",
+    "description": "BorgWarner, 1928 yılında kurulmuş olan BorgWarner Inc. bünyesindeki otomotiv, hava yönetimi turboşarjı, ebooster, eturbos, kontrol sistemleri, egzoz sistemleri, yakıt ateşleme sistemleri, akıllı aktüatörler, güç aktarma sensörleri, teneke kutu, ısıtma çözümleri, akü ısıtıcısı ve akü şarjı, dönen elektrikli bileşenler, güç elektroniği, kontrol modülleri, yazılım, sürtünme elemanları ve otomatik şanzımanlar için mekanik ve tork yönetimi için ürünler, yakıt enjeksiyonu markasıdır.BorgWarner Inc. Amerika merkezlidir. Ürünlerini 22 ülkede bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Soda PDF",
+    "description": "Soda PDF, 2010 yılında kurulmuş olan LULU Software Limited bünyesinde tasarlanan tam özellikli masaüstü ve çevrimiçi PDF çözümü markasıdır.LULU Software Limited, Fransa merkezli Avanquest grubunun bir parçasıdır. 160’tan fazla ülkede müşterisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

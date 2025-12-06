@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Beaute Attendue",
+    "description": "Beaute Attendue, 2021 yılında kurulmuş olan Arkevital Kozmetik San. ve Tic. Ltd. Şti. bünyesindeki kişisel bakım ürünleri markasıdır.Firma Muğla merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Boggi Milano",
+    "description": "Boggi Milano, 1930 yılında kurulmuş olan Bbb SPA bünyesindeki erkek hazır giyim, ayakkabı ve aksesuarları markasıdır.Bbb SPA İtalya merkezlidir. 40’a yakın ülkede 200’e yakın mağazaya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Genta Prestige",
+    "description": "Genta Prestige, 1989 yılında kurulmuş olan Genta Genel Tarım Ürünleri Paz. A.Ş. bünyesindeki bitki besleme ürünleri, tohum, torf, toprak markasıdırFirma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fjern",
+    "description": "Fjern, 2018 yılında kurulmuş olan North Lane Group Ltd. bünyesindeki kadın ve erkekler için açıkhava kışlık giyim ve aksesuarları markasıdır.North Lane Group Ltd. İngiltere merkezlidir.Bünyesindeki markalar;BolgerFjernFlyteIsobaaPikaRiveloRockaySamphireStormholdUntraktVilde & KingVulpine",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Milu Termos",
+    "description": "Milu, Wunschproducts Inh. Julian Wunsch bünyesindeki espresso makinesi, kahve değirmeni, paslanmaz çelik içecek şişesi,, paslanmaz çelik sıcak tutma kabı, yemek kabı, bebek maması kabı, yemekleri sıcak tutma kabı, yemek termosu, müsli taşıma kabı,, termo şişeler, termo konteyner, termo kupa, termos bardak, termoslar, yedek kapak pipet kapağı markasıdır.Wunschproducts Inh. Julian Wunsch Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

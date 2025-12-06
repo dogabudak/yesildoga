@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Alo Yoga",
+    "description": "“Alo Yoga“2007 yılında kurulmuş olan Alo LLC bünyesindeki kadınlar ve erkekler için yoga pantolonu, egzersiz taytı, tayt, kapri, yoga tozluğu, kıyafetleri ve aksesuarları markasıdır.Alo LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Barçın Spor",
+    "description": "“Barçın Spor“1958 yılında Ali Barçın tarafından kurulmuş olan Barçın Spor Malzemeleri Tic. ve San. A.Ş. bünyesindeki spor giyim ve aksesuar perakende markasıdır.Firma İzmir merkezlidir. Türkiye genelinde 30’dan fazla şubeye sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Proliz",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-08-08"
+  },
+  {
+    "company": "Boatman",
+    "description": "“Boatman“​2016 yılında kurulmuş olan Shenzhen Boatman Technology Co. Ltd. bünyesindeki çeşitlendirilmiş balıkçılık yemleri ve sonar balık dedektörleri markasıdır.Shenzhen Boatman Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ceoberry",
+    "description": "“Ceoberry“​2020 yılında kurulmuş olan Ceo Aksesuar Tekstil Züccaciye Ambalaj San. Tic. Ltd. Şti. bünyesindeki eşofman takımları, kışlık ürünler, nevresim takımları, temizlik ürünleri, toptan havlu, çorap, polar sweat, tayt modelleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

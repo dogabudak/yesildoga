@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fluo Ülke",
+    "description": "Fluo, 2015 yılında kurulan, mobil iletişim pazarında dinamik olan M&Τ bünyesindeki teknoloji firmasıdır.M&Τ Yunanistan merkezlidir. Türkiye pazarına 2014 yılında giriş yaptı. M&Τ ithalatçı bir ticari şirket olup; teknolojik ürünlerle ilgilenmektedir.Yunanistan, Türkiye, Kıbrıs ve Çin’de faaliyet göstermektedir. Yunan şirketi olan NIPPON – D. Mavrogenis S.A’nın kardeş şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Egos",
+    "description": "Egos, 1991 yılında Eczacıbaşı bünyesinde üretilen saç şekillendirme ürünleri markasıdır.Eczacıbaşı 1942 yılında Nejat Ferit Eczacıbaşı tarafından kurulan yapı ürünleri, sağlık, tüketim ürünleri alanında, ulusal ve uluslararası pazarlara yönelik olarak çalışan bir sanayi kuruluşları topluluğudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kalde",
+    "description": "Kalde, 1977 yılında kurulan tesisat sistemleri üretimi yapan sanayi firmasıdır.Kalde Klima Orta Basınç Fittings ve Valf Sanayi A.Ş. Türkiye’nin büyük sanayi kuruluşları için üretim yapan bir Türk şirkettir. Ürünlerini 40’ın üzerinde ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lav",
+    "description": "Lav, 1994 yılında kurulan Gürok Turizm ve Madencilik A.Ş. bünyesinde üretilen sofra camı ürünleri markasıdır.Cam üretimini 2001 yılında bünyesinde kurduğu Teknopark’ta (fabrika içinde fabrikada) gerçekleştiriyor. Teknopark, alanında kendi üretim teknolojisini oluşturan dünyadaki 3 firmadan biridir.Lav, dünyada başta Fransa, İspanya ve İran olmak üzere, Brezilya, Çin ve Filipinler’e kadar 130 farklı ülkeye ürünlerini ihraç ediyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-05-08"
+  },
+  {
+    "company": "Polikor Ülke",
+    "description": "Polikor, 1993 yılında kurulan doymamış polyester reçineleri ve çeşitli polyester ürünlerin markasıdır.Türk firmasının fabrikası Bursa’da bulunurken Tayvan’da bir ofisi bulunmaktadır.Firma birçok ülkeye ihracat yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

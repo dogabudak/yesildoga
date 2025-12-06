@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kiddo Ayakkabı",
+    "description": "“Kiddo“1923 yılında kurulmuş olan Ayakkabı Dünyası Kundura San. ve Tic. A.Ş. bünyesindeki çocuk ayakkabıları markasıdır.40’tan fazla mağaza ve çevrimiçi yoluyla satış gerçekleştirmektedir.2014 yılında İstanbul merkezli firmanın yüzde 60 hissesini Esas Holding A.Ş. satın almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mopar Parça",
+    "description": "“Mopar“1937 yılında kurulmuş olan Fca Us LLC bünyesindeki otomotiv parça ve aksesuarları markasıdır.Fca Us LLC 2021 yılında Hollanda merkezli Stellantis N.V. çatısı altına girmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Priortech",
+    "description": "“Priortech“1980 yılında kurulmuş olan Priortech Ltd. bünyesindeki yarı iletken denetimi ve metroloji çözümleri markasıdır.İştirakleri aracılığıyla baskılı devre kartları, AOI ve gelişmiş çok katmanlı ara bağlantı sistemleri üretmektedir.Priortech Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Xstamper",
+    "description": "“Xstamper“1968 yılında kurulmuş olan Shachihata Inc. bünyesindeki damga, mühür ve yazı gereçleri markasıdır.Önceden mürekkeplenmiş lastik pullar, belgelerin hızlı bir şekilde arka arkaya damgalanabilmesi için her baskıdan sonra mürekkep ihtiyacını ortadan kaldırır.Shachihata Inc. Japonya merkezlidir ve ürünleri 80’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Secen Gıda",
+    "description": "“Secen“2013 yılında kurulmuş olan ​Secen Unlu Mamülleri Tar. Gıda Turizm İnş. Taah. Tic. ve San. Ltd. Şti. bünyesindeki atıştırmalık ürünler, börek, büfe ekmekleri, çiçek kek, ekmek ve yufka, geleneksel simit, helva, kıymalı kol böreği, kuru ve yaş pasta, lokum, mantı, mayalı ürünler, soya peyniri tostu, sütlü tatlılar, şerbetli tatlılar, tatlılar, taze ekmek, tirmis, çiğ köfte, yaprak sarma, yufka markasıdır.ISO 9001 ve ISO 22000 belgelerine sahiptir.Sc Group iştiraki olan firma Antalya merkezlidir. AOSB 1.Kısımda faaliyet gösteren fabrikasında üretim yapmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

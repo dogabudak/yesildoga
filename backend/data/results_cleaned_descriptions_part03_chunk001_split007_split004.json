@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Delfingen",
+    "description": "Delfingen, 1954 yılında Emile Streit tarafından kurulan Delfingen Grup bünyesindeki otomotiv ekipmanları markasıdır.Araç koruma sistemleri, yüksek performanslı teknik tekstil, sıvı transfer borusu, iç döşeme sabitleme, koruma borusu, yalıtım ürünlerine sahiptir. 20 ülkede faaliyet göstermektedir.Delfingen Grup Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Kiko Milano",
+    "description": "Kiko Milano, 1997 yılında kurulan KIKO International SRL. bünyesindeki kozmetik ürünlerin markasıdır.Kiko Milano, 20 ülkede 936 mağaza ve 30 ülkede çevrimiçi alışveriş imkanıyla, makyaj ürünleri, güzellik aksesuarları ve gelişmiş cilt bakım ürünleri satmaktadır.Makyaj ve cilt bakım formüllerinin yüzde 97’si Avrupa’da yüzde 3’ü ABD, Kore ve Japonya’da üretiliyor.KIKO International SRL. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Jo Malone",
+    "description": "Jo Malone, 1999 yılında The Estee Lauder Companies bünyesine katılan koku markasıdır.Estée Lauder, 1946 yılında Bn.Estee Lauder tarafından kurulan cilt bakımı, makyaj, parfüm ve saç bakım ürünleri üreten Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tasaki",
+    "description": "Tasaki, 1954 yılında Toshisaku Tazaki tarafından kurulan TASAKI & Co., Ltd. bünyesindeki mücevher markasıdır.TASAKI & Co., Ltd. Japonya merkezlidir. Japonya’nın önde gelen kuyumcusudur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Oza Kahve",
+    "description": "Oza Kahve, 1984 yılında Ergün Oza tarafından kurulan Ergün Oza Kahve Ltd. bünyesinde üretilen kahve markasıdır.Oza Kahve 2 bin metrekarelik tesisinde AB standartlarında otomasyon şartlarda üretilmektedir.Oza Kahve KKTC merkezlidir ve ürünleri KKTC dışında Türkiye ile İngiltere’de tüketilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "Northern Cyprus",
+    "updated_date": "2020-05-16"
+  }
+]

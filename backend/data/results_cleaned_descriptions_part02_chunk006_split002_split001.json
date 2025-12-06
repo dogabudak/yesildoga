@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Vita",
+    "description": "Vita, 1950 yılında Unilever firması tarafından üretilen Türkiye’deki bitkisel yağ sektörünün ilk markasıdır. Vita 2010 yılında, Özyurt Ailesi’ne ait olan Aymar Yağ ve Gıda San. A.Ş. tarafından satın alınmıştır.Aymar Yağ ve Gıda San. A.Ş. 1979 yılında Koç Holding bünyesinde üretime başlayan marka, 2003 yılında Özyurt Ailesi tarafından şirketle bütünleştirildi.Aymar Yağ ve Gıda San. A.Ş. bünyesindeki markalar:ÇapamarkaAymarBozkurt ReçelleriVita",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-02-15"
+  },
+  {
+    "company": "S-Shine",
+    "description": "S-Shine, 1992 yılında kurulan Ningbo S.Shine Bicycle Industry Co., Ltd. bünyesinde üretilen bisiklet pedal ve aksesuarları markasıdır.S-Shine markalı bisiklet parçaları 33 bin metrekarelik arazi üzerinde bulunan 20 bin metrekarelik Çin’de bulunan fabrikada üretilmektedir. Ningbo S.Shine Bicycle Çin merkezli bir şirkettir.Firma ISO9001:2015 ve Europe Union CE, EN, ROHS sertifikalarına sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Steam",
+    "description": "Steam, 1996 yılında Gabe Newell ve Mike Harrington tarafından kurulan Valve Corporation bünyesinde 2002 yılında çıkarılan çok oyunculu oynanış ve iletişim sunan oyun platformudur.Steam’ın amacı oyunların dağıtılması ve çevrimiçi oyunlarda popüler olan yamalama işlemini kolaylaştırmasıdır. Çok sayıda oyun yapımcısı ve dağıtıcısı, Steam yazılımından yararlanmaktadır. Steam’de 125 milyondan fazla hesap ve 30 bin’den fazla bilgisayar oyunu yer almaktadır.Pek çok oyun, eklenti paketi, yazılım, video ve oyunlar ile ilgili programların satışı Steam üzerinden yapılmaktadır.Valve Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "illy",
+    "description": "illy, 1933 yılında Francesco Illy tarafından kurulan illycaffe S.p.A bünyesinde üretilen kahve markasıdır.illy 9 çeşit saf Arabica fasulyesinden yapılmış yüksek kaliteli kahvenin bir karışımını üretiyor ve 140 ülkeye satıyor.illycaffe S.p.A İtalya merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Ardes",
+    "description": "Ardes, 1962 yılında kurulurken 2015 yılında Poly Pool S.p.A. tarafından satın alınan küçük ev aletleri markasıdır.Ardes markasıyla ısıtıcı, sıcak plaka, gaz ocağı, elektrikli battaniye, sıcak buhar nemlendirici ürünleri ve kişisel bakım ürünleri üretilmektedir.Poly Pool S.p.A. İtalya merkezli bir şirkettir ve ürünleri İtalya’da üreterek 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

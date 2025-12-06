@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Murat Kablo",
+    "description": "Murat Kablo, 1969 yılında kurulmuş olan Murat Ticaret ve Kablo San. A.Ş. bünyesinde üretilen elektrik kablo tesisatı, otomotiv akü kabloları markasıdır.Fimanın 16 ülkede fabrikayı bulunmaktadır. Türkiye’de Kocaeli’de üretim yapmaktadır.Murat Ticaret ve Kablo A.Ş. 2023 yılında Nat Rothschild’e ait İngiltere merkezli Volex tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Hope Technology",
+    "description": "Hope Technology, 1985 yılında Ian Weatherill ve Simon Sharp tarafından kurulmuş olan Hope Technology Ltd. bünyesinde üretilen bisikletler ve bisiklet parçaları markasıdır.Hope Technology Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Greif",
+    "description": "Greif, 1877 yılında kurulmuş olan Greif Inc. bünyesinde üretilen endüstriyel ambalaj ürünleri, konteyner ve oluklu mukavva ürünleri markasıdır.Şirket endüstriyel ambalaj, kağıt ambalaj ve kereste alanlarında faaliyet göstermektedir. Endüstriyel Ambalajda, çelik ve plastik bidonlar, ara dökme konteynerler, endüstriyel ambalaj ürünleri için kapatma sistemleri, transit koruma ürünleri ve polikarbonat su şişeleri dahil olmak üzere endüstriyel ambalaj ürünleri sunmanın yanı sıra harmanlama, doldurma, lojistik ve depolama hizmetleri sunmaktadır.Greif Inc. Amerika merkezlidir. 1989 yılından Türkiye pazarına girmiştir. Türkiye’de Greif Mimaysan Ambalaj San. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kadant",
+    "description": "Kadant, 1991 yılında kurulmuş olan Kadant Inc. bünyesindeki endüstriyel işleme için teknolojiler ve mühendislik sistemleri markasıdır.Şirket tekstil, gıda işleme, paketleme, madencilik ve diğer sektörlere hitap etmektedir.Kadant Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dermoten",
+    "description": "Dermoten, 1983 yılında kurulmuş olan Csk Farma Pazarlama ve Bilisim Hizmetleri Ltd. Şti. bünyesindeki bitki yağları, cilt bakım, doğal sabunlar, takviye edici gıdalar markasıdır.GMP, ISO 9001, ISO 22000, ISO 22716 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

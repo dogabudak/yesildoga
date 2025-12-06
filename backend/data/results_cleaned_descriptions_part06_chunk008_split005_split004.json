@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Senfeng",
+    "description": "Senfeng, 2004 yılında kurulan Jinan Senfeng Laser Technology Co. Ltd. bünyesinde üretilen fiber lazer makineleri, kesme, kaynak, temizleme, kaplama ve elektrikli bükme makineleri, metal boru lazer kesim makinesi markasıdır.Jinan Senfeng Laser Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Acerinox",
+    "description": "Acerinox, 1970 yılında kurulan Acerinox S.A.U. bünyesinde üretilen paslanmaz çelik yassı ürünler, paslanmaz çelik uzun ürünler, özel alaşımlar markasıdır.Acerinox S.A.U. İspanya merkezlidir. 2011 yılından beri Türkiye’de Acerinox Metal San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Bolca Mantı",
+    "description": "Bolca, 1998 yılında kurulan Özsoy Unlu Mamüller Gıda San. Tic. Ltd. Şti. bünyesinde üretilen mantı erişte, yufka, börek çeşitleri, milföy hamuru ve kuskus markasıdır.TSE, ISO 9001 ve ISO 22000 belgelerine sahiptir.Tekirdağ merkezli firma ürünlerini 10 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Buzzi Unicem",
+    "description": "Buzzi Unicem, 1999 yılında kurulan Buzzi Unicem S. p.A. bünyesinde üretilen yapı malzemeleri markasıdır.Çimento, hazır beton üretmektedir.Buzzi Unicem S. p.A. İtalya merkezlidir. 14 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Aküdo Dondurma",
+    "description": "Aküdo Dondurma Nerenin Malı MarkasıAküdo, 2019 yılından itibaren Afyon Kocatepe Üniversitesi Rektörlüğü bünyesinde üretilen manda sütünden sade, kakaolu, karamelli, ballı bademli, incirli, muzlu, damla sakızlı, tahinli pekmezli ve bal kabaklı dondurma çeşitleri markasıdır.Ürünleri renklendirici ve aroma gibi katkı maddeleri içermemektedir. Dondurmanın içeriğinde doğal meyve ile kuruyemiş bulunmaktadır.Üniversite, Afyonkarahisar’da öğrencilerle uygulamalı bir şekilde manda sütlü dondurma üretimi gerçekleştirilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

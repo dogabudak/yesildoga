@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hes Kablo",
+    "description": "Hes Kablo, 1993 yılında Boydak Holding bünyesine katıldı. Ürün grupları arasında; bakır haberleşme kabloları, fiber optik kablolar, enerji kabloları, yüksek gerilim enerji kabloları, alüminyum iletken kablolar gibi ürünler yer almaktadır.Hes kablo Türkiye’nin yerli kablo üreticileri arasında yer alan lider bir markadır.Boydak Holding A.Ş. 2016 yılında Tasarruf Mevduatı Sigorta Fonuna devredildi.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ecko Unltd",
+    "description": "Ecko Unltd. markası 1993 yılında Marc Ecko tarafından kurulan giyim ürünleri markasıdır.Ecko Unltd. Amerikan Iconix Brand Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zeppelin Saat",
+    "description": "Zeppelin, 1987 yılında kurulan POINT tec Electronic GmbH bünyesindeki saat markasıdır.POINT tec Electronic GmbH Almanya’nın en büyük Alman saat üreticilerinden biridir.Bosch, Audi, Siemens, Honda gibi firmalara özel etiketli Alman malı saatler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Analog Devices",
+    "description": "Analog Devices, 1965 yılında Ray Stata ve Matthew Lorber tarafından kurulan yarı iletken şirketidir. Bilgisayar, endüstriyel, enstrümantasyon, iletişim, askeri/havacılık, otomotiv ve tüketici elektroniği uygulamaları bulunmaktadır.Analog Devices, Inc. çokuluslu bir Amerikan şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Boğaziçi Kolonya",
+    "description": "Boğaziçi Kolonya Sahibi Kim Hangi ÜlkeninBoğaziçi Kolonya, 1958 yılında kurulan DEVA Holding A.Ş. bünyesinde üretilen kolonya markasıdır.Deva Holding A.Ş. İngiltere’nin denizaşırı topraklarından, Bermuda merkezli olarak kurulan Eastpharma Ltd. iştiraki Eastpharma Sarl’ye aittir. Tekirdağ ve Kocaeli’deki üretim tesislerinde üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2023-03-03"
+  }
+]

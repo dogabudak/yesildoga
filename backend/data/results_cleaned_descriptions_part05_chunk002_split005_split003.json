@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Remex",
+    "description": "Remex, 1997 yılında Saruhan Holding bünyesinde kurulan Saruhan Kimya ve Temizlik Ürünleri San. ve Tic. A.Ş. tarafından üretilen sıvı, toz ve hammadde formunda temizlik ürünleri markasıdır.Ürün yelpazesinde kişisel bakım ürünleri, çamaşır, bulaşık ve yüzey bakım ürünleri, şampuan, duş jeli, sıvı el sabunu, jel ve sıvı el temizleyiciler, toz ve sıvı çamaşır deterjanları ve yumuşatıcı yer almaktadır.Ürünlerini Çorlu Velimeşe OSB’de bulunan 60 bin metrekarelik alanda yer alan 12 bin metrekarelik kapalı alanda üretmektedir ve 60’tan fazla ülkeye ihraç etmektedir.ISO 9001, ISO 14001, TS EN 45012, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Glasslock",
+    "description": "Glasslock, 1969 yılında kurulan Sam Kwang Glass Ind. Co. Ltd. bünyesinde üretilen saklama kapları, cam ürünler, ısıya dayanıklı hava geçirmez cam kaplar, ev eşyaları markasıdır.Sam Kwang Glass Ind. Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Moroccanoil",
+    "description": "Moroccanoil, 2008 yılında kurulan Moroccanoil Inc. bünyesinde üretilen saç ve vücut bakım ürünleri markasıdır.Ürün yelpazesinde saç bakım ve nemlendirici şampuanlar, vücut yağı, el kremi ve temizleme çubukları, cilt temizleyiciler, cilt tonerleri, cilt nemlendiriciler, anti-aging krem, göz kremi, güzellik maskeleri, vücut kremleri gibi kozmetik ürünler yer alır.Moroccanoil Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Eichmüller",
+    "description": "Eichmüller, 1950 yılında kurulan Richard Eichmüller e.K. bünyesinde üretilen saatler, mekanik kol saati, takı ve saat ihtiyaçları için aksesuarlar markasıdır.Richard Eichmüller e.K. Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pevamed",
+    "description": "Peva Tekstil Elektronik İnşaat Ambalaj San. ve Tic. Ltd. Şti. bünyesinde üretilen medikal ürünler ve kişisel koruyucu ürünler markasıdır.Tek kullanımlık maske ve önlük, medikal maske, önlük ve tulum gibi ürünlerini 2 bin 500 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

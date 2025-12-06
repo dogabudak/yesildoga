@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Balmy",
+    "description": "Balmy, 1993 yılında kurulan Balmy Tüketim Ürünleri San. A.Ş. bünyesinde üretilen masaj ürünleri markasıdır.Ürünlerini pamuk ipliği, sisal bitkisi, doğal kabak, bambu lifleri ve polietilen gibi doğal ve sentetik malzemelerden üretmektedir.İstanbul merkezli firma ürünlerini 27 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Browwauw",
+    "description": "Browwauw, Beşikisıfır Kozmetik San. Tic. A.Ş. bünyesindeki kaş ve kirpik bakım ürünleri, kaş sabitleyici, kaş vitamini markasıdır.Kaş kiti içerisinde, kaş sabunu ile birlikte iki adet fırçası bulunmaktadır.Ürünlerini Çin’den ithal etmektedir.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Orjin Automotive",
+    "description": "Orjin Automotive, 1999 yılında kurulan Orjin Otomotiv San. ve Tic. A.Ş. bünyesinde üretilen binek ve hafif ticari araçlar için süspansiyon ve direksiyon parçaları markasıdır. Farklı tipte bilyalı mafsal, rot ucu, eksenel mafsal, stabilizatör bağlantıları ve süspansiyon kolları üretmektedir.Başlıca ürün grupları arasında salıncak kolu, rotil, rotbaşı, rotmili ve z-rot gibi ürünler yer almaktadır.Ürünlerini Bursa’da bulunan 15 bin metrekarelik kapalı alana sahip fabrikasında üretmektedir. Ürünlerinin yüzde 80’ini ihraç etmektedir.ISO 9001 ve IATF 16949 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sheba",
+    "description": "Sheba, 1911 yılında kurulmuş olan Mars Incorporation’ın iştiraki olan Mars Gıda Ürünleri Tic. Ltd. Şti. bünyesinde üretilen kedi maması markasıdır.Gravy sos içinde sığır eti, kuzu, tavuk, hindi, somon parçacıklı çeşitler sunmaktadır.Mars Incorporated Amerika merkezlidir. Amerika ve çok sayıda ülkede üretim tesisleri bulunmaktadır.Bünyesindeki markalar;CocoaviaDoveExtraM&M’SMilky WayOrbitPedigreeRoyal CaninSkittlesSnickersTwixWhiskas",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-02-29"
+  },
+  {
+    "company": "Ubant",
+    "description": "Ubant, 2014 yılında kurulan Universal Bant San. ve Tic. Ltd. Şti. bünyesinde üretilen yapışkanlı bantlar ve türevleri markasıdır.Ürün yelpazesinde çift taraflı bantlar, alüminyum bantlar, baskılı koli bandı, bez tamir bandı, elektrik izolasyon bandı, kaydırmaz bantlar, maskeleme bantları, medikal bantlar, pvc bantlar, yüzey koruma bantları, yer işaretleme bantları yer almaktadır.Ürünlerini İstanbul’da 3 bin metrekarelik kapalı alanda üretmektedir. ISO 9001 belgesine sahiptir.Bünyesindeki markalar;GumtapeMegabondSakızbantUbant",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

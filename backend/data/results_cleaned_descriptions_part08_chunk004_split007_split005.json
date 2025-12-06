@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Thirdeye Systems",
+    "description": "Thirdeye Systems, 2010 yılında kurulmuş olan Thirdeye Systems Ltd. bünyesindeki dronlar ve anti drone sistemi gibi çeşitli ihtiyaçlar için termal spektrum içinde üst düzey nesne tanıma algoritmaları markasıdır.Hem bilgisayar görüşü hem de drone kontrolünde güçlü bir geçmişe sahip olan araştırma ve geliştirme şirketidir.Thirdeye Systems Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Miss Claire Giyim",
+    "description": "Miss Claire, 1997 yılında kurulmuş olan Ferah Konfeksiyon San. Tur. ve Tic. A.Ş. bünyesindeki iç giyim, pijama ve fonksiyonel ürünler markasıdır.Ürün yelpazesinde sutyen, külot, gecelik, body, shapewear, bonding, korse, pijama, tişört, boxer ve pantolon yer almaktadır.Firma İstanbul merkezlidir. Ürünlerini 4 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bilimplant",
+    "description": "Bilimplant, 2014 yılında kurulmuş olan Proimtech Sağlık Ürünleri A.Ş. bünyesindeki dental implantları markasıdır.ISO 13485 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zuton",
+    "description": "Zuton, 2010 yılında kurulmuş olan Shenzhen Juteng Technology Co. Ltd. bünyesinde üretilen bluetooth ürünleri ve kablosuz ürünler markasıdır.Shenzhen Juteng Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Omnitech",
+    "description": "Omnitech, 2018 yılında kurulmuş olan Omnitech Otomasyon ve Bina Yönetimi San. Tic. Ltd. Şti. bünyesindeki hvac ve bina otomasyon ürünleri markasıdır.Firma Denizli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

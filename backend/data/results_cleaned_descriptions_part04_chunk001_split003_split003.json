@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Anthea",
+    "description": "Anthea, 1991 yılında Vincent Paul tarafından kurulan Anthea Group tarafından üretilen tat ve koku kimyasalları, ilaç, alev geciktirici polimerler ve tarım kimyasalları gibi bir dizi uygulamada kullanılan özel kimyasallar markasıdır.Anthea Grubu, Hindistan merkezli özel bir şirketler grubudur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Metall Zug",
+    "description": "Metall Zug, 1887 yılında kurulan Metall Zug Ag bünyesindeki ev aletleri, enfeksiyon kontrolü, yaşam bilimleri çözümleri, tıbbi cihazlar, tel İşleme, teknoloji kümesi ve altyapı markasıdır.Metall Zug Ag İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Ringstar Technology",
+    "description": "Ringstar Technology, 2010 yılında kurulan Ringstar Technology Co., Ltd bünyesinde üretilen iphone ve ipad için bluetooth hoparlör, güç bankası ve aksesuarlar markasıdır.Ringstar Technology Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmetkedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Apphone",
+    "description": "Apphone, 2009 yılında kurulan Shenzhen Apphone Electronic Co, Ltd. bünyesinde üretilen bilgisayar çevre aksesuarları, elektronik konektörler ve ipod veya Iphone için veri kabloları ve konektörler, Iphone için kulaklık ve pil şarj, IPOD, kulaklık, şarj cihazları, DVI, VGA ve HDMI BNC konektörleri, izleme edinme kartı (optik alıcı-verici sınıfları) sinyal kabloları, USB kabloları gibi aksesuarlar markasıdır.Shenzhen Apphone Electronic Co, Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.ISO 9001 ve ISO 2000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 2000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ridley Bikes",
+    "description": "Ridley Bikes, 1990 yılında kurulan N.V. Race Productions bünyesindeki yarış bisikletleri, dağ bisikletleri, cyclo cross bikes ve triatlon bisikletler ve ilgili bileşenler markasıdır.N.V. Race Productions Belçika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

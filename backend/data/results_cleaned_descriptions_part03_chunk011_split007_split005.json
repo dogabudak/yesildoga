@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Canton Electronics",
+    "description": "Canton Electronics, 1972 yılında Günther Seitz tarafından kurulan Canton Elektronik GmbH + Co. KG bünyesinde üretilen Bluetooth, akıllı ürünler ve hifi hoparlör markasıdır.Canton Elektronik GmbH + Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Genç Gözde",
+    "description": "Genç Gözde Nerenin Malı MarkasıGenç Gözde, 1989 yılında kurulan Genç Gözde Tarım Makinaları Ltd. Şti. bünyesinde üretilen traktör emniyet kabini, yumurta ve civciv yetiştirme kafes sistemleri ve katı yakıtlı sıcak hava jeneratörü markasıdır.Türkiye’deki otomotiv ve makine üreticilerine fason saç işleme hizmeti vermektedir.Ürünlerini Avrupa ve Uzakdoğu ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Audison",
+    "description": "Audison, 1979 yılında Pietro Pantaleone ve Emidio Vagnoni tarafından kurulan mobil ses, amplifikatör, hoparlör ve işlemci markasıdır.Otomotiv ses ürünleri üreticisi Elettromedia s.r.l. bünyesindedir.Elettromedia s.r.l. İtalya merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Nady Systems",
+    "description": "Nady Systems, 1976 yılında John Nady tarafından kurulan Nady Systems, Inc. bünyesinde üretilen kablosuz mikrofon sistemleri, mikrofonlar, kulaklıklar, hoparlörler, amplifikatörler, mikserler, dijital ses işlemcileri markasıdır.Nady Systems eğlence endüstrisinde ibadethanelerde, okullarda ve üniversitelerde kullanılmak üzere ses ekipmanları satmaktadır.Nady Systems, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Spada",
+    "description": "Spada, 1993 yılında kurulan Aktif Elektronik İç ve Dış Ticaret Ltd. Şti. bünyesindeki kapak ve kılıflar, ev-araç şarjları, ekran cam ve filmler, data kablosu, taşınabilir şarj cihazı, ses ve görüntü ekipmanları markasıdır.Aktif Elektronik, Almanya’da yıllarca telekomünikasyon sektöründe faaliyet gösteren Degen ailesine aittir. Mobil telefon ve tabletler için aksesuar üretimi ve satışı yapmaktadır.Bünyesindeki markalar:ActAirtpuDcalcomDigilogDuopowerEpeeHyperactiveIcoverPulseQuattropowerRockffouse RockhouseRockhouseSpadaSpada MobileSpadaduopowerSpadaquattropowerTalkspbxTalksvolp",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

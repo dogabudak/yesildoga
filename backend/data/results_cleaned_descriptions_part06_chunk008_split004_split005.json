@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Krüger&Matz",
+    "description": "Krüger&Matz, 1990 yılında Zbigniew Leszek tarafından kurulan Lechpol Electronics Sp. z o.o. bünyesinde üretilen televizyon setleri, kulaklık, akıllı telefonlar, tabletler ve ses ekipmanları markasıdır.Lechpol Electronics Sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Herma",
+    "description": "Herma, 1906 yılında kurulan Herma Gmbh bünyesinde üretilen etiketler, etiketleyiciler ve kendinden yapışkanlı malzeme markasıdır.Çok çeşitli endüstriler için yapışkan malzemeler oluşturmak üzere birleştirilmiş etiket malzemeleri (kağıtlar ve filmler), yapıştırıcılar ve serbest bırakma astarları sunmaktadır.Herma Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Serve",
+    "description": "Serve, 2001 yılında kurulan Kemerburgaz Ofis ve Okul Gereçleri San. Tic. A.Ş. bünyesindeki ofis ve okul grubu kırtasiye ürünleri markasıdır.İstanbul merkezli firma ürünlerini 45 ülkeye ihraç etmektedir.Bünyesindeki markalar;CarettaServe",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Newjoy",
+    "description": "Newjoy, 1986 yılında kurulan Öner Modüler Mobilya San. ve Tic. A.Ş. bünyesindeki çocuk, bebek ve genç odası takımları markasıdır.TS EN ISO 9001 belgesine sahiptir.Ürünlerini Sakarya’da bulunan 40 bin metrekarelik açık 17 bin metrekarelik kapalı alanda üretmekte ve 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brooks Automation",
+    "description": "Brooks Automation, 1978 yılında kurulan Brooks Automation Inc. bünyesinde üretilen yarı iletken markasıdır.Yarı iletken gofret taşıma sistemleri, yarı iletken atmosferik ve vakum robotları, yaşam bilimleri depolama sistemleri, aletler ve sarf malzemeleri, kriyopomplar ve kriyokoolerler, lf ve hf rfid okuyucular ve antenler, gen dizilimi ve biobank gibi ürünlere sahiptir.Brooks Automation Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

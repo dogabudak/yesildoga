@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Macy’s",
+    "description": "Macy’s, 1858 yılında Rowland Hussey Macy tarafından kurulan departmanlı mağaza zinciridir.Giyim, ayakkabı aksesuarları, yatak mobilyaları, takı, güzellik ürünleri ve ev eşyaları satmaktadır.Macy’s Amerikan merkezli bir holding şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-03-17"
+  },
+  {
+    "company": "Dixi",
+    "description": "Dixi, Türkiye pazarına 1963 yılında giren; çamaşır ve ev bakımı, güzellik ve bakım ve yapıştırıcı teknolojileri alanlarında faaliyet gösteren Alman Henkel bünyesindeki yüzey temizleyici markasıdır.Henkel Bünyesindeki markalar:AquenceBonderiteBrefCeresitClinDiadermineDixiFaGlissGot2bLoctiteMen PerfectMetylanPalettePattexPersilPerwollPrilPrittSchwarzkopfSistaSyossTaftTangitTechnomeltTerosonTheramedThomsitTursilVernel",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Paşabahçe Ülke",
+    "description": "1934 yılında ​Bakanlar Kurulu kararı ile Türkiye’de yerli cam sanayinin kurulması için Atatürk, İş Bankası’nı görevlendirdi.Şişecam Topluluğu ana faaliyet alanları cam ve kimyasal üretimi olan bir sanayi topluluğudur. Şişe-Cam, üretim için hammadde malzemeleri ile ambalaj için gerekli kâğıt ve karton üretimini kendisi üstlenmiştir.Şişecam, Türkiye’nin en köklü sanayi kuruluşlarından biri olmanın yanısıra ihtisaslaşma derecesi ve rekabet gücü yüksek faaliyetleriyle dünyanın en seçkin üreticileri arasında yer almaktadır. Ürünleri 154 ülkeye ihraç edilmektedir.Paşabahçe, Şişecam Topluluğu’nun en çok bilinen markasıdır. Adını kurulduğu semtten almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-08-18"
+  },
+  {
+    "company": "Eken",
+    "description": "Eken, 2006 yılında kurulan görüntüleme teknolojileri ve hizmetleri markasıdır. Aksiyon kameralar ve uçangözler üretmektedir.Eken bir Çin markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "GoPro",
+    "description": "GoPro, 2006 yılında Nick Woodman tarafından kurulan aksiyon kamera markasıdır.Dünyada 50’den fazla ülkede satılan GoPro kameralar, çok yönlü HD kayıt yapabilen tek dijital kamerasıdır.GoPro Amerikan malı ve markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

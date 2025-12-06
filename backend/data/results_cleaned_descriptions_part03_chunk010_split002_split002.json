@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Victor Reinz",
+    "description": "Victor Reinz, 1920 yılında kurulan silikon conta macunu, poliüretan conta macunu, conta sökücü, yalıtım malzemeleri, tamir takımları, makara biçimli yalıtım malzemeleri, tezgâh ve zemin display’ler markasıdır.1997 yılında Amerika merkezli Dana Holding Corporation bünyesine geçmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Grado",
+    "description": "Grado, 1953 yılında Joseph Grado tarafından kurulan Grado Labs, Inc. bünyesinde el yapımı üretilen kulaklık ve pikap markasıdır.Grado Labs, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kentcafe",
+    "description": "Kentcafe, 2000 yılında kurulan Soyyiğit Gıda San. ve Tic. A.Ş bünyesinde üretilen mocha klasik, mocha beyaz çikolata, latte orjinal, latte vanilya, 3in1 ve 2in1 kahveler, klasik kahve ve kahve kreması, cappuccino kahveler, sıcak çikolatalar, salep, zipli ambalaj klasik, gold kahve kahve kreması markasıdır.İstanbul’da yer alan toz gıda üretim tesisi ve Edirne’de yer alan entegre yağ tesisinde yağlı tohum kırma, rafine yağ üretimi, dolum ve paketleme işlemleri yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dekang",
+    "description": "Dekang, 1997 yılında kurulan Beyazlar Gıda Teks. Kuyum. ve Day. Tüketim Mal. San. Tic. Ltd. Şti. bünyesinde üretilen kozmetik, bitkisel ürünler, bitkisel çay, doğal yağlar markasıdır.Tüm ürünlerinin bitkisel hammaddesi Türkiye’dir ve alerjen bileşenler içermemektedir. Bitkisel ürünler ve kozmetik ürünler olmak üzere iki ayrı üretim tesisinde Kocaeli’de üretim yapmaktadır.ISO 22000, 14001, OHSAS 18001, ISO 9001 ve GMP belgelerine sahiptir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Expert",
+    "description": "Expert, 2002 yılında kurulan Salkom Kozmetik Turizm Orman Ürünleri İthalat İhracat Ticaret Limited Şirketi bünyesinde üretilen saç bakım ürünleri markasıdır.Salkom, insan sağlığına zarar vermeyen, natural, bitkisel ürünleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Aveno",
+    "description": "“Aveno“1984 yılında kurulmuş olan Deutsche Ölwerke Lubmin Gmbh bünyesindeki motor yağı markasıdır.Otomobil ve kamyon motor yağları, dişli yağları, tarım makineleri yağları, hidrolik yağlar ve endüstriyel yağlar, gres ve motor soğutucuları gibi çeşitlere sahiptir.Deutsche Ölwerke Lubmin Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bestoven",
+    "description": "“Bestoven“2016 yılında kurulmuş olan Best İnovasyon Tek. San. ve Tic. Ltd. Şti. bünyesindeki endüstriyel mutfak ekipmanları, fırınlar ve aksesuarlar markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bulayhan",
+    "description": "“Bulayhan“1952 yılında kurulmuş olan Bulaycı Kardeşler Gıda San. ve Tic. A.Ş. bünyesindeki haşhaş, çörekotu, helva, kraft susam, pekmez, reçel, tahin markasıdır.ISO 22000, Helal ve Koşer belgelerine sahiptir.Firma Ankara merkezlidir. Ürünlerini Ankara’da bulunan fabrikasında üretmektedir ve 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Atra Makine",
+    "description": "“Atra“2001 yılında kurulmuş olan Atra End. Mak. İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen dilimleme grubu, hamur yoğurma grubu, pasta makineleri, planet mikserler markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kafem",
+    "description": "“Kafem“1987 yılında kurulmuş olan Yıldırımlar Tedarik Ambalaj San. ve Tic. Ltd. Şti. bünyesindeki çöp şiş, çöp torbası, önlük, alüminyum folyo, ambalaj lastiği, bone, dispenser peçete, eldiven, galoş, hareketli havlu, kürdan, karton bardak, kilitli poşet, kolluk, streç film, yemek kapları markasıdır.Firma Adana merkezlidir.Bünyesindeki markalar;ElmasKafemYakut",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

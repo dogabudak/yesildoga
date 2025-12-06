@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Dizani Home",
+    "description": "“Dizani Home“2013 yılında kurulmuş olan Dizani Mobilya Üretim San. ve Tic. A.Ş. bünyesinde üretilen mobilya ve koltuk markasıdır.Firma Bursa merkezlidir ve ürünlerini Bursa’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dilvin",
+    "description": "“Dilvin“2013 yılında kurulmuş olan Dilvin Tekstil Elektronik Hizmetleri Tic. Ltd. Şti. bünyesindeki hazır giyim markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bm Audio Boschman",
+    "description": "“Bm Audio Labs“2000 yılında kurulmuş olan BM Audio Labs Inc. bünyesindeki amplifikatörler ve işlemciler, bileşen sürücüleri, bileşen sistemi, kablolama seçenekleri, koaksiyel hoparlörler markasıdır.BM Audio Labs Inc. Amerika merkezlidir ve ürünleri Hong Kong’ta üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Delpino",
+    "description": "“Delpino“2000 yılında kurulmuş olan Delpino Tekstil San. Tic. Ltd. Şti. bünyesindeki erkek mont, kaban, pantolon, jean, deri ceket, deri mont markasıdır.Firma İstanbul merkezlidir ve ürünlerini bir çok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evodeko",
+    "description": "“Evodeko“1992 yılında kurulmuş olan Dekor Mobilya Tekstil San. ve Tic. Ltd. Şti. bünyesindeki mobilya ve ev tekstili ürünleri markasıdır.Firma Burdur merkezlidir. Ürünlerini 85 bin metrekare açık 15 bin metrekare kapalı alana sahip tesisinde üretmektedir.Bünyesindeki markalar;AlbeniArnisaEvodekoFaralyaValido",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

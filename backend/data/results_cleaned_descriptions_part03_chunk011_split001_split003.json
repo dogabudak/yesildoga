@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Zenvita",
+    "description": "Zenvita, 2010 yılında kurulan Sga Kozmetik Ltd. Şti. bünyesinde üretilen cilt bakımı ürünleri markasıdır.Renk açıcı krem, lekelere karşı cilt bakım kremi ve ter azaltıcı ve önleyici ürünler üretmektedir.Bünyesindeki markalar:TeremenZenvita",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Radical",
+    "description": "Radical, 1998 yılında kurulan Hang Zhou Radical Energy Saving Technology Co., Ltd. bünyesinde üretilen otomobil parçaları markasıdır.Debriyaj salınımlı rulmanlar, tekerlek rulman üniteleri, kayış gergi ve kasnak, tekerlek yatakları ve tekerlek göbekleri, konik rulmanlar üretmektedir.Ürünleri Almanya, Fransa, İtalya, Japonya, Kore, Rusya, Ukrayna gibi ülkelerde dağıtılmaktadır.Hang Zhou Radical Energy Saving Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Courreges",
+    "description": "Courreges, 1961 yılında André ve Coqueline Courrèges tarafından kurulan Courreges Design Sas tarafından üretilen moda, aksesuar ve parfüm markasıdır.Lüks ürünler ve mücevherat Courreges Design Sas Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Deery",
+    "description": "Deery, 1936 yılında kurulan Deri Ayakkabı San. ve Tic. Ltd. Şti. bünyesindeki ayakkabı markasıdır.Ürünlerinin tamamı yüzde 100 hakiki deriden üretilmektedir.Deery’nin 6 mağazası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Style Perfetto",
+    "description": "Style Perfetto, 1981 yılında Antonino Vitulli tarafından kurulan Kaaral s.r.l. bünyesinde üretilen saç bakım ürünleri markasıdır.Ürünleri 35 ülkede pazarlanmaktadır.UNI EN ISO 22716, UNI EN ISO 9001, UNI EN ISO 14001, BS OHSAS 18001 belgelerine sahiptir.Kaaral s.r.l. İtalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

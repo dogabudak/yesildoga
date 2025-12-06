@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Cucinox Ülke",
+    "description": "Cucinox beyaz eşya, mutfak gereçleri, mutfak ekipmanları, fırınlar, elektrikli fırınlar, rustik fırınlar, mikrodalga fırınlar, ocaklar, ev tipi fırınlar, ev tipi ocaklar, davlumbazlar, bulaşık makineleri, çamaşır makineleri, soğutucular, çöp öğütücüler, evyeler, bataryalar, kahve makinası, küçük ev aletleri, ocak aksesuarları, fırın aksesuarları, fırın parçaları, ocak parçaları, ankastre mikrodalga fırınlar, ankastre fırınlar, solo fırınlar, gazlı ocaklar, elektrikli ocaklar, karma ocaklar üretmektedir.Çin’de ve Türkiye’de üretim gerçekleştiriyor. İtalya’da farklı pazarlar için üretim yapan 3 fabrikası bulunuyor.İtalyan markası Cucinox yurtdışında eski bir marka.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Rico",
+    "description": "Rico, 1969 yılında kurulan Karakuş Hırdavat San. ve Tic. Ltd. Şti. bünyesindeki el aletleri markasıdır.Ürün yelpazesi yaklaşık 20 ana başlık altında ve bunlara ait bin 500 kalem farklı ölçüden oluşmakta.Ürünlerini Çinli üreticiler üretmektedir. Ermenistan, Gürcistan, Irak, İran, Libya, Bulgaristan, Sırbistan, Karadağ ve Kıbrıs gibi ülkelere ürünlerini ihraç etmektedir.Bünyesindeki markalar:R RicoRico RRicoYuka",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-11-22"
+  },
+  {
+    "company": "Roehler",
+    "description": "Roehler markası Roehler Global Trading Limited Şirketine aittir. Ev ve mutfaklarda kullanılan elektrikli ev aletleri tasarlıyor ve üretiyor. 2013 yılından beri RHL Mutfak Ürünleri Sanayi Ve Dış Ticaret AŞ olarak Roehler markasıyla Türkiye’de üretilen ürünler TÜRK MALI ibaresi ile dünya pazarlarına gönderiliyor.Roehler Global Trading Limited Şirketi Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": "2018-07-17"
+  },
+  {
+    "company": "King",
+    "description": "King1953 yılında kurulan King Pazarlama ve Dış Tic. A.Ş. bünyesindeki mutfak aletleri, elektrikli ev aletleri, kişisel bakım aletleri, airfryer, ısıtıcı markasıdır.Firma İstanbul merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-20"
+  },
+  {
+    "company": "Blyss",
+    "description": "Blyss markası Koçtaş tarafından ithal edilmektedir. Isıtma ve soğutma ürünleri üreten Ningbo Nationstar Electrical Appliance Co. Ltd şirketine aittir.Ningbo Nationstar Electrical Appliance Co. Ltd şirketi Çin merkezlidir ve bu ürünler Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-06-17"
+  }
+]

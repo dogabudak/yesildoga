@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Arash Motor",
+    "description": "Arash Motor, 2000 yılında Arash Farboud tarafından (Farboud Limited adıyla) kurulan Arash Motor Company Ltd. bünyesinde üretilen spor otomobil markasıdır.Arash Motor Company Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Mesh Computers",
+    "description": "Mesh Computers, 1987 yılında kurulan Mesh Computers Limited bünyesindeki masaüstü, medya merkezleri, dizüstü bilgisayar markasıdır.Özel yapım ev ve ofis bilgisayarları, oyun bilgisayarları, profesyonel iş istasyonları, dizüstü bilgisayarlar veya tablet bilgisayarlar üretmektedir. Ayrıca bilgisayar bileşenleri, klavyeler, fareler, web kameraları, dijital kameralar, projektörler, dijital video kaydediciler, yazıcılar, yazılım ve daha fazlasını satar.Mesh Computers Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "AMF",
+    "description": "AMF, 1890 yılında Andreas Maier tarafından kurulan Andreas Maier Gmbh & Co. Kg bünyesinde üretilen sıkma teknolojisi, otomasyon teknolojisi, kapı ve kapılar için kilitler, el aletleri markasıdır.ISO 9001 belgesine sahiptir.Andreas Maier Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Jowissa",
+    "description": "Jowissa, 1951 yılında Josef Wyss tarafından kurulan Jowissa Uhren AG bünyesinde üretilen moda ve takı saatleri markasıdır.Jowissa Uhren AG İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Evony",
+    "description": "Evony, 1987 yılında kurulan Hayat Kimya A.Ş. tarafından üretilen yetişkin bezi ve maske markasıdır.Hayat Kimya A.Ş. 1937 yılında tamamı yerli sermaye ile kurulmuştur. Kiğılı Ailesi’ne aittir.Türkiye ile birlikte Mısır, İran, Cezayir ve Rusya’da olmak üzere 5 ülkede üretim tesislerine sahiptir. Ürünlerini 100’e yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

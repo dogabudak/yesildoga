@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Flogart",
+    "description": "Flogart1960 yılında temelleri atılmış olan FLO Mağazacılık ve Pazarlama A.Ş. bünyesinde üretilen erkek ayakkabı ve bot markasıdır.Hissedarları:Ziylan Ailesi (yüzde 50)İngiltere merkezli Turkven Ltd. bünyesindeki Mater Footwear BV (yüzde 27)Bim A.Ş. (yüzde 11,5)Kökler Yatırım Holding A.Ş., Yıldız Holding A.Ş., Üs Holding A.Ş. ve Amerika menşeli Franklin Templeton Luxembourg SA’nın ortaklık payı olduğu Gözde Girişim A.Ş. ‘den oluşan konsorsiyum (yüzde 11,5)",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Q Clean",
+    "description": "Q Clean2002 yılında kurulmuş olan New City Kimya Kozmetik Plastik ve Sağlık Ürünleri Paz. San. ve Tic. A.Ş. bünyesinde üretilen çamaşır suyu, deterjan ve temizlik ürünleri, genel temizlik ürünleri, sıvı bulaşık deterjanları, sıvı matikler, yumuşatıcılar markasıdır.Firma Konya merkezlidir. Ürünlerini 20 bin metrekarelik fabrikasında üretmektedir. Ürünlerini 25’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;Dr. PatiGreen AirNew CityNew EcoNew EgoNew SoftQ Clean",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çerezos",
+    "description": "Çerezos1985 yılında kurulmuş olan Doğuş Çay ve Gıda Maddeleri Üretim Pazarlama İthalat İhracat A.Ş. tarafından 2013 yılında satın alınan cips markasıdır.ISO 9001, ISO 22000, TSE ve OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Aksaray OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Şerifoğlu",
+    "description": "Şerifoğlu1967 yılında kurulmuş olan Şerifoğlu Parke Pazarlama A.Ş. bünyesinde üretilen lamine parke markasıdır.Firma Düzce merkezlidir. Üretimini 105 bin metrekaresi açık, 45 bin metrekaresi kapalı alanda kurulu olan tesisinde gerçekleştirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Werther’s Original",
+    "description": "Werther’s Original1903 yılında kurulmuş olan August Storck KG bünyesinde üretilen karamelli sert ve yumuşak şekerler markasıdır.Ürünlerinde glikoz şurubu, gdolu soya lestini bulunmaktadır.August Storck KG Almanya merkezlidir ve ürünlerini Almanya’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

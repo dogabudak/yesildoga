@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Fersan",
+    "description": "Fersan, 1978 yılında kurulan Fersan Fermantasyon Ürünleri Sanayi ve Ticaret A.Ş. bünyesindeki sirke, turşu, şalgam, kırmızı jalapeno sos, limon sosu, nar ekşisi, ferfresh temizlik sirkesi, taze doğranmış sebze markasıdır.Fersan 2012 yılında Almanya merkezli DEVELEY Senf & Feinkost GmbH tarafından satın alındı.Fersan İzmir’de bulunan fabrikasında üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Heimish",
+    "description": "Heimish, 2016 yılında kurulan Womand Ltd. bünyesindeki cilt bakım ve güzellik ürünleri markasıdır.Heimish ürünleri hayvanlar üzerinde test edilmiyor. Ürünlerinde paraben gibi zararlı içerikler yer almıyor. Heimish, ürünlerinde karite yağı, centella, Hindistan cevizi yağı ve gül gibi doğal bileşenleri kullanıyor.Womand Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Zade Yağ",
+    "description": "Zade, 1989 yılında kurulan Helvacızade A.Ş. bünyesindeki ayçiçek yağı, zeytinyağı, mısır yağı, soya yağı, kanola yağı, pamuk yağı, fındık yağı ve bitkisel karışım yağ markasıdır.Ürünlerini 24 bin metrekarelik açık 6 bin metrekarelik kapalı alanda bulunan yağ fabrikasında üretmektedir.Zade Naturel serisi ile Üzüm çekirdeği yağı, Nar çekirdeği yağı, Kabak Çekirdeği yağı, Keten Tohumu yağı, Haşhaş Yağı, Susam Yağı, Aspir Yağı, Çörekotu yağı gibi ürünleri üretmektedir.Zade Vital markası ile değerli bitki, meyve ve tohumları, 23 çeşit soğuk pres ve 16 çeşit organik soğuk pres yöntemiyle yağ üretmektedir.Danimarka, Almanya, İsveç, Belçika, Azerbaycan, Kazakistan, Türkmenistan, Tacikistan, Gürcistan ve Suudi Arabistan gibi ülkelere 5 kıtaya ve 85’den fazla ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doğanay",
+    "description": "Doğanay, 1997 yılında kurulan Doğanay Gıda Tar. ve Hay. San. ve Tic. A.Ş. bünyesinde üretilen şalgam suyu, limonata, limon suyu, elma, üzüm ve balsamik sirke, nar ekşisi ve acı biber sosları markasıdır.ISO 9001, ISO 220000, HACCP, TSE belgelerine sahiptir.2020 yılında İngiltere merkezli Taxim Capital Partners I Limited Partnership tarafından özel olarak kurulmuş olan aracı bir şirket olan Purple Beverages Sarl tarafından satın alınmıştır.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2023-08-02"
+  },
+  {
+    "company": "Berwick",
+    "description": "Berwick 1707, Charles Goodyear Jr. tarafından 1871 yılında kurulan Milan Classic S.A. bünyesindeki ayakkabı markasıdır.Milan Classic S.A. İspanya merkezli giyim, gömlek, t-shirt, pantolon, şort, etek, kazak, ceket, palto, kemer şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

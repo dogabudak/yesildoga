@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Yeşil Mersin Bakliyat",
+    "description": "Yeşil Mersin Şifa Taneleri, 1978 yılında kurulan Onaylar Gıda A.Ş. bünyesinde üretilen bulgur, pirinç, mercimek, patlayan mısır markasıdır.Mercimek Kanada’dan ithal edilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-04"
+  },
+  {
+    "company": "Krusell",
+    "description": "Krusell, 1991 yılında kurulan Krusell International AB bünyesindeki cep telefonu kılıfları ve kapakları, bilgisayar kılıfları, cep telefonu tutucular, telefon cüzdanları ve çantalar markasıdır.Ürünleri kalitatif premium malzemelerden üretilmektedir.Krusell International AB İsveç merkezlidir. Ürünlerini Tayland’da bulunan kendi fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Juki",
+    "description": "Juki, 1938 yılında kurulan Juki Industrial Co. Ltd. bünyesinde üretilen ev tipi dikiş makineleri, endüstriyel dikiş makineleri, yüzey montaj teknolojisi, veri giriş cihazı markasıdır.Juki Industrial Co. Ltd. Japonya merkezlidir. Ürünlerini 180’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Everlast",
+    "description": "Everlast, 1910 yılında kurulan Everlast Worldwide Inc. bünyesindeki spor ürünleri, boks, MMA ve fitness ekipmanları markasıdır.Everlast Worldwide Inc. 2007 yılında İngiltere merkezli Frasers Group plc tarafından satın alındı. Ürünleri 100’den fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Fresh ‘n Rebel",
+    "description": "Fresh ‘n Rebel, 1999 yılında kurulan Sitecom Europe B.V. bünyesindeki akıllı telefon, tablet ve dizüstü bilgisayarlar için bluetooth hoparlörler, kulaklıklar ve mobil aksesuarlar markasıdır.Firmanın ürün yelpazesinde USB hub’lar, kart okuyucuları, USB adaptörler, video adaptörleri, sabit sürücü kutuları ve adaptörleri, kablolar ve şarj cihazları yer almaktadır.Sitecom Europe B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

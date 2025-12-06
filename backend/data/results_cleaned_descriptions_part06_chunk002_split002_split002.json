@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Nunhems",
+    "description": "Nunhems, 1971 yılında kurulan Nunhems B.V. bünyesindeki sebze tohumları, bitkiler markasıdır.Kuşkonmaz, havuç, salatalık, pırasa, ıspanak ve diğer sebze tohumlarını sunar. Şirket, sebze zinciri yetiştiricilerine, bitki yetiştiricilerine, perakendecilere ve diğer sektörlere hizmet vermektedir.Nunhems B.V. Hollanda merkezli Basf SE bünyesindedir. Türkiye’de Nunhems Tohumculuk A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Kingtom",
+    "description": "Kingtom, 1998 yılında kurulan Assan Gıda San. ve Tic. A.Ş. bünyesinde üretilen acılı ketçap, biber salçası, domates püresi, domates salçası, ketçap, mayonez, pizza sosu markasıdır.Assan Gıda San. ve Tic. A.Ş. 2021 yılında Amerika merkezli The Kraft Heinz Company tarafından satın alındı. Ege Assan tesislerinde ürettiği ürünleri 70’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Eser Salça",
+    "description": "Eser, 2013 yılında kurulan Eser Salça Geleneksel Gıda İnşaat Nakliyat Tarım İşletmeleri San.Tic. Ltd. Şti. bünyesinde üretilen ev tipi domates ve biber salçası markasıdır.ISO 22000 belgesine sahiptir. Ürünlerinin tamamı organik el değmeden üretilmektedir.Firma Tokat merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fortrust",
+    "description": "Fortrust, 2003 yılında kurulan Shanghai Fortrust Power Electric Ltd. bünyesinde üretilen döndürme hızı kontrol ünitesi, elektromanyetik aktüatör, hız sensörü olarak elektron hız regülatörü, jeneratör kontrolörü, elektronik potansiyometre, makine araçları için elektron kontrol ürünleri, deniz ve kara dizel jeneratöründe monitör ve alet kontrol kutusu, can iletişim modülü, askeri radar için alet kontrol kutusu markasıdır.Shanghai Fortrust Power Electric Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sincro",
+    "description": "Sincro, 1966 yılında kurulan Soga S.P.A. bünyesinde üretilen tek fazlı ve üç fazlı alternatörler ve jeneratörler markasıdır.2.600 kVA’ya kadar elektrik motorları, alternatörler, döner kaynak makineleri, pto ve sabit mıknatıslı jeneratörler ve endüstriyel otomasyon için elektronik sistemler geliştirir ve üretir.Soga S.P.A. İtalya merkezlidir.Bünyesindeki markalar;AgrowattCmzSincroSogaSogaenergies",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

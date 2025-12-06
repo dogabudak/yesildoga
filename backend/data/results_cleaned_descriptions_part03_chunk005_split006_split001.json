@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Miss Cop",
+    "description": "Miss Cop, Çin’de üretilen makyaj ürünleri markasıdır.Fondöten, tozlar, allık, farlar, kalemler, göz kalemleri, maskaralar, rujlar, dudak kremleri ve parlatıcıları, tırnak setleri, Solvent ve Solvent Keçesi, sünger, fırça, sahte tırnak kiti, makyaj paletleri, vernik gibi ürünlerin tamamı Çin’de üretilmektedir.A.S. Watson Güzellik ve Bakım Ürünleri Tic. A.Ş. tarafından ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "E.L.F",
+    "description": "E.L.F, 2004 yılında kurulan E.L.F Cosmetics bünyesindeki göz makyajı, dudak makyajı, makyaj fırçaları, cilt bakım ürünleri markasıdır.Ürünlerinin tamamı yüzde 100 vegan olan markalardan biridir. Paraben, SLS, sülfat, karbon, nonilfenol gibi maddeler içermeden üretilir. Hayvan testi yapılmadan üretim gerçekleştirir. Doğaya, hayvanlara ve insanlara herhangi bir zarar verilmeden üretim yapılması konusunda oldukça hassas davranır. Ürünleri Çin’de üretmektedir.E.L.F Cosmetics Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Shivaki",
+    "description": "Shivaki, 1988 yılında kurulan Shivaki Industries Limited bünyesinde üretilen led televizyon, cep telefonu, ses video ekipmanları ve ev aletleri, klima, Hi-Fi ve ünitesi, elektrikli süpürge, buzdolabı ve derin dondurucu, ısıtıcı, çaydanlık, güveç kapları markasıdır.Rus girişimci Andrei Kolesnikov’a ait olan ev aletleri markasıdır. Ürünleri Çin’den ithal ederek Rusya’da montajını yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": "2022-02-12"
+  },
+  {
+    "company": "TuneIn",
+    "description": "TuneIn, 2002 yılında Bill Moore tarafında kurulan TuneIn, Inc. bünyesindeki canlı spor, müzik, haber, podcast ve radyo istasyonlarını sunan platformdur.Dünya genelinde 100 binden fazla radyo istasyonunu, gerçek zamanlı olarak dünyanın dört bir tarafındaki kullanıcılarına podcast yayın ile ulaştırmaktadır. Aylık 75 milyondan fazla aktif kullanıcısı vardır.TuneIn, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "VK Vkontakte",
+    "description": "VK (Vkontakte), 2006 yılında Pavel Durov tarafından kurulan Vkontakte LLC bünyesindeki sosyal paylaşım sitesidir.Mail.ru VKontakte’nin çoğunluk hissesini (yüzde 51,99) elinde bulundurmaktadır.Vkontakte LLC Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

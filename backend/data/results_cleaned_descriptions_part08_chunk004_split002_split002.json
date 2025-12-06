@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Hüptrik",
+    "description": "Hüptirik1975 yılında kurulmuş olan Sütaş Süt Ürünleri A.Ş. bünyesinde üretilen çilekli krema markasıdır.Ürünleri homojenize ve pastörize inek sütü, şeker, patates nişastası, çilek preperatı, aroma verici, guar gum, pektin, yoğurt kültürü içermektedir.Firma Bursa merkezlidir. Türkiye, Makedonya ve Romanya’da bulunan beş tesisinde üretim yapmaktadır ve ürünlerini 50’ye yakın ülkeye ihraç etmektedir.Hissedarları:Yılmaz Holding A.Ş. (yüzde 50,07)Muharrem Yılmaz (yüzde 49,53)Diğer (yüzde 0,4)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-07-30"
+  },
+  {
+    "company": "Baleaf Pil",
+    "description": "Baleaf, 2011 yılında kurulmuş olan Baleaf New Energy Technology Co. Ltd. bünyesinde üretilen 12V, 24V, 36V, 48V Li-ion pil paketleri markasıdır.Telekom operatörleri için, elektrikli bisiklet ve elektrikli motosikletler için, taşınabilir pil gücü depolama, güneş enerjisi depolama pilleri üretmektedir.Baleaf New Energy Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sonel",
+    "description": "Sonel, 1994 yılında kurulmuş olan Sonel S. A. bünyesindeki güç ölçer, güç kalitesi analizörü, termal kamera, kızılötesi kamera, yalıtım test cihazları, topraklama direnci ölçer, mikroohmmetre, uv korona kamera, yeraltı kablo ve boru konum belirleyicileri, tdr kablo arıza bulucu, aydınlık ışık ölçer, kelepçe ölçerler markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Sonel S. A. Polonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "GasGas",
+    "description": "GasGas, 1985 yılında kurulmuş olan Gasgas Motos S.A. bünyesinde üretilen motosiklet, spor araba, bisikletler markasıdır.Gasgas Motos S.A.’nın çoğunluk hisseleri 2019 yılında Avusturya merkezli Pierer Mobility AG tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Götür",
+    "description": "Götür, 2021 yılında kurulmuş olan Götür Teknoloji Hizmetleri A.Ş. bünyesideki lojistik ve kargo uygulaması markasıdır.Gönderileri kimin, nasıl, ne zaman ve ne kadara götürebileceğinin belirlendiği bir iş modelidir. Gönderici ürünün bilgilerini ve ödemek istediği ücreti belirler, taşımak isteyenler ise göndericilerin ilanlarına telif verebilirler.Kendi aracı olan ya da otobüs, motosiklet, tren, bisiklet gibi araçlarla seyahat edenler ürün taşıyıcısı olabilirler. Profesyonel nakliyeciden şehir içi kuryelere kadar taşıma işinin içinde olan herkes uygulamayı kullanabilir.Şirket Bursa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

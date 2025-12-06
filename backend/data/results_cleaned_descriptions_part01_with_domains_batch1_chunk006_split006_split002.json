@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Nicoletti Home",
+    "description": "Nicoletti Home, 1967 yılında kurulan G. Nicoletti Trade S.p.A. bünyesindeki mobilya markasıdır.Ürünleri arasında deri koltuk, kumaş ve mikro-fiber koltuklar yer almaktadır. ISO 9001, ISO 14001 belgelerine sahiptir.G. Nicoletti Trade S.p.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2022-02-04"
+  },
+  {
+    "company": "Tedi İçecek",
+    "description": "Tedi İçecek Hangi Ülkenin MalıTedi, 2013 yılında Maspex Group ile Tat Gıda ortaklığıyla Tedi İçecek A.Ş. olarak Türkiye meyve suyu pazarına giriş yaptı.2015 yılında ise Polonyalı Maspex Group hisselerinin tamamına sahip oldu.Maspex Wadowice Grubu, Polonya’da ve diğer ülkelerde 11’er şirket olmak üzere toplam 22 şirketten oluşuyor.Amerika, Kanada, Avustralya, İngiltere, Almanya, İsveç, Hollanda, Rusya ve Danimarka gibi çok sayıda ülkeye ürünlerini satıyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": "2018-11-27"
+  },
+  {
+    "company": "Çilek Mobilya",
+    "description": "Çilek Mobilya Sahibi KimdirÇilek mobilya, 1995 yılında Bursalı Muzaffer Çilek tarafından kurulan, bebek, çocuk ve genç odaları ile aksesuarlar tasarlayan, üreten ve tüm dünyada satış ağını oluşturan Türk markasıdır.5 kıta, 71 ülkede 500’ü aşkın satış noktası bulunmaktadır.E1 standardına uygun olarak üretilen mobilyalar, kanserojen içermiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sun Chemical",
+    "description": "1818 yılında kurulan Coates Lorilleux’in 2000 yılına kadar sahibi Fransız Total grubuydu. 2000 yılında Total gurubu mürekkep sektöründen çıkarak dünyadaki tüm mürekkep fabrikalarını Amerikan DIC Grubu üyesi olan Sun Chemical’a satmıştır.Sun Chemical dünyanın en büyük matbaa mürekkebi ve pigment üreticisidir. Ayrıca ambalaj, yayıncılık, plastik ve kozmetik gibi benzeri endüstriyel alanlarda da önemli malzeme tedarikçilerindendirSun Chemical Matbaa Mürekkepleri ve Gereçleri San. ve Tic. A.Ş.; İzmir (merkez) ve Gebze’de üretim yapmaktadır ve İstanbul’da da bir depoya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hyosung",
+    "description": "Hyosung, 1966 yılında kurulan Hyosung Grup’a ait yatırım şirketlerinden bir tanesidir.Spandex, Naylon, Polyester gibi tekstil ürünleri, lastik üretiminde kullanılan Tire Code, Emniyet kemeri ve hava yastığı üretiminde kullanılan endüstriyel malzemeler, motor gibi sektörlerde hizmet vermektedir. ATM makinesi, Depolama Sistemleri ve LED ile ilgili ürünler üretmektedir.Hyosung Grup Güney Kore merkezlidir. Türkiye’de Hyosung İstanbul Tekstil Ltd. Şti. olarak faaliyet göstermektedir.Dongyang Naylon fabrikası ile iş hayatına başlamıştır ve bugün dünyanın çeşitli yerlerinde 23 üretim tesisi bulunmaktadır. Türkiye’de Tekirdağ’da fabrikasında üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2020-03-15"
+  }
+]

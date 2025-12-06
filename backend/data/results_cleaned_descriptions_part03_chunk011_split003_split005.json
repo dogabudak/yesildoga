@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Teufel",
+    "description": "Teufel, 1980 yılında Peter Tschimmel tarafından kurulan Lautsprecher Teufel GmbH bünyesindeki hoparlör sistemleri markasıdır.Ürün yelpazesinde ev sineması, ses çubukları, multimedya ve bilgisayar ses sistemleri, çoklu oda ve akış cihazları, THX sertifikalı setleri de dahil olmak üzere surround ses sistemleri, all-in-one Blue-ray sistemleri, taşınabilir hoparlörler, kulaklık bulunmaktadır.Lautsprecher Teufel GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dalsa",
+    "description": "Dalsa, 1980 yılında Savvas Chamberlain tarafından kurulan DALSA Corporation bünyesindeki CCD ve CMOS görüntü sensörleri ve dijital kameralar markasıdır.Şirket ayrıca Los Angeles çevresinde film prodüksiyonları için kamera kiralama faaliyeti göstermektedir.2010 yılında Amerika merkezli Teledyne Technologies Incorporated tarafından satın alındı.Teledyne Technologies Incorporated 1960 yılında Henry Singleton ve George Kozmetsky tarafından kurulan bir Amerikan Sanayi holdingidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Datacolor",
+    "description": "Datacolor, 1970 yılında kurulan Datacolor AG bünyesindeki renk eşleştirme, renk formülasyonu, renk testi, renk yönetimi, renk iletişimi, renk ölçümü, otomotiv, plastik, mikroskopi, fotoğraf, videografi, boya formülasyonu, boya eşleştirme markasıdır.Şirket doğru renk yönetiminin çok önemli olduğu endüstriler için renk ölçümü, eşleştirme, kalite kontrol ve iletişim için çözümler ve fotoğrafçılar ve profesyoneller için, ekranda ve baskıda doğru renk sağlamak için kalibrasyon araçları sunmaktadır. Tekstil, giyim, boya, otomotiv, mikroskopi, fotoğraf ve videografi sektörlerine hizmet vermektedir.ISO 9001 ve ISO/IEC 17025 belgelerine sahiptir.Datacolor AG Amerika merkezlidir. İşletme ve üretim tesisleriyle 100’den fazla ülkedeki müşterilere hizmet vermektedir. Türkiye’de 2013 yılından beri Datacolor Renk Teknolojileri Tic. ve Servis Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Orange GSM Operatörü",
+    "description": "Orange, 1990 yılında kurulan Orange SA bünyesinde 29 ülkede hizmet veren gsm operatörü markasıdır.2019 yılında faaliyet gösterdiği Avrupa ülkelerinin yüzde 75’inde ve Afrika ve Orta Doğu’daki ülkelerin yüzde 83’ünde lider veya ikinci operatördür.Orange SA yüzde 100 Fransız sermayesi olan bir anonim şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Mamma Lattes",
+    "description": "Mamma Lattes, 2019 yılında kurulan İnna Nistor Tanır bünyesindeki hamile giyim, hamile elbiseleri, hamile pantolonu, emzirme kıyafetleri, emzirme elbiseleri, eşofman, kapşonlu sweatshirt, body, tişört, elbise ürünleri markasıdır.Işıl Zorlu ve İnna Nistor Tanır kardeşler, hamileler ve emziren anneler için kıyafetler tasarlamaktadır. Modelin çiziminden paketlenip kargolanmasına kadar her ürünün üretim sürecinde yer alıyorlar.Ürünlerde kullanılan kumaşlar alerjen, kanserojen ve diğer zararlı maddeleri içermemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

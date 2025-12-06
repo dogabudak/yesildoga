@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Felco",
+    "description": "Felco, 1945 yılında Félix Flisch tarafından kurulan FLISCH GROUP bünyesindeki Ağaç, asma, bahçe makası, Çift kollu makas, Kablo tel makası, Çekme kesimli testere, Aşılama ve budama bıçakları, Elektrikli taşınabilir budama makası ve aksesuarları markasıdır.Flisch Group İsviçre merkezli bir şirkettir.Flisch, 1946 yılında ürünlerini Hollanda, Almanya, Belçika, Güney Afrika ve İsrail’e ihraç etmeye başladı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Micron",
+    "description": "Micron, 1978 yılında kurulan Micron Technology, Inc. bünyesindeki DRAM, flaş bellek ve katı hal sürücüler markasıdır.Dünya markaları olan Micron, Crucial, Lexar ve Ballistix ile Dram, Nand, Nor Flash ve 3D Xpoint bellek gibi yüksek performanslı bellek teknolojilerinden oluşan geniş ürün yelpazesine sahiptir.Micron Technology, Inc. Amerika merkezli bir şirkettir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Brilliance Auto",
+    "description": "Brilliance Auto, 1992 yılında kurulan HuaChen Group Auto Holding Co., Ltd. bünyesindeki otomobil, mikrovan ve otomotiv parçaları markasıdır.Çin merkezli Brilliance Auto, Çin’in 8. büyük otomobil üreticisidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-09-22"
+  },
+  {
+    "company": "GoSmart",
+    "description": "Go Smart, Micron (Crucial) Türkiye dağıtıcısı Trium Elektronik tarafından ithal edilen bilgisayar bileşenleri markasıdır.Micron teknoloji bellek çözümlerinde dünya lideridir.Ürünlerini Çin’de üreten Micron Technology, Inc. Amerika merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Fastpay",
+    "description": "Fastpay, Denizbank bünyesindeki mobil ödeme uygulamasıdır. Kartsız ve banka hesabı olmaksızın ayrıca akıllı telefon kullanmadan ödeme yapılabilen bir sistemdir.1938 yılında kurulan DenizBank, Türkiye’nin 81 ilinde, toplam 745 şubeye sahiptir. DenizBank Finansal Hizmetler Grubu çatısı altında; DenizBank’ın yanı sıra yedi yerli, üç uluslararası finansal iştirak ile finansal olmayan beş yerli iştirak ve Bahreyn’de bir şube bulunmaktadır.DenizYatırım, Ekspres Menkul, Deniz GYO, DenizPortföy Yönetimi, DenizLeasing, DenizFaktoring, Destek Varlık Yönetimi; Intertech, DenizKültür, Deniz Kartlı Ödeme Sistemleri, Açık Deniz Radyo-TV ve Bantaş grubun yerli; Eurodeniz, DenizBank AG ve DenizBank Moscow ise uluslararası iştirakleridir.Denizbank’ın sahibi, Birleşik Arap Emirlikleri’nin en büyük bankası olan Dubai merkezli Emirates NBD’dir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": "2019-12-19"
+  }
+]

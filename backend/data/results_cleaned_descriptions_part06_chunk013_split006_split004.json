@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Calor Makine",
+    "description": "Calor Makine, 2019 yılında kurulan Calor Makine San. Tic. A.Ş. bünyesinde üretilen endüstriyel ısıl işlem fırınları, ısıtma ve soğutma tünelleri ve bu makinelerin yardımcı ekipmanları markasıdır.İstanbul merkezli firma ürünlerini Kocaeli’de bulunan 4 bin metrekaresi kapalı toplam 8 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Don’t Call Me Jennyfer",
+    "description": "Don’t Call Me Jennyfer, Stock J Boutique Jennyfer SAS bünyesindeki elbiseler, şortlar, paltolar, ceketler, pantolonlar, etekler, pijamalar ve aksesuarlar markasıdır.Stock J Boutique Jennyfer SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Rituel de Beaute",
+    "description": "Rituel de Beaute, 2011 yılında kurulan RDB Sağlık ve Kozmetik Ürünleri Tic. A.Ş. bünyesinde üretilen bantlar, maskeler, mendiller, katı şampuanlar markasıdır.Ürünleri paraben, hayvansal yağ ve katkı maddeleri içermez. Hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir. Japonya, Almanya, Güney Kore ve Türkiye’de üretilen ürünleri 8 ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Safran Colibrys",
+    "description": "Safran Colibrys, 2005 yılında kurulan Safran S.A. bünyesindeki standart ve yarı özel mikroelektromekanik sistem sensörleri markasıdır.Sivil ve askeri havacılık, enerji, endüstriyel ve sismik pazarlar için tasarlanan bu titreşim ve şok sensörleri yüksek çözünürlük, düşük gürültü ve düşük enerji tüketimi sunar.Safran S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Jetech Batarya",
+    "description": "Jetech, 2007 yılında kurulan Shenzhen Jetech Energy Technology Co. Ltd. bünyesinde üretilen e-scooter, e-hoverboard, hovershoes, elektrikli el aletleri, e-bisiklet, e-motosiklet, güneş enerjisi projesi vb. için oem veya odm lityum iyon güç pil markasıdır.Shenzhen Jetech Energy Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

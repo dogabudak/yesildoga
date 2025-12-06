@@ -1,0 +1,47 @@
+[
+  {
+    "company": "N’fest",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-08-02"
+  },
+  {
+    "company": "Edenfarm",
+    "description": "2020 yılında kurulmuş olan Edenfarm Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.ISO 9001, ISO 14001, ISO 22716 belgelerine sahiptir.Edenfarm Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Adadakiler",
+    "description": "2008 yılında kurulmuş olan Alkid İnşaat Otomotiv Gıda Turizm Petrol Ürünleri Tic. ve San. Ltd. Şti. bünyesindeki marketler zinciri markasıdır.Firma Sakarya merkezlidir ve 10’a yakın şubeye sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Xstrike",
+    "description": "2019 yılında kurulmuş olan IEX Recreational Playground LLC bünyesindeki simülasyon oyunu markasıdır.IEX Recreational Playground LLC BAE merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Leader Pumps",
+    "description": "1975 yılında kurulan Dab Pumps Inc. bünyesinde üretilen pompa sistemleri, santrifüj pompalar, hidroforik pompalar, aksesuarlar markasıdır.Dab Pumps Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

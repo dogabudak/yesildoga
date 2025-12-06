@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Keneksi",
+    "description": "Keneksi, 1997 yılında kurulan Shenzhen Ssun Industry Co.Ltd. bünyesindeki akıllı telefon, cep telefonu ve aksesuarları markasıdır.Keneksi markalı mobil cihazların üretiminde uzmanlaşmıştır. Ayrıca diğer bilinen markalı akıllı telefonlar ve tablet bilgisayarların bileşenlerinin imalatını 10 bin metrekarelik fabrikasında yapmaktadır.Shenzhen Ssun Industry Co.Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Celebrat",
+    "description": "YISON & Celebrat Earphones, 1998 yılında kurulan Guangzhou Yison Electron Technology Co, Ltd. bünyesinde üretilen mikrofon, kulaklık ve veri kabloları markasıdır.Ürünleri RoHS, FCC, CE belgelerine sahiptir.Guangzhou Yison Electron Technology Co, Ltd. Çin merkezlidir ve ürünlerini Çin’de bulunan iki fabrikada üretmektedir.Amerika, Fransa, Avustralya, İtalya, Brezilya, İspanya, Rusya, Japonya, Kore, Hindistan, Singapur ve Hong Kong gibi 50’den fazla ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gündoğdu",
+    "description": "Gündoğdu, 1975 yılında kurulan Gündoğdu Gıda Süt Ürünleri Sanayi ve Dış Ticaret A.Ş. bünyesinde üretilen kaşar peyniri, bohça peyniri, dil peyniri, örgü peyniri, çeçil peyniri, baharatlı peynir, tereyağı, çerkez peyniri, kaymak, mozzarella, isli peynir, otlu peynir, tulum peyniri, beyaz peynir ve zeytin çeşitleri markasıdır.Firma İstanbul merkezlidir. Manisa Salihli OSB’de 15 bin metrekare alana kurulu, 3 bin metrekarelik fabrikasında üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-05-09"
+  },
+  {
+    "company": "Nordica",
+    "description": "Nordica 1939 yılında Adriano ve Oddone Vaccari tarafından kurulan kayak, bot, spor giyim, eldiven, çanta markasıdır. 2003 yılında Tecnica Group SPA tarafından satın alındı.Tecnica Group SPA İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Briko",
+    "description": "Briko, 1985 yılında kurulan bisiklet markasıdır.Markanın sahibi İtalya merkezli BasicNet S.p.A. spor, giyim aksesuar ve ayakkabı şirketidir.BasicNet S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Botech",
+    "description": "Botech, 1993 yılında kurulan Botech Elektronik San. ve Tic. Ltd. Şti. bünyesinde üretilen uydu cihazları ve aksesuarları, led televizyon, ekran, televizyon askı aparatı, zayıf akım kablolar ve kayıt sistemleri markasıdır.ISO 9001, ISO 13485 belgelerine sahiptir.İstanbul merkezli firma 5 bin metrekarelik kapalı alanda üretim tesisine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Emre Çikolata",
+    "description": "Emre Çikolata Nerenin Malı MarkasıEmre Çikolata, 1996 yılında kurulan Emre Çikolata Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen çikolata, gofret, bar, çikolata kremi, kahve, toz içecek ve şekerleme markasıdır.Gaziantep merkezli firma ürünlerini 3. OSB’de bulunan 3 bin 700 metrekaresi kapalı toplam 10 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Monroe",
+    "description": "Monroe, 1916 yılında August F. Meyer tarafından kurulan DRiV Incorporated bünyesinde üretilen amortisör, direk, direksiyon ve süspansiyon bileşenleri, orijinal ekipman ve yedek sürüş kontrol çözümleri markasıdır.Binek otomobiller, kamyonetler, SUV’lar, otobüsler, minibüsler, ağır hizmet uygulamaları ve ticari araçlar için ürünler sunmaktadır.DRiV Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Beşlerin",
+    "description": "Beşlerin, 1985 yılında kurulan Beşler Yem ve Un San. Tic. A.Ş. bünyesinde üretilen un, kepek ve yem markasıdır.ISO 9001, ISO 22000, OHSAS 18001 ve Helal belgelerine sahiptir.Firma Erzurum merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İnci Milföy",
+    "description": "İçin, 1995 yılında kurulmuş olan ŞOK Marketler Tic. A.Ş. adına Kerevitaş Gıda San. ve Tic. A.Ş. tarafından üretilen dondurulmuş milföy hamuru markasıdır.Ürünleri değişen miktarlarda palm, kanola, pamuk yağı, mono ve digliserid, soya, gluten, aroma verici içermektedir.Şok Marketler hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 41,22)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-12-14"
+  }
+]

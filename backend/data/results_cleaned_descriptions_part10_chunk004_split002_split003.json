@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Aterna",
+    "description": "2011 yılında kurulmuş olan Aterna Zeytincilik Tarım ve Turizm San. Tic. Ltd. Şti. bünyesindeki zeytin, zeytinyağı, baharat, atıştırmalık markasıdır.Troy Group bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hydro Pack",
+    "description": "1996 yılında kurulmuş olan Hydro-Pack Ltd. bünyesindeki hidrolik dişli pompaları, yön kontrol vanaları, hidrolik valfler, hidrolik motorlar ve direksiyon üniteleri, hidrolik güç birimleri, yağ soğutucuları, dişliler üzerinde pompa, eğik sürücüler, piston pompaları, traktör ve forklift yedek parçaları markasıdır.Hydro-Pack Ltd. Bulgaristan merkezlidir. Ürünlerini 60’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Migimar",
+    "description": "2009 yılında kurulmuş olan Mgm Tekstil İnş. Nak. Tur. San ve Tic. Ltd. Şti. bünyesindeki avm markasıdır.Mardin merkezli Alışveriş ve Yaşam Merkezi 2 bin 500 metrekarelik alanda yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Antenx",
+    "description": "Antenx LLC bünyesindeki antenler ve RF/mikrodalga cihazları, VNA kalibrasyon kiti, SMA tork anahtarı, aksesuarlar markasıdır.Antenx LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Doğal Agro",
+    "description": "",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

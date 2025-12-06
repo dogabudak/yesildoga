@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Promost Medikal",
+    "description": "Promost Medikal, 2017 yılında kurulan Promost Medikal Tıbbi Cihazlar ve Malz. İth. İhr. San. Tic. Ltd. Şti. bünyesindeki üroloji, gastroentoroloji, jinekoloji ürünleri, tek kullanımlık sarf malzemeler markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dare 2B",
+    "description": "Dare 2B, 1981 yılında kurulan Regatta Ltd. bünyesindeki kadın, erkek, çocuk spor giyim ve aksesuarları markasıdır.Yarış ve koşu kıyafetleri de dahil olmak üzere çeşitli sporlar için koleksiyonlar geliştirmektedir.Regatta Ltd. İngiltere merkezlidir. Ürünlerini 65’ten fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;CraghoppersDare 2BHawksheadRegattaRegatta ProfessionalTactical Threads",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Grifone",
+    "description": "Grifone, 1984 yılında kurulan Textil Seu S.A. bünyesindeki dış giyim ve aksesuarları markasıdır.Ürün yelpazesinde giyim, tişörtler, şortlar ve uzun kollu gömlekler, dış giyim, ceketler ve pantolonlar, ayakkabılar yer almaktadır.Textil Seu S.A. İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Killy",
+    "description": "Killy, 1993 yılında kurulan Sportswear Management B.V. bünyesindeki kayak, dağ ve kış sporları için ceketler, pantolonlar, yünler, deri ve deri taklitleri ve aksesuarları markasıdır.Sportswear Management B.V. Hollanda Antilleri merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Tules Medikal",
+    "description": "Tules Medikal, 2018 yılında kurulan Tules Medikal San. ve Tic. A.Ş. bünyesinde üretilen yüksek emici kompresler, el-ayak sabitleyiciler, endotrakeal tüp sabitleyici, trakeostomi kanül sabitleyici, fototerapi göz bandı, sürgü kılıfı, kuvöz temizleme bezi markasıdır.EN ISO 13485, CE belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

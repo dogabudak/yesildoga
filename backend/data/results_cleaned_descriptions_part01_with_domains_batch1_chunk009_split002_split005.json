@@ -1,0 +1,48 @@
+[
+  {
+    "company": "DR. SCHELLER",
+    "description": "DR. SCHELLER, 1986 yılında BCG Baden-Baden Cosmetics Group GmbH bünyesinde üretilen organik cilt bakım ürünleri markasıdır.BCG Baden-Baden Cosmetics Group GmbH Almanya merkezli bir şirkettir. Ürünleri 60’tan fazla ülkede satılmaktadır ve firma özel etiketli ürünler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Wilson",
+    "description": "Wilson Sporting Goods, 1913 yılında kurulan spor malzemeleri üreticisidir. 1985 yılında Amer Sports’un yan kuruluşu oldu.Wilson; futbol, basketbol, tenis, voleybol, golf, badminton, beyzbol, softball, amerikan futbolu, raketbol ve squash gibi branşlar için spor malzemeleri üretir.Amer Sports’u ise 2019 yılında ANTA Sports Products Limited, FV Fund (FountainVest Partners tarafından yönetilen bir yatırım aracı), Anamered Investments (Bay Chip Wilson’a ait bir yatırım aracı) ve Tencent (FV Fonu’na sınırlı ortak olarak yatırım yapmak için) bir Çinli yatırımcı konsorsiyumu oluşturarak satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2020-03-12"
+  },
+  {
+    "company": "Dolia",
+    "description": "Dolia, 2005 yılında kurulan Shenzhen KDI Communication Co.,Ltd bünyesindeki cep telefonu ve aksesuarları markasıdır.Çin merkezli Shenzhen KDI Communication Co., Ltd tarafından üretilen Dolia markalı ürünlerin Türkiye’deki tek satış yetkilisi Zore Çeyiz Tekstil Elektronik San. ve Tic. Ltd. şirketidir.Zore 2004 yılından itibaren şirketleşip cep telefonu ve aksesuarları ithalatı alanında büyüdü.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Türk Copy",
+    "description": "Türk Copy, 1989 yılında kurulan Kombassan Kağıt A.Ş. bünyesindeki markadır.Firmanın markaları:A4 SPEEDULTRAEKSTRATÜRK COPYKombassan Kağıt A.Ş. Konya’da 84 bin 750 metrekarelik bir alana kurulmuş, 40 bin 790 metrekare kapalı alanı bulunan Türkiye’nin kağıt üretimi alanında 1. hamur yazı tabı kağıdı üreten fabrikalarından birine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Group",
+    "description": "Group, 1978 yılında kurulan Sarıkaya Elektrikli Ev Gereçleri San. ve Tic. Ltd. Şti. bünyesindeki küçük elektrikli ev aletleri markasıdır.10 bin metrekare kapalı alana sahip fabrikada üretim yapan Türk firması Sarıkaya Elektrikli Ev Gereçleri şirketinin bünyesindeki markalar:GroupSarex",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-11-26"
+  }
+]

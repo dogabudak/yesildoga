@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Koçlar Un",
+    "description": "Koçlar Un, 1990 yılında kurulan Koçlar Un San. ve Tic. A.Ş. bünyesinde üretilen çift demet, çift sümbül, pide ve lavaşlık, saf-1, simitlik, tam buğday, tek demet, tek sümbül unları markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kırtızlar Un",
+    "description": "Kırtızlar Un, 1996 yılında kurulan Kırtızlar Un Fabrikası Tarım San. ve Turizm Tic. Ltd. Şti. bünyesindeki ekmeklik, pidelik, baklava ve böreklik, pastalık, simitlik, makarnalık, tam buğday, şepitlik, bazlamalık, mantılık, yufkalık unlar markasıdır.Rusya, Avrupa, ABD., Kanada, Avustralya gibi ülkelerden doğrudan veya uluslararası tedarikçiler aracılığıyla buğday alımı yaparak üretim yapmaktadır.Ankara merkezli firma ürünlerini Azerbaycan, Irak, Afrika ve Asya ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Save the Children",
+    "description": "Save the Children, 1919 yılında kurulan Save The children Fund bünyesindeki sivil yardım kuruluşudur.Özellikle çocuklar için iyi eğitim, sağlık ve ekonomik fırsatlar, doğal afetler, savaş, çatışma ve diğer acil durumlarda çocukların hayatlarını iyileştirmek ve yardım sağlamak için kurulan, 120 ülkede çalışan 29 ulusal üye kuruluştan oluşan küresel bir harekettir.İngiltere merkezli Save the Children, BM ekonomik ve sosyal konseyi’nde genel danışma statüsüne sahiptir. Save the Children USA ile karıştırılmamalıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Solaredge",
+    "description": "Solaredge, 2006 yılında kurulan Solaredge Technologies Inc. bünyesindeki fotovoltaik diziler için güç iyileştirici, güneş invertörü ve izleme sistemleri markasıdır.Konut, ticari ve büyük ölçekli PV enerji depolama ve yedekleme çözümleri, EV şarj, ev enerji yönetimi, şebeke hizmetleri ve sanal enerji santralleri, pilleri ve kesintisiz güç kaynağı (UPS) çözümleri sağlar.Solaredge Technologies Inc. İsrail menşelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Lemas",
+    "description": "Lemas, 2008 yılında Cuma Çetintaş tarafından kurulan Lemas Gıda Ltd. Şti. bünyesinde üretilen ketçap, ketçap sosları, mayonez, şalgam, soslar, sumak markasıdır.ISO 9001, ISO 22000, HELAL belgelerine sahiptir.Mersin merkezli firma üretimini yaptığı ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

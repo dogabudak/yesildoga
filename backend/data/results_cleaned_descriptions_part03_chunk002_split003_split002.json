@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Silicon Power",
+    "description": "Silicon Power, 2003 yılında kurulan Silicon Power Computer & Communications Inc. bünyesinde üretilen flaş hafıza kartları, USB flash sürücüler, DRAM modülleri, kart okuyucular, yarıiletken sürücüler, USB 3.0 adaptörleri, katı hal diskleri ve taşınabilir sabit sürücüler gibi çeşitli elektronik ve bilgisayar donanımları markasıdır.Silicon Power Computer & Communications Inc. Tayvan merkezlidir. Tayvan ve Hollanda’da üretim tesisleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2023-12-03"
+  },
+  {
+    "company": "AmerisourceBergen",
+    "description": "AmerisourceBergen, 2001 yılında Bergen Brunswig ve AmeriSource’un birleşmesiyle kurulan AmerisourceBergen Corporation bünyesindeki ilaçlar, sağlık ve bakım ürünleri markasıdır.AmerisourceBergen Corporation Amerika merkezlidir.HissedarlarWalgreens Boots Alliance (yüzde 27,3)Putnam (yüzde 11,1)The Vanguard Group (yüzde 8,96)Newfleet Asset Management (yüzde 7,90)SSgA Funds Management (yüzde 3,46)Alpine Associates Management (yüzde 3,36)BKF Asset Management (yüzde 2,85)Thornburg Investment Management (yüzde 2,82)United States Trust (yüzde 2,74)Fiduciary Management (yüzde 2,72)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Phicomm",
+    "description": "Phicomm, 2009 yılında kurulan Phicomm Co., Ltd. bünyesinde üretilen ev ağ ürünleri, akıllı donanım, bulut servis ürünleri, ev otomasyon ürünleri, büyük veri hizmetleri ve çözümler markasıdır.Merkezi Çin’de bulunan şirketin Almanya, Singapur, Hindistan gibi ülkelerde yan kuruluşları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bristol-Myers Squibb",
+    "description": "Bristol-Myers Squibb, 1989 yılında Bristol-Myers ile Squibb şirketlerinin birleşmesiyle kurulan Bristol-Myers Squibb Company bünyesindeki ilaç markasıdır.Bristol-Myers Squibb Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Microtech Gefell",
+    "description": "Microtech Gefell, Microtech Gefell GmbH bünyesindeki mikrofon ve akustik sistemler markasıdır. Kühnast ailesinin üç nesli ve Drechsler ailesinden iki kişi işletmenin yönetiminde yer almaktadır.Dünya çapında dağıtıcılar aracılığıyla satılan stüdyo ve ölçüm mikrofonları üretmektedir.Microtech Gefell GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

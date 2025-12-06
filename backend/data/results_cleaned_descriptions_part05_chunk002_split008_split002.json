@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Matsushita",
+    "description": "Matsushita, Smile Autoparts Inc. bünyesindeki otomotiv yedek parçaları markasıdır.Otomobil parçaları ve kara aracı parçaları, fren kaliperleri, ateşleme bobinleri, su pompaları, yağ pompaları gibi ürünler sunmaktadır.Smile Autoparts Inc. Amerika merkezlidir ve ürünlerini Çin’den tedarik etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kapital Bank",
+    "description": "Kapital Bank, 1874 yılında kuruldu. Bankacılık hizmetleri sunan Kapital Bank OJSC, kimya ve gaz endüstrileri, tarım, ulaşım, iletişim ve inşaat gibi sektörlere hizmet ve finansman sağlamaktadır.Kapital Bank OJSC, Azerbaycan merkezlidir ve Azerbaycan’ın en büyük hizmet ağına sahiptir. Çoğunluk hisseleri Paşa Holding LLC’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Kyoto Receiver",
+    "description": "Kyoto, 1992 yılında kurulan Herz Elektronik San. Tic. Ltd. Şti. bünyesindeki uydu alıcısı sistemleri markasıdır.İzmir merkezli firma uydu alıcısı sistemleri dışında güvenlik sistemleri, araç ses sistemleri, bilgisayar oem ürünleri, led, aydınlatma gibi elektronik ürün grubunda hizmet vermektedir.Bünyesindeki markalar;Güven GdHerzHerzsatKyotoKyotosatKyotosat DigitalLetonxSmyrna",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mono Electric",
+    "description": "Mono Electric, 2011 yılında kurulan Mono Elektrik Malzemeleri San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen anahtar ve priz serisi, sıvaaltı anahtar serisi, grup priz serisi ve aksesuarlar markasıdır.Ürünlerini İstanbul’da 14 bin metrekarelik alanda bulunan fabrikasında üretmekte ve 46 ülkeye ihraç etmektedir. ISO 9001 belgesine sahiptir.Bünyesindeki markalar;MM Mono ElectrıcM Mono LightingM Mono M1M Mono M2M Mono M3MonoMono DespinaMono EcoMono ElectrıcMono LarıssaMono LightingMono OberonMono OrıonMonoled",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polar Vantage",
+    "description": "Polar, 1977 yılında Seppo Saynajakangas tarafından kurulan Polar Electro Oy bünyesindeki bilek cihazları, atletik eğitim ve fitness için ve ayrıca kalp atış hızı değişkenliğini ölçmek için bir dizi kalp atış hızı izleme cihazı ve aksesuarları markasıdır.Polar Electro Oy Finlandiya merkezlidir ve ürünlerini Finlandiya’da bulunan fabrikasında üretmektedir. Dünya çapında 26 yan kuruluşa sahiptir ve ürünleri 80’den fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;Blood, Sweat And DataCardio GxChase Your DestinyFitsparkFlowlinkHeart BraListen To Your BodyOwncodeOwnindexPolarPolar Cardio CoachingPolar Grit XPolar H10Polar Listen To Your BodyPolar LoopPolar Loop 2Polar M200Polar M450Polar M600Polar Smart CoachingPolar UnitePolar VantagePolar Vantage MPolar Vantage VPrecision PrimeSereneWearlinkWearlink+",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  }
+]

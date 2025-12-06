@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Clipper",
+    "description": "Clipper, 1959 yılında kurulmuş olan Flamagas S.A. bünyesindeki çakmaklar, çakmak kılıfları, metal çakmaklar, çok amaçlı çakmaklar, yedek gaz bütan markasıdır.Flamagas S.A. İspanya merkezlidir. Ürünlerini İspanya, Hindistan ve Çin’de üretmekte ve 130’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "AZ instruments",
+    "description": "AZ instruments, 1991 yılında kurulmuş olan AZ Instrument Corp. bünyesinde üretilen dijital ölçüm cihazı, çevresel ölçüm cihazı, hava akış ölçümü, sıcaklık ölçümü, nem ölçümü, datalogger, CO2 ölçümü, hava akış ölçümü, ses seviyesi ölçümü, su kalitesi ölçümü, pH ölçümü, EC ölçümü, ORP ölçümü, DO ölçümü, TDS ölçümü, Tuzluluk ölçümü ve CE uyumluluğu ürünleri markasıdır.AZ Instrument Corp. , sıcaklık, nem, ısı indeksi, hava akışı, hava basıncı, hava kalitesi, su kalitesi, ses seviyesi, dönüş hızı ve yüksek hızlı görüntülemeyi ölçmek, izlemek ve kaydetmek için aletler ve giyilebilir cihazlar tasarlar, geliştirir ve üretir. ISO 9001 belgesine sahiptir.AZ Instrument Corp. Tayvan merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Bernhard H. Mayer",
+    "description": "Bernhard H. Mayer, 1871 yılında kurulmuş olan Mayer’s Mint Gmbh bünyesindeki saatler ve mücevherler markasıdır.Mayer’s Mint Gmbh Almanya merkezlidir. Ürünlerini İsviçre’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Eyfel Çay",
+    "description": "Eyfel, 2000 yılında kurulmuş olan Gap Çay Gıda San. İth. İhr. Paz. Tic. Ltd. Şti. bünyesindeki siyah kuru çay markasıdır.Ürünleri Seylan ve Doğu Karadeniz çaylarının harmanlarından oluşmaktadır.Firma Adana merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elenberg Davlumbaz",
+    "description": "Elenberg, 1992 yılında kurulmuş olan Motorfan Elektrik San. ve Tic. Ltd. Şti. bünyesinde üretilen davlumbazlar, ankastre setler, fırınlar, ocaklar markasıdır.Firma İstanbul merkezlidir ve ürünlerini 80 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

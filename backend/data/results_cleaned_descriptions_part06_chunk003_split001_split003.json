@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Buz Parmak",
+    "description": "Buz Parmak, Unilever PLC’ye ait Unilever San. ve Tic. Türk A.Ş. bünyesinde üretilen dondurmalar, buz kremler, dondurmalı pastalar, kuplar, pudingler markasıdır.Unilever PLC, İngiltere merkezlidir. Türkiye genelinde 6 fabrikaya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Sonikel",
+    "description": "Sonikel, 2016 yılında kurulan Sonikel Ultrasonik Elektronik ve Otomasyon San. Tic. Ltd. Şti. bünyesinde üretilen ultrasonik kaynak makineleri, gıda kesim makineleri markasıdır.ISO 9001, ISO 10002 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Voe",
+    "description": "Voe, 1985 yılında kurulan Voe SA bünyesinde üretilen ameliyat sonrası plastik ve kozmetik cerrahi giysiler, ince kuşaklar ve tozluklar, yanık giysileri markasıdır.Voe SA İspanya merkezlidir. Ürünlerini İspanya’da üretmekte ve 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Gmb Otomobil Parçaları",
+    "description": "Gmb, 1943 yılında kurulan Gmb Corporation bünyesinde üretilen soğutma sistemi, motor tahrik sistemi, şanzıman parçaları, tahrik hattı bileşenleri, direksiyon ve süspansiyon parçaları, aks parçaları, rulman gibi otomobil parçaları markasıdır.Şirketin ana ürünleri arasında tahrik, şanzıman ve kontrol ekipmanı parçaları, motor parçaları ve yataklar yer almaktadır.Gmb Corporation Japonya merkezlidir ve altı iş kolunda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Hauptner",
+    "description": "Hauptner, 1857 yılında Hans Hauptner tarafından kurulan ve 1990’larda Herberholz şirketi ile birleşen H. Hauptner ve Richard Herberholz GmbH & Co. KG bünyesinde üretilen farklı hayvan türleri için kesme makineleri ve aksesuarları ile bakım ve tedavi ekipmanları ile veterinerlik aletleri, hayvan yetiştirme ekipmanları ve hayvan tanımlama ürünleri markasıdır.Veterinerlik alanında, teşhis, cerrahi, anatomi, şırınga ve kanüller için aletler ısı ve gebelik kontrolü, suni tohumlama, organ tedavisi, mide ve farenks için aletler, evcilleştirme, hadım etme, boynuz kesme, tırnak ve pençe tedavisi ile diş ve meme başı tedavisine yönelik cihazlar, plastik kulak küpeleri, metal kulak küpeleri, pullar ve dövme penseleri gibi ürün yelpazesine sahiptir.H. Hauptner ve Richard Herberholz GmbH & Co. KG Almanya merkezlidir ve ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

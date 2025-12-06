@@ -1,0 +1,48 @@
+[
+  {
+    "company": "İşkur Makina",
+    "description": "İşkur Makina, 1989 yılında kurulan İşkur Makina ve İplik Sanayi Ticaret bünyesinde ithal edilen dikiş makineleri, çuval ağzı dikme makinesi, iplik sarma makineleri, el presleri, kesimhane ve konfeksiyon ekipmanları, sehpa ve tekne ile yedek parça, sarf malzeme ve tekstil aksesuarları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Veser",
+    "description": "Veser, 1988 yılında kurulan Veser Kimyevi Maddeler A.Ş. bünyesindeki deterjan kimyasalları, epoksi reçineler, gıda katkı maddeleri, genel kimyasallar, ilaç kimyasalları, kozmetik aktifleri, kozmetik kimyasalları, tekstil kimyasalları, zirai ilaç kimyasalları markasıdır.Veser Kimyevi Maddeler A.Ş. 2017 yılında Amerika merkezli Vinmar International Ltd. tarafından satın alındı.Bünyesindeki markalar;ArdasolTrennmittelVeser",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Octovan",
+    "description": "Octovan Eşya Taşımanın En Mobil Hali, 2017 yılında kurulan Octovan Mobil Teknoloji A.Ş. bünyesinde B2B ve B2C taşımalarda teknolojik çözümler sunan dijital bir taşıma platformudur.Ev taşıma hizmetlerinde ise, kat bilgisi, asansör veya mesafe gibi bilgilere ihtiyaç duymadan, sabit fiyatlar ile hizmet veren bir pazar yeridir.İstanbul merkezli firma şimdilik İstanbul’da hizmet veriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hoppe",
+    "description": "Hoppe, 1952 yılında kurulan Hoppe Holding AG bünyesinde üretilen alüminyum, pirinç, poliamid ve paslanmaz çelikten kapı ve pencere donanımı markasıdır.DIN EN ISO 9001, DIN EN ISO 14001, DIN EN ISO 50001 belgelerine sahiptir.Hoppe Holding AG İsviçre merkezlidir. Avrupa ve Amerika’da 7 üretim tesisinde üretim yapmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Weijinto",
+    "description": "Weijinto, 2021 yılında kurulan Shenzhen Weijin Weituo Technology Co. Ltd. bünyesinde üretilen bellekler, USB, SSD, bilgisayar çevre birimleri markasıdır.Shenzhen Weijin Weituo Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

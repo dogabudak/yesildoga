@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Duracell",
+    "description": "Duracell, 1924 yılında bilim adamı Samuel Ruben ve iş adamı Philip Rogers Mallory tarafından üretilen pil markasıdır. Markanın son sahibi 1996 yılından beri Procter & Gamble adlın Amerikan şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kohl’s Ülke",
+    "description": "Kohl’s Hangi Ülke MarkasıKohl’s, 1927 yılında Maxwell Kohl tarafından kurulan perakende zinciridir.Giyim, Ayakkabı, yatak, mobilya, takı, güzellik ürünleri, elektronik ve ev eşyaları satan Amerikan merkezli mağazadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-03-17"
+  },
+  {
+    "company": "Fiserv",
+    "description": "Fiserv, 1984 yılında kurulan finansal hizmetler teknolojisi sağlayıcısıdır. Şirketin müşterileri arasında bankalar, kredi birlikleri, menkul kıymetler komisyoncusu satıcıları, Leasing ve finans şirketleri ile perakendeciler yer alıyor.Fiserv Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Symantec Enterprise Cloud",
+    "description": "Symantec Enterprise Cloud, 1982 yılında kurulmuş olan şifreleme, virüs ve kötü amaçlı yazılım koruması, tanımlama ve kimlik doğrulama, bilgi güvenliği, siber güvenlik hizmetleri, cihazlarda, özel veri merkezlerinde ve bulutta veri merkezli hibrit güvenlik markasıdır.Symantec’in kurumsal güvenlik varlıkları, 2019 yılında Amerika merkezli Broadcom Inc. tarafından satın alınarak birleştirildi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-06-13"
+  },
+  {
+    "company": "Pemaks",
+    "description": "Pemaks, 1963 yılında Mehmet ve Erdoğan Beşer kardeşler tarafından cıvata somun ve hortum rakoru üreterek kuruldu. Pemaks markalı, pnömatik silindirleri 1974 yılından beri Türkiye’de üretilmektedir.Pemaks pnömatik silindirleri, Hollanda, İtalya, Almanya, İngiltere gibi Avrupa ülkelerinin yanısıra, Suriye, Pakistan, Ürdün başta olmak üzere, çeşitli ortadoğu ülkelerine de ihracat edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

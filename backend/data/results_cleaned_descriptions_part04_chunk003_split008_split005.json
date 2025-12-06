@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Celebrity",
+    "description": "Celebrity, 2005 yılında kurulan Hanesbrands Inc. bünyesindeki giyim markasıdır.Hanesbrands, Inc. erkek, kadın ve çocuklar için iç çamaşırı, tişört, spor gömlek, çorap, sütyen, pijama ve ayakkabı üreten Amerika merkezli çok uluslu bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Brekkies",
+    "description": "Brekkies, 2016 yılında kurulan Affinity Petcare, S.A. bünyesinde üretilen evcil hayvanlar için hazır yiyecekler, evcil hayvanların pislemesi için kutuya eklenen koku emici markasıdır.Affinity firmasının çeşitli ülkelerde beş fabrikası bulunmaktadır. İspanya merkezli Affinity Petcare, S.A. ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Twitch",
+    "description": "Twitch, 2011 yılında Justin Kan ve Emmett Shear tarafından kurulan Twitch Interactive, Inc. bünyesindeki video oyunları odaklı canlı görüntü akışı platformu markasıdır.Twitch Interactive, Inc. 2014 yılında Amerika merkezli Amazon.com, Inc. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Günsel",
+    "description": "Günsel, 2015 yılında Suat Günsel tarafından kurulan elektrikli otomobil markasıdır.Kurucu Rektörü olduğu Yakın Doğu Üniversitesi’nde prototip geliştirme çalışmaları devam etmektedir. Otomobilin seri üretimi 2021 yılında başlayacak ve 2025 yılında 30 bin araç üretim kapasitesine ulaşacak.Günsel üretim tesisi; 20 bin metrekarelik alan üzerinde 15 bin metrekare kapalı alanda faaliyet gösterecek.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "Northern Cyprus",
+    "updated_date": null
+  },
+  {
+    "company": "Ok Meter Direct",
+    "description": "Ok Meter Direct, 2006 yılında James Lai tarafından kurulan OK Biotech Co. Ltd. bünyesinde üretilen kan şekeri ölçer, glükometre, glikoz test şeridi, taşınabilir nebulizatör markasıdır.ISO 13485 belgesine sahiptir.OK Biotech Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

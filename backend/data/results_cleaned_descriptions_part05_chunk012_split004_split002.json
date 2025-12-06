@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Diodes",
+    "description": "Diodes, 1959 yılında kurulan Diodes Incorporated bünyesindeki analog, ayrık, mantık ve karışık sinyal yarı iletkenler markasıdır.Tüketici elektroniği, bilgisayar, iletişim, endüstriyel ve otomotiv pazarlarında dünyanın önde gelen şirketlerine yüksek kaliteli yarı iletken ürünlerin lider üreticisi ve tedarikçisidir.Diodes Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "ZR Speaker Lab",
+    "description": "ZR Speaker Lab, 1983 yılında Zvone Raspor tarafından kurulan Zvonko Raspor S.P. bünyesindeki el yapımı hoparlörler ve ses ekipmanları markasıdır.Zvonko Raspor S.P. Slovenya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SI",
+    "updated_date": null
+  },
+  {
+    "company": "Georg Neumann",
+    "description": "Georg Neumann, 1928 yılında kurulan Georg Neumann Gmbh bünyesindeki mikrofon, mikrofon aksesuarları, preamplifikatörler, monitör, monitör aksesuarları, kulaklıklar markasıdır.Yayın, canlı müzik ve müzik üretimi için kondenser kayıt mikrofonlar sunmaktadır.Georg Neumann Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bath & Body Works",
+    "description": "Bath & Body Works, 1990 yılında kurulan Bath and Body Works LLC. bünyesindeki sabun, losyon, koku ve mum satan perakende mağaza zinciri markasıdır.Bath and Body Works LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Velodyne",
+    "description": "Velodyne, 1983 yılında kurulan Velodyne Akustik Gmbh bünyesindeki subwoofer, hoparlörler ve kulaklık markasıdır.Çeşitli ses ürünleri sunmaktadır.Firma 2019 yılında Almanya merkezli Mansour Mamaghani’ye ait olan Audio Reference tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

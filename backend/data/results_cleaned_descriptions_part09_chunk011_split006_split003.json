@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Yenigün Çay",
+    "description": "“Yenigün Çay“1995 yılında kurulmuş olan Aklar Çay San. Tic. Ltd. Şti. bünyesinde üretilen dökme çay, demlik poşet çay markasıdır.Firma Rize merkezlidir ve ürünlerini Rize’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clou",
+    "description": "“Clou“1917 yılında kurulmuş olan Alfred Clouth Lackfabrik GmbH & Co. KG bünyesindeki ahşap ve boya ürünleri markasıdır.Alfred Clouth Lackfabrik GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tyson Hand Tools",
+    "description": "“Tyson“1994 yılında kurulmuş olan Kupa Hırdavat El Aletleri Ltd. Şti. bünyesindeki el aletleri, koruyucu örtüler, maket bıçağı, matkap ucu, metre ve ölçü aletleri, panç, plastik silikon tabancası, silikon, pencere fitil bandı, hızlı yapıştırıcı, sıvı teflon, kimyasal dubel, testere, tornavida ve bits uç, zımba tabancası, yağmurluk markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Kupa ToolsTyson Hand Tools",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Power Bang",
+    "description": "“Power Bang“1984 yılında kurulmuş olan Aklar Gıda Tekstil Turizm Oto San. Tic. Ltd. Şti. bünyesindeki enerji içeceği markasıdır.Şeker veya fruktoz-glikoz şurubu, karbondioksit, sitrik asit, sodyum sitrat, taurin, aroma verici, kafein, karamel, vitaminler, sodyum benzoat, potasyum sorbat içermektedir.Firma İstanbul merkezlidir.Bünyesindeki markalar;GazalPower BangPungiSipanSpİko",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Attack Forklift",
+    "description": "“Attack“2011 yılında kurulmuş olan Translift Makine San. ve Tic. Ltd.Şti. bünyesinde üretilen dizel, LPG ve akülü forklift’ler markasıdır.Firma İstanbul merkezlidir. Ürünlerini 80 bin metrekarelik kapalı alanda bulunan rabrikasında üretmektedir.Bünyesindeki markalar;AttackOn",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

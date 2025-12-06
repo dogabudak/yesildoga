@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Elizabeth Arden",
+    "description": "Elizabeth Arden, 1910 yılında kurulmuş olan Elizabeth Arden Inc.bünyesinde üretilen kozmetik, cilt bakımı ve kokular markasıdır.Elizabeth Arden Inc. 2016 yılında Amerika merkezli Revlon Inc. tarafından satın alınmıştır. Ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Africology",
+    "description": "Africology, 2000 yılında Renchia Droganis tarafından kurulmuş olan Africology Pty. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Spa ve otel endüstrisi için çevre dostu, tamamen doğal cilt bakımı, banyo ve vücut ürünleri sunmaktadır.Africology Pty. Ltd. Güney Afrika merkezlidir ve ürünlerini Güney Afrika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ZA",
+    "updated_date": null
+  },
+  {
+    "company": "Carelogie",
+    "description": "Carelogie, 2010 yılında kurulmuş olan 1K Kimya A.Ş. bünyesinde üretilen duş jeli, saç köpüğü markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Viskolove",
+    "description": "Viskolove, 1996 yılında kurulmuş olan Ural Medikal Tic ve Paz A.Ş. bünyesinde üretilen yatak ve yastık, yatak kılıfı, yatak pedleri markasıdır.Jel yastık, yatak ve yıkanabilir visko yastık, yatak ürünleri sunmaktadır.Firma İstanbul merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Callista Çanta",
+    "description": "Callista, 2013 yılında Celia Sigalou ve Eleni Konstantinidou tarafından kurulmuş olan Callista Crafts Commercial S.A. bünyesindeki lüks deri ürünler ve aksesuarlar markasıdır.Callista Crafts Commercial S.A. Yunanistan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  }
+]

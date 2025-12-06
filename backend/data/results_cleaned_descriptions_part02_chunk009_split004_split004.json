@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Prysmian",
+    "description": "Prysmian, 1879 yılında kurulan Prysmian Group’a ait 2011 yılında kurulan Prysmian S.p.A. bünyesindeki elektrik güç iletimi ve telekomünikasyon kablo ve sistemleri markasıdır.Prysmian Group’un Türkiye operasyonu olan Prysmian Kablo, 1964 yılından beri faaliyet göstermektedir.İtalya merkezli Prysmian S.p.A., 2011 yılında Prysmian ve Draka’nın birleşmesi sonucu kurulmuş olan dünyanın en büyük kablo üreticisidir.Ürünlerini 50’den fazla ülke ve 112 fabrikada üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Alce",
+    "description": "Alce, 1968 yılında kurulan ALCE Elektrik Sanayi ve Ticaret A.Ş. bünyesindeki Trafolar, Kondansatörler, İzolatörler, Kablo akım trafoları markasıdır.Alce markalı trafo ve izolatör ürünleri 40 ülkeye ihraç edilmektedir.Alce İzolatör Fabrikası İstanbul’da 3 bin metrekarelik kapalı alanda üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Klemsan",
+    "description": "Klemsan, 1974 yılında kurulan Klemsan Elektrik Elektronik Sanayi ve Ticaret A.Ş. bünyesindeki ray ve baskılı devre klemensleri, klemens ve kablo kanal aksesuarları, markalama sistemleri, kablo kanalları, elektronik klemensler, endüstriyel otomasyon ürünleri, zaman ve kontrol yönetimi, koruma yönetimi, alarm yönetimi, analog sinyal yönetimi, anahtarlama yönetimi, haberleşme yönetimi, enerji izleme, reaktif güç yönetimi çözümleri markasıdır.Klemsan, Türkiye’de 7, dünyada 12 ofis ve geniş bayi ağı ile küresel bir marka olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Voltimum",
+    "description": "Voltimum, 2001 yılında elektrik tesisatları, aydınlatma, elektronik, otomasyon ve kablo sektörünün 7 dev kuruluşu tarafından (ABB, Legrand, Nexans, Osram, Philips, Pyrsmian, Schneider Electric) kurulan Voltimum SA bünyesindeki, elektrik tesisatı alanında hizmet veren bir bilgi platformudur.Dünyanın 16 ülkesinde hizmet veren elektrik tesisat sektörünün önde gelen internet sitesidir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Weidmüller",
+    "description": "Weidmüller, 1850 yılında kurulan Weidmüller Interface GmbH & Co. KG bünyesindeki elektronik ve elektriksel bağlantı ürünler markasıdır.Üç kıtaya yayılan fabrikalarında elektriksel bağlantılar, sinyal, veri, güç dağıtım ve işlenmesi konularında endüstriyel ortamlar için ürünler üretmektedir. Weidmüller’in, 80’den fazla ülkede pazarlama ağı, mümessillikleri ve üretim tesisleri bulunmaktadır.Weidmüller Almanya merkezlidir, Türkiye’de Weidmüller Elektronik Ticaret Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

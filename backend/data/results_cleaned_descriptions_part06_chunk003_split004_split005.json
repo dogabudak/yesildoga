@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Cp Grat-Ex",
+    "description": "Cp Grat-Ex, 1992 yılında kurulan CP Grat-Ex Manufacturing Company bünyesinde üretilen çapak alma aletleri, çapak alma bıçakları, havşa araçları, kazıyıcılar, seramik aletler, tutamak ve tutucular markasıdır.CP Grat-Ex Manufacturing Company Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Soflow",
+    "description": "Soflow, 2015 yılında kurulan Soflow AG bünyesindeki e-mobilite, elektrikli kaykaylar, elektrikli scooterlar markasıdır.A noktasından B noktasına ulaşmak için karmaşık olmayan, çevre dostu, güvenilir yollar isteyenler için binicilik çözümleri sunmaktadır.Soflow AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Sunket Solar",
+    "description": "Sunket Solar, 2007 yılında kurulan Wuxi Sunket New Energy Technology Co. Ltd. bünyesinde üretilen güneş pilleri, panelleri, fotovoltaik modüller ve güneş enerji sistemleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Wuxi Sunket New Energy Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Perma-Cal",
+    "description": "Perma-Cal Hangi Ülkenin Malı MarkasıPerma-Cal, 1980 yılında kurulan Perma-Cal Industries Inc. bünyesinde üretilen basınç göstergeleri, endüstriyel basınç göstergeleri, doğrudan tahrikli basınç göstergeleri, basınç regülatörleri, pnömo göstergeleri, deniz suyu derinlik göstergeleri, keson göstergeleri, bourdon tüp göstergeleri, özel basınç göstergeleri, mil-spec basınç göstergeleri’ve havacılık basınç göstergeleri markasıdır.Ürünleri endüstriyel, enerji, ticari dalış, petrol, gaz ve petrokimya endüstrileri için, yoğun titreşim, şok, titreşim ve aşırı basınca dayanıklı şekilde tasarlanmıştır.Perma-Cal Industries Inc. Amerika merkezlidir ve ürünleri Amerika’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Berraksu Arıtma Cihazı",
+    "description": "Berraksu, 1971 yılında kurulan Dağıstan Kalıp Makine Plastik San. Tic. Ltd. Şti. bünyesinde üretilen aktif karbonlu su arıtma cihazı markasıdır.Evsel tip su arıtma cihazları, tesisat tipi su arıtma cihazları, filtreler, flatörler, yedek parçalar üretmektedir. ISO 9001 belgesine sahiptir.İstanbul merkezli firma ürünlerini pek çok ülkeye ihraç etmektedir.Bünyesindeki markalar;BerraksuWater World",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Tureng",
+    "description": "Tureng, 1932 yılında Mughith Ghiath Munir Sukhtian tarafından kurulan GMS Holdings iştiraki Agri Sciences Tarım ve İlaç Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki bitki koruma ve bitki besleme ürünleri, veteriner ilaçları ve yem katkı maddeleri markasıdır.2010 yılında faaliyete geçen Agri Sciences; İzmir’de toplam 10 bin metrekarelik alanda bulunan 3 bin 600 metrekare kapalı alanda faaliyet göstermektedir.ISO 9001, OHSAS 18001, ISO 14001, ISO 17025 belgelerine sahiptir.GMS Holdings, Cayman ikametgahı olan bir holding şirketidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 17025",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "TE Connectivity",
+    "description": "TE Connectivity, 2007 yılında kurulan TE Connectivity Ltd. bünyesindeki ulaşım teknolojileri, iletişim teknolojileri, sensör çözümleri, yeşil endüstriyel çözümler, tüketici cihaz teknolojisi markasıdır.En zorlu ortamlarda kanıtlanmış geniş bağlantı ve sensör çözüm yelpazesi, ulaşım, endüstriyel uygulamalar, tıbbi teknoloji, enerji, veri iletişimi ve ev de ilerleme sağlar.TE Connectivity Ltd.; otomotiv, endüstriyel ekipmanlar, veri iletişim sistemleri, havacılık, savunma, tıbbi, petrol ve gaz, tüketici elektroniği ve enerji gibi çeşitli sektörlerdeki zorlu ortamlar için bağlantı ve sensör ürünleri tasarlayan ve üreten 150 ülkede faaliyet gösteren Amerika ve İsviçre merkezli teknoloji şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-10-12"
+  },
+  {
+    "company": "SunGard",
+    "description": "SunGard, 1983 yılında kurulan SunGard Data Systems Inc. bünyesindeki eğitim, finansal hizmetler ve kamu sektörü kuruluşları için yazılım ve hizmet markasıdır.Finans kurumları, eğitim sektörü ve kamu sektörü için entegre BT çözümlerinin dünyanın önde gelen tedarikçilerinden biridir.SunGard Data Systems Inc. bir Amerikan yüksek teknoloji şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lundbeck",
+    "description": "Lundbeck, 1915 yılında Hans Lundbeck tarafından kurulan Lundbeck Vakfı’na ait beyin hastalıkları yaşayan insanların yaşam kalitesini artırmaya dönük çözümler üreten ilaç markasıdır.Lundbeck 50’den fazla ülkede faaliyet gösterirken ürünleri 100’den fazla ülkede ruhsatlandırılmıştır.Danimarka merkezli Lundbeck Vakfı, Lundbeck’teki hisselerin yaklaşık yüzde 70’ine sahipken geri kalan hisseler borsada işlem görmektedir. Ürünlerini Danimarka, Fransa ve İtalya’da bulunan üretim tesislerinde üretmektedir. Türkiye pazarına 1999 yılında Lundbeck İlaç Ticaret Limited Şirketi olarak girmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Mala Kalem",
+    "description": "Mala, 1983 yılında Inter IKEA Holding ve Interogo Vakfı’na ait bir holding şirketi olarak kurulan Inter IKEA Systems B.V. bünyesindeki çeşitli kalem setleri markasıdır.Ürünlerini İtalya’da üreten firmanın ve Interogo Vakfı’nın merkezi Hollanda’dadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

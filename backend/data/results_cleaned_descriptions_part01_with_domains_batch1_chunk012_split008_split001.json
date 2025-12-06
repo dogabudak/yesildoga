@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Essenso Ülke",
+    "description": "Essenso, 1998 yılında kurulan aile şirketi Esse bünyesindeki; mutfak ve sofra ürünleri ile elektrikli mutfak aletleri markasıdır.Esse 2016 yılında Batu Yatırım Holding A.Ş.’ye devredildi.Ürünlerini Çin’de Xinbao Group üretmektedir.Bünyesindeki markalar:EssensoEsse HomeEssensa",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Formosa",
+    "description": "Formosa, 1974 yılında Hsu Ailesi tarafından kurulan Formosa Tools Co., Ltd. bünyesindeki bahçe aletleri markasıdır.Firmanın dünya çapında iş birimleri bulunmaktadır.Formosa araçları ana üretim tesisi Vietnam’da yer alırken Tayvan’daki en eski bahçe araçları üreticilerinden biridir.Formosa Tools Co., Ltd. Tayvan merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Spear and Jackson",
+    "description": "Spear & Jackson, 1760 yılında kurulan bahçe, tarım ve peyzaj için üretilen profesyonel el aletleri markasıdır.Spear & Jackson grubu bünyesindeki Spear & Jackson markasının üç bölümü bulunmaktadır; araçlar, hassas ölçüm ve manyetik teknolojiler.Spear & Jackson Grubu İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2019-02-20"
+  },
+  {
+    "company": "RONEY POWER",
+    "description": "Roney, 1958 yılında Niyazi Güney tarafından kurulan GÜNEY HIRDAVAT A.Ş. bünyesindeki el aletleri ürünleri markasıdır.Firma ayrıca elektrikli el aletleri ve bahçe aletleri markalarına sahiptir.Güney Hırdavat bünyesindeki markalar:RONEYRONEY POWERRONEY GARDEN",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-02-27"
+  },
+  {
+    "company": "Hürriyet Gazetecilik",
+    "description": "Hürriyet Gazetecilik Sahibi Kim Ortaklık YapısıHürriyet Gazetesi, 1948 yılında kuruldu.2018 yılında Demirören Holding tarafından satın alındı.Hürriyet gazetesi pay sahipleri:Demirören Medya Yatırımları Tic. A.Ş. (yüzde 77,67)Borsada işlem gören hisseler (yüzde 22,33)Sermayeye Dolaylı Yoldan Sahip Olan Gerçek ve Tüzel KişilerErdoğan Demirören (yüzde ​40,38)​Yıldırım Demirören (yüzde 12,43)​Meltem Oktay (yüzde 12,43)Fikret Tayfun Demirören (yüzde 12,43)Demirören Holding Bünyesindeki diğer gazeteler:FanatikHürriyet Daily NewsMilliyetPostaVatan",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2019-09-01"
+  }
+]

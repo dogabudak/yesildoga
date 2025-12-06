@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sunfui",
+    "description": "2015 yılında kurulmuş olan Eve Mağazacılık A.Ş. bünyesindeki güneş ürünleri markasıdır.Turgut Aydın Holding çatısı altında kurulan firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lizzini",
+    "description": "1978 yılında kurulmuş olan Wallram Hartstoff- Und Werkzeugtechnik Gmbh bünyesindeki taşlama makineleri markasıdır.Wallram Hartstoff- Und Werkzeugtechnik Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "ChapIce",
+    "description": "1990 yılında kurulmuş olan Oralabs Inc. bünyesinde üretilen cilt bakım ürünleri markasıdır.Şirket dudak bakımı, reçetesiz ilaçlar, ağız bakımı, cilt bakımı, güneş bakımı, kişisel bakım, el dezenfektanı ve saç bakımı ürünleri üretmektedir.Oralabs Inc. Amerika merkezlidir ve ürünleri Amerika’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mazak",
+    "description": "1919 yılında kurulmuş olan Mazak Optonics Corporation bünyesinde üretilen CNC takım tezgahı, lazer işleme makineleri, bilgisayar kontrollü metal kesme makinesi markasıdır.Mazak Optonics Corporation Japonya merkezlidir. Birleşik Krallık, Japonya, ABD, Singapur ve Çin’de üretim operasyonlarına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Petipure",
+    "description": "Bernar Lojistik Taşımacılık ve Dış Tic. San. Ltd. Şti. bünyesindeki kedi maması, kedi konserve maması, köpek ve kedi sağlık ürünleri markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

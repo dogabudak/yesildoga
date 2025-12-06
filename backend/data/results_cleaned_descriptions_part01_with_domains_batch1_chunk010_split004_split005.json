@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Fanso",
+    "description": "Fanso, 2002 yılında Dai Jianghua tarafından kurulan Wuhan Fanso Technology Co.,Ltd bünyesindeki lityum pil üreticisidir.Ürünleri ağırlıklı olarak ticari pazarda kullanılıyor. Petrol araştırması, elektronik basınç göstergesi, debi ölçer, TPMS, akıllı ölçer, RFID, RAM ve CMOS devresi, jeotermal ısı dedektörü ve askeri alan için LWD & MWD-Havacılık, sualtı mühimmat, sonar, GPS ve çeşitli kuvvet istasyonlarında kullanılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fiamm",
+    "description": "Fiamm, 1942 yılında Giulio Dolcetta tarafından kurulan çokuluslu FIAMM Energy Technology S.p.A. bünyesindeki; enerji teknolojisi, motor taşıtları için piller ve akümülatörler ve endüstriyel kullanım için üretilen pil markasıdır.FIAMM Energy Technology S.p.A. şirketi 2015 yılında Japonya merkezli Hitachi tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "GP Ülke",
+    "description": "GP, 1964 yılında kurulan Gold Peak Group bünyesindeki çok uluslu pil markasıdır. Alkalin piller, şarj edilebilir piller ve şarj cihazları üretmektedir.Gold Peak Industries (Holdings) Limited, Hong Kong merkezli bir şirkettir.GP markalı pil üretim tesisleri; Singapur, Çin, Vietnam ve Malezya gibi dünya çapında toplam on ülkede üretim, araştırma ve geliştirme, pazarlama ve dağıtım operasyonlarına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "JCB",
+    "description": "JCB, 1945 yılında Joseph Cyril Bamford tarafından kurulan; tarım makineleri, iş makineleri, hırdavat malzemeleri, elektrikli el aletleri ve mekanik el aletleri markasıdır.JCB markasının imzasını taşıyan; manyetik su terazisi, maket bıçağı, allen anahtar seti, kargaburun, tornavida, testere, tork anahtarı, ahşap kesim dekupajları, segmanlı elmas diskler, keski ve pense, tekerlekli takım çantaları gibi onlarca çeşit mekanik el aletleri ve yardımcı araçları bulunmaktadır.J.C. Bamford ekskavatörler Limited (JCB) çok uluslu İngiltere merkezli bir firmadır ve ürünleri 150 ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2020-01-15"
+  },
+  {
+    "company": "Super Bag",
+    "description": "Super Bag, 1972 yılında kurulan Asrın Plastik bünyesindeki yapı grubu ekipmanları markasıdır.Asrın Plastik, Türkiye’de 2015 yılında yaptığı 2 bin 500 metrekare açık toplamda 14 bin 200 metrekare alanda yapı grubu, ev ürünleri, otomotiv yan sanayi ve tavukçuluk ekipmanları üreten yerli firmadır.Asrın Plastik markalar:Home ProjectSUPER BAGEuro TAV",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

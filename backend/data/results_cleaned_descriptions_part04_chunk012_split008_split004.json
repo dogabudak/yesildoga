@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Skoah",
+    "description": "Skoah, 2001 yılında Chris ve Andrea Scott tarafından kurulan Skoah Inc. bünyesindeki bitki bazlı cilt bakım ürünleri markasıdır.Botanik özler, doğal mineraller, organik bileşikler ve güçlü biyo-aktifler kullanarak ürünler üretmektedir.Skoah Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Agfeo",
+    "description": "Agfeo, 1947 yılında Hermann Boelke tarafından kurulan Agfeo Gmbh & Co. KG bünyesindeki telefon sistemleri, ISDN, IP üzerinden ISDN ve DSL ürünleri markasıdır.Agfeo Gmbh & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Saaten Union",
+    "description": "Saaten Union, 1965 yılında kurulan Saaten-Union Gmbh bünyesindeki tohum markasıdır.Firma 40’tan fazla tarımsal meyve türü tohumuna sahiptir.Saaten-Union Gmbh Almanya merkezlidir. Fransa, İngiltere, Çek Cumhuriyeti, Polonya, Romanya, Macaristan, Rusya ve Ukrayna’da 8 yan kuruluşuyla Avrupa çapında şemsiye markası olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cebel",
+    "description": "1999 yılında kurulmuş olan Cebel Süt Ürünleri Gıda Mad. İmalat San. ve Tic. A.Ş. bünyesinde üretilen çikolata, bal, süt ürünleri, zeytin markasıdır.ISO 9000, ISO 22000 ve Helal belgelerine sahiptir.Konya merkezli firma Konya ve Manisa’da bulunan toplam 25 bin metrekarelik kapalı alana sahip tesislerinde üretim yapmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-29"
+  },
+  {
+    "company": "Mobitell",
+    "description": "Mobitell, 2018 yılında Selim Erdoğan tarafından kurulan Mobitell Ticaret bünyesinde ithal edilen giyilebilir teknolojik cihazlar (akıllı saat, bileklik, başa takılan cihazlar), mikrofon, hoparlör, kulaklık gibi ürünler markasıdır.Ürünleri Çin’den ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

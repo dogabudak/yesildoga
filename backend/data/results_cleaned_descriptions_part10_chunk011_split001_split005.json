@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Cariuma",
+    "description": "2018 yılında David Python ve Fernando Porto tarafından kurulmuş olan Tempo Livre Ltda bünyesinde üretilen ayakkabı markasıdır.Şirket, daha az çevresel etkiye sahip ayakkabılar üretmek için organik pamuk, bambu ve geri dönüştürülmüş plastikler gibi malzemeler kullanır ve ağaçlandırma ile uğraşır.Tempo Livre Ltda Brezilya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Filtron",
+    "description": "Mann+Hummel FT Poland Sp. z o. o. Sp. k. bünyesinde ürettilen hava filtresi, yağ filtresi, yakıt filtresi, kabin filtresi markasıdır.ISO 14001 ve IATF 16949 belgelerine sahiptir.Mann+Hummel FT Poland Sp. z o. o. Sp. k. Polonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Dand",
+    "description": "2006 yılında kurulmuş olan Dand Metal Industries North Ltd. bünyesinde üretilen dental implat sistemleri markasıdır.Dand Metal Industries North Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Munchey",
+    "description": "Munchey Gıda ve Pazarlama A.Ş. bünyesindeki tatlı ve tuzlu atıştırmalıklar markasıdır.Katkı maddesi, koruyucu, yapay aroma ve rafine şeker, bal ve pekmez gibi tatlandırıcılar içermez.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Schmelz Automatic Door Systems",
+    "description": "2006 yılında kurulmuş olan Zenke Makina San. Tic. Ltd. Şti. bünyesinde üretilen sac metal şekillendirme kalıpları, sac baskı, montaj ürünleri ve asansör kapıları markasıdır.Firma Bursa merkezlidir. Ürünlerini 6 bin 500 metrekarelik fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

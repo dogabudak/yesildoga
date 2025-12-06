@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Cappy",
+    "description": "Cappy, 1994 yılında Coca-Cola Company, Limited bünyesinde üretilen yüzde 100 meyve suyu markasıdır.Coca-Cola Company, Limited Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dieci",
+    "description": "Dieci, 1962 yılında kurulan Dieci Srl bünyesindeki tarım ve inşaat için teleskopik asansörler, beton mikserleri ve özel makineler markasıdır.Dieci Srl İtalya merkezlidir. Ürünlerini 120 bin metrekare kapalı alana sahip üretim tesislerinde üretmektedir ve 80 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Desitin",
+    "description": "Desitin, 1886 yılında kurulan Johnson & Johnson Consumer Inc., bünyesindeki bebek pişik ürünleri markasıdır.Johnson & Johnson Consumer Inc. Amerika merkezlidir. Ürünleri dünyanın 60 ülkesine pazarlanmaktadır. Türkiye’de 1985 yılından beri tüketim ürünleri firması olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Usams",
+    "description": "Usams, 2011 yılında kurulmuş olan Shenzhen Usams Trading Co. Ltd. bünyesinde üretilen araba aksesuarları, usb kabloları, güç bankası, şarj cihazları, telefon tutucular, telefon kılıfı markasıdır.Shenzhen Usams Trading Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-11-04"
+  },
+  {
+    "company": "Wiqo",
+    "description": "Wiqo, 1994 yılında kurulan Gpq Srl. bünyesindeki dermokozmetik ürünler ve tıbbi cihazlar markasıdır.ISO 13485 belgesine sahiptir.Gpq Srl. İtalya merkezlidir. Ürünlerini 40 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

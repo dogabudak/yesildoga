@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Optimeal",
+    "description": "Optimeal, 2003 yılında kurulan Kormotech LLC bünyesinde üretilen kedi ve köpek mamaları markasıdır.E ve C vitaminleri gibi antioksidanların yanı sıra A vitamini, Çinko ve Selenyum dahil olmak üzere bağışıklık sistemi sağlığı için belirtilen diğer besin maddelerinin kullanımı yoluyla bağışıklık sistemini destekler.Kormotech LLC Ukrayna merkezlidir. Ürünlerini Ukrayna’da üretmekte ve 38 ülkeye pazarlamaktadır.Bünyesindeki markalar;Club 4 PawsMasterMy Love/ Miau!My love/GavOptimeal",
+    "documents": [],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Glorious",
+    "description": "Glorious, 2014 yılında kurulan Glorious LLC bünyesindeki klavye, fare ve aksesuarları markasıdır.Ürün yelpazesinde bilgisayar veya tablet aksesuarları, kablolu ve kablosuz mouse, mouse pad, klavye, led arka ışık özellikli ürünler, anahtar, kablo, çanta, düğme, USB, bileklik, temizleme kiti gibi özel aksesuarlar yer almaktadır.Glorious LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alsecco",
+    "description": "Alsecco, 1895 yılında kurulan Daw Se bünyesindeki cephe sistem çözümleri markasıdır.Cephe, EIFS, dış cephe yalıtım ve kaplama sistemleri, VHF, sıva, klinker, kombine cephe, renk, boya, tasarım ve renk sistemi sunmaktadır.Daw Se Almanya merkezlidir.",
+    "documents": [
+      "CE",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Yiğit Dondurma Küllahı",
+    "description": "Yiğit Dondurma Küllahı Nerenin Malı MarkasıYiğit Dondurma Küllahı, 1985 yılında kurulan Yiğit Dondurma Külahı Gıda San. Tic. Ltd. Şti. bünyesinde üretilen dondurma külahı, kornet, kağıt helva ile yenilebilir yiyecek kapları markasıdır.Mersin merkezli firma ürünlerini 8 bin metrekarelik kapalı alanda bulunan tesisinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Furisan",
+    "description": "Furisan, 1998 yılında Levent Kutluözen tarafından kurulan Furisan Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen meyve konserve, biber konserve, meyve dolguları, marmelat, meyve şekerlemeleri markasıdır.HACCP ve ISO 9001 belgelerine sahiptir.Firma Bursa merkezlidir. Üretiminin yüzde 35’ini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Venado Coffee Roastery",
+    "description": "2002 yılında kurulmuş olan Heal Global İç ve Dış Tic. A.Ş. bünyesindeki Türk kahvesi, filtre kahve, kapsül kahve ve espressolar markasıdır.ISO 9001, ISO 14001, ISO 22000, ISO 45001 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Agroway",
+    "description": "2022 yılında kurulmuş olan Agroway Gıda A.Ş. bünyesindeki ayçiçek lesitini, buğday nişastası, buğday unu, kakao tozu, kakao yağı, maltodekstrin, peynir altı suyu tozu, rende hindistan cevizi, süt tozu, vital buğday gluteni markasıdır.Firma istanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tralift",
+    "description": "2006 yılında kurulmuş olan TI Developpement SA bünyesindeki el zinciri vinçler ve ek aksesuarlar markasıdır.TI Developpement SA, İsveç merkezli Alimak Group AB bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Kiwitime",
+    "description": "2012 yılında kurulmuş olan Shenzen Kiwitime Technology Co. Ltd. bünyesinde üretilen akıllı saatler markasıdır.Shenzen Kiwitime Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Convotherm",
+    "description": "1950 yılında kurulan Welbilt Inc. bünyesinde üretilen kombi fırın markasıdır.Dünyanın dört bir yanında tam entegre profesyonel mutfak sistemleri sunmaktadır. ISO 9001, ISO 14001 belgelerine sahiptir.Welbilt Inc. Amerika merkezlidir. Ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

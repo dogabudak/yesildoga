@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Orgatem",
+    "description": "Orgatem, 2008 yılında kurulan Orgatem Ltd. Şti. bünyesindeki ahşap temizleyici, ayak bakım kremi, banyo, wc temizleyici, bebek bakım yağı, bulaşık parlatıcı, bulaşıkmatik, cam ve mobilya temizleyici, cilt bakım yağı, çamaşır matik, çamaşır yumuşatma ve bakım, diş macunu, elde bulaşık yıkama, esanslar, genel temizlik ürünleri, güneş kremi, halı matik, halı şampuanı, karbeyaz, kırışık önleyici krem, kozmetik, leke çözücü, metal parlatıcı, temizleyici, nemlendirici krem, orga setler, pas ve kireç sökücü, sıvı sabun, şampuanlar, tül perde, yağ, kan, atık temizleyici markasıdır.İnsana ve doğaya dost, organik konsantre, temizlik ve kozmetik ürünleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İpek Sisa",
+    "description": "İpek Sisa Nerenin Malı Markasıİpek Sisa, 1971 yılında kurulan İpek İdrofil Pamuk San. ve Tic. A.Ş. bünyesinde üretilen hidrofil pamuk markasıdırHidrofil pamuk, zigzag hidrofil pamuk, kozmetik amaçlı hidrofil pamuk ve non -woven hidrofil pamuk ürünlerini Kırklareli’de bulunan üretim tesislerinde üretmektedir.Bünyesindeki markalar:İpek Klasikİpek OrganikİpelinaMinipek",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kemai",
+    "description": "Kemai, 2014 yılında kurulan Guangzhou Eletree Co., Ltd. bünyesinde üretilen taşınabilir radyo markasıdır.Guangzhou Eletree Electronic Co, Ltd., eğitim ses kitabı, radyo, bellek kartı, bluetooth hoparlör ve elektronik dua mat, ev sineması, televizyon, mini hoparlör, alt wooer ürünleri üretmektedir.Guangzhou Eletree Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Betam",
+    "description": "Betam, 2016 yılında kurulan Betam Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen asetonsuz oje temizleme mendili, makyaj temizleme pedi, kulak çubuğu, bebek temizleme pamuğu markasıdır.Ürünlerinde zararlı kimyasal kullanılmaz ve yüzde 100 pamuk lifleri kullanılır. ISO 9001, ISO 22716 belgelerine sahiptir.Ürünlerini kendi tesislerinde üretirken ayrıca özel etiket ürünler üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cle Up",
+    "description": "Cle Up, 1980 yılında kurulan Asya Pamuk San. Ürünleri ve Paz. Tic. Ltd. Şti. bünyesinde üretilen zigzag hidrofil pamuk, rulo hidrofil pamuk, disk ve top kozmetik pamuklar, kulak temizleme pamuğu, su jeti sistemli disk pamuğu ve kürdan markasıdır.Ürünlerini yüzde 100 saf pamuktan üretmektedir. ISO9001 ve GMP belgelerine sahiptir.Bünyesindeki markalar:Asya LüksBimsyCle UpCleupSevdeSevde LuxUncular LuxWhite Rose",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-05-16"
+  }
+]

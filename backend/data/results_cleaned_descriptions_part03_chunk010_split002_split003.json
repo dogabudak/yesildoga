@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vocom",
+    "description": "Vocom, 2003 yılında kurulan Movimento, Inc. tarafından üretilen Euro 5 ve Euro 6 araçlar için arıza tespit cihazı markasıdır.Volvo, Renault gibi birden fazla marka ile uyumludur. Kamyon, otobüs ve diğer ağır vasıta araçların bakımı için hazırlanan cihazdır.Movimento, Inc. Amerika merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Skinceuticals",
+    "description": "Skinceuticals, 1994 yılında Dr.Sheldon Pinnell tarafından kurulan cilt bakım ürünleri markasıdır.2005 yılında Loreal Group bünyesine dahil oldu.Önleme, anti-oksidan, temizleme, nemlendirici, düzeltme, koruma ürünlerine sahiptir.Loreal Group başlıca hissedarlarından biri yüzde 33 hisse ile Françoise Bettencourt Meyers ve Nestle’nin yüzde 23,29 oranında hissesi vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Methode Jeanne Piaubert",
+    "description": "Methode Jeanne Piaubert, 1928 yılında Institut Jeanne Piaubert SAS bünyesinde kurulan yüz kremi, gece kremi, vücut jeli, sıkılaştırıcı ve birçok bakım ürünü markasıdır.Institut Jeanne Piaubert SAS Fransa merkezlidir. Ürünleri 40’ın üzerinde ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Aunde",
+    "description": "Aunde, 1899 yılında Conrad Ebels ve Victor Achter tarafından temelleri atılan AUNDE Group SE bünyesindeki otomotiv endüstrisi için tekstil ürünleri markasıdır.UNDE Group SE Almanya merkezlidir ve ürünleri 29 ülkede 116 tesise sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Betonel",
+    "description": "Betonel, 1968 yılında Betonel Prefabrik Beton Elemanlari İnşaat Elekt. Müh. Mak. Mad. Tur. Bil. San. ve Tic. A.Ş. bünyesindeki üst yapılar, ahır binası, ahır izgaraları, bordür taşları, görme engelli taşları, köprü kirişleri, yürüme yolları, kanaletler, kuşatma elemanları, menholler, tahliye ve vantuz odaları, telekom ek odaları markasıdır.Ürünlerini Ankara’da bulunan 25 bin ve 11 bin metrekarelik tesislerine üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

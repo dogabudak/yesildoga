@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ömür Boza",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ravla",
+    "description": "2018 yılında kurulmuş olan Ravla Gıda ve Tarım San. ve Tic. A.Ş. bünyesindeki bal ve propolisler, doğal karışımlar, doğal yağlar, doğal çaylar, meyve özleri ve kuru meyveler, pratik gıdalar, tarhana ve unlar, besleyici karışım, çiçek balı, glutensiz bebek tarhana, karadut özü, kavrulmuş tahin, keçiboynuzu özü, meşe balı, mor meyveli karışım, propolis, propolisli ağız damlası, propolisli karışım, sebzeli tarhana, yaban mersini özü, naturel sızma zeytinyağı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yamato",
+    "description": "1945 yılında kurulmuş olan Yamato Manufacturing Co. Ltd. bünyesindeki yakıt pompaları, su pompaları, hava filtreleri, yağ filtreleri ve fren bileşenleri bulunur. Ayrıca motorlar, şanzımanlar ve süspansiyon sistemleri için çeşitli bileşenler markasıdır.Yamato Manufacturing Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Löbro",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Correa",
+    "description": "1947 yılında kurulmuş olan Nicolas Correa S.A. bünyesindeki frezeleme çözümleri markasıdır.Nicolas Correa S.A. İspanya merkezlidir. Üretiminin yüzde 95’ini bir çok ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ekodex",
+    "description": "Ekodex2016 yılında kurulan Vnd Global Plastik A.Ş. bünyesinde üretilen temizlik seti, temizlik süngeri markasıdır.Firma İstanbul merkezlidir. Ürünlerini 40’ın üzerinde ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Falcam",
+    "description": "Falcam2020 yılında kurulmuş olan Shenzhen Xiaosun Zhichuang Technology Co. Ltd. bünyesindeki güvenlik kamerası sistemleri, aksiyon kamera, sabitleyiciler, stüdyo çekim ekipmanları, slr aksesuarları markasıdır.Shenzhen Xiaosun Zhichuang Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pop-Tarts",
+    "description": "PopTarts1964 yılında piyasaya sürülen içi dolgulu atıştırmalıklar markasıdır.Yüksek fruktozlu mısır şurubu, soya lestini, palm yağı ve jelatin içermektedir.Amerika merkezli Kellanova Company bünyesinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Freelancer",
+    "description": "Freelancer.com2009 yılında Matt Barrie tarafından kurulmuş olan Freelancer International Pty Limited bünyesindeki serbest çalışma pazar yeri markasıdır.İşverenler, yazılım geliştirme, yazma, veri girişi ve tasarım gibi alanlarda mühendislik, bilimler, satış ve pazarlama, muhasebe ve hukuk hizmetlerine kadar çalışmak üzere serbest çalışanlar kiralayabilirler.Freelancer International Pty Limited, Avustralya merkezlidir ve 247 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Carnassier",
+    "description": "Carnassier1976 yılında kurulan Decathlon S.A. bünyesindeki sahte balık yemleri markasıdır.2009 yılında Türkiye pazarına giren Decathlon S.A. Fransa merkezlidir ve 50’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Grosper",
+    "description": "Grosper1997 yılında kurulmuş olan Seyhanlar Gıda Tekstil Triko ve Oto. San. Tic. Ltd. Şti. bünyesindeki marketler zinciri markasıdır.Firma İstanbul merkezlidir ve 10’dan fazla mağazaya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fresh Selective",
+    "description": "Fresh Selective2020 yılında kurulmuş olan Etiler BST Gıda Market Hizmetleri Tic. Ltd. Şti. bünyesindeki süper market markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pizzabulls",
+    "description": "Pizzabulls2006 yılında kurulmuş olan Boğa Gıda A.Ş. bünyesindeki pizza şubeleri markasıdır.Bütün pizza ürünlerinde HACCP, TSE, ISO, Helal belgelerine sahiptir.Firma İstanbul merkezlidir. 80’den fazla şubeye sahiptir.",
+    "documents": [
+      "HACCP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Neoskin Labs",
+    "description": "Neoskin Labs2023 yılında kurulmuş olan Naturx Sağlık ve Kozmetik Ürünleri San. Tic. A.Ş. bünyesindeki dermokozmetik markasıdır.Ürünleri paraben, SLS, sentetik boya ve sağlığa zararlı kimyasal bileşenler içermemektedir ve hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lanoway",
+    "description": "Lanoway2006 yılında kurulmuş olan Milkway İlaç A.Ş. bünyesindeki göğüs ucu çatlak kremi markasıdır.Hipoalerjenik ürün alkol ve hiçbir katkı maddesi içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

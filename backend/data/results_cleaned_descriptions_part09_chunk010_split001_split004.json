@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Jaure",
+    "description": "“Jaure“1958 yılında kurulmuş olan Jaure S.A. bünyesindeki esnek kaplinler ve tork aktarma bileşenleri markasıdır.Jaure S.A. 2015 yılında Amerika merkezli Regal Rexnord Corporation tarafından satın alınmıştır.Bünyesindeki markalar;JaureKop-FlexMcGillMorseRollwaySealmasterSystem Plast",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aohi",
+    "description": "“Aohi“2004 yılında kurulmuş olan Dongguan Aohai Technology Co. Ltd. bünyesinde üretilen şarj cihazları, mobil güç kaynakları, akıllı ev ve yapay zeka donanım ürünleri markasıdır.Dongguan Aohai Technology Co. Ltd. Çin merkezlidir. Çin, Hindistan ve Endonezya’da üretim tesislerine sahiptir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mastercam",
+    "description": "“Mastercam“1983 yılında kurulmuş olan CNC Software LLC bünyesinde geliştirilen bilgisayar destekli üretim ve CAD/CAM yazılım uygulamaları paketi markasıdır.CNC Software LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Maxdefend",
+    "description": "“Maxdefend“Edis Pharma İlaç San. ve Tic. Ltd. Şti. bünyesindeki takviye edici D vitamini, K vitamini markasıdır.ISO 13485, GMP belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;AlfalinoBanacareBatikadinDesminolEnterogisFitospanFolicUsMamillacMaxdefendMicferrosNemoCareOtiteqProtime MenQulax BuşonRectusRoxacerSinusNemVitaminixXabion",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kartix",
+    "description": "“Kartix“2008 yılında kurulmuş olan RC Farma İlaç Kimya San. ve Tic. Ltd. Şti. bünyesindeki glukozamin ve vitamin çeşitleri, probiyotik ve prebiyotik takviyeler, yüz ve vücut kremleri, masaj yağları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;FatexKartixLigoneNewdayNewpekNewvitNewvitalProvessVemaxVitallex",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

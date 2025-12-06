@@ -1,0 +1,44 @@
+[
+  {
+    "company": "G-Charge",
+    "description": "G-Charge, 1980 yılında kurulmuş olan Gersan Elektrik Tic. ve San. A.Ş. bünyesindeki elektrikli araç şarj istasyonları markasıdır.Aynı şirkete ait Gersan marka şarj üniteleri, 22 kW Tip 2 AC şarj soketine sahiptir. Radyo frekanslı tanımlama (RFID) kartlarla sisteme üyelik gerçekleştiril ve ödemeler kullanıcı hesabına yansıtılır.Firma İstanbul merkezlidir.Tesla elektrikli araçları şarj etmek için kullanılan SuperCharger şarj istasyonlarını Gersan A.Ş. kurmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-02-24"
+  },
+  {
+    "company": "Kamarot",
+    "description": "Kamarot, 2020 yılında kurulmuş olan Adil Oyuncak Elektronik San. Tic. Ltd. Şti. bünyesindeki akülü ATV markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Redpower",
+    "description": "Redpower, 2012 yılında kurulmuş olan Altıner Dış Ticaret bünyesinde ithal edilen otomobil görüntü ve ses sistemleri, araç içi tutucular, şarj cihazları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AlpınKeenionRedpowerWuw",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Atech",
+    "description": "Atech, 1999 yılında kurulmuş olan Atech Makine San. ve Tic. Ltd. Şti. bünyesindeki ahşap işleme, boru kıvırma, köşe presi, kertme, kesme makineleri, kompozit işleme, konveyörler, kopyalı freze markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vycoz",
+    "description": "Vycoz, Jungs Optical Co. Ltd. bünyesindeki optik ve güneş gözlükleri markasıdır.Jungs Optical Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

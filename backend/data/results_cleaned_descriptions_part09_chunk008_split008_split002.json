@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Jukky",
+    "description": "“Jukky“1992 yılında kurulmuş olan Zhejiang Fanghua Sewing Machine Co. Ltd. bünyesinde üretilen çok fonksiyonlu dikiş makinesi, buharlı ütü, dikiş makinesi masaları standı, dikiş makinesi motoru, endüstriyel dikiş makinesi, ja yurtiçi dikiş makinesi, kesme makinesi, nakış dikiş makinesi, torba kapama makinesi, yerli overlok makinesi markasıdır.Zhejiang Fanghua Sewing Machine Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Riesen",
+    "description": "“Riesen“1903 yılında kurulmuş olan August Storck KG bünyesinde üretilen dışı bitter çikolata, içi zengin çikolatalı karamel markasıdır.Gavoa kakao çekirdeklerinin özel karışımından üretilmektedir.August Storck KG Almanya merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;BendicksColourful WorldKnoppersMambaMerciNimm2RiesenToffifeeWerther’s Original",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Valse",
+    "description": "“Valse“1978 yılında kurulmuş olan Akanlar Çikolata İçecek Gıda San. Ltd. Şti. bünyesinde üretilen fındıklı kokolin markasıdır.ISO 9001, ISO 22000, ISO 14001 ve Helal belgelerine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini 3. OSB’de üretmektedir ve 35’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;AkellaAmasiAmmarFullbarGofitaJoahrMelikeRubixShareSharexSimoValseX-5",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kalev",
+    "description": "“Kalev“1806 yılında kurulmuş olan AS Kalev bünyesinde üretilen çikolata markasıdır.Ürün yelpazesi şekerleme, unlu mamuller, süt ürünleri ve badem ezmesi içermektedir.AS Kalev 2010 yılında Norveç merkezli Orkla Eesti AS tarafından satın alınmıştır. Ürünlerini Estonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Maps me",
+    "description": "“Maps.me“2011 yılında kurulmuş olan Maps.me Limited bünyesindeki harita mobil uygulaması markasıdır.OpenStreetMap verilerini kullanarak çevrimdışı haritalar sağlar.Ücretsiz ve açık kaynaklı bir yazılımdır ve Android, iOS ve BlackBerry gibi bir çok sistemde çalışmaktadır.Maps.me Limited Güney Kıbrıs merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CY",
+    "updated_date": null
+  }
+]

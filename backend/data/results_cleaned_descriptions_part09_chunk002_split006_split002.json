@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Patso Burger",
+    "description": "Patso Burger2002 yılında kurulmuş olan Patso Gıda Kuyumculuk Turizm İnşaat Tic. Ltd. Şti. bünyesindeki hamburger restoranları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Colibri Çakmak",
+    "description": "Colibri1928 yılında Julius Lowenthal tarafından kurulmuş olan Colibri Tobacco Limited bünyesindeki çakmak, mücevher, tütün aksesuarları, küçük deri ürünler, yazı gereçleri markasıdır.Colibri Tobacco Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Vulkan",
+    "description": "Vulkan1889 yılında kurulmuş olan Hackforth Holding GmbH & Co. KG bünyesindeki deniz tahrik teknolojisi, endüstriyel tahrik teknolojisi, soğutma ve iklimlendirme, esnek kaplinler ve lehimsiz boru bağlantısı markasıdır.Hackforth Holding GmbH & Co. KG Almanya merkezlidir ve Hackforth ailesine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nesfit",
+    "description": "Nesfit1866 yılında kurulmuş olan Nestlé SA bünyesinde üretilen kahvaltılık gevrekler, meyve barları markasıdır.Nestlé SA İsviçre merkezlidir. Ürünlerini 188 ülkeye pazarlamaktadır. Şirketin yüzde 5,04 hissesi Amerika merkezli Blackrock Inc.’e aittir.Türkiye pazarına 1909 yılında II. Sultan Abdulhamit döneminde girmiştir ve Nestlé Türkiye Gıda San. A.Ş. olarak faaliyet göstermektedir. İsrail’in en büyük gıda üreticilerinden Osem Investments Ltd.’nin tüm hisselerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Reciprof",
+    "description": "Reciprof1972 yılında kurulmuş olan Reci Prof International B.V. bünyesindeki süt sağım makineleri için yedek parça ve komponent markasıdır.Reci Prof International B.V. Hollanda merkezlidir ve ürünleri 60’tan fazla ülkeye pazarlanmaktadır..",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

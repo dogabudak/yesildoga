@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Taşkesti Su",
+    "description": "Taşkesti, 2008 yılında kurulan Bolu Kaynak Suları İşletmeleri Tic. A.Ş. bünyesinde üretilen doğal kaynak suyu markasıdır.BPA maddesi içermeyen Polikarbonat damacana ve cam ambalaj ürünlerini Bolu’da bulunan tesisinde üretmektedir. ISO 9001, HACCP belgelerine sahiptir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ilco",
+    "description": "Ilco, 1862 yılında kurulan Kaba Ilco Corp. bünyesindeki otomobil endüstrisi için anahtarlar markasıdır.Otomotiv transponder teknolojisi, anahtar kesme veya çoğaltma makineleri ve pirinç yedek silindirlerin yanı sıra anahtar boşlukları teknolojisine sahiptir. Anahtar makineleri, katı pirinç yedek silindirler, güvenlik donanımı ve çilingir malzemeleri sunar.Kaba Ilco Corp. İsviçre merkezli Dormakaba Group bünyesindedir. Ürünlerini Amerika’da üretmektedir. 130’dan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Lomo",
+    "description": "Lomo (Leningradskoye Optiko Mechanichesckoye Obyedinenie) 1914 yılında kurulan optik-mekanik ve optik-elektronik cihazları markasıdır.Lens, tıbbi cihaz, film kameraları, sinema üretimi için profesyonel ses kaydediciler gibi ürünlere sahiptir.Lomo Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Kevser",
+    "description": "Kevser, 1997 yılında Çeçen Ailesi tarafından kurulan Kevser Şekerleme Gıda İhtiyaç Maddeleri Otomotiv Tekstil İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen lokum, cezerye, akide şekeri, mevlana şekeri, hurma şekeri markasıdır.EN ISO 22000, EN ISO 9000 belgelerine sahiptir.Bünyesindeki markalar:Şeker DiyariKevbonKevserKevserimRiver",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pearly Collection",
+    "description": "Pearly Collection, 2016 yılında Ergenler Tekstil Sanayi ve Tic. Ltd. Şti. bünyesinde yer alan tekstil ürünleri, kişiye özel kürkler markasıdır.Muhafazakar giyim markası olarak İstanbul ve İzmir’de bulunan üretim atölyelerinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

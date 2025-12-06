@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Mirsa Havalandırma",
+    "description": "Mirsa Havalandırma, 2006 yılında kurulmuş olan Mirsa Havalandırma Doğalgaz ve Turizm İnşaat Tic. Ltd. Şti. bünyesindeki havalandırma, ısıtma ve soğutma sistemleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hancaner",
+    "description": "Hancaner, 2004 yılında kurulmuş olan Shenzhen Tongtuo Technology Co. Ltd. bünyesinde üretilen elektrikli scooter parçaları, ev aletler, el aletleri 3d yazıcılar markasıdır.Shenzhen Tongtuo Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dethleffs",
+    "description": "Dethleffs, 1931 yılında kurulmuş olan Dethleffs GmbH & Co. KG bünyesindeki karavanlar, motorlu taşıtlar, eğlence araçları markasıdır.Dethleffs GmbH & Co. KG Almanya merkezlidir. Ürünlerini Almanya ve Fransa’da bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cosakondrin",
+    "description": "Cosakondrin, 2004 yılında kurulmuş olan Orzaks İlaç ve Kimya San. Tic. A.Ş. bünyesindeki K2 vitamini ile zenginleştirilmiş, magnezyum, çinko, D vitamini ve kalsiyum içeren bir gıda takviyesi markasıdır.ISO 9001, ISO 22000, GMP ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sharplace",
+    "description": "Sharplace, Shenzhenshi Rongtao Keji Youxian Gongsi bünyesinde üretilen ev aletleri, gözlükler, sanal gerçeklik ürünleri, aksesuarlar.Shenzhenshi Rongtao Keji Youxian Gongsi Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

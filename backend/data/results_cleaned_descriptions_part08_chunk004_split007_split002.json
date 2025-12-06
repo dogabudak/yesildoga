@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Allmed Solutions",
+    "description": "Allmed Solutions, 2001 yılında kurulmuş olan Allmed Solutions Ltd. bünyesinde üretilen ürolojik ve biliyer stentler, embolik koruma sistemleri ve mitral kapak gibi medikal aygıtlar markasıdır.Minimal invaziv ürünler geliştiren bir şirketler grubudur. Şirketin merkezi İsrail’de bulunmaktadır ve ürünleri dünya çapında pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Groove",
+    "description": "Groove, 2005 yılında kurulmuş olan Groove AG bünyesinde üretilen enerji içeceği markasıdır.ISO13485 belgesine sahiptir.Groove AG Avusturya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO13485"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Cajun Corner",
+    "description": "Cajun Corner, 2017 yılında kurulmuş olan Duras Organizasyon Gıda San. ve Tic. Ltd. Şti. bünyesindeki hızlı servis restoran zinciri markasıdır.Firma Ankara merkezlidir. Franchising sistemi ile kısa sürede 100’den fazla şubeye ulaşmıştır. 40’tan fazla şehirde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "X-Rite",
+    "description": "X-Rite, 1958 yılında kurulmuş olan X-Rite Inc. bünyesindeki renk ölçüm ve yönetim ürünleri markasıdır. Ayrıca film ve x-ışınlarının işlenmesinde kaliteyi düzenleyen ürünler üretmektedir.X-Rite Inc. 2012 yılında Amerika merkezli Veralto Corporation tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Augwind",
+    "description": "Augwind, 2012 yılında kurulmuş olan Augwind Ltd. bünyesindeki endüstriyel uygulamalar için enerji verimliliği sistemi ve enerji depolama sistemi markasıdır.Augwind Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

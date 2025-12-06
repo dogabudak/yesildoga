@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Dudomi",
+    "description": "Dudomi, 1974 yılında kurulan Erişler Gıda San. ve Tic. A.Ş. bünyesinde üretilen hazır makarna markasıdır. 6 farklı sos seçeneğiyle üretilmiştir.ISO 9001 ve OHSAS 18001, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mooer Audio",
+    "description": "Mooer Audio, 2010 yılında kurulan Shenzhen Mooer Audio Co. Ltd. bünyesinde üretilen amplifikatör, güç amplifikatörü, ön amfi, çoklu efektler, ses arabirimi, aksesuarlar markasıdır.Shenzhen Mooer Audio Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Robe Aydınlatma",
+    "description": "Robe Aydınlatma Hangi Ülkenin Malı MarkasıRobe, 1994 yılında kurulan Robe Lighting S.R.O. bünyesinde üretilen akıllı armatürler ve ışık sistemleri markasıdır.Sahneler, konser salonları, tiyatrolar ve diğer her türlü mekanda aydınlatma ürünleri kurmaktadır.Robe Lighting S.R.O. Çek Cumhuriyeti merkezlidir ve ürünlerini Avrupa’da üretmektedir ve 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Bantboru",
+    "description": "Bantboru, 1972 yılında kurulan Band Boru San. ve Tic. A.Ş. bünyesinde üretilen otomotiv sektöründe fren ve yakıt sistemlerinin hidrolik iletimi için borular, buzdolabı ve soğutma sektörü için kondenser borular markasıdır.Çift katlı borular Otomotiv endüstrisinde fren borusu, debriyaj hattı, direksiyon hattı ve yakıt hatlarında kullanılırken, otomotiv sektöründe tek katlı borular yakıt borusu olarak kullanılır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sipcam",
+    "description": "Sipcam, 1946 yılında kurulan Sipcam Oxon S.P.A. bünyesinde üretilen tarım için zirai kimyasallar markasıdır.Bitki koruma ürünleri ve kimyasal ara ürünler, böcek ilaçları, biyolojik maddeler, biyostimülanlar, bitki büyüme düzenleyicileri, gübreler ve tohumların üretimi ve pazarlanması konusunda uzmanlaşmışıtr.Sipcam Oxon S.P.A. İtalya merkezlidir. İtalya’da bir kimyasal sentez tesisi, İtalya, İspanya ve Brezilya’da formülasyon tesisi, İtalya’da bir tohum işleme ve arıtma tesisi ve Çin Ortak Girişimleri tarafından işletilen iki sentez ve formülasyon tesislerine sahiptir.Bünyesindeki markalar;AbyssArtemideGrasidimKeleneSipcamUmostart",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

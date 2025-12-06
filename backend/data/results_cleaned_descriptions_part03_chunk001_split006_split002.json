@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hame",
+    "description": "Hame, 1946 yılında kurulan HAME s.r.o. bünyesinde üretilen hazır yemekler, ketçap, sos, reçel, komposto, bebek maması, dondurulmuş et, sebze ve meyve markasıdır.HAME s.r.o. Çek Cumhuriyeti merkezlidir.Bünyesindeki markalar:HaméHamanekOtmaSelikoVesela pastirkaZnojmia",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Sadece Hosting",
+    "description": "Sadece Hosting, 2013 yılında TelecityGroup tarafından satın alınan veri merkezi uzmanlığı, domain, hosting, cloud, ssl vb. online hizmetler sunan firmadır.2019 yılında Premier DC Verimerkezi A.Ş. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2020-01-18"
+  },
+  {
+    "company": "Audio-Technica",
+    "description": "Audio Technica, 1962 yılında Hideo Matsushita tarafından kurulan Audio-Technica Corporation bünyesindeki profesyonel mikrofon, kulaklık, fonografik MC iğneleri ve diğer ses ekipmanları markasıdır.Audio-Technica Corporation Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2020-02-03"
+  },
+  {
+    "company": "Tucano",
+    "description": "Tucano, 1985 yılında Franco Luini tarafından kurulan Tucano S.r.l., bünyesindeki çanta, sırt çantası, kılıf ve aksesuarlar markasıdır.Tucano ürünleri 50’den fazla ülkede bulunmaktadır.Tucano S.r.l., İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Inventec",
+    "description": "Inventec, 1975 yılında Wen Shiren, Ye Guoyi ve Zheng Qinghe tarafından kurulan Inventec Corporation bünyesindeki dizüstü bilgisayarlar, sunucular ve mobil cihazlar markasıdır.Çin’de büyük geliştirme ve üretim tesisleri vardır. Buna ek olarak, Abd, Avrupa ve Meksika’da yapılandırma ve servis merkezleri vardır.Japonya merkezli mini dizüstü bilgisayar markası Kohjinsha’nın (KJS) sahibidir.Inventec Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

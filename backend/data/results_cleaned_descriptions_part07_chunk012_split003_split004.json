@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Pferd",
+    "description": "Pferd, 1799 yılında kurulmuş olan August Rüggeberg GmbH & Co. KG. bünyesindeki yüzey bitirme ve malzeme kesimi için takım çözümleri markasıdır.August Rüggeberg GmbH & Co. KG. Almanya merkezlidir. ABD, İspanya, Güney Afrika ve Çin’de tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Walbro",
+    "description": "Walbro, Walbro Corporation bünyesindeki dış mekan güç ekipmanları, eğlence, denizcilik ve kişisel ulaşım pazarları için motor yönetimi ve yakıt sistemleri markasıdır.Walbro, karbüratörler, elektronik yakıt enjeksiyon sistemleri, ateşleme sistemleri, yakıt depoları, yakıt pompaları, valfler ve yakıt depolama ve dağıtım sistemleri üretmekte ve katma değerli işleme, elektronik ve montaj yetenekleri sunmaktadır.Walbro Corporation Amerika merkezlidir. Amerika, Meksika, Japonya, Tayland ve Çin’de üretim tesisleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Autel Şarj",
+    "description": "Autel Şarj Hangi Ülkenin Malı MarkasıAutel, 2004 yılında kurulmuş olan Autel Digital Power Co. Ltd. bünyesinde üretilen otomotiv akıllı teşhis, muayene ve analiz ürünleri, AC şarj cihazı, otomotiv elektronik aksesuarları markasıdır.EV şarj ürünleri yelpazesi, konut, işyeri, perakende, ticari otopark, benzin istasyonları, otoyol, filo ve halka açık CPO dahil olmak üzere her türlü uygulamaya uyum sağlar.Autel Digital Power Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 70’ten fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kechy",
+    "description": "Kechy, 2020 yılında kurulmuş olan Kechy Gıda A.Ş. bünyesinde yüzde yüz keçi sütünden üretilen dondurma ve kurutulmuş dondurma, süt reçeli markasıdır.Ürünleri aroma, renklendirici, koruyucu ve gluten içermez. Stevia dondurması yüzde 30 daha az enerjili, şekersiz, probiyotik ve prebiyotik bir dondurmadır. Helal belgesine sahiptir.Firma Konya merkezlidir.Bünyesindeki markalar;Çünkü DondurmaGurme Kechy DondurmaKechy Ast RonotKechy DuoKechy Kurutulmuş DondurmaKechy",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Helix",
+    "description": "Helix, 1990 yılında kurulmuş olan Audiotec Fischer Gmbh bünyesinde üretilen araç hifi ses bileşenleri markasıdır.EN ISO 9001, ISO 14001 belgelerine sahiptir.Audiotec Fischer Gmbh Almanya merkezlidir. Ürünlerini Almanya’da üretmektedir ve 50 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

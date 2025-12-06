@@ -1,0 +1,61 @@
+[
+  {
+    "company": "Ekonika",
+    "description": "Ekonika, 2006 yılında kurulan Esperance OOO bünyesindeki moda, ayakkabı ve aksesuarlar markasıdır.Ekonika, sadece kadınlar için ayakkabı ve aksesuar üreten bir perakende zinciridir. Her koleksiyonda modaya uygun ve klasik modeller bulunur.Esperance OOO Rusya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Esbit",
+    "description": "Esbit, 1949 yılında kurulan Esbit Compagnie Gmbh bünyesinde üretilen termos, vakum şişeleri, matara, su şişeleri, gıda sürahileri, seyahat kupaları, katı yakıtlı pişirme, katı yakıt tabletleri, cep sobası, alkol brülörlü setler, tencere ve çatal bıçak takımı, kömür ızgaraları, aksesuarlar markasıdır.Esbit Compagnie Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Moller-Wedel",
+    "description": "Moller-Wedel, 1864 yılında kurulan Möller-Wedel GmbH & Co. KG bünyesinde üretilen ameliyat mikroskopları, optik test malzemeleri markasıdır.ISO 13485 ve ISO 14001 belgelerine sahiptir.Grup, yarık lambalar, tonometreler, sandalyeler ve standların yanı sıra biyometre, perimetre, cerrahi mikroskop ve diğer aksesuarlar ile tıp eğitimi için sanal gerçeklik tabanlı çözümler ve simülatörler sunmaktadır.Möller-Wedel GmbH & Co. KG, 1989 yılından beri İsviçre merkezli Haag-Streit grubunun bir parçasıdır. Ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Pyramid International",
+    "description": "Pyramid International, 1992 yılında kurulan Pyramid Posters Limited bünyesindeki posterler ve duvar sanatı, kırtasiye, baskılı kupalar, markalı ürünler, hediyelik eşyalar markasıdır.Şirketin ithal ettiği ürünleri ve hediye yazılımlarını tamamlayan binlerce farklı ürüne, birden fazla kopyaya kadar çeşitli miktarlarda baskı yapma teknolojisine sahiptir.Pyramid Posters Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Kale Termos",
+    "description": "Kale Termos, 1975 yılında kurulan Kale Termos San. ve Tic. A.Ş. bünyesinde üretilen plastik piknik termos, musluklu termos, oto termos, medical termos, soğutucular markasıdır.ISO 27001, ISO 9001, ISO 14001, ISO 22000 ve ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;CastleCold PlusIce Land ThermosIcemaxKaleKale CoolerKale TermosPresmixProvitcShura",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

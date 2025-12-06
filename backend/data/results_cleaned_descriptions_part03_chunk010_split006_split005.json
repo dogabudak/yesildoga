@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Bello Deterjan",
+    "description": "Bello, 1994 yılında kurulan Nurgün Şirketler Grubu bünyesindeki temizlik ürünleri markasıdır.Ürün yelpazesinde; antibakteriyel el sabunu, sıvı sabun, deterjan, yüzey temizleyici, el dezenfektanı, bulaşık ve banyo temizlik ürünleri, hijyenik bez, toz deterjan, çok amaçlı temizleyici ve çamaşır deterjanı gibi ürünler yer almaktadır.Bello markalı temizlik ürünleri Azerbaycan’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "BayBay Forte Damla",
+    "description": "BayBay Forte Damla, 2008 yılında kurulan Ena Farma Sağlık Ürünleri İmalat ve Dış Tic. A.Ş. bünyesindeki takviye edici gıda markasıdır.Bitkisel içerikli ürünlerini 2 bin metrekarelik alanda bulunan fabrikasında üretmektedir.FDA, ISO 13485, ISO 22000 kalite belgelerine sahiptir.Bünyesindeki markalar:Babi-x Cold İnhaler DamlaBabi-x Zen Bitkisel ŞurupBaybay Forte DamlaBitrin BitCarven Kekik ŞurubuCold-MixMaxerin Cooler",
+    "documents": [
+      "FDA",
+      "ISO",
+      "ISO 13485",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "BeeBad",
+    "description": "BeeBad, 2005 yılında kurulan Matrunita Mediterranea S.r.l. bünyesindeki gıda ürünleri ve enerji içeceği markasıdır.BeeBad, propolis ile zenginleştirilmiş ve sadece bal ile tatlandırılmış doğal bir enerji içeceği markasıdır.Matrunita Mediterranea S.r.l. İtalya merkezlidir ve ürünleri İtalya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Osonyq",
+    "description": "Osonyq, 2018 yılında kurulan Osonyq International BV. bünyesinde üretilen enerji içeceği markasıdır.O’sonyq ürünlerinde yapay kimyasallar yoktur ve tüm malzemeler saf doğaldır.Osonyq International BV. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Balocco",
+    "description": "Balocco, 1923 yılında Francesco Antonio Balocco tarafından kurulan Balocco S.p.A. bünyesinde üretilen bisküvi, gofret ve şekerleme markasıdır.Ürünlerini 67 ülkeye ihraç etmektedir.Balocco S.p.A İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

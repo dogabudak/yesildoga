@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Dulcop",
+    "description": "Dulcop, 1938 yılında kurulan Dulcop International S.p.A. bünyesinde üretilen sabun köpüğü ve kabarcık oyuncak markasıdır.Dulcop, Avrupa’nın en büyük üreticisidir. ISO 9001 belgesine sahiptir.Dulcop International S.p.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Biosy",
+    "description": "Biosy, 2020 yılında kurulan Biosy Destek Kozmetik ve Kimya San. Tic. Ltd. Şti. bünyesinde üretilen kolonya, esanslar, ozon dolabı ve stant markasıdır.Tek bir kolonya ve 10 farklı esans seçeneği sayesinde tüketiciler farklı esans çeşitlerinden seçerek kolonyaya ekleyip kendi kokularını belirleyebilir.Ev, Mağaza ve Büro tipi Ozon dolabı oksijenin içerisindeki ozon gazını ayrıştırarak virüs ve bakterileri 3 dakika içerisinde yok eder. İçeride bulunan tüm nesneleri dezenfekte eder.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tomy",
+    "description": "Tomy, 1924 yılında kurulan TOMY International, Inc. bünyesindeki oyuncaklar, video oyunları ve küçük aletler markasıdır.Firma bebekler, küçük çocuklar ve okul öncesi çocuklar için çocuk bakım ürünleri ve oyuncaklar tasarlar. Ürünleri 60’dan fazla ülkede satılmaktadır.TOMY International, Inc. Amerika merkezlidir.Bünyesindeki markalar:Big LoaderBoonClub Mocchi- Mocchi-Doodle BearERTLFarm ToysJJ ColeJohn DeereJohnny Lightning Micro StrikeKiiPixLamazeMonster TreadsRicky ZoomThe First YearsTomicaTomy GamesToomies",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Herpa",
+    "description": "Herpa, 1949 yılında kurulan Herpa Miniaturmodelle Gmbh bünyesindeki koleksiyoncular, modelleyiciler ve reklam amaçlı otomobil ve uçak modelleri markasıdır.Otomobil, kamyon ve uçak modelleri 1:87, 1:200 ve 1:500 gibi hassas ölçeklerde üretilmektedir.Herpa Miniaturmodelle Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Thermoval",
+    "description": "Thermoval, 1818 yılında kurulan Paul Hartmann AG bünyesinde üretilen yara bakım ürünleri, cilt bakım ürünleri, diagnostik, yatan hasta bakım ürünleri markasıdır.Kısa sürede ölçüm yapan yumuşak ve esnek ateş ölçerin ekstra büyük dijital ekranı bulunmaktadır ve darbeye dayanıklı, su geçirmezdir.Şirket dünya çapında 30’dan fazla ülkede bulunmaktadır. Türkiye’de Paul HARTMANN Tıbbi ve Hijyenik Ürünler İth. İhr. Ltd. Şti. olarak faaliyet göstermektedir.Paul Hartmann AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Gaggia",
+    "description": "Gaggia, 1947 yılında Giovanni Achille Gaggia tarafından kurulan Gaggia S.p.A bünyesindeki küçük mutfak aletleri, espresso ve kapuçino makineleri markasıdır.2017 yılında Evoca Group bünyesine dahil oldu. Evoca dünya çapında 100’den fazla ülkede 8 üretim tesisi ve 6 ARGE merkezi ile faaliyet gösteren İtalya merkezli profesyonel kahve makineleri üreticisidir.Bünyesindeki markalar:NectaSaecoGaggiaCafectionDucaleWittenborgSGLNewis",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Gülka",
+    "description": "Gülka, 2014 yılında kurulan Gülka Baharat Gıda Ltd. Şti. bünyesindeki baharatlar, toz içecekler, bitki çayları, çaylar, gıda ürünleri, kahve çeşitleri markasıdır.İso 9001 belgesine sahiptir.Firma ayrıca 2008 yılında kurulan Akgül Baharat ile toptan baharat ve bitkisel ürünler pazarlama faaliyeti gösteriyor.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001",
+      "İSO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fulgor Service",
+    "description": "Fulgor Service, 1985 yılında kurulan Fulgor Service S.N.C. bünyesindeki profesyonel ses sistemi ve teknolojileri markasıdır.EASE yazılım paketi, ayrıntılı grafiklerin kapsamlı bir tam ses analizini sağlayarak, belirli bir ortamda bir ses sisteminin akustik tepkisinin incelenmesi, modelilmesi ve gerçekçi simülasyonu için değerli bir araç seti içerir.Fulgor Service, ibadet yerleri, konferans salonları, müzeler, sergi alanları gibi yankılanan yapılarda, hem sabit hem de taşınabilir yüksek ses sistemlerinin tasarımı, üretimi ve kurulumunu yapan İtalyan firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Giacomini",
+    "description": "Giacomini, 1951 yılında Alberto Giacomini tarafından kurulan Giacomini S.p.A. bünyesindeki zemin altı ve tavan ısıtma ve soğutma sistemleri, termal enerji ölçüm markasıdır.Ürünlerini 100’den fazla ülkeye ihraç etmektedir.Giacomini S.p.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir. 2008 yılında Hintli bir özel şirket Giacomini S.p.A.’nın ortağı oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Havells",
+    "description": "Havells, 1958 yılında Imat Rai Gupta tarafından kurulan Havells India Limited bünyesindeki ev ve mutfak aletleri, aydınlatma, elektrik ekipmanları markasıdır.Şirket 50’den fazla ülkede 23 şubesi ile faaliyet göstermektedir.Bina devresi koruması, minyatür devre kesici, endüstriyel devre koruması, motorlar, profesyonel ve tüketici aydınlatma, led ışıklar ve ampuller, küçük ev aletleri, hava temizleyiciler, hava soğutucular, kondansatörler, tavan fanlar, masa fanlar, ayaklı fanlar, duvar fanlar, egzoz fanlar, su ısıtıcıları, su arıtma makineleri, evsel su pompaları, elektrik teli aksesuarları, kişisel bakım ekipmanları ürünleri arasında yer alır.Havells India Limited Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

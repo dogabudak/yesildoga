@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Li Ning",
+    "description": "Li-Ning 1989 yılında olimpiyat jimnastikçisi Li Ning tarafından kurulan sportif giyim ve ayakkabı üretimi yapan bir firmadır.Firma Çin merkezli bir firmadır. Şirkete adını veren kurucusu Li Ning, Çin’in gelmiş geçmiş en ünlü sporcularından birisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "TCL",
+    "description": "TCL 1981 yılında kurulan TCL Technology Group Corporation bünyesinde üretilen televizyon, televizyon alıcısı, akıllı telefon, klima, çamaşır makinesi, buzdolabı ve küçük elektrikli ev aletleri markasıdır.TCL Technology Group Corporation Çin merkezlidir. 22 üretim üssü, 80’den fazla ülke ve bölgede satış ofisi ve 160’dan fazla ülke ve bölgede operasyonları bulunmaktadır.Akıllı televizyon ürün grubu Bilkom iş birliği ile Türkiye’de satılmaktadır. Televizyon ekran panelleri Asya fabrikalarında diğer üretim ise Türkiye’de yapılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-08-09"
+  },
+  {
+    "company": "Geely Arabası",
+    "description": "Geely 1986 yılında kurulan uluslararası bir otomotiv şirketidir. Başlıca ürünleri otomobil, motosiklet, otomobil motoru, şanzıman, otomobil elektronik ve elektrik aksamı, otomobil parçalarının üretimi ve eğitim konularında faaliyet göstermektedir.Küçük popüler otomobillerin benzerlerini üretmektedir.Şirket ilk yıllarında buzdolabı üretti. 1994 yılında iki tekerlekli ulaşım araçları üretmeye başladıktan sonra otomobil üretimine başladı. Çin firması Geely, Çin’in en büyük özel otomotiv şirketidir.Geely, Daewoo’nun desteğiyle İtalya’daki tasarım stüdyosu Maggiora ile anlaşarak 1998 yılında ilk Geely otomobili üretti.Hangzhou’da bulunan merkezi ile birlikte Linhai, Ningbo, Xiangtan, Cixi, Jinan, Lanzhou, Taizhou, Shangai ve yurtdışında Rusya, Ukrayna, Venezuela, Malezya ve Güney Afrika’da fabrikası bulunmaktadır.Geely, 2010 yılında otomobil üreticisi Volvo Cars’ı Ford firmasından satın almıştır. Ayrıca 2012 yılında İngiliz taksi üreticisi London Taxi şirketini de bünyesine katmıştır.Geely, Türkiye’de Anadolu Grubu çatısı altında satışa sunulmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Baby&Toys Ülke",
+    "description": "Baby&Toys Hangi Ülke MalıdırBaby&Toys 1940 yılında kurulan Pilsan tarafından üretilen bir markadır. Pilsan ürünleri arasında akülü araba, pedallı araba, zincirli pedallı araba, sallanan oyuncak, bisiklet, kamyon, bebek gereçleri, park bahçe grupları, zeka oyunları ve yazlık oyuncaklar bulunmaktadır.Pilsan Yakup Çetinalp tarafından kurulan yüzde yüz Türk sermayeli bir Türk firmasıdır. Bu markadan alınan oyuncaklar güvenle alınıp kullanılabilir. Üretilen oyuncaklar, çocukların ruh ve bedensel gelişimine destek olacak niteliktedir.Firma yüzlerce farklı ürünle yurtiçi ve yurtdışı pazarlarında markalarıyla faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avast",
+    "description": "Avast, 1988 yılında kurulmuş olan Avast Software s.r.o. bünyesindeki dijital güvenlik yazılımları markasıdır.Avast Software s.r.o., 2021 yılında Amerika merkezli Nortonlifelock Inc. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-06-13"
+  }
+]

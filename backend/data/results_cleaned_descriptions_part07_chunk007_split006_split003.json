@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Linea Amethyste",
+    "description": "Linea Amethyste, 1973 yılında kurulmuş olan Farmavita s.r.l. bünyesindeki saç bakım ve şekillendirme, cilt bakımı ürünleri markasıdır.Farmavita s.r.l. İtalya merkezlidir. Faaliyet gösterdiği ülke sayısı 40’tan fazladır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "TLV Endüstriyel Vana",
+    "description": "Tlv, 1972 yılında kurulmuş olan Tlv Co. Ltd. bünyesindeki ölçüm ve kontrol ekipmanları markasıdır.Şirketin iş kolu, endüstriyel vana ürünlerinin imalatını içermektedir.Tlv Co. Ltd. Japonya merkezlidir. 12 ülkedeki şirketleri ve dünya genelinde 100’ün üzerinde dağıtıcısı ile ürünlerini sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Shunfa",
+    "description": "Shunfa, 1997 yılında kurulmuş olan Shunfa Sewing Machine Technology Co. Ltd. bünyesinde üretilen endüstriyel dikiş makinesi markasıdır.Shunfa Sewing Machine Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Micrin",
+    "description": "Micrin, 1886 yılında kurulmuş olan Johnson & Johnson Services Inc. bünyesinde üretilen diş macunları, ağız çalkalama suları ve gargaraları markasıdır.Johnson & Johnson Services Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Perfection Kartuş Mürekkebi",
+    "description": "Perfection Kartuş Mürekkebi Nerenin Malı MarkasıPerfection, 2010 yılında kurulmuş olan Meva Teknoloji Ürünleri İth. İhr. Ltd. Şti. bünyesinde üretilen inkjet yazıcı mürekkebi, pasta yazıcısı gıda mürekkepleri markasıdır.Firma Kocaeli merkezlidir. Ürünlerini Türkiye’de üretmektedir ve çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;Kartuş PlazaPerfection",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

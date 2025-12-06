@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Adım Plastik",
+    "description": "Adım Plastik, 1995 yılında kurulan Adım Plastik ve Metal Ürünleri İmalat İthalat ve İhracat Tic. Ltd. Şti. bünyesinde üretilen otomotiv yedek parçaları markasıdır.İç ve dış aksamlar, yakıt ve soğutma hortumları, yağ filtre kapağı, süspansiyon takozu, süspansiyon sistemi plastik ve metal aksamları gibi çözümler sunmaktadır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "The Mill Zeytinyağı",
+    "description": "The Mill, Arnas Tarım Üretim ve Tic. A.Ş. bünyesinde üretilen zeytinyağı, gurme, zeytin, kahve, tahin ve pekmez, helva markasıdır.Zeytinlerden soğuk sıkım yöntemiyle elde edilen yüzde 100 doğal ve katkısız zeytinyağıdır.İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Airtex",
+    "description": "Airtex, 1930 yılında kurulan Airtex Products S.A.U. bünyesinde üretilen su ve yakıt pompası markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Airtex Products S.A.U. İspanya merkezlidir. ABD, Meksika, İspanya ve Çin’de üretim tesislerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Çevikler Un",
+    "description": "Çevikler Un Nerenin Malı MarkasıÇevikler Un, 2007 yılında kurulan Çevikler Un Fabrikası A.Ş. bünyesinde üretilen ekmeklik un, kadayıflık un, pasta unu, pidelik un, simit unu, unlu mamül unu, baklavalık böreklik un markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ata Şekerleme",
+    "description": "Ata Şekerleme Nerenin Malı MarkasıAta Şekerleme, 1998 yılında kurulan Ata Ltd. bünyesinde üretilen bisküvi, gofret, çikolata, karamel, kek, şeker, kurabiye, kıraker markasıdır.Ata Ltd. Kırgızistan merkezlidir. Kırgızistan’ın en büyük pastacılık üreticilerinden biridir. Ürünlerini Kazakistan, Moğolistan, Rusya, Çin, Afganistan, Irak ve Tacikistan’a pazarlamaktadır. Helal belgesine sahiptir.Bünyesindeki markalar;AtaKroshkaPresentSladost",
+    "documents": [],
+    "parent": null,
+    "origin": "KG",
+    "updated_date": null
+  }
+]

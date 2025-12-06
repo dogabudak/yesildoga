@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Varroset",
+    "description": "Varroset, 2016 yılında kurulmuş olan Santavet İlaç San. A.Ş. bünyesindeki veteriner ilaçları, antiparazitler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Natura",
+    "description": "Natura, 1969 yılında Antonio Luiz Seabra, Guilherme Leal, Pedro Passos tarafından kurulmuş olan Natura &Co Holding S.A. bünyesindeki kişisel bakım ürünleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Natura &Co Holding S.A. Brezilya merkezlidir ve 7 ülkede varlığı bulunmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Bebsi",
+    "description": "Bebsi, 1986 yılında kurulmuş olan Burda Bebek Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen emzik, bebek diş kaşıyıcısı ve bebek bardağı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Deepsea Electronics",
+    "description": "Deepsea Electronics, 1975 yılında kurulmuş olan Deep Sea Electronics Ltd. bünyesinde jeneratör kontrol modülleri, otomatik transfer anahtarı kontrol modülleri, 12 v akü şarj cihazları, 24 v akü şarj cihazları, çift çıkışlı akü şarj cihazları, arazi ve araç kontrol sistemleri, aydınlatma kulesi kontrol modülleri, şebeke koruma röleleri, dc / hibrit kontrol çözümleri, dijital otomatik voltaj regülatörleri, motor kontrol modülleri, pompa kontrol modülleri, telekom kule çözümleri, telematik ve uzaktan izleme markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Deep Sea Electronics Ltd. İngiltere merkezlidir. Ürünlerini 150 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Balayk",
+    "description": "Balayk, 1996 yılında kurulmuş olan Baloğlu Ayakkabıcılık San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.Firma Konya merkezlidir.Bünyesindeki markalar;BalaykCafuFearful",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Squier",
+    "description": "Squier, 1946 yılında kurulan Fender Musical Instruments Corporation bünyesindeki elektro, akustik bas gitar, enstrüman amfileri ve aksesuarları, müzik ekipmanları markasıdır.Fender Musical Instruments Corporation Amerika merkezlidir. Ürünlerini Çin’de ürettirmektedir.Bünyesindeki markalar;CharvelEVHFenderGretschJacksonSquier",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Neewer",
+    "description": "Neewer, 2010 yılında kurulan Shenzhen Neewer Technology Co. Ltd. bünyesinde üretilen fotoğraf ekipmanları, set üstü flaş, LED kamera ışıkları markasıdır.Shenzhen Neewer Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Marcomen",
+    "description": "Marcomen, 2006 yılında kurulan Özdallar Ayakkabı ve Yan San. Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen terlik, bot, ayakkabı markasıdır.Ürün gamında Trekking ve Hiking botları öncelikli olmak üzere zorlu iklim şartlarına karşı dayanıklı Outdoor ürünler bulunmaktadır.İstanbul merkezli firma ürünlerini İstanbul’da 4 bin metrekarelik Malatya 2. OSB’de kurulu 10 bin metrekarelik üretim tesislerinde üretmekte çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Whistle Bisiklet",
+    "description": "Whistle, 1885 yılında kurulan F.I.V. Edoardo Bianchi S.p.A bünyesinde üretilen bisiklet markasıdır.F.I.V. Edoardo Bianchi S.p.A, 1997 yılında şirketi İsveç merkezli Cycleurope AB tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Mr. Fix",
+    "description": "Mr. Fix Hangi Ülkenin Malı MarkasıMr Fix, 2003 yılında kurulan Kartaş Ltd. Mmc bünyesinde üretilen fayans ve seramik contalar, yapıştırıcılar, akdeniz doldurucuları, su yalıtım malzemeleri, ısı yalıtım malzemeleri, tamir, yapı malzemeleri, temel malzeme, bitmiş iç, dış, kaplama, vb. gibi yapı malzemeleri markasıdır.ISO 9001 belgesine sahiptir.Kartaş Ltd. Mmc Azerbaycan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  }
+]

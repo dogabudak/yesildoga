@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Franco Leone",
+    "description": "Franco Leone, 1995 yılında kurulan Franco Leone Limited bünyesinde üretilen ayakkabı markasıdır.Franco Leone Limited Hindistan merkezlidir ve ürünlerini Hindistan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "The Natural Ritualist",
+    "description": "The Natural Ritualist, 2016 yılında kurulan Esn Grup Kozmetik ve Bilişim İthalat İhracat Ltd. Şti. bünyesindeki saç ve cilt bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eglips",
+    "description": "Eglips, 2007 yılında kurulan Viarosa Co. Ltd. bünyesinde üretilen kozmetikler, makyaj temel ürünleri, yüz ve vücut bakımı için losyonlar markasıdır.ISO 9001 belgesine sahiptir.Viarosa Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Polycom",
+    "description": "Polycom, 1990 yılında Brian L Hinman ve Jeffrey Rodman tarafından kurulan Polycom Inc. bünyesindeki kurumsal ve tüketici ses ürünleri, yazılımları ve hizmetleri markasıdır.Ürünleri birleşik iletişim, mobil kullanım, oyun ve müziği desteklemektedir. Plantronics, cep telefonları için bir dizi Bluetooth kulaklık da dahil olmak üzere mobil kulaklıklar üretmektedir.Polycom Inc. 2018 yılında Amerika merkezli Plantronics Inc. tarafından satın alındı. Ürünlerinin çoğu Çin ve Meksika’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oleobox",
+    "description": "Oleobox, 2019 yılında kurulan Adz Aromatik Tıbbi Bitki Endüstri A.Ş. bünyesindeki cilt bakım ürünleri markasıdır.Bitki bazlı doğal içerikli ürünleri hayvanlar üzerinde test edilmemektedir. Sülfat, paraben gibi zararlı kimyasallar ve alkol içermemektedir.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

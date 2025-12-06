@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Motortech",
+    "description": "1988 yılında kurulmuş olan Motortech Gmbh bünyesindeki ateşleme sistemleri, hava, yakıt oranı kontrol sistemleri, gaz motoru kontrol sistemleri ve sabit gaz motorlu enerji üretim endüstrisi için diğer aksesuarlar markasıdır.Motortech Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Okaidi",
+    "description": "2001 yılında kurulmuş olan Zhejiang Kuangdi Industry And Trade Co. Ltd. bünyesinde üretilen termos bardakları, termos saksıları, cam kupa, plastik kupa, titanyum yalıtılmış kupa, yalıtılmış kupa markasıdır.Zhejiang Kuangdi Industry And Trade Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Embi Food",
+    "description": "1994 yılında kurulmuş olan Embi Gıda A.Ş. bünyesinde üretilen dondurulmuş yufka, tortilla lavaş, simit, su böreği, börek, mantı markasıdır.Mısır nişastası, koruyucu ve gluten içermektedir.BRC Food, Helal, TSE belgelerine sahiptir.Firma İstanbul merkezlidir. 12 bin metrekarelik kapalı alana sahip tesisinde üretim yapmaktadır.",
+    "documents": [
+      "BRC"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oydaş Anlily",
+    "description": "1988 yılında temeli atılan Oydaş İç ve Dış. Tic. Ltd. Şti. bünyesinde üretilen oyuncaklar markasıdır.Firma İstanbul merkezlidir ve ürünlerini 20’ye yakın ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Agosto",
+    "description": "Mkz Ahşap Dekorasyon Tasarım Hizmetleri Gıda İmalat İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki bazlar, püreler, şuruplar ve bar sosları markasıdır.ISO 22000 belgesine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

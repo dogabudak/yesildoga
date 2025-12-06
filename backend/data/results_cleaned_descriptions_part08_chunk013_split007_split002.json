@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Pin Soğuk Çay",
+    "description": "Pin2019 yılında kurulmuş olan Pin Global Gıda San. ve Tic. A.Ş. bünyesindeki çay bazlı içecekler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Skydio",
+    "description": "Skydio2014 yılında kurulmuş olan Skydio Inc. bünyesindeki dronlarAkıllı uçan robotlara monte edilmiş yüksek güçlü kameralarla yakalanan bilgilere gerçek zamanlı erişim sağlar.Skydio Inc. Amerika merkezlidir. Ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Şokoley",
+    "description": "Şokoley2008 yılında kurulmuş olan A101 Yeni Mağazacılık A.Ş. adına Seyidoğlu Gıda San. ve Tic. A.Ş. tarafından üretilen kakaolu fındık kreması markasıdır.Üretici firmanın ürünleri Türkiye’de üretilmektedir.Not: A101 Yeni Mağazacılık A.Ş. üretici firmalarla sabit çalışmamaktadır ve ürün içeriklerindeki katkı maddeleri üreticilere göre değişmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Max Çakmak Gazı",
+    "description": "Max2019 yılında kurulmuş olan Max Cosmetic ve Kimya San. Tic. A.Ş. bünyesinde üretilen çakmak gaz dolum ürünleri, çocuk bezi, temizlik mendil ürünleri, şampuan, bebek şampuan, bebek pudra, biyosidal ürünler, deodorant, erkek, traş ürünleri, mobilya bakım ürünleri, oda kokusu, oto bakım ürünleri, saç bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jacquemus",
+    "description": "Jacquemus2010 yılında kurulmuş olan Jacquemus SAS bünyesindeki hazır giyim ürünleri, çantalar, ayakkabı ve aksesuarlar markasıdır.Jacquemus SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

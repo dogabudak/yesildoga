@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Faberlic",
+    "description": "Faberlic, 1997 yılında Aleksey Nechaev tarafından kurulan Faberlic JSC bünyesindeki, kozmetik, giyim, parfüm, aksesuar ve ayakkabı markasıdır.Firma 30 patente sahiptir. Patentli oksijen kozmetik üreticisidir.Dünyanın 24 ülkesinde Faberlic resmi temsilciliği bulunmaktadır. 42 ülkeye teslimat yapılabilmektedir.Rusya merkezli Faberlic en büyük Rus kozmetik şirketlerinden biridir. Faberlic Fabrikası 40 bin metrekarelik alanda kurulmuştur.Fransız parfümleri, Alman ev bakım deterjan ve sağlık ürünleri içermektedir. Ayrıca Faberlic makyaj ürünleri dünyanın en büyük üreticisi İtalyan Interkos şirketler grubunda üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Haima 7",
+    "description": "Haima 7, 2010 yılından itibaren FAW Group Corporation bünyesinde üretilen otomobil markasıdır.FAW’ın başlıca ürünleri otomobil, otobüs, hafif, orta ve ağır vasıtalar ile otomobil parçalarıdır.FAW Group Corporation Çin’in devlet otomotiv üretim şirketidir. 1958 yılında ülkenin ilk yerli üretilen binek otomobili Hong Qi’yi tanıtarak Çin’in ilk otomobil üreticisi oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hanomag Traktör",
+    "description": "Hanomag, 1871 yılında kurulan Hannoversche Maschinenbau AG bünyesindeki buharlı lokomotif, traktör, kamyon ve askeri araçların markasıdır.Almanya’da kurulan Hanomag AG 2002 yılından itibaren Japonya merkezli Komatsu Ltd. şirketinin bir parçası olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Fishman Menşei Neresi",
+    "description": "\"Fishman Menşei Neresi\"\nFishman, 1981 yılında Larry Fishman tarafından kurulan Fishman Transducers, Inc. bünyesindeki SA330x Performans Ses Sistemi, Aura Akustik Görüntüleme Teknolojisi, Loudbox Amplifikatörler, Akustik Gitar Pikaplar, Akustik Enstrüman Pikaplar, Preamplar, TriplePlay Kablosuz Gitar Denetleyicisi ve Elektrik Gitar için Fluence Çoklu-ses pikapları markasıdır.Fishman Transducers, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Indevco",
+    "description": "Indevco, 1956 yılında kurulan Indevco Group S.A.L. bünyesinde üretilen oluklu, kağıt ve plastik ambalaj markasıdır.Çok uluslu bir üretim ve endüstriyel danışmanlık grubu olan INDEVCO, Orta Doğu, Afrika, Avrupa ve ABD’de 75’ten fazla işletmeyle faaliyet gösteriyor.Indevco Group S.A.L. Lübnan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LB",
+    "updated_date": "2022-02-08"
+  }
+]

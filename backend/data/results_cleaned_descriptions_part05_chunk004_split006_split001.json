@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Niconico",
+    "description": "Niconico, 2006 yılında kurulan Niconico Inc. bünyesindeki video paylaşım hizmeti markasıdır.Kullanıcılar video klipleri yükleyebilir, görüntüleyebilir ve paylaşabilir. Yorumlar videoda meydana gelen olaylara doğrudan izleyiciyle anlık olarak yanıt vermesini sağlarNiconico Inc. Japonya merkezli telekomünikasyon ve medya şirketi Dwango Co. Ltd.’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "DM",
+    "description": "DM, 2009 yılında kurulan Shenzhen Di Mi Technology Co. Ltd. bünyesinde üretilen cep telefonu aksesuarları markasıdır.Ürün yelpazesinde cep telefonu kılıfları, kapakları, veri işleme ekipmanları, kulaklıklar, kablolar yer almaktadır.Shenzhen Di Mi Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "UNO Kart",
+    "description": "Uno, 2017 yılında Mattel ile NetEase arasında bir ortak girişim olarak kurulan Mattel163 Limited bünyesindeki renk ve sayı eşleştirmesine dayanan klasik kart oyunu markasıdır.Firma Mattel’in ikonik oyuncaklarına göre mobil oyunlar geliştirip yayınlıyor.Mattel163 Limited, Amerika merkezli Mattel ile Çin merkezli NetEase’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İpekyolu Baharat",
+    "description": "İpekyolu Baharat, 1946 yılında Özcan Kalaycı tarafından kurulan İpekyolu Baharat ve Gıda San. İthalat İhracat Pazarlama Ltd. Şti. bünyesindeki baharat, pastacılık çeşitleri, kurutulmuş sebzeler, bitki çayları markasıdır.TSE-EN-ISO 9001, ISO 22000, ISO 14001, ISO 22000, ISO 45001 ve Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Softem",
+    "description": "Softem, 1989 yılında kurulan AksuVital Doğal Ürünler Gıda ve Tic. A.Ş. bünyesinde üretilen doğal sabun, şampuan, saç kremi, saç serumu, cilt ve vücut yağları markasıdır.Ürünleri paraben, SLS, silikon ve renklendirici içermez.ISO 9001 ve ISO 22000 belgelerine sahip firma ürünlerini 5 kıtaya ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

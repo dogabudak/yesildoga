@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Gullon",
+    "description": "“Gullon“1892 yılında kurulmuş olan Galletas Gullon S.A. bünyesindeki organik ve glutensiz kurabiyeler, atıştırmalıklar markasıdır.Ürünleri şeker içermez.Galletas Gullon S.A. İspanya merkezlidir. Ürünleri 120’den fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;GullonSol & MarSondey",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Tisho.Com",
+    "description": "“Tisho.Com“1989 yılında kurulmuş olan Demal Tekstil İnşaat Turizm Gıda Ltd. Şti. bünyesindeki kişiye özel tasarım hediyeler, baskılı ürünler markasıdır.Firma İstanbul merkezlidir. Ürünlerini onlarca ülkeye ihraç etmektedir.Bünyesindeki markalar;DemalSample 999Tish-OTisho.Com",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flakefest",
+    "description": "“Flakefest“2011 yılında kurulmuş olan Mekay Grup Gıda San. ve Tic. Ltd. Şti. bünyesindeki kahvaltılık gevrek, mısır gevreği, tahıl gevreği markasıdır.ISO 9001, ISO 22000, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Ankara merkezlidir. Ürünlerini 7 bin 500 metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Epengle",
+    "description": "“Epengle“1961 yılında kurulmuş olan Epengle Tekstil Endüstri ve Tic. A.Ş. bünyesinde üretilen ev tekstili markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Makarolli",
+    "description": "“Makarolli“1995 yılında kurulmuş olan BİM Birleşik Mağazalar A.Ş. adına muhtelif üreticiler tarafından üretilen noodle makarnalar markasıdır.Üretici firmalar ürünlerini Türkiye’de üretmektedir.BİM Sahibi Kimdir?",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

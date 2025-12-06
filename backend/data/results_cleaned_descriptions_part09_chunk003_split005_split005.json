@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Voylet",
+    "description": "Voylet1978 yılında kurulmuş olan Özdemir Makina San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen boya tabancaları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ARISTO AIRARISTO POWERFELIXVOYLETGERSON",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mukand",
+    "description": "Mukand1937 yılında kurulmuş olan Mukand Limited bünyesnde üretilen özel çelik uzun ürünler ve ağır makineler markasıdır.Çelik bölümü; otomobil ve mühendislik endüstrilerini besleyen tel çubuklar, çubuklar, teller ve parlak çubuklar şeklinde alaşımlı çelik ve paslanmaz çelik uzun ürünler, Endüstriyel Makine Bölümü ise ağır hizmet tipi vinçler, dökme malzeme taşıma ekipmanları, proses tesisi makineleri ve anahtar teslim projeler üretmektedir.Bajaj Group şirketi olan Mukand Limited Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Airties Wireless Networks",
+    "description": "Airties Wireless Networks2004 yılında kurulmuş olan Airties Kablosuz İletişim San. ve Dış Tic. A.Ş. bünyesindeki geniş bant internet cihazları, yerel ağ ürünleri, internet telefonu, aksesuarlar ve internet tabanlı televizyonlar için set üstü kutular markasıdır.2022 yılında Amerika merkezli Providence Equity Partners L.L.C. tarafından satın alınmıştır.Bünyesindeki markalar;AirtiesAirties Wireless NetworksMesh",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Naramaxx",
+    "description": "Naramaxx2004 yılında kurulmuş olan GHSGRUP Şirketler Topluluğu bünyesindeki kadın dış giyim ürünleri ve mağazaları markasıdır.Firma Bursa merkezlidir ve Bursa’da toplam 62 bin metrekarelik alanda faaliyet göstermektedir. Ürünlerini 10’dan fazla ülkeye ihraç etmektedir. İngiltere ve Amerika’da ofislere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gerry Weber",
+    "description": "Gerry Weber1973 yılında kurulmuş olan Gerry Weber International Gmbh bünyesindeki kadın giyim ürünleri ve mağazaları markasıdır.Gerry Weber International Gmbh Almanya merkezlidir ve ürünlerini 54 ülkeye pazarlamaktadır.Bünyesindeki markalar;Gerry WeberSamoonTaifun",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

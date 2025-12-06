@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Ufo Yapıştırıcı",
+    "description": "Ufo Yapıştırıcı Hangi Ülkenin Malı MarkasıdırUFO, 1979 yılında İlhan Arapoğlu tarafından kurulan Yıldız Ticaret bünyesinde üretilen yapıştırıcı markasıdır.Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-12-21"
+  },
+  {
+    "company": "Weslo",
+    "description": "Weslo, 1975 yılında Edward ve Florence Pauls tarafından kurulan 1998 yılında Icon Health & Fitness tarafından satın alınan koşu bandı, egzersiz aletleri markasıdır.ISO 9000 belgesine sahiptir. Çin, Avrupa ve Amerika’da üretim tesisleri bulunmaktadır.Icon Health & Fitness Amerika merkezli bir şirkettir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Palalı",
+    "description": "Palalı, 1959 yılında kurulan Palalı Lastik ve Ayakkabı San. Tic. A.Ş. bünyesinde üretilen ayakkabı markasıdır.ISO 20345 belgesine sahiptir.Ayakkabı ve çizme ürünlerini Afyonkarahisar’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 20345"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Charder",
+    "description": "Charder, 1980 yılında kurulan Charder Electronic Co, Ltd. bünyesinde üretilen tıbbi cihazlar markasıdır.Yüksek hassasiyetli ölçeklerde uzmanlaşmış orijinal bir ekipman üreticisi olarak kurulmuştur.ISO 13485 belgesine sahiptir.Charder Electronic Co, Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ohto",
+    "description": "Ohto, 1919 yılında Nakata Touzaburo tarafından kurulan Ohto Co., Ltd. bünyesindeki yazı kalemi, mürekkep ve uç ürünleri markasıdır.Ohto tarafından üretilen ürünler dolma kalem, rulo tükenmez kalem ve jel kalemler, yedek kalemler ve mekanik kurşun kalemleridir.Ohto Co., Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Narwal",
+    "description": "Narwal, 2015 yılında kurulan Yunjing Intelligence Technology Co. Ltd. bünyesinde üretilen temizlik robotu, endüstriyel robotlar, robot vakum aksesuarları, merkezi vakum temizleme, elektrikli süpürgeler için fırçalar, buhar kullanan temizlik aletleri, temizlik için deterjanla emprenye edilmiş bezler, bulaşık deterjanları, halı temizleme preparatları, halı şampuanı, temizlik bezleri, süngerler, toz bezleri, antiseptik mendiller, dezenfektan sabunu, dezenfektanlar markasıdır.Yunjing Intelligence Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alenka",
+    "description": "Alenka, 1989 yılında kurulan Guta Group United Confectioners bünyesindeki şekerleme ve el yapımı çikolata markasıdır.Firma haşlanmış tatlılar, şekerler, çikolata, şekerleme, kakao tozu, fındık, yarı mamul çikolata ürünleri, kurabiyeler gibi çok sayıda ürün çeşidi sunmaktadır.Guta Group United Confectioners, Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Asmedia",
+    "description": "Asmedia, 2004 yılında kurulan Asmedia Technology Inc. bünyesinde üretilen entegre devre markasıdır.Yüksek hızlı iletim arabirimi IC’leri, özellikle kişisel bilgisayarlarda kullanılan diğerlerinin yanı sıra yüksek hızlı mikrodalga anahtarları (Anahtar IC), çevresel bileşen arabirimi yüksek hızlı (PCIE) köprü yongası Ic’lerini içerir.Cihaz tarafındaki yüksek hızlı kontrol IC’leri, çoğunlukla depolama aygıtlarında kullanılan evrensel seri veri yolu (USB) kontrol Ic’sini içerir.Öncelikle USB, PCI Express ve SATA denetleyicilerinin ve diğer ürünlerin tasarımından sorumludur.Asmedia Technology Inc. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Longi Solar",
+    "description": "Longi, 2000 yılında kurulan Longi Green Energy Technology Co. Ltd. bünyesinde üretilen fotovoltaik panellerin ve güneş enerjisi ürünleri markasıdır.Dünyanın en büyük monokristal silikon gofret üreticisidir. Ürünleri arasında tek kristalli silikon, tek kristalli modüller, fotovoltaik sistemler ve fotovoltaik enerji santralleri bulunmaktadır.Longi Green Energy Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alpenmark",
+    "description": "Alpenmark, 1880 yılında Bonifaz Kohler Gmbh bünyesinde üretilen krem peynir, süt ürünleri, peynirler, işlenmiş peynir markasıdır.Bonifaz Kohler Gmbh Almanya merkezli Hochland SE’nin bir yan kuruluşudur. Almanya, Fransa, İspanya, Polonya, Romanya’da üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

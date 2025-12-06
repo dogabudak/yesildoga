@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kadus Professional",
+    "description": "Kadus Professional, 1906 yılında kurulan saç bakımı ve şekillendirme için profesyonel kozmetikler ile kuaför salonlarının teknik donanımı markasıdır.Kadus Professional, Wella Operations US LLC bünyesindedir. Wella Operations US LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kemon",
+    "description": "Kemon, Di Celalba Holding S.R.L. bünyesindeki saç bakım ürünleri markasıdır.Ürünleri renkli saçlar için güvenlidir. Ürünleri sülfat, paraben, gluten, parafin, ftalat, vazelin, mineral yağ, sentetik boyalar ve sodyum klorür içermez.Di Celalba Holding S.R.L. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Focus Bikes",
+    "description": "Focus Bikes, 1993 yılında Mike Kluge tarafından kurulan Derby Cycle Werke Gmbh bünyesinde üretilen bisiklet, e-bisiklet, yarış bisikleti, dağ bisikleti, spor bisikleti markasıdır.Derby Cycle Werke Gmbh, Hollanda merkezli Pon Holdings BV’un mülkiyeti altında faaliyet göstermektedir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Redken",
+    "description": "Redken, 1931 yılında Paula Kent tarafından kurulan saç bakımı ve şekillendirme ürünleri markasıdır.Redken, profesyonel ürünler bölümü altında L’Oréal Group’a aittir.L’Oréal’in yüzde 33’ü Fransız Françoise Bettencourt Meyers’e yüzde 23,29’u Nestle’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Winky Lux",
+    "description": "Winky Lux, 2015 yılında Glossier, Inc. bünyesinde üretilen makyaj ürünleri markasıdır.Ürünleri paraben, sülfat, ftalat, gluten içermemektedir ve toksik değildir. Bazı ürünleri hayvansal maddeler veya yan ürünler içerir. Hayvanlar üzerinde test edilmemektedir.Ürünlerini Amerika ve İtalya’da üretmektedir.Glossier, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Alimar",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Trapez",
+    "description": "2010 yılında kurulmuş olan Trapez Makina İnş. Müh. Doğ. İth. İhr. San. ve Tic. Ltd. Şti. bünyesindeki çikolata paketleme makineleri markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Italiana Ferramenta",
+    "description": "1996 yılında kurulmuş olan Italiana Ferramenta S.R.L. bünyesinde üretilen mobilya parçaları, raf sistemleri, menteşeler, konektörler, tesviye çözümleri, aksesuarlar, bağlantı parçaları, açma sistemi, kanat sistemi, itme mandalları, askılar, gizli bağlantı parçaları, raf sistemleri markasıdır.Italiana Ferramenta S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Keracare",
+    "description": "1984 yılında Ali N. Syed tarafından kurulan Avlon Industries Inc. bünyesinde üretilen lüks saç şekillendirme ve bakım ürünleri markasıdır.Nemlendirici şampuanlardan ve güçlendirici saç kremlerinden ısıyı koruyan serumlara ve hacim veren spreylere kadar pek çok ürün tasarlamaktadır.Avlon Industries Inc. Amerika merkezlidir. Ürünlerini 46 ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Accurist",
+    "description": "1963 yılında kurulmuş olan Time Products Ltd. bünyesinde üretilen erkek ve kadın kol saatleri markasıdır.Tüm saatleri paslanmaz çelik kasalar ve ultra çizilmeye karşı dayanıklı safir kristal cama sahiptir.Marka 2014 yılından beri Marcus Margulies’in sahibi olduğu İngiltere merkezli Time Products UK Ltd. bünyesinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

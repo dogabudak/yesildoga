@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bata",
+    "description": "Bata, 1894 yılında Tomas Baza tarafından kurulan Bata Corporation bünyesinde üretilen ayakkabı ve moda aksesuarı markasıdır.Bata Corporation, 18 ülkede üretim tesislerine sahip İsviçre merkezli çokuluslu bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Alstom",
+    "description": "Alstom, 1928 yılında kurulan Alstom SA bünyesinde üretilen demiryolu araçları ve sinyalizasyon markasıdır.Ayrıca hızlı tren üreticisidir. Türkiye’de termik santral alanında faaliyet göstermektedir.Alstom SA Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Alfa Laval",
+    "description": "Alfa Laval, 1883 yılında Gustaf de Laval ve Oscar Lamm tarafından kurulan Alfa Laval AB bünyesindeki ağır sanayi için özel ürünler ve çözümler markasıdır.Ürünler, yağ, su, kimyasallar, içecekler, gıda maddeleri, nişasta ve farmasötikler gibi ürünleri ısıtmak, soğutmak, ayırmak ve taşımak için kullanılır.Alfa Laval AB, İsveç merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Edox",
+    "description": "Edox, 1884 yılında Christian Ruefli-Flury tarafından kurulan Montres Edox et Vista SA bünyesindeki lüks kol saatleri, aksesuarlar markasıdır.Kadın saatleri konusunda uzmanlaşmıştır. 1884’ten beri spor ve tasarım saatleri sunmaktadır.Edox, İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Hield",
+    "description": "Hield, 1922 yılında David ve Hugh Hield tarafından kurulan Hield Bros. Ltd. bünyesindeki tekstil, erkek giyim ve lüks eşya perakende markasıdır.Şirket, giyim ve mobilya, takım elbise, gömlek, kravat, triko, eşarp ve pelerinler, ayakkabı, bagaj, küçük deri ürünler ve aksesuarlar için kumaş üretmektedir.Hield Bros. Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

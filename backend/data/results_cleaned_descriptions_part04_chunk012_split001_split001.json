@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Amphenol",
+    "description": "Amphenol, 1932 yılında Arthur Schmitt tarafından kurulan Amphenol Corporation bünyesindeki elektrik, elektronik ve fiber optik konektörler, ara bağlantı sistemleri, koaksiyel ve yüksek hızlı özel kablo markasıdır.Amphenol Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gemalto",
+    "description": "Gemalto, 2006 yılında iki şirketin birleşmesiyle kurulan Gemalto N.V. bünyesindeki dijital kimlik ve güvenlik markasıdır.Mobil İletişim, makineden makineye, güvenli işlemler, güvenlik ve patentler. Abone Kimlik Modülü ve Evrensel Entegre Devre kartları, uzaktan mobil aygıtları yönetmek için istemci-sunucu yazılım ve gezici optimizasyonu, mobil para, mobil ödeme, Mobil Pazarlama hizmetleri de dahil olmak üzere, ve kişisel veri yönetimi geniş bir alanda gömülü güvenli işletim sistemleri ve uygulamaları sağlar.Gemalto N.V. 2019 yılında Fransa merkezli Thales S.A. tarafından satın alındı. Pek çok ülkede yan kuruluşları ve grup şirketleri bulunmaktadır ve 47 ülkede 24 üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Applied Materials",
+    "description": "Applied Materials, 1967 yılında Michael McNeilly tarafından kurulan Applied Materials, Inc. bünyesindeki elektronik için yarı iletken (entegre devre) yongaları, bilgisayarlar, akıllı telefonlar ve televizyonlar için düz panel ekranlar ve güneş ürünleri markasıdır.Firma ayrıca esnek elektronik, ambalaj ve diğer uygulamalar için kaplama üretmek için ekipman tedarik etmektedir.Applied Materials, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Beta Transformer",
+    "description": "Beta Transformer, 1997 yılında kurulan Transformatör Elektromekanik San. Tic. A.Ş. bünyesinde üretilen güç transformatörleri, dağıtım transformatörleri, kuru tip transformatörler, pad-mounted transformatörler markasıdır.Adana Hacı Sabancı OSB’de 48 bin metrekarelik açık alanda bulunan 15 bin metrekarelik kapalı alanda üretim yapmaktadır. ISO 9001 ve ISO 14001 belgelerine sahiptir. Ürünlerinin yüzde 75’i 30’dan fazla ülkeye ihraç edilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vestas",
+    "description": "Vestas, 1945 yılında Peder Hansen tarafından kurulan Vestas Wind Systems A/S bünyesindeki rüzgar türbinleri markasıdır.Dünyanın en büyük rüzgar türbini şirketidir.Vestas Wind Systems A/S Danimarka merkezlidir. Danimarka, Almanya, Hollanda, Tayvan, Hindistan, İtalya, Romanya, İngiltere, İspanya, İsveç, Norveç, Avustralya, Çin, Brezilya, Polonya ve Amerika’da üretim tesislerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

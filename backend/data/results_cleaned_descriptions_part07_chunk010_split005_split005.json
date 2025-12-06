@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Jacob Cohen",
+    "description": "Jacob Cohen, 1985 yılında Tato Bardelle tarafından kurulmuş olan Jacob Cohen Company S.p.A bünyesindeki erkekler ve kadınlar için lüks kotlar, hazır giyim ürünleri markasıdır.Jacob Cohen Company S.p.A İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Royal Van Kempen Begeer",
+    "description": "Royal Van Kempen & Begeer, 2007 yılında kurulmuş olan The Cookware Company Europe BV bünyesindeki tencere, seramik yapışmaz kaplamalar, bakeware ve sağlıklı tencere markasıdır.The Cookware Company Europe BV Belçika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2023-09-25"
+  },
+  {
+    "company": "Alkoy",
+    "description": "Alkoy, 1974 yılında Mustafa Şahin tarafından kurulmuş olan Alkoy Mutfak Eşyaları San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen aliminyum, çelik, granit, mia, nonstick, seramik, yapışmaz tencereler, tavalar markasıdır.Firma İstanbul merkezlidir. Ürünlerini Arnavutköy’de bulunan 6 bin metrekaresi kapalı, 4 bin metrekaresi açık alana sahip tesisinde üretmekte ve birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;ŞefinnAlkomAlkoySeraminaShef’In",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Benevole Kolonya",
+    "description": "Benevole, 2020 yılında kurulmuş olan Gnl Kimya Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen kolonya markasıdır.Ürün yelpazesinde tekstil kimyasalları, gıda kimyasalları, deterjan kimyasalları, kozmetik kimyasalları ve genel kimyasallar yer almaktadır.Firma Afyonkarahisar merkezlidir.Bünyesindeki markalar;Benevole MachineTektanZühre HomeZührella",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dermoday",
+    "description": "Dermoday, 2011 yılında kurulmuş olan Eroda Kozmetik Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen ağız bakımı, cilt bakımı, el temizliği ve hijyen, saç bakımı, vücut bakımı ürünleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-01-30"
+  }
+]

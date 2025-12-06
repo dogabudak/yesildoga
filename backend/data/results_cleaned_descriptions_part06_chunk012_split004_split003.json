@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Ankarsrum",
+    "description": "Ankarsrum, 1940 yılında kurulan Ankarsrum Industries AB bünyesindeki stand mikseri markasıdır.16 farklı aksesuarıyla, mayalı ekmek pişirmek, smoothie yapmak veya makarna üretmeyi sağlar.Ankarsrum Industries AB İsveç merkezlidir ve ürünlerini İsveç’te üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Cerabien",
+    "description": "Cerabien, 2012 yılında kurulan Kuraray Noritake Dental Inc. bünyesinde üretilen zirkonya çerçevesiyle kullanılan tüm seramik kronları yapmak için kullanılan bir porselen markasıdır.Firma diş yapıştırma maddeleri, dolgular, kronlar ve köprüler için kaplama reçinesi, kronlar için seramikler, diş sıvaları, cad / cam cihazları üretmektedir.Kuraray Noritake Dental Inc. Japonya merkezlidir ve ürünlerini 90 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Sebro",
+    "description": "Sebro, 1974 yılında kurulan Sebro Maschinenteile Gmbh bünyesindeki araç yedek parçaları, frenler, motorlar, şanzıman ve şasi parçaları markasıdır.ISO 9001 belgesine sahiptir.Sebro Maschinenteile Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Starkgen",
+    "description": "Starkgen, 2021 yılında kurulan Starkgen Enerji İmalat A.Ş. bünyesinde üretilen jeneratör, aydınlatma kulesi, özel jeneratör, ckd, hibrit güç sistemleri markasıdır.Sunduğu jeneratörler; standby güç, prime güç, tepe güç ve dağıtılmış güç için dizel, gaz, marine jeneratör setleri ve paralelleme sistemlerini içerir.Sakarya merkezli firma ürünlerini 73 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Crushgrind",
+    "description": "Crushgrind, 1994 yılında kurulan IDEAS D. A/S bünyesindeki tuz, karabiber ve baharat öğütücüleri markasıdır.Seramik mekanizması, sadece tuz ve karabiberi değil, bütün kuru otları ve baharatları öğütebilir.IDEAS Denmark A/S Danimarka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

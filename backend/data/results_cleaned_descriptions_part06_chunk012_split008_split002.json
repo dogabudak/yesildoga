@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Gill",
+    "description": "Gill, 1973 yılında Nick Gill tarafından kurulan Douglas Gill International Ltd. bünyesindeki hazır giyim, deniz giyim ve aksesuarları perakende markasıdır.Denizciler için tekne, yelken ve spor giyim ve ekipmanları sunmaktadır.Douglas Gill International Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Rohm and Haas",
+    "description": "Rohm and Haas, 1909 yılında kurulan Rohm And Haas Company bünyesinde üretilen özel kimyasallar markasıdır.Bina ve inşaat, elektronik cihazlar, ambalaj, ev ve kişisel bakım ürünleri gibi alanlarda son kullanım pazarları için ürünler üretmektedir.Rohm And Haas Company, 2009 yılında Amerika merkezli Dow Chemical Company tarafından satın alınmıştır. Dow Chemical Company’nin tamamına sahip olduğu bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Crivit Sports",
+    "description": "Crivit Sports, 2014 yılında Lidl Stiftung & Co. KG tarafından kurulan spor giyim ürünleri, termal iç giyim ürünleri ve aksesuarları markasıdır.Lidl Stiftung & Co. KG Almanya merkezlidir. Uluslararası indirim perakendecisi zinciridir ve Schwarz Group’un bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Europen Pvc",
+    "description": "Europen, 2019 yılında kurulan Europen Endüstri İnşaat San. ve Tic. A.Ş. bünyesinde üretilen pvc pencere, kapı ve panjur sistemleri markasıdır.Firma ürünlerini Eskişehir OSB’de 75 bin metrekarelik alanda bulunan 50 bin metrekarelik kapalı alanda üretmektedir. Hatipoğlu Grup bünyesindedir.Bünyesindeki markalar;BaupenElitpenEssidingEurocoolerEurolineEuropenEuropeniEuroplanEurosidingEurowoodEurowpcEuwinPen CardPen ClubPenextraPt ProtermQuadroformVetrotechWidoWt Windoterm",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vega Çay",
+    "description": "Vegaçay, 2011 yılında kurulan Vega Gıda San. A.Ş. bünyesinde üretilen siyah çay markasıdır.Firma hiç bir katkı maddesi kullanmadan tamamen doğal yollarla üretim yapmaktadır.TS EN ISO 9001, TS EN ISO 22000, ISO 14001 belgelerine sahiptir.Rize merkezli Vega Gıda San. A.Ş. Kopuz Şirketler Grubu iştirakidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

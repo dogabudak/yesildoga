@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Morio",
+    "description": "Morio, 2018 yılında Mehmet Atmaca tarafından kurulan Mehmet Atmaca Bilişim A.Ş. bünyesinde üretilen televizyon markasıdır.Ürün yelpazesinde dahili uydu alıcılı led televizyonları, Android Smart TV kutuları yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ceat",
+    "description": "Ceat, 1924 yılında Virginio Bruni Tedeschi tarafından kurulan Ceat Limited bünyesindeki araç lastiği markasıdır.Binek otomobiller, iki tekerlekli araçlar, kamyonlar ve otobüsler, hafif ticari araçlar, hafriyatçılar, forkliftler, traktörler, römorklar ve otomatik çekçekler için lastik üretmektedir.CEAT Limited, 1982 yılında Hindistan merkezli lastik üretim şirketi The Rama Prasad Goenka Group tarafından satın alındı. Ürünlerini İtalya ve Hindistan’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Herpa",
+    "description": "Herpa, 1949 yılında kurulan Herpa Miniaturmodelle GMBH bünyesindeki otomobil, kamyon, uçak ve demiryolları için modeller ve aksesuarlar markasıdır.Kalıp döküm model uçaklar ve plastik araba modelleri çeşitli ölçeklerde üretilmektedir.Herpa Miniaturmodelle GMBH Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Jaguar Saat",
+    "description": "Jaguar, 1938 yılında Peter Haas tarafından kurulan saat markasıdır.Jaguar 1989 yılında Festina Group tarafından satın alındı.Festina Group İsviçre merkezli saat üreticisidir. İsviçre ve İspanya’da üretim tesislerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "O Boticario",
+    "description": "O Boticario, 1977 yılında Michael Krigsner tarafından kurulan O Boticário L.L.C. bünyesindeki kozmetik ve parfüm markasıdır.Başlıca ürünleri parfümler, kremler ve makyajdır. Ürünlerini hayvanlar üzerinde test etmemektedir.O Boticário L.L.C. Brezilya merkezlidir.Bünyesindeki markalar:BotiBabyCuide-se bemDr. BoticaInsensatezLilyaccordesarboboticollectioncoffeedreamegeoflorattaglamourmake-bmalbecmatchmennativa-spao-boticarioportinariquasarsophiestylettouominizaad",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  }
+]

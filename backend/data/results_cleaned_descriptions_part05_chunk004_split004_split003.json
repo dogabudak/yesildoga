@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Valetpro",
+    "description": "Valetpro, 2005 yılında Greg Spink tarafından kurulan Valetpro Ltd. bünyesindeki araç temizleme, koruma çözümleri ve aksesuarları markasıdır.Valetpro Ltd. İngiltere merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Chemical Guys",
+    "description": "Chemical Guys, 1998 yılında kurulan Keystone Automotive Operations Inc. bünyesinde üretilen araç bakım kimyasalları ve aksesuarları markasıdır.Ürün yelpazesi temizleyiciler, koruyucular, oto yıkama aksesuarları, başlangıç setleri, restorasyon kitleri içermektedir.Automotive Operations Inc. Amerika merkezlidir, ürünlerini Amerika’da üretmekte ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Medlog Lojistik",
+    "description": "Medlog, 1970 yılında kurulan Msc (Mediterranean Shipping Company) Holding SA’nın lojistik koludur. Demiryolu bağlantısı olan limanlarda karayoluna alternatif çözümler sunmaktadır.Multimodal taşımacılık, konteyner tamir, bakım-onarım ve yolcu gemilerinin liman acenteliği alanında faaliyet göstermektedir.Medlog, hizmetlerinin kapsadığı geniş coğrafya açısından dünyanın en büyük iç ulaşım ve lojistik sağlayıcılarından biridir ve 70 ülkede faaliyet göstermektedir.Msc Holding SA İsviçre merkezlidir.Türkiye’de, İstanbul merkez olmak üzere Tekirdağ, İzmir, Bursa, Mersin, Ankara, Eskişehir, Kocaeli, Trabzon, Antalya, Gaziantep ve Hatay’da şubeleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Gürok Kiremit",
+    "description": "Gürok Kiremit, 1982 yılında kurulan Gürok Holding bünyesinde üretilen su geçirmeyen silikonlu kiremit markasıdır.Ürün yelpazesinde kiremitler, mahyalar, kiremit aksesuarları, çatı aksesuarları, yağmur indirme sistemleri, çatı pencere ve aksesuarları yer almaktadır.Kütahya merkezli Gürok Kiremit, iki ayrı fabrikada üretim yapmaktadır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bayeks Agro",
+    "description": "Bayeks Agro, 2009 yılında kurulan Bayeks Agro Gıda San. ve Tic. A.Ş. bünyesindeki bakliyat, tahıl, kuruyemiş ürünleri markasıdır.Mersin ve Hatay’da yerleşik olarak faaliyetlerini sürdüren, geniş ürün yelpazesine sahip bir tedarikçi firmadır. Ortadoğu, Kuzey Afrika ülkelerine ihracat yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

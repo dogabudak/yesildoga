@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Jujube",
+    "description": "Jujube, 1963 yılında kurulan Gülören Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen kız bebek elbisesi, bebek zıbını, etek ve gri tişört takımı, bebek elbise seti markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Özgül Et",
+    "description": "Özgül Et Nerenin Malı MarkasıÖzgül Et, 1960 yılında kurulan Özgül Et ve Et Mamülleri San. Tic. Ltd. Şti. bünyesinde üretilen sucuk, salam, sosis, pastırma, kavurma ve füme et ürünleri markasıdır.Eskişehir merkezli firmanın ürün yelpazesinde ayrıca süt ürünleri, peynir, tereyağı, zeytin, zeytinyağı, bal ve çemen yer almaktadır.ISO 9001, ISO 22000, HACCP belgelerine sahiptir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fragrance Oils",
+    "description": "Fragrance Oils, 1967 yılında Denis Carter tarafından kurulan Fragrance Oils (International) Limited bünyesindeki parfüm esansları, ince koku, kişisel bakım, hava ve ev temizliği sektörlerinde kullanılmak üzere doğal bitki özleri, koku yağları markasıdır.Fragrance Oils (International) Limited İngiltere merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "DW Türkçe",
+    "description": "Deutsche Welle (DW), 1953 yılında kurulan Deutsche Welle Gmbh bünyesindeki 30 dilde radyo, televizyon ve internet üzerinden yayın yapan medya kuruluşu markasıdır.Deutsche Welle Gmbh Almanya devletine aittir.DW Türkçe 1962 yılında faaliyete başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Duaderm",
+    "description": "Duaderm, 2010 yılında kurulan Akra Group Kozmetik ve İlaç San. ve Tic. A.Ş. bünyesinde üretilen cilt, saç ve vücut için dermotolojik ürünler markasıdır.Firmanın ürün yelpazesinde şampuanlar veya saç kremleri, beyazlatma ürünleri, bronzlaştırıcı, cilt bakımı, doğal ve organik, güneş bakımı ürünleri, helal cilt bakımı, helal kozmetik, kozmetik ve cilt bakımı, makyaj malzemeleri, makyaj malzemeleri, saç bakımı, saç, tırnak ve salon malzemeleri, spa ürün bakımları, vücut bakımı, vücut geliştirme, yüz bakımı, yaşlanma karşıtı ürünler yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

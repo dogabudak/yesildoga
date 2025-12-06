@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Alverde Bitki Koruma",
+    "description": "Alverde, 1865 yılında kurulmuş olan Basf SE bünyesinde üretilen bitki koruma ürünleri markasıdır.Domates güvesi, yeşilkurt ve prodenya ile mücadele için ürünler sunmaktadır.Basf SE Almanya merkezlidir. Türkiye’de Basf Türk Kimya San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ascenza",
+    "description": "Ascenza, 1965 yılında kurulmuş olan Ascenza Agro S.A. bünyesinde üretilen bitki koruma ürünleri markasıdır.Ascenza Agro S.A. Portekiz merkezlidir. Rovensa Grubunun bir parçasıdır. 30 ülkede doğrudan varlığı olan 80’den fazla ülkede mahsul koruma, biyonütrisyon ve biyokontrol pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Arysta Lifescience",
+    "description": "Arysta Lifescience, Arysta Lifescience Corporation bünyesindeki mahsul koruma, biyosolüsyonlar ve tarımsal çözümler markasıdır.Şirket, mahsulleri yabani otlardan, böceklerden ve hastalıklardan korumak için biyolojik uyarıcılar, beslenme ve biyolojik kontrol ürünleri dahil olmak üzere biyosolüsyonlar sunmaktadır.Arysta Lifescience Corporation 2018 yılında Hindistan merkezli UPL Limited. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "LU Belvita",
+    "description": "LU Belvita, 1998 yılında üretilen kahvaltılık bisküvi markasıdır.Glikoz şurubu içermektedir. Yapay renklendirici ve tatlandırıcı içermemektedir.Amerika merkezli Mondelez International Inc. bünyesindedir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "SMA Mama",
+    "description": "SMA, 1866 yılında kurulmuş olan Nestlé SA bünyesindeki hazır bebek mamaları markasıdır.Süt, soya ve ballık yağı içerir.Nestlé SA İsviçre merkezlidir. Türkiye’de Nestlé Türkiye Gıda San. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

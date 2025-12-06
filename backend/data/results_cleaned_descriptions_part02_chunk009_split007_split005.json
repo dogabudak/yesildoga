@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Protex",
+    "description": "Protex, 1806 yılında William Colgate tarafından kurulan Colgate Palmolive Company bünyesindeki kişisel bakım ürünleri markasıdır.1985 yılında Protex sabunu piyasaya sürüldü.Colgate Palmolive Company Amerika merkezlidir.Colgate Palmolive Türkiye 1985 yılında Türkiye’de faaliyetlere başladı. Adana’da şampuan, diş macunu, deterjan ve çamaşır suyu üretimine geçti.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Png Kozmetik",
+    "description": "Png Kozmetik, 2012 yılında kurulan Png Kozmetik Ürünleri Pazarlama ve Dağıtım Sanayi Ticaret Limited Şirketi bünyesindeki Ağda Seti, Tüy Dökücü Kremler, Tüy Sarartıcı Krem, Ağda Sonrası Bakım, Ağda Bezleri, Saç Bakımı, Bebek Grubu, Hazırlayıcı Kozmetik, Profesyonel Bakım – Ağda Makineleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Moments Parfümüdür",
+    "description": "Moments, 1957 yılında kurulan Hunca San. A.Ş. bünyesindeki koku markasıdır.Moments ilk kez 2013 yılında kadınlar için üretildi ve Day, Night, Summer, Weekend gibi farklı kokulara sahiptir.Hunca şirketler grubu, yüzde yüz yerli sermayeli Türk kozmetik endüstrisinin en köklü kuruluşlarından biridir. Bünyesindeki markalar hem Dünyada hem de Türkiye’de büyük ilgi görmektedir.Hunca Kozmetik, tüm ürünlerini Tekirdağ, Çerkezköy OSB’de kurulu üretim tesisinde üretmektedir. 22 dönüm arazi üzerine kurulu Çerkezköy Üretim Tesisi 16 bin 500 metrekare kapalı alana sahiptir.Hunca Kozmetik bünyesindeki markalar:CALDIONCARMINELLAEQUALEXTORYHUNCA CAREIRONYİVRİNDİJAGLERMOMENTSPROMISESHESHE IS MISSSOFTTHORNEVIVACAPPIO",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kia Motor",
+    "description": "Kia, 1944 yılında kurulan Kia Motors Corporation bünyesindeki Otomobil, Lüks arabalar, Ticari araçlar markasıdır.1998 yılında Hyundai Motor Company tarafından satın alındı. Kia Motors’un yüzde 33,88 hissesini elinde bulunduran Hyundai Motor Company Güney Kore merkezlidir.Kia Motors 8 ülkede 13 üretim ve montaj operasyonuna sahiptir.Kia Motors’un Türkiye dağıtıcısı ise Anadolu Grubu kuruluşu olan Çelik Motor’dur.Modeller:BongoCeedCeed SWNiroPICANTORIOSorentoSportageStingerStonic",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Call of Duty",
+    "description": "Call of Duty, 2008 yılında iki şirketin birleşmesiyle kurulan Activision Blizzard, Inc. bünyesinde geliştirilen bilgisayar oyunudur.Activision Blizzard, Inc. sahibi 1853 yılında kurulan çok uluslu Fransa merkezli bir medya şirketi Vivendi SA’dır.Vivendi televizyon, film, müzik, telekomünikasyon, video oyunları, bilet ve video yayın hizmeti alanlarında faaliyet gösteriyor.Oyunun çalıştığı Platformlar:AndroidBlackberryMac OS XMicrosoft WindowsNintendo DSNintendo GameCubeNokia N-GagePlayStation 2PlayStation 3PlayStation 4PlayStation PortableWiiXboxXbox 360Xbox OneiOS",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

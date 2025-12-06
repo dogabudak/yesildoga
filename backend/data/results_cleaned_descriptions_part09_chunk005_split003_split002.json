@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Xsoul",
+    "description": "XsoulActionable Process LLC bünyesindeki tüy alma cihazları, saç kesme aletleri, makasları markasıdır.Actionable Process LLC Amerika merkezlidir",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ünal Peynir",
+    "description": "Ünal Peynircilik1994 yılında kurulmuş olan Ünal Peynircilik İthalat İhracat Tic. Ltd. Şti. bünyesinde üretilen eski kaşar, lor, sürülebilir, taze kaşar ve beyaz peynirler, tereyağı, yöresel ürünler markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma Tekirdağ merkezlidir ve ürünlerini Tekirdağ’da 12 bin 500 metrekarelik kapalı alan olmak üzere toplam 25 bin metrekarelik alanda bulunan tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tikun Olam",
+    "description": "Tikun Olam2005 yılında kurulmuş olan Tikun Olam Cannbit Pharmaceuticals Ltd. bünyesinde üretilen tıbbi kenevir markasıdır.Tikun Olam Cannbit Pharmaceuticals Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Robin&Odin",
+    "description": "Robin & Odin2022 yılında kurulmuş olan Fm Farma Grup Dış Tic. San. Ltd. Şti. bünyesindeki saç boyası, cilt bakımı markasıdır.Amonyak içermez. Tamamı bitkisel içeriklidir.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fo Topping",
+    "description": "Fo ToppingFo, 1988 yılında kurulmuş olan Özmer Pastacılık ve İçecek Ürünleri San. Paz. Tur. ve Dış Tic. A.Ş. bünyesindeki dondurma ve tatlı sosları markasıdır.ISO 9001, ISO 22000, CE ve Helal belgelerine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

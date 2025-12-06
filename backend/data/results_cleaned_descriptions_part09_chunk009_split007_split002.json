@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Zeyteen",
+    "description": "“Zeyteen“2004 yılında kurulmuş olan Olivos Pazarlama İç ve Dış Tic. A.Ş. bünyesinde üretilen katı sabun markasıdır.Firma Balıkesir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Grasidim",
+    "description": "“Grasidim“1946 yılında kurulmuş olan Sipcam Oxon S.P.A. bünyesinde üretilen tarım ilacı markasıdır.Sipcam Oxon S.P.A. İtalya merkezlidir. İtalya, İspanya ve Brezilya’da tesislere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Karl Karlo",
+    "description": "“Karl Karlo“2018 yılında kurulmuş olan 10x Innovation Gmbh & Co. Kg bünyesindeki çikolata barlar ve atıştırmalıklar markasıdır.Ürünleri yapay kaykı maddeleri ve gluten içermemektedir.10x Innovation Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fructomat",
+    "description": "“Fructomat“1995 yılında kurulmuş olan Asco Drink Machines Produktions- & Handelsgmbh bünyesindeki içecek makineleri, otomatları markasıdır.Asco Drink Machines Produktions- & Handelsgmbh Avusturya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Mamma Mie",
+    "description": "“Mamma Mie“1990 yılında kurulmuş olan As Besin Gıda San. ve Tic. Ltd. Şti. bünyesindeki yiyecekler markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

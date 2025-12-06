@@ -1,0 +1,50 @@
+[
+  {
+    "company": "3d-Laserscan",
+    "description": "3d Laserscan1933 yılında kurulmuş olan Karl Heesemann Maschinenfabrik GmbH & Co. KG bünyesinde üretilen zımpara makineleri markasıdır.Zımpara makineleri, plak endüstrisinde mobilya, kapı ve ahşap üretimi, el sanatları ve iç tasarımın yanı sıra şeritlerin üretimi için kullanılmaktadır.Karl Heesemann Maschinenfabrik GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Vettore",
+    "description": "Vettore1990 yılında kurulmuş olan Aksan Mobilya Paz. ve San. Tic. A.Ş. bünyesinde üretilen mobilya markasıdır.Firma İstanbul merkezlidir. Ürünlerini Silivri’de bulunan 25 bin metrekarelik kapalı alana sahip tesisinde üretmektedir ve 25 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Powerbar",
+    "description": "Powerbar1986 yılında kurulmuş olan Active Nutrition International Gmbh bünyesinde üretilen enerji barları, spor içecekleri, yenilebilir jeller markasıdır.Active Nutrition International Gmbh 2014 yılında Amerika merkezli Premier Nutrition Company LLC tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tether Tools",
+    "description": "Tether Tools2018 yılında kurulmuş olan Imaging Brands Inc. bünyesindeki fotoğraf ekipmanı ve fotoğraf aksesuarları, bağlama aksesuarları, bilgisayar masaları markasıdır.Şirket, bağlı çekim yapmak ve görüntüleri kameradan seçilen ekrana anında aktarmak için fotoğraf ekipmanı ve aksesuarları sunar.Imaging Brands Inc. Amerika merkezlidir.Bünyesindeki markalar;FrioSmart ShooterTether Tools",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Flakefest",
+    "description": "Flakefest2011 yılında kurulmuş olan Merkay Grup Gıda San. ve Tic. Ltd. Şti. bünyesindeki kahvaltılık gevrek, mısır gevreği, tahıl gevreği markasıdır.ISO 9001, ISO 22000, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Ankara merkezlidir ve ürünlerini 7 bin 500 metrekarelik kapalı alana sahip tesisinde üretmektedir.Bünyesindeki markalar;Aller BebeCroccateEfruzeFevkaladeFlakefestMerkayTotsiUnicorn",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

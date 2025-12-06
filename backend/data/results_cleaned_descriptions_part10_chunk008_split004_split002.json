@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Mirka",
+    "description": "1943 yılında kurulmuş olan Mirka Ltd. bünyesinde üretilen zımparalama aletleri ve ekipmanları markasıdır.Mirka Ltd. Finlandiya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Mares",
+    "description": "Belron Group S.A. bünyesindeki araç camı ve yedek parça markasıdır.Belron Group S.A. Belçika merkezli D’Ieteren SA bünyesindedir.Bünyesindeki markalar;AutoglassCarglassLebeauO’BrienSafeliteSmith&Smith",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Mamba",
+    "description": "1903 yılında kurulan August Storck KG bünyesinde üretilen meyve aromalı çiğneme şekeri markasıdır.August Storck KG Almanya merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "SarFresh",
+    "description": "2012 yılında kurulmuş olan Damra Ambalaj San. ve Tic. Ltd. Şti. bünyesinde üretilen streç film markasıdır.BPA ve Ftalat içermez. ISO 9001, ISO 14001, ISO 22000, ISO 45001 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Hadimköy’de 5 bin metrekarelik kapalı alanda üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Startpege",
+    "description": "2006 yılında kurulmuş olan Surfboard Holding B.V. bünyesindeki arama motoru markasıdır.Surfboard Holding B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

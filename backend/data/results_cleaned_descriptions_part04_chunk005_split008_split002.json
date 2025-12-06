@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Peterbilt",
+    "description": "Peterbilt, 1939 yılında kurulan Peterbilt Motors Company bünyesindeki orta ve ağır sınıf kamyon markasıdır.Peterbilt Motors Company 1958 yılında PACCAR Inc. tarafından satın alındı.PACCAR Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Becks Plastilin",
+    "description": "Becks Plastilin, 1968 yılında kurulan Freundeskreis Mensch e. V. oyun hamurları ve yoğurma oyunları markasıdır.ISO 9001 belgesine sahiptir.Freundeskreis Mensch e. V. Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Magnat",
+    "description": "Magnat, 1973 yılında kurulan Magnat Audio-Produkte GmbH bünyesindeki Hi-fi elektronik markasıdır.Ses sistemleri konusunda uzmanlaşmıştır.Magnat Audio-Produkte GmbH 1992 yılında Amerika merkezli Voxx International tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Damson",
+    "description": "Damson, 2012 yılında kurulan Damson Global Holdings Ltd. bünyesindeki kulaklık, hoparlör, taşınabilir şarj cihazı ve aksesuarlar markasıdır.Damson Global Holdings Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Divoom",
+    "description": "Divoom, 2006 yılında kurulan Divoom Lab İnternational Co.,Limted. bünyesinde üretilen bluetooth hoparlör, mobil ve tablet hoparlör, mp3 hoparlör, bilgisayar hoparlörü markasıdır.Divoom Lab İnternational Co.,Limted Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

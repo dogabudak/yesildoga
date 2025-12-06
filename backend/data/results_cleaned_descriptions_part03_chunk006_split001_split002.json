@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Takamine",
+    "description": "Takamine, 1962 yılında kurulan Takamine Co., Ltd. bünyesindeki enstrümanlar, akustik gitarlar markasıdır.Takamine çelik telli akustik gitarları ile tanınır.Takamine Co, Ltd Japonya merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Atkinsons",
+    "description": "Atkinsons, 1993 yılında kurulan Morris Profumi S.P.A. bünyesinde üretilen kolonyalar, kokular itriyat malzemesi, diş ve saç müstahzaratı ve kokulu sabunlar, tuvalet malzemesi, cam vs. şişeler markasıdır.Parfüm ve kozmetik şirketi Morris Profumi S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Alfoam",
+    "description": "Alfoam, 1972 yılında Lokman Yılmaz tarafından kurulan Al Nalburiye Hırdavat San. Tic. ve Ltd. Şti. bünyesinde üretilen dolgu köpükleri markasıdır.Firmanın bünyesinde elektrikli ve elektrikli olmayan el aletleri, zımpara taşı, rulo bant ve su zımparası, seramik ve fayans kesme makineleri, testere, kalıp malzemeleri ve yardımcı ekipmanları, marangoz makineleri ve ekipmanları, beton ve inşaat makineleri, kaynak makineleri, su motoru, kaldırma ve taşıma makineleri, her türlü kilit ve menteşe, kapı kolu, pencere mandal çeşitleri, mobilya ve mutfak aksesuarları, musluk, batarya ve her türlü tesisat malzemeleri vida, cıvata, çivi çeşitleri, bahçe ve hobi aletleri, yapı kimyasalları, silikon ve köpükler, güvenlik kamerası, otomatik kilitleme sistemleri gibi birçok ürün çeşidi bulunmaktadır.ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.Bünyesindeki markalar:AlAl Al NalburiyeAl PinsAl Sand AlAl WeldersAlfoamAlmarinAlsilMotobarTurker",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hascevher",
+    "description": "Hascevher, 1993 yılında kurulan Hascevher Metal San. ve Tic. A.Ş. bünyesinde üretilen tencere setleri, düdüklü tencereler, kuskus tencereler, çaydanlıklar, cezveler, seramik tencereler, granit tencereler ve makarna tencereleri markasıdır.Türkiye’nin en büyük çelik tencere üreticisi Hascevher, Kahramanmaraş Küçük Sanayi Sitesinde yüzde 100 yerli sermaye ile ürünlerini üretmektedir. Ürünlerini 87 ülkeye ihraç etmektedir.Madrid protokolüne göre 30’dan fazla ülkede markası tescillenmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Raco Expert",
+    "description": "Raco Expert, 1971 yılında kurulan Ricomaster Enterprise Corp. bünyesinde üretilen el aletleri, el baltaları, törpüler, bahçe kürekleri, tırmık, testere, kırpma bıçağı, ot yolma çatalı, meyve toplayıcı el aletleri, çapa, el matkabı, bitki aşılama için el aletleri, bileme aletleri, bahçıvan makası, bahçe çatalı, bahçe malası, çim biçici, budama makası, ağaç budama makası, budama bıçağı, kırkma makası ve tüm bu aletlerin yedek parçaları, bahçecilik aletleri, böcek öldürücüler için el spreyleri markasıdır.Ricomaster Enterprise Corp. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.El Aletleri ve Bahçe ekipmanları üreticisi Raco ürünlerini Avustralya, Avusturya, Belçika, Kıbrıs, Danimarka, Finlandiya, Fransa, Almanya, Yunanistan, Macaristan, İtalya, Kuveyt, Hollanda, Yeni Zelanda, Norveç, Polonya, Portekiz, Rusya, Suudi Arabistan, Sırbistan, Karadağ, Güney Afrika, İspanya, İsveç, İsviçre, Tayland, Türkiye, BAE, Birleşik Krallık gibi ülkelere ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

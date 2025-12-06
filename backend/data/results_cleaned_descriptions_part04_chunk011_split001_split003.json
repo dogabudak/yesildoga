@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kudos Fishing",
+    "description": "Kudos Fishing, 2002 yılında kurulan Kudos Fishing Tackle Co. Ltd. bünyesinde üretilen balık avı malzemeleri markasıdır.Firma balıkçılık için kuleler vb. çeşitli olta takımları, balıkçılık çantaları, teraziler gibi tüm olta takımı aksesuarlarına odaklanmıştır.WeiHai Kudos Fishing Tackle Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Rijk Zwaan",
+    "description": "Rijk Zwaan, 1924 yılında Rijk Zwaan tarafından kurulan Rijk Zwaan Zaadteelt en Zaadhandel B.V. bünyesinde üretilen tohum, bitki ürünleri markasıdır.Firma dünyada ilk 5 sebze tohumu şirketi arasındadır.Rijk Zwaan Zaadteelt en Zaadhandel B.V. Hollanda merkezlidir. 1992 yılından beri Türkiye’de 170 dönüm alanda kurulan alanda üretim yapmaktadır. 30 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Bejo",
+    "description": "Bejo, 1993 yılında kurulan Bejo Zaden B.V. bünyesinde üretilen sebze tohumları markasıdır.Sebze tohumlarının yetiştirilmesi, üretimi ve satışı konusunda 30’dan fazla ülkede faaliyet göstermektedir.Bejo Zaden B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Florimond Desprez",
+    "description": "Florimond Desprez, 1830 yılında Jean-Baptiste Auguste Desprez tarafından kurulan Maison Florimond Desprez SAS bünyesinde üretilen tarım ürünleri markasıdır.Şirket şeker pancarı, yem pancarı, hindiba, buğday, arpa, tritikale, makarnalık buğday, bezelye proteini, acı bakla ve patates tohumları sunmaktadır.Maison Florimond Desprez SAS Fransa merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Pennington",
+    "description": "Pennington, 1998 yılında kurulan Pennington Seed, Inc. bünyesinde üretilen süs bitkileri ve diğer fidanlık ürünler markasıdır.Çim tohumu, toprak değişiklikleri, gübreler ve yabani kuş tohumları üretmektedir.Pennington Seed, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

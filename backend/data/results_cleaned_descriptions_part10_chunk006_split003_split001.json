@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kinzo",
+    "description": "1978 yılında kurulmuş olan EDCO Eindhoven B.V. bünyesindeki el aletleri ve elektrikli aletler, araba aktarımları, elektrikli ekipmanlar ve aydınlatma, banyo aksesuarları markasıdır.EDCO Eindhoven B.V. Hollanda merkezlidir, ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Mangnimore",
+    "description": "2011 yılında kurulmuş olan TAB İlaç San. A.Ş. bünyesindeki takviye edici gıda markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Le Meridien",
+    "description": "1927 yılında kurulmuş olan Marriott International Inc. bünyesindeki lüks oteller zinciri markasıdır.Marriott International Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "X-Lite",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nubia",
+    "description": "2012 yılında kurulmuş olan Nubia Technology Co. Ltd. bünyesinde üretilen akıllı telefon markasıdır.Nubia Technology Co. Ltd. Çin merkezli Zte Corporation bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

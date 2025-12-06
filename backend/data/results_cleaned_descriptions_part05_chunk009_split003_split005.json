@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Pure Body Naturals",
+    "description": "Pure Body Naturals, Jonathan Stevens tarafından kurulan Pure Body Naturals LLC bünyesinde üretilen sağlık ve güzellik ürünleri markasıdır.Yapay kimyasallar ve dolgu maddeleri içermeyen ürünleri doğal malzemelerle formüle edilmiştir. Ürünleri hayvanlar üzerinde test edilmemektedir.Pure Body Naturals LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dermosept",
+    "description": "Dermosept, 2004 yılında kurulan Alg İlaç San. Tic. Ltd. Şti. bünyesinde üretilen medikal ürünler, dezenfektan ve antiseptik, kulak burun boğaz ürünleri, kişisel bakım ürünleri markasıdır.İstanbul merkezli firma ürünlerini 30’dan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;MultiplusDermoseptBunny",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yamuna",
+    "description": "Yamuna, 2016 yılında kurulan Mela Group Tekstil İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen vücut şekillendirici korse markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 45001 belgelerine sahiptir.Türkiye’de üretim yapan firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "E.L.F. Eyes Lips Face",
+    "description": "E.L.F. Eyes Lips Face, 2004 yılında Joseph Shamah ve Scott Vincent Borba tarafından kurulan e.l.f. Cosmetics Inc. bünyesinde üretilen göz, dudak ve yüz, cilt bakım ürünleri, makyaj malzemeleri markasıdır.Ürünleri ftalat, paraben, nonilfenol etoksilatlar, triklosan, triklokarban, hidrokinon, sülfat içermez. Hayvanlar üzerinde test edilmemektedir.e.l.f. Cosmetics Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Youngblood",
+    "description": "Youngblood, 1996 yılında Pauline Youngblood tarafından kurulan Youngblood Mineral Cosmetics LLC bünyesinde üretilen cilt bakım ürünleri, makyaj markasıdır.Ürünleri kimyasallar, boyalar ve koruyucu içermez.Youngblood Mineral Cosmetics LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

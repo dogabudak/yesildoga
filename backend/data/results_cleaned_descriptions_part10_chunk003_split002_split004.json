@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Opus",
+    "description": "1974 yılında kurulmuş olan Opus Group AB bünyesindeki otomotiv test cihazları, araç muayene sistemleri ve filo yönetim sistemleri, uzaktan emisyon ve hız test sensörleri markasıdır.Opus Group AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "VTV Norte",
+    "description": "VTV Norte S.A. bünyesindeki araç muayene ve teknik denetim hizmetleri markasıdır.VTV Norte S.A. 2018 yılında İsveç merkezli Opus Group AB tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Feza Akü",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ayolis",
+    "description": "2021 yılında kurulmuş olan Şairoğulları Tarım Gıda Turizm San. ve Tic. A.Ş. bünyesindeki zeytinyağı, zeytin, baharat markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fucicort",
+    "description": "1908 yılında kurulan ve çoğunluğu LEO Vakfı’na ait olan LEO Pharma A/S bünyesinde üretilen cilt hastalıkları için krem markasıdır.LEO Pharma A/S Danimarka merkezlidir. 100 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

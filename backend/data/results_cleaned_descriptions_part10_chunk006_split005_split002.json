@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Lucky Brand",
+    "description": "2010 yılında kurulan Authentic Brands Group LLC. bünyesindeki gömlek, ceket, kot pantolon ve aksesuarları markasıdır.Authentic Brands Group LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Castaner",
+    "description": "1927 yılında kurulmuş olan Calzado Banyoles S.L. bünyesindeki ayakkabı markasıdır.Calzado Banyoles S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Bezuar Energy",
+    "description": "2021 yılında kurulmuş olan Continent LLC bünyesindeki enerji içeceği markasıdır.Continent LLC Rusya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Ali Kama",
+    "description": "2011 yılında kurulmuş olan Ali Kama Gıda Tarım Turz. San. ve Tic. Ltd. Şti. bünyesinde üretilen tahin ve helva markasıdır.Ürünkeri katkısız ve koruyucusuzdur.Firma Aydın merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Züger",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

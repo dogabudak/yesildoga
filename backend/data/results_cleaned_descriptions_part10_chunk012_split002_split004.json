@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Diptyque Paris",
+    "description": "1961 yılında kurulmuş olan Diptyque SAS. bünyesindeki parfüm ve mum markasıdır.Diptyque SAS. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Grüne Kraft",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mosconi",
+    "description": "1985 yılında kurulmuş olan Orca Design & Mfg. Corp. bünyesinde üretilen mobil ses uygulamaları için amplifikatörler ve işlemciler markasıdır.Orca Design & Mfg. Corp. Amerika merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cartrend",
+    "description": "Nigrin, 1962 yılında kurulan MTS Group bünyesindeki araçlar için silecekler, ampuller, buzluklar, kar zincirleri ve karavan gibi özel alanlara yönelik temalı ürünler, pasta makineleri ve çeşitli aletler gibi tamir ve hobi amaçlı ürünler markasıdır.MTS Group Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Birgundekargo",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

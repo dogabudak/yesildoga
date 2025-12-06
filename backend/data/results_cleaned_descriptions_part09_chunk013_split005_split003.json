@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Choko’m",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Emborg",
+    "description": "1947 yılında kurulmuş olan Emborg Foods A/S bünyesinde üretilen süt ürünleri, taze dondurulmuş sebze ve meyveler markasıdır.Emborg Foods A/S Danimarka merkezidir ve ürünlerini 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Faithheart",
+    "description": "2020 yılında kurulmuş olan Guangzhou PinLian E-Business Co. Ltd. bünyesinde üretilen kadın kıyafetleri, şifon gömlekler, tişörtler, kapüşonlular, spor giyim setleri, 3d kapüşonlular, tozluklar ve diğer giyim serileri markasıdır.Guangzhou PinLian E-Business Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dareu",
+    "description": "2006 yılında kurulmuş olan Dongguan Togran Electronics Technology Co. Ltd. bünyesindeki oyun klavyesi, oyun fareleri, oyun kulaklığı markasıdır.Dongguan Togran Electronics Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bilstein",
+    "description": "1873 yılında August Bilstein tarafından kurulmuş olan Thyssenkrupp Bilstein Gmbh bünyesindeki amortisörler ve süspansiyonlar markasıdır.Thyssenkrupp Bilstein Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

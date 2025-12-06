@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ban Co",
+    "description": "Ban Co, 2005 yılında kurulan Volkan Ticaret bünyesinde ithal edilen taşlama makinesi, zımpara makinesi, polisaj makinesi, el aletleri, çim biçme makinesi, çim kesme makası, şakül, şerit metre, boya makinası, torna, bıçkı, badana makinesi, basınçlı hava veya sıvı püskürtücü makineler için tabancalar, biley taşları ve çarkları, boru anahtarı, boya püskürtme tabancası, dekupaj makinesi, diş açma makinesi, elektrikli el matkabı, elektrikli olmayan havya, elektrikli yapıştırıcı tabancalar, elektrikli zımbalama makinesi ve tabancaları, endüstriyel biley makinesi, freze, ilaçlama pompası, inşaat, ingiliz anahtarı, kırık metre, kerpeten, keski makinesi, keski, kriko, lokma takımı, manivela, mekanik matkap, mezura, motorlu el testeresi, planya, plastik enjeksiyon makinesi, spatüla, spiral makine, su terazisi, tırpan gibi ürünlerin markasıdır.Ban Co markalı ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Marjay",
+    "description": "Marjay, Marjay Electronics bünyesindeki araç elektroniği, usb kablolar, şarj cihazları ve adaptörler markasıdır.Ürünleri arasında manyetik USB kablosu yer almaktadır.Marjay Electronics Kanada merkezlidir ve ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Diesel Fitness",
+    "description": "Diesel Fitness 1993 yılında kurulan İnterspor Dış Tic. A.Ş. bünyesinde ithal edilen jimnastik ve spor aletleri ile malzemeleri markasıdır.Geniş seçeneklere sahip cardio ekipmanları ve ağırlık makineleri sunmaktadır.Ticari Fitness Ekipmanları; Amerika, Tayvan, İngiltere ve Çin’den ithal edilmektedir.Bünyesindeki markalar:Diesel FitnessProFitness",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Patek Philippe",
+    "description": "Patek Philippe, 1839 yılında Antoni Patek, Franciszek Czapek, Adrien Philippe tarafından kurulan Patek Philippe SA bünyesindeki lüks saat markasıdır. Şirket 1932 yılından bu yana Stern ailesine aittir.En karmaşık mekanik saatleri tasarlar ve üretir.Patek Philippe SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Audemars Piguet",
+    "description": "Audemars Piguet, 1875 yılında Jules Louis Audemars ve Edward Auguste Piguet tarafından kurulan Audemars Piguet Holding SA bünyesinde üretilen lüks mekanik kol ve cep saatleri markasıdır. Şirket kuruluşundan bu yana aile şirketidir.Audemars Piguet Holding SA, İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

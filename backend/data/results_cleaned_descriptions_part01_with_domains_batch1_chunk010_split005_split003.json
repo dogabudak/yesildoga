@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Corelli",
+    "description": "Sahibi Kim",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-03-21"
+  },
+  {
+    "company": "İfrogz",
+    "description": "İfrogz, 2006 yılında kurulan; hoparlör kulaklık gibi dijital ses aksesuarları markasıdır.2011 yılında Zagg, Inc. bünyesine girmiştir.Zagg, Inc. Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alpha Tools",
+    "description": "Alpha Tools, 1986 yılında kurulan doğal / mühendislik taş, porselen, seramik, cam, inşaat, deniz ve otomotiv sektörlerinde kullanılan aletlerin üreticisidir.Her türlü malzemeyi kesen, delen, şekillendiren ve parlatan ürünleri sağlar.Alpha Professional Tools Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vilmorin",
+    "description": "“Vilmorin“1743 yılında kurulmuş olan Vilmorin & Cie SA bünyesindeki tohum markasıdır.Tohumlar, fideler ve diğer tarım ürünleri üretir ve satar.Fransa merkezli Vilmorin & Cie SA 2007 yılında tarım kooperatifi Limagrain’in bir parçası oldu.Anadolu Tohum firmasıyla 2008 yılında birleşerek Vilmorin Anadolu Tohumculuk markası oluşturuldu.Hissedarları:Limagrain (yüzde 70,2)Etat français (yüzde 5,7)Norges Bank Investment Management (yüzde 2,3)Dimensional Fund Advisors (yüzde 0,96)The Vanguard Group (yüzde 0,62)GMO: (Grantham, Mayo, Van Otterloo & Co.) (yüzde 0,34)NN Investment Partners (yüzde 0,31)Fourton Fund Management (yüzde 0,26)Schroder Investment Management (yüzde 0,24)AXA Investment Managers (yüzde 0,24)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-09-12"
+  },
+  {
+    "company": "Konami",
+    "description": "Konami, 1969 yılında Kagemasa Kozuki tarafından kurulan; bilgisayar, oyuncak ve eğlence sektörü markasıdır.Konami Group Japonya merkezli bir kuruluştur ve Japonya’nın en büyük 9. oyun şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Irish Spring",
+    "description": "Irish Spring, 1806 yılında kurulan Colgate-Palmolive Company bünyesinde üretilen deodorant, şampuan, sabun markasıdır.Colgate-Palmolive Company Türkiye’deki faaliyetlerine 1992 yılında Adana’da; şampuan, diş macunu, deterjan ve çamaşır suyu üreterek başladı.Colgate-Palmolive Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Creme 21",
+    "description": "Creme 21, 2003 yılında kurulan Creme 21 Gmbh bünyesinde üretilen kozmetik ve kişisel bakım ürünleri markasıdır.Creme 21 Gmbh 2019 yılında Emami Ltd. tarafından satın alındı.1974 yılında kurulan Emami Limited, Emami Group’un amiral gemisi şirketi olarak güzellik ve sağlık alanlarında faaliyet gösteren Hindistan’ın önde gelen kozmetik şirketlerinden biridir. Creme 21 Gmbh ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "M. Kappus",
+    "description": "M. Kappus Hangi Ülkenin Malı MarkasıM. Kappus, 1848 yılında kurulan Kappus Gmbh & Co. KG bünyesinde üretilen kişisel bakım ürünleri markasıdır.Şirket, meyve, çiçek, doğal, kokulu ve sıvı sabunların yanı sıra kremler ve losyonlar gibi sabun çeşitleri sunmaktadır.M. Kappus GmbH & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Usana",
+    "description": "Usana, 1992 yılında Myron Wentz tarafından kurulan Usana Health Sciences, Inc. bünyesindeki besin takviyeleri ve cilt bakım ürünleri markasıdır.Usana Health Sciences, Inc. Amerika merkezlidir. Ürünlerini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tunap",
+    "description": "Tunap, 1971 yılında kurulan Tunap Gmbh & Co. Kg bünyesindeki endüstriyel, teknik ve kozmetik uygulamalar için aerosoller ve aktif maddeler markasıdır.Saç bakımı, cilt bakımı ve kişisel bakım ürünleri üretmektedir.Tunap Gmbh & Co. Kg. Almanya merkezli Würth Group’un bir yan kuruluşudur. Almanya, Avusturya ve İsviçre’de dört fabrikaya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

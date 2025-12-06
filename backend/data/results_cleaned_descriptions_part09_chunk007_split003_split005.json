@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Escool Spor",
+    "description": ",“Escool“2012 yılında kurulmuş olan Escool Spor ve Spor Aletleri San. Tic. Ltd. Şti. bünyesinde üretilen spor aletleri, fitness aletleri, spor ekipmanları, spor salonu makineleri, kondisyon aletleri ve spor salonu ekipmanları markasıdır.Firma Bursa merkezlidir ve 3 bin 500 metrekarelik kapalı alana sahip fabrikasında üretim yapmaktadır.Bünyesindeki markalar;EcsEscoolFreeweightFreewolfJimsafety",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ASL Bitkisel",
+    "description": "“Vivetta“Aslan Bitkisel Üretim bünyesinde üretilen bitkisel yağ ve ekstrat markasıdır.Soğuk sıkım ürünleri katkısızdır. ISO 9001, Helal, GMP belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rockhard",
+    "description": "“Rockhard“1996 yılında kurulmuş olan Kozabiat Tekstil San. ve Tic. A.Ş. bünyesinde üretilen boxer, slip, atlet, pijama ve içgiyim ürünleri markasıdır.ISO 9001 belgesine sahiptir.İstanbul merkezli firma ürünlerini İstanbul ve Niğde fabrikalarında toplamda 18 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yalıspor",
+    "description": ",“Yalıspor“1989 yılında kurulmuş olan Yalı Spor Malzemeleri Ltd. Şti. bünyesindeki spor mağazalar zinciri markasıdır.Firma İzmir merkezlidir ve Türkiye çapında 30’a yakın mağazaya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Shareit",
+    "description": ",“Shareit“2013 yılında kurulmuş olan Smart Media4U Technology Pte. Ltd. bünyesindeki çevrimiçi ve çevrimdışı dosya ve içerik paylaşımını destekleyen eşler arası bir dosya paylaşımı, içerik akışı ve oyun platformudur.Smart Media4U Technology Pte. Ltd. Singapur merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  }
+]

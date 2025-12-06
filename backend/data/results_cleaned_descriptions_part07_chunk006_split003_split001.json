@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Easy Camp",
+    "description": "Easy Camp, 1984 yılında kurulan Oase Outdoors ApS bünyesindeki çadırlar ve kamp ekipmanları markasıdır.Oase Outdoors ApS Danimarka merkezlidir ve ürünlerini 45 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Ubiquiti Networks",
+    "description": "Ubiquiti Networks, 2005 yılında Robert Pera tarafından kurulan Ubiquiti Inc. bünyesindeki kablosuz veri iletişimi ve kablolu ürünler markasıdır.Ubiquiti Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pagerduty",
+    "description": "Pagerduty, 2009 yılında kurulmuş olan Pagerduty Inc. bünyesindeki bulut bilişim markasıdır.Olayları personele bildirmek için izleme araçlarından ve uygulamalarından uyarılar alan bulut yazılımı sağlar. Raporlama yöntemi yalnızca e-posta ile değil, aynı zamanda akıllı telefona sesli telefon, SMS ve push tipi mesajla da yapılabilir. Ayrıca hem iOS hem de Android’i destekleyen akıllı telefon uygulamaları sunar.Pagerduty Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fila Skates",
+    "description": "Fila Skates, M.G.M. S.p.A bünyesindeki paten, aksesuarlar markasıdır.M.G.M. S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Cimier",
+    "description": "Cimier, 1924 yılında kurulan Montres Cimier SA bünyesinde üretilen mekanik ve kuvars saatler markasıdır.Montres Cimier SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

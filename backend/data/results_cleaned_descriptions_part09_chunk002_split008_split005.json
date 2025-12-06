@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Nauka",
+    "description": "NaukaNauka Bio Sağlık Ürünleri A.Ş. bünyesindeki cilt bakımı, deodorant stick, dezenfektan sprey, erkek bakımı, göz çevresi bakımı, hidrolat ve doğal su, krem allık, saç bakımı markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pandish",
+    "description": "Pandish2004 yılında kurulmuş olan Arer Polimer A.Ş. bünyesinde üretilen silikon bebek ürünleri markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cinagro Goodies Honeymix",
+    "description": "Cinagro2020 yılında kurulmuş olan Cinagro Goodies Gıda Üretim İthalat ve İhracat Ltd. Şti. bünyesindeki kurutulmuş, dondurulmuş gıdalar markasıdır.Ürünleri katkı koruyucu, ilave şeker içermez.Firma İstanbul merkezlidir.Bünyesindeki markalar;AnthomixCinagro Goodies For HealthCinagro Goodies HoneymixHoneymixKetomix",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pastellab",
+    "description": "Pastellab1938 yılında kurulan Pinkar Kimya San. ve Tic. A.Ş. bünyesinde üretilen kişisel bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Labello",
+    "description": "Labello1882 yılında kurulmuş olan Beiersdorf AG bünyesinde üretilen dudak bakım çubukları markasıdır.Beiersdorf AG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.Bünyesindeki markalar;8×4ChantecailleCoppertoneEucerinFlorenaGammonHansaplastHidrofugalLa PrairieLabelloNiveaSkin StoriesTesa",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

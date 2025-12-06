@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Vonroc",
+    "description": "Vonroc, 2018 yılında kurulan Vonroc B.V. bünyesindeki elektrikli el aletleri aksesuarlar markasıdır.Sondaj makinelerinden testere makinelerine ve çok amaçlı el aletlerinden sıcak hava tabancalarına kadar VONROC, her türlü kapsamlı ve çok yönlü elektrikli ve el aleti yelpazesi sunar.Vonroc B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Oysters",
+    "description": "Oysters, 2010 yılında kurulan Oysters LLC bünyesindeki tablet, akıllı telefon, cep telefonu, DVR ve radar dedektörleri markasıdır.Sailfish işletim sistemli akıllı Oysters SF cihazının geliştiricisidir.Oysters LLC, tüketici elektroniği ürünleri geliştiren, üreten ve satan bir Rusya şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Everlight Electronics",
+    "description": "Everlight Electronics, 1983 yılında Robert Yeh tarafından kurulan Everlight Electronics Co, Ltd. bünyesindeki LED markasıdır.Akıllı telefonların arka aydınlatması, dizüstü bilgisayarlar ve televizyonlar için arka ışık ledler üretmektedir. Dünyanın yedinci büyük LED üreticisidir.Everlight Electronics Co, Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "HiBy",
+    "description": "HiBy, 2011 yılında kurulan taşınabilir ses ürünleri markasıdır.HiBy Music, taşınabilir dijital müzik çalar (DAS), kulaklık, Bluetooth kulaklık amfi, USB DACs, ile HiByMusic akıllı telefon ses oynatıcı uygulamasına sahiptir.HiBy Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Uniross",
+    "description": "Uniross, 1967 yılında kurulan şarj edilebilir pil, şarj cihazları ve endüstriyel pillerin markasıdır.Uniross Batterys SAS 2012 yılında Fransa’da tasfiye edilirken yatırımcılar, Büyük Britanya, Hong Kong ve Güney Afrika’daki marka ve yan kuruluşlarını devraldı ve işini sürdürüyor.Ürünlerini Çin’de üretmektedir.Bünyesindeki markalar:EncoreUltraLastUniross",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Tumar",
+    "description": "“Tumar“1998 yılında kurulmuş olan Tumar Art Group bünyesinde üretilen keçe ve keçe ürünleri markasıdır.Yüzde yüz yünden oluşan ayakkabılar, terlikler ve aksesuarlar üretmektedir.Tumar Art Group Kırgızistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KG",
+    "updated_date": null
+  },
+  {
+    "company": "Minemole",
+    "description": "“Minemole“1994 yılında kurulmuş olan Kırlıoğlu Kimya San. ve Tic. A.Ş. bünyesinde üretilen yer altı bulk emülsiyon şarj ünitesi markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Afyonkarahisar merkezlidir. Afyonkarahisar ve İzmir de tesislere sahiptir. Ürünlerini 45 ülkeye ihraç etmektedir.Bünyesindeki markalar;AnfoexDetexDetex ElectronicDynexMethanex",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Betatech Medikal",
+    "description": "“Betatech Medikal“2008 yılında kurulmuş olan Betatech Medikal Cih. San. Mümessillik İç ve Dış Tic. Ltd. Şti. bünyesindeki tek kullanımlık sarf malzemeler, cerrahi iplikler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zwickroell",
+    "description": "“Zwickroell“1854 yılında kurulmuş olan Zwickroell Gmbh & Co. KG bünyesindeki malzeme test sistemleri markasıdır.Zwickroell Gmbh & Co. KG Almanya merkezlidir. Türkiye’de ZwickRoell Malzeme Test Sistemleri San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Barudan",
+    "description": "“Barudan“1959 yılında kurulmuş olan Barudan Co. Ltd. bünyesinde üretilen nakış makinesi, üçlü kombinasyon makinesi, brode tipi makineler, geniş alanlı makineler, pullu makineler, süzene kombine makineler, tek kafalı makine, zikzak kombine makineler markasıdır.ISO 9001 belgesine sahiptir.Barudan Co. Ltd. Japonya merkezlidir. Ürünlerini Japonya’da üretmektedir ve 100’den fazla ülkeye pazarlamaktadır. 2009 yılından beri Türkiye’de Barudan Tekstil Makinaları İç ve Dış Ticaret Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

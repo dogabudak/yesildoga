@@ -1,0 +1,46 @@
+[
+  {
+    "company": "L’occitane",
+    "description": "L’occitane, 1976 yılında Olivier Baussan tarafından kurulan The L’OCCITANE Group bünyesindeki cilt bakımı, el ve vücut bakımı, saç bakımı, koku markasıdır. Şirketin yüzde 75 hissesi Avusturyalı iş adamı Reinold Geiger’e aittir. The L’OCCITANE Group Lüksemburg merkezlidir.Güzellik ürünleri ve yüz, vücut ve banyo için uçucu yağlar ve lavanta, verbena veya shea yağı gibi maddeler üretir.Ürünlerinde sürdürülebilir ve izlenebilir içerikler ve geri dönüştürülebilir ambalajlar kullanmaktadır. İçerikleri doğaya ve biyoçeşitliliğe zarar vermeden elde edilir.Firma plastik kirliliğine karşı mağazalarında geri dönüşüm kutuları sunmaktadır.Bünyesindeki markalar:ELEMISErborianL’Occitane en ProvenceL’Occitane au BrésilLIMELIFE BY ALCONELe Couvent des MinimesMelvita",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Ogan",
+    "description": "Ogan, 2000 yılında kurulan OGAN Endüstriyel Isı Hortum San. Ltd. Şti. bünyesindeki hortum markasıdır.Isıtmalı hortumları Türkiye’de üretmektedir. Tüv Süd sertifikasına sahiptir.Robotik sıcak mastik uygulaması, 2K tutkal hortumları, tüm sıcak yapıştırıcı uygulamaları, sıcak gıda transferleri, sıcak kozmetik ürünler, izolasyon maddeleri, bebek bezi üretim hatları, beyaz eşya, ahşap-mobilya üretimi ve özel uygulama sistemleri genel kullanım alanlarıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kitchenette",
+    "description": "Kitchenette, 2005 yılında Doğuş Holding A.Ş. iştiraki olan Nahita Restoran İşletmeciliği ve Yatırım A.Ş.’nin bağlı şirketi Havana Yayıncılık Turizm ve Gıda Paz. Tic. A.Ş.’ye ait olarak kurulan cafe, bar markasıdır.Kahvaltı, öğle yemeği, akşam yemeği, kahve ve içki hizmetleri vermektedir. Kitchenette’in kendi fırınından çıkan taze ekmeklerinden seçmek, pastalarını tatmak ya da take-away olarak almak mümkün.İstanbul, Kocaeli, Ankara, İzmir, Bodrum, Bakü ve Moskova olmak üzere toplam 11 şubesiyle faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Keen",
+    "description": "Keen, 2003 yılında kurulan Keen Inc. bünyesindeki ayakkabı, bot, giysi, çanta markasıdır.Şirketin ürünleri ABD ve Kanada genelinde perakende satış noktalarında satılmaktadır ve aynı zamanda dünya çapında dağıtılmaktadır.Keen Inc. Amerikan ayakkabı ve aksesuar şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Arduino",
+    "description": "Arduino, Massimo Banzi, David Cuartielles, Tom Igoe, Gianluca Martino ve David Mellis tarafından 2000 yılında Interaction Design Institute of Ivrea’da bir araştırma projesi olarak başladı. İtalya merkezli şirket, hemen hemen herkesin teknoloji konusunda yaratıcı olmasını sağlayan bir dizi yazılım aracı, donanım platformu ve dokümantasyon sunmaktadır.Arduino, dünya çapında 30 milyondan fazla aktif kullanıcıdan oluşan bir açık kaynak donanım, yazılım ve içerik platformudur.Dünyanın dört bir yanındaki yüz binlerce tasarımcı, mühendis, öğrenci, geliştirici ve yapımcı, müzik, oyun, oyuncak, akıllı evler, tarım, otonom araçlar ve daha fazlasını yenilik yapmak için Arduino’yu kullanıyor. Mühendisler ve hatta büyük şirketler tarafından kullanılan en popüler elektronik prototip aracı haline gelmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

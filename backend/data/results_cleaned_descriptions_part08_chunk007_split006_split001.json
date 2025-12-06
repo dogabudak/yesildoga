@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Thesimco",
+    "description": "Thesimco, Cesi Aromaterapi ve Kozmetik Ürünleri San. Tic. Ltd. Şti. bünyesinde üretilen vücut bakım ürünleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Adembaba",
+    "description": "Adembaba, 2017 yılında kurulmuş olan Akce Kuruyemiş Ltd. Şti. bünyesindeki kuruyemişler, lokum, şekerleme, çikolata, draje, kuru meyveler, kahve markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Splat Special Blackwood",
+    "description": "Splat Special Blackwood, 2000 yılında kurulmuş olan Splat Global LLC bünyesinde üretilen diş macunu, diş fırçaları, diş ipi, ağız gargaraları markasıdır.Ürünleri SLS/SLES, PEG, parabenler, triklosan, klorheksidin, sakarin, sentetik boyalar ve florür içermez.Splat Global LLC Rusya merkezlidir. Ürünlerini Rusya’da üretmektedir ve 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": "2024-01-13"
+  },
+  {
+    "company": "Biomed",
+    "description": "Biomed, 2011 yılında kurulmuş olan Skylab AG bünyesindeki ağız bakım ürünleri markasıdır.Skylab AG İsviçre merkezlidir.Bünyesindeki markalar;BiomedIssopWell Gum",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Üçtat Fındık Ezmesi",
+    "description": "Üçtat Fındık Ezmesi Nerenin Malı MarkasıÜçtat, 2022 yılında kurulmuş olan Üçtad Gıda İnşaat İthalat İhracat San Tic. Ltd. Şti. bünyesinde üretilen pestiller, muska pestil tatlısı, pestil köme, sarma pestil tatlısı, fındık ezmesi, yöresel kuruyemişler markasıdır.ISO 9001, ISO 14001, ISO 22000, Helal belgelerine sahiptir.Firma Giresun merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

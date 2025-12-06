@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Maltesers",
+    "description": "Maltesers, 1936 yılında Mars Incorporated bünyesinde üretilen sütlü çikolata kaplı gevrek markasıdır.Ürünleri glikoz şurubu, soya lesitin, palm yağı içermektedir.Mars Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Başak Akrilik",
+    "description": "Başak Akrilik, 1995 yılında kurulan Demirler İnş. Mad. Tur. Teks. ve Gıda İth. İhr. San. Tic. Ltd. Şti. bünyesindeki akrilik duş tekneleri, banyo küvetleri ve duşakabin markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Assan Hanil",
+    "description": "Assan Hanil, 1997 yılında kurulan Assan Hanil Otomotiv San. ve Tic. A.Ş. bünyesinde üretilen otomotiv parçaları markasıdır.Sürücü ve yolcu koltukları, kapı panelleri, ön ve arka tamponlar, enstrüman panel, konsol, halı, radyatör taşıyıcı, şişirme parçalar, torpido, tavan, iç ve dış plastik parçaları üretmektedir.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Assan Hanil Otomotiv San. ve Tic. A.Ş., Kibar Holding A.Ş. ve Güney Kore merkezli Seoyon E-Hwa Co. Ltd. ortaklığındadır.Ürünlerini Kocaeli’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Line Art Banyo Mobilyaları",
+    "description": "Line Art, 1978 yılında kurulan Ilgın Yapı Malzemeleri İnşaat Nakliyat Tic. ve San. Ltd. Şti. bünyesinde üretilen banyo mobilyaları markasıdır.Firma Zonguldak merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "KAS Vana",
+    "description": "KAS, 1984 yılında kurulan Kayalar Pres Döküm San. ve Tic. Ltd. Şti. bünyesinde üretilen vana, flex hortum, pprc plastik boru ve ek parçaları, musluk ve su armatürleri markasıdır.Radyatör vanası ve pirinç fitingsler başta olmak üzere, sıhhi tesisat ve ısıtma tesisatları için ürünler üretmektedir.ISO 9001, ISO 27001, TSE belgelerine sahiptir.İstanbul merkezli firma ürünlerini 12 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

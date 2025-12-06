@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Jakcom",
+    "description": "Jakcom, 2014 yılında kurulan Jakcom Technology Co., Ltd. bünyesinde üretilen nesnelerin interneti ürünleri markasıdır.Akıllı yüzük, akıllı tırnak, akıllı ev cihazı, bluetooth hoparlör gibi ürünlere sahiptir.ISO 9001 belgesine sahiptir.Jakcom Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "MG Cars",
+    "description": "MG Cars, 1924 yılında Cecil Kimber tarafından kurulan M.G. Car Company Limited bünyesindeki otomobil markasıdır.M.G. Car Company Limited 2005 yılında Çin merkezli SAIC Motor Corporation Limited tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-09-21"
+  },
+  {
+    "company": "Hansa",
+    "description": "Hansa, ev aletleri üreticisi olan Amica Group’un bir parçasıdır.Ocak, fırın, bulaşık ve çamaşır makineleri, buzdolabı, mikrodalga fırın gibi ürünler üretmektedir. Modern tasarım ve uygulamalı teknolojilere vurgu yaparak ayırt edilir.Amica Group Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Ton Yuan",
+    "description": "Ton Yuan 1973 yılında Toan Yuan Industrial Co. Ltd. mobilyalar için çok çeşitli menteşe ve tutamaklar markasıdır.Ürünleri arasında menteşeler, manyetik dokunmatik mandallar ve kilitler, mandallar, kulplar, kapak destekleri, askı kancaları, kapı durdurucu, tekerlek braketleri yer almaktadır.Fabrikalara mobilya, bisiklet, inşaat parçaları ve bileşenleri tedarik etmektedir. ISO 9001 belgesine sahiptir.Toan Yuan Industrial Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Hennessey",
+    "description": "Hennessey, Hennessey Co., Limited bünyesinde üretilen LED aydınlatma ürünleri markasıdır.İç ve dış için led ışıklar, led ampuller, led tüpler, led mısır ışık, led mum ışığı, led şerit ışık, led spot ışık, led fincan ışık,g4,g9, g24 led aydınlatma, araçlar için led, sis ışık led, fren lambası, sinyal ışığı, led gösterge paneli led ışıklar, römork stop lambaları gibi ürünler üretmektedir. ISO 9001 belgesine sahiptir.Hennessey Co., Limited, Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

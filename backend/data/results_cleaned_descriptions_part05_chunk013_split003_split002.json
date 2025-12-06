@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Formfactor",
+    "description": "Formfactor, 1993 yılında Igor Khandros tarafından kurulan FormFactor Inc. bünyesinde üretilen iletken endüstrisi için ürünler markasıdır.Küresel yarı iletken endüstrisi için gelişmiş SoC ve bellek prob kartlarının en iyi sağlayıcısıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "High Peak",
+    "description": "High Peak, 1983 yılında kurulan Simex Outdoor International GmbH bünyesindeki çadır, uyku tulumu, kamp aksesuarları gibi dış ortam ürünleri markasıdır.Simex Outdoor International GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Wheeler",
+    "description": "Wheeler, 1972 yılında Chi Hsin-Yang tarafından kurulan Wheeler Industrial Co. Ltd. bünyesinde üretilen tekerlekli bisikletler ve e-bisikletler markasıdır.Wheeler Industrial Co. Ltd. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Poivre Blanc Elbise",
+    "description": "Poivre Blanc, 1984 yılında Denis Seabright tarafından kuruldu.Ürün yelpazesi sporcu giyim ürünleri, tişört, sweatshirt ve aksesuarlar, kayak takımları, ceketler ve pantolonlar yer almaktadır.Poivre Blanc International AG İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "CamelBak",
+    "description": "CamelBak, 1989 yılında Michael Eidson tarafından kurulan Camelbak Products LLC bünyesindeki hidrasyon paketleri ve su şişeleri gibi hidrasyon ürünleri, eldivenler, koruyucu giysiler ve diğer ürünler markasıdır.Camelbak Products LLC, Amerika merkezli Vista Outdoor Inc. çatısı altındadır. Şirket ürünlerini Amerika, Meksika ve Asya’daki diğer yerlerde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

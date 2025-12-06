@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Shoei",
+    "description": "Shoei, 1959 yılında Eitaro Kamata tarafından kurulan SHOEI CO., LTD bünyesindeki motosiklet kaskı markasıdır.Shoei markalı ürünler dünyanın 60 ülkesine ihraç edilmektedir.SHOEI CO., LTD Japonya merkezli bir şirkettir ve ürünlerini Japonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Crown İçecek",
+    "description": "Crown, Şok Marketler Ticaret A.Ş. adına Türkiye’deki çeşitli kuruluşlar tarafından üretilen; İce Tea Şeftali, Cola, Kutu Cola, Cola Light, Limonata, Portakal, Kutu Gazoz, Gazoz, Mandalina, Ice Tea Limon markasıdır.Şok hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)Small Cap World Fund Inc. (yüzde 6,11) (Amerika)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 35,11)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-12-25"
+  },
+  {
+    "company": "Tinder",
+    "description": "Tinder, 2012 yılında kurulan arkadaşlık uygulamasıdır. Tinder, IAC/InterActiveCorp’un sahibi olduğu Match Group, LTD ŞTİ. bünyesinde hizmet veriyor.Facebook altyapıyla üyelik gerçekleştirilebilen, iOS ve Android platformları üzerinde çalışan bir arkadaşlık uygulamasıdır. Uygulamada iki kişinin birbirini beğenirse eşleşme gerçekleşir ve ve sohbet edebilme olanağı sağlanır.IAC/InterActiveCorp Amerika merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Airoh",
+    "description": "Airoh Helmet, 1986 yılında Locatelli S.p.A., tarafından kurulan motor kaskı markasıdır.Motosiklet emniyet kask üreticisi Locatelli S.p.A., İtalya merkezli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Harris Ülke",
+    "description": "Harris, 1895 yılında Alfred S. Harris tarafından kurulan Harris Corporation bünyesindeki kablosuz ekipman, elektronik sistemler, gece görüş ekipmanları markasıdır.Harris Corporation Amerika merkezli bir teknoloji şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

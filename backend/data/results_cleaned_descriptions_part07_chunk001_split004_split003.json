@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Albert Lights",
+    "description": "Albert Lights, 1864 yılında kurulan Gebr. Albert GmbH & Co. KG bünyesinde üretilen ev ve bahçe için dış aydınlatma ve lamba markasıdır.Ayrıca ürün yelpazesi, posta kutuları, ev numaraları, kapı zili plakaları ve evin etrafındaki diğer aksesuarlarla tamamlanır.Gebr. Albert GmbH & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lightlink",
+    "description": "Lightlink, 2009 yılında kurulan Shenzhen Lightlink Display Technology Co. Ltd. bünyesinde üretilen LED kiralama ekranları, küçük aralıklı LED ekranlar, LED yer karoları ve LED aydınlatma markasıdr.Ürünler büyük ölçekli konferanslarda e-spor etkinlikleri, spor etkinlikleri, uluslararası konferanslarda yaygın olarak kullanılmaktadır.Shenzhen Lightlink Display Technology Co. Ltd. Çin merkezlidir. Ürünlerini 130’dan fazla ülke ve bölgeye satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Natures Protection",
+    "description": "Natures Protection, 2004 yılında kurulan Akvatera LT UAB bünyesinde üretilen kedi ve köpekler için kuru ve ıslak mamalar markasıdır.Tüm ürünleri yapay renklendiriciler, tatlandırıcılar ve koruyucular, süt ve ürünlerini içermez.Akvatera LT UAB Litvanya merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "LT",
+    "updated_date": null
+  },
+  {
+    "company": "Laisy Home",
+    "description": "Laisy Home, 1999 yılında kurulan Laisy Ev Gereçleri A.Ş. bünyesinde üretilen çöp kovası, çamaşır kurutmalık, ütü masası, banyo gereçleri, emaye ürünler, mutfak gereçleri, merdiven ve pazar arabası markasıdır.İstanbul merkezli firma ürünlerini 5 bin 500 metrekarelik kapalı alana sahip tesisinde üretmektedir ve 40 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Corovita",
+    "description": "Corovita, Corovita Bio-Olivenöl Gmbh bünyesindeki organik zeytinyağı markasıdır.Ürünün hammaddesi kimyasal gübre ve böcek öldürücüler kullanılmayan ortamlarda yetiştirilmektedir.Corovita Bio-Olivenöl Gmbh Almanya merkezlidir. Ürünlerini Türkiye, Yunanistan, İtalya, İspanya’da bulunan üreticilerden temin etmekte ve Almanya’da şişelemektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

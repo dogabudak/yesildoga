@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Prokudent",
+    "description": "Prokudent, Dirk Rossmann Gmbh bünyesindeki diş fırçaları, elektrikli diş fırçaları ve diş ve diş etlerini temizlemek için su aparatı, diş macunları, diş sağlığı için preparatlar, sabunlar, parfümeri, uçucu yağlar, kozmetikler, saç losyonları markasıdır.Dirk Rossmann Gmbh, Alman Rossmann ailesi ile Hong Kong merkezli Watson gurubuna aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kervansaray Kahve",
+    "description": "Kervansaray Kahve, 2009 yılında kurulan Kervansaray Lojistik San. ve Tic. Ltd. Şti. bünyesindeki kahve markasıdır.Kahve taneleri, menengiç ve orijinal salep, harnup tozu, kahve kreması, kakao, kakule veya damla sakızı ile çeşitlendirilmiştir.ISO 9001, ISO 22000, Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alaturca",
+    "description": "Alaturca, 1965 yılında kurulan Pepsico Inc. bünyesindeki patates cipsi, atıştırmalık yiyecekler, patates gevreği, patlamış mısır, mısır gevreği, yulaf ezmesi, tahıl, diğer sebze malzemeleri veya bunların kombinasyonlarından oluşan mısır cipsleri, tortilla cipsleri, pirinç cipsleri gibi ürünler markasıdır.Pepsico Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dex",
+    "description": "Dex, 1999 yılında Tat Şirketler Grubu’na bağlı olarak faaliyetlerine başlayan Tat Kimya Sabun ve Gliserin San. Tic. A.Ş. bünyesinde üretilen duş jeli, sıvı el sabunu ve vücut losyonu markasıdır.Firma ürünlerini 8 bin metrekaresi kapalı, 30 bin metrekarelik açık alanda üretmekte ve ürünleri 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Neo Konnektör",
+    "description": "Neo Konnektör Hangi Ülkenin Malı MarkasıNeo, Ningbo East Orange Co. Ltd. bünyesinde üretilen ağ dolapları,sunucu dolapları, duvara takılan kabinler, PDU, fotovoltaik konektör markasıdır.PV bağlantı, pv aracı, pv konnektörleri her türlü, PV bağlantı kutuları vb ürünleri üretmektedir.Ningbo East Orange Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

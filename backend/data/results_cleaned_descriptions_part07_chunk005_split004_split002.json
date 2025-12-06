@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Fitcase",
+    "description": "Fitcase, 1999 yılında kurulan Nokta Elektronik Dış Tic. Ltd. Şti. bünyesindeki cep telefonu aksesuarları markasıdır.Firma Kırklareli merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hychika",
+    "description": "Hychika, 2015 yılında kurulmuş olan Zoking Global Limited bünyesindeki çalışma lambaları, testereler, boya spreyi, düzenleyiciler, darbe anahtarları, elektrikli matkaplar, hava şişiricileri, tornavidalar, yaprak üfleyiciler, zımpara, ölçüm aletleri ve aksesuarlar markasıdır.Zoking Global Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Cepex",
+    "description": "Cepex, 1977 yılında kurulmuş olan Cepex S. A. bünyesindeki çek valfler, aktüatörlü vanalar, diğer valf türleri, küresel vanalar, kelebek vanalar, PP sıkıştırma parçaları, PVC basınç bağlantı parçaları, sulama armatürleri, sulama için vana kutuları markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Cepex S. A. İspanya merkezlidir. Ürünlerini 46 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Grant Thornton",
+    "description": "Grant Thornton, 1980 yılında kurulmuş olan Grant Thornton International Ltd. bünyesindeki bağımsız denetim, vergi, muhasebe ve danışmanlık hizmetleri markasıdır.Grant Thornton International Ltd. İngiltere merkezlidir. Türkiye’de 1986’dan bu yana faaliyet göstermektedir ve İstanbul, Ankara ve Bursa’da ofislere sahiptir. 140’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Perotti",
+    "description": "Perotti, 2009 yılında kurulmuş olan Sefa Züccaciye San. ve Tic. Ltd. Şti. bünyesindeki metal el aletleri, bambu sunum tabağı, bambu kesme tahtası, bardaklar, yağlık ve sosluklar, banyo takımları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

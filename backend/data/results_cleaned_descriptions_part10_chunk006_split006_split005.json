@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Paperart",
+    "description": "Kağıtsan Promosyon Kırtasiye ve Kağıt Ürünleri San. Tic. A.Ş. bünyesinde üretilen defterler, eva ve keçe, fon kartonu ve mukavva, kağıt, kağıt bazlı kırtasiye ürünleri, makbuz, mantar pano ve yazı tahtası, post-it markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ornabio",
+    "description": "YNS Yazılım Teknolojileri Tic. Ltd. Şti. bünyesindeki göz altı torbası ve morluk bakımı, leke gidericiler, serumlar, tonikler markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Votex",
+    "description": "1969 yılında kurulmuş olan Alamo Group Inc. bünyesindeki biçme makineleri, hasat makineleri, yaprak toplama makinesi ve üfleme makinesi, traktör aksesuarları markasıdır.Alamo Group Inc. Amerika merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Czur",
+    "description": "2013 yılında kurulmuş olan Czur Tech Co. Ltd. bünyesinde üretilen akıllı ofis ekipmanları, AI tarayıcıları, AI AV konferans terminalleri markasıdır.Czur Tech Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Price & Kensington",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

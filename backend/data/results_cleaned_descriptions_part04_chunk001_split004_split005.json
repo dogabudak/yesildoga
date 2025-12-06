@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Prell",
+    "description": "Prell, 1947 yılında kurulan ve Scott’s Liquid Gold Inc. tarafından Neoteric Cosmetics iştiraki aracılığıyla üretilen şampuan ve saç kremi markasıdır.Proctor & Gamble tarafından 1947 yılında tanıtılan prell şampuan markasını 2016 yılında Scott’s Liquid Gold Inc. satın aldı.1954 yılında kurulan Scott’s Liquid Gold-Inc. Amerika merkezli ahşap temizleyici, koruyucu, hava için koku spreyleri ve cilt bakım ürünleri gibi ev ve tüketici ürünleri üreticisidir.Bünyesindeki markalarFloor RestoreOne Clean HomeKids ‘N’ PetsMessy PetDenorexZincon Medicate ShampoosPrell",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Daihen",
+    "description": "Daihen, 1919 yılında Aizo Kobayashi tarafından kurulan Daihen Corporation bünyesinde üretilen transformatörler, invertörler, kaynak makineleri, endüstriyel robotlar, plazma üretim gücü, temiz transfer robotları ve kablosuz güç kaynağı sistemleri markasıdır.Daihen Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Ahnlab",
+    "description": "Ahnlab, 1995 yılında Ahn Cheol-Soo tarafından kurulan AhnLab, Inc. bünyesinde üretilen antivirüs yazılımı, ağ güvenliği ürünleri, mobil güvenlik yazılımları markasıdır.Çevrimiçi oyunlar ve mobil web için APT türü siber saldırı, güvenlik duvarları, IPS, UTM ve güvenlik yazılımları da dahil olmak üzere, virüsten koruma yazılımı, çevrimiçi güvenlik, ağ güvenliği cihazları için yazılımlar üretmektedir.AhnLab, Inc, Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Ningbo Bird",
+    "description": "Ningbo Bird, 1992 yılında kurulan Ningbo Bird Co., Ltd. bünyesinde üretilen cep telefonu markasıdır.Ningbo Bird Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Evalar",
+    "description": "Evalar, 1991 yılında kurulan Evalar Jsc bünyesinde üretilen, gıda takviyesi, sakız ve kozmetik ürünler markasıdır.Ürünlerini bin hektardan fazla Altay Dağları’nın eteklerinde bulunan gdo’suz 200’den fazla üründen üretmektedir.Ürünleri ABD, Almanya ve Avustralya da dahil olmak üzere dünya çapında 25 ülkeye pazarlanmaktadır.Evalar Jsc Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

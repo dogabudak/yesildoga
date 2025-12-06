@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kik Messenger",
+    "description": "Kik Messenger, 2009 yılında Ted Livingston tarafından kurulan Kik Interactive Inc. bünyesinde üretilen anlık mesajlaşma uygulaması markasıdır.Kik Interactive Inc. 2019 yılında Amerika merkezli Holding Şirketi MediaLab AI, Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wire Messenger",
+    "description": "Wire Messenger, 2018 yılında kurulan Wire Swiss Gmbh bünyesinde üretilen tamamı açık kaynak kodlu şifreli mesajlaşma, sesli ve görüntülü arama, dosya paylaşımı ve arama uygulaması markasıdır.Wire Swiss Gmbh İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Dawreek",
+    "description": "Dawreek, 1994 yılında Kutbeddin ve Murat Çelik tarafından kurulan Seyitoğlu Hrdvt. İnş. Nak. Pet. Ürn. Tks. Gd. Sn. Tic. Ltd. Şti. bünyesinde üretilen koruyucu iş eldivenleri markasıdır.ISO 9001, ISO 18001 belgelerine sahiptir.Ürünlerini bin metrekarelik alanda üretmektedir ve ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Grabcad",
+    "description": "Grabcad, 2009 yılında kurulan Grabcad, Inc. bünyesindeki mühendis, tasarımcı ve öğrenciler için çevrimiçi topluluk platformu markasıdır.GrabCAD Topluluğu, CAD dosyalarını ve profesyonel ipuçlarını paylaşmakta, tasarım zorluklarına katılan veya 2 milyondan fazla ücretsiz dosyadan oluşan çevrimiçi kütüphanesinden ücretsiz CAD modelleri sunmaktadır.Topluluk, profesyonellerin becerilerini gösterebilecekleri ve başkalarını aynı şeyi öğrenmeye teşvik edebilecekleri bir yer olan mühendislik, tasarım ve üretim alanındaki en son gelişmeler için düşünce liderliği ve eğitim için bir yerdir.GrabCAD ayrıca GrabCAD Workbench ve GrabCAD Print adlı iki yazılım uygulaması sunmaktadır. GrabCAD Print, Stratasys 3D yazıcılar için mevcut en eksiksiz çözümdür. Sezgisel ve kullanımı kolay yazılım, baskı işlerinin hazırlanmasını, planlanmasını, izlenmesini ve raporlanmasını kolaylaştırır. CAD dosyalarını doğal olarak okuma yeteneği ile GrabCAD Print, Stratasys FDM ve Polyjet yazıcıları kullanarak paylaşılan ofis ve model mağazası ortamlarında iş yönetimini kolaylaştıran verimli bir iş akışı sunar.GrabCAD Workbench, özel, güvenli işbirliği, CAD dosya yönetimi ve yerleşik sürüm kontrolü ile mühendislik projelerinin karmaşıklığını yönetir.Grabcad, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Leapwing Audio",
+    "description": "Leapwing Audio, 2015 yılında kurulan Leapwing Bvba bünyesinde üretilen müzisyenler için yazılım markasıdır.Modern ve sezgisel ses eklentileri oluşturur.Leapwing Bvba Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

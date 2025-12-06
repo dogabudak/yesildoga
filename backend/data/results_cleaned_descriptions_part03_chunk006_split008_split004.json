@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Bea-fon",
+    "description": "Bea-fon, Bea-fon Mobile GmbH bünyesinde üretilen akıllı telefon markasıdır.1977 yılında kurulmuş olan Aspöck Systems GmbH’nin bir parçasıdır.Avusturalyalı Aspöck Grubu’nun Avusturya, Portekiz, Polonya ve Brezilya’da üretim yerleri bulunmaktadır. Firma kamyon ve römork, otomotiv, motosiklet, karavan, tarım makineleri ve özel araçlar için aydınlatma çözümleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Doro",
+    "description": "Doro, 1974 yılında kurulan Doro AB bünyesindeki akıllı telefon, asitif cihazlar, sosyal alarmlar markasıdır.Doro, kullanımı kolay çok çeşitli cep telefonları sunmaktadır. Yaşlıların ve engellilerin özel ihtiyaçlarını karşılamak üzere tasarlanmış çok çeşitli ürünler, hizmetler ve akıllı bakım çözümleri sunmaktadır.Şirketin ürünleri beş kıtada 30’dan fazla ülkede satılmaktadır.Doro AB, yaşlılara günlük yaşamlarını daha zengin hale getiren bir İsveç şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Wiko",
+    "description": "Wiko, 2011 yılında Tinno Mobile Technology Corp. bünyesinde kurulan cep telefonu markasıdır.Dünya çapında 30’dan fazla ülkede faaliyet göstermektedir.2005 yılında kurulan Çin merkezli ve ürünlerini Çin’de üreten Tinno Mobil, ürünlerini tek bir marka altında değil, ülkeye özel markalar altında dağıtmaktadır. (Amerika: Blu, Almanya: Mobistel, Fransa ve Belçika: Wiko, Hindistan: Intex, Micromax, İtalya: NGM, Pakistan: QMobile, Filipinler: Cloudfone, Rusya: Fly, Tunus: Evertek, Vietnam: Q-mobile, Q-Smart, Latin Amerika: Lanix Mobile)2017 yılında Wiko telefonlarda önceden yüklenmiş bir uygulamanın, müşterinin rızası olmadan verilerini Tinno’ya ilettiği ortaya çıktı. Şirket, bu tür bilgi toplama sisteminin sağlıklı olduğunu doğruladı ve bu uygulamaların güncellenmiş sürümünün cihazların bilgilerini toplamayacağını açıkladı. 2016 yılında da BLU markalı telefonlarda Adups tarafından geliştirilen önceden yüklenmiş uygulamanın kullanıcı verilerini müşteri onayı olmadan Çin sunucusuna aktardığı ortaya çıkmıştı.Bünyesindeki markalar:BluCloudfoneEvertekFlyIntexLanix MobileMicromaxMobistelNGMQ-SmartQ-mobileQMobileSugar PhoneWiko Mobile",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Papia",
+    "description": "Papia, 2006 yılında Hayat Kimya A.Ş. bünyesinde kurulan tuvalet kağıdı, peçete, kağıt havlu, kutu mendil markasıdır.Ürünleri klor, boya, parfüm, optik beyazlatıcı içermez.Hayat Kimya A.Ş. 1937 yılında tamamı yerli sermaye ile kurulan Kiğılı Ailesi’ne ait temizlik ve sağlık, ev temizlik, bebek bakım, kişisel bakım ve temizlik kağıdı ürünleri üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stark",
+    "description": "Stark, 1962 yılında kurulan Stark S.p.A. bünyesinde üretilen ahşap işleme araçları markasıdır.Ahşap ve metal kesim testereleri ürün gruplarına sahiptir. Dairesel testere bıçakları HSS, DIN testere, bant testeredebriyaj TCT testereler demir ve demir dışı testereler TCT Tek kullanımlık ve Bimetal Band Saw kesme üretiminde uzmanlaşmıştır.Stark S.p.A. İtalya merkezlidir ve ürünlerinin tamamını ve hammaddeyi İtalya’da üretmektedir. ISO9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

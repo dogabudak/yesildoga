@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vacheron Constantin",
+    "description": "Vacheron Constantin, 1755 yılında Jean-Marc Vacheron tarafından kurulan Vacheron Constantin SA bünyesindeki kol saati ve masa saati markasıdır.Vacheron Constantin SA, 1996 yılında Compagnie Financiere Richemont SA’nın bir yan kuruluşu oldu.Richemont, İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Phase One",
+    "description": "Phase One, 1993 yılında kurulan Phase One A/S bünyesindeki kamera, dijital sırt, lens, raw işleme yazılımı, fotoğraf yönetim yazılımı, kamera kontrol yazılımı markasıdır.Phase One A/S, dijital fotoğrafçılık ekipmanları ve yazılımları konusunda uzmanlaşmış Danimarka merkezli bir şirkettir ve Axcel Management A/S bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Kramer",
+    "description": "Kramer, 1981 yılında Joseph Kramer tarafından kurulan Kramer Electronics bünyesindeki dağıtım amplifikatörler, çizgi sürücüleri, anahtarları, matris anahtarları, sunum anahtarları, uzun mesafe uygulamaları, medya/oda kontrol ürünleri, SummitView entegre medya veya oda kontrol sistemleri için CTRL sorunsuz anahtarları, ProScale dijital ölçekleyici veya anahtarları, scalers, tarama dönüştürücüler, bükülü iletim ürünleri, Cobra bükümlü ürünleri içerir, dönüştürücüler, arabirim protokolü çevirmenler, IR ürünler, test modeli jeneratörü, fiber optik transmisyon ürünlerine, raf bağlar, duvar tabağı, toplu kablo biçimi , kablo montajları ve kablo aksesuarları markasıdır.Kramer ürün hattı binden fazla üründen oluşmaktadır.Kramer Electronics İsrail merkezlidir. Çok sayıda ülkede satış ve dağıtım şubeleri bulunmakadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Amorepacific",
+    "description": "Amorepacific, 1945 yılında Suh Sung-whan tarafından kurulan Amorepacific Group bünyesindeki güzellik ve kozmetik ürünler markasıdır.Amorepacific Group içerisinde 30’dan fazla güzellik, kişisel bakım ve sağlık markasıyla faaliyet gösteren Güney Kore merkezli bir holdingtir.Bünyesindeki markalar:AesturaAmorepacificAmos ProfessionalAritaumBe ReadyBro & TipsDantrolEASY PEASYEspoirEtude HouseFresh PopGoutal ParisHERAHanyulHappy BathILLIYOONIOPEInnisfreeLIRIKOSLaneigeMIRAEPAMakeonMamondeMedianMise-en-ScèneOdysseyOsullocPrimeraRyoSongyeumSulwhasooVital Beautie",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "HCT",
+    "description": "HCT, 2000 yılında kurulan HCT Co, Ltd bünyesindeki parçacık sayaçları ve antenler, uyumluluk test ve ekipman kalibrasyon markasıdır.Parçacık sayaçları, Inhalasyon Toksisite Sistemi ve Cep Telefonu antenleri üretirken, uyumluluk testi, ekipman kalibrasyonu, hava kalitesi izleme ve anten geliştirme hizmetleri vermektedir.HCT Co, Ltd Güney Kore merkezlidir. HCT’nin Kore, Amerika ve Çin’de test ve kalibrasyon tesisleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

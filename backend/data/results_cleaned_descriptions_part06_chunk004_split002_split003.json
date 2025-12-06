@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Kesko",
+    "description": "Kesko, 1940 yılında kurulan Kesko Oyj bünyesinde bakkal ticareti, bina ve teknik ticaret ve otomobil ticaretinde faaliyet gösteren perakende zinciri markasıdır.Bölümleri ve zincirleri perakendeci girişimciler ve diğer ortaklarla yakın işbirliği içinde hareket eder.Kesko Oyj Finlandiya merkezlidir. Finlandiya, İsveç, Norveç, Estonya, Letonya, Litvanya ve Polonya’da zincirleme faaliyet gösteren yaklaşık 2 bine yakın mağazası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Gildan",
+    "description": "Gildan, 1984 yılında Glenn Chamandy ve Greg Chamandy tarafından kurulan Gildan Activewear Inc. bünyesinde üretilen tişört, spor gömlek, polar ve aksesuarlar markasıdır.Gildan Activewear Inc. Kanada merkezlidir.Bünyesindeki markalar;AlstyleAmerican ApparelComfort ColorsGildan",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Stripe",
+    "description": "Stripe, 2009 yılında Patrick ve John Collison tarafından kurulan Stripe Inc. bünyesindeki finansal hizmetler markasıdır.Şirket 2011 yılında Peter Thiel, Elon Musk, Sequoia Capital, SV Angel ve Andreessen Horowitz’den yatırım almıştır.Stripe Inc. Amerika merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Apimaye",
+    "description": "Apimaye, 1987 yılında Muzaffer Yıldırım tarafından kurulan Yıldırım Plastik Mak. ve Kalıp İml. İnş. Tur. San. Tic. Ltd. Şti. bünyesinde üretilen kovanlar, arıcılık ekipmanları markasıdır.ISO 9001, OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Neewer",
+    "description": "Neewer, 2010 yılında kurulan Shenzhen Neewer Technology Co. Ltd. bünyesinde üretilen fotoğraf ekipmanları ve aksesuarları markasıdır.Ürün yelpazesinde aydınlatma ve stüdyo, led panel ışığı, halka ışık, tripod, mikrofon, speedlite flaş, yakınlaştırma araması, lens ve filtre, çanta ve kılıf, piller ve şarj cihazı, kameralı ışık, gopro kiti, dış mekan fotoğrafçılığı ürünleri yer almaktadır.ISO 9001 belgesine sahiptir.Shenzhen Neewer Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

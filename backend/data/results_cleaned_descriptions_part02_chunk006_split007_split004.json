@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Groupe PSA",
+    "description": "Groupe PSA (Peugeot Societe Anonyme), 1976 yılında Fransa’da kurulan Avrupa’nın en büyük ikinci otomobil üreticisidir.Groupe PSA, yüzde 13,68’er oranlarda hisselere sahip üç yere aittir, bunlar;Dongfeng Motor Group (Çin)Fransa DevletiPeugeot AilesiBünyesindeki markalar:CitroënDSAmbassadorOpelPeugeotVauxhallAixam (yüzde 56’sı)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2020-02-06"
+  },
+  {
+    "company": "Fimo by Staedtler",
+    "description": "Fimo by Staedtler, 1835 yılında J.S. Staedtler tarafından kurulan STAEDTLER Mars GmbH & Co. bünyesindeki yazım ve çizim araçları markasıdır.STAEDTLER Mars GmbH & Co. Almanya merkezlidir. Almanya, İngiltere, Japonya, Avustralya, Çin ve Endonezya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rifle",
+    "description": "Rifle, 1958 yılında Giulio ve Fiorenzo Fratini tarafından kurulan Rifle & Co. S.r.l. bünyesindeki spor giyim, kot pantolon ve aksesuar markasıdır.Rifle & Co. S.r.l. İtalya merkezlidir. İsviçreli Kora Investments S.A. şirketin yüzde 44 hissesini satın almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Best Buy",
+    "description": "Best Buy, 1966 yılında temelleri atılan Richard M. Schulze ve James Wheeler tarafından kurulan Best Buy Co., Inc. bünyesindeki elektronik eşya perakende zinciridir.Best Buy Co., Inc. Amerika merkezlidir.Bünyesindeki markalar:InsigniaDynexInitGeek SquadRocketfish",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kartix",
+    "description": "Kartix, 2008 yılında kurulan RC Farma İlaç Kimya San. ve Tic. Ltd. Şti. bünyesindeki besin takviyeleri, vitaminler ve mineraller markasıdır.Rcfarma ürün çeşitlerinin hiçbirinde tarım ilaçları, zararlı kimyasal maddeler, böcek ilaçları, mikrop ve radyoaktif maddeler, ağır metaller, BSE veya hormonlar bulunmamaktadır.RC Farma bünyesindeki markalar:KARTİXLİGONEPROBİENCOMPLEXNEWVİTPROVESS",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-01-19"
+  }
+]

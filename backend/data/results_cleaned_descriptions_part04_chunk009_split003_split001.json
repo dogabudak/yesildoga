@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mazzucato",
+    "description": "Mazzucato, 2001 yılında kurulan D-Lab Ltd. bünyesinde üretilen tasarım saat markasıdır.Milano’da Simone Mazzucato tarafından tasarlanmaktadır.D-Lab Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "IWC",
+    "description": "IWC, 1868 yılında Florentine Ariosto Jones tarafından kurulan International Watch Company AG tarafından üretilen saat markasıdır.International Watch Company AG, 2000 yılından beri İsviçre merkezli Richemont Group’un bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Dht Mini Hava Kompresörü",
+    "description": "Dht, Deha Teknik El Alet. San. Hırd. San. ve Tic. bünyesindeki ölçü aletleri, allen, anahtar, bits, elektrikli el aletleri, genel aletler, havalı aletler, kesici aletler, keskiler ve bijon anahtarları, lokma, matkap uçları ve pançlar, mini hava kompresörü, pense, servis ekipmanları, takım arabaları, testere, tornavida markasıdır.Ürünleri TSE belgelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bremont",
+    "description": "Bremont, 2002 yılında Nick ve Giles English tarafından kurulan Bremont Watch Company Limited bünyesindeki kronometre, mekanik saat, kronograf markasıdır.Lüks ve mekanik saatler üretmektedir. Ürün yelpazesini dalış, motor sporları ve seyahat saatlerini içerecek şekilde genişletmiştir.Bremont Watch Company Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Valx",
+    "description": "Valx, 1982 yılında kurulan Alkaya Elektronik San. Tic. Ltd. Şti. bünyesinde ithal edilen bilgisayar çevre birimleri, power supply, bilgisasar kasası, oyun kolları, güvenlik sistemleri, güvenlik kamerası, dvr kayıt cihazı, nvr kayıt cihazı, güvenlik kablo veya gereçleri, uydu sistemleri, lnb, uydu kabloları, uydu alıcısı, merkezi santral, adaptör veya şarj cihazı, notebook adaptörleri, metal kasa adaptör, switch mode adaptör, usb adaptör, pano tipi adaptör, priz tipi adaptör, invertör, ekobis şarj cihazı, askı aparatı veya aksesuar, projeksiyon askı aparatı, sabit askı aparatı, hareketli askı aparatı, kablo grubu, network kablosu markasıdır.Bünyesindeki markalar:A-LinkAlkatechAlkayaEneromHerbirivarValx",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

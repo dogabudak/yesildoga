@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Shine Diş Fırçası",
+    "description": "Shine markalı diş fırçası BİM A.Ş. adına İDEAL STANDART A. Ş. tarafından üretilmektedir.İdeal Standart İstanbul, Esenyurt’ta diş fırçası üretimi yapan şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "James Donkey",
+    "description": "James Donkey, 2014 yılında kurulan Shenzhen Mahu Technology Co. Ltd. bünyesinde üretilen elektronik ürünler, tişört, ayakkabı, şapka, ev ürünleri markasıdır.Oyun Klavyesi, Oyun Mouse, Oyun Mouse Pad, Aksesuarlar ürünleri üretmektedir.Shenzhen Mahu Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-11-01"
+  },
+  {
+    "company": "Karayel Kolonya",
+    "description": "Karayel, BİM A.Ş. bünyesindeki kolonya markasıdır. Senso Kozmetik tarafından BİM A.Ş. adına üretilmektedir.Senso Kozmetik, 1992 yılında M. Nadir Yorgun tarafından İstanbul’da kuruldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-03-18"
+  },
+  {
+    "company": "Turna.com",
+    "description": "Turna.com, 2014 yılında Dr. Kadir KIRMIZI tarafından kurulan uçak bileti satan ve puan kazandırıp sonraki uçuşları ücretsiz hale getiren bir platformdur.Türkiye’de ilk kez uçuş için kredi kartı puanlarının kullanılabilmesi sağlandı. Bu sayede kredi kartında biriken puanlar Turna Puan’a çevrilebiliyor ve son kullanma tarihi olmadan uçak bileti satın alırken kullanılabiliyor.Türkiye’de ilk kez uçak bileti iptal işlemini çevrimiçi yapabilme özelliği ve uçuştan 2 saat öncesine kadar iptal edilen biletlerde yüzde 90 iade alınabilmesini sağlayan Koşulsuz Bilet İptal Hizmeti hayata geçirildi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ta!da",
+    "description": "ta!da, 1997 yılında kurulan, UYAR Şirketler Topluluğu’nun bir üyesi olan UNIFO Gıda Sanayi ve Ticaret A.Ş. bünyesindeki mikrodalgaya uygun ambalajda ortam koşullarına dayanıklı hazır yemek markasıdır.Tamamı yerli sermaye ile kurulan UNIFO; hazır yemek, sandviç, konserve ve outdoor rasyon alternatifleri sunmaktadır.Gebze OSB’de 8 bin 500 metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Rodarte",
+    "description": "Rodarte, 2005 yılında Kate ve Laura Mulleavy tarafından kurulan Rodarte LLC. bünyesindeki kadın hazır giyim, aksesuar ve erkek giyim koleksiyonu markasıdır.Rodarte LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sonos",
+    "description": "Sonos, 2002 yılında John MacFarlane, Craig Shelburne, Tom Cullen, Trung Mai tarafından kurulan Sonos Inc. bünyesindeki akıllı hoparlörler, kablosuz ev ses ürünleri markasıdır.Sonos Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ccdk Copenhagen",
+    "description": "Ccdk Copenhagen, 1991 yılında çeşitli tekstil şirketlerinin birleşmesiyle kurulan Thygesen Textile Group A/S bünyesindeki tekstil ürünleri markasıdır.Thygesen Tekstil Grubu, 10’dan fazla uluslararası şirkettin hisselerine sahiptir.Thygesen Textile Group A/S Danimarka merkezlidir. Ayrıca Vietnam’da örgü ve dikiş tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Superfit",
+    "description": "Superfit, 1872 yılında kurulan Legero United Digital Gmbh bünyesindeki ayakkabı markasıdır.Ürünleri 40’tan fazla ülkeye pazarlanmaktadır.Legero United Digital Gmbh Avusturya merkezlidir. Avusturya’da iki yerde ve Macaristan, Romanya ve Hindistan’da kendi üretim tesislerine sahiptir.Bünyesindeki markalar;legeroSuperfitThink!Vios",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Paul&Joe",
+    "description": "Paul&Joe, 1956 yılında kurulan Albion Co., Ltd. bünyesindeki kozmetik ürünleri markasıdır.Paul&Joe, kozmetik pazarının bir parçası olarak KOSE Corporation’ın konsolide bir yan kuruluşudur. Ürünlerinin yüzde 70’i Fransa’da üretilmektedir.Albion Co., Ltd. Japonya merkezlidir.Bünyesindeki markalar;AlbionEleganceIgnisIn FioreAnna SuiPaul & JoeLadurée",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

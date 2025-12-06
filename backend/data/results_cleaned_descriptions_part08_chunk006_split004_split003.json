@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Puedo Toys",
+    "description": "Puedo Toys, Puedo Toys Oyuncak Ltd. Şti. bünyesinde üretilen oyuncak, eğitim ürünleri ve oyunlar markasıdır.Köpük bulmacalar ve okul öncesi oyunlar gibi çocuk ürünleri konusunda uzmanlaşmıştır.Firma İstanbul merkezlidir. Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bellmer",
+    "description": "Bellmer, 2019 yılında kurulmuş olan Bellmer Czech s.r.o. bünyesindeki ayırma teknolojisi, kağıt makinesi ve kağıt teknolojisi markasıdır.Ürünleri suyu temizler, neredeyse her türlü sıvıyı filtreler, çamurları en yüksek kuruluğa kadar presler veya en kaliteli gıda sularını üretir.Bellmer Czech s.r.o. Çek Cumhuriyeti merkezlidir. Almanya ve Finlandiya’da kağıt ve karton makinelerine yönelik sistemler ve yükseltmeler tasarlar.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Naturapack",
+    "description": "Naturapack, 2009 yılında kurulmuş olan Pastel Titan Dış Tic. Boya ve İnş. Ltd. Şti. bünyesinde üretilen karton gıda kapları markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "List Nuts",
+    "description": "List Nuts, 2009 yılında kurulmuş olan Milhans Gıda ve Tarım Ürünleri Tic. Şti. bünyesindeki kuruyemiş, kuru meyve, atıştırmalıklar markasıdır.Ürünleri az işlem görmektedir ve GDO içermemektedir.Kocaeli merkezli firma ürünlerini, 25 bin metrekarelik açık, 10 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gelgoog",
+    "description": "Gelgoog, 2010 yılında kurulmuş olan Gelgoog Intelligent Technology Co. Ltd. bünyesinde üretilen fındık işleme, kürdan, kızartma, meyve sebze, paketleme, pasta işleme, spring roll makineleri markasıdır.Gelgoog Intelligent Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 180’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

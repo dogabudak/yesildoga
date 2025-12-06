@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mokki",
+    "description": "“Mokki“1984 yılında kurulmuş olan Mokki AS bünyesindeki güneş gözlüğü, ekran koruyucu ve aksesuarlar markasıdır.Çocuklar için ödüllü Click & Change güneş gözlüğü sistemi ve yetişkinler için diğer birçok güneş gözlüğü, okuma gözlüğü ve spor gözlükleriyle tanınır.Mokki AS Norveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Onemoon",
+    "description": "“Xiaomi Onemoon“2018 yılında kurulmuş olan Hangzhou Xiaoyueliang Technology Co. Ltd. bünyesinde üretilen hava fritözü markasıdır.Hangzhou Xiaoyueliang Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir. Xiaomi ekolojik zincir marka ürünüdür.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hilmi Efendi",
+    "description": "“Hilmi Efendi“1995 yılında kurulmuş olan Prenses Gıda San. ve Tic. Ltd. Şti. bünyesindeki aromalı Türk kahveleri, filtre kahve, menengiç kahvesi, osmanlı dibek kahvesi, sıcak çikolata, Türk kahvesi markasıdır.ISO 9001, HACCP, TSE belgelerine sahiptir.Firma Antalya merkezlidir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kalfadoor",
+    "description": "“Kalfadoor“2009 yılında kurulmuş olan Kalfadoor Ahşap San. Tic. Ltd. Şti. bünyesinde üretilen ahşap kapılar, kapı göbekleri, kasa ve kanat profilleri, lake kapılar, pvc kapılar markasıdır.Firma Antalya merkezlidir. Ürünlerini Antalya OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Espa Soğutma",
+    "description": "“Espa Soğutma“1987 yılında kurulmuş olan Espa Soğutma Elemanları San. ve Tic. Ltd. Şti. bünyesinde ithal edilen ısıtma, soğutma, klima ekipmanları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

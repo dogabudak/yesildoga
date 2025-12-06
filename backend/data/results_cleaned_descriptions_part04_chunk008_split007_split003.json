@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Goutal Paris",
+    "description": "Goutal Paris, 1945 yılında Suh Sung-whan tarafından kurulan Amorepacific Corporation bünyesindeki parfüm, el kremleri markasıdır.Eski model Annick Goutal tarafından, 1981 yılında kendi adını taşıyan parfüm evi kuruldu.Amorepacific Corporation Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Spa Master",
+    "description": "Spa Master, 1991 yılında kurulan Roza Impex Ltd. bünyesindeki cilt, saç ve vücut bakımı ürünleri markasıdır.Firma saç boyaları, spa ürünleri, saç, yüz ve vücut bakım kremleri üretmektedir.Roza Impex Ltd. Bulgaristan merkezlidir. Ürünlerini 33 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "BMI",
+    "description": "BMI, 1986 yılında kurulan Bayerische Massindustrie A. Keller GmbH bünyesindeki ölçüm bantları, cep bantları, su terazisi, lazer ve tesviye teknolojisi, atölye ölçüm araçları, açı ölçüm araçları ve ölçme ekipmanları markasıdır.Bayerische Massindustrie A. Keller GmbH Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mudita",
+    "description": "Mudita, 2013 yılında kurulan Mudita sp. z o.o., bünyesindeki tüketici elektroniği markasıdır.Fiziksel ve zihinsel sağlığı ilk sıraya koyan ürünler üretmektedir.Mudita sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Expressweld",
+    "description": "Expressweld, 1974 yılında kurulan Kaynak Tekniği San. ve Tic. A.Ş. tarafından ithal edilen kaynak ve kesme makineleri markasıdır.Kaynak Tekniği San. ve Tic. A.Ş. 2019 yılında Amerika merkezli The Lincoln Electric Company bünyesine girmiştir. Expressweld markalı ürünler Çin’de üretilmektedir.The Lincoln Electric Company dünya genelinde sahip olduğu 21 ülkedeki ortaklıkları ve 160 ülkede satış ofisleriyle faaliyet göstermektedir.Bünyesindeki markalar;AskaynakAskaynak AutomationAskaynak by HarrisCleanArcHarrisKobatekLincoln Electric",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

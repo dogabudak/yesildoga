@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Manly Parfüm",
+    "description": "Manly2019 yılında kurulmuş olan Cossop Kozmetik Pazarlama A.Ş. bünyesindeki parfüm markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Motor1",
+    "description": "Motor1.comMotorsport Network LLC bünyesinde yer alan otomobil içerik yayınları, SUV, motosiklet ve otomobil fuarları, haberler, araç incelemeleri, kıyaslamalı otomobil alışveriş rehberleri markasıdır.Motorsport Network LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Witforms",
+    "description": "Witforms2020 yılında kurulmuş olan Yamaş Grup A.Ş. bünyesindeki klima aparatları markasıdır.Firma İstanbul merkezlidir. Ürünlerini pek çok ülkeye dağıtmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clearasil",
+    "description": "Clearasil1999 yılında iki şirketin birleşmesiyle kurulmuş olan Reckitt Benckiser Group plc tarafından 2006 yılında satın alınmış olan akne bakım kremleri, cilt bakım ürünleri markasıdır.Reckitt Benckiser Group plc İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Kandao",
+    "description": "Kandao2016 yılında kurulmuş olan Kandao Technology Ltd. Co. bünyesinde üretilen 360 derece kamera, VR kamera, konferans kamerası markasıdır.Sanal gerçeklik video çekimi ve canlı akış için uçtan uca çözümler sunmaktadır. 3D çözünürlüklü panoramik videoyu canlı yayınlayabilen ürünlere sahiptir.Kandao Technology Ltd. Co. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

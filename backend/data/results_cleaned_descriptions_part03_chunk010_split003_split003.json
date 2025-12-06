@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Batherapy",
+    "description": "Batherapy, 1993 yılında Irwin D. Simon tarafından kurulan The Hain Celestial Group, Inc. bünyesindeki vücut bakım ürünleri markasıdır.Ürünleri yüzde 70 organik içeriğe sahiptir. Hayvanlar üzerinde deneyler yapılmamıştır. Şişeleri yüzde 100 geri dönüşümlü malzemelerden üretilmiştir.The Hain Celestial Group Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "I Heart Revolution",
+    "description": "I Heart Revolution, 2014 yılında kurulan Revolution Beauty Ltd. bünyesindeki makyaj ürünleri markasıdır.Revolution Beauty Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Marul.com",
+    "description": "Marul.com Hangi Ülkenin MalıMarul.com, 2015 yılında kurulan Marul Teknoloji A.Ş. bünyesindeki internet market alışverişine aracılık eden bir e-ticaret portalıdır.İnternetten market alışverişi yapmak isteyen müşteriler ile satış yapmak isteyen süpermarketler, site üzerinden ya da mobil uygulamalar yoluyla komisyon, teslimat bedeli gibi hiçbir ekstra ücret ödemeden alışveriş gerçekleştirebilirler ve kayıtlı marketlerin tamamını görebilirler.Tablet ve telefon uygulamaları Apple Store, Google Play’de bulunmaktadır.Firmanın Ar-ge ofisi İstanbul Teknopark’da bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Teaqrip",
+    "description": "Teaqrip, 1998 yılında kurulan Herba Flora bünyesindeki şifalı bitkiler, bitki özleri ve çaylar markasıdır.ISO 9001 belgesine sahiptir.Herba Flora şirketin faaliyetinin amacı, Azerbaycan’ın zengin bitki örtüsü şifalı bitkilerinin incelenmesi, bunların toplanması, tedarik edilmesi, işlenmesi ve tüketicilere teslim edilmesidir. Tüketici pazarına teslim edilen ürünlerin yanı sıra, yurtdışından ithal edilen şifalı bitkiler de var. Şirket, bilimsel tıpta kullanılmasına izin verilen şifalı bitkilerin üretimini tercih etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Actions Semiconductor",
+    "description": "Actions Semiconductor, 2000 yılında kurulan Actions Semiconductor Co. Ltd. bünyesinde üretilen yarı iletken markasıdır.Tablet bilgisayar, dijital ses oynatıcısı, fotoğraf görüntüleyici ve ilgili ürünler için tasarım yapmaktadır.Actions Semiconductor Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

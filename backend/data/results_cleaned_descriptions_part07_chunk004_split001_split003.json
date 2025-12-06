@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tonsure",
+    "description": "Tonsure, 2013 yılında Malte Flagstad tarafından kurulmuş olan Tonsure Aps bünyesindeki erkek giyim markasıdır.Tonsure Aps Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Müjgan",
+    "description": "Müjgan, 2017 yılında kurulan Soho Kozmetik İç ve Dış Tic. Ltd. Şti. bünyesindeki makyaj ürünleri, makyaj aksesuarları, ev, yaşam, hobi, pratik ev ürünleri, aydınlatma, pet shop, oyuncak, bakım setleri, cilt bakım aletleri, saç aksesuarları – taraklar, kadın hijyen ürünleri, tırnak, takma tırnak, tırnak bakımı ve aksesuarları markasıdır.Firma İstanbul merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-29"
+  },
+  {
+    "company": "Ecoflow",
+    "description": "Ecoflow, 2017 yılında kurulan Ecoflow Inc. bünyesinde üretilen taşınabilir güç istasyonları, taşınabilir güneş panelleri, güneş jeneratörleri, aksesuarlar markasıdır.Ecoflow Inc. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Smirdex",
+    "description": "Smirdex, 1981 yılında kurulmuş olan Smirdex S.A. bünyesinde üretilen diskler, rulolar, sayfalar, delta levhalar, şeritler ve levhalar, kemerler, tekerlekler, aksesuarlar markasıdır.Smirdex S.A. Yunanistan merkezlidir. Ürünlerini 76’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Lemonsoda",
+    "description": "Lemonsoda, 1931 yılında kurulmuş olan Terme di Crodo S.r.l. bünyesinde üretilen limon tadında köpüklü bir meşrubat markasıdır.Ürün içeriği glikoz-fruktoz şurubu, karbondioksit, doğal aromalar, koruyucular içermektedir.Terme di Crodo S.r.l. 2018 yılında Danimarka merkezli Royal Unibrew A/S tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

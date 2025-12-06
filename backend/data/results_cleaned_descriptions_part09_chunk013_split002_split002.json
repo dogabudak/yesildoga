@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Marc Jacobs",
+    "description": "1984 yılında kurulmuş olan Marc Jacobs International LLC bünyesindeki moda, giyim, lüks, hazır giyim, aksesuarlar, deri ürünler, takı, parfüm ve güneş gözlüğü markasıdır.Marc Jacobs International LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Line Go",
+    "description": "2017 yılında kurulmuş olan Jindouyun Large Fleet Co. Ltd. bünyesindeki çevrimiçi taksi arama hizmetleri uygulamasıdır.Jindouyun Large Fleet Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Cocotec",
+    "description": "1995 yılında kurulmuş olan Cecotec Innovaciones S.L. bünyesindeki robot elektrikli süpürgeler, dik elektrikli süpürgeler, ev aletleri, akıllı televizyon, temizleyiciler, küçük elektrikli ev aletleri markasıdır.Cecotec Innovaciones S.L. İspanya merkezlidir. İspanya’da tasarlanan ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2025-03-27"
+  },
+  {
+    "company": "Sandmarc",
+    "description": "2013 yılında kurulmuş olan Sandmarc LLC bünyesindeki iPhone lensleri, DJI filtreleri, GoPro montajları ve aksesuarları markasıdır.Sandmarc LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Smilekit",
+    "description": "2019 yılında kurulmuş olan Nanchang White Technology Co. Ltd. bünyesinde üretilen diş beyazlatma kiti, diş beyazlatma jeli, diş çıkarma beyazlatma kalemi, diş beyazlatma tozu,diş beyazlatma kitleri özel logo,kömür tozu, diş beyazlatma şeritleri, diş beyazlatma kömür diş macunu, bambu diş fırçası, güzellik maskesi markasıdır.Nanchang White Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

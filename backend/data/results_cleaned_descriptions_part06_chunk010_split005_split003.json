@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Issimo Home",
+    "description": "Issimo Home, 2006 yılında kurulan Agm Paz. İth. ve İhr. Ltd. Şti. bünyesinde üretilen koltuk şalı, nevresim takımı, otel tekstili, havlu ve bornoz, yatak örtüsü ve pike markasıdır.Firma Denizli merkezlidir.Bünyesindeki markalar;Asteria HomeCoronetDost CollectionIssimo Home",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sixton Peak",
+    "description": "Sixton Peak, 2008 yılında kurulan Maspica Srl bünyesinde üretilen ayakkabı markasıdır.EN ISO 9001, ISO 14001 ve ISO 18001 belgelerine sahiptir.Maspica Srl İtalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Audiopipe",
+    "description": "Audiopipe, 1989 yılında kurulan Okura Inc. bünyesinde üretilen profesyonel ses ekipmanları, deniz ses ekipmanları ve elektronik ses veya video aksesuarları markasıdır.Okura USA Inc. Amerika merkezlidir ve ürünlerini 40 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Medesy",
+    "description": "Medesy, Medesy S.R.L. bünyesinde üretilen diş, cerrahi ve ortodontik aletler markasıdır.UNI EN ISO 9001, UNI CEI EN ISO 13485 ve CE belgelerine sahiptir.Medesy S.R.L. İtalya merkezlidir. Ürünlerini İtalya’da bulunan 20 bin metrekarelik alandaki tesislerinde üretmekte ve 103 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Mudurnu Yem",
+    "description": "Mudurnu Yem, 1955 yılında kurulan Pak Tavuk Gıda San. ve Tic. A.Ş. bünyesinde üretilen kanatlı yemleri, büyükbaş yemleri, küçükbaş yemleri, hindi ve ördek yemleri markasıdır.ISO 22000 belgesine sahiptir.İstanbul merkezli firma ürünlerini Sakarya’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

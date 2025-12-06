@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Profine",
+    "description": "1988 yılında kurulmuş olan Sarmat Evcil Hayvan ve Ürünleri San. ve Tic. A.Ş. bünyesindeki kedi ve köpek mamaları ve malzemeleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sayport",
+    "description": "2002 yılında Alto Holding A.Ş. bünyesinde kurulan Sayport Dış Tic. Koll. Şti. tarafından üretilen alçak gerilim koruma ve kontrol cihazları markasıdır.TSE, CE, CB ve ISO belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "G-Luxe",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Caripar",
+    "description": "1924 yılında kurulmuş olan Schaferbarthold Gmbh bünyesinde üretilen iç hava filtresi, antifriz, marş aküleri, yedek parçalar markasıdır.Schaferbarthold Gmbh Almanya merkezlidir. Ürünlerini 85’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kiomi",
+    "description": "2008 yılında kurulmuş olan Zalando SE bünyesindeki erkek ve kadınlar için kıyafetler, çanta, ayakkabı ve aksesuarlar markasıdır.Zalando SE Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ocunet",
+    "description": "2000 yılında kurulmuş olan Vem İlaç San. ve Tic. A.Ş. bünyesinde üretilen takviye edici gıda markasıdır.Firma İstanbul merkezlidir. Çerkezköy OSB’de 21 bin metrekarelik açık arazi üzerinde kurulu fabrikasında üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "TEDx",
+    "description": "1984 yılında kurulmuş olan TED Conferences LLC bünyesindeki küresel bir konferans olan TED’den lisans alan yerel ekipler tarafından düzenlenen küçük ölçekli etkinlikler markasıdır.TED’den lisans alan, dünyanın farklı yerlerindeki kişi veya topluluklar tarafından etkinlikler organize edilir. Etkinlikler genellikle kâr amacı gütmez.Amerika merkezli TED Conferences LLC, Chris Anderson tarafından kurulmuş olan Sapling Foundation’a aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vetexpert",
+    "description": "Vet Planet Sp. Z o.o. bünyesindeki kuru ve ıslak hayvan mamaları, şampuanlar, nutrasötikler, veteriner takviyeleri markasıdır.Vet Planet Sp. Z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Possify",
+    "description": "2009 yılında kurulmuş olan Possify Bilgisayar ve Otomasyon Sistemleri San. Dış Tic. A.Ş. bünyesindeki otomasyon hizmetleri markasıdır.Çeşitli sektörlerde kullanılan pos terminalleri, yazıcılar, el termini, barkod okuyucur ve para çekmecesi gibi ürünler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jlcpcb",
+    "description": "2006 yılında kurulmuş olan Shenzhen Jlc Technology Group Co. Ltd. bünyesinde üretilen PCB üretimi, PCB Montajı, 3D Baskı ve CNC işleme gibi elektronik ve mekatronik bileşenler markasıdır.Shenzhen Jlc Technology Group Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

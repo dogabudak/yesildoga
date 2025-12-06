@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bünsa",
+    "description": "",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oksit",
+    "description": "1990 yılında kurulmuş olan Oksit Giyim Ayakkabı İnşaat Otomotiv San. ve Tic. Ltd. Şti. giyim ve ayakkabı ürünleri markasıdır.Firma Eskişehir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Atoksilin",
+    "description": "1939 yılında kurulan Atabay İlaç Fabrikası A.Ş. bünyesinde üretilen antibiyotik markasıdır.Firma İstanbul merkezlidir. Kocaeli’de üretim yapmaktadır ve ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Iosafe",
+    "description": "2004 yılında kurulmuş olan Iosafe Inc. bünyesindeki yangın ve suya dayanıklı depolama sunucuları ve ağ ekli depolama aygıtları markasıdır.Ürünleri arasında harici sabit diskler, veri kurtarma cihazları ve bulut depolama çözümleri bulunur.Iosafe Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "The Independent",
+    "description": "1986 yılında kurulmuş olan Independent Digital News & Media Ltd. bünyesindeki yayın hizmetleri markasıdır.Independent Digital News & Media Ltd. İngiltere merkezlidir.Hissedarlar:Evgeny Lebedev (yüzde 41)Sultan Muhammad Abuljadayel (yüzde 30)Justin Byam Shaw (yüzde 26)Minor shareholders (yüzde 3)",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

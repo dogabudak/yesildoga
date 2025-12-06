@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Digikala",
+    "description": "Digikala2007 yılında kurulmuş olan Digikala Group bünyesindeki e-ticaret markasıdır.Çok sayıda sektörden ürünler sunmaktadır.Digikala Group İran merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  },
+  {
+    "company": "Saban Bakliyat",
+    "description": "Saban1995 yılında kurulmuş olan BİM Birleşik Mağazalar A.Ş. adına muhtelif üreticiler tarafından üretilen bakliyat ürünleri markasıdır.Durum Gıda Sahibi Kim",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-12-03"
+  },
+  {
+    "company": "Argivit",
+    "description": "Argivit2012 yılında kurulmuş olan Hekim İlaç Medikal Kozmetik San. Tic. Ltd. Şti. bünyesindeki vitamin takviyesi ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hobi Folluk",
+    "description": "Hobi2018 yılında kurulmuş olan Hobiplas Plastik San. ve Tic. Ltd. Şti. bünyesinde üretilen plastik folluk markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Browwauw",
+    "description": "Browwauw2021 yılında kurulmuş olan Beşikisıfır Kozmetik San. Tic. A.Ş. bünyesindeki özel kaş setleri, kaş kalemleri, kaş kirpik bakımı, kaş sabitleyici markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Relaxion Çanta",
+    "description": "Relaxion, 2011 yılında kurulan Koçak Çanta Saraciye ve İnş. San. Tic. Ltd. Şti. bünyesindeki sırt çantaları, okul çantaları, beslenme çantaları, kalemlikler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Swandoo",
+    "description": "Swandoo, 2015 yılında kurulan Swandoo Gmbh bünyesindeki çocuk araba koltuğu, bebek kabuğu, çocuk koltuğu, güneş gölgelik, isofıx tabanı, kucaklama kanatları markasıdır.Swandoo Gmbh Avusturya merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Bakiler Lojistik",
+    "description": "Bakiler, 2001 yılında Fahri ve Osman Baki tarafından kurulan Bakiler Lojistik Uluslararası Taşımacılık San. ve Tic. A.Ş. bünyesindeki uluslararasi lojistik hizmeti markasıdır.Türkiye’den tüm Avrupa ülkelerine, Avrupadan Türkiye, Irak, İran, Gürcistan, Azerbaycan, Türkmenistan, Özbekistan, Kazakistan gibi ülkelere Ortadoğu ve Asya ülkelerine ihracatçı firmalara nakliyat konusunda hizmet vermektedir.Firma Mersin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Senterlan",
+    "description": "Senterlan, 2000 yılında kurulan Senterlan Co. Ltd. bünyesindeki spor çantası, sırt çantaları, seyahat çantaları, spor paketi çantaları, çantalar markasıdır.Senterlan Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Today Donut",
+    "description": "Today, 1952 yılında kurulan Elvan Gıda San. ve Tic. A.Ş. bünyesinde üretilen vişneli, çilekli, Yabanmersinli, vanilyalı, karamelli, çikolata soslu, kakaolu kekler, gofret markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "ABC Design",
+    "description": "ABC Design, 1989 yılında kurulan ABC Design Gmbh bünyesindeki bebek ürünleri ve aksesuarları markasıdır.Ürün yelpazesinde bebek arabası, çocuk koltukları, çantalar, cibinlik, bebek aksesuarları yer almaktadır.ABC Design Gmbh Almanya merkezlidir. Ürünleri 40’tan fazla ülkeye pazarlanmaktadır. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aktürk",
+    "description": "Aktürk, 1989 yılında kurulan Aktürk Şekerli Mamüller Ürt. ve Paz. Ltd. Şti. bünyesinde üretilen gofret, helva, reçel, marmelat, tahin, pekmez, lokum, cezerye, cevizli sucuk, fındık kreması, pişmaniye, saray helvası, tahinli krema, bal markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lyn Skincare",
+    "description": "Lyn Skincare, 2018 yılında kurulan Plusmec Medikal Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen kozmetik markasıdır.Ürünlerini Bartın’da bulunan 15 bin metrekarelik kapalı alanda üreten yüzde 100 yerli sermayeli kozmetik firmasıdır. Tüm dermatolojik testleri yurt dışında yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sirenol",
+    "description": "Sirenol, 2007 yılında kurulan Bm Global Elektronik Gıda San. ve Dış Tic. Ltd. Şti. bünyesindeki cilt bakım ürünleri markasıdır.Ürün yelpazesinde göz çevresi kremi, kırışıklık karşıtı krem, bebek ve Vücut şampuanı, yüz yıkama köpüğü, güneş kremi, cilt bakım kremi gibi ürünler yer alır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brother Max",
+    "description": "Brother Max, 2015 yılında kurulan Max International Ltd. bünyesindeki termometre ve aksesuarlar markasıdır.Max International Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

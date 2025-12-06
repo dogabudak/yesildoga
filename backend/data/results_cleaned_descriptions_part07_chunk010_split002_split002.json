@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Deriva",
+    "description": "Deriva, 1997 yılında kurulmuş olan Süren Deri Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen çanta, evrak çantası ve çeşitli deri aksesuarları markasıdır.Firma İstanbul merkezlidir. Ürünlerini 5 bin metrekarelik üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Conteyner Ayakkabı",
+    "description": "Conteyner Ayakkabı Nerenin Malı MarkasıConteyner, Eresin Ayakkabı San. ve Tic. Ltd. Şti. bünyesinde üretilen erkek ayakkabılar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;7/24 Güvenliknet724netCntynrConteynerCtyrDerimenDespina LadyGüvenliknetScuba",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bix Aksesuar",
+    "description": "Bix, 2003 yılında kurulmuş olan Orijinal Teknoloji Ltd. Şti. bünyesindeki akıllı ev serisi, bağlantılar, güç istasyonu, giyilebilir teknoloji, hub ve dönüştürücüler, kablolar, kulaklıklar, notebook soğutucuları, şarj aletleri, tutucu ve koruyucu markasıdır.Firma İstanbul merkezlidir. Ürünleri, ağırlıklı olarak Çin, Tayvan, Kore ve Filipinler’de üretilmektedir.Bünyesindeki markalar;BixJuo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Frieden",
+    "description": "Frieden, 1972 yılında kurulmuş olan Ser Nakış Etiket Reklam Ayakkabı ve Deri Ürn. San. Tic. Ltd. Şti. bünyesinde üretilen ayakkabı, terlik markasıdır.Firma İzmir merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nohon",
+    "description": "Nohon, 2010 yılında kurulmuş olan Dongguan Nuoxi Communication Co. Ltd. bünyesinde üretilen cep telefonu bataryası, tablet bataryası, dizüstü bilgisayar bataryası, LCD ekran, güç bankası, kablosuz şarj cihazı, usb adaptörü, HUB dönüştürücü, veri hattı, usb şarj cihazı, cep telefonu kılıfı markasıdır.Dongguan Nuoxi Communication Co. Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

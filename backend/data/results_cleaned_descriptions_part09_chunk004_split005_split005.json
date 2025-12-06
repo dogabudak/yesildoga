@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Homtronics",
+    "description": "Homtronics2018 yılında kurulmuş olan Shenzhen Yushui Technology Co. Ltd. bünyesindeki elektronik ürünler markasıdır.Shenzhen Yushui Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mamaaura",
+    "description": "Mamaaura2020 yılında kurulmuş olan Mamaaura Dermo Cosmetics Gmbh bünyesinde üretilen kişisel bakım ürünleri, bebek kozmetikleri, yenilebilir bebek kozmetikleri markasıdır.Mamaaura Dermo Cosmetics Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Auzou",
+    "description": "Auzou1973 yılında Philippe Auzou tarafından kurulmuş olan Groupe Auzou bünyesindeki kitaplar, çocuk kitapları, çizgi romanlar, romanlar, oyunlar, oyuncaklar, el sanatları, kırtasiye malzemeleri markasıdır.Groupe Auzou Fransa merkezlidir. Dünya çapında 50 ‘den fazla dilde yayın yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Pius Gabor",
+    "description": "Pius Gabor1949 yılında kurulmuş olan Gabor Shoes AG bünyesinde üretilen ayakkabı markasıdır.Gabor Shoes AG Almanya merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;GaborPius GaborRollingsoft",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Diandor",
+    "description": "Diandor1994 yılında kurulmuş olan Dior Konfeksiyon Ürünleri San. Tic. Ltd. Şti. bünyesindeki kaban, mont, ceket, hazır giyim ürünleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

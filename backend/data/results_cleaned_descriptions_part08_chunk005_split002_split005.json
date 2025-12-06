@@ -1,0 +1,52 @@
+[
+  {
+    "company": "L’or",
+    "description": "L’or, JDE Peet’s NV bünyesindeki Koninklijke Douwe Egberts B.V tarafından üretilen espresso kapsülleri, kafeinsiz kahve, kahve kapsülü, kahve pod makineleri, kara cuma kahve makinesi, lungo kahve kapsülleri, ristretto kahve kapsülleri markasıdır.JDE Peet’s NV’nin yüzde 60,5 hissesi Lüksemburg merkezli JAB Holding Company S.à r.l.’ye, yüzde 22,9 hissesi ise Amerika merkezli Mondelez International Inc.’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Visonic",
+    "description": "Visonic, 1973 yılında kurulmuş olan kablosuz ev güvenlik sistemleri ve bileşenleri, kişisel acil müdahale sistemleri, kablosuz saldırı tespit ve ev güvenlik sistemleri markasıdır.2011 yılından beri İrlanda merkezli Johnson Controls bünyesindedir. 150’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Emosin",
+    "description": "Emosin, 2011 yılında kurulmuş olan Shandong Emosin Decorative Products Co. Ltd. bünyesindeki döşeme ve laminat ahşap döşeme, lvt ve aksesuarlar markasıdır.ISO 9001 belgesine sahiptir.Shandong Emosin Decorative Products Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Renax Deterjan",
+    "description": "Renax, 2004 yılında kurulmuş olan Etap Kozmetik Kimya San. A.Ş. bünyesinde üretilen toz ve sıvı deterjan markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma Konya merkezlidir. Konya OSB’de 29 bin metrekarelik açık, 40 bin metrekarelik kapalı alanda bulunan tesisinde üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Si&Ha",
+    "description": "Si&Ha, 2007 yılında kurulmuş olan Siha Tarımsal Ürünler Pazarlama San. ve Tic. Ltd. Şti. bünyesindeki baharatlar, bitki çayları, mantarlar, sebzeler markasıdır.Kültür mantarı çeşitleri, kabuklu ve soyulmuş enginar ve paketlenmiş sebzeleri, Türkiye’nin çeşitli üreticilerinden tedarik etmektedir. Enginar ayrıca Kıbrıs ve Mısır’dan ithal edilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

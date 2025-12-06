@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Zefel Lift",
+    "description": "2022 yılında kurulmuş olan Zefel Lift Asansör ve Yürüyen Merdiven Sistemleri San. Tic. Ltd. Şti. bünyesinde üretilen asansör ve yürüyen merdiven sistemleri markasıdır.Firma Tekirdağ merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fenjal",
+    "description": "1962 yılında piyasaya sürülen sabun, banyo yağı, vücut losyonu, vücut yıkama, duş yağı, duş köpüğü ve diğer cilt bakım ürünleri markasıdır.ISO 9001, ISO 14001, ISO 50001 belgelerine sahiptir.2016 yılında Almanya merkezli Fit Gmbh tarafından satın alınmıştır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Yinyoo Audio",
+    "description": "2016 yılında kurulmuş olan Shenzhen Woting Technology Co. Ltd. bünyesinde üretilen ses kablosu, ses ürünleri markasıdır.Shenzhen Woting Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dovaman",
+    "description": "2022 yılında kurulmuş olan Shenzhen Yangtuo Electronic Commerce Co. Ltd. bünyesinde üretilen elektrikli testereler, kesiciler, aksesuarlar markasıdır.Shenzhen Yangtuo Electronic Commerce Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Glysomed",
+    "description": "1947 yılında kurulmuş olan Blistex Inc. bünyesindeki cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Blistex Inc. Amerika merkezlidir. Ürünleri 80’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

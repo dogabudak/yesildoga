@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Melasty",
+    "description": "Melasty, 1970 yılında kurulan Ayaz Kauçuk Plastik ve Kalıp Makina San. ve Tic. Ltd. Şti. bünyesinde üretilen süt sağım makineleri ve sağım sistemleri, kauçuk ve plastik parça markasıdır.Bursa’da 10 bin metrekarelik kapalı alanda üretim yapmaktadır.Ürünlerini 92 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Almond Hair",
+    "description": "Almond Hair, 2012 yılında kurulan Almon Reks Kozmetik Gıda San. ve Tic. Ltd. Şti. tarafından üretilen kozmetik ürünler markasıdır.ISO 45001, ISO 9001, ISO 14001 sertifikalarına sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aramex",
+    "description": "Aramex, 1982 yılında kurulan Aramex International LLC bünyesindeki lojistik ve tedarik zinciri markasıdır.Dünya çapında 66 ülkede 567’den fazla şehirde iş faaliyetleri bulunmaktadır.Aramex International LLC, BAE merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Mehmet Şimşeker Traktör",
+    "description": "Mehmet Şimşeker, 2017 yılında kurulan Şimşeker A.Ş. bünyesinde üretilen traktör markasıdır.Yüzde 100 Türk markası olan Mehmet Şimşeker markalı ürünler, Afrika ülkelerine ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Görkito",
+    "description": "Görkito, 2011 yılında Görkem Karman Abat tarafından kurulan Abat İnternet Teknolojileri San. ve Tic. Ltd. bünyesindeki kozmetik, makyaj aksesuarı, vücut bakım ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

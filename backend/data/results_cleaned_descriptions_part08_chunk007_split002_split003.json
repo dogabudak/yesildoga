@@ -1,0 +1,46 @@
+[
+  {
+    "company": "TAFT Coffee Co",
+    "description": "TAFT Coffee Co., 2017 yılında kurulmuş olan Erk Grup Teknoloji Girişimleri Gıda San. ve Tic. Ltd. Şti. bünyesindeki yüksek kafeinli kahve, kahve setleri, filtre kahve demleme ekipmanları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Burger Yiyelim",
+    "description": "Burger Yiyelim, 1976 yılında kurulmuş olan Keban Entegre Et Gıda San. Tic. Ltd. Şti. bünyesindeki tavuk, et ürünleri, burgerler, atıştırmalıklar, tatlılar ve içecekler sunan işletmeler zinciri markasıdır.Ürünlerinde kullanılan köfteleri kendi üretim tesislerinde, tamamı katkısız ve dana etinden üretilmektedir. Helal belgesine sahiptir.Firma İstanbul merkezlidir. Ürünlerini bin 500 metrekarelik kapalı alana sahip et entegre tesislerinde üretmektedir.Bünyesindeki markalar;Burger YiyelimDöner YiyelimEt YiyelimKeban Kasap",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Campina",
+    "description": "Campina, 2008 yılında kurulmuş olan Royal FrieslandCampina N.V. bünyesinde üretilen mandıra ürünü, süt ürünleri, yoğurt markasıdır.Çok uluslu bir süt kooperatifi olan Royal FrieslandCampina N.V. Hollanda merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;CampinaChocomelDutch LadyFriesche VlagFrisoFristiLandliebeMilnerMix’itMonaOptimel",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Sabuncu Mevlüt Efendi",
+    "description": "Sabuncu Mevlüt Efendi Nerenin Malı MarkasıSabuncu Mevlüt Efendi, Çağrı Selim Akpınar Sabuncu Mevlüt Efendi bünyesinde üretilen genel temizlik, bebek ve kişisel bakım ürünleri markasıdır.Ürünlerini el yapımı ve doğal üretim yöntemiyle üretmektedir.Firma Elazığ merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kolaymama",
+    "description": "Kolaymama, 2011 yılında kurulmuş olan Doratek Gıda Hay. Tur. Teks. Bil. Elek. Kır. Rek. San. ve Tic. Ltd. Şti. bünyesindeki evcil hayvanlara ait mama, pet bakım ürünleri, aksesuarları, kafesleri, akvaryumları satış mağazaları ve sitesi markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

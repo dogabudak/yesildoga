@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Anatomico Masaj Koltuğu",
+    "description": "Anatomico, Anatomico OOO bünyesindeki masaj koltukları ve sağlık ürünleri markasıdır.Ürünleri arasında vücut bakım ve masaj aletleri, vücut masaj yastığı gibi ürünler bulunmaktadır.Anatomico OOO Rusya merkezlidir ve ürünleri Rusya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Hunan Gold",
+    "description": "Hunan Gold, Hunan Gold Drill Co. Ltd. bünyesinde üretilen profesyonel tricone bit markasıdır.Başlıca ürünleri arasında, tricone biti( 3-7 / 8`ila 26`Neredeyse tüm IADC kodlarını kapsar),delik uçları ve çekiç (DHD,COP,BR,SD,QL,Görev Sapı), düğme uçları, çapraz bitler, keski uçları, bağlantı kovanı, muhafaza borusu, çekirdek tüpü, çift çekirdekli namlu, tek çekirdekli namlu, raybalama kabuğu, elmas bit, PDC bit, sert alaşımlı bit, sondaj borusu yer almaktadır.Hunan Gold Drill Co. Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bozita",
+    "description": "Bozita, 1903 yılında kurulan Doggy AB bünyesinde üretilen kedi ve köpekler için ıslak ve kuru mamalar markasıdır.Kedi ve köpek mamalarını gereksiz katkı maddeleri olmadan doğal malzemelerle formüle etmektedir.Doggy AB İsveç merkezlidir ve ürünlerini İsveç’te üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Alev Sabun",
+    "description": "Alev, 2004 yılında kurulan NB Qrup ASC bünyesinde üretilen sabun, deterjan ve deterjan markasıdır.Firma farklı ebatlarda dört çeşit kalın sabun, ondört çeşit ev ve endüstriyel temizlik ürünü üretmektedir. Katı sabunları doğal bileşenlerden yapılmaktadır.TS-EN-ISO 9001, TS-EN-ISO 14001 belgelerine sahiptir.Azerbaycan merkezli NB Qrup ASC, ürünlerini Azerbaycan’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Teknetics",
+    "description": "Teknetics, 1983 yılında kurulan metal dedektör markası 1989 yılında First T. Products LLC bünyesine geçti.Firma yer altı bulma ekipmanları, güvenlik algılama ekipmanları, gece görüş ürünleri ve kamu hizmetleri bulma, altın madenciliği, güvenlik, avcılık, spor malzemeleri ve hazine avı pazarlarına satılan elektronik devreler üretmektedir.First Texas Products LLC Amerika merkezlidir.Bünyesindeki markalarFisherTekneticsBounty HunterNight Owl OpticsGenNivisys",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

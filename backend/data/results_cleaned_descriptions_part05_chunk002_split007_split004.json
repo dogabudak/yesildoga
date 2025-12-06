@@ -1,0 +1,44 @@
+[
+  {
+    "company": "İhvan",
+    "description": "İhvan, 2014 yılında kurulan İhvan Basın Yayın Dağıtım Tekstil Hediyelik Eşya San. ve Tic. Ltd. Şti. bünyesindeki cami malzemeleri, dini hediyeler, dini kitaplar, hac umre malzemeleri, kuran-ı kerim, mevlüt hediyelikleri, tesettür giyim markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Exodor",
+    "description": "Exodor, 2017 yılında kurulan Türkaz Kozmetik San. ve Tic. Ltd. Şti. bünyesindeki kozmetik, dermokozmetik, parfüm, kolonya, hijyen ürünler, kişisel bakım ve temizlik ürünleri markasıdır.Bünyesindeki markalar;ExodorSanremo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Escabel",
+    "description": "Escabel, 2007 yılında kurulan DC Kozmetik Ltd. Şti. bünyesinde üretilen cilt kremi, güneş koruyucu, doğal sabun, dezenfektan ve kolonya markasıdır.Antalya merkezli firmanın Kocaeli’de üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Marvis",
+    "description": "Marvis, 1908 yılında Ludovice Martelli tarafından kurulan Ludovico Martelli S.p.A. bünyesinde üretilen diş macunu markasıdır.Sağlık ve güzellik, koku, tuvalet hijyeni ürünleri üreticisi udovico Martelli S.p.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Alcop Design",
+    "description": "Alcop Design, 2018 yılında kurulan YLD Endüstri Makina San. ve Tic. Ltd. Şti. bünyesinde üretilen alüminyum konik direk ve dış mekân aydınlatma armatürleri markasıdır.Ankara merkezli firma 2 bin metrekarelik fabrikasında modern ve teknolojik makine parkuru ile üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

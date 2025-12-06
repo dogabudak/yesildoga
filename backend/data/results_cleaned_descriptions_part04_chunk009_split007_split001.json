@@ -1,0 +1,48 @@
+[
+  {
+    "company": "MarshMclennan",
+    "description": "MarshMclennan, 1905 yılında kurulan Marsh & McLennan Companies, Inc. bünyesindeki sigorta komisyon ve risk danışmanı markasıdır.Uzmanları, 130’dan fazla ülkede, müşterilerin karşılaştıkları risk çeşitlerini öngörme, ölçümleme ve daha kapsamlı anlamaları yönünde hizmet vermektedir.MarshMclennan, Amerika merkezli Marsh & McLennan Companies, Inc.’in tamamına sahip olduğu bir yan kuruluştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kuzucu",
+    "description": "Kuzucu, 1989 yılında Halis Kuzucu tarafından kurulan Kuzucu Süt Mamulleri Nakliyat ve Gıda San. ve Tic. A.Ş. bünyesinde üretilen süt ve süt ürünleri markasıdır.TS-EN-ISO 9001, TS EN ISO 22000 ve Helal belgelerine sahiptir.Ürünlerini Konya’da 15 bin metrekarelik açık alan üzerine kurulmuş, 9 bin metrekarelik kapalı alana sahip tesislerinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Termol Temassız Ateş Ölçer",
+    "description": "Termol Temassız Ateş Ölçer Nerenin Malı MarkasıTermol, Drk Medikal Market bünyesindeki temassız ateş ölçer markasıdır.Yerli üretim ürünün vücut ve cisim ısısını ölçmek için iki ayrı modu bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yesen Burger",
+    "description": "Yesen Burger, Enburger Gıda San. Tic. Ltd. Şti. bünyesindeki yerli gıda zinciridir.Doğal, katkı maddesi içermeyen dana eti ve sosuyla harmanlanan ürünleri arasında hamburger, steakburger, patates tava, soğan halkası yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eletrobras",
+    "description": "Eletrobras, 1962 yılında kurulan Centrais Elétricas Brasileiras S.A. bünyesindeki enerji markasıdır.Şirket, üretim, iletim, dağıtım ve ticaret kesimlerinde faaliyet göstermektedir. İş kapsamı; güç, enerji, doğal gaz, rüzgar enerjisinden oluşmaktadır.Centrais Elétricas Brasileiras S. A. Brezilya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  }
+]

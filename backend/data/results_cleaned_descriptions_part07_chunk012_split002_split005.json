@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Fun Box",
+    "description": "Fun Box, 1975 yılında kurulmuş olan Mizan Ev Gereçleri Plastik İnşaat Ticaret Ltd. Şti. bünyesinde üretilen plastik banyo ve mutfak aksesuarları, plastik ev eşyaları, bahçe aksesuarları, plastik mutfak gereçleri, saklama kapları ve kaseler, organizerler markasıdır.ISO 9001 belgesine sahiptir.İstanbul merkezli firma ürünlerini 3 bin 500 metrekaresi kapalı, toplam 5 bin metrekarelik alanda bulunan tesisinde üretmektedir.Bünyesindeki markalar;Fun BoxMizanPlastixToybox",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Milen Ankastre",
+    "description": "Milen, Milen Teknoloji San. ve Tic. A.Ş. bünyesinde üretilen fırın, mini fırın, ankastre fırın, sofra ve mutfak eşyaları, pişirme ekipmanları, paslanmaz çelik pişirme ekipmanları, emaye pişirme ekipmanları, ev eşyaları, dekoratif ev ve mutfak eşyaları, elektrikli ev aletleri markasıdır.Firma Tekirdağ merkezlidir ve ürünlerini 7 bin metrekarelik kapalı alana sahip üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Borghese",
+    "description": "Borghese, 1985 yılında kurulmuş olan Borghese Inc. bünyesinde üretilen kozmetik ürünleri, cilt bakımı, kokular ve saç bakım ürünleri markasıdır.Borghese Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mi-Da-Jo",
+    "description": "Mi-Da-Jo Nerenin Malı MarkasıMi-Da-Jo, 1998 yılında kurulmuş olan Mi Da Jo Plastik İnşaat Malzemeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen soba, ocak düğmesi, fırın düğmesi, fırın kulbu, infrared soba markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir ve ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Haşema",
+    "description": "Haşema Nerenin Malı MarkasıHaşema, 1985 yılında kurulmuş olan Haşema Tekstil Turizm Spor Malz. ve Ambalaj San. Tic. Ltd. Şti. bünyesindeki tesettür mayo markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

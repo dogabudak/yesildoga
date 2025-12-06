@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sentar Akıllı Saat",
+    "description": "Sentar Akıllı Saat Hangi Ülkenin MalıSentar, 2003 yılında kurulan Shenzen SentarSmart Technology Co., Ltd. bünyesinde üretilen akıllı giyilebilir cihazlar markasıdır.Ana ürünleri arasında GPS çocuk izleme, GPS çocuk takibi, GPS Pet takibi, 4G wifi yönlendirici, 4G wifi Dongle gibi ürünler yer almaktadır.Shenzen SentarSmart Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 80’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tesvor",
+    "description": "Tesvor, 2014 yılında kurulan Shenzhen Tian You Intelligence Co. Ltd. bünyesinde üretilen temizlik robotları ve aksesuarları markasıdır.Shenzhen Tian You Intelligence Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-02-22"
+  },
+  {
+    "company": "Yeedi",
+    "description": "Yeedi, 2003 yılında kurulan Reeco Electronic Co., Ltd. bünyesinde üretilen temizlik robotu markasıdır.Reeco Electronic Co., Ltd. Sıvı Kristal Ekran, LCD, TFT-LCD, dokunmatik ekran, kamera, monitör, normal TFT-LCD gibi ürünler üretmektedir.Reeco Electronic Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Naturea",
+    "description": "Naturea, 2010 yılında kurulan Naturea Petfoods bünyesinde üretilen, kedi ve köpekler için kuru ve yaş gıdalar, bisküvi maması markasıdır.Ürünlerinin ana maddeleri hayvansal protein, et veya balık gibi insan tüketimi için onaylanmış ürünlerden oluşmaktadır.Naturea Petfoods Portekiz merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Brax",
+    "description": "Brax, 1888 yılında Bernward Leineweber tarafından kurulan BRAX Store GmbH & Co. KG bünyesindeki hazır giyim markasıdır.Örgü veya çalışma, ceket, gömlek ve bluzları üretmektedir. Kumaşlar genellikle Avrupa’dan, tercihen Almanya’dan, aynı zamanda Güney Amerika’dan da elde edilmektedir.BRAX Store GmbH & Co. KG Almanya merkezlidir. Avrupa ülkeleri, Akdeniz bölgesi ve Çin’de üretim sahaları bulunan uluslararası bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

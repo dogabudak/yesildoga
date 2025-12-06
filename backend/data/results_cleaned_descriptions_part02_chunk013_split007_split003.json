@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Vertagear",
+    "description": "Vertagear, 2015 yılında kurulan Vertagear Netherlands B.V bünyesindeki oyuncu koltuğu markasıdır.Bilgisayar donanım uzmanları, mobilya uzmanları, tasarımcılar ve oyuncularla ürünler geliştirmektedir.Vertagear Netherlands B.V. Hollanda menşelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Türksit",
+    "description": "Türksit Nerenin Malı MarkasıTürksit, 1990 yılında kurulan Türksit Ofis Mobilyaları tarafından üretilen yönetici koltukları, çalışma koltukları, oyuncu koltuğu, bekleme grupları, tabure, oturma grubu, yedek parça markasıdır.ISO 9001 ve TSE belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Strepsils",
+    "description": "Strepsils, 1950 yılında gargara olarak üretilen ağız ve boğaz enfeksiyonları nedeniyle boğazdaki tahrişi rahatlatmak için kullanılan pastil markasıdır.2006 yılında Reckitt Benckiser tarafından satın alınmıştır.Reckitt ve Benckiser şirketlerinin birleşmesiyle 1999 yılında kurulan Reckitt Benckiser (rb) merkezi İngiltere ve Galler olan, ev ve kişisel bakım ürünleri üreten çok uluslu bir firmadır.Ürünleri dünyanın 30’dan fazla ülkesinde üretiliyor ve 110’dan fazla ülkesinde tüketiliyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Mac Allister",
+    "description": "Mac Allister, 1945 yılında Kingfisher International Products Limited bünyesinde yer alan hırdavat malzemeleri ve inşaat malzemeleri markasıdır.Mac Allister markasıyla hırdavat malzemesi ve aksesuarları, basınçlı yıkama makinesi, benzinli çim biçme makinesi, bahçe malzemeleri, inşaat malzemeleri, kaynak makinesi, hobi malzemeleri, çim biçme makinesi, benzinli tırpan, çit budama makinesi, çapalama makinesi, kırıcı ve delici, kaynak makinesi, mengene ve işkence, kablolu vidalama, testere ve matkap, çakı seti, kargaburun, tornavida, eğe gibi ürünler yer almaktadır.Ürünlerini Çin’de ürettirmektedir.Mac Allister, Kingfisher International Products Limited bünyesindeki el aletleri markasıdır. Türkiye’de Mac Allister ürünleri, İngiltere merkezli Kingfisher plc’nin yüzde 50 oranında hisselerine sahip olduğu Koçtaş’ta satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2020-04-18"
+  },
+  {
+    "company": "Telmu",
+    "description": "Telmu, Aicok tarafından üretilen teleskop, mikroskop markasıdır.Aicok ev ve mutfak aletleri, çay ve kahve makineleri, sıkacaklar, ekmek makinesi, dondurma makinesi, tost makinesi, düdüklü tencere ve çoklu ocaklar, banyo terazisi, mutfak aksesuarları, mutfak bıçakları, dilimleyiciler ve öğütücüler, fırın eldivenleri, yedek parça ve aksesuarları Çin’de üreten Çin merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

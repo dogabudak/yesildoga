@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Roc",
+    "description": "Roc, 1943 yılında Dr. Jean Charles tarafından kurulan cilt bakım ürünleri, güneş ürünleri, antiaging ürünleri markasıdır.1998 yılından beri Türkiye dermokozmetik pazarında yer almaktadır.1886 yılında Amerika’da kurulan Johnson & Johnson bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Barbara Bort",
+    "description": "Barbara Bort, 1966 yılında kurulan Soc. In. Cos. Srl. bünyesinde üretilen makyaj ve cilt bakım ürünleri markasıdır.Ürün yelpazesinde göz, kaş, far kalemi, eyeliner, rimel, göz farı, dudak kalemi, dudak parlatıcısı, dudak merhemi, ruj, fondöten, el kremi, stick kapatıcı, krem kapatıcı, kapatıcı kiti, pudra, allık, bronzlaştırıcı, makyaj bazı, makyaj sabitleyici, oje, tırnak sertleştirici, temizleme sütü, tonik losyon, gündüz kremi, gece kremi, göz kremi, yaşlanma geciktirici, nemlendirici maske, leke giderici anti-age krem, C vitaminli krem, güneş kremi, köpük temizleyici, kanama durdurucu losyon, arındırıcı maske, vücut şekillendirici selülit kremi, makyaj temizleyici yer alır.Soc. In. Cos. Srl. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Jeanne Arthes",
+    "description": "Jeanne Arthes, 1978 yılında Bernard Perrin tarafından kurulan Arthes Group bünyesindeki parfüm ve kozmetik markasıdır.Ürünleri 120’den fazla ülkede satılmaktadır. İhracatı, şirketin ürün cirosunun yüzde 75’inden fazlasını oluşturmaktadır.Arthes Group Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Rettenmeier",
+    "description": "Rettenmeier, 1948 yılında kurulan Rettenmeier Holding AG bünyesinde üretilen inşaat kereste, bahçe ve kendin yap ürünleri markasıdır.Şirketin Almanya, Letonya ve Slovakya’da 7 şubesi bulunmaktadır.Rettenmeier Holding AG Almanya merkezlidir ve ürünlerini Almanya’da üretmektdir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Emily",
+    "description": "Emily, 1983 yılında kurulan Erkul Kozmetik A. Ş. bünyesindeki makyaj ürünleri markasıdır.Erkul Kozmetik, oje üretiminde dünyanın 5 büyük üreticisinden biri olan yüzde yüz Türk sermayeli bir şirkettir.Toplam 70 bin metrekarelik alanda kozmetik, plastik ambalaj ve parfüm üretimlerini gerçekleştirmektedir ve ürünlerini 90’dan fazla ülkeye ihraç etmektedir.ISO 22716, Cosmetic-GMP, HALAL MS 1500 ve ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

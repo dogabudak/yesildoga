@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Appliansys",
+    "description": "Appliansys, 2000 yılında kurulan Appliansys Limited bünyesindeki ağ cihazları, sunucu cihazları markasıdır.Cihaz yelpazesi Proxy sunucusu, Web önbelleği, DNS sunucusu, DHCP sunucusu, IPAM, WAN optimizasyonu, içerik filtreleme, Ağ geçidinden oluşmaktadır.Appliansys Limited İngiltere merkezlidir. Ürünlerini 155 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Baykon Tartı",
+    "description": "Baykon, 1987 yılında kurulan Baykon Endüstriyel Kontrol Sistemleri San. ve Tic. A.Ş. bünyesinde üretilen tartı aletleri markasıdır.Endüstriyel ve laboratuvar tartım cihazları, ürün tartı kontrol cihazları sunmaktadır.ISO 9001, ISO 17025 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 17025",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Boge",
+    "description": "Boge, 1907 yılında kurulan BOGE Compressed Air Systems GmbH & Co. KG bünyesinde üretilen kompresörler ve basınçlı hava çözümleri markasıdır.BOGE Compressed Air Systems GmbH & Co. KG Almanya merkezlidir. Ürünlerini 120 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Geba",
+    "description": "Geba, 1986 yılında kurulan Geba Kunststoffcompounds Gmbh bünyesindeki teknik termoplastik bileşikler ve yeniden bileşikler markasıdır.Plastiklere renklendiriciler, dolgu maddeleri ve katkı maddeleri ekleyerek uygulama alanına uygun özelliklere sahip malzemeler üretmektedir.ISO 9001, ISO 14001 belgelerine sahiptir.Geba Kunststoffcompounds Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Captain Olta",
+    "description": "Captain, 2003 yılında kurulan Kaptan Balık Av Malzemeleri San. Tic. Ltd. Şti. bünyesindeki balıkçılık ekipman ve malzemeleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Aqua-StormCaptainCaptain Always With YouCaptain TornadoCaptainpet Always With YouCarp Zero BaitsFireflyKaptan Balıkçılık Malzemeleri ŞekilTornadoYouvella Fısh HooksZbl Surfdriver 110Zipbaits",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Serve",
+    "description": "Serve, 2001 yılında kurulan Kemerburgaz Ofis ve Okul Gereçleri San. Tic. A.Ş. bünyesindeki; min, mekanik kurşun kalem, jel kalem, fineliner, fosforlu kalem, kurşun kalem, silgi, silgili kalemtıraş, makas, ayraç, dosyalama ve arşivleme, ofis araçları markasıdır.Serve markalı bütün ürünlerin, yetkili kimya laboratuvarları tarafından tüm testleri yaptırılmaktadır. PVC ve fitalat gibi sağlığa zararlı kimyasallar içermeyen ürünler üretmektedir.Kemerburgaz Ofis Bünyesindeki markalar:ServeCaretta",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lamy",
+    "description": "Lamy, 1930 yılında C. Josef Lamy tarafından kurulan Lamy GmbH bünyesindeki yazı gereçleri markasıdır.Tükenmez kalem, dolma kalem, versatil kalemler gibi çok fonksiyonlu kalemlere kadar geniş bir ürün yelpazesine sahiptir.Ürünleri dünya çapında 80 ülkeye ihraç edilmektedir.Lamy GmbH Almanya merkezli bir şirkettir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Holmer",
+    "description": "Holmer, 1969 yılında kurulan Holmer Maschinenbau Gmbh bünyesindeki tarım makineleri markasıdır.Şeker pancarı, patates toplama makineleri, temizleme yükleyici, taşıyıcı gibi tarım makineleri üretmektedir.Holmer Maschinenbau Gmbh 2012 yılında Fransa merkezli Exel Industries SA tarafından satın alınmıştır. Türkiye’de Holmer Türkei Otomotiv Limited Şirketi olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-03-19"
+  },
+  {
+    "company": "Gant",
+    "description": "Gant, 1949 yılında Ukrayna’dan yahudi bir göçmen olarak New York’a gelen Bernard Gantmacher tarafından kurulan GANT Inc. bünyesindeki giyim, ayakkabı, gözlük, saat, aksesuarlar ve züccaciye markasıdır.Gant 70 ülkede faaliyet göstermektedir.Gant, merkezi İsviçre’nin Basel kentinde bulunan perakendecilik grubu Maus Fréres Holding’in bir yan kuruluşu olan Manor AG tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Daikin",
+    "description": "Daikin, 1924 yılında Akira Yamada tarafından kurulan Daikin Industries Ltd. bünyesinde üretilen klima ve soğutma, havadan suya ısı pompası sistemleri, isıtma sistemleri, hava temizleyicileri, havalandırma, kontrol sistemleri, hava soğutmalı soğutucular, su soğutmalı soğutucular, hava tarafı ekipmanı, soğutma, deniz hvac, hava filtreleri, parçalar ve sarf malzemeleri, florokimyasallar, yağ hidroliği markasıdır.Daikin Industries Ltd. Japonya merkezlidir. Japonya, Çin, Tayland, Belçika, Çek Cumhuriyeti ve Türkiye’de üretim tesisleri bulunmaktadır. 2011 yılında Türkiye iklimlendirme sektörüne girmiştir. Türkiye’de klima, klima santrali, fancoil, kombi, radyator üretim tesisi bulunmaktadır.Bünyesindeki markalar;BluevolutionComforaDaifreeDaikinDaikin AlthermaDaikin EmuraDaikin On SiteDaikin Solution PlazaExigoFuhaFuha Daikin Solution PlazaIngelligent Chiller ManagerIntelligent ManagerIntelligent Tablet Controllerıntellıgent Thermal SensorIntelligent Touch ControllerIntelligent Touch ManagerLezanovaLoopMadokaMiyora SeasonalNeoflonNepuraNexuraOnectaPerfecting The AirPerferaPichonkunPolyflonRisoraRitmeraRound FlowSeasonal ClassicSeasonal SmartSensiraShirudo TechnologySky AirStreamerStylishTexbarrierUnidyneUnidyne Multi SeriesUnidyne Tg-DryVariable Refrigerant TemperatureVrt Varıable Refrigerant TemperatureVrvVrv Classic",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2023-10-24"
+  }
+]

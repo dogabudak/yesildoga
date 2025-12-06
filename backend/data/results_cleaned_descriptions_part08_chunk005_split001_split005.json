@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Abac Air Compressors",
+    "description": "1980 yılında kurulmuş olan ABAC International / MultiAir Italia S. r. l. bünyesindeki hava kompresörleri, kurutucular ve filtreler markasıdır.ABAC International / MultiAir Italia S. r. l. İsveç merkezli Atlas Copco AB bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": "2025-02-13"
+  },
+  {
+    "company": "S’he Vec",
+    "description": "S’he Vec Nerenin Malı MarkasıS’he Vec, 2021 yılında kurulmuş olan She Vec Sağlık ve Kozmetik Ürünleri San. ve Tic A.Ş. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri alkol, parfüm, paraben ve boyar madde bileşenleri içermez.Firma Bursa merkezlidir ve ürünlerini kendi tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Voop Cosmetics",
+    "description": "Voop Cosmetics, Full Supplement Sağlık Ürünleri San. Tic. A.Ş. bünyesindeki cilt bakım serumları, şampuan, vücut bakımı, güneş koruma ürünleri, temizleme, tonik, takviye edici gıdalar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Full4youFullsupplementNatumereQlifeQlife Adult Multivitamin Guarana GummiesQlife BeautycareQlife Multivitamin Kids Complete GummiesQlife Vitamin C Sambucus GummiesQlifecareSelfcareSeven UpVoopVoop İyi Hissettirir…",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carmit",
+    "description": "Carmit, 1973 yılında kurulmuş olan Carmit Candy Industries Ltd. bünyesinde üretilen marshmallow, lolipop, şekerleme, çikolata, çıkartma paraları, barlar, şekersiz cips ve gofretler, süt içermeyen ve glütensiz, diyetetik ve organik çikolatalar, şekerlemeler markasıdır.Ürünleri doğal, GDO’suz bileşenlerden oluşmaktadır. ISO 9001, Koşer belgelerine sahiptir.Carmit Candy Industries Ltd. İsrail merkezlidir ve ürünlerini İsrail’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Ketoral",
+    "description": "Ketoral, 1953 yılında kurulmuş olan Bilim İlaç San. ve Tic. A.Ş. bünyesindeki saç mantarından saç dökülmelerine kadar, cilt hastalıklarında kullanılan şampuanlar, ilaçlar markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

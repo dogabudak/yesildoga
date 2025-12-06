@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Johansson",
+    "description": "Johansson, 1952 yılında kurulmuş olan Unitron NV bünyesindeki dijital modüler başlıklar, rf ürünleri ve aksesuarları, programlanabilir filtre amplifikatörleri, nesnelerin interneti, ip çözümleri, uydu tv ekipmanı, tv dağıtımı, sinyal dağıtımı, profesyonel başlıklar, modülatörler ve video flamalar markasıdır.Unitron NV Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "EK Ekselans by ITS",
+    "description": "EK Ekselans by ITS, 2011 yılında kurulmuş olan Its Partner Outsourcing Business Solutions SL bünyesindeki elektronik telekomünikasyon ürünleri markasıdır.Its Partner Outsourcing Business Solutions SL İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Lelas Perfumes",
+    "description": "Lelas Perfumes, 2014 yılında kurulmuş olan Lelas Company Kozmetik Ürünleri San. ve Dış Tic. Ltd. Şti. bünyesindeki parfüm markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Louis Alya",
+    "description": "Louis Alya, 2022 yılında kurulmuş olan Louis Alya Kozmetik İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki parfüm markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Savon De Luxe",
+    "description": "Savon De Luxe, 2008 yılında kurulmuş olan Aksan Kozmetik San. ve Tic. A.Ş. bünyesinde üretilen sıvı sabunlar markasıdır.ISO 9001, ISO 22716 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 30 bin metrekarelik entegre tesisinde üretmektedir ve çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

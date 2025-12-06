@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Freely Ölçer",
+    "description": "Freely, 2004 yılında kurulmuş olan Atılım Sağlık A.Ş. bünyesindeki hamile testi, havalı yatak, tekerlekli yürüteç, temassız ateş ölçer gibi sağlık ürünleri markasıdır.ISO 13485 ve ISO 9001 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;AirnebAirsoftAnnaAnna MariaAtılım SağlıkBarimedBarinebBest ChamberBluestarBonzaiDutyEllamedFreelyGoxInnoventKiwiMeyerOnly OneOnlyoneProsoftPuffixPuffyWellform",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Contnit",
+    "description": "Contnit, 2005 yılında kurulmuş olan Alaca Arıtma Sistemleri San. Tic. Ltd. Şti. bünyesindeki bulaşık makinesi ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ContesContonFaitSabuncuzade Mehmet Efendi",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-05-12"
+  },
+  {
+    "company": "Samtecht",
+    "description": "Samtecht, 2002 yılında kurulmuş olan Shenzhen Samtech Co. Ltd. bünyesinde üretilen dizüstü bilgisayarlar, optik oynatıcılar, araçlar için navigasyon cihazları, hoparlör kabini, televizyon cihazları, kameralar, ev için uzaktan kumandalar markasıdır.ISO 9001, ROHS, CE belgelerine sahiptir.Shenzhen Samtech Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmiştir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Delco Remy",
+    "description": "Delco Remy, 1928 yılında kurulmuş olan borgwarner Inc. bünyesindeki otomotiv yedek parçaları markasıdır.Borgwarner Inc. Amerika merkezlidir. Ürünlerini 22 ülkede bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mediflora",
+    "description": "Mediflora, 2021 yılında kurulmuş olan Mediflora Kozmetik Gıda Tarım Ürün. Tic. ve San. İth. İhr. Ltd. Şti. bünyesindeki doğal sabun, doğal şampuan, doğal bebek bakımı, bitkisel kozmetik, aromaterapi, doğal kozmetik, organik kozmetik markasıdır.Ürünleri için genellikle kompostlanabilir kağıt ambalajlar tercih edilmektedir.Firma Muğla merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

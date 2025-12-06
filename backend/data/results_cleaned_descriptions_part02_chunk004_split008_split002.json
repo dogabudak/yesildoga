@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cudeman",
+    "description": "Cudeman, 1988 yılında kurulan CUDEMAN S.A. bünyesindeki çakı ve bıçak markasıdır.Cudeman ürünleri 40’dan fazla ülkeye ihraç edilmektedir.CUDEMAN S.A. İspanya merkezli bir aile şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Domol",
+    "description": "Domol, 1972 yılında Dirk Rossmann tarafından kurulan DİRK ROSSMANN GMBH bünyesindeki temizlik ürünleri markasıdır.Şirketin sahipleri yüzde 60 hisse ile Alman Rossmann ailesi ve yüzde 40 hisse ile Hong Kong merkezli Watson gurubudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aperam",
+    "description": "Aperam, 2011 yılında kurulan Aperam S.A. bünyesindeki çelik markasıdır.Brezilya, Belçika ve Fransa’da üretim tesisleri bulunmaktadır.Şirketin merkezi Lüksemburg’da yer almaktadır. Aperam firmasının yüzde 40,83 oranındaki hissesi Mittal ailesine aittir.Türkiye’de Aperam Paslanmaz Çelik San. ve Tic. A.Ş., yassı ürünlerin proses edilmesi ve dağıtımı üzerine faaliyet gösteren bağlı kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "IFF",
+    "description": "IFF, 1833 yılında kurulan International Flavors & Fragrances Inc. bünyesindeki tat ve koku ürünleri markasıdır.Tatlar ve kokular; içecekler, tatlılar, süt ve tuzlu ürünlerin, yanı sıra güzellik bakım ürünleri, deterjanlar ve ev eşyaları için üretiliyor.IFF Amerika merkezli bir şirkettir. Türkiye’de IFF Aroma Esans Sanayi ve Ticaret A.Ş. olarak üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-10-06"
+  },
+  {
+    "company": "Heitmann",
+    "description": "Heitmann, 1874 yılında kurulan Brauns-Heitmann Gmbh & Co. Kg bünyesindeki Çamaşır Temizleme ürünleri ve Ev Temizlik ürünleri markasıdır.Brauns-Heitmann Gmbh & Co. Kg Almanya merkezli bir şirkettir.Bünyesindeki markalar:SimplicolHeitmannHeitmann ImpresanImprägnolHeitmann egg dyesHeitmann DecoKREBS & SOHN",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

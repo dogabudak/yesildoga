@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Flipperz",
+    "description": "“Flipperz“1997 yılında kurulmuş olan Relkon Hellas S.A. bünyesinde üretilen şekerleme ve oyuncak markasıdır.Ürünleri yapay renklendirici içermez. ISO 22000, BRC, BSCI ve Helal belgelerine sahiptir.Relkon Hellas S.A. Yunanistan merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Xtorm",
+    "description": "“Xtorm“2007 yılında kurulmuş olan Telco Accessories B.V. bünyesindeki güç bankası, şarj cihazları, elektrik santralleri, enerji santralleri için güneş panelleri, güneş jeneratörleri markasıdır.Telco Accessories B.V. Hollanda merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Marina Grill",
+    "description": "“Marina Grill“2002 yılında kurulmuş olan Mizan Metal Plastik Mobilya Tic. ve San. Ltd. Şti. bünyesinde üretilen kamp sobası, kuzine soba, barbekü, katlanır mangal, çadır, karavan ve ızgara markasıdır.Firma Samsun merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tadiran Batteries",
+    "description": "“Tadiran Batteries“1963 yılında kurulmuş olan Tadiran Batteries Ltd. bünyesinde üretilen endüstriyel kullanım için birincil ve şarj edilebilir lityum iyon piller markasıdır.Tadiran Batteries Ltd. Fransa merkezli TotalEnergies SE bünyesindeki Saft Groupe SAS’ın tamamına sahip olduğu bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "İpeker",
+    "description": "“İpeker“1930 yılında kurulmuş olan İpeker Tekstil Tic. ve San. A.Ş. bünyesinde üretilen tekstil markasıdır.Dokuma, örgü ve jakardan oluşan bir ürün yelpazesine sahiptir. Ürünlerinde hayvansal katkılar veya malzemeler kullanılmamaktadır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

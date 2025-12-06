@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Chanty",
+    "description": "Chanty, 1957 yılında kurulmuş olan Chanty Spitzenfabrik Gmbh & Co. Kg bünyesindeki spor giyim, plaj kıyafeti, ev tekstili, pijama, mayo, iç giyim ürünleri markasıdır.Chanty Spitzenfabrik Gmbh & Co. Kg Almanya merkezlidir. Ürünlerini 45 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Zomake",
+    "description": "Zomake, Guangzhou Sidianjin Trading Co. Ltd. bünyesinde üretilen şemsiyeler, çantalar, fırçalar, şişeler, battaniyeler, havlular, bayraklar markasıdır.Guangzhou Sidianjin Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Watano Torna",
+    "description": "Watano, 2010 yılında kurulmuş olan Taizhou Zhedong Machine Tool Accessory Co. Ltd. bünyesinde üretilen torna, takım tezgahı, elektrikli matkaplar için aynalar, elektrikli matkaplar, elle çalıştırılanlar dışındaki el aletleri, dikiş makineleri, freze makineleri, takım tutucular, elektrikli el aletleri, yani matkap presleri, dinamolar markasıdır.ISO 9001 belgesine sahiptir.Taizhou Zhedong Machine Tool Accessory Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Oruç Marketleri",
+    "description": "Oruç, 1967 yılında temeli atılan Birlik Gıda İnş. San. Tic. Ltd. Şti. marketler zinciri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Alioğulları Ek İnşaatAlioğulları YapıBadoBenim DönerimBizden OruçEvigoFilemarFilemyaFillemarKeseKobiKöfte SarayıM23 CafeMiselekOruçOruç Kobi KartTatelekUnelek",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dlex Electronics",
+    "description": "Dlex Electronics, 2021 yılında kurulmuş olan Dlex Elektronik A.Ş. bünyesinde üretilen hareket sensörlü led ışıklar, hareket dedektörü, varlık dedektörü, kablosuz aydınlatma kontrolü markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

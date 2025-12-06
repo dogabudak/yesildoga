@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Griesson",
+    "description": "Griesson, 1924 yılında kurulan Griesson de Beukelaer GmbH & Co. KG bünyesinde üretilen meyveli, gevrek veya çikolatalı bisküvi ve kek markasıdır.Griesson de Beukelaer GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Capone Outfitters",
+    "description": "Capone Outfitters, 2017 yılında kurulan Zeugmas Ayakkabı Tekstil İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki ayakkabı çanta markasıdır.12 ülkede franchise mağazalarına sahiptir. 110 ülkeye mikro ihracat yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Superblade",
+    "description": "Superblade, 1993 yılında kurulan Super Micro Computer Inc. bünyesindeki kurumsal BT, Veri Merkezi, Bulut Bilişim, HPC ve gömülü sistemler için yeşil bilgi işlem çözümleri sağlayıcısıdır.Sunucular, kesiciler, GPU sistemleri, iş istasyonları, anakartlar, şasi, güç kaynakları, depolama teknolojileri, ağ çözümleri ve dolapları veya aksesuarları ürün yelpazesine sahiptir.Super Micro Computer Inc. Amerika merkezlidir. 100’den fazla ülkede küresel operasyonlara sahiptir.ISO 9001, ISO 13485 ve ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bese",
+    "description": "Bese, 2007 yılında kurulan Özgüney Elektrik İnşaat Nakliyat Taşımacılık Mobilya San. ve Tic. Ltd. Şti. bünyesinde üretilen yağlı tip dağıtım transformatörleri ve özel tip transformatör markasıdır.25-2500 kVA güç aralığında, 36 kV gerilim seviyesine kadar hava doğal soğutmalı ve ya fan soğutmalı seçeneğiyle Dökme Reçineli Kuru Tip Dağıtım Transformatör üretimi yapmaktadır.Ürünlerini Ankara 1. Organize Sanayi 5. Genişleme Bölgesinde 34 bin metrekarelik alanda bulunan 25 bin metrekarelik kapalı alanda üretmektedir.Bünyesindeki markalar;Aykon OtomasyonAykonAykon AltayAykon DisplayAykon EnergyAykon EnerjiAykon LedAykon PanoAykon SolarBeseEfg",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İstanbul Gelişim Üniversitesi",
+    "description": "İstanbul Gelişim Üniversitesi Sahibi Kim Hangi Ülkeninİstanbul Gelişim Üniversitesi, 2011 yılında Abdulkadir Gayretli tarafından kurulan Gelişim Eğitim ve Kültür Vakfı’na ait İstanbul’da bulunan üniversitedir.4 fakülte, 3 enstitü, 4 yüksekokul ve 2 meslek yüksekokul ile faaliyet göstermektedir.Gökkuşağı Koleji Sahibi Kim Hangi Ülkenin",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

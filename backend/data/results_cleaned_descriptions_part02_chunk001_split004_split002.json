@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Multiactiv",
+    "description": "Multiactiv, 1989 yılında kurulan YUCO-HEMIJA DOO. şirketi bünyesinde üretilen kozmetik ürünleri, sanayi ve ev hijyeni bakım ürünleri markasıdır.Kimya endüstrisi, Kozmetik ürünleri, Ev ve sanayi için hijyen ürünleri, Bitkiler için sıvı gübreler üreten YUCO-HEMIJA DOO. Sırbistan merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RS",
+    "updated_date": "2022-03-24"
+  },
+  {
+    "company": "Noreva",
+    "description": "Noreva, 1990 yılında kurulan Laboratoires Noreva bünyesindeki dermokozmetik markasıdır.Ürünleri 70 ülkede satılan, çevreye ve canlıya duyarlı bir markadır. Üretimin hiç bir sürecinde hayvanlar üzerinde test yapılmamaktadır.Laboratoires Noreva Fransa merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Sebovium",
+    "description": "Sebovium, 1996 yılında kurulan Assos İlaç bünyesindeki şampuan markasıdır.Uzun süre kullanılabilen ve içinde; Salisilik asit, Ardıç katranı, Çinko piritiyon, Pirokton olamin, Laktik asit, Sodyum laktat, Glisirretenik asit içerikli bir şampuandır.Assos İlaç yerli sermaye ile faaliyetlerini sürdüren bir sağlık kuruluşudur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-03-27"
+  },
+  {
+    "company": "Bargello",
+    "description": "Bargello, 1950 yılında kurulan BRG Kozmetik A.Ş. bünyesindeki parfüm, kolonya, deodorant, body splash, araç kokusu, ortam kokusu, kurumsal koku markasıdır.450 ürün çeşidiyle 24 ülke’de ürünleri satılmaktadır.Gonca Kolonya ve ScentPlus bünyesindeki diğer markalardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pfanner",
+    "description": "Pfanner1856 yılında kurulan Pfanner Getranke Gmbh bünyesindeki meyve suları ve buzlu çaylar markasıdır.Pfanner Getranke Gmbh Avusturya merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": "2024-07-17"
+  }
+]

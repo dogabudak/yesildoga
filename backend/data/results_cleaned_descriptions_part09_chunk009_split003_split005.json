@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Plus Proline Professional",
+    "description": "“Plus Proline“2021 yılında kurulmuş olan Lider Grup Hırdavat San. ve Tic. A.Ş. bünyesindeki yapı kimyasalları markasıdır.Firma İstanbul merkezlidir ve ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rokodil Professional",
+    "description": "“Rokodil“2013 yılında kurulmuş olan Car Diagnostic Solutions Inc. bünyesindeki onarım ve inşaat, sıhhi tesisat ve otomotiv aletleri markasıdır.Car Diagnostic Solutions Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Martat Banyo",
+    "description": "“Martat“2021 yılında kurulmuş olan Martat Gıda İnşaat Spor Mobilya ve Otopark İşletmeciliği San. A.Ş. bünyesindeki banyo mobilyaları markasıdır.Firma Bursa merkezlidir. 30 bin metrekarelik kapalı alana sahip 2 tesisinde üretim yapmaktadır ve ürünlerini 30 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meyvit",
+    "description": "“Meyvit“2014 yılında kurulmuş olan Meyvit Gıda Insaat Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen aromalı, vitaminli içecekler, meyve suları ve nektarlar markasıdır.Ürünleri aroma verici, tatlandırıcı içermektedir.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pedix",
+    "description": "“Pedix“2001 yılında kurulan Özbey Hijyenik Ürünleri Ambalaj ve Gıda San. ve Tic. A.Ş. bünyesinde üretilen mesane pedi markasıdır.ISO 9001 ve ISO 17025 belgelerine sahiptir.Firma Karaman merkezlidir. Ürünlerini 70 bin metrekarelik alanda üretmektedir ve 60 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 17025",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

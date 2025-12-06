@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Scubapro",
+    "description": "Scubapro, 1971 yılında kurulan Johnson Outdoors Inc. bünyesindeki dalış, zıpkın ve malzemeleri, pusula ve navigasyon malzemeleri, regülatörler, bilek bilgisayarları, serbest dalış bilgisayarları, bcd bulucu, şnorkel yelekler, dalış giyim ürünleri, yüzgeçler, şnorkeller, çanta ve giyim ürünleri markasıdır.Johnson Outdoors Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Çene Suyu",
+    "description": "Çene Suyu Nerenin Malı MarkasıÇene Suyu, 1999 yılında kurulan Çenesuyu A.Ş. bünyesinde üretilen doğal kaynak suyu markasıdır.Pet preformlar dolum tesislerindeki makinelerde şişirilerek pet şişe haline getirilip ozonlu suyla çalkalanarak tam otomatik makinelerde doldurulur. Damacanalar deterjan ile yıkanıp ozonlu su ile durulanarak sanitize edilir.Çenesuyu A.Ş., Kocaeli Derince Belediyesi kuruluşudur. Ürünleri çok sayıda ülkeye ihraç edilmektedir.Bünyesindeki markalar;Çene SuyuÇenesuyu Doğal Kaynak SuyuÇenesuyu Taşköprü",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Skyjet Bisiklet",
+    "description": "Skyjet, 2004 yılında kurulan Kuba Otomotiv İnşaat San. ve Tic. A.Ş. bünyesinde üretilen elektrikli bisiklet markasıdır.MJ Group çatısı altında yer alan firma ISO 9001 belgesine sahiptir.Gaziantep merkezli firma Gaziantep 4. OSB’de 35 bin metrekarelik üretim tesisi ile Manisa’da 20 bin metrekarelik montaj fabrikasına sahiptir. Ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Apnea",
+    "description": "Apnea, 2000 yılında kurulan Apnea Deniz Malzemeleri Plastik Turizm San. ve Tic. Ltd. Şti. bünyesinde üretilen dalış elbiseleri, dalış feneri, lastikler, makara ve ipler, maske, neopren aksesuarlar, palet, snorkel, zıpkın aksesuarları markasıdır.Manisa merkezli firma ürünlerini 18 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "New Life Spectrum",
+    "description": "New Life Spectrum, 1992 yılında Pablo Tepoot ve Ian Tepoot tarafından kurulan New Life International Inc. bünyesinde üretilen akvaryum balığı yemleri markasıdır.Hemen hemen her çeşit akvaryum balığı, mercan ve omurgasız için formüllere sahiptir.New Life International Inc. Amerika merkezlidir ve ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

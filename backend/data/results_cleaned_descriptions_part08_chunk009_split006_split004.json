@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Ella’s Kitchen",
+    "description": "Ella’s Kitchen2006 yılında kurulmuş olan Ella’s Kitchen Limited bünyesindeki organik bebek maması markasıdır.Ella’s Kitchen Limited 2013 yılında Amerika merkezli The Hain Celestial Group Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Maimeri",
+    "description": "Industria Maimeri S.p.A. bünyesindeki akrilik boya, guaj boya, oyun hamuru, sulu boya, yağlı boya, yardımcı malzemeler markasıdır.Industria Maimeri S.p.A. İtalya merkezli F.I.L.A. Group bünyesindedir. Ürünlerini 50 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Purobio",
+    "description": "2014 yılında kurulmuş olan Mami s.r.l. bünyesindeki saç bakım ürünleri, kozmetik, makyaj ve organik makyaj ürünleri, doğal ve su geçirmez kaş kalemleri, maskaralar, rujlar markasıdır.Sağlığa zararlı maddeler kullanmadan üretilen ürünler hayvanlar üzerinde test edilmemektedir.Mami s.r.l. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bh Cosmetics",
+    "description": "2014 yılında kurulmuş olan Revolution Beauty Group PLC bünyesindeki göz, dudak, yanaklar ve daha fazlası için çok çeşitli makyaj ve fırçalar markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Revolution Beauty Group PLC İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ergotools Pattfield",
+    "description": "1995 yılında kurulmuş olan ISC Gmbh bünyesindeki bahçe pompası, su sistemi, akülü matkap markasıdır.ISC Gmbh Almanya merkezli Einhell Germany AG’nin bir yan kuruluşudur. Ürünlerini Çin’de ürettirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

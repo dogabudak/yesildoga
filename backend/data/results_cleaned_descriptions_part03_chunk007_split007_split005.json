@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Leki",
+    "description": "Leki, 1948 yılında Karl Lenhart tarafından kurulan Lenhart GmbH bünyesindeki kayak, trekking ve batonlu yürüyüş direkleri, eldiven ve aksesuar markasıdır.En güçlü iç ve dış kilitleme sistemlerine sahiptir.Lenhart GmbH Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ferrino Budama Makası",
+    "description": "Ferrino, 1998 yılında Alper Bektaş tarafından kurulmuş olan Vona Tarım bünyesinde ithal edilen bahçe el aletleri, motorlu tırpan, motorlu testere, çapa makinesi, tekerlekli çim biçme makinesi, zirai ilaçlar, yedek parçalar markasıdır.Firma Ordu merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-03"
+  },
+  {
+    "company": "Hannah",
+    "description": "Hannah, 1991 yılında kurulan Outdoor Concept a.s. bünyesindeki açık hava, spor giyim ve ekipman markasıdır.Ürün yelpazesi kayak ve dış giyim, çadır, uyku tulumu, sırt çantaları, ayakkabı ve aksesuarları içerir.Outdoor Concept a.s. Çek Cumhuriyeti merkezlidir. Ürünlerini 25’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Sweet Baby",
+    "description": "Sweet Baby, 1965 yılında kurulan Arıkan Plastik İç ve Dış Ticaret bünyesindeki anne ürünleri, bebek aksesuarları, bebek bakım ürünleri, bebek beslenme ürünleri, bebek hediye seti, biberon emzikleri, biberonlar, diş kaşıyıcılar, emzik askıları, emzikler, standlar, suluklar markasıdır.Yerli bebek emziği ve biberon üreticisidir ve ürünlerini 5 bin metrekarelik alanda, tedarikçilerinden aldığı ham maddelerle üretmektedir. ISO 9001, ISO22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "ISO22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Patagonia",
+    "description": "Patagonia, 1973 yılında Yvon Chouinard tarafından kurulan Patagonia, Inc. bünyesindeki dış giyim, dış mekan, ayakkabı markasıdır.Dağcılık, sörf, açık hava, askeri ve giyim ürünleri üretmektedir. 1996 yılından bu yana, tüm pamuk ürünleri pestisit içermeyen organik pamuk ile üretilmektedir ve yün ürünlerinde klor işlemeli olmayan hammaddeler kullanmaktadır.Patagonia, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

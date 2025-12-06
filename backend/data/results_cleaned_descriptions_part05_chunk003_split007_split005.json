@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Güzelpınar",
+    "description": "Güzelpınar Nerenin Malı MarkasıGüzelpınar, 1964 yılında kurulan Güzelpınar Kaynak Suyu San. Tic. Ltd. Şti. bünyesinde üretilen ambalajlanmış su markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.İstanbul’da faaliyet gösteren firma pet ve dönüşümlü cam şişe kullanmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-30"
+  },
+  {
+    "company": "Gimat Gross",
+    "description": "Gimat Gross, 2015 yılında kurulan Gimat Mağazacılık San. ve Tic. A.Ş. bünyesindeki market zinciridir.Ankara merkezli firmanın kurucu ortakları, Gıda ve İhtiyaç Maddeleri Toptancıları (Gimat) kökenlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "York",
+    "description": "York, 1874 yılında kurulan York International Corporation bünyesinde üretilen klima, ısıtma ve soğutma makineleri, ticari hvac, endüstriyel soğutma, hava işleyicileri markasıdır.York International Corporation 2005 yılında Amerika merkezli Johnson Controls Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zuzu Toys",
+    "description": "Zuzu Toys, 1978 yılında kurulan Zuzu Toys İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen plastik oyuncak markasıdır.İstanbul Dudullu OSB’de TS 5217 ve EN71 standartlarında üretim yapmaktadır.Bünyesindeki markalar;Baby ZuzuDoktor Zuzuİlk Arabam İlk AdımWonstarZuzu BabyZuzu Toys",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arlight",
+    "description": "Arlight, 1991 yılında kurulan Arlight Aydınlatma A.Ş. bünyesinde üretilen iç ve dış mekanda LED ve konvansiyonel aydınlatma çözümleri markasıdır.Firma ürünlerini 10 bin metrekaresi kapalı ve 14 bin metrekaresi açık alanda bulunan fabrikasında üretmektedir.Arlight Aydınlatma A.Ş. 2014 yılında İsveç merkezli Fagerhult AB tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": "2022-10-17"
+  }
+]

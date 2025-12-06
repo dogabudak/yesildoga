@@ -1,0 +1,51 @@
+[
+  {
+    "company": "NASA U.S",
+    "description": "Nasa U.S, 2015 yılında kurulmuş olan Bektaş Saraciye İnş. Tur. San. Tic. Ltd. Şti. bünyesinde üretilen valiz, çanta markasıdır.Valizin teker, çekçek gibi aksesuarlarıda firma tarafından üretilmektedir. ISO 9001, ISO 14001, ISO 10002, ISO 27001, OHSAS 18001 belgelerine sahiptir.Firma Antalya merkezlidir. Ürünlerini Türkiye’de 10 bin metrekarelik alanda üretmektedir ve 23 ülkeye ihraç etmektedir.Bünyesindeki markalar;NASA U.SOX",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Daya Diamonds",
+    "description": "Daya Diamonds, 2022 yılında kurulmuş olan Daya Diamond Kuyumculuk Ltd. Şti. bünyesindeki altın takı mücevherler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nantero",
+    "description": "Nantero, 2001 yılında kurulmuş olan Nantero Inc. bünyesindeki nanoteknoloji, yarı iletkenler ve bellek markasıdır.Nantero Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Agucino",
+    "description": "Agucino, 1983 yılında kurulmuş olan Agucino Ayakkabı San. Tic. Ltd. Şti. bünyesindeki ayakkabı, spor ayakkabı, bot, çizme markasıdır.Firma İzmir merkezlidir.Bünyesindeki markalar;AgucinoDewittBelight",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Canilh",
+    "description": "Canilh, 1990 yılında Caner İlhan tarafından kurulmuş olan Canilh Ayakkabı Deri ve Mamülleri San. ve Tic. Ltd. Şti. bünyesinde üretilen bayan ayakkabıları markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

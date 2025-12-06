@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Tochain",
+    "description": "Tochain1996 yılında kurulmuş olan Anhui Tuqiang Stationery Manufacturing Co. Ltd. bünyesindeki ofis malzemeleri markasıdır.ISO 9001, ISO 14001, FSC belgelerine sahiptir.Anhui Tuqiang Stationery Manufacturing Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dickie Toys",
+    "description": "Dickie1993 yılında iki şirketin birleşmesiyle kurulmuş olan Simba Dickie Group bünyesindeki oyuncak markasıdır.Simba Dickie Group Almanya merkezlidir. Ürünleri Hong Kong’ta üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2024-07-06"
+  },
+  {
+    "company": "Özsu Balık",
+    "description": "Özsu Balık1995 yılında kurulmuş olan Özsu Balık Üretim A.Ş. bünyesindeki balık unu, balık yağı, balık yemi katkı maddesi, yavru balıkların üretimi, levrek ve çipura markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nanit",
+    "description": "2014 yılında kurulmuş olan Udisense Inc. bünyesindeki bebek monitörleri, bebek ses ışık makinesi ve aksesuarlar markasıdır.Uyku düzenini gerçek zamanlı olarak izleyen ve analiz eden, uyku bilgileri, davranış analizi, uzman tavsiyesi ve gece video özetleri sunan bir kameraya dayalı makine öğrenimi ve bilgisayarla görme tabanlı monitör sıunmaktadır.Udisense Inc. Amerika merkezlidir.İsrail merkezli Jerusalem Venture Partners (JVP), Upfront Ventures ve Vulcan gibi yatırımcılardan yatırım almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-08-29"
+  },
+  {
+    "company": "Peligom",
+    "description": "Peligom1980 yılında kurulmuş olan Pelikan International Corp. Bhd. bünyesindeki yapıştırıcılar, tutkallar markasıdır.Şirket yazı gereçlerinin üretimi ve dağıtımı ile uğraşan bir yatırım holding şirketidir.Pelikan International Corp. Bhd. Malezya merkezlidir.Hissedarlar:Urusharta Jamaah Sdn. Bhd. (yüzde 25,8)Hooi Keat Loo (yüzde 18,1)Ikhlas Capital Singapore Pte Ltd. (yüzde 9)PBS Office Supplies Holding Sdn. Bhd. (yüzde 5,5)Hoon Hin Seow (yüzde 3)Jing Jeong Tan (yüzde 1,7)Ma Yu Chua (yüzde 1,7)Ray Men Chua (yüzde 1,3)Poo Seng Teh (yüzde 1,1)Koon Seng Yong (yüzde 1,1)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  }
+]

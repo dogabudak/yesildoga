@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mersat",
+    "description": "Mersat1984 yılında kurulmuş olan Mert-Er Elektronik San. ve Tic. Ltd. Şti. bünyesindeki uydu alıcısı ve uydu alıcı kumandalarımarkasıdır.Firma İstanbul merkezlidir. Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Drancor",
+    "description": "Drancor1996 yılında kurulmuş olan Drancor Srl bünyesinde üretilen dondurma, hamur işi ve şekerleme markasıdır.Kakao tozu, hindistancevizi yağı, aroma, emülgatör içerik maddelerinin tümü Almanya’dan ithal edilmektedir.Drancor Srl Moldova merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MD",
+    "updated_date": null
+  },
+  {
+    "company": "Efkar Çay Gold",
+    "description": "Efkar Çay Gold1993 yılında kurulmuş olan Pekmezli Çay San. ve Tic. Ltd. Şti. bünyesinde üretilen çay markasıdır.Firma Rize merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bactolac",
+    "description": "Technomen2018 yılında kurulmuş olan Bm Co Gıda Tarım Turizm San. ve Tic. Ltd. Şti. bünyesindeki sıvı canlı probiyotik markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wonne Adler Çikolata",
+    "description": "Wonne1995 yılında kurulmuş olan Bim Birleşik Mağazalar A.Ş. adına muhtelif üreticiler tarafından üretilen çikolata markasıdır.Üretici firmalar ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

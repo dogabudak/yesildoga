@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Wintact",
+    "description": "Wintact, 2015 yılında kurulan Huitianyi Electronics Co. Ltd. bünyesindeki test cihazı, kızılötesi termometre, rüzgar hızı veya akış cihazı, ortam sıcaklığı veya nem ve gürültü algılama, hava kalitesi ve çeşitli endüstriyel gaz algılama, kalınlık ölçer ve titreşim ölçer, optik aydınlatma cihazı ve dedektörler markasıdır.Shenzhen Huitianyi Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ladycolor",
+    "description": "Ladycolor Aksesuar, 1980 yılında Ali Eren tarafından kurulan Eren Tic. Paz. ve Taahhüt Ltd. Şti. bünyesindeki şal, şapka, atkı, eldiven, şemsiye, panço, pelerin, boyunluk, bere, kep, pareo, fulae, eşarp markasıdır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bonacibo",
+    "description": "Bonacibo, 1982 yılında Oktay Çağatay tarafından kurulan Çağatay Evcil Hayvan Mamaları ve Yem Ürünleri San. ve Tic. A.Ş. tarafından üretilen kedi ve köpek maması markasıdır.Ürünlerini İzmir’de 16 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "PowerLux",
+    "description": "PowerLux, 1994 yılında kurulan PowerLux Corporation bünyesinde üretilen aydınlatma ürünleri markasıdır.Kompakt Floresan Lamba, Elektrodsuz indüksiyon lambası ve LED’ler için elektronik balastlar, adaptörler ve armatürlerin üreticisidir.PowerLux Corporation Amerika merkezlidir ve ürünleri Amerika’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Forever Living",
+    "description": "Forever Living, 1978 yılında Rex Maughan tarafından kurulan Forever Living.com, L.L.C. bünyesinde üretilen kişisel bakım ürünleri, kozmetik, sağlık ve güzellik ürünleri markasıdır.Forever Living.com, L.L.C. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir. 160’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

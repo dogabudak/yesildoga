@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Leyland",
+    "description": "Leyland, 1968 yılında kurulan Leyland Motor Corporation bünyesindeki traktör markasıdır.2001 yılında katı emisyon kuralları nedeniyle üretim sonlandırıldı.1982 yılında Leyland Motor Corporation, İngiltere merkezli Marshall, Sons & Co.’ye satıldı.Günümüzde kullanılan son Leyland markalı traktörler, J. Charnleys & Son’s tarafından üretilmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Luxxing",
+    "description": "Luxxing, 1995 yılında kurulan Luxking Group Holdings Limited bünyesinde üretilen yapışkan bantlar markasıdır.Luxking Group Holdings Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kronotex",
+    "description": "Kronotex, 1993 yılında kurulan KRONOTEX GmbH & Co. KG bünyesindeki yapı malzemeleri, laminat parke, döşeme markasıdır.Ürünlerini 90’dan fazla ülkeye ihraç etmektedir.KRONOTEX GmbH & Co. KG, 1966 yılında Ernst Kaindl tarafından kurulan İsviçre merkezli ahşap esaslı malzeme üreticisi Swiss Krono Group AG’nin bir parçasıdır ve ürünlerini Almanya’da üretmektedir.Swiss Krono, İsviçre, Fransa, Almanya, Polonya, Macaristan, Ukrayna, Rusya ve ABD’de fabrikalar işletmektedir.Bünyesindeki markalar:American ConceptKronopolKronostarKronoswissKronotexSwiss Krono",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Doyum Su",
+    "description": "Doyum Su, 2007 yılında Kumbasar Ailesi ve Halıcıoğlu Ailesi ortaklığında satın alınan Bilkay Su San. Tic. Ltd. Şti. bünyesindeki doğal kaynak suyu markasıdır.Bilkay Su San. Tic. Ltd. Şti. tamamen yerli sermayelidir. Erzurumda 72 bin metrekarelik açık, 12 bin metrekarelik kapalı alanda bulunan tesislerinde üretim yapmaktadır. Ürünlerini 7 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Başkent Traktör",
+    "description": "Başkent Traktör, 2002 yılında kurulan Başkent Traktör A.Ş. bünyesindeki traktör ve yedek parçaları markasıdır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

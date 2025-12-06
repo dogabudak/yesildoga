@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Noodlex",
+    "description": "1920 yılında kurulmuş olan Erişler Gıda San. ve Tic. A.Ş. bünyesinde üretilen hazır noodle markasıdır.Ürünleri patates nişastası, guar gam, asitlik düzenleyici, maltodekstrin, mısır nişastası, palm yağı, aroma vericiler içermektedir.Firma Tekirdağ merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nouval",
+    "description": "2005 yılında kurulan Nouval Group Mutfak Eşyaları Dış. Tic. Şti. bünyesindeki alüminyum ve paslanmaz çelik tencereler, tavalar ve cezve markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 40’tan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Toprak Rehberi",
+    "description": "2006 yılında kurulmuş olan Toprak Rehberi Gayrimenkul Yatırım San. ve Tic. Ltd. Şti. bünyesindeki yatırım rehberi markasıdır.Türkiye’deki toprak ve arsa yatırımlarını sunmaktadır.Firma Samsun merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ailipu",
+    "description": "1997 yılında kurulmuş olan Zhejiang Ailipu Technology Co. Ltd. bünyesinde üretilen dozaj pompaları, komple enjeksiyon paketleri ve sistemleri markasıdır.Zhejiang Ailipu Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Medicon",
+    "description": "1941 yılında 6 şirketin birleşmesiyle kurulmuş olan Medicon eG bünyesinde üretilen cerrahi ve tıbbi aletler, implantlar markasıdır.Plastik, kulak, burun, kardiyo ve genel cerrahi ürünleri, motor sistemleri, nöro, omurga ve karniyal bakım cihazları, el aletleri, steril eşya malzemeleri ve diğer tıbbi ekipmanları sunmaktadır.Medicon eG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Roger Dubuis",
+    "description": "Roger Dubuis, 1995 yılında Roger Dubuis ve Carlos Dias tarafından kurulan lüks, kadın ve erkek saat markasıdır. 2008 yılında Richemont International SA tarafından satın alınmıştır.Roger Dubuis kalibreleri, altın, elmas ve titanyum gibi saat yapımında farklı geleneksel malzemelerin yanı sıra karbon, seramik ve kobalt gibi yeni malzemelerden yapılmıştır.Saatlerin çoğu iskelet saatler ve koleksiyonları 8, 28 veya 88 saatle sınırlı sürümleri vardır.Richemont grubu İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Diana",
+    "description": "Diana, 1941 yılında Hamdi Dalan tarafından kurulan DALAN Kimya A.Ş. bünyesindeki sabun ürünleri markasıdır.İzmir’de bulunan 70 bin metrekarelik tesislerinde sabun, kozmetik ve gliserin üretimi yapmaktadır.Ürünlerini 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Barco",
+    "description": "Barco, 1934 yılında Lucien De Puydt tarafından kurulan Barco NV bünyesindeki ekran teknolojisi, projeksiyon teknolojisi, bağlantı platformları, görüntü işleme ürünleri markasıdır.Barco NV, dijital projeksiyon ve görüntüleme teknolojisi konusunda uzmanlaşmış Belçika merkezli bir teknoloji şirketidir. Eğlence, işletme ve sağlık gibi üç temel pazara odaklanmaktadır. 90 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Winbond Electronics",
+    "description": "Winbond Electronics, 1987 yılında kurulan Winbond Electronics Corporation bünyesindeki Mobile DRAM, Specialty DRAM, Flash Memory markasıdır.Yarı iletkenler ve çeşitli entegre devreler, özellikle Dinamik RAM, Statik RAM, mikrodenetleyiciler ve kişisel bilgisayar IC’leri, yani Super I/O yongaları üretir.Winbond Electronics Corporation Tayvan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Wilk Elektronik",
+    "description": "Wilk Elektronik, 1991 yılında Wiesław Wilk tarafından kurulan Wilk Elektronik S.A. bünyesindeki RAM modülleri, Bellek kartları, USB flash sürücüler ve Katı hal sürücüleri markasıdır.Goodram markası altında kendi ürünlerini üretmektedir.Wilk Elektronik S.A. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

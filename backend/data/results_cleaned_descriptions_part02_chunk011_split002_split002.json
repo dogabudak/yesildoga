@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Felisatti",
+    "description": "Felisatti, 1949 yılında Fellisatti Ailesi tarafından kurulan Elektrikli El Aletleri markasıdır.2009 yılında Interskol grup tarafından satın alındı.Interskol, taşınabilir elektrikli aletlerin imalatını yapan İspanya merkezli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Man",
+    "description": "Man, 1758 yılında kurulan Man Group bünyesindeki otomotiv endüstrisi, özellikle ağır kamyonlar markasıdır.MAN’ın çalışma alanları; ticari araç, dizel motor, turbo makine ve sanayi hizmetleridir.MAN, Volkswagen AG’ye aittir. Volkswagen grubu Alman ve Katarlı hissedarlara aittir.MAN’ın Almanya dışındaki ilk üretim tesisi 1966 yılında Türkiye’de faaliyete geçen MAN Türkiye A.Ş., MAN’ın en büyük ve entegre otobüs fabrikasıdır. Türkiye’nin ilk MAN doğalgazlı otobüsü üretmiştir. Ürettiği otobüsleri başta AB ülkeleri olmak üzere 47 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-09-08"
+  },
+  {
+    "company": "Kristall Smolensk",
+    "description": "Kristall Smolensk, 1963 yılında kurulan lüks mücevher perakendecidir.Şirket Avrupa’nın en büyük cilalı elmas üreticisidir.Kristall Smolensk Rusya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Biomin",
+    "description": "Biomin, 1983 yılında Erich Erber tarafından kurulan Biomin Holding GmbH bünyesindeki yem katkı maddeleri ve premiksler üreten bir hayvan sağlığı ve beslenme markasıdır.Mikotoksin risk yönetimi çözümleri, Fitojenik, Asitleştiriciler, Probiyotikler, Yem Koruma, Enzim, Maya Türevleri ve Premiksler üretir.Biomin, merkezi Avusturya’da bulunmaktadır. Ürünleri 100’den fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Sürat Kargo",
+    "description": "Sürat Kargo, 2003 yılında kurulan Sürat Kargo Lojistik ve Dağıtım Hizmetleri A.Ş. bünyesindeki kargo markasıdır.Sürat Kargo, 2021 yılında Halil İbrahim Bacacı’nın sahibi olduğu Port Kargo ve Lojistik A.Ş. tarafından satın alındı.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-07-27"
+  }
+]

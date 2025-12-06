@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kapeda",
+    "description": "1971 yılında kurulan Koçak Farma İlaç ve Kimya San. A.Ş. bünyesinde üretilen ilaç markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.İstanbul merkezli firma ürünlerini Çerkezköy OSB’de 140 bin metrekarelik alanda kurulu tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Balanu",
+    "description": "2020 yılında kurulmuş olan Balanu Organik Gıda San. ve Tic. A.Ş. bünyesindeki sağlıklı atıştırmalıklar markasıdır.Ürünleri doğal, katkısız, koruyucusuz, glütensiz ve şeker ilavesizdir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nishman",
+    "description": "2016 yılında kurulmuş olan Asil Group Kozmetik İmalat San. Tic. Ltd. Şti. bünyesindeki saç bakım ürünleri, saç şekillendiriciler, şampuan, tıraş jeli, cilt bakım ürünleri, sakal bıyık bakım ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oddly Drinks",
+    "description": "2024 yılında kurulmuş olan Payros Gıda İçecek A.Ş. bünyesinde üretilen meyve suyu, asitli turşu suyu, asitli içecekler markasıdır.Renklendirici ve koruyucu içermez.Firma İstanbul merkezlidir.Bünyesindeki markalar;OddlySizzle-PopNeoNappoPetra Roasting Co.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-09-29"
+  },
+  {
+    "company": "Evvahe Doğal",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

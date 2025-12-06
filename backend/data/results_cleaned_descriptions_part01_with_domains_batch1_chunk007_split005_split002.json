@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Transdigm",
+    "description": "Transdigm, 1993 yılında W. Nicholas Howley ve Douglas W. Peacock tarafından kurulan mekanik aktüatörler ve ateşleme sistemleri gibi ticari ve askeri havacılık bileşenlerini üretip, geliştirir ve dağıtır.Amerikan merkezli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mavibeyaz Ülke",
+    "description": "Mavibeyaz Kağıt Ürünleri, Cihan Guruba ait Çiftçiler Birlik A.Ş bünyesinde bulunan; hasta bezi, yatak koruyucu örtü, muayene masası örtüsü, hijyenik lif ve ıslak mendil ürünleri markasıdır.Türk firmasının bünyesindeki markalar:Baby&BabyEko BeyazFlexiMavibeyaz",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-07-11"
+  },
+  {
+    "company": "Sperry",
+    "description": "Sperry, 1916 yılında ayakkabı ve deri üreticisi Wolverine Worldwide şirketi bünyesindeki markadır.Wolverine World Wide şirketi Amerikan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ticon",
+    "description": "Ticon, 2000 yılında Tetaş İç ve Dış Tic. A.Ş. bünyesinde kurulan markadır. Yurtiçinden ve Çin’den fason üretim yoluyla kendi markası altında ofis ürünleri ve okul ürünleri konusunda ürün tedarik etmektedir. İthal edilen ürünleri insan sağlığına zararlı hiçbir madde içermemektedir.Firmanın bünyesinde yer alan markalar:TematTiconTangy",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Unisys",
+    "description": "Unisys, 1986 yılında Burroughs ve Sperry şirketlerinin birleşmesiyle kuruldu. Finans, kamu, telekom, taşımacılık, yazılı basın ve havacılık olmak üzere birçok sektöre IT çözümleri sunmaktadır.2002 yılından beri Türkiye’de faaliyetlerini sürdüren Amerikan merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

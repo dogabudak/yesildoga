@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Demirdöküm",
+    "description": "Demirdöküm Hangi Ülkenin Ürünü Malı MarkasıDemirdöküm, 1954 yılında kurulan; ısıtma, su ısıtma ve iklimlendirme ürünleri markasıdır.Türkiye’de ilk döküm radyatör, kazan, soba, kat kaloriferi, şofben, panel radyatör ve kombi üretimini gerçekleştirmiştir.DemirDöküm, 2007 yılında dünya ısıtma sektörü firması Alman Vaillant Group bünyesine katıldı. Ürünleri 40’tan fazla ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Duffmart",
+    "description": "Duffmart, 2016 yılında Ayka Şirketler Grup tarafından üretilen ısıtma, soğutma ve su basınçlandırma ürünleri markasıdır.Ayka Şirketler Grup; Radyatör, boyler, termoboyler, termosifon, banyopan, havlupan, genleşme tankları, vana, pompa, hidrofor ile ısıtma ve soğutma sektörü için ürünlerin üretimini ve ithalatını ve çeşitli markaların distribütörlüğünü yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dextel",
+    "description": "Dextel markası, Dextel Inc bünyesinde yer alan elektronik ürünlerde kullanılmaktadır.Amerikan merkezli şirket ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gigaset",
+    "description": "Gigaset, 1941 yılında kurulmuş olan Gigaset AG’nin iştiraki olan Gigaset Communications Gmbh bünyesinde üretilen akıllı telefon, kablolu, kablosuz telefonlar, voip telefonlar ile akıllı ev ve binalarda özel kullanıma yönelik bulut tabanlı güvenlik ve yardım sistemleri markasıdır.Gigaset AG’nin yüzde 62,7 oranındaki hissesi Hong Kong merkezli Goldin Group’a aittir. Firma ürünlerini Almanya’da bulunan fabrikasında üretmektedir ve 70’ten fazla ülkeye pazarlamaktadır. Türkiye’de Gigaset İletişim Cihazları A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": "2023-12-01"
+  },
+  {
+    "company": "The Ritz Carlton Hotel",
+    "description": "The Ritz-Carlton Hotel Company, LLC, 1983 yılında William B. Johnson tarafından kurulan lüks otel markasıdır.The Ritz-Carlton Hotel, Amerikan merkezli Marriott International’a aittir.Marriott International, 1927 yılında J. Willard Marriott tarafından kuruldu ve 127’de ülkede 6 bin 500’den fazla otel ve tesisi bulunmaktadır.Bünyesindeki markalar:MarriottLe MéridienRitz-CarltonStarwood",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

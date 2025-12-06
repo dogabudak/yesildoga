@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Entek Led",
+    "description": "Entek Led, 2012 yılında kurulan Entek LED Armatür San. ve Tic. A.Ş. bünyesinde üretilen led aydınlatma ürünleri markasıdır.Ürünlerini 7 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Emge Led Aydınlatma",
+    "description": "Emge Led, 1975 yılında kurulan Emge Elektro Mekanik Gereçler Endüstrisi A.Ş. bünyesinde üretilen led tüp, led panel, led sokak lambası, led projektör, led downlight, led line, led wallwasher markasıdır.Ankara merkezli firma LED iç aydınlatma ürünleri sürücüleri, LED PCB kart tasarımı ve üretimi, SMD komponent dizilimi, pano tipi ölçü aletleri, alçak gerilim akım trafoları, alçak/orta/yüksek gerilim emniyet gereçleri, born klemens, buksel soket gibi ürünlerin seri üretimini yapmaktadır. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Marsh Sigorta",
+    "description": "Marsh Sigorta, 1901 yılında kurulan Marsh & McLennan Companies Inc. bünyesindeki sigorta komisyoncusu ve risk danışmanlığı markasıdır.Sigorta brokerliği, risk danışmanlığı, uluslararası sigorta yerleştirme, talep yönetimi, esirler, kıyaslama ve risk yönetimi hizmeti vermektedir.Marsh & McLennan Companies Inc. Amerika merkezlidir ve 150’dan fazla ülkede faaliyet göstermektedir. Türkiye’de 1969 yılından beri faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hayat Sigorta",
+    "description": "Hayat Sigorta, 1999 yılında kurulan Hayat Sigorta Aracılık Hizmetleri Ltd. Şti. bünyesindeki kasko, konut, işyeri, trafik, nakliyat, mühendislik sigortası ve sgk tamamlayıcı, ayakta ve yatarak sağlık ve sadece yatarak sağlık sigortaları markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Viaxi",
+    "description": "Viaxi, 2000 yılında kurulan Armoni Ltd. Şti. bünyesindeki kişisel bakım ve sağlık ürünleri markasıdır.ISO 9001, ISO 13485 belgelerine sahiptir. Ürünlerini 25 ülkeye ihraç etmektedir.Bünyesindeki markalar;Baby-VacCosvia CollagenKul-TemS-LashViaxiYeson",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

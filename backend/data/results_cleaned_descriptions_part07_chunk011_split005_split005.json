@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Solidarnosc",
+    "description": "Solidarnosc, 1990 yılında kurulmuş olan Colian sp. z o.o. bünyesinde üretilen çikolata ürünleri, pralin, kremalı şekerlemeler markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Colian sp. z o.o. Polonya merkezlidir. Ürünlerini Polonya’da üretmektedir ve 70 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Wader Quality Toys",
+    "description": "Wader Quality Toys, 1998 yılında kurulmuş olan S. Polesie JV Ltd. bünyesindeki plastik oyuncaklar markasıdır.ISO 9001 belgesine sahiptir.S. Polesie JV Ltd. Belarus merkezlidir. Belarus, Rusya, Türkiye, Almanya, Polonya ve Özbekistan’da üretim ve dağıtım tesislerine sahiptir ve ürünlerini 70 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BY",
+    "updated_date": null
+  },
+  {
+    "company": "Hekimana",
+    "description": "Purneva, 2006 yılında kurulmuş olan Yerküre Doğal Yaşam Ürünleri A.Ş. bünyesindeki geleneksel bitkisel şifalı ürünler markasıdır.Ürünleri zararlı kimyasal katkı ve koruyucuları içermemektedir.Firma İstanbul merkezlidir. İstanbul, Ankara, Bursa, Eskişehir, Adana’da mağazalara sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ola Elektrikli Bisiklet",
+    "description": "Ola, 2017 yılında kurulmuş olan Ola Electric Mobility Pvt Ltd. bünyesinde üretilen elektrikli iki tekerlekli araçlar, motorlu taşıt, şarj çözümleri, ev bataryaları markasıdır.Ola Electric Mobility Pvt Ltd. Hindistan merkezlidir ve ürünlerini Hindistan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Vmoto",
+    "description": "Vmoto, 2001 yılında kurulmuş olan Vmoto Ltd. bünyesindeki elektrikli iki tekerlekli araçlar markasıdır.Şirket ağırlıklı olarak elektrikle çalışan iki tekerlekli araçların geliştirilmesi, üretimi ve pazarlanmasıyla uğraşmaktadır.Vmoto Ltd. Avustralya merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  }
+]

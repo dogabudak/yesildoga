@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Marc O’Polo",
+    "description": "Marc O’Polo, 1967 yılında Rolf Lind, Huss ve Jerry O. Sheets tarafından kurulan Marc O’Polo AG bünyesindeki giyim, ayakkabı, çanta, küçük deri eşyalar, gözlük, ev mobilyaları, iç giyim markasıdır.İlk olarak doğudan ithal edilen doğal kumaşlarla, pamuklu gömlek üretildi. İlk toplama parçası, el dokumayla Hint pamuğundan üretildi.Marc O’Polo AG Almanya merkezlidir.1997 yılında şirketin Almanya’daki orijinal dağıtım ortağı Werner Böck, şirketin çoğunluk hissedarı oldu ve tasarım, üretim, dağıtım ve pazarlamaya kadar tüm şirket operasyonlarından sorumlu olan Marc O’Polo International GmbH’yi kurdu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-05-02"
+  },
+  {
+    "company": "Lorenzo",
+    "description": "2015 yılında kurulmuş olan Gökay Madeni Eşya San. ve Tic. Ltd. Şti. bünyesinde üretilen ütü masası, çamaşır kurutmalığı, su ısıtıcısı, çay makinesi, aspiratör, termos, ütü, ızgara, şarjlı süpürge, aspiratör, katlanır cezve, saç şekillendirici ve tarağı, saç düzleştirici, stand mikser, Türk kahve makinesi, tost makinesi markasıdır.Firma Konya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-08-01"
+  },
+  {
+    "company": "St. Dalfour",
+    "description": "St. Dalfour Hangi Ülkenin Malı MarkasıSt. Dalfour, 1984 yılında kurulan St. Dalfour Sas bünyesindeki reçel markasıdır.Yüzde yüz doğal, meyvelerden üretilen, içeriğinde ilave şeker ve koruyucu katkı maddesi bulunmayan 12 çeşit ürüne sahiptir. Şeker yerine üzüm suyu kullanmaktadır.St. Dalfour Sas Fransa merkezlidir ve ürünleri Fransa’da üretilmektedir. 80’den fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Garofalo",
+    "description": "Garofalo, 1920 yılında kurulan Pastificio Lucio Garofalo S.p.A. bünyesindeki makarna markasıdır.Pastificio Lucio Garofalo S.p.A. çoğunluk hisseleri 2014 yılında pirinç, makarna ve çeşni sektörlerinde faaliyet gösteren Ebro Foods grubu tarafından alınmıştır.Ebro Foods İspanya merkezli çokuluslu bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Takita",
+    "description": "Takita, 1992 yılında Tahir Önder tarafından kurulan Egepak Gıda ve Ambalaj San. A.Ş., bünyesindeki diyet ve diyabetik gıda ürünleri markasıdır.Üretime ilk kez küp şeker imalatıyla başlayan firma daha sonra düşük kalorili ve diyabetik ürünlerin üretimine geçmiştir.Yeni nesil tatlandırıcı sukraloz ile hazırlanan Takita sukralozlu ürünler ve doğal tatlandırıcı olan stevia ile formüle edilen Takita stevia grubu tüketicilerle buluşmuştur.Takita markalı ürünleri ISO 22000 belgeli tesislerde üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

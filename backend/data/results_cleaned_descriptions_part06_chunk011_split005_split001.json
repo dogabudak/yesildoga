@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Eritretin Jel",
+    "description": "Eritretin, 1949 yılında kurulan Laboratoires Bailleul S.A. bünyesinde üretilen, cilt sorunları için krem ve jel markasıdır.Deride tahriş edici özelliğe sahiptir. Gözlerle, göz kapaklarıyla, burun delikleriyle ve ağızla temasından kaçınılmalıdır. Hamileler, hamile kalmayı planlayanlar veya emzirenler kullanmamalıdır.Laboratoires Bailleul S.A. Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir. 56 ülkede faaliyet gösteren firma Türkiye’de Laboratoires Bailleul İlaç San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "The Good Stuff",
+    "description": "The Good Stuff, 1930 yılında iki şirketin birleşmesiyle kurulan Unilever PLC bünyesindeki saç kremleri markasıdır.Ürün yelpazesi, birden fazla saç tipi ve ihtiyacını karşılamak için biçim ve dokuya göre özelleştirilmiş altı durulanmayan saç kreminden oluşur.Ürünleri boya ve paraben içermez.Unilever PLC İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Acesa",
+    "description": "Acesa, Herramientas Industriales SL bünyesindeki el aletleri endüstriyel sarf malzemeleri markasıdır.Şirket endüstriyel aletler, kompresörler, makineler, yüksek basınçlı sıcak su ve soğuk su, yüzey pompaları, akü şarj cihazları, sargı motorları, çim biçme makineleri, elektrikli el aletleri sunmaktadır.Herramientas Industriales SL İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Outils Wolf",
+    "description": "Outils Wolf, 1922 yılında kurulan Outils WOLF S.A.S. bünyesindeki biçme makineleri, değiştirilebilir aletler, kesici takımlar, geleneksel araçlar, elektrikli el aletleri, eldivenler, yedek parçalar markasıdır.Outils WOLF S.A.S., 2018 yılında Fransa merkezli Etesia SAS tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Maranki",
+    "description": "Maranki, 2003 yılında kurulan Bilge Eğitim Danışmanlık Turz.Tar. Gıda Denet. İlet. Org ve Sağ. Hiz. A.Ş. bünyesindeki banyo ve arınma tuzları, bitkisel çaylar, bitkisel kapsüller, bitkisel yağlar, colloidal altın ve gümüş ürünleri, doğal taşlar, doğal uyku ürünleri, ekstraktlar, geleneksel tarım ürünleri, himalaya tuz lambaları, kişisel bakım ürünleri, kitaplar, kozmik tuzlar, kozmik yemeklik tuzlar, kristal tuz değirmenleri, organik ürünler, temizlik ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

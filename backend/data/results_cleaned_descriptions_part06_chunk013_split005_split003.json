@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Skross",
+    "description": "Skross, 2002 yılında kurulan WorldConnect AG bünyesinde üretilen şarj cihazları ve güç bankaları, seyahat adaptörleri, kablolar markasıdır.WorldConnect AG İsviçre merkezlidir ve ürünlerini Tayland’daki kendi fabrikasında üretmektedir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Mima Kids",
+    "description": "Mima, 2009 yılında kurulan Mima International Holdings Limited bünyesinde üretilen lüks bebek arabaları, mama sandalyeleri ve bebek aksesuarları markasıdır.Mima International Holdings Limited Hong Kong menşelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Lokma’s",
+    "description": "Lokma’s Nerenin Malı MarkasıLokma’s, 2016 yılında kurulan Lokmas Gıda Tic. Ltd. Şti. bünyesinde üretilen cevizli sucuk, cezerye, fındık ve kakao kremaları, fındık ve yer fıstığı ezmesi, fitil lokum, kağıt helva, kurabiye, lokum, macun ve pekmez, pişmaniye, şerbetli tatlılar, sos, tahin helva, tatlı çerez, topping sos markasıdır.Tüm hammaddeleri Türkiye’deki küçük çiftçilerden mevsimlik olarak gelmektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Canex",
+    "description": "Canex, 1985 yılında kurulan Can Teknik Ahşap Aksesuar Hırdavat San. Tic. Ltd. Şti. bünyesindeki teleskopik bilyalı çekmece rayları, menteşeler, çekmece ve mobilya kilitleri, mekanizma amortisörler, menteşeler, kapak sistemleri, katlanır stor sistemler, mobilya aksesuarları, zımba makineleri, zimba teli ve çiviler markasıdır.İstanbul merkezli firma ürünlerini Adıyaman Besni OSB’de bulunan 2 bin 500 metrekaresi kapalı toplam 10 bin metrekarelik alanda bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bifinett",
+    "description": "Bifinett, 1930 yılında Josef Schwarz tarafından kurulan Lidl Stiftung & Co. KG bünyesindeki buz kırıcı, ekmek pişirme makinesi, fritöz, su ısıtıcı, karıştırıcı, mutfak aletleri markasıdır.Lidl Stiftung & Co. KG Almanya merkezli Schwarz Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Nigrin",
+    "description": "Nigrin, 1962 yılında kurulan MTS Group bünyesindeki Inter-Union Technohandel Gmbh tarafından üretilen araç bakım ürünleri markasıdır.Firma dört markasıyla, otomobil aksesuarları, araç bakımı, bisiklet ve bisiklet aksesuarları, elektrik tesisat malzemeleri ve iş kıyafetleri sunmaktadır.MTS Group, dünya çapında 9 noktada faaliyet gösteren Almanya’da merkezi ve İsviçre, Avusturya, Polonya ve Hong Kong’da iştirakleri bulunan uluslararası bir varlığa sahip bir gruptur.Bünyesindeki markalar;CartrendFischerNigrinUnitec",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aymar",
+    "description": "Aymar, 2003 yılında kurulan Aymar Yağ ve Gıda San. A.Ş. bünyesinde üretilen katı ve sıvı yağ markasıdır.İstanbul merkezli firma ürünlerini Tekirdağ’da 15 bin metrekaresi kapalı olmak üzere toplam 100 bin metrekarelik alanda üretmektedir.Bünyesindeki markalar;AymarÇapamarkaVita",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fittydent",
+    "description": "Fittydent, 1982 yılında kurulan Fittydent International Gmbh bünyesinde üretilen protez bakımı ve ağız hijyeni ürünleri markasıdır.Protez yapıştırıcıları, temizleme tabletleri gibi ürünler sunmaktadır.Fittydent International Gmbh Avusturya merkezlidir. Ürünlerini 68’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Stellantis",
+    "description": "Stellantis, 2021 yılında Groupe PSA ile Fiat Chrysler Automobiles (FCA) birleşmesiyle kurulan Stellantis N.V. bünyesindeki otomobil, ticari araçlar, otomobil parçaları, üretim sistemleri üreticisidir.Stellantis N.V. Hollanda merkezlidir.FCA ve PSA arasında 50/50 seviyesinde gerçekleşen birleşmenin ardından sahipler:Exor N.V.: yüzde 14,40 (Hollanda)Peugeot family: yüzde 7,19 (Fransa)Bpifrance: yüzde 6,18 (Fransa)Dongfeng Motor Corporation: yüzde 4,5 (Çin)BlackRock: yüzde 2,52 (Amerika)Bünyesindeki markalar;AbarthAlfa RomeoChryslerCitroënDodgeDS AutomobilesFiatFiat ProfessionalJeepLanciaMaseratiOpelPeugeotRamVauxhall",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "King-Wear",
+    "description": "King-Wear Hangi Ülkenin Malı MarkasıdırKing-Wear, 2012 yılında kurulan Shenzhen Kingwear Intelligent Technology Co. Ltd. bünyesinde üretilen akıllı saat markasıdır.ISO 9001 belgesine sahiptir.Shenzhen Kingwear Intelligent Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

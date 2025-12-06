@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Linola",
+    "description": "Linola, 1905 yılında kurulan Dr. Wolff Group GmbH & Co. KG bünyesinde üretilen yüz kremi, şampuan markasıdır.Şampuanda özel bir lipit karışımı bulunmaktadır. Lipit karışımın en önemli bileşeni esansiyel yağlardan linoleik asittir.Dr. Wolff Group GmbH & Co. KG Almanya merkezlidir ve ürünleri 60’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Auvc",
+    "description": "Auvc, 2009 yılında kurulan Zhejiang Aoshuai Refrigeration Co. Ltd. bünyesinde üretilen su soğutma kuleleri ve soğutma kulesi parçaları markasıdır.İklimlendirme, soğutma, hava sıkıştırma istasyonu, ısıtma fırını ve yoğuşma işlemi için uygun olan çeşitli bölümlerinde yaygın olarak kullanılmaktadır.Zhejiang Aoshuai Refrigeration Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Karlville",
+    "description": "Karlville, 1996 yılında kurulan Karlville Development LLC. bünyesindeki etiketlerin dönüştürülmesi ve paketlenmesi için makineler ve dönüşümler ve ambalajlar için makineler ve ambalajlar markasıdır.Karlville Development LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zaltech",
+    "description": "Zaltech, Zaltech International Gmbh bünyesindeki baharatlar, baharat karışımları markasıdır.Gıda endüstrisi için baharat karışımları üretmektedir.Zaltech International Gmbh Avusturya merkezlidir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Suce",
+    "description": "Suce, 1950 yılında kurulan Suce S.R.L bünyesindeki geleneksel kalıplar, üretim araçları, metal damgalama kalıpları, CNC takım tezgahları markasıdır.Suce S.R.L İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

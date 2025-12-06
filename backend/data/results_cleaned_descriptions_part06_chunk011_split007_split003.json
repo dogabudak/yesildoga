@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Sonos",
+    "description": "Sonos, 2002 yılında kurulan Sonos Inc. bünyesindeki hoparlörler, amplifikatörler ve çevre birimleri markasıdır.Çok odalı ses ürünleri en bilinen ürünleridir.Sonos Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İlka Wrap",
+    "description": "İlka Wrap Nerenin Malı Markasıİlka Wrap, 1983 yılında kurulan İlka Plastik Ambalaj Gıda San. ve Tic. Ltd. Şti. tarafından üretilen plastik ambalaj malzemeleri markasıdır.Baskılı ve baskısız, alçak ve yüksek yoğunluklu atlet poşetler, rulo çöp torbası, gofreli ve gofresiz polietilen filmler, EVA ilaç torbalar, gıda ambalajına uygun PVC streç filmleri, tıbbi atık çöp torbaları üretmektedir.ISO 9001, ISO 22000, ISO 14001 belgelerine sahip Kocaeli merkezli firma, ürünlerini 12 bin metrekarelik alanda bulunan tesisinde üretmektedir.İLKA Plastik Ambalaj Gıda San. ve Tic. Ltd. Şti., Kanık Şirketler Grubu bünyesindedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Unomed",
+    "description": "Unomed, 2016 yılında kurulan Pharma Roya İlaç Kozmetik San. ve Tic. A.Ş. bünyesindeki temizleme köpüğü, otc, takviye edici gıdalar, ve dermo kozmetik ürünler markasıdır.Tablet, yumuşak kapsül, sert kapsül, likit veya sıvı, krem, losyon, şampuan formlarında üretimler yapmaktadır.ISO 9001, ISO 13485 ve GMP belgelerine sahiptir.Firma 3 bin metrekarelik tesisinde üretim yapmaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Denta Diş Fırçası",
+    "description": "Denta Diş Fırçası Nerenin Malı MarkasıDenta, A101 Yeni Mağazacılık A.Ş. bünyesindeki diş fırçası markasıdır.Ürünleri A101 Yeni Mağazacılık A.Ş. adına Banat Fırça ve Plastik San. A.Ş. tarafından üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "CSA Celebrity Speakers",
+    "description": "CSA Celebrity Speakers, 1983 yılında Alex Krywald tarafından kurulan Celebrity Speakers Ltd. bünyesindeki konuşmacı ajansı ve konuşmacı kitapları markasıdır.Ünlü konuşmacıların şirket, dernek ve kurumların iç ve dış toplantılarına katılımını düzenlemektedir ve tanınmış yazarların kitaplarını ilgili ülkelerin dillerine çevirmektedir.Celebrity Speakers Ltd. İngiltere merkezlidir. Çok sayıda ülkede ofisi bulunmaktadır. 1999 yılında Türkiye temsilciliği açılmıştır, Türkiye’de Csa Eğitim İletişim Basım Organizasyon ve Danışmanlık Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

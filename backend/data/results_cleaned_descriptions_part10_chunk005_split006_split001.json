@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Huatec",
+    "description": "2000 yılında kurulmuş olan Huatec Group Corporation bünyesinde üretilen taşınabilir sertlik test cihazı, mikro sertlik test cihazı, kıyı durometresi, vickers sertlik test cihazı, taşınabilir X-ışını kusur dedektörü markasıdır.Huatec Group Corporation Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kapriss",
+    "description": "1985 yılında kurulmuş olan Gül Gökkuşağı Mobilya San. ve Tic. Ltd. Şti. bünyesinde üretilen kanepe, çekyat, koltuk takımı, oturma grubu, yatak baza markasıdır.Firma Isparta merkezlidir. Ürünlerini toplam 20 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hugin",
+    "description": "1989 yılında kurulmuş olan Hugin Yazılım Teknolojileri A.Ş. bünyesindekiPOS ve yazarkasa çözümleri, temel elektronik nakit kayıtları, mali sistemler, ağ bağlantılı satış terminali, makbuz yazıcı, nakit çekmecesi ve veri terminali ile çeşitli satış ekipmanı ve aksesuarları markasıdır.Firma İstanbul merkezlidir. Ürünlerini Çatalca’daki üretim tesislerinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Feifei",
+    "description": "2017 yılında kurulmuş olan Anhui Feifei Household Products Co. Ltd. bünyesinde üretilen ev terlikleri, evcil hayvan malzemeleri, ev tekstili ve mutfak malzemeleri markasıdır.Anhui Feifei Household Products Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "ÇağUn",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

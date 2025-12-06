@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Suntech Power",
+    "description": "Suntech Power, 2001 yılında kurulmuş olan Suntech Power Holdings Co. Ltd. bünyesinde üretilen güneş paneli markasıdır.Suntech Power Holdings Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wiwify",
+    "description": "Wiwify, 2022 yılında kurulmuş olan Alfo Sağlık İlaç ve Kimya San. Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünlerini botanikal kolajen içeren ürünler kullanarak üretmektedir. Tamamen doğal içerikli ürünleri, alkol ve paraben içermez, hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kramer Electronics",
+    "description": "Kramer Electronics, 1981 yılında kurulmuş olan Kramer Electronics Ltd. bünyesindeki IP üzerinden profesyonel video ve IP üzerinden ses için ağ tabanlı cihazlar ve ağ kabloları markasıdır.Kramer Electronics Ltd. 2021 yılında İsrail merkezli Fortissimo Capital Management Ltd. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "5zigen",
+    "description": "zigen, 1987 yılında kurulmuş olan 5Zigen International Inc. bünyesinde üretilen çeşitli otomobiller için performans egzoz sistemleri markasıdır.ISO 9001 belgesine sahiptir.5Zigen International Inc. Japonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "The Touch by Seda Altın",
+    "description": "The Touch by Seda Altın, 2019 yılında Seda Altın tarafından kurulmuş olan Bsa Grup Danışmanlık İletişim ve Satış Tic. Ltd. Şti. bünyesindeki kozmetik markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

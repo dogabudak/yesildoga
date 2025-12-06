@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Myline Defter",
+    "description": "“Myline“2020 yılında kurulmuş olan Defne Kırtasiye Dış Tic. Ltd. Şti. bünyesinde üretilen defter markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;DaphneDefneDefne DefterMyline",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jian Jian",
+    "description": "“Jianjian“2000 yılında kurulmuş olan Cixi Elim Stationery Manufactory Co. Ltd. bünyesinde üretilen işaretleme kalemleri markasıdır.Cixi Elim Stationery Manufactory Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;JianjianJoywriteShaniuoe",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tornador",
+    "description": "“Tornador“1997 yılında kurulmuş olan Bendel Werkzeuge GmbH & Co. KG bünyesinde üretilen temizleme tabancaları, temizleyici, temizlik havluları, kil temizleme, parlatıcı ve aksesuarlar markasıdır.Bendel Werkzeuge GmbH & Co. KG Almanya merkezlidir ve ürünlerini 60’a yakın ülkeye pazarlamaktadır.Bünyesindeki markalar;RotadorTornador",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kapitos",
+    "description": "“Kapitos“1992 yılında kurulmuş olan Pharmex Rom Industry S.r.l. bünyesinde üretilen gıda takviyeleri markasıdır.ISO 9001, ISO 22716, ISO 14001 ve GMP belgelerine sahiptir.Pharmex Rom Industry S.r.l. Romanya merkezlidir ve ürünlerini bir çok ülkeye pazarlamaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RO",
+    "updated_date": null
+  },
+  {
+    "company": "Wellaton",
+    "description": "“Wellaton“2020 yılında kurulmuş olan Wella International Operations Switzerland Sarl bünyesindeki saç boyası markasıdır.Wella International Operations Switzerland Sarl İsviçre merkezlidir.Hissedarları:KKR & Co. Inc. (yüzde 74,1)Coty Inc. (yüzde 22,3)IGF Wealth Management (yüzde 3,6)",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

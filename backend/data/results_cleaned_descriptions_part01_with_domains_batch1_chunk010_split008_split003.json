@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Loacker",
+    "description": "Loacker, 1925 yılında Alfons Loacker tarafından kurulan Loacker SpA şirketi bünyesindeki Wafer, çikolata ve türevi ürünler markasıdır.Avusturya’da üretim tesisleri bulunmaktadır.Loacker SpA İtalya merkezli bir Aile şirketidir. Ürünleri dünya çapında satılır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Twinings",
+    "description": "Twinings, 1706 yılında Thomas Twining tarafından kurulan çay, kahve, sıcak çikolata ve Malt içecekler markasıdır.İngiltere merkezli Twinings bilinen ilk çay ocağını İngiltere’de açtı.Twinings 2011 yılında bazı üretim hattını Çin ve Polonya’ya taşıdı. Ayrıca Hindistan’da çay tedarik etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Greenway",
+    "description": "Greenway, 1989 yılında kurulan Genta Genel Tarım Ürünleri Pazarlama A.Ş. bünyesindeki; tohumculuk, bitki besleme ve hobi bahçeciliği ürünleri markasıdır.Greenway, yüzde yüz Türk sermayeli Genta Genel Tarım Ürünleri Pazarlama A.Ş. bünyesindeki markadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kikkoman",
+    "description": "Kikkoman, 1917 yılında Mogi ve Takanashi firmalarının birleşmesiyle kurulan Kikkoman Corporation bünyesindeki gıda ve içecek şirketidir.Kikkoman başlıca ürünlerinden olan soya sosu en popüler markalarından biridir.Japonya merkezli Kikkoman firmasının Amerika, Hollanda, Singapur, Tayvan, Çin ve Kanada’da üretim tesisleri ve ofisleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Branston",
+    "description": "Branston, 1922 yılında kurulurken 2012 yılında Mizkan Holdings Co., Ltd. tarafından satın alınan turşu ve sos markasıdır.Mizkan Holdings Co., Ltd. Japonya merkezli bir şirkettir. Branston markasının Türkiye dağıtıcısı Dolfin Gıda’dır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2019-05-31"
+  }
+]

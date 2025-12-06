@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ford Kuga",
+    "description": "Ford Kuga, 1903 tarihinde Henry Ford tarafından kurulan Ford Motor Company bünyesinde üretilen kompakt bir crossover SUV markasıdır.2008’den beri Avrupa pazarı için önden çekişli ve dört tekerlekten çekiş sunuluyor.Ford Motor Company Amerika merkezlidir.Hissedarlar:The Vanguard Group, Inc. (yüzde 7.19)Evercore Trust Company, NA (yüzde 4.98)SSgA Funds Management, Inc. (yüzde 4.27)Newport Trust Co. (yüzde 3.77)Dodge & Cox (yüzde 3.47)BlackRock Fund Advisors (yüzde 2.13)Geode Capital Management LLC (yüzde 1.70)Capital Research & Management Co. (yüzde 1.38)Lyxor International Asset Management SAS (yüzde 1.09)Northern Trust Investments, Inc. (yüzde 1.04)",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Frozenlife",
+    "description": "Frozenlife, 2008 yılında kurulan Gedaş Genel Gıda Dağıtım Pazarlama San. ve Tic. A.Ş. bünyesinde üretilen dondurulmuş patates markasıdır.Ürünlerini Yozgat’ta 90 bin metrekarelik alan üzerinde yer alan 6 bin metrekarelik kapalı alanda bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Delissio",
+    "description": "Delissio, 1991 yılında piyasaya sürülen donmuş pizzalar ve soslar markasıdır.2010 yılında Nestle S.A. tarafından satın alındı.Nestle S.A. İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Rbt Robustech",
+    "description": "Rbt Robustech, 2002 yılında kurulan Santek Endüstri ve Yapı Malzemeleri Ltd. Şti. bünyesindeki elektrikli el aletleri markasıdır.Tamamı yerli sermayeli olan İstanbul merkezli firma ürünlerinin yüzde 90’ını Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Europap Tezol",
+    "description": "Europap Tezol, 2000 yılında kurulan Europap Tezol Kağıt San. ve Tic. A.Ş. bünyesinde üretilen temizlik kağıtları, peçete, tuvalet kağıdı ve mutfak havlusu kağıdı markasıdır.Tamamı selülozik ürünler ile geri dönüşümlü kağıtlar üretmektedir.İzmir merkezli firma İzmir dışında Mersin’de üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

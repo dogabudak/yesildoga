@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Hardy Brothers",
+    "description": "Hardy Brothers, 1853 yılında John Hardy tarafından kurulan Brothers Jewellers Pty Ltd bünyesindeki özel mücevher, saat ve dekoratif sanat markasıdır.Brothers Jewellers Pty Ltd., Avustralya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "H.Stern",
+    "description": "H.Stern, 1945 yılında Hans Stern tarafından kurulan H. Stern Comércio e Indústria S.A. bünyesindeki lüks mücevher markasıdır.Firmanın 30 ülkeye yayılan 300’e yakın mağazası bulunmaktadır.H. Stern Comércio e Indústria S.A. Brezilya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Hamilton Watch",
+    "description": "Hamilton Watch, 1892 yılında kurulan Hamilton Watch Company bünyesindeki kol saati markasıdır.Hamilton Watch Company 1969 yılında İsviçre merkezli Swatch Group’a dahil oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Rusal",
+    "description": "Rusal, 2007 yılında kurulan United Company RUSAL, IPJSC bünyesinde üretilen Alüminyum, Alüminyum alaşımları, Boksit ve Alümin markasıdır.United Company RUSAL, IPJSC Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Veon",
+    "description": "Veon, 2009 yılında Dmitry Zimin ve Augie K. Fabela tarafından kurulan VEON Ltd. bünyesindeki mobil telefon, cep telefonu, uluslararası telefon, geniş bant İnternet, IPTV, şehir çapında Wi-Fi, alan adı kayıt hizmetleri markasıdır.VEON Ltd. hisselerinin yüzde 56’sı Rusya merkezli Altimo şirketine, yüzde 9’u ise Noreç merkezli Telenor ASA şirketine aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  }
+]

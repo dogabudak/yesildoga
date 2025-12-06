@@ -1,0 +1,48 @@
+[
+  {
+    "company": "LR Health & Beauty",
+    "description": "LR Health & Beauty, 1985 yılında kurulan LR Health & Beauty Systems GmbH bünyesindeki vücut bakımı ve güzellik ürünleri, beslenme ve mücevherat alanında önde gelen ağ pazarlama kuruluşudur.LR Health & Beauty, Almanya merkezlidir ve 27 ülkede temsil edilmektedir.ISO 9001 TÜV belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rosece",
+    "description": "Rosece, 2014 yılında Yüksek Biyolog ve Botanikçi Nurgül Dirlik tarafından kurulan Orgamyra Kozmetik Bakım Ürünleri San. Tic. Ltd. Şti. bünyesinde üretilen bebek ve anne adayları için doğal cilt bakım ürünleri markasıdır.Ürünlerinde SLS, SLES, ALS (Sülfat), paraben, mineral yağ, silikon, parfüm, renklendirici, yapay koruyucu ve kimyasallar bulunmamaktadır. Organik veya doğal içerikler kullanılarak üretilen ürünlerin ambalajları sadece çevre dostu ve geri dönüştürülebilir malzemelerden üretilmektedir. Ürünlerini hayvanlar üzerinde test etmez ve hayvanlarda test edilen hammaddeleri kullanmamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Telenova",
+    "description": "Telenova, 2018 yılında kurulan Demart Elektronik Dayanıklı Tüketim Malları Sanayi ve Ticaret Limited Şirketi bünyesindeki televizyon markasıdır.Firma elektronik cihaz ve parçalarının toptan ticaretini yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Farmagross",
+    "description": "Farmagross, 2015 yılında kurulan Penta Farma İlaç Itriyat Kozmetik Medikal Gıda İth. İhr. Ltd. Şti. bünyesindeki e-ticaret sitesidir.Sitede dermokozmetik ürünler, medikal ürünler, cinsel sağlık ve ağız bakım ürünleri, anne-bebek ihtiyaç ürünleri yer almaktadır.Ürünleri; avene bakım ürünleri, cold-mix inhaler damla, comfort plus temassız kızılötesi termometre, ddf ürünleri, dermalute şampuan.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Perfume Point",
+    "description": "Perfume Point, 2011 yılında kurulan Günerler Kozmetik Ltd. Şti. bünyesindeki parfüm, gözlük, makyaj, cilt bakımı, vücut bakımı ve saç bakımı ürünleri satıcısıdır.İnternet şubesi dışında 25’ten fazla mağazasıyla İstanbul, Ankara, İzmir, Denizli, Antakya, Bodrum, Kocaeli, Yalova, ve Antalya’da hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Acteon Dijital Görüntüleme",
+    "description": "Acteon, 1946 yılında kurulmuş olan Acteon Group bünyesindeki yüksek teknoloji tıbbi cihazlar, yüksek frekanslı ultrasonik, dijital tıbbi görüntüleme, diş radyolojisi, piezo-ultrasonik, polimerizasyon lambası, diş cerrahisi, dişeti retraksiyonu ve endodonti markasıdır.Acteon Group Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Fuhassan",
+    "description": "Fuhassan, 1956 yılında kurulmuş olan Fuhassan Medical Elektrik Elektronik İhracat İthalat San. Ltd. Şti. bünyesindeki akülü ve manuel engelli araçları markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aspower",
+    "description": "Aspower, 2019 yılında kurulmuş olan Aspower Enerji ve Elektronik San. Tic. A.Ş. bünyesindeki araç şarj cihazı, frekans konvertörü, invertörler, kesintisiz güç kaynakları, redresör, akü şarj cihazı, regülatörler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cmk Kablo",
+    "description": "Cmk Kablo, 2006 yılında kurulmuş olan CMK Kablo Elektrik San. İç ve Dış. Tic. Ltd. Şti. bünyesinde üretilen kablolar markasıdır.CE, RoHS, TSE EN, ISO 9001 belgelerine sahiptir.Firma Denizli merkezlidir. Ürünlerini 16 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Picobio Original",
+    "description": "Picobio Original, 2010 yılında kurulmuş olan Picobio Co. Ltd. bünyesindeki cilt bakım ürünleri markasıdır.ISO 9001, ISO 22716 belgesine sahiptir.Picobio Co. Ltd. Güney Kore merkezlidir.Bünyesindeki markalar;EpicureMisoziumPepplus+Picobio Original",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

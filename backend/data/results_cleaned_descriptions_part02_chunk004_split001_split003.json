@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tiffany&Tomato",
+    "description": "Tiffany&Tomato, 1976 yılında kurulan Marka Tekstil Pazarlama San. ve Tic. A.Ş. bünyesindeki giyim ve ayakkı markasıdır.Marka Tekstil 2019 yılında, Ayris Tekstil ve Sanayi Ticaret Limited Şirketi tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ahava",
+    "description": "Ahava, 1988 yılında kurulan Ahava Dead Sea Laboratories, Limited bünyesindeki İsrail merkezli kozmetik ürünleri markasıdır.Şirket, Filistin topraklarının doğal kaynaklarını kullandığı yönünde eleştiriler almaktadır.2015 yılında Hong Kong şirketi Fosun International tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Note",
+    "description": "Note, 2011 yılında Act Group’un alt şirketlerinden Stern tek Cosmetics bünyesinde kurulan lüks makyaj malzemeleri markasıdır.Ürünleri Paraben, DBP, formaldehit, Toluen ve kafur içermemektedir ve hayvanlar üzerinde test edilmemektedir.Act Group Almanya merkezlidir. Kanada, İran ve Türkiye’de üretim tesisleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-12-07"
+  },
+  {
+    "company": "Aeramax Ülke",
+    "description": "Aeramax, 1917 yılında Harry Fellowes tarafından kurulan Fellowes Brands bünyesindeki ofis ve teknoloji aksesuarları markasıdır.Fellowes Brands Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Maira",
+    "description": "Maira, Işık Terapi & Işık Terapi Doğal Yaşam Danışmanlık ve Organizasyon Tic. Ltd. Şti. bünyesinde üretilen yüzde 100 organik bitki hidrosolü ile hazırlanan bakım ürünleri markasıdır.Paraben, Boyar madde, Sentetik ekstrakt, SLS, SLES, EDTA, Lanolin, Sodium Lauryl Sulphate, Sodium Lauryl Ether Sulphate, Parafin (Mineral Oil, Petrolatum), Hayvansal Yağlar ve Silikon gibi içerikler ürünlerde kullanılmıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

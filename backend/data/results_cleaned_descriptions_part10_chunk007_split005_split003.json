@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Icomon",
+    "description": "2014 yılında kurulmuş olan Guangdong Welland Technology Co. Ltd. bünyesinde üretilen akıllı vücut ölçeği, akıllı mutfak ölçeği, akıllı atlama ipi, akıllı vücut bandı gibi akıllı ev aletleri markasıdır.Guangdong Welland Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Taski",
+    "description": "1923 yılında kurulmuş olan Diversey Inc. bünyesindeki buhar makineleri, halı bakım makineleri, kombine yer yıkama makineleri, robotik çözümler, süpürücüler, sprey makineleri, tek diskli makineler, vakum makineleri markasıdır.Diversey Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Magly",
+    "description": "2024 yılında kurulmuş olan Dym Oyuncak Tasarım Üretim A.Ş. bünyesinde üretilen manyetik yapı blokları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Renolux",
+    "description": "1994 yılında kurulmuş olan Renolux SAS bünyesindeki çocuklar için araba koltuğu, bebek oto koltuğu, bebek yatağı, mama sandalyeleri, puset, seyahat karyolaları ve oyun parkları, çanta ve aksesuar markasıdır.Renolux France Industrie SAS Fransa merkezlidir ve ürünleri Fransa’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Hayvita",
+    "description": "2000 yılında kurulmuş olan Aksu Vital Doğal Ürünler Gıda ve San. A.Ş. bünyesindeki hayvan takviye gıda ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

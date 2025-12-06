@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Epey",
+    "description": "Epey, 2018 yılında kurulan Gezginler Bilişim İnşaat Turizm San. Tic. A.Ş. bünyesindeki ürün ve fiyat karşılaştırma sitesi markasıdır.Sitede çeşitli kategorilerde yer alan ürünlerin markaları özelliklerine ve fiyatlarına göre karşılaştırılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Klarstein",
+    "description": "Klarstein, 2005 yılında Peter Chaljawski tarafından kurulan Chal-Tec Gmbh bünyesindeki ev aletleri markasıdır.Chal-Tec Gmbh, ev ve yaşam, tüketici elektroniği, ses ve ışık ve spor ve sağlık alanlarında kendi markalarını geliştiren ve dağıtan küresel bir ticaret şirketidir.Chal-Tec Gmbh, Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2021-10-22"
+  },
+  {
+    "company": "Madico",
+    "description": "Madico, 1903 yılında kurulan Madico Inc. bünyesindeki otomotiv, mimari, güvenlik ve güvenlik, dekoratif, ppf, ekran koruma ve özel filmler markasıdır.Otomotiv ve mimariden sağlık ve havacılık endüstrisine kadar dünya çapında çok sayıda endüstri için cam filmi, kaplama ve laminatlar da dahil olmak üzere çok çeşitli malzeme bazlı çözümleri üretmektedir.Madico Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Koham",
+    "description": "Koham, 2014 yılında kurulan Koham Company Ltd. bünyesindeki bahçe aletleri markasıdır.Ürünleri arasında budama makası, lityum iyon pil pruners, bahçe aletleri, güç araçları, üzüm asmaları budama, kivi sarmaşıklar kesici, zeytin ağacı dalları kesme makası, badem ağacı dalları budama düzelticiler, narenciye ağacı dalları kesici, bağ budama makası yer almaktadır.Koham Company Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Lalique",
+    "description": "Lalique, 1888 yılında Rene Lalique tarafından kurulan Lalique Group SA bünyesindeki parfüm, kozmetik, kristal, mücevher, üst düzey mobilya, yaşam aksesuarları markasıdır.Lalique Group SA İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

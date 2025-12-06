@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Afidus",
+    "description": "2012 yılında kurulmuş olan Afidus Technologies Inc. bünyesinde üretilen kamera sistemleri markasıdır.Afidus Technologies Inc. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Andoutdoor",
+    "description": "1982 yılında kurulmuş olan And Dayanıklı Tüketim Malları San. ve Tic. Ltd. Şti. bünyesindeki çevrimiçi outdoor alışveriş sitesi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sun Camp",
+    "description": "2012 yılında kurulmuş olan Suncamp International Ltd. Co. Ltd. bünyesinde üretilen açık hava için yürüyüş ve seyahat çantaları, aksesuarları markasıdır.Suncamp International Ltd. Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Homcom",
+    "description": "2009 yılında VE Group bünyesinde kurulmuş olan çevrimiçi perakende markasıdır.Mobilya, yatak, büyük aletler, küçük aletler, veranda mobilyaları, ev dekorasyonu ürünleri sunmaktadır.VE Group Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Calphalon",
+    "description": "1897 yılında kurulmuş olan Sunbeam Products Inc. bünesindeki tencere, fırın takımı, çatal bıçak ve mutfak aletleri markasıdır.Sunbeam Products Inc. Amerika merkezli Newell Brands Inc. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

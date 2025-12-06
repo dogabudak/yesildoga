@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tundra",
+    "description": "Tundra, 1985 yılında Reinhard Muhlenfeld tarafından kurulan Orijen bünyesindeki kedi ve köpek mamaları markasıdır.Orijen ürünleri 70 ülkede satılmaktadır.Tundra Kanada merkezli bir markadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Maxact",
+    "description": "Maxact, 2011 yılında ilk kez Drogsan İlaçları Sanayi ve Ticaret A.Ş. bünyesinde üretilen şampuan markasıdır.Drogsan, 1975 yılında Ecz. Nevzat Karpuzcu tarafından kurulmuştur.1990 yılında kendi üretim tesislerinde üretime başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Orbillife",
+    "description": "Orbillife, 2008 yılında kurulan Asilnur Kimya Kozmetik AŞ. bünyesindeki bitki özlü ve doğal içerikli ürünlerden oluşan, kişisel bakım ve temizlik ürünleri markasıdır.Asilnur Kimya Kozmetik, Asilnur Gıda ve Mahfelinn Asilnur Group bünyesinde yer almaktadır.Asilnur Grup yüzde yüz yerli sermayeli bir kuruluştur.Orbilclean markası altında temizlik grubu ürünlerinin satışı yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sansui Nere Ülkelerin",
+    "description": "Sansui, 1947 yılında Yukisaku Kikuchi tarafından kurulan Sansui Electric Co., Ltd. bünyesindeki ses-görsel ve iletişim ekipmanları, ev aletleri, bilgi ekipmanları markasıdır.2013 yılında BoomBox markalı ucuz CD çalarlar piyasaya sürüldü.Şirket iflas edince markanın bölümleri farklı ülke ve kuruluşlara satıldı.Sansui markalı ses ekipmanları (Hong Kong)Orion elektrik görsel ekipmanlar (ABD)Sansui MOBILE Cep telefonu (Çin)Sansui Electronics UK Limited ses ekipmanları (İngiltere)Sansui transformatör (Japonya)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Dr.Neubauer",
+    "description": "Dr.Neubauer, 2002 yılında Dr Herbert Neubauer tarafından kurulan Dr.Neubauer GmbH bünyesindeki masa tenisi ürünleri markasıdır.Ürün yelpazesindeki kauçuk gibi malzemeler, Çin’den, sünger gibi malzemeler Japonya’dan temin edilerek, Almanya’da Alman yapıştırıcılarla birleştirilmektedir.Dr.Neubauer GmbH Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

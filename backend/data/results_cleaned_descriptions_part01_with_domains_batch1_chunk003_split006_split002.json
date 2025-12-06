@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bebelac",
+    "description": "Bebelac markası, Türkiye pazarına 1997 yılında giren, Yahudi asıllı doktor İsaac Carraso tarafından kurulan Danone şirketine aittir.Danone, Fransa merkezli çok uluslu sütlü ürünler ve içecekler üreten bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Bmc Motoru",
+    "description": "BMC, 1964 yılında İzmir’de kuruldu. 1989 yılında Türkiye’nin yüzde 100 yerli sermayeli ticari araç üreticisi oldu. Ürünlerini 80’den fazla ülkeye ihraç etmektedir.BMC, 2014 yılında TMSF tarafından yapılan ihalede tek katılımcı olarak teklif veren iş adamı Ethem Sancak’a ait olan Es Mali Yatırım tarafından satın alınmıştır.Yolcu taşıma araçları:MidiluxProbus TBXBelde SBProbus SCBBelde CBHawkProcityBelde Körüklü",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-01-03"
+  },
+  {
+    "company": "Bozok Traktör Nere",
+    "description": "Bozok Traktör Nere MalıBozok Traktör, 1967 yılında kurulan KARACABAY Turizm ve Motorlu Taşıtlar Tic. Ltd. Şti.’ye ait bir markadır.Firma, balya makineleri tarım araç ve gereçleri ithalatı yapan ve traktör üreten Türk firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2018-07-17"
+  },
+  {
+    "company": "Dirt Devil",
+    "description": "Dirt Devil markası 1905 yılında Royal tarafından kuruldu. Hong Kong merkezli Techtronic Industries Company Limited tarafından satın alındı.1955 yılında ilk ev tipi elektrik süpürgesini patentli Cyclone sistemiyle ürettiler. O zamandan beri 25 milyonun üzerinde satıldı.Techtronic şirketi bünyesinde Milwaukee, AEG (AEG Güç araçları, lisansı Electrolux’ün), Ryobi, Homelite, Hoover Amerika, Dirt Devil ve Vax markaları yer alıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Unitron İşitme Cihazı",
+    "description": "Unitron İşitme Cihazı Hangi Ülkenin MalıUnitron markası 1947 yılında kuruldu.Firmanın ürünleri; işitme cihazları, implantlar, kablosuz iletişim çözümleri konusundadır.Uluslararası bir İsviçre şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2018-07-17"
+  }
+]

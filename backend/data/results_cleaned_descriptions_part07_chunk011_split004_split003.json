@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aviva",
+    "description": "Aviva, 1696 yılında kurulmuş olan Aviva plc bünyesindeki sigorta markasıdır.Aviva plc İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Alkermes",
+    "description": "Alkermes, 1987 yılında Michael Wall tarafından kurulmuş olan Alkermes plc bünyesinde üretilen ilaç markasıdır.Alkermes plc İrlanda merkezlidir. Amerika ve İrlanda’da üretim tesislerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Imagination Technologies",
+    "description": "Imagination Technologies, 1985 yılında Tony Maclaren tarafından kurulmuş olan Imagination Technologies Limited bünyesinde üretilen yarı iletken ve yazılım markasıdır.Mobil grafik işlemcileri (GPU’lar), yapay zeka işleme için sinir ağı hızlandırıcıları ve ağ yönlendiricileri tasarımları yapmaktadır.Imagination Technologies Limited, 2017 yılında Çin hükümetine ait bir özel sermaye fonu olan Canyon Bridge tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ultra Electronics",
+    "description": "Ultra Electronics, 1920 yılında kurulmuş olan Ultra Electronics Holdings plc bünyesindeki savunma ve güvenlik ürünleri markasıdır.Ultra Electronics Holdings plc 2022 yılında Amerika merkezli özel sermaye şirketi Advent International Corporation’un sahibi olduğu Cobham Group plc tarafından devralınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Radware",
+    "description": "Radware, 1997 yılında Yehuda Zisapel tarafından kurulmuş olan Radware Ltd. bünyesindeki sanal, bulut ve yazılım tanımlı veri merkezleri için uygulama dağıtımı ve siber güvenlik çözümleri markasıdır.Radware Ltd. İsrail merkezlidir.Hissedarları:Senvest Management LLC (8.94)Artisan Partners LP (6.38)Excellence Investments Ltd. (6.26)GO ETF Solutions LLP (5.86)Nava Zisapel (5.45)Morgan Stanley & Co. LLC (5.37)Federated Equity Management Company of Pennsylvania (4.31)Renaissance Technologies LLC (3.53)McKinley Capital Management LLC (3.48)Acadian Asset Management LLC (3.37)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

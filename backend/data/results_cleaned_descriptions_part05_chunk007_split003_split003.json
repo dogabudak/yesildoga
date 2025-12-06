@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Otom",
+    "description": "Otom, 2008 yılında kurulan Otom Oto Tekstili ve Aksesuarları San. Tic. Ltd. Şti. bünyesinde üretilen özel üretim koltuk kılıfı, universal koltuk kılıfı, koltuk minderi, direksiyon kılıfı, bagaj havuzu, branda, paspas markasıdır.Üretiminin tüm aşamaları Sakarya’da bulunan 6 bin metrekarelik entegre tesislerinde gerçekleşmektedir ve ürünlerini 70’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tunas",
+    "description": "Tunas, 1959 yılında Mustafa Celik tarafından kurulan Tunaş Gıda Paz. San. Tic. Ltd. Şti. bünyesinde üretilen reçeller, bal, helva çeşitleri, tahin ve pekmez markasıdır.Ürünlerini Gaziantep OSB’de 50 bin metrekarelik alanda bulunan tesisinde üretmektedir.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nuvoton",
+    "description": "Nuvoton, 2008 yılında kurulan Nuvoton Technology Corporation bünyesindeki yarı iletken çözümleri markasıdır.Ana ürün grupları, eğlence teknolojisinin yanı sıra bilgisayarlarda ve endüstriyel bilgisayarlarda kullanılmak üzere entegre devrelerdir.Nuvoton Technology Corporation Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Tecnoinox",
+    "description": "Tecnoinox, 1984 yılında kurulan Tecnoinox Srl bünyesinde üretilen çok çeşitli modüler mutfaklar ve profesyonel fırınlar markasıdır.Tecnoinox Srl İtalya merkezlidir.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Nature’s Baby",
+    "description": "Nature’s Baby Hangi Ülkenin Malı MarkasıNature’s Baby, 2004 yılında Adena Surabian tarafından kurulan Nature’s Organics LLC bünyesinde üretilen şampuan ve vücut yıkama ürünleri, yüz ve el sabunları, losyonlar ve yağlar, dezenfektanlar, merhemler, yatıştırıcı losyonlar, organik bebek ürünleri markasıdır.Nature’s Organics LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

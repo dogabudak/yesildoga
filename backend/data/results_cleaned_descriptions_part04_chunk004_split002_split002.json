@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Pasta Del Capitano",
+    "description": "Pasta Del Capitano, 1905 kurulan Farmaceutici Dott. Ciccarelli S.P.A. bünyesindeki ağız hijyen ürünleri markasıdır.Ürünlerinde triklosan, SLS, paraben ve formaldehit gibi koruyucular yoktur.Farmaceutici Dott. Ciccarelli S.P.A. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Collistar",
+    "description": "Collistar, 1983 yılında kurulan Collistar S.P.A bünyesindeki parfüm markasıdır.Şirketin iş kolu kozmetik ve tuvalet malzemelerinin dağıtımını içermektedir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.Collistar S.P.A. İtalya merkezldir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Lipp",
+    "description": "Dr. Lipp, 2004 yılında Pontine Paus tarafından kurulan Dr. Lipp Limited bünyesindeki vücut bakım ürünleri markasıdır.GDO içermeyen petrokimya bileşenleri, paraben, fenoksietanol, parfüm ve sentetik renklendirici içermez ve geri dönüştürülebilir ambalaj ile üretilmektedir. Ayrıca hayvanlar üzerinde test edilmemektedir.Dr. Lipp Limited Norveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Carrera",
+    "description": "Carrera, 1956 yılında Wilhelm Anger tarafından kurulan gözlük ve güneş gözlüğü markasıdır.1996 yılında Safilo S.p.A. tarafından satın alındı.Safilo S.p.A. İtalya merkezlidir.Bünyesindeki markalar:Blenders EyewearCarreraPolaroidPrivé RevauxSafiloSmith",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Cath Kidston",
+    "description": "Cath Kidston, 1993 yılında kurulan CK Acquisitions Limited bünyesindeki ev eşyaları, moda, çanta, aksesuar ve çocuk giyim markasıdır.Ürünleri 40’tan fazla ülkeye pazarlanmaktadır.CK Acquisitions Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

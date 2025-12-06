@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hexel",
+    "description": "Hexel, Hexel Endüstriyel San. ve Tic. A.Ş. bünyesindeki kombiler, boylerler, kaloriferler petekleri, eşanjörler, sobalar, kuzineler; güneş enerjisi kollektörleri markasıdır.Firma ürünlerini Eskişehir Kobi OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biotech Dental",
+    "description": "Biotech Dental, 1987 yılında Francis Poulmaire tarafından kurulan Biotech Dental SAS bünyesindeki implant, protezler, ortodontik ve tıbbi görüntülemeye adanmış tıbbi cihazlar markasıdır.Biotech Dental SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Bod Man",
+    "description": "Bod Man, 1981 yılında kurulan PDC Brands Company bünyesindeki güzellik, sağlık ve kişisel bakım ürünleri markasıdır.PDC Brands Amerika merkezlidir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tnl",
+    "description": "TNL, 1985 yılında kurulan Tunelsan Elektronik San. Tic. Ltd. Şti. tarafından ithal edilen şarj edilebilir piller, tıbbi piller, dizüstü bilgisayar pilleri ve dizüstü bilgisayar ac adaptörleri markasıdır.Firma Ankara merkezlidir. Ürünlerini Çin’den ithal etmektedir.Bünyesindeki markalar;AküfixBataryapilFullbattFullymaxMedicellNacconPeak PowerProlenowaTnlTnl PowerTrojanTunelsan",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-12-29"
+  },
+  {
+    "company": "Bobike",
+    "description": "Bobike, 1978 yılında Pedro Araujo tarafından kurulan Polisport Plasticos S.A. bünyesindeki motosiklet ve bisiklet aksesuarları markasıdır.Polisport Plasticos S.A. Portekiz merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  }
+]

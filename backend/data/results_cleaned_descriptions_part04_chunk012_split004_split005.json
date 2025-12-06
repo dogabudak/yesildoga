@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Reflex Mama",
+    "description": "Reflex, 2009 yılında kurulan Lider Petfood Yem San. ve Tic. A.Ş. bünyesinde üretilen kuru, yaş, ödül mamaları ve kedi kumları markasıdır.Yerli sermayeli Lider Petfood Manisa’daki 5 bin 500 metrekaresi kapalı, toplam 11 bin metrekarelik fabrikasında 2000 farklı pet ürünü üretmektedir. ISO 9001, ISO 22000 ve OHSAS 18001 belgelerine sahiptir. Ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ruffles",
+    "description": "Ruffles, 1965 yılında PepsiCo Inc.’in yan kuruluşu olan Frito Lay Inc. bünyesinde üretilen mısır, patates cipsi markasıdır.Frito Lay Inc. 1986 yılından beri Türkiye pazarında Frito Lay Gıda San. ve Tic. A.Ş. olarak yer almaktadır. Meşrubat, meyve suyu, patates cipsi, enerji içeceği üreten PepsiCo Inc. Amerika merkezlidir.Frito Lay Bünyesindeki markalar;Çerezza7DaysBluebird FoodsCheetosCracker JackDoritosFritosFunyunsGamesaHostess Potato ChipsKurkureLay’sLay’s StaxMiss Vickie’sMunchiesMunchosObertoRoccoRold GoldRufflesSabraSabritasSmartfoodSun ChipsThe Smith’s Snackfood CompanyTostitosUncle ChippsWalkers",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-10-29"
+  },
+  {
+    "company": "Lavera",
+    "description": "Lavera, 1987 yılında kurulan Laverana Digital GmbH & Co. KG bünyesinde üretilen doğal kozmetik markasıdır.Yüz bakımı, vücut bakımı, saç bakımı, el bakımı ürünleri sunmaktadır.Laverana Digital GmbH & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Organic Glam",
+    "description": "Organic Glam, 2002 yılında Margo ve Francesco Marrone tarafından kurulan The Organic Pharmacy Ltd bünyesinde üretilen organik cilt bakım ürünleri markasıdır.Ürünleri yapay koruyucu ve koku içermez. Ürünlerinin çoğu vegandır ve hiçbiri hayvanlar üzerinde test edilmemiştir.The Organic Pharmacy Ltd. İngiltere merkezlidir ve 40 ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Maia Mc",
+    "description": "Maia Mc, 2011 yılında kurulan Bir Kozmetik San. Tic. Ltd. Şti. bünyesindeki kozmetik ürünler markasıdır.Maia kozmetik, bitkisel yağ, cilt bakım maskesi, güneş bakım ürünleri, argan yağı, keratin yağı, boabab serisi ürünleri sunmaktadır.ISO 9001, ISO 22716, Helal belgelerine sahiptir.Kozmetik ve cilt bakım ürünlerinin içinde ağır metaller, paraben, koruyucu, renklendirici ve hayvansal maddeler yoktur.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sulthanay",
+    "description": "Sulthanay, 1958 yılında Mehmet Üstün tarafından kurulan Üstün Tekstil bünyesindeki markadır.Peştamal ve havlu çeşitlerin kendine özgü kumaş ve tasarımlarıyla satışa sunan firma, kese sonrası kullanılan doğal bakım yağlarını ve çok özel sabun serisini müşterilerine sunmaktadır.Yerli firma ürünlerini Amerika, Orta Doğu ülkeleri, Rusya, Japonya, Avustralya ve Avrupa ülkelerine ithal ediyor.Üstün tekstil, Sulthanay markası dışında Derma Peel ve Ottantica markalarıyla ürün yelpazesini genişletiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "KinGirls",
+    "description": "KinGirls, Watsons mağazalarında satılan cilt maskeleri markasıdır.KinGirls’ün Who Cares? adlı serisi bulunmaktadır.KinGirls Tayvan merkezli cilt bakım ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Nasomatto",
+    "description": "Nasomatto, 2007 yılında parfümör Alessandro Gualtieri tarafından kurulan parfüm markasıdır.Nasomatto, Hollanda merkezli bir parfüm firmasıdır.Nasomatto markaları:AbsinthBaraondaBlack AfganoBlamageChina WhiteDuroHindu GrassNarcotic V.NudiflorumPardonSilver Musk",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Vaseline",
+    "description": "Vaseline, 1859 yılında Robert Augustus Chesebrough tarafından Chesebrough-Pond’s Inc bünyesinde, yüzde 100 saf petrol jelinden ilk kez üretilen nemlendirici jel markasıdır.1987 yılında Chesebrough-Pond’s Inc.’i Unilever PLC. satın aldı.İngiltere merkezli Unilever PLC., ürün yelpazesine kuru ciltleri korumaya yardımcı jel, losyon, krem ve dudak bakım ürünleri gibi nemlendirici ürünleri eklemiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-26"
+  },
+  {
+    "company": "Cree",
+    "description": "Cree, 1987 yılında Thomas Coleman, John Edmond, Eric Hunter, John Palmour ve Calvin Carter tarafından kurulan Cree Inc. bünyesindeki LED çip markasıdır.LED aydınlatma ürünleri üzerine faaliyet göstermektedir.Cree Inc. şirketi 2019 yılında Amerika menşeili Ideal Industries Inc tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-03-30"
+  }
+]

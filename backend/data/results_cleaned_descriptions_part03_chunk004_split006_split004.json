@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kurzweil",
+    "description": "Kurzweil, 1982 yılında Raymond Kurzweil tarafından kurulan Kurzweil Music Systems bünyesindeki elektronik müzik aletleri markasıdır. Kurzweil Music Systems, 1990 yılında Young Chang Co., Ltd. tarafından satın alındı.SP Serisi; piyano, elektrik piyano, organ, dizi ve synths dahil 32 ses katmanını sağlar, oldukça yetenekli midi kontrolör ve iki yollu kontrol özelliklerine sahiptir.Young Chang Co., Ltd. Güney Kore merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Forelli",
+    "description": "Forelli, 1958 yılında kurulan Alkan Ayakkabı ve Deri Mamulleri San. ve Tic. Ltd. Şti. bünyesindeki ayakkabı markasıdır.Ürünlerinde yüzde 100 gerçek deri kullanmaktadır.Ürünlerini Almanya, Belçika,Hollanda, Romanya, İngiltere, Yunanistan, Libya, Lübnan, İran gibi ülkelere ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Veg&Bones",
+    "description": "Veg & Bones, 2016 yılında kurulan Bonita Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen geleneksel çorbalar, ilikli kemik suyu, sütlaç, bebek ek gıdası çeşitleri markasıdır.Ürünlerinin tamamı doğaldır ve katkı maddesi içermemektedir. Cam kavanozlarda kelle paça, işkembe ve beyran çorbası, yuvalama ve ekşili köfte çorbaları gibi ürünler sunmaktadır.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma Manisa merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-09-17"
+  },
+  {
+    "company": "GroundSpeed",
+    "description": "GroundSpeed, 2008 yılında kurulan Sentaida Group Co. Ltd. iştiraki Sentury Tire bünyesindeki araç lastiği markasıdır.Spor, sıfır araç, ticari minibüs ve uçak lastikleri üretmektedir.Sentaida Group Co. Ltd. Çin merkezlidir ve lastik üretim yeri, Çin’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Boehringer Ingelheim",
+    "description": "Boehringer Ingelheim, 1885 yılında kurulan C. H. Boehringer Sohn AG & Co. KG bünyesindeki ilaç markasıdır.İnsan ve hayvan sağlığı alanlarında ilaç endüstrisindeki en büyük 20 şirket arasındadır.Aile şirketi olarak kurulan Almanya merkezli Boehringer Sohn AG & Co. KG, Türkiye’de Boehringer Ingelheim İlaç Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-04-11"
+  }
+]

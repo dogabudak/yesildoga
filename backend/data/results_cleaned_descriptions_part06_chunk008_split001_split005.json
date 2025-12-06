@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Eneos",
+    "description": "Eneos, 1888 yılında kurulan Eneos Corporation bünyesindeki petrol, petrokimya yakıtı markasıdır.Eneos Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Decakila",
+    "description": "Decakila, Decakila Inc. bünyesinde üretilen mutfak, sağlık, güzellik ve ev aletleri markasıdır.Ürün yelpazesinde mikrodalga fırın, ütü, elektrikli su ısıtıcısı, kıyma makinesi, blender, kahve makinesi, traş makineleri, saç şekillendiriciler gibi ürünler yer almaktadır.Decakila Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nymfea",
+    "description": "Nymfea, Nuci Pharma Sağlık Ürünleri İlaç ve Kozmetik San. Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünlerde sentetik maddeleri kullanmamaktadır, kullanılan her bileşen ciltle uyumlu ve organiktir.Firma Ankara merkezlidir, ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Excalibur Parallexx",
+    "description": "Excalibur, 1973 yılında kurulan Greenfield World Trade Inc. bünyesinde üretilen gıda dehidratörleri markasıdır.Gıda kurutucuları, vakum alıcılar, çantalar ve rulo, et hazırlama ve işleme ekipmanları sunmaktadır.Ayarlanabilir termostatı, daha hızlı, kurutulmuş gıdalar için kurutma döngüsü boyunca ısıyı değiştirerek yararlanmanızı sağlar.Greenfield World Trade Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lele Yumurta",
+    "description": "Lele Yumurta, 1989 yılında kurulan İtimat Tavukçuluk ve Gıda San. Tic. A.Ş. bünyesinde üretilen yumurta markasıdır.Ürünlerini 60 bin metrekarelik alanda kurulu tesisinde üretmekte ve çok sayıda ülkeye ihraç etmektedir. Tavukların gübrelerinden her ay 720 bin KW elektrik üretilmektedir.Ankara merkezli firma bayilik vermeden 14 ilçede 200’den fazla şube ağı oluşturmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

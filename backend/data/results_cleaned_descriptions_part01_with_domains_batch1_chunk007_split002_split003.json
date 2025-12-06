@@ -1,0 +1,48 @@
+[
+  {
+    "company": "ABC Kimya",
+    "description": "ABC Kimya, akrilik, silikon, hibrit esaslı mastik ile inşaat ve endüstriyel imalat sektörlerinde kullanılan muhtelif yapıştırıcıların markasıdır.İsviçre merkezli Sika grubu 2018 yılında ABC Kimya ve Dış Tic. A.Ş.’yi satın aldı.İstanbul Silivri’de bulunan üretim tesislerinde üretilen ürünler ABC markasıyla 40 ülkeye ihracat yapıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Netmaster",
+    "description": "Netmaster, 1984 yılında kurulan Teknotel Bilişim Ürünleri Ticaret Limited Şirketi bünyesindeki ADSL modem, Wireless, skyphone, VoIP gibi ürünlerin tescilli markasıdır.Netmaster, iç ve dış mekan kablosuz cihazlar ile internet/network konusunda en geniş ve bütünleşik ürün yelpazesine sahip bir Türk markasıdır.Ürünlerini Tayvanlı PARADIGM TECHNOLOGY INC. üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Equinix Ülke",
+    "description": "Equinix, 1998 yılında kurulan, internet bağlantısı ve ilgili hizmetler konusunda uzmanlaşmış çok uluslu veri merkezi sağlayıcısıdır.Amerikan merkezli Equinix 2015 yılında TelecityGroup’u satın aldı. TelecityGroup 2013 yılında Türkiye’den SadeceHosting’i satın almıştı. Bu satın almalardan sonra SadeceHosting ünvan değiştirildi ve adı Equinix Turkey İnternet Hizmetleri A.Ş. olarak değişti.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sika",
+    "description": "Sika, 1910 yılında Kaspar Winkler tarafından kurulan Sika AG bünyesinde üretilen yapı kimyasalları ve endüstriyel yapıştırıcılar, beton katkıları, özel harçlar, sönümleme ve takviye malzemeleri, yapısal güçlendirme sistemleri, endüstriyel döşeme, çatı sistemleri, binalar için su yalıtım sistemleri, derzler, yenileme ve döşeme ve kaplama, su yalıtımı markasıdır.Sika AG, İsviçre merkezlidir. Dünya çapında 101 ülkede iştirakleri bulunmaktadır. 1990 yılından beri Türkiye’de Sika Yapı Kimyasalları A.Ş. olarak faaliyet göstermektedir. Türkiye üretim tesisleri İstanbul Tuzla Deri OSB ve Mersin Tarsus OSB’de yer alıyor.Bünyesindeki bazı alt markalar:SikaFastSikaflexSikagard",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2022-10-18"
+  },
+  {
+    "company": "Alce Nero",
+    "description": "Alce Nero, 1978 yılında kurulan Alce Nero S.p.a bünyesindeki organik gıda markasıdır.Alce Nero S.p.a İtalya merkezli bir şirkettir.Ürettiği bütün gıdalar organik olup yetiştirilen ürünlerinde hiçbir kimyasal madde kullanılmamaktadır. Tüm ürünler sadece yüzde 100 kontrol altındaki kooperatiflerden elde edilir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Rayher",
+    "description": "Rayher1961 yılında kurulmuş olan Rayher Hobby Gmbh bünyesindeki boyalar ve aksesuarlar, döküm ve modelleme, kağıt kreasyonları, kendin yap setleri, kurdeleler ve kumaşlar, mücevher tasarımı, sanatsal hobi ürünleri markasıdır.Rayher Hobby Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Doyfarm",
+    "description": "Doyfarm1978 yılında kurulmuş olan Şenpiliç Gıda San. A.Ş. bünyesinde üretilen ısıl işlem görmüş piliç sucuk, piliç salam, tavuk pirzola, tavuk bonfile markasıdır.ISO 9001, TSE ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir. 4 kesimhane ve fabrikasıyla üretim yapmaktadır ve ürünlerini 30 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "BKF Klima",
+    "description": "BKF Klima1985 yılında kurulmuş olan BKF-Climate A/S bünyesindeki ısıtma, havalandırma ve soğutma için enerji tasarruflu iklim çözümleri dağıtıcısı markasıdır.BKF-Climate A/S 2024 yılında Japonya merkezli Daikin Industries Ltd. yan kuruluşu Daikin Europe N. V. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Kalite Tonla",
+    "description": "Kalite Tonla1984 yılında kurulmuş olan Dardanel Önentaş Gıda San. A.Ş. bünyesindeki konserve ton balığı markasıdır.İthal balıklardan Türkiye’de üretilmektedir.Firma Çanakkale merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alpeda",
+    "description": "Alpeda1978 yılında kurulmuş olan Filiz Çelik San. Tic. A.Ş. bünyesindeki bankolar, bekleme koltukları, berber koltukları, berber tezgahları, kuaför koltukları, kuaför tezgahları, laboratuvarlar, yıkama setleri, yardımcı ekipmanlar markasıdır.ISO 9001, ISO 14001 ve TSE belgelerine sahiptir.Firma Bursa merkezlidir ve ürünlerini 70’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

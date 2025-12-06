@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Reda Proses",
+    "description": "Reda, 1983 yılında kurulmuş olan Reda S. p. A. bünyesinde süt ve meyve suyu endüstrisi için üretilen gıda işleme ekipmanları markasıdır.Katı içerikli sıvılar veya yüksek viskoziteli ürünler de dahil olmak üzere çok çeşitli sıvı gıdalar için proses teknolojileri geliştirmektedir.Reda S. p. A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Malwarebytes",
+    "description": "Malwarebytes, 2008 yılında Marcin Kleczynski ve Bruce Harrison tarafından kurulmuş olan Malwarebytes Inc. bünyesindeki ev bilgisayarları, akıllı telefonlar ve şirketleri kötü amaçlı yazılımlardan ve diğer tehditlerden koruma yazılımları markasıdır.Malwarebytes Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Derkab",
+    "description": "Derkab, 2014 yılında kurulmuş olan Deremen Bilgisayar Ltd. Şti. bünyesinde üretilen network ağ ethernet kablosu markasıdır.Firma İstanbul merkezlidir ve ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fenjal",
+    "description": "Fenjal, 1899 yılında kurulmuş olan Doetsch Grether AG bünyesindeki kozmetik hijyen ürünleri markasıdır.Ürün yelpazesi sabun, banyo yağı, vücut losyonu, vücut yıkama, köpük banyosu, duş yağı, duş köpüğü ve diğer cilt bakım ürünlerini içermektedir.Doetsch Grether AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Sunwa Elektrikli Ekipmanlar",
+    "description": "Sunwa, 1949 yılında kurulmuş olan Sun-Wa Technos Corporation bünyesindeki mekatronik ve yarı iletkenler gibi elektronik ekipmanlar, motorlar, sensörler, endüstriyel robotlar, sayısal kontrol sistemleri, yarı iletkenler, programlanabilir kontrolörler, konektörler, küçük fanlar, anahtarlar ve yazıcılar markasıdır.Sun-Wa Technos Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

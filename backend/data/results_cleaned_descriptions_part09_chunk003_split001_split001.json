@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kolynos",
+    "description": "Kolynos1806 yılında kurulan Colgate Palmolive Company bünyesinde üretilen diş macunu markasıdır.Colgate Palmolive Company Amerika merkezlidir. 1985 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Petronas Motor Yağı",
+    "description": "Petronas2000 yılında kurulmuş olan Petronas Chemicals Group Bhd. bünyesindeki motor yağları, silikon ve madeni yağ katkı maddeleri ve kimyasalları petrokimya ürünleri markasıdır.Petronas Chemicals Group Bhd. Malezya merkezlidir. 23 ülkede faaliyet göstermektedir. Türkiye’de 1993 yılından beri Petronas Madeni Yağlar Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  },
+  {
+    "company": "Marmados Kolonya",
+    "description": "Marmados1992 yılında kurulmuş olan Senso Kozmetik Ürün. Turz. San ve Tic. Ltd. Şti. bünyesindeki limon ve tütün kolonyaları markasıdır.Firma İstanbul merkezlidir ve ürünlerini Düzce’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Frigg Emzik",
+    "description": "Frigg2021 yılında kurulmuş olan FB Trading ApS bünyesinde üretilen kauçuk emzikler, bebek ürünleri markasıdır.FB Trading ApS Danimarka merkezlidir ve ürünlerini Danimarka’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Akansu Boru",
+    "description": "Arama motorlarında, markaların hangi ülkenin ürünü olduğu bilgisi genellikle hatalıdır. Aradığınız markaları sitemizi hergün ziyaret ederek bulabilirsiniz.Akansu1915 yılında kurulmuş olan Akansu Plastik ve Cam. San. ve Tic. A.Ş. bünyesinde üretilen plastik boru, polietilen boru, pvc boru, düz cam ve pvc kapı pencere sistemleri markasıdır.Firma Kayseri merkezlidir. Ürünlerini 75 bin metrekaresi kapalı olmak üzere toplam 160 bin metrekarelin alanda üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

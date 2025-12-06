@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Azur Cosmetic",
+    "description": "“Azur Cosmetic“2015 yılında kurulmuş olan Este Design Sağlık Hizmetleri A.Ş. bünyesindeki şampuan, saç bakım seti, saç serum ve yağı, saç vitamini markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pieps",
+    "description": "“Pieps“1972 yılında kurulmuş olan Pieps Gmbh bünyesindeki tırmanış malzemeleri, çığ sondası markasıdır.Şirket arama ve navigasyon ekipmanları üretmektedir.Pieps Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Powervision Drone",
+    "description": "“Powervision“Powervision Tech Inc. bünyesinde üretilen su altı ve su üstü drone markasıdır.Powervision Tech Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sheglam",
+    "description": "2019 yılında kurulmuş olan Roadget Business Pte. Ltd. bünyesindeki makyaj kozmetikleri, cilt bakım ürünleri ve koku markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.E-perakende şirketi kozmetik, kadın giyim, ayakkabı, çanta ve diğer aksesuar ürünlerini sunmaktadır.Roadget Business Pte. Ltd, Singapur merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": "2024-09-28"
+  },
+  {
+    "company": "Aochuan",
+    "description": "“Aochuan“2018 yılında kurulmuş olan Zhongshan YangGuo Electronic Technology Co. Ltd. bünyesindeki sabitleyiciler ve fotoğraf ekipmanı aksesuarları markasıdır.Zhongshan YangGuo Electronic Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

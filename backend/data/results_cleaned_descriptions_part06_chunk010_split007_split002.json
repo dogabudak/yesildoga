@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Jlg Telehandlers",
+    "description": "Jlg, 1969 yılında kurulan JLG Industries Inc. bünyesinde üretilen hava çalışma platformları ve teleskopik işleyici markasıdır.Firmanın ürünleri inşaat, montaj, endüstriyel bakım, malzeme taşıma ve tesis bakımında kullanılmaktadır.JLG Industries Inc. 2006 yılında Amerika merkezli Oshkosh Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Meybona",
+    "description": "Meybona, 1923 yılında Emil ve Luise Meyerkamp tarafından kurulan Meybona Schokoladenfabrik Meyerkamp Gmbh & Co. KG bünyesinde üretilen hazır çikolata markasıdır.Firma ürünlerini kakao çekirdeklerinden çikolata olana kadar geçen tüm süreçleri kendi bünyesinde gerçekleştirmektedir.Meybona Schokoladenfabrik Meyerkamp Gmbh & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cosmo Appliances",
+    "description": "Cosmo Appliances, 2014 yılında Steven ve Irene Law tarafından kurulan Cosmo Products LLC bünyesinde ithal edilen fırınlar, ocaklar ve davlumbazlar, pişirme cihazları, mutfak muslukları ve koruyucu mutfak eldivenleri markasıdır.Cosmo Products LLC Amerika merkezlidir ve ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Unteks",
+    "description": "Unteks, 1977 yılında kurulan Unteks Gıda San. ve Tic. A.Ş. bünyesinde üretilen un markasıdır.Ürettiği unları kendi araçları ile İstanbul içinde dağıtım yapmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nora Un",
+    "description": "Nora Un, 2015 yılında kurulan Nora Un Gıda San. Tic. A.Ş. bünyesinde üretilen özel amaçlı buğday unu, siyez buğday unu, sarı buğday unu, tam buğday unu markasıdır.ISO 9001, ISO 22000, TSE ve Helal belgelerine sahiptir.Ankara merkezli firma ürünlerini Ürdün, Libya, Irak, B.A.E., Suriye, Mısır gibi ülkelere ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

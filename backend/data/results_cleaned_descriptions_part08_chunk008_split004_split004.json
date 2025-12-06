@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Polact",
+    "description": "PolactArama: Diğer markalara ulaşmak için sitemizde arama yapabilirsiniz.1980 yılında kurulmuş olan Depar Ayakkabı San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 20 bin metrekarelik alanda bulunan tesisinde üretmektedir.Bünyesindeki markalar;Cargo Legend WaysPltPolactPonkyProwolf",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "FP Diesel",
+    "description": "FP DieselArama: Diğer markalara ulaşmak için sitemizde arama yapabilirsiniz.FP Diesel, 2019 yılında kurulmuş olan Driv Incorporated bünyesindeki ağır iş makinesi, motor parça ve contaları, inşaat, denizcilik, tarım, madencilik, gaz sıkıştırma, kamyonculuk ve sanayi sektörleri için hassas tasarımlı bileşenleri markasıdır.Driv Incorporated Amerika merkezli Tenneco Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vemoherb",
+    "description": "Vemoherb, 1999 yılında kurulmuş olan Vemoherb Ltd. bünyesindeki gıda takviyeleri markasıdır.Vemoherb Ltd. Bulgaristan merkezlidir. Bulgaristan bitkilerinden, bitkisel ve enzim yem katkı maddelerinden, gıda enzimlerinden elde edilen gıda takviyeleri ve standartlaştırılmış bitki özleri üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "One Drop Only",
+    "description": "1950 yılında kurulmuş olan One Drop Only Gmbh bünyesindeki doğal içeriklerden oluşan ağız ve diş bakım ürünleri markasıdır.Diş macunu, konsantre, gargara konsantresi, gargara, ağız spreyi ve dil temizleyici gibi ürünler sunmaktadır.One Drop Only Gmbh Almanya merkezlidir.Bünyesindeki markalar;One Drop OnlyHalazon",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sparkasse",
+    "description": "1778 yılında kurulmuş olan S-Communication Services Gmbh bünyesindeki bankacılık ve finansal hizmetler markasıdır.Tüm Avrupa’daki en büyük finansal hizmetler grubunu oluşturan bir kamu bankaları ağıdır.S-Communication Services Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

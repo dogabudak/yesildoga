@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Akta",
+    "description": "Akta, 2016 yılında kurulan Akta Plastik San. ve Tic. Ltd. Şti. bünyesinde üretilen alüminyum folyo, gıda streci, palet streç, koli bandı markasıdır.Ürünleri İzmir’de tam otomatik makineler ile üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Floraplast",
+    "description": "Floraplast, 2002 yılında kurulan Özkaya Holding’e ait bir kuruluş olan Floraplast Ambalaj San. ve Tic. A.Ş. bünyesinde üretilen plastik poşet, çöp torbası, çanta, torba, çuval, file, sandık, kutu, kasa, damacana, şişe, bidon, makara, masura, bobin, tıpa, kapak, kapsül vb. paketleme malzemeleri markasıdır.Floraplast firması Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zewa",
+    "description": "Zewa, 2017 yılında kurulan Essity AB bünyesinde üretilen kağıt mendil, kadın pedleri, inkontinans ürünleri, bebek bezi, yara bakım ürünleri markasıdır.Şirket, inkontinans bakımı, kompresyon tedavisi, ortopedi ve yara bakımı alanlarında kağıt mendil, adet pedleri, bebek bezleri üretmektedir.Essity AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Bakeey",
+    "description": "Bakeey, 2018 yılında Shenzhen Yisi Technology Co., Ltd. bünyesinde üretilen lensler 3D gözlükler, iletişim için iletim cihazları, hoparlörler için dolaplar, akıllı telefonlar için kılıflar, elektrik kablolar ve telleri, fotoğrafçılıkta kullanılmak üzere el feneri, kulaklık, mikrofonlar, taşınabilir dijital elektronik cihazlar için monopods, mp3 çalarlar, kişisel dijital yardımcılar, uzaktan kumanda telemetering makineleri ve aletleri, akıllı saatler, ses kayıt cihazları, teleskoplar, kameralar tripodlar, giyilebilir aktivite takip cihazları markasıdır.Shenzhen Yisi Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar:AgsivoAissimioAutoleaderAuzanBakeeyBecornceCaberreCaveenClaiteDoersuppE SafuranceEivotorEldoerElutoEssortFlorhoForgeloFuntokGemittoGlamadorGlimeGracosyHocosyInskerIrangexJanoliaJaycyJoyxeonKenoceKidsformKifitKisslaceLaotieLesovLi LiumyLiumyMayliMeMeigarMigicshowModchokMoeraeMofanerMtgatherP PumoesPathonorSafetyonSenrhySgoddeShirlinSmuxiStyle DomeSunnymeThorfireToday PlusWarmtooWedliesWinksoarWolikeXueqinYkpuiiYu YunaiZeast",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kostal",
+    "description": "Kostal, 1974 yılında kurulan Daejin Kostal Co. Ltd. bünyesinde üretilen Belge parçalayıcı, veri imha, geri dönüşüm parçalayıcı, sistem parçalayıcı, kağıt parçalayıcı, sabit disk parçalayıcı, ataş, zımba markasıdır.Daejin Kostal Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

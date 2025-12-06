@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Public Power",
+    "description": "Public Power, 1950 yılında kurulan bir elektrik enerjisi şirketidir.Yunanistan hükümeti tarafından kurulan şirketin merkezi başkent Atina’da yer almaktadır.Yunanistan hükümetinin payı yüzde 51.12 oranındadır.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Wistron",
+    "description": "Wistron, 2001 yılında kurulan Wistron Corporation bünyesindeki IA (bilgi aletleri), El cihazları, Ağ ve iletişim ürünleri markasıdır.Wistron, dizüstü bilgisayar, masaüstü bilgisayar, sunucu, depolama, LCD TV, el cihazları ve tıbbi uygulamalar için cihazlar ve ekipmanlar dahil olmak üzere bilgi ve iletişim teknolojisi ürünlerine odaklanır.Wistron Corporation Tayvan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Quanta Computer",
+    "description": "Quanta Computer, 1988 yılında kurulan Quanta Computer, Inc. bünyesindeki dizüstü bilgisayarlar ve diğer elektronik donanım markasıdır.Quanta Computer, Inc. Tayvan merkezli dünyanın en büyük dizüstü bilgisayar üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Visteon Ülke",
+    "description": "Visteon, 2000 yılında kurulan Visteon Corporation bünyesindeki Otomotiv kokpit elektroniği markasıdır.Visteon Corporation Amerika merkezli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cookplus",
+    "description": "Cookplus, 2012 yılında Karaca A.Ş. bünyesinde kurulan Mutfak Ürünleri, Küçük Ev Aletleri, Ev Tekstili, Yemek Takımları, Kahvaltı Takımları, Çatal Kaşık Bıçak ürünleri markasıdır.Karaca San. ve Tic. A.Ş. 1973 yılında kuruldu. KARACA ve KRC markalı ürünlere sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-01-31"
+  }
+]

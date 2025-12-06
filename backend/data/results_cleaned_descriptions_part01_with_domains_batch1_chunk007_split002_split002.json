@@ -1,0 +1,47 @@
+[
+  {
+    "company": "G-Cube Ülke",
+    "description": "G-Cube Hangi Ülke MalıdırG-Cube, 2007 yılında kurulan bilgisayar aksesuarları markasıdır. Ana ürünleri; klavye, fare, web kamera, çanta, kulaklık Apple, iPhone ve iPad gibi cihazlar için aksesuarlar ve şarj cihazları.G-Cube Amerikan merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Energizer Ne",
+    "description": "Energizer, 1896 yılında kurulan pil markasıdır. Dünyada 45 ülkede distribütörlüğü bulunmaktadır.Amerikan merkezli pil üreticisi Energizer Holdings Inc, Spectrum Brands’ın küresel çaptaki batarya ve taşınabilir aydınlatma işini 2 milyar dolara satın alarak Rayovac ve Varta gibi markaları kendi serisine ekledi.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Namet",
+    "description": "Namet, 1998 yılında kurulmuş olan Namet Gıda San. ve Tic. A.Ş bünyesindeki sucuk, pastırma, salam, sosis, tütsülenmiş et, dondurulmuş ve yemeye hazır hamburger gibi taze kesilmiş ve paketlenmiş işlenmiş kırmızı et ürünleri markasıdır.BRC, TSE ve Helal belgelerine sahiptir.Namet Gıda San. ve Tic. A.Ş. 2013 yılında Bahreyn merkezli Investcorp Holdings B.S.C. tarafından Gulf Delicatessen Investors S.a.r.l. vasıtası ile ortak kontrolü devralınmıştır. Diğer hisseleri Kayar Ailesi ile Özcan Albak’a aittir.Firma Kocaeli merkezlidir. Şanlıurfa’da çiftlik ve kesimhane, Kocaeli’de karkas parçalama ve et işleme, İstanbul’da et işleme tesisleri, Ankara, İzmir ve Antalya’da satış depoları bulunmaktadır.Bünyesindeki markalar;1929 Namet Lezzet SanatıAnnem’in KöftesiCharcuterie MaretEminM MaretMapetMaretN Namet 1929NamburgerNameatNamenergyNamenerjiNametNamsuNamsütNaturetNmtSucuk MuckSucuk Mucuk",
+    "documents": [
+      "BRC",
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BH",
+    "updated_date": "2024-05-10"
+  },
+  {
+    "company": "Mayi Tuz",
+    "description": "Mayi Tuz, 2018 yılında Gözüyukarı Ailesi tarafından kurulan doğal kaynak suyundan üretilen tuz markasıdır.Türkiye’nin Kırıkkale Delice ilçesinde en büyük doğal kaynak suyu tuzlasında, 10 milyon TL yatırımla kurulan tuz işleme tesisi ile doğal yollarla elde edilen ve mineral zenginliğiyle öne çıkan tuz üretmektedir.ABD, Güney Kore, Rusya ve İngiltere başta olmak üzere birçok ülkeye ihraç edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cooler Master",
+    "description": "Cooler Master, 1992 yılında kurulan bilgisayar donanımları markasıdır.Bilgisayar kılıfı, güç kaynağı, hava veya sıvı işlemci, anakart ve grafik kartı soğutucu, dizüstü soğutma yastığı ve bilgisayar çevre birimleri gibi ürünleri Tayvan merkezli Cooler Master Co., Ltd. üretmektedir. Şirketin Amerika, Hollanda, Almanya, Rusya ve Brezilya’da ofisleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Vigos Chocolate",
+    "description": "Vigos2005 yılında kurulmuş olan Vigos Gıda San. ve Tic. A.Ş. bünyesinde üretilen krem çikolata, çikolatalar markasıdır.Helal belgesine sahiptir.Firma Gaziantep merkezlidir.Bünyesindeki markalar;BonjemLimedoMaricoMonissaNansiRapindaVianoVigosVigos White",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nur Ink",
+    "description": "Nur Ink1975 yılında Moshe Nur tarafından kurulmuş olan NUR Group çatısı altındaki Nur Ink Innovations Ltd. bünyesinde üretilen su bazlı pigmentli mürekkepler markasıdır.Nur Ink Innovations Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Coteci",
+    "description": "Coteci2012 yılında kurulmuş olan Shenzhen City Bought Trading Co. Ltd. bünyesinde üretilen mobil aksesuarlar, ekran koruyucular, kılıf ve çantalar, şarj cihazları markasıdır.Shenzhen City Bought Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Oraki Total Media",
+    "description": "Oraki2005 yılında Amitai Tafla tarafından kurulmuş olan Oraki Ltd. bünyesindeki reklamverenlere ve yayıncılara temel teknoloji platformlarına erişim, holistik monetizasyon, eyleme geçirilebilir veri analizleri, birinci sınıf danışmanlık ve katma değerli hizmetler sunan küresel, köklü bir AdTech (reklam teknolojileri) çözüm sağlayıcısıdır.Oraki Ltd. İsrail merkezlidir. Türkiye’de Total Media Dijital Reklam Teknolojileri ve Hizmetleri Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Redtiger",
+    "description": "Redtiger2021 yılında kurulmuş olan Zhoushan Panda Electronic Commerce Co. Ltd. bünyesinde üretilen araç kameraları ve aksesuaları markasıdır.Zhoushan Panda Electronic Commerce Co. Ltd. Çin merkezlidir. Ürünleri Çin’de üretilmektedir ve 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Meriç Kaşar Peynir",
+    "description": "Meriç Kaşar Peynir Nerenin Malı MarkasıMeriç, 1998 yılında kurulan Avunduk Süt Ürünleri San. Ltd. bünyesinde üretilen taze kaşar, taze tost peyniri, hellim, mozerella peynir markasıdır.KKTC merkezli firma ürünlerini 3 bin 500 metrekarelik kapalı alana sahip tesisnde üretmekte ve toplam üretiminin yüzde 70’ini 10’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "Northern Cyprus",
+    "updated_date": null
+  },
+  {
+    "company": "Andros",
+    "description": "Andros, 1946 yılında Jean Gervoson ve Pierre Chapoulart tarafından kurulan Andros SNC bünyesindeki reçeller, meyve püreleri, doğal meyve sosları, meyve dolguları, konfi meyveler, meyve ve sebze tozları, meyve cipsleri ve sağlıklı atıştırmalıklar, kurutulmuş meyve ve sebzeler markasıdır.Andros SNC Fransa merkezlidir. 16 ülkede 45 fabrikaya sahiptir. Türkiye’de Andros Tarım Gıda San. ve Tic. A.Ş. olarak faaliyet göstermektedir.Bünyesindeki markalar;AndrosAndros ChefAndros ProfesionnalBonne MamanFruit Chef",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Murex Yazılım",
+    "description": "Murex, 1986 yılında Laurent Neel ve Salim Edde tarafından kurulan Murex Sas bünyesindeki finansal piyasalar için alım satım, nakit, risk ve işlem faaliyetlerine ürünler sunan bir yazılım yayıncısıdır.Murex Sas Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Alfrus",
+    "description": "Alfrus, 1885 yılında kurulan Alfrus S. R. L. bünyesinde üretilen badem, dilimlenmiş badem, doğranmış badem ve badem unu markasıdır.Firma bitmiş ürün ve fırın, şekerleme, çikolata, dondurma, atıştırmalık ve içecek endüstrisi için gıda maddeleri olarak kullanılan badem işleme konusunda uzmanlaşmıştır.Alfrus S. R. L. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "NCH Software",
+    "description": "Nch Software Pty. Ltd., 1993 yılında Peter Lupton tarafından kurulan yazılım şirketidir. Firma öncelikle web sitesi üzerinden satış yapmaktadır.Windows, Mac ve taşınabilir aygıtlar için ses, iş, dönüştürücü, çevirici, düzenleme, görüntü ve fotoğraf, kayıt, araçlar, video ve kamera yazılımları uygulamaları geliştiricisidir. Mac ve mobil cihazlar için 80’den fazla kolay kullanımlı yazılım uygulaması yayınladı.Nch Software Pty. Ltd. Avustralya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  }
+]

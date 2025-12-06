@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Sjcam",
+    "description": "Sjcam, 2007 yılında kurulan SJCAM Limited bünyesinde üretilen aksiyon kameraları ve aksesuarları markasıdır.Sjcam Limited Shenzhen Zhencheng Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hamilton Beach",
+    "description": "Hamilton Beach, 1904 yılında L. H. Hamilton ve Chester Beach tarafından kurulan Hamilton Beach Brands, Inc. bünyesindeki küçük mutfak aletleri markasıdır.Ürün yelpazesinde karıştırıcı, ağır ocak, kahve makinesi, gıda işlemcileri, kahvaltı sandviç makineleri, pirinç ocaklar, ütü, mikser, tost makinesi, dondurma makinesi, elektrikli bıçak, konserve açacağı, ekmek makinesi, ızgara, tezgah fırını, hava temizleyici, harmanlayıcı, kahve makinesi, tost makinesi, saç kurutma makinesi gibi ürünler yer alır.Hamilton Beach Brands, Inc. Amerika merkezlidir. 2012 yılından beri, Hamilton Beach markalı ürünler Çin’de taşeronlar tarafından üretilmektedir.Bünyesindeki markalar:Hamilton BeachProctor-SilexEclectrics CollectionTrueAir",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Granado",
+    "description": "Granado, 1870 yılında Jose Coxito Granado tarafından kurulan Grupo Granado SA bünyesindeki nemlendirici banyo seti, sıvı sabun, vücut kremi markasıdır.Grupo Granado SA, 1994 yılında İngiliz girişimci Christopher Freeman tarafından satın alındı. Granado ürünleri Brezilya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Kovea",
+    "description": "Kovea, 1982 yılında kurulan Kovea Co Ltd. bünyesindeki dağcılık kamp ocakları ve lüksleri, çadır, masa, sandalye ve diğer aksesuarlar markasıdır.ISO 9001 belgesine sahiptir.Kovea Co Ltd. Kore merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Teac",
+    "description": "Teac, 1953 yılında kurulan TEAC Corporation bünyesindeki elektronik markasıdır.Ses ekipmanları, ölçüm ekipmanları, ölçüm sistemleri, bilgisayar çevre birimleri üreticisidir.2013 yılında Gibson Brands, Inc., TEAC Corporation’ın çoğunluk hissesini satın aldı.Teac şirketinin yüzde 54,65’i Amerika merkezli Gibson Holdings, Inc.’e yüzde 2,57’si Japonya merkezli Japan Trustee Services Bank, Ltd.’ye aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

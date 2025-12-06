@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Rüsch",
+    "description": "Rüsch, 1943 yılında kurulan Teleflex Incorporated bünyesindeki üroloji, anesteziyoloji, gastroenteroloji ve solunum bakım cihazları markasıdır.Teleflex Incorporated Amerika merkezlidir. Şirketin ürün yelpazesinde makas, cımbız ve laparoskopik aletler gibi cerrahi aletlerin yanı sıra kateterler, endofeal tüpler, kelepçe cihazları ve torasik drenaj sistemleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Broad Group",
+    "description": "Broad Group, 1996 yılında Zhang Yue tarafından kurulan emme soğutucu, klima, sürdürülebilir bina, hava temizleyici ve enerji hizmetleri markasıdır.Doğalgaz ve atık ısı ile çalışan klima üretmektedir.Ürünlerini 60’tan fazla ülkeye ihraç etmektedir.Bir prefabrik yapı şirketi olan Broad Sustainable Building’in ana şirketidir.Broad Group Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Denza",
+    "description": "Denza, 2010 yılında kurulan Shenzhen Denza New Energy Automotive Co. Ltd. bünyesinde üretilen elektrikli otomobil markasıdır.Denza Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Shenzhen Denza New Energy Automotive Co. Ltd.’nin hisselerinin yarısı Çin merkezli BYD’ye diğer yarısı ise Almanya merkezli Daimler AG’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "iKeyMonitor",
+    "description": "iKeyMonitor, 2012 yılında kurulan iKeyMonitor Technology Co., Ltd bünyesindeki iPhone ve Android telefon ve tabletler için bir izleme programıdır. Ebeveyn kontrolü ve çalışan takibi için hazırlanmıştır. Ebeveyn kontrol aracı olarak sunulan iKeyMonitor, sms, sesli mesajlar, aramalar, sosyal sohbetler, GPS ve daha fazla bilgi gibi çocuk telefonlarındaki etkinlikleri uzaktan izlemek için kullanılabilir.iKeyMonitor Technology Co., Ltd İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "3Shape",
+    "description": "3Shape, 2000 yılında kurulan 3shape Holding bünyesindeki diş ve ses endüstrileri için 3 boyutlu tarayıcılar ve CAD/CAM yazılım çözümleri markasıdır.Şirketin Çin, Avrupa, Latin Amerika ve ABD’de üretim tesisleri ve ofisleri bulunmaktadır.3shape Holding, Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

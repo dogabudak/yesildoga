@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Magicsee",
+    "description": "Magicsee, 2007 yılında kurulan Shenzen Intek Technology Co. Ltd. bünyesinde üretilen Android televizyon kutusu markasıdır.ISO 9001 ve ISO 14000 belgelerine sahiptir.Shenzen Intek Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Phrau",
+    "description": "Phrau, Kutlu Kozmetik Gıda Temizlik Maddeleri İnşaat Turizm Nak. Otom. Eml. Teks. Tar. Ahşap Ür. San. ve Tic. Ltd. Şti. bünyesinde üretilen aloevera özlü krem, cilt temizleme köpüğü, doğal gülsuyu, el ve vücut losyonu, gül özlü ve e vitaminli krem, kaş kirpik bakim serumu, lavanta özlü krem, partiküllü yoğun bakim kremi, salyangoz el ve yüz kremi, tonik, vazelin markasıdır.Firma Isparta merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bombili Kids",
+    "description": "Bombili, 1988 yılında kurulan Bekon Tekstil Konfeksiyon San. ve Tic. Ltd. Şti. bünyesinde üretilen bebe ve çocuk ürünleri markasıdır.6 aylıktan 10 yaşa kadar ürünler sunmaktadır.Firma Bursa merkezlidir. Ürünlerini 5 bin metrekarelik üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Piggyback",
+    "description": "Piggyback, 2006 yılında kurulan Monahan Products LLC bünyesindeki bebek malzemeleri ve aksesuarları markasıdır.Monahan Products LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "ISY",
+    "description": "ISY, 2007 yılında kurulan Imtron Gmbh bünyesindeki elektronik ürünler markasıdır.Imtron Gmbh, Media-Saturn-Holding Gmbh’nin tamamına sahip olduğu bir yan kuruluştur ve Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

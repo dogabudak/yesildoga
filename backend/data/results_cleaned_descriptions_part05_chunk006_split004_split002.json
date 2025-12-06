@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Cloudfare",
+    "description": "Cloudfare, 2009 yılında Matthew Prince, Lee Holloway ve Michelle Zatlyn tarafından kurulan Cloudflare Inc. bünyesindeki web uygulamaları için güvenlik duvarı, değiştirilecek etki alanı adı sunucusu, proxy sunucu, içerik dağıtım ağı, SSL markasıdır.Cloudflare Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zendium",
+    "description": "Zendium, 1969 yılında Henk Hoogendoorn tarafından kurulan Conopco Inc. bünyesinde üretilen kişisel bakım ürünleri, parfüm, sabun ve şampuan, gıda ürünleri markasıdır.Amiloglukosidaz, glikoz oksidaz, laktoperoksidaz, kolostrum, laktoferrin, lizozim, potasyum tiyosiyanat, sodyum florür, çinko glukonat içermektedir.Conopco Inc. İngiltere merkezli Unilever Grubu bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-25"
+  },
+  {
+    "company": "Cosmozone",
+    "description": "Cosmozone, 1998 yılında kurulan Mert Kozmetik Kimya Gıda Ambalaj San. Tic. Ltd. Şti. bünyesinde üretilen anti acne, ayak bakım kremi, el bakım kremi, kil sabunu, pişik bakım kremi, shea yağı sabunu, survival el ve yüz bakım kremi, yüz yıkama sıvısı, yosun sabunu markasıdır.Firma İzmir merkezlidir. ISO 9001 belgesine sahiptir.Bünyesindeki markalar;Baby MoreCosmozoneGood and HealthHermansItriOlive OzoneReve Dor",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "DigiCert",
+    "description": "DigiCert, 2003 yılında kurulan DigiCert Inc. bünyesindeki dijital sertifikalar veya TLS/SSL sertifikaları vermek için gereken ortak anahtar altyapısı (PKI) ve doğrulama sertifikaları markasıdır.Bu sertifikalar, kuruluşların ve etki alanlarının kimliklerini doğrulamak ve kullanıcıların web tarayıcıları, e-posta istemcileri, belgeler, yazılım programları, uygulamalar, ağlar ve bağlı IoT cihazları ile dijital etkileşimlerinin gizliliğini ve veri bütünlüğünü korumak için kullanılır.DigiCert Inc. Amerika merkezlidir ve çok sayıda ofisleri bulunan bir teknoloji şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mi Bebito",
+    "description": "Mi Bebito, 2004 yılında kurulan Mey Kozmetik İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen bebek duş jeli, bebek kolonyası, bebek losyonu, bebek yağıi bebek pudrası ve pişik önleyici krem markasıdır.Firma Tuzla Deri OSB’de bulunan 10 bin metrekarelik üretim tesisinde kozmetik, kişisel bakım ve temizlik ürünleri alanında üretim yapmakta ve üretiminin yüzde 70’ini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

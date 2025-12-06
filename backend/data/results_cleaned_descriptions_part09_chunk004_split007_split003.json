@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Heineken",
+    "description": "Heineken1864 yılında kurulmuş olan Heineken Brouwerijen B.V. bünyesinde üretilen bira ve şarap markasıdır.Heineken Brouwerijen B.V. Hollanda merkezlidir. 70’den fazla ülkede bira fabrikaları, malteriler, elma şarabı fabrikaları ve diğer üretim tesislerini işletmektedir. 190’dan fazla ülkede faaliyet göstermektedir.Bünyesindeki markalar;BulmersHeinekenIne SilverSilverStrongbow",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Nimo TV",
+    "description": "Nimo TV2018 yılında kurulmuş olan Huya Pte. Ltd. bünyesindeki oyun akışı platformu markasıdır.Milyonlarca yayıncının oyunlarını, diğer oyunculara oynamasına ve yayınlamasına olanak tanır.Huya Pte. Ltd. 2020 yılında Çin merkezli Tencent Holdings Limited tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Smit",
+    "description": "Smit1938 yılında kurulmuş olan Smit SRL bünyesindeki dokuma makineleri ve tezgahları markasıdır.Smit SRL İtalya merkezlidir.Bünyesindeki markalar;CavitecIsotexSantexSmitSperotto Rimar",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Kickstarter Bağış",
+    "description": "Kickstarter2009 yılında Charles Adler, Perry Chen, Yancey Strickler tarafından kurulmuş olan Kickstarter PBC bünyesindeki kitle fonlama platformu markasıdır.Film, müzik, sanat, tiyatro, oyun, çizgi roman, tasarım, fotoğrafçılık vb. konularda içerik oluşturucuların ve onları finanse etmek için bir araya gelmek isteyen toplulukların çalışma alanıdır.Kickstarter PBC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-07-13"
+  },
+  {
+    "company": "Saab",
+    "description": "Saab1937 yılında kurulmuş olan Saab AB bünyesinde üretilen savunma sistemleri, hava trafik kontrolü, hava trafik kontrol sistemleri, radarlar, siber güvenlik markasıdır.Saab AB İsveç merkezli Investor AB’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Molicel",
+    "description": "Molicel, 1977 yılında kurulan E-One Moli Energy Corp. bünyesinde üretilen şarj edilebilir lityum iyon pil markasıdır.ISO 14001, ISO 9001, ISO 27001, IATF 16949 belgelerine sahiptir.E-One Moli Energy Corp. Tayvan merkezli Taiwan Cement Corporation Group’un bir parçasıdır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Caria Sun",
+    "description": "Caria Sun, 2007 yılında kurulan DC Kozmetik İçecek Tur. İnş. İm. Taah. İt. İhpaz Sa. ve Tic. Ltd. Şti. bünyesinde üretilen güneş yağı markasıdır.Havuç yağı ve E vitamini içerikli, bronzlaştırıcı güneş yağı cilde nem kazandırır.Firma Antalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Crafers",
+    "description": "Crafers, 2018 yılında kurulan Crafers Kompaniyasining bünyesinde üretilen unlu mamuller, şeker ve şekerleme ürünleri markasıdır.Ürün yelpazesinde jöle şekerler, karamelli çikolata, baton çikolata, bisküvi gibi ürünler yer almaktadır.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Crafers Kompaniyasining Özbekistan merkezlidir. Ürünlerini 35 bin metrekarelik alanda bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "UZ",
+    "updated_date": null
+  },
+  {
+    "company": "Alpen Gold Çikolata",
+    "description": "Alpen Gold, 1991 yılında üretilen çikolata ve dondurma markasıdır.Çikolatayı fındık, kuru üzüm ve likör gibi malzemelerle üretmektedir.Marka 2012 yılında Amerika merkezli Mondelez International tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Caotech",
+    "description": "Caotech, 1997 yılında kurulan Caotech B.V. bünyesinde üretilen kakao, çikolata ve bileşiği işlemek için bilyalı değirmenler ve yedek parçaları markasıdır.Çikolata, yağlı sır ve dolgu, çikolatalı fındık ezmesi, dondurma ve unlu mamullerin üretimi için makineler üretmektedir. Dünya çapında anahtar teslim projeler sunmaktadır.Caotech B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

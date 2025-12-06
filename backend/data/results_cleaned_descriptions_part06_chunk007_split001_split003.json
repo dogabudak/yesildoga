@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Cavo",
+    "description": "Cavo, 1984 yılında kurulan Cavo Otomotiv Tic. ve San. A.Ş. bünyesinde otomotiv yan sanayisi için üretilen emniyet ürünleri, çeşitli mekanizmalar ve kumanda kabloları markasıdır.ISO 9001, ISO 14001, ISO 27001, OHSAS 18001, IATF 16949 belgelerine sahiptir.Ürünlerini Kocaeli’de Taysad OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Red Burrito",
+    "description": "Red Burrito, 1966 yılında kurulan CKE Restaurants Inc. bünyesindeki restoran zinciri markasıdır.CKE Restaurants Inc., özel sermaye şirketi Amerika merkezli Roark Capital Group’un bir yan kuruluşudur. 43 ülkede faaliyet göstermektedir.Bünyesindeki markalar;Carl’s Jr.Hardee’sGreen BurritoveRed Burrito",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ziener",
+    "description": "Ziener, 1946 yılında kurulan Franz Ziener Gmbh & Co. KG bünyesinde üretilen giyim, eldiven, aksesuar markasıdır.Taytlar, M.I.T.I.’den elde edilen geri dönüştürülmüş elyafların kullanımıyla üretilmektedir.Franz Ziener Gmbh & Co. KG Almanya merkezlidir ürünlerini Litvanya’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Outventure",
+    "description": "Outventure, 2012 yılında kurulan Sport & Fashion Management Pte. Ltd. bünyesindeki spor giyim ürünleri, spor ayakkabılar, kamp malzemeleri markasıdır.Sport & Fashion Management Pte. Ltd. Singapur merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "L. A. Colors",
+    "description": "L. A. Colors, 1985 yılında kurulan Beauty 21 Cosmetics Inc. kozmetik ve makyaj ürünleri markasıdır.Şirket yüz, göz, dudak, tırnaklar için ürünler sunmaktadır. Ürünlerini hayvanlar üzerinde test etmemektedir.Beauty 21 Cosmetics Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

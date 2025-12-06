@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Kale Kimya",
+    "description": "Kale Kimya, 1975 yılında kurulan Kale Kimya A.Ş. bünyesindeki güzellik ve kişisel bakım ile ev ve endüstriyel temizlik pazarlarında yer alan özel kimyasallar dağıtıcısıdır.1985 yılında Tekpar A.Ş. ile birleşerek ürün yelpazesini genişletmiştir.Şirket, formülasyon laboratuvarı yetenekleri ve teknik uzmanlığının yanı sıra, yüzey aktif maddeler, aktif maddeler, emülgatörler, koruyucular, UV filtreleri, kokular, polimerler, yumuşatıcılar, esterler ve yumuşatıcılar dahil olmak üzere geniş bir güzellik ve kişisel bakım ürünleri ve ev ve endüstriyel temizlik ürünleri yelpazesi sunmaktadır.Düzce’de yer alan fason üretim tesisi cGMP standartlarına göre yapılandırılmıştır ve esterifikasyon üzerinde uzmanlaşmıştır.Kale Kimya A.Ş. 2023 yılında Amerika merkezli Univar Solutions Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "CE",
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-12-12"
+  },
+  {
+    "company": "WaterFall",
+    "description": "WaterFall, 2000 yılında kurulan Kocaeli Lastik Sanayi A.Ş. (Kolsan) bünyesinde üretilen lastik markasıdır.Lastik, kauçuk bileşimi ve kauçuk parçaları Kocaeli Sanayi Bölgesi’nde üretmektedir.WaterFall Lastikleri ISO 9001: 2008, ISO TS 16949, ISO 14001 ve OHSAS 18001 uluslararası kalite belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elite World Otelleri",
+    "description": "Elite World, 1976 yılında kurulan Elit Turizm Yatırım A.Ş. bünyesindeki oteller zinciridir.Elite World Prestige, Elite World İstanbul, Elite World Van, Elite World Europe, Elite World Business, Elite World Marmaris Hotel, Elite World Asia Hotel, Elite World Sapanca Hotel ile faaliyet gösteriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Timax",
+    "description": "Timax, 1999 yılında kurulan kauçuk, lastik ve kimyasal ürünler üzerinde ağırlıklı olarak yatırım ve ticaret çalışmaları yapan lastik kapsamlı Tanco Grubuna aittir. Grup bünyesinde 2008 yılında TANCO Tire Industrial Co., Ltd. kurularak, 800 bin metrekarelik alanda lastik üretilmeye başlanmıştır.Tanco Çin merkezlidir ve ürünlerini Çin’de üretmektedir.TIMAX marka kamyon ve otobüs radyal lastik yıllık üretim kapasitesi 1,5 milyon sete ulaşmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Smartisan",
+    "description": "Smartisan, 2012 yılında Luo Yonghao tarafından kurulan Smartisan Technology Co., Ltd. bünyesindeki akıllı telefon markasıdır.Tüketici elektroniği cihazları ve çevrimiçi hizmetleri tasarlar ve pazarlar. Donanım ürün serisi smartisan akıllı telefon ve Smartisan kulaklık içerir. Yazılımı Smartisan İşletim sistemi içerir. Çevrimiçi hizmetleri arasında Smartisan Store, Smartisan OS App Store ve Smiling Cloud bulunmaktadır.Smartisan Çinli çok uluslu bir teknoloji şirketidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

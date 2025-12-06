@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Sabıroğlu",
+    "description": "Sabıroğlu, 1965 yılında kurulmuş olan Serhun Gıda Kimya San. Tic. Ltd. Şti. bünyesinde üretilen helva, reçel, tahın ve pekmez markasıdır.ISO 9001, ISO 22000, TSE, Helal belgelerine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pieper CCTV",
+    "description": "Pieper, 1968 yılında kurulmuş olan Pieper Gmbh bünyesindeki endüstriyel video, güvenlik sistemleri markasıdır.DIN EN ISO 9001, SCC, ATEX RL 94/9/EC belgelerine sahiptir.Pieper Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kontrolmatik Technologies",
+    "description": "Kontrolmatik Technologies, 2008 yılında kurulmuş olan Kontrolmatik Teknoloji Enerji ve Mühendislik A.Ş. bünyesindeki enerji üretim, iletim ve dağıtım tesisleri, petrol, doğal gaz, ulaşım, yiyecek, içecek, maden, akıllı tarım, gübre ve diğer çimento, kâğıt, demir-çelik, kimya gibi endüstriyel tesislere; santral yan tesisleri, operasyonel teknolojiler, endüstriyel yazılımlar, kontrol ve güvenlik sistemleri, haberleşme, veri işleme ile nesnelerin interneti ile güç sistemleri ve anahtar teslim çözümleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Versage Energy Drink",
+    "description": "Versage, 2013 yılında Murat Emiroğlu tarafından kurulmuş olan Versage Gıda İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen enerji içeceği markasıdır.TS EN ISO 9001, TS ISO 10002, ISO 45001, ISO 14001, Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 40’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-21"
+  },
+  {
+    "company": "Leonessa Lingerie",
+    "description": "Leonessa, 2019 yılında Michele Krüsi tarafından kurulmuş olan Leonessa Lingerie Gmbh bünyesindeki iç çamaşırı ve mayo markasıdır.Her parçası el yapımı olduğundan, yalnızca sınırlı seri olarak gelir.Leonessa Lingerie Gmbh İsviçre merkezlidir. Ürünleri Portekiz’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Netatmo",
+    "description": "Netatmo, 2011 yılında Fred Potter ve Jean-Pierre Dumolard tarafından kurulmuş olan Netatmo S.A. bünyesindeki akıllı ac denetleyicisi, akıllı ev hava istasyonu, akıllı kapalı kamera, akıllı termostat, akıllı iç mekan kamerası ve aksesuarları, sirenli ve sirensiz akıllı dış mekan kamerası, akıllı görüntülü kapı zili, akıllı duman alarmı, akıllı karbonmonoksit alarmı, akıllı ev hava istasyonu markasıdır.Netatmo S.A. 2018 yılında Fransa merkezli Legrand S.A. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Velux",
+    "description": "Velux, 1941 yılında Villum Kann Rasmussen tarafından kurulmuş olan Velux A/S bünyesindeki çatı pencereleri, tavan pencereleri, güneşlikler markasıdır.Velux A/S, Danimarka merkezli VKR Holding A/S’ye aittir. 9 ülkede 16 üretim tesisi ve 35 ülkede varlığı olan uluslararası bir şirkettir. Türkiye’de Velux Çatı Pencereleri Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Meksmar",
+    "description": "Meksmar, 1997 ylında kurulmuş olan Meksmar Doğal ve Sağlıklı Ürünler Ltd. Şti. bünyesinde üretilen bitkisel içerikli ürünler ve zencefilli drops pastiller markasıdır.Firma Ankara merkezlidir. Ürünlerini 40 ülkeye ihraç etmektedir.Bünyesindeki markalar:BonipsBredoGingerbonGingerellaGingeronaturJoin + UsLaxa-GingerMeksmarMeksmar Finish&FreshMeksmarnaturNaturNaturliveRibasSmart DropsStrep-Dops",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hyp Me",
+    "description": "Hyp Me, 2009 yılında kurulmuş olan Gratis İç ve Dış Tic. A.Ş. bünyesinde üretilen dökülme karşıtı sülfatsız şampuan markasıdır.Gratis İç ve Dış Tic. A.Ş.’nin yüzde 55 hissesi İngiltere merkezli Actera Group Limited’e aittir, geri kalan hisseleri ise Sedes İç ve Dış Tic. A.Ş.’nindir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Fraternikus",
+    "description": "Fraternikus, 2009 yılında kurulan Gratis İç ve Dış Tic. A.Ş. adına çeşitli firmalar tarafından üretilen kolonya, papatyalı el kremi ve vücut balsamı markasıdır.Gratis İç ve Dış Tic. A.Ş.’nin yüzde 55 hissesi İngiltere merkezli Actera Group Limited’e geri kalan hisseler Sedes İç ve Dış Tic. A.Ş.’ye attir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

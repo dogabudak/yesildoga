@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Stratasys",
+    "description": "Stratasys, 1989 yılında S. Scott Crump tarafından kurulmuş olan Stratasys Ltd. bünyesinde üretilen 3D yazıcılar, polimer malzemeler, yazılım ekosistemi ve parçalar markasıdır.otomotiv, havacılık, endüstriyel, eğlence amaçlı, elektronik, tıbbi ve tüketici ürünleri OEM’leri için ofis içi prototipleme ve doğrudan dijital üretim sistemleri üretmektedir.Stratasys Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": "2023-11-03"
+  },
+  {
+    "company": "Pantech",
+    "description": "Pantech 1991 yılında kurulan cep telefonu üreticisidir. Amerika Birleşik Devletleri, Japonya, Çin ve Avrupa’daki ortaklarıyla birlikte çalışmaktadır. Pantech ayrıca özel telefonlar için Kişisel İletişim Cihazları ile ortaklık kuruyor. Şirkette Samsung ve Qualcomm firmalarının hisseleri bulunmaktadır.Güney Koreli Pantech, Güney Kore’nin en çok cep telefonu üreten üçüncü üreticisidir.Şirket, Amerikan pazarında en büyük iki kablosuz taşıyıcı AT & T ve Verizon için Pantech model telefon üretiyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Dbk",
+    "description": "DBK elektromekanik el aletleri markası 1989 yılında kurulan İNTRATEK A.Ş. tarafından üretilmektedir.İntratek A.Ş’nin yüzde 85 hissesi 2007 yılında, 50 ülkede faaliyet gösteren 1964 yılında kurulan Alman Einhell Germany AG tarafından satın alınmıştır.2012 yılında Einhell Germany AG lider el aleti makine aksesuar firması KWB Gmbh’ı satın almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-07-04"
+  },
+  {
+    "company": "Dayton Lastik",
+    "description": "Dayton lastik markası, uluslararası lastik ve kaplama sektöründe faaliyet gösteren Sabancı Holding ve Bridgestone Corporation ortaklığıyla kurulan Brisa adlı şirkete aittir.Bridgestone Corporation 1931 yılında Shojiro Ishibashi tarafından Japonya’da kurulmuş uluslararası lastik firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2019-01-18"
+  },
+  {
+    "company": "Bisan Bisiklet",
+    "description": "Bisan, 1963 yılında bisiklet ve motosiklet üretmek için İzmir’de kurulan Türkiye’nin ilk bisiklet fabrikasıdır.4 bin metrekare kapalı alan üzerine kurulu tesislerinde üretim yapan Bisan A.Ş., bisiklet fabrikasında tek vardiyada günlük 450 adet bisiklet üretim kapasitesi ile faaliyetine devam etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

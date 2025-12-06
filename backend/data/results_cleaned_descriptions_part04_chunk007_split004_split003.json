@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Beech-Nut",
+    "description": "Beech-Nut Hangi Ülkenin Malı MarkasıBeech-Nut, 1891 yılında Raymond P. Lipe, John D. Zieley, Walter H. Lipe ve David Zieley tarafından kurulan Beech-Nut Nutrition Company bünyesinde üretilen bebek maması markasıdır.2005 yılında Beech-Nut Nutrition Company İsviçre merkezli The Hero Group tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Tomica",
+    "description": "Tomica, 1970 yılında Eijira Tomiyama tarafından kurulan Takara Tomy Co. bünyesinde üretilen enjeksiyon kalıplı oyuncak otomobil markasıdır.Takara Tomy Co. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Shu Uemura",
+    "description": "Shu Uemura, 1972 yılında M. Shu Uemura tarafından kurulan makyaj ürünleri, cilt bakım ürünleri ve aksesuarları markasıdır.Shu Uemura kozmetik şirketi, 2003 yılında Fransa ve İsviçre ortaklığındaki Loreal Group tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Maisto Tech",
+    "description": "Maisto Tech, 1967 yılında kurulan May Cheong Toy Products Factory Limited bünyesinde üretilen oyuncaklar, model araçlar, dekoratif süs eşyaları markasıdır.Ağırlıklı olarak otomobil, uçak ve motosiklet döküm modelleri üretmektedir.May Cheong Toy Products Factory Limited Hong Kong merkezlidir. Ürünlerini 115 ülkeye pazarlamaktadır.Bünyesindeki markalar;BB JuniorBburagoMaistoMaisto TechMuscle MachinesPolistil",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": "2023-04-22"
+  },
+  {
+    "company": "XS Ateş Ölçer",
+    "description": "XS Ateş Ölçer Hangi Ülkenin Malı MarkasıXS, Ganzhou Xianshun Technology Co., Ltd. bünyesindeki kızılötesi termometre, elektronik termometre, bluetooth termometreler ve pulse oksimetre ve tıbbi elektronik ekipman markasıdır.Ganzhou Xianshun Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

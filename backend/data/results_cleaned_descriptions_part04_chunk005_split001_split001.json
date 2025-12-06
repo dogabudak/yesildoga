@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Professional Altınusta",
+    "description": "Professional Altınusta, 1994 yılında kurulan Altınoğulları Gıda Tekstil Makine Paz. San. ve Tic. Ltd. Şti. bünyesindeki pastacılık malzemeleri, fırın ekipmanları, üretime yardımcı ürünler ve gıda grubu markasıdır.İstanbul’da bulunan deposu üzerinden Türkiye çapında ürün dağıtım ağına sahiptir. Ürünlerini Orta Asya ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ambar",
+    "description": "Ambar, 1995 yılında kurulan Ambar Tekstil Ürünleri Tur. San. Tic. Ltd. Şti. bünyesindeki kadın giyim markasıdır.İzmir merkezli firmanın Türkiye’de pek çok yerde 30’dan fazla mağazası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fireangel",
+    "description": "Fireangel, 2000 yılında kurulan Sprue Aegis PLC bünyesindeki duman ve karbon monoksit dedektörleri ve aksesuarları markasıdır.Firma ev güvenlik ürünleri sağlayıcısıdır. Başlıca ürünleri arasında duman alarmları, CO alarmları ve aksesuarları yer almaktadır.Sprue Aegis PLC İngiltere merkezlidir. Şirket ayrıca Kanada’da kendi CO sensör üretim tesisini işletmektedir.Bünyesindeki markalar:FireAngelAngelEyePace SensorsFirst AlertSONABRKDicon",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ballerina",
+    "description": "Ballerina, 2013 yılında kurulan Orkla Confectionary & Snacks bünyesindeki gıda ürünleri markasıdır.Şirket, atıştırmalıklar, tatlılar ve bisküviler üretmektedir.Orkla Confectionary & Snacks Norveç merkezli Şirket Orkla Grubu’nun bir parçasıdır.Bünyesindeki markalar:BallerinaBixitCafé BakerietCheezKiMsKornmoNidar FavoritterPollySmåsulten,Smash!StratosTotenflak",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "F. Bosch",
+    "description": "F. Bosch, 1924 yılında kurulan Friedrich Bosch GmbH & Co. KG bünyesinde üretilen tansiyon aleti ve aksesuarları, teşhis cihazları markasıdır.ISO 13485 belgesine sahiptir.Friedrich Bosch GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2021-03-22"
+  }
+]

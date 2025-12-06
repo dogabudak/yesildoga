@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sunnav",
+    "description": "Sunnav, 2009 yılında kurulan Sunnav Technology Co. Ltd. bünyesinde üretilen ölçüm ve analiz cihazları markasıdır.Yüksek hassasiyetli GNSS anakart ve endüstriyel GNSS ürünleri üretmektedir. GPS ölçme ekipmanı, yüksek hassasiyetli gps jeodezik ekipman, gps alıcısı kullanılan ürünlere sahiptir.Sunnav Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Trespass Ayakkabı",
+    "description": "Trespass, 1984 yılında Jacobs & Turner Ltd. bünyesinde kurulan spor giyim ürünleri markasıdır.Kayak giysileri, su geçirmez ceketler, polar, festival aksesuarları, yürüyüş botları ve kamp malzemeleri gibi spor ve dış giyim ürünleri yelpazesine sahiptir.Jacobs & Turner Ltd. İskoçya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Minelli",
+    "description": "Minelli, 1998 yılında kurulan Minelli SAS bünyesindeki ayakkabı mağazası markasıdır.Bot, terlik, spor ayakkabı ve sandalet perakende satışı yapmaktadır.Minelli SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Licaps",
+    "description": "Licaps, 1960 yılında kurulan Capsugel Inc. bünyesinde üretilen özellikle sıvı veya yarı katı madde içermek üzere tasarlanmış iki parçalı jelatin veya hidroksipropil metilselüloz kapsüller markasıdır.Şirket iki parçalı sert jelatin ilaç kapsülleri üretmektedir. Ayrıca boş ve sıvı kapsüllerin doldurulması için ekipmanların yanı sıra sıvı kapsüllerin sızdırmazlığı için malzeme satmaktadır.Capsugel Inc. 2017 yılında İsviçre merkezli Lonza Group AG tarafından satın alındı. Firma 9 ülkede 12 üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Shure",
+    "description": "Shure, 1925 yılında kurulan Shure Incorporated bünyesinde üretilen kablolu ve kablosuz mikrofonlar, ağa bağlı ses sistemleri ve sinyal işlemcileri, konferans ve tartışma sistemleri ve kulaklıklar markasıdır.Shure Incorporated Amerika merkezlidir. Ürünlerini Amerika, Meksika ve Çin’de bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

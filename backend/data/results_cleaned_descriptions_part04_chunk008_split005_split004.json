@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Rock Pillars",
+    "description": "Rock Pillars, 1991 yılında kurulan Rock Pillars Company Ltd. bünyesinde üretilen turist ekipmanları; çadır, uyku tulumları ve seyahat aksesuarları markasıdır.Rock Pillars Company Ltd. Rusya merkezlidir ve ABD, Japonya, Çek Cumhuriyeti’nde şubeleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Igloo Coolers",
+    "description": "Igloo, 1947 yılında kurulan Igloo Products Corp. bünyesinde üretilen elektrikli soğutucular, çantalar, sandalyeler, çadırlar, parçalar ve aksesuarlar markasıdır.Igloo Products Corp. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-07-28"
+  },
+  {
+    "company": "Rodan + Fields",
+    "description": "Rodan + Fields, 2002 yılında Katie Rodan ve Kathy Fields tarafından kurulan Rodan & Fields, LLC bünyesindeki cilt bakım ürünleri markasıdır.Kırışıklıklar, gözenekler ve sıkılık kaybı, kahverengi lekeler, donukluk ve güneş hasarı, akne, lekeleri, hassas, tahriş olmuş cilt ve yüz kızarıklığı ile ilgili ürünler sunmaktadır.Rodan & Fields, LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Too Faced",
+    "description": "Too Faced, 2011 yılında kurulan Too Faced Cosmetics, LLC. bünyesindeki makyaj ürünleri markasıdır.Maskaralar, göz farı paletleri, astarlar, pırıltılar, balsamlar, pembeleştirici, temeller, göz kalemi, dudak dolgunlaştırıcılar, yüz tozları ve rujlar sunmaktadır.Too Faced Cosmetics, LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İstinye Park",
+    "description": "İstinye Park, 2007 yılında kurulan alışveriş merkezi Orjin Grup ve Doğuş Grubu ortaklığına aittir.İstanbul’un Sarıyer ilçesinin Maslak semtinde yer almaktadır. Yaklaşık olarak 300 mağaza ve 90 bin metrekare alışveriş merkezinde aynı zamanda 3 bin 200 araç kapasiteli otoparkı bulunuyor.Doğuş Grubu’nun İstinye Park’taki hisse oranı yüzde 42’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

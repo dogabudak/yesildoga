@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Uddeholm",
+    "description": "Uddeholm, 1668 yılında Bengt Gustaf Geijer tarafından kurulan Uddeholms AB bünyesindeki aletler için takım çeliği markasıdır.Takım çelikleri otomotiv, elektronik, tüketim malları ve ambalaj gibi tüm imalat sanayilerinde kullanılmaktadır.2007 yılından beri Avusturya merkezli Voestalpine AG grubunun bir parçası olan Böhler-Uddeholm şirketi bünyesindedir. Uddeholms AB’nin üretim tesisi İsveç’tedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Belden",
+    "description": "Belden, 1902 yılında Joseph Belden tarafından kurulan Belden Incorporated bünyesindeki koaksiyel, güç ve sinyal kabloları, konektörler markasıdır.Endüstriyel, kurumsal ve yayın pazarlarında kullanılan yüksek hızlı elektronik kabloların en büyük üreticilerinden biridir.Amerika merkezli Belden Incorporated; ağ, bağlantı ve kablo ürünleri üreticisidir. Bu ürünler endüstriyel otomasyon, işletme, güvenlik, ulaşım, altyapı ve konut pazarlarına hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aixtron",
+    "description": "Aixtron, 1983 yılında Heinrich Schumann, Dr. Holger Jürgensen ve Dr. Meino Heyen tarafından kurulan Aixtron Se bünyesindeki yarı iletken sektörü için metalorganik kimyasal buhar biriktirme ekipmanları markasıdır.Aixtron Se Almanya merkezlidir ve üretim tesisleri Almanya ile Birleşik Krallık’ta yer almaktadır.DIN EN ISO 9001, DIN EN ISO 9001:2000, DIN EN ISO 9001:2015 sertifikalarına sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mamajoo",
+    "description": "Mamajoo, 1991 yılında kurulan Grup Elektronik İç ve Dış. Tic. Ltd. Şti. bünyesindeki biberon, biberon emzikleri, yalancı emzik, sterilizatör, mama ısıtıcı, göğüs pompası, göğüs pedi, eğitici bardak, beslenme kaşığı markasıdır.Grup Baby’nin kardeş şirketi olan Abc Lisans Üretim Sağlık Ürünleri İç ve Dış Tic. Ltd. Şti. tarafından BPA içermeyen PES biberonu ile PP biberonunu üretmektedir.ISO 9001 belgesine sahiptir.Bünyesindeki markalar:Ninna NannaTombikMamajoo",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-12-23"
+  },
+  {
+    "company": "Mamilan",
+    "description": "Mamilan, 1979 yılında kurulan KaWeCo GmbH bünyesindeki anne sütü pompaları ve aksesuarları markasıdır.Emziren anneler için bakım ve destek ürünleri üreticisidir.KaWeCo GmbH Almanya merkezlidir ve Almanya’da üretilen özel ürün yapılandırmaları ve ürün gruplarını müşterilerine sunmaktadır.Bünyesindeki markalar:MamilanMamivacMotherlove",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

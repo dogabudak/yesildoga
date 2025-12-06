@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Highlead",
+    "description": "Highlead, 1993 yılında kurulan Shanghai Biaozhun Hailing Sewing Machinery Co. Ltd. bünyesinde üretilen dikiş makinesi markasıdır.Shanghai Biaozhun Hailing Sewing Machinery Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Twistshake",
+    "description": "Twistshake, 2011 yılında kurulan Twistshake AB bünyesindeki bebek ve çocuklar için ürünler markasıdır.Polipropilen ile üretilen ürünler BPA ve ftalat içermemektedir. Bulaşık makinesine ve Mikrodalgaya uygundur.Twistshake of Sweden AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Bibs",
+    "description": "Bibs, 1978 yılında kurulan Bibs Denmark A.S bünyesindek bebek emzikleri markasıdır.Emzikler bir kaç kez rafine edilmektedir.Bibs Denmark A.S Danimarka merkezlidir ve ürünlerini Danimarka’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": "2022-01-26"
+  },
+  {
+    "company": "Moli Toys",
+    "description": "Moli Toys, 2015 yılında kurulan ve 2019 yılında Plaskon Ambalaj ve Plastik A.Ş.’nin çatısı altına giren akıl ve zekâ oyunları markasıdır.Konya merkezli firmanın üretim yelpazesinin yüzde 80’i akıl ve zeka oyunları grubundan, yüzde 20’si ise plastik oyuncak grubundan oluşmaktadır.Konya’da bin 500 metrekarelik kapalı alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aplisens",
+    "description": "Aplisens, 1992 yılında kurulan Aplisens S.A. bünyesinde üretilen endüstriyel kontrol ve ölçüm cihazları markasıdır.Ürün yelpazesinde diferansiyel basınç vericileri, dijital göstergeler, güç kaynakları, ayırıcılar, hidrostatik seviye probları, seviye vericileri, vanalar gibi ürünler yer almaktadır.Aplisens S.A. Polonya merkezlidir. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

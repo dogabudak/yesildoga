@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Goto",
+    "description": "“Goto“2020 yılında kurulmuş olan Goto Ltd. bünyesindeki binek araç kiralama hizmetleri markasıdır.Bireysel ve ticari müşterilere, kiralanan araba, moped, bisiklet ve scooterlar ile ulaşım alternatifleri sunar. Bu sayede şehirlerdeki özel sektöre ait araç sayısını azaltmayı amaçlamaktadır.Goto Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Kidsolio",
+    "description": "“Kidsolio“1998 yılında kurulan Alhatoğlu Zeytincilik Gıda, Zirai İlaç ve Tarım Makinaları San. ve Tic. Ltd. Şti. bünyesinde üretilen çocuklara özel soğuk sıkım zeytinyağı markasıdır.ISO 9001, ISO 22000, HACCP belgelerine sahiptir.Manisa merkezli firma ürünlerini Manisa’da bulunan 10 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Didier Lab",
+    "description": "“Didier“2012 yılında kurulmuş olan Laboratoires Didier SASU bünyesindeki cilt bakımı ve tırnak tasarımı için profesyonel ürünler markasıdır.Laboratoires Didier SASU Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Albert Heijn",
+    "description": "“Albert Heijn“2016 yılında kurulmuş olan Koninklijke Ahold Delhaize N.V. bünyesindeki gıda perakende markasıdır.Koninklijke Ahold Delhaize N.V. Hollanda merkezlidir.Bünyesindeki markalar;AB VassilopoulosAlbertAlbert HeijnBolDelhaizeENAEtosFood LionGall & GallGiant FoodHannafordMaxiMega ImageStop & ShopSuper IndoThe GIANT Company",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "U-Frigo",
+    "description": "U-Frigo“1991 yılında kurulmuş olan Uygar Marine Karavan İç ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen oto buzdolabı, karavan kliması markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

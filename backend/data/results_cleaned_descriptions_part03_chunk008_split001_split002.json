@@ -1,0 +1,44 @@
+[
+  {
+    "company": "DRN",
+    "description": "Drn, 2014 yılında kurulan Drn Endüstriyel Mutfak San. ve Tic. Ltd. Şti. bünyesindeki benmariler, beyran ocağı, çay kazanı, dolaplı ocak, döküm ızgara, döner ocağı, duş spreyleri, duvar tipi davlumbaz, fırınlı kuzineler, fritözler, krep makinası, künefe ocağı, pasta börek fırını, piliç çevirme makinesi, pleyt izgara, set üstü ocak, su böreği ocağı, taban raflı ocak, tantuni ocağı, tost makinesi, waffle makinesi, yer ocağı markasıdır.Ürünlerini İstanbul’da bulunan 2 bin 500 metrekarelik kapalı alanda bulunan fabrikasında üretmektedir ve 35 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Samixir",
+    "description": "Samixir, 1982 yılında Mehmet Ali Kakşi tarafından temelleri atılan Sam Teknik Mutfak Ekipmanları San. ve Tic. Ltd. Şti. bünyesindeki içecek ekipmanları markasıdır.Ürünleri arasında şerbetlik limonata ayran ve karadut soğutucuları, köpük ayran makineleri, frozen slush makineleri, sıcak çıkolata salep ısıtıcıları yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Farmatom",
+    "description": "Farmatom, 2002 yılında kurulan Royal İlaç bünyesindeki tavuk, hindi, civciv, piliç, inek, iri besi hayvanları, deve, at, buzağı, koyun, keçi, tay, kuzu, oğlak, arı gibi hayvanlar için üretilen bağışıklık sistemi güçlendirici sıvı ilaçtır.Royal İlaç, 70 ülkede faaliyet gösteren, Türk ve İngiliz ortak yatırımı hayvan sağlığı ve besleme şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Hidroten",
+    "description": "Hidroten, 1964 yılında kurulan Nobel İlaç San. ve Tic. A.Ş. bünyesindeki göğüs ucu kremi, nemlendirici bakım kremi, onarıcı bakım kremi, pişik kremi markasıdır.Yüzde yüz yerli sermayeli olan firma 3 ülkede bulunan 4 fabrikasıyla üretim yapmaktadır. Ürünlerini 50 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Inglot",
+    "description": "Inglot, 1983 yılında Wojciech Inglot tarafından kurulan INGLOT Sp. z o.o. bünyesinde üretilen kozmetik markasıdır.Makyaj kozmetik ve aksesuarlarının yüzde 95’ini kendi üretim tesislerinde üretmektedir. 70’ten fazla ülkede 800’den fazla salonu bulunmaktadır.INGLOT Sp. z o.o. Polonya merkezli bir kozmetik şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

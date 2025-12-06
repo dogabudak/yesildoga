@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Estathe",
+    "description": "1946 yılında kurulmuş olan Ferrero International S.A. bünyesindeki soğuk çay, alkolsüz içecekler markasıdır.Ferrero International S.A. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Digilux",
+    "description": "2003 yılında kurulmuş olan Digilux Technology Corp. bünyesindeki bellek kartı, SSD, USB sürücüsü, flash depolama ürünleri markasıdır.Digilux Technology Corp. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Haiboxing",
+    "description": "2003 yılında kurulmuş olan Shantou Haiboxing Toys Factory bünyesinde üretilen kumandalı helikopter, kumandalı otomobil, çarpışma kiti, kumandalı uçak, kumandalı oyuncaklar markasıdır.Shantou Haiboxing Toys Factory Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bloomberg HT",
+    "description": "2010 yılında Bloomberg L.P. ve Ciner Medya Grubu ortaklığında kurulmuş olan ekonomi kanalıdır.Michael Bloomberg’e ait olan Bloomberg L.P. Amerika merkezlidir. Diğer ortak Can Holding’dir. Can Holding’e 2025 yılında TMSF kayyum atamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-09-11"
+  },
+  {
+    "company": "Jocky",
+    "description": "2005 yılında kurulmuş olan Zhejiang Jocky Machinery Technology Co. Ltd. bünyesinde üretilen dikiş makineleri, çamaşır makineleri, malzeme taşıma ekipmanı, paketleme makineleri markasıdır.Zhejiang Jocky Machinery Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

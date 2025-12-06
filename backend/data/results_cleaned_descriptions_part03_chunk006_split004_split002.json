@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Taros",
+    "description": "Taros, 2001 yılında kurulan Taros Kırtasiyecilik San. ve Dış. Tic. A.Ş. bünyesindeki kırtasiye ürünleri markasıdır.Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lucky Prince",
+    "description": "Lucky Prince, 1953 yılında kurulan Şark Gülü Kırtasiye Tic. ve San. A.Ş. bünyesindeki pastel boya, guaj boya, parmak boyası, keçeli kalem gibi pek çok ürün markasıdır.Lucky Prince markalı ürünler Çin’de üretilmektedir.Şark Gülü Kırtasiye bünyesindeki markalar:BuffaloCansonDerofeF5 Formula 5 MagnumFocusFocuspointLittle PrinceLucky PrinceMad PackMagnumMantaMiniqMonamiMy DoughOximedPenlinePug Design PackRayonRegulatorSnowballStıngraySüper MınnŞg 1953",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2020-10-02"
+  },
+  {
+    "company": "Jilong",
+    "description": "Jilong, 1960 yılında kurulan Osman Kızılkaya Varisleri Adi Ortaklığı bünyesindeki şişme deniz ürünleri, şişme yatak gibi ürünlerin markasıdır.Kurulduğu yıllarda üretim yapan firma 1995 yılından itibaren ithalata başlamıştır.Jilong markalı ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biosys Biyomedikal",
+    "description": "Biosys, 2012 yılında Cemal Erdoğan ve arkadaşları tarafından kurulan Biosys Biyomedikal bünyesinde üretilen yerli solunum cihazı ventilatör markasıdır.Türkiye’de ilk olarak yoğun bakım birimi mekanik ventilatörü prototipi geliştiren firma, ilerleyen süreçte, tüm biyomedikal cihazların tümüyle milli tasarımlarını ve üretimlerini yapacak.Biosys Biyomedikal tamamen yerli sermaye ile kurulmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Inotera Memories",
+    "description": "Inotera Memories, 2003 yılında kurulan Inotera Memories, Inc. bünyesindeki DRAM markasıdır.Şirket 2016 yılında Micron Technology tarafından satın alınmıştır.1978 yılında kurulan Micron Technology rasgele erişimli bellek, flash bellek ve USB flash sürücülerde dahil olmak üzere bilgisayar belleği ve bilgisayar veri depolama ürünleri üreten Amerikalı bir üreticidir.Inotera Memories ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

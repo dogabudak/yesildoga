@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sandy",
+    "description": "Sandy, 1957 yılında kurulan Pe-Re-Ja İleri Kimya Sanayi A.Ş. bünyesindeki Türkiye’nin ilk sıvı sabun markasıdır.Pe-re-ja, ürün yelpazesinde kozmetik, parfüm, kolonya, sıvı sabun, şampuan, losyon, difüzör, hava spreyi, vücut buharı yer almaktadır.Dünya çapında 40’dan fazla ülkede ürünleri satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Krilom",
+    "description": "Krilom, 2011 yılında Aytekin Pahsa tarafından kurulan TAB Sağlık Ürünleri San. Tic. Ltd. Şti. bünyesindeki balıkyağı takviye edici gıda markasıdır.Ürünler Vefa İlaç San. ve Tic. Ltd. Şti. tarafından üretilmektedir.Balık yağı ve Krill yağı menşei Norveç, Astaksantin menşei İsviçre’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cafex",
+    "description": "Cafex, DİMES Gıda San. ve Tic. A.Ş. tarafından A101 Yeni Mağazacılık A.Ş. adına üretilen soğuk kahve markasıdır.Markanın sahibi A101 Yeni Mağazacılık A.Ş.’nin çoğunluk hisseleri Aydın Ailesi’ne aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Smart Otomobil Firmanın",
+    "description": "Smart, 1994 yılında Swatch ve Mercedes ile işbirliği üretilmiştir.2017 yılından itibaren fortwo ve forfour modelleri elektrikli olarak üretilmeye başlanmıştır.Alman Daimler AG bünyesindeki Smart’ın hisselerinin yüzde 50’lik kısmının 2019 yılında Çinli üretici Geely’e sattı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-03-29"
+  },
+  {
+    "company": "Dentaş Ambalaj",
+    "description": "Dentaş Ambalaj, 1972 yılında Dentaş Kağıt Ağaç Mamulleri ve Gıda Mad. San. ve Tic. A.Ş. olarak kuruldu.Hisselerinin tamamı 2013 yılında Prinzhorn Group tarafından satın alındı.Bir aile işletmesi olarak 1853 yılında kurulan Avusturyalı Prinzhorn Holding; ambalaj, kağıt ve geri dönüşüm sektörlerinde 15 ülkede ve Avrupa pazar lideri.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

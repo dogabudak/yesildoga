@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Lorpen",
+    "description": "LorpenArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1995 yılında kurulmuş olan Mountain Boot Company Ltd. bünyesindeki kayak, koşu veya trekking için teknik çoraplar markasıdır.Mountain Boot Company Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Electra Bicycle",
+    "description": "ElectraArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1993 yılında kurulan Electra Bicycle Company bünyesinde üretilen bisikletler, elektrikli bisikletler ve aksesuarlar markasıdır.Electra Bicycle Company 2014 yılından beri Amerika merkezli Trek Bicycle Corporation iştiraki olmuştur. Ürünlerinin büyük bir kısmı Tayvan ve Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Suplamore",
+    "description": "SuplamoreArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2022 yılında kurulmuş olan Nature Goods İlaç ve Gıda Sanayi Tic. Ltd. Şti. bünyesindeki bitkisel besin takviyeleri, vitaminler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "UnionPay",
+    "description": "UnionPay2002 yılında kurulmş olan C. Unionpay Co. Ltd. bünyesindeki mobil ve çevrimiçi ödeme hizmetleri markasıdır.Kartları dünya çapında 150’den fazla ülkede kullanılabilir.China Unionpay Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cevher Kimya",
+    "description": "Cevher1980 yılında kurulmuş olan Cevher Kimya Plastik ve Maden San. Tic. ve Ltd. Şti. bünyesinde üretilen çamaşır suyu, bulaşık deterjanları, genel temizlik ürünleri, gliserinli arap sabunu, jel bulaşık deterjanı, kireç çözücü, kireç önleyici, kozmetik ürünler, oxy leke çıkarıcı, parfümlü çamaşır suyu, sıvı sabun, toz deterjan, yumuşatıcı, endüstriyel çamaşır yumuşatıcısı, endüstriyel arap sabunu, endüstriyel bulaşık makinesi deterjanı, endüstriyel bulaşık makinesi parlatıcısı, endüstriyel cam temizleyici, endüstriyel cevgon kireç çözücü, endüstriyel kireç çözücü, endüstriyel krem temizleyici, endüstriyel sıvı bulaşık deterjanı , endüstriyel sıvı el sabunu, endüstriyel tuz ruhu, endüstriyel yüzey temizleyici, endüstriyel yağ çözücü markasıdır.ISO 9001 belgesine sahiptir.Firma Konya merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

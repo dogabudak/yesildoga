@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Akçalı Boya",
+    "description": "Akçalı, 1981 yılında Subutay Akçalı tarafından kurulan Akçalı Şirketler Grubu bünyesindeki su bazlı ve solvent bazlı boya markasıdır.Su bazlı boya imalatı 6 bin metrekarelik fabrikasında, solvent bazlı boya imalatını ise 2 bin metrekarelik ikinci üretim tesisinde gerçekleştirmektedir.1996 yılında Akçalı Şirketler Grubu bünyesinde Rusya’da A.B.PROM faaliyete geçmiştir.Akçalı Boya 2004 yılından itibaren Almanya TÜV Thüringen e.V. tarafından belgelendirilmiş EN ISO 9001:2008 kalite yönetim sistemi sertifikaları ile kalite standartlarına uygun olarak hizmet vermektedir.Akçalı Boya; Rusya, Moldova, Bulgaristan, Nijerya, Irak, Türki Cumhuriyetler ve KKTC ülkelerine ürünlerini ihraç etmektedir.Bünyesindeki markalar:PERMOLİTAKÇALI SPREYPERMOLİT ISI YALITIMDUPLI-COLORMOTİPCARAT BOYAANTICA SIGNORIAWRX",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sanino",
+    "description": "Sanino, 1927 yılında Mehmet Rıfat Evyap tarafından kurulan Evyap Sabun Yağ Gliserin San. ve Tic. A.Ş. bünyesindeki diş macunu markasıdır.Sabun, duş jeli, şampuan, tıraş ürünleri, cilt bakım kremleri, kokulu kozmetik ve bebek bezi, diş macunu gibi ürünler üreten Evyap yüzdeyüz yerli sermayeyle kurulmuştur. Dünya çapında 3 ülkede üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Konfulon",
+    "description": "Konfulon, 2006 yılında kurulan Konfulon Electronics Co., Ltd bünyesindeki batarya, güç bankası ve telefon aksesuarları markasıdır.Konfulon Electronics Co., Ltd Çin merkezli bir şirkettir ve Lityum-iyon pil, powerbank, şarj kabloları ve cep telefonu aksesuarlarını Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Let’s Encrypt",
+    "description": "Let’s Encrypt, 2016 yılında, kamu yararına çalışan İnternet Güvenliği Araştırma Grubu tarafından sağlanan bir servis ve TLS şifrelemesi için ücretsiz X.509 sertifikası dağıtan bir sertifika otoritesidir.Amerika merkezli kuruluşun sahipleri;Electronic Frontier Foundation (Amerikan sivil toplum örgütü)Mozilla FoundationMichigan ÜniversitesiAkamai Technologies (Amerika)Cisco Systems (Amerikalı çok uluslu bir ağ teknolojileri şirketi)Şifresiz HTTP protokolü yerine Dünya Çapında Ağ sunucularının şifreli bağlantı kurmasını amaçlamaktadır.Sadece alan adları için, alan doğrulaması sınıfında sertifika vermektedir. 400 milyona yakın siteye sertifika dağıtıldığını açıklamıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Comodo CA Sectigo",
+    "description": "Comodo CA, 1998 yılında İngiltere’de kurulurken 2017 yılında Francisco Partners tarafından satın alınarak Sectigo ünvanıyla yeniden markalaştı.Müşterilerin web varlıklarını ve bağlı aygıtlarını korumalarına, izlemelerine, kurtarmalarına ve yönetmelerine yardımcı olan web güvenliği ürünleri sağlayan Dünyanın en büyük ticari Sertifika Yetkilisi ve web güvenlik çözümleri lideridir.200’den fazla ülkede 100 milyondan fazla SSL sertifikası vermiştir.Francisco Partners Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

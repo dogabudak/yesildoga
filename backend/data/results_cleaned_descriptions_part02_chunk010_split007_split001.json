@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Donghee",
+    "description": "Donghee, 1972 yılında kurulan Donghee Industrial Co. Ltd. bünyesindeki otomotiv parçaları markasıdır.Donghee Industrial Co. Ltd. şasi, yakıt tankları, pedal parçaları, sunroofs, aks muhafazaları ve gövde panelleri gibi çeşitli otomotiv parçaları üreten şirketler grubudur.Güney Kore merkezlidir ve Kore dışında, Çin, Çek Cumhuriyeti, Slovakya, Türkiye, Rusya ve Amerika’da üretim tesisleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Fincantieri",
+    "description": "Fincantieri, 1959 yılında kurulan Fincantieri S.p.A. bünyesindeki lüks yatlar ve gemiler markasıdır.Avrupa’nın en büyük gemi üreticisi olan Fincantieri grubu, dünyanın en büyük dördüncü grubudur.Fincantieri, ticari gemileri, yolcu gemileri, açık deniz ve deniz gemileri tasarlar ve inşa eder ve aynı zamanda dönüşüm ve gemi onarım sektörlerinde de faaliyet göstermektedir.Fincantieri S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bühler",
+    "description": "Bühler, 1860 yılında Adolf Bühler tarafından kurulan Bühler AG bünyesindeki un ve hayvan yemleri, makarna ve çikolata markasıdır.Bühler Group 140’tan fazla ülkede faaliyet göstermektedir. Bühler Grubu’nun iş birimleri tahıl işleme, gıda işleme ve gelişmiş malzemeler olmak üzere üç ürün bölümüne odaklanmıştır.Bühler AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Morpa Kampüs",
+    "description": "Morpa, 1980 yılında kurulan Morpa Kültür Yayınları Tic. ve San. Ltd. Şti. bünyesindeki ilkokul ve ortaokul öğrencileri ile öğretmenlerine derslerde destek olmak için hazırlanmış, MEB müfredatına uygun, binlerce içeriğin ve ayrıntılı raporlamanın yer aldığı bir platformdur.Morpa, FATİH Projesi’nin içerik üreticisi olan firmalardan biridir. Proje kapsamında tabletlerde kullanılmak üzere Z-kitaplar, eğitim uygulamaları ve yazılımlar hazırlamıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Danfoss",
+    "description": "Danfoss, 1933 yılında Mads Clausen tarafından kurulan Danfoss A/S bünyesindeki soğutma, klima, elektrik motorlarının kontrolü, binaların ısıtılması, güneş enerjisi ve ısı pompaları gibi yenilenebilir enerji çözümleri markasıdır. Bitten ve Mads Clausen Vakfı’na aittir.Danfoss Grubu, gıda, klima, ısıtma binaları, değişken frekanslı sürücüler, gaz kompresörleri, değişken frekanslı sürücüler ve mobil makinelerde güç soğutma da kullanılan ürünler üretmektedir.Danfoss A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

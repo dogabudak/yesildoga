@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Roadstar",
+    "description": "Roadstar, 1976 yılında kurulan Roadstar Management SA bünyesindeki ses cihazları ve taşınabilir ses cihazları, kulaklık, radyo ve radyolu saat, medya çalar, küçük ev aletleri, klima markasıdır.Roadstar Management SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Bio-Oil",
+    "description": "Bio-Oil, 1969 yılında Dominique Mandonnaud tarafından kurulan Sephora bünyesindeki çatlak ove cilt lekesi düzeltici bir cilt bakım yağı markasıdır.1997 yılında Sephora Fransa merkezli LVMH tarafından satın alındı.LVMH, 1987 yılında kurulan, dünyanın en büyük lüks tüketim malları üreten gruplarındandır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Bepanthol",
+    "description": "Bepanthol, 1863 yılında Friedrich Bayer ve Johann Friedrich Weskott tarafından kurulan Bayer AG bünyesindeki cilt bakım kremi markasıdır.Bayer, Türkiye’de 1954 yılından beri faaliyet göstermektedir.Almanya merkezli Bayer AG iştiraki Bayer Türk, Türkiye’de ürettiği ürünleri 40’dan fazla ülkeye satmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-10-06"
+  },
+  {
+    "company": "Lotes",
+    "description": "Lotes, 1986 yılında kurulan Lotes Co, Ltd. bünyesindeki konektörler, Notebook Bilgisayar için CPU Soketi, Kişisel Bilgisayar, Mobil elektronik cihaz ve vb. LOTES ürünleri markasıdır.Lotes Co, Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2020-01-18"
+  },
+  {
+    "company": "Radiall",
+    "description": "Radiall, 1952 yılında Yvon ve Lucien Gattaz tarafından kurulan, elektronik uygulamalarda kullanılmak üzere konektörler ve ilişkili bileşenler tasarlayan, geliştiren ve üreten bir şirkettir.Şirket radyo frekansı veya koaksiyel konektörler ve kablo montajları, antenler, fiber optik konektörler ve kablo montajları, mikrodalga bileşenleri ve kablo montajları, mikrodalga anahtarları ve multipin konektörler de dahil olmak üzere ara bağlantı bileşenleri sunmaktadır. Havacılık, savunma, endüstriyel, enstrümantasyon, telekom, uzay ve tıp pazarlarına hizmet vermektedir.Radiall Fransa merkezlidir. Hisselerinin yüzde 89’u Gattaz Ailesi’ne aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

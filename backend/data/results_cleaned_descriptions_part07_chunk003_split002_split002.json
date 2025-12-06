@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Gummy Professional",
+    "description": "Gummy Professional, 1995 yılında kurulan Foneks Kozmetik Sağlık ve Eğitim Hizmetleri San. ve Tic. Ltd. Şti. bünyesinde üretilen saç bakım ürünleri, saç şekillendiriciler, kişisel bakım ürünleri, saç, sakal kesme makineleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini 65 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Saltan Boya",
+    "description": "Saltan Boya, 1967 yılında kurulan Saltan Boya Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı ve deri sanayisine bakım finisaj ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;KensolSaltan GlossSaltan TrioSaltan Velvet",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mılo Powder",
+    "description": "Mılo Powder, 1934 yılında Thomas Mayne tarafından Societe Des Produits Nestle S.A. için üretilen süt veya su ile karıştırılan, sıcak veya soğuk içilebilen çikolata aromalı maltlı toz ürün markasıdır.Societe Des Produits Nestle S.A. İsviçre merkezlidir. Ürünlerini 24 fabrikada üretmekte ve 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Evy Lady",
+    "description": "Evy Lady, 1927 yılında kurulan Evyap Sabun Yağ Gliserin San. ve Tic. A.Ş. bünyesinde üretilen hijyenik ped markasıdır.Ürünleri 2 mm inceliğe sahip ve sızıntıyı önleyen özel mavi koruma bölgesi, ekstra kapasiteli emici tabakası, koku kontrol özelliği barındırmaktadır.Firma İstanbul merkezlidir ayrıca Mısır üretim tesisine sahiptir. Ürünlerini 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Amibios",
+    "description": "Amibios, 1985 yılında kurulan AMI LLC bünyesinde üretilen anakartlar, bant dışı yönetim, bellenim, depolama sistemleri, teşhis yazılımı markasıdır.American Megatrends International LLC Amerika merkezlidir.Bünyesindeki markalar;Ami EcAmibiosAmidiagAptioMegarac",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

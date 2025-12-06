@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Roovjoy",
+    "description": "Roovjoy, 2017 yılında kurulan Shenzhen Roundwhale Technology Co., Ltd. bünyesindeki tıbbi aletler markasıdır.ISO 13485 belgesine sahiptir.Shenzhen Roundwhale Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Silbak",
+    "description": "Silbak, 1972 yılında kurulan Sınai İmalat Otomotiv San. ve Tic. A.Ş. bünyesinde üretilen otomotiv yan sanayi için cam silgi süpürgeleri ve kolları markasıdır.Firma ürünlerini İstanbul’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Buyfun",
+    "description": "Buyfun, 1998 yılında kurulan Shenzhen Xiaozhu Technology Co. Ltd. bünyesinde üretilen akıllı saat,, çok fonksiyonlu spor serisi tek fonksiyonlu multi-fonksiyonel ve ultra-çok fonksiyonlu elektronik spor saatler, elektronik ürünler markasıdır.Shenzhen Xiaozhu Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Newsmy",
+    "description": "Newsmy, 1996 yılında kurulan Shenzhen Newsmy Technology Co., Ltd. bünyesinde üretilen dijital ses veya görüntü cihazları, oto ses veya görüntü ürünleri, tablet bilgisayar, E-Kitap okuyucu, taşınabilir depolama aygıtları, GPS navigasyon sistemi, DC/DV, dijital fotoğraf çerçevesi, dijital ses kaydedici, bilgisayar kamera, kulaklık, optik okuyucular ve akıllı telefon markasıdır.ISO 9001 ve ISO 14000 belgelerine sahiptir.Shenzhen Newsmy Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gigi",
+    "description": "Gigi, 1957 yılında Eliezer Landau tarafından kurulan Gigi-Cosmetic Laboratories Ltd. bünyesinde üretilen vücut bakımı ve güzellik bakımı müstahzarları, sabunlar, parfümeri, esans yağları, kozmetikler, saç losyonları markasıdır.Şirketin iş kolu parfüm, kozmetik ve diğer tuvalet preparatlarının üretimini içerir. Ürünleri hayvanlar üzerinde test edilmemektedir. Geri dönüştürülebilir ambalajlar kullanmaktadır.Gigi-Cosmetic Laboratories Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

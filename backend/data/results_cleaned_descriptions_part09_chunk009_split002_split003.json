@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Richard Mille",
+    "description": "“Richard Mille“2001 yılında kurulmuş olan Horométrie SA bünyesindeki lüks saat markasıdır.Horométrie SA İsviçre merkezli Richard Mille Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "İfyıl",
+    "description": "“İfyıl“2009 yılında kurulmuş olan İfyil Termo İklimlendirme San. ve Tic. Ltd. Şti. bünyesindeki ısıtma, pellet, kazan, ısıtma, soba, yeşil enerji, şömineler, odun sobaları ve kalorifer ve ısıtma sistemleri markasıdır.Firma Samsun merkezlidir. Toplam 20 bin metrekarelik alanda bulunan fabrikası ve 6 bin metrekarelik kapalı faaliyet alanına sahiptir. Ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Homedius",
+    "description": "“Homedius“2004 yılında kurulmuş olan Aydın Endüstri San. ve Tic. A.Ş. bünyesindeki ev tekstili, yatak odası tekstili, salon tekstili, mobilya markasıdır.ISO 9001 belgesine sahiptir.Firma Sakarya merkezlidir. Ürünlerini 65 bin metrekaresi kapalı, 270 bin metrekare açık alana sahip tesislerinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Modanlı",
+    "description": "“Modanlı“1991 yılında kurulmuş olan Modanlı Tekstil San. ve Tic. Ltd. Şti. bünyesindeki perdeler, perde kumaşları, dokuma markasıdır.Firma Bursa merkezlidir. 25 bin metrekarelik kapalı alana sahip fabrikasında üretim yapmaktadır.Bünyesindeki markalar;BenessaMdn CurtainsModanlı",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Laxaquest",
+    "description": "“Laxaquest“1935 yılında kurulan Alchem International Pvt. Ltd. bünyesindeki takviye edici gıda markasıdır.Alchem International Pvt. Ltd. Hindistan merkezlidir. Ürünlerini Hindistan’da üretmektedir ve 35’in üzerinde ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

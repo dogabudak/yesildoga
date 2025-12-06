@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Proskit",
+    "description": "Proskit, 1991 yılında kurulan Prokit’s Industries Co., Ltd. markasıdır. Prokit’s Industries Co., Ltd.; elektronik, bilgisayar, ağ ve telekom endüstrileri ve eğitim alanına, el aletleri, elektrikli el aletleri, test aletleri gibi 22 kategoride 4 bin ürün imal eden bir Tayvanlı şirkettir.Murat Elektronik ProsKit’in distribütörlüğünü yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Mikado",
+    "description": "Mikado, 2003 yılında kurulan Segment Bilgisayar’ın bünyesinde barındırdığı ses ürünleri markasıdır.Mikado markalı ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Princo Ülke",
+    "description": "Princo, 1983 yılında kurulan Princo Corporation bünyesindeki boş optik depolama cihazları, yani manyetik optik diskler, kaydedilebilir mini diskler, yeniden yazılabilir ve kaydedilebilir kompakt diskler, yeniden yazılabilir ve kaydedilebilir olan çok işlevli diskler, disketler, CD-ROM’lar, bilgi depolama üniteleri, disk sürücüleri, bilgi okuma cihazları, bilgi depolama ve okuma cihazları, video diskleri, ses kayıt diskleri, video kompakt diskleri markasıdır.Princo Corporation Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2020-12-15"
+  },
+  {
+    "company": "Casa Bugatti",
+    "description": "Bugatti, 1923 yılında Giuseppe, Giovanni, Faustino, Giacinto ve Amadio kardeşler tarafından kurulan mutfak için yenilikçi, karmaşık ve orijinal tasarımlara sahip çatal bıçak ve küçük ev aletleri üreten bir İtalyan firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Plantronics",
+    "description": "Plantronics, 1961 yılında kurulan ses iletişim donanımları üreten bir elektronik markasıdır.Plantronics, Inc. ürünlerini Çin ve Meksika’da üreten bir Amerikan şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

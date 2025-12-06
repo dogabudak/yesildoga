@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Klas Bant",
+    "description": "1993 yılında kurulmuş olan Klas Bant bir Süper Film Ambalaj San. Tic. A.Ş. bünyesinde üretilen baskılı ve baskısız koli bantları, maskeleme bantları, kırtasiye bantları, çift taraflı bantlar markasıdır.ISO ve TSE belgelerine sahiptir.Sanko Holding İştiraki firma Gaziantep merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fadefarin",
+    "description": "2009 yılında kurulmuş olan Famsan İlaç Kimya San. ve Tic. Ltd. Şti. tarafından ithal edilen fare ve sıçan zehiri markasıdır.Ürün içeriği insan sağlığına zararlıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Galena",
+    "description": "2001 yılında kurulmuş olan Galena Sağlık San. ve Tic. A.Ş. bünyesindeki enteral beslenme, evde bakım ürünleri, hastane ürünleri, sarf malzemeleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alkenz",
+    "description": "1999 yılında kurulmuş olan Alkenz Co. Ltd. bünyesindeki eğirme ipliği, kimyasal lif ürünleri, harmanlanmış iplik ürünleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Alkenz Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Vankyo",
+    "description": "2017 yılında kurulmuş olan Shenzhen Vantop Technology & Innovation Co. Ltd. bünyesindeki projektör markasıdır.Shenzhen Vantop Technology & Innovation Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

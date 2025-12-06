@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Mgs Şeker",
+    "description": "Mgs, 1993 yılında kurulmuş olan Mert Gıda Maddeleri ve Orman Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen küp şeker, sargılı şeker, kahverengi şeker, paket toz şeker, aromalı toz içecek markasıdır.Firma Ankara merkezlidir. Ürünlerini 4 bin metrekarelik kapalı alanda bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Medtechnica",
+    "description": "Medtechnica, 1953 yılında kurulmuş olan Medtechnica Ltd. bünyesindeki gelişmiş tıbbi ekipmanlar markasıdır.Medtechnica Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Aqua Tuvalet Kağıdı",
+    "description": "Aqua, 2005 yılında Yöntem Grup bünyesinde kurulmuş olan Essel Selüloz ve Kağıt San. Tic. A.Ş. tarafından üretilen tuvalet kağıdı ve kağıt havlu markasıdır.Hammaddesi olan tamamı saf selüloz endüstriyel amaçla yetiştirilen sertifikalı ormanlardan sağlanmaktadır. Ürünleri mürekkep, boya ve parfüm içermemektedir.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clash Royale",
+    "description": "Clash Royale, 2010 yılında kurulmuş olan Supercell OY bünyesinde üretilen mobil oyun markasıdır.2016 yılında Supercell OY’nin çoğunluk hisselerini Çin merkezli Tencent Holdings Ltd. satın almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Compulab",
+    "description": "Compulab, 1992 yılında kurulmuş olan C-Lab Ltd. bünyesinde üretilen gömülü sistemler ve minyatür fansız bilgisayarlar için bilgisayar kartları markasıdır.Gömülü bilgisayar sistemleri, telekomünikasyon sistemleri, otomotiv cihazları, oyun sistemleri, tıbbi cihazlar, havacılık ve deniz sistemleri ve sayısız diğer uygulamalara yerleştirilmiştir ve bazıları dünyanın önde gelen şirketlerinden olan binlerce üründe bulunabilir.ISO 9001 belgesine sahiptir.C-Lab Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

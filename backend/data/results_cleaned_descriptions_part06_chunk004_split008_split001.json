@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Legero",
+    "description": "Legero, 1872 yılında kurulan Legero United Digital Gmbh bünyesinde üretilen ayakkabı, deri ve tekstil ürünleri markasıdır.Kışın ve yaz aylarında, ıslak ve kuru koşullarda, şehirde ve açık havada yıl boyunca giyilebilen, her koşulda ve her zaman tüm gereksinimlerini karşılayan ayakkabılar üretmektedir.Legero United Digital Gmbh Avusturya merkezlidir. Ürünlerini Avusturya, Macaristan, Romanya ve Hindistan’da bulunan tesislerinde üretmektedir ve ürünlerini 42 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Hallmark",
+    "description": "Hallmark, 1910 yılında J. C. Hall tarafından kurulan Hallmark Cards Inc. bünyesindeki tebrik kartları, parti ürünleri, hediye paketi ve kırtasiye gibi ürünler markasıdır.Hallmark Cards Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Leukoplast",
+    "description": "Leukoplast, 2017 yılında kurulan Essity AB bünyesindeki yara bakım ürünleri markasıdır.Firmanın ürünleri arasında kağıt mendil , kadın hijyen ürünleri , inkontinans ürünleri, bebek ürünleri, yara bakımında kullanılan ürünler yer almaktadır.Dünyanın önde gelen hijyen ürünleri üreticilerinden Essity AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Ben Turizm",
+    "description": "Ben Turizm, 2000 yılında kurulan Cevher Otomotiv Ben Turizm San. Tic. Ltd. Şti. bünyesindeki turizm seyahat acentesi, akaryakıt servis ve yedek parça markasıdır.Türkiye’nin pek çok ilinde şubeleri ve seyahat acenteleri ile hizmet vermektedir.Firma Gaziantep merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pars Khazar",
+    "description": "Pars Khazar, 1982 yılında kurulan Pars Khazar Industrial Co. bünyesinde üretilen elektrikli süpürge, fırın, pirinç pişirici, vantilatör, tost makinesi, et öğütücü, meyve sıkacağı, mutfak robotları, akülü elektrikli süpürgeler, elektrikli ısıtıcı, buharlı ütü, çaycı, barbekü, su arıtma cihazı, yumurta pişirici, saç kurutma makinesi, dijital tartılar ve vücut terazileri gibi ev aletleri markasıdır.ISO 9001 belgesine sahiptir.İran merkezli Pars Tousheh Yatırım Şirketi’ne ait olan Pars Khazar Industrial Co. ürünlerini İran’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  }
+]

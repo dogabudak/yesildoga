@@ -1,0 +1,44 @@
+[
+  {
+    "company": "One Boya",
+    "description": "One Boya, 2021 yılında kurulan One Boya ve Kimya İnş. Tur. Ltd. Şti. bünyesinde üretilen geleneksel su bazlı, solvent bazlı, epoxy ve poliüretan boya ve kaplamalar, dekoratif boyalar markasıdır.Firma Antalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doragold",
+    "description": "Doragold, 2019 yılında kurulan Doragold İlaç ve Sağlık Ürünleri A.Ş. bünyesinde üretilen lazer epilasyon sonrası cilt bakım losyonu krem, nemlendirici bakım losyonu, yaşlanma karşıtı krem, serum markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Crew Clothing",
+    "description": "Crew Clothing, 1993 yılında Alistair Parker-Swift tarafından kurulan Crew Clothing Company Ltd. bünyesindeki giyim perakendesi markasıdır.Gündelik giyim, spor ve yatçılık geleneklerinden etkilenmiş olarak erkekler ve kadınlar için gündelik giyim, ayakkabı ve aksesuarlar sunmaktadır.Crew Clothing Company Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Nutricook",
+    "description": "Nutricook, Caliber Brands Fze bünyesindeki akıllı tencere, hava fritözleri, mutfak terazisi, şamandıra valfi, hızlı yumurta pişiricisi, buhar sepeti, dijital ekmek kızartma makinesi, sızdırmazlık halkası, temperli cam kapak markasıdır.Caliber Brands Fze BAE merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Yingli",
+    "description": "Yingli, 1998 yılında kurulan Yingli Green Energy Holding Company Limited bünyesinde üretilen fotovoltaik ürünler markasıdır.Üretimi, fotovoltaik değer zincirini külçe döküm ve wafering’den güneş pili üretimi ve güneş paneli montajına kadar kapsamaktadır.Yingli Green Energy Holding Company Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir. 30’dan fazla bölgesel yan kuruluşu ve şubesi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

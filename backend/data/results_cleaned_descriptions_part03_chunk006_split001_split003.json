@@ -1,0 +1,53 @@
+[
+  {
+    "company": "U Too",
+    "description": "U Too, 1973 yılında kurulan Durukan Şekerleme San. Tic. A.Ş. bünyesinde üretilen şekerleme markasıdır.Durukan Şekerleme, ilk olarak iç pazarda Durukan markası altında satış yapmak için lolipop ürünleri üretmeye başladı. Sahip olduğu AIB, IFS, BRC, GMP, ISO 22000, ISO 9001, Koşer ve Helal belgeleri ile 60’dan fazla ülkeye ihracat yapmaktadır.",
+    "documents": [
+      "BRC",
+      "GMP",
+      "IFS",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soudal",
+    "description": "1966 yılında Vic Swerts tarafından kurulmuş olan Soudal Holding N.V. bünyesinde üretilen sızdırmazlık ürünleri, yapıştırıcılar ve poliüretan köpük markasıdır.Soudal Holding N.V. Belçika merkezlidir. 25 üretim noktasına sahiptir ve ürünlerini 140 ülkeye pazarlamaktadır. Türkiye’de Soudal Yapı Kimyasalları San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2025-08-21"
+  },
+  {
+    "company": "Lia Lea",
+    "description": "Lia Lea, 2012 yılında kurulan Lyl Tekstil Pazarlama Tekstil Konfeksiyon ve Tic. Ltd. Şti. bünyesinde üretilen 4-12 yaş kız çocuklar için elbise, bluz, etek, pantalon, tayt, gömlek, şort, tişört, ceket markasıdır.LiaLea koleksiyonları acente ve dağıtıcılar vasıtasıyla ABD, Rusya, İtalya, İsrail, Suudi Arabistan, Dubai, Kuveyt, Çin gibi ülkelerde satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Winsa",
+    "description": "Winsa, 1998 yılında kurulan pencere kapı panjur sistemleri markasıdır. 2008 yılında Ege Profil San. ve Tic. A.Ş. tarafından satın alındı.1981 yılında kurulan Ege Profil, 2000 yılında dünyanın en büyük PVC profil üreticisi Deceuninck Grubu tarafından satın alındı.1937 yılında kurulan Belçika merkezli Deceuninck NV., 75’ten fazla ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Glami",
+    "description": "Glami, 2013 yılında Tomas Hodbot ve Michal Jirak tarafından kurulan Inspigroup s.r.o. bünyesindeki moda arama motoru markasıdır.Uluslararası markalar ve ünlü alışveriş sitelerini üyeleriyle buluşturmaktadır.2019 yılında Çek Cumhuriyeti merkezli MITON CZ, s.r.o. bünyesine katılmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  }
+]

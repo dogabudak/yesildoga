@@ -1,0 +1,47 @@
+[
+  {
+    "company": "FanJu",
+    "description": "FanJu, 2010 yılında kurulmuş olan FanJu Technology Co. Ltd. bünyesinde üretilen ev elektroniği ürünleri markasıdır.ISO 9001, ISO 14000, ISO 18000 belgelerine sahiptir.FanJu Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 18000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bc Fiber",
+    "description": "Bc Fiber, 2008 yılında kurulmuş olan Bc Fiber Optik San. ve Tic. A.Ş. bünyesinde üretilen adaptörler, bakır kablolar, bakır patch cordlar, bakır patch paneller, drop kablolar, duvar tipi paneller, konnektörler, rack tipi paneller, yeraltı ek kutusu markasıdır.Firma İstanbul merkezlidir. Vietnam, Çin ve Türkiye’de bulunan toplam 3 imalat tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tapout",
+    "description": "Tapout, 1997 yılında Charles Lewis Jr tarafından kurulmuş olan Tapout Inc. bünyesindeki giyim, ayakkabı, spor malzemeleri aksesuarları markasıdır.Tapout Inc. Amerika merkezli World Wrestling Entertainment Inc. ile Authentic Brands Group LLC’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Plures Air",
+    "description": "Plures Air, 2012 yılında kurulmuş olan Akt Turizm Kargo Havacılık İnşaat Tic. A.Ş. bünyesindeki havacılık ve turizm alanları hizmetleri markasıdır.Ambulans uçak ve özel jet kiralama servisleri ile uluslararası çapta hava kargo taşımacılığı, uçak bileti satışı, vize işlemleri, kalabalık gruplara ya da şirketlere özel seyahat planlaması ve organizasyonu sunmaktadır.Firma İstanbul markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Verico",
+    "description": "Verico, 2006 yılında kurulan Verico International Co. Ltd. bünyesinde üretilen bellek ürünleri markasıdır.USB flash sürücü, Flash Bellek Kartı, DRAM modülü, SD kart, taşınabilir sabit sürücü ve SSD ürünlerine sahiptir.Verico International Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Unabella",
+    "description": "Unabella, 2013 yılında kurulan Uneli Gıda İnşaat Lojistik Turizim San. ve Tic. Ltd. Şti. bünyesinde üretilen 9 unlu ekmek, ayçekirdekli konya gevreği, böreklik yufka (kare), baklavalık yufka, bazlama (sade), halka galeta, hamburger ekmeği, katmer, lokma galeta (ayçekirdekli), mor lavaş (tortilla), panini ekmeği – tahıllı, pasta tabanı (kakaolu veya sade), pizza tabanı, sade cepli sandviç ekmeği, sade lavaş, sandviç ekmeği, simit (ayçekirdekli veya tahıllı), sokak simiti, tahıllı ekmek, tahıllı konya gevreği, tam buğday unlu cepli sandviç ekmeği, tam buğdaylı konya gevreği, tam buğdaylı lavaş, tandır konya gevreği, tiramisu kek tabanı markasıdır.Ürünleri hiçbir katkı maddesi içermez, tamamen doğal yollardan elde edilir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Momax",
+    "description": "Momax, 2003 yılında kurulan Momax Technology Ltd. bünyesinde üretilen kablosuz şarj cihazı, usb şarj cihazı, mobil aksesuarlar, kablo, selfie çubuğu, mobil lens, görüntüleme, tripod, ses, güç bankası, araç şarj cihazı, ekran koruyucu, kılıf, şarj ve güç ürünleri gibi tüketici elektroniği markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.Momax Technology Ltd. Hong Kong merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Angel Islak Havlu",
+    "description": "Angel, 1999 yılında kurulan Arsan Kimya San. Tic. A.Ş. bünyesinde üretilen ıslak havlu markasıdır.Firma başta ıslak mendil olmak üzere, kişisel bakım ürünleri, pamuk ürünleri, asetonlar, oda spreyleri ve ev temizlik ürünleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Balsarayı",
+    "description": "Balsarayı, 1997 yılında kurulan Balsarayı Gıda Ltd. Şti. bünyesinde üretilen bitkisel sabunlar, kozmetik ürünler, bitkisel çaylar, gıda takviyeleri markasıdır.Firma Kocaeli’de üretim yapmaktadır.Bünyesindeki markalar;Active Natural HealthBalsarayıBsa BeautyHerb Active",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Torku No.10",
+    "description": "Torku No.10, 2007 yılında kurulan Konya Şeker San. ve Tic. A.Ş. bünyesindeki kola markasıdır.Yapay aroma verici, nişasta bazlı şeker, koruyucu ve renklendirici içermez.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

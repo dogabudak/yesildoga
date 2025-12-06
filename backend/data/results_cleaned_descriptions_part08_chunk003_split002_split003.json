@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Leton Power",
+    "description": "Leton Power, 1991 yılında kurulmuş olan Sichuan Leton Industry Co. Ltd. bünyesinde üretilen alternatör, motor, jeneratörler ve elektrik enerjisi ürünleri markasıdır.ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.Sichuan Leton Industry Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gerhau",
+    "description": "Gerhau, 2018 yılında kurulmuş olan Gerhau Akıllı Yaşam Gereçleri San. ve Tic. A.Ş. bünyesindeki akıllı güzellik robotu, kişiye özel lazer epilasyon cihazı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mascha Salon Professional",
+    "description": "Mascha Salon Professional, 2019 yılında kurulmuş olan Hub Kozmetik San. ve Tic. A.Ş. bünyesinde üretilen saç bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Masterpro",
+    "description": "Masterpro, 1997 yılında kurulmuş olan Bergner Europe S.L. bünyesindeki mutfak robotları, multicooker, vakum blender, makarnacı multicooker dokunmatik, dumansız ızgara, air fryer markasıdır.Bergner Europe S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Wonyo",
+    "description": "Wonyo, 2009 yılında kurulmuş olan Shenzhen Wanyang Technology Co. Ltd. bünyesinde üretilen tek kafalı nakış makinesi, çok kafalı nakış makinesi ve ev tipi dikiş nakış makineleri markasıdır.Shenzhen Wanyang Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

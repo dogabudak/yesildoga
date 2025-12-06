@@ -1,0 +1,48 @@
+[
+  {
+    "company": "PT Petro Time",
+    "description": "PT Petro Time, 2016 yılında kurulan Petrotime İç Dış Tic. Pazarlama Depolama A.Ş. bünyesinde üretilen otomotiv yağları, motosiklet yağları, traktör yağları, endüstriyel yağlar, dişli yağları, gresler markasıdır.İstanbul merkezli firma ürünlerini Gebze’de bulunan 3 bin 500 metrekarelik alandaki tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hengtong Optic Electric",
+    "description": "Hengtong Optic Electric, 1993 yılında kurulan Hengtong Group Co. Ltd. bünyesinde üretilen güç kablosu ve fiber optik kablo markasıdır.Hengtong Group Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Evet Yağ",
+    "description": "Evet Yağ Nerenin Malı MarkasıEvet, 1922 yılında kurulan Marsa Yağ San. ve Tic. A.Ş. tarafından üretilen yemeklik bitkisel margarin yağlar markasıdır.Marsa Yağ San. ve Tic. A.Ş. Yıldız Holding bünyesinde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Adalılar Tanem",
+    "description": "Adalılar Tanem, 1992 yılında kurulan Adalılar Kuruyemiş Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen kuruyemişler, Türk lokumu, dökme ürünler, kuru meyveler, Türk kahvesi markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Sakarya merkezlidirBünyesindeki markalar;AfilliFreezoMr. MixSamiriTanem",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pal Zileri",
+    "description": "Pal Zileri, 1980 yılında kurulan Forall Confezioni S. p. A bünyesindeki erkek giyim, aksesuar, ayakkabı markasıdır.Koleksiyonu, resmi kıyafetlerden gündelik kıyafetlere (elbise, ceket, dış giyim, triko, gömlek, ayakkabı) kadar daha fazla giysi ve aksesuar kategorisi içermektedir.Forall Confezioni S. p. A 2014 Yılında Katar merkezli Mayhoola Group tarafından satın alındı. Ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  }
+]

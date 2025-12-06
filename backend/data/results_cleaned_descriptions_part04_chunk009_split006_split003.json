@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Credor",
+    "description": "Credor, 1881 yılında kurulan Seiko Watch Corporation bünyesindeki lüks saat markasıdır.Otomatik ve quartz saatlerinde kullanılan tüm bileşenler Seiko Watch tarafından üretilmektedir.Seiko Watch Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Stannol",
+    "description": "Stannol, 1879 yılında kurulan Stannol Gmbh & Co. Kg bünyesindeki lehim, lehim teli, lehim macunu, lehim akı, lehim demirleri ve elektronik olarak kontrol edilen lehimleme istasyonları markasıdır.Stannol Gmbh & Co. Kg Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Soldex",
+    "description": "Soldex, 2001 yılında kurulan Yağmur Metal Elektronik İmalat San. ve Tic. Ltd. Şti. bünyesinde üretilen kurşunlu ve kurşunsuz lehim alaşımları, lehim kimyasalları markasıdır.Fabrikasında, her formda ve alaşım özelliklerinde yumuşak lehimler üretebilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Blancpain",
+    "description": "Blancpain, 1735 yılında Jehan-Jacques Blancpain tarafından kurulan saat markasıdır.Blancpain 1992 yılında Swatch Group Ltd. bünyesine geçmiştir.Swatch Group Ltd. İsviçre merkezli bir saat ve mücevher üreticisidir ve ürünleri 50 ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Pirutat",
+    "description": "Pirutat, 2019 yılında kurulan Pirutat Gıda San. ve Tic. A.Ş. bünyesindeki baharat, baharat karışımı, tuzlu çeşniler, bitki ve meyve çayları, harç ve çeşniler markasıdır.Doğal ve katkı maddesi içermeyen; baharatlar, tuz ve granüller, bitki ve meyve çayları, harç ve çeşni karışımlarını sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

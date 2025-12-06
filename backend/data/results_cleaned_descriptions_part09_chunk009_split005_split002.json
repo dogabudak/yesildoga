@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Afalon",
+    "description": "“Afalon“1945 yılında kurulmuş olan Adama Agan Ltd. bünyesinde üretilen tarım ilaçları markasıdır.Havuç, yaban havucu, patates, kuşkonmaz, soğan, mısır, mısır, keten tohumu, kereviz, pırasa, pipfruit ve taş meyvesindeki yabancı otlar için kullanılan bir kimyasaldır.Adama Agan Ltd. 2020 yılında Çin merkezli China National Chemical Corporation bünyesindeki Syngenta AG tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "MyRabbit",
+    "description": "2022 yılında kurulmuş olan Labim Dış Tic. Ltd. Şti. bünyesindeki çok amaçlı, oksijenli toz leke çıkarıcı markasıdır.Ürünü klor içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-04-19"
+  },
+  {
+    "company": "Arsenberg",
+    "description": "“Arsenberg“2000 yılında kurulmuş olan Maske Müzik San. ve Tic. A.Ş. bünyesinde ithal edilen piyanolar ve keman markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ArsenbergArsenberg SpeyerBanupoBardsenBeattronCarnevilleDuffonEchobanMiguel ArtegasPranzen Musik TechnologienRavenniZoppran",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lufian",
+    "description": "“Lufian“1995 yılında kurulmuş olan Lufian Pazarlama Hizmetleri A.Ş. bünyesindeki mont, sweatshirt, ayakkabı, tişört, ceket, gömlek, pantolon, erkek ve kadın giyim ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Happy Village",
+    "description": "“Happy Village“1974 yılında Mehmet Ali Işık tarafından kurulmuş olan Işık Tarım Ürünleri San. ve Tic. A.Ş. bünyesindeki doğal kuru meyve ve kuruyemiş, dondurulmuş meyveler markasıdır.Demeter, Bio Suisse, JAS, NOP, AB Organik ve BRC Grade A belgelerine sahiptir.Firma İzmir merkezlidir.Bünyesindeki markalar;Be Part Of It..BiopocketFruit MelodyFrutaminHappy VillageIşıkIşık BahçesiIşık Mutluköy ProjesiIşık OrganicIşıklarIşıkorganikKuruMutlu Köy",
+    "documents": [
+      "BRC"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

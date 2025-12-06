@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Equinor ASA",
+    "description": "Equinor ASA eski adıyla Statoil, 1972 yılında kurulan petrol, doğalgaz, petrokimya ve elektrik markasıdır.Çoğunluk hissesi Norveç hükümetine ait olan Norveç merkezli 36 ülkede faaliyet gösteren çokuluslu enerji şirketidir.Norveç Hükümeti hisselerin yüzde 67’si ile en büyük hissedar, geri kalanı ise kamu hisseleridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Doruk Un",
+    "description": "Doruk Un, 1972 yılında kurulan Doruk Grubu şirketi olan Marmara Un Sanayii bünyesindeki un markasıdır.Doruk Group Holding, buğday tohumundan, ekmeğin sofraya gelinceye kadar geçirdiği tüm sürecin her aşamasında bulunmaya çalışıyor.Bünyesindeki markalar:Marmara TohumBerceDormar UnKomşufırın",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zeelandia",
+    "description": "Zeelandia, 1900 yılında H.J. Doeleman tarafından kurulan Royal Zeelandia Group BV bünyesindeki hazır fırıncılık ve pastacılık alanında gereken ürün ve hizmetlerin markasıdır.Türkiye’de Zeelandia Gıda Sanayi ve Ticaret A.Ş. olarak faaliyet gösteren 30’dan fazla ülkede üretim yapan Zeelandia, Hollanda merkezli bir aile şirketidir.Zeelandia Türkiye’de 2003 yılında Hayrabolu’da kendi tesisini kurarak üretime pastacılık, ekmekçilik ve tava ayırıcı yağlar olmak üzere 3 kategoride başladı.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Tarım Kredi",
+    "description": "Tarım Kredi Kooperatifleri 1935 yılında çıkarılan kanun ile kurulmuştur.1985 yılında Tarım Kredi Kooperatifleri, Tarım ve Köyişleri Bakanlığının ilgili kuruluşu haline getirildi.Gıda, sigorta, bireysel emeklilik, hayvancılık, gübre, yem, tohum, sera ve sulama sistemleri, lojistik, lisanslı depoculuk ve bilişim sektörlerinde üretim ve hizmet veriyor.Bünyesinde yer alan 12 fabrikayla Türkiye’de yem ve süt sektörünün tedarik ihtiyacının yüzde 10’unu karşılamaktadır.Tarım Kredi Kooperatifleri, şirketleriyle çiftçilerin ürünlerini olumsuz piyasa şartlarına karşı korumayı hedeflemekte, uygun piyasa fiyatlarında satın almakta ve işleyerek değerlendirmektedir. Çiftçilerden alınan doğal ürünler fabrikalarda işlenerek kooperatifler, kamu kurum ve kuruluş yemekhaneleri, sosyal yardımlaşma kuruluşlarının gıda yardım kolileri, cezaevleri yemekhaneleri, toptancılar, catering firmaları ve marketleri aracılığı ile halka sunulmaktadır.Tarım Kredi Tedarik ve Üretim A.Ş. ürünleri; bakliyat, zeytin, bitkisel yağlar, kuruyemişler, süt ve süt ürünleri, çay ve şeker, un ve makarna, geleneksel ve organik ürünler, bal ve reçel, tahin ve helva, salça ve konserve, turşu, gıda yardım paketleri gibi ürünleri içermektedir.Bünyesindeki markalar;BafayDestanKoopgelTarım Kredi ÇayTarım Kredi AnadoluTarım Kredi Anadolu Topraktan SofrayaTarım Kredi BirlikTarım Kredi ElitTarım Kredi GüvencesiyleTarım Kredi Soğuk Çay",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-07-25"
+  },
+  {
+    "company": "Isonem",
+    "description": "Isonem, 2004 yılında kurulan Isonem Boya ve Yalıtım Teknolojileri İnş. San. Tic. A.Ş. bünyesindeki yalıtım ürünleri markasıdır.ISONEM başta Amerika, İngiltere, Kanada, Avrupa ve Afrika da bir çok ülke olmak üzere 100’e yakın ülkeye ürünlerini ihraç etmektedir.ITOB OSB’de 10 bin metrekarelik alanda ısı, ses, yangın, su yalıtım ve özel kimyasal ürünler ile savunma, enerji, tarım, endüstriyel alanlarda yenilikçi ürünleri kullanıma sunmaktadır.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

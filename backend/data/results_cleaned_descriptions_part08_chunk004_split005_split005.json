@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Iljin",
+    "description": "Iljin, 1973 yılında kurulmuş olan Iljin Co. Ltd. bünyesinde üretilen otomotiv, endüstriyel parçalar, tekerlek yatakları, şasi, güç aktarma organları, endüstriyel otomasyon ve gerinim dalgası dişlisi markasıdır.Iljin Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Pierburg",
+    "description": "Pierburg, 2002 yılında kurulmuş olan Pierburg s.r.o. bünyesinde üretilen aktüatörler, kontrol üniteleri, egzoz gazı devridaim sistemleri, ikincil hava pompaları ve egzoz damperleri markasıdır.Pierburg s.r.o., Almanya merkezli Rheinmetall AG bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Eti Canga",
+    "description": "Eti Canga, 1962 yılında kurulmuş olan Eti Gıda A.Ş. bünyesinde üretilen çikolatalı gofret markasıdır.Palm yağı ve Nişasta bazlı şeker içermektedir.Firma Eskişehir merkezlidir ve ürünlerini 60 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kekspır",
+    "description": "Kekspır Nerenin Malı MarkasıKekspır, A101 Yeni Mağazacılık A.Ş. adına Arma Grup Gıda A.Ş. tarafından üretilen çikolatalı sufle markasıdır.BRC-FSSC 22000 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "BRC"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Grace Breeding",
+    "description": "Grace Breeding, 2015 yılında kurulmuş olan Grace Breeding Ltd. bünyesinde üretilen azotlu üreler, mahsül verimini artırıcı tarımsal ürünler markasıdır.Grace Breeding Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

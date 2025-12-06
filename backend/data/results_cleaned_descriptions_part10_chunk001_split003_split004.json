@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bremers",
+    "description": "1947 yılında kurulmuş olan Gianni ve Renzo Merlini tarafından kurulmuş olan Bremer Valves Srl bünyesinde üretilen endüstriyel vana, fren ve ekipmanları markasıdır.Bremer Valves Srl İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Compair",
+    "description": "1801 yılında kurulmuş olan hava ve gaz kompresörleri, yağlanmış döner vidalı hava kompresörleri, yağsız kompresörler, basınçlı hava kurutucu, hava arıtma ve aksesuarları markasıdır.2008 yılında Amerika merkezli Ingersoll Rand Inc. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bellota",
+    "description": "2013 yılında kurulmuş olan VNPI Global Investments & Services S.L. bünyesindeki tarım, bahçecilik ve inşaat için çözümler markasıdır.Ekiciler, kavisli alt yükleyici, kültivatör, keski, pulluk ve tırmıktan şeker kamışı biçerdöverine kadar geniş bir ürün yelpazesine sahiptir.VNPI Global Investments & Services S.L. İspanya merkezlidir. Avrupa, Amerika ve Asya’da 9 üretim tesisi bulunmaktadır ve 120’den fazla ülkede bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Bellota",
+    "description": "1975 yılında kurulmuş olan Drogsan İlaçları San. ve Tic. A.Ş. bünyesinde üretilen burun spreyi markasıdır.Firma Ankara merkezlidir. Ürünlerini 30’a yakın ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Addex",
+    "description": "1989 yılında kurulmuş olan Addex Inc. bünyesindeki üflemeli film soğutma sistemleri, modüler yığın artı muhafaza, otomatik gösterge kontrol sistemleri, dijital dahili kabarcık soğutma sistemleri, manuel gösterge kontrol sistemleri, geliştirilmiş hava halkaları, harici gösterge kontrolü markasıdır.Addex Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

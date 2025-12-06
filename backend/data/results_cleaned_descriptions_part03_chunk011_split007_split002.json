@@ -1,0 +1,52 @@
+[
+  {
+    "company": "GN Store Nord",
+    "description": "GN Store Nord, 1869 yılında Carl Frederik Tietgen tarafından kurulan GN Store Nord A/S bünyesindeki işitme cihazı ve kulaklık markasıdır.Kablolu ve kablosuz kulaklıkların yanı sıra mobil ve ofis içi hoparlörlerden kurumsal uyumlu ses çözümleri sunmaktadır. Ürünleri yaklaşık 100 ülkede pazarlanmaktadır.GN Store Nord A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Ilgaz Kolonya",
+    "description": "Ilgaz Kolonya 1978 yılında Musa Uğurlu tarafından kurulan Yeşil Ilgaz Kozmetik Kimya İnş. Oto. ve Gıda San. Tic. Ltd. Şti bünyesinde üretilen kozmetik, kişisel bakım ürünleri, deterjan ve kolonya markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir. Ürünlerini 45 ülkede pazarlamaktadır.Ürünlerini 3 bin 500 metrekarelik alanda üretmektedir.Ürün yelpazesinde ıslak havlu, makyaj mendili, cep mendilleri, oda spreyi, oto spreyi, sıvı sabun, aseton, kolonya, gül suyu, parfüm, saç bakım ürünleri yer almaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dentium",
+    "description": "Dentium, 2000 yılında kurulan Dentium Co., Ltd. bünyesindeki dental implant sistemi markasıdır.Şirket yapay diş implantları, diş ekipmanları, sentetik kemik ve diğer diş tıbbi cihazlar konusunda çözümler sunmaktadır. Çok çeşitli diş aletleri, laboratuvar bileşenleri ve rejenerasyon malzemeleri üretmektedir.ISO 13485 belgesine sahiptir. Ürünleri 80’den fazla ülkeye ihraç edilmektedir.Dentium Co., Ltd. Güney Kore merkezlidir. Üretim tesisleri Amerika ve Güney Kore’dedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Speedball",
+    "description": "Speedball, 1997 yılında Speedball Art Products Co., LLC tarafından satın alınan kırtasiye ve sanat ürünleri markasıdır.Kağıtlar, kalem, yardımcı bıçak, çizim tahtası, ofis mobilyaları, ofis malzemeleri ve silindir laminatörleri dahil olmak üzere geniş bir ürün yelpazesine sahiptir.Speedball Art Products Co., LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kaweco",
+    "description": "Kaweco, 1883 yılında kurulan yazı aletleri markasıdır.1930 yılında iflas edince Knust Woringen and Grube company (KWG) tarafından devralındı.1994 yılında, Almanya merkezli bir kozmetik şirketi Gutberlet GmbH, Kaweco adının haklarını satın aldı.Dolma kalemr ve altın uçları Amerika’dan ithal edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

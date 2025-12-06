@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kanzy",
+    "description": "Kanzy2016 yılında kurulmuş olan Kanzy Limited bünyesindeki güzellik ve kişisel bakım ürünleri markasıdır.Kanzy Limited İngiltere merkezlidir. Ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Star Batman",
+    "description": "Star Batman2002 yılında kurulmuş olan Batman Öz Star Sey. Tur. İnş. Nak. Pet. Taah. San ve Tic. Ltd. Şti. bünyesindeki şehirlerarası yolcu taşımacılığı markasıdır.Firma Batman merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maxilux Led",
+    "description": "Maxilux1992 yılında kurulmuş olan Gürsu Elektrik Aydınlatma San. ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen led ampul markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;MaxiledMaxilux",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Icetech Buz Makinesi",
+    "description": "Kanzy1988 yılında kurulmuş olan Cold Jet LLC bünyesindeki kuru buz temizlik makineleri markasıdır.Cold Jet LLC Amerika merkezlidir.Bünyesindeki markalar;Cold JetI3Icetech",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Advenor",
+    "description": "Advenor2017 yılında kurulmuş olan Guangzhou Huaweikai Trade Co. Ltd. bünyesinde üretilen badminton raketi, boks eldiveni, okçuluk aletleri, atletik kullanım için kol korumaları, dağcı koşum takımı, vücut geliştirme aparatı, olta takımı, elektronik öğretici oyuncaklar, bebek oyuncakları markasıdır.Guangzhou Huaweikai Trade Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

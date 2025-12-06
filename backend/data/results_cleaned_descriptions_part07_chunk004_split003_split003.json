@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Wattpad",
+    "description": "Wattpad, 2006 yılında kurulmuş olan WP Technology Inc. bünyesindeki okuyucu ve yazar topluluğudur.Ücretli veya ücretsiz makaleler, hikâyeler ve şiirler paylaşılabilir, paylaşılan hikayelere yorum yapılabilir.WP Technology Inc. 2021 yılında Güney Kore merkezli Naver Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Myeksi",
+    "description": "Myeksi, 2016 yılında kurulan Ekşiler Grup İnşaat Gıda Tic. Ltd. Şti. bünyesinde üretilen kişisel bakım ürünleri, gıda takviyeleri, doğal sabunlar, dezenfektanlar, koruyucu gözlükler markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Suadex",
+    "description": "Suadex, 2022 yılında kurulan Jiu Sheng Trade Co. Ltd. bünyesinde üretilen iş güvenlik ayakkabısı markasıdır.Jiu Sheng Trade Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nue Notes",
+    "description": "Nue Notes, 2007 yılında kurulmuş olan Fashion Society A/S bünyesindeki bluzlar ve üstler, ceketler ve kabanlar, elbiseler, etekler, gömlekler, kısalar, pantolon, triko, aksesuarlar markasıdır.Fashion Society A/S Danimarka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Today Kruvasan",
+    "description": "Today, 1952 yılında kurulmuş olan Elvan Gıda San. ve Tic. A.Ş. bünyesinde üretilen kruvasan markasıdır.Buğday, gluten, glikoz – fruktoz şurubu, koruyucular, sert kabuklu meyveler, soya, süt, yumurta içerir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

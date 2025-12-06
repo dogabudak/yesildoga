@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Hecht",
+    "description": "Hecht, 1994 yılında kurulan Hecht Motors S.R.O. bünyesinde üretilen bahçe ekipmanları markasıdır.Ürün yelpazesi bahçe bakımı, elektrikli el aletleri ve bahçe ürünleri, akülü bahçe ve atölye ürünleri, elektrikli bisiklet, ATV ve elektrikli motosiklet gibi ürünlerden oluşmaktadır.Hecht Motors S.R.O. Çek Cumhuriyeti merkezlidir. Çek Cumhuriyeti, Slovakya, Polonya ve Macaristan’da iştirakleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Rioba",
+    "description": "Rioba, 1964 yılında kurulan Mip Metro Group Intellectual Property Gmbh & Co. Kg bünyesindeki bir kafe, restoran, bar ya da otelin ihtiyacı olan tüm gıda ve gıda dışı ürünleri markasıdır.Ürün yelpazesi çekirdek kahve çeşitleri, ithal çay, kruvasan, kullan at bardak, servise hazır cheesecake, kek ve sandviçler gibi ürünlerden oluşmaktadır.Mip Metro Group Intellectual Property Gmbh & Co. Kg Almanya merkezlidir. 1990 yılından beri Türkiye’de faaliyet göstermektedir.ISO 22000 Belgesine sahiptir.Bünyesindeki markalar:AroMetro ChefMetro PremiumMetro ProfessionalRiobaSigma",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Casmara",
+    "description": "Casmara, 1974 yılında kurulan Casmara Cosmetics S.A. bünyesindeki profesyonel kozmetik, cilt bakımı ve dermokozmetik laboratuvarı markasıdır.Casmara kozmetik ürünleri 60’tan fazla ülkeye pazarlanmaktadır.Casmara Cosmetics S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Tormek",
+    "description": "Tormek, 1973 yılında Torgny Jansson tarafından kurulan Tormek AB bünyesindeki kenar araçları markasıdır.Tormek tamamen keskinleştirmeye odaklanmıştır. Ürünlerini 35’ten fazla ülkeye ihraç etmektedir.Tormek AB, İsveç merkezlidir. Tüm ürün geliştirme, mühendislik çalışmaları ve üretim İsveç’te yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Kirschen",
+    "description": "Kirschen, 1858 yılında kurulan Wilh. Schmitt & Comp. GmbH & Co. KG bünyesinde üretilen ağaç işleme aletleri markasıdır.Geniş ürün yelpazesi çoğunlukla el yapımıdır.Wilh. Schmitt & Comp. GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

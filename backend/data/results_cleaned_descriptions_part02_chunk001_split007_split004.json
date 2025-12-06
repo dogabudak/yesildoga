@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Royal Halı",
+    "description": "Royal Halı Sahibi KimRoyal Halı, 1940 yılında Şıh Mehmet Nakıboğlu tarafından kurulan Naksan Holding bünyesinde üretilmektedir. 2016 yılında Holding’e kayyum atandı ve ardından TMSF yönetimine geçmiştir.Naksan Holding, Plastik Ambalaj, Enerji, Tekstil, Teknoloji, Lojistik ve Gayrimenkul sektörlerinde faaliyet göstermektedir.2004 yılında halı sektörü için İplik Üretim Tesisini kurdu. 2005 yılında makine halısı fabrikasıyla üretime başladı. Türkiye’de ilk kez 3 boyutlu halıyı üretti.200’ü aşkın showroom ve 1300’e yakın satış noktasıyla 5 kıtada 140 ülkeye ihracat gerçekleştirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-06-11"
+  },
+  {
+    "company": "Hisarlar Makine",
+    "description": "Hisarlar Makine, 1974 yılında Fazlı Türker tarafından kurulan tarım makineleri markasıdır.Toplamda 97 bin metrekarelik bir alanda üretim yapmaktadır. Türkiye’nin ilk yerli 4×4 arazi aracı TURKAR ile ziraat makineleri, traktör kabini ve parçaları üretmektedir.Hisarlar Makine’nin yüzde 75’i Hintli otomotiv devi Mahindra & Mahindra Ltd (M&M) tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Amgen",
+    "description": "Amgen, 1980 yılında kurulan biyoteknoloji firmasıdır.Elde ettiği genetik bilgiler ve ileri analiz araçlarıyla DNA ile hastalık arasındaki bağlantıları kurmaktadır.Uluslararası alanda, 100’den fazla ülkede 20 binin üzerinde çalışanıyla hizmet vermekte olan bir Amerikan şirketidir.Amgen Inc., 2012 yılında ilk biyobenzer üreticileri arasında yer alan Mustafa Nevzat firmasını satın alarak Türkiye’de sağlık alanındaki en büyük yabancı yatırımcı ünvanını kazanmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Motul",
+    "description": "Motul, 1853 yılında motosiklet, araba ve diğer araçlar ile endüstri için yağlama maddeleri üreten, geliştiren ve dağıtan Motul S.A. bünyesindeki markadır.Motul 80’den fazla ülkeye dağıtılmaktadır.Motul, küresel bir Fransız şirketidir. Fransa’da pazar lideridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Sandoz",
+    "description": "Sandoz, 1886 yılında kurulan Global Novartis Şirketler Topluluğu iştirakidir.Sandoz, anti-enfektif, oftalmik ilaçlar ve transplantasyon ilaçlarının yanı sıra biyobenzer ürünler aynı zamanda eşdeğer enjektabllar, dermatoloji ve solunumdan, kardiyovasküler, metabolizma, merkezi sinir sistemi, gastrointestinal ve ağrıya kadar temel terapötik alanlarda ürünler üretmektedir.İsviçre menşeli Sandoz, bünyesine; Lek, Sabex, Hexal, Eon Labs, EBEWE Pharma, Oriel Therapeutics ve Fougera Pharmaceuticals şirketlerini satın alarak katmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

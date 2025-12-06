@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Perrier",
+    "description": "Perrier, 1898 yılında kurulan Perrier Vittel Group SA bünyesindeki maden suyu markasıdır.Perrier’nin kaynağı Fransa’da bulunan Vergeze bölgesindedir. Ürünleri 144 ülkede satılmaktadır.1992 yılında Nestle S.A. tarafından satın alınmıştır.İsviçre merkezli Nestle, çikolata, süt ürünleri, yiyecek ve içecek üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "SAP",
+    "description": "SAP, 1972 yılında Dietmar Hopp, Hans-Werner Hector, Hasso Plattner, Klaus Tschira ve Claus Wellenreuthe tarafından kurulan SAP SE bünyesindeki Avrupa’nın en büyük yazılım markasıdır.SAP, şirket yazılım uygulamaları çeşitli büyüklükte şirketlere sunmaktadır.SAP SE şirketi Almanya merkezlidir.2001 yılında Türkiye’de ofis kurdu.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nature Valley",
+    "description": "Nature Valley, 1975 yılında General Mills, Inc. bünyesinde üretilen meyveli tahıl barları markasıdır.General Mills Türkiye’de Häagen-Dazs dondurma ve Nature Valley müsli barları satmaktadır.General Mills, Inc. Amerika merkezlidir.Bünyesindeki markalar:Häagen-Dazs dondurmaHäagen-Dazs ShopsNature Valley (gevrek müsli bar)",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sheaffer",
+    "description": "Sheaffer, 1912 yılında Walter A. Sheaffer tarafından kurulan Sheaffer Pen & Art Supply Co. bünyesindeki dolma kalem ve tükenmez kalem markasıdır.2014 yılında A. T. Cross Co. LLC. şirketi tarafından satın alınmıştır.2017 yılında ise Amerika merkezli Transom Capital Group LLC yatırım grubu, A. T. Cross Co. LLC. firmasını satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-11-01"
+  },
+  {
+    "company": "Sma Solar",
+    "description": "Sma Solar, 1981 yılında kurulan SMA Solar Technology AG bünyesindeki Fotovoltaik sistem teknolojileri ve enerji çözümleri markasıdır.Şirket, fotovoltaik, pil depolama sistemleri ve enerji yönetimi için sistem teknolojisinin geliştirilmesi ve üretimine odaklanmıştır.SMA Solar Technology AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

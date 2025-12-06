@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mondi Firmanın Ülke",
+    "description": "Mondi, 1993 yılında mobilya sektöründe oturma grupları, koltuk takımları, yatak odaları, yemek odaları, genç odaları, bebek odası, ev tekstili ürünleri ile hizmet vermeye başladı ve 2006 yılında Boydak Holding bünyesine katıldı.Boydak Holding A.Ş. 2016 yılında Tasarruf Mevduatı Sigorta Fonuna devredildi. Mobilya, kablo, demir, çelik, tekstil, kimya, pazarlama, lojistik, teknik servis, havacılık, finans ve yurtdışı faaliyetler hizmetleri alanlarında faaliyet göstermektedir.Bünyesindeki bazı markalar:İstikbalİstikbal Mutfak & BanyoBellonaBoyteksForm SüngerHes KabloMondiMondi, Amerika, İngiltere, Almanya, İtalya başta olmak üzere 40’a yakın ülkeye ihracat yapıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Benetech",
+    "description": "Benetech, 1999 yılında kurulan Shenzhen Jumaoyuan Science And Technology Co., Ltd. şirketi bünyesindeki kızılötesi termometre, rüzgar göstergesi, gürültü, sıcaklık ve nem ölçer, ultrasonik kalınlık göstergesi, film veya kaplama kalınlığı göstergeleri, yüksek gerilim ölçer, aydınlık metre, mikro güç monitör, diferansiyel basınç göstergeleri, yanıcı gaz detektörü, ahşap nem metre, topraklama direnci test, RCD (ELCB) test cihazları vb. ürünlerin markasıdır.Shenzhen Jumaoyuan Science And Technology Co., Ltd. Çin merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Thomas",
+    "description": "Thomas, 1900’lü yılların başında Robert Thomas tarafından kalıp ve aparat imalatı yapan bir şirket olarak kurulurken günümüzde elektrikli süpürgeler, yer süpürgeleri, Buhar Temizleyicileri, Islak veya Kuru süpürgeler, yıkama süpürgeleri̇ ve çamaşır sıkıcıları üretmektedir.THOMAS bir Almanya üretimidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ashampoo",
+    "description": "Ashampoo, 1999 yılında Rolf Hilchner tarafından kurulan Ashampoo GmbH & Co. KG bünyesindeki multimedya yazılımları, ofis yazılımları, güvenlik yazılımları, sistem yardımcı programları, ürün paketleri, araçlar ve yardımcı programlar, cad ve yapı, disk yazma programları, tarayıcı oyunları ve uygulamalar markasıdır.Ashampoo GmbH & Co. KG Almanya merkezli yazılım geliştirme, satış ve web portal siteleri alanında hizmet veren internet tabanlı bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2021-02-14"
+  },
+  {
+    "company": "Wistron Firmanın",
+    "description": "Wistron, 2001 yılında kurulan dizüstü, masaüstü bilgisayarlar, sunucular, depolama, LCD TV’ler, tıbbi uygulamalar için cihazlar ve ekipmanlar dahil olmak üzere bilgi ve iletişim teknolojisi ürünleri markasıdır.Wistron Tayvan merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

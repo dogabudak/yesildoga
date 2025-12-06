@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sugatsune Kogyo",
+    "description": "“Sugatsune Kogyo“1930 yılında kurulmuş olan Sugatsune Kogyo Co. Ltd. bünyesindeki mobilya ve mimari donanım, endüstriyel bileşen donanımı markasıdır.Damper mekanizmaları ve kapı sistemleri dahil olmak üzere çok çeşitli çözümler üretmektedir.Sugatsune Kogyo Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Southco",
+    "description": "“Southco“1899 yılında kurulmuş olan Southco Inc. bünesinde üretilen mandallar, bağlantı elemanları, menteşeler, monitör montajları, kulplar markasıdır.Southco Inc. Amerika merkezlidir. 17 ülkede üretim ve stoklama yerine sahiptir ve ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Feiyu Tech",
+    "description": "“Feiyu Tech“2007 yılında kurulmuş olan Feiyu Technology Incorporated Co. Ltd. bünyesinde üretilen hareketli kamera sabitleyici, cep telefonu sabitleyici, kamera sabitleyici markasıdır.Feiyu Technology Incorporated Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Veryansın TV",
+    "description": "“Veryansın TV“2019 yılında kurulmuş olan İlkan Medya Reklam Tic. A.Ş. bünyesindeki haber sitesi markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;Pankuş YayınlarıVeryansın Tv",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Comica Audio",
+    "description": "“Comica Audio“2012 yılında kurulmuş olan Shenzhen Commlite Technology Co. Ltd. bünyesindeki kablosuz mikrofon, shotgun mikrofon, ses arabirimi ve mikser, stüdyo mikrofonu, el mikrofonu, kablolu mikrofon, aksesuarlar markasıdır.Shenzhen Commlite Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

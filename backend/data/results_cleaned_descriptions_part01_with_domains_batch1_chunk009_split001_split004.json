@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Piknik Peynir",
+    "description": "Piknik, 1865 yılında Jules Bel tarafından kurulan Bel Group bünyesindeki peynir markasıdır.Fransa merkezli Bel Group Türkiye pazarına 2007 yılında girerken ürünlerini Tekirdağ tesislerinde üretip pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "La Sportiva",
+    "description": "La Sportiva, 1928 yılında Narciso Delladio tarafından kurulan ayakkabı markasıdır. Dağcılık için tırmanış ayakkabıları, botlar ve el yapımı deri ayakkabılar üretmektedir.Markayı bünyesinde bulunduran La Sportiva S.p.A. şirketi İtalya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2019-11-04"
+  },
+  {
+    "company": "Globus",
+    "description": "Globus, 1828 yılında Franz Bruch tarafından kurulan mobilya, inşaat malzemeleri ve elektronik eşyalar satan perakende satış mağazaları zinciridir.Globus SB-Warenhaus Holding GmbH & Co. KG merkezi Almanya’da bulunmaktadır.1996 yılında Çek Cumhuriyeti’nde Hypermarkt adıyla, 2006 ve 2007 yılında Rusya’da mağazar açtı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Clage",
+    "description": "Clage, 1951 yılında kurulan elektrikli su ısıtıcısı markasıdır.Clage GmbH. merkezi Almanya’da yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Carefree",
+    "description": "Carefree, 1886 yılında kurulan Johnson and Johnson sıhhi malzeme sanayi ve ticaret Limited Şirketi bünyesindeki ped markasıdır.Amerikan merkezli Johnson & Johnson, 1985 yılında tüketim ürünleri firması olarak Türkiye’de faaliyetlerine başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

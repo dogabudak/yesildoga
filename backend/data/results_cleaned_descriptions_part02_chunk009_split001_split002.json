@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Volvac",
+    "description": "Volvac, 2016 yılında kurulan Volvac Paketleme ve Gıda Makinaları San. Tic. Ltd. Şti. bünyesindeki paketleme makineleri markasıdır.Vakum Paketleme Makinesi, Tabak, Kâse Kapama Makinesi, Kıyma Makinesi ve Köfte Form Makinesi üretimi yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bolca Hindi",
+    "description": "Bolca Hindi, 1989 yılında Şerafettin Erbayram tarafından kurulan Bolu Kalite Yem Sanayi A.Ş. bünyesindeki Kaliforniya cinsi kesilmiş beyaz hindi markasıdır.Bolca Hindi, beyaz tüylü Kaliforniya cinsi hindi üretimini gerçekleştirmektedir.Firma Gıda Üretim, Gıda Sicil, TSE Türk Standartlarına Uygunluk ve TSE imalata yeterlilik belgelerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SHPI",
+    "description": "SHPI, 1983 yılında kurulan Shan Hua Plastic Industrial bünyesinde üretilen Hortum, Hortum Makinesi, Tek Dokunuşla Donatı ve Hava Fren Armatürü, Filtreler, Regülatörler ve Yağlayıcılar, Çiftçiler ve Aksesuarları markasıdır.Pnömatik hortumlar, makaralar ve konektörler geniş bir çeşitliliğe sahiptir.SHPI, Tayvan merkezlidir ve ürünlerini Tayvan’da bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Hoya Pentax",
+    "description": "Hoya, 1941 yılında Shoichi ve Shigeru Yamanaka tarafından kurulan Hoya Corporation bünyesindeki fotomaskeler, fotomaske boşlukları ve Sabit disk sürücü plakaları, kontakt lensler ve gözlük camları gibi optik ürünler markasıdır.Hoya Corporation Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2021-05-08"
+  },
+  {
+    "company": "Sulzer",
+    "description": "Sulzer, 1834 yılında kurulan Sulzer Ltd. bünyesindeki pompa markasıdır.Sulzer; pompalama, ayırma, karıştırma ve uygulama teknolojisi konusunda uzmanlaşmıştır.Sulzer Ltd. İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

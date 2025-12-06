@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Todizoo",
+    "description": "Todizoo, Samatlı Oyuncak ve Kozmetik San. ve Mamülleri Paz. A.Ş. bünyesindeki eğitici oyuncaklar markasıdır.Türkçe konuşan, melodiler çalan, bebek gelişimine katkıda bulunan oyuncakları ithal etmektedir. Firma yüzde 100 yerli sermaye ile Türkiye oyuncak sektörüne ithal ettiği oyuncakları dağıtmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Winfun",
+    "description": "Winfun, 1982 yılında kurulan Winfat Industrial Company Limited bünyesinde üretilen bebek ve çocuk ürünleri markasıdır.Winfat Industrial Company Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Hasmandıra",
+    "description": "Hasmandıra, 1987 yılında kurulan Has Gıda Tarım Hayvancılık Ürünleri Akar. Tek. Nak. Tur. San. Tic. Ltd. Şti. bünyesinde üretilen peynir markasıdır.Ürünleri, katkı maddesi içermemektedir.İstanbul merkezli firma ürünlerini Iğdır’da bulunan toplam 45 bin metrekarelik alandaki 15 bin metrekarelik kapalı alanda üretmektedir.Bünyesindeki markalar;HasHasığdırHasmandıraHasmandıra 1987KurpuMehmet Ağa Çiftliği Hasmandıra 1987MilövePeyalSerhasSümeli",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-09-12"
+  },
+  {
+    "company": "Venüs Oyuncak",
+    "description": "Venüs Oyuncak Nerenin Malı MarkasıVenüs Oyuncak, 2016 yılında kurulan Tuna Çocuk Gereçleri A.Ş. bünyesinde üretilen bebek gereçleri ve oyuncaklar markasıdır.İstanbul merkezli firma ürünlerini çocuk sağlığına uygun hammadde kullanılarak CE belgeli olarak üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alexander Mcqueen",
+    "description": "Alexander Mcqueen, 1992 yılında kurulan Alexander McQueen Trading Limited bünyesindeki lüks moda evi markasıdır.Alexander McQueen Trading Limited Fransa merkezli Kering S.A. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

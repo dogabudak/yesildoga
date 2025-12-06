@@ -1,0 +1,50 @@
+[
+  {
+    "company": "MatchWornShirt.com",
+    "description": "MatchWornShirt.com Hangi Ülkenin MalıMatchWornShirt, 2016 yılında kurulan MatchWornShirt B.V. bünyesindeki günlük maçların yıpranmış ya da imzalı formalarının açık artırma usulü satıldığı çevrimiçi bir platformdur.Video içeriği üretiminden el yapımı özel çerçevelere kadar ürün ve hizmet sunulmaktadır.MatchWornShirt B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Açı Eğitim Kurumları",
+    "description": "Açı Eğitim Kurumları Sahibi Kim Hangi ÜlkeninAçı Eğitim Kurumları 1993 yılında İlhan Şahin tarafından kurulan Türkiye genelinde 135 şube ile hizmet veren eğitim kurumudur.Hafta içi verilen eğitimi özümseyemeyen öğrenciler hafta sonu etüt derslerine katılarak açıklarını tamamlıyor.Hafta içi müfredatı sabah 09.00 ile 16.30’a kadar okul müfredatını takip ediyor. 16.30 ile 21.00 arasında ise öğrencinin anlamadığı konuları özel derslerle kapatıyor. Cumartesi ve Pazar ise hafta içi dersine girmediği öğretmenlerle bir ekip kurarak tüm konuların tekrarı yapılarak öğrenciler üniversite sınavına hazırlanıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Missliva",
+    "description": "Missliva, 2014 yılında kurulan Afili Kozmetik San. ve Tic. Ltd. Şti. bünyesinde sadece orijinal üretilen vücut bakım, deodorant, parfüm gibi ürünleri satan bir çevrimiçi alışveriş sitesidir.Missliva 2014 yılında Amerika’da satınalma ofisi kurmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beybi",
+    "description": "Beybi, 1949 yılında kurulan Beybi İş Güvenliği Malzemeleri San. ve Tic. A.Ş. bünyesinde üretilen plastik medikal eldiven ve medikal sarf malzemeleri markasıdır.Nitril kaplı pamuk eldiven, nitril kaplı polyester örme eldiven, özel amaçlı eldiven, korun iş eldivenleri, ev işleri eldiveni ve baretler üretmektedir.Ürünlerini İstanbul ve Bursa’da bulunan fabrikalarında üretmektedir. TS EN ISO 9002, CE, ISO – 9001 ve ISO – 13485 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bernafon",
+    "description": "Bernafon, 1946 yılında kurulan Bernafon AG bünyesinde üretilen işitme cihazları ve aksesuarları markasıdır.Bernafon, işitme cihazları, fitting yazılımları, cep telefonu uygulamaları ve bağlantı cihazları için çalışmalar yapmaktadır.Bernafon AG İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

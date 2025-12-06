@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bağdat Baharat",
+    "description": "Bağdat Baharat 1964 yılında kurulan Bağdat Baharatları Gıda San. ve Tic. Ltd. Şti. bünyesindeki Paketlenmiş baharatlar, Değirmenli cam şişe baharatlar, Tuzluklu cam şişeler baharatlar, Yemek Harçları ve Çeşnileri, Ev Dışı Tüketim için baharatlar, Bitki ve Meyve çayları markasıdır.Bağdat Baharat, ürünlerini en iyi yetiştirildikleri yörelerden seçmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ketsun",
+    "description": "Ketsun, 1998 yılında kurulan Kaito Electronics, Inc. bünyesindeki radyo, Bluetooth, Ses Kaydedici, MP3 çalar markasıdır.Kaito Electronics, Inc. Amerika merkezlidir ve ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Karlıtepe Maden Suyu",
+    "description": "Karlıtepe, Bim Birleşik Mağazalar A.Ş. adına muhtelif firmalar tarafından üretilen maden suyu markasıdır.Genellikle aşırı işlenmiş, glikoz şurubu ve sodyum benzoat içeren bir içecektir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-28"
+  },
+  {
+    "company": "Bebeto",
+    "description": "Bebeto, 1995 yılında kurulan Kervan Gıda bünyesindeki şekerleme markasıdır.Yüzde 100 Türk sermayeli Kervan Gıda, Türkiye’nin en yüksek üretim kapasitesine sahip jelly üreticisidir.Bebeto markasıyla dünya çocuk gıda pazarında en fazla ürün çıkaran üçüncü şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Olca Salça",
+    "description": "Olca, 1972 yılında kurulan Olca Gıda San. ve Tic. A.Ş. bünyesindeki salça, konserve ve kuşburnu pulpu, marmelat’ı markasıdır.Niksar’da 12 bin metrekarelik alanda kurulan fabrikada üretim yapmaktadır.Ürünleri T.S.E. belgelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

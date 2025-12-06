@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Altra Running",
+    "description": "Altra Running, 2009 yılında kurulan FiloBlu S.p.A. bünyesindeki ayakkabı markasıdır.FiloBlu S.p.A. 2018 yılında Amerika merkezli Vf International S.A.G.L tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "4frnt",
+    "description": "4frnt, 2002 yılında kurulmuş olan 4frnt Skis Inc. bünyesindeki gömlek, tişört, şapka, ceket, çorap, çanta, kayak ve aksesuarlar markasıdır.4frnt Skis Inc. Amerika merkezlidir. Kayaklar Kanada ve Slovenya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-11-15"
+  },
+  {
+    "company": "Trunki",
+    "description": "Trunki, 2006 yılında kurulmuş olan Magmatıc Ltd. bünyesinde üretilen çocuklar için binilebilen taşınan bavullar markasıdır.Magmatıc Ltd. İngiltere merkezlidir ve ürünlerini İngiltere’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Dukabel",
+    "description": "Dukabel, Changsha Allso E-Commerce Co. Ltd. bünyesinde üretilen kablolar, ses kabloları, veri kabloları, elektrik kabloları, usb kablolar, koaksiyel kablolar, elektronik ürünler, çeşitli ses aux kabloları, kulaklık uzatma kabloları, kulaklık adaptörleri ve mikrofon adaptörleri markasıdır.Changsha Allso E-Commerce Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Phormium",
+    "description": "Phormium, 2017 yılında kurulmuş olan IFG Cresco NV bünyesindeki sera iklim kontrolü, yabani ot kontrolü ve mantar yetiştiriciliği gibi çok çeşitli uygulamalar için tarım ve bahçecilik endüstrilerine hizmet veren yenilikçi elek ve zemin örtüleri, bahçecilik ürünleri markasıdır.IFG Cresco İsveç merkezli International Fibres Group AB’nin bir bölümüdür.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

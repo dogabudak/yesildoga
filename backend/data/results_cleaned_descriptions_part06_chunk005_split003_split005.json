@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Bewith Audio",
+    "description": "Bewith, 1994 yılında kurulan Bewith Ltd. bünyesinde üretilen araba ses sistemleri markasıdır.Elektronikler, hoparlör bileşenleri, kablolar, monitörler ve aksesuarlar sunmaktadır.Bewith Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Toprecis",
+    "description": "Toprecis, Chengdu Toprecis Digital Technology Co. Ltd. bünyesinde üretilen projektörler markasıdır.Rohs, CE, FCC belgelerine sahiptir.Chengdu Toprecis Digital Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Otat",
+    "description": "Otat, 1998 yılında kurulan Otat Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen tam yağlı yoğurt, ayran, beyaz peynir, kaşar peynir, kaymaklı peynir, tereyağı ve dondurma ürünleri markasıdır.HACCP, ISO 9001, TSE ve ISO 22000 belgelerine sahiptir.Samsun merkezli firma ürünlerini 8 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.Bünyesindeki markalar;OtatVadim",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Uebler",
+    "description": "Uebler, 1965 yılında kurulan Uebler GmbH bünyesindeki bisiklet rafları için taşıma çantaları markasıdır.Uebler GmbH Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Life by Fakir",
+    "description": "Life by Fakir, 2020 yılında Saruhan Kimya ve Temizlik Ürünleri San. Tic. A.Ş. tarafından üretilen sıvı-toz çamaşır deterjanları, konsantre yumuşatıcı ve ekolojik bulaşık makinesi tableti, bebekler ve hassas cildi olanlar için özel olarak geliştirilmiş bitkisel bazlı çamaşır deterjanı, konsantre yumuşatıcı ve doğal granül sabun markasıdır.Ürünleri parfüm, boya, SLES, paraben, klor gibi zararlı kimyasallar içermez.Firma ürünlerini Tekirdağ’da bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

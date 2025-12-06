@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Binvezir",
+    "description": "Binvezir, BİM Birleşik Mağazalar A.Ş. adına çeşitli üreticiler tarafından üretilen peynir ürünleri markasıdır.Üretici firmalar Türkiye’de üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-02-16"
+  },
+  {
+    "company": "Bikkembergs",
+    "description": "Bikkembergs, 1984 yılında Dirk Bikkembergs tarafından kurulurken 2016 yılında Levitas S.P.A. tarafından satın alınan pantolon, gömlek, kazak, ceket, elbise, çanta, ayakkabı, gözlük ve aksesuar markasıdır.Levitas S.P.A. İtalya merkezlidir.Bünyesindeki markalar:Dirk Bikkembergs Sport CoutureBikkembergsBikkembergs Sport",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Patrizia Pepe",
+    "description": "Patrizia Pepe, 1993 yılında birkaç girişimci tarafından kurulan Tessilform S.P.A. bünyesindeki hazır giyim, kadın giyim, moda, aksesuar, perakende, ayakkabı, çanta markasıdır.Tessilform S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Filit",
+    "description": "Filit, 1990 yılında kurulan Dual Kimya San. ve Tic. Ltd. bünyesindeki haşere ürünleri, fare ürünleri, yapışkan tuzaklar, kovucular, oda spreyleri markasıdır.Yapışkan tuzaklar, fare kontrol ürünleri ve ev kokuları üretmektedir. Hammadde ve mamul ihtiyacını desteklemek için Avrupalı üreticiler ile anlaşmalar yapmıştır.Ürünlerini Irak, Arnavutluk, Libya, Suriye, Makedonya, Cezayir, Fas ve Tunus gibi ülkelere ihraç etmektedir.Dual Kimya bünyesindeki markalar:BadcatFilitFiltrapShock Out",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Indeed",
+    "description": "Indeed, 2004 yılında Paul Forster ve Rony Kahan tarafından kurulan Indeed Ireland Operations Limited bünyesindeki iş sitesidir.Indeed, 60’tan fazla ülkede ve 28’dilde ücretsiz iş ilanları sunmaktadır. Fiyat ve performans açısından binlerce şirket için işe alım kaynağıdır.2012 yılından beri Japonya merkezli Recruit Holdings Co., Ltd. iştiraki olan Indeed’in ABD Austin, New York, San Francisco, San Mateo, Seattle ve Stamford şehirlerinde, Amsterdam, Dublin, Düsseldorf, Haydarabad, Londra, Paris, Sydney, Tokyo ve Toronto’da ofisleri yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

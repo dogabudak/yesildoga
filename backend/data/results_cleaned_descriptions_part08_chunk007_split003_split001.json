@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Pankuş Yayınları",
+    "description": "Pankuş Yayınları, 2020 yılında kurulmuş olan İlkan Medya Reklam Tic. A.Ş. bünyesindeki yayınevi markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Or-Al",
+    "description": "Or-Al, 1972 yılında kurulmuş olan Or Al Çorap San. ve Tic. A.Ş. bünyesinde üretilen kadın naylon ve pamuk çorapları markasıdır.Firma İstanbul merkezlidir. Ürünlerini Gaziantep’te bulunan fabrikasında üretmektedir.Bünyesindeki markalar;Bella CalzeOr-Al",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Landliebe",
+    "description": "Landliebe, 1993 yılında kurulan Landliebe Gmbh bünyesinde üretilen süt ürünleri, dondurma, krem şanti, peynir, tereyağı, yoğurt, sütlü içecekler markasıdır.Landliebe Gmbh, 2023 yılında Lüksemburg merkezli Unternehmensgruppe Theo Müller S.e.c.s. tarafından satın alındı.Bünyesindeki markalar;FruttisLandliebeMondeliceOptiwellPuddisSüdmilch",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Dazn",
+    "description": "Dazn, 2015 yılında DAZN Group Ltd. bünyesinde kurulmuş olan küresel bir spor aboneliği akış platformu markasıdır.DAZN Group Ltd. Amerika merkezli ve 1986 yılında Len Blavatnik tarafından kurulmuş olan Access Industries Inc. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Eva Lucria",
+    "description": "Eva Lucria, 2020 yılında kurulan Pakker Kimya Kozmetik Dış Tic. Ltd. Şti. bünyesindeki kozmetik ürünler markasıdır.Ks Group çatısı altındaki firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

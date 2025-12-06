@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Zefal",
+    "description": "Zefal, 1880 yılında kurulan Zefal SA bünyesinde üretilen bisiklet aksesuarları markasıdır.Pompa, kutu, kapı kutuları, şişirme kontrolörleri, basınç, dikiz aynaları, bagaj rafları, bagaj muhafazası, fener, çamurluk, yağlar, yamalar, ayak klipsleri ve kayışlar üretmektedir.Zefal SA Fransa merkezlidir. Ürünlerinin yüzde 60’ını fabrikasında üretmektedir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Toymix",
+    "description": "Toymix, 1996 yılında kurulan Toybox Gıda Paz. San. ve Tic. A.Ş. bünyesinde üretilen oyuncaklar markasıdır.Firma İstanbul’da bulunan fabrikasında üretim yapmaktadır.ISO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bionic Magic Touch",
+    "description": "Bionic Magic Touch, 2020 yılında kurulan Natureliz Kozmetik Plastik San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen kozmetik ürünler markasıdır.Firma ürülerini İstanbul’da bulunan fabrikasında üretmektedir.Bünyesindeki markalar;Bionic Magic TouchBlack2whiteCool NightDeep SecretFloral DreamsHairfabricKabuto KatanaLove HazeNakano ProfessionalNk Natureliz KozmetikSaint’s Dream",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Palmolive",
+    "description": "Palmolive, 1806 yılında kurulan Colgate-Palmolive Company bünyesindeki sabun, sıvı sabun, şampuan, duş jeli, saç kremi, vücut yıkama ve sıvı el yıkama ürünleri, bulaşık deterjanı markasıdır.Colgate-Palmolive Company Amerika merkezlidir. 1992 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Falken Kolonya",
+    "description": "Falken, 2008 yılında kurulan Cuma Kozmetik Attariye Otomotiv Turizm Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen kolonya markasıdır.Firma Konya merkezlidir.Bünyesindeki markalar;CarfümFalkenOtosmellRonaxSerin Damla",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

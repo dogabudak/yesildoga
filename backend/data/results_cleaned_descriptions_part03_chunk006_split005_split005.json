@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Agiva",
+    "description": "Agiva, 2004 yılında kurulan Kozmotek Pazarlama Ltd. Şti. bünyesindeki kişisel bakım ürünleri markasıdır.Firma 16 bin metrekarelik alanda üretim yapmaktadır. Ürünlerini 50 ülkeye ihraç etmektedir.ISO 22716, COSMETİC GMP ve ISO 9001 belgelerine sahiptir.Bünyesindeki markalar:AgissAgiva",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-05-07"
+  },
+  {
+    "company": "Royal Glass",
+    "description": "Royal Glass, 2014 yılında Öz Ekin Grup tarafından kurulan teknik camlama sistemleri markasıdır.T.C.S demonte cam balkon, cam balkon profil ve aksesuarları konusunda faaliyet göstermektedir.Bünyesindeki markalar:ASSOVİSPOZİTTO",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hatteker",
+    "description": "Hatteker, Xu Haiyan tarafından kurulan Yiwu Kehan Electrical Appliances Co.,Ltd. bünyesinde üretilen sakal kesme makinesi, saç maşası, elektrikli veya elektriksiz traş makineleri, kişisel kullanım için elektrikli ve elektriksiz saç kesme makineleri, elektrikli ve elektriksiz epilasyon aletleri, manikür seti, kütikül cımbızı, saç tutturma aleti, saç kıvrımı için el ile kullanılan araçlar, saç örme aleti, hayvan kırpma makinesi, çap küçültme demiri, saç düzleştirici, dövme aletleri markasıdır.Yiwu Kehan Electrical Appliances Co.,Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Topface",
+    "description": "Topface, 2011 yılında kurulan Malva Kozmetik Petr. Gıda Turizm İnş. İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen kozmetik ürünleri markasıdır.Gebze Plastikçiler Organize Sanayi Bölgesi’nde oje, ruj, maskara, far, allık, pudra, fondöten ve lipgloss gibi ürünler üreten yüzde yüz Türk sermayeli bir kuruluştur. ISO 9001, ISO 22716, Cosmetic-GMP, HELAL/HALAL belgelerine sahiptir.Bünyesindeki markalar:MalvaTopface",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soundstream",
+    "description": "Soundstream, 1975 yılında kurulan Soundstream Technologies Corp. bünyesindeki amplifikatör, alt woofer, hoparlör, multimedya kaynak birimleri, optik oynatıcı, ekran ve aksesuarlar markasıdır.Soundstream Technologies Corp. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

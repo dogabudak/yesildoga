@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Biofin",
+    "description": "Biofin, 1984 yılında kurulan Biofin Derma Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt ve saç bakım ürünleri markasıdır.Biofin markalı saç, vücuti, yüz ve erkek bakım ürünleri bitkisel ve doğal malzemelerle formüle edilmiştir. Ürünleri hayvanlar üzerinde test edilmemektedir.İstanbul’da üretim yapan firma ürünlerini 25 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gewiss",
+    "description": "Gewiss, 1997 yılında kurulan Gewiss S.p.A. bünyesindeki ev ve bina otomasyonu, enerjinin korunması ve dağıtımı, akıllı aydınlatma ve akıllı mobilite için pazar üretim çözümleri markasıdır.Firma 20 binden fazla üründen oluşan entegre bir elektrik sistemi tedarik etmektedir.Gewiss S.p.A. İtalya merkezlidir. Dünya çapında Türkiye dahil 100 ülkede tesis ve şubeleri ile faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Faruk Sağın",
+    "description": "Faruk Sağın, Faruk Sagın Ayakkabı ve Çanta Paz. İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı çanta ve aksesuarları markasıdır.Firma ürünlerini İstanbul’da bulunan 5 bin metrekarelik kapalı alanda üretmekte ve ihraç etmektektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Insma",
+    "description": "Insma, 2016 yılında kurulan Shenzhen Yi Si Technology Co. Ltd. bünyesinde üretilen kamera, entegre devre üretimi için kilit, duman dedektörleri, hırsızlık alarmı, video bebek monitörleri, erişim kontrol ve alarm izleme sistemleri, dijital fotoğraf çerçeveleri, elektrikli adaptör kablolar, elektrikli kapı zilleri, elektronik çipler, entegre devreler, baskılı devre kartları, uzaktan kumanda telemetering makineleri ve cihazları, sinyal çanları gibi ürünlerin markasıdır.Shenzhen Yisi Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Moroccanoil",
+    "description": "Moroccanoil, 2007 yılında Carmen Tal tarafından kurulan Moroccanoil Inc. bünyesinde üretilen saç ve vücut bakım ürünleri markasıdır.Moroccanoil markalı ürünler dünya çapında güzellik salonlarında ve kaplıcalarda bulunmaktadır ayrıca çevrimçi satış yapmaktadır.Moroccanoil Inc. Amerika merkezlidir. Ürünleri 85’ten fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-10-31"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "PNB",
+    "description": "PNB (Professional Nail Boutique), 2013 yılında kurulan PNB Company bünyesindeki tırnak bakım ürünleri markasıdır.Ürünleri kanserojen ve toksik maddeler içermez.PNB Company Rusya merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "LG Hausys",
+    "description": "LGHausys, 1947 yılında Koo In-Hwoi tarafından kurulan LG Corporation bünyesindeki LVT, PVC ve özel zemin kaplama çözümleri markasıdır.Cep telefonu ve petrokimya gibi çok sayıda alanda faaliyet gösteren, Koo ailesi tarafından yönetilen LG Corporation Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Adaptto",
+    "description": "Adaptto, 2015 yılında kurulan Adaptto E-Drive Lab. Ltd. bünyesinde üretilen elektrikli bisikletler, elektrikli motosikletler, elektrikli kartlar gibi araçların elektrikli tahrik sistemleri markasıdır.Elektrik motoru kontrol cihazları, akü yönetim sistemleri (BMS), DC-DC çok kanallı yardımcı cihazlar kontrol ünitesi vb. kapsayan hafif elektrikli araç elektroniği ürün yelpazesine sahiptir.Adaptto E-Drive Lab. Ltd. Rusya merkezlidir ve ürünlerini Rusya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Bout Gustafs",
+    "description": "Bout Gustafs, 1913 yılında kurulan Gustafs Scandinavia AB bünyesinde üretilen ahşap tavan ve duvar paneli markasıdır.Gustafs Scandinavia AB İsveç merkezlidir ve ürünlerini İsveç’te üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Profi Cook",
+    "description": "Profi Cook, 1982 yılında kurulan Clatronic International GmbH bünyesindeki ev aletleri markasıdır.Pişirme ve pişirme için küçük elektrikli ev aletlerine ek olarak, Profi Cook adı altında yemekler de satılmaktadır.Clatronic International GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

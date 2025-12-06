@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Tadiran",
+    "description": "Tadiran, 1932 yılında pil üreticisi olarak kuruldu. 1962 yılında ise iki şirket birleşerek ev aletleri (soğutma ve klima), telekomünikasyon, pil, tıbbi sistemler ve savunma elektroniği üreimine başladı.Tadiran, İsrail merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Pkcell",
+    "description": "Pkcell, 1998 yılında Lee Zhijiang tarafından kurulan PKCELL Battery CO. bünyesindeki pil markasıdır.PKCELL Battery CO. Çin merkezli bir şirkettir. Ürünleri Çin’de üretilmektedir.Türkiye dağıtıcısı Ceyes Ltd.Şti.’dir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Viko Hakkında Bilgi",
+    "description": "Viko, 1966 yılında Viktor Kohen tarafından kurulan Viko Elektrik ve Elektronik End. San. ve Tic. A.Ş. bünyesindeki priz ve aydınlatma ürünleri markasıdır.2013 yılında Japonya merkezli Panasonic Corporation, Viko hisselerinin yüzde 90’ı, 2017 yılında ise tamamını satın alarak şirketin adını Panasonic Eco Solutions Elektrik Sanayi ve Tic. A.Ş. olarak değiştirdi.İstanbul’da 60 bin kilometrekarelik fabrikasında üretim gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Abant Su Kimin Kime",
+    "description": "Abant Su, 1974 yılında Burhanettin Kaya tarafından kurulan Kaya Holding bünyesindeki içme suyu markasıdır. Bolu Abant ve Gölcük – Geyiktepe’de şişelenen su, yerli ve yabancı pazarlara sunulmaktadır.Kaya Holding, 8 şirket ile inşaat, turizm, finans, petrol, enerji ve içecek alanlarında faaliyet göstermektedir.Abant Su, 2011 yılında Türkiye’deki ilk 19 litre cam damacanayı üreterek, ambalajlı su sektörüne farklı bir bakış açısı getirdi. 2015 yılında ise cam şişe ürünlerini piyasaya sundu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Magnum",
+    "description": "Magnum Nerenin Ürünü Hangi Ülkenin Malı MarkasıMagnum, 1989 yılında Unilever PLC.’nin yan kuruluşu olan Algida Food Service bünyesinde üretilen dondurma markasıdır.Dünyada ilk kez 1989 yılında yetişkinlere özel satılan dondurmadır.Unilever PLC İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-26"
+  }
+]

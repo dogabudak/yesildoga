@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Northern Rock",
+    "description": "Northern Rock, 1850 yılında kurulan Northern Counties ile 1865 yılında kurulan Rock bankalarının 1965 yılında birleşmesiyle kuruldu.2011 yılında Richard Branson’ın kurduğu İngiltere merkezli Virgin Money’e satılırken 2012 yılında Northern Rock adı değişerek Virgin Money oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Peg Perego",
+    "description": "Peg Perego, 1949 yılında Giuseppe Perego tarafından kurulan bebek arabaları, taşıma koltukları, oto koltukları, mama sandalyeleri ve akülü modelleri markasıdır.İtalyan Peg Perego markasının Türkiye’de ki tek distribütör firması Mar Bebek Ürünleri San. ve Tic. Ltd. Şti’dir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2020-06-19"
+  },
+  {
+    "company": "Same Traktör",
+    "description": "Same Traktör Hangi Ülkenin MalıSame (Società Accomandita Motori Endotermici), 1942 yılında kurulan SDF Group bünyesindeki traktör markasıdır.1927 yılında kurulan SAME DEUTZ-FAHR (SDF) Grubu, İtalya merkezli; traktör, biçerdöver, tarımsal makine ve motor üreticisidir.2014 yılında SAME DEUTZ-FAHR Traktör Sanayi ve Ticaret A.Ş. adıyla Türkiye’de faaliyete başlarken Türkiye’de 15 bin metrekare kapalı alana sahip üretim tesisleri bulunmaktadır.Bünyesindeki markalar:DEUTZ-FAHRGregoireHürlimannLamborghiniSAME",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Street One",
+    "description": "Street One, 1980 yılında kurulan CBR Fashion Group bünyesindeki bir giyim markasıdır.CBR Fashion Group, Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Amd",
+    "description": "Advanced Micro Devices, Inc. (AMD), 1969 yılında Jerry Sanders tarafından kurulan bir mikroçip markasıdır. Şirketin ürünleri arasında işlemci ve grafik çipleri bulunmaktadır.AMD, Amerika merkezli bir şirkettir.Şirketin hissedarları:Vanguard Group, Inc. (yüzde 10,65)Blackrock Inc. (6,44)FMR, LLC (4,92)State Street Corporation (3,16)Oppenheimer Funds, Inc. (2,98)Wellington Management Company, LLP (2,74)Goldman Sachs Group, Inc. (1,96)Bank Of New York Mellon Corporation (1,94)Deutsche Bank Aktiengesellschaft (1,71)Baillie Gifford and Company (1,48)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-03-06"
+  }
+]

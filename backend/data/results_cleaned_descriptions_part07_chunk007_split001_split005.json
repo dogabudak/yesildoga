@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Biglift Transpalet",
+    "description": "Biglift, 1981 yılında kurulmuş olan Reis Mak. Tic. ve San. A.Ş. bünyesindeki istifleme, kaldırma ve garaj ekipmanları, transpalet, manuel yarı akülü istif makineleri ile endüstriyel platformlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Levom",
+    "description": "Levom, 2016 yılında kurulmuş olan Levom Grup Gıda A.Ş. bünyesinde üretilen doğal atıştırmalıklar markasıdır.Ürünleri katkısız, glutensiz, çiğ, doğal meyve ve kuruyemişten oluşmaktadır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Activilong",
+    "description": "Activilong, 1983 yılında Yannick Cheffre tarafından kurulmuş olan Miss Antilles International bünyesinde üretilen şampuanlar, saç kremleri, saç şekillendirme, saç, tırnak ve salon malzemeleri markasıdır.Miss Antilles International Fransa merkezlidir ve ürünlerini Fransa üretilecektir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Blueefficiency Midrange",
+    "description": "Blueefficiency Midrange, 1942 yılında kurulmuş olan Mercedes-Benz Group AG bünyesindeki araç parçaları markasıdır.Mercedes-Benz Group AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Thorq",
+    "description": "Thorq, 1966 yılında kurulmuş olan Yağmur Motor San. ve Tic. A.Ş. bünyesinde üretilen motor, tarım makineleri ve güç ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

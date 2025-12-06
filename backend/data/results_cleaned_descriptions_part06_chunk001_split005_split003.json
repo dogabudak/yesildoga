@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ergotron",
+    "description": "Ergotron, 1982 yılında Harry Sweere tarafından kurulan Ergotron Inc. bünyesindeki stand ve destekleri için ses ve video aksesuarları, ekran montajlari, ayaklı masalar, şarj sistemleri, iş istasyonları markasıdır.Ergotron Inc. Amerika merkezlidir ve ürünlerini 67 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hologic",
+    "description": "Hologic, 1986 yılında S. David Ellenbogen ve Jay A. Stein tarafından kurulan Hologic Inc. bünyesindeki teşhis, cerrahi ve tıbbi görüntüleme için tıbbi cihazlar markasıdır.Şirket öncelikle kadın sağlığına odaklanan bir tıbbi teknoloji şirketidir.Hologic Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Çağlayanlar Un",
+    "description": "Çağlayanlar Un Nerenin Malı MarkasıÇağlayanlar Un, 1983 yılında kurulan Çağlayan Un San. ve Tic. Ltd. Şti. bünyesinde üretilen ekmeklik, pastalık, kadayıflık, bisküvilik, simitlik, tandırlık un, baklavalık böreklik, ekmeklik buğday unu, buğday kepeği markasıdır.Firma Kırşehir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dünya Döner",
+    "description": "Dünya Döner, 1983 yılında kurulan Dünya Et A.Ş. bünyesinde üretilen döner eti markasıdır.Türkiye genelinde 100’ün üzerinde şubesi bulunmaktadır.Antalya OSB’de entegre tesise sahip firmanın Burdur ve Antalya’da besi çiftlikleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vatan Yağ",
+    "description": "Vatan Yağ Nerenin Malı MarkasıVatan, 1950 yılında kurulan Vatan A.Ş. bünyesinde üretilen ayçiçek yağı, mısır yağı, zeytinyağı ve bakliyat ürünleri markasıdır.ISO 9001 ve ISO 22000 belgelerine sahiptir.İstanbul merkezli firma Edremit, Ayvalık ve Altınoluk yörelerinden gelen sızma yağları birleştirerek tesislerinde ambalajlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

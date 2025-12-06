@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Schwinn",
+    "description": "Schwinn, 1977 yılında kurulmuş olan Pacific Cycle Inc. bünyesinde üretilen bisiklet markasıdır.Şirket ayrıca bisiklet aksesuarları ve diğer çocuk oyun ekipmanları sunmaktadır.Pacific Cycle Inc. 2021 yılında Hollanda merkezli Pon Holdings BV tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-09-08"
+  },
+  {
+    "company": "Slime",
+    "description": "Slime, 1989 yılında kurulan ITW Global Tire Repair Inc. bünyesindeki lastik bakım ürünü markasıdır.Lastiklerin tabanında oluşan delinmeleri tamir ederek patlamasını önler. İnsan sağlığını etkileyen toksin, yanıcı ve parlayıcı, tehlikeli kimyasal madde içermeyen çevreye saygılı bir üründür.ITW Global Tire Repair Inc. Amerikan merkezli şirkette üretilen ürünler 36 ülkeye satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ferrino Power",
+    "description": "Ferrino, Motorlu Tırpan, Motorlu Testere ve Bahçe El Aletleri üreten bir Türk firmasıdır.Ürünleri; tırpan, motorlu tırpan, motorlu tırpan aksesuarları, akülü tırpan, motorlu testere, bahçe el aletleri, bitki aşılama makine ve ekipmanları, yüksek dal budama ve meyve toplama aletleri, bitki bağlama aletleri, akülü budama makası, ferrino evcil hayvan ürünleri, bahçe kimyasallama ürünleri, benzinli pulverizatörler, mekanik kimyasallama pompaları, akülü kimyasallama pompaları, kanatlı hayvan ürünleri, arıcılık ekipmanları, ürün yedek parçaları, motorlu testere yedek parçaları, motorlu tırpan yedek parçaları",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ferrino",
+    "description": "Ferrino, 1870 yılında kurulan Ferrino e C. S.p.A. bünyesinde üretilen çadır, sırt çantası, uyku tulumu, dış giyim, çanta ve aksesuarlar markasıdır.Alpinizm, tırmanış, serbest sürüş ve trekking için dış mekan ekipmanları üreticisidir.Ferrino e C. S.p.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2023-10-03"
+  },
+  {
+    "company": "Tigoes",
+    "description": "Tigoes, 2011 yılında kurulan, elektronik cihazlar ve bilgisayar aksesuarları ithalatını, bilgisayar ve oyuncak malzemelerin toptan satışını yapan firmadır.Tigoes Kocaeli’de kurulan bir firmadır. Mouse, Klavye, Kulaklık, Webcam, Laptop Aksesuarları, USB Aletleri, Hoparlör, Kablo gibi ürünleri Çin’den gelmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

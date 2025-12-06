@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Manela",
+    "description": "2005 yılında kurulmuş olan Oslo Gıda San. Tic. Ltd. Şti. bünyesinde üretilen kokolin çizgili kekler, kokolin kaplamali karamel kekler, sos dolgulu kekler, bisküviler, gofretler, kakaolu fındık kreması markasıdır.Firma Konya merkezlidir. 25 bin metrekarelik kapalı alanda ürettiği ürünlerin yüzde 70’ini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kingbank",
+    "description": "2014 yılında kurulmuş olan Shenzhen Kingbank Technology Co. Ltd. bünyesinde üretilen SSD ve RAM bellek ürünleri, USB flash sürücü markasıdır.Shenzhen Kingbank Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Avec",
+    "description": "1996 yılında kurulmuş olan Mahmutoglu Elektronik San. ve Tic. Ltd. Şti. bünyesinde ithal edilen dekoratif aydınlatma, fenerler, gece lambası, masa lambası, masa üstü aydınlatma, şarj cihazları, şarj edilebilir piller ve şarj cihazları, şarj kabloları, kablolar markasıdır.Firma İstanbul merkezlidir ve ürünleri Çin’den ithal edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Xera",
+    "description": "2018 yılında kurulmuş olan Xera Medikal ve Teknoloji Ltd. Şti. bünyesinde üretilen tıbbi teşhis röntgen sistemleri markasıdır.X-ışını teşhis sistemleri sunmaktadır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Deby Sept",
+    "description": "2003 yılında kurulmuş olan Üçler Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen antifirizli oto cam suyu, dezenfektan ve antiseptik ürünler, etil alkol, kimyevi ürünler, palet streç film, temizlik ve bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Gürbüzler Kuruyemiş",
+    "description": "Gürbüzler Kuruyemiş, 1960 yılında Ziya Gürbüz tarafından temelleri atılan Gürbüzler Kuruyemiş İnşaat ve İnşaat Malzemeleri Gıda San. Ltd. Şti. bünyesindeki kuruyemiş, lokum, helva, pişmaniye, kahve markasıdır.ISO 9001:2000 Kalite Sistem Belgesi ve TS 13001 HACCP belgesine sahiptir.Bünyesindeki markalar:Çayda ÇıraBekir EfendiGürbüzlerTutella",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Accuratus",
+    "description": "Accuratus, 1981 yılında kurulan Ceratech Accuratus Limited bünyesindeki bilgisayar giriş cihazları ve çevrebirimleri markasıdır.Bilgisayar Klavyeleri ve Fareler gibi donanım ürünleri üretmektedir. Ürünleri, endüstriyel ve tıbbi klavyeler haricinde geniş bir fare yelpazesi, manyetik kaydırma ve flash bellek ürünlerini kapsar.Ceratech Accuratus Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Woly",
+    "description": "Woly, 1931 yılından itibaren Salamander Industrie-Produkte Group iştiraki Melvo GmbH tarafından üretilen ayakkabı bakım ürünleri markasıdır.Woly boya, cila, fırça ve suya dayanım ürünleri gibi bir çok ürünü satmaktadır.Woly ayakkabı boyası, deri ayakkabılar için özel mineraller, cilalar ve bakım ürünleri içerir.Melvo GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Megavox",
+    "description": "Megavox, 1996 yılında kurulan Megavox Corporation Ltd. bünyesindeki hoparlör, ses sistemleri markasıdır.Gerçekçi ve doğal müzik performansına dönük ürünler üretmektedir.Megavox Corporation Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Wonjin",
+    "description": "Wonjin, 2004 yılında kurulan Wonjin Mulsan Co., Ltd. bünyesindeki el ve ayak bakımı için kullanılan parafin makinesi markasıdır.ISO 14001:2004, ISO 13485 ve CE sertifikalarına sahiptir.Wonjin Mulsan Co., Ltd. Güney Kore merkezlidir, rehabilitasyon ve fizyoterapi alanında tıbbi cihaz üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

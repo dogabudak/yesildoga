@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Laperas",
+    "description": "2023 yılında kurulmuş olan Laperas Dış Tic. ve Kozmetik San. Tic. Ltd. Şti. bünyesindeki şampuanlar, akne, gözenek kontrolü, cilt bakım setleri, cilt serumu, göz altı torbası ve morluk bakımı, göz serumu, güneş krem ve losyonları, jel ve sabunlar, kozmetik kişisel bakım, leke gidericiler, nemlendirici kremler, saç dökülmesine karşı ürünler, saç maskeleri, bakım kremi, losyon ve spreyleri, saç serum ve yağı, serumlar, tonikler, yüz kremi, yüz temizleyicileri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "NRF",
+    "description": "1927 yılında kurulmuş olan NRF B.V. bünyesindeki otomotiv, deniz ve endüstriyel uygulamalar için soğutma ve klima ürünleri, radyatör markasıdır.ISO 9001, EN 15085 ve ISO 14001 belgelerine sahiptir.NRF B.V. Hollanda merkezlidir. Avrupa’da 3 ve Asya’da 5 olmak üzere 8 fabrikada üretim yapmaktadır. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Superfire",
+    "description": "2008 yılında kurulmuş olan Shenzhen Supfire Prosperity Equ. Co. Ltd. bünyesindeki aydınlatma ürünleri ve el fenerleri, farlar, bisiklet ışıkları, iş ışıkları, kamp ışıkları, mobil projektörler, güneş aydınlatma ürünleri markasıdır.CE, ISO 9001, FCC ve ROHS belgelerine sahiptir.Shenzhen Supfire Prosperity Equ. Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wokai Electronics",
+    "description": "2018 yılında kurulmuş olan Wokai Electronics Technology Co. Ltd. bünyesindeki dokunmatik ekran etkileşimli beyaz tahta, reklam ekranı, sorgu kiosk, nano smart blackboard, led akıllı tv markasıdır.Wokai Electronics Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Carwiz International",
+    "description": "1999 yılında kurulmuş olan CARWIZ International d.o.o bünyesindeki araç kiralama hizmetleri markasıdır.Franchise iş modelini kullanmaktadır.CARWIZ International d.o.o Hırvatistan merkezlidir. 30’dan fazla ülkede şubelere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HR",
+    "updated_date": null
+  }
+]

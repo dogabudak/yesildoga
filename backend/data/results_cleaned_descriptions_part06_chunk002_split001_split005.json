@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Engin Kağıt",
+    "description": "Engin Kağıt, 1976 yılında kurulan Engin Kağıt Mamülleri San. ve Tic. Ltd. Şti. bünyesinde üretilen termal rulo, termal etiket markasıdır.İstanbul merkezli firma ürünlerini 20’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;EnginKadenRoyalfaksRoyalformUfuk",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tadalım",
+    "description": "Tadalım, 2008 yılında kurulan Özkanaat Tekstil Hayvancılık Gıda ve Tarım Ürünleri Pazarlama San. Tic. Ltd. Şti. bünyesinde üretilen baharatlar markasıdır.Tane olarak karabiber, kimyon, tarçın ve yenibahar gibi ürünleri Gaziantep’te bulunan kendi tesislerinde öğütmektedir.Bünyesindeki markalar;AyperiBurtatÖzkanaatTadalım",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tecno Boom",
+    "description": "Tecno Boom, 2000 yılında kurulan Tecno Telecom Limited bünyesinde üretilen cep telefonları, piller, elektrikli piller için şarj cihazları markasıdır.Tecno Telecom Limited Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Algida Boom Boom",
+    "description": "Algida Boom Boom, Unilever PLC.’nin yan kuruluşu olan Algida Food Service bünyesinde üretilen dondurmalar; buzlar veya buzlu dondurmalar markasıdır.Palm yağı ve nişasta bazlı şeker içermektedir. Çikolata ve fındık kapmalıdır.Unilever PLC İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Golda",
+    "description": "Golda, 1997 yılında kurulan Golda Gıda San. ve Tic. A.Ş. bünyesinde üretilen makarna ve irmik, organik makarna, un, bakliyat, glutensiz ürünler, bisküvi, gofretler, kaplamalı gofretler, marshmallow markasıdır.Karaman merkezli Golda Gıda San. ve Tic. A.Ş. Bera Holding bünyesindedir.Bünyesindeki markalar;Altın Makarna GoldaAltın SeçimAnatoliBalamBassanoBaykurBaykur GoldaBbg Food’sBittixBonopetiConiaDiamoEndazeExperFieldaGoldaGoldanaGolmixHammdeeHaniyaKibeleKomgidaLezzusLodosMardiniMeldaMinervaNemoRisaSıcak EkmekSeansTrolixTrollyTwin MaxVistomiVoleWaylayWhoopie MaxWinnie",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

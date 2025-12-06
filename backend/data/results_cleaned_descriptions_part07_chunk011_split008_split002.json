@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Etekcity",
+    "description": "Etekcity, 2016 yılında kurulmuş olan Vesync Co. Ltd. bünyesinde üretilen ev elektroniği, sağlık ve fitness terazileri, açık hava eğlence ekipmanları markasıdır.Vesync Co. Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "AC Class",
+    "description": "Redone, 1996 yılında kurulmuş olan Kırmızıgül Kozmetik ve Turizm San. Tic. Ltd. Şti. bünyesinde üretilen deodorant sprey, erkek parfümü, limon kolonyası, sıvı saç kremi, saç şekillendirici, saç maskesi, saç spreyi markasıdır.ISO 9001, ISO 14001, ISO 18001, GMP belgelerine sahiptir.Firma Tekirdağ merkezlidir ve ürünlerini Çerkezköy OSB’de bulunan 20 bin metrekarelik fabrikasında üretmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Santeco",
+    "description": "Santeco, 1908 yılında kurulmuş olan Sigg Switzerland AG bünyesinde üretilen termos markasıdır.Sigg Switzerland AG 2016 yılında Çin merkezli Haers Vacuum Containers Co. Ltd. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ultramax Pil",
+    "description": "TNL, 1985 yılında kurulmuş olan Tunelsan Elektronik San. Tic. Ltd. Şti. tarafından ithal edilen pil markasıdır.Firma Ankara merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cetraben",
+    "description": "Cetraben, 1895 yılında kurulmuş olan Stada Arzneimittel AG bünyesinde üretilen cilt kremi, losyonu, merhemi markasıdır.Stada Arzneimittel AG Almanya merkezlidir ve ürünlerini 120 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

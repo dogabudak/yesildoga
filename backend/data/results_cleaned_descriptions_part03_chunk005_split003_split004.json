@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Biofarma",
+    "description": "Biofarma, 1945 yılında temelleri atılan Biofarma İlaç San. ve Tic. A.Ş. bünyesindeki ilaç markasıdır.Tablet, film kaplı tablet, granül, kapsül, draje, şurup, süspansiyon, solüsyon, kuru toz, pomad, likit, krem, jel ve ampul olarak İstanbul’da üretim yapmaktadır.Biofarma İlaç San. ve Tic. A.Ş. 2021 yılında İsviçreli bir yatırım şirketi tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2021-11-14"
+  },
+  {
+    "company": "FNX",
+    "description": "FNX, 1995 yılında kurulan Fonex Kozmetik bünyesinde üretilen erkek saç ve sakal bakımı, saç şekillendirme, tıraş ve sonrası bakım ve cilt bakım ürünleri markasıdır.Fonex markalı ürünler 65 ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bebak",
+    "description": "Bebak, 1933 yılında kurulan Bebak Laboratories bünyesindeki acı badem sütü özlü krem ve makyaj temizleyici krem ürünleri markasıdır. 2011 yılında Sora Kozmetik San. Tic. A.Ş. tarafından satın alındı.Ürünlerini Silivri OSB’de bulunan 4 bin metrekarelik kapalı alanda üretmekte ve 25’ten fazla ülkeye ihraç etmektedir. ISO 9001, ISO 22716 GMP belgelerine sahiptir.Sora Kozmetik bünyesindeki markalar:BebakBekCool AirEciGardenSecret Of LadySora CareSora",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biorichi",
+    "description": "Biorichi Naturkosmetik, 1993 yılında kurulan Petra Doğrudan Satış A.Ş. bünyesindeki bitkisel içerikli sağlık ve bakım ürünleri markasıdır.Ürünleri bitki özlerinden üretilirken hiçbir zararlı katkı maddesi içermiyor.Bünyesindeki markalar:AquawellAvedienBiorichiChef’nEcolinnGorodalGreenFarmaPerlaSmartUrmoorVIP DomotecVMS",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Apaisac Biorga",
+    "description": "Apaisac Biorga, 1949 yılında kurulan Bailleul Laboratories bünyesindeki krem kozmetik markasıdır.Ürünleri dünya çapında 40’tan fazla ülkeye dağıtılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2022-01-31"
+  }
+]

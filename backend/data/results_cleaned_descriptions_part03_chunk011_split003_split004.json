@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Lovetoy JW",
+    "description": "Lovetoy JW, 2008 yılında kurulan Lovetoys Industrial Co., Ltd bünyesinde üretilen cinsel ürünler markasıdır. Firma 2 binden fazla çeşit ürün üretmektedir.Ürünleri Türkiye dahil çok sayıda ülkede pazarlanmaktadır.Lovetoys Industrial Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Uvex",
+    "description": "Uvex, 1926 yılında Philipp M. Winter tarafından kurulan Uvex Winter Holding Gmbh & Co. Kg bünyesinde üretilen koruyucu giysi ve ekipmanları markasıdır.Firma, profesyonel, spor ve eğlence sektörlerinde koruyucu ve güvenlik ürünleri üretip satmaktadır.Uvex Winter Holding Gmbh & Co. Kg Almanya merkezlidir. 28 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fielmann",
+    "description": "Fielmann, 1972 yılında Günther Fielmann tarafından kurulan Fielmann AG bünyesindeki optik gözlük markasıdır. Fielmann gözlük tasarlar ve üretir.Şirketin Hollanda, Almanya, Avusturya, Polonya, Lüksemburg ve İsviçre’de 500’den fazla şubesi vardır.Fielmann AG, Almanya merkezli Fielmann Aile Vakfı’nın Korva SE Holding Şirketine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Waze",
+    "description": "Waze, 2006 yılında İsrail merkezli şirket Waze Mobile tarafından geliştirilen bir GPS navigasyon yazılımı uygulamasıdır.Uygulama GPS desteğine sahip akıllı telefonlarda ve tablet bilgisayarlarda çalışır. Waze, harita verilerini, seyahat zamanlarını ve trafik bilgilerini kullanıcılardan toplar. Waze kullanıcıları kazaları, trafik sıkışıklığını, hız ve polis tuzaklarını bildirebilir ve çevrimiçi harita editöründen yolları, yer işaretlerini, ev numaralarını vb. güncelleyebilir.Şu anda, 13 ülke tam bir temel haritaya sahiptir; diğerleri tam olarak haritalanmamıştır.Amerika merkezli Google 2013 yılında Waze Mobile’ı satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Coghlan’s",
+    "description": "Coghlans, 1959 yılında kurulan Coghlan’s Ltd bünyesindeki kamp aksesuarları markasıdır. 500’den fazla ürün çeşidine sahiptir.Şirket kış tulumları, hava pompaları, mumlar, aydınlatma, pusulalar, sinyalizasyon cihazları, mutfak eşyaları, bıçak, araçlar, çakmaklar, hijyen ürünleri, yağmurluk, depolama çantaları, konteynerler, halatlar, kordonlar gibi ürünler sunmaktadır.Coghlan’s Ltd Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": "2020-12-23"
+  }
+]

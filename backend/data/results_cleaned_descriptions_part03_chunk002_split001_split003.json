@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Yaesu",
+    "description": "Yaesu, 1956 yılında kurulan Yaesu Radio Co, Ltd bünyesindeki ticari kablosuz iletişim ekipmanları, gemi radyo ekipmanları, havacılık radyo ekipmanları markasıdır.Yaesu Radio Co, Ltd Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Legami",
+    "description": "Legami, 2003 yılında kurulan Legami Srl bünyesindeki kırtasiye ürünleri, takvimler, ajandalar, hediyelikler ve aksesuarlar markasıdır.Çok sayıda ülkede butik ve mağazalarla faaliyet göstermektedir.Legami Srl İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Pyrus",
+    "description": "Pyrus Bursa, 2013 yılında Betül, Behiye ve Süleyman Gürevin tarafından kurulan BSBG Tarım bünyesinde üretilen atıştırmalık markasıdır.Pyrus markalı ürünlerde katkı maddesi, koruyucu ve kıvam artırıcı yok ve armuttan meyve küpleri elde edilmiştir. Türkiye’nin ilk katkısız yüzde 100 doğal meyve küpünü üretmiştir.Ahşap kutulu Pyrusbursa; kakaolu, cevizli ve hindistan cevizli olmak üzere 3 farklı çeside sahip.BSBG Tarım bünyesindeki markalarPyrus BursaNO/Na",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Silky Cup",
+    "description": "Silky Cup, 2014 yılında Sahotaz tarafından üretilmeye başlanan kadın hijyeni markasıdır. Esnek bir çan şeklinde ısıl işlem görmüş sentetik kauçuk (TPE) malzemeden üretilmiştir.Dünya çapında 160’tan fazla ülkede satılmaktadır.Sahotaz Hindistan pazar lideridir ve Hindistan’da en büyük adet Silky Cup üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Discreet",
+    "description": "Discreet, 1995 yılında P&G bünyesinde üretilen hijyenik ped, ince ped, temizleyici mendil markasıdır.1837 yılında kurulan P&G Türkiye’de toz deterjan, hazır çocuk bezi, hijyenik ped ve çamaşır suyu üretim tesisleri ve dağıtım merkezi ile faaliyetlerini sürdüren Amerika merkezli şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

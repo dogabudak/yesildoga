@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Original Gourmet",
+    "description": "Original Gourmet, 2000 yılında Richard Alimenti tarafından kurulan Original Gourmet Food Company Inc. bünyesinde üretilen tatlılar atıştırmalıklar, lolipoplar markasıdır.Original Gourmet Food Company Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yara International",
+    "description": "Yara International, 1905 yılında kurulan Yara International ASA bünyesindeki mineral gübreler, dijital tarım araçları markasıdır.Ürün yelpazesinde fosfat ve potas bazlı mineral gübrelerin yanı sıra kompleks ve özel mineral gübre ürünleri de bulunmaktadır.Yara International ASA Norveç merkezlidir. 60’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Yılbor",
+    "description": "Yılbor Nerenin Malı MarkasıYılbor, 2008 yılında kurulan Yilbor Boru Plastik Petrol San. ve Tic. A.Ş. bünyesinde üretilen pe100-basınçlı pvc içme suyu, pprc – pvc atık su boru ve ek parçaları, tarımsal-damlama sulama sistemleri markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Mersin merkezli firma ürünlerini 65 bin metrekarelik alanda bulunan fabrikasında üretmektedir.Bünyesindeki markalar;CorpetMaxpipeYılbor",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "MBW",
+    "description": "MBW, 1998 yılında kurulan Shenzhen Xiaozhu Technology Co. Ltd. bünyesinde üretilen ateş ölçer, atlama ipi, avize, ayak ısıtıcı, aydınlatma ürünleri, ayna kol, bahçe pompası, balık bulucu, bandana, bebek bakım çantası, bisiklet aksesuarları, blender, boya tabancası, budama makası, buhar makinesi, buz kazıyıcı, dürbün, dekoratif aydınlatma, testereler, deniz yatağı, diğer ölçüm cihazları, diğer yardımcı malzemeler, diş fırçaları, dijital ölçüm cihazları, dizlik, duş başlığı, eğitici oyuncaklar, eldiven, elektrikli zımpara makinesi, fıskiyeler, fanlı ısıtıcılar, fide dikici ve sökücü, fren takımı, göğüs pompası, gönye, gönye kesme, gözlük, güneş enerjisi, gece lambası, haşere, fare kovucu, hamak, hastane ekipmanları, hava temizleme cihazı, intercom, köpek oto aksesuarları, kırpma makası, kablosuz grup prizler, kask ve korumalıklar, kazma ve kürekler, led şeritler, led ampuller, led armatürler, li-ion akülü vidalama ve matkap, masa lambası, matkap aparatları veya mandrenler, matkap, vidalama, kırıcı delici uçlar, meyve sıkıcıları, multimetre, mum ve kokular, mutfak ekipmanları, nem veya ısı ölçerler, nem alma cihazı, oto lastik-bakım, oyun evleri, oyuncak bebek evi, plafonyer, projeksiyon cihazı, resimlik, anı defteri, router, süpürge aksesuarları, saç şekillendirme cihazları, sağlık ve bakım malzemeleri, sabunluk, seramik isıtıcılar, shaker ve aksesuarlar, sinek, sivrisinek kovucu, su tabancaları, taşlama uçları, kesici taş, tarak, fırçalar ve makaslar, temizlik ürünleri, termometreler, toprak burgu makinesi veya aksesuarları, vidalama aksesuarlar, yılbaşı aydınlatma, yaprak toplama üfleme makinesi, yazı tahtaları, yemleme makinesi, yol aydınlatma, zincir bileme makinesi, çamurluk, çit, ilaçlama sisleme makinesi, akıllı anahtar, akıllı priz, akım korumalı grup priz, aplik, arıcılık malzemeleri, arka aktarıcı markasıdır.Shenzhen Xiaozhu Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Astra Tech Implant System",
+    "description": "Astra Tech Implant System, 2016 yılında kurulan Dentsply Sirona Inc. bünyesindeki implant sistemleri markasıdır.Dentsply Sirona Inc. Amerika merkezlidir. 120’den fazla ülkede satış kanallarıyla, 40’dan fazla ülkede ise ticari olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

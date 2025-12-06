@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Pevonia",
+    "description": "Pevonia, 1991 yılında kurulan Pevonia International LLC bünyesinde üretilen kozmetik ve cilt bakım ürünleri markasıdır.Ürünleri alkol, mineral yağ, renklendirici ve yapay tatlar yoktur. Biyolojik olarak parçalanabilir ve geri dönüştürülebilir ambalajlar kullanmaktadırPevonia International LLC Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mino Baby",
+    "description": "Mino Baby, 2019 yılında kurulan Hb Hammiko Hijyen Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen bebek bezleri , hijyenik havlu ve tamponlar, pedler, vb. hijyenik ürünler markasıdır.Ürünlerini Gaziantep O.S.B. 5. BÖLGE’de üretmektedir.Bünyesindeki markalar;BlisaFoliaFrendaHaico AljadıdehHb Dina BabyHb Leny NewHb Maia New BabyHb Sara NewInfinaLanda BabyLanda LadyMino BabyRonyVeni",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Corpus Sigorta",
+    "description": "Corpus Sigorta, 1989 yılında kurulan sorumluluk sigortaları, nakliyat sigortaları, araç sigortaları, konut sigortaları, işyeri sigortaları, ferdi kaza sigortaları, mühendislik sigortaları ve seyahat sağlık sigortaları markasıdır.2018 yılında yapılan hisse devir anlaşmasıyla tüm hisseler Maher Yatırım Holding A.Ş.’ye geçmiştir.MAHER Yatırım Holding A.Ş. 2015 yılında Mahmut Erdemoğlu tarafından kuruldu.Bünyesindeki sigorta markaları;Corpus SigortaQuick Sigorta",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Korad",
+    "description": "Korad, 2009 yılında kurulan Korad Technology Co. Ltd. bünyesinde üretilen yüksek güçlü güç kaynakları ve anahtarlamalı güç kaynakları markasıdır.Korad Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Neva Color",
+    "description": "Nevacolor, 1991 yılında Teoman Okay tarafından kurulan Neva Kozmetik San. ve Tic. A.Ş. bünyesinde üretilen saç boyası markasıdır.Styling, perma, saç boyası ve saç bakımı gibi 4 kategoride üretim yapmaktadır.Ürünlerini Tekirdağ’da 25 bin metrekarelik alanda üretmektedir ve çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-07-01"
+  }
+]

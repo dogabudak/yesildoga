@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Ogatech",
+    "description": "Ogatech, 1992 yılında kurulan Bingör Dış Tic. Ltd. Şti. bünyesindeki elektronik, telefon ve iletişim teçhizatları markasıdır.Foto Bingör olarak 1950 yılında fotoğrafçılık sektöründe faaliyete başlayan firma, 2002 yılında OGATECH markasını tescil ettirdi. Disk oynatıcı, MP4 Oynatıcı, Kablosuz Dect Telefon, Kamera ve Dijital Fotoğraf makinesi, Ev Sinema Sistemi, Webcam, Klavye, Mouse ürün grubunu oluşturmaktadır.Ürünlerini yaklaşık 17 ülkeye ihraç etmektedir. ISO 9001:2000 Kalite belgesine sahiptir.Firma bağlantıları ve ürün tespiti amacıyla 2005 yılında yüzde 100 Türk sermayesi ile Ogatech Hong Kong ofisini açmıştır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elsa Ortopedi",
+    "description": "Elsa Ortopedi, 1998 yılında kurulan Elsa Ortopedi Spor Malzemeleri Tic. Ltd. Şti. bünyesindeki ortopedik malzemeler, varis çorabı, fizik tedavi ürünleri, sporcu performans cihazı, solunum fonksiyon test sistemi ve sporcu sağlığı ürünleri markasıdır.ISO 13485, ISO 9001 ve TSE Hizmet Yeterlilik Belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jhintai",
+    "description": "Jhintai, 1980 yılında kurulan Houston Machinery Co. Ltd. bünyesindeki inşaat sektörü için makine ürünleri markasıdır.Beton tesisi, toprak taşıma kazısı, Nakliye taşımacılığı, Kaya sondajı, temel için kazık ve sondaj makineleri, kaya matkap aletleri üretir.Hong Kong merkezli şirketin atölyeleri Hong Kong’ta yer alır.Bünyesindeki markalar:JintSambo C.M.C.IHITADANOYBMTeamwholeGJJKYC",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Garrett",
+    "description": "Garrett, 1964 yılında Eleanor Garrett tarafından kurulan Garrett Electronics, Inc. bünyesindeki metal dedektörleri, hobi ve güvenlikle ilgili metal algılama ürünleri markasıdır.Garrett Electronics, Inc. Amerika merkezlidir ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Manesmann",
+    "description": "Manesmann, 1856 yılında kurulan Mannesmann AG bünyesindeki çelik, mühendislik (mekanik ve elektrik), otomotiv, telekomünikasyon ürün ve hizmetleri markasıdır.2000 yılında Vodafone tarafından satın alınmıştır.Vodafone Group plc İngiltere merkezli telekomünikasyon şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

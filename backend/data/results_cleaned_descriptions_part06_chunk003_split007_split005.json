@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Aunex Audio",
+    "description": "Aunex, 2019 yılında kurulan Aunex Inc. bünyesindeki ses elektroniği, amplifikatörler ve ekolayzırlar markasıdır.Amplifikatör serileriyle otomotiv, motosiklet, denizcilik veya motosikletler, arazi araçları ve scooterlar gibi araçlara çözümler üretir.Aunex Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fruehauf",
+    "description": "Fruehauf, 1918 yılında August Fruehauf tarafından kurulan Fruehauf SAS bünyesinde üretilen kamyonlar için yarı römork ve treyler markasıdır.Fruehauf SAS, 2017 yılında yarı römork, treyler ve kaporta üreticisi Polonya merkezli Wielton SA tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Coeur de Lion",
+    "description": "Coeur de Lion, 2007 yılında kurulan Compagnie des fromages & RichesMonts bünyesinde üretilen süt ve süt ürünleri markasıdır.Yumuşak peynir çeşitleri üretmektedir.Compagnie des fromages & RichesMonts Fransa merkezlidir ve 70’ten fazla ülkede faaliyet göstermektedir.Bünyesindeki markalar;Coeur de LionLe RustiqueRévérendRichesMontsSt André",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Cici Çikolata",
+    "description": "Cici Çikolata Nerenin Malı MarkasıCici, 1952 yılında kurulan Elvan Gıda San. ve Tic. A.Ş. bünyesinde üretilen çikolata markasıdır.Cici Çikolata markası 2010 yılında Elvan Gıda tarafından satın alındı.ISO 9001, ISO 27001, FSSC 22000 Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Eskişehir’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bili Bili Yumurta",
+    "description": "Bili Bili, Bim Birleşik Mağazalar A.Ş. adına Güres Tavukçuluk A.Ş. tarafından üretilmektedir.ISO 9001, FSSC 22000 ve Helal belgelerine sahiptir.Manisa merkezli Güres Group, 700 bin metrekarelik açık, 250 bin metrekarelik kapalı alanda üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "DentaSave",
+    "description": "DentaSave, 1975 yılında Nevzat Karpuzcu tarafından kurulan Drogsan İlaçları San. ve Tic. A.Ş. bünyesinde üretilen ağız bakım ürünleri markasıdır.Ürünleri SLS, Paraben, Triklosan gibi zararlı maddeleri içermemektedir. ISO 9001 belgesine sahiptir.Ürünlerini Ankara’da bulunan 13 bin 500 metrekaresi açık ve 3 bin metrekaresi kapalı alana sahip fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eco Cosmetics",
+    "description": "Eco Cosmetics, 1993 yılında kurulan ECO- Cosmetics Corporation bünyesinde üretilen cilt bakım ürünleri, güneş koruma ürünleri, esansiyel yağlar markasıdır.Ürünlerinde sentetik koku, parafin, paraben, silikon türevleri, PEG, SLS, boya, koruyucu, petrol türevleri, GDO ve hayvansal içerik bulunmaz. Hayvanlar üzerinde test edilmez.ECO- Cosmetics Corporation İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Avessa",
+    "description": "Avessa, 1998 yılında kurulan Kral Sport Spor Malzemeleri Oyuncak Hediyelik Eşya ve Kırtasiye İthalat İhracat ve Tic. Ltd. Şti. bünyesindeki spor malzemeleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Focaltech Systems",
+    "description": "Focaltech Systems, 2005 yılında kurulan FocalTech Systems Co., Ltd. bünyesindeki LCD ekran sürücüleri, IDC ICs, parmak izi sensörü, mobil elektronik cihazlar için kuvvet dokunmatik markasıdır.Kapasitif dokunmatik panel denetleyici çözümleri, parmak izi çözümleri ve çok yönlü TFT LCD ekran sürücüsü ve kontrol çözümleri sunmaktadır.FocalTech Systems Co., Ltd. Amerika merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yesto",
+    "description": "Yesto, 2006 yılında kurulan Yesto, Inc. bünyesindeki cilt bakım ürünleri markasıdır.Ürünleri paraben, petrol, ftalat ve SLS gibi zararlı maddeler içermez. Hayvanlar üzerinde test edilmez ve geri dönüştürülebilir malzemelerden üretilir.Yesto, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

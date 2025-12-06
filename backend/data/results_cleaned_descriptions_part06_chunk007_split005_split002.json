@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Chocolat Mathez",
+    "description": "Chocolat Mathez, 1934 yılında kurulan Chocolat Mathez SAS bünyesinde üretilen çikolata, şekerleme ürünleri markasıdır.Firma her çeşit yer mantarı üretiminde uzmanlaşmıştır, çikolatalı yer mantarlarını yerinde üretmektedir. Çikolata çeşitleri, kakaolu yer mantarı, şekerleme, şekerli badem, bisküvi gibi ürünler sunmaktadır.Chocolat Mathez SAS Fransa merkezlidir. Ürünlerini Fransa’da üretmekte ve 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Eksoy",
+    "description": "Eksoy, 1981 yılında kurulan Eksoy Kimya San. ve Tic. A.Ş. bünyesinde üretilen tekstil kimyasal ürünleri, boya kimyasalları, pigment boyaları, reaktif boyalar markasıdır.Zdhc, The List By Inditex, Blue Sign belgelerine sahiptir.Türkiye çapında ve yurtdışında toplam 9 laboratuvarda müşterilerine hizmet vermektedir. Ürünlerini çok sayıda ülkeye ihraç etmektedir.Firma Adana merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Barefaced",
+    "description": "Barefaced, 2005 yılında kurulan Barefaced Beauty Ltd. bünyesinde üretilen mineral makyaj ürünleri, cilt bakım ürünleri markasıdır.Mineral makyaj ürünleri yüzde 100 doğal kaynaklı bileşenlerden üretilmiştir. Kimyasallar, paraben, etanol, alkol ve parfüm içermez.Hayvanlar üzerinde test edilmemektedir.Barefaced Beauty Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2024-01-27"
+  },
+  {
+    "company": "Balea Luxury",
+    "description": "Balea Luxury, 1973 yılında kurulan dm-drogerie markt GmbH + Co. KG adına üretilen kozmetik ve cilt bakım markasıdır.DM-Drogeriemarkt; kozmetik, sağlık ürünleri, ev ürünleri, sağlıklı yiyecek ve içecekler sunan bir perakende mağazalar zinciridir.dm-drogerie markt GmbH + Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Legurme",
+    "description": "Legurme, 1996 yılında kurulan Yayla Agro Gıda San. ve Tic. A.Ş. bünyesindeki pirinç, bulgur, mercimek, fasulye, nohut, barbunya, buğday, börülce, maş fasulyesi ve mısır gibi ürünler markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;Ala Çiftçiİri DanemLegurmeYaylaYunus",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

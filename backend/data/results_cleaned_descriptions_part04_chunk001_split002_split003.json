@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Aalberts",
+    "description": "Aalberts, 1975 yılında kurulan Aalberts N.V. bünyesinde üretilen teknoloji, makine parçaları, metal markasıdır.Aalberts NV dört teknoloji grubundan oluşur: Boru sistemleri, yüzey teknolojileri, Hidronik akış kontrolü, gelişmiş Mekatronik ve sıvı kontrolü.Aalberts N.V. 50’den fazla ülkede faaliyet gösteren Hollanda merkezli bir şirkettir.Hissedarları:Fidelity Management & Research (yüzde 9,97)OppenheimerFunds (yüzde 9,91)Aalberts Beheer (yüzde 8,50)Capital Research & Management (yüzde 6,07)Cantillon Capital Management (yüzde 2,99)Norges Bank Investment Management (yüzde 2,81)Impax Asset Management (yüzde 2,61)The Vanguard Group (yüzde 2,32)Jan Aalberts (yüzde 2,17)J A M Aalberts-veen (yüzde 2,17)",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Stannah",
+    "description": "Stannah, 1867 yılında Joseph Stannah tarafından temelleri atılan Stannah Lifts Holdings Ltd. bünyesindeki merdiven asansörleri markasıdır.Stannah, 40’ın üzerinde ülkede faaliyet göstermektedir.Merdiven asansörleri, Yolcu asansörleri, Platform asansörleri, Yürüyen merdiven, Hareketli yürüyüş yolları, servis asansörü (microlifts) gibi ürünler üretirken bunların bakım ve onarım hizmetleri vermektedir.Stannah Lifts Holdings Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Klean Kanteen",
+    "description": "Klean Kanteen, 2004 yılında kurulan Klean Kanteen Corporation bünyesindeki paslanmaz çelikten üretilen içecek taşıma şişeleri markasıdır.ISO 9000 ve ISO 14001 belgelerine sahiptir.Klean Kanteen Corporation Amerika merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Youngsterna",
+    "description": "Youngsterna, 2013 yılında kurulan Youngsterna Co., Ltd. bünyesindeki saat markasıdır.Şirket Bay Lai ile Precision Watch Company tarafından kuruldu.Youngsterna Co., Ltd. Kore ve Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Meirun Technology",
+    "description": "Meirun Technology, 2018 yılında kurulan Meirun Technology Co. Ltd. bünyesinde üretilen LED LCD ekran, dokunmatik ekran, açık çerçeve ekran, CCTV ekran, araba ekranı, dijital fotoğraf çerçevesi, android tablet markasıdır.Meirun Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "N. Peal",
+    "description": "N. Peal, 1936 yılında Nat Peal tarafından kurulan N.Peal Ltd. bünyesindeki lüks kaşmir giyim ve aksesuarları markasıdır.Şirket 2006 yılında faaliyetlerini durdurdu. İşadamı Adam Holdsworth, 2007 yılında Feeney’den N. Peal markasını satın aldı. Holdsworth, Moğolistan ve Çin’de üretime başladı.N.Peal Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Sunar Mısır",
+    "description": "“Sunar“1985 yılında kurulmuş olan Sunar Mısır Ent. Tes. San. ve Tic. A.Ş. bünyesinde üretilen mısır bazlı içerikler, Mısır şurubu, glikoz şurubu, fruktoz şurubu, nişasta, modifiye nişastalar, dekstrin, sorbitol, maltitol, mısır kepeği, mısır tohumu ve mısır glüteni markasıdır.Firma Adana merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-08-18"
+  },
+  {
+    "company": "Shrxy",
+    "description": "Shrxy, 2016 yılında kurulan Shenzhen Ruixing Technology Co. Ltd. bünyesinde üretilen dedektörler, optik lensler, elektrik pili monitörleri, sinyal aynaları, optik aparat ve Aletler, yani optik muayene aparatı, hırsız alarmları, 3d gözlükler, el feneri, bilgisayar çevre birimleri, optik iletişim ekipmanları markasıdır.Shenzhen Ruixing Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Yeni Bahar",
+    "description": "Yeni Bahar, 1965 yılında kurulan Mehmetler Yağ San. Tic. A.Ş. bünyesinde üretilen ay çiçekyağı markasıdır.Kırklareli entegre tesislerinde Trakya çiftçisinin mahsüllerinden ayçiçek tohumundan saf rafine ayçiçek yağı üretimi gerçekleştirilmektedir.ISO 9000, TSE, HELAL belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kula Yağ",
+    "description": "Kula Yağ Nerenin Malı MarkasıKula Yağ, 1963 yılında kurulan Kula Yağ ve Emek Yem San. Tic. A.Ş. bünyesinde üretilen ayçiçeği yağı, mısır yağı, soya yağı, kanola yağı, zeytinyağı markasıdır.Balıkesir’de 31 bin metrekarelik alanda kurulu 12 bin 600 metrekarelik kapalı alanda üretim yapmaktadır. Ürünleri birçok ülkeye ihraç edilmektedir.TSE ve ISO 9001 belgelerine sahiptir. Ayrıca gıda, yem, yağ ve etlik civciv üretiminde faaliyet göstermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

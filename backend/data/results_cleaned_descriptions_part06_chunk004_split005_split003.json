@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Totolink",
+    "description": "Totolink, 1999 yılında kurulan Zioncom Electronics Ltd. bünyesinde üretilen ağ anahtarı, bağdaştırıcı, cihaz kablosuz açık, cihaz wi-fi duvar ve tavan, menzil genişletici wi-fi, mobil wi-fi 4g, wi-fi router, örgü wi-fi yönlendirici markasıdır.Zioncom Electronics Ltd. Hong Kong merkezlidir ve ürünleri 50’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Akun Un",
+    "description": "Akun, 1997 yılında kurulan Akun Jsc bünyesinde üretilen un, irmik, uzun ve kısa makarna ve şehriye ürünleri markasıdır.Akun Jsc Kırgızistan merkezlidir. 2012 yılında Kırgızistan yatırım şirketi Capital Bank JSC tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KG",
+    "updated_date": null
+  },
+  {
+    "company": "Dynacord",
+    "description": "Dynacord, Robert Bosch Gmbh bünyesinde üretilen profesyonel ses elektroniği markasıdır.Ürünlerinin çoğu, OMNEO IP teknolojisiyle yapılandırılmış ve kontrol edilen, entegre çözümlerin bir parçası olarak birlikte çalışabilir.Robert Bosch Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Atlaslift",
+    "description": "Atlaslift, 2018 yılında kurulan Atlas Hidrolik Lift Sistemleri San. ve Tic. A.Ş. bünyesinde üretilen makinalarda, motorlarda, hidrolik preslerde, ve benzeri makinalarda kullanılan hidrolik silindirler markasıdır.ISO 9001 belgesine sahiptir.Bursa merkezli firma ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rockwell Tools",
+    "description": "Rockwell Tools, 1994 yılında kurulan Positec Tool Corporation bünyesinde üretilen dairesel testereler, matkaplar, açılı taşlama makineleri ve salınımlı sonikrafter, çene sıkma cihazı gibi ürünlerden oluşan bir elektrikli el aletleri markasıdır.Positec Tool Corporation Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;Rockwell ToolsWORX",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

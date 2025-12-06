@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Sensatia Botanicals",
+    "description": "Sensatia Botanicals, 2000 yılında kurulan PT. Sensatia Botanicals bünyesinde üretilen doğal cilt bakım ürünleri markasıdır.Saf, doğal maddeler içeren sağlıklı cilt bakım ürünleri, el yapımı, soğuk preslenmiş hindistancevizi yağı sabunları üretmektedir. Ürünlerinde kimyasal, sentetik madde kullanılmaz.PT. Sensatia Botanicals Endonezya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ID",
+    "updated_date": null
+  },
+  {
+    "company": "Arcaya",
+    "description": "Arcaya, 2000 yılında kurulan Arcaya Gmbh bünyesinde üretilen kozmetik ürünler markasıdır.Güzellik ürünleri saç ürünleri ve kokular üretmektedir.Arcaya Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Veasoon",
+    "description": "Veasoon, 2000 yılında kurulan Veasoon Industrial Co., Ltd. bünyesindeki ev eşyaları, mutfak eşyaları, komik aletler, yenilikçi elektronik, moda ve mücevher, moda ve güzellik aksesuarları, yeni mutfak eşyaları, hediyeler markasıdır.Veasoon Industrial Co., Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Saban",
+    "description": "Saban, 1996 yılında kurulan Dünya Plastik Ev Gereçleri İmalat San. ve Tic. Ltd. Şti. bünyesinde üretilen ev gereçleri ve nem giderici ürünler markasıdır.Firma plastik banyo, mutfak aksesuarları ve çeşitli ev gereçleri, nem alıcı aparat ve tablet üretimini İstanbul’da bulunan 10 bin metrekarelik kapalı alana sahip tesisinde üretmektedir. Ayrıca çeşitli markalara özel etiket üretimi yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tokalon",
+    "description": "Tokalon, 1964 yılında Cooper Cosmetics S.A. bünyesinde üretilen parfüm, cilt kremi ve cilt losyonu, talk, poşet ve ayak tozlar, yüz tozlar ve ruj, kompakt ve sıvı, saç için tonik ve temizlik ürünleri, kaşlar için kalemler yüz, dudaklar ve kırışıklıkların, tırnaklar için mine, ağız yıkama, kişisel deodorantlar ve tüy dökücüler markasıdır.Cooper Cosmetics S.A. İsviçre merkezlidir.Bünyesindeki markalar;AseptineBiocelCabotNovalonTokalon",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

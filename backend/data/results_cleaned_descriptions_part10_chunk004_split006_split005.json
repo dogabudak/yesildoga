@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aifo",
+    "description": "2007 yılında kurulmuş olan AiFO Components sp. z o.o. bünyesindeki soğutma, klima ve havalandırma cihazları markasıdır.AiFO Components sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Buture",
+    "description": "Puture Co. Ltd. bünyesindeki elektrikli süpürgeler, takviye başlatıcıları, süpürge paketleri, parçalar ve aksesuarlar markasıdır.Puture Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Veithdia",
+    "description": "2017 yılında kurulan V2rx Eyewear & Accesories LLC bünyesindeki güneş gözlüğü ve optik çerçeveler markasıdır.V2rx Eyewear & Accesories LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tyrosur",
+    "description": "1872 yılında kurulan Engelhard Arzneimittel Gmbh & CO. KG bünyesindeki yara iyileştirici jel ve yara iyileşme tozu markasıdır.Engelhard Arzneimittel Gmbh & CO. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Crosscamp",
+    "description": "1957 yılında kurulan Erwin Hymer Group SE bünyesindeki kamp araçları, motor evler, karavan ve aksesuarlar markasıdır.Erwin Hymer Group SE Amerika merkezli Thor Industries Inc.’in iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

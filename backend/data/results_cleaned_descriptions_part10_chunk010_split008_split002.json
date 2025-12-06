@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Balonevi",
+    "description": "2001 yılında kurulmuş olan Balonevi San. ve Tic. A.Ş. bünyesindeki balon, sabun köpüğüi ve parti ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "eToro",
+    "description": "2007 yılında kurulmuş olan Etoro Group Ltd. bünyesindeki çevrimiçi ticaret platformu markasıdır.Finansal hizmetler sunmaya odaklanan çok varlıklı bir yatırım ve sosyal ticaret şirketidir.Etoro Group Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Exent",
+    "description": "1996 yılında kurulmuş olan Lara İç ve Dış Tic. A.Ş. bünyesindeki bahçe mobilyası, hamak ürünleri, kamp çadırı, kamp masaları, kamp sandalyeleri, kamp yatağı, plaj ürünleri, termos ürünleri, uyku tulumu markasıdır.Firma İstanbul merkezlidir. İzmir’de fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Moonlife",
+    "description": "2018 yılında kurulmuş olan Moonlife Mobilya San. ve Tic. A.Ş. bünyesindeki ayakkabılık, televizyon üniteleri, çalışma masası, çok amaçlı dolaplar markasıdır.Firma Kocaeli merkezlidir. Manisa’da fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Menforsan",
+    "description": "1958 yılında kurulmuş olan Laboratorios Bilper SL bünyesinde üretilen doğal köpek şampuanları markasıdır.Ürünleri hayvansal kökenli bileşenler içermez. Üretim ve geliştirme süreçlerinin hiçbirinde hayvansal ürünler, yan ürünler veya türevler kullanılmaz.ISO 9001, ISO14001, ISO 22716 belgelerine sahiptir.Laboratorios Bilper SL İspanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001",
+      "ISO14001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

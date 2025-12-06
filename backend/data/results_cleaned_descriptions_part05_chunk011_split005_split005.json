@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Zimaro",
+    "description": "Zimaro, 2005 yılında kurulan Zimaro Ayakkabıcılık San. ve Tic. Ltd. Şti. bünyesinde üretilen iş güvenliği ayakkabıları ve askeri bot markasıdır.Poliüretan (PU) enjeksiyon sistemi ile üretim yapmaktadır. ISO 20345, ISO 9001 belgelerine sahiptir.Bartın merkezli firma ürünlerini 10’a yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 20345",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eterna",
+    "description": "Eterna 1856 yılında Josef Girard ve Urs Schild tarafından kurulan Eterna SA bünyesindeki lüks saat markasıdır.Mekanik saatler üretmektedir.Eterna SA 2012 yılında Hong Kong merkezli yatırım holding şirketi Citychamp Watch & Jewellery Group Ltd. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Claude Bernard Watches",
+    "description": "Claude Bernard Watches, 1973 yılında kurulan Claude Bernard Watches Ltd. bünyesinde üretilen el yapımı saatler markasıdır.Standart otomatik saatlerine ek olarak, hassas kronograflar tasarlamakla tanınır.Claude Bernard Watches Ltd. İngiltere merkezlidir ve ürünlerini İsviçre’de üretmektedir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Apeman Kamera",
+    "description": "Apeman, 2001 yılında kurulan Apeman International Co. Ltd. bünyesinde üretilen aksiyon kamerası, yol kamerası, projektör, mini takip kamerası, yaban hayatı kamerası, tutucu askı kılıf, dvd oynatıcı, dürbün markasıdır.Apeman International Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Edifice",
+    "description": "Edifice, 1946 yılında kurulan Casio Computer Co. Ltd. bünyesinde üretilen saat ve alarm markasıdır.Casio Computer Co. Ltd. Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

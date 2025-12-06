@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Den Braven",
+    "description": "Den Braven, 1889 yılında kurulan Bostik S.A. bünyesindeki dayanıklı tüketim malları, ileri ambalaj, tek kullanımlık hijyen ve tüketim malları için yapıştırıcılar ve sızdırmazlık malzemeleri markasıdır.Bostik S.A. Fransa merkezlidir. 50 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "First Class Deodorant",
+    "description": "First Class, Aromel Kozmetik bünyesindeki deodorant markasıdır.2006 yılında Aromel Kozmetik, kozmetik üreticilerinden Evyap A.Ş bünyesine katılarak, Evyap A.Ş. şemsiyesi altında kendi varlığını sürdürmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Banny Jeans",
+    "description": "Banny Jeans, 1986 yılında kurulan Monoteks Giyim San. ve Tic. Ltd. Şti. bünyesinde üretilen kadın ve erkek kot pantolon markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Banny JeansBlue WhiteBny JeansLast PlayerRamos",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bonamour",
+    "description": "Bonamour, 1978 yılında kurulan Uzman Kozmetik Kimya San. ve Tic. A.Ş. bünyesinde üretilen parfüm, vücut bakımı, vücut spreyleri, saç bakımı ürünleri markasıdır.ISO 14001 belgesine sahip firma ürünlerini, Kocaeli’de bulunan 5 bin 500 metrekaresi kapalı 4 bin metrekaresi açık alanda üretmektedir.Bünyesindeki markalar;1 Lion717 Au Milaire Antonio Lorenzo717 Exy Antonio Lorenzo717 Homme Antonio Lorenzo717 Viv Antonio LorenzoAforia Antonio LorenzoAir MagicAirçamayAkiraAll U AreAntonio LorenzoAyselBb Best BrandsBlue For MenBonamourBonanzaBonnuitBraitChampagne Antonio LorenzoChastityChgq Antonio LorenzoChris Cremm’yCool ıce Perfume Body SprayCool&Cool A Cool Product You Can TrustÇa VaDelux Eclipsse AirDeo LuxDeolayiDesire HommeDream BeautyEau FeuneEau JeuneEdision BlancF.C. BarcelonaFashion 5FerroliFresh Air 1bruGarden PartyGee PeeInternational DeoçamayInternationalgileteIntesenceJade Au Milaire Antonio LorenzoJulien D’ırvyLeonardo RicciLeonardo RichLesensLorenzo Bought Crystal Antonio LorenzoLorenzo Di Agqa Antonio LorenzoLorenzo Irresist Antonio LorenzoLorenzo The Strong Ones… Antonio LorenzoMajestyMalaysia HommeMine Antonio LorenzoMjMo- Nogo- TasMonamourMontagne BlackNaltaNikieOriflowersPinky By Antonio LorenzoPulpPulpilionPuriximaRanexRe Cool IceReflyRich Leonardo Rich Antonio LorenzoRwd Pause Ffwd Antonio LorenzoS.MertSequenceSoft’n PureSoluxonaSue EtoileSue Fleurina By Lorenzo Antonio LorenzoSuefleurinaU&M Feel The DifferenceUktaviaUzman KozmetikX BlockXcosXxl LesensZone 13",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cadillac",
+    "description": "Cadillac, 1902 yılında Henry Leland ve Henry Ford tarafından kurulan lüks otomobil markasıdır.1909 yılında markayı William Crapo Durant satın alarak General Motors Corporation’a entegre etti.General Motors Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

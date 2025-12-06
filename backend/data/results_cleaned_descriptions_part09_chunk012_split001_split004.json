@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Garanti BBVA",
+    "description": "“Garanti BBVA“1946 yılında kurulmuş olan Türkiye Garanti Bankası A.Ş. bünyesindeki bankacılık, ödeme sistemleri, emeklilik, finansal kiralama, faktoring, menkul kıymetler ve portföy yönetimi markasıdır. Bankacılık sektörünün tüm iş kollarında faaliyet göstermektedir.Türkiye Garanti Bankası A.Ş. 2010 yılında İspanya merkezli Banco Bilbao Vizcaya Argentaria S.A. (BBVA) tarafından satın alınmıştır.Hissedarları:Banco Bilbao Vizcaya Argentaria (yüzde 85,97)Diğer (yüzde 14,03)",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Cavo",
+    "description": "“Cavo“1984 yılında kurulan Cavo Otomotiv Tic. ve San. A.Ş. bünyesinde üretilen açma kapama ve kilitleme teli, acil durum açma mekanizması, benzin kapağı kilitleme teli, cam mekanizma teli, debriyaj teli, el freni mekanizması, el freni teli, emniyet kemeri sabitleme çubuğu, emniyet kemeri sabitleme halatı, fren hortumları, fren teli, gaz teli, kaput açma teli, koltuk mekanizma teli, pedal, römork teli, vites teli, yük taşıcı parça, yedek lastik taşıyıcı vinç mekanizması markasıdır.Firma Kocaelİ merkezlidir. Ürünlerini 24 bin 500 metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "BBVA",
+    "description": "“BBVA“1857 yılında kurulmuş olan Banco Bilbao Vizcaya Argentaria S. A. bünyesindeki uluslararası alanda bireysel bankacılık, toptan bankacılık ve varlık yönetimi hizmetleri markasıdır.Şirket, ürünlerini çevrimiçi ve mobil kanallar aracılığıyla sunmaktadır.Banco Bilbao Vizcaya Argentaria S. A. İspanya merkezlidir.Hissedarları:Norges Bank Investment Management (yüzde 3)Amundi Asset Management SA (yüzde 0,77)State Street Global Advisors Ltd. (yüzde 0,22)Banco Bilbao Vizcaya Argentaria SA (yüzde 0,21)AllianceBernstein Australia Ltd. (yüzde 0,21)Caixabank Asset Management SGIIC SA (yüzde 0,19)Sjunde AP-fonden (yüzde 0,18)OFI Invest Asset Management SA (yüzde 0,15)AG2R LA MONDIALE Gestion d’actifs SA (yüzde 0,11)State Street Global Advisors France SA (yüzde 0,07)",
+    "documents": [
+      "CE",
+      "IFS",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Ivox Audio Video Cable",
+    "description": "“Ivox“2012 yılında kurulmuş olan Birikim Kablo San. ve Tic. A.Ş. bünyesinde üretilen özel kablolar, cctv kabloları, halojensiz yangına dayanıklı kablolar, koaksiyel kablolar, kontrol kabloları, otobüs kabloları, ses ve görüntü kabloları, telefon kabloları, veri iletim kabloları, yangın alarm kabloları markasıdır.ISO 9001, ISO 14001, ISO 10002, ISO 27001, ISO 45001, ISO 50001 belgelerine sahiptir.Firma İstanbul merkezlidir ürünlerini 2 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aurafix",
+    "description": "“Aurafix“2002 yılında kurulmuş olan Aurafix Health Products San. Tic. A.Ş. bünyesindeki ortopedik hazır ürünler, ortez ve protez ürünler, ayak sağlığı ürünleri ve fizik tedavi ürünleri markasıdır.ISO 9001 ve ISO 13485 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

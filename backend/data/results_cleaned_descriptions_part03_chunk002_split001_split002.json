@@ -1,0 +1,56 @@
+[
+  {
+    "company": "C# Sharp",
+    "description": "C# (C Sharp), 2000 yılında Microsoft tarafından .NET platformunun bir parçası olarak geliştirilen ve ECMA (ECMA-334) ile ISO (ISO 23270) tarafından standart olarak onaylanan çok paradigmalı bir programlama dilidir.C#, .NET orta seviyeli programlama dillerindendir. Yani hem makine diline hem de insan algısına eşit seviyededir.C # Anders Hejlsberg tarafından tasarlanmıştır ve geliştirme ekibi şu anda Mads Torgersen tarafından yönetilmektedir.Microsoft Amerika merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 23270"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "TOA",
+    "description": "TOA, 1949 yılında kurulan TOA Corporation bünyesinde üretilen elektronik ürünler markasıdır.İnterkom, mikrofon, hoparlör ve megafonlar üretmektedir. Okullar, konser salonları, perakende lokasyonları, havaalanları, stadyumlar ve diğer birçok mekanlar için ses sistemleri sunmaktadır.TOA Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Köfteci Yusuf",
+    "description": "Köfteci Yusuf1996 yılında Yusuf Akkaş tarafından kurulan Köfteci Yusuf Hazır Yemek Temizlik Canlı Hayvan Et Mamülleri Entegre Gıda İthalat İhracat San. ve Tic. A.Ş. bünyesindeki gıda ve restoran markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 18001, ISO 22000 ve Helal belgelerine sahiptir.Firma Bursa merkezlidir. 40’tan fazla ilde 250’den fazla şube ile faaliyet göstermektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-10-09"
+  },
+  {
+    "company": "AKRacing",
+    "description": "AKRacing, 2001 yılında kurulan AKRacing Inc. bünyesinde üretilen otomotiv, spor koltuklar, oyun ve ofis koltukları markasıdır.Ergonomik oyun ve ofis koltukları konusunda uzmanlaşmıştır.AKRacing Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Baofeng",
+    "description": "Baofeng, 2001 yılında kurulan Fujian Baofeng Electronics Co., Ltd bünyesindeki kablosuz el telsizi ve aksesuarları markasıdır.Ürünlerini 30 bin metrekarelik üretim tesisinde üretmektedir. ISO 9001 belgesine sahiptir.Ürünlerinin çoğu da Amerika Birleşik Devletleri ve Avrupa’ya ihraç edilmektedir.Fujian Baofeng Electronics Co., Ltd Çin merkezlidir. Çin’in en önemli kablosuz iletişim ekipmanları üreticilerinden biridir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

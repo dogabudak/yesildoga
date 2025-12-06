@@ -1,0 +1,44 @@
+[
+  {
+    "company": "King’s Crown",
+    "description": "King’s Crown, 1972 yılında Dirk Rossmann tarafından kurulan Dirk Rossmann Gmbh bünyesindeki bitkisel çay çeşitleri markasıdır.Bitkileri metal klips kullanmadığı mini çay poşetleriyle sunmaktadır.Dirk Rossmann Gmbh’nin sahipleri yüzde 60 hisse ile Alman Rossmann ailesi ve yüzde 40 hisse ile Hong Kong merkezli Watson gurubudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "J.Vilaseca",
+    "description": "J.Vilaseca, 1714 yılında kurulan J. Vilaseca S. A. bünyesinde üretilen birinci hamur özel kağıtlar markasıdır.Grafik kağıdı, iç ve dış mekan reklam afiş kağıdı, güvenlik, şarap etiketi taban kağıdı ve endüstriyel taban kağıdı, banka çekleri, piyango biletleri, sertifikalar, banknotlar, pasaportlar, vizeler, güvenlik belgeleri üretmektedir.J. Vilaseca S. A. İspanya merkezlidir ve ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Dassault Systemes",
+    "description": "Dassault Systemes, 1981 yılında kurulan Dassault Systemes SE bünyesindeki 3D tasarım yazılımı, 3D Dijital Maket ve Ürün yaşam döngüsü yönetimi (PLM) markasıdır.Dassault Systemes SE, Fransa merkezli Groupe Industriel Marcel Dassault SAS bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Shinhan Art",
+    "description": "Shinhan Art, 1979 yılında kurulan ShinHan Art Materials Inc. bünyesindeki sanat malzemeleri, fırça çeşitleri, yağ renkleri, su renkleri, akrilik renkler, poster renkleri, yumuşak pastel, yağ tuvali gibi sanatçı malzemeleri markasıdır.ShinHan Art Materials Inc. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Fenjal",
+    "description": "Fenjal, 1899 yılında kurulan krem banyosu, sabun, banyo yağı, vücut losyonu, vücut yıkama, köpük banyosu, duş yağı, duş köpüğü ve diğer cilt bakım ürünleri markasıdır.Ürünlerinin bir çoğu yenilenebilir hammaddeler temelinde üretilmektedir. Sitrik asit veya hurma yağı temelinde yıkama sıvısı, temizleyicileri ve deterjanı fosfat içermez ve tamamen biyolojik olarak parçalanabilir.Fenjal markası 2016 yılında Almanya merkezli Fit Gmbh tarafından satın alınmıştır.Bünyesindeki markalar;FenjalFitGrüne KraftInhaltsstoffeKuschelweichReiSansoSunil",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

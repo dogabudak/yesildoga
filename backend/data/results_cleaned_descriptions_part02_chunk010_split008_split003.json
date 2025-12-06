@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sibers",
+    "description": "Sibers, 1998 yılında Yuriy Bannov tarafından kurulan Sibers Group Ltd. bünyesindeki bilgi teknolojisi danışmanlık hizmetleri çözümleri ve dış kaynak kullanımı markasıdır.Sibers, tescilli ticari markası HireRussians altında da faaliyet göstermektedir.Sibers Group Ltd. Rusya merkezlidir. Rusya’nın en büyük BT dış kaynak şirketlerinden biridir. Sibers’in ayrıca Avustralya, Almanya ve Amerika Birleşik Devletleri’nde temsilcileri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Leaf International",
+    "description": "Leaf International, 1940 yılında kurulan Leaf International BV. bünyesinde üretilen şekerli ve şekersiz sakız, pastil, şekerleme, meyan kökü, nane, çikolata, tatlandırıcılar markasıdır.Yedi ülkede 11 fabrikası vardır.2005 yılında CSM, şekerleme birimi Leaf adını geri getiren ve günümüzde şirkete sahip olmaya devam eden iki özel sermaye şirketi İngiltere merkezli CVC Capital Partners ve Danimarka merkezli Nordic Capital’e sattı.Bünyesindeki markalar:Ahlgrens bilar (İsveç)Chewits (Birleşik Krallık)Dietor (İtalya)Dietorelle (İtalya)Galatine (İtalya)Jenkki (Finlandiya)King (Hollanda)Lakerol (İsveç)Malaco (İsveç)Mynthon (Finlandiya)Red Band (Hollanda)Saila (İtalya)Sisu (Finlandiya)Sperlari (İtalya)Sportlife (Hollanda, Belçika)Tupla (Finlandiya)Venco (Hollanda)Xylifresh (Hollanda)",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Nexway",
+    "description": "Nexway, 1995 yılında kurulan Nexway AG bünyesindeki e-ticaret ve ödeme için bir yazılım ve hizmet şirketidir.Nexway AG’nin yüzde 62,62’si oranındaki çoğunluk hisselerine sahip olan StockAccess Holdings SAS Fransa merkezli Holding şirketidir.Nexway AG, Fransız Nexway SASU ve Alman asknet AG’nin birleşimidir.Nexway, şirketlerin e-mağazalarını e-ticaret ve ödeme platformuna bağlayarak 140’tan fazla ülkede yazılım ve hizmetlerini online olarak satmalarını sağlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Teleroute",
+    "description": "Teleroute, 1985 yılında kurulan Teleroute S.A. bünyesindeki ulaştırma ve lojistik sektörü için özelleştirilmiş çevrimiçi hizmetler sunan bir pan-avrupa çevrimiçi navlun değişim hizmeti markasıdır.Merkezi Belçika’da bulunan Teleroute, 27 Avrupa ülkesinde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "SK Group",
+    "description": "SK Group, 1953 yılında kurulan kimya, petrol ve enerji, inşaat, nakliye, pazarlama, yarıiletken, telefon ve internet hizmetleri sunan bir şirketler topluluğudur.Dünya çapında 113 ofisi bulunan Güney Kore merkezli SK Group’un 95 iştiraki ve bağlı şirketi vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

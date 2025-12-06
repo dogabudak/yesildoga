@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Merrychef",
+    "description": "Merrychef, 1950 yılında kurulmuş olan Welbilt Inc. bünyesinde üretilen yüksek hızlı fırınlar, yemek servisi ekipmanları markasıdır.Welbilt Inc. Amerika merkezlidir. Ürünlerini İngiltere’de üretmektedir.Bünyesindeki markalar;ClevelandConvothermCremDelfieldFitkitchenFrymasterGarlandKolpakLincolnMercoMerrycheMultiplex",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dannto",
+    "description": "Dannto, Fuzhou Jindeng Wang Luo Ke Ji You Xian Gong Si bünyesinde üretilen erkek, kadın ve çocuklar için ayakkabılar, botlar, terlikler markasıdır.Fuzhou Jindeng Wang Luo Ke Ji You Xian Gong Si Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Overwater",
+    "description": "Overwater, 2011 yılında kurulmuş olan Overwater Su Arıtma Sistemleri San. ve Tic. Ltd. Şti. bünyesinde üretilen su arıtma cihazları, su arıtma filtreleri, yedek parçalar markasıdır.ISO 9001 belgesine sahiptir.Firma Antalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "4D Master Oyuncak",
+    "description": "4D Master Oyuncak Hangi Ülkenin Malı Markası4D Master, 1997 yılında kurulmuş olan Fame Master Enterprise Limited bünyesinde üretilen oyuncak oyunlar ve oyuncaklar, bebek çoklu aktivite oyuncakları, küvet oyuncakları, pille çalışan aksiyon oyuncakları, plastik eğitici oyuncaklar ve bulmacalar markasıdır.Fame Master Enterprise Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "PTS Worldwide Express",
+    "description": "PTS Worldwide Express, 1997 yılında kurulmuş olan Paket Taşımacılık Sis. ve Turz. Bilg. Tic. A.Ş. bünyesindeki lojistik, taşımacılık, uluslararası kurye taşımacılığı markasıdır.ISO 9001, ISO 10002, ISO 27001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

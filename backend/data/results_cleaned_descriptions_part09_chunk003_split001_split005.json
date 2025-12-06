@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sernely",
+    "description": "Sernely2022 yılında kurulmuş olan Sernely Elektronik Hizmetler ve Dış Tic. Ltd. Şti. bünyesindeki evcil hayvanlar için vitaminler markasıdır.Firma İstanbul merkezlidir ve ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Spacecom",
+    "description": "Spacecom1989 yılında kurulmuş olan Space-Communication Ltd. bünyesindeki uydu iletişim hizmetleri markasıdır.Şirket hareket halindeyken yüksek hızlı iki yönlü internet, geniş bant internet erişimi, B2B ve B2C, noktadan çok noktaya akış dahil olmak üzere uydu geniş bant hizmetleri gibi bağlantı çözümleri sunmaktadır.Space-Communication Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Delta Plus",
+    "description": "Delta Plus1977 yılında kurulmuş olan Delta Plus Services SAS bünyesinde üretilen iş kıyafetleri, güvenlik ayakkabıları, kişisel ve toplu koruyucu ekipmanlar markasıdır.Delta Plus Services SAS Fransa merkezlidir. Ürünlerinin yüzde 85’ini Asya, Avrupa ve Amerika’da yer alan kendine ait 20’ye yakın üretim tesisinde üretmektedir ve 110 ülkeye pazarlamaktadır.Hissedarları:J.B.P. (yüzde 55.07)M. Boscardin Ivo (yüzde 9,11)Benoit’s Ailesi (yüzde 2,54)Kayıtlı hissedarlar (yüzde 3,91)Halka açık (yüzde 26,71)Fransa Hazine hisseleri (yüzde 2,66)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Elbow Grease",
+    "description": "Elbow Grease1997 yılında kurulmuş olan 151 Products Ltd. bünyesinde üretilen temizlik ürünleri markasıdır.151 Products Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Shihlin",
+    "description": "Shihlin1955 yılında kurulmuş olan Shihlin Electric & Engineering Corp. bünyesinde üretilen güç transformatörleri, dağıtım transformatörleri ve CBS, metal şalt cihazları markasıdır.Shihlin Electric & Engineering Corp. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

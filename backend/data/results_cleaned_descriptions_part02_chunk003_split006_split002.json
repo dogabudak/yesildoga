@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cars Mcqueen Mater",
+    "description": "Cars Mcqueen Mater markalı oyuncak arabalar The Walt Disney Company’e ait Disney Trading limited bünyesindeki markadır.Ürünleri Çin’de üretilmektedir.The Walt Disney Company Limited Amerikalı Walt Disney ve Roy Disney tarafından kurulmuştur.Teknosa, Disney ürünlerini doğrudan Disney’den satın alıp Türkiye çapındaki perakende noktalarında satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Anex",
+    "description": "Anex, 2012 yılında kurulan Anex Co. bünyesindeki bebek arabası markasıdır. Anex, Ideo Group LLC şirketine aittir.Ürünleri tamamı Avrupa’da üretilmektedir. Bebek arabalarının hiçbir parçası Çin’de üretilmemektedir.Ideo Group LLC Polonya merkezli Bebek arabası üreticisidir.Türkiye dağıtıcısı Ayaz Bebek Malzemeleri Ticaret Ltd. Şti.’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "QueBrique",
+    "description": "Que Brique 2017 yılında kurulan Quebrique Elastik Tuğla A.Ş. bünyesinde üretilen elastik tuğla markasıdır. Yaklaşık 20 yıllık bir Ar-ge çalışması sonrası ürün ortaya çıktı.Dünyaca Patentli tek damgalı ve yeni nesil kaplama elastik tuğlasıdır.Hızlı üretilen bir üründür. Ürünlerin geri dönüşüm ve tekrar kullanılabirlik düzeyi üst seviyededir. Hafif olduğu için uygulanan bölgeye ağırlık yapmaz ayrıca yanmaz malzemedir. Her türlü iç ve dış yüzeylerde seramik yapıştırıcısı kullanılarak bireysel olarak çok kolaylıkla uygulanabilmektedir.Quebrique Elastik Tuğla A.Ş. yerli sermayeli bir şirkettir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "8×4 Deodorant",
+    "description": "yılında Paul Carl Beiersdorf tarafından kurulmuş olan Beiersdorf AG bünyesindeki deodorant markasıdır.Ürünleri alüminyum içermez.Beiersdorf AG Almanya merkezlidir. Türkiye’de Nivea Beiersdorf Turkey Kozmetik San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2024-06-14"
+  },
+  {
+    "company": "CEVA Logistics",
+    "description": "CEVA, 2007 yılında Thomas Nationwide taşımacılık (TNT) ve Eagle Global Logistics şirketlerinin birleşmesiyle kurulan lojistik firmasıdır. Birleşme sonrası yeni adıyla CEVA Logistics, özel sermaye şirketi Apollo Management LP’ye aittir.Apollo Management Amerika merkezli özel sermaye şirketidir.CEVA, 170 ülkede faaliyet gösteren bir lojistik şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

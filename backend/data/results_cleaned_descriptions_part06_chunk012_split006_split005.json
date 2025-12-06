@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Billion Reservoir",
+    "description": "Billion Reservoir, 2008 yılında kurulan Shenzhen Yichu Electronics Co. Ltd. bünyesindeki ssd, ram, usb 3.0 u disk, microsd hafıza kartı markasıdır.SSD / Bellek ürünleri masaüstü, dizüstü bilgisayar, tablet, POS ve endüstriyel kontrol merkezinde kullanılmaktadır.Shenzhen Yichu Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Insyde",
+    "description": "Insyde, 1998 yılında Jeremy Wang, Jonathan Joseph tarafından kurulan Insyde Software Co. Ltd. bünyesinde üretilen UEFI ürün yazılımı, sistem yönetimi çözümleri ve özel mühendislik hizmetleri markasıdır.Insyde Software Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Leven",
+    "description": "Leven, 1996 yılında kurulan J&A Information Inc. bünyesinde üretilen ssd, bellek modülü markasıdır.Komple ürün grubu; DRAM, SSD ve USB Flash sürücülerden oluşmaktadır.J&A Information Inc. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Vaseky",
+    "description": "Vaseky, 2016 yılında kurulan Guangzhou Zhouji Electronic Technology Co. Ltd. bünyesinde üretilen SSD, RAM, katı hal diski, rasgele erişim belleği, tüketici elektroniği ürünleri markasıdır.Guangzhou Zhouji Electronic Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Batrecycle",
+    "description": "Batrecycle, 1947 yılında Haydn Morgan tarafından kurulan Supac Ltd. bünyesindeki akıllı pil atık sistemi markasıdır.Pillerin kalan enerjisini ölçer ve voltajı kalan piller uzaktan kumanda gibi düşük güç harcayan elektronik eşyalarda kullanılabilirbitmiş piller geri dönüşüme hazır bir şekilde saklanabilir.ISO 9001, CE, RoHS belgelerine sahiptir.Supac Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

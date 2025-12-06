@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Gokidy",
+    "description": "Gokidy, 2013 yılında kurulan Özaktaç A.Ş. bünyesindeki oyuncak markasıdır.100 milyondan fazla ürünü tüketici ile buluşturan Özaktaç A.Ş. Türk firmasıdır. Bünyesindeki markalar:TonilatoBlitzGokidy",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eminçelik",
+    "description": "Eminçelik, 1979 yılında kurulan set üstü ocak, ankastre ocak, davlumbaz, fırın, elektrikli termosifon, ani su ısıtıcısı, mutfak aspiratörü ve elektrikli soba ürünleri markasıdır.Yüzde 100 Türk sermayeli Türkiye’de üretim yapan firma ürünlerini 48 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-06-20"
+  },
+  {
+    "company": "Westinghouse",
+    "description": "Westinghouse Elektrik Şirketi 1886 yılında George Westinghouse tarafından kuruldu. Şirket ev aletleri sektörüne ilk kez 1917 yılında elektrikli ocak ile giriş yaptı ve 1930’lu yıllarda buzdolabı üretimine başladıktan sonra her türlü ev aletleri üretimini yapmaya başladı.Amerikan merkezli firma ürünlerini Amerika’da üretiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fantom",
+    "description": "Fantom, 1988 yılında kurulan Fanset Elektrikli Ev Aletleri Ltd. Şti. bünyesindeki küçük ev aletleri ve profesyonel temizlik makineleri markasıdır.Türk firması Fanset ürünleri Türkiye’de üretilmektedir. Dünya çapında 70 ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Felix Firmanın",
+    "description": "Felix 1997 yılında Arzum Elektrikli Ev Aletleri şirketi bünyesinde üretilen elektrikli küçük ev aletleri markasıdır.Arzum 1966 yılında kuruldu. 2013 yılında İngiltere merkezli yatırım fonu Mediterra Capital Partners, iştiraki olan SDA International, Arzum Elektrikli Ev Aletleri şirketinin yüzde 49’luk hissesini satın aldı.Arzum şirketi ürünlerinin tasarımını yaparak üretici seçip ürettiriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

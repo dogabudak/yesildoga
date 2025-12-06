@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Essence",
+    "description": "2001 yılında Christina Oster-Daum ve Javier Gonzalez tarafından kurulmuş olan Cosnova Gmbh bünyesinde üretilen makyaj ürünleri, aksesuarlar ve fırçalar, cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Cosnova Gmbh Almanya merkezlidir ve ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2025-09-16"
+  },
+  {
+    "company": "Photoshop",
+    "description": "Photoshop, 1990 yılında üretilen sayısal fotoğraf işleme yazılımıdır. Photoshop dünya’nın 10 büyük grafik ve medya yazılımlarını üreten 1982 yılında kurulan Adobe Systems şirketine aittir.Adobe Systems merkezi Amerika Birleşik Devletleri’nde Kaliforniya eyaletinde bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nec Ülke",
+    "description": "Nec (Nippon Electric Company) 1899 yılında Kunihiko Iwadare ve Takeshiro Maeda ile Amerikan Western Elektrik Şirketi (şimdiki Alcatel-Lucent) ortaklığında kuruldu.NEC ekran çözümleri, bilgisayar monitörlerinin ve büyük ekran kamu bilgileri ekranların üreticisidirNec, Japonya’nın yabancı sermaye ile kurulan ilk ortak girişimi oldu.2017 yılında Amerikan merkezli Kemet Corporation tarafından Nec’in hisselerinin yüzde 61’i satın alındı.Kemet Corporation’ın sahibi olduğu Tokin Corporation Japonya’da elektrik ve Elektronik Sanayi ve otomotiv parçaları üretim şirketidir.NEC, Türkiye pazarına ilk kez 1960 yılında iletişim ekipmanı ile giriş yaptı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tupperware",
+    "description": "Tupperware 1946 yılında girişimci Earl Silas Tupper tarafından kurulan Tupperware Brands Corporation bünyesindeki, mutfak araç ve gereçleri markasıdır. Dünya çapında 13 fabrikası bulunurken bu fabrikaların 4’ü Avrupa’da yer almaktadır.Tupperware Brands Corporation Amerika merkezlidir. Türkiye pazarına 1996 yılında girmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-04-02"
+  },
+  {
+    "company": "Vespa",
+    "description": "Vespa marka hafif motorlu küçük araba, ilk kez 1946 yılında; araba, motosiklet, scooter ve uçak üreten Piaggio şirketi tarafından üretildi.İtalyan şirket Piaggio’nun iki teker grubunda; Aprilia, Derbi, Gilera, Ligier, Moto Guzzi, Vespa gibi markalar bulunur.Ticari araçlar grubunda ise Porter, Porter Maxxi, Quargo ve Ape gibi markalar bulunmaktadır. 2011 yılından beri Piaggio marka Ticari Araçların Türkiye genel distribütörlüğünü Aytok Şirketler Grubu yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Arktek",
+    "description": "Arktek, 2006 yılında kurulan Arktek Technology Co. bünyesinde üretilen grafik kartı, anakart, hafıza, ssd, güç kaynağı, mini bilgisayar markasıdır.Arktek Technology Co. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Apevia",
+    "description": "Apevia, 1999 yılında kurulan Apevia Corporation bünyesindeki bilgisayar kasa ihtiyaçları için kablo ve aksesuarlar markasıdır.Ürün yelpazesinde bilgisayar kasaları, güç kaynağı, bilgisayar soğutma ürünleri, aksesuarlar, fan ve ızgara filtresi, kablolar ve vidalar bulunmaktadır.Apevia Corporation Amerika merkezlidir ve Tayvan’da şubesi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Iiyama",
+    "description": "Iiyama, 1972 yılında Kazuro Katsuyama tarafından kurulan Iiyama Corporation bünyesinde üretilen LCD ve LED ekran markasıdır.2006 yılında MCJ Group’un sahibi olduğu yan şirketi Mouse Computer Co.,Ltd. bünyesine dönüştü.MCJ Group Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Timetec",
+    "description": "Timetec, 2013 yılında kurulan Timetec, Inc. bünyesindeki tüketici elektroniği markasıdır.Ürün yelpazesi flash bellek, e-kitap okuyucuları, sunucu, endüstriyel kullanım ve overclock için bellek modülleri içermektedir.Timetec, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Segway",
+    "description": "Segway, 1999 yılında Dean Kamen tarafından kurulan Segway Inc. bünyesindeki iki tekerlekli kendi kendini dengeleyen bir ulaşım aracı markasıdır.Segway Inc. 2015 yılında Çin merkezli Ninebot Inc. tarafından satın alarak birleştirilmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

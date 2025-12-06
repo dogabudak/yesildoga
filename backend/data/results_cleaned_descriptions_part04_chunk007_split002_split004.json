@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Sicce",
+    "description": "Sicce, 1973 yılında kurulan Sicce Italia Srl bünyesindeki akvaryum ve bahçecilik için bakım ürünleri, çok fonksiyonlu pompalar, filtreler ısıtıcı markasıdır.Sicce Italia Srl İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Barry M",
+    "description": "Barry M, 1982 yılında Barry Mero tarafından kurulan Barry M Cosmetics Ltd. bünyesindeki makyaj ve tırnak ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. Ürünleri vejeteryan ve çoğu vegandır. Ayrıca, ürünlerini hayvan testi gerektiren Çin gibi ülkelerdeki perakende mağazalarında satılmasına izin vermemektedir.Barry M Cosmetics Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2021-11-16"
+  },
+  {
+    "company": "Collection 2000",
+    "description": "Collection 2000, 1974 yılında kurulan Collection 2000 Cosmetics Inc. bünyesindeki aerosol vücut spreyi deodorantlar, parfümler ve vücut losyonları markasıdır.Collection 2000 Cosmetics Inc. Amerika merkezli bir kozmetik firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Daniel Sandler",
+    "description": "Daniel Sandler, 2005 yılında kurulan Daniel Sandler Limited bünyesindeki makyaj ürünleri markasıdır.Ürünleri arasında kült suluboya sıvı yanak rengi yer alır.Daniel Sandler Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Tropical",
+    "description": "Tropical, 1977 yılında kurulan Tropical Tadeusz Ogrodnik bünyesindeki balık yemi markasıdır.Ürünleri karbonhidratlar, proteinler ve gerekli mineralleri içerir.Akvaryum ve gölet balıkları, sürüngenler, küçük kemirgenler ve kuşlar için çok çeşitli yiyecekler üretmektedir. ISO 9001 ve HACCP belgelerine sahiptir.Tropical Tadeusz Ogrodnik Polonya merkezlidir ve ürünlerini 80’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;TropiCatTropiDogTropicalTropifit",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": "2023-10-07"
+  }
+]

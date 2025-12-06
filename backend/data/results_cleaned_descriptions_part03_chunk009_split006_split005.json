@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Farissa",
+    "description": "Farissa, 1998 yılında kurulan Atessonmez Kimya San. ve Tic. A.Ş. tarafından üretilen sıvı sabun markasıdır.Ürünlerini Gaziantep OSB’de bulunan 18 bin metrekarelik kapalı alanda üretmektedir.Çeşitli kokulardan oluşan cilt bakım sabunları, güzellik, banyo ve lavabo sabunları, sıvı sabun, bulaşık deterjanı, cam sil, oda parfümü ve çamaşır suyu üretmektedir. Ürünlerinin yüzde 85’ini yurt dışına ihraç etmektedir.Bünyesindeki markalar:MarynaElsaElsilClonexFarissaDoenaEmiraPemila",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Christian Louboutin",
+    "description": "Christian Louboutin, 1992 yılında kurulan Christian Louboutin Ltd. bünyesindeki kozmetik ürünler, parfüm, ayakkabı, çanta ve küçük deri eşyalar markasıdır.Dünyada 70’ten fazla Christian Louboutin butiği bulunmaktadır. 46 ülkede faaliyet göstermektedir.Christian Louboutin Ltd. Fransa merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Cyma Watches",
+    "description": "Cyma Watches, 1862 yılında Joseph ve Theodore Schwob tarafından kurulan Cyma-Sarl, SA bünyesindeki lüks kol saati markasıdır.Cyma-Sarl, SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Gottex",
+    "description": "Gottex, 1957 yılında Lea Gottlieb tarafından kurulan Gottex Inc. bünyesinde üretilen lüks mayo markasıdır.Mayoların yanı sıra, mayo ve plaj kıyafetlerini birleştirerek kaftanlar, tunikler ve pantolonlar da üretmektedir.Gottex Inc. İsrail merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Façonnable",
+    "description": "1950 yılında kurulan Façonnable SAS bünyesindeki gömlek, kazak, polo, pantolon, ceket, blazer markasıdır.Façonnable SAS İspanya merkezli Awwg’nin bir parçası olan Pepe Jeans Group S.L. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2025-08-17"
+  }
+]

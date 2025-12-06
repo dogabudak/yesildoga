@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Pin Energy Tea",
+    "description": "Pin Energy Tea, 2020 yılında kurulmuş olan Pin Global Inc. bünyesindeki enerji içeceği markasıdır.Ürünleri bitki bazlı ve doğal malzemelerle üretilmektedir.Pin Global Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rich Nuts",
+    "description": "Rich Nuts, 2017 yılında kurulmuş olan Rich Nuts LLC bünyesindeki kuruyemişler, gurme kuruyemişler ve atıştırmalıklar markasıdır.Rich Nuts LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Limmo",
+    "description": "Limmo, 2009 yılında kurulmuş olan GG Frozen and Beverage Gıda İthalat İhracat San. ve Tic. A.Ş. bünyesindeki dondurulmuş limonata özü, limon ürünleri, limon suyu, limon baharatı markasıdır.Ürünleri koruyucu, tatlandırıcı, katkı, renklendirici içermemektedir.ISO 9001, ISO 10002, ISO 22000, Helal belgelerine sahiptir.Firma Antalya merkezlidir.Bünyesindeki markalar;La SalvajeLimmo",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jeden Tag",
+    "description": "Jeden Tag, 1991 yılında kurulmuş olan Zentrale Handelsgesellschaft Mbh bünyesindeki süt ürünleri, temel gıda maddeleri, konserve yiyecekler, şekerlemeler, dondurulmuş ürünler, evcil hayvan maması, ev eşyaları markasıdır.Zentrale Handelsgesellschaft Mbh İsviçre merkezli Markant Group bünyesindedir. 30’dan fazla ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Mai Collection",
+    "description": "Mai Collection, 2016 yılında kurulmuş olan Mai Collection Tekstil Tic. Ltd. Şti. bünyesindeki giyim markasıdır.Ürünlerini mağazaları ile çevrimiçi olarak satmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

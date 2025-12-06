@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Telkotürk",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Scoot And Ride",
+    "description": "2012 yılında kurulmuş olan Scoot & Ride Vertriebs Gmbh bünyesindeki çocuk ve gençler için scooter markasıdır.Scoot & Ride Vertriebs Gmbh Avusturya merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Ren",
+    "description": "1996 yılında kurulmuş olan Ren Gıda San. Tic. A.Ş. bünyesindeki kurabiye, kraker, çikolata kaplamalı ürünler, bisküvi, gofret ve fındık kreması markasıdır.ISO 9001, HACCP belgelerine sahiptir.Firma Tekirdağ merkezlidir. Ürünlerini toplam 25 bin metrekarelik arazide, 9 bin metrekarelik kapalı alana sahip tesisinde üretmektedir. Ürünlerini bir çok ülkeye ihraç etmektedir.Bünyesindeki markalar;Şokolina",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cpanel",
+    "description": "1997 yılında J.Nick Koston tarafından kurulmuş olan Cpanel LLC. bünyesinde geliştirilen web barındırma kontrol paneli araçları yazılımı markasıdır.Cpanel LLC. 2018 yılında Amerika merkezli Oakley Capital’in yatırımıyla WebPros BV tarafından çoğunluk hissesi satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Drybar",
+    "description": "2010 yılında kurulmuş olan Drybar Products LLC saç şekillendirme ürünleri, saç bakım cihazları, fırça ve taraklar markasıdır.Drybar Products LLC 2019 yılında Amerika merkezli Helen of Troy Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

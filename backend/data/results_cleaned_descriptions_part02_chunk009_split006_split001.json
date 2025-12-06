@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Verbund",
+    "description": "Verbund, 1947 yılında kurulan Verbund AG bünyesindeki elektrik üretimi, dağıtımı, ticareti ve toptan ticareti, yenilenebilir enerji markasıdır.Verbund AG Avusturya merkezlidir. Avusturya elektrik talebinin yaklaşık yüzde 40’ı karşılarken ve bu ihtiyacın yüzde 90’ını hidroelektrik enerjiden üretiyor. Verbund AG’nin en büyük hissedarı, yüzde 51 oranla Avusturya Cumhuriyeti’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Enerjisa",
+    "description": "Enerjisa, 1996 yılında Sabancı Holding tarafından kurulan Enerjisa Enerji A.Ş. bünyesindeki enerji markasıdır.2013 yılında Almanya merkezli E.ON AG, enerjisa’daki yüzde 50 hisseyi devraldı.Enerjisa Enerji’nin yüzde 20’si 2018 yılında halka açıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Münir Şahin",
+    "description": "Münir Şahin, 1997 yılında kurulan Münir Şahin İlaç San. ve Tic. A.Ş. bünyesindeki Tablet, Film Tablet, Granül, Şurup, Süspansiyon, Pomad ve jel formlarında üretilen ilaç markasıdır.2006 yılında İngiltere Merkezli Girişim Sermayesi Şirketi Partners İn Life Sciences (Pils) tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Uraw Kozmetik",
+    "description": "Uraw Kozmetik, 2015 yılında kurulan Uraw Kozmetik A.Ş. bünyesindeki makyaj bazı, kapatıcı, fontöten ve bb krem, aydınlatıcı, pudra, allık, far, göz kalemi, ruj, makyaj fırçası, ağda, kapatıcı, transparan pudra, allık, far fazı, ruj markasıdır.Ürünlerini Azerbaycan, ABD, Almanya Fransa, İngiltere, İtalya, Rusya ve Arap yarım adasına ihraç etmektedir.Uraw Kozmetik, yüzde 100 yerli ve milli sermaye ile kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Exeltis",
+    "description": "Exeltis, 1977 yılında tıp doktoru Hugo Sigman ve biyokimyacı eşi Silvia Gold tarafından kurulan Chemo Group bünyesindeki eczacılık ürünleri markasıdır.Chemo 40’ın üzerinde ülkede faaliyet göstermektedir.İspanya merkezli Chemo, Türkiye pazarına Türkiye’nin köklü ilaç şirketlerinden Embil İlaç Sanayi Limited Şirketi’ni satın alarak girmiştir.Çerkezköy OSB’de toplam 34 bin metrekarelik alanın 10 bin metrekarelik kapalı alanında üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Malty",
+    "description": "Malty, 2021 yılında kurulmuş olan Malty Gıda A.Ş. bünyesinde üretilen atıştırmalıklar markasıdır.Antep fıstıklı, bademli ve kakaolu, vişneli ve fındıklı, yer fıstıklı çeşitlerine sahiptir.Ürünleri katkı, koruyucu, aroma ve ilave şeker içermez.Firma İstanbul merkezlidir.Bünyesindeki markalar;maltymalty bitesmalty plusmalty snacksmalty snacks plus",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cartago",
+    "description": "Cartago, 2000 yılında kurulmuş olan Grendene S/A bünyesinde üretilen terlik markasıdır.Firma ayakkabı, deri ayakkabı, deri eşyalar üretmektedir.Grendene S/A Brezilya merkezlidir.Bünyesindeki markalar;CartagoGrendene KidsGrendhaIpanemaMelissaPega ForteRiderZaxy",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Hutt Robot",
+    "description": "Hutt, 2016 yılında kurulmuş olan Beijing Hutt Wisdom Technology Co. Ltd. bünyesinde üretilen akıllı pencere temizleme robotları, kablosuz el paspas makinesi markasıdır.Beijing Hutt Wisdom Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Animal World Aw",
+    "description": "Animal World Aw, 2019Smyrna Pet Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen kedi ve köpek maması markasıdır.Başta Türkiye olmak üzere toplam 13 ülkeden ham madde alarak üretim yapmaktadır.Firma İstanbul merkezlidir ve ürünlerini 12 ülkeye ihraç etmektedir.Bünyesindeki markalar;Pro PerformanceNature’s ProtectionAnimal World",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ailang",
+    "description": "Ailang, 2009 yılında kurulmuş olan Shenzhen Ailang Watch Industry Co. Ltd. bünyesinde üretilen mekanik, kuvars saatler ve aksesuarlar markasıdır.Shenzhen Ailang Watch Industry Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

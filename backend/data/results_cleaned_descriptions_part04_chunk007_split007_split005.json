@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Puly Caff",
+    "description": "Puly Caff, 1961 yılında kurulan Lion International Trading. Co. s.r.o. bünyesindeki kahve makinası temizleme deterjanları markasıdır.Ev tipi filtre kahve makineleri ve profesyonel makineler için ürünler üretmektedir.Lion International Trading. Co. s.r.o. Çek Cumhuriyeti merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Reeven",
+    "description": "Reeven, 2009 yılında kurulan Reeven LLC bünyesinde üreilen CPU soğutucular, soğutma fanları, aksesuarlar, bilgisayar kasaları ve aksesuarları markasıdır.Reeven LLC Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Caffe Vergnano",
+    "description": "Caffe Vergnano, 1882 yılında kurulan Caffè Vergnano S.p.A. bünyesindeki kahve markasıdır.Ayırca dünyanın farklı ülkelerinde 70 coffee shopu vardır. Ürünlerini 13 bin 500 metrekarelik fabrikasında üretmektedir ve 80 ülkeye pazarlamaktadır. ISO 14001 belgesine sahiptir.Caffè Vergnano S.p.A. İtalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bigbluebutton",
+    "description": "Bigbluebutton, 2007 yılında kurulan Bigbluebutton Inc. bünyesinde üretilen açık kaynak kodlu eğitim kurumları için web konferans yazılımı markasıdır.2007 yılında, proje Carleton Üniversitesi’nde Richard Alam tarafından başlatıldı.BigBlueButton, çoklu ses ve video paylaşımını, genişletilmiş beyaz tahta ile sunumları, işaretçi olarak, yakınlaştırma ve çizim, sohbet, genel ve özel, Masaüstü paylaşımı, VoIP ile entegre FreeSWİTCH ve PDF belgeleri ve Microsoft Office belgelerinin sunumu için destek vermektedir.Bigbluebutton Inc. Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Hanergy Solar",
+    "description": "Hanergy, 1989 yılında Li Hejun tarafından kurulan Hanergy Holding Group Ltd. bünyesinde üretilen ince film güneş güç çözümleri, güneş panelleri; güç istasyonu, tüketici elektroniği, hidro güç çözümleri, rüzgar enerjisi çözümleri markasıdır.Hanergy Holding Group Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

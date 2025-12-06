@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Doenges",
+    "description": "Doenges, 1903 yılında kurulan Dönges GmbH & Co. KG bünyesindeki el alet setleri, aydınlatma ürünleri ve kabloları markasıdır.DIN EN ISO 9001 belgesine sahiptir.Dönges GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Draper",
+    "description": "Draper, 1919 yılında Bert Draper tarafından kurulan Draper Tools Limited bünyesindeki el aletleri, elektrikli el aletleri, otomotiv araçları, profesyonel ve kendin yap araçları markasıdır.Draper Tools Limited İngiltere merkezlidir.Bünyesindeki markalar;DraperDraper ExpertBunkerEloraKnipexRedlineStorm ForceXP1000",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Badoo",
+    "description": "Badoo, 2006 yılında Andrey Andreev tarafından kurulan sosyal ağ markasıdır.190 Ülkede faaliyet göstermektedir ve 47 dil desteği sunmaktadır. iOS, Android ve web’de kullanılabilir.Badoo, 2020 yılından beri Bumble Inc. bünyesinde faaliyet göstermektedir. Bumble Inc.’in çoğunluk hisseleri Amerika merkezli özel sermaye şirketi Blackstone Group’a aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dermolife",
+    "description": "Dermolife, 2009 yılında kurulan Denizpharma İlaç San. ve Tic. Ltd. Şti. bünyesindeki çinko oksit, anason çayı, anne sütü saklama poşeti, güneş kremi, gliserin damla, ingiliz karbonatı, lanolin krem, likit cilt temizleyici , oksijenli su, rivanol, talk pudra, tatlı badem yağı, yumuşatıcı kulak damlası markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BatixBitexDenflorDermolifeDnzFishoFizyoPoledropsTusipan",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eagleburgmann",
+    "description": "Eagleburgmann, 1849 yılında Carl Johann Freudenberg tarafından kurulan Freudenberg & Co. KG bünyesindeki ambalajlar ve contalar, conta besleme sistemleri, genleşme derzleri, karbon yüzer halka contalar, manyetik kaplinler, mekanik salmastralar gibi sızdırmazlık çözümleri markasıdır.Freudenberg & Co. KG Almanya merkezlidir. Türkiye’de 1991 yılından beri EagleBurgmann Endüstriyel Sızdırmazlık San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

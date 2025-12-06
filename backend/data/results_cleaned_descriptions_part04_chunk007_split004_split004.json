@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Veoh",
+    "description": "Veoh, 2010 yılında kurulan Qlipso Inc. bünyesindeki internet televizyon markasıdır.Veoh’a yüklenecek video uzunluğu sınırsızdır ve bir kota uygulanmaz.Qlipso Inc. çok kullanıcılı içerik paylaşım platformları oluşturan ve işleten bir İsrail-Amerikan teknoloji şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kangji",
+    "description": "Kangji, 2004 yılında kurulan Hangzhou Kangji Medical Instrument Co., Ltd. bünyesinde üretilen temassız ateş ölçer markasıdır.ISO 9001, ENISO 13485 belgelerine sahiptir.Hangzhou Kangji Medical Instrument Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "9GAG",
+    "description": "9GAG, 2008 yılında Ray Chan, Chris Chan, Derek Chan, Marco Fung, Brian Yu tarafından kurulan 9GAG, Inc. bünyesindeki sosyal medya web sitesidir.Kullanıcı tarafından oluşturulan içeriği veya diğer içeriği farklı sosyal medya web sitelerinden yüklemelerine ve paylaşmalarına olanak tanır. 9GAG kullanıcıları genellikle internetteki diğer sitelerden alıntı yaparak paylaşırlar. 9GAG ise bu içeriklerin altında reklamını yapar.9GAG, Inc. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Altuna",
+    "description": "Altuna, 1879 yılında kurulan Altuna Hermanos SA bünyesindeki budama ve bahçe için kesme aletleri, tarım araçları markasıdır.Altuna, üç bölümü sayesinde; profesyonel, bahçe ve endüstriyel, budamanın tüm ihtiyaçlarına cevap veren, bir dizi profesyonel makas sunmaktadır.Altuna Hermanos SA İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Ubiquiti",
+    "description": "Ubiquiti, 2005 yılında Robert Pera tarafından kurulan Ubiquiti Inc. bünyesindeki bilgisayar ağ aygıtları markasıdır.Ubiquiti Inc. işletme ve evler için kablosuz veri iletişimi ve kablolu ürünler üreten Amerika merkezli teknoloji şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

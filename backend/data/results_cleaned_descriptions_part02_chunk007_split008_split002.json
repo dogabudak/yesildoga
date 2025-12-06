@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sanwa",
+    "description": "Sanwa, 1959 yılında kurulan Sanwa Electronic Instrument bünyesindeki radyo kontrollü vericiler ve uzaktan kumanda cihazları gibi kablosuz ekipman markasıdır.Şirket 1965 yılından itibaren Japonya merkezli SMC Grubu’nun bir yan kuruluşu olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Jakemy",
+    "description": "Jakemy, 1998 yılında kurulan Guangzhou Yifeng Technology Electron Co., Ltd bünyesindeki tornavida seti, elektrikli tornavida, takım aksesuarları gibi elektronik aletler ve el aletleri markasıdır.Sökme aracı, telekomünikasyon cihazları, cep telefonları, bilgisayarlar ve Ev Mobilyaları vb onarım için gereken araçları üretmektedir.Guangzhou Yifeng Technology Electron Co., Ltd Çin merkezli şirkettir ve ürünlerini Çin’deki fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "HoldPeak",
+    "description": "HoldPeak, 1998 yılında Zhiping Bai tarafından kurulan Zhuhai JiDa Huapu instrument Co., Ltd bünyesindeki dijital ölçüm aletleri markasıdır.Dijital Multimetre, Kızılötesi Termometre, Ahşap Nem Test Cihazı, Anemometre, Dijital Ses Seviyesi Ölçer, Dijital LUX Ölçer, Takometre, Güç Kaynağı, vb. dahil olmak üzere 200’den fazla ölçüm cihazı çeşidine sahiptir.Çin merkezli HoldPeak markalı ürünler 80 ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bwt",
+    "description": "Bwt, 1823 yılında Johann Adam Benckiser tarafından kurulan BWT AG bünyesindeki su teknolojisi markasıdır.BWT AG, 1990 yılında WAB Group tarafından satın alındı.BWT AG, Avusturya merkezli bir şirkettir.Mondsee (Avusturya), Schriesheim (Almanya), Paris (Fransa), Aesch (İsviçre) olmak üzere dört ana üretim şirketi ve küresel dağıtım ağı bulunmaktadır.BWT musluk suyunu Magnezyum ile mineralize eden ve sudaki kireç ve kloru arıtan ilk su arıtmalı sürahidir. Sudaki ağır metalleri, kötü tadı ve kokuyu önler. Sudaki mineralleri zenginleştirir ve suya Magnezyum ekler.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Leton",
+    "description": "Leton, 1987 yılında kurulan Leton Seyahat Turizm ve Ticaret Ltd. Şti. bünyesindeki seyahat acentasıdır.Ankara’da 2 satış, İstanbul da bir irtibat ofisi ve temsilci ile uluslararası uçak bileti, iç hat uçak biletleri, incoming hizmetleri, tatil & tur paketleri, havaalanı transferleri & araç kiralama, vize hizmetleri ve tren biletleri hizmetleri sunmaktadır.Kendi bünyesinde Uçak biletleri kesmektedir ve 200’den fazla havayoluna uçak bileti düzenlemektedir.Şirketin elektronik altyapısı Amerika merkezli Google tarafından ve E-postaları yine Amerika merkezli Gmail’den sağlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

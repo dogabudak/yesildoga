@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Lubrizol",
+    "description": "Lubrizol, 1928 yılında kurulan Lubrizol Corporation bünyesinde üretilen özel kimyasallar markasıdır.Bu ürünler arasında motor yağları ve diğer nakliye ile ilgili sıvılar için katkı maddeleri, endüstriyel yağlayıcılar için katkı maddeleri ve benzin ve dizel yakıt için katkı maddeleri bulunur. Buna ek olarak, lubrizol kişisel bakım ürünleri, farmasötikler ve tıbbi cihazlar, plastik teknolojisi de dahil olmak üzere özel malzemeler ve özel reçineler ve katkı maddeleri şeklinde kaplamalar için katkı maddeleri ve katkı maddeleri yapar.2011 yılından beri Lubrizol Corporation, Amerika merkezli Berkshire Hathaway Inc.’in bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aklena",
+    "description": "Aklena, 2006 yılında kurulan MBH Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen taze kaşar, labne, beyaz, lor, cheesecake peyniri markasıdır.İstanbul merkezli firma ürünlerini 14 bin metrekarelik Kırklareli fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alpaya",
+    "description": "Alpaya, Kenan Alpay tarafından kurulan Alpaya Doğal ve Kozmetik Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen doğal ve kozmetik ürünler markasıdır.Vitamin, mineral, bitkisel ekstraktlar vb. doğal içeriklerle dermakozmetik cilt ve saç bakım ürünleri üretmektedir. Ürünlerini 50 ülkeye pazarlamaktadır.Bünyesindeki markalar;AcnevitAlpayaBiobalanceEpisivaForscarLipojenNurtigrow",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bonaiti",
+    "description": "Bonaiti, 1936 yılında kurulan Bonaiti Serrature S.p.A bünyesindeki iç kapı kilidi, kulp, menteşe, silindir ve diğer bileşenler markasıdır.Bonaiti Serrature S.p.A İtalya merkezlidir. Ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Rikar",
+    "description": "Rikar, 2004 yılında kurulan Rikar Gıda Tarım Ürünleri Ltd. Şti. bünyesinde üretilen kuruyemiş ve kuru meyve, fındık, fındık ezmesi, fındıklı krokant, püre ürünleri markasıdır.Rize merkezli firma bin 875 metrekarelik alanda fındık ezmesi üretmektedir.Bünyesindeki markalar;MaxinutNutygoldRikarTurkishella",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

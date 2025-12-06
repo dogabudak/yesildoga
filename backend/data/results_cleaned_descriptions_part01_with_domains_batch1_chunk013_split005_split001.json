@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kemal Kükrer",
+    "description": "Kemal Kükrer, 1915 yılında kurulan Kükre Gıda A.Ş. bünyesindeki sirke, turşu, salça, nar ekşisi ve sıvı soslar markasıdır.Eskişehir, İzmir ve Adana’daki fabrikalarda üretim yapan şirket 33 ülkeye ürünlerini ihraç ediyor.Kemal Kükrer markası 2017 yılında Ajinomoto gıda ve kimya şirketi tarafından satın alındı.1909 yılında kurulan Japonya merkezli Ajinomoto şirketi 30 ülkede faaliyet gösteriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Favori Fresh White Sensitive",
+    "description": "Favori Fresh White Sensitive, Yaşarlar Kozmetik A.Ş. bünyesindeki diş macunu markasıdır.Yaşarlar Kozmetik A.Ş. yerli sermayeli bir şirkettir.Yaşarlar Kozmetik A.Ş. markaları:Dentish Formula White Diş MacunuDentish Smart Kids Çocuk Diş MacunuDoal & Doal Ayak BakımFamily Prezervatif / CondomFavori + Plus Diş MacunuFavori Diş Macunu Aloe VeraFavori Fresh White Ağız Bakım SpreyiFavori Fresh White Diş Macunu Misvak ÖzlüFavori Fresh White Diş Macunu SpearmintFavori Fresh White Diş Parlatma TozuFavori Fresh White Diş Pastası AntitartarFavori Fresh White Diş Pastası SmokersFavori Fresh White Nane Aromalı Diş PastasıFavori Fresh White Sensitive Diş MacunuTüyo Tüy Dökücü",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sepe Natural Ülke",
+    "description": "Sepe Natural, 1964 yılında Kasım Girgin tarafından kurulan Sepe Natural Organik Ürünler San. ve Tic. A. Ş. bünyesindeki Arı Ürünleri, Gıda Takviyeleri, Sporcu Gıdaları, Bitki Çayları, Sabit ve Uçucu Bitki Yağları, Diğer Natürel Ürünler markasıdır.Firma 6 bin metrekare kapalı ve 800 metrekare açık alanda ürünlerini sıvı, likid, şurup, kapsül, tablet, toz, kavanoz, şişe formlarında üretmektedir.Yerli sermayeli firmanın ürünleri Amerika, Avrupa ve Arap ülkelerine ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Epinafol Sensitive",
+    "description": "2005 yılında kurulmuş olan SPC Kozmetik Yazılım San. ve Tic. Ltd. Şti. bünyesindeki diş macunu markasıdır.ISO 9001 ve ISO 22716 belgelerine sahiptir.Firma İstanbul merkezlidir. Kırklareli Lüleburgaz’da bulunan 2 bin 400 metrekarelik kapalı ve bin metrekarelik açık alana sahip tesisinde üretim yapmaktadır.Bünyesindeki markalar;CorexylEmmakEpinafol SensitiveMr. Fresh",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-09-23"
+  },
+  {
+    "company": "La Roche Posay",
+    "description": "La Roche Posay, yağlı ve akneli ciltler, hassas ve kızarıklığa eğilimli ciltler, leke karşıtı, makyaj temizleme ve cilt temizleme suları, nemlendirici, güneş ürünleri ve kuru ciltler için üretilen dermokozmetik bakım ürünleri markasıdır.La Roche Posay markası Fransa merkezli Loreal grubu bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2020-05-15"
+  }
+]

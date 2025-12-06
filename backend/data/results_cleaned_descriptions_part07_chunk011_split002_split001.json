@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Profitness Koşu Bandı",
+    "description": "Profitness, 1993 yılında kurulmuş olan Inter Spor Dış Tic. A.Ş. bünyesinde ithal edilen dikey bisiklet, koşu bandı, olmpic flanş, spin bike, step aleti, yatay bisiklet markasıdır.ISO 9001, ISO 14001, ISO 27001, OHSAS 18001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rojex",
+    "description": "Rojex, 1990 yılında kurulmuş olan Aslankaya Kimya ve Sağlık Ürünleri San. A.Ş. bünyesinde üretilen sabun markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Gaziantep merkezlidir ve ürünlerini 5. OSB’de bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sunco Çadır",
+    "description": "Sunco, 2014 yılında kurulmuş olan Startech Spor Malzemeleri İnşaat San. ve Tic. Ltd. Şti. bünyesinde ithal edilen çadır, kamp malzemeleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AthletiqAxutoBaby MiniatureDynaproEdco Ofis & Kırtasiye GereçleriEvafitPencoShinaroSmartigaSt StartechSuncoSunco Feel The Nature",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hultafors",
+    "description": "Hultafors, 1883 yılında kurulmuş olan Hultafors Group AB bünyesinde üretilen ölçme, işaretleme, kesme, çarpma ve tesviye ile gözetleme ve yıkım çubukları için çok çeşitli el aletleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Hultafors Group AB İsveç merkezlidir. Ürünlerini İsveç ve Avustralya’daki fabrikalarında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Dxc",
+    "description": "Dxc, 2017 yılında kurulmuş olan Dxc Technology Company bünyesindeki uçtan uca bilişim hizmetleri markasıdır.Dxc Technology Company Amerika merkezlidir ve 70 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Motorola",
+    "description": "Motorola, 1928 yılında kurulan, telekominikasyon alanında faaliyet gösteren ve Tablet bilgisayar, Cep telefonu ve Akıllı telefon üreten bir firmadır.Motorola, 2014 yılında Çin merkezli Lenovo tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Lenovo",
+    "description": "Lenovo, 1984 yılında Liu Chuanzhi tarafından kurulan uluslararası bilişim teknoloji şirketidir.Lenovo; akıllı telefon, masaüstü, sunucu, dizüstü ve tablet bilgisayar, netbook, el bilgisayarı, bilgisayar teknolojisi aksesuar ve donanımları, yazıcı, tarayıcı ve televizyon gibi ürünleri üreten Çin merkezli bir firmadır.Firmanın yükselişi IBM’in bilgisayar bölümünü satın almasından sonra olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gripin",
+    "description": "Gripin, 1931 yılında kurulmuş olan Gripin İlaç A.Ş. bünyesinde üretilen sağlık ürünleri markasıdır.Necip Akar Holding A.Ş. bünyesindeki şirket İstanbul merkezlidir. Ürünlerini 10 bin metrekarelik kapalı alana sahip fabrikasında üretmektedir.Bünyesindeki markalar;Gripal TabletGripinGrizincOponParacet Junior",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-08-16"
+  },
+  {
+    "company": "Max Mara",
+    "description": "Max Mara, 1951 yılında Achille Maramotti tarafından Confezioni Maramotti adıyla kurulan moda şirketidir.İtalyan şirketi Max Mara’yı kuran Maramotti, ailesinde bu alanla ilgili biri olmamasına rağmen İtalya’nın en başarılı moda şirketlerinden biri oldu.Bünyesindeki markalar:MarellaMarina RinaldiMax & Co.PennyblackSportmaxSportmax CodeWeekend Max MaraiBlues",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Palmer’s",
+    "description": "Palmer’s Hangi Ülkenin ÜrünüPalmer’s 1971 yılında kurulan kozmetik ürünleri markasıdır.Amerikan şirketi, ünlü cilt bakım markalarından biridir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-03-17"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Strecker",
+    "description": "Strecker, 1993 yılında kurulmuş olan August Strecker Gmbh & Co. Kg bünyesinde üretilen çivi, iletken, tel işleme teknolojisinde kullanılan ekipmanlar, tel, iletken işleme yan sanayi teknolojileri markasıdır.August Strecker Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Borthe Professional",
+    "description": "Borthe Professional, 2010 yılında kurulmuş olan Altınçağ Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen kozmetik ürünler markasıdır.ISO 9001, GMP belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 54 ülkeye ihraç etmektedir.Bünyesindeki markalar;Bi10dexBiofinBlackkoBorthe ProfessionalGrandImpalaNatulikaSeven PigmentsSortickSystem Colors",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jansben",
+    "description": "Jansben, Shenzhen Bubuda Weiye Technology Co. Ltd. bünyesinde üretilen bez çantalar, plaj çantaları, sırt çantaları markasıdır.Ürünlerinde hayvan derisi kullanılmamaktadır.Shenzhen Bubuda Weiye Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Engince",
+    "description": "Engince, 1985 yılında kurulmuş olan Engince Mobilya Tasarım İnşaat Tekstil Gıda San. ve Tic. A.Ş. bünyesindeki koltuk, köşe koltuk, yemek odası, yatak odası takımları, televizyon ünitesi ve outlet mobilya ürünleri, tablo, sehpalar, ayna, aydınlatma ürünleri, dresuar ve kitaplık markasıdır.Firma İstanbul merkezlidir. 15 mağazası ile faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Staleks",
+    "description": "Staleks, 1996 yılında kurulmuş olan Staleks LLC bünyesinde üretilen batık cımbızı, bebek tırnak bakım ürünleri, cımbız, el zımparaları, elektrikli zımpara makinesi, et pensi, freze uçları, kaş-bıyık alma aletleri, manikür pensesi, salon, makas ve ekipmanları, tırnak makası, tırnak törpüsü, topuk törpüsü markasıdır.Staleks LLC Ukrayna merkezlidir ve ürünlerini Ukrayna’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "MoneyGram",
+    "description": "MoneyGram, 1940 yılında kurulan MoneyGram International Inc. bünyesindeki uluslararası para transferi konusunda hizmet veren bir şirkettir. 200’den fazla ülke ve bölgede faaliyet göstermektedir.Banka hesabı gerekmeksizin kimlik ibrazı ile para gönderim ve ödeme işlemi gerçekleştirilir.MoneyGram International Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "TI Automotive",
+    "description": "TI Automotive, 1922 yılından beri TI Group bünyesinde hizmet veren otomotiv ürünleri, otomotiv sıvı sistemleri ve yakıt sistemleri markasıdır.Türkiye’de TI Otomotiv San. ve Tic. Ltd. Şti. olarak faaliyet gösterirken Kocaeli ve Bursa’da tesisleri bulunmaktadır.TI Automotive ofisi Amerika’da yer alırken TI Group İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Porçöz",
+    "description": "Porçöz, 1979 yılında Güngör ve Levent Pekşen tarafından kurulan Levent Kimya San ve Tic. A.Ş. kimyasal kireç temizleyici markasıdır.Levent Kimya ürün yelpazesi genel temizlik, kozmetik, bebek bezi, ıslak havlu ve kadın pedi ürünlerini içeriyor.Antalya OSB’de 35 bin metrekare alanda kurulu modern tesislerinde üretim yapmaktadır. 2002 yılında Rusya’da deterjan fabrikası kurmuştur.Ürünlerini başta Almanya olmak üzere Belçika, Hollanda, Polonya, Moldova, Beyaz Rusya, Rusya, Makedonya, Yunanistan, Gürcistan, KKTC, İsrail, İran, Irak, Filistin, Türkmenistan, Kırgızistan, Azarbeycan, Tacikistan, Fas, Moritanya, Kenya, Angola, Liberya ve Mozambik gibi ülkelere ihraç etmektedir.Levent Kimya bünyesindeki markalar:NixiPorçözYağçözKirçözPro-5Proprin",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kip",
+    "description": "Kip, 1978 yılında kurulan erkek giyim markasıdır. 1998 yılında Gürmen Group bünyesine geçti.1970’li yıllarda İngiltere’de kurulan Gürmen Group, üretimle birlikte 1980’li yıllarda Türkiye’ye taşınmıştır.Kastamonu ve Karabük yöresinde yer alan fabrikaları kapasite bakımından Avrupa’nın ilk 5 büyük üreticisi arasında.Gürmen Group, 25 ülkeye de ihracat yapıyor.Gürmen Group bünyesindeki markalar:RamseyKİP",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bee Beauty",
+    "description": "Bee Beauty, 2009 yılında kurulan Gratis İç ve Dış Tic. A.Ş. bünyesindeki saç bakım ürünleri, saç boyası, saç parfümü ve saç kremi, roll on, el kremi, el ve dudak bakım ürünleri markasıdır.Gratis İç ve Dış Tic. A.Ş.’nin yüzde 55 hissesi İngiltere merkezli Actera Group Limited’e geri kalan hisseler kurucu Demir Sabancı’ya ait Sedes İç ve Dış Tic. A.Ş.’nindir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2021-11-23"
+  }
+]

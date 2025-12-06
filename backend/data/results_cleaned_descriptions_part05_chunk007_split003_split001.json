@@ -1,0 +1,48 @@
+[
+  {
+    "company": "IODD",
+    "description": "IODD, Iodd Co. Ltd. bünyesinde üretilen USB 3.0 ve SATA için sabit disk sürücüsü kutusu ve şifrelemeli muhafaza, şifrelenmiş SSD sürücüleri markasıdır.Iodd Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Addlink",
+    "description": "Addlink, 2014 yılında kurulan Addlink Technology Corp. bünyesinde üretilen DRAM, Hafıza Kartı, Taşınabilir SSD, NAS SSD, SATA III SSD, USB Flash Sürücüler, Bellek Kartları ve USB Sürücüler (Tip-C, OTG) gibi bellek depolama ürünleri markasıdır.Addlink Technology Corp. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Apacer",
+    "description": "Apacer, 1997 yılında kurulan Apacer Technology Inc. bünyesinde üretilen, SSD’ler ve DRAM dahil endüstriyel ürünler, hafıza kartı, usb flash sürücü, taşınabilir sabit sürücü, güç bankası, müzik çalar, kablo ve adaptör, hub ve kart okuyucu dahil tüketici ürünleri, cep telefonu aksesuarları markasıdır.Apacer Technology Inc. Tayvan merkezlidir. Üretim tesisleri Tayvan, Çin ve Hindistan’da bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Poppy Çöp Torbası",
+    "description": "Poppy, 1989 yılında kurulan Çağlayan Dekorasyon ve Plastik Ambalaj İnş. San. Tic. Ltd. Şti. bünyesinde üretilen alüminyum folyo, aluminyum kaplar, hijyen grubu, köpük kaplar, kristal kase, pişirme kağıdı, plastik çatal, kaşık, bıçak, plastik kristal bardak, tabak, plastik veya tahta karıştırıcı, poşetler, streç filmler, temizlik ürünleri markasıdır.Ürünlerini Afyonkarahisar OSB’de 7 bin metrekarelik alanda bulunan 5 bin 800 metrekarelik kapalı alanda üretmektedir.ISO 9001 ve ISO 22000 belgelerne sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dynabook",
+    "description": "Dynabook, 1954 yılında kurulan Dynabook Inc. bünyesindeki kişisel bilgisayarlar, dizüstü bilgisayarlar, dizüstü bilgisayarlar, tablet bilgisayarlar, mini bilgisayarlar markasıdır.Dynabook Inc., Japonya merkezli Sharp Corporation’un bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

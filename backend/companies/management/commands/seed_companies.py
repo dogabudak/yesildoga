@@ -17,8 +17,8 @@ class Command(BaseCommand):
         parser.add_argument(
             '--directory',
             type=str,
-            help='Path to directory containing JSON data files (default: ../data/chunked)',
-            default='../data/chunked'
+            help='Path to directory containing JSON data files (default: data/sanitized)',
+            default='data/sanitized'
         )
         parser.add_argument(
             '--clear',
@@ -118,15 +118,27 @@ class Command(BaseCommand):
                         error_count += 1
                         continue
                     
-                    # Domain is optional - use None if not present or empty
-                    domain = company_data.get('domain', '').strip() if company_data.get('domain') else None
+                    # Handle domains - can be a single domain string or comma-separated list
+                    domain_input = company_data.get('domain', '')
+                    domains_list = []
                     
-                    # Check if company exists - by domain if available, otherwise by company name
-                    if domain:
-                        existing_company = Company.objects.filter(domain__iexact=domain).first()
+                    if domain_input:
+                        if isinstance(domain_input, str):
+                            # Split by comma and clean up
+                            domains_list = [d.strip() for d in domain_input.split(',') if d.strip()]
+                        elif isinstance(domain_input, list):
+                            domains_list = [d.strip() for d in domain_input if d.strip()]
+                    
+                    # Check if company exists - by any of the domains if available, otherwise by company name
+                    existing_company = None
+                    if domains_list:
+                        for domain in domains_list:
+                            existing_company = Company.find_by_domain(domain)
+                            if existing_company:
+                                break
                     else:
-                        # If no domain, use company name for uniqueness check
-                        existing_company = Company.objects.filter(company__iexact=company_name).filter(domain__isnull=True).first()
+                        # If no domains, use company name for uniqueness check
+                        existing_company = Company.objects.filter(company__iexact=company_name, domains=[]).first()
                     
                     # Prepare description as JSON
                     description_text = company_data.get('description', '')
@@ -151,14 +163,14 @@ class Command(BaseCommand):
                             # Track skipped company for report
                             skipped_companies.append({
                                 'company': company_name,
-                                'domain': domain,
+                                'domains': domains_list,
                                 'reason': 'Already exists in database'
                             })
                         continue
                     
                     # Prepare new company for batch creation
                     company = Company(
-                        domain=domain,
+                        domains=domains_list,
                         company=company_name,
                         carbon_neutral=company_data.get('carbon_neutral', False),
                         renewable_share_percent=company_data.get('renewable_share_percent'),
@@ -181,9 +193,9 @@ class Command(BaseCommand):
                 
                 except Exception as e:
                     company_name = company_data.get("company", "N/A")
-                    domain_val = company_data.get("domain", "N/A")
+                    domains_val = company_data.get("domain", "N/A")
                     self.stdout.write(
-                        self.style.ERROR(f'Error processing record {i+1} (Company: {company_name}, Domain: {domain_val}): {e}')
+                        self.style.ERROR(f'Error processing record {i+1} (Company: {company_name}, Domains: {domains_val}): {e}')
                     )
                     error_count += 1
                     continue

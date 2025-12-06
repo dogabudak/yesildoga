@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Donaldson P553000",
+    "description": "Donaldson, 1915 yılında Frank Donaldson tarafından kurulan Donaldson Company Inc. bünyesindeki hava ve yağ filtreleri markasıdır.Ticari/endüstriyel (motorlar, egzozlar, şanzımanlar, özel araçlardaki menfezler, hidrolik), havacılık (helikopterler, uçaklar), kimyasal, alternatif enerji (yel değirmenleri) ve farmasötikler dahil olmak üzere çeşitli endüstri sektörlerinde kullanılan hava filtrelerinin üretimi ve pazarlaması ile uğraşan dikey entegre bir filtrasyon şirketidir.Donaldson Company Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Skyworth Auto",
+    "description": "Skyworth Auto, 1988 yılında Huang Hongsheng ve Stephen Wong tarafından kurulan Skyworth Group Co. Ltd. bünyesinde üretilen elektrikli binek araçlar markasıdır.Skyworth Group Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Robx",
+    "description": "Robx, 2011 yılında kurulan Zamane Elektronik Bilişim İth. İhr. San. ve Tic. Ltd. Şti. tarafından ithal edilen kablosuz ve robot süpürgeler markasıdır.ISO 9001 ve ISO 10002 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-03-03"
+  },
+  {
+    "company": "Überwood",
+    "description": "Überwood, 1990 yılında kurulan Gebrüder Ewald Gmbh bünyesinde üretilen cilt ve saç bakım ürünleri markasıdır.Firma saç bakım ürünleri, perma ürünleri, saç boyaları, ağartma tozları, losyonlar, emülsiyonlar ve sulu çözeltiler, arıtma yağları, alkollü müstahzarlar ve kokulu sular, temizlik maddeleri üretmektedir.Gebrüder Ewald Gmbh Almanya merkezlidir. Ürünlerini 20 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Body Boom",
+    "description": "Body Boom, 2015 yılında kurulan Xrocket Sp. z o.o. bünyesinde üretilen kozmetik ve vücut ürünleri markasıdır.Seçilmiş organik kahve, çikolata, doğal yağlar, tuz, vitaminler gibi bileşenlerden üretilmektedir. SLS, mineral yağlar ve hayvansal katkılar kullanılmamaktadır. Ürünleri hayvanlar üzerinde test edilmemektedir. ISO 9001, ISO 14001 belgelerine sahiptir.Xrocket Sp. z o.o. Polonya merkezlidir. Ürünlerini 14 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

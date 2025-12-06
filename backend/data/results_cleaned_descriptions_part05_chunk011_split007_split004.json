@@ -1,0 +1,47 @@
+[
+  {
+    "company": "ABL",
+    "description": "ABL, 1925 yılında Albert Büttner tarafından kurulan Abl Gmbh bünyesinde üretilen elektrik fişleri, bağlantı ve e-mobilite ürünleri markasıdır.Abl Gmbh, Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Alde Isıstma Sistemleri",
+    "description": "Alde Isıstma Sistemleri Hangi Ülkenin Malı MarkasıdırAlde, 1949 yılında Alde Rask tarafından kurulan Alde International Systems AB bünyesinde üretilen karavanlar için ısıtma sistemleri markasıdır.ISO 9001 belgesine sahiptir.Alde International Systems AB İsveç merkezlidir ve ürünlerini İsveç’te üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Masimo",
+    "description": "Masimo, 1989 yılında Joe E. Kiani tarafından kurulan Masimo Corporation bünyesindeki tıbbi cihazlar markasıdır.Dünya çapında invaziv olmayan izleme teknolojileri geliştirip üretmektedir.Masimo Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mr.Bilo",
+    "description": "Mr.Bilo, 2019 yılında kurulan M J Alliance Cips Ürünleri Gıda İthalat İhracat San. ve Tic. Ltd. Şti. bünyesinde üretilen patates cipsleri markasıdır.MJ şirketi, Suriye’de cips üretiminde tecrübesi bulunan köklü şirketlerden biri olarak kabul edilmektedir. Suriye dışında, Türkiye, ondan fazla Arap ülkesi, Avrupa, Amerika ve Kanada’da faaliyet göstermektedir.Firma Türkiye’de Gaziantep’te üretim yapmaktadır.Bünyesindeki markalar;Bafi Chips Rich And TastyBafi CipsEmoji SnacksHiluxMr. Bilo Super TatMr.BiloPatixo ChipsQuiklyÜç D SmilecipsXo Chips Xo Cips",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Eurolux Ev Aletleri",
+    "description": "Eurolux, 1991 yılında kurulan Eurolux Ltd Society With Limited Liability bünyesinde üretilen elektrikli ev aletleri, ses, görüntü ürünleri, mutfak aletleri, klima, elektrikli fırın, küçük ev aletleri, bahçe ürünleri, ütü, sağlık ve güzellik aletleri markasıdır.Eurolux Ltd Society With Limited Liability Azerbaycan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  }
+]

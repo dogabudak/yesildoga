@@ -1,0 +1,44 @@
+[
+  {
+    "company": "AirBnB",
+    "description": "AirBnB, 2008 yılında Brian Chesky, Joe Gebbia ve Nathan Blecharczyk tarafından kurulan dünyanın her yerinde insanlarla konaklanacak yerleri ve yapılacak şeyleri birbirine bağlayan sitedir.Topluluk gücünü misafirlerine yerel halktan biri gibi seyahat etme gibi benzersiz bir olanak sağlayan ev sahiplerinden alır.Ekstra bir oda, evin tamamı veya uzmanlığa sahipseniz bunu dünyadaki herhangi biriyle paylaşarak para kazanabilirsiniz. Evinize, etkinliğinize ev sahipliği yapabilir veya ikisini birden yapabilirsiniz.Airbnb Inc 2019 yılında Amerika merkezli Booking Holdings Inc. bünyesindeki Hotel Tonight, Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tribe",
+    "description": "Tribe, 2008 yılında kurulan Maikii srl. bünyesindeki, çeşitli film karakterlerini içeren USB bellek, Kulaklık, Araç şarj cihazı, Kapak, Kablo, Güç Bankası, Hoparlör ve Mini anahtarlık fenerler markasıdır.Maikii şirketi lisansını aldığı Harry Potter, Star Wars, DC Comics, Disney, Game of Thrones, Hello Kitty, I Puffi, Marvel, Minions, Pixar, Vespa’ya ait karakterlerin PVC’den yapılan üç boyutlu ürünlerine sahiptir.Maikii srl. İtalya merkezli bir şirkettir. Ürünlerini Hong Kong’ta üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Sumitomo Rubber",
+    "description": "Sumitomo Rubber, 1909 yılında kurulan Sumitomo Rubber Industries, Ltd. bünyesindeki lastik markasıdır.Şirket, geniş bir yelpazede otomobil lastikleri, golf topları ve tenis topları dahil olmak üzere kauçuk bazlı ürünler üretir. Japonya merkezli Sumitomo Group’un bir parçasıdır.Türkiye’de Sumitomo Rubber AKO Lastik San. ve Tic. A.Ş. olarak faaliyet göstermektedir. Türkiye fabrikası yarı yarıya Türk ve Japon ortaklığındadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Rolwal",
+    "description": "Rolwal, 1990 yılında kurulan Zhejiang Lewei Pumps Industry Co.,Ltd bünyesindeki bakım onarım aletleri, su pompaları ve kaynak makineleri markasıdır.Zhejiang Lewei Pumps Industry Co.,Ltd Çin merkezli bir şirkettir ve Çin’de ürettiği ürünleri, Orta Doğu, Güneydoğu Asya, Avrupa, Afrika, Güney Amerika gibi ülkelere ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wolter",
+    "description": "Wolter, 2014 yılında TN Group bünyesinde kurulan Esmac Asia Co., Ltd şirketine ait Wolter Ventilation Co.,Ltd. tarafından üretilen elektrik motoru, iletim cihazı, su pompası, çevirici, endüstriyel fan markasıdır.TN Group Tayland merkezli bir şirkettir. Grubun bünyesinde yer alan şirketler:EnvotechEsmac AsiaEuroventJ-WashT.N. MetalworksTN Group CorporationTN World SupplyVENZ ElectricVENZ IndustrialVENZ ManufacturingWolter",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": "2019-12-22"
+  }
+]

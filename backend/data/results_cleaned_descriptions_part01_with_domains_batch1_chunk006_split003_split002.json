@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Calzedonia",
+    "description": "Calzedonia 1987 yılında Sandro Veronesi tarafından kurulan iç giyim, plaj ürünleri ve çorap markasıdır.İtalyan CALZEDONIA SpA’nın, dünya çapında; İtalya, Avusturya, Kıbrıs, Hırvatistan, Çek Cumhuriyeti, Yunanistan, Macaristan, Meksika, Polonya, Portekiz, Rusya Federasyonu, Sırbistan, Slovenya, İspanya, İsveç, Türkiye, Fransa, Makedonya, Karadağ, İngiltere, Slovak Cumhuriyeti, Romanya, Almanya ve Belçika gibi ülkelerde 2 bin adet mağazası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Sarar",
+    "description": "Sarar, 1944 yılında Abdurrahman Sarar tarafından kurulan giyim markasıdır.Üretiminin yüzde 40’ını ABD, Rusya ve Lübnan gibi 28 ülkeye ihraç etmektedir. 5 kıta ve 55 ülkede olmak üzere yurt dışında 80 şehirde, Türkiye’de ise 75 şehirde 180’den fazla Sarar mağazası ile hizmet veriyor.Sarar, üretimlerinde pamuk hammadde üzerine çalışmaktadır.Türk markası Sarar’ın tekstil dışı yatırımları bulunuyor.2001 yılından beri Hyundai binek ve hafif ticari araçların yetkili bayisi ve yedek parça servis istasyonu olarak bayilik faaliyetleri yürütüyor.1997 yılından beri Toyota marka binek ve hafif ticari araçların yetkili bayisi ve yedek parça servis istasyonları olarak hizmet vermektedir.Sarar Sigorta 1995 yılından beri sigorta şirketlerinin acentesi olarak faaliyet göstermektedir.Sarar Bilişim, İletişim ve İşletim Sistemleri bilgisayar donanımı, telefon ve santral cihazlarının satış ve teknik servisi olarak, faaliyetlerine devam etmektedir.Sarar’ın ev tekstili markası olan Sarev, 2005 yılında sektöre giriş yaptı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Converse",
+    "description": "Converse, 1908 yılında Marquis M. Converse tarafından kurulan ayakkabı üreticisi markasıdır.Converse 2003 yılından beri Amerikan Nike bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Esprit",
+    "description": "Esprit, 1968 yılında Amerikalı girişimci Douglas Tompkins ve Susie Tompkins Buell tarafından kurulan giyim ve aksesuar markasıdır. Gurup ürünlerini Esprit ve EDC markasıyla pazarlamaktadır.Amerikalı Esprit, aksesuar gurubunda yer alan gözlük koleksiyonları Charmant Grubu tarafından üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Under Armour",
+    "description": "Under Armour, 1996 yılında Kevin Plank tarafından kurulan spor ürünleri, ayakkabı ve aksesuarları markasıdır.Under Armour, Türkiye’de Doğuş Perakende Grubu bünyesinde 20 mağaza ile faaliyet gösteriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

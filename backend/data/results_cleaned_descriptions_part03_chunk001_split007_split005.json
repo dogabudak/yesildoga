@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Netis",
+    "description": "Netis, 2000 yılında Netcore Grup’a bağlı kurulan Netis Systems Co. Ltd. bünyesindeki ağ ürünleri ve çözümleri markasıdır.Kablosuz router, kablosuz adaptör, switch, DSL router, ağ adaptörü, kablolu ve kablosuz bilgisayar kartları gibi ürünleri içerir.Netis Systems Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Garanti Süt Ürünleri",
+    "description": "Garanti Süt Ürünleri, 1995 yılında Fatma Sibel tarafından kurulan peynir markasıdır.Fabrikasında günlük hellim, taze nor, talar peyniri üretilmektedir. Hellim ve Talar Kıbrıs adasına özgü peynir çeşididir.Garanti Süt Ürünleri KKTC merkezlidir ve ürünlerini Kıbrıs’ta üretmektedir.Hellim coğrafi işaret tescil belgesi, İso 9001 ve İso 22000 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "İSO 22000",
+      "İSO 9001"
+    ],
+    "parent": null,
+    "origin": "Northern Cyprus",
+    "updated_date": "2020-05-16"
+  },
+  {
+    "company": "Fenix",
+    "description": "Fenix, 2009 yılında kurulan Kanallar Elektrik Makinaları San. ve Tic. Ltd. Şti. bünyesindeki rulman montajı için her ağırlık ve ölçüye uygun İnduksiyonlu ısıtma cihazları ve Rulman çakma setleri markasıdır.FeniX rulman ısıtıcıları kontrollü ve homojen bir ısıtma sağlayarak yanlış montaj ihtimalini ortadan kaldırmaktadır.Yerli bir markadır. Türkiye dağıtıcısı Endaş A.Ş.’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "A.Testoni",
+    "description": "A.Testoni Hangi Ülkenin Malı MarkasıA.Testoni, 1929 yılında Amedeo Testoni tarafından kurulan A.Testoni S.P.A. bünyesindeki ayakkabı ve aksesuar ürünleri markasıdır.A.Testoni S.P.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bowlingo & Playpark",
+    "description": "Bowlingo & Playpark, 2009 yılında M. Fatih Keçebir tarafından kuruldu. Bowlingo markasıyla bowling salonu işletmeleri, Playpark markasıyla çocuk eğlence merkezleri bulunmaktadır.Bowlingo & Playpark çok sayıda ülkede çok sayıda şubesiyle faaliyet göstermektedir.Bowling salonları profesyonel ve amatör amaçla bowling oynamaya gelen müşterilere hizmet vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

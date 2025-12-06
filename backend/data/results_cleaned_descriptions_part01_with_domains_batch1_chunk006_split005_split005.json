@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Parrot Boya",
+    "description": "Parrot, 2004 yılında kurulan Menderes Boya ve Kimya Sanayi tarafından üretilen markadır.İzmir Kemalpaşa Organize Sanayi Bölgesi’nde yıllık 15 bin ton kapasiteli tesislerde su ve solvent bazlı inşaat boyaları, Ahşap koruyucular, Sanayi boyaları, Yapı kimyasalları, PVC yapıştırıcıları ve Kontakt yapıştırıcılar üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Buderus",
+    "description": "Buderus, 1731 yılında Johann Wilhelm Buderus tarafından kuruldu.Alman termoteknoloji markası Buderus, mükemmel bir iç ortam havası için ısıtma, soğutma ve havalandırma sistemleri sunmaktadır.2015 yılından itibaren Buderus Edelstahl GmbH doğrudan stok ve satış hizmetleriyle Türkiye’de faaliyetlerine başladı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Myfix",
+    "description": "Myfix, 2009 yılında faaliyete başlayan Aras Tekstil bünyesinde bulunan bebek bezi markasıdır. Firmanın ayrıca Babyfix markalı çocuk bezi ürünleri bulunmaktadır.Aras Tekstil satışları ihracat odaklı olup, ürünleri 3 kıtada 9 farklı ülkede satılmaktadır.Firmanın fason üretim markaları:NiceMiss BabyLove Mam",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polonez",
+    "description": "Polonez, 1960 yılında kurulmuş olan Trakya Et ve Süt Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen şarküteri ürünleri markasıdır.Şirketin tek kontrolü 2021 yılında Suudi Tarek Omar Abdul Fattah Aggad’in sahibi olduğu Lübnan merkezli Arab Palestinian Investment Company iştiraki Siniora Food and Manufacturing PLC tarafından devralınmıştır. İstanbul Çatalca’da 5 bin metrekarelik kapalı alanda üretim yapmaktadır.Bünyesindeki markalar;AlmasaBadeelPolonezSinioraUnium",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JO",
+    "updated_date": "2024-10-02"
+  },
+  {
+    "company": "Yayla",
+    "description": "Yayla, 1983 yılında Durukan Gıda adıyla kurulan günümüzde Yayla Agro Gıda Sanayi ve Nakliyat A.Ş. bünyesinde bulunan bir markadır.Çevreye zararlı olan hiçbir atık üretmeyen Türkiye’deki tesislerinde üretilen ürünleri yurt içi pazarında 65 ilde bayilik ağı ile müşlerine sunmaktadır.Mercimek ürünleri Kanada’dan ithaldir.Firmanın bünyesindeki markalar:YaylaAla ÇiftçiYunusİri Danem",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

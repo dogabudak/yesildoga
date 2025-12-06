@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Fitmin",
+    "description": "Fitmin1998 yılında kurulmuş olan Plegi s.r.o. bünyesindeki köpek, kedi ve at yemleri, takviyeler, doğal ikramlar ve atıştırmalıklar markasıdır.ISO 22000 ve HACCP belgelerine sahiptir.PLEGI s.r.o. Çek Cumhuriyeti merkezlidir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Petsiva",
+    "description": "Petsiva2018 yılında kurulmuş olan Petsiva Evcil Hayvan Ürünleri Tic. Ltd. Şti. bünyesindeki hayvan ürünleri toptan satış sitesi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doğan Müzik Yapım",
+    "description": "DMC2000 yılında kurulmuş olan Doğan Müzik Yapım ve Tic. A.Ş. bünyesindeki albümlerin tüm dağıtım ve pazarlama faaliyetlerini gerçekleştirmektedir.2024 yılında şirketin tüm hisselerini Fransa merkezli Believe SA satın almıştır. Şirket 50’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Yaşar Holding Ülkeye Aittir",
+    "description": "Yaşar Holding1945 yılında Yaşar Holding A.Ş. kurulmuştur.Gıda, içecek, boya, tarım, turizm, temizlik kağıdı, dış ticaret, bilgi teknolojileri ve enerji gibi sektörlerde varlığını sürdürmektedir.İzmir merkezli Holding Yaşar Ailesine aittir. 20’den fazla şirkete 25 fabrika ve tesise sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": "Yaşar Holding Hangi Ülkeye Aittir Sahibi Kimdir :",
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "CCI",
+    "description": "CCICoca-Cola İçecek A.Ş. (CCI) 2002 yılında kurulmuş olan çok uluslu bir içecek şirketidir.The Coca-Cola Company’nin markalarını üretir, dağıtır ve satar.Ürün yelpazesinde köpüklü içecekler, meyve suyu, su, spor ve enerji içecekleri, buzlu çay ve kahve yer almaktadır.12 ülkede toplam 33 şişeleme tesisine ve 3 meyve işleme tesisine sahiptir.Hissedarları:Anadolu Efes Biracılık ve Malt San. A.Ş. (yüzde 40,1)The Coca-Cola Export Corporation (yüzde 20)Efes Pazarlama ve Dağıtım Tic. A.Ş. (yüzde 10,1)Diğer (yüzde 29,6)Bünyesindeki markalar;321 Başla!321 Move!CciCcı’mflexCcicoinCcinextCcinextcoinCcı Next TalentDamla BursaDamla KöyceğizEarnxGururlu 100’lerNextcoinNext TalentPanzerPeople In ActionProud 100’sTurbo",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

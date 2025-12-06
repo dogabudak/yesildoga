@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Triderma",
+    "description": "Triderma, 1992 yılında kurulan Genuine Virgin Aloe Corp. bünyesinde üretilen cilt bakım kremleri, bebe losyonları, el dezenfektanı markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir ve ürünlerde paraben, kortizon veya steroid kullanılmamaktadır.Genuine Virgin Aloe Corp. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Shay and Blue",
+    "description": "Shay and Blue, 2012 yılında Dom De Vetta tarafından kurulan Shay & Blue Ltd. bünyesinde üretilen parfüm markasıdır.Bitki bazlı üretilen ürünleri hayvanlar üzerinde test edilmemektedir. Peta belgesine sahiptir.Shay & Blue Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Renpure",
+    "description": "Renpure, Marc Anthony Venere tarafından kurulan MAV Beauty Brands Company bünyesindeki saç ve vücut bakım ürünleri markasıdır.Ürün yelpazesinde; şampuan, saç kremi, saç şekillendirme ürünleri, vücut yıkama ve el losyonu, saç bakımı ve güzellik ürünleri yer alır. Renpure şişeleri yüzde 100 geri dönüştürülebilir.MAV Beauty Brands Company Kanada merkezlidir. Ürünleri 35’ten fazla ülkeye pazarlanmaktadır.Bünyesindeki markalarCake BeautyMane ChoiceMarc Anthony True ProfessionalRenpure",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Mommy’s Bliss",
+    "description": "Mommy’s Bliss, 1999 yılında Roshan Kaderali tarafından kurulan Mommy’s Bliss Inc. bünyesinde üretilen bebek ürünleri markasıdır.Mommy’s Bliss Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dermablend Professional",
+    "description": "Dermablend Professional, 1909 yılında kurulan Loreal Group bünyesindeki yüz ve vücut makyaj ürünleri markasıdır.Fondöten, kapatıcı, ayar tozları ve makyaj temizleyicileri gibi ürünlere sahiptir.Fransa merkezli Loreal Group’un başlıca hissedarlarından Françoise Bettencourt Meyers’in yüzde 33 hissesi, İsviçre merkezli Nestle SA’nın yüzde 23,29 oranında hissesi vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

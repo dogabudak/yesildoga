@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Greentech Easy Technology",
+    "description": "“Greentech“2009 yılında kurulmuş olan Greentech Bilişim Tic. ve San. Ltd. Şti. bünyesinde ithal edilen bilgisayar ve akıllı telefon aksesuarları, araç kamerası, IP kamera, su arıtıcı ve hava temizleme cihazları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Niceuc",
+    "description": "“Niceuc“2000 yılında kurulmuş olan Shenzhen Niceuc Communication Technology Co. Ltd. bünyesinde üretilen iletişim cihazları ve hizmetleri, sanal operatörler, NGN sistem entegratörleri ve özel amaçlı üreticiler için bağımsız fikri mülkiyete sahip çözümler markasıdır.Shenzhen Niceuc Communication Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Madamra",
+    "description": "“Madamra“2020 yılında kurulmuş olan Madamra Tekstil ve Deri Ürünleri San. Tic. Ltd. Şti. bünyesindeki çantalar, kadın ayakkabı, kadın giyim, aksesuarlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Noklead",
+    "description": "“Noklead“Shenzhen Qianhai Noklead Technology Co. Ltd. bünyesindeki dijital led saat, dijital masa saati , fm radyo çalar saat, nem ölçer, oda termometresi, sıcaklık monitörü, wifi hava istasyonu markasıdır.Shenzhen Qianhai Noklead Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Debika",
+    "description": "“Debika“2000 yılında kurulmuş olan Debika Corporation bünyesindeki sanat ve el sanatları ürünleri, kaligrafi ürünleri, öğretim yardımcıları, eğitici oyuncaklar, sabit ürünler, kırtasiye malzemeleri markasıdır.Debika Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

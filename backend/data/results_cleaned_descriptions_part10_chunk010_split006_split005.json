@@ -1,0 +1,44 @@
+[
+  {
+    "company": "D’Poir Beaute",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Idea",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fain Flavour",
+    "description": "2019 yılında kurulmuş olan Balance Gıda Üretim Dağıtım Pazarlama Organizasyon Ltd. Şti. bünyesindeki kahve sektörü için şurup ve tatlar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sketchfab",
+    "description": "2012 yılında kurulmuş olan Sketchfab Inc. bünyesindeki 3d görselleştirme, sanal gerçeklik, vr, 3d İçerik, artırılmış gerçeklik, ar ve hologramlar oluşturma platformu markasıdır.Çevrimiçi olarak 3B içerik yayınlama ve bulmayı kolaylaştırır.Sketchfab Inc. 2021 yılında Amerika merkezli Epic Games Inc. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Benewake",
+    "description": "2015 yılında kurulmuş olan Benewake Co. Ltd. bünyesindeki lidar sensörler markasıdır.Ürünleri robotik, otomotiv, akıllı şehirler ve tarım gibi çeşitli alanlarda kullanılır.Benewake Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 90’dan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

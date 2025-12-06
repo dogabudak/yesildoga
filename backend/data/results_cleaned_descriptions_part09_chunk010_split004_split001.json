@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Dripesso",
+    "description": "“Dripesso“2017 yılında kurulmuş olan Cahve Gıda San. ve Tic. A.Ş. bünyesindeki pratik filtre kahveler, filtre kağıtları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Teverun",
+    "description": "“Teverun“2017 yılında kurulmuş olan Ningbo Teverun Technology Co. Ltd. bünyesindeki elektrikli scooter, elektrikli mobilite, e-scooter markasıdır.Ningbo Teverun Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Almera Priz",
+    "description": "“Almera“2002 yılında kurulmuş olan Almera Elektrik San. ve Tic. A.Ş. bünyesinde üretilen modern anahtar, priz serileri, grup priz, aksesuarlar ve sigortalar markasıdır.TSE, CE, ISO 9001 belgelerine sahiptir.Firma İstanbul merkezlidir ve üretiminin yüzde 60’ını ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Diwoom",
+    "description": "“Diwoom“2007 yılında kurulmuş olan Shenzhen Divoom Technology Co. Ltd. bünyesindeki bluetooth hoparlör, hoparlör, led hoparlör, led paneller markasıdır.Shenzhen Divoom Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Guardant Health",
+    "description": "“Guardant Health“2012 yılında Helmy Eltoukhy ve AmirAli Talasaz tarafından kurulmuş olan Guardant Health Inc. bünyesinde üretilen sıvı biyopsi testleri markasıdır.Guardant Health Inc. Amerika merkezlidir.Hissedarları:Softbank Vision Fund Aiv M1 LP (yüzde 20,99)Svf Bluebird Cayman Ltd. (yüzde 17,13)Vanguard Group Inc. (yüzde 9,46)Blackrock Inc. (yüzde 9,13)Baillie Gifford Co. (yüzde 4,95)Amirali Talasaz (yüzde 4,77)Deep Track Capital LP (yüzde 3,66)Capital International Investors (yüzde 3,63)Eventide Asset Management LLC (yüzde 3,06)Temasek Holdings Private Ltd. (yüzde 3,05)Wellington Management Group LLP (yüzde 2,85)Citadel Advisors LLC (yüzde 2,68)Ubs Am A Distinct Business Unit Of Ubs Asset Management Americas LLC (yüzde 2,63)Ubs Asset Management Americas LLC (yüzde 2,63)Cadian Capital Management LP (yüzde 2,55)Fmr LLC (yüzde 2,54)Braidwell LP (yüzde 2,28)Parkwood LLC (yüzde 2,28)Geode Capital Management LLC (yüzde 2,27)State Street Corp. (yüzde 2,24)Helmy Eltoukhy (yüzde 2,24)Lightspeed Ultimate General Partner Select Ltd. (yüzde 2,11)Millennium Management LLC (yüzde 1,74)Fil Ltd. (yüzde 1,68)Softbank Group Capital Ltd. (yüzde 1,65)",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Miele",
+    "description": "Miele, 1899 yılında Carl Miele ve Reinhard Zinkann tarafından kurulan mutfak, çamaşır ve yer bakımı için ev aletleri ile sanayi işletmeleri için üretilen aletler ve tıbbi cihazlar markasıdır.Alman Miele kurulduğundan beri bağımsız bir aile şirketidir. Ürünleri 47 ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Blaupunkt",
+    "description": "Blaupunkt, 1924 yılında kurulmuştur. Blaupunkt, Talisman Brands S.A.R.L bünyesinde tüketici elektroniği, ev aletleri, araç multimedya ve marka ruhsatlandırma olarak kullanılmaktadır.2009 yılında lisanslama modeline geçmiştir. Dünya çapında 50’den fazla lisans sahibi, ev aletleri, yenilenebilir enerji ve e-mobilite gibi konularda Blaupunkt markasıyla ürünler üretmekte ve piyasaya sürmektedir.Talisman Brands S.A.R.L Lüksemburg merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": "2024-02-20"
+  },
+  {
+    "company": "Hugglo",
+    "description": "Hugglo, 2013 yılında kurulan; şampuan, bebek şampuan, bebek bezi, bebek kolonyası, bebek losyonu, bebek yağı, bulaşık deterjanı, cam temizleyici, duş jeli, ıslak mendil, lux bulaşik deterjanı, prestige sıvı sabun, renkli deterjanı, siyah deterjanı, sıvı sabun, yüzey temizleyici, yetişkin bezi, yumuşatıcı ürünleri üreten Mis Sağlık Ürünleri Tekstil San. Tic. Ltd. Şti bünyesindeki bebek ürünleri ve aksesuarlar, temizlik kozmetik hijyen, medikal ürünler markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Spotify",
+    "description": "Spotify, 2006 yılında Daniel Ek ve Martin Lorentzon tarafından kurulan bir müzik veri akışı servisidir.İsveç merkezli Spotify, AB bünyesindeki bir ekip tarafından geliştirilmektedir.Müzik veri akış servisine; Windows, Mac OS X, iOS, Linux işletim sistemleri bulunan bilgisayarlar ile Android, Symbian, Windows Mobile, S60 ve webOS işletim sistemleri bulunan taşınabilir aygıtlar üzerinden erişilebilir.Ücretli ve ücresiz hizmetleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Telefunken",
+    "description": "Telefunken, 1903 yılında AEG ve Siemens & Halske’nin iştiraki olarak kuruldu. 2006 yılında Telefunken markalı ürün üretimi sonlandırıldı.Telefunken Licences GmBH şirketi bünyesinde bulunan Telefunken markasının hakkını uzun yıllardır Vestel almış durumda. Vestel fabrikasında ürettiği elektronik ürünleri Türkiye ve çok sayıda ülkede Telefunken markasıyla satıyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kaine",
+    "description": "Kaine, Kaine Inc. bünyesinde üretilen cilt bakım ve güneş ürünleri markasıdır.Ürünleri doğal içeriklidir ve hayvanlar üzerinde test edilmemektedir. Ürünlerinde sadece kullanılmış ve geri dönüştürülmüş plastiklerden ve yeniden işlenmiş camlardan üretilen PCR ambalajını kullanır.Kaine Inc. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Puire Professional",
+    "description": "Puire Professional, 2019 yılında kurulmuş olan Plan C Endüstriyel Kim. Koz. Ltd. Şti. bünyesinde üretilen şampuan, saç maskesi, saç bakım kremi markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Amit Wireless",
+    "description": "Amit Wireless, 1998 yılında kurulmuş olan Amit Wireless Inc. bünyesindeki kablosuz WAN, LAN, endüstriyel M2M-IoT yönlendirici veya ağ geçidi ürünleri markasıdır.Multimedya ile Wi-Fi ve 3/4G hücresel tabanlı gömülü kablosuz ağ sistemi tasarlar.Amit Wireless Inc. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Pomati",
+    "description": "Pomati, 1967 yılında kurulmuş olan Pomati Group S.r.l. bünyesinde üretilen çikolata işleme makineleri ve aksesuarları, temperleme makinesi, tek atış depozitörü markasıdır.Firma çikolata üretimi için işleme makineleri ve aksesuarları sunmaktadır.Pomati Group S.r.l. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Naoned Eyewear",
+    "description": "Naoned Eyewear, 1999 yılında Jean-Philippe Douis tarafından kurulmuş olan Naoned Eyewear SAS bünyesinde üretilen gözlük markasıdır.Kaba plastik yerine ahşap veya pamuk selülozdan elde edilen bir malzeme olan selüloz asetat kullanmaktadır.Metal çerçeveleri geleneksel gözlük optik alaşımlarından; nikel gümüş, monel, bronz ve hipoalerjenik vernikle işlenir.Naoned Eyewear SAS Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

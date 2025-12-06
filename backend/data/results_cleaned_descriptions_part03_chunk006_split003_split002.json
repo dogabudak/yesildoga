@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Steris",
+    "description": "Steris, 1987 yılında kurulan Steris Plc. bünyesindeki enfeksiyon önleme ve diğer prosedürel ürün ve hizmetlerin markasıdır.Sterilizatör ve yıkayıcılar, cerrahi masalar, ışık ve ekipman yönetim sistemleri ve ameliyathane entegrasyonu gibi bağlantı çözümleri, deterjan, gastrointestinal endoskopi aksesuarları ve diğer ürünler gibi sarf malzemeler üretmektedir.Steris 100’den fazla ülkede faaliyet göstermektedir.Steris Plc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Evimsaray",
+    "description": "Evimsaray, 2000 yılında kurulan Saray Madeni Eşya San. ve Tic. Ltd. Şti. bünyesinde üretilen metal mutfak tencere seti, gereçler, çatal kaşık bıçakları ve sofra takımı markasıdır.Türkiye’de 304 Kalite paslanmaz çelik mutfak eşyaları ve gereçleri üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Müpa",
+    "description": "Müpa, 1983 yılında kurulan Müpa Tarım ve Gıda San. A.Ş. bünyesinde üretilen kültür mantarı ve kompost markasıdır.Kocaeli’de toplam 120 bin metrekarelik araziye kurulu 20 bin metrekarelik kapalı alanda üretim yapmaktadır. Konserve ve salamura edilmiş mantar üretimini 2 bin metrekarelik konserve tesisinde yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "MB Eurofresh",
+    "description": "MB Eurofresh, 2007 yılında kurulan MB Eurofresh Gıda San. ve Tic. A.Ş. bünyesinde üretilen salata grubu, ıspanak grubu, sebze grubu, baharat grubu, meyve grubu markasıdır.Anlaşmalı çiftçilerden alınarak yıkanan ve doğranan sebze meyveleri ev dışı tüketim ve perakende sektörüne tedarik etmektedir.Ürünler el değmeden yıkanıp paketlenmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yurtalan",
+    "description": "Yurtalan, 1992 yılında kurulan Yurtalan Gıda San. İnş. ve Tic. Ltd. Şti. bünyesinde üretilen asma yaprakları markasıdır.Paketlemesini yaptığı bütün ürünleri üreticiden aracısız alarak, deposunda saklamakatadır. Satın alınan ham haldeki asma yaprakları ambalajlanarak vakumlu olarak satışa sunulmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

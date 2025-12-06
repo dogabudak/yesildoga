@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Giostyle",
+    "description": "Giostyle, 1949 yılında kurulan Giostyle S.P.A. bünyesindeki mini portatif, soğutucu çantalar, su şişeleri, plastik malzemeli aksesuarlar markasıdır.Giostyle S.P.A. İtalya merkezli Gruppo Cogefin S.p.a.’nın şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bory",
+    "description": "Bory, 2009 yılında kurulan Shenzhen Larix Technology Co. Ltd. bünyesinde üretilen akıllı depolama cihazları ssd, hafıza, pssd markasıdır.DDR SDRAM, SSD (katı hal aygıtları), USB Sürücüsü gibi ürünler sunmaktadır.ISO 9001, ISO 14001 belgelerine sahiptir.Shenzhen Larix Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Deep Enerji İçeceği",
+    "description": "Deep Enerji İçeceği Nerenin Malı MarkasıDeep, Uludağ İçecek Türk A.Ş. tarafından 2002 yılında satın alınan enerji içeceği markasıdır.Potasyum Sorbat, Sodyum Benzoat gibi koruyucular, glikoz ve fruktoz şurubu içermemektedir.Çeyrek ve yarım litrelik alüminyum kutu formlarının yanında 1 litrelik pet şise olarak üretilmektedir.Firma ürünlerini Bursa’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr Samilis",
+    "description": "Dr Samilis, 2015 yılında kurulan Biosafir İlaç San. İthalat İhracat ve Tic. A.Ş. bünyesinde üretilen hindistan cevizi yağı, keten tohumu yağı, sarı kantaron yağı , susam yağı, çörekotu yağı, kabak çekirdeği yağı, keçiboynuzu özü, at kestanesi ısıtıcı balsam markasıdır.Yağları yüzde 100 saftır, ısıl işlem olmaksızın soğuk pres yöntemi ile elde edilmektedir.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wings Energy Drink",
+    "description": "Wings, 2010 yılında kurulan Meridyen Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen enerji içeceği markasıdır.Firma ürünlerini Gaziantep’te üretmekte ve 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

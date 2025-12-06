@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Etap",
+    "description": "Etap, 1998 yılında kurulan Etap Kuaför ve Otel Malzemeleri San. Dış Tic. Ltd. Şti. bünyesindeki saç kurutma saç kesme ve saç şekillendirme makinesi markasıdır.Ürünlerini kendi bünyesindeki tesisinde imal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Haemonetics Ülke",
+    "description": "Haemonetics, 1971 yılında Dr. Jack Latham tarafından kurulan Haemonetics Corp. bünyesindeki Tıbbi Cihazlar, Bilgisayar Yazılımı, Sağlık ve Kan Bankacılığı ürünleri markasıdır.Haemonetics Corp. ürünlerini 50’den fazla ülkeye pazarlayan, 16 ülkede ofisleri bulunan Amerika merkezli bir şirkettir.Gelirleri Asya, Avrupa ve Amerika gibi üç ana pazardan elde etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wet’n Wild",
+    "description": "Wet’n Wild1979 yılında kurulmuş olan kozmetik ve cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Marka 2003 yılında Amerika merkezli Markwins Beauty Brands Inc. tarafından satın alınmıştır. Ürünleri 60’tan fazla ülkede satılmaktadır.Bünyesindeki markalar;Black RadianceBonne BelleLip SmackerPOPPhysicians FormulaThe Color InstituteThe Color Workshopwet n wild",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-06-17"
+  },
+  {
+    "company": "Babyjem",
+    "description": "Babyjem, 2008 yılında kurulan 3E Tekstil Paz. San. Tic. Ltd. Şti. bünyesindeki bebek aksesuarları ve tekstil ürünleri markasıdır.Bebekler için beslenme aksesuarları, seyahat aksesuarları, uyku ve ev aksesuarları, banyo ürünleri, güvenlik ürünleri, anne ürünleri satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Miniso",
+    "description": "Miniso, 2013 yılında Miyake Jyunya ve Ye Guofu tarafından kurulan; kozmetik, kırtasiye, oyuncak ve mutfak eşyaları da dahil olmak üzere ev ve tüketim malları konusunda uzmanlaşmış perakende ve çeşitli mağaza zinciridir.Çin merkezli Miniso, tüm dünyada 2 binden fazla mağaza açmıştır. En fazla Çin’de olmak üzere, Japonya, ABD, Kanada, İngiltere, Portekiz, Rusya, Ukrayna, Polonya, İspanya, Yunanistan, Singapur, Tayvan, Nepal, Vietnam, Bengal, Dubai, Suudi Arabistan, Kore, İtalya, İsrail, İran, Malezya, Hong Kong ve Makao dahil olmak üzere dünyanın birçok ülkesi ve bölgesi ile stratejik iş birliği anlaşması imzalamıştır.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

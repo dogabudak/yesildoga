@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Layes Kozmetik",
+    "description": "“Layes Kozmetik“2022 yılında kurulmuş olan Layes Kozmetik E-Ticaret İthalat İhracat Ltd. Şti. bünyesindeki saç tarakları, fırçaları, banyo kesesi markasıdır.Firma Antalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hc Care",
+    "description": "“Hc Care“2006 yılında Ersan Ercan tarafından kurulmuş olan Erc Bitkisel Kozmetik Laboratuvarları Tic. Ltd. Şti. bünyesinde üretilen şampuan, bakım yağları, cilt bakım ürünleri, cilt serumu, el kremi, göz kremi, makyaj temizleyici, parfüm, saç kremi, saç serum ve yağı, saç spreyi, saç vitamini, tonik, yüz güneş kremi, yüz kremi, yüz peelingi, yüz temizleyicileri markasıdır.Firma Sinop merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baga Skin Solutions",
+    "description": "“Baga Skin Solutions“2022 yılında kurulmuş olan Baga Kozmetik İmalat ve Gıda San. Tic. Ltd. Şti. bünyesindeki saç ve cilt bakım ürünleri markasıdır.ISO 9001, ISO 14001, ISO 45001, GMP belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clasy Care",
+    "description": "“Clasy Care“2021 yılında kurulmuş olan Her Kozmetik ve Bitkisel Ürünleri Pazarlama Gıda San. Tic. Ltd. Şti. bünyesindeki şampuan, ayak kremi, cilt serumu, deodorant ve roll on, göz kremi, koku önleyici, tüy dökücü krem, vücut güneş kremi, vücut kremleri, vücut peelingi, yüz güneş kremi, yüz kremi, yüz maskesi, yüz temizleyicileri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hangcha",
+    "description": "“Hangcha“1956 yılında kurulmuş olan Hangcha Group Co. Ltd. bünyesinde üretilen forklift ve depo ekipmanı markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Hangcha Group Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Zopo Mobile",
+    "description": "Zopo Mobile, 2012 yılında Kevin Xu tarafından kurulan Shenzhen Zopo Communication Equipment Co. Ltd. bünyesinde üretilen akıllı telefon markasıdır.Shenzhen Zopo Communication Equipment Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Fransa, Hong Kong, İtalya, Ürdün, Hollanda, Tunus, Malezya, Myanmar ve İspanya’da mağazalara sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Youngman",
+    "description": "Youngman, 2001 yılında Pang Qingnian tarafından kurulan C. Youngman Automobile Group Co., Ltd. bünyesindeki otomobil, otobüs ve kamyon markasıdır.2019 yılında şirket, suyla çalışan bir motor geliştirdiğini duyurdu.China Youngman Automobile Group Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tecno Mobile",
+    "description": "2013 yılında kurulmuş olan Shenzhen Transion Holdings Co. Ltd. bünyesinde üretilen cep telefonları, tabletler, yönlendiriciler, aksesuarlar markasıdır.Shenzhen Transion Holdings Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.Bünyesindeki markalar:",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2025-09-17"
+  },
+  {
+    "company": "TCL Technology",
+    "description": "TCL Technology, 1981 yılında Li Dongsheng tarafından kurulan TCL Technology Group Corporation bünyesinde üretilen televizyon setleri, cep telefonu, klima, çamaşır makinesi, buzdolabı ve küçük elektrikli ev aletleri markasıdır.TCL Technology Group Corporation, Çin çokuluslu elektronik şirketidir ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Trina Solar",
+    "description": "Trina Solar, 1997 yılında kurulan Trina Solar Co., Ltd. bünyesinde üretilen güneş enerji ürünleri e akıllı enerji markasıdır.Şirket, PV ürünleri, EPC ve O&M ürünleri üzerinde araştırma ve geliştirme yapmaktadır.Trina Solar, 2018 yılında Energy IoT markasını piyasaya sürdü.Trina Solar Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Les Benjamins",
+    "description": "Les Benjamins, 2011 yılında kurulan Lb Global Tekstil Tic. A.Ş. bünyesindeki kadın ve erkek giyim markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Funko",
+    "description": "Funko, 1998 yılında Mike Becker tarafından kurulan Funko Inc. büyesinde üretilen vinil figürler, bobbleheadler, peluş, aksiyon figürleri, giyim, aksesuar ve oyunlar markasıdır.Funko Inc. 2015 yılında Amerika merkezli ACON Investments LLC tarafından satın alındı. Ürünleri Çin ve Vietnam’daki fabrikalarda üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tatilbudur",
+    "description": "1997 yılında kurulan Tatilbudur Seyahat Acenteliği ve Tur. A.Ş. bünyesindeki seyahat acentesi ve tur operatörü markasıdır.Oteller ve tatil köyleri, uçak bileti, turlar, vize gibi hizmetler sunmaktadır.2025 yılında İş Girişim Sermayesi Yatırım Ortaklığı A.Ş., hisseleri devralarak şirketteki payını yüzde 99,98’e yükseltmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-02-04"
+  },
+  {
+    "company": "Erşan Et",
+    "description": "Erşan Et Nerenin Malı MarkasıErşan, 1999 yılında kurulan Erşan Et ve Et Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen sucuk, salam, sosis, kavurma ve pastırma, dilimli ürünler, taze et, döner, jambon markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma Bilecik merkezlidir. Ürünlerini 21 bin metrekarelik alan üzerinde bulunan 13 bin 500 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-01"
+  },
+  {
+    "company": "Vention",
+    "description": "Vention, 2011 yılında kurulan Ningbo Fulman Technology Co. Ltd. bünyesinde üretilen ses ve görüntü aksesuarları, 3C aksesuarları ve ağ çözümleri markasıdır.Firma evde, arabada ve profesyonel kullanım için ve bilgisayarlar ile tüketici ürünleri için ses, video bileşenlerini bağlayan; hdmi, usb tip-c’den hdmi’ye dönüştürücü kablo, ethernet kablosu, ses kablosu, usb veri kablosu, bağlantı kabloları üretmektedir.ISO 9000, CE, FCC, KC, RoHS belgelerine sahiptir.Ningbo Fulman Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

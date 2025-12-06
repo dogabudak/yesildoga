@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ferrex",
+    "description": "Ferrex, 1913 yılında kurulmuş olan ALDI Einkauf SE & Co. oHG adına çeşitli firmalar tarafından üretilen elektrikli el aletleri, elektrikli alet aksesuarları markasıdır.ALDI Einkauf SE & Co. oHG Almanya merkezlidir ve ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sas-Tec",
+    "description": "Sas-Tec, Sas-Tec Gmbh bünyesinde üretilen insan vücudunu koruyucu ürünler, motosiklet, bisiklet koruyucu giyim kıyafetleri markasıdır.Yumuşak köpük koruyucular, insan vücudunu, omuz, dirsek, diz gibi bölümlerini sadece motosiklet, dağ bisikleti veya kayak gibi aktivitelerde değil, sağlık ve güvenlik gibi diğer alanlarda darbelere karşı yüksek dayanıklılık ve esneklikle korumaktadır.EN 1621-1 ve EN 1621-2 belgelerine sahiptir.Sas-Tec Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "İskenderun Limanı İşletmecisi",
+    "description": "İskenderun Limanı İşletmecisi Hangi Ülkeye AitLm Limakport İskenderun, operasyonel bir genel kargo limanı olarak 2011 yılında, işletme hakkı özelleştirme kapsamında 36 yıl için Limak Holding A.Ş.’ye devredilmiştir.Limakport İskenderun Limanı’ndaki hisselerinin yüzde 20’sini Avrupa Yatırım Bankası, İtalya merkezli Cassa Depositi e Prestiti, Fransa merkezli Caisse des Depots et Consignation, Caisse de Depot et de Gestion ve EFG Hermes gibi 5 kurumsal yatırımcının kurduğu fon olan InfraMed Infrastructure’a devretmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Puig",
+    "description": "Puig, 1914 yılında kurulmuş olan Puig International SA bünyesindeki giyim, kozmetik, parfüm ve aksesuarlar markasıdır.Puig International SA İspanya merkezlidir. Ürünlerini 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Athleta",
+    "description": "Athleta, 1998 yılında kurulmuş olan Athleta LLC bünyesindeki kadın yoga kıyafetleri, elbiseler, ceket, sütyen, teknik atletik giysiler markasıdır.Athleta LLC 2008 yılında Amerika merkezli The Gap Inc. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

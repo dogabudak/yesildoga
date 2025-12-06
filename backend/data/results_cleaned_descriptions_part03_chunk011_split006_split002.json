@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fit Grains",
+    "description": "Fit Grains, 2015 yılında kurulan Bega Fit Gıda Bilişim Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen pirinç patlağı markasıdır.Bega Fit Gıda atıştırmalıklar ve çeşniler gibi ürünler üretmektedir. Ürünleri şeker ilavesizdir.Bünyesindeki markalar:Dr.PanFit GrainsFıt Nut %100 Peanut ButterFitbakkalFitnutFitnut Pro Peanut ButterFitpasajKongNutfitOrganik Satınal By Bega FitOrganik Satınal By BgftOrganiksatınal Sağlık Kapınıza GelsinRoyals Organik Satınal OsSeed ‘n GrainsSupplement SatınalSupplement Satınal By Bgft",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "KGT Medikal",
+    "description": "KGT Medikal, 2020 yılında kurulan KGT Medikal Hububat Tur. İnş. San. ve Tic. Ltd. Şti bünyesinde üretilen maske, eldiven, dezenfektan ve koruyucu tulum ürünleri markasıdır.KGT Medikal ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cerruti 1881",
+    "description": "Cerruti 1881, 1967 yılında Nino Cerruti tarafından kurulan Trinity International Brands Limited bünyesindeki lüks giyim ürünleri markasıdır.Cerruti moda evi Paris’te yer almaktadır.Cerruti 1881’i 2010 yılında satın alan Trinity International Brands Limited, Çin merkezli giyim perakendecisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dial-x",
+    "description": "Dial’x, 1972 yılında kurulan Dial-X Automated Equipment, Inc. bünyesindeki otomatik ekipman ve bileşenleri markasıdır.Çok çeşitli endüstriyel uygulamalar için birinci sınıf otomatik ekipman bileşenleri üretmektedir.Dial-X Automated Equipment, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kanetsune Seki",
+    "description": "Kanetsune Seki, 1964 yılında kurulan Kitasho Co., Ltd. bünyesindeki çatal, bıçak takımları markasıdır.Ürün yelpazesinde av ve mutfak bıçakları yer almaktadır.Kitasho Co., Ltd. Japonya merkezlidir ve ürünlerini Japonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

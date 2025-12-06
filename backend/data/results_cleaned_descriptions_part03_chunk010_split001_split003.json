@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sampar",
+    "description": "Sampar, 2004 yılında Patrick Sounigo tarafından kurulan Supergo Company Ltd. bünyesindeki cilt bakım ürünleri markasıdır.Ürün yelpazesinde gündüz ve gece kremi, göz çevresi kremi, güneş kremi, yüz yıkama jeli, leke kapatıcı krem, serum, peeling, maske, göz çevresi için aydınlatıcı krem ve gece maskeleri yer almaktadır.Supergo Company Ltd. Fransa merkezli uluslararası bir kozmetik şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Pavillo",
+    "description": "Pavillo, 1994 yılında kurulan Bestway Inflatables & Material Corp. bünyesinde üretilen çadır, çok amaçlı taşıma çantaları, bebek bezi torbaları, spor çantaları, haberci çanta, omuz çantaları, çanta tote, seyahat çantaları, sırt çantaları, fanny paketleri, spor paketleri, bel paketleri, evrak çantaları, cüzdan, PVC şişirilebilir daireler ve yataklardan yapılmış şişme nesneler, şişme koltuklar, hava yatakları, hava yatakları, yastıklar, yastıklar, kapalı ve açık kullanım için uyku tulumları markasıdır.Bestway Inflatables & Material Corp. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mario Badescu",
+    "description": "Mario Badescu, 1967 yılında kurulan Mario Badescu Skin Care, Inc. bünyesinde üretilen cilt bakımı ürünleri markasıdır.Temizleme losyonu, tonik, güneş koruyucu ürünler, göz kremi, nemlendirici, koruyucu krem, gece kremi, maske, vücut sabunu, losyonları, saç şampuanı, saç şekillendirici, erkekler için tıraş öncesi ve sonrası losyonlar ve tıraş kremleri ürünleri üretmektedir.Mario Badescu Skin Care, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aromatica",
+    "description": "Aromatica, 2004 yılında Jerry Kim tarafından kurulan Aromatica Co. bünyesinde üretilen sertifikalı doğal ve organik cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. Sentetik kimyasallar içermemektedir.Aromatica Co. Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Daviness",
+    "description": "Daviness, 1993 yılında kurulan Davines SPA bünyesindeki saç ve cilt bakım ürünleri markasıdır.Saç bakım ürünleri, şampuan, saç maskesi, saç kremi, saç şekillendirici, keratin, nemlendirici şampuan ürünleri üretmektedir.Davines SPA İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

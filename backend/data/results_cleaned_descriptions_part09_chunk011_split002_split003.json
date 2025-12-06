@@ -1,0 +1,44 @@
+[
+  {
+    "company": "İmumax",
+    "description": "“İmumax“2012 yılında kurulmuş olan İmuneks Farma İlaç San. ve Tic. A.Ş. bünyesindeki boğaz spreyi, burun spreyi markasıdır.Ürünleri renklendirici, tatlandırıcı ve gluten içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Enplus",
+    "description": "“Enplus“1975 yılında kurulmuş olan Enplus Mağaza İşletmeciliği A.Ş. bünyesindeki perakende, mağazacılık markasıdır.Firma İstanbul merkezlidir. 10 ilde 40 mağazaya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cervus",
+    "description": "“Cervus“2021 yılında kurulmuş olan Cervus Tekstil San. ve Tic. Ltd. Şti. bünyesindeki erkek şort, kız çocuk sweatshirt, kadın eşofman takımı, kadın tayt, spor tayt, sporcu sütyeni, tayt markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bebeneo",
+    "description": "“Bebeneo“2012 yılında kurulmuş olan Aktif Dizayn Dan. Mat. ve Rek. Hizmetleri San. Tic. Ltd. Şti. bünyesindeki biberon ve aksesuarları, emzik ve aksesuarları, beslenme, diş kaşıyıcı, anneler için ürünler, banyo ve bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Keracnyl",
+    "description": "“Keracnyl“1931 yılında kurulmuş olan Ducray Dermatological Laboratories bünyesindeki yağlı veya akneye eğilimli ciltler için bakım ürünleri markasıdır.Ducray Dermatological Laboratories 1969 yılında Fransa merkezli Laboratoires Pierre Fabre tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

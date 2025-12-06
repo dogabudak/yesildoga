@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Pasta Mondo",
+    "description": "Pasta Mondo, 1956 yılında kurulan Göymen Food Gıda San. Tic. A.Ş. bünyesinde üretilen irmik, spagetti ve makarna markasıdır.Ürünleri yüzde 100 makarnalık buğday irmiği ile üretilmektedir ve çok sayıda ülkeye ihraç edilmektedir.ISO 9001, ISO 22000, ISO 14001, ISO / IEC 27001, BRC ve Helal belgelerine sahiptir.Bünyesindeki markalar;AmberDoğaDoğa MakarnaGöymenMom’s Choice Macaroni Snack&Soup Ka Majalo ElbowPasta Di Roma SpaghettiPasta La PerlaPasta MondoPasta Napolitana SpaghettiPastaaromaPastagöymenPastamarinaPastamondoPastarivaSanta Linda Spaghetti",
+    "documents": [
+      "BRC",
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hino Motors",
+    "description": "Hino Motors, 1918 yılında kurulan Hino Motors Ltd. bünyesindeki kamyon, kamyonet ve otobüs markasıdır.Hino Motors Ltd., 2001 yılında Japonya merkezli Toyota Motor Corporation tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2021-12-03"
+  },
+  {
+    "company": "Germirli",
+    "description": "Germirli, 1974 yılında kurulan Gerboy Tekstil Tic. ve San. A.Ş. bünyesinde üretilen erkek giyim ürünleri ve aksesuarları markasıdır.Avusturalya’dan yün, İtalya’dan kumaş, Mısır’dan pamuk, Orta Asya’dan kaşmir kullanılarak tasarlanmaktadır.Mağazalarında erkek gömlek, erkek takım elbise, ceket, mont, kaban, pantolon, erkek triko, tişört, çorap, boxer, pijama, özel dikim gömlek, şal, fular, kaşkol, kemer, kol düğmesi, kravat gibi ürünler yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Feride Pudra",
+    "description": "Feride Pudra, 1969 yılında Niyazi Aydemir tarafından kurulan Feride Pudra Paketleme San. ve Tic. Ltd. Şti. bünyesindeki pudra, vazelin ve makine yağı markasıdır.Firmamız bebe talk pudrası vazelin, viks, makine yağı üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Frisolac",
+    "description": "Frisolac, 1879 yılında birleşmelerle kurulan Frieslandcampina Nederland B.V. bünyesindeki bebekler için mama, çikolatalı sütler markasıdır.Dünyanın en büyük süt Kooperatifidir.Frieslandcampina Nederland B.V. Hollanda merkezlidir. 33 ülkede şubesi bulunmaktadır.Bünyesindeki markalar;AppelsientjeCampinaChocomelDutch LadyFriesche VlagFristiFruttisLandliebeMilnerMixMonaOptimel",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

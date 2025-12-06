@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Dayou",
+    "description": "Dayou, 2019 yılında kurulan Jiangxi Dayou Medical Technology Co, Ltd bünyesinde üretilen kan şekeri ölçer, kan basıncı ölçer, kızılötesi termometre, çok fonksiyonlu kan test ve in vitro diagnostik reaktifler (kan şekeri, ürik asit, trigliserid, kolesterol), ikinci sınıf tıbbi cihazlar markasıdır.Jiangxi Dayou Medical Technology Co, Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Canyearn",
+    "description": "Canyearn, 2005 yılında kurulan Sichuan Canyearn Medical Equipment Co., Ltd. bünyesinde üretilen ultrason, renkli doppler, prob aksesuarları, ultrason tarayıcı aksesuarları markasıdır.ISO 2000 belgesine sahiptir.Sichuan Canyearn Medical Equipment Co., Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 2000"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tomatech Tohum",
+    "description": "Tomatech, 2008 yılında kurulan Tomatech R & D Ltd. bünyesinde üretilen meyve ve sebze tohumları markasıdır.Tomatech, hibrit domates geliştirmeye odaklanan butik domates tohumu şirketidir.Tomatech R & D Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Kodyee",
+    "description": "Kodyee, 2010 yılında kurulan Kedy Tech (Ganzhou) Electronics Co. Ltd. bünyesinde üretilen tıbbi cihazlar, tıbbi elektronik cihazlar markasıdır.Şirket esas olarak, Bluetooth hoparlör, Wifi hoparlör, ses çubukları, multimedya hoparlör, kulaklık ve kablosuz ürünler de dahil olmak üzere çok çeşitli elektro-akustik ürünlerle uğraşmaktadır.ISO 9001 ve ISO 14001 belgelerine sahiptir.Kedy Tech (Ganzhou) Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de bulunan iki fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Konsung",
+    "description": "Konsung, 2006 yılında kurulan Jiangsu Konsung Equipment Co, Ltd bünyesinde üretilen tıbbi ekipman ve aile sağlığı ürünleri, tıbbi oksijen concentrators, tıbbi emme makineleri, tıbbi nebulizers, anti-decubitus yatak, tekerlekli sandalye ürünleri markasıdır.ISO 13485 belgesine sahiptir.Jiangsu Konsung Equipment Co, Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

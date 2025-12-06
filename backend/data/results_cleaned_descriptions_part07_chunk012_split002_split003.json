@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Soundcast",
+    "description": "Soundcast, 2004 yılında kurulmuş olan Soundcast Systems Inc. bünyesindeki kablosuz hoparlör sistemleri markasıdır.Soundcast Systems Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rossclean",
+    "description": "Rossclean, 2020 yılında kurulmuş olan Yağız Uluslararası İlt. Tel. Bil. San. Tic. Ltd. Şti. bünyesindeki yüz temizleme cihazı, kedi köpek mama ve su kabı, airfryer, buharlı dikey ütü markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Townew",
+    "description": "Townew, 2014 yılında kurulmuş olan Townew Intelligent Technology Co. Ltd. bünyesinde üretilen çöp kutuları, ev aletleri markasıdır.Townew Intelligent Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Byart Cam",
+    "description": "Byart, 2018 yılında kurulmuş olan By Art Dizayn ve Dekorasyon San. Tic. Ltd. Şti. bünyesinde üretilen cam, porselen, sofra ve mutfak eşyaları markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Balıkesir merkezlidir ve ürünlerini Balıkesir’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brioni Kitchenware",
+    "description": "Brioni Kitchenware, 2010 yılında kurulmuş olan Kural Metal Alüminyum San. ve Tic. A.Ş. bünyesinde üretilen granit pişirme ekipmanları, pişirme ekipmanları, sofra ve mutfak eşyaları, tencere, tava, cezve markasıdır.ISO 14001 belgesine sahiptir.Firma İstanbul merkezlidir ve ürünlerini İkitelli O.S.B.’de bulunan 2 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

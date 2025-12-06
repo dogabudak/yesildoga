@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Solo",
+    "description": "Solo, 1978 yılında Eczacıbaşı Tüketim Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen tuvalet kağıdı, kağıt havlu ve peçete ürünleri markasıdır.İstanbul merkezli şirket temizlik kağıtları, kozmetik ve kişisel bakım ürünleri, kuaför ürünleri, insektisitler, ev temizleme ve bakım ürünleri, profesyonel temizlik ürünleri, prezervatifler ve bebek maması üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-31"
+  },
+  {
+    "company": "Joma",
+    "description": "Joma, 1965 yılında kurulan; futbol, koşu ve tenis ayakkabıları, ekipmanları ve giyim malzemeleri üreticisidir.İspanya merkezli Joma Sport, S.A.’nın 70 ülkede ofisleri bulunuyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "NSK",
+    "description": "NSK, 2000 yılında üretilen armatür, banyo alanı için ürünlerin tasarımı, üretimi ve ticareti mimari, bina ve iç mekan tasarımı için seramik zemin ve duvar karoları markasıdır.2016 yılında, İspanya merkezli Roca Group, NSK firmasının tamamını satın alarak bünyesine katmıştır.1917 yılında kurulan İspanya merkezli Roca Group, dünyanın en büyük Seramik Sağlık Gereci ve Armatür üreticisidir. Şirketin 5 kıtada 170’ten fazla pazarda 78 üretim tesisi var.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Clatronic",
+    "description": "Clatronic, 1982 yılında kurulan Clatronic International GmbH bünyesindeki ev aletleri markasıdır.Almanya merkezli Clatronic, bir aile şirketidir. Türkiye’ye NOVA Elektronik Dış Tic A.Ş. tarafından getirilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-05-21"
+  },
+  {
+    "company": "Tampax",
+    "description": "Tampax, 1931 yılında Dr. Earle Haas tarafından ilk kez üretilen kadın hijyeni ürünüdür.Tampax 1997 yılında Amerikan merkezli Procter & Gamble tarafından satın alındı. Amerikan Procter & Gamble ile İtalyan Gruppo Angelini’nin ortak girişimi Fater Group bünyesindedir.Tampax 100’den fazla ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-03-15"
+  }
+]

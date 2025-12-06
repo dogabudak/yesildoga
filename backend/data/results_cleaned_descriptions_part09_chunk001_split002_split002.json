@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Instant Pot Duo",
+    "description": "Instant Pot2009 yılında kurulmuş olan Instant Brands Inc. bümyesinde üretilen çok kullanımlı düdüklü tencere markasıdır.Instant Brands Inc. Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Wou World Of Unique",
+    "description": "Wou World Of Unique2014 yılında kurulmuş olan Kt Global Dağıtım ve Pazarlama Tic. Ltd. Şti. bünyesindeki kozmetik cilt bakımı güneş ürünü, stick deodorant, koltuk altı terleme önleyici markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Professionnelle Renden ParisRendenWou BabyWou ClinicWou World Of Unique",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gappınar",
+    "description": "Gappınar2007 yılında kurulmuş olan Gappınar Gıda San. ve Tic. A.Ş. bünyesinde üretilen doğal kaynak suyu markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ja Coffee",
+    "description": "Ja Coffee2018 yılında kurulmuş olan JA Coffee Inc. bünyesindeki yeşil kahve çekirdekleri, kavrulmuş kahve markasıdır.JA Coffee Inc. Kanada merkezlidir. Kahve çekirdekleri Jamaika, Karayipler, Haiti ve Dominik Cumhuriyeti gibi ülkelerden sağlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Biohidrogen",
+    "description": "BiohidrogenEa Global Su Arıtma Sistemleri San. ve Tic. Ltd. Şti. bünyesindeki iş yeri tipi, endüstriyel, evsel su arıtma cihazları, filtreler, yedek parçalar markasıdır.ISO 9001, ISO 14001, ISO 10002, ISO 45001, Haccp belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

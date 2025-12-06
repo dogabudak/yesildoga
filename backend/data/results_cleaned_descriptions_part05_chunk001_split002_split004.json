@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Azra Bisküvi",
+    "description": "Azra Bisküvi Nerenin Malı MarkasıAzra Bisküvi, 2004 yılında kurulan Azra Bisküvi A.Ş. bünyesinde üretilen bisküvi, çikolata, kek, gofret ve kraker markasıdır.Ürün oluşturulacak hammaddelerin tamamen helal gıda ve doğal ürün olmasına dikkat edilmektedir.Ürünlerini Karaman OSB’de bulunan 30 bin metrekarelik kapalı alanda üretmektedir ve 65’in üzerinde ülkeye ihraç etmektedir.Bünyesindeki markalar;12 Month60 MinuteActionsAlenaAleppoAlwinArlinAurisAydoluAzraAzrellaBigchocoBlack MoonBlackbisBolenoBonicaChoco MiloCikotimeCilatoCorollaCorsicaCorvetteCrofyÇikovilaDerolForroFullyGetzGofionGofliGoflinaGoflitaHello BisHellocukHellomHubiHubi MolyHubiloveHubimixImprezaKopikekKopikoMakitaMartinesMarutiMeybarMiyatixMolyMondaleMonopyMudixMybisMygofOne YearOregonPalmierPalmier Cripsy WafersPalmier PastamPalmier Seles OnePrimeraRicotyRight RollRockettShagySheriySkylineSuper RollSweet RollTomleyWafferWhite MoonYarisYersenZeros",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Balbak",
+    "description": "Balbak, 2010 yılında kurulan Balbak Gıda San. Tic. Ltd. Şti. bünyesindeki bakliyat ürünleri markasıdır.Mersin merkezli firmanın ürün yelpazesinde barbunya, bulgur, fasulye, mısır, mercimek, nohut, pirinç yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Roblox",
+    "description": "Roblox, 2004 yılında David Baszucki ve Erik Cassel tarafından kurulan Roblox Corporation bünyesindeki çevrimiçi oyun platformu ve oyun oluşturma sistemi markasıdır.Kullanıcıların oyunları programlamasına ve diğer kullanıcılar tarafından Windows, macOS, iOS, Android, Xbox One platformlarında oynanmasına olanak tanır.Roblox Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Beşem Gıda",
+    "description": "Beşem Gıda, Beşem Gıda San. ve Tic. Ltd. Şti. bünyesindeki toz içecek, hazır içecekler, sıcak çikolata markasıdır.TSE ve İSO 22000 belgelerine sahiptir.Gaziantep merkezli firmanın ürün yelpazesinde sıcak çikolata, cappuccino, meyve aromalı meybuz, meyve aromalı jelly, bulyon, classic coffee, soğuk içecekler yer almaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "İSO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Freemail.hu",
+    "description": "Freemail.hu, 1996 yılında Soros Vakfı tarafından kurulan C3 Kulturalis es Kommunikacios Központ bünyesindeki ücretsiz web ve POP3 tabanlı e-posta sistemidir.C3, Macaristan merkezlidir. Silicon Graphics Macaristan ve MATAV işbirliği programı olarak Soros Vakfı’nın Macaristan’da internetin yaygınlaşmasınıı teşvik etme amacıyla kurulmuştur. 1999 yılında C3 Foundation adı altında 3 yıllık pilot dönem sonucunda bağımsız hale geldi. Binlerce kâr amacı gütmeyen kuruluşa ve kişiye ücretsiz İnternet kullanımına erişim sağladı, bilgisayar ve İnternet kullanıcı kursları düzenledi ve herkesin kullanabileceği bir İnternet atölyesi oluşturdu. Basılı ve çevrimiçi yayınlar üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HU",
+    "updated_date": null
+  }
+]

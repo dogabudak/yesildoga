@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Nutymaks",
+    "description": "1989 yılında kurulmuş olan Şölen Çikolata Gıda Sanayi A.Ş. bünyesinde üretilen gofret, çikolata bar markasıdır.Firma İstanbul merkezlidir. İstanbul ve Gaziantep’te üretim tesislerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Energetics",
+    "description": "1984 yılında kurulmuş olan Intersport International Corporation Gmbh bünyesindeki spor giyim, yoga matları, tayt, antrenman tişörtü ve aksesuar ürünleri markasıdır.Intersport International Corporation Gmbh İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Zoomion",
+    "description": "Nimax Gmbh & Co. Kg bünyesindeki kameralar, büyüteç optikleri, teleskoplar markasıdır.Nimax Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Matricelf",
+    "description": "2019 yılında kurulmuş olan Matricelf Ltd. bünyesindeki çok çeşitli tıbbi durumlar için otolog matris ve hücre implantları için bir otolog doku rejenerasyon platformu markasıdır.Tescilli 3D doku mühendisliği teknolojisinden yararlanarak, tamamen hastanın kendi hücrelerinden türetilen kişiselleştirilmiş, doku bazlı implantlar üretmektedir. Tarihte ilk kez insan hücrelerinden ve matrisinden bir insan kalbini 3D olarak basmalarını sağlayan teknolojiyi 2019 yılında lisanslamıştır.Matricelf Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Iprk",
+    "description": "1963 yılında kurulmuş olan Leuze electronic GmbH + Co. KG bünyesinde üretilen sensör markasıdır.Leuze electronic GmbH + Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

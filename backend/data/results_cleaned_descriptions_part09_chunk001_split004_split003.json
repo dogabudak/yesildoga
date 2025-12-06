@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Tokalon",
+    "description": "Tokalon1968 yılında kurulmuş olan Cooper Cosmetics S.A. bünyesinde üretilen maskara, fondöten, pudra markasıdır.Cooper Cosmetics S.A. İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Zaditen",
+    "description": "Zaditen2023 yılında kurulmuş olan Sandoz Group AG bünyesindeki ilaç markasıdır.Sandoz Group AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Funda Baby Cologne",
+    "description": "Funda1995 yılında kurulmuş olan BİM Birleşik Mağazalar A.Ş. adına muhtelif üreticiler tarafından üretilen bebek kolonyası markasıdır.Üretici firmalar ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ems Force",
+    "description": "Ems Force1991 yılında kurulmuş olan Metsan Endüstriyel Yapıştırıcılar Tic. A.Ş. bünyesinde üretilen yapıştırıcı ve sızdırmazlık ürünleri markasıdır.ISO 9001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 60 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Metzer",
+    "description": "Metzer1970 yılında kurulmuş olan Metzerplas Ltd. bünyesinde üretilen damlama sulama sistemleri, çok çeşitli sulama damlama hatları, su, atık su ve gaz için PE iletim boruları, sürtünmeyi azaltan iletişim boruları ve korozyonsuz termal yalıtımlı SP boruları markasıdır.Metzerplas Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

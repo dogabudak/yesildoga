@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Le Balvo",
+    "description": "Le Balvo, 2021 yılında kurulmuş olan Le Balvo Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt serumları, doğal yağlar, esansiyel kokular, güneş kremi, tonik ve köpük, uyku spreyleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Boon Oyuncak",
+    "description": "Boon, 1924 yılında kurulmuş olan Tomy International Inc. bünyesindeki bebek ürünleri, oyuncaklar, çocuk odası ürünleri markasıdır.Ürünleri BPA, PVC, Fatalat içermez.TOMY International Inc. Amerika merkezlidir. Ürünleri 60’dan fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;A Little SpotBebe FuerteBoonBuild-a-BuddyErtlJJCole CollectionsJohn Deere KidsKiipixLamazeMocchi- Mocchi-Ricky ZoomTOMY Farm ToysTOMY GamesTOMY ToomiesThe First YearsYumiAmi",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dynavit",
+    "description": "Dynavit, 1956 yılında kurulmuş olan EİP Eczacıbaşı İlaç Pazarlama A.Ş. bünyesindeki kolajenler, vitamin ve mineraller, bitkisel ürünler, özel takviyeler, çocuk ürünleri, pastiller markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Feiya Nakış Makinesi",
+    "description": "Feiya, 1988 yılında kurulmuş olan Feiya Group Co. Ltd. bünyesinde üretilen nakış makineleri ve nakış makinesi yedek parçaları markasıdır.Feiya Group Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Azolab",
+    "description": "Azolab, 2015 yılında kurulmuş olan Azolab Laboratuvar Hizmetleri A.Ş. bünyesindeki analiz laboratuvarı hizmetleri markasıdır.Test edilecek ürünlerin standartlara uygunluğunu ekolojik, kimyasal ve fiziksel analiz yöntemleriyle test etmektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

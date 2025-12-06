@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Hoodrich",
+    "description": "Hoodrich2014 yılında kurulmuş olan Ink Clothing Limited bünyesindeki sokak giyim ürünleri, tişörtler, kapüşonlular, şortlar, sweatshirtler ve aksesuarlar markasıdır.Ink Clothing Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Rubarro",
+    "description": "Rubarro2013 yılında kurulan Dinamo Kozmetik A.Ş. bünyesindeki çubuklu oda kokusu, ev kozmetiği, mum, oda&kumaş spreyi, yastik spreyi markasıdır.ISO 9001, ISO 22716, ISO 27001, TSE, Helal belgelerine sahiptir.Kocaeli merkezli firma Kocaeli, Antalya ve Amerika’da üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dinçer Lojistik",
+    "description": "Dinçer Lojistik2003 yılında kurulmuş olan Dinçer Lojistik A.Ş. yurt içi dağıtım hizmetleri, katma değerli hizmetleri, depolama hizmetleri, kimya lojistiği, adr’li dağıtım, adr’siz dağıtım, parsiyel dağıtım, konteyner taşımacılığı, bayi lojistiği ve e-ticaret lojistiği markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Detax",
+    "description": "Detax1974 yılında kurulmuş olan Güleç Kimya Temizlik Ürünleri Taşımacılık San. Tic. Ltd. Şti. bünyesinde üretilen bulaşık deterjanları, cam temizleyiciler, yüzey temizleyiciler markasıdır.Firma Kütahya merkezlidir. Ürünlerini 30 bin metrekarelik açık alanda bulunan 6 bin 500 metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Chantale",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

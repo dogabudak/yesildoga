@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Dr.Web",
+    "description": "Dr.Web, 1992 yılında kurulan Doctor Web, Ltd. bünyesindeki kötü amaçlı yazılımdan koruma yazılımı markasıdır.Ev kullanıcıları, küçük ve büyük işletmeler ve şirketlerı için dijital güvenlik ve antivirüs yazılımları üretmektedir.Doctor Web, Ltd Rusya merkezli yüzde yüz Rus yazılım şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Chefman",
+    "description": "Chefman, 2011 yılında kurulan Chefman Company bünyesindeki küçük ev aletleri markasıdır.Chefman küçük mutfak aletleri Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ağdağ",
+    "description": "Ağdağ Hangi Ülkenin Malı MarkasıAğdağ, 2000 yılında kurulan Matanat A Grubu bünyesinde üretilen çimento, alçı sıva ürünleri, astar ve kaplama macunları markasıdır.Matanat A Grubu 200’den fazla marka ve binden fazla ürün çeşidine sahiptir ve üç alanda 22 ürün grubunda faaliyet göstermektedir.ISO 9001 ve ISO 14001 belgelerine sahiptir.Matanat A Grubu Azerbaycan merkezlidir. Ürünlerini Rusya, Kazakistan, Gürcistan, Türkmenistan, İran, Ukrayna gibi ülkelere ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Özkent Mutfak Eşyaları",
+    "description": "Özkent Mutfak Eşyaları Nerenin Malı MarkasıÖzkent, 1982 yılında kurulan Kent Madeni Mutfak Eşyalari Sanayi ve Ticaret Ltd. Şti. bünyesinde üretilen çaydanlık, tencere, elektrikli mutfak ürünleri, çay setleri ve çay tepsileri, çay tabağı, cezve, çeyiz setleri markasıdır.Ürünlerini İstanbul’da bulunan tesisinde 304 kalite 18/10 Krom-Nikel Paslanmaz Çelik’ten üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "MtrMaster",
+    "description": "MtrMaster, 1967 yılında Ahmet İ. Öztürk tarafından kurulan Master Ev Gereçleri Ltd. Şti. bünyesinde ithal edilen ev, mutfak ve banyo ürünleri, şarjlı ışıldaklar, el fenerleri, aydınlatma ürünleri, sinek kovma cihazları markasıdır.MtrMaster markalı ürünler uzak doğudan ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

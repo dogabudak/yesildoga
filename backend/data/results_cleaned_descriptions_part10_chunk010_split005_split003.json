@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hiley",
+    "description": "2016 yılında kurulmuş olan Ningbo Hiley Technology Co. Ltd. bünyesinde üretilen elektrikli bisiklet, elektrikli scooter markasıdır.Ningbo Hiley Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kosas",
+    "description": "2018 yılında kurulmuş olan Kosas Cosmetics LLC bünyesinde üretilen makyaj ve cilt bakım ürünleri markasıdır.Şirket ruj, eyeliner, vücut yıkama, rimel, göz farı, fosforlu kalem, kapatıcı ve diğer ilgili ürünler sunmaktadır.Kosas Cosmetics LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Guardo Watches",
+    "description": "2000 yılında kurulmuş olan Guardo sp. z o.o. bünyesindeki kol saatleri markasıdır.Guardo sp. z o.o. Polonya merkezlidir. Ürünleri Asya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Froneri",
+    "description": "1929 yılında temelleri atılan Froneri International Limited bünyesindeki dondurma markasıdır.Froneri International Limited 2016 yılında İsviçre merkezli Nestlé ile Fransa merkezli PAI’ye bağlı R&R Ice Cream arasında kurulan ortak girişim tarafından oluşturulmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Helmach",
+    "description": "2018 yılında kurulmuş olan Helmach Endüstri Ürünleri Tic. Ltd. Şti. bünyesindeki buz çözücü, çok amaçlı genel temizlik ürünleri, genel bakım spreyleri, silikonlar, oto servis ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

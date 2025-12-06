@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Sondey",
+    "description": "Sondey,1930 yılında kurulmuş olan Lidl Stiftung & Co. KG bünyesindeki ince küçük hamur işleri markasıdır.Lidl Stiftung & Co. KG Almanya merkezli Schwarz Group bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "iLovePDF",
+    "description": "Ilovepdf, 2010 yılında kurulmuş olan Ilovepdf S.L. bünyesinde geliştirilen PDF belge düzenleyici programı markasıdır.Mobil ve masaüstü uygulamasına sahiptir. ISO 27001 belgesine sahiptir.Ilovepdf S.L. İspanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 27001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Minbag",
+    "description": "Minbag, 1988 yılında kurulmuş olan Önder Plastik San. ve Tic. Ltd. Şti. bünyesinde üretilen bilgisayar çantası, tablet kılıfı, iş çantası, el portföyü gibi ürünler markasıdır.Firma Ankara merkezlidir. Ürünlerini İvedik OSB’de bulunan 3 bin metrekarelik alanda üretmektedir ve pek çok ülkeye ihraç etmektedir.Bünyesindeki markalar;ÖnderÖnder ÖEasyfixMınbag",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Şekerhanım",
+    "description": "Şekerhanım Nerenin Malı MarkasıŞekerhanım, 2003 yılında kurulmuş olan Şekerhanım Gıda San. Tic. Ltd. Şti. bünyesinde üretilen reçeller, marmelatlar, soslar ve salçalar, tirilye zeytini, zeytinyağı, karadut şurubu, zeytinyağlı kantaron yağı, zeytinyağlı kudret narı markasıdır.Ürünleri hiçbir katkı maddesi ve glikoz şurubu içermemektedir.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bor Şeker",
+    "description": "Bor Şeker Nerenin Malı MarkasıBor Şeker, 1983 yılında Türkiye Şeker Fabrikaları A.Ş. tarafından kurulmuş olan ve 2018 yılı özelleştirme kapsamında DSL Yatırım ve Danışmanlık A.Ş. tarafından devralınan Bor Şeker A.Ş. bünyesinde üretilen yüzde yüz doğal pancar şekeri markasıdır.ISO 9001, Helal belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini Niğde’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

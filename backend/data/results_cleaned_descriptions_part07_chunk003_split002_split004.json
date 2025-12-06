@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Bulutix",
+    "description": "Bulutix, 1996 yılında kurulan İlda İth. İhr. Teks. San. ve Tic. Ltd. Şti. bünyesinde üretilen endüstriyel temizlik maddeleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini Silivri Kavaklı OSB’de 6 bin metrekaresi kapalı toplam 8 bin metrekarelik alanda bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hanseatic",
+    "description": "Hanseatic, 1949 yılında kurulan Otto Gmbh & CO KG bünyesindeki ev elektroniği ürünleri markasıdır.Ürün yelpazesinde ütü, elektrikli süpürge, davlumbaz, bulaşık makinesi, ocak, kahve makinesi, buzdolabı ve derin dondurucu üniteleri, çamaşır makinesi, mikrodalga fırın, ekmek kızartma makinesi, su ısıtıcısı ve her türlü yedek parçalar yer almaktadır.Otto Gmbh & CO KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Orien",
+    "description": "Orien, 2009 yılında kurulan Gratis İç ve Dış Tic. A.Ş. adına üretilen parfüm, kolonya, yüz temizleme jeli markasıdır.Gratis İç ve Dış Tic. A.Ş.’nin yüzde 55 hissesi İngiltere merkezli Actera Group Limited’e geri kalan hisseler kurucu Demir Sabancı’ya ait Sedes İç ve Dış Tic. A.Ş.’nindir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zenipower",
+    "description": "Zenipower, 2013 yılında kurulan Zhuhai Zhi Li Battery Co. Ltd. bünyesinde üretilen ni-cd,ni-fe, gümüş-çinko piller ve kurşun asit pil markasıdır.İşitme cihazları, kablosuz kulaklıklar ve TWS kablosuz kulaklıklar için Li-ion düğme hücre piller üretmektedir. ISO 9001 ve ISO 14001 belgelerine sahiptir.Zhuhai Zhi Li Battery Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;CiyibatteryCiyiZenipower",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wingie",
+    "description": "Wingie, 2008 yılında kurulan Enuygun Com İnternetbilgi Hizmetleri Teknoloji ve Tic. A.Ş. bünyesindeki uçak bileti, otel, otobüs bileti, araç kiralama, kredi ve sigorta hizmetleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Akıllı AktarmaB.I.G Bilet Iptal GüvencesiEnEn Akıllı AktarmaEn ÇevirgezEn EnuygunEn Enuygun AraçEn Enuygun Araç KiralamaEn Enuygun FinansEn Enuygun SigortaEn Ucuz Uçak BiletiEn Uygun Araç KiralamaEn Uygun Otobüs BiletiEn Uygun TransferEn Uygun Uçak BiletiEn Uygun.ComEn UygunotelEncoinEncüzdanEngateEnuygun TeknolojiEnuygun.ComEnuygunjetEnuygunsigorta.ComLogiconnectNereye IstersenOnline Uçak BiletiUp Uçuran PuanWingieWingiejet",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

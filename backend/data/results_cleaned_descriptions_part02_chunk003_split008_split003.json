@@ -1,0 +1,44 @@
+[
+  {
+    "company": "NST",
+    "description": "NST, 1997 yılında kurulan NST Plastik A.Ş. bünyesindeki Silikon, Köpük ve Silikonize Mastik markasıdır.NST Plastik ve Kimyevi Madd. San. ve Tic. A.Ş. çok amaçlı PE sıkılabilir tüp, silikon-mastik kartuş ve efervesan tüp, silikajel, PU mastik, Silikon, PU Foam, Hızlı yapıştırıcı, Cyanoacrylate, Deniz tutkalı üreten yerli sermayeli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clinomyn",
+    "description": "Clinomyn, 2012 yılında kurulan Trimb Healthcare bünyesindeki ağız ve diş bakım ürünleri markasıdır. Sigara içenler için tütünden kaynaklanan sorunlara dönük ürünlerdir.Trimb Healthcare ürünleri dünya çapında 50’den fazla ülkede satılır.Trimb Healthcare AB İsveç merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Argox",
+    "description": "Argox, 1996 yılında kurulan Argox Information Co., Ltd. bünyesindeki barkod/etiket yazıcısı markasıdır.Argox markalı ürünler 70’den fazla ülkede satılıyor.Argox Information Co., Ltd. Tayvan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Optoma",
+    "description": "Optoma, 2002 yılında Wade Chang tarafından kurulan Coretronic Group bünyesindeki projeksiyon cihazı ve aksesuarlar, profesyonel görsel-işitsel çözümler, dijital sinema, lazer projeksiyon cihazları, LED projektörler, DLP Projektör markasıdır.Dünya çapında 157 ülkede Optoma Projeksiyon Cihazları satılmaktadır.Coretronic Group Tayvan merkezli bir şirkettir. Tayvan ve Çin’de üretim tesisleri bulunmaktadır. Coretronic Group bünyesindeki ürünler arasında; DLP projeksiyon cihazları, İnteraktif projeksiyon sistemi, Sürükleyici eğrisi dokunma sistemi, Görüntü sinyal işleme kutusu, Projeksiyon modülü, PoE güç kaynağı, Giyilebilir ekran, Spektrometre, Hafif kılavuz plaka (LGP), LCD arka ışık modülü, Optik bileşen, Dikişsiz ekran, Ultra ince çift ekran, Dokunmatik modül, Endüstriyel ve tıbbi ekran, Tıbbi muayene cihazı yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Aveeno",
+    "description": "Aveeno, 1945 yılında Sidney ve Albert Musher tarafından kuruldu. Johnson & Johnson Consumer Inc. bünyesindeki cilt bakımı ve saç bakım ürünleri markasıdır. Markanın tüketim malları ve ilaç şirketi Johnson & Johnson şirketine aittir.1886 yılında kurulan Johnson & Johnson şirketi, medikal cihazlar ve ilaç alanında faaliyet göstermekte olan Amerikan şirketidir.Johnson & Johnson 1985 yılında tüketim ürünleri firması olarak Türkiye’de faaliyetlerine başladı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

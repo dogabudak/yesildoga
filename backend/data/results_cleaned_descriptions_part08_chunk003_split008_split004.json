@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Snacky",
+    "description": "Snacky, 1989 yılında kurulmuş olan Pelagos Akvaryum San. ve Tic. Ltd. Şti. bünyesindeki köpek bisküvileri, çiğneme kemikleri, ödül mamaları markasıdır.İçeriğinde yüzde 100 sığır derisi kullanılarak üretilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Umbra",
+    "description": "Umbra, 1979 yılında Paul Rowan ve Les Mandelbaum tarafından kurulmuş olan Umbra Ltd. bünyesindeki ev aksesuarları markasıdır.Umbra Ltd. Kanada merkezlidir. Ürünlerini ağırlıklı olarak Çin’de ürettirmektedir ve perakendeciler aracılığıyla 120 ülkede satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Tructec",
+    "description": "Tructec, 1989 yılında kurulmuş olan Trucktec Automotive Gmbh bünyesindeki otomotiv parçaları markasıdır.Binek otomobil, lcv, kamyon ve otobüsler için; fren diskleri, hava şeritleri gibi tüm parçaları tedarik etmektedir.Trucktec Automotive Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mie Minoxidil",
+    "description": "Mie, 2019 yılında kurulmuş olan Mie Kozmetik ve İlaç San. Tic. Ltd. Şti. bünyesindeki saç bakım ürünleri markasıdır.ISO 9001, ISO 22000, ISO 22716 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;AraraClara DiesDerma SkinEczemexLiberMieMiedermaMieskinMiexilN BuradaNurevimProcapilSüerden",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kiesleckt",
+    "description": "Kiesleckt, 2015 yılında kurulmuş olan Shanghai Kieslect Technology Co. Ltd. bünyesinde üretilen akıllı saatler markasıdır.Shanghai Kieslect Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

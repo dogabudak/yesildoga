@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Stella Ülke",
+    "description": "Stella, 1982 yılında kurulan Stella International Ltd. bünyesindeki ayakkabı ve tekstil ürünleri markasıdır.Bünyesindeki markalar ; Stella Luna, What For ve JKJY by StellaStella International Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "SIMCom",
+    "description": "SIMCom, 1986 yılında kurulan SIM Technology Group Ltd bünyesindeki; teknik platformlara dayalı çeşitli kablosuz modüller ve kablosuz makine iletişim çözümleri markasıdır.SIM Technology Group Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Brixton",
+    "description": "Brixton, 2015 yılında KSR Group tarafından kurulan motosiklet markasıdır.KSR Group GmbH’nin ayrıca bir diğer motosiklet ve scooter markası KSR MOTO’dur.Aile şirketi Avusturya merkezli motosiklet üreticisi KSR, Brixton Motorcycles’ın marka sahibi ve dünya çapında dağıtıcısıdır.KSR Group ürünleri dünya çapında 60’tan fazla ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Jinling",
+    "description": "Jinling, 1996 yılında kurulan Yongkang Jinling Vehicle Co, Ltd bünyesindeki çeşitli ATV(Tüm Arazi Araçları), cep bisiklet, dağ bisikleti, mini helikopterler, gaz scooter, elektrikli scooter ve mini scooter markasıdır.Yongkang Jinling Vehicle Co, Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Md Fulla",
+    "description": "Md Fulla Moda, 1998 yılında Musa Dengiz tarafından kurulan Musa Dengiz Tekstil San. ve Tic. Ltd. Şti. bünyesindeki mağazalar zinciridir.Mağazalarda kadın, erkek, çocuk giyim ürünleri, ayakkabı ve çanta aksesuarları, iç giyim ve çorap (gömlek, külot, slip, gecelik, pijama, bornoz, ropdöşambır, kombinezon, iç etek, jüpon, sabahlık, atlet, fanila, sütyen, korse, tişört, külotlu çorap, tayt, vb.) ürünler satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Paper Mate",
+    "description": "Paper Mate, 1940’lı yıllarda Patrick J. Frawley tarafından kurulan The Frawley Pen Company bünyesindeki kalemler ve düzeltme ürünleri markasıdır.2000 yılında Amerika merkezli Newell Office Brands tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Esrarengiz Kasaba Animasyon Filmi",
+    "description": "Esrarengiz Kasaba 2012 yılında Amerikalı Alex Hirsch tarafından oluşturulan ve hakları Amerika merkezli Disney Channel’a ait olan animasyon çizgil film serileridir.Türkiye’de ilk kez 2013 yılında yayınlanmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Herma",
+    "description": "Herma, 1906 yılında Heinrich Hermann tarafından kurulan Herma GMBH bünyesindeki etiket, etiket makineleri ve yapıştırıcı ürünler markasıdır.Ürün yelpazesinde; yazıcılar ve kopyalama makineleri için kendinden yapışkanlı etiketler, çok amaçlı etiketler, arşivleme ürünleri yer almaktadır. Ürünlerinde su bazlı ve solventsiz yapıştırıcılar ve klorsuz beyazlaştırılmış kâğıtlar kullanmaktadır.Almanya merkezli Herma GMBH’nin, İngiltere, Fransa, Avusturya, İsviçre ve Singapur’da şubeleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "British Steel",
+    "description": "British Steel, 1967 yılında İngiltere’de kuruldu. Çelik, yüksek kalite tren rayları ve filmaşin üretmekte olan şirket 1999 yılında Hollanda merkezli çelik şirketi Koninklijke Hoogovens ile birleşerek Corus adını aldı. 2007 yılında Corus’u Hindistan merkezli Tata Steel satın aldı. 2016 yılında Greybull Capital tarafından satın alınan şirket adı tekrar British Steel’e dönüştü.Şirketin İngiltere, Fransa ve Hollanda’da üretim faaliyetleri bulunuyor.İngiltere merkezli Greybull Capital gerekli fonlamayı sağlayamayınca British Steel’in kontrolü İngiltere İflas Kurumu’na devredildi ve şirketin yönetimi, şirket satılana kadar denetim ve danışmanlık şirketi Ernst & Young’a bırakıldı.OYAK’ın sahip olduğu Ataer Holding, British Steel’i satın almak için İngiliz şirket ile ön anlaşma yaptı ve yıl sonuna kadar şirketin devralınması planlanıyor.Ataer Holding, Türkiye’nin en büyük çelik üreticisi Erdemir’in de yüzde 49,3’ünün sahibi.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Vauxhall",
+    "description": "Vauxhall, 1857 yılında Alexander Wilson tarafından kurulan Vauxhall Motors bünyesindeki Opel’in Birleşik Krallık’ta faaliyet gösteren otomobil ve ticari araç markasıdır. 2017 yılında Groupe PSA tarafından satın alınmıştır.Groupe PSA Fransa ve Çin sermayeli otomotiv şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

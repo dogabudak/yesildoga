@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Muela",
+    "description": "Muela, 1952 yılında Eladio Muela tarafından kurulan Manufacturas Muela S.A. bünyesinde üretilen bıçak markasıdır.Avcı ve genel bıçaklarda boynuz, ahşap ve egzotik ağaçlar kullanılarak kaplamalarla sağlamlaştırılmaktadır.Manufacturas Muela S.A. İspanya merkezlidir. Ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Qwant",
+    "description": "Qwant, 2013 yılında kurulan Qwant SAS bünyesindeki web arama motorudur.Kendi indeksleme motoruna sahip olan AB tabanlı tek arama motorudur. Kullanıcı izlemediğini iddia eder ve kullanıcıları bir filtre balonuna bindirmemek için arama sonuçlarını kişiselleştirmez.Fransa hükümeti 2018 yılında tüm hükümet aramalarının Qwant kullanılarak yapılmasına karar verdi. Çocuk dostu versiyonu Fransa Eğitim Bakanlığı işbirliğinde geliştirilmiştir. Avrupa Yatırım Bankası tarafından yatırım yapılmıştır.Avrupa merkezli olduğu için siteyi ziyaret eden kullanıcılar sıkı Avrupa gizlilik yasalarıyla korunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Phosagro",
+    "description": "Phosagro, 2003 yılında kurulan JSC Phosagro bünyesindeki fosfat ve yem fosfat üreten bir kimya markasıdır.Phosagro, dünyanın önde gelen fosfat bazlı gübre üreticilerinden biridir. Avrupa’nın en büyük fosfat bazlı gübre üreticisidir.JSC Phosagro, holding şirketi Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Luna Elektrik Sayacı",
+    "description": "Luna, 1991 yılında kurulan Luna Elektrik Elektronik Sanayi ve Tic. A.Ş. bünyesinde üretilen elektronik elektrik sayaçları, su sayaçları, armatür, led panel, grup priz serisi markasıdır.LUNA, 5 bin metrekarelik fabrikasında elektronik devreler, plastik ve metal aksamlar, yazılım ve donanımların tamamını kendi bünyesinde yapmaktadır. ISO-9001 ve MID sertifikalarına sahiptir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maglite",
+    "description": "Maglite, 1955 yılında Anthony Maglica tarafından kurulan Mag Instrument, Inc. bünyesindeki el feneri, şarj cihazı, LED markasıdır.Kompakt’tan Şarj edilebilire ve çok fonksiyonlu ışık serisine kadar ultra-modern el feneri teknolojisinin tam spektrum içeren taşınabilir aydınlatma ürünleri sunmaktadır.Mag Instrument, Inc. Amerika merkezlidir ve ürünlerini Amerika’daki fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

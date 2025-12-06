@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Uçantay",
+    "description": "Uçantay, 2010 yılında kurulmuş olan Uçantay Gıda San. ve Tic. A.Ş. bünyesindeki oyuncak ve oyuncaklı şekerler markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BigmenBonbon Toys CandysBonlivaCaprimaComicoCosbeiCosbyCosby CubicCosby Double FunCosby Super BoysCosby Super GirlsCukkaDouble LoveFanatikFanatik TaraftarFilomaketFloovaGool KartHappy BonHappy StonesI Love YouLe Cafe Chocolate MixLiamiaLike MoreLokalotaLukolatMambinaMiss FısfısMiss Happy EggMiss SloopMr.BoomMr. BoomMr. BoxMr. MixNihaoOdeoPeckyPlay BoxRally KonvoyRedchokoRischScoovaSuper BoysSuper GirlsUçantayUmbrellaX-ForceYoungs ForceYoungs Star",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tony’s Chocolonely",
+    "description": "Tony’s Chocolonely, 2005 yılında kurulmuş olan Tony’s Chocolonely Nederland B.V. bünyesinde üretilen çikolata markasıdır.Tony’s Chocolonely Nederland B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cartoon Oyuncak",
+    "description": "Cartoon, Cartoon Oyun ve Oyuncak San. bünyesinde üretilen ahşap oyunlar, arabalar, grup oyunları, oyuncak mutfak seti, oyunlar, puzzle markasıdır.Firma İstanbul merkezlidir ve ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Paidi",
+    "description": "Paidi, 1935 yılında kurulmuş olan Paidi Möbel Gmbh bünyesindeki bebek odası, çocuk yatakları, çocuk masaları markasıdır.Paidi Möbel Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Gürdal Zeytincilik",
+    "description": "Gürdal Zeytincilik, 1975 yılında Mustafa Gürdal tarafından kurulmuş olan Gürdal Gıda Tarım ve Nakl. Tic. San. Ltd. Şti. bünyesinde üretilen siyah ve yeşil zeytin markasıdır.Ürünlerini kendi zeytin bahçelerinden hiçbir katkı maddesi veya kimyasal madde içermeden üretmektedir.Firma Aydın merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

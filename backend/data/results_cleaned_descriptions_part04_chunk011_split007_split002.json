@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Birpa",
+    "description": "Birpa, 2015 yılında kurulan Birpa Metal ve San. Dış Tic. A.Ş. bünyesinde üretilen çatal, bıçak, paslanmaz çelik pişirme ekipmanları, plastik mutfak gereçleri, plastik banyo ve mutfak aksesuarları markasıdır.İstanbul merkezli firma ürünlerini İkitelli OSB’de üretmekte ve 56 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hanwag",
+    "description": "Hanwag, 1967 yılında kurulan Fenix Outdoor AB bünyesindeki ayakkabı, özellikle yürüyüş botları, kayak, dağcılık ve yürüyüş botları, nordic yürüyüş botları ve çok fonksiyonlu ayakkabılar, sırt çantaları, uyku tulumları, çadırlar ve dış giyim, kamp sobaları ve fenerleri markasıdır.İsveç menşeli Fenix Outdoor International AG’nin merkezi İsviçre’de bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2024-01-13"
+  },
+  {
+    "company": "Anself",
+    "description": "Anself, 2004 yılında kurulan Shenzhen Tomtop Technology Co. Ltd. bünyesinde üretilen güzellik maskeleri, kozmetik kalemler, kozmetik amaçlı pamuklu çubuklar, kozmetik amaçlı pamuk yünü, cildi ovmak için aşındırıcı süngerler, kaş fırçaları, kirpik fırçaları, gömme makyaj kutuları, köpük ayak ayırıcılar, giyim, önlükler, atletik taytlar, bebek pantolonları markasıdır.Shenzhen Tomtop Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Klavuu",
+    "description": "Klavuu, 2015 yılında kurulan Bekeikorea Co. Ltd. bünyesinde üretilen kozmetik ürünler markasıdır.Kimyasal içeriklerden arındırılmış doğal bileşenlerden oluşan cilt çözümleri üretmektedir.Bekeikorea Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "iProven",
+    "description": "iProven, 2013 yılında kurulan Masena Invest B.V. bünyesinde üretilen termometreler, kan basıncı monitörleri, oksimetreler, kişisel bakım, ev kullanımı için gebelik test kitleri markasıdır.Masena Invest B.V. merkezi Hollanda’da bulunan ve ABD’de iştirakleri olan küresel bir şirkettir. Ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

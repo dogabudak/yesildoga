@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Yelp",
+    "description": "Yelp, 2004 yılında Russel Simmons ve Jeremy Stoppelman tarafından kurulan Yelp Inc. bünyesindeki çevrimiçi reklamcılık markasıdır.Çok kaynaklı bir yerel işletme incelemesi ve sosyal ağ sitesidir. Kullanıcılarının yıldızlı derecelendirme ölçeği kullanarak ürün veya hizmetlerine ilişkin bir inceleme gönderebilecekleri restoranlar, ev hizmetleri ve daha fazlası gibi ayrı konumlara ayrılmış sayfalara sahiptir. Ayrıca çevrimiçi rezervasyon hizmeti de sunmaktadır.Yelp Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Paul Mitchell",
+    "description": "Paul Mitchell, 1980 yılında Paul Mitchell ve John Paul DeJoria tarafından kurulan John Paul Mitchell Systems Inc. bünyesinde üretilen lüks saç bakımı ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.John Paul Mitchell Systems Inc. Amerika merkezlidir. Ürünlerini 90’dan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Awapuhi Wild GingerMITCHMVRCKNeuroPaul MitchellPro ToolsTea Tree",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nip Baby",
+    "description": "Nip, 1932 yılında kurulan Nürnberg Gummi Babyartikel GmbH & Co. KG bünyesinde üretilen emzik, biberon, beslenme ürünleri markasıdır.Nürnberg Gummi Babyartikel GmbH & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Diono",
+    "description": "Diono, 1999 yılında kurulan Diono LLC bünyesindeki bebek arabası, çocuk araç koltuğu, bebek arabası, bebek taşıyıcı aksesuarları ve yedek parçaları markasıdır.Diono LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mz Mizums",
+    "description": "Mz Mizums, 2015 yılında kurulan Shenzhen Mingzun Gift Watches Co. Ltd. bünyesinde üretilen kol saati, çalar saat, kronometre, saat kayışları, kadranları, bantları, kutuları, torbaları markasıdır.Shenzhen Mingzun Gift Watches Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

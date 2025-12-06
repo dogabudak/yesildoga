@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Bodylita",
+    "description": "2018 yılında kurulan Peak Sales Dijital Paz. Satış ve Dış Tic. Ltd. Şti. bünyesindeki cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Xaser",
+    "description": "2021 yılında temeli atılan Snd Bilişim ve Otomotiv Tic. Ltd. Şti. bünyesinde ithal edilen masaüstü bilgisayar, oyuncu bilgisayarı, kasa, ekran, klavye, mouse, kulaklık ve kablo markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Enroush",
+    "description": "2019 yılında Carmen Lumina Scalisi tarafından kurulmuş olan Enroush Srl. bünyesinde üretilen organik pedler, organik tamponlar, organik günlük pedler markasıdır.Ürünleri plastik, dioksin, parfüm, sentetik lifler veya diğer toksik maddeler içermez. Ürünlerini ISO 9001 GOTS belgeli pamuklarla ve BR belgeli bitkilerle üretmektedir.Enroush Srl. Romanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RO",
+    "updated_date": null
+  },
+  {
+    "company": "Bester Audio",
+    "description": "2022 yılında kurulmuş olan Bester Electronics Technology Co. Ltd. bünyesinde üretilen araba hoparlörü, UTV/ATV hoparlör, araba orta kademe hoparlör, deniz hoparlörü, kule hoparlörü, tavan hoparlörü markasıdır.Bester Electronics Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Derebağı",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Carl Suchy & Söhne",
+    "description": "Carl Suchy & Söhne, 2016 yılında Robert Punkenhofer tarafından yeniden kurulan Carl Suchy & Söhne AG bünyesindeki lüks saat markasıdır.Carl Suchy & Söhne AG Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Basic Fotokopi Kağıdı",
+    "description": "Basic Fotokopi Kağıdı Hangi Ülkenin Malı MarkasıBasic, 1898 yılında kurulan International Paper Company bünyesinde üretilen kağıt markasıdır.Dünyanın en büyük kağıt hamuru ve kağıt şirketidir.Ambalaj, kağıt ve selüloz üreticisi International Paper Company Amerika merkezlidir. Amerika, Avrupa, Rusya, Asya, Afrika ve Orta Doğu’da birincil pazarlara ve üretim operasyonlarına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Meier",
+    "description": "Meier, ahşap görünümlü retro radyo markasıdır. Portatif kumandalı ürün, şarjlı, pilli ve elektrikli çalışabilmektedir ve Bluetooth özelliğine, USB girişine sahiptir. Ayrıca hafıza kart girişleri ve aux girişi mevcuttur.Meier markalı radyolar Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Spetema Caffe",
+    "description": "Spetema Caffe, 1997 yılında kurulan Balkam Group Ltd. bünyesindeki toz kahve ve kahve makineleri markasıdır.Spetema kahvesi 4 kıta 20 ülkeden gelmektedir. ISO 9001 belgesine sahiptir.Balkam Group Ltd. Bulgaristan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Vestpa",
+    "description": "Vestpa, 2010 yılında kurulan Vestpa Şirketler Gurubu bünyesindeki Vestpa Kağıtçılık Kırtasiye Tekstil Gıda San. ve Tic. Ltd. Şti. tarafından üretilen fotokopi kâğıtları ve koli bantları markasıdır.İzmir merkezli firma kırtasiye ve fotokopi kağıdı sektöründe hizmet vermektedir.Bünyesindeki markalar;Devsa PaperVestpa",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

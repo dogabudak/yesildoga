@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hommer Bakım Ürünleri",
+    "description": "Hommer, 2014 yılında kurulan Calyndia P.C. bünyesinde üretilen saç ve vücut bakım ürünleri, kokular ve aksesuarlar markasıdır.Ürünleri doğal malzemelerle üretilmiştir.Calyndia P.C. Yunanistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Secupor",
+    "description": "Secupor, 1969 yılında kurulan Saarpor Klaus Eckhardt Gmbh Neunkirchen Kunststoffe KG bünyesindeki polistirenden yapılmış dekorasyon ve yalıtım ürünleri markasıdır.Saarpor Klaus Eckhardt Gmbh Almanya merkezlidir ve ürünlerini 60 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Glora Krema",
+    "description": "Glora, 2011 yılında kurulan Vega Gıda San. A.Ş. bünyesinde üretilen kakaolu ve fındıklı kremalar markasıdır.Ürünleri koruyucu, trans yağ ve renklendirici içermez.TS EN ISO 9001, TS EN ISO 22000 belgelerine sahiptir.Vega Gıda San. A.Ş. Kopuz Şirketler Grubu iştirakidir. Toplamda 46 bin metrekarelik kapalı üretim tesislerinde unlu mamuller, çikolata ve çikolata kaplamalı ürünler, şekerli, oyuncaklı ve çikolatalı drajeler, kakaolu, fındıklı krema ve şekerleme ürün gruplarını üretmektedir.Bünyesindeki markalar;AltındemAlunaBenovşeCafeChaidanDynamicFrutikaGloraKarçayKar Çay EarlgreyKar Çay TomurcukKar Çay VendingKarchaiKlasMatchalaPronellaProteinellaShimbaSmart CarTeainTurco ChaiVegaçay AltındemVegaVegabisVegabonVeganutÇayın BahçesiÖzbağŞikidim ŞikidimŞokpramit",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Marttiini",
+    "description": "Marttiini, 1928 yılında kurulan Marttiini Oy bünyesinde üretilen balıkçılık bıçakları, av bıçakları, dış mekan bıçakları, mutfak bıçakları, tasarım ve özel bıçaklar ile kulplar markasıdır.Marttiini Oy Finlandiya merkezli Rapala VMC Corporation’ın bir parçasıdır ve ürünlerini Finlandiya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Umie",
+    "description": "Umie, 2003 yılında kurulan Segment Bilgisayar Dış Tic. Ltd. Şti. bünyesinde ithal edilen robot süpürge, ip kamera markasıdır.Firma ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dasty",
+    "description": "Dasty, 1990 yılında kurulan Dasty I. S.P.A. bünyesinde üretilen beyazlatma ve temizlik amaçlı maddeler, deterjanlar, çamaşır suyu gibi ürünlerin markasıdır.Dasty Italy S.P.A. ev temizliği için deterjan üretimine odaklanmış İtalya merkezli bir aile şirketidir. Ürünlerini İtalya’da 23 bin metrekarelik alanda üretmektedir.Bünyesindeki markalar:Classic Dasty Degreaser Yağ SökücüDastyDasty Bathroom Banyo ProfessionalDasty Glass Camlar & Yüzeyler ProfessionalDasty Super Antikalk Kireç Sökücü ProfessionalDasty Super Cleaner Duvarlar Professional",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Danner",
+    "description": "Danner, 1932 yılında Charles Danner tarafından kurulan bot ve çizme markasıdır.Danner, 2012 yılında ABC-Mart, Inc.’in sahibi olduğu LaCrosse Footwear’ın bir yan kuruluşudur. Ürünlerini Amerika’da üretmektedir. Toptan ve sözleşmeli üretim sunan Danner, ABD askeri ve kolluk kuvvetlerine ayakkabı tedarik etmektedir.ABC-Mart, Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Türk Şeker",
+    "description": "Türk Şeker Nerenin Malı MarkasıTürk Şeker, özelleştirme uygulamaları hakkında kanuna tabii bir İktisadi devlet teşekkülü olan Türkiye Şeker Fabrikaları A.Ş. bünyesindeki şeker, salça ve buğday ürünleri markasıdır.Türkiye’de 15 şeker fabrikası ile üretim yapmaktadır. Ürünlerini Tarım Kredi Birliği’nin marketlerinde, yerel ve ulusal marketlerde piyasaya sürmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cengiz Pakel",
+    "description": "Cengiz Pakel, 1997 yılında kurulan Cengiz Pakel Deri Ürünleri Ltd. Şti. bünyesinde üretilen çanta ve cüzdan markasıdır.Ürünlerini Ankara İvedik OSB’de birinci sınıf malzemeler kullanarak üretmektedir. Ürünlerdeki astar ise yüzde 100 polyesterdir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Edison Professional",
+    "description": "Edison Professional, 2005 yılında kurulan Brite Lite Enterprises Corp. bünyesinde üretilen hoparlör, profesyonel DJ sistemleri, PA sistemleri, bom kutuları ve aksesuarları markasıdır.Brite Lite Enterprises, Amerika merkezli Audio & Video Equipment Manufacturing Industry’nin bir parçasıdır.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

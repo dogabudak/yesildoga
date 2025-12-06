@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Land",
+    "description": "Land, 1999 yılında kurulmuş olan Land Mobilya San. Tic. Ltd. Şti. bünyesindeki raylı dolap, giyinme odası, genç odası, koltuk, karyola markasıdır.Özel üretim mobilyalar sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vet’s Plus",
+    "description": "Vet’s Plus, 2014 yılında kurulmuş olan Petlebi Güvenli E-Ticaret Ltd. Şti. bünyesindeki kedi mamaları, konserveler, kedi vitaminleri, kedi çimi, kedi macunu, kedi ve köpekler için somon yağı, tüy güçlendirici markasıdır.Firma Bursa merkezlidir.Bünyesindeki markalar;Nature’s PlusNaturonPetlebiRimbaVet’s Plus",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wurkkos",
+    "description": "Wurkkos, 2019 yılında kurulmuş olan Shenzhen Wokesida Technology Co. Ltd. bünyesinde üretilen taşınabilir aydınlatmalar markasıdır.Shenzhen Wokesida Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Çitello",
+    "description": "Çitello Nerenin Malı MarkasıÇitello, 1995 yılında kurulmuş olan Prenses Gıda Sanayi ve Tic. Ltd. Şti. bünyesindeki kuruyemiş ve kuru meyve markasıdır.ISO 9001, HACCP, TSE belgelerine sahiptir.Firma Antalya merkezlidir. Ürünlerini Antalya OSB’de bulunan 6 bin 400 metrekaresi açık, 3 bin 200 metrekaresi kapalı olan üretim tesislerinde üretmektedir ve bir çok ülkeye ihraç etmektedir.Bünyesindeki markalar;BalçerezÇitelloDrajiksJanjanJellynutJorjetKraliyet AilesiPamfilyaPopskrakPopstarPrenses",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Case Club",
+    "description": "Case Club, 1994 yılında kurulmuş olan Erdal Çanta San. ve Tic. Ltd. Şti. bünyesinde üretilen omuz çantası, pilot valiz, bilgisayar çantaları markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

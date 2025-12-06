@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Synaptics Ülke",
+    "description": "Synaptics, 1986 yılında Federico Faggin ve Carver Mead tarafıdan kurulan donanım ve yazılım geliştiricisi, bilgisayar dizüstü bilgisayarlar için dokunmatik yüzeyler dahil; akıllı telefonlar için dokunmatik, ekran sürücüsü ve parmak izi biyometrik teknolojisi; ve akıllı ev cihazları ve otomotivler için dokunmatik, video ve uzak alan ses teknolojisi üreticisi Amerikan merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Formula Akülü Araba",
+    "description": "Formula Akülü Araba markası 1957 yılında kurulan Nil Deniz ve Sağlık Gereçleri Tic. San. Aş. bünyesindedir. Şirket Türkiye’de ilk kez enjektör üretimi, biberon ve emzik üretimi, deniz malzemeleri üretimi gerçekleştiren bir Türk firmasıdır.Baby2go bünyesindeki bir diğer markadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-08-23"
+  },
+  {
+    "company": "Emsan",
+    "description": "Emsan Mutfak Gereçleri A.Ş., 1971 yılında kuruldu. 2008 yılında Karaca Zücaciye tarafından satın alındı.Emsan Türkiye’de 23 farklı üreticide belirttiği kriterlerine göre üretim yaptırıyor. Ürünlerin tasarımlarını kendi bünyesinde yapıyor ve yüzde 80’i Türkiye’de üretiliyor.Karaca Grup bünyesindeki markalar:KaracaKaraca HomeEmsanJumboCook Plus",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Esse",
+    "description": "Esse, 2002 yılında Semih Şeftali tarafından kurulan mutfak perakendesi zinciridir. 2016 yılında Ataköy Dayanıklı Tüketim Mamulleri San. ve Tic. Ltd. şirketi tarafından satın alındı.Türk firması Esse bünyesinde yer alan markalar:DesirDouble SEsse HomeEssenso",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "WMF",
+    "description": "WMF (Württembergische Metallwarenfabrik), 1880 yılında kurulan mutfak malzemeleri markasıdır.Fransa merkezli Groupe SEB bünyesindedir.Groupe SEB çatısı altında yer alan markalar:KrupsLagostinaMoulinexRowentaTefalWMF",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

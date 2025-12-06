@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Burris",
+    "description": "Burris, 1995 yılında kurulmuş olan Beretta Holding S.p.A. bünyesinde üretilen optik görüş, dürbün markasıdır.Beretta Holding S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "TSC Yazıcı",
+    "description": "TSC, 1991 yılında kurulmuş olan TSC Auto ID Technology Co. Ltd. bünyesinde üretilen etiket yazıcısı, barkod yazıcısı, termal yazıcı, renkli yazıcı ve baskı motoru markasıdır.Şirket, mobil, masaüstü, endüstriyel ve kurumsal sınıf barkod etiket yazıcıları, RFID yazıcılar, entegre barkod etiket inceleme sistemleri, baskı motorları, gelişmiş yazıcı yazılımı, standart ve özel etiketler ve şeritler dahil olmak üzere çok çeşitli barkod etiket baskı çözümleri sunmaktadır. ISO 9001 belgesine sahiptir.TSC Auto ID Technology Co. Ltd. Tayvan merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Otosor",
+    "description": "Otosor, 2017 yılında kurulmuş olan Otosor Otomotiv A.Ş. bünyesindeki ikinci el araç alım, satım markasıdır.Müşterilerine vadeli ödeme, takas ve nakit araç alım imkanları ve sigorta paketleri sağlamaktadır. Araç almak isteyen bir kişi taksitli alım yapmak ve banka kredisi kullanmak istemiyorsa, kredisiz kefilsiz 48 aya varan taksit imkanından faydalanarak satın alma işlemi yapabilir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "The Skin House",
+    "description": "The Skin House, 1979 yılında kurulmuş olan The Skin House Co. Ltd. bünyesinde üretilen kozmetik markasıdır.Ürünlerinde doğal ve organik bileşenler kullanıyor.The Skin House Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Kaemingk",
+    "description": "Kaemingk, 2006 yılında kurulmuş olan Kaemingk B.V. bünyesinde üretilen yazlık bahçe dekorasyonu ve çeşitli ev aksesuarları markasıdır.Kaemingk B.V. Hollanda merkezlidir ve ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

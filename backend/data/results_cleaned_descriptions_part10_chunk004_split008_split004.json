@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hishtil",
+    "description": "1974 yılında kurulmuş olan Hishtil Ltd. bünyesinde üretilen sebze, ot, fide ve genç bitkiler, aşılı bitkiler markasıdır.Gelişmiş bahçecilik fidanlıkları üretiminde sürekli olarak benzersiz teknolojiler ve üretim protokolleri geliştirmektedir.Hishtil Ltd. İsrail merkezlidir. İsrail’de 4 saha ve Türkiye, Güney Afrika, İtalya, İspanya, Bosna Hersek ve ABD’de 6 ortak girişim fidanlığından oluşan ve yılda 1 milyardan fazla yüksek kaliteli genç bitki üretimi yapan küresel bir fidanlık ağına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Madlions",
+    "description": "Shenzhen Shuomuda Technology Co. Ltd. bünyesinde üretilen oyuncu klavyeleri, fareleri ve fare altlıkları markasıdır.Shenzhen Shuomuda Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Etibeyaz",
+    "description": "2001 yılında kurulmuş olan Defnekaya Dönercilik San. Tic. Ltd. Şti. bünyesindeki piliç döner, tavuk döner, tavuk dürüm döner şubeleri markasıdır.Firmalara günlük çiğ hazır baton döner vermektedir.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yeni İnci",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Koru Sigorta",
+    "description": "2017 yılında kurulmuş olan Koru Sigorta A.Ş. bünyesindeki sigortacılık hizmetleri markasıdır.Firma İstanbul merkezlidir.Hissedarları:Erhan Çiftcioğlu (yüzde 71,8)Atıf Bülent Bora (yüzde 15,9)Sim Bora (yüzde 5,9)Esra Bora (yüzde 5,9)",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

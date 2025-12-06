@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Andraschko Kaffee",
+    "description": "Andraschko Kaffee, 2006 yılında kurulan Andraschko Kaffee Manufaktur GmbH & Co. KG bünyesinde üretilen kahve markasıdır.Hindistan, Brezilya veya Kosta Rika menşeli kahve kullanmaktadır.Andraschko Kaffee Manufaktur GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tümasan Tm",
+    "description": "Tümasan Tm Nerenin Malı MarkasıTümasan Tm, 2011 yılında Mevlüt Yeyen tarafından kurulan Tümasan Makina İmalatı ve Isı Sistemleri Üretim Paz. San. ve Tic. Ltd. Şti. bünyesinde üretilen cam makinesi, rollform makinesi, tekstil makinesi, kablo makinesi, tarım makinesi, kiraz makinesi, mermer makinesi, kağıt makinesi markasıdır.Firma Denizli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çağdaş Marketler",
+    "description": "Çağdaş Marketler, 1998 yılında Ümit Erdem Uzun tarafından kurulan Yeni Çağdaş İhtiyaç ve Gıda Maddeleri İnşaat Tic. Ltd. Şti. bünyesindeki süpermarket zinciridir.Yaklaşık 50 mağazasıyla hizmet veren Ankara merkezli firmanın çoğnuluk hissesi Ümit Erdem Uzun’a aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-21"
+  },
+  {
+    "company": "C. Jul. Herbertz",
+    "description": "C. Jul. Herbertz, 1992 yılında kurulan C. Jul. Herbertz Gmbh bünyesinde üretilen bıçak, kesici ürünler markasıdır.Firma Avrupa’nın önde gelen spor, eğlence, avcılık ve koleksiyon bıçak tedarikçilerinden biridir.C. Jul. Herbertz Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Yunus Marketler Zinciri",
+    "description": "Yunus Marketler Zinciri, 1995 yılında Ayhan ailesi tarafından kurulan Yunus Market İşletmeleri Tic. A.Ş. bünyesindeki perakende markasıdır.Kasap reyonlarında bulunan etler, yüzde 100 yerli hayvanlardan islami usullere uygun olarak tesislerinde işlenmektedir.Ankara merkezli firma 100’den fazla mağaza ile faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

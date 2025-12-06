@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Clover Giyim",
+    "description": "Clover, 1980 yılında kurulmuş olan Clover IT s.r.l. bünyesinde üretilen bisikletçiler ve motosikletler için giyim ve aksesuarlar markasıdır.Clover IT s.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Gew N Kirish",
+    "description": "Gew N Kirish, 2010 yılında kurulmuş olan ABCS Gıda ve Kozmetik Ürünler Ltd. Şti. bünyesinde üretilen doğal bebek bakım ve kişisel bakım ürünleri markasıdır.Zararlı kimyasalları barındırmadan üretim yapmaktadır.Firma Ankara merkezlidir.Bünyesindeki markalar;BlaconGew N KirishGvkHerbafloraWelltimate",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Medicotex",
+    "description": "Medicotex, 2016 yılında kurulmuş olan Akmeda Medikal Dan. Gayr. Turz. San. ve Tic. Ltd. Şti. bünyesindeki tek kullanımlık cerrahi önlük, steril örtü ve örtü setleri markasıdır.ISO 13485 belgesine sahiptir.Firma Ankara merkezlidir. Ürünlerini Ostim OSB’de toplam 3 bin 500 metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mivv",
+    "description": "Mivv, 1969 yılında kurulmuş olan M.I.V.V. Metal Industria Val Vibrata S.p.a. bünyesinde üretilen motorlu taşıtlar için egzoz sistemleri ve bileşenleri markasıdır.M.I.V.V. Metal Industria Val Vibrata S.p.a. İtalya merkezlidir. Ürünlerini İtalya’da bulunan 3 üretim tesisinde üretmektedir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Alaris",
+    "description": "Alaris, 2009 yılında kurulmuş olan Alaris Medikal ve Laboratuvar Ürün. San. Tic. Ltd. Şti. bünyesindeki ESR analiz cihazı, yarı otomatik koagülasyon analizörleri ve sarf malzemeleri, ESR tüpleri ve koagülasyon reaktifleri markasıdır.ISO 13485 belgesine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

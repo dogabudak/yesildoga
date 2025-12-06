@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bizon Energy",
+    "description": "Bizon Energy, 2015 yılında Avrora Group bünyesinde üretilen enerji içeceği markasıdır.Bizon Energy, günlük fiziksel ve zihinsel aktivitelere katılan insanlar için tasarlanmıştır. Bizon Energy, 250 mL ve 500 mL’lik mavi ve kırmızı kutularda satılmaktadır.Avrora Group Azerbaycan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Srs",
+    "description": "Srs, Srs International Sprl tarafından üretilen cilt bakım solüsyonu markasıdır.SRS; yüz, saç ve vücut için özel olarak belirtilen geniş bir ürün yelpazesi sunar.Srs International Sprl İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Kuchenmeister",
+    "description": "Kuchenmeister, 1884 yılında kurulan Kuchenmeister GmbH bünyesinde üretilen kek markasıdır.Kuchenmeister GmbH Almanya merkezlidir ve sahibi Trockels Ailesidir. Ürünlerini Almanya’da bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Molten",
+    "description": "Molten, 1958 yılında kurulan Molten Corporation bünyseindeki spor ekipmanları ve otomotiv parçalarıMolten çoğunlukla futbol topları, basketbol, yakartop, hentbol ve voleybol gibi sporları içeren ürünler üretmektedir.Molten Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Goldcorp",
+    "description": "Goldcorp, 1994 yılında Rob McEwen tarafından kurulan Goldcorp Inc. bünyesindeki altın markasıdır.Goldcorp Inc. Kanada merkezlidir.Goldcorp’un Kanada’da dört, Meksika’da iki ve Orta ve Güney Amerika’da dört altın madeni bulunuyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

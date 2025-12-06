@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Tes",
+    "description": "Tes, 1988 yılında kurulan Tes Electrical Electronic Corp. bünyesindeki test aletleri markasıdır.Multimetre, ses seviyesi ölçer, parçacık sayacı, anemometre, ışık ölçer, nem ölçer, kelepçe ölçer, güç analizörü, güneş ölçer üretir.LVD, ISO 9001:2000, CE, TUV, EMC, UL sertifikalarına sahiptir.Bünyesindeki Markalar:TESPROVA",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Extech",
+    "description": "Extech, 1971 yılında kurulan 2007 yılında FLIR Commercial Systems Inc. tarafından satın alınan el test cihazları, kızılötesi termal görüntüleyici ve taşınabilir sayaç markasıdır.Test ve Ölçüm Aletleri ışık, ses, sıcaklık, nem, hava akımı, ve su kalitesinin ölçülmesi için multimetre, kelepçe ölçerler, elektrik test cihazları ve çevresel sayaçlar dahil olmak üzere teknik olarak gelişmiş, taşınabilir sayaçlardan oluşan 15 ana ürün kategorisinin üreticisi ve tedarikçisidir.Extech, Amerika’daki dünya genel merkezine ek olarak Tayvan, Hong Kong ve Çin’deki tasarım, üretim ve depolama tesislerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Baylan",
+    "description": "Baylan, 1955 yılında Osman Baylan tarafından tarafından kurulan Baylan Ölçü Aletleri Ltd. Şti. bünyesindeki sayaç markasıdır.Ürün yelpazesinde 15 mm – 200 mm arası çaplarda yaş, kuru ve yarı kuru tip olmak üzere tek ve çok hüzmeli ayrıca volumetrik, ultrasonik ve kalorimetre sayaç modelleri üretmektedir.Yüzde yüz Türk patentli, ve Türk sermayesi ile Atatürk OSB’de 71 bin metrekarelik kapalı alanda üretim yapmaktadır.Sayaçlarda, insan sağlığına zararlı olmayan boyalar kullanılmaktadır.Ürünlerini 60’ın üzerinde ülkeye ihraç etmektedir.ISO 9001, ISO 14001, ISO 45001, ISO 27001,TS EN ISO/IEC 17025, TS EN ISO/IEC EN 17020 C ve CE belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vilebrequin",
+    "description": "Vilebrequin, 1971 yılında Fred Prysquel tarafından kurulan erkek ve kadın mayo ve hazır giyim markasıdır. 2012 yılında G-III Apparel Group, Ltd. tarafından satın alındı.Mayoların büyük bir kısmı poliamid ve polyester kumaştan üretilir.G-III Apparel Group, Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Brio",
+    "description": "Brio, 1884 yılında kurulan BRIO AB bünyesindeki bulmaca, oyun ve aktivite ürünleri markasıdır. 2015 Ravensburger AG bünyesine geçmiştir.Ravensburger AG, Maier Ailesine ait olan, oyuncak ve puzzle üretimi yapan bir Alman şirketidir. Brio ürünleri İsveç’te üretilmektedir. Yaklaşık 20 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

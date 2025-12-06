@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Altun Şeker",
+    "description": "Altun Şeker, 1999 yılında Altun Şeker Gıda Nakliyat Tekstil İthalat ve İhracat Ltd. Şti. bünyesinde kurulan küp, Toz, esmer şeker, stick şeker, sargılı şeker, pudra şekeri, kakao, mısır nişastası, buğday nişastası, pirinç unu markasıdır.Altun Şeker bünyesindeki diğer markalar:Yaprak ŞekerPerkerPerkerim",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Göze Pirinç",
+    "description": "Göze Pirinç, 1993 yılında Vehbi Fettahoğlu tarafından kurulan Göze Tarım Ürünleri Pazarlama Sanayi Ticaret A.Ş. bünyesindeki; kırmızı mercimek, yeşil mercimek, fasulye, barbunya, bulgur, buğday, pirinç, nohut, mısır markasıdır.Türkiye’nin en büyük tarım firmaları arasında yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Berg",
+    "description": "Berg, 1985 yılında kurulan BERG Toys B.V. bünyesindeki dış mekan oyuncakları, trambolin, pedalgo kartlar, yedek parça ve aksesuarlar markasıdır.Çocuklar için go-kart, kara taşıtları ve küçük vagonlar üretmektedir.BERG Toys B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Liverpool FC",
+    "description": "Liverpool FC, 2000 yılında Amerikalı Tom Werner’in sahibi olduğu Fenway Sports Group tarafından satın alındı.İngiltere’nin Liverpool FC kulübü 3 Haziran 1892 tarihinde kuruldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-06-26"
+  },
+  {
+    "company": "Crucial",
+    "description": "Crucial, 1978 yılında kurulan Micron Technology, Inc. bünyesindeki USB flash sürücüler, bellek kartları ve kart okuyucularının tüm popüler form faktörleri, bilgisayar ve Mac sistemleri için DRAM bilgisayar belleği ve katı hal sürücüleri (SSD) markasıdır.Micron Technology, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

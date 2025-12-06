@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Aqualin Sabun",
+    "description": "Aqualin, A101 Yeni Mağazacılık A.Ş. adına çeşitli firmalar tarafından üretilen sıvı, katı, köpük sabun markasıdır.Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Türkiye Sigorta",
+    "description": "Türkiye Sigorta ve Türkiye Hayat Emeklilik, 2020 yılında 3 kamu sigorta şirketinin birleşmesiyle kurulan Türkiye Sigorta A.Ş. bünyesindeki araç kasko, trafik sigortası, konut, sağlık, seyahat, ticari sigorta hizmetleri markasıdır.İstanbul merkezlidir.Ortaklık yapısı:TVF Finansal Yatırımlar A.Ş. (yüzde 81,10)Diğer (yüzde 18,90)",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pakel Kidzi",
+    "description": "Pakel Kidzi, 2003 yılında kurulmuş olan Pak-El Gıda Paketleme Ambalaj San. Tic. Ltd. Şti. bünyesinde üretilen çikolata, bisküvi, draje, hatmi, sakız markasıdır.ISO 22000, BRC ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 15 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ambrosi",
+    "description": "Ambrosi, 1901 yılında kurulmuş olan Ambrosi S.p.A. bünyesinde üretilen peynir markasıdır.Ambrosi S.p.A. İtalya merkezlidir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Babyton",
+    "description": "Babyton, 2011 yılında kurulmuş olan Yükseliş Toplu Konut Gayrimenkul Hazır Giyim Gıda Medikal Otomotiv İthalat İhracat ve Tic. Ltd. Şti. bünyesindeki çocuklar için yüzme yardımcısı, kolluk markasıdır.Ürünleri kırılmaz polietilen köpükten üretilmektedir.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

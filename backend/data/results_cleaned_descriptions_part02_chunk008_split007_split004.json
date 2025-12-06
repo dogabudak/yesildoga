@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Buzdağı Su",
+    "description": "Buzdağı Su, Seli Kaynak ve Meyve Suları İşletmeleri San. Tic. A.Ş. bünyesinde üretilen içme suyu markasıdır.ISO 14001, ISO 9001, ISO 22000, KOSHER, TS 9130O, HSAS18001 ve Helal sertifikalarına sahiptir.Buzdağı, Almanya, İngiltere, Hollanda, İsrail, Filistin, BAE, Kuveyt, Katar, Azerbaycan, Suudi Arabistan gibi ülkelere ihraç edilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Epistar",
+    "description": "Epistar, 1996 yılında kurulan Epistar Corporation bünyesindeki genel aydınlatma, trafik sinyalleri, cep telefonları ve dizüstü bilgisayarlar gibi çeşitli tüketici ürünlerinde kullanılan yüksek parlaklıkta LED ürünler markasıdır.Dünyanın en büyük kırmızı ve sarı LED üreticisidir.Epistar Corp. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Rosseti",
+    "description": "Rosseti, 2008 yılında kurulan PAO Rosseti bünyesindeki elektrik dağıtım şebekesi markasıdır.Şirket enerji tasarrufu, enerji verimliliği, uluslararası işbirliği, çevre koruma ve iş güvenliği gibi konulara ağırlık verir.Rusya merkezli Rosseti, elektrik dağıtım şebekesi sektöründeki teknolojik yenilikler açısından Rusya’nın önde gelen elektrik enerjisi şirketlerinden biridir. Sahibi Rusya hükümetidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Coolpad",
+    "description": "Coolpad, Guo Deying tarafından kurulan Coolpad Group bünyesindeki telekomünikasyon ekipmanları markasıdır.Şirket 2002 yılında cep telefonu yapmaya başladı.Çin merkezli Coolpad markalı ürünler Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Erolvit",
+    "description": "Erol Vit, 1982 yılında kurulan Erol Teknik şirketler grubu bünyesindeki Erol Vitrifiye Ürünleri Sanayi Ticaret Ltd.Şti.’ye ait banyo ürünleri markasıdır.Kocaeli’de 3 katlı alanda 3 farklı üretim tesisine sahipken Tuzla Deri OSB’de Vitrifiye üretim tesisi ve banyo mobilyaları üretim tesisi bulunmaktadır.ISO 9001 ve TSE sertifikalarına sahiptir.Bünyesindeki Markalar:Big MasterAqua BlueOrdinaTuarekTülrayTollfixTrolErol TeknikToolmasterMöveErol VitMovidaVenloJoyMilanoMonzaWoveAnnsai",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

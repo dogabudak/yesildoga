@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Playskin",
+    "description": "Playskin2015 yılında kurulmuş olan Slimwell Kozmetik Medikal Group A.Ş. bünyesindeki dermokozmetik markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;MedilogicaPlayskinStriort",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carolina Lemke Berlin",
+    "description": "Carolina Lemke Berlin2011 yılında kurulmuş olan Carolina Lemke Ltd. bünyesindeki güneş gözlükleri ve optik gözlükler markasıdır.Carolina Lemke Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Portabianco Buzdolabı",
+    "description": "Portabianco1987 yılında kurulmuş olan Yüksel Endüstriyel Ürün. Tur. Yatırımları San. ve Tic. A.Ş. bünyesinde üretilen endüstriyel buzdolabı markasıdır.ISO 9001 ve TSE belgelerine sahiptir.Firma İstanbul merkezlidir. Kocaeli ve Tekirdağ fabrikalarında üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Benante Seramik",
+    "description": "Benante2008 yılında kurulmuş olan Hedef Tüketim Ürünleri San. ve Dış Tic. A.Ş. bünyesindeki seramik ürünler markasıdır.İstanbul merkezli şirket ürünlerini başta Asya olmak üzere, Avrupa’nın çeşitli ülkelerinden tedarik etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Smartwool",
+    "description": "Smartwool1994 yılında kurulmuş olan yünlü dış mekan giysileri, çoraplar markasıdır.2011 yılında Amerika merkezli VF Corporation’ın bir parçası olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

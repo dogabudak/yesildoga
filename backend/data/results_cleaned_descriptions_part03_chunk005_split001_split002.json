@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Aptissen",
+    "description": "Aptissen, 2013 yılında kurulan Aptissen SA bünyesindeki biyopolimer bazlı tıbbi cihazlar markasıdır.Enjektabl ürünler geliştirmiştir.Ürünleri 90’dan fazla ülkede dağıtım ağı üzerinden dağıtılan Aptissen S.A., İsviçre şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Eser Kozmetik",
+    "description": "Eser, 1968 yılında kurulan Eser Kozmetik Sanayi A.Ş. bünyesinde üretilen kolonya, oda parfümü, el sıvı sabunu gibi temizlik ürünleri markasıdır.Ürünlerini Adana’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-08-22"
+  },
+  {
+    "company": "Mamivac",
+    "description": "Mamivac, 1979 yılında kurulan KaWeCo GmbH bünyesindeki anne sütü pompaları ve aksesuarları markasıdır.Mamivac markalı ürünler 50’den fazla ülkede bulunmaktadır.KaWeCo GmbH Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Badcat",
+    "description": "Badcat, 1990 yılında kurulan Dual Kimya San. ve Tic. Ltd. bünyesindeki fare zehirleri markasıdır.Yapışkan tuzaklar, fare kontrol ürünleri ve ev kokuları üretmektedir.Firma hammadde ve mamul ihtiyacını desteklemek için Avrupalı üreticilerle anlaşmıştır.Ürünlerini Makedonya, Arnavutluk, Irak, Suriye, Libya, Cezayir, Fas ve Tunus gibi ülkelere ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "RSL",
+    "description": "RSL 1952 yılında Ahmet ve Ali Arpacıoğlu tarafından kurulan Arpacıoğlu Gıda Sanayi ve Ticaret bünyesindeki kırmızı mercimek ve yeşil mercimek markasıdır.Ürünlerinin tamamı Türkiye’de üretilmektedir ve GDO’lu değildir.Üretiminin yaklaşık yüzde 20’sini Avrupa ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

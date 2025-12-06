@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Biomate Dezenfektan",
+    "description": "Biomate, 2018 yılında kurulan Özdemiroğlu Sağlık Hizmetleri Ltd. Şti. bünyesinde üretilen antibakteriyel el sabunu, antibakteriyel sıvı sabun, el ve cilt dezenfektanı, el ve cilt dezenfektan jeli, limon kolonyası markasıdır.Firma İstanbul Esenler’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zentiva",
+    "description": "Zentiva, 1998 yılında kurulan Zentiva N.V. bünyesindeki çok çeşitli jenerik ve OTC ürünleri markasıdır.Zentiva N.V. 2018 yılında Amerika merkezli Advent International Corporation tarafından satın alındı. Zentiva Group’un Çek Cumhuriyeti, Türkiye, Romanya ve Slovakya’da üretim tesisleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wörf",
+    "description": "Wörf, Akdeniz İnovasyon Otomotiv San. ve Tic. Ltd. Şti. bünyesinde üretilen oto bakım, oto kozmetik, kozmetik, kolonya ve ortam ferahlatıcı kokular markasıdır.ISO 9001 belgesine sahiptir.Bünyesindeki markalar;FastcatGoodmixWörf",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Humpheriys",
+    "description": "Humpheriys, 1913 yılında kurulan Eschenbach Optik Gmbh bünyesindeki gözlük çerçeveleri ve uzaktan optik ürünler markasıdır.Eschenbach Optik Gmbh Almanya merkezlidir. Çoğunluk hissedarı Equistone Partners Europe İngiltere merkezli özel sermaye şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pirsu",
+    "description": "Pirsu, 2003 yılında kurulan Donanım Grup A.Ş. bünyesinde üretilen ozonsuz doğal kaynak suyu markasıdır.Ege Bölgesi’nin en yumuşak suyudur.Donanım Grup, Aydın’da faliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

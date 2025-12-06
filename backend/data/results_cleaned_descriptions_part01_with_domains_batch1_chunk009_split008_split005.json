@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ackermans",
+    "description": "Ackermans, 1916 Gus Ackerman tarafından kurulan giyim perakende mağazaları zinciridir.Ackermans giyim perakende mağazaları zinciri 1984 yılında Güney Afrikalı yatırım şirketi Pepkor tarafından satın alındı.Ackermans’ın Güney Afrika çapında 700’ün üzerinde mağazası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ZA",
+    "updated_date": null
+  },
+  {
+    "company": "Bourjois",
+    "description": "Bourjois, 1863 yılında kurulan koku, kozmetik ve cilt bakım ürünleri markasıdır.Bourjois 2014 yılında Amerikan Coty, Inc. şirketi tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Keyence",
+    "description": "Keyence, 1974 yılında kurulan Keyence Corporation bünyesindeki; otomasyon sensörleri, ölçüm aletleri görüntü işleme sistemleri, barkod okuyucuları, lazer işaretleyiciler ve dijital mikroskop markasıdır.Şirket, fotoelektrik sensör ve yakınlık sensörlerinden muayene hatları için ölçüm cihazlarına ve araştırma enstitülerinde kullanılan yüksek hassasiyetli mikroskoplara kadar geniş bir ürün yelpazesine sahiptir.Keyence Corporation Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2022-07-18"
+  },
+  {
+    "company": "Makeup",
+    "description": "Makeup, 2005 yılında ARTDECO Cosmetic Group bünyesindeki kozmetik markasıdır.Marka profesyonel makyaj için geniş bir yelpazede özel kozmetik ürünlerine sahiptir.ARTDECO geniş bir yelpazede makyaj kozmetik aksesuarları sunan bir Alman şirketidir. 40’dan fazla ülkede Premium Parfümeri zincirleri ve mağazalarında ürünleri satılmaktadır.Make-up Art Cosmetics MAC Hangi Ülkenin Malı Markası",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-02-23"
+  },
+  {
+    "company": "Isadora Ülkeye Ait Markadır",
+    "description": "Isadora, 1983 yılında Ingvar Vigstrand ve Ingrid Berndtsson tarafından kurulan ISADORA AB bünyesindeki makyaj ürünleri markasıdır.ISADORA AB şirketi İsveç merkezlidir ve ürünleri İsveç’te üretilmektedir. Isadora, 40 ülkede seçili mağazalarda, eczanelerde ve parfümerilerde satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

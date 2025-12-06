@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sisley Kozmetik",
+    "description": "Sisley, 1972 yılında kurulmuş olan C F E B Sisley SAS bünyesinde üretilen kozmetik, fondöten, pudra, allık, kapatıcı, maskara, ruj, parlatıcı ve parfümün yanı sıra temizleyiciler, ovma, yaşlanma karşıtı krem ve nemlendiriciler gibi kişisel bakım ürünleri markasıdır.C F E B Sisley SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Pelara",
+    "description": "Pelara, 2001 yılında kurulmuş olan Pelinsu Kozmetik İnş. Eml. Temz. Teks. Gid. İth.San. Tic. Ltd. Şti. bünyesindeki kolonya, parfüm markasıdır.Firma Antalya merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dennis ve Gnasher",
+    "description": "Dennis the Menace and Gnasher, 2009 yılında Beano Studios Limited. bünyesinde üretilen animasyon dizi markasıdır.Animasyon dizi dünya çapında 90’dan fazla bölgede yayınlanmaktadır.Beano Studios Limited. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Steinhart Saat",
+    "description": "Steinhart, 2001 yılında Günter Steinhart tarafından kurulan Steinhart Watches Gmbh bünyesinde üretilen dalgıç saatleri, pilot saatler, deniz saatleri, diğer modeller, kronograflar, bilezikler ve kayışlar, tokalar, aksesuarlar markasıdır.Steinhart Watches Gmbh Almanya merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "P.Audio",
+    "description": "P.Audio, 1991 yılında kurulmuş olan P.Audio System by STH Professional Audio Co. Ltd. bünyesinde üretilen profesyonel ses hoparlörleri ve bileşenleri tam entegre ses ürün çözümleri markasıdır.P.Audio System by STH Professional Audio Co. Ltd. Tayland merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  }
+]

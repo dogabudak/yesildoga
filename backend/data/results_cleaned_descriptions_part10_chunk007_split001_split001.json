@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Grex",
+    "description": "1972 yılında kurulmuş olan Nolangroup Spa bünyesindeki motosiklet kaskları markasıdır.Nolangroup Spa İtalya merkezlidir. Ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "I’m Alive Kombucha",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Fixator",
+    "description": "2009 yılında kurulmuş olan Fix Kozmetik San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen sabitleyici saç spreyleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Qplay",
+    "description": "2000 yılında kurulmuş olan Jiaxing Xiaohuzi Bike Factory Co. Ltd. bünyesinde üretilen üç tekerlekli bisikletler, denge bisikletleri, bebek arabaları, scooter markasıdır.Jiaxing Xiaohuzi Bike Factory Co. Ltd. Çin merkezlidir. Ürünleri Çin’de üretilmektedir ve birçok ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sensilab Essentials",
+    "description": "2005 yılında kurulmuş olan Sensilab d.o.o. bünyesindeki gıda takviyeleri markasıdır.Sensilab d.o.o. Slovenya merkezlidir.Bünyesindeki markalar;Delicious and fruity Be So Happy Gummies!",
+    "documents": [],
+    "parent": null,
+    "origin": "SI",
+    "updated_date": null
+  }
+]

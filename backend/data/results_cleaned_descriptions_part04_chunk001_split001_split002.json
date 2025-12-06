@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Endocare",
+    "description": "Endocare, 1994 yılında kurulan Grupo Cantabria Labs bünyesinde üretilen dermatolojik ve besleyici ürünler markasıdır.Grupo Cantabria Labs, 80’in üzerinde ülkede, yan kuruluşları ve uluslararası dağıtım ağı ile faaliyet göstermektedir.Grupo Cantabria Labs İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Biokat’s",
+    "description": "Biokat’s, 1855 yılında Heinrich von Gimborn tarafından kurulan H Von Gimborn Gmbh bünyesinde üretilen kedi ürünleri ve atıştırmalıkları markasıdır.H Von Gimborn Gmbh 2016 yılında Hong Kong merkezli Hillhouse Capital Group tarafından satın alınmıştır. Ürünlerini Almanya’da üretmekte ve 40’ın üzerinde ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": "2022-12-09"
+  },
+  {
+    "company": "Nordstrom",
+    "description": "Nordstrom, 1901 yılında John W. Nordstrom ve Carl F. Wallin tarafından kurulan Nordstrom, Inc. bünyesindeki giyim, ayakkabı, çanta, takı aksesuarları, kozmetik, koku, ev mobilyaları markasıdır.Nordstrom, Amerika, Kanada ve Porto Riko’da mağazalara sahiptir.Nordstrom, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Benning",
+    "description": "Benning, 1938 yılında kurulan BENNING Elektrotechnik und Elektronik GmbH & Co. KG bünyesindeki test ve ölçüm aletleri, redresör ve inverter sistemler, DC-DC dönüştürücü, UPS sistemleri, OEM güç kaynağı, Forklift akü şarj cihazı ve 120 ton elektrik makinesi markasıdır.Akü şarj cihazları ve güç sistemleri montaj, satış ve servisi için dünya çapında bir kurum oluşturmuştur.BENNING Elektrotechnik und Elektronik GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cimco",
+    "description": "Cimco, 1991 yılında kurulan Cimco A/S bünyesindeki bilgisayar entegre imalatı için yazılım ve çözümler markasıdır.Ürün yelpazesi gelişmiş CNC-Editörler, güvenilir CNC iletişimi için DNC yazılımı, atölye verimliliğinin gerçek zamanlı izlenmesi ve analizi için Üretim Veri Toplama ve üretimle ilgili tüm verilerin yönetilmesi, kontrol altına alınması ve güvenli bir şekilde saklanması için Üretim Veri Yönetimi’ni içermektedir.Küresel CAD/CAM/CNC bayileri ve danışmanları ağı aracılığıyla dünya çapında 100 binden fazla lisans satmıştır.Cimco A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

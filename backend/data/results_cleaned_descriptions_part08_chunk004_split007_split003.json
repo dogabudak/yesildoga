@@ -1,0 +1,59 @@
+[
+  {
+    "company": "Pakmaya Kakao",
+    "description": "Pakmaya, 1973 yılında kurulmuş olan Pak Holding A.Ş. tarafından üretilen gıda ürünleri markasıdır.BRC, ISO 14001, ISO 22000, ISO 9001, Helal belgesine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 130 ülkeye ihraç etmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Olea Zeytin",
+    "description": "Olea, 2017 yılında kurulmuş olan Olea Gıda İçecek San. Tic. A.Ş. bünyesinde üretilen zeytin ve zeytinyağı markasıdır.Firma Bursa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ultra Berrak",
+    "description": "Ultra Berrak, 2006 yılında kurulmuş olan Lila Kağıt San. ve Tic. A.Ş. bünyesinde üretilen tuvalet kağıtları markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 80’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Repute Parfüm",
+    "description": "Repute Parfüm Nerenin Malı MarkasıRepute, 1978 yılında kurulmuş olan Lider Kozmetik San. ve Tic. A.Ş. bünyesinde üretilen deodorant, parfüm, roll-on markasıdır.ISO 9001, TSE ve GMP ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Kocaeli’de 32 bin metrekarelik entegre tesisinde üretmektedir ve 90 ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meshek Energy",
+    "description": "Meshek Energy, 2016 yılında kurulmuş olan Meshek Energy-Renewable Energies Ltd. bünyesinde üretilen güneş enerjisi santralleri, enerji depolama, yenilenebilir enerji ve elektrik taşımacılığı ürünleri markasıdır.Elektrik üretimi ve satışı ile çatılarda ve su rezervuarlarında fotovoltaik tesisatlar yoluyla elektrik üretimi ve satışı gibi alanlarda kendi ve iştirakleri aracılığıyla faaliyet göstermektedir.Meshek Energy-Renewable Energies Ltd. İsrail merkezlidir. Şirketin hisseleri İsrail merkezli Kibbutz Economies Group’a aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

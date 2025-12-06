@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Bovet",
+    "description": "Bovet, 1822 yılında Edouard Bovet tarafından kurulan Bovet Fleurier SA bünyesinde üretilen lüks kol saati markasıdır.Tüm bileşenleri şirket içinde üretir ve ayrıca endüstriyel kapasitelerini tıbbi ve havacılık endüstrisi için küçük makine parçaları üretmek için kullanır.2001 yılında Pascal Raffy tarafından satın alınan Bovet Fleurier SA İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Marmara Maya",
+    "description": "Marmara Maya, 1988 yılında kurulan Mauri Maya San. A.Ş. bünyesinde üretilen, fırıncılar için endüstriyel maya markasıdır.ISO 9000, ISO 22000, Helal, ISO 10002, ISO 14000, FSSC 22000, TSE belgelerine sahiptir.Mauri Maya San. A.Ş. 2004 yılında Associated British Foods PLC’ye satıldı.Associated British Foods plc’nin çoğunluk hisseleri Wittington Investments Limited’e aittir. Wittington Investments Limited hisselerinin yüzde 79,2’si Kanadalı iş adamı W. Garfield Weston tarafından kurulan Garfield Weston Vakfına, yüzde 20,8’i ise Weston Ailesine aittir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14000",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Synchronoss",
+    "description": "Synchronoss 2000 yılında James M. McCormick ve Stephen G. Waldis tarafından kurulan Synchronoss Technologies Inc. bünyesindeki bağlı cihazlar için bulut çözümleri ve yazılım tabanlı aktivasyon sağlayan mobil yenileşim markasıdır.Hizmetleri arasında akıllı bağlantı yönetimi ve içerik senkronizasyonu, yedekleme ve paylaşımın yanı sıra iletişim servis sağlayıcılarının, kablo operatörlerinin/çoklu servis operatörlerinin, gömülü bağlantıya sahip orijinal ekipman üreticilerinin, çok kanallı perakendecilerin ve diğer müşterilerin hızlanmasını ve desteklenmesini sağlayan cihaz ve hizmet tedariki, sağlama, etkinleştirme ve desteği yer alır.Synchronoss Technologies Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Carminella",
+    "description": "Carminella, 1957 yılında Adnan Hunca tarafından kurulan Hunca Life Kozmetik Pazarlama Dağıtım Tic. A.Ş. bünyesinde üretilen parfüm markasıdır.ISO 9001, GMP ve Helal belgelerine sahiptir.İstanbul merkezli firma ürünlerini Tekirdağ’da bulunan 22 dönüm arazideki üretim tesislerinde üretmekte ve 60’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gedizpen",
+    "description": "Gedizpen, 1972 yılında kurulan Fırat Plastik Kauçuk San. ve Tic. A.Ş. bünyesindeki pvc pencere ve kapı sistemleri, pvc pencere alternatif sistemler, panjur kepenk sistemleri markasıdır.Standart dışı mimari tasarımlara yardımcı profilleriyle çözüm üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

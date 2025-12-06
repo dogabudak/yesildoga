@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Redragon",
+    "description": "Redragon, 1996 yılında kurulan oyun aksesuarları, bilgisayar faresi, klavyesi, mousepad ve Headset markasıdır.Oyun severler için yüksek kalite ve özelliklerde ürünler üretir.Redragon ürünleri, Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kenzo",
+    "description": "Kenzo, 1970 yılında Kenzo Takada tarafından kurulan Kenzo S.A. bünyesindeki lüks giyim ürünleri markasıdır.Kenzo S.A., 1993 yılında lüks tüketim malları üreten gruplarından LVMH tarafından satın alındı.LVMH bir Fransız holdingidir. Yaklaşık 60 alt şirketten oluşur ve her bir şirket birkaç tane prestijli markanın işletmecisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Korg",
+    "description": "Korg, 1967 yılında Tsutomu Katoh ve Tadashi Osanai tarafından kurulan Korg Inc. bünyesindeki elektronik müzik aletleri, ses işlemcileri ve gitar pedalları, kayıt ekipmanları ve elektronik Tuner ürünleri markasıdır.Japonya merkezli KORG’un Türkiye dağıtıcısı 1986 yılından beri Can Elektronik Tic ve San. LTD. Şti.’dir.Korg Inc. bünyesinde Vox markası altında, gitar amplifikatörleri ve elektrogitar imalatı yapılmaktadır.Korg Inc. markaları:KorgVox",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Molfix",
+    "description": "Molfix, 1998 yılında Hayat Kimya A.Ş. tarafından üretilen bebek bezi ve ıslak havlu markasıdır.Bulgaristan, Rusya ve Ukrayna, Azerbaycan, Bosna Hersek, Cezayir, İran, Nijerya, Pakistan, Mısır, Fas gibi ülkelerde kullanılmaktadır.Hayat Kimya A.Ş. 1937 yılında tamamı yerli sermaye ile kurulan Kiğılı Ailesi’nin hisselerine sahip olduğu Hayat Grubu, bünyesindedir. Ürünlerini İzmit Yeniköy Entegre Üretim Tesisleri’nde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Staubli",
+    "description": "Staubli, 1892 yılında Hermann Staubli ve Rudolph Schelling tarafından kurulan Staubli International AG bünyesindeki Konnektör, Robotik ve Tekstil ana faaliyet alanına sahip bir mekatronik çözümü sağlayıcısıdır.Yerel destek sunan bağlı satış ve servis şirketleriyle 29 ülkede yer alırken, 50 ülkede temsilcileri olan uluslararası bir gruptur. 12 endüstriyel üretim tesisine sahiptir.1996 yılında Türkiye’de Staubli Sanayi Makine ve Aksesuarları Ticaret Ltd. Şti. şubesini kurmuştur.Türkiye’de İstanbul’daki merkez ofisi ile Bursa, Gaziantep, ve Denizli’deki şubelerinde Tekstil, Konnektörler ve Robotik müşterilerine hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

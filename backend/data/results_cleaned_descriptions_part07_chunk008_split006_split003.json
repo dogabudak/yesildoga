@@ -1,0 +1,46 @@
+[
+  {
+    "company": "İvrindi",
+    "description": "İvrindi Nerenin Malı Markasıİvrindi, 1980 yılında Hunca Life Kozmetik Pazarlama Dağıtım Tic. A.Ş. bünyesinde üretilen parfüm, deodorant markasıdır.ISO 9001, GMP ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Tekirdağ’da üretmekte ve 90’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lock Stars",
+    "description": "Lock Stars, 2014 yılında Hasbro Inc. tarafından üretilen oyuncak figürler markasıdır.Hasbro Inc. Amerika merkezlidir. Ürünleri Doğu Asya’da üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cosmetica",
+    "description": "Cosmetica, 2003 yılında Kozkar Kozmetik Bujiteri Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen kozmetik, güzellik, kadın ürünleri, makyaj malzemeleri, cilt ürünleri ve kişisel bakım ürünleri markasıdır.Firma Antalya merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Humay Gözenek Bakım Serumu",
+    "description": "Humay Gözenek Bakım Serumu Nerenin Malı MarkasıHumay, 2019 yılında kurulmuş olan Humay İlaç Gıda Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.Firma Kocaeli merkezlidir ve ürünlerini Kocaeli’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Greenlabel",
+    "description": "Greenlabel, 1998 yılında kurulmuş olan Han Baharat Ltd. Şti. bünyesinde üretilen doğal ve organik bitki, baharat, fonksiyonel gıdalar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BiofectBionativeGreenlabelHanfırınHepsideva",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

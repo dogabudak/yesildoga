@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Baldağı",
+    "description": "Baldağı Nerenin Malı MarkasıBaldağı, 2005 yılında kurulan Baldağ Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen ham ballar, kara kovan petekli ballar, petekli ballar, polen, propolis, süzme çam ballar, süzme çiçek ballar markasıdır.Ankara merkezli firma 10 bin metrekarelik fabrikasında ürettiği ürünleri 32 ülkeye ihraç etmektedir.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Bünyesindeki markalar;1e1BalıcanBaldağıBaltatKüçük ÇiftlikTadım Baldağı",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "St Marc",
+    "description": "St Marc, Reckitt Benckiser Group plc bünyesinde üretilen çok amaçlı temizlik sıvıları, yumuşatıcı, temizlik ürünleri markasıdır.Reckitt Benckiser Group plc İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Persol",
+    "description": "Persol, 1917 yılında Giuseppe Ratti tarafından piyasaya sürülen ve EssilorLuxottica S.A. bünyesindeki güneş gözlükleri markasıdır.EssilorLuxottica S.A.’nın çoğunluk hisseleri Lüksemburg merkezli Delfin S.a r.l.’ye aittir.Hissedarları:Del Vecchio Ailesi (yüzde 31,9)The Vanguard Group Inc. (yüzde 2,3)Capital Research & Management Co. (yüzde 1,9)Norges Bank Investment Management (yüzde 1,6)FCPE Groupe Essilor 5 et 7 ans (yüzde 0,91)Canada Pension Plan Investment Board (yüzde 0,87)MFS International Ltd. (yüzde 0,8)Comgest SA (yüzde 0,74)Fidelity Management & Research Co. LLC (yüzde 0,64)Union Investment Privatfonds Gmbh (yüzde 0,64)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": "2024-02-13"
+  },
+  {
+    "company": "Mila Su",
+    "description": "Mila Su, DSL Grup İçecek San. ve Tic. A.Ş. bünyesindeki pet şişe ve bardak su, cam ve polikarbon damacana su markasıdır.ISO 9001, FSSC 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eğriçayır",
+    "description": "Eğriçayır, 2014 yılında kurulan Eğriçayır Balı/Çaylı Organik Tarım Ltd. Şti. bünyesindeki kestane balı, çiçek balı, çam balı, lavanta balı, propolis, polen, arı sütü, karakovan petek balı, bitkisel yağlar, sirke, keçiboynuzu pekmezi markasıdır.Firma Mersin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

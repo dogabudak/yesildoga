@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Arrtx",
+    "description": "Arrtx2017 yılında kurulmuş olan Shenzhen Arrtx Tech Co. Ltd. bünyesinde üretilen boya kalemleri, keçeli kalemler ve çizim malzemeleri markasıdır.Shenzhen Arrtx Tech Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Arrtx",
+    "description": "Arrtx1995 yılında kurulmuş olan Gav Teknik El Aletleri A.Ş. bünyesindeki şartlandırıcılar, balanser, mazot tabancaları, hava hortumları, havalı el aletleri ve aksesuarları, kaplin, lastik sökme takma makinesi, led lambalar, lokmalar, makaralı hava hortumları, pnömatik rekorlar, shut-off tornavidalar, sibop ve aparatları, tork anahtarları, yamalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Printec Mürekkep",
+    "description": "Printec1993 yılında kurulmuş olan Alfa Lazer Bilgisayar ve Büro Malzemeleri San. ve Tic. A.Ş. bünyesindeki baskı malzemeleri, display ürünleri, forever transfer kağıtları, levhalar, shockline transfer kağıtları, tekstil folyoları, uv yazıcılar, transfer presleri, plotterlar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Alfa LazerPrintecShockline",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Panjit",
+    "description": "Panjit1986 yılında kurulmuş olan Panjit International Inc. bünyesinde üretilen IC, IGBT, MOSFET, Schottky Diyot, SıC Cihazı, Bipolar Bağlantı Transistörü, Köprü, Diyot Doğrultucu, FRED, Zener, ESD Koruması, Geçici Voltaj Bastırıcı, Bipolar Bağlantı Transistörü ve Ayrık markasıdır.Otomotiv, güç kaynağı, endüstriyel, bilgi işlem, tüketici ve iletişim dahil olmak üzere çeşitli uygulamalara hizmet vermektedir.ISO 9001, ISO 14001 ve ISO 45001 belgelerine sahiptir.Panjit International Inc. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Max Brenner",
+    "description": "Max Brenner1996 yılında kurulmuş olan Max Brenner Industries Ltd. bünyesindeki çikolata, tatlı ve içecekler sunan restoranlar zinciri markasıdır.Max Brenner Industries Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

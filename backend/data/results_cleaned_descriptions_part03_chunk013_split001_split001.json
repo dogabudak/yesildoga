@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Splat-Cosmetica",
+    "description": "Splat-Cosmetica Hangi Ülkenin Malı MarkasıdırSplat-Cosmetica, 2000 yılında Evgeny Demin ve Elena Belous tarafından kurulan Splat Global LLC bünyesinde üretilen ağız bakım ürünleri, ev eko kimyasallar ve çocuk kozmetik ürünleri markasıdır.Splat Global LLC Rusya merkezlidir ve ürünlerini Rusya’da üretmektedir. 70’ten fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Beeline",
+    "description": "Beeline, 1993 yılında PJSC VimpelCom şirketi tarafından kurulan bir telekomünikasyon markasıdır.PJSC VimpelCom Rusya’nın üçüncü büyük kablosuz ve ikinci büyük telekomünikasyon operatörüdür. PJSC VimpelCom, 2017 yılında Veon Ltd.’nin bir yan kuruluşu olmuşturVEON Ltd.’nin hisselerinin yüzde 56.2’si Rusya merkezli Altimo’ya, yüzde 9 hissesi ise Norveç merkezli Telenor ASA’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Ventolin",
+    "description": "Ventolin, 2000 yılında Glaxo Wellcome ve SmithKline Beecham birleşmesiyle kurulan GlaxoSmithKline plc bünyesinde üretilen astım ilacı markasıdır.GlaxoSmithKline plc (GSK) İngiltere merkezlidir. Türkiye’de Glaxo Smith Kline İlaçları San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "DBTel",
+    "description": "DBTel, 1979 yılında kurulan DBTEL Incorporated bünyesinde üretilen cep telefonu markasıdır.Cep telefonu dışında yüksek frekanslı kablosuz telefon, faks makinesi, kablolu telefon, yanıtlama makineleri, arayan tanımlama kutuları ve ağ ürünleri dahil olmak üzere geniş bir elektronik ürün serisi üretir ve ürünlerini DBTEL markası altında satar.ISO 9001 belgesine sahiptir.DBTEL Incorporated Tayvan merkezlidir. Tayvan, Malezya ve Çin’de üretim tesisleri bulunmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Purism",
+    "description": "Purism, 2014 yılında Todd Weaver tarafından kurulan Purism SPC bünyesindeki dizüstü bilgisayarlar, akıllı telefonlar, tablet bilgisayarlar, el bilgisayarları markasıdır.Purism, yazılım özgürlüğü, bilgisayar güvenliği ve internet gizliliğine odaklanan Librem kişisel bilgisayar cihazlarını üretmektedir.Purism SPC Amerika merkezli bir bilgisayar teknolojisi şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

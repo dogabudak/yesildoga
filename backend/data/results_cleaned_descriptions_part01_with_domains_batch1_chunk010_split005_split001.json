@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Gamemax",
+    "description": "Gamemax, 2001 yılında kurulan Sohoo Technology Co.,LTD bünyesindeki; bilgisayar kılıfı, güç kaynağı, bilgisayar aksesuarları markasıdır.Sohoo Technology Co.,LTD Çin merkezli bir üreticidir. 8 üretim hattına sahiptir. Ürünleri dünyanın bütün ülkelerinde satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Harman Kardon",
+    "description": "Harman Kardon, 1953 yılında Sidney Harman ve Bernard Kardon tarafından kurulan Harman International Industries, Inc. bünyesindeki ev ve araç ses donanım ürünleri markasıdır.Harman Kardon, 2017 yılında Güney Kore merkezli Samsung Electronics’in iştiraki oldu.Harman International Industries, Inc. bünyesindeki markalar:AKGAMXArcamBSS AudioBang & OlufsenBeckerCrownDigiTechHarman KardonInfinityJBLLexiconMark LevinsonMartinRevelSoundcraftStuderdbx",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2019-12-27"
+  },
+  {
+    "company": "Stiga",
+    "description": "Stiga, 1934 yılında kurulmuş olan Stiga S.p.A. şirketi bünyesinde üretilen akülü, elektrikli ve benzinli çim biçme makineleri, çim traktörleri ve ön biçme makineleri, otomatik çim biçme için robotik biçme makineleri ve çalı tırpanları, çit kesiciler, düzelticiler, motorlu testereler, üfleyiciler, kazıyıcılar, yeke makineleri ve kar küreme makineleri gibi elektrikli bahçe ürünleri markasıdır.Stiga S.p.A. 2000 yılında Alpina Professional & Garden SpA ile birleşerek İtalya merkezli Castelgarden SpA tarafından satın alındı. Ürünlerini İtalya, Slovakya ve Çin’deki üç üretim tesisinde üretmektedir ve 70’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;AlpinaAtcoCastelgardenMountfieldStiga",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2023-07-05"
+  },
+  {
+    "company": "Oshkosh",
+    "description": "Oshkosh, 1917 yılında William Besserdich ve Bernhard Mosling tarafından kurulan kamyon, ağır ve zırhlı araç, askeri araç, kamyon gövdeleri, havalimanı itfaiye araçları ve erişim ekipmanları markasıdır.Oshkosh Corporation, Amerika merkezli bir kamyon üreticisidir. Ürünleri 150’den fazla ülkede satılmaktadır.Şirketin bünyesindeki markalar:OshkoshJLGPierceMcNeilusJerr-danFrontline",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "STHOR",
+    "description": "STHOR, 1990 yılında kurulan TOYA S. A. bünyesindeki el aletleri markasıdır.Profesyonel el aletleri, araç onarım aletleri, inşaat araçları, kesme aletleri, ölçme araçları, kişisel koruma ekipmanları, bahçe aletleri üretmektedir.Polonya merkezli TOYA S. A. ürünlerini Çin’deki fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

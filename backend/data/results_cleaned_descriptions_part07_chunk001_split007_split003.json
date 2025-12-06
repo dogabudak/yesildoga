@@ -1,0 +1,48 @@
+[
+  {
+    "company": "ShibaSoku",
+    "description": "ShibaSoku, 1955 yılında kurulan Shibasoku Co. Ltd. bünyesinde üretilen analog IC test sistemi, güç cihazı test sistemi, güç karma test sistemi, karışık sinyal ısı test sistemi markasıdır.Güç cihazı testi için tutarlı test sistemi mimarisi sunar. ISO 9001 ve ISO 14000 belgelerine sahiptir.Shibasoku Co. Ltd. Japonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Tecatel",
+    "description": "Tecatel, 1991 yılında kurulan Tecatel S.L. bünyesindeki telekomünikasyon, IPTV çözümleri, güneş enerjisi, CCTV, fiber optik, smatv telekomünikasyon ürünleri markasıdır.Tecatel S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Tomi Mama",
+    "description": "Tomi, 2000 yılında kurulan Intrade d.o.o bünyesindeki kedi ve köpek mamaları markasıdır.Doğal içeriklerle hazırlanan ürünleri şeker, yapay renklendirici ve GDO içermez. Üretim sürecinde antioksidan ve koruyucu kullanılmamaktadır.Tomi markalı ürünler Tiernahrung Deuerer Gmbh tarafından Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Helstons",
+    "description": "Helstons, 1988 yılında kurulan Sarl Kabi bünyesindeki kadın ve erkekler için motosiklet sürme ekipmanları, ceketleri, pantolon, tişörtler, birlikler, gömlekler, ayakkabı, eldivenler, bagaj muhafazası, deri ürünleri, eşarplar, kasklar, kemerler, korumalar, bakım ürünleri markasıdır.Sarl Kabi Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Qport Kablo",
+    "description": "Qport, 2013 yılında kurulan Apfel Bilişim Elektronik San. ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen çevirici ve adaptörler, bluetooth ürünler, dvd, hdd kasaları, ethernet kartlar, güç kabloları, hdmi kablo, konnektör ve pense, network aksesuarları ve kabloları, notebook adaptörleri, ses ve görüntü kabloları, soğutucular, overclock, switch box ve çoklayıcılar, usb aksesuar, usb, seri, paralel kablolar, wireless adaptör markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Seyuwatch",
+    "description": "Seyuwatch2023 yılında kurulmuş olan Seyu Teknoloji İthalat İhracat San. ve Tic. Ltd. Şti. bünyesinde ithal edilen akıllı saatler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Agolde",
+    "description": "Agolde2003 yılında kurulmuş olan Citizens of Humanity LLC bünyesindeki gömlek, ceket, pantolon markasıdır.Tasarımları otantik vintage görünümlerden ve kentsel gençlik kültüründen ilham almaktadır.Citizens of Humanity LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dahlia Bianca",
+    "description": "Dahlia Bianca2015 yılında Bianca Somer Türkmen tarafından kurulmuş olan Dahlia Bianca A.Ş. bünyesindeki elbiseler, alt, üst, spor giyim ürünleri, çocuk kıyafetleri, bere, çorap, kemer markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gameloop",
+    "description": "Gameloop2018 yılında kurulmuş olan Hong Kong Gathering Media Limited bünyesindeki oyuncular, oyun geliştiricileri ve yayıncılar için kapsamlı hizmetler sunan oyun platformları markasıdır.Bilgisayarda mobil oyunlar ile uygulamaların kullanılmasını sağlamaktadır.Hong Kong Gathering Media Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Jerky Time",
+    "description": "Jerky Time2002 yılında kurulmuş olan Yantai Pet Foods Co. Ltd. bünyesinde üretilen köpekler ve kediler için çok çeşitli yüksek proteinli atıştırmalıklar markasıdır.Yantai China Pet Foods Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

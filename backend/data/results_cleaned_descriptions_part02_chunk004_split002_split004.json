@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Skype",
+    "description": "Skype, 2003 yılında Janus Friis ve Niklas Zennström tarafından kurulan Skype Technologies S.A.R.L bünyesindeki yazılım, VoIP teknolojisini kullanarak internet üzerinden iletişim ve telefon görüşmesi yapılmasını sağlamaktadır.2011 yılında Microsoft şirketi satın alarak yan kuruluşu olarak faaliyet göstermektedir.Microsoft Amerika merkezli bir yazılım şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Socar",
+    "description": "Socar, 1992 yılında Ebulfez Elçibey’in kararnamesiyle kurulmuş olan petrol ve doğalgaz arama, üretim ve işleme markasıdır.Petrol, doğal gaz ve doğal gaz kondensatlarının dağıtımı; ham petrol ve petrokimyasal ürünlerin ulusal ve uluslararası çapta pazarlanması ve Azerbaycan’da doğal gaz tedarikinin sağlanması için çalışmalar yürütmektedir.Azerbaycan Devlet Petrol Şirketi SOCAR’ın Türkiye’deki iştiraki Socar Turkey Enerji A.Ş. olarak faaliyet göstermektedir. Temsilcilikleri aracılığıyla 13 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": "2023-11-26"
+  },
+  {
+    "company": "Loncin",
+    "description": "Loncin, 2002 yılında kurulan Loncin Holdings Co., Ltd. bünyesindeki motosiklet, motor ve genel makine ürünleri markasıdır.BMW ile 2005 yılında kurulan iş ortaklığı sayesinde jeneratör, 4 zamanlı benzinli ve dizel motorlar, su motorlarını da üretmektedir.Firmanın motosiklet bölümü scooter, arazi araçları ve üç tekerlekli motosikletler sunmaktadır. Motor bölümü motosiklet için dört zamanlı ve önceden filtrelenmiş motorlar sağlar. Genel makine ürünleri bölümü, yatay ve dikey şaft motorları, kar motoru, jeneratör, su pompaları ve mikro-tarım makineleri içerir.Loncin Holdings Co., Ltd. Çin merkezli bir şirkettir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Supercell",
+    "description": "Supercell, 2010 yılında kurulan Supercell OY bünyesindeki video oyunu şirketidir.Şirketin Helsinki, Seul, Tokyo ve San francisco’da ofisleri bulunmaktadır.Supercell OY şirketininin yüzde 84,3 oranındaki hisselerini 2016 yılında Çin merkezli Tencent satın aldı.Supercell bünyesindeki oyunlar:Makers of Brawl StarsClash RoyaleBoom BeachClash of ClansHay Day",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wechat",
+    "description": "Wechat, 2011 yılında Tencent Holdings Limited bünyesinde üretilen sesli ve yazılı mesajlaşmaya yarayan bir mesaj servisi uygulamasıdır.Android, iPhone, BlackBerry, Windows Phone ve Symbian işletim sistemlerinde kullanılabilmektedir. Dil seçenekleri arasında Türkçe ile çok sayıda dil yer almaktadır.Tencent Çin merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-03-02"
+  }
+]

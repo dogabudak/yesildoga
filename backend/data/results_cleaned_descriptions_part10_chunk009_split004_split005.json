@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Cbferrari",
+    "description": "1966 yılında kurulmuş olan Cbferrari Srl bünyesindeki endüstriyel takım tezgahları markasıdır.Makineler, otomatik sistemler ve anahtar teslimi freze ve lazer çözümleri üretmektedir.ISO 9001 belgesine sahiptir.Cbferrari Srl İtalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Space24",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kango",
+    "description": "2019 yılında kurulan Meliha Tarhanacı Tekstil İmalat İthalat İhracat Tic. Ltd. Şti. bünyesindeki abiye giyim markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yongtai",
+    "description": "1996 yılında kurulan Shandong Yongtai Chemical Group Co. Ltd. bünyesinde üretilen araç lastikleri, alüminyum alaşımlı jant, otomobil parçaları ve otomobil gövde yapısı bileşenleri markasıdır.Shandong Yongtai Chemical Group Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve yaklaşık 100 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Laurini",
+    "description": "1955 yılında kurulmuş olan Worldwide Machinery Ltd. bünyesindeki boru hattı, yıkım, hidrodemolitasyon, kazık çakma ve otoyol tüneli bakımı gibi çeşitli sektörler için son teknoloji makineleri markasıdır.Worldwide Machinery Ltd. Amerika merkezlidir ve Worldwide Group’un parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

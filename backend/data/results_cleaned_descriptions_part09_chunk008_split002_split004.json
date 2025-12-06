@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Farecla",
+    "description": "“Farecla“1952 yılında kurulmuş olan Farecla Products Ltd. bünyesindeki parlatma bileşikleri ve yüzey bitirme ürünleri, aplikatörler, parlatma makineleri ve mikrofiber bezler markasıdır.Farecla Products Ltd. 2018 yılında Fransa merkezli Compagnie de Saint-Gobain S.A. bünyesine katıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Ime Dc",
+    "description": "“Ime-Dc“2003 yılında kurulmuş olan İME DC Sağlık Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki kan şekeri ölçüm sistemleri, insülin iğne uçları, tek kullanımlık lancetler, insülin pompaları markasıdır.EN ISO 13485 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Farem",
+    "description": "“Farem“1948 yılında kurulmuş olan Farem S.r.l. bünyesindeki hassas uçak elektro mekanik aletleri markasıdır.Ürün yelpazesi, takometre, yakıt göstergesi, yakıt akışı, tork, sıcaklık, basınç ve volt ampermetreler dahil olmak üzere geleneksel kokpit enstrümantasyonunu içermektedir.Farem S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bibimcos",
+    "description": "“Bibimcos“2013 yılında kurulmuş olan Limonian Ltd. bünyesinde üretilen kozmetik ürünler markasıdır.Limonian Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Chick",
+    "description": "“Chick“1958 yılında kurulmuş olan Mert Optik Gözlükçülük San. ve Tic. Ltd. Şti. bünyesindeki çocuk güneş gözlükleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

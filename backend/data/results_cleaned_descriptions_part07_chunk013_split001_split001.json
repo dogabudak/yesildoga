@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Aligro",
+    "description": "Aligro, 1902 yılında Aline Demaurex tarafından kurulmuş olan Demaurex & Co AG bünyesindeki gıdalar ve içecekler markasıdır.Demaurex & Co AG İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Fozy Buds",
+    "description": "Fozy Buds, 2021 yılında kurulmuş olan A. H. Atalay Konfeksiyon Tek. Tic. San. Ltd. Şti. bünyesindeki çocuk giyim ürünleri markasıdır.Firma Bursa merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Serm & Barr",
+    "description": "Serm&Barr, 2021 yılında kurulmuş olan Arvi Karavan San. A.Ş. bünyesinde üretilen çekme karavan markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fur Babies World",
+    "description": "Fur Babies World, 1985 yılında Brian Hamersfeld tarafından kurulan Moose Creative Management Pty Ltd. bünyesindeki kürklü bebek oyuncaklar markasıdır.Moose Creative Management Pty Ltd. Avustralya merkezlidir ve ürünleri 85 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Kershaw",
+    "description": "Kershaw, 1974 yılında kurulmuş olan Kai Ltd. bünyesinde üretilen bıçak markasıdır.Kai Usa Ltd. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

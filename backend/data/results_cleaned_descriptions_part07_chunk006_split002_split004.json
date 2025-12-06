@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Sihuadon",
+    "description": "Sihuadon, 2015 yılında kurulmuş olan Dongguan Xinhuaide E-Commerce Co. Ltd. bünyesinde üretilen radyo, radyo aksesuarı, hoparlör, taşınabilir radyo, lityum pil markasıdır.Dongguan Xinhuaide E-Commerce Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Roxy Sabun",
+    "description": "Roxy Sabun, 1941 yılında kurulmuş olan Dalan Kimya A.Ş. bünyesinde üretilen gofret sabunlar, kağıt sargılı sabunlar, opp sargılı sabunlar, pe poşet sabunlar, sıvı sabunlar, toz sabunlar markasıdır.ISO 9001, ISO 22716, TSEFirma İzmir merkezlidir. Ürünlerini 100 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sentinel Kimyasallar",
+    "description": "Sentinel, 1988 yılında kurulmuş olan Sentinel Performance Solutions Limited bünyesindeki ısıtma ve soğutma sistemleri temizleyici ve koruyucu kimyasalları markasıdır.Sentinel Performance Solutions Limited İngiltere merkezlidir.Bünyesindeki markalar;KalguardRapid DoseSentinelSentinel Eliminator VortexSentinel Rapid DoseX100",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Kenacort",
+    "description": "Kenacort, 1958 yılında kurulmuş olan Deva Holding A.Ş. bünyesinde üretilen ilaçlar markasıdır.Deva Holding A.Ş. İngiltere’nin denizaşırı topraklarından, Bermuda merkezli olarak kurulan Eastpharma Ltd. iştiraki Eastpharma Sarl’ye aittir. Tekirdağ ve Kocaeli’deki üretim tesislerinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Felder Lötfett",
+    "description": "Felder, 1979 yılında kurulmuş olan Felder Gmbh bünyesindeki bakır ve bakır alaşımlarının yumuşak lehimlenmesi için macun benzeri bir kıvamda çinko klorür ve amonyum klorür bazlı fon akışı, bakır boru tesisatı, daldırma lehim, bağlantı parçaları, üretim ve diğer lehimlemeler markasıdır.Felder Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

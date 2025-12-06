@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dentaş",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kemorela",
+    "description": "2017 yılında kurulmuş olan Shenzhen Yingsi Industrial Co. Ltd. bünyesinde üretilen ahşap eşyalar, depolama çözümleri, kedi kumu kutusu, içecek bardakları, mutfak aletleri markasıdır.Shenzhen Yingsi Industrial Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Konsa",
+    "description": "1920 yılında kurulmuş olan Konsa A.Ş. bünyesinde üretilen plastik kutular, damla, yuvarlak, köşeli seri ambalajlar markasıdır.Firma Konya merkezlidir. Ürünlerini Konya 3. OSB’de 5 bin metrekaresi açık, 10 bin metrekaresi kapalı alanda bulunan tesisinde üretmektedir ve 30 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Molitus",
+    "description": "1965 yılında kurulmuş olan Molino Makine San. ve Tic. A.Ş. bünyesinde üretilen öğütme endüstrisi için makine ve malzemeler markasıdır.Firma Konya merkezlidir. Ürünlerini 30 bin metrekare kapalı, 54 bin metrekare açık alanda bulunan fabrikasında üretmektedir ve birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Checkline",
+    "description": "1958 yılında kurulmuş olan Electromatic Equipment Co. Inc. bünyesinde üretilen gerilim ölçer, takometre, stroboskop, kuvvet ölçer, tork ölçer, kaplama kalınlığı ölçer, duvar kalınlığı ölçer, tekstil test cihazları gibi hassas ölçüm cihazları markasıdır.Electromatic Equipment Co. Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

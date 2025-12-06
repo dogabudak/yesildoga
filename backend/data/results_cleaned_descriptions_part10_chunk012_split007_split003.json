@@ -1,0 +1,52 @@
+[
+  {
+    "company": "SGS Fixed",
+    "description": "1980 yılında kurulmuş olan SGS El Aletleri San. ve Tic. Ltd. Şti. bünyesinde üretilen pas sökücü, yapıştırıcı, boya, şeffaf slikon, fren balata temizleyici markasıdır.Firma İstanbul merkezlidir. Ürünlerini İstanbul’da 32 bin metrekarelik alanda üretmektedir ve 60’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Promo Star",
+    "description": "2001 yılında kurulmuş olan Promostar Mutfak Eşyaları San. Tic. Ltd. Şti. bünyesinde üretilen mutfak ürünleri, çaydanlık, çelik tencere setleri, basık tencere, derin tencere, granit setler, kare tava, sahan, tava markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SweetSense",
+    "description": "1990 yılında kurulmuş olan Harper Hygienics S.A. bünyesinde üretilen hijyen çubukları, antibakteriyel ıslak mendil ürünleri markasıdır.Harper Hygienics S.A. Polonya merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Miles",
+    "description": "1959 yılında kurulmuş olan Kangaro Pvt. Ltd. bünyesinde üretilen zımba tabancası, zımbalar, çiviler, bant aleti, zımba çıkarıcı ve dikiş teli markasıdır.ISO 9001 belgesine sahiptir.Kangaro (India) Pvt. Ltd. Hindistan merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Pharmapluss",
+    "description": "2015 yılında kurulmuş olan Ledapharma İlaç San. Tic. Ltd. Şti. bünyesindeki gıda takviyeleri markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma Kocaeli merkezlidir. Kütahya’da Tavşanlı OSB’de yer alan tesisinde üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

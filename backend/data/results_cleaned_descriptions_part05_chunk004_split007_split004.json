@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Fromate",
+    "description": "Fromate, 2015 yılında kurulan Froma Gıda ve Makina San. Tic. Ltd. Şti. bünyesinde üretilen soft dondurma tozu, yoğurt tozu markasıdır.İzmir merkezli yüzde yüz yerli sermayeli firma ham maddelerini Türkiye’den temin etmektedir. Ürünlerini 8 ülkeye ihraç etmektedir.Helal belgesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Börner",
+    "description": "Börner Hangi Ülkenin Malı MarkasıBörner, 1956 yılında Alfred Börner tarafından kurulan Börner Distribution International Gmbh bünyesinde üretilen meyve ve sebze dilimleyici, rendeler ve dilimleyiciler, kabuk soyucu, mutfak yardımcıları ve aksesuarlar markasıdır.Börner Distribution International Gmbh Almanya merkezlidir. Ürünlerini Almanya’da üretmekte ve 54 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Essentra",
+    "description": "Essentra, 1940 yılında kurulan Essentra PLC bünyesindeki bileşenler, paketleme ve filtreler markasıdır.Otomotiv, imalat, elektronik ve inşaat gibi çeşitli uygulamalar ve endüstriler için proje ihtiyaçlarını çözer.28 ülkede faaliyet gösteren ve 12 üretim tesisine sahip olan Essentra PLC İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bell Kask",
+    "description": "Bell, 1923 yılında kurulan Bell Sports Inc. bünyesindeki bisiklet ve motosiklet kaskı markasıdır.Bell Star motosiklet kaskları bir köpük EPS astarı kullanılarak yapılır.Bell Sports Inc. Amerika merkezli Vista Outdoor Inc.’in bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Champion Tea",
+    "description": "Champion Tea, 1978 yılında kurulan Beta Gıda San. ve Tic. A.Ş. bünyesinde ithal edilen kuru çay markasıdır.Ürünleri Sri Lanka’dan ithal edilen çaydan üretilmektedir.ISO 9001 ve Helal belgelerine sahiptir.Firmanın Trabzon’da çay fabrikası, Adana Hacı Sabancı OSB’de gıda paketleme tesisi bulunmaktadır. Ürünlerini Azerbeycan, Kazakistan, Tacikistan, Özbekistan, Kırgızistan, Rusya, Irak gibi ülkeler ve Amerika, Orta Doğu ve Doğu Avrupa pazarına ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

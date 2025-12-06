@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Dahle",
+    "description": "Dahle, 2012 yılında Erwin Müller Grubu tarafından kurulan Novus Dahle GmbH & Co. bünyesindeki kağıt kesme makineleri ve kesiciler, kağıt ve dijital medya öğütücüler, kalemtraşlar, kendi kendini İyileştiren kesme paspasları, makas markasıdır.Novus Dahle GmbH & Co. Almanya merkezlidir.Bünyesindeki markalar;DahleDahleGovNovus",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kattovit",
+    "description": "Kattovit, 1982 yılında Roswitha ve Joachim Finnern tarafından kurulmuş olan Finnern Gmbh & Co. Kg bünyesinde üretilen kedi, maması markasıdır.Finnern GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dynafit",
+    "description": "Dynafit, 1981 yılında Heiner Oberrauch tarafından kurulmuş olan Oberalp S.p.A. bünyesindeki spor ve açık hava etkinlikleri için giyim ürünleri markasıdır.Oberalp S.p.A. İtalya merkezlidir. Ürünlerini 65 ülkede pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dermoes",
+    "description": "Dermoes, 2016 yılında kurulmuş olan Es Health Pharma İlaç San. ve Tic. Ltd. Şti. bünyesinde üretilen çinko oksit krem, şampuan, damlalıklı gliserin, gül kokulu vazelin, gliserin, hint yağı, lanolin krem, naturel vazelin, pure lanolin, talk pudra, tatlı badem yağı, vücut temizleme solüsyonu, sıvı vazelin markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BitlifeDermoesEsdropsEsfishEsflorEspanFizyoesVapoes",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Geomed",
+    "description": "Geomed, 1922 yılında kurulmuş olan Geomed Medizin-Technik GmbH & Co. KG bünyesinde üretilen cerrahi ve dişçilik aletleri markasıdır.Geomed Medizin-Technik GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

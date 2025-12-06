@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ishino",
+    "description": "2015 yılında kurulmuş olan Guangdong Ishino Technology Co. Ltd. bünyesinde üretilen endüstriyel makine parçaları, inşaat makine parçaları, otomotiv parçaları, vanalar, dizel common rail sistem parçaları, hidrolik sistem parçaları ve tarım makineleri parçaları markasıdır.Guangdong Ishino Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Denby Pottery",
+    "description": "1809 yılında kurulmuş olan Denby Pottery Company Ltd. bünyesindeki el yapımı seramik sofra takımları, mutfak gereçleri ve yemek takımları, çeşitli cam eşyalar ve dökme demir tencere ürünleri markasıdır.Denby Pottery Company Ltd. 2014 yılında Amerika merkezli Hilco Global tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Corkcicle",
+    "description": "2011 yılında kurulmuş olan Corkcicle LLC bünyesindeki içecek eşyası, cam eşyalar, yemek çantası, soğutucular, çantalar, aksesuarlar markasıdır.Corkcicle LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Goliath",
+    "description": "1980 yılında Adi Golad tarafından kurulmuş olan Goliath B.V. bünyesindeki çok çeşitli oyuncaklar, oyunlar ve dış mekan ürünleri markasıdır.Aksiyon, masa ve parti oyunlarının yanı sıra aile oyunları, bulmacalar, sanat ve el sanatları, açık hava etkinlikleri sunmaktadır.Goliath B.V. Hollanda merkezlidir. 100’den fazla ülkede iş yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Taiyi",
+    "description": "2001 yılında kurulmuş olan Dongguan Taiyi Laser Technology Co. Ltd. bünyesinde üretilen lazer kesim makinesi, lazer kaplama makinesi, lazer kaynak makinesi, lazer temizleme makinesi, lazer markalama makinesi ve parçaları markasıdır.Dongguan Taiyi Laser Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

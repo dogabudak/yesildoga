@@ -1,0 +1,45 @@
+[
+  {
+    "company": "SKT Keçe",
+    "description": "SKT Keçe Nerenin Malı MarkasıSKT, 1955 yılında kurulan, araçlarda kullanılan yağ keçeleri markasıdır. Diniz holding bünyesinde faaliyet gösteren SKT Yedek Parça ve Makina San. ve Tic. A.Ş. tarafından üretilmektedir.Başlıca ürünleri; kauçuk ve teﬂon dudaklı döner mil keçeleri, piston keçesi, u-cup ve titreşim sönümleyicilerinden oluşmaktadır.Firma ürünlerini Bursa OSB’de 14 bin metrekarelik kapalı toplam 20 bin metrekarelik arazi üzerinde üretmektedir. Üretiminin yarısını birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vibracoustic",
+    "description": "Vibracoustic, 2012 yılında kurulan, otomotiv sektöründe gürültü ve titreşimin azaltılması için titreşim önleyici sistemler (motor yatağı, süspansiyon yatağı), kauçuk ve havalı süspansiyon sistemleri markasıdır.Vibracoustic SE, Almanya merkezli Freudenberg grubunun bir şirketidir. 19 Ülkede 43 üretim tesisinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pisto Maschinenbau",
+    "description": "Pisto Maschinenbau, Pisto Maschinenbau Gmbh bünyesinde üretilen fındık ve gıda işleme makineleri markasıdır.Şirket, kuru fındık ve gıda işleme makineleri üretmektedir.Pisto Maschinenbau Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kuba Motor",
+    "description": "Kuba Motor, 2004 yılında kurulan Kuba Otomotiv İnş. San. ve Tic. A.Ş. bünyesinde üretilen motosiklet, chopper ve cross, cub, e-scooter, e-technology, scooter, t1 / t3, ticari, off road markasıdır.ISO 9001 belgesine sahiptir.MJ Group çatısı altında yer alan firma ürünlerini Gaziantep ve Manisa’da bulunan fabrikalarında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Haima Automobile",
+    "description": "Haima Automobile, 1992 yılında Hainan Mazda Motor Co. Ltd. bünyesinde üretilen binek otomobil markasıdır.Şirket 2006 yılında FAW Group tarafından satın alınarak FAW Haima Automobile Co. Ltd. adıyla bir yan kuruluşu oldu.FAW Haima Automobile Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

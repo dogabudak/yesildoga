@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Akyüz",
+    "description": "Akyüz Nerenin Malı MarkasıAkyüz, 1980 yılında kurulan Akyüz Plastik A.Ş. bünyesinde üretilen ev, mutfak ve bahçe gereçleri markasıdır.Ürünlerinin yüzde 60’ını ihraç etmektedir.ISO 9001, ISO 13485, ISO 22000, FDA belgelerine sahiptir.",
+    "documents": [
+      "FDA",
+      "ISO",
+      "ISO 13485",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bm Boschmann",
+    "description": "Bm Boschmann, 2000 yılında Edwin Boschmann ve Edmund Meyer tarafından kurulan BM Audio Labs Inc. bünyesindeki araç video elektronik, amplifikatör ve hoparlör ve ses sistemleri markasıdır.BM Audio Labs Inc. Amerika merkezlidir ürünlerini Hong Kong’ta üretmektedir.Bünyesindeki markalar;Bm Audio LabsBm BoschmannMgx MegavoxOffensive Mobile Systems Apache",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-10-09"
+  },
+  {
+    "company": "Cadence Sound",
+    "description": "Cadence Sound, 1992 yılında kurulan Cadence Products Inc. bünyesinde üretilen elektronik ve hoparlör markasıdır.Cadence Products Inc. Amerika merkezlidir. Ürünleri 20’den fazla ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-03-31"
+  },
+  {
+    "company": "Lesima",
+    "description": "Lesima, 2003 yılında kurulan Kıntaş Ticaret tarafından ithal edilen saç kurutma, fön makinesi, saç sakal traş makinesi, şarjlı burun kıl alma makinesi markasıdır.Lesima markalı ürünler Şanlıurfa’da faaliyet gösteren Kıntaş Ticaret tarafından Çin’den ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soundmagus",
+    "description": "Soundmagus, 2001 yılında kurulan SoundMagus Technology Co. Ltd. bünyesinde üretilen otomobil amplifikatör, hoparlör ve aksesuarları markasıdır.Ürünlerini 3 bin 500 metrekarelik fabrikasında üretmektedir.SoundMagus Technology Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

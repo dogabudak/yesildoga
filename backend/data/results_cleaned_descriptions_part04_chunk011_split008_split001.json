@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kruger",
+    "description": "Kruger, 1904 yılında Joseph Kruger tarafından kurulan Kruger Inc. bünyesindeki sanayi yayın kağıtları, doku ürünleri, kereste ve diğer ahşap ürünler, geri dönüştürülmüş liflerden oluklu kartonlar markasıdır.Kruger, geri dönüştürülmüş stok ve geri dönüştürülmüş kağıt ürünlerinin üretimi için değirmenlerine geri dönüştürülmüş kağıt ve konteyner tedarik eden sıralama ve geri kazanım merkezlerine sahiptir.Kruger Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Sparkle Computer",
+    "description": "Sparkle Computer, 1982 yılında kurulan Sparkle Computer Co. Ltd. bünyesindeki grafik kartları, tüketici elektroniği markasıdır.Firma grafik denetleyicileri için çevre birimleri (fanlar ve soğutucular) ile birlikte Nvidia grafik işlem birimlerini kullanarak video kartları üretmektedir. ISO 9002, ISO 14001 ve QS-9000 belgelerine sahiptir.Sparkle Computer Co. Ltd. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir ve 80’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Ponsse",
+    "description": "Ponsse, 1970 yılında Einari Vidgren tarafından kurulan Ponsse Oyj bünyesindeki ileticiler ve biçerdöverler gibi çeşitli ormancılık araçları ve makineleri markasıdır.Ponsse Oyj Finlandiya merkezlidir. Ponsse Group, 10 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Hamann Motorsport",
+    "description": "Hamann Motorsport, 1986 yılında Richard Hamann tarafından kurulan Hamann Motorsport Gmbh bünyesindeki araç markasıdır.Hamann Motorsport Gmbh Almanya merkezlidir. Bir araç tuning şirketi ve bir araç üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Prismacolor",
+    "description": "Prismacolor, 1824 yılında James Perry tarafından kurulan Eagle Pencil Company bünyesindeki kalemler, pastel, işaretleyiciler markasıdır.Prismacolor, 1995 yılından beri Newell Brands tarafından üretilen profesyonel sanatçı sarf malzemelerinin bir markasıdır.Newell Brands Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

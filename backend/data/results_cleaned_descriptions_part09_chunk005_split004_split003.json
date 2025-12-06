@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Voa Haber",
+    "description": "Voice of America1942 yılında kurulmuş ve ABD Hükümeti tarafından finanse edilen bir multimedya uluslararası yayın hizmetidir.VOA haberleri, bilgileri ve eğitim programları dünya çapında 40’tan fazla dilde, radyo, televizyon, internet, mobil ve bağlı istasyonlar aracılığıyla duyulmaktadır.2022 yılında RTÜK lisansı almadığı için Türkiye’de erişimi engellenmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tanfaş",
+    "description": "Tanfaş2023 yılında kurulmuş olan Tanfaş Nitelikli Faaliyetler Tarım San. A.Ş. bünyesindeki kakao tozu, Türk kahvesi, zeytinyağı markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dedektif Reptır",
+    "description": "Dedektif Reptır2010 yılında kurulmuş olan Üç Artı Prodüksiyon ve Tanıtım Ltd. Şti. bünyesindeki çizgi film markasıdır.Şirket kısa filmler, uzun metrajlı filmler, TV oyun şovları, TV dizileri, belgesel filmler, reklam ve reklam filmleri çekmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wowbrow",
+    "description": "Wowbrow2016 yılında Tanya Therese Bryhn tarafından kurulmuş olan Wowbrow Cosmetics AS bünyesindeki kaş mumu, kaş ve kirpik serumu markasıdır.Kaş mumu, su bazlı bir formüle sahiptir.Wowbrow Cosmetics AS Norveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "İlke İç Giyim",
+    "description": "İlkeİlke İç Giyim Teks. San. ve Tic. Ltd. Şti. bünyesindeki erkek, kadın ve çocuk iç giyim ürünleri markasıdır.Ürünleri kanserojen maddeler içermemektedir.Firma İstanbul merkezlidir.Bünyesindeki markalar;Bensi Collection Under WearHulahoop Kidsİlkeİlke UnderwearLl LovelaceMannovaŞıkilke",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

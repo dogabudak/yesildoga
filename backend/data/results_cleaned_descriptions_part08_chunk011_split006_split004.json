@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Coffy",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Stance Çorap",
+    "description": "Stance2009 yılında kurulmuş olan Stance Inc. bünyesindeki çoraplar, iç çamaşırlar, tişörtler markasıdır.Stance Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Meleni Home",
+    "description": "Meleni Home2020 yılında kurulmuş olan Meleni Home Plastik Tekstil Aksesuar Tic. Ltd. Şti. bünyesindeki ev dekorasyonu, mutfak gereçleri, banyo gereçleri, bebek çocuk ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gerhau MOOI",
+    "description": "Gerhau MOOI2018 yılında kurulan Gerhau Akıllı Yaşam Gereçleri San. ve Tic. A.Ş. bünyesindeki akıllı güzellik robotu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Schafer Prochef",
+    "description": "Prochef2004 yılında kurulmuş olan Aslan Ticaret Dayanıklı Tüketim Malları Ltd. Şti. bünyesindeki küçük ev aletleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

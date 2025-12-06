@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Helena Rubinstein",
+    "description": "Helena Rubinstein, Helena Rubinstein S.A. bünyesindeki kozmetik ürünler markasıdır.Helena Rubinstein S.A. 1988 yılında Loreal Group tarafından satın alındı.Loreal Group çoğunluk hisseleri Fransız Françoise Bettencourt Meyers ile İsviçre merkezli Nestle S.A.’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Motolux",
+    "description": "Motolux, 1999 yılında kurulan Simmoto Otomotiv San. ve Tic. Ltd. Şti. bünyesindeki e-bike, motorsiklet, 3 tekerli benzlinli, cup, e-grup, scooter, touring markasıdır.Firma, dayanıklı tüketim mamülleri, mobilya, scooter ve motorsiklet üretimi ile Türkiye dağıtıcılığını yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Solero",
+    "description": "Solero, 1994 yılında Unilever PLC.’nin yan kuruluşu olan Algida bünyesinde üretilen meyveli dondurma ve buzlu meyve markasıdır.Ürün bazı ülkelerde farklı isimlerde satılmaktadır. Dondurmanın iç ve dış kısmı iki meyve çeşnisinden oluşmaktadır. Ürünleri şeker, glikoz-fruktoz şurubu, hurma yağı, süt tozu, kıvam artırıcı, renklendirici, aroma verici, soya lesitini içermektedir.Unilever PLC. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-26"
+  },
+  {
+    "company": "Anastasia Beverly Hills",
+    "description": "Anastasia Beverly Hills, 1997 yılında Anastasia Soare tarafından kurulan Anastasia Beverly Hills, Inc. bünyesindeki kozmetik ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Anastasia Beverly Hills, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Buitoni",
+    "description": "Buitoni, 1827 yılında kurulan makarna, hazır soslar, unlu mamuller markasıdır.Buitoni, 1988 yılında Nestle S.A. tarafından satın alındı.Societe Des Produits Nestle S.A. İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

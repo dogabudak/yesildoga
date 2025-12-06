@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cashka",
+    "description": "Cashka, 2005 yılında Üstündağ Ayakkabı ve Ayakkabı Malz. San. Tic. Ltd. Şti. bünyesinde üretilen bot ve çizme markasıdır.Firma İzmir merkezlidir ve ürünlerini İzmir’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zeus Umbrella",
+    "description": "Zeus Umbrella, 2013 yılında Alper Alkaç tarafından kurulmuş olan Mars Ticaret bünyesindeki şemsiye markasıdır.Firma İstanbul merkezlidir. Ürünlerini Çin, Kore, Tayvan, Hindistan, Avrupa ve Türkiye’de bulunan tedarikçilerden almaktadır.Bünyesindeki markalar;Mars UmbrellaZeus UmbrellaZeus&Co.Zeus&Co. By MarsZeusandco.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dolce Vita Bot",
+    "description": "Dolce Vita, 2001 yılında kurulmuş olan Dolce Vita Footwear Inc. bünyesindeki sandalet, bot, spor ayakkabı ve topuklu ayakkabılar markasıdır.Ürünlerinde kullandığı ambalajların tamamı geri dönüştürülebilir, biyolojik olarak parçalanabilen malzemelerden üretilmektedir.Dolce Vita Footwear Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rainwalker",
+    "description": "Rainwalker, 1998 yılında kurulmuş olan Beyaz İç ve Dış Tic. San. Ltd. Şti. bünyesindeki güneş gözlüğü, şemsiye ve aksesuarlar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ClarionCrossfıreGolf ClubMarkamilPier CarluccioRain WalkerRaınwalkerRainwalker SuntimeU.W Umbrella World",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Grünberg",
+    "description": "Grünberg, 2003 yılında kurulmuş olan Grünberg Dış Tic. Ltd. Şti. bünyesinde üretilen elektrikli izgara-barbekü, fincan, kek kalıbı, mini/midi fırınlar, ocaklar, su isıtıcısı, tost makinesi, vantilatör markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

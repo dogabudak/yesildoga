@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mervegül",
+    "description": "Mervegül, 1992 yılında kurulmuş olan Karataş Tekstil A.Ş. bünyesinde üretilen eşarp, şal, yazma, bone markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Plastart",
+    "description": "Plastart, 1967 yılında kurulmuş olan Irak Plastik San. ve Tic. A.Ş. bünyesinde üretilen plastik mutfak gereçleri, düzenleyiciler, temizlik ve banyo ürünleri, pet ürünleri, bahçe ürünleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini 42 bin metrekarelik üretim tesisinde üretmektedir.Bünyesindeki markalar;HolidayHoliday Garden FlowerPet Plast’ArtPlastartTiny Mini Art",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Van de Velde",
+    "description": "Van de Velde, 1919 yılında Van de Velde ailesi tarafından kurulmuş olan Van de Velde NV bünyesindeki iç çamaşırları markasıdır.Van de Velde NV Belçika merkezlidir.Bünyesindeki markalar;Andres SardaMarie JoPrimaDonnaVan de Velde",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Gönül Kahvesi",
+    "description": "Gönül Kahvesi, 2002 yılında Gönül Kahvesi Gıda San. ve Tic. A.Ş. bünyesinde kurulmuş olan butik zincir kahve evi markasıdır.Ürünleri arasında Türk kahvesi, aromalı filtre kahveler, soğuk kahve, espresso, dondurma, meyve suyu, pasta, sandiviç, unlu mamuller yer almaktadır.Firma İstanbul merkezlidir. Yurtiçi ve yurtdışında toplam 80’in üzerinde şubesi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aquapa",
+    "description": "Aquapa, 1990 yılında kurulmuş olan Formül Plastik A.Ş. bünyesinde üretilen PP-R boru ve ek parçaları, PVC boru ve ek parçaları ile PE-RT boru markasıdır.ISO 9001, ISO 27001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Tekirdağ’da bulunan fabrikalarında üretmektedir ve 85’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;AquapaAquapipeAquaplastForaquaFormül",
+    "documents": [
+      "ISO",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

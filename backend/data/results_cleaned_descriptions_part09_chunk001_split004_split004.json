@@ -1,0 +1,44 @@
+[
+  {
+    "company": "M. Asam",
+    "description": "M. Asam1963 yılında Asam ailesi tarafından kurulmuş olan Asambeauty Gmbh bünyesindeki cilt bakım kozmetikleri, saç bakım ürünleri, makyaj ürünleri markasıdır.Asambeauty Gmbh Almanya merkezlidir.Bünyesindeki markalar;AsamBeautyEliah Sahil Organic CareFMOINOARKeralock",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Adalock",
+    "description": "Adalock2010 yılında kurulmuş olan Adabey Kimya A.Ş. bünyesindeki anaerobik sızdırmazlık bileşenleri markasıdır.Firma Ankara merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Candexil",
+    "description": "Candexil1958 yılında kurulan Deva Holding A.Ş. bünyesinde üretilen ilaç markasıdır.Deva Holding A.Ş. hisseleri 2006 yılında Eastpharma Sarl tarafından satın alındı.Eastpharma Sarl, İngiltere’nin denizaşırı topraklarından, Bermuda merkezli olarak kurulan Eastpharma Ltd. iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ehrmann",
+    "description": "Ehrmann1920 yılında kurulmuş olan Ehrmann SE bünyesindeki yoğurt, tatlı yoğurt, puding ve içecekler markasıdır.Ehrmann SE Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ashimori",
+    "description": "Ashimori1935 yılında kurulmuş olan Ashimori Industry Co. Ltd. bünyesindeki afet önleme malzemeleri ve ekipmanları, ayırma ağları, büyük çaplı hortumlar, direksiyon simidi, elektrikli güneş şemsiyeleri, emniyet kemerleri, endüstriyel, inşaat mühendisliği hortumları, güneş şemsiyeleri, hava yastıkları, işçilikten tasarruf sağlayan lojistik sistemler, inşaat malzemeleri, kanvas ve silis elekler, kişisel düşme önleyici ekipmanlar, paltem boru hattı rehabilitasyonu için malzeme ve ekipmanlar, sentetik halatlar ve kayışlar, tonneau kapakları, yangın hidrantları için hortumlar, yangın hortumları markasıdır.Ashimori Industry Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

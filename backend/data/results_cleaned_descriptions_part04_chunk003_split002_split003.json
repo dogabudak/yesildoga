@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ligier",
+    "description": "Ligier, 1968 yılında Guy Ligier tarafından kurulan Groupe Ligier, S.A. bünyesindeki otomotiv markasıdır.Günümüzde ağırlıklı olarak mikro otomobiller üretmektedir. Model serisi JS50 mikro otomobil serisi, X-Pro mikro ticari araçları ve Be Up/Be Two roadster tipi araçlardan oluşmaktadır. Ayrıca Be Pro, Be Four ve Be Truck olarak satılan bir dizi ATV de üretmektedir.Fransa merkezli Ligier Groupe, İtalya merkezli 21 Invest S.p.A.’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "A. P. C",
+    "description": "A. P. C., 1987 yılında Jean Touitou tarafından kurulan Atelier de Production et de Creation bünyesindeki hazır giyim ürünleri ve aksesuarları markasıdır.Atelier de Production et de Creation Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "A.L.B",
+    "description": "A.L.B, 2012 yılında Vincent Candelle Tuheille ve Simon-Pierre Delord tarafından kurulan lüks sanat saatleri markasıdır.Sınırlı veya özelleştirilmiş serilerde lüks saat üretiminde uzmanlaşmış Fransa merkezli saatçilik atölyesidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Maquet",
+    "description": "Maquet, 1841 yılında Hector ve Charles Maquet tarafından kurulan lüks kırtasiye, deri ürünleri ve sanat baskısı markasıdır.Luvanis S. A. bünyesindedir.2009 yılında Guy de ve Arnaud de Lummen tarafından kurulan Luvanis S. A. merkezi Lüksemburg’da bulunan ve uzun süredir uyuyan lüks markaların yeniden canlandırılması konusunda uzmanlaşmış özel bir yatırım şirketidir.Bünyesindeki markalar:Charles JamesFinnigansMainbocherMaquetVever",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Blocki",
+    "description": "Blocki, 1865 yılında John Blocki tarafından kurulan Blocki Perfumes Inc. bünyesindeki parfüm, kozmetik ve kişisel bakım ürünleri markasıdır.Parfüm ve kozmetik üreticilerinden biri olan Blocki Perfumes Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

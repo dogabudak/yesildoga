@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Rubio Monocoat",
+    "description": "Rubio Monocoat, 1906 yılında kurulmuş olan Muylle Facon BVBA bünyesinde üretilen ahşap koruyucular, renklendiriciler, parke yapıştırıcıları, sert balmumu yağı markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Firma Belçika merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Zen Basil",
+    "description": "Zen Basil, 2017 yılında Shakira Niazi tarafından kurulmuş olan Basil Seed Works Inc. bünyesinde üretilen yenilebilir organik fesleğen tohumları markasıdır.Basil Seed Works Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aymaksan Market Arabası",
+    "description": "Aymaksan Market Arabası Nerenin Malı MarkasıAymaksan, 1986 yılında kurulmuş olan Aymaksan Mak. San. Ltd. Şti. bünyesindeki market arabaları, el sepeti, market ekipmanları markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ören Bezelye",
+    "description": "Ören Bezelye Nerenin Malı MarkasıÖren, 1982 yılında kurulmuş olan Burcu Gıda Konservecilik ve Salça A.Ş. bünyesinde üretilen bezelye konservesi markasıdır.Firma Balıkesir merkezlidir ve ürünlerini İzmir, Balıkesir ve Çanakkale’de bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çokça",
+    "description": "Çokça Nerenin Malı MarkasıÇokça, A101 Yeni Mağazacılık A.Ş. adına Burcu Gıda Konservecilik ve Salça A.Ş. bünyesinde üretilen garnitür, ketçap, ketçap acılı, mayonez markasıdır.Firma ürünlerini İzmir, Balıkesir ve Çanakkale’de bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

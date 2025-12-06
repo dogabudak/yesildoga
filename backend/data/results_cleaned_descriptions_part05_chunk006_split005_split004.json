@@ -1,0 +1,52 @@
+[
+  {
+    "company": "UQM",
+    "description": "UQM, 1967 yılında kurulan UQM Technologies Inc. bünyesindeki binek ve ticari araçlar için elektrik motorları, jeneratörler, motor kontrolörleri, yakıt hücresi kompresör sistemleri ve hibrit sistemler markasıdır.UQM Technologies Inc., 2019 yılında Danfoss A/S tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Fitglow Beauty",
+    "description": "Fitglow Beauty, 2017 yılında kurulan Fitglow Beauty LLC bünyesinde üretilen cilt bakımı, güzellik ve makyaj ürünleri markasıdır.Ürünlerini bitki bazlı malzemelerle organik, glutensiz olarak üretmektedir ve hayvanlar üzerinde test etmemektedir.Fitglow Beauty LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fridgers",
+    "description": "Fridgers, 1984 yılında kurulan Depar Dayanıklı Tüketim Malları San. ve Tic. Ltd. Şti. bünyesinde üretilen buzdolabı, soğutma ürünleri ve güneş enerjili güç sistemleri markasıdır.Ankara merkezli grup ürünlerini 30’dan fazla ülkeye ihraç etmektedir.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Growway Fertilizer",
+    "description": "Growway Fertilizer, 2012 yılında kurulan Adafer Gübre ve Tarım İlaçları San. Tic. Ltd. Şti. bünyesinde üretilen gübre markasıdır.Spesifik mineral gübreler, organik ve organomineral ürünler, damlama sulama gübreleri, mikro besinler, biostimulants, saf gübreler üretmektedir.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma Adana merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beta Ayakkabı",
+    "description": "Beta, 1970 yılında Ercan İkiışık ve Taner İkiışık tarafından kurulan Beta Ayakkabı San. ve Tic. A.Ş. bünyesinde üretilen ayakkabı markasıdır.Firma 2018 yılında konkordato başvurusunda bulunmuştu.İstanbul merkezli firma ürünlerinin yüzde 85’ini ihraç ediyordu.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

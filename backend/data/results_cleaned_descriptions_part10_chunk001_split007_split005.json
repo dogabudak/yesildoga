@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Stanton",
+    "description": "1998 yılında kurulmuş olan Inmusic Brands Inc. bünyesindeki DJ’ler ve turntablistler için yüksek performanslı donanımlar markasıdır.Inmusic Brands Inc. Amerika merkezlidir.Bünyesindeki markalar;Air Music TechnologyAkai ProfessionalAlesisAlto ProfessionalArKaosBFDDenon DjDenon ProfessionalEngine DjHeadrushIon AudioM-Audio",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Genelec",
+    "description": "1978 yılında kurulmuş olan Genelec Oy bünyesindeki aktif hoparlörler ve subwoofer’lar markasıdır.Hoparlörler, ses, stüdyo monitörleri, sürükleyici ses, av kurulumu, ev hoparlörleri, ip üzerinden ses ve glm yazılımı sunmaktadır.ISO 9001 belgesine sahiptir.Genelec Oy Finlandiya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "İnosmart",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Babycim",
+    "description": "1982 yılında kurulmuş olan Birlik Oyuncak San. ve Tic. Ltd. Şti. bünyesinde üretilen çınğıraklar, hışırtılı top, harfler kitabı, ilk adım arabam bebek, kitapçık setim, oyun halıları, parmak kuklalar, sayılar kitabı, top toplama oyunu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ADF",
+    "description": "2010 yılında kurulmuş olan Adf Ankastre Ev Aletleri A.Ş. bünyesinde üretilen davlumbaz ve ankastre ocaklar markasıdır.ISO 9001 belgesine sahiptir.HAS Şirketler Grubu bünyesindeki firma Amasya merkezlidir. 10 bin metrekarelik kapalı alana sahip tesislerinde üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

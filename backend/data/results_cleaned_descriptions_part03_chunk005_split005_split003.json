@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Perugina",
+    "description": "Perugina, 1907 yılında kurulan ve 1987 yılında Nestlé Italiana S.p.A bünyesine katılan çikolata ve şekerleme ürünleri markasıdır.Ürünlerini İtalya’daki fabrikasında üretmektedir.Nestlé Italiana S.p.A İsviçreli çikolata şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Champion Giyim",
+    "description": "Champion, 1919 yılında Feinbloom kardeşler tarafından kurulan ayakkabı, giyim ve spor ekipmanları markasıdır.2000 yılında kurulan Hanesbrands Inc. bünyesindedir ve çeşitli giyim markaları bulunmaktadır.Hanesbrands Inc. Amerika merkezlidir. Bünyesindeki markalar:AiréBaliBarely ThereBeefy-TC9 by ChampionCacharelCelebrityChampionDaisyfreshDimDuofoldHanesHanes HosieryJ. E. MorganJust My SizeL’eggsMaidenformOne Hanes PlacesOuter BanksPlaytexRhythmRinbrosRitmoSheer EnergySilk ReflectionsSolSol y OroSun and GoldTaglessWonderbraZorba",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rinnai",
+    "description": "Rinnai, 1920 yılında Kenkichi Hayashi ve Hidejiro Naito tarafından kurulan Rinnai Corporation bünyesinde üretilen su ısıtıcıları, kazan, kurutma ürünleri markasıdırSıcak su tesisleri, kazanlar ve su ısıtıcıları da dahil olmak üzere gaz aletleri, üreten bir şirkettir.Rinnai Corporation Japonya merkezlidir ve Japonya’da 6 üretim tesisi bulunmaktadır. Dünya çapında 90’a yakın satış şirketi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Zabata",
+    "description": "Zabata, 2019 yılında kurulan Aksu Dış Ticaret İnternet Bilişim Hizmetleri ve Pazarlama Limited Şirketi tarafından ithal edilen ürünler markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yazbee",
+    "description": "Yazbee, 2016 yılında Arif Ünver tarafından kurulan Mobifin Mobil Finans Teknoloji Hizmetleri A.Ş. bünyesinde üretilen yerli sosyal medya platformu markasıdır.Haber, magazin, spor, siyaset, kariyer, teknoloji, genç ve mizah gibi 24 konu başlığı bulunan teknoloji tabanlı medya işidir.Diğer sosyal medya uygulamalarında olmayan bir özellik olan yoruma kapalı paylaşım seçeneğine sahiptir. Kullanıcılar paylaşımları yoruma kapalı bir şekilde yapabilir. Ayrıca Beğenmeme seçeneği bulunmaktadır.Veri gizliliğine önem veren firma bir mahkeme kararı dışında hiçbir yere bilgi vermiyor ve kullanıcıların verilerini satmıyor.Firma Türkiye’nin ardından Balkanlar, Ortadoğu Arap coğrafyası, Kafkaslar, Türk Cumhuriyetleri, Rusya gibi ülke ve bölgelere açılmayı planlıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

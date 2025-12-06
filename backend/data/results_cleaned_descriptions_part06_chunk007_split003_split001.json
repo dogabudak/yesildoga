@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dembu",
+    "description": "Dembu, 2014 yılında kurulan Parantez Reklamcılık Hizmetleri Ltd. Şti. bünyesindeki tişört, pantolon, fermuarlı kapüşonlu, tunik, takım markasıdır.Kendi öz kültürümüzü ve değerlerimizi yansıtan giyim ürünlerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cettua Clean&Simple",
+    "description": "Cettua Clean&Simple, Beauty Insight Associates Ltd. bünyesindeki ayak bakım ürünleri markasıdır.Paraben, PEG ve pigment içermemektedir. ISO 22716 belgesine sahiptir.Beauty Insight Associates Ltd. İrlanda merkezlidir. Ürünleri Güney Kore’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Sade Pazar",
+    "description": "Sade Pazar, 2006 yılında kurulan Yerküre Doğal Yaşam Ürünleri A.Ş. bünyesindeki doğal ürünler pazarı markasıdır.Firma tüm doğal gıda ve aktariye ürünlerini ilaçsız, GDO’suz, glikozsuz, katkısız ve koruyucu maddesiz olarak sunmaktadır. Ürünleri zararlı kimyasallar içermez.Bünyesindeki markalar;Anadolu BahçesiHekimanaSade KöySade PazarYeşil Köpük",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hemp Cream By Bubbly",
+    "description": "Hemp Cream By Bubbly, 2011 yılında kurulan Nova İnteraktif Telemarket San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.Tüm cilt tipleri için kullanılabilir, kuru cildi pürüzsüzleştirir ve cildi nemlendirir.Ana faaliyet alanları dijital pazarlama, kozmetik, ayakkabı üretimi olan firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Medeli",
+    "description": "Medeli, 1983 yılında George Cheng tarafından kurulan Medeli Electronics Co. Ltd. bünyesinde üretilen elektronik müzik aletleri markasıdır.Medeli Electronics Co. Ltd. Hong Kong merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Exer Rent A Car",
+    "description": "1990 yılında kurulmuş olan Exer Cars S.A bünyesindeki araç kiralama hizmetleri markasıdır.Exer Cars S.A Yunanistan merkezlidir. 14 ülkede 120 noktada araba kiralama hizmeti vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Petsa Plastik",
+    "description": "2009 yılında kurulmuş olan Petsa Tekstil A.Ş. bünyesinde üretilen sızdırmaz kaplar, özel taşıyıcılar, gıda kapları markasıdır.PP, PET levha ve tek kullanımlık sızdırmaz gıda kapları ve pp bardakları üretmektedir.Firma Gaziantep merkezlidir. Gaziantep 5.OSB’de 16 bin 500 metrekarelik kapalı alan fabrikasında üretim yapmaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aasted",
+    "description": "1917 yılında kurulmuş olan Aasted ApS bünyesinde üretilen profesyonel çikolata üretim ekipmanları, ticari unlu mamuller üretim makineleri ve endüstriyel şekerleme üretim ekipmanları markasıdır.Aasted ApS Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Erctec",
+    "description": "Erc Veteriner Teknoloji Medikal Tic. Ltd. Şti. bünyesindeki çocuklar için akıllı saat, şarj kablosu, şarjlı pil, akıllı saat, akıllı saat kordonu, şarj aleti, araç güvenlik kamerası, araç takip cihazı, araba kamerası, böcek dinleme cihazı, gps takip cihazları, hafıza kartı, köpek tasması, köpek traş makinesi, küçükbaş hayvancılık ekipmanları, kapı güvenlik sistemleri, koyun kırkma makinesi, mıknatıslı şarj kablosu, mikro sd kart, ses dinleme cihazı böcek, tıraş makası, tasma markasıdır.Firma Konya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gekamac",
+    "description": "1963 yılında kurulmuş olan Gedik Holding A.Ş. bünyesindeki kaynak sarf malzemeleri ve aksesuarları markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001, ISO 50001 belgelerine sahiptir.Firma İstanbul merkezlidir. Türkiye’nin yanı sıra Azerbaycan ve Hindistan’da üretim tesislerine sahiptir. Ürünlerini 100’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

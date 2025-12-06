@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hopestar",
+    "description": "Hopestar, 2013 yılında kurulan Shenzhen Quality Life Technology Co. Ltd. bünyesinde üretilen ses ürünleri, Bluetooth hoparlörler, kablosuz kulaklıklar markasıdır.Shenzhen Quality Life Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Lodge",
+    "description": "Lodge, 1896 yılında Joseph Lodge tarafından kurulan Lodge Manufacturing Company bünyesinde üretilen dökme demir tencere markasıdır.Lodge Manufacturing Company Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kidega",
+    "description": "Kidega, 2017 yılında kurulan Kidega Elektronik Tic. ve Yayıncılık A.Ş. bünyesindeki çevrimiçi kitap satış platformudur.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artesia Pro",
+    "description": "Artesia Pro, 2013 yılında kurulan Virgin Musical Instruments bünyesindeki ultra mobil klavyeler ve müzik prodüksiyon ekipmanları, mobil piyanolar, dijital ev piyanoları, elektronik perküsyon ve ses kayıt cihazları, dijital davullar markasıdır.Virgin Musical Instruments Amerika merkezlidir. Ürünlerini Çin’de üretmekte ve 58’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Instant Pot",
+    "description": "Instant Pot, 2010 yılında Robert Wang tarafından kurulan Corelle Brands LLC bünyesinde üretilen düdüklü tencere, pişirici, ocak, hava fritözleri, fırın, kahve makinesi, süt köpürtücü, karıştırıcı, hava temizleyici markasıdır.Corelle Brands LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Fackelmann Ülke",
+    "description": "Fackelmann, 1919 yılında Sebastian Fackelmann tarafından kurulan Fackelmann GmbH Co. KG bünyesindeki ev eşyaları markasıdır.Mutfak ve ev yardımcıları, banyo aksesuarları ve mobilya ürünleri üreten Almanya merkezli geleneksel üreticidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "2K ve Rockstar Games",
+    "description": "Rockstar Games ve 2K Games, 1993 yılında Ryan Brant tarafından kurulan Take-Two Interactive Software, Inc. bünyesindeki video oyun yazılım markalarıdır.Take-Two Amerika merkezli uluslararası video oyunu yapımcısı ve dağıtıcısıdır.Ürünleri:BioShockBorderlandsCivilizationGrand Theft AutoMafiaMax PayneMidnight ClubMLB 2KNBA 2KRed DeadWWE 2KXCOM",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-05-13"
+  },
+  {
+    "company": "Chevron",
+    "description": "Chevron1879 yılında kurulan Chevron Corporation bünyesindeki madeni yağlar, katkı maddeleri ve petrokimya ürünleri markasıdır.Şirket arama ve üretim ile birlikte kimyasal maddelerin üretimi ve satışını yapmaktadır.Chevron Corporation Amerika merkezlidir. 180’den fazla ülkede faaliyet göstermektedir.Hissedarları:Vanguard Group Inc. (yüzde 8,7)Blackrock Inc. (yüzde 6,97)State Street Corp. (yüzde 6,66)Berkshire Hathaway Inc. (yüzde 6,66)Morgan Stanley (yüzde 1,94)Geode Capital Management LLC (yüzde 1,91)Jpmorgan Chase Co. (yüzde 1,64)Bank Of America Corp. (yüzde 1,61)Charles Schwab Investment Management Inc. (yüzde 1,5)Northern Trust Corp. (yüzde 1,13)Wells Fargo Co. (yüzde 1,02)Fisher Asset Management LLC (yüzde 0,97)Ameriprise Financial Inc. (yüzde 0,9)Franklin Resources Inc. (yüzde 0,89)Bank Of New York Mellon Corp. (yüzde 0,87)Capital World Investors (yüzde 0,87)Invesco Ltd. (yüzde 0,84)Capital International Investors (yüzde 0,73)State Farm Mutual Automobile Insurance Co. (yüzde 0,72)Legal General Group PLC (yüzde 0,7)Dimensional Fund Advisors LP (yüzde 0,7)Amundi (yüzde 0,61)Royal Bank Of Canada (yüzde 0,55)Price T Rowe Associates Inc. (yüzde 0,51)Nuveen Asset Management LLC (yüzde 0,5)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-08-01"
+  },
+  {
+    "company": "Epiwax",
+    "description": "Epiwax, 2003 yılında kurulan S.İnce Kozmetik Pazarlama Sanayi ve Ticaret Ltd Şti bünyesinde üretilen soyulabilir ağda markasıdır.S.İnce Kozmetik Pazarlama; parfüm, kozmetik ürünleri ve kolonya toptan ticareti konularında hizmet vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Blizzard Sport",
+    "description": "Blizzard Sport, 1945 yılında Anton Arnsteiner tarafından kurulan 2006 yılında Tecnica SpA bünyesine geçen kayak ürünleri markasıdır.1960 yılında kurulan Tecnica Group İtalya merkezli spor giyim üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Dola",
+    "description": "“Dola“2014 yılında kurulmuş olan Dola Gıda San. ve Dış Tic. Ltd. Şti. bünyesindeki bitki çayları ve pastiller, glutensiz ürünler, natural ürünler, organik ürünler markasıdır.ISO 9001, ISO 22000, GMP, HACCP belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elfi",
+    "description": "“Elfi“2010 yılında kurulmuş olan Elfi Plastik Makina İmalat San. ve Tic. A.Ş. bünyesinde üretilen alınkaynak makinesi, elektrofüzyon kaynak makinesi, enjeksiyon ek parçalar, fks ve korige boru kaynak makinesi, konfeksiyon ek parçalar markasıdır.ISO 9001, ISO 4427, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 4427",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coolway",
+    "description": ",“Coolway“2014 yılında kurulmuş olan Dopat S.A. bünyesindeki dondurma ve dondurulmuş tatlılar markasıdır.Dopat S.A. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Ara Shoes",
+    "description": ",“Ara“1949 yılında kurulmuş olan Ara Shoes Gmbh bünyesindeki ayakkabı, sandalet, terlik, spor ayakkabı ve çanta markasıdır.Ara Shoes Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sinful Colors",
+    "description": ",“Sinful Colors“1932 yılında kurulan Revlon Consumer Products LLC bünyesinde üretilen makyaj ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Revlon Consumer Products LLC Amerika merkezlidir.Hissedarları:MacAndrews & Forbes (yüzde 67,1)RCH Holdings Five Inc. (yüzde 9,5)Ronald Perelman (yüzde 8,3)Mittleman Brothers LLC (yüzde 1,8)Morgan Stanley (yüzde 0,76)",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

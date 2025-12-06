@@ -1,0 +1,46 @@
+[
+  {
+    "company": "ThyssenKrupp",
+    "description": "ThyssenKrupp, 1811 yılında Friedrich Carl Krupp tarafından kurulan Çelik, Paslanmaz çelik, Otomotiv mühendisliği, Deniz teknolojisi mühendisliği, Gemi inşaatı ve deniz mühendisliği ve Biyoteknoloji alanlarında faaliyet gösteren çok uluslu holding şirketidir. Dünyanın en büyük çelik üreticilerinden biridir.Şirket aynı zamanda bileşenleri ve otomotiv endüstrisi için sistemler, asansörler, yürüyen merdivenler üretmektedir.Almanya merkezli ThyssenKrupp AG dünyanın en büyük ticari kuruluşlarından biri olup dünya çapında 600’den fazla şirketten oluşuyor.2014 yılında kurulan ThyssenKrupp Materials Turkey şirketi ile Türkiye’de asansör, paslanmaz çelik ve farklı endüstriler için malzemeler üretiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Jameson",
+    "description": "Jameson, 1985 yılında kurulan Merdan Elektronik bünyesindeki uydu alıcısı, tablet, navigasyon, profesyonel ses sistemleri, portatif ürünler, oto teyp, oto ses sistemleri, oto amplifikatör, multimedya ve araç kamerası, led tv sistemleri, kişisel müzik ürünleri, kablo ve aksesuarlar, ev sinema sistemleri ve double-indash teyp markasıdır.Şirketin İstanbul ve Mersin’de toplam iki ofisi bulunmaktadır. 4 bin 500 metrekare kapalı alanda faaliyet gösteren üretim ve montaj tesisleri bulunmaktadır. Elektronik ürünlerin ithalatının yanında, kendi üretim tesislerinde tüketici elektroniği ürünlerinin de üretimini yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Assmann Ülke",
+    "description": "Assmann, 1969 yılında Dieter Assmann tarafından kurulan ASSMANN Group bünyesindeki küresel elektronik üreticisidir.Alman ASSMANN Electronic GmbH ile Avusturya, İsviçre, Fransa, Hırvatistan, Polonya, Çin, Tayvan ve Hong Kong’daki Uluslararası İştirakler, ASSMANN Holding GmbH’nin çatısı altında faaliyet göstermektedir. Firmanın bünyesinde ayrıca Digitus markası yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Digitus",
+    "description": "Digitus, 1994 yılında ASSMANN Group bünyesinde kurulan Multimedya (HD medya çalar, Webcam, USB grafik adaptör, DVB-T alıcıları, hoparlör sistemleri, kulaklık, Bluetooth hoparlör, multimedya mikrofon, bilgisayar faresi, bilgisayar klavyesi, USB hub, kart okuyucu, adaptörler, dönüştürücüler, dizüstü çanta, Notebook gibi Aksesuarlar), Ağ (Kablosuz LAN yönlendiriciler, geniş bant yönlendiriciler, yazdırma sunucuları, ağ IP kameralar gibi), Datacom (KVM cepler, kablolar, KVM anahtarları, video Extender’lar, video ayırıcılar gibi), Kablolar ve adaptörler (Monitör kabloları, video kabloları, HDMı kabloları, yazıcı kabloları, DVı kabloları, USB kabloları, FireWire kabloları, eSATA kabloları, MHL kabloları, telefon kabloları, güç kaynağı kabloları gibi), Mobilite ürünleri (Akıllı telefon ve tablet kabloları, şarj cihazı kabloları, lisanslı Apple ® kabloları gibi) markasıdır.Alman ASSMANN Holding GmbH bünyesindedir. DIGITUS ürünleri 50 ülkede satılır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Regal Markanın Yan",
+    "description": "2002 yılında Vestel Tic. A.Ş. bünyesinde üretilen televizyon, buzdolabı, çamaşır makinesi, bulaşık makinesi, klima, derin dondurucu markasıdır.Vestel Tic. A.Ş., Zorlu Holding bünyesindedir. Üretim tesisleri Manisa’da yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-21"
+  }
+]

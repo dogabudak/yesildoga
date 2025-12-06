@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Acospack",
+    "description": "Acospack, 1994 yılında kurulmuş olan JungMin Co. Ltd. bünyesinde üretilen cilt bakım şişesi ve kavanozu, havasız seri ve renkli kozmetik paketleri, çoklu balsam ve fondöten için yeniden doldurulabilir çubuk markasıdır.ISO 9001, ISO 15378 ve ISO 14001 belgelerine sahiptir.JungMin Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 15378",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Mebby",
+    "description": "Mebby, 1966 yılında kurulmuş olan Medel International srl bünyesindeki elektrikli göğüs pompası, bebek telsizi, elektrikli şişe ısıtıcı, manuel göğüs pompası, elektrikli burun aspiratörü, bebekler için ölçekler, dezenfektan ürünleri, led ekranlı şişe ısıtıcısı markasıdır.Medel International srl, 2016 yılında Almanya merkezli Beurer Grubu bünyesine geçmiştir. Ürünler, 70’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Varibelt Vx",
+    "description": "Varibelt Vx, 1920 yılında kurulmuş olan Super Kaucuk San. A.Ş. bünyesinde üretilen V-Kayışları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AgrobeltSuperSüper KauçukSüpervVaribelt VxVx Varibelt Vx",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Betonstar",
+    "description": "Betonstar, 2008 yılında temelleri atılan Betonstar Mak. San. ve Tic. A.Ş. bünyesinde üretilen kamyon üzeri ve sabit beton pompaları markasıdır.ISO 9001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hitachi Energy",
+    "description": "Hitachi Energy, 2020 yılında kurulmuş olan Hitachi Energy Ltd. bünyesindeki elektrik dağıtım sistemleri markasıdır.Hitachi Energy Ltd. Japonya merkezli Hitachi Ltd.’nin bir yan kuruluşudur ve 90 ülkede faaliyet göstermektedir. Türkiye’de Hitachi Energy Turkey Elektrik San. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

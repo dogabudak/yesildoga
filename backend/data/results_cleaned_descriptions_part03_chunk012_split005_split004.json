@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Gastroback",
+    "description": "Gastroback, 1989 yılında kurulan Gastroback GmbH bünyesinde üretilen tost makinesi, kahve makinesi, waffle ütü, blender, meyve sıkacağı, buharlı ocak, elektrikli süpürge, ızgara, kırıcı, espresso makinesi, yüksek performanslı mikser markasıdır.Gastroback GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Brondi",
+    "description": "Brondi, 1935 yılında kurulan Brondi S.p.A. bünyesindeki çift sim cep telefonu, sabit telefon, vericiler ve cevap makineleri markasıdır.Brondi S.p.A., Çift Sim cep telefonu, Android cep telefonlu, sabit telefon ve alıcı-vericiler gibi ürünlerde uzmanlaşan İtalya merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Alan",
+    "description": "Alan, 1972 yılnda Lodovico Falconi tarafından kurulan Alan Cyclocross And Road Bikes bünyesindeki bisiklet markasıdır.Alan Cyclocross And Road Bikes İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Laurastar",
+    "description": "Laurastar, 1980 yılında kurulan Laurastar Group SA bünyesinde üretilen buharlı ütü, elektrikli kahve makinesi, su filtresi ve koku spreyi markasıdır.Laurastar Group SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Di Martino",
+    "description": "Di Martino, 1970 yılında kurulan Di Martino SPA bünyesinde üretilen sanitizasyon, dezenfeksiyon, konteynerler, püskürtücüler, omuz pompaları, buharlaştırıcılar, basınç pompaları, sulama delikleri, tırmıklar, kutular, sepetler, kürekler, vazolar, dekore edilmiş kaplar, takım tutucu, köpük şekil pompaları markasıdır.Di Martino SPA İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kras",
+    "description": "Kras, 1911 yılında kurulan Kras d.d. bünyesinde üretilen çikolata, bisküvi, gofret ve şekerler markasıdır.Kakao ürünleri, bisküvi, waffle ve şeker ürünleri Hırvatistan ve Bosna-Hersek’te bulunan fabrikalarında üretilmektedir.Kras d.d. Hırvatistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HR",
+    "updated_date": null
+  },
+  {
+    "company": "Gran Soresina",
+    "description": "Gran Soresina, 1900 yılında kurulan Latteria Soresina S.C.A. bünyesindeki süt ürünleri markasıdır.Latteria Soresina tarafından işlenen sütü üreten çiftlikler tarafından temsil edilen yaklaşık 200 üye bulunmaktadır.Latteria Soresina S.C.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Gaston Akü",
+    "description": "Gaston, 1995 yılında kurulan Gaston Battery Industrial Ltd bünyesinde üretilen akü markasıdır.ISO 9002 belgesine sahiptir.Ürünlerini Çin ve Hindistan’da bulunan fabrikalarında üretmektedir.Gaston Battery Industrial Ltd Hong Kong merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Etat Pur",
+    "description": "Etat Pur, 1977 yılında Jean-Noël Thorel tarafından kurulan NAOS Ceredap Araştırma Merkezi bünyesinde üretilen cilt bakım ürünleri markasıdır.Naos SAS 130 ülkede faaliyet göstermektedir.Naos SAS Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.Bünyesindeki markalar:BiodermaEsthedermEtat Pur",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Soundpeats",
+    "description": "Soundpeats, 2010 yılında kurulan Shenzhen Soundsoul Information Technology Co., Ltd bünyesinde üretilen Bluetooth kulaklık, kablolu kulaklık ve Bluetooth hoparlör markasıdır.Shenzhen Soundsoul Information Technology Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-09-24"
+  }
+]

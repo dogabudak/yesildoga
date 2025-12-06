@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bentley Harris",
+    "description": "Bentley-Harris, 1899 yılında kurulan Federal-Mogul Corporation bünyesinde üretilen enerji, sanayi ve ulaşım pazarları için koruma çözümleri markasıdır.34 ülkede 100 üretim tesisine sahip Federal Mogul Corporation 2018 yılında Amerika merkezli Tenneco Inc. tarafından satın alındı.Federal-Mogul Türkiye pazarına 1969 yılında girdi.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Old Spice",
+    "description": "Old Spice, 1934 yılında William Schultz tarafından kurulan Shulton Inc. bünyesinde üretilen koku, cilt bakımı, antiperspirant ve deodorant markasıdır.1990 yılında Procter & Gamble şirketi Old Spice markasını satın aldı. 2016 yılında ise Old Spice Classic After Shave’in kokusunu değiştirdi.Old Spice erkek bakım ürünleri deodorantlar ve antiperspirantlar, şampuanlar ve sabunları kapsayan bir Amerika markasıdır. Procter & Gamble tarafından üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-05-18"
+  },
+  {
+    "company": "Dürkopp Adler",
+    "description": "Dürkopp Adler, 1865 yılında kurulan Dürkopp Adler AG bünyesinde üretilen dikiş makinesi markasıdır.Dürkopp Adler, Shang Gong Group Co, Ltd tarafından satın alınmıştır.ShangGong Grubu Çin merkezlidir ve Çin, Almanya, Çek Cumhuriyeti, Romanya’da 10 üretim tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kolarc",
+    "description": "Kolarc, 2017 yılında kurulan Kolarc Makine İmalat Sanayi ve Ticareti A.Ş. bünyesinde üretilen inverter kaynak makinesi, akü şarj ve solar inverter güç ünitesi markasıdır.Türkiye’nin Profesyonel Multi proses invertörlü Manuel ve Robotik kaynak makinesi üreticisidir. Yüzde 100 yerli sermaye ile Kolin İnşaat tarafından kurulmuştur.Sakarya 2. OSB’deki fabrikasında inverter Kaynak Makineleri, Solar İnverter Güç Üniteleri ve İnverter Akü Şarj sistemlerini üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Raidmax",
+    "description": "Raidmax, 1988 yılında kurulan Raidmax Ltd. bünyesinde üretilen kasa, güç kaynağı, soğutma, oyun koltuğu, oyun masası ve aksesuarlar markasıdır.Raidmax Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Amstrad",
+    "description": "Amstrad, 1969 yılında Alan Micheal Sugar tarafından kurulan Amstrad Limited bünyesinde üretilen elektronik ürünler markasıdır.Ürün yelpazesinde uydu kutuları, hi-fi, televizyon, araba müzikçalarları, ses sistemleri markasıdır.Amstrad Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Lyra Germany",
+    "description": "Lyra Germany, 1920 yılında kurulan F.I.L.A. S.p.A. bünyesindeki anaokulu, okul, hobi, sanat ve endüstri için ürünler markasıdır.Üretiminin tamamına yakınını Uzak Doğu Asya’daki atölyelerde yapmaktadır.F.I.L.A. S.p.A. İtalya merkezlidir.Bünyesindeki markalar;CansonDASDaler RowneyGiottoGiotto be-bèLYRA GermanyLukas-NerchauMaimeri",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Mirascreen",
+    "description": "MiraScreen, 2008 yılında kurulan Winner Wave TW Limited bünyesindeki kablosuz ve tak ve çalıştır görüntü aktarıcı, telefon çevirici, dönüştürücü adaptörleri markasıdır.Winner Wave TW Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Cheerlux",
+    "description": "Cheerlux, 2009 yılında kurulan Cheerlux Electronic Technology Co. Ltd. bünyesinde üretilen HD projektörler ve aksesuarları markasıdır.Cheerlux Electronic Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-01-16"
+  },
+  {
+    "company": "Tanex",
+    "description": "Tanex, 1972 yılında kurulan Taneks Kağıt Ürünleri Tic. ve San. Ltd. Şti. bünyesinde üretilen etiket markasıdır.Laser, inkjet, fotokopi ve dotmatrix yazıcılara uygun A4 ve sürekli form biçiminde etiket, baskılı-baskısız rulo etiket, kırtasiye ve ofis ürünleri üretmektedir.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir. Ürünlerini 35 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

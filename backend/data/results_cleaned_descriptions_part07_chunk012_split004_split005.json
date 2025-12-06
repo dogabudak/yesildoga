@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Acdelco",
+    "description": "Acdelco, 1899 yılında kurulmuş olan ön cam silecekleri ve silecek lastiği kauçuğu, alternatörler ve marş motorları, amortisörler ve destekler federbeine, bujiler, frenler, hava filtresi, kayışlar, kimyasallar ve sıvı ürünler, piller, su pompaları, teller ve kablolar, yağ filtresi ve şanzıman yağ filtresi, yakıt filtresi ve yakıt pompası, aküler, kavramalar, bujiler, otomotiv parçaları markasıdır.Amerika merkezli General Motors Company bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Altenzo Tyres",
+    "description": "Altenzo Tyres, 1983 yılında kurulmuş olan Zhejiang Pdw Industrial Co. Ltd. bünyesinde üretilen otomotiv alaşım jantlar ve lastikler, motosiklet tekerlekleri ve aksesuarları markasıdır.Zhejiang Pdw Industrial Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "FPI",
+    "description": "Fortune Parts Industry (FPI), 1991 yılında kurulmuş olan Fortune Parts Industry Public Company Limited bünyesinde üretilen otomotiv yedek parçaları markasıdır.ISO 9001, ISO 14001, ISO 50001 ve ISO 45001 belgelerine sahiptir.Fortune Parts Industry Public Company Limited Tayland merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "Genmot",
+    "description": "Genmot, 1985 yılında kurulmuş olan Genmot Genel Motor Standart Grank Şaft Endüstri San. Tic. Ltd. Şti. bünyesinde üretilen krank milleri markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini 3. OSB’de bulunan yaklaşık 34 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jender",
+    "description": "Jender, 2019 yılında Recepoğlu Tüketim Maddeleri Gıda Dağıtım Taş. Yat. San ve Tic. A.Ş. bünyesinde üretilen yetişkin hasta bezi, yetişkin emici külot, yatak koruyucu örtü markasıdır.Ürünlerini Samsun’da bulunan fabrikasında üretmektedir.Bünyesindeki markalar;JenderLorinaPedo",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

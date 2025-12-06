@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Stillo Plastik",
+    "description": "Stillo plastik, 2004 yılında Doğuş Plastik bünyesinde kurulan mutfak gereçleri üreten bir yerli firmadır.Stillo yurtiçi ve yurtdışında güçlenerek büyümekte ve ürün yelpazesini genişletmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polisan",
+    "description": "Polisan1964 yılında Bitlis Ailesi tarafından kurulmuş olan Polisan Kansai Boya San. ve Tic. A. Ş. bünyesinde üretilen endüstriyel boyalar, inşaat boyaları, oto boyaları markasıdır.ISO 9001, ISO 14001 ve ISO 18001 belgelerine sahiptir.2016 yılında Japonya merkezli Kansai Paint Co. Ltd. şirketin yüzde 50 hissesini Polisan Holding A.Ş.’den satın alımıştır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2024-08-11"
+  },
+  {
+    "company": "Trivago",
+    "description": "Trivago 2005 yılında kurulan, 2012 yılında Amerikan merkezli Expedia Group tarafından satın alınan küresel seyahat teknolojisi şirketidir. Çeşitli web siteleri vasıtasıyla seyahat ücretlerini toplar, ideal otelleri arama motorları üzerinden ziyaretçilere paylaşır.Trivago şu anda 33 dilde, 55 rezervasyona açık uluslararası platformda faaliyet göstermektedir.Expedia Group bünyesindeki kuruluşlar:BedandBreakfast.comCarRentals.comCheapTicketsClassic VacationsEbookersEgenciaExpedia.comExpedia Affiliate NetworkExpedia Local ExpertExpedia CruiseShipCentersExpedia Global Partner SolutionsHomeAwayHotels.comHotwire GroupOrbitzTravelocitytrivagoVenere.comwotif.comALICE",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Züber Ülke",
+    "description": "Züber Hangi Ülke MarkasıdırZüber, 2017 yılında Nailcan Kurt, Raşit Müftüoğlu ve Murathan Kurt tarafından kurulan Alterna Gıda San. Paz. ve Tic. A.Ş. bünyesinde üretilen doğal meyve ve kuruyemiş barları, protein barları, fıstık ezmesi spreadleri, granolalar ve tuzlu cipsler markasıdır.Ürünleri katkı, koruyucu, ilave şeker, gluten ve laktoz içermez. Ürünlerinde medjoul cinsi hurma ve deniz tuzu kullanmaktadır.2022 yılında Future Snacks S.a.r.l. aracılığıyla Turkey Growth Fund IV L.P. (Turkven) şirkete ortak oldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-11-22"
+  },
+  {
+    "company": "Peyss Uydu",
+    "description": "Peyss uydu markası, 1999 yılında faaliyetlerine başlayan Karabalık Elektronik dijital uydu alıcıları üreten firma tarafından 2001 yılında piyasaya sürüldü.Türkiye’de 150 den fazla satış noktası ve 90 dan fazla servis noktasıyla hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

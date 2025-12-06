@@ -1,0 +1,44 @@
+[
+  {
+    "company": "DB Schenker",
+    "description": "DB Schenker, 1872 yılında Gottfried Schenker tarafından kurulan lojistik sağlayıcısıdır.Şirket 2002 yılında Deutsche Bahn tarafından Schenker-Stinnes adıyla satın alınmıştır. Hava, kara, deniz taşımacılığı ve Sözleşme Lojistiği bölümlerini kapsar.DB Schenker, Alman demiryolu operatörü Deutsche Bahn AG’nin lojistiği konu alan bir bölümüdür.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sunphor",
+    "description": "Sunphor, 2002 yılında kurulan Sunphor Technology Group Limited bünyesinde üretilen termometre, ateş ölçer, oksimetre, pos terminali, mobil yazıcı, etiket yazıcı, pos yazıcılar, darbeli yazıcılar, barkod tarayıcı, pos yazıcı nakit çekmece gibi ürünlerin markasıdır.Sunphor Technology Group Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "AdaBoya",
+    "description": "AdaBoya, 1997 yılında kurulan AdaBoya Otomotiv Boyaları ve Servis Ekipmanları San. Tic. Ltd. Şti. bünyesindeki boya tabancaları, oto boya tabancası aksesuarları, süngerler, diyaframlı pompalar, otomatik karıştırıcılı basınçlı tanklar markasıdır.Bünyesindeki markalar:SenaxSellack",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kemichal",
+    "description": "Kemichal, 1962 yılında kurulan Kemichal S.r.l. bünyesinde üretilen boya, renklendirici, poliüretan, nitroselüloz, akrilik, sentetik ve su bazlı kaplamalar, ahşap kaplamalar markasıdır.Kemichal S.r.l. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Tsubaki",
+    "description": "Tsubaki, 1917 yılında Setsuzō Tsubakimoto tarafından kurulan Tsubakimoto Chain Co. bünyesinde üretilen otomotiv zamanlama sürücü sistemi, konveyör zinciri, dişli, hortum ve kablo taşıyıcı, lineer aktüatörler, malzeme işleme sistemleri, cam debriyaj, silindir zinciri, sprockets, zamanlama zinciri markasıdır.Tsubakimoto Chain Co. Japonya merkezlidir ve ürünlerini Japonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

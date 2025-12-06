@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Juice",
+    "description": "“Juice“2003 yılında Edison Chen tarafından kurulmuş olan Clot Company Limited bünyesindeki sokak giyim markasıdır.Clot Company Limited Hong Kong merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "TTT World",
+    "description": "“TTT World“1997 yılında kurulmuş olan Sıla Danışmanlık Bilişim Sağlık İnş. San. ve Tic. A.Ş. bünyesinde üretilen şırınga, kan tüpü, enjektör, serum seti ve medikal malzemeler markasıdır.TSE belgelerine sahiptir.Firma Ankara merkezlidir ve ürünlerini Türkiye’de bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ajona",
+    "description": "“Ajona“1866 yılında Johannes Paul Liebe tarafından kurulmuş olan Dr. Rudolf Liebe Nachf. GmbH & Co. KG bünyesindeki diş macunu markasıdır.Doğal antibakteriyel bileşenlerle üretilir ve ağzı bir miktar meyan kökü ile temizlenmiş hissettirir.Dr. Rudolf Liebe Nachf. GmbH & Co. KG Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.Bünyesindeki markalar;AjonaAminomedPearls & Dents",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nuki Smart",
+    "description": "“Nuki“2013 yılında kurulmuş olan Nuki Home Solutions Gmbh bünyesindeki akıllı ev çözümleri markasıdır.Akıllı ev entegrasyonları, akıllı bina, destek teknolojisi, erişim çözümü, akıllı ev ve akıllı kilit gibi ürünler sunmaktadır.Nuki Home Solutions Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "BGVP",
+    "description": "“BGVP“2015 yılında kurulmuş olan Dongguan Nengjiang Electronic Technology Co. Ltd. bünyesinde üretilen kulaklıklar, kulaklık aksesuarları, kulaklık kablosu, HiFi Kulaklıklar, Bluetooth Kulaklık markasıdır.Dongguan Nengjiang Electronic Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

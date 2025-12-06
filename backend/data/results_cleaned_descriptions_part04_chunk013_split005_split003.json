@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Clearskin",
+    "description": "Clearskin, 1886 yılında kurulan Avon Products, Inc. bünyesindeki cilt bakım ürünleri, yüz temizleyicileri ve yüz maskeleri, akne cilt bakım preparatları markasıdır.Avon Products, Inc. 2020 yılında Brezilya merkezli Natura & Co Grup tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Rella",
+    "description": "Rella, 2007 yılında kurulan Rella Gıda A.Ş. bünyesinde üretilen dondurulmuş gıdalar markasıdır.Manisa’daki fabrikasında mozarella, akawi ve jadel peynirlerini dondurmaktadır ve pastalar üretmektedir.ISO 9001, ISO 22000, Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gano Transparent Soap",
+    "description": "Gano Transparent Soap, 1995 yılında Leow Soon Seng tarafından kurulan Gano Excel Industries Sdn. Bhd. bünyesinde üretilen sabunlar markasıdır.GANO şeffaf sabun Ganoderma lucidum özü, aloe vera ve papaya’dan üretilir.Gano Excel Industries Sdn. Bhd. Malezya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  },
+  {
+    "company": "Nilera",
+    "description": "Nilera, 2005 yılında kurulan Nilera İlaç Eczacılık Kozmetik Ürünleri A.Ş. bünyesinde üretilen kişisel bakım, eczacılık ve kozmetik ürünleri markasıdır.Ürün yelpazesinde ağız sağlığı ve diş bakımı, cilt bakım ve onarım, genital bölge bakımı, gliserinli sabunlar gibi ürünler yer almaktadır.Gliserinli sabunlar yüzde 100 bitkisel yağlardan üretilmektedir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sparkly White",
+    "description": "Sparkly White, 1930 yılında M Manal tarafından kurulan Himalaya Global Holdings Ltd. bünyesindeki diş macunu markasıdır.Himalaya Global Holdings Ltd. BAE merkezlidir ve ürünlerini BAE şirketleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  }
+]

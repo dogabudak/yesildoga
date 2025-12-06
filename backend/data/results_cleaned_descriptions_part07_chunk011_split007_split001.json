@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Cerennet",
+    "description": "Cerennet, 2014 yılında kurulmuş olan Cerennet Bilişim Telekomünikasyon İletişim Ltd. Şti. bünyesinde hizmet veren internet servis sağlayıcısı markasıdır.Firma Denizli merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elma Telekom",
+    "description": "Elma Telekom, 2015 yılında kurulmuş olan Elma Telekomünikasyon Bilişim Elektronik Haberleşme Tic. Ltd. Şti. bünyesindeki internet servis sağlayıcılığı hizmetleri markasıdır.İnternet servis sağlayıcılığı ve Altyapı İşletmeciliği Hizmeti yetkilendirmesine sahiptir.Firma Mardin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bote Kozmetik",
+    "description": "Bote, 2006 yılında kurulmuş olan Him Kozmetik İlaç ve Gıda San. ve Tic. A.Ş. bünyesindeki dudak ruj, tırnak cilası markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hustil",
+    "description": "Hustil, 2014 yılında kurulmuş olan Zhejiang O O Power Machinery Co. Ltd. bünyesinde üretilen zincir testere, fırça kesici, çok yönlü basınçlı yıkama, jeneratör markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Zhejiang O O Power Machinery Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Audiocodes",
+    "description": "Audiocodes, 1993 yılında kurulmuş olan AudioCodes Ltd. bünyesindeki dijital işyeri için gelişmiş ses ağı ve medya işleme çözümleri markasıdır.AudioCodes Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

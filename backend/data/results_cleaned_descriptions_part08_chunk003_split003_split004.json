@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Gotion",
+    "description": "Gotion, 2014 yılında kurulmuş olan Gotion Inc. bünyesindeki akü yönetim sistemi, araç kontrol sistemi, aktarma organları kontrol sistemi, akü malzemeleri, elektrikli araçlar, ev elektronik sistemi ve elektrolit markasıdır.Elektrikli taşımayı hızlandırmak amacıyla yeni nesil elektrikli araç ve enerji depolama teknolojilerinde (lityum piller ve ilgili sistemler) yenilikler yapmaktadır.Gotion Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Air Liquide",
+    "description": "Air Liquide, 1902 yılında kurulmuş olan Air Liquide S.A. bünyesindeki endüstriyel gazlar, sağlık ürünleri, elektronik çipler, gıda ve kimyasallar gibi ürünlerde kullanılan gazlar markasıdır.Air Liquide S.A. Fransa merkezlidir. 80’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Isogon",
+    "description": "Isogon, 1992 yılında kurulmuş olan Isogon Windows Systems Gmbh bünyesinde üretilen pencere, kapı, böcek koruma sistemleri, havalandırma sistemleri ile cephe ve panjur konstrüksiyonları markasıdır.Isogon Windows Systems Gmbh Almanya merkezlidir ve ürünlerini kendi üretim tesislerinde üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Narciso Rodriguez",
+    "description": "Narciso Rodriguez, 1872 yılında kurulmuş olan Shiseido Company Limited bünyesinde üretilen parfüm markasıdır.Shiseido Company Limited Japonya merkezlidir. 120 ülke ve bölgede zengin bir uluslararası markaya sahiptr.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Rapiscan",
+    "description": "Rapiscan, 1993 yılında kurulmuş olan Rapiscan Systems Inc. bünyesindeki bagaj ve koli muayenesi, kargo ve araç muayenesi, ambar bagajı taraması, insan taraması, hizmet olarak tarama, toplam güvenlik çözümleri sağlayıcısı, radyasyon tespiti, iz tespiti ve havacılık güvenliği markasıdır.Amerika merkezli OSI Systems Inc.’in tamamına sahip olduğu bir yan kuruluşu olan Rapiscan Systems Inc.’in Finlandiya, Hindistan, Malezya, Singapur, Birleşik Krallık ve Amerika Birleşik Devletleri’nde ek ofisleri ve üretimi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

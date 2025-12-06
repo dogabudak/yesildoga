@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Plaşer",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cormall",
+    "description": "1961 yılında kurulmuş olan Maskinfabrikken Cormall A/S bünyesinde üretilen tarım, biyogaz, yem üretimi ve malzeme işleme gibi endüstriyel uygulamalarda kullanılan çeşitli makineler, çeşitli malzeme taşıma, işleme ve otomasyon ekipmanları markasıdır.Maskinfabrikken Cormall A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Joby",
+    "description": "1910 yılında kurulmuş olan Videndum plc bünyesindeki tripodlar, mikrofonlar, ışık, hareket kontrolleri, aksesuarlar markasıdır.Videndum plc İngiltere merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ugoos",
+    "description": "2011 yılında kurulmuş olan Ugoos Industrial Co. Ltd. bünyesinde üretilen televizyon kutuları, projektörler, şarj adaptörleri ve aksesuarlar markasıdır.Ugoos Industrial Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bonus",
+    "description": "2003 yılında kurulmuş olan Bonus Boya Kimya San.Tic. Ltd. Şti. bünyesinde üretilen iç ve dış cepheler için boyalar markasıdır.Firma Konya merkezlidir. Ürünlerini Konya’da bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

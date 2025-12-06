@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Panda Electronics",
+    "description": "Panda Electronics, 1936 yılında kurulan Nanjing Panda Electronics Co Ltd. bünyesinde üretilen cep telefonu, veri kartı, televizyon seti ve set üstü kutuları, idari yazılım, elektronik cihazlar, uydu ve mobil iletişim çözümleri, kablosuz güvenlik gözetim çözümleri markasıdır.Nanjing Panda Electronics Co Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Scotch & Soda",
+    "description": "Scotch & Soda, 1985 yılında kurulan Scotch & Soda E-commerce B.V. bünyesindeki moda perakende markasıdır.Scotch & Soda E-commerce B.V. 2011 yılında Sun Capital Partners’ın bir iştiraki olan Kellwood Stables tarafından satın alınmıştır.Sun Capital Partners, Inc. Amerikan özel sermaye şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "HiSilicon",
+    "description": "HiSilicon, 1991 yılında kurulan HiSilicon Co., Ltd. bünyesinde üretilen yarı iletken markasıdır.HiSilicon Co., Ltd. Çin merkezli Huawei firmasına aittir. HiSilicon Çin’in entegre devrelerin en büyük tasarımcısıdır. Amerika tarafından yaptırım uygulandığı için Huawei 15 Eylül 2020’den itibaren Kirin yonga setini üretmeyi bırakacağını duyurdu.Bünyesindeki markalar:Kirin",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "ZX Auto",
+    "description": "ZX Auto, 1999 yılında kurulan Hebei Zhongxing Automobile Co Ltd. bünyesinde üretilen SUV ve pick-up kamyon markasıdır.Hebei Zhongxing Automobile Co Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sigfox",
+    "description": "Sigfox, 2010 yılında Ludovic Le Moan ve Christophe Fourtet tarafından kurulan Sigfox S.A. bünyesinde üretilen elektrik sayaçları ve akıllı saatler gibi düşük güçlü nesneleri birbirine bağlamak için kablosuz ağlar kuran ve sürekli olarak üzerinde durulması gereken ve az miktarda veri yayan bir küresel ağ operatörü markasıdır.Sigfox S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

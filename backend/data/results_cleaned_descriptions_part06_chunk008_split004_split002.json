@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Alpia",
+    "description": "Alpia, 1906 yılında kurulan Stollwerck Gmbh bünyesinde üretilen çikolata barları, kurabiye, simit veya kuru meyvelerle yapılan çikolatalı atıştırmalıklar markasıdır.Stollwerck Gmbh 2011 yılında Belçika merkezli Baronie Belgium NV/SA tarafından satın alındı. 5 ülkede 8 üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "YKR",
+    "description": "YKR, 1963 yılında kurulan Yakar Çelik Dövme El Aletleri San. A.Ş. bünyesinde üretilen el aletleri, demir bükme makinesi, hidrolik demir kesme makinesi, dövme çelik kollu makaslar, portatif oturak makaslar, oturak makaslar, etriye kolları, dövme çelik demir bükme anahtarları, demir bükme köşebenti, betoncu kerpetenleri, tepe keskiler, tel makası, dövme çelik keser, betoncu çekici, profesyonel tesviyeci çekiçleri, dövme çelikISO 9001, TSE belgelerine sahiptir.Firma Balıkesir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bel Fuse",
+    "description": "Bel Fuse, 1949 yılında kurulan Bel Fuse Inc. bünyesinde üretilen elektronik devrelere güç sağlayan, koruyan ve bağlayan ürünler markasıdır.Bel Fuse Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Demir Sağlık ve Hayat Sigorta",
+    "description": "Demir Sağlık ve Hayat Sigorta, 1995 yılında kurulan Demir Sağlık ve Hayat Sigorta A.Ş. bünyesindeki sağlık, hayat ve grup sigortaları markasıdır.Demir Sağlık ve Hayat Sigorta A.Ş., 2016 yılında İngiltere merkezli özel sermaye şirketi EMF Capital Partners Ltd. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ejot",
+    "description": "Ejot, 1922 yılında kurulan Ejot Gmbh & Co. KG bünyesinde üretilen otomotiv ve tüketici elektroniği endüstrileri için hassas bağlantı elemanları, bireysel bağlantı çözümleri için karmaşık metal ve plastik bileşenler, yapı endüstrisi için bağlantı teknolojisi ve çok işlevli bileşenler ve bağlantı elemanları markasıdır.İnşaat, mühendislik, otomotiv ve tüketici elektroniği sektörlerine hizmet vermektedir.Ejot Gmbh & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

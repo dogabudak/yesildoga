@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Closeup",
+    "description": "Closeup1967 yılında Unilever PLC. bünyesinde üretillmiş olan gargara ve jel diş macunu markasıdır.Unilever PLC. İngiltere merkezlidir.Hissedarları:Wellington Management Group LLP (yüzde 1,4)Blackrock Inc. (yüzde 0,63)Fisher Asset Management LLC. (yüzde 0,57)Fmr LLC. (yüzde 0,38)Bank Of America Corp. (yüzde 0,35)Hotchkis Wiley Capital Management LLC (yüzde 0,33)Morgan Stanley (yüzde 0,32)State Farm Mutual Automobile Insurance Co. (yüzde 0,27)Wells Fargo Co. (yüzde 0,21)Goldman Sachs Group Inc. (yüzde 0,18)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bgrill",
+    "description": "Bgrill Döner1995 yılında kurulmuş olan BİM Birleşik Mağazalar A.Ş. adına Banvit A.Ş. tarafından üretilen piliç yaprak döner, piliç burger markasıdır.Ürünleri koruyucu içermektedir.Üretici firma ürünleri Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cocopops",
+    "description": "Kellogg’s Coco Pops1906 yılında kurulan Kellanova Company bünyesinde üretilen gevrek markasıdır.Yüzde yüz pancar şekeri ile üretilir, renklendirici ve koruyucu içermez, gluten ve palm yağı içerir.Kellanova Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Termodinamik",
+    "description": "Termodinamik1992 yılında kurulmuş olan Termodinamik A.Ş. bünyesinde üretilen kombi, su isıtıcı, endüstriyel buhar kazanları, kızgın yağ kazanları markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Focalprice",
+    "description": "Focalprice2007 yılında kurulmuş olan Chiang Network Technology Co. Ltd. bünyesindeki uluslararası odaklı bir çevrimiçi mağazadır.Hobi ve eğlence ile moda gibi farklı kategorileri kapsayan ürünlerin sunulduğu çok yönlü bir çevrimiçi mağazadır. Siparişler ücretsiz olarak gönderilmektedir.Chiang Network Technology Co. Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

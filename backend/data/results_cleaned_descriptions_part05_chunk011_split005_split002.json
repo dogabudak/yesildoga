@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Locman",
+    "description": "Locman, 1986 yılında Fulvio Locci ve Marco Mantovani tarafından kurulan Locman S. p.A. bünyesindeki kol saati, gözlük ve çanta markasıdır.Locman S. p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Audioquest",
+    "description": "Audioquest, 1980 yılında William E. Low tarafından kurulan The Quest Group bünyesindeki ses, video kabloları, dijital-analog dönüştürücüler, kulaklıklar, güç şartlandırma ürünleri ve çeşitli ses, video aksesuarları markasıdır.The Quest Group Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dippo Choco",
+    "description": "Dippo, 2015 yılında kurulan Feri Group bünyesinde üretilen çikolata markasıdır.Gıda ve gıda dışı ürünlerin satışı ve dağıtımı konusunda önde gelen şirketlerden biridir.Feri Group Kosova merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "Kosovo",
+    "updated_date": "2022-03-21"
+  },
+  {
+    "company": "Cricut",
+    "description": "Cricut, Cricut Inc. bünyesindeki kesici çizici veya bilgisayar kontrollü kesme makineleri markasıdır.Makineler kağıt, keçe, vinil, kumaş ve deri, mat tahta ve ahşap gibi diğer malzemeleri kesmek için kullanılır.Cricut Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cortebert",
+    "description": "Cortebert, 1790 yılında kurulan Fernus Freres SRL bünyesindeki saat markasıdır.Cep saatleri kılıfları en geleneksel metal işleme teknolojileriyle üretilmektedir.Fernus Freres SRL İtalya merkezlidir. Saat kayışları İtalya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

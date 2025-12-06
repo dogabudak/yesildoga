@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ottobock",
+    "description": "Ottobock, 1919 yılında kurulan Otto Bock Healthcare Gmbh bünyesinde üretilen tekerlekli sandalye, protez, yapay uzuvlar markasıdır.Otto Bock Healthcare Gmbh Almanya merkezlidir ve 50’den fazla ülkede iştirakler işletmektedir.2017 yılında Otto Bock Healthcare Gmbh’nin yüzde 23,6 hissesi İsveç merkezli yatırım şirketi Eqt tarafından satın alındı. 2019 yılında yüzde 23,1 hissesi Avrupa Yatırım Bankası tarafından alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Zer Yağ",
+    "description": "Zer, 2002 yılında kurulan ZER Yağ San. ve Tic. A.Ş. bünyesinde üretilen bitkisel yağ, ketçap, mayonez, bulyon, hazır çorbalar, hazır tatlılar, şekerli vanilin, kabartma tozu, kremşanti, puding, kakao markasıdır.Ürünlerini Gaziantep 3. OSB’de bulunan tesislerinde üretmektedir. ISO 22000, HACCP, Helal Belgesi ve TS EN ISO IEC 17025 belgelerine sahiptir.ZER Yağ San. ve Tic. A.Ş. 1991 yılında Gaziantep’te kurulan Zer Holding’e aittir ve yüzde 100 yerli üretim yapmaktadır. Ürünlerini 18 ülkeye ihraç etmektedir. Zer Holding, farklı grup şirketlerine ayrılarak yağ sanayi, zeytincilik ve tarım ürünleri, salça ve konserve sanayi, gıda sanayi gibi alanlarda hizmet vermektedir.Zer Holding, internet üzerinden hizmet veren GıdaEvim.com üzerinden zeytin, yemeklik yağ (natürel sızma zeytinyağı, riviera zeytinyağı, ayçiçek yağı, margarin), salça (tatlı biber salçası, acı biber salçası, domates salçası), üzüm sirkesi, limon sosu, nar ekşili sos, ketçap (acı ketçap, tatlı ketçap) ve mayonez gibi ürünlerin satışını yapmaktadır.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Techmaster Elektronik",
+    "description": "Techmaster Elektronik, 2004 yılında kurulan Tme Bilişim Elektronik Tic. Ltd. Şti. bünyesindeki e-ticaret, promosyon ürünleri, teknik destek ve danışmanlık markasıdır.Ürün yelpazesinde çeşitli markalara ait otomotiv, cep telefonu aksesuarları, anne bebek ürünleri, kol saatleri, küçük ev aletleri, laptop bilgisayar aksesuarları gibi ürünler yer almaktadır.Bünyesindeki markalar;CepvaryumTechmasterTmasterz",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Michele Saat",
+    "description": "Michele, 2000 yılında Fossil Group, Inc. bünyesinde kurulan lüks kadın saati markasıdır.Kadın saatleri, saat oluşturan elmaslar, sedefli kadranlara sahiptir. Paslanmaz çelikten altın saatlere, uyarlanabilir saat kayışları ile lüks malzemelerden üretiliyor.Fossil Group, Inc. Amerika merkezlidir.Bünyesindeki markalar;AdidasArmani ExchangeBurberyDKNYDieselEmporio ArmaniEmporio Armani SwissFossilKarl LagerfeldMarc JacopsMichael KorsMicheleRelicSkagenTory BurcZodiac",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mactec",
+    "description": "Mactec, 1996 yılında kurulan Hangzhou Mactec Machinery Co. Ltd. bünyesinde her türlü rulo şekillendirme makinesi, uzunluk kesme makinesi, boru, bobin kaplama makineleri, kabartma makinesi, dilme ve CTL makinesi markasıdır.Hangzhou Mactec Machinery Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

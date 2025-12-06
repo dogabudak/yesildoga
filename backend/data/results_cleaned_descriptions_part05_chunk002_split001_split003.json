@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Red Mango",
+    "description": "Red Mango, 2006 yılında Daniel J. Kim tarafından kurulan Red Mango FC LLC. bünyesinde üretilen dondurulmuş yoğurt, sıcak çikolata, probiyotik içecekler, taze meyve suları markasıdır.Red Mango FC LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fineti",
+    "description": "Fineti, 1973 yılında kurulan Chipita S.A. bünyesinde üretilen çikolata markasıdır.Şekerleme çeşitleri temel olarak fındık pralin ürünlerini kapsamaktadır.Chipita S.A. Yunanistan merkezlidir. Türkiye dahil 11 ülkede 14 üretim tesisine sahiptir. Fineti markalı ürünler 18 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Vitasure",
+    "description": "Vitasure, 1888 yılında kurulan Abbott Laboratories bünyesinde üretilen takviye edici gıda markasıdır.Vanilya ve çikolata aromalı çeşitlere sahip ürünleri koruyucu katkı maddesi ve gluten içermemektedir.Abbott Laboratories Amerika merkezlidir. Dünya genelinde Türkiye dahil 150’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Valrhona Chocolate",
+    "description": "Valrhona Chocolate, 1922 yılında Alberic Guironnet tarafından kurulan Valrhona SAS bünyesinde üretilen çikolata markasıdır.Valrhona SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Cem Su Sayaçları",
+    "description": "Cem Su Sayaçları, 1974 yılında kurulan Yavuz Metal San. ve Tic. A.Ş. bünyesinde üretilen su sayaçları, ısı sayaçları, ön ödemeli su sayaçları, uzaktan okuma sistemleri ve elektronik su sayaçları gibi ürünlerin markasıdır.Ürünlerini 23 bin metrekarelik açık alanda bulunan 9 bin metrekarelik alanda üretmekte ve 35 ülkeye ihraç etmektedir.ISO 14001, OSAS 18001, ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

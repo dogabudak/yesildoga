@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Copa",
+    "description": "1992 yılında kurulmuş olan Copa Isı Sistemleri San. Tic. A.Ş. bünyesindeki panel radyatör, dekoratif radyatör, klima, havlupan, radyatör vanaları ve montaj aksesuarları markasıdır.Firma Bursa merkezlidir. Bursa Minareliçavuş OSB’de bulunan 26 bin metrekarelik tesisinde üretim yapmaktadır ve ürünlerini 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-12-25"
+  },
+  {
+    "company": "Piserro",
+    "description": "Piserro, 1973 yılında Ali Rıza Kısakürek tarafından temelleri atılan Atlas Giyim San. Tic. A.Ş. bünyesindeki takım elbise, gömlek, ayakkabı, triko, kravat, pantolon, tek ceket, kaban ve mont markasıdır.Ürünlerini 25 bin metrekarelik açık alanda bulunan 11 bin 500 metrekarelik kapalı alanda bulunan kendi tesislerinde Türkiye’de üreten bir Türk firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-02-08"
+  },
+  {
+    "company": "Cnn Türk Kanalı",
+    "description": "Cnn Türk Hangi Ülkenin KanalıCnn Türk, 1999 yılında kurulmuş olan ve MES Televizyon ve Radyo Yayıncılık A.Ş. bünyesinde yayın yapan haber kanalıdır.CNN Türk, Demirören Holding A.Ş. ve Amerika merkezli Warner Bros. Discovery Inc. ortaklığına aittir.Warner Bros. Discovery Inc. Hissedarları:Vanguard Group Inc. (yüzde 10,10)Steven O. Newhouse (yüzde 8,13)Advancenewhouse Programming Partnership (yüzde 7,96)Blackrock Inc. (yüzde 6,40)State Street Corp. (yüzde 4,87)Advance Longterm Management Trust (yüzde 2,83)Harris Associates L P (yüzde 2,64)Geode Capital Management LLC (yüzde 2,04)Newhouse Broadcasting Corp. (yüzde 1,82)Invesco Ltd. (yüzde 1,16)Baupost Group LLC (yüzde 1,03)Sessa Capital Im LP (yüzde 0,92)Manufacturers Life Insurance Company The (yüzde 0,89)Hotchkis Wiley Capital Management LLC (yüzde 0,88)Northern Trust Corp. (yüzde 0,86)Fmr LLC (yüzde 0,77)John C. 1. Malone (yüzde 0,76)Morgan Stanley (yüzde 0,76)Edgepoint Investment Group Inc. (yüzde 0,70)Citadel Advisors LLC (yüzde 0,64)Deutsche Bank Ag (yüzde 0,62)Bank Of New York Mellon Corp. (yüzde 0,60)Boston Partners (yüzde 0,58)Contrarius Investment Management Ltd. (yüzde 0,58)Bank Of America Corp. (yüzde 0,54)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-12-03"
+  },
+  {
+    "company": "Chevrolet Corvette",
+    "description": "Chevrolet Corvette, 1908 yılında William C. Durant tarafından bir holding şirketi olarak kurulan General Motors (GM) bünyesindeki spor otomobil modelidir.GM, Amerika’da bulunan otomobil ve parçalarını tasarlayan, üreten, piyasalara dağıtan ve finansal hizmetleri satan Amerikan çok uluslu bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-09-22"
+  },
+  {
+    "company": "Disney",
+    "description": "Disney, 1923 yılında Walt Disney ve Roy Disney tarafından kurulmuş olan Walt Disney Company bünyesindeki medya markasıdır.Walt Disney Company Amerika merkezlidir.Hissedarları:Vanguard Group Inc. (yüzde 8,14)Blackrock Inc. (yüzde 6,67)State Street Corp. (yüzde 4)Morgan Stanley (yüzde 2,41)State Farm Mutual Automobile Insurance Co. (yüzde 1,85)Geode Capital Management LLC (yüzde 1,82)Northern Trust Corp. (yüzde 1,23)Bank Of New York Mellon Corp. (yüzde 1,12)Price T Rowe Associates Inc. (yüzde 1,00)Bank Of America Corp. (yüzde 0,94)Royal Bank Of Canada (yüzde 0,77)Michael D. Eisner (yüzde 0,77)Newport Trust Company LLC (yüzde 0,70)Wellington Management Group LLP (yüzde 0,66)Loomis Sayles Co LP (yüzde 0,65)Legal General Group PLC (yüzde 0,62)Nuveen Asset Management LLC (yüzde 0,60)Franklin Resources Inc. (yüzde 0,60)Massachusetts Financial Services Co. (yüzde 0,56)Amundi (yüzde 0,56)Goldman Sachs Group Inc. (yüzde 0,53)Charles Schwab Investment Management Inc. (yüzde 0,52)Ubs Asset Management Americas Inc. (yüzde 0,49)Fmr LLC (yüzde 0,49)Alliancebernstein LP (yüzde 0,45)Walt Disney bünyesindekiler;Medya Ağları:Disney ChannelABCFreeformESPNParklar ve tatil köyleri, oyuncaklar, uygulamalar, giyim, kitap ve mağazalar yoluyla Disney hikayeleri, karakterler ve tüketici ürünleri:Adventures By DisneyAulaniDisney Cruise LineDisney Publishing WorldwideDisney StoreDisney Vacation ClubDisneylandDisneyland Resort ParisHong Kong DisneylandShanghai Disney ResortTokyo Disney ResortWalt Disney ImagineeringWalt Disney WorldStüdyo Eğlence:Disney Music GroupDisney Theatrical GroupDisneyNatureLucasfilmMARVEL STUDIOSPixarThe Walt Disney StudiosWalt Disney Animation Studios",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-09-16"
+  }
+]

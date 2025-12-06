@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tumi",
+    "description": "“Tumi“1975 yılında kurulmuş olan Tumi Holdings Inc. bünyesindeki lüks seyahat çantası, sırt çantası, bavul, kişisel eşya organizatörleri, cüzdan, aksesuar markasıdır.Tumi Holdings Inc. 2016 yılında Lüksemburg merkezli Samsonite IP Holdings S.àr.l. tarafından satın alınmıştır. Ürünleri 75’ten fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Be Quiet!",
+    "description": "“Be Quiet!“2001 yılında kurulmuş olan Listan Gmbh bünyesindeki bilgisayar güç kaynağı, bilgisayar kasası, sıvı ve hava soğutucular, fanlar markasıdır.Oyun, iş istasyonları ve masaüstü bilgisayarlar için sessiz donanım bileşenleri üretmektedir.Listan Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Casetify",
+    "description": "“Casetify“2011 yılında Ronald Yeung ve Wesley Ng tarafından kurulmuş olan Casetagram Limited bünyesinde üretilen telefon kılıfları ve elektronik aksesuarlar markasıdır.Ürünleri aynı zamanda koruyucu özelliği taşımaktadır.Casetagram Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Respirox Tansiyon Aleti",
+    "description": "“Respirox“1999 yılında kurulmuş olan Ece Tıbbi Cihazlar ve Medikal San. Tic. A.Ş. bünyesindeki akıllı tartı, aspiratör, ateş ölçer, beslenme pompaı ve torbaları, hasta yatağı parçaları, hasta yatağı, havalı yatak, manometre, maske, nebulizatör, oda nemlendiricileri, oksijen konsantratörleri, oksimetre, ortopedik yastıklar, rolatör, süt pompası, seyyar tuvalet, taşınabilir oksijen konsantratörleri, tansiyon aleti, tekerlekli sandalye, tens aletleri ve rehabilitasyon eldivenleri, uyku ve solunum cihazları, ventilatörler, walkerlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Waze",
+    "description": "“Waze“2006 yılında kurulmuş olan Waze Mobile Ltd. bünyesinde üretilen uydu navigasyon yazılımı markasıdır.Yazılım, başlangıçta İsrail’de Waze Mobile tarafından geliştirildi; bu şirket, İsrail istihbarat biriminin eski üyeleri tarafından kurulmuştur.Waze Mobile Ltd. 2013 yılında Amerika merkezli Google LLC’nin yan kuruluşu olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

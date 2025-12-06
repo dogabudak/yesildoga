@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Telegartner",
+    "description": "Telegartner, 1973 yılında kurulan Telegartner Kunststofftechnik Gmbh bünyesinde üretilen telekomünikasyon ve veri iletişimi ile ilgili network komponentleri, koaksiyal konnektörler ve bağlantı kabloları, endüstriyel iletişim ürünleri markasıdır.Telegartner Kunststofftechnik Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Notox Girls",
+    "description": "Notox Girls, 2016 yılında kurulan doğal esmer cilt bakım ürünleri markasıdır.Ürünleri glüten, sülfat dahil olmak üzere tüm önemli alerjenlerden arındırılmıştır ve yüzde 100 vegandır. Ürünleri el yapımıdır.Notox Girls, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pharmaceris",
+    "description": "Pharmaceris, Laboratorium Kosmetyczne Dr Irena Eris Sp. z o.o. ul. bünyesinde üretilen cilt, vücut ve saç bakımı için kozmetik, cilt kremleri, yüz kremleri markasıdır.Laboratorium Kosmetyczne Dr Irena Eris Sp. z o.o. ul. Polonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Rectiwa",
+    "description": "Rectiwa, 2013 yılında kurulan HSC Laboratuvarları Kozmetik Gıda Tekstil San. İç ve Dış. Tic. Ltd. Şti. bünyesinde üretilen saç bakım ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Galloper Digital",
+    "description": "Galloper Digital, 1999 yılında kurulan Shenzhen Galloper Digital Technology Co. Ltd. bünyesinde üretilen bilgisayar aksesuarları, iletişim, tüketici elektroniği, depolama, dijital ürünler markasıdır.Shenzhen Galloper Digital Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

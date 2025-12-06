@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Boeing",
+    "description": "Boeing, 1916 yılında William Edward Boeing tarafından kurulan The Boeing Company bünyesinde üretilen uçak, rotorcraft, roket, uydu ve füzeler markasıdır.The Boeing Company Amerika merkezlidir.Hissedarları:Vanguard Group Inc. (yüzde 8,2)Blackrock Inc. (yüzde 5,8)Newport Trust Company LLC (yüzde 5,1)State Street Corp. (yüzde 4,4)Capital Research Global Investors (yüzde 4,3)Fmr LLC (yüzde 3,8)Loomis Sayles Co. L P (yüzde 2,4)Capital World Investors (yüzde 2,1)Geode Capital Management LLC (yüzde 1,8)Bank Of America Corp. (yüzde 1,3)Price T Rowe Associates Inc. (yüzde 1,3)Morgan Stanley (yüzde 1,3)Massachusetts Financial Services Co. (yüzde 1,2)Nuveen Asset Management LLC (yüzde 1,1)Jennison Associates LLC (yüzde 0,99)Northern Trust Corp. (yüzde 0,79)Fisher Asset Management LLC (yüzde 0,74)Wellington Management Group LLP (yüzde 0,73)John F. McDonnell (yüzde 0,73)Capital International Investors (yüzde 0,68)Bank Of New York Mellon Corp. (yüzde 0,59)Legal General Group PLC (yüzde 0,56)Wells Fargo Company (yüzde 0,53)Charles Schwab Investment Management Inc. (yüzde 0,51)Jpmorgan Chase Co. (yüzde 0,5)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-09-15"
+  },
+  {
+    "company": "Bizden",
+    "description": "Bizden, 1949 yılında kurulan Seçkin Onur A.Ş. bünyesindeki makarna, mantı, erişte, kuskus, şehriye, un, fasulye, nohut, mercimek, pirinç, bulgur, bakla, barbunya, mısır, buğday, helva, tahin, pekmez, Kemal Paşa tatlısı, mısır nişastası, buğday nişastası, pirinç unu, irmik, karbonat, hamur kabartma tozu, vanilya, kakao, bezelye konservesi, salça, çay, kahve, şeker markasıdır.Ürünlerini Bursa Hasanağa OSB’de 15 bin metrekarelik üretim tesisinde ve toplamda 30 bin metrekareyi aşan çalışma alanlarında üretmektedir. ISO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dermologica",
+    "description": "Dermologica, 1986 yılında Jane Wurwand tarafından kurulan Dermalogica LLC bünyesindeki cilt bakım ürünleri markasıdır.Ürünleri yapay koku ve renklendirici, paraben, mikro plastik, SD alkol içermemekte ve hayvanlar üzerinde test edilmemektedir.Ambalajlarının yüzde 90’ı geri dönüştürülebilir veya biyoçözünürdür.Dermalogica LLC, 2015 yılında İngiltere merkezli Unilever Plc. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-26"
+  },
+  {
+    "company": "Rene Furterer",
+    "description": "Rene Furterer, 1957 yılında Pierre Fabre Grubu bünyesinde üretilen saç bakım ürünleri markasıdır.Pierre Fabre Grup, Türkiye’de Pierre Fabre İlaç ve Pierre Fabre Dermokozmetik şirketleriyle faaliyet göstermektedir.Fransa merkezli Pierre Fabre Grubu’nun 43 ülkede iştiraki bulunurken, ürünleri 130’dan fazla ülkede dağıtılmaktadır.Bünyesindeki markalar:A-DermaDucrayEau Thermale AveneElancylGalenicKloraneNaturactivePierre FabrePierre Fabre DermatologiePierre Fabre Health CarePierre Fabre Oral CareRene Furterer",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Net Boru",
+    "description": "Net Boru, 2007 yılında kurulan Net Boru San. ve Dış Tic. Kol. San. Bora Şaman ve Ortağı bünyesindeki hidrolik fren borusu markasıdır.Uluslararası şirketlere otomotiv parçası üretmektedir. Kanada, Amerika, Meksika, Slovakya ve Çin’e ürünlerinin tamamını ihraç etmektedir.ISO 9001, 27001 ve IAFT 16949 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

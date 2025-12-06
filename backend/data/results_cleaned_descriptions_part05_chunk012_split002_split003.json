@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Audio Service",
+    "description": "Audio Service, 1977 yılında kurulan As Audio-Service Gmbh bünyesindeki kulak içi işitme cihazları, kulak arkası işitme cihazları, RIC işitme cihazları, otoplastikler ve aksesuarlar markasıdır.As Audio-Service Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hulu",
+    "description": "Hulu, 2007 yılında kurulan Hulu LLC bünyesindeki mekan içi ve dışında, reklamları olan ve olmayan canlı ve isteğe bağlı TV ve filmler sunan yayın hizmetidir.Hulu LLC Amerika merkezlidir. Hisselerinin çoğunluğu The Walt Disney Company’ye, azınlık hisseleri Comcast bünyesindeki NBC Universal’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Foreca",
+    "description": "Foreca, 1996 yılında kurulan Foreca Oy bünyesinde üretilen ücretsiz hava tahmini akıllı telefon uygulaması markasıdır.Uygulama Android, iOS ve Windows cihazları için kullanılabilir.Ürün yelpazesinde web siteleri için hava durumu, hava durumu videoları, basılı medya için hava durumu, tahminleri, hava durumu haritaları, medya için çözümler, api eklentileri yer almaktadır.Foreca Oy Finlandiya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Smoby",
+    "description": "Smoby, 1924 yılında kurulan Smoby Toys SAS bünyesinde üretilen çocuk oyuncakları markasıdır.Ürün yelpazesinde okul öncesi, rol yapma, bebekler ve aksesuarlar, sanat ve zanaat, açık hava oyunları, tekerlekli oyuncaklar ve langırt yer almaktadır.Smoby Toys SAS 2009 yılında Almanya merkezli Simba Dickie Group Gmbh’nin bir iştiraki oldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Marmaluzi",
+    "description": "Marmaluzi, 1999 yılında kurulan Straikas UAB bebek ve küçük çocuklar için üretilen besinler markasıdır.Ürünleri koruyucu ve hiçbir katkı maddesi içermez. ISO 22000 belgesine sahiptir.Straikas UAB, Litvanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "LT",
+    "updated_date": null
+  }
+]

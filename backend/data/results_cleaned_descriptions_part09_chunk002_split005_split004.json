@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Matalan",
+    "description": "Matalan1985 yılında John Hargreaves tarafından kurulmuş olan Matalan Limited bünyesindeki giyim perakendesi markasıdır.Şirket, çeşitli markalı ve kendi markasına ait bayan, erkek ve çocuk kıyafetleri ve ayrıca sınırlı sayıda ev eşyası satmaktadır.Matalan Limited İngiltere merkezlidir.Bünyesindeki markalar;EasyFalmerFalmer HeritageJeffrey RogersMatalan",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Procycle",
+    "description": "ProcycleEge Sistem Bisiklet Aksesuarları Tekstil İmalat Dış Tic. Ltd. Şti. bünyesindeki bisiklet çanta ve aksesuarlar, brandalar, giyim ürünleri, lastik tamir sıvısı markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aposense",
+    "description": "Aposense1996 yılında kurulmuş olan Aposense Ltd. bünyesindeki klinik aşamada moleküler görüntüleme ve ilaç markasıdır.Şirket, apoptozu hedeflemek için kullanılan patentli platform teknolojisine dayanan bir ürün hattına sahiptir.Aposense Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Honiture",
+    "description": "Honiture2020 yılında kurulmuş olan Wimius Technologies Co. Ltd. bünyesinde üretilen robot elektrikli süpürge, ev temizlik ürünleri markasıdır.Wimius Technologies Co. Ltd. Hong Kong merkezlidir. Ürünlerini 38 ülke ve bölgeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Orçay",
+    "description": "Orçay1986 yılında kurulmuş olan Orçay Ortaköy Çay San. ve Tic. A.Ş. bünyesinde üretilen çay markasıdır.ISO 9001, Helal belgelerine sahiptir.Firma Rize merkezlidir ve 11 bin metrekarelik kapalı alanda üretim gerçekleştirmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

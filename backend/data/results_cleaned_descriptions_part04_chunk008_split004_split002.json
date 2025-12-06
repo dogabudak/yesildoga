@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Supra Protein",
+    "description": "Supra Protein, 2015 yılında kurulan Suprafooding Gıda San. ve Tic. A.Ş. bünyesindeki vitamin desteği kolajen takviye ürünleri markasıdır.Hammaddeler dini ve kültürel hassasiyetlere göre seçilmektedir. Firma gıda ve gıda takviyeleri alanında üretim yapan şirketlere gıda bileşenleri tedarik etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Thieye",
+    "description": "Thieye, Thieye Inc. bünyesinde üretilen aksiyon kamerası markasıdır.Aksiyon kameraları, 360 derece VR kameralar, bazı profesyonel alanlarda profesyonel kameralar ve diğer uygun aksesuarlardan oluşan ürün hattı bulunmaktadır.Thieye Inc. Çin merkezlidir ve ürünleri Çin’de üretilmektedir. Ürünleri çok sayıda ülkeye ihraç edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kuaishou",
+    "description": "Kuaishou, 2011 yılında Su Hua, Cheng Yixiao tarafından kurulan Beijing Kuaishou Technology Co. Ltd. bünyesindeki kısa bir video sosyal platformudur.Mobil video paylaşım uygulamasıdır.Beijing Kuaishou Technology Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Infortrend",
+    "description": "Infortrend, 1993 yılında kurulan Infortrend Technology bünyesindeki depolama aygıtları markasıdır.Tamamen depolama çözümlerine adanmış olan Infortrend’in uzmanlık alanı, donanım, ürün yazılımı, yazılım ve sistem entegrasyonu dahil olmak üzere depolama sistemlerinin tüm yönlerini kapsar.Infortrend Technology Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Dornbracht",
+    "description": "Dornbracht, 1950 yılında kurulan Dornbracht AG & Co. KG bünyesindeki banyo, kaplıca ve mutfaklar için bağlantı parçaları ve aksesuarları markasıdır.Dornbracht AG & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

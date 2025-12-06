@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cryorig",
+    "description": "Cryorig, 2013 yılında kurulan Jiu Hong Technology Co., LTD. bünyesinde üretilen bilgisayar hız aşırtma ürünleri, soğutucu, fan ve aksesuarlar markasıdır.Jiu Hong Technology Co., LTD. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Diego Dalla Palma",
+    "description": "Diego Dalla Palma, 1970 yılında kurulan Cosmetica Srl bünyesindeki makyaj, cilt bakımı ve saç bakım ürünleri markasıdır.Cosmetica Srl İtalya merkezlidir ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Miyabi",
+    "description": "Miyabi, 1731 yılında Peter Henckels tarafından kurulan Zwilling J. A. Henckels AG bünyesinde üretilen bıçak markasıdır.Ürünleri 100’den fazla ülkeye pazarlanmaktadır.Zwilling J. A. Henckels AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Eyeko",
+    "description": "Eyeko, 1999 yılında Max ve Nina Leykind tarafından çok kategorili bir makyaj markası olarak kuruldu.Eyeko, 2004 yılında Matthew Moulding ve John Gallemore tarafından kurulan İngiltere merkezli THG Holdings plc bünyesindeki kozmetik markasıdır. THG, çeşitli perakende sektörlerinde E-Ticaret işletmelerinin tam mülkiyetini almak ve web sitelerini kendi teknoloji platformuna koymak için bir satın alma stratejisi izleyen e-ticaret şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Masomo Gaming",
+    "description": "Masomo Gaming, 2015 yılında İbrahim Akman tarafından kurulan akıllı telefonlar ve tabletler için sosyal mobil oyunlar markasıdır.Head Ball ve Head Ball 2 oyunlarını geliştirmektedir.2019 yılında Çin merkezli Tencent’in sahibi olduğu Miniclip SA tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Saveurs",
+    "description": "Saveurs, Lidl Stiftung & Co. KG bünyesindeki ev ve mutfak amaçlı mutfak eşyaları ve kaplar, toprak kaplar, porselen kutular, bardaklar, tabaklar, güveçler, pişirme kalıpları, barbekü kalıpları, kaseler, mutfak eşyaları, yağ ve sirke şişeleri, tavalar, tavalar, kızartma tavaları, saksılar markasıdır.Lidl Stiftung & Co. KG Almanya merkezli Schwarz Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kongsberg",
+    "description": "Kongsberg, 1814 yılında kurulmuş olan Kongsberg Gruppen ASA bünyesindeki savunma ve havacılık, askeri teçhizat, deniz elektronik ekipmanları, sondaj gemileri, tankerler markasıdır.Firma denizcilik, savunma ve havacılık ve dijital gibi üç iş alanında faaliyet göstermektedir.Kongsberg Gruppen ASA Norveç merkezlidir ve 40’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Carrera Sunglasses",
+    "description": "Carrera Sunglasses, 1956 yılında kurulmuş olan güneş gözlüğü ve spor gözlüğü markasıdır.Markayı 1996 yılında Safilo Group S. p.A. satın aldı. Safilo Group S. p.A. İtalya merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;Blenders EyewearCarreraPolaroid EyewearPrivè RevauxSeventh StreetSmith Optics",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Arılac",
+    "description": "Arılac Nerenin Malı MarkasıArılac, 1945 yılında kurulmuş olan Arı Gıda San. A.Ş. bünyesinde üretilen ballı irmikli kahvaltı, gece sütlü 7 tahıllı, sütlü muzlu, sütlü pirinçli bebek mamaları markasıdır.Ürünleri GDO, koruyucu katkı maddesi, nişasta, kıvam artırıcı, aroma verici tatlandırıcı içermez. Yağsız süt tozu ve süt proteini konsantresi içermektedir.BRC ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "BRC",
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sunday Riley",
+    "description": "Sunday Riley, Sunday Riley Modern Skincare LLC bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri mineral yağ ve sülfat temizleyici içermez. Çiçek, bitki özleri ve yağlardan koku üretmektedir. Ürünleri hayvanlar üzerinde test edilmemektedir.Sunday Riley Modern Skincare LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

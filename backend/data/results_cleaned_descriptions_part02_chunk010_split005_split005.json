@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Severstal",
+    "description": "Severstal, 1993 yılında kurulan çelik ve madencilik şirketidir. Şirketin çoğunluk hissesi sahibi Alexey Mordashov tarafından kontrol edilir.Çelik, metal eşya, büyük çaplı boru üretimi gerçekleştirmektedir. Severstal Rusya, Ukrayna, Kazakistan, Fransa, İtalya ve çeşitli Afrika ülkelerinde büyük sanayi tesislerine sahiptir.Severstal Rusya merkezlidir. Rusya’nın en büyük çelik şirketidir. Şirket aynı zamanda madencilik varlıklarına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Ingenico",
+    "description": "Ingenico, 1980 yılında Jean-Jacques Poutrel ve Michel Malhouitre tarafından kurulan Ingenico Group S.A. bünyesindeki EFTPOS, YazarkasaPOS, kredi kartı terminalleri ve ödeme çözümleri markasıdır.Ingenico Türkiye, EFTPOS alanında 2015 yılında Maliye Bakanlığı Gelir İdaresi Başkanlığı’ndan yazarkasa lisansı da alarak Lisanslı Yazarkasa Firması olmuştur. Ingenico Türkiye, Ingenico terminallerinin bakım-onarım hizmetini de vermektedir.Ingenico Group, Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Wert",
+    "description": "Wert, Ningbo Sun Group Tools Co., Ltd. bünyesinde üretilen aydınlatma, delici ve kesiciler, el aletleri, elektrikli el aletleri, otomotiv ürünleri ve havalı aletler markasıdır.Yaklaşık 1200 kalem ürün üretilmektedir. CE, GS, RoHS gibi belgelere sahiptir.Ningbo Sun Group Tools Co., Ltd. Çin merkezlidir ve ürünlerini Çin’deki fabrikasında üretmektedir.Duna Dış Ticaret Limited Şirketi, TROY ve WERT el aletleri serisinin Ortadoğu mümessilidir.Ningbo Sun Group Tools bünyesindeki markalar:TROYWERT",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Snap n Grip",
+    "description": "Snap’n Grip 2015 yılında Actervis Gmbh bünyesinde üretilen el aletleri markasıdır.Ürün, 9mm ile 32mm arasında değişen tüm somun ve cıvatalara uyan iki farklı anahtardan oluşur. Musluklar, vanalar, borular, hatlar, radyatörler, kazanlar, tekerlekler vb işlerle ilgili kullanılmaktadır. Hafif alet, somunları ve cıvataları gevşetmek ve sıkmak için az güce ihtiyaç duyar.Actervis Gmbh İsviçre merkezlidir. Snap’n Grip markalı el aletlerini Hindistan’da üretmektedir.Actervis Gmbh bünyesindeki markalar:AQUA WIZARDAirmax by RestformBEST DIRECTBonatese 10000CLAYCORECellu actionGYMFORM ELECTRO FITNESS TRAINERINSTA HANDLEMAXIE HANDYMEGABITE WRENCHPOWER GROW COMB by VelformREJENESnap’n GripSHAPE’N MENDSTARLYF LASER LIGHTSTARLYF MOTION LASER LIGHTSTRAIGHT WIZARDSteam-O-PowerVELFORM Cellu 5000VELFORM SATINVELFORM SWEAT SHAPERSVERTICAL GYMVIZ CAR CAMERAVelvadermWONDERDRYWizzitWonder MagicXtreme BRA",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Zegna",
+    "description": "Zegna, 1910 yılında Ermenegildo Zegna tarafından kurulan Ermenegildo Zegna Holditalia S.p.A. bünyesindeki lüks erkek giyim markasıdır.Şirket aile tarafından işletilmeye devam edilmekte ve üçüncü nesil tarafından idare edilmektedir. Ermenegildo Zegna Holditalia S.p.A. İtalya merkezlidir.Zegna bünyesindeki markalar:AchillAgnonaBonottoCappellificio CervoRaghavendra Rathore JodhpurThom BrowneDondi",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

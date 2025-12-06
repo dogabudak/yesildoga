@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Alteco",
+    "description": "Alteco, 1965 yılında kurulan Arteco Co., Ltd. bünyesindeki yapıştırıcı markasıdır.Tüketici ve endüstriyel uygulamalar için geniş bir yelpazede anlık yapıştırıcılar, epoksi reçine yapıştırıcılar, anaerobik yapıştırıcılar ve fototere edilebilir reçine bazlı yapıştırıcılar üretmektedir.Arteco Co., Ltd. Japonya merkezlidir. Dünya çapında 50’den fazla ülkeye ürünlerini ihraç etmektedir. Singapur, Endonezya, Çin, Güney Kore ve Gana ofisleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Asbal",
+    "description": "Asbal, 1980 yılında kurulan Asbal Gıda Turizm İnşaat Tekstil San. ve Tic. Ltd. Şti. bünyesindeki bal, tahin, pekmez, helva, reçel ürünleri markasıdır.ISO 22000, Anadolu Helal, Etko Organik sertifikalarına sahiptir.Firmanın ayrıca 2013 yılında Bursa’da kurduğu Asbal Balevi isimli bir perakende satış noktası vardır. Buradan tüketicilere organik ve özel üretim ballar büyük şehirlere ulaştırılmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Just Green Organic",
+    "description": "Just Green, Nazar Kimya Sabun ve Deterjan Tic. A.Ş. bünyesinde üretilen, tamamı bitkisel ve organik içeriklerden oluşan çamaşır temizleyici, lavanta yağlı yumuşatıcı, bulaşık makinesi jelive tableti, portakal yağlı bulaşık temizleyici, yüzey ve ahşap temizleyici, cam temizleyici, limon yağlı tuvalet temizleyicisi markasıdır.Ürünleri koruyucu, paraben ve zararlı kimyasallar içermez.ISO 9001, ISO 14001, OHSAS 180001, ECOCERT ve Hypoallergenic belgelerine sahiptir.Tamamı yerli sermayeli İstanbul merkezli firma ürünlerini İstanbul OSB’deki 7 bin metrekarelik kapalı alanda bulunan fabrikasında üretmekte ve 15 ülkeye ihraç etmektedir.Bünyesindeki markalar:GreenwayIveJust GreenJust Green OrganicMoliMoon RiseNazNazarNyrRisel",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-18"
+  },
+  {
+    "company": "Malatya Pazarı",
+    "description": "Malatya Pazarı, 1870 yılında Palancı Ailesi tarafından kurulan kuruyemiş ve taze kuru meyve gıdaları markasıdır.Malatya Pazarı 100’ün üzerinde kuruyemiş çeşidine sahip.Malatya Pazarı ikiye bölünerek iki şirketle aynı marka ile faaliyet gösteriyor.Hüseyin Murat Palancı’ya ait olan Malatya Pazarı Kuruyemişçilik San. ve Tic. A.Ş. ile Mehmet Yılmaz Palancı ve annesine ait olan Malatya Pazarı Palancı Kuruyemiş San. ve Tic. A.Ş. olarak ayrı mağazalar ve internet siteleri üzerinden satış yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Karona Italy",
+    "description": "Karona Italy, 2006 yılında Sedat Saygılı tarafından kurulan Saygı Hırdavat bünyesinde ithal edilen invertör kaynak makinesi, jeneratör, hava kompresörü, havalı el aletleri, pülverizatör, tezgah tipi pafta makineleri ve aksesuarlar markasıdır.Karona Italy markalı ürünler Çin’den ithal edilmektedir.Saygı Hırdavat, hırdavat malzemelerin ithalat ve toptan satışını üstlenmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-11-13"
+  }
+]

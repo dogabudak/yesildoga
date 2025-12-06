@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Manhattan Toy",
+    "description": "Manhattan Toy, 1996 yılında kurulmuş olan Manhattan Group LLC. bünyesinde üretilen çocuklar için oyuncaklar, köpek oyuncakları, konfor arkadaşları, bandanalar, evcil hayvan yatakları markasıdır.Şirket, bebek ürünleri, yürümeye başlayan çocuk ve okul öncesi ürünleri, bebekler ve doldurulmuş oyuncaklar ve kuklalar üretmektedir.Manhattan Group LLC. Amerika merkezlidir. Ürünlerini Çin, Vietnam ve Tayland’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fulsade",
+    "description": "Fulsade, 2016 yılında Fulden Bayraktar tarafından kurulmuş olan Fulsade Doğal Ürünler bünyesinde üretilen doğal kişisel bakım ürünleri, doğal temizlik, doğal ev gereçleri markasıdır.Ürünleri GDO, GMO, katkı ve koruyucu maddeler içermez.İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Redcooper",
+    "description": "Redcooper, 1997 yılında kurulmuş olan Atabay Grup Tekstil Kozmetik Turizm Dış Tic. Ltd. Şti. bünyesinde üretilen saç kurutma makinesi markasıdır.Firma Ankara merkezlidir. Ürünleri Türkiye’de üretilmektedir.Bünyesindeki markalar;CarainRedcooper",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Confu",
+    "description": "Confu, 1993 yılında kurulmuş olan Guangdong Huanengda Electrical Appliances Co. Ltd. bünyesinde üretilen saç kurutma makinesi, saç düzleştirici, saç kesme makinesi, kişisel bakım aletleri, çamaşır kurutma makinesi, hava temizleyici gibi ev aletleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Guangdong Huanengda Electrical Appliances Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 31 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Calphalon",
+    "description": "Calphalon, 1963 yılında Ronald M. Kasperzak tarafından kurulmuş olan Sunbeam Products Inc. bünyesinde üretilen tencere, çatal bıçak takımı ve ev aletleri markasıdır.Şirket battaniyeler, yatak örtüleri, ısıtıcılar, kahve makinesi, konserve açacakları, mikrodalga fırın, tost makinesi, ütü, stand mikserleri ve yiyecek hazırlama ürünleri sunmaktadır.Sunbeam Products Inc. 2016 yılında Amerika merkezli Newell Brands Inc. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

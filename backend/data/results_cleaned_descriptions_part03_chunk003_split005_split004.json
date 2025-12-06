@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Bobst",
+    "description": "Bobst, 1890 yılında kurulan Bobst Grup SA bünyesindeki ambalaj sektörüne makine ve hizmet sağlayan markadır.Ürünler, katı tahta, oluklu tahta veya esnek malzemelerden (plastik filmler, vb.) ambalaj ve türevlerinin imalatı için makineleri (etiketler, torbalar ve yapışkan şeritler gibi) içerir.Bobst Grup SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Michelin",
+    "description": "Michelin, 1889 yılında Andre ve Edouard Michelin tarafından kurulan Compagnie Generale des Etablissements Michelin SCA bünyesinde üretilen araç lastiği markasıdır.Firma ayrıca dijital mobilite destek hizmetleri sunmaktadır ve seyahat rehberleri, otel ve restoran rehberleri, haritalar ve yol atlasları yayınlar.Fransa merkezli Michelin, 170’ten fazla ülkede faaliyet göstermekte ve 17 ülkede 67 üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Accu-Chek",
+    "description": "Accu-Chek Hangi Ülkenin Malı MarkasıAccu-Chek, 1974 yılında kurulan Roche Diabetes Care, Inc. bünyesindeki kan şekeri ölçeri, insülin dağıtım sistemleri, lancing cihazları, insülin kalem iğneleri, infüzyon setleri, veri yönetim sistemleri ve eğitim programları markasıdır.Roche Diabetes Care, Inc. İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Activia",
+    "description": "Activia, 1919 yılında İsaac Carraso tarafından kurulan Danone S.A. bünyesinde üretilen probiyotik yoğurt markasıdır.Marka 70’ten fazla ülkede pazarlanmaktadır.Türkiye pazarına 1997 yılında giren Danone Fransa merkezli sütlü ürünler ve içecekler üreten bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Takita",
+    "description": "Takita, 1992 yılında Gıda Yüksek Mühendisi T. Tahir Önder, A. Fazıl Önder ve A. Haydar Liver tarafından kurulan Egepak Gıda ve Ambalaj San. A.Ş. bünyesinde üretilen diyet ve diyabetik gıda ürünleri markasıdır.Diyet, diyabetik ve şekersiz aromalı tabletler olmak üzere 24 çeşit ürün üretmektedir.Formtat 60 – prebiyotik lifli diyabetik tatlandırıcı, reçelmiks – prebiyotik lifli reçel yapmak için tatlandırıcı, diyabetik toz tatlandırıcı, tablet tatlandırıcı, kahverengi toz ve küp şeker, stevia’lı tatlandırıcılar, aromalı şekersiz şekerler, light kek karışımları, diyabetik ve light toz pudingler, sukraloz tatlandırıcılı ürünlere ve ISO 22000 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

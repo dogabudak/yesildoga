@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Robart Robotik Zeka",
+    "description": "Robart, 2009 yılında Harold Artés ve Michael Schahpar tarafından kurulan Robart Gmbh bünyesinde üretilen yapay zeka destekli vakum robotları markasıdır.Firma robot elektrikli süpürgelere önem vererek lazer navigasyonlu akıllı ev robotları geliştiriyor ve üretiyor.Robart Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Snk",
+    "description": "Snk, 1978 yılında Eikichi Kawasaki tarafından kurulan SNK Corporation bünyesindeki video oyunu donanım ve yazılım markasıdır.SNK Corporation 2015 yılında Çin merkezli 37 Interactive Entertainment tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Spendor",
+    "description": "Spendor, 1960 yılında Spencer ve Dorothy Hughes tarafından kurulan Spendor Audio Systems Limited bünyesinde el işçiliği ile üretilen hoparlörler, hoparlör kabinleri, ses ekipmanları markasıdır.Spendor Audio Systems Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Raymo",
+    "description": "Raymo, 2010 yılında kurulan Raymo Electronics Technology Ltd. bünyesinde üretilen konektörler ve kablo çözümleri markasıdır.Ürünlerinin çoğu Telekomünikasyon, Tıbbi, Endüstriyel uygulamalar, Havacılık, Ses-video, Petrol ve diğer alanlarda kullanılmaktadır. ISO 9001 belgesine sahiptir.Raymo Electronics Technology Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Extrifit",
+    "description": "Extrifit, 2010 yılında kurulan Extrifit S.R.O. bünyesindeki protein, proteinli kahve, fitness yemekleri, karbonhidratlar, kreatin, amino asitler ve peptitler, anabolizatörler ve uyarıcılar, protein çubukları, vitaminler ve mineraller, enzimler, yağ brülörleri, spor giyim, çalkalayıcılar ve şişeler, aksesuarlar markasıdır.Extrifit S.R.O. Çek Cumhuriyeti merkezlidir.ISO 22000 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  }
+]

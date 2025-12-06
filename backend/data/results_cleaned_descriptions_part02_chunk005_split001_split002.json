@@ -1,0 +1,46 @@
+[
+  {
+    "company": "iBasso Audio",
+    "description": "iBasso Audio, 2006 yılında kurulan iBasso, Inc. bünyesindeki Gelişmiş taşınabilir ses ve Ev ses ürünleri markasıdır.iBasso, Inc. Çin merkezli bir şirkettir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Saka Su Firmanın",
+    "description": "Saka Su hisselerinin yüzde 90’ı, 2016 yılında Dydo Drinco Holding tarafından satın alınmıştır. Dydo Drinco Turkey İçecek Satış ve Pazarlama A.Ş. bünyesinde faaliyetlerini sürdürmektedir.Saka Su, uluslararası kalite standartlarında üretim yaparak, ürünlerini Türkiye’de ve başta AB ülkeleri olmak üzere Avustralya’dan ABD’ye kadar 25 ülkeye ihraç etmektedir.DyDo DRINCO 1975 yılında Japonya’da kurulan içecek üreticisidir.Türkiye’nin AB tarafından onaylı tek doğal mineralli su markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2020-02-07"
+  },
+  {
+    "company": "Pixi",
+    "description": "Pixi, 1969 yılında kurulan kozmetik ve güzellik ürünleri perakendesi Sephora bünyesindeki makyaj ve cilt bakımı ürünleri markasıdır.Sephora, 1997 yılında dünyanın en büyük lüks tüketim malları üreten gruplarından Fransa menşeli LVMH tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Papilion",
+    "description": "Papilion, 1994 yılından beri Ar Kağıt San. ve Tic. Ltd. Şti. bünyesindeki kağıt havlu, kağıt peçete, tuvalet kağıdı, ıslak mendil, ıslak havlu markasıdır.Ürünlerini Türkiye’de yüzde yüz selülozdan üretmektedir.Papilion Avrupa Birliği ve AB haricindeki ülkelerde Tescilli Ticari markadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Teleplus",
+    "description": "Teleplus, 2007 yılında kurulan Nb İletişim Elektronik Tic. ve San. Ltd. Şti. bünyesindeki cep telefonu ve aksesuarları markasıdır.Firma cep telefonu aksesuarları, Samsung ve İphone kılıf ve ekran koruyuclarını Çin ve Hong Kong’tan ithal etmektedir. Ayrıca TV ürünleri ve hediyelik ürünleri kalite kontrolden geçirerek ithal etmektedir.Nb İletişim Elektronik Çin, Hong Kong ve Türkiye’de şubelere sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

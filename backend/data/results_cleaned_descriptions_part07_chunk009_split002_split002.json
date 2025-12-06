@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Azooken",
+    "description": "Azooken, Kan Jian Wei Lai E-Commerce Co. Ltd. bünyesinde üretilen yürüyüş ayakkabısı, spor ayakkabı, giysiler, ceket, gömlek, pantolon markasıdır.Kan Jian Wei Lai E-Commerce Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alba E-Bikes",
+    "description": "Alba E-Bikes, 2014 yılında kurulmuş olan Alba Elektrikli Ulaşım Sistemleri Mühendislik Danışmanlık San. ve Tic. Ltd. Şti. bünyesinde üretilen elektrikli bisiklet ürünleri ve elektrik dönüşüm kitleri markasıdır.ISO 9001 belgesine sahiptir.Firma Bursa merkezlidir.Bünyesindeki markalar;Alba E-BikesAlba KitAlbacargoAlbaexplorerAlbafoldAlbafoldxAlbaspro",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ednet",
+    "description": "Ednet, Assmann Holding Gmbh bünyesindeki çevirici ve adaptörler, akım korumalı priz, micro usb, type c kablolar, araç şarj cihazları, bebek telsizi, bluetooth hoparlör, ev şarj adaptörü, ip kameralar, kulaklık, notebook adaptörleri, kilitleri, soğutucuları, powerline ürünleri, ses ve görüntü kabloları, speaker, taşınabilir şarj cihazları markasıdır.Assmann Holding Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cosmogenesis Labs",
+    "description": "Cosmogenesis Labs, 2022 yılında kurulmuş olan Kaia Kozmetik Ürünleri San. Tic. A.Ş. bünyesindeki kozmetik ve kişisel bakım ürünleri markasıdır.Ürünleri paraben ve alkol içermez. Hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Prettycare",
+    "description": "Prettycare, 2017 yılında kurulmuş olan Guangdong Shunde Prettycare Intelligent Technology Co. Ltd. bünyesinde üretilen akülü elektrikli süpürge, çubuk elektrikli süpürge, robot süpürge ve paspas, aksesuarlar markasıdır.ISO 9001, ISO 9000 belgelerine sahiptir.Guangdong Shunde Prettycare Intelligent Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

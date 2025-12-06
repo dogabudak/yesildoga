@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Bernardo",
+    "description": "Bernardo, 1984 yılında Güner, Nurettin ve Ömer Sözen tarafından kurulan Bernardo Paz. San. ve Dış. Tic. Ltd. Şti. bünyesindeki yemek takımı, kahvaltı takımı, çatal kaşık bıçak takımı, pişirme gereçleri, servis ve sunum gereçleri, mutfak aksesuarları gibi sofra ve mutfak ürünleri markasıdır.2016 yılında 31 ilde 8’si franchise olmak üzere toplam mağaza sayısı 106’ya ulaştı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Liaail",
+    "description": "Liaail, 1995 yılında Park Namkyu ve Jung Jaewook tarafından kurulan Cowon Systems, Inc. bünyesinde 2011 yılından itibaren üretilen kişisel ses ve cep telefonu aksesuarları markasıdır.Cep telefonu ekran koruyucu, kılıfı ve kulaklık gibi aksesuarları üretmektedir.Cowon Systems, Inc. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Roll-Up",
+    "description": "Roll-Up Hangi Ülkenin Malı MarkasıRoll-Up, 1970 yılında kurulan Bursa Pazarı İnşaat San. ve Tic. A.Ş. bünyesinde üretilen yağlı pişime kağıdı, streç film, alümünyum folyo, çöp poşeti ve yanmaz fırın torbası markasıdır.ISO 9001 ve ISO 22000 belgelerine sahiptir.Bursa Pazarı İnş. San. ve Tic. A.Ş. 2016 yılında İngiltere merkezli Bunzl Public Limited Company tarafından satın alınmıştır.Bünyesindeki markalar:BurpakDaliaDolphinFresh-UpRoll-Up",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2024-02-29"
+  },
+  {
+    "company": "Tamron",
+    "description": "Tamron, 1950 yılında kurulan Tamron Co., Ltd. bünyesindeki fotoğrafik lensler, kameralar için optik bileşenler, ticari ve endüstriyel kullanım için optikler markasıdır.Çok sayıda farklı marka ve modelden oluşan fotoğraf makinesine objektif üretmektedir.New Well Co., Ltd. Tamron’un yüzde 18,78 hissesine, Sony Corporation ise yüzde 12,06 hissesine sahiptir.Tamron Co., Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Explay",
+    "description": "Explay, 2005 yılında Eduard Vaschenko tarafından kurulan GPS navigasyon, taşınabilir dijital ses oynatıcı, e-kitap okuyucu, dijital fotoğraf çerçeveleri, video kamera, ses kaydedici, stereo kulaklık, flash sürücü, taşınabilir hoparlör, tablet, cep telefonu markasıdır.Explay, Rusya ve BDT ülkelerinde 120’den fazla şehirde iyi gelişmiş bir hizmet ağına sahip, dijital multimedya teknolojisinin önde gelen Rusyalı üreticisidir.2014 yılında Explay, Yandex’in alternatif Android sürümü Yandex.Kit ile akıllı telefon sunan ilk üreticilerden biriydi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

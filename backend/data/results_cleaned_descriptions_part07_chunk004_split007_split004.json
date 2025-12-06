@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Karlızade",
+    "description": "Karlızade, 1995 yılında kurulmuş olan Hacı Musa Oğulları Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen akide şekeri, mevlana şekeri, kızamık şekeri, lokum çikolata markasıdır.Ürünleri glikoz şurubu içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "POLO country Saat",
+    "description": "POLO country, 2004 yılında kurulmuş olan Hakses İthalat İhracat ve Dış Ticaret bünyesinde ithal edilen saatler, güneş gözlüğü markasıdır.Ürünlerini Çin’den ithal etmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Belmio",
+    "description": "Belmio, 2012 yılında kurulmuş olan Belmoca NV/SA bünyesindeki kahve kapsülleri markasıdır.Kapsüllerinin tümü, çekirdekten fincana kadar tüm kahve hissini koruyan alüminyum bir kapsül içine kapatılmıştır.Belmoca NV/SA Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "De Lucca",
+    "description": "De Lucca, 1984 yılında kurulmuş olan Mnd Kahvaltılık Gıda San. A.Ş. bünyesinde üretilen fındık ezmesi, kakaolu bisküvi kreması, kakaolu fındık kreması, karamelize bisküvi kreması, yer fıstığı ezmesi markasıdır.ISO 9001, ISO 2200 ve HACCP belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 2200",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Naturel Çiftçi",
+    "description": "Naturel Çiftçi Nerenin Malı MarkasıNaturel Çiftçi, 2021 yılında kurulmuş olan Giftstore Reklamcılık ve E-Ticaret Hizmetleri San. ve Tic. Ltd. Şti. bünyesindeki ezmeler, kahve ve çaylar, kuruyemiş, naturel gurme ürünleri, yöresel ürünler markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

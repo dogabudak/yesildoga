@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Wipperman",
+    "description": "1893 yılında kurulmuş olan Wippermann Jr. Gmbh bünyesinde üretilen makaralı zincirler, yaprak zincirleri, akümülatör zincirleri, içi boş pim zincirleri, çalı zincirleri ve özel zincirler, zincir dişlileri markasıdır.Şirket bisiklet ve motosiklet parçalarının seri üretimi için zincir ve zincir dişlisi üretmektedir.Wippermann Jr. Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sonplus",
+    "description": "1956 yılında kurulmuş olan Sonneveld Group bünyesinde üretilen süt sozu ikamesi markasıdır.BRC GS ve OFSS, organik, Helal ve Koşer belgelerine sahiptir.Sonneveld Group 2010 yılından beri Norveç merkezli Orkla Food Ingredients AS’nin bir parçasıdır. 20’den fazla Avrupa ülkesinde 70’den fazla şirket tarafından temsil edilmektedir.",
+    "documents": [
+      "BRC"
+    ],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "X-mini",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Zumoval",
+    "description": "1991 yılında kurulmuş olan Zumoval S.L. bünyesinde üretilen otomatik meyve sıkacıları, paslanmaz çelik şişe standı, su pompası markasıdır.Makineleri portakal, limon, limes, mandalina, greyfurt ve ayrıca herhangi bir boyuttaki nar gibi her türlü narenciye meyvesini sıkabilir.Zumoval S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Dikomsan",
+    "description": "1984 yılında kurulmuş olan Dikomsan Elektronik San. ve Tic. Ltd. Şti. bünyesindeki elektronik tartı aletleri ve sistemleri, terazi, baskül, endüstriyel sistemler, load cell, indikatör markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Wolverine",
+    "description": "Wolverine, 1883 yılında G. A. Krause ve Fredrick Hirth tarafından kurulan Wolverine World Wide, Inc. bünyesindeki ayakkabı ve deri ürünleri markasıdır.Wolverine Worldwide, yaklaşık 200 ülke ve bölgeye yayılan Amerika merkezli bir şirkettir.Bünyesindeki markalar:BatesCat FootwearChacoHYTESTHarley-Davidson FootwearHush PuppiesKedsMerrellSauconySperryStride RiteWolverine",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Venüs Ayakkabı",
+    "description": ":",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-05-29"
+  },
+  {
+    "company": "Esan Akü",
+    "description": "Esan Akü Nerenin Malı MarkasıEsan Akü, 1978 yılında kurulan Esan Akü ve Malzemeleri San. ve Tic. A.Ş. bünyesindeki akü markasıdır.Esan Akü ürünlerini 3 kıtada 50’den fazla ülkeye ihraç etmektedir. ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.Yerli sermayeli şirket ürünlerini Türkiye’deki tesislerinde üretmektedir.Bünyesindeki Markalar:EsanEnergyVegaPureEnergy",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Temat",
+    "description": "Temat, 1997 yılında TETAŞ Şirketler Grubu bünyesinde kurulan yazı gereçleri, masa üstü gereçler, süs, ofis ve elişi malzemeleri, evrak çantaları, ofis mak. ve sarf ürünleri, okul, kağıt, dosyalama, boyama ve bilgisayar ürünleri bayraklar markasıdır.Not kağıdı, zımba perfarator, klasör, sunum dosyası, her türlü dosyalama, arşivleme, yazı gereçleri veya sarf malzemeleri gibi ürünleri ithal eder ve üretir.Bünyesindeki markalar:TematTiconTangy",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bushnell",
+    "description": "Bushnell, 1948 yılında David P. Bushnell tarafından kurulan Bushnell Corporation bünyesindeki dürbün, teleskop, el feneri, GPS cihazı, güneş gözlüğü, lazer mesafe bulucu, gece görüş cihazı gibi spor optik ürünler markasıdır.2015 yılında Amerika merkezli Vista Outdoor Inc. çatısı altına girdi.Vista Outdoor Inc. bünyesindeki dış mekan ürünleri markaları:Bee StingerBell SportsBlackburnBushnellCamelBakCamp ChefCoPilotFinal ApproachGiroGold TipJimmy StyksKrashMillettNight OpticsPrimos HuntingRaskullzSimmons OpticsTascoWeaver Optics",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

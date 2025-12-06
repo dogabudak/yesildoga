@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Qeelin",
+    "description": "Qeelin, 2004 yılında kurulan mücevher markasıdır. Mistik veya batıl inançlı semboller, hayvan sembollerinden oluşan ürünlere sahiptir.Merkezi Hong Kong’ta olan firmanın çoğunluk hisselerini 2013 yılında Fransa merkezli Kering S.A. satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Mikatsu Outboards",
+    "description": "Mikatsu Outboards, Mikatsu Outboards Busan Co. Ltd. bünyesindeki dıştan takmalı tekne motorları markasıdır.Dünyanın her yerinden motorlar için parçalar tedarik edilmektedir.Mikatsu Outboards Busan Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Revitive Medic",
+    "description": "Revitive Medic, 2003 yılında kurulan Actegy Health Limited bünyesinde üretilen sağlık çözümleri markasıdır.Actegy Health Limited İngiltere merkezlidir. Ürünlerini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Zuii Organic",
+    "description": "Zuii Organic, 2002 yılında kurulan Zuii Organic Pty. Ltd. bünyesinde üretilen organik ve doğal kozmetik ürünler markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Zuii Organic Pty. Ltd. Avustralya merkezlidir ve ürünlerini Avustralya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Nilky",
+    "description": "Nilky, 2020 yılında kurulan Nilky İçecek ve Gıda San. ve Tic. A.Ş. bünyesinde üretilen yulaf sütü, badem sütü, badem şekersiz, fındık sütü, fındıklı çikolatalı süt markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

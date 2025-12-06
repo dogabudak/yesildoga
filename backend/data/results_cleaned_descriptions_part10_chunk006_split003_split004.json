@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Abbate",
+    "description": "1989 yılında kurulmuş olan ABB Konfeksiyon Tekstil San. ve Tic. A.Ş. bünyesindeki erkek giyim ve aksesuarları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yepre Seoul",
+    "description": "",
+    "documents": [
+      "GMP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Neorga",
+    "description": "2023 yılında kurulmuş olan Neorga Dermatology İlaç Kozmetik ve Tibbi Gereçler San. Tic. Ltd. Şti. bünyesindeki vücut kremleri, yüz temizleyicileri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Abrasse",
+    "description": "1984 yılında kurulmuş olan Kulaç Oto Ltd. Şti. bünyesindeki direksiyon pompası, depo şamandırası, devirdaim, fren balatası gibi otomotiv yedek parçaları markasıdır.Firma İzmir merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dickmann’s",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

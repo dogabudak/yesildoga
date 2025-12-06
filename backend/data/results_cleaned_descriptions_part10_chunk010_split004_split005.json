@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Nayax",
+    "description": "2005 yılında kurulmuş olan Nayax Ltd. bünyesindeki manyetik şeritli, çipli ve temassız kartlarla ödeme alabilen POS cihazları ve NFC mobil ödemeleri destekleyen cihazlar, finansal teknolojiler markasıdır.Nayax Ltd. İsrail merkezlidir ve 8’den fazla ülkede şubesi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Rapala",
+    "description": "1936 yılında Lauri Rapala tarafından kurulmuş olan Rapala VMC Oyj bünyesindeki sahte balık yemleri, bıçaklar, aletler ve aksesuarlar markasıdır.Rapala VMC Oyj Finlandiya merkezlidir ve ürünleri 100’den fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Nacarev",
+    "description": "2021 yılında kurulmuş olan Nacar İş Güvenliği Malzemeleri Tekstil Danışmanlık San. ve Tic. Ltd. Şti. bünyesindeki hurçlar, bavul içi organizer, valiz markasıdır.Firma Adana merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zero Bite",
+    "description": "1997 yılında kurulmuş olan Netpa Tüketim Ürünleri Pazarlama ve Tic. Ltd. Şti. bünyesindeki sivrisinek, kene, karınca, fare gibi zararlılara karşı kovucu spreyler markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Huiles Thérapie",
+    "description": "2015 yılında kurulmuş olan Edis Pharma İlaç San. ve Tic. Ltd. Şti. bünyesindeki uçucu yağlar, cilt ve saç yağları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

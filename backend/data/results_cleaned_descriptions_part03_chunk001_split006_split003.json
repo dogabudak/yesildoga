@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Caseology",
+    "description": "Caseology, 2008 yılında Daeyoung Kim tarafından kurulan Spigen Inc. bünyesindeki cep telefonu kılıfı markasıdır.Spigen Inc. ekran koruyucuları, telefon kılıfları ve çantalar gibi ürünler üretmektedir.Güney Kore’de kurulan Spigen Inc. Amerikan merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Faurecia",
+    "description": "Faurecia, 1997 yılında kurulan Faurecia Group bünyesindeki otomotiv koltuk ve iç sistemleri markasıdır.Otomobil üreticileri için koltuklar, iç sistemler (panolar, kapı panelleri, dekoratif unsurlar ve akustik modüller…), emisyon kontrol teknolojileri (egzoz) gibi araçları geliştirir, üretir ve pazarlar.Faurecia Fransa merkezlidir, PSA grubu bünyesindedir.Hissedarları:Peugeot (yüzde 46,3)Oddo BHF Asset Management (yüzde 2,36)Norges Bank Investment Management (yüzde 1,48)The Vanguard Group (yüzde 1,46)Invesco Asset Management Deutschland (yüzde 1,29)BNP Paribas Asset Management France (yüzde 1,23)BlackRock Fund Advisors (yüzde 0,88)JPMorgan Asset Management (yüzde 0,67)Amundi Asset Management (yüzde 0,65)Lyxor International Asset Managemen (yüzde 0,62)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fostex",
+    "description": "Fostex, 1973 yılında Shigeaki Nishimura ve Hiroaki Hagiwara tarafından kurulan Foster Electric Co, Ltd bünyesindeki çok parçalı teyp kaydediciler, dijital multitrack kaydediciler, hoparlör ve hoparlör bileşenleri markasıdır.Apple’ın iPod ve iPhone kulaklık üreticisidir.Foster Electric Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Beyerdynamic",
+    "description": "Beyerdynamic, 1924 yılında Eugen Beyer tarafından kurulan Beyerdynamic GmbH & Co. KG bünyesindeki ses ekipmanları markasıdır.Mikrofon, kulaklık, kablosuz ses sistemleri üreticisidir. Profesyonel kulaklıkları ve mikrofonları kayıt stüdyolarında, sahnede, radyo ve televizyon canlı yayınlarında kullanılır.Beyerdynamic GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Richtek",
+    "description": "Richtek, 1998 yılında kurulan Richtek Technology Corporation bünyesindeki tüketici elektroniği, bilgisayar ve iletişim ekipmanları performansını artırmak için güç yönetimi çözümleri markasıdır.1998 yılında kurulan şirketin Asya, ABD ve Avrupa’da ek ofisleri ile Tayvan’da merkezi vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Feminae",
+    "description": "2015 yılında kurulmuş olan Feminae Cosmetics S.r.l. bünyesinde üretilen cilt bakım ürünleri markasıdır.Feminae Cosmetics S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Pamir",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bm Audio Labs",
+    "description": "2000 yılında kurulmuş olan BM Audio Labs Inc. bünyesindeki hoparlörler ve amplifikatörler markasıdır.Şirket ayrıca ses sistemi entegrasyonu için orijinal ekipman üretimi yapmaktadır.BM Audio Labs Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Venum",
+    "description": "2006 yılında Franck Dupuis ve Jean-Philippe Nguyen tarafından kurulmuş olan Venum S.A. bünyesindeki eldiven, şort, ağızlık, kask, tekmelik ve diğer koruyucu spor ekipmanlar markasıdır.Venum S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Eco Freude",
+    "description": "1972 yılında kurulmuş olan Dirk Rossmann Gmbh bünyesindeki sıvı deterjan, temizlik jelleri, spreyler, bulaşık deterjanları ve çamaşır sabunları gibi doğal içerikli temizlik ürünleri markasıdır.Ürünleri zararlı kimyasallar içermez ve biyolojik olarak parçalanabilir.Dirk Rossmann Gmbh yüzde 60 hisse ile Alman Rossmann ailesi ve yüzde 40 hisse ile Hong Kong merkezli Watson gurubu’na aittir. 2009 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

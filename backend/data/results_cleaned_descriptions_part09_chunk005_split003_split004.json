@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Take Two Interactive",
+    "description": "Take Two Interactive1993 yılında kurulmuş olan Take-Two Interactive Software Inc. bünyesindeki video oyun şirketidir.Take-Two Interactive Software Inc. Amerika merkezlidir.Hissedarları:Carl C. Icahn (yüzde 20,97)Vanguard Group Inc. (yüzde 11,04)Blackrock Inc. (yüzde 7,43)Icahn Enterprises Holdings LP (yüzde 6,78)Public Investment Fund (yüzde 6,66)State Street Corp. (yüzde 5,61)Jpmorgan Chase Co. (yüzde 4,35)Capital World Investors (yüzde 4,22)D E Shaw Valence Portfolios LLC (yüzde 3,80)Capital International Investors (yüzde 3,38)Sac Capital Advisors LLC (yüzde 3,33)Tiger Global Management LLC (yüzde 3,29)Massachusetts Financial Services Co. (yüzde 2,66)Geode Capital Management LLC (yüzde 2,22)Ameriprise Financial Inc. (yüzde 2,21)Strauss Zelnick (yüzde 2,15)Tudor Investment Corp. Et Al (yüzde 2,03)Ubs Asset Management Americas LLC (yüzde 1,90)Karl Slatoff (yüzde 1,87)Invesco Ltd. (yüzde 1,83)Boston Partners (yüzde 1,57)Ben Feder (yüzde 1,51)Viking Global Investors LP (yüzde 1,17)Bessemer Group Inc. (yüzde 1,17)Morgan Stanley (yüzde 1,09)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rokamat",
+    "description": "Rokamat1982 yılında kurulmuş olan Kammerer Gmbh bünyesinde üretilen EIFS ve ETICS, alçıpan konstrüksiyonu, yenileme, beton ve sıva kaplamaları için akıllı makineler, inşaat için çözümler, aksesuar ve yedek parçalar markasıdır.Kammerer Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Stahlkraft",
+    "description": "Stahlkraft2020 yılında kurulmuş olan Ctrl Elektronik ve Bilişim Hizmetleri A.Ş. bünyesinde ithal edilen budama testeresi, dal budama makinesi, kırıcı delici ve kırıcılar, kaynak makinesi, lokma takımı, matkap, polisaj makinesi, somun sıkma makinesi, tırpan, testere, tilki kuyruğu, zincirli ağaç kesme makinesi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Remax Proda",
+    "description": "Proda2018 yılında kurulmuş olan Shenzhen Ruihe Technology Co. Ltd. bünyesinde üretilen güç bankası, kulaklık, cep telefonu aksesuarları markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Shenzhen Ruihe Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bauwelt",
+    "description": "Bauwelt2023 yılında kurulmuş olan BFL Bauwelt Teknik Hırdavat ve Dış Tic. Ltd. Şti. bünyesindeki yapı market markasıdır.Binlerce çeşit nalbur, tesisat ve yapı malzemeleri sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

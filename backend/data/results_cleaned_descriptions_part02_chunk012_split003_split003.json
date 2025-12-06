@@ -1,0 +1,57 @@
+[
+  {
+    "company": "TechFit",
+    "description": "TechFit, 2018 yılında kurulan Adem Dinç Elektronik San. ve Tic. Ltd. Şti. bünyesindeki banyo baskülleri, mutfak terazileri, kişisel bakım ürünleri, elektrikli ev aletleri, isıtıcı ve vantilatörler, askı aparatları ve aydınlatma ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Datakom",
+    "description": "Datakom, 1988 yılında kurulan Datakom Elektronik Mühendislik Ltd. Şti. bünyesindeki jeneratör kontrol, kompresör kontrol, enerji kalitesi ve uzaktan izleme markasıdır.Datakom bünyesinde tasarım, üretim, teknik destek, satış ve satış sonrası hizmetler vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Papilla",
+    "description": "Papilla, 2010 yılında kurulan Al-Co Alüminyum Bakır ve Madencilik San. Tic. A.Ş. bünyesindeki alüminyum tencere ve tava üreticisidir. Garipoğlu Şirketler Topluluğu’na aittir.Ürünlerini Kocaeli’de 5 bin metrekare kapalı, 10 bin metrekare açık alanda üretmektedir. Ürünlerde ihtiyaç duyulan ham alüminyum disk, diğer şirketi Trakya Sanayi A.Ş. tarafından üretilmektedir.Ürünlerinde kaplama için, fırçalama, perde ve püskürtme yöntemlerini kullanmaktadır. Tava ve tencereler; yapışmaz PTFE kaplamalı, yanmaz krom bakalit saplara sahiptir. Tencere ve tava ürünleri yüzde 100 Alüminyum gövdeden oluşmaktadır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-03-05"
+  },
+  {
+    "company": "Fine Food",
+    "description": "Fine Food, 1994 yılında kurulan Biga Kozat Fine Foods Gıda A.Ş. bünyesindeki dondurulmuş meyve-sebze markasıdır.Ürünlerini 700 bin metrekarelik alanda kurulan iki ayrı fabrikada üretmektedir. Üretiminin yüzde 70’ini AB, Uzak Doğu ve ABD’ye ihraç etmektedir.BRC, ISO 9001, ISO 22000, OHSAS 18001, ISO 14001, HELAL GIDA belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SpyFinder",
+    "description": "SpyFinder, 1999 yılında Jeffrey Jurist tarafından kurulan Spy Associates bünyesindeki gizli casus kamera algılama ve sayaç gözetleme ürünleri markasıdır.SpyFinder Pro, ultra parlak LED’ler kullanarak gizli bir kamerayı bulmanızı sağlayan pille çalışan hafif bir cihazdır. Kamera bulunduğunda kullanıcıya vurgulanır ve titreşen parlak bir ışık noktası olarak görünür.Gizli kameranın açık veya kapalı olması, kayıt yapıp yapmaması önemli değildir. Kapalı kameraları da bulur.Geniş ürün hattı Böcek Dedektörleri, GPS Takip Cihazları, Gizli Kameralar, Ses Gözetleme ve Sayaç Gözetleme Ekipmanları’nı içerir.Spy Associates yüzde 100 Amerikan şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

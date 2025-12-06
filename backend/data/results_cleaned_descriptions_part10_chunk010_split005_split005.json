@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Carfia",
+    "description": "1981 yılında kurulmuş olan Koala Innovation Co. Ltd. büyesinde üretilen gözlükler, güneş gözlüğü, kar gözlüğü, spor güneş gözlüğü markasıdır.Koala Innovation Co. Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Yoshiro",
+    "description": "2008 yılında Eromi ailesi tarafından kurulmuş olan NAB Holding A.Ş. iştiraklerinden Baku Electronics bünyesindeki çamaşır makinesi, ızgara, bulaşık makinesi, buzdolabı, dondurucular, el blenderi, elektrikli süpürge, fırın, hava fritözü, kıyma makinesi, klima, mini fırın, mutfak makinesi, pişirme paneli, sabit blender, su ısıtıcısı, su sebili, televizyon ve aksesuarları markasıdır.NAB Holding A.Ş. İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Palamidas",
+    "description": "2006 yılında kurulmuş olan Palamidas Zeytin Zeytinyağı Gıda Mad. Tar. Ür. İnş. Taah. Tur. San. ve Tic. Ltd. Şti. bünyesinde üretilen natürel sızma zeytinyağı, zeytin, sabun markasıdır.ISO 9001, ISO 22000, Helal Belgelerine sahiptir.Firma Manisa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Reagain",
+    "description": "2022 yılında kurulmuş olan Kuzey Naturel Kozmetik ve Makina San. Tic. Ltd. Şti. bünyesinde üretilen cilt, saç bakımı ürünleri, güneş koruma ürünleri markasıdır.Ürünleri sülfat, paraben ve SLS içermez. Hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mounty",
+    "description": "2014 yılında kurulmuş olan Özaktaç A.Ş. bünyesindeki bisiklet markasıdır.Firma İstanbul merkezlidir. Gebze’de üretim tesisine sahiptir. Ürünlerini bir çok ülkeye ihraç etmektedir.Bünyesindeki Markalar;ChampionsCherryColoradoFoldoFoldo-UrbanoForeverGokidyJolieJupcargoKidzyKreuzerKroneMoniqueMountyPet-Love",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

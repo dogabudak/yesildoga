@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Wiesheu",
+    "description": "Wiesheu, 1973 yılında kurulan Wiesheu Gmbh bünyesinde üretilen endüstriyel fırınlar markasıdır.Şirket, yıllar içinde mağaza içi fırınlarda ve kombi buharlı pişirici üretiminde uzmanlaşmıştır.Wiesheu Gmbh Almanya merkezlidir. Ürünlerini Almanya’da birkaç yerde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Acrychem",
+    "description": "Acrychem, 2017 yılında kurulan Akrikem Kimya San. Tic. A.Ş. bünyesinde üretilen akrilik mastikler, silikonlar, pu köpükler, pu mastikler, hibrit mastik ve yapıştırıcılar, yapıştırıcılar markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Assa Abloy",
+    "description": "Assa Abloy, 1994 yılında Assa firması ile Abloy’un birleşmesiyle kurulan Assa Abloy AB bünyesindeki kilitler, silindir, elektromekanik ürünler, güvenlik kapıları ve kapı çerçeveleri markasıdır.Assa Abloy AB İsveç merkezlidir. 70’in üzerinde ülkede faaliyet gösteren şirket Türkiye’de ASSA ABLOY Kilitleme Sistemleri San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Roi Kilit",
+    "description": "Roi Kilit, 2019 yılında kurulan Roi Dış Tic. Ltd. Şti. bünyesindeki kapı kilitleri, kapı kolları, menteşeler, asma kilitler markasıdır.Firma İstanbul merkezlidir. Ürünlerini 3 bin 500 metrekarelik tesisinde üretmekte ve başta Ortadoğu olmak üzere Afrika ülkelerine ihraç etmektedir.Bünyesindeki markalar;Art LifeRoi Kilit",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alpenliebe",
+    "description": "Alpenliebe, 2001 yılında kurulan Perfetti Van Melle Group B.V. bünyesinde üretilen karamel, kahve ve çikolata lezzetlerinde şekerleme markasıdır.Perfetti Van Melle Group B.V. Hollanda merkezlidir. Dünyada yaklaşık 30 ülkede bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

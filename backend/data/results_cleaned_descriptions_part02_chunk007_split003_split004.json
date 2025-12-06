@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Open DNS",
+    "description": "OpenDNS, 2006 yılında Amerikalı eski bir hacker(bilgisayar korsanı) David Ulevitch tarafından duyuruldu. OpenDNS ve EveryDNS’nin kurucusudur.OpenDNS genel kullanımı yasaklı sitelere erişim, kimlik gizleme veya aile paketi amacıyla kullanılırlar.DNS, her sitenin dijital adresini içeren bir internet rehberidir. Web adresine her girildiğinde, tarayıcı onu DNS sisteminde arar. En yakın DNS sunucusu ne kadar hızlı çalışırsa, site de o kadar hızlı açılır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "FYM Bagno",
+    "description": "FYM Bagno, 2000 yılında kurulan Öncü Banyo Mobilyaları San. Tic. Ltd. Şti. bünyesindeki banyo mobilyaları, banyo bataryaları, banyo aksesuarları, otel serileri markasıdır.İstanbul’da 7 bin metrekare kapalı, 3 bin metrekare açık alana kurulu üretim tesisinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nippon Life",
+    "description": "Nippon Life, 1889 yılında Sukesaburo Hirose tarafından temelleri atılan Nippon Life Insurance Company bünyesindeki gelir bazında en büyük özel hayat sigortası şirketidir.Genel sigorta, Hayat sigortası, Sağlık sigortası hizmetleri vermektedir.Nippon Life Insurance Company Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Gilera",
+    "description": "Gilera, 1909 yılında Giuseppe Gilera tarafından kurulan motosiklet markası 1969 yılında Piaggio tarafından satın alındı.Piaggio şirketi ilk kez 1946 yılında; araba, motosiklet, scooter ve uçak üretti.2011 yılından beri Piaggio marka Ticari Araçların Türkiye genel dağıtıcılığını Aytok Şirketler Grubu yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2019-09-28"
+  },
+  {
+    "company": "Indian",
+    "description": "Indian, 1901 yılında George M. Hendee ve Oscar Hedstrom tarafından kurulan Indian Motorcycle Manufacturing Company bünyesindeki motosiklet markasıdır.2011 yılında Polaris Industries, Indian Motorcycles’ı satın aldı.1954 yılında kurulan Polaris Industries Amerika merkezli motosiklet, kar motosikletleri, tüm arazi araçları, moto-roadsters, ticari araçlar, ultra hafif taktik araçlar ve aksesuar üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

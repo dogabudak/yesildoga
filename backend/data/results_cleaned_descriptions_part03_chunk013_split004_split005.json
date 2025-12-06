@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Cognizant Technology",
+    "description": "Cognizant Technology, 1994 yılında Kumar Mahadeva, Francisco D’Souza tarafından kurulan Cognizant Technology Solutions Corporation bünyesindeki dijital, teknoloji, danışmanlık ve operasyon hizmetleri de dahil olmak üzere BT hizmetleri markasıdır.Cognizant Technology Solutions Corporation çok uluslu bir Amerikan şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Panda Boya",
+    "description": "Panda, Muradlı-M MMC bünyesinde üretilen boya markasıdır.Üretilen ürünlerin bileşimi, Amerika, Almanya, Fransa, İtalya, Brezilya, Türkiye, Rusya gibi ülkelerden kimyasal hammaddeler kullanılarak birinci kalitede hazırlanmaktadır. ISO 9001 belgesine sahiptir.Panda Boya Azerbaycan’da üretilmektedir. Ürünlerini 10’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Claber",
+    "description": "Claber, 1969 yılında kurulan Claber SpA bünyesinde üretilen sulama ve bahçecilik ürünleri markasıdır.Ürün yelpazesi su zamanlayıcı, hortum arabaları ve makaraları, DIY sulama, sulama sistemi, damla sulama, yer üstü sulama ve yeraltı sulama gibi ürünlerden oluşmaktadır.Claber SpA İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "3keego",
+    "description": "3keego, 1976 yılında kurulan Shajeng Hardware Co., Ltd. bünyesinde üretilen kesme aletleri markasıdır.Shajeng Hardware Co, LTD veya 3keego olarak da bilinen yüksekÜrün yelpazesinde donanım tasarım ve tungsten karbür uçlu anüler kesici, yüksek hızlı çelik anüler kesici ve manyetik sondaj makineleri yer almaktadır.Shajeng Hardware Co, LTD Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Agromak",
+    "description": "Agromak, 1999 yılında kurulan Agromak Makine İmalat Sanayi ve Ticaret A.Ş. bünyesindeki çapalama makineleri, özel maksatlı römorklar ile her çeşit bahçe ekipmanı markasıdır.Bünyesindeki markalar:ChefFentoxHobimakHobisanMaestroTechnosTekfenTurboYaprak",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Detech Dental",
+    "description": "Detech, 2002 yılında kurulan Demirtaş Diş Deposu Sanayi ve Dış Ticaret Ltd. Şti. bünyesindeki dental sektörü için üretilen sarf malzeme ve cihazları markasıdır.Demirtaş Diş Deposu, Ankara’da kurulurken, 2015 yılında üretim tesisini kurarak üretime geçip 2016 yılında CE, ISO 9001 ve ISO 13485 belgelerini almıştır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cemalim",
+    "description": "Cemalim, 1975 yılında kurulan Has Ceylan Peynircilik Gıda San. ve Tic. Ltd. Şti. bünyesindeki peynir, zeytin, reçel çeşitleri ve salam markasıdır. Has Ceylan Peynircilik, Ceylan Ailesine aittir.Perakende ve profesyonellere yönelik ürünleriyle faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jelibon",
+    "description": "Jelibon, 1987 yılında Türkiye’nin ilk ve tek jelli şekeri olarak üretildi. Jelibon, 2012 yılında Thomas H. McInnerney tarafından kurulan Mondelez International bünyesindeki jelli şeker markasıdır.Mondelez dünyanın yaklaşık 180 ülkesine ürünlerini satmaktadır. Amerika merkezli Mondelez International, Türkiye’de Kent Gıda Maddeleri Sanayi ve Ticaret A. Ş. olarak faaliyet gösteriyor. Türkiye’de 85 bin metrekare kapalı alanı olan önemli bir üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Eskipazar Maden Suyu",
+    "description": "Eskipazar, 1975 yılında kurulan içecek üreticisi DyDo Group Holding bünyesinde bulunan şirketlerden; DyDo Drinco Inc. tarafından 2016 yılında satın alınan maden suyu markasıdır. Maden suyu Karabük Eskipazar’dan üretilmektedir.DyDo Drinco içecek şirketi Japonya merkezlidir. Japonya’da 280 binden fazla otomatla tüketicilere alkolsüz içecek çeşitleri sunmaktadır. Bünyesinde içecek üretici şirketi ve kuru meyve tatlı üreticisi yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Dawlance",
+    "description": "Dawlance, 1980 yılında Bashir Dawood tarafından kurulan buzdolabı, klima, mikrodalga fırın, su sebili, çamaşır makinesi, derin dondurucu markasıdır.Dawlance’ın üç fabrikası, Pakistan’da bulunmaktadır.Dawlance, 2016 yılında Arçelik tarafından satın alınmıştır.Arçelik, 1953 yılında Vehbi Koç ve Lütfi Doruk tarafından kurulmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

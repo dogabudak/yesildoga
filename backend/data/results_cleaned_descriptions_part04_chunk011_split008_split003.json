@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Kores",
+    "description": "Kores, 1887 yılında kurulan Kores Gmbh bünyesinde üretilen işaretleme, düzeltme, damga, etiket, karbon kağıdı, kendinden yapışkanlı bantlar, kendinden yapışkanlı notlar, ofis aksesuarları, renkli kalemler, yapıştırıcılar, yazıcı sarf malzemeleri, okul, ev ve ofis ürünleri markasıdır.Kores Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Bonabant",
+    "description": "“Bonabant“1989 yılında kurulmuş olan Aykut Gıda Tic. Ltd. Şti. bünyesinde üretilen akrilik bant, ısıyla eriyen bant, baskılı bant, streç film ve jumbo rulo markasıdır.ISO 9001, ISO 22000, TSE belgelerine sahiptir.Firma Mersin merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-11-09"
+  },
+  {
+    "company": "Sanabelle",
+    "description": "Sanabelle, 1885 yılında kurulan Bosch Tiernahrung Gmbh & Co. Kg bünyesinde üretilen hayvan maması markasıdır.Şirketin iş kolu, hayvanlar ve tavuklar için hazırlanmış yemlerin ve yem malzemelerinin üretimini içerir.Bosch Tiernahrung GmbH & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Serfloor",
+    "description": "Serfloor, 1978 yılında kurulan Serfleks Yer Karoları San. Tic. ve Turz. A.Ş. bünyesindeki yer ve duvar döşeme malzemeleri markasıdır.Pvc rulo ve karo yer döşemeleri, lamine ve laminat parke, banyo paspası, jel tabanlı kaymaz yolluk, kıvırcık paspas, çim halı ve süpürgelik çeşitlerinin yanı sıra parça halı ve duvardan duvara halı üretmektedir. Tüm ara hammaddeler kendi tesislerinde üretilmektedir.Bünyesindeki markalar;AquafloorMinefloSerfloor",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Miamor",
+    "description": "Miamor, 1982 yılında Roswitha ve Joachim Finnern tarafından kurulan Finnern Gmbh & Co. Kg bünyesindeki kedi, köpek maması markasıdır.Firma Tayland’dan balık parçaları, Kanada’dan turta, Yeni Zelanda’dan saf kuzu eti, İrlanda’dan tavuk ürünleri, Norveç’ten et alarak üretim yapmaktadır.Finnern GmbH & Co. KG Almanya merkezlidir.Bünyesindeki markalar;KattovitMiamorReddyRintiSchmusy",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bericap",
+    "description": "Bericap, 1926 yılında kurulan Jacob Berg GmbH bünyesindeki platsik ürünler markasıdır.İçecek, gıda ve sanayi sektörü için plastik kapakların önde gelen üreticilerindendir. Ürünlerini 70 ülkeye ihraç etmektedir. Dünya plastik kapak üretiminin yüzde 10’unu üretmektedir.1980 yılında Jacob Berg GmbH şirketinin çoğunluk hisselerini Fransa merkezli RICAL SA satın aldı.Türkiye pazarına 1998 yılında girdi. Gebze’deki Bericap tesisleri, grubun 17 fabrikası arasında 3. büyük üreticidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mustang Jeans Kot",
+    "description": "Mustang Jeans, 1987 yılında kurulan Gözalan Şirketler Grubu bünyesindeki spor giyim ve ayakkabı markasıdır.Temelleri 1969 yılında Almanya’da atılan Gözalan Group, 1987 yılında Türkiye’ye giriş yapmıştır. 50’den fazla mağazası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mountain Hardwear",
+    "description": "Mountain Hardwear, 1993 yılında kurulan Richmond California bünyesindeki dış giyim ve spor giyim markasıdır.Richmond, Paul Lamfrom tarafından kurulan Columbia Sportswear Company bünyesindedir.Columbia Sportswear Company Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Leatherman",
+    "description": "Leatherman, 1983 yılında kurulan Leatherman Tool Group, Inc. bünyesindeki çoklu araçlar ve katlanır bıçaklar markasıdır.Leatherman markalı ürünler 82 ülkede satılıyor.Ayrıca firma bünyesinde ışık markası LED Lenser yer almaktadır.Leatherman Tool Group Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Victorinox",
+    "description": "Victorinox, 1884 yılında kurulan Victorinox AG bünyesindeki bıçak markasıdır.Victorinox markası bıçaklardan saatlere, yazı gereçlerine, valizlere ve hatta süs eşyalarına kadar ürün içermektedir.Victorinox AG İsviçre merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2021-03-23"
+  }
+]

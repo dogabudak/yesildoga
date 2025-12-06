@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Viomi",
+    "description": "Viomi, Viomi Technology Co. Ltd. bünyesindeki su arıtıcıları, buzdolabı, fan, su sebili, su ısıtıcıları ve çamaşır makineleri gibi nesnelerin interneti özellikli ev ürünleri markasıdır.Viomi Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-01-05"
+  },
+  {
+    "company": "Auto Finesse",
+    "description": "Auto Finesse, 1999 yılında kurulan Auto Finesse Ltd. bünyesinde üretilen araç bakım ve ayrıtılandırma ürünleri, temizleyiciler, cilalar, mumlar, aksesuarlar markasıdır.Auto Finesse Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bebegen",
+    "description": "Bebegen, 2009 yılında kurulan Gürler Global Mağazacılık San. ve Tic. A.Ş. bünyesindeki 0-2 yaş arası çocuk ürünleri markasıdır.Yeni doğan setleri, mevlüt takımları, hediyelik ürünler, bornoz setleri gibi pek çok bebek ürünü sunmaktadır.Düzce’de yüzde yüz yerli üretim yapan yerli sermayeli firmadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "BabyBird",
+    "description": "BabyBird, Vizyontıp Sağlık Ürünleri İth. ve İhr. Ltd. Şti. bünyesinde ithal edilen bebek bakım çantası, bebek damlalık aparatı, bebek fırçası, bebek tırnak törpüsü, bebek tırnak makası, burun aspiratörü, dijital ateş ölçer, makas, tarak markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "PAW Patrol",
+    "description": "PAW Patrol, 1994 yılında kurulan Spin Master Inc. bünyesindeki çocuk animasyon film ve oyuncakları markasıdır.Arama ve kurtarma köpeklerinden oluşan bir ekibin hikâyesinden ürünler üretilmektedir.Spin Master Inc. Kanada merkezli oyuncak ve eğlence şirketidir.Bünyesindeki markalar;Abby HatcherAir HogsAngry BirdsBakugan Battle BrawlersBella DancerellaBunchemsFingerlingsFlush ForceHatchimalsHow to Train Your DragonKitten Catastrophe CrewLittle CharmersMasha and the BearMickey Mouse ClubhouseMonster JamNascarOwleezPAW PatrolPJ MasksPeppa PigRusty RivetsSick BricksStar WarsTeenage Mutant Ninja TurtlesThe Powerpuff GirlsThe WigglesZhuZhu Pets",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mazda",
+    "description": "“Mazda“1920 yılında Jujiro Matsuda tarafından kurulmuş olan Mazda Motor Corporation bünyesinde üretilen binek otomobil ve ticari araçlar markasıdır.Ürünleri arasında dört tekerlekli araçlar, benzinli pistonlu motor, dizel motor, araçlar için otomatik ve manuel şanzımanlar, kamyon, takım tezgahı ve döküm malzemeleri yer almaktadır.Mazda Motor Corporation Japonya merkezlidir.Hissedarları:The Master Trust Bank Of Japan Ltd. (yüzde 17,1)Custody Bank Of Japan Ltd. (yüzde 5,4)Toyota Motor Corporation (yüzde 5,1)Jpmorgan Securities Japan Co. Ltd. (yüzde 2,4)State Street Bank West Client (yüzde 1,8)State Street Bank And Trust Company (yüzde 1,5)Jp Morgan Chase Bank (yüzde 1,3)Mitsubishi Ufj Morgan Stanley Securities Co. Ltd. (yüzde 1,2)State Street Bank And Trust Company (yüzde 1,1)Sumitomo Mitsui Banking Corporation (yüzde 1)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2024-12-01"
+  },
+  {
+    "company": "Ainol",
+    "description": "Ainol, 2004 yılında kurulan Shenzhen Ainol Electronics Co., Ltd. tüketici elektroniği üretim ve dağıtım şirketidir.Ainol markası altında ürünler satılırken, aynı zamanda diğer markalar için OEM üretim yapıyor.Firma Android tablet bilgisayarlarda ve phablets’de uzmanlaşmıştır.Ainol Çin merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Reeder",
+    "description": "Reeder2009 yılında Sezen Saral ve Uygar Saral tarafından kurulmuş olan Reeder Teknoloji San. ve Tic. A.Ş. bünyesinde üretilen tablet, akıllı telefon, bilgisayar, ev elektroniği markasıdır.2018 yılında Çin’den stratejik ortak alarak 600 bin adet telefon, tablet ve akıllı saat üretim kapasiteli fabrikasını Samsun’da kurmuştur. Üretilen cihazların yerlilik oranı yüzde 55’ten daha fazla ve ürünler Türk malı mührü taşımaktadır. Ayrıca yüzde 80 yerlilik oranıyla elektrikli otomobil üretimine başlayacak.Firma İstanbul merkezlidir.Hissedarları:Uygar Saral (yüzde 29,39)Müşerref Sezen Saral (yüzde 19,75)Fatma Sibel Çöl (yüzde 13,1)Aziz Köseoğlu (yüzde 5,27)Dİğer (yüzde 32,49)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-10-05"
+  },
+  {
+    "company": "Topcon",
+    "description": "Topcon, 1932 yılında kurulan Topcon Corporation bünyesindeki arazi ölçüm, hassas konum belirleme, 3 boyutlu yersel lazer tarayıcı, mobil haritalama sistemleri, fotogrametrik yazılım – donanım ve diğer haritacılık, mimari cihazların markasıdır.Topcon Corporation Japonya merkezli şirkettir. Türkiye temsilcisi Paksoy Teknik Hizmetler ve Tic. Ltd. Şti.’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Memphis One",
+    "description": "Memphis One, 1913 yılında Heinrich Deichmann tarafından kurulan Deichmann bünyesindeki ayakkabı markasıdır.Türkiye’de Deichmann Ayakkabıcılık San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.Deichmann 26 ülkede 3 bin 857 şube ile hizmet veren bir Alman aile şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

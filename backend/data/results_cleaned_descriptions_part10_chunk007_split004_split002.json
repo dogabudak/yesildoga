@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Brakco",
+    "description": "2005 yılında kurulmuş olan Brakco Technology Co. Ltd. bünyesinde üretilen bisiklet fren pabucu, fren balatası, rotor, adaptör, hortum, kartuş, hidrolik ve mekanik parçalar, civatalar markasıdır.Brakco Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "CH-Alpha",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Alfasilin",
+    "description": "1901 yılında kurulmuş olan Teva Pharmaceutical Industries Ltd. bünyesindeki antibiyotik markasıdır.Teva Pharmaceutical Industries Ltd. İsrail merkezlidir. 30’dan fazla ülkede 60’tan fazla üretim tesisine sahiptiri. 2007 yılından beri Türkiye’de Teva İlaçları San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Kadundi",
+    "description": "2018 yılında kurulmuş olan Fujian Kadundi Network Technology Co. Ltd. bünyesinde üretilen evcil hayvan taşıyıcı sırt çantası ve seyahat arabası, yalıtımlı yemek çantası, soğutma çantası, çift bölmeli, su geçirmez, sızdırmaz, omuz askılı soğutucu çanta, çok amaçlı spor çantaları, sırt çantaları, kitap çantaları markasıdır.Fujian Kadundi Network Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hemani Herbal",
+    "description": "1949 yılında kurulmuş olan Hemani Herbal LLC bünyesindeki bitkisel çaylar, bitkisel yağlar, parfümeri, bal çeşitleri, masaj ve ağrı kesici, bitkisel sabunlar, zayıflama ve fitness ürünleri, kına, saç bakımı ve cilt bakımı ürünleri markasıdır.ISO 9001, ISO 14001, ISO 18001, Helal ve ESMA belgelerine sahiptir.Hemani Herbal LLC BAE merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  }
+]

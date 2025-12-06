@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kewesta",
+    "description": "Kewesta, 1971 yılında kurulan Kewesta Gmbh bünyesinde üretilen zincirler ve tahrik teknolojileri için malzeme taşıma sistemleri ve bileşenler markasıdır.Şirket içi malzeme akışı için sürekli olarak gelişmiş ve ağırlıklı olarak malzeme taşıma sistemleri üretmektedir.Konveyör sistemleri için teslimat, kurulum ve tam teknik servise kadar geniş bir yelpazede malzeme taşıma çözümü sağlamaktadır.Kewesta Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Güres",
+    "description": "Güres, 1938 yılında Ahmet Remzi Güres tarafından temelleri atılan Güres Tavukçuluk Üretim Paz. ve Tic. A.Ş. bünyesinde üretilen yumurta, yem, gübre, viyol, kafes ve ekipman ürünleri markasıdır.Manisa merkezli Güres Group, 700 bin metrekarelik açık, 250 bin metrekarelik kapalı alanda üretim yapmaktadır ve ürünlerini ihraç etmektedir.Bünyesindeki markalar;BıldırcımEcormix Organomineral GübreEhilGüresGüresgesGürgübreKekik 100 Özlenen TavukLikidoOmletciOmletteTavsuZeyola",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Utalk Kurtsan",
+    "description": "Utalk Kurtsan, 1955 yılında Niyazi Kurtsan tarafından kurulan Kurtsan Holding A.Ş. bünyesinde üretilen pudra, tıbbi flasterler, yara bantları ve hastane malzemeleri markasıdır.Ürünlerini Balıkesir’de üretmekte ve 25 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Juicemaster Professional",
+    "description": "Juicemaster Professional, 1957 yılında Urs Pflüger tarafından kurulan Thielmann Rotel International Gmbh bünyesinde üretilen meyve suyu sıkacağı markasıdır.Thielmann Rotel International Gmbh İsviçre merkezlidir ve ürünlerini İsviçre ve Avrupa’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Optilice",
+    "description": "Optilice, 2001 yılında iki şirketin birleşmesiyle kurulan Optimar AS bünyesindeki kimyasal madde veya ilaç kullanmadan deniz biti giderici markasıdır.Firma gemiler, kara bazlı fabrikalar ve balık yetiştiriciliği endüstrisi için uyarlanmış balık işleme çözümleri ve işleme ekipmanları sunmaktadır.Norveç’te faaliyet gösteren Optimar AS, 2017 yılında Almanya merkezli Haniel Group’un bir parçası oldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Soudal",
+    "description": "Soudal, 1966 yılında Vic Swerts tarafından kurulan Soudal Group bünyesinde üretilen yapıştırıcılar, poliüretan köpük, hibrid polimer, teknik aerosol, kimyasal yapı ürünleri, silikon, sprey köpük yalıtımı, pencere sistemi, yangın yalıtım çözümleri, su geçirmez sızdırmazlık çözümler, bantlar markasıdır.Soudal Group, Avrupa’nın en büyük bağımsız sızdırmazlık, yapıştırıcı ve poliüretan köpük üreticisidir ve yüzde 100 Belçikalı aile şirketidir.Dünya çapında 130’dan fazla ülkede hizmet sunar ve 11 üretim tesisi ile dünya çapındaki 35 bağlı kuruluşuyla lojistik desteği sunuyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Zoom Uygulaması",
+    "description": "Zoom, 2011 yılında Eric Yuan tarafından kurulan Zoom Video Communications, Inc. bünyesinde üretilen bulut video konferanslarını, basit çevrimiçi toplantıları ve grup mesajlaşmasını tek bir platformda biraraya getiren uygulamadır.Windows, Mac, Linux, iOS, Android, Blackberry, Chrome OS, Zoom Rooms konferans sistemi ve H.323/SIP oda sistemleri genelinde video, ses ve ekran paylaşım deneyimini sunar.Zoom Video Communications, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Efsina",
+    "description": "Efsina, 1982 yılında kurulan Estuz Eskişehir Tuz Gıda San. ve Tic. A.Ş. bünyesinde üretilen kaya tuzu, deniz tuzu, himalaya tuzu markasıdır.Tüm ürünlerini ISO 22000 ve ISO 9001 Kalite Yönetim Sistemine uygun ve yüzde 100 doğal olarak hazırlamaktadır.Tuzun en sağlıklısını, doğal, saf ve orijinal olanını dağlar, denizler, kayalardan üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Afacan",
+    "description": "Afacan, Afacan Makine Metal San. Tic. Ltd. Şti. bünyesinde üretilen bükme el aletleri, bükme makineleri, çift kanallı etriye kıvırma kolu, daire testere kesim makinesi, demir bükme anahtarı, demir bükme makinesi, demir kesme makinesi, demir makası, demir profil kesme makinesi, dişli etriye kıvırma kolu, e köşe kavisli etriye kıvırma kolu, el makaslari, emir makasi, etriye kıvırma kolu, gönye (pilye) aparatı, gönye (pilye) bükme aparatı, inşaat demir kesme makinesi, karo parke taşı kesme makası, kesme, kesme makinesi, köşe kavisli etriye kıvırma kolu, metal profil kesme makinası, parke taşı kesme, portatif demir bükme makinesi, portatif demir kesme makinesi, portatif demir makası, pratik etriye kıvırma kolu, profil kesme, yer tutucu markasıdır.Afacan Makine ürünlerini 10 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ezel Deterjan",
+    "description": "Ezel, 1989 yılında kurulan BSK Grup Kimya Ltd. bünyesinde üretilen toz deterjan, temizlik ürünleri markasıdır.BSK, deterjan, çamaşır ve ev bakım ürünleri, kozmetik ürünler, aeresol grubu ürünler, ıslak mendil ürünleri üretmektedir. Yıllık üretim kapasitesi, 20 bin ton toz deterjan, 18 bin ton sıvı temizlik ve kozmetik ürünleridir. Ürünlerini 45’in üzerinde ülkeye ihraç etmektedir. ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Bünyesindeki markalar:EzelNeonPamy",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

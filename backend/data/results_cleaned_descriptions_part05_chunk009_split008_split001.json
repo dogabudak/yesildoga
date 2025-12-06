@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Bernette",
+    "description": "Bernette, 1893 yılında kurulan Bernina International AG bünyesindeki dikiş makineleri, elörgü cihazları, ütü silindirleri ve ütü presleri ve aksamı markasıdır.Bernina International AG İsviçre merkezlidir. 80 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Silverstone Tire",
+    "description": "Silverstone Tire, Silverstone Marketing Sdn Bhd. bünyesinde üretilen binek otomobil lastikleri, SUV lastikleri, 4×4 lastikler, hafif, ağır ticari araç lastikleri, endüstriyel makine lastikleri markasıdır.Silverstone Marketing Sdn Bhd. Japonya merkezli Toyo Tire & Rubber Co.’nun bir yan kuruluşudur. Ürünlerini Malezya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Garrett",
+    "description": "Garrett, 1964 yılında Eleanor Garrett tarafından kurulan Garrett Electronics Inc. bünyesinde üretilen metal dedektörleri, güvenlik metal dedektörleri, hobi metal dedektörleri markasıdır.ISO 9001 belgesine sahiptir.Garrett Electronics Inc. Amerika merkezlidir. Ürünlerini Amerika’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Flavel",
+    "description": "Flavel, 1777 yılında kurulan ankastre fırınlar, ankastre ocaklar, bağımsız ocaklar, entegre çamaşır ve bulaşık makinesi, menzilli ocaklar, soğutma, yemek pişirme ürünleri markasıdır.Flavel, 2002 yılında Arçelik A.Ş. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fonemax Tablet",
+    "description": "Fonemax, 2005 Shenzhen Fms Electronic Technology Co. Ltd. bünyesinde üretilen tablet bilgisayar, kablosuz şarj cihazı, televizyon kutusu, gps, bluetooth hoparlör, giyilebilir ürünler markasıdır.Shenzhen Fms Electronic Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

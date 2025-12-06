@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Ted Baker London Ülke",
+    "description": "Ted Baker, 2010 yılında kurulmuş olan Authentic Brands Group LLC. bünyesindeki giyim, çanta, ayakkabı ve aksesuarları markasıdır.Önemli hisse senetleri özel sermaye şirketleri CVC Capital Partners ve HPS Investment Partners’a ait olan marka yönetim şirketi Authentic Brands Group LLC. Amerika merkezlidir.Bünyesindeki markalar;AéropostaleAirwalkArrowBarneys New YorkBrooks BrothersDavid BeckhamDr. JEddie BauerElvis PresleyForever 21FryeGreg NormanHart Schaffner MarxHervé LégerHickey FreemanIzodJones New YorkJudith LeiberJuicy CoutureLucky BrandMarilyn MonroeMuhammad AliNauticaNeil LaneNine WestPrinceReebokShaquille O’NealSports IllustratedSpyderTed BakerThaliaThomasvilleTretornVan HeusenVince CamutoVolcom",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pantofola d’Oro",
+    "description": "Pantofola d’Oro, 1886 yılında kurulmuş olan Pantofola d’Oro SPA bünyesinde üretilen futbol ayakkabısı, giyim ve eğlence ayakkabısı markasıdır.Pantofola d’Oro SPA İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Farm Stay",
+    "description": "Farm Stay, 2007 yılında Myungin Cosmetics Co. Ltd. bünyesinde üretilen kozmetik ürünler, makyaj ürünleri markasıdır.Myungin Cosmetics Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Cadence Audio",
+    "description": "Cadence Audio, 1991 yılında kurulmuş olan Cadence Audio LLP bünyesindeki elektrostatik, hibrit hoparlörler, tüp amplifikatörler, kablolar, optik çalarlar, pikaplar markasıdır.Cadence Audio LLP Hindistan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Anlas Lastik",
+    "description": "Anlas, 1974 yılında kurulmuş olan Anlaş Anadolu Lastik San. ve Tic. A.Ş. bünyesinde üretilen lastikler, kanatlar, lastikler ve havalı yay üreticileri için kürleme mesaneleri ve diğer ara ve bitmiş kauçuk ürünleri markasıdır.Motosiklet, moped, scooter, Go-Arabaları, Arazi Araçları, Golf Arabalar, ATV lastikleri üretmektedir. ISO 9000, ISO 14000, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Düzce’de bulunan fabrikada üretmektedir ve 21 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14000",
+      "ISO 45001",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

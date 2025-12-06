@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Nitromax",
+    "description": "Nitromax, 2006 yılında kurulan 48grup Gıda Kozmetik Turizm İnşaat Madencilik San. ve Tic. Ltd. Şti. bünyesinde üretilen bitkisel esanslı enerji içeceği, kahve, çikolata, kapsül ve bonbon markasıdır.Enerji içeceği ile vitamin ve mineral birleştirilmiştir.İstanbul merkezli firma ürünlerini 6 bin 500 metrekarelik üretim tesisinde üretmekte ve afrodizyak etkili ginseng ürünlerini 40’ın üzerinde ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vakıf Taşdelen Su",
+    "description": "Vakıf Taşdelen Su Nerenin Malı MarkasıVakıf Taşdelen Su, 2016 yılında kurulan Taşdelen Su ve İçecek San. Tic. A.Ş. bünyesinde üretilen doğal kaynak suyu markasıdır.İstanbul merkezli firma Cam Damacana dolumu yapmaktadır. ISO 9001, ISO 22000, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Splenda",
+    "description": "Splenda, 1999 yılında kurulan Heartland Food Products Group, LLC bünyesinde tatlandırıcı markasıdır.Ürün yelpazesinde allulose tatlandırıcılar, kahve kremaları, monk meyve tatlandırıcıları, premium tatlı çaylar, sıvı tatlandırıcılar, stevia tatlandırıcılar, sukraloz bazlı tatlandırıcılar markasıdır.Heartland Food Products Group LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mizon",
+    "description": "Mizon, 2015 yılında kurulan Pfd Co. Ltd. bünyesinde üretilen göz kremi, beyazlatıcı krem, kırışıklık giderici, nemlendirici krem, saç maskesi markasıdır.Pfd Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Stada",
+    "description": "Stada, 1895 yılında kurulan STADA Arzneimittel AG bünyesinde üretilen jenerik ilaç markasıdır.Stada Arzneimittel AG’nin hisseleri 2018 yılında Amerika merkezli Bain Capital tarafından satın alındı. Şirket Rusya ve Vietnam’da ikişer, Almanya, Bosna-Hersek, İrlanda, Sırbistan, Karadağ, Çin’de birer üretim tesisine sahiptir. Ürünleri 120 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

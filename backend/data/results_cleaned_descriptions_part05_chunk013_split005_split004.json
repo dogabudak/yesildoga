@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Levorin",
+    "description": "Levorin, 1943 Yılında Hercules Levorin tarafından kurulan Industrial Levorin S/A bünyesinde üretilen sanayi bölgesi ve kaplama malzemeleri için lastikler, bisiklet ve motosikletler için lastik ve tüp markasıdır.Industrial Levorin S/A Brezilya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Focus Weld",
+    "description": "Focus Weld, 2004 yılında kurulan SIMITE Welding Material Co. Ltd. bünyesinde üretilen kaynak malzemeleri markasıdır.Alüminyum alaşımında ve çeşitli çaplarda ve paketlerde mevcut olan alüminyum MIG ve TIG ürünleri sunmaktadır.SIMITE Welding Material Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Winrun",
+    "description": "Winrun, 2000 yılında kurulan Winrun Tyre Co. Ltd. bünyesinde üretilen otomobil, 4X4, SUV ve hafif kamyon lastiği markasıdır.Winrun Tyre Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Düşyeri",
+    "description": "2008 yılında Ayşe Şule Bilgiç tarafından kurulan Düş Yeri Bilişim Teknoloji ve Animasyon A.Ş. bünyesindeki boyama kitapları, puzzle, çocuk oyuncakları, seramik hobi kit, kutu oyunları markasıdır.Firma İstanbul merkezlidirBünyesindeki markalar;ÇukaÖğrenceŞilaAppiAppiiiiAyasAydamayaAyroBebeeBenden KaçmazBilgiselDüş Kurmak Ciddi Bir IştirDüşeviDüşkurDüşyeliDüşyeriDüşyeri Çizgi Film StüdyosuDüşyeri Evde OkulDüşyeri RadyoDüşyeri TvHayal DünyasıKöpüşKalişKulabuzLeliLelikoLikoMayakonOkul Öncesi OkulOkursak OlurOkusun Da Büyüsün!Pakiki Ile BilgiselPepePepeePertcanPisiRenkli Günler GünlüğüRggTersine DünyaTvZulu",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Enerya",
+    "description": "Enerya, 2003 yılında kurulan Enerya Enerji A.Ş. bünyesindeki doğalgaz dağıtım hizmetleri markasıdır.Firma Türkiye’de 10 şehirde 30 yıl süreyle doğal gaz dağıtım lisansına sahiptir.Enerya Enerji A.Ş. 2021 yılında Ahlatcı Holding tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

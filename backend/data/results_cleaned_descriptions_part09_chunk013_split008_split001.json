@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Türker Raf",
+    "description": "",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Viewell",
+    "description": "1992 yılında kurulmuş olan Viewell Inc. bünyesindeki kontakt lensler markasıdır.ISO 13485 ve GMP belgelerine sahiptir.Viewell Inc. Güney Kore merkezlidir.Bünyesindeki markalar;Any-1dayAnydayColor Contact LensColor LensContact LensGreen O2",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Daflon",
+    "description": "Les Laboratoires Servier SAS bünyesindeki hemoroidal semptomlar, ağrı ve huzursuz bacak sendromu için ilaç markasıdır.Les Laboratoires Servier SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Greenada",
+    "description": "2007 yılında Mesut Türk tarafından kurulmuş olan Emtar Gıda Tarım Ürünleri Ltd. Şti. bünyesinde yetiştirilen sebzeler, mini sebzeler, taze baharatlar, ege otları, yapraklanmış yeşillikler, akdeniz marulları, hazır salatalar, yenilebilir çiçekler, saksı baharatlar markasıdır.Sertifikalı tohumlar kullanarak Antalya, Burdur ve Ankara’da üretim yapmaktadır.Firma Antalya merkezlidir ve ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "T-Eagle",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

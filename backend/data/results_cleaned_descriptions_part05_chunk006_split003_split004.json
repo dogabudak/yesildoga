@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dr. Savon",
+    "description": "Dr. Savon Nerenin Malı MarkasıDr. Savon, 2016 yılında kurulan Savon Kozmetik Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen saç bakım ürünleri markasıdır.Ürün içeriğinde sles, sls, paraben, boya, tuz ve hayvansal madde yoktur. Hayvanlar üzerinde test edilmemiştir.Firma ürünlerini İstanbul’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flirt Eyewear",
+    "description": "Flirt, 1978 yılında kurulan De Rigo S.P.A bünyesindeki gözlük markasıdır.Firma Flirt markasıyla gençlere yönelik gözlükler üretmektedir. Tüm ambalajları geri dönüştürülebilir, kompostlanabilir veya her durumda yeniden kullanılabilir malzemelerden üretilmektedir.De Rigo S.P.A İtalya merkezlidir. Ürünlerini İtalya’da tasarlayarak 85’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bostitch Industrial",
+    "description": "Bostitch Industrial, 1947 yılında kurulan Southerncarlson Inc. bünyesindeki endüstriyel çiviler, zımbalar, karton, halka kapama aletleri, bağlantı elemanları markasıdır.İnşaat bağlantı araçları, paketleme ve tesis malzemeleri üretmektedir.Southerncarlson Inc., 2019 yılında Japonya merkezli Kyocera Industrial Tools Inc. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Bambo Nature",
+    "description": "Bambo Nature, 1953 yılında kurulan Abena A/S bünyesinde üretilen bebek bezleri, gece pantolonu, bebek cilt bakım ürünleri, ıslak mendil, tek kullanımlık bebek yatağı markasıdır.Cilt ve çevre dostu çocuk bezleri ve bebek ürünleri üretmektedir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.Abena A/S Danimarka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Lyncmed",
+    "description": "Lyncmed, 2015 yılında kurulan Lyncmed Medical Technology Co. Ltd. bünyesinde üretilen tıbbi sarf malzemeleri markasıdır.Sağlık, tıbbi tek kullanımlık ürünler, tıbbi sarf malzemeleri, nitril eldivenler, dokunmamış ürünler, dişçilik, yara bakımı ve enfeksiyon kontrol kıyafetleri ürünlerine sahiptir.Lyncmed Medical Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Firmanın Türkiye’de şubesi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

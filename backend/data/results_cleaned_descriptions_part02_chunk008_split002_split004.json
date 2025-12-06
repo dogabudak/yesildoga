@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Tomas Maier",
+    "description": "Tomas Maier, 1997 yılında Tomas Maier ve iş ortağı Andrew Preston ile birlikte kendi adını taşıyan erkek ve kadın hazır giyim ve aksesuarları markasını kurdu..Tomas Maier Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sava",
+    "description": "Sava, 1921 yılında kurulan lastik markasıdır.Sava markalı lastikler Slovenya’da (Sava), Polonya’da (Debica), Fransa’da (Goodyear ve Dunlop tarafından), Türkiye’de (Goodyear tarafından) ve Almanya’da (Fulda ve Dunlop tarafından) üretilmektedir.2004 yılında Sava lastiklerini Amerika merkezli Goodyear satın aldı ve şirketin adını Goodyear Dunlop Sava Tires olarak değiştirdi.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alligator",
+    "description": "Alligator, 1920 yılında kurulan farklı araç tipleri için valfler, lastik basıncı izleme sistemleri ve ilgili alet ve aksesuarlar markasıdır.Ürünleri 60’tan fazla ülkeye pazarlanmaktadır.Alligator 2019 yılında, Wegmann Unternehmens-Holding GmbH & Co. KG’nin bir parçası olan Almanya merkezli Wegmann Automotive Gmbh tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2021-08-06"
+  },
+  {
+    "company": "Manitou Ülke",
+    "description": "Manitou, 1957 yılında Marcel Braud tarafından kurulan Groupe Manitou bünyesindeki arazi sabit, dönen ve ağır yük telehandlers, tüm arazi, yarı endüstriyel ve endüstriyel direkli forklift kamyonlar, tekerlek veya parça patinaj-steer yükleyiciler, erişim platformları, kamyon monte forklifts, depolama ekipman ve ekleri gibi ağır ekipman markasıdır.Manitou Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tinactin",
+    "description": "Tinactin Sprey ürününün ruhsat sahibi ASSOS İlaç, Kimya, Gıda Ürünleri Üretim ve Tic. A.Ş.’dir.Tinactin Sprey, Schering Plough Healthcare Products adına Access Business Group LLC şirketi tarafından Amerika’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

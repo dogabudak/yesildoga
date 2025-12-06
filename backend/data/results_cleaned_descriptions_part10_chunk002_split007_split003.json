@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Pelmen Mantı",
+    "description": "",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tailleur",
+    "description": "Tailleur Zhejiang Fusai Sewing Equipment Trading Co. Ltd. bünyesinde üretilen dikiş makineleri, overlok makinesi, kilitleme makinesi, kesici makaslar markasıdır.Tailleur Zhejiang Fusai Sewing Equipment Trading Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bonga",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flash Kaminblock",
+    "description": "1984 yılında kurulmuş olan Boomex Gmbh bünyesinde üretilen kömür ve barbekü ateş yakıcı ürünler, barbekü ve şömine aksesuarları, yağ sobaları ve katı yakıtlar için ürünler markasıdır.Boomex Gmbh Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Woodys Eyewear",
+    "description": "2013 yılında kurulmuş olan Woodys Bcn S.L. bünyesindeki güneş gözlükleri markasıdır.Woodys Bcn S.L. İspanya merkezlidir ve ürünlerini 75’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

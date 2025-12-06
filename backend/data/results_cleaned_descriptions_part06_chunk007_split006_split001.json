@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Zwaluw",
+    "description": "Zwaluw, 1974 yılında kurulan Bostik Benelux B.V. bünyesindeki su bazlı akrilik mastik, slikon, poliüretan köpük markasıdır.Firma inşaat ve sanayi sektörleri için sızdırmazlık malzemeleri, yapıştırıcılar, poliüretan köpük ve teknik sprey üretmektedir.Bostik Benelux B.V. 2016 yılından Fransa merkezli Arkema S.A. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Kali Audio",
+    "description": "Kali Audio, 2018 Kali Audio Inc. bünyesinde üretilen hoparlör sistemi, ses ürünleri markasıdır.Firma ses ürünleri tasarlamak için müzik, film ve eğlence sektörlerindeki ortaklarla yakın işbirliği içinde çalışır.Kali Audio Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tempur",
+    "description": "Tempur, 2012 yılında kurulan Tempur Sealy International Inc. bünyesinde üretilen yatak, yastık, uyku maskesi, oturma minderi, sırt destek minderi ve yastığı gibi çeşitli uyku aksesuarları markasıdır.Ürünleri yüksek yoğunluklu bir viskoelastik süngerden oluşur.Tempur Sealy International Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Halsa Yatak",
+    "description": "Halsa Yatak, 2015 yılında Hasan Erendemir tarafından kurulan Halsa Sweden Mobilya San. Tic. A.Ş. bünyesindeki yatak uyku ürünleri markasıdır.Minderi, GOTS belgeli organik pamuğa sahiptir. Ürünleri İsveç’te üretilmektedir.Hasan Erendemir tarafından İsveç’te satın alınan Halsa Sangar AB firmasına ait fabrikada üretilen tüm ürünler Türkiye’de satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Next Giyim",
+    "description": "Next, 1864 yılında Joseph Hepworth tarafından kurulan Next PLC bünyesindeki giyim, ayakkabı ve ev ürünleri perakende markasıdır.Yaklaşık 700 mağazaya sahiptir.Next PLC İngiltere merkezlidir.Bünyesindeki markalar;NextNext Direct",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

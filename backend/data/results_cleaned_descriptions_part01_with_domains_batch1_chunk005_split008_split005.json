@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Duru Sabun",
+    "description": "Duru, 1967 yılında Mehmet Rıfat Evyap tarafından kurulan Evyap bünyesinde; sabun, duş jeli, kolonya ve şampuan olarak üretilen markadır.Evyap 1927 yılında kurulan Evyap; Sabun, Yağ, Gliserin Sanayi ve Ticaret A.Ş. sabun ve kişisel bakım ürünleri üreten bir Türk firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clever Cutter",
+    "description": "Clever Cutter, 1987 yılında John Ronan tarafından Amerika’da kurulan Ronan Tools bünyesindedir ve ürünler Çin’de üretilmektedir.Ronan Tools ürünlerinin tümü şirketin sahibi John Ronan tarafından icat edildi. Ürünler patentli ve benzersiz olarak günlük ihtiyaçlar için tasarlanmıştır.Ronan Tools’un popüler kesme aletleri:Clever CutterMulti-CutPruner Plus",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Eaton Ülke",
+    "description": "Eaton, 1911 yılında Amerikalı işadamı Joseph Oriel Eaton II tarafından kurulan bir enerji yönetim şirketidir.Eaton müşterilerine elektriksel, hidrolik ve mekanik enerjiyi daha verimli, güvenli ve sürdürülebilir bir şekilde yönetmeleri için yardımcı olan enerji verimliliği çözümleri sunar. İrlanda merkezli firmanın ürünleri 175’ten fazla ülkede satılmaktadır.Eaton işletmeleri; Elektrik, Hidrolik, Havacılık ve Uzay, Kamyon ve Otomotiv gibi alanlarda faaliyet gösteriyor.ERTAN SOYDAN A.Ş. çözüm ortağı olduğu EATON VICKERS’teki geniş ürün stoğumuyla her türlü mobil ve endüstriyel hidrolik ihtiyaçlara kapsamlı ve nitelikli çözümler sunuyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": "2018-10-04"
+  },
+  {
+    "company": "Herbatech",
+    "description": "Herbatech, 2011 yılında kurulan Norm Bitkisel Ürünler Ltd. Şti bünyesinde yer alan bir markadır.Firmanın bünyesindeki markalar:Norm BitkiselLaciniaPatinaHerbatechWess",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "WELKUT",
+    "description": "WELKUT, 1971 yılında Ho Cheng tarafından kurulan, bahçe aletleri üreten HO CHENG GARDEN TOOLS Co., Ltd. şirketine ait bir markadır.Traktörler ve Tarım aletleri üretimi faaliyetlerinde bulunan firma Tayvan merkezlidir.Firma; dal makasları, çit makası, ağaç budama, bahçe seti, değiştirilebilir aletler, mala, fide dikme makinesi, çatal, kesme aletleri ve aşılama araçları üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

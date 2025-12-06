@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Iberdrola",
+    "description": "Iberdrola, 1992 yılında kurulan Iberdrola, S.A. bünyesindeki enerji markasıdır.En büyük uluslararası elektrik şirketlerinden biridir.Iberdrola, S.A.b İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Elringklinger",
+    "description": "Elringklinger, 1879 yılında Paul Lechler tarafından kurulan ElringKlinger AG bünyesindeki otomobil yedek parça markasıdır.Silindir kafası ve özel contalar, plastik gövde modülleri, termal ve akustik koruyucu parçalar, yakıt hücreleri ve lityum iyon piller için bileşenler ve yüksek performanslı plastik PTFE ürünleri üretmektedir.ElringKlinger AG Almanya merkezlidir. 2009 yılından beri Türkiye’de ElringKlinger TR Otomotiv San. ve Tic. A.Ş. olarak üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tevafuk Dedektör",
+    "description": "Tevafuk, 1997 yılında kurulan Tevafuk Elektronik Tekstil, Tıbbi Gereçler Tic. ve San. Ltd. Şti. bünyesindeki define, endüstri, güvenlik ve veteriner dedektörleri markasıdır.Tüm ürünler Amerika, İngiltere, Almanya ve Avustralya üretimidir.ISO 9001 ve ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "444",
+    "description": "444 Nerenin Malı Markası444, 2015 yılında kurulan Antares Kimya San. Tic. Ltd. Şti. bünyesinde üretilen motor katkı kimyasalları markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Merko",
+    "description": "Merko, 1982 yılında İskoçyalı Duncan John Blake tarafından kurulan Merko Gıda San. ve Tic. A.Ş. bünyesinde üretilen domates salçası ve doğranmış domates markasıdır.Firma Bursa’da endüstriyel uygulamalar için üretim yapmaktadır. Dünya çapında gıda endüstrisi için hammaddeye giren bir domates işlemcisidir.Merko Gıda’nın yüzde 30’u kurucu Blake ailesine, yüzde 30’u Yunan Nomikos ailesine aittir, geri kalan yüzde 40 hisse ise halka açıktır.Şirket ürünlerini ağırlıklı olarak 20 ülkeye ihraç etmektedir. Üretimin yüzde 97’si AB ülkelerine ihraç edilmektedir.Merko Gıda 2021 yılında, Sunpride meyve suları başta olmak üzere birçok önemli markanın yer aldığı Frigo Pak Gıda’nın yüzde 25’ini satın aldı.Merko bünyesindeki markalarBostanBurger SosJqMerko TaptazeMerkogıda",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

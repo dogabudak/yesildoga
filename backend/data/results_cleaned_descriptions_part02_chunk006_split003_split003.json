@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Oylum Gofret",
+    "description": "Oylum, 1969 yılında kurulan Oylum Sinai Yatırımlar A.Ş. bünyesindeki sade bisküvi, kremalı bisküvi, gofret, kraker, çikolatalı gofret ve çikolata bar markasıdır.Helal sertifikası olan firmanın gofretleri Glikoz şurubu içermiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Obsesso",
+    "description": "Obsesso, 1943 yılında Mustafa Vasfi Diren tarafından kurulan Dimes Gıda San. ve Tic. A.Ş. bünyesinde üretilen soğuk kahve markasıdır.Sütlü kahve, kakaolu, yoğun kahveli ve şekersiz olmak üzere dört çeşit ürün sunmaktadır.Firmanın Tokat, Aydın ve İzmir’de fabrikaları bulunmaktadır. Ürünlerini 93 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-03-02"
+  },
+  {
+    "company": "Smeg",
+    "description": "Smeg, 1948 yılında Vittorio Bertazzoni tarafından kurulan SMEG S.p.A. bünyesindeki ev aletleri, paslanmaz çelik ürünleri markasıdır.Bulaşık makinesi, çamaşır makinesi, fırın, mikrodalga, ocak, bağımsız ocak, soğutucu, şarap dolapları, kahve makinesi ve küçük ev aletleri üretmektedir.Bertazzoni ailesine ait olan İtalya merkezli şirket ürünlerini İtalya’da üretmektedir. Smeg’in 15 iştirağı (İngiltere, Fransa, Belçika, Hollanda, Almanya, İsveç, Danimarka, İspanya, Portekiz, Rusya, Ukrayna, Kazakistan, Güney Afrika, ABD ve Avusturalya), Hong Kong’ta ve Suudi Arabistan’da deniz aşırı ofislerine sahiptir.Türkiye dağıtıcısı BOGAZICI ITHALAT LTD.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Photon",
+    "description": "Photon, 2008 yılında kurulan Photon Automotive Lighting bünyesindeki otomotiv aydınlatma ürünleri markasıdır.Ürünleri arasında otomotiv aydınlatma, LED, LED Far, Halojen Ampul, Xenon Aydınlatma ürünleri yer almaktadır.Photon Automotive Lighting Türkiye dağıtıcısı Mavera Oto. Yed. Par. San. Tic. Ltd. Şti.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "ModaCar Ne",
+    "description": "ModaCar, 1983 yılında Marmara Grup İştirakı olarak kurulan Marmara İnovasyon Aksesuar Pazarlama A.Ş. bünyesindeki otomobil aksesuar markasıdır.ModaCar’ın 150’nin üzerinde marka 5 bine yakın çeşidiyle Türkiye de, ithal ve yerli otomobillerin aksesuar ekipmanlarını karşılıyor.Ürün yelpazesinde araç aksesuarları, motosiklet ve bisiklet aksesuarları, hırdavat, ev ve işyeri ürünleri, petshop, sağlık, bayan ve kişisel aksesuarlar yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

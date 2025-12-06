@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Name It",
+    "description": "Name It, 1975 yılında Troels Holch Povlsen tarafından kurulan Bestseller A/S’nin yatırım holding şirketi Heartland A/S bünyesindeki bebek ve çocuk kıyafetleri markasıdır.Bestseller A/S Danimarka merkezlidir.Bünyesindeki markalar;Jack & JonesJaqueline De YongJunaroseMamaliciousName ItNoisy MayObjectOnlyOnly&SonsOutfitters NationPiecesSelected FemmeVero ModaVilaY.A.S",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Hakansson",
+    "description": "Hakansson, 1944 yılında kurulan Hakansson Sagblad AB bünyesinde üretilen metal, ahşap, gıda için şerit testere bıçakları, bant bıçakları ve aksesuarı markasıdır.Hakansson Sagblad AB İsveç merkezlidir ve ürünlerini İsveç’te üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Nip+Fab",
+    "description": "Nip&Fab, 2010 yılında kurulan Nip+Fab Ltd. bünyesindeki cilt bakımları ve yüz, göz ve dudak makyajı içeren kozmetik ürünler markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Nip+Fab Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-06-13"
+  },
+  {
+    "company": "Pilana",
+    "description": "Pilana, 1934 yılında kurulan Pilana Group A.S. bünyesinde üretilen endüstriyel bıçak ve diğer parçalar markasıdır.Ağaç İşleme ve Geri Dönüşüm endüstrileri için el testereleri, granülatörler, havşalar, matkaplar, parçalayıcılar, soyma ve dilimleme bıçakları, testere bıçakları, testere gövdeleri, zımba gibi ürünler üretmektedir.Pilana Group A.S. Çek Cumhuriyeti merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Ersopack",
+    "description": "Ersopack, 2007 yılında Ersoy Ailesi tarafından kurulan Ersoplast San. ve Tic. A.Ş. bünyesinde üretilen büzgülü kokulu çöp torbası, evsel çöp torbası, endüstriyel rulo çöp torbası, medikal çöp torbası, rulo özel ebat çöp torbası, dökme özel ebat çöp torbası, aype şeritleri ve emniyet şeritleri, kamu kurum ve kuruluşlarına özel çöp torbası kargo poşetleri markasıdır.Ürünlerinin yüzde 90’ı geri dönüştürülmüş plastik atıklardan üretilmektedir. Atıklar ayrıştırılıp temizlenerek HDPE-LDPE-LLDPE granül hammaddeler haline getirilmektedir.Çöp torbası ve geri dönüşüm hammaddelerini Adana Hacı Sabancı OSB’de bulunan 18 bin 300 metrekarelik alana sahip iki üretim tesisinde üretmekte ve üretiminin yüzde 80’ini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

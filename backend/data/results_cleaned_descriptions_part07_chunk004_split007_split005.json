@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Öztecer",
+    "description": "Öztecer Nerenin Malı MarkasıÖztecer, 1979 yılında kurulmuş olan Öztecer Gıda Sanayi bünyesinde üretilen akide şekerleri, lokum, mevlüt şekeri, pekmez, tahin, tahin helvası markasıdır.Ürünleri Glikoz Şurubu içermemektedir.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Netex Aqoustics",
+    "description": "Netex Aqoustics, 1993 yılında kurulan Arısoy Elektronik San. ve Tic. Ltd. Şti. bünyesindeki oto ses sistemleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Giba Şekerleme",
+    "description": "Giba Şekerleme Nerenin Malı MarkasıGiba 1980 yılında kurulmuş olan Konya Giba Gıda İmalat ve Paz. San. ve Tic. Ltd. Şti. bünyesinde üretilen çikolata, şekerleme, mevlana şeker, lokum, hurma markasıdır.Firma Konya merkezlidir. Ürünlerini bin 800 metrekarelik fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Şener Reçel",
+    "description": "Şener Reçel Nerenin Malı MarkasıŞener, 1993 yılında kurulmuş olan Şener Pekmez Helva Reçel Tarımsal Ürünler Gıda San. Tic. Ltd. Şti. bünyesinde üretilen şekerleme, cevizli sucuk ve pestil, lokum, bal, hurma, kuruyemiş ve kuru meyveler, lokum, pişmaniye ve saray helva, pekmez, reçel, Türk kahvesi, tahin, tahin helvası markasıdır.Firma Bursa merkezlidir.Bünyesindeki markalar;ÇerçioğluHonexŞenerŞenerellaŞenler",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gemsy",
+    "description": "Gemsy, 2013 yılında kurulmuş olan Zhejiang Gemsy Sewing Machine Co. Ltd. bünyesinde üretilen özel dikiş makinesi, kesme makinesi, basit tip dikiş makinesi, üst düzey giyim boncuk makinesi, çok fonksiyonlu dikiş makinesi markasıdır.ISO 14000, ISO 14001, ISO 20000, ISO 9000, ISO 9001 belgelerine sahiptir.Zhejiang Gemsy Sewing Machine Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 14001",
+      "ISO 20000",
+      "ISO 9000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

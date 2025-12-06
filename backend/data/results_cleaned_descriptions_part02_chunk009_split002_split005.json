@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Caron",
+    "description": "Caron, 1998 yılında Patrick Ales tarafından kurulan Ales Groupe bünyesinde üretilen parfüm markasıdır.Ürünlerinin içeriğinde paraben, mineral yağ, silikon, hayvansal kökenli maddeler ve fetosipetanol içermez ve yüzde 93’ü bitki içeriklidir.Ales Groupe Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Kate Spade",
+    "description": "Kate Spade New York, 1993 yılında Andy Spade ve Kate Spade tarafından kurulan Kate Spade & Company bünyesindeki moda markasıdır.Kate Spade & Company, 2017 yılında Amerika merkezli Tapestry, Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vu+",
+    "description": "Vu+ Hangi Ülkenin Malı MarkasıdırVu+, Ceru Co. Ltd. bünyesinde üretilen Linux destekli DVB uydu alıcısı, karasal dijital televizyon alıcıları markasıdır.Eski Vu + ürünlerinde donanım olarak Broadcom MIPS işlemci yer alırken tüm yeni ürünlerde ARM-powered ve Enigma2 kullanılır.Ceru Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2022-12-08"
+  },
+  {
+    "company": "Novacom",
+    "description": "Novacom, 2002 yılında kurulan Nova Grup Mühendislik Ticaret Limited Şirketi bünyesindeki Uydu ve CCTV ürünleri markasıdır.Ürünleri arasında Novacom Headend Sistemi, Novacom Multiswitch, Novacom Güvenlik Sistemleri, Novacom LNB Çeşitleri, Novacom Splitter Çeşitleri, Novacom HD Berry yer alır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Octagon",
+    "description": "Octagon, 1983 yılında kurulan Octagon Inc. bünyesindeki spor pazarlama, eğlence pazarlama, yetenek temsil ve yönetim hizmetleri markasıdır.Dünya çapında sponsorluk hakları ücretleri ve aktivasyonlarında milyarlarca çalışanı yönetmekte ve etkilemektedir.Octagon Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

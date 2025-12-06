@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bf Original",
+    "description": "Bf Original, 1996 yılında kurulmuş olan Ms Motorservice International Gmbh bünyesindeki motor parçaları markasıdır.Ms Motorservice International Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "itopya",
+    "description": "itopya, 2017 yılında kurulmuş olan Eera Elektronik Tic. ve Bilişim Hizmetleri Ltd. Şti. bünyesindeki Toplama Bilgisayar, oyun Notebook ve oyun Ürünlerinin perakende satışı mağazaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Diesel Technic",
+    "description": "Diesel Technic, 1972 yılında kurulmuş olan Diesel Technic SE bünyesinde üretilen otomotiv parçaları ve aksesuarları markasıdır.Diesel Technic SE Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Performans Bar",
+    "description": "Performans, BİM A.Ş. adına çeşitli firmalar tarafından üretilen dolgulu hurma topları, fıstık ezmesi, fit karışım kuruyemiş, hurma topları, ince öğütülmüş yulaf ezmesi, izotonik sporcu içeceği, kahveli multivitaminli içecek, karabuğday patlağı, kolajen bar, mate çubuk çay, meyve bar, optimum protein bar, protein tozu, şeker ilavesiz çikolata kaplı nohut unlu draje, şeker ilavesiz yüksek proteinli çikolata, vitaminli içecek, yüksek protein bar, yüksek proteinli kakaolu fındık kreması markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kuaf",
+    "description": "Kuaf, 1983 yılında kurulmuş olan Depar Kozmetik bünyesindeki Çağ Kozmetik, Ltd. Şti. tarafından üretilen kuaför ürünleri markasıdır.ISO 9001 ve ISO 22716 belgelerine sahiptir.Firma Ankara merkezlidir. Ürünlerini bin 600 metrekarelik kapalı alanda üretmektedir ve birçok ülkeye ihraç etmektedir.Bünyesindeki markalar:BiodoxDermaprofDermaprofExposeIdoxKuafLara KuafLara ShineRevüS’ansTry",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

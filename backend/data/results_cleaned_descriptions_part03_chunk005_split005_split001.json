@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Fazer",
+    "description": "Fazer, 1891 yılında Karl Fazer tarafından kurulan Oy Karl Fazer Ab bünyesindeki gıda markasıdır.Finlandiya, İsveç, Rusya, Danimarka, Norveç, Estonya, Letonya, Litvanya ve Japonya’da üretim yapmaktadır. Ürünlerini yaklaşık 40 ülkeye ihraç etmektedir.Oy Karl Fazer Ab Finlandiya merkezlidir.Bünyesindeki markalar:Amerikan pastillitAvecDa CapoDumleEucalyptusFamiFazer BlueFazerinaFazermintFinlandiaGeishaIslantiJimKinaKismetKiss-KissLaktaLaku-PekkaMarianneMerkkariMignonOmarOrangePantteriPätkisPaxPihlajaRexSuffeliTaloussuklaaToscaTyrkisk PeberVihreat kuulatWienernougat",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Hametan",
+    "description": "Hametan, 1912 yılında Eczacı Abdi İbrahim Bey tarafından kurulan Abdi İbrahim İlaç Sanayi A.Ş. bünyesinde üretilen pişikler, ciddi olmayan yanıklar, güneş yanıkları, çizik ve kesik gibi yüzeysel cild lezyonlarında, kuru, çatlamış ve yarılmış cildin bakım ve korunmasında kullanılan ürünlerin markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-09-19"
+  },
+  {
+    "company": "Lucihz",
+    "description": "Lucihz, ZEEA Kimya San. Tic. A.Ş. tarafından üretilen dezenfektan markasıdır.ZEEA Kimya ürünlerini İzmir’de üretmektedir.Her türlü yıkanabilir, silinebilir yüzeylerin temizliği için kullanılır. El, yüz, vücut ve gıda temizliğinde kullanılmaz. Göze ve cilde zararlıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hatap",
+    "description": "Hatap, 1929 yılında kurulan Hatap Değirmenleri Gıda San. ve Tic. A.Ş. bünyesinde üretilen un ve yem markasıdır.Entegre 2 un fabrikası ve yem fabrikası ile üretim yapmaktadır. ISO 22000, TSE Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Canovate",
+    "description": "Canovate, 1979 yılında kurulan Canovate Group bünyesindeki Fiber Optik Bağlantı tabanlı FTTX & Fiber Optik Şanzıman-Erişim Ürünleri, Veri Merkezi ve Veri Merkezi Soğutma Ürünleri, Raf Dolapları, Muhafazalar, Kutular ve Aksesuarlar, Dış Mekan Muhafazaları, Çerçeveler, Kutular ve Aksesuarlar, Yapısal Kablolama Ürünleri, Aksesuarları, Güç Dağıtım Üniteleri ve UPS, Uzaktan İzleme, Erişim ve Yönetim, LCD Duvar Bağları, HDMI Kabloları ve Ekran Temizleyicileri markasıdır.Veri merkezi ve uçtan uca fiber optik çözümleri olmak üzere iki ana ürün kategorisinde faaliyet göstermektedir.Ürünlerini 30 bin metrekarelik kapalı alanda üretirken, üretiminin yüzde 60’ını 72 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

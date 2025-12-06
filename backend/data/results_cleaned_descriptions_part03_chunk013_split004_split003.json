@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mivar",
+    "description": "Mivar, 1945 yılında Carlo Vichi tarafından kurulan La Mivar di Carlo Vichi & C. s.a.s. bünyesindeki tüketici elektroniği ve mobilya markasıdır.La Mivar di Carlo Vichi & C. s.a.s. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Reddax",
+    "description": "Reddax, Reddax cep telefonu aksesuar şirketi bünyesinde üretilen şarj cihazı, kulaklık, kablo, güç bankası, cam ekran, tutucu markasıdır.Reddax markalı ürünler Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Evertz Microsystems",
+    "description": "Evertz Microsystems, 1966 yılında Dieter ve Rose Evertz tarafından kurulan Evertz Microsystems Limited bünyesinde üretilen, yayın ve film endüstrisi için elektronik sistemler markasıdır.Televizyon setlerine, isteğe bağlı hizmetlere, WebTV’ye, IPTV’ye ve mobil cihazlara (telefonlar ve tabletler gibi) içerik sağlayan önde gelen küresel yayın ekipmanları ve çözümleri üreticisidir.Evertz Microsystems Limited Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Rommelsbacher",
+    "description": "Rommelsbacher, 1928 yılında Gustav Rommelsbacher tarafından kurulan Rommelsbacher ElektroHausgerate GmbH bünyesinde üretilen ev aletleri markasıdır.Ürün yelpazesinde mutfak ve evler için küçük elektrikli ev aletleri, yemek masaları, buharlı ocaklar, küçük fırınlar, kahve öğütücüler gibi çok çeşitli küçük elektrikli aletler yer almaktadır.Rommelsbacher ElektroHausgerate GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fox Fitness",
+    "description": "Fox Fitness, 1974 yılında kurulan Finspor Dış Tic. Ltd. Şti. bünyesindeki jimnastik ve spor aletleri markasıdır.Finspor, koşu bantları, vücut geliştirme cihazları, kondisyon bisikletleri, egzersiz bilgisayarı gibi ürünleri ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

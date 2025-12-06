@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Beckers",
+    "description": "Beckers, 1865 yılında Carl Wilhelm Becker tarafından kurulan Wilh. Becker Holding GmbH bünyesindeki boya ve kaplama ürünleri markasıdır.Beckers Group, 1985 yılında İsveç’li Linden ailesine ait Linden Gruppen tarafından satın alındı. 18 ülkede faaliyet göstermektedir.Bünyesindeki bazı markalar:BeckersBeckryBeckyFlexColArt",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "EcoTools",
+    "description": "EcoTools, 1947 yılında kurulan Paris Presents Incorporated bünyesindeki toprak dostu malzemeler içeren kozmetik aksesuarlar, banyo ve cilt bakım ürünleri markasıdır.Geri dönüşümlü malzemeler, yenilenebilir bambu gibi malzemelerden makyaj fırçaları, banyo ve cilt bakım ürünleri ve saç fırçaları üretmektedir. Ürünleri yüzde 100 organik içeriklere sahiptir.Paris Presents Incorporated Amerika merkezlidir. 60’tan fazla ülkeye makyaj araçları ve vücut bakım aksesuarları pazarlamaktadır.Bünyesindeki markalar:Real TechniquesEcoToolsFreeman Beauty",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Promani",
+    "description": "Promani, 2015 yılında Promani GmbH bünyesinde üretilen tırnak ve ayak bakımı için hazırlanan ürünler markasıdır.Tırnak makası, törpü, topuk törpüsü, cımbız, bıyık makası gibi ürünlere sahiptir.Promani GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Konix",
+    "description": "Konix, 2000 yılında kurulan Turkuaz Sağlık Hizmetleri Medikal Temizlik Kimyasal Ürünler Sanayi ve Ticaret A.Ş. bünyesinde üretilen el dezenfektan jeli markasıdır.Turkuaz Sağlık A.Ş. hastaneler içim tıbbi kimyasallar üretmektedir. Ürünleri 125 ülkeye ihraç edilmektedir. Turkuaz Sağlık kendi alanında üretim yapan dünyanın en büyük 5 üreticisinden biridir. ISO 13485, Helal belgelerine sahiptir.Bünyesindeki markalar:BiodropsBodycareGynoseedGynotalJoydropsKLYKonicareKonixMediseptica",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Morning Fresh",
+    "description": "Morning Fresh, 1879 yılında George Paterson, George Zochonis tarafından kurulan PZ Cussons plc. bünyesindeki temizlik ürünleri markasıdır.Şirket çeşitli markalar altında diş macunu, deodorant, bulaşık deterjanı ve saç bakım ürünleri üretmektedir.PZ Cussons plc İngiltere merkezlidir.Bünyesindeki markalar:CarexCussons BabyFudge ProfessionalImperial LeatherMorning FreshOriginal SourcePremier CoolRafferty’s GardenSanctuary SpaSt Tropez",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2023-10-25"
+  }
+]

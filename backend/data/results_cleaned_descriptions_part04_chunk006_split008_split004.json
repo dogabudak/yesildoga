@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Tronic Pil",
+    "description": "Tronic, 1930 yılında Josef Schwarz tarafından kurulan Lidl Stiftung & Co. KG bünyesindeki şarjlı pil, elektrikli piller için elektrikli akümülatörler, makas, bıçak, çatal, kaşık, elektrikli veya elektrikli olmayan tıraş makineleri, ütü, saç düzeltici, haşere yok edici elektrikli cihazlar, cep lambası, aydınlatma armatürü, saatler, tencere, meyve sıkacakları, elektrikli olmayan su ısıtıcıları gibi ürünlerin markasıdır.Lidl Stiftung & Co. KG, Almanya merkezli Schwarz Group bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Patona",
+    "description": "Patona, 2005 yılında kurulan Patona International S.L.U. bünyesindeki pil, şarj cihazları ve güç kaynakları markasıdır.Dizüstü bilgisayarlar, osmoz sistemleri için piller, güç kaynakları ve şarj cihazları sunmaktadır.Patona International S.L.U. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Marcelo Burlon",
+    "description": "Marcelo Burlon, 2015 yılında Claudio Antonioli, Davide De Giglio, Marcelo Burlon tarafından kurulan New Guards Group Holding S.p.A, bünyesindeki lüks moda markasıdır.New Guards Group 2019 yılında İngiltere merkezli Farfetch Limited tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Seacsub",
+    "description": "Seacsub, 1971 yılında kurulan Seac Sub S.p.a. bünyesindeki yüzücü kıyafetleri ve aksesuarlar markasıdır.Dalış sektöründe dünya çapında mevcuttur.Seac Sub S.p.a. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Camicissima",
+    "description": "Camicissima, 1931 yılında kurulan Fenicia Spa bünyesindeki gömlek, aksesuarlar (kravatlar, kol düğmeleri ve cep kareleri) pantolon, dış giyim ceketleri ve triko gibi klasik erkek giyim markasıdır.Fenicia Spa İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

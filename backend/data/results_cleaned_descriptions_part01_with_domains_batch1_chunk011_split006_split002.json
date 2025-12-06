@@ -1,0 +1,44 @@
+[
+  {
+    "company": "PTT",
+    "description": "PTT, 1840 yılında kurulan Türkiye’nin posta örgütüdür.PTT Genel Müdürlüğü 1939 yılında Ulaştırma Bakanlığına bağlanmış, 2013 yılında Posta Hizmetleri Kanunu ile görevleri yeniden düzenlenmiş ve Posta ve Telgraf Teşkilatı A.Ş. olarak yeniden yapılandırılmıştır.2017 yılında bütün hisseleri Türkiye Varlık Fonu A.Ş.’ye devredilmiştir.Türkiye Varlık Fonu A.Ş Kimin Malı",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-04-15"
+  },
+  {
+    "company": "Persil",
+    "description": "Persil 1907 yılında, çamaşır ve ev bakımı, beauty care ve yapıştırıcı teknolojileri firması olan Henkel bünyesinde üretilen temizlik ürünleri markasıdır.Persil’i bünyesinde bulunduran Henkel Alman menşeli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Debica",
+    "description": "Debica, 1939 yılında kurulan Debica S.A. bünyesinde üretilen lastik markasıdır. 1995 yılında Debica S.A.’nın yüzde 81,4 oranındaki hissesi Amerikan merkezli Goodyear tarafından satın alındı.Polonya’nın lider lastik markası olan Debica S.A. Goodyear’ın Avrupa’daki en büyük fabrikasıdır.Firma Goodyear S.A. aracılığıyla, resmi olarak Lüksemburg’da kayıtlıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Filtron",
+    "description": "Filtron, 1982 yılında Piotr Giermaziak tarafından kurulurken 2016 yılında MANN + HUMMEL grubuna katıldı. Filtron otomotiv sektörü için filtreleri tasarlıyor ve üretiyor.Üretilen filtreler en büyük otomotiv firmaları tarafından orijinal parça olarak kullanılıyor. Filtre ürün yelpazesi Avrupa araç pazarının yüzde 97’sini kapsıyor. Otomotiv endüstrisi için her tür filtre tipi dışında; makineler, ağır iş makineleri ve özel araçlar için de filtre üretimi yapılıyor.MANN + HUMMEL GmbH Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ferroli",
+    "description": "Ferroli, 1958 yılında Dante Ferroli tarafından kurulan Ferroli S.p.A. bünyesindeki ısıtma donanımları ve iklim sistemleri markasıdır.FERROLI, aynı zamanda toplu konut ve endüstriyel satışlar da gerçekleştirmektedir.Ferroli S.p.A. İtalya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

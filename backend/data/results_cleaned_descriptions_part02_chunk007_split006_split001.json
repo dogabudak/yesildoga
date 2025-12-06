@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Era Elektrikli Ev Aletleri",
+    "description": "Era, 1995 yılında kurulan Gürsu Ltd. Şti. bünyesinde 2000 yılından itibaren üretilen elektrikli ev aletleri markasıdır.Daha önce mutfak tipi su arıtma cihazları, duvara takılan televizyon sehpaları üreten firma, 2004 yılında elektrikli ızgarayı üretti.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Club Med",
+    "description": "Club Med, 1950 yılında kurulan Club Med SAS bünyesindeki tatil ve turizm hizmetleri markasıdır.2015 yılında Fosun International Ltd. tarafından satın alındı.1990’lı yıllarda Fosun pazar araştırması yaparak faaliyete başlamıştır. Daha sonra, sağlık sektörü, gayrimenkul vb. gibi geniş bir alana yayıldı. 2004 yılında, grubun yeni bir holding şirketi olan Fosun International Limited Hong Kong’da kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Nut Master",
+    "description": "Nut Master, 2012 yılında 3 girişimci tarafından kurulan DKC Grup A.Ş. bünyesinde üretilen yer fıstık ezmesi markasıdır.DKC Grup bünyesindeki markalar:JaywisNut Master",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-09-10"
+  },
+  {
+    "company": "Sisu Auto",
+    "description": "Sisu Auto, 1932 yılında Karl Arthur Nordgren, Emil Anton Winckelmann ve Lars Wilhelm Aberg tarafından kurulan Oy Sisu Auto Ab bünyesindeki arazi ve yol kamyonları üreticisidir.Oy Sisu Auto Ab, Finlandiya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "T.A.S",
+    "description": "T.A.S. Hangi Ülkenin Malı MarkasıT.A.S., 1985 yılında kurulan Vara Food And Drink Co.,Ltd. bünyesindeki hindistan cevizi suyu, tropikal meyve suyu, kahve ve çay, konserve meyve ve sebze, hindistan cevizi sütü, hindistan cevizi tatlısı, ekstra saf hindistan cevizi yağı markasıdır.T.A.S. adı Tasty’den alınmıştır. T.A.S.’nin amacı dünya çapındaki tüketicilere Hindistan cevizi içeceklerinin yanı sıra, hindiarind içeceği ve Lychee içeceği gibi çeşitli egzotik aromalı içecekler sunmaktır. Özellikle hindistan cevizi içeceğiyle ön plana çıkan bir Tayland markasıdır.Ürünleri 50’den fazla ülkede satılmaktadır. IFS, BRC, HACCP, Tayland HALAL, GMP sertifikalarına sahiptir.Bünyesindeki markalar:TasTASCOTEPTIPSun & DragonZ-ZunDee-Dee",
+    "documents": [
+      "BRC",
+      "CE",
+      "GMP",
+      "HACCP",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": "2019-12-22"
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Lüksteks",
+    "description": "Lüksteks Nerenin Malı MarkasıLüksteks, 1987 yılında kurulan Lüksteks Oto Döşeme Malzemeleri ve Aksesuarları Tekstil San. ve Dış Tic. Ltd. Şti. bünyesindeki otomotiv ve mobilya sektörüne kumaş ve laminasyon işlemleri markasıdır.Ürünlerini Bursa’da 3 bin 500 metrekare kapalı, 2 bin metrekare açık alan üzerinde üretmektedir. ISO 9001 belgesine sahiptir.Ürün yelpazesinde alevli, tutkallı, filmli laminasyon, büro mobilyaları için döşemelik kumaşlar, jakarlı örme, jakarlı örme kadife, jakarlı dokuma, laminasyon işlemleri, oto döşeme malzemeleri (kavrama, kanca ve özel pense), oto döşeme, kılıflık ve tavanlık kumaşlar, oto perdeleri (raylı ve takmatik oto perde), sinema – tiyatro – konferans salonu döşemelik kumaşları, terlik ve ayakkabı kumaşları yer alır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Furse",
+    "description": "Furse, W. J. Furse & Co Limited bünyesindeki topraklama ve yıldırımdan korunma sistemleri markasıdır.Firma kablo bağları ve tepsi sistemleri, yaylı çelik bağlantı elemanları, tanımlama ürünleri, acil durum aydınlatması, boru ve güç yedekleme sistemleri üretmektedir.W. J. Furse & Co Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Teska Batarya",
+    "description": "Teska, 2005 yılında kurulan Teska Banyo Aks. San. ve Dış Tic. Ltd. Şti. bünyesindeki ankastre batarya, batarya, cam panelli batarya, duş bataryası, duş hortumu, duş kolonu, duş robotu, duş takımı, lavabo bataryası, panelli batarya, sıhhi tesisat, taharetmatik, vana markasıdır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seyiton",
+    "description": "Seyiton, 2013 yılında kurulan Yektamak Makina Mühendislik San. Tic. Ltd. Şti. bünyesindeki özel transfer arabaları, otonom transfer arabaları (agv), raylı transfer arabaları, raysız akülü transfer arabaları markasıdır.ISO 9001, ISO 14001, ISO 18001 belgelerine sahiptir.Bünyesindeki markalar;SeyitonWallkerYektamak",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Andersen",
+    "description": "Andersen, 1903 yılında Hans Andersen tarafından kurulan Andersen Corporation bünyesindeki pencere ve kapı sistemleri markasıdır.Vinil ve ahşap pencere sistemleri ve veranda kapıları üretmektedir.Andersen Corporation Amerika merkezlidir. Ürünlerini Amerika, Kanada ve İtalya’da bulunan üretim tesislerinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

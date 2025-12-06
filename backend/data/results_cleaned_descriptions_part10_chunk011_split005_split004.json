@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Scünci",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tea Tree",
+    "description": "1980 yılında kurulmuş olan John Paul Mitchell Systems Inc. bünyesinde üretilen şampuan, şekillendirici krem ve waxlar, saç kremi, saç maskeleri, saç spreyleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Amerika merkezli John Paul Mitchell Systems Inc. ürünleri 90’dan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oriflowers",
+    "description": "1978 yılında kurulmuş olan Uzman Kozmetik Kimya San. ve Tic. A.Ş. bünyesinde üretilen el vücut kremleri markasıdır.ISO 14001 belgesine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini, Kocaeli’de bulunan 5 bin 500 metrekaresi kapalı 4 bin metrekaresi açık alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Işıl",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cooky Selfy",
+    "description": "2013 yılında kurulmuş olan Kekbis Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen kakaolu krema dolgulu bisküvi markasıdır.ISO 9000, ISO 22000 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 8 bin metrekarelik alanda üretmektedir ve 40 ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

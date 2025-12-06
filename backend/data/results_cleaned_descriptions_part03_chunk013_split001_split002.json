@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Obi Worldphone",
+    "description": "Obi Worldphone, 2014 yılında Neeraj Chauhan, Shane Maine, Gordon McMillan ve John Sculley tarafından kurulan akıllı telefon, cep telefonu ve tablet markasıdır.Obi Worldphone Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "InFocus",
+    "description": "InFocus, 1986 yılında kurulan InFocus Corporation bünyesindeki DLP ve LCD projektörleri ve aksesuarlar, büyük biçimli dokunmatik ekranlar, LED televizyonlar, tabletler ve akıllı telefonlar markasıdır. InFocus ayrıca görüntülü arama hizmetleri de sunmaktadır.InFocus Corporation Amerika merkezlidir ve 2009 yılında Çinli Lap Shun Hui tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Von Roll",
+    "description": "Von Roll, 1803 yılında kurulan Von Roll Holding AG bünyesindeki; enerji üretimi, iletim ve depolamanın yanı sıra e-mobilite ve endüstriyel uygulamalar gibi elektrik uygulamaları için ürün ve sistemler markasıdır.Von Roll Holding AG, dünya çapında faaliyet gösteren İsviçre’nin en köklü sanayi şirketlerinden biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Devro",
+    "description": "Devro, 1950 yılında kurulan Devro plc bünyesindeki kollajen sosis ve pişmiş et kovanları; tıbbi ve kozmetik endüstrileri için kollajen filmler ve kasalar markasıdır.Sağlık ve kozmetik sektörlerinde kullanılmak üzere filmler, kasalar ve diğer özel kollajen ürünleri üretmektedir.Devro plc, Dünya lideri olduğu bir ürün olan kollajen, esas olarak sosis kovanları ve bunlardan elde edilen malları üreten ve dağıtan İngiltere merkezli çok uluslu bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ampd Energy",
+    "description": "Ampd Energy, 2014 yılında Brandon Ng ve Luca Valente tarafından kurulan Ampd Energy Ltd. bünyesindeki enerji depolama sistemleri markasıdır.Firma endüstriyel ve inşaat sektörlerini elektrikle birleştirmek ve optimize etmek için son teknoloji pil enerji depolama ürünlerini, bağlantı ve veri bilimini kullanarak enerji geçişini yönlendirmektedir.Ampd Energy Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

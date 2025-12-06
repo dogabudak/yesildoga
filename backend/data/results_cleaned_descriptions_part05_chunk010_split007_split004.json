@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Nanyang",
+    "description": "Nanyang, 1970 yılında kurulan motor ve jeneratör markasıdır.Nanyang 2015 yılında Wolong Electric Group’a katıldı.Wolong Electric Nanyang Explosion Protection Group Co. Ltd., patlamaya dayanıklı motorlar, genel amaçlı motorlar, hafif ağırlıklı jeneratörler, patlamaya dayanıklı elektrikli cihazlar, izleme cihazlarını Çin’de üreten Çin merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Belkim",
+    "description": "Belkim, 1997 yılında kurulan Belkim Kimyevi Maddeler Tic. ve San. A.Ş. bünyesinde üretilen deterjan, dezenfektan ve kozmetik ürünleri markasıdır.ISO 9001, ISO 14001, Helal ve Kosher belgelerine sahiptir.Kocaeli merkezli firma ürünlerini Gebze OSB’de üretmektedir.Bünyesindeki markalar;BelkimDrylubEcozoneMaestroMaestrowinSanimedVetguard",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lagafors",
+    "description": "Lagafors, 1962 yılında kurulan Lagafors Fabriks AB bünyesinde üretilen temizlik sistemi ürünleri markasıdır.Firma gıda endüstrisi için temizlik ekipmanları, köpük temizleme, yüksek basınçlı su yıkama, düşük basınçlı su yıkama gibi hijyen çözümleri sunmaktadır.Lagafors Fabriks AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Allied Telesis",
+    "description": "Allied Telesis, 1987 yılında kurulan Allied Telesis Holdings K.K. bünyesindeki ağ anahtarlar, yönlendiriciler, ağ güvenlik duvarı markasıdır.Küresel bir güvenli Ethernet ve IP erişim çözümleri sağlayıcısıdır.Allied Telesis Holdings K.K. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Globalstar",
+    "description": "Globalstar, 1991 yılında kurulan Globalstar Inc. bünyesindeki uydu üzerinden telefon ve veri aktarımı, kişisel ve varlık takip cihazları, m2m cihazları markasıdır.Globalstar Inc. Amerika merkezlidir. Dünya çapında 120’den fazla ülkede ticari ve eğlence amaçlı sunulmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

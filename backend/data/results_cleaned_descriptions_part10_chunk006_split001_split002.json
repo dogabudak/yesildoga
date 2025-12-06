@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Blotic",
+    "description": "1975 yılında kurulmuş olan Topkim Topkapı Premiks San. ve Tic. A.Ş. bünyesindeki hayvan sağlığı için kullanılan parazit ilacı markasıdır.ISO 9001 belgesine sahiptir.2020 yılında Hindistan merkezli Alivira Animal Health Limited tarafından satın alınmıştır. Ankara’da 20 bin metrekarelik üretim tesisine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Caldis",
+    "description": "Sba Group Kahve Ürünleri Gıda ve Tic. Ltd. Şti. bünyesindeki filtre ve çekirdek kahve, Türk kahvesi markasıdır.Ürünleri yüzde yüz Arabica kavrulmuş öğütülmüş kahve çekirdeğinden üretilmektedir.Firma Zonguldak merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bonafel",
+    "description": "2019 yılında kurulmuş olan Lidyafarm İtriyat Deposu E-Ticaret Turizm İnşaat San. ve Tic. Ltd. Şti. bünyesindeki cilt bakım ürünleri, kedi ve köpekler için deri ve tüy sağlığı damlası markasıdır.ISO 9001, ISO 14001, ISO 22000, GMP, Helal belgelerine sahiptir. Ürünleri hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flarox",
+    "description": "2022 yılında Flaman İç ve Dış Tic. bünyesinde piyasaya sürülen köpüklü koltuk yıkama şampuanı, köpüksüz koltuk yıkama şampuanı, koku giderici, leke sökücü, motor-blok temizleyici, portatif tuvalet kimyasalı markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "EcoMass",
+    "description": "2007 yılında kurulan İntegro Gıda San. ve Tic. A.Ş. bünyesinde üretilen hayvanlar için tamamlayıcı yem katkısı markasıdır.Helal, HACCP, ISO belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Kocaeli’de bulunan tesisinde üretmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

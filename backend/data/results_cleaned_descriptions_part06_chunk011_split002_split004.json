@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Leeson",
+    "description": "Leeson, 1972 yılında Christopher ve Daniel Doerr tarafından kurulan Leeson Electric Corporation bünyesinde üretilen AC motor, DC motor, redüktörlü motor ve değişken hız çözümleri markasıdır.Leeson Electric Corporation, 2000 yılında Amerika merkezli Regal Rexnord Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Safemax",
+    "description": "Safemax, 2015 yılında kurulan İsken Endüstriyel Yapı Montaj Tic. ve San. Ltd. Şti. bünyesinde üretilen iş kıyafetleri markasıdır.Ürünleri arasında özel güvenlik kıyafetleri, iş güvenlik ekipmanları, iş güvenlik kaban ve montları, iş güvenlik yelekleri ve yağmurlukları, aşçı, garson ve sektöre göre iş kıyafetleri, alev almaz tulumlar, elektronik güvenlik sistemleri, kışlık ve yazlık işçi elbiseleri, kot ve gabardin takımlar, penye, tshirt ve sweatshirt, soğuğa karşı koruyucu ekipmanlar yer almaktadır.Firma Hatay merkezlidir ürünlerini yurt dışına ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Natur Vital",
+    "description": "Natur Vital, 1987 yılında kurulan Instituto Naturvita S.L. bünyesinde üretilen bitki özleri ile yapılan saç ve kişisel bakım ürünleri, doğal şampuanlar, maskeler, boyalar ve renklendirici ürünler markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. Tamamı geri dönüşümlü PET ambalaj kullanılmaktadır ve bazı ürünlerinde yüzde 30 bitkisel kökenli (mısır veya şeker kamışı pekmezinden elde edilen) bileşenlere sahip Biyo-PET şişeler kullanılmaktadır. Ecocert belgesine sahiptir.Instituto Naturvita S.L. İspanya merkezlidir. Ürünlerini 40 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Dr Lory",
+    "description": "Dr Lory, 2017 yılında kurulan Sektör Kimya Deterjan San. ve Tic. A.Ş. bünyesinde üretilen şampuan, antibakteriyel el ve cilt dezenfektan, cerrahi ve medikal maske, duş jeli, kolonya, sıvı el sabunları markasıdır.Firma İstanbul merkezlidir. Ürünlerini Konya 3. OSB’de bulunan 15 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Borline",
+    "description": "Borline, 2005 yılında kurulan Bozoklar Makina Kimya Petrol Ürünleri İth. İht. San. Tic. A.Ş. bünyesinde üretilen bor katkılı sıvı el sabunu, elde bulaşık deterjanı ve çamaşır deterjanı markasıdır.Türkiye’nin önemli madenlerinden biri olan bor madeninden sıvı çamaşır deterjanı üretmektedir. Petrol türevlerini bünyesinde ihtiva etmeyen, 7 enzimli, kendinden yumuşatıcılıdır.Kocaeli merkezli firma ürünlerini 4 bin 500 metrekarelik tesislerinde üretmektedir.Bünyesindeki markalar;BorLineBorjel",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

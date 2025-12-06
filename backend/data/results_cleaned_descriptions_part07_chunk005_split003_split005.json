@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Vizwell",
+    "description": "Vizwell, 2002 yılında kurulmuş olan Suzhou Tech-Wear Manufacturing Co. Ltd. bünyesinde üretilen güvenlik yelekleri, yüksek görünürlüklü giysiler, ceketler, polo gömlekler, tişörtler, polar kazaklar, iş kıyafetleri, yağmurluklar, vücut ısıtıcıları, yün/akrilik kazaklar, şapkalar, eldivenler, örgü şapkalar ve beyzbol şapkaları markasıdır.Suzhou Tech-Wear Manufacturing Co. Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Implance",
+    "description": "Implance, 2007 yılında kurulmuş olan AGS Medikal Ürünleri İth. İhr. Tic. A.Ş. bünyesinde üretilen dental implant sistemleri markasıdırFirma İstanbul merkezlidir. Ürünlerini Trabzon’da bulunan üretim tesislerinde üretmekte ve 50’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Atena Ayran",
+    "description": "Atena, 2011 yılında kurulmuş olan Atena MMC bünyesinde üretilen ayran, süt, yoğurt, ayran, peynir markasıdır.Atena MMC Azerbaycan merkezlidir ve ürünlerini Azerbaycan’da bulunan 12 bin metrekaresi kapalı toplam 240 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": "2023-09-24"
+  },
+  {
+    "company": "İnternational BOKT",
+    "description": "İnternational BOKT, 2013 yılında kurulmuş olan BOKT İnternational ASC bünyesindeki banka dışı kredi kuruluşu markasıdır.BOKT İnternational ASC Azerbaycan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Kartal Yuvası",
+    "description": "Kartal Yuvası, 2001 yılında Beşiktaş Sportif A.Ş. bünyesinde kurulmuş olan orijinal ve lisanslı Beşiktaş ürünlerini satan mağazalar markasıdır.Ürünlerinin mağaza ve internet üzerinden satışı yapılmaktadır.Merkezi İstanbul’da yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Habaş",
+    "description": "Habaş, 1964 yılında Hamdi Başaran tarafından kurulan HABAŞ Topluluğu bünyesindeki sınai ve tıbbi gazlar, çelik, elektrik enerjisi, ağır makine, tüp ve kriyojenik tank üretimi, sıvılaştırılmış yer gazı (LNG), sıkıştırılmış yer gazı (CNG) ve sıvılaştırılmış yer yağı gazı (LPG) dağıtımı yapan, liman ve deniz taşımacılığı hizmetleri sunan bir markadırTürkiye’nin en büyük sınai ve tıbbi gaz üreticisi, LNG ve CNG dağıtıcısıdır.HABAŞ Topluluğu kuruluşları yüzde 100 yerli sermayelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Solax",
+    "description": "Solax, 1982 yılında kurulan Solakoğlu Taşıt ve Tarım Araçları İnşaat Tic. Ltd. Şti. bünyesindeki Jeneratör, Motor, Motopomp ve Çapa Makineleri markasıdır.Solax markalı ürünler Çin’den ithal edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-02-12"
+  },
+  {
+    "company": "Glovo",
+    "description": "Glovo, 2014 yılında kurulan Glovoapp23, S.L. bünyesinde yer alan uygulama ya da internet sitesi üzerinden, bazı şehirlerin farklı bölgelerinde yer alan belirli yerel mağazalara kendisi aracılığıyla ürünlerini sunmayı sağlayan ve Platform kullanıcılarının ya da bahsi geçen yerel mağaza tüketicilerinin Platform aracılığıyla tamamlayıcı ve aracı olarak ürünlerin hemen teslimini talep edebilecekleri teknolojik bir platformdur.Glovo, 20’den fazla ülkede 140’tan fazla şehirde faaliyet göstermektedir.2020 yılında Türkiye, Mısır, Uruguay ve Porto Riko gibi pazarlardan çekileceği açıklandı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2020-01-22"
+  },
+  {
+    "company": "Drager",
+    "description": "Drager, 1889 yılında J. Heinrich Drager ve Carl Adolf Gerling tarafından kurulan Dragerwerk AG bünyesindeki dalış ekipmanı, solunum cihazı, SCBA, tıbbi vantilatör ve tıbbi monitörler, anestezik makine, yenidoğan yoğun bakım ünitesi, gaz detektörü, alkol ölçer markasıdır.Dragerwerk AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-03-29"
+  },
+  {
+    "company": "Evinal",
+    "description": "Evinal, Cosmedic Laboratory ve Avangart-Stil şirketlerinin birleşmesiyle kurulan EVİNAL Holding bünyesindeki şampuanlar ve cilt bakım ürünleri markasıdır.Araştırmalarını 1980 yılından beri sürdüren dir.Evinal ürünlerinin en temel özelliği; Biosentez yöntemiyle elde edilen, insan plasentasındaki proteinler ve amino asitlerin kullanılıyor olmasıdır. Bu proteinler insan plasentasında bulunan proteinlerin kopyasıdır.Tüm Evinal kozmetik ürünleri doğal malzemelerden yapılır ve koruyucu, sentetik parfüm veya alkol içermez. EVİNAL şirketinin üretimi Good Manufacturing Practice (GMP) ve ISO 13485 şartlarına uygundur.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Antec Ülke",
+    "description": "Antec, 1986 yılında kurulan Antec, Inc. bünyesindeki bilgisayar bileşenleri ve tüketici teknoloji ürünleri markasıdır.Başlıca ürünleri bilgisayar kılıfları ve güç kaynakları, PC soğutma ürünleri, Notebook Aksesuarları, Bluetooth hoparlörleri, kulaklıklar, taşınabilir piller ve şarj hub’lar.Antec ürünleri, online perakende platformu, Amazon ve dağıtım ortakları üzerinden 40 ülkede satılır.Antec, Inc Amerikan merkezli bir şirkettir. Rotterdam, Çin ve Tayvan’da ek ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dacia Arabası",
+    "description": "Dacia, 1966 yılında Automobile Dacia S.A. bünyesinde kurulan otomobil markasıdır.Automobile Dacia S.A. 1999 yılında Fransa merkezli Renault tarafından satın alındı. Dacia markalı otomobiller Romanya’da ve Fas’ta üretilmektedir. Renault’un Romanya’daki markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Toyota",
+    "description": "Toyota1937 yılında Kiichiro Toyoda tarafından kurulmuş olan Toyota Motor Co. Ltd. bünyesindeki; otomotiv, robotik, finansal hizmetler ve biyoteknoloji markasıdır.Toyota Motor Co. Ltd. Japonya merkezlidir. Türkiye’de Toyota Otomotiv San. Türkiye A.Ş. olarak faaliyet göstermektedir ve hisselerinin yüzde 90’ı Toyota Motor Europe NV/SA şirketine, yüzde 10’u ise Mitsui & Co., Ltd. şirketine aittir.Hissedarları:Toyota Motor Corp. (yüzde 16,8)Toyota Industries Corp. (yüzde 7,5)Nippon Life Insurance Co. (yüzde 4)Denso Corp. (yüzde 2,8)Toyota Fudosan Co. Ltd. (yüzde 1,5)Mitsubishi UFJ Financial Group, Inc. (yüzde 1,2)Sumitomo Mitsui Financial Group, Inc. (yüzde 1,1)Nippon Telegraph & Telephone Corp. (yüzde 0,94)Mazda Motor Corp. (yüzde 0,26)KDDI Corp. (yüzde 0,25)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2024-11-22"
+  },
+  {
+    "company": "Honda",
+    "description": "Honda, 1948 yılında Soichiro Honda tarafından kurulan Honda Motor Company, Ltd. bünyesindeki; otomobil, motosiklet, scooter, elektrik jeneratörleri, su pompaları, çim ve bahçe ekipmanları, kültivatör, dıştan takma motorlar, robotik, jetler, jet motorları, ince film güneş pili markasıdır.Japon Honda Motor Company, Ltd. Türkiye’de 1992 yılında kurulan Honda Türkiye A.Ş. olarak yüzde 100 Honda Motor Co. sermayesi ile faaliyetlerini sürdürmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Citroen Otomobil Şirketidir",
+    "description": "Citroen, 1919 yılında Andre Citroen tarafından kuruldu. 1976 yılında PSA Grubu’nu kurmak için Peugeot ve Citroen birleşti.PSA Grubu Fransız otomobil üreticisidir.Bilinen markaları:PeugeotCitroënDSOpelVauxhall",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-08-26"
+  }
+]

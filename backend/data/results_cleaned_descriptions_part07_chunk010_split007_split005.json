@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Yolcu360",
+    "description": "Yolcu360, 2015 yılında Umut Yıldırım tarafından kurulmuş olan Yolcu360 Bilişim A.Ş. bünyesindeki araç kiralama platformu markasıdır.Şirketin yüzde 20 hissesi Eksim Holding’e aittir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mentholatum",
+    "description": "Mentholatum, 1889 yılında kurulmuş olan The Mentholatum Company Inc. bünyesinde üretilen kozmetik ürünler markasıdır.Tüm ürünleri paraben, koku, boya ve mineral yağ içermez.The Mentholatum Company Inc. 1988 yılında Japonya merkezli Rohto Pharmaceutical Co. Ltd. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Green Motion Araç Kiralama",
+    "description": "Green Motion, 2007 yılında kurulmuş olan Green Motion Limited bünyesindeki araç kiralama sistemi markasıdır.Green Motion Limited İngiltere merkezlidir. Franchise ağı şu anda dünya çapında 60’tan fazla ülkede ve 650’den fazla operasyonel konumda bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Punto Bianc",
+    "description": "Punto Bianc, 2001 yılında kurulmuş olan Ritim Kimya San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen genel temizlik ürünleri, banyo, wc temizlik ürünleri, zemin temizleme, cila ve bakım ürünleri, halı temizlik ürünleri, mutfak hijyen ürünleri, tekstil hijyen ürünleri, kişisel temizlik ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Capill Master ProfessionalPunto BiancTappa Bianc",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Windhager",
+    "description": "Windhager, 1983 yılında kurulmuş olan Windhager Handelsgesellschaft M.B.H. bünyesindeki böcek elekleri, dikim çubukları, kafesler, çim kenarları ve her türlü bahçe aksesuarları markasıdır.Windhager Handelsgesellschaft M.B.H. Avusturya merkezlidir ve ürünlerini 25 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

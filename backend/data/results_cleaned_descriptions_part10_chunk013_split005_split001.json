@@ -1,0 +1,45 @@
+[
+  {
+    "company": "AsCoton",
+    "description": "2013 yılında kurulmuş olan As Coton Ambalaj San. ve Tic. A.Ş. bünyesinde üretilen ambalaj markasıdır.Firma Gaziantep merkezlidir ve ürünlerini Gaziantep 2. OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sissel",
+    "description": "1993 yılında kurulmuş olan Novacare Gmbh bünyesindeki evde bakım ve klinik kullanım için özel olarak geliştirilmiş ürünler markasıdır.ISO 13485 belgesine sahiptir.Novacare Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Elk Ridge",
+    "description": "1982 yılında kurulmuş olan Master Cutlery Inc. bünyesinde üretilen av bıçakları, pala gibi sabit ve katlanır bıçaklar markasıdır.Ürünleri doğal ve sentetik kulplara sahiptir.Amerika merkezli Master Cutlery Inc. ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Valco Melton",
+    "description": "1952 yılında kurulmuş olan Valco Melton Inc. bünyesinde üretilen tutkal uygulamaları ve ekipmanları markasıdır.Valco Melton Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Landpack",
+    "description": "2017 yılında kurulmuş olan Foshan Land Packaging Machinery Co. Ltd. bünyesinde üretilen paketleme ve dolum makineleri, hazır poşet makineleri, çok hatlı paketleme makineleri, dikey form doldurma ve mühürleme makineleri, akışlı paketleme makineleri, tüp dolum ve mühürleme makineleri, otomatik dolum ve paketleme hatları markasıdır.Foshan Land Packaging Machinery Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

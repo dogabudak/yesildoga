@@ -1,0 +1,52 @@
+[
+  {
+    "company": "M.Original",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vacwell",
+    "description": "Vacwell Elektronik ve Tekstil San. Tic. Ltd. Şti. bünyesindeki halı, koltuk yıkama ve leke çıkarma makinesi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Quixx",
+    "description": "1990 yılında kurulmuş olan E.V.I. Gmbh bünyesinde üretilen rötuş kalemleri ve sprey boyalar, çizik rötuşu ürünleri markasıdır.E.V.I. Gmbh Almanya merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bross",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fujidenzo",
+    "description": "1982 yılında kurulmuş olan Excellence Appliance Technologies Inc. bünyesindeki ev aletleri, mutfak aletleri, çamaşır makinesi, buzdolabı, soğutucular markasıdır.Excellence Appliance Technologies Inc. Filipinler merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PH",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "BB Junior",
+    "description": "BB Junior, 2017 yılında May Cheong Toy Products Factory Limited bünyesinde üretilen 0-3 yaş arası çocuklar için model araçlar markasıdır.May Cheong Toy Products Factory Limited Hong Kong merkezlidir. Ürünlerini Çin’de üretmektedir ve 115 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Foppapedretti",
+    "description": "Foppapedretti, 1946 yılında kurulmuş olan Foppa Pedretti S.p.a. bünyesindeki bebek ürünleri ve ahşap ürünler markasıdır.Foppa Pedretti S.p.a. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Toagosei",
+    "description": "Toagosei, 1942 yılında kurulmuş olan Toagosei Co. Ltd. bünyesinde üretilen yapıştırıcılar, akrilik polimerler, inorganik yüksek saflıkta kimyasallar, kostik soda, plastik ürünler, sülfürik asit markasıdır.Toagosei Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Golosi",
+    "description": "Golosi, 1993 yılında kurulmuş olan Consorzio Zoodiaco bünyesinde üretilen köpekler ve kediler için kuru mama, ıslak, tamamlayıcı ve atıştırmalıklar markasıdır.Ürünleri hiç bir koruyucu ve renklendirici katkı maddesi, GDO içermez. Hayvanlar üzerinde test edilmemektedir.ISO 9001 belgesine sahiptir.Consorzio Zoodiaco İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.Bünyesindeki markalar;AffexGolosiMai PiuMondo BaffoOikosOro VerdeProlifeStillTogether",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Alvien",
+    "description": "Alvien, 2015 yılında Tayyar Investment Finansal Yönetim A.Ş. bünyesinde kurulan Best Food Dış Tic. Ltd. Şti. tarafından üretilen bisküvi, çikolata, kek, kraker, çikolata bar, gofret ve kremalı çikolata markasıdır.Firma İstanbul merkezlidir. Ürünlerini Karaman OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

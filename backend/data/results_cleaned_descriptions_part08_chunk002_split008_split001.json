@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cak Special",
+    "description": "Cak Special, 2001 yılında kurulmuş olan Cak Special Dikiş Makinaları İnşaat Otomotiv San. Dış Tic. Ltd. Şti. bünyesindeki sanayi dikiş makineleri, overlok makineleri, ilik makinesi, düz dikiş makinesi, reçme makinesi, punterez makinesi, lastik makinesi, mekanik düğme makinesi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rare Beauty",
+    "description": "Rare Beauty, 2019 yılında Selena Gomez tarafından kurulmuş olan Rare Beauty LLC bünyesinde üretilen kozmetik ürünler markasıdır.Rare Beauty LLC Amerika merkezlidir. Ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Just Cavalli",
+    "description": "Just Cavalli, 2000 yılında Roberto Cavalli SPA. bünyesinde üretilen gençler için giyim ve aksesuarlar, gözlük, saat, mücevher, parfüm, iç çamaşırı ve plaj kıyafetleri markasıdır.Roberto Cavalli SPA., 2019 yılından beri BAE merkezli Vision Investment Co. LLC. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Megasew",
+    "description": "Megasew, 2005 yılında kurulmuş olan Ming Jang Sewing Machine Co. Ltd. bünyesindeki endüstriyel dikiş makinesi, silindir yataklı kilitleme dikiş makinesi, küçük silindir yataklı kilitleme dikiş makinesi markasıdır.Ming Jang Sewing Machine Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Innogene",
+    "description": "Innogene, 2005 yılında kurulmuş olan Innogene Co. Ltd. bünyesinde üretilen takviye gıda ürünleri, güzellik, kuaför ürünleri ve ekipmanları, saç bakım ürünleri, estetik ürünleri ve ekipmanları markasıdır.Innogene Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Armine Giyim",
+    "description": "Armine, 1994 yılında kurulmuş olan Armine Giyim San. ve Tic. A.Ş. bünyesinde üretilen ipek eşarp, şal, kadın giyim ürünleri ve aksesuarları markasıdır.Firma İstanbul merkezlidir. Ürünlerini Bursa’da bulunan 9 bin 600 metrekarelik alandaki tesisinde üretmektedir. 52 Mağaza ile mağazacılık hizmeti vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brainsway",
+    "description": "Brainsway, 2003 yılında kurulmuş olan Brainsway Ltd. bünyesinde üretilen çeşitli nörolojik ve psikopatolojik bozuklukların tedavisi için tıbbi cihazlar markasıdır.Şirket, sağlığı iyileştirmek ve yaşamları dönüştürmek için tescilli Derin Transkraniyal Manyetik Stimülasyon platform teknolojisi ile sinirbilimi ilerletiyor.Brainsway Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Le Mandy Gazoz",
+    "description": "Le Mandy, BİM Birleşik Mağazalar A.Ş. adına Kristal Kola ve Meş. San. Tic. A.Ş. tarafından üretilen aromalı gazoz markasıdır.Fruktoz-glukoz şurubu, sitrik asit, sodyum benzoat, renklendirici içermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Milbona",
+    "description": "Milbona, 1930 yılında kurulmuş olan Lidl Stiftung & Co. KG, süt ve süt ürünleri, yoğurt, tereyağı, peynir markasıdır.Lidl Stiftung & Co. KG, Almanya merkezli Schwarz Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "CS Instruments",
+    "description": "CS Instruments, 2002 yılında Christian Schuldt ve Wolfgang Blessing tarafından kurulmuş olan Cs Instruments Gmbh & Co. KG bünyesinde üretilen basınçlı hava ve gaz ölçümünde çok sayıda uygulama için ölçüm cihazlar markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Cs Instruments Gmbh & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

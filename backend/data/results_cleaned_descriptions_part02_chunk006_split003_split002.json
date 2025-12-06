@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Helal Dünya Market",
+    "description": "Helal Dünya Marketleri (HDM) Dünyada ve Türkiye’de, GİMDES tarafından sertifikalanmış ürünlerin satıldığı marketlerdir. Kâr amaçlı olmayan, GİMDES’in projesi ve kontrolünde olan marketler zinciridir. İsim hakkı GİMDES’e ait olan bu marketler GİMDES tarafından kurulup işletilmemektedir.HDM marketlerde ağırlıklı olarak gıda ürünleri olmakla birlikte; kişisel bakım, kozmetik, giyim, içecek ve meşrubatlar, süt ürünleri, kahvaltılıklar, atıştırmalıklar ve ev eşyaları da yer alıyor.GİMDES, uzmanlar tarafından şekerlerin en zararlısı olduğu belirtilen kanserojen nişasta bazlı şeker (mısır şurubu, glikoz- früktoz şurubu) içeren ürünlere onay vermektedir. Bunun dışında domuz içerikli ürünler, böcek kanı olan ürünler, GDO’lu ürünler gibi ürünlere onay vermemektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lush",
+    "description": "Lush, 1995 yılında Mark ve Mo Constantine, Liz Weir, Helen Ambrosen, Rowena Bird ve Paul Greaves tarafından kurulan Lush Cosmetics Ltd. bünyesindeki organik kozmetik ve ciltbakım ürünleri markasıdır.Lush’un dünya çapında 40’tan fazla ülkede 650’den fazla mağazası ve fabrikaları vardır.İngiltere, İtalya, Japonya, Kanada ve Güney Amerika’da üretim tesisleri bulunmaktadır.Lush Cosmetics Ltd. İngiltere merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Snapchat",
+    "description": "Snapchat, 2011 yılında Evan Spiegel, Bobby Murphy ve Reggie Brown kurulan Snap Inc. bünyesindeki akıllı telefonlar için geliştirilen, platformlar arası çalışma özelliğine sahip bir anlık mesajlaşma uygulamasıdır.Snapchat’in temel özelliklerinden biri, resimlerin ve mesajların genellikle alıcıları tarafından erişilemeyen kısa bir süre için kullanılabilmesidir.Ücretsiz olan bu uygulama iOS ve Android platformları üzerinde çalışabilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Smashbox",
+    "description": "Smashbox, 2006 yılında Estee Lauder Şirketleri’ne bağlı olarak Türkiye’de kurulan ELCA Kozmetik Limited Şirketi markasıdır.Estee Lauder, 1946 yılında Bn.Estee Lauder tarafından kurulan makyaj, cilt bakımı, parfüm, saç bakım üretim ve pazarlama sektöründe faaliyet gösteren bir Amerikan şirketidir.Dünyada 150’den fazla ülke ve bölgede bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Opera Tarayıcı",
+    "description": "Opera, 1995 yılında Norveçli firma Oslo Bors tarafından geliştirilen ve 2016 yılında Çinli şirketlerden oluşan konsorsiyum (Golden Brick Capital Management) tarafından 600 milyon dolar karşılığında satın alınan ağ tarayıcısıdır. Bilgisayarlar ve mobil cihazlarda çalışan uygulamaları bulunmaktadır.Windows, macOS, Linux ve Android işletim sistemlerinde çalışan bir web tarayıcısıdır. Blink tarayıcı motorunu kullanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

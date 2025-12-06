@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Freescale",
+    "description": "Freescale, 1948 yılında kurulan Freescale Semiconductor, Inc. bünyesindeki yarı iletken markasıdır.Dünyanın ilk yarı iletken şirketlerinden biridir.19 ülkede 75’ten fazla noktada tasarım, arge, üretim ve satış operasyonları yürütmektedir.2015 yılında Hollanda merkezli NXP Semiconductors tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Rehau",
+    "description": "Rehau, 1948 yılında kurulan REHAU AG + Co. bünyesinde üretilen pencere ve cephe sistemleri, bina tesisati markasıdır.Yapı, Otomotiv ve Endüstri sektörleri için polimer bazlı çözümler sunar.Rehau, dünyada 170’ten fazla lokasyonda ürünleri yer alan Almanya merkezli bir şirkettir. Türkiye’de REHAU Polimeri Kimya San. A.Ş. olarak faaliyet göstermektedir.Bünyesindeki markalar:GENEORELAZZORAUVISIORAUTITANRAUVITHERMREHAU",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Accelink Technologies",
+    "description": "Accelink, 1978 yılında kurulan Accelink Technologies Co., Ltd. bünyesindeki optik bileşenler ve alt sistemler markasıdır.Optik fiber adaptörler, optik test cihazları, mikro-optik cihazlar, dağılım telafi modülleri, alt sistemler, fotoğraf dedektörleri, fiber optik bağlayıcılar ve ayırıcılar, optik anahtar ve zayıflatıcılar, WDM/DWDM/CWDM/OADM modülleri ve optik amplifikatörler üretmektedir.Accelink Technologies Corporation Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "BBMG",
+    "description": "BBMG, 2005 yılında kurulan Beijing Jinxuan Co, Ltd. bünyesindeki yapı malzemeleri markasıdır.En büyük inşaat malzemeleri üretim işletmelerinden biridir.Beijing Jinxuan Co, Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vinola",
+    "description": "Vinola, 1994 yılında kurulan Vinola Ankastre Mutfak Ürünleri A.Ş. bünyesinde üretilen ankastre mutfak ürünleri markasıdır.Türkiye genelinde yüzlerce bayisi ile hizmet vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

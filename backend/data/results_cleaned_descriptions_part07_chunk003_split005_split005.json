@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Plurawatt",
+    "description": "Plurawatt, 2009 yılında kurulmuş olan Plurawatt Sunlego Enerji Sistemleri A.Ş. bünyesinde üretilen güneş enerjisini elektriğe dönüştüren fotovoltaik paneller ve sistemler markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Xside",
+    "description": "Xside, 1997 yılında kurulmuş olan Lc Waikiki Mağazacılık Hizmetleri Tic. A.Ş. bünyesindeki atlet, bluz, eşofman altı, elbise, hırka, pantolon, kazak, sweatshirt, tayt, tişört markasıdır.Marka gençlere hitap etmektedir.İstanbul merkezli firma ürünlerini 47 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tvidler",
+    "description": "Tvidler, UAB BeWell EU bünyesindeki kulak temizleme çubuğu markasıdır.Spiral silikon kafa, kulak kanalına zarar vermeyecek yumuşak silikondan üretilmektedir.UAB BeWell EU, Litvanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LT",
+    "updated_date": null
+  },
+  {
+    "company": "Barload",
+    "description": "Barload, 2004 yılında kurulmuş olan Barload Machine Co. Ltd. bünyesindeki uzun veya kısa çubuk sürücü takım tezgahları, cnc otomat ve torna tezgahları, freze makinesi için yüzey tipi parça besleyici, robotik ekipmanlar, isteğe bağlı aksesuarlar markasıdır.Barload Machine Co. Ltd. Tayvan merkezlidir. Ürünlerini 50 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Tom Davies",
+    "description": "Tom Davies, 2002 yılında kurulmuş olan Td Tom Davies Limited bünyesinde üretilen güneş gözükleri ve optik markasıdır.Pamuk asetat, titanyum, doğal boynuz ve değerli metallerden, el yapımı olarak üretilmektedir.Td Tom Davies Limited İngiltere merkezlidir. Ürünlerini İngiltere’de üretmekte ve 23 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

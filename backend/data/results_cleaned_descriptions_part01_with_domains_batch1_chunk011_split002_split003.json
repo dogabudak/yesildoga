@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Youthair",
+    "description": "Youthair, saç bakım ürünleri markasıdır.Youthair ürünleri American International Industries’in güvencesi altındadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Toni & Guy",
+    "description": "Toni & Guy, 1963 yılında Toni ve Guy Mascolo tarafından kurulan Mascolo Limited bünyesindeki kuaför markasıdır.Saç şekillendirme ürünleri üretmektedir. 40 ülkede 600’ün üzerinde salonu, Dünya çapında 28 kuaför akademisi bulunmaktadır.Mascolo Limited, İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2023-03-20"
+  },
+  {
+    "company": "Listerine Firmanın",
+    "description": "Listerine, 1860 yılında Sir Joseph Lister tarafından kuruldu.Günümüzde ürünün sahibi Amerikan merkezli Johnson & Johnson şirketidir.Türkiye’de Johnson and Johnson Sıhhi Malzeme Sanayi ve Ticaret Limited Şirketi olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kipor",
+    "description": "2012 yılında Kipor markalı Jeneratörler, Reis Makina bünyesine katılmıştır.Topçu ailesi, tarafından kurulan Reis Makina, Elektrikli El Aletleri, Endüstriyel Ürünler, Jeneratör ve Motorlar, Torna ve Makina Tezgâhları, İş Güvenliği, Bahçe Aletleri, El Aletleri, Yıkama Makineleri başlıca ürün gruplarıdır.Reis Makina’nın müşterilerimize sunduğumuz Çeşidi 20.000’e varan zengin ürün yelpazesiyle, Reis Makina, bulunduğu sektörün lider kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kumtel",
+    "description": "Kumtel, 1972 yılında kurulan; pişirici, ısıtıcı, elektrikli ısıtıcı, mini ve tam boy fırın, tost makinası, barbekü ve su ısıtıcısı gibi çeşitli ev aletleri markasıdır.Kumtel ürünlerini Kayseri Organize Sanayi Bölgesinde üretmektedir.Üretiminin yüzde 70’ini Almanya, Güney Afrika, Meksika, Avustralya gibi 5 kıtadaki 105 ülkeye ihraç etmektedir.Kumtel AŞ. bünyesindeki markalar:KumtelLuxell",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

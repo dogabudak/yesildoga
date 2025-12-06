@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Airace",
+    "description": "Airace, 2010 yılında kurulan Airace Co. Ltd. bünyesinde üretilen bisiklet pompası, el aletleri ve araba yıkama makinesi, bisiklet yedek parçaları markasıdır.Airace Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Kaffe",
+    "description": "Kaffe, 2001 yılında Jens Poulsen tarafından kurulan DK Company A / S bünyesindeki giyim moda markasıdır.Ürün yelpazesinde bayan bluz ve ceketleri, tişört ve tank tops, giyim, ayakkabı ve aksesuarları, kadın elbiseleri, kazak ve hırka, pantolonlar yer almaktadır.DK Company A / S, Danimarka merkezlidir. Firma ürünlerini Çin ve Bangladeş’te üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Tetramin",
+    "description": "Tetramin, 1949 yılında Ulrich Baensch tarafından kurulan balık yemi markasıdır.Tetra Gmbh, 2005 yılında Amerika merkezli Spectrum Brands Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "MAZ",
+    "description": "MAZ, 1944 yılında kurulan Maz Jsc bünyesinde üretilen kamyon, otobüs, troleybüs markasıdır.Maz Jsc Belarus merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BY",
+    "updated_date": null
+  },
+  {
+    "company": "Polestar",
+    "description": "Polestar, 1996 yılında kurulan Polestar AB bünyesinde üretilen elektrikli performans otomobil markasıdır.Polestar AB, 2010 yılında Çin merkezli Zhejiang Geely Holding Group Co. Ltd. tarafından satın alındı. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

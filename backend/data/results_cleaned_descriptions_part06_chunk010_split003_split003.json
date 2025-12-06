@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cliff Gear",
+    "description": "Cliff Gear, 2021 yılında kurulan KMB Doğa Sporları Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen uyku tulumu, kamp malzemeleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Unitree Pump",
+    "description": "Unitree Pump, 2016 yılında kurulan Hangzhou Yushu Technology Co. Ltd. bünyesinde üretilen akıllı fitness ekipmanları markasıdır.Egzersiz bandını özelleştirilebilir motorlu dirençle şarj eder. Direnç bir motor ve bir mikrodenetleyici tarafından kontrol edildiğinden, her egzersizde tüm hareket boyunca sabittir. Uygulamadaki birkaç dokunuşla direnç doğrudan ayarlanabilir.Hangzhou Yushu Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mettler Toledo",
+    "description": "Mettler Toledo, 1945 yılında Erhard Mettler tarafından kurulan Mettler-Toledo International Inc. bünyesinde üretilen endüstriyel aletler, laboratuvar aletleri, perakende tartım aletleri markasıdır.Laboratuvar, endüstriyel ve gıda perakendeciliği uygulamalarında kullanılmak üzere en büyük tartım aletleri sağlayıcısıdır.Mettler-Toledo International Inc. İsviçre merkezlidir. Ürünlerini ABD, Almanya, Birleşik Krallık, İsviçre ve Çin’de bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Tongwei Solar",
+    "description": "Tongwei Solar, Tongwei Solar Co. Ltd. bünyesinde üretilen fotovoltaik hücreler markasıdır.Tongwei Solar Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Just Eat",
+    "description": "Just Eat, 2020 yılında iki gıda dağıtım firmasının birleşmesiyle kurulan Take​away​.com Group B.V. bünyesindeki paket yiyecek satış restoranları ve müşteriler arasındaki aracı markasıdır.Take​away​.com Group B.V. Hollanda merkezlidir ve 22 ülkedeki platformu aracılığıyla tüketicileri ve restoranları birbirine bağlayan bir çevrimiçi gıda dağıtım pazarıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

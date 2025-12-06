@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Casumina",
+    "description": "Casumina, 1976 yılında kurulan The Southern Rubber Industry Jsc. bünyesinde üretilen motorlu taşıt lastikleri markasıdır.Bisiklet, motosiklet, araba, kamyonet, kamyon, forklift ve traktörler için çeşitli lastikler üretmektedir. Ayrıca lastik eldiven, araba kauçuk tüp, tabaka lastik ve diğer ürünlerin üretimini gerçekleştirmektedir.The Southern Rubber Industry Jsc., Vietnam merkezlidir. Ürünlerini Vietnam’da bulunan fabrikalarında üretmekte ve 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "VN",
+    "updated_date": null
+  },
+  {
+    "company": "Kung Long",
+    "description": "Kung Long, 1990 yılında kurulan Kung Long Batteries Industrial Co. Ltd. bünyesinde üretilen kurşun asit akü, jel aküler, güvenlik, alarm, ev, ups, güç kaynağı için piller markasıdır.ISO 9001, ISO 14001, ISO 17025 ve ISO 45001 belgelerine sahiptir.Kung Long Batteries Industrial Co. Ltd. Tayvan merkezlidir. Ürünlerini Tayvan ve Vietnam’da bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 17025",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Outokumpu",
+    "description": "Outokumpu, 1914 yılında kurulan Outokumpu Oyj bünyesinde üretilen paslanmaz çelik ürünler markasıdır.Paslanmaz çelikte ferrokrom olarak kullanılmak üzere krom cevheri üretmektedir.Outokumpu Oyj Finlandiya merkezlidir ve 30’dan fazla ülkede faaliyet gösteren uluslararası şirketler grubudur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Sumake",
+    "description": "Sumake, 1997 yılında kurulan Sumake Industrial Co. Ltd. bünyesindeki darbeli anahtarlar, cırcırlı anahtarlar, tornavidalar, zımpara makineleri, çivi tabancaları, zımbalar, matkaplar, taşlama makineleri, perçinleme makineleri, çekiçler, hava kompresörleri, pompalar, kalafat tabancaları, gres tabancaları, hava püskürtme tabancaları, boyama tabancaları, elektro-mekanik el aletleri, elektrikli tornavidalar, elektrikli civata anahtarları markasıdır.Sumake Industrial Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Asml",
+    "description": "Asml, 1984 yılında kurulan Asml Holding N.V. bünyesindeki yarı iletken ekipmanları markasıdır.Bellek yongaları ve mantık yongaları üreticilerine hitap etmektedir.Asml Holding N.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

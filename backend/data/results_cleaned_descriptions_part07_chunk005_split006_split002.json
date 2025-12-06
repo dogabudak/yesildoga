@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cawston Press",
+    "description": "Cawston Press, 1986 yılında kurulmuş olan Cawston Press Ltd. bünyesinde üretilen gazlı içecek markasıdır.Cawston Press Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Pylontech",
+    "description": "Pylontech, 2009 yılında kurulmuş olan Pylontech-Pylon Technologies Co. Ltd. bünyesinde üretilen lityum akü, pil depolama sistemi markasıdır.Pylontech-Pylon Technologies Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nordisk Outdoor",
+    "description": "Nordisk Outdoor, 1901 yılında kurulmuş olan Nordisk Company A/S bünyesindeki dış mekan karavan ürünleri, yorgan ve yastık, tencere, sofra takımı, pusulalar, bıçaklar ve bisiklet çantaları markasıdır.Nordisk Company A/S Danimarka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "DJI Drone",
+    "description": "DJI, 2006 yılında kurulmuş olan SZ DJI Technology Co. Ltd. bünyesinde üretilen drone ve multikopter teknolojileri markasıdır.Ağırlıklı olarak dronlar, kameralar, kameralar ve akıllı telefonlar için sabitleyiciler, uçuş kontrol sistemleri üretmektedir.SZ DJI Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gühring",
+    "description": "Gühring, 1898 yılında kurulmuş olan Gühring KG. bünyesindeki delme takımları, diş açma takımları, freze takımları, kanal takımları, mandrenler, polikristalin elmas (pkd) takımlar, raybalama takımları markasıdır.Gühring KG Almanya merkezlidir. Türkiye’de Gühring Takım San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir. 48 ülkede 70’ten fazla üretim merkezine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cambot",
+    "description": "Cambot, 2005 yılında kurulan Binbir Çeşit Elektronik A.Ş. bünyesindeki robotik pencere temizleyici markasıdır.Firma Balıkesir merkezlidir ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Siblou",
+    "description": "Siblou, 2003 yılında C- Food International s.a.l. bünyesinde üretilen paketli deniz ürünleri markasıdır.H. A. C. C. P. belgesine sahiptir.C- Food International s.a.l. Lübnan merkezlidir. Ürünlerini Lübnan ve Vietnam’da bulunan tesislerinde üretmektedir ve 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "LB",
+    "updated_date": null
+  },
+  {
+    "company": "Ahsaf",
+    "description": "Ahsaf, Pulathaneliler Gıda Paz. San.Tic. A.Ş. bünyesinde üretilen zeytinyağı, zeytin, ceviz, badem, incir markasıdır.Tesislerinde ürünlere hiçbir kimyasal işlem uygulanmadan üretim yapmaktadır.Firma İstanbul merkezlidir. Ürünlerini Manisa’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bührer",
+    "description": "Bührer, 1929 yılında kurulan Bührer Traktorenfabrik AG bünyesinde üretilen traktör ve tarım makineleri markasıdır.Şirket üretimi durdurmuştur. Ana faaliyetleri yedek parça ticareti, traktör onarımı, traktörlerdir.Bührer Traktorenfabrik AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Aysan Zeytinyağları",
+    "description": "Aysan Zeytinyağları Nerenin Malı MarkasıAysan, 1995 yılında kurulan Soyyiğit Gıda San. ve Tic. A.Ş. bünyesinde üretilen natural sızma, riviera zeytin yağları markasıdır.Firma ürünlerini Edirne’deki 100 dönüm arazide kurulu entegre üretim tesislerinde üretmektedir. Ürünlerini 136 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

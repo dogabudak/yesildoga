@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Etekcity",
+    "description": "Etekcity2016 yılında kurulan Vesync Co. Ltd. bünyesinde üretilen tartılar, ölçüm aletleri, tüketici ürünleri markasıdır.Vesync Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve birçok ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alouette",
+    "description": "Alouette1972 yılında kurulmuş olan Dirk Rossmann Gmbh bünyesindeki cilt temizleme mendili, ıslak tuvalet kağıdı, kağıt havlu motifli, kağıt mendil, klozet kapak örtüsü, konfeti, kutu mendil, masa örtüsü, peçete, servis peçetesi markasıdır.Dirk Rossmann Gmbh Almanya merkezlidir. Şirket yüzde 60 hisse ile Rossmann ailesi ve yüzde 40 hisse ile Hong Kong merkezli Watson gurubuna aittir. 2009 yılında Türkiye pazarına giriş yapmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ultra Berrak",
+    "description": "Ultra Berrak2006 yılında kurulmuş olan Lila Kağıt San. ve Tic. A.Ş. bünyesinde saf selülozdan üretilen kağıt havlu ve peçete ürünleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini 300 bin metrekarelik üretim tesisinde üretmektedir ve 80’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Watercare Arıtma Cihazı",
+    "description": "Watercare1996 yılında kurulmuş olan Aps Tech Co. Ltd. bünyesinde üretilen su arıtma cihazları markasıdır.Şirket her türlü su arıtma ekipmanı, sebili, su filtresi, lavabo altı ve aksesuarları üretmektedir.ISO 9001, ISO 14001, CE belgelerine sahiptir.Aps Tech Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Laica",
+    "description": "Laica1974 yılında Moretto ailesi tarafından kurulmuş olan Laica S.p.A. bünyesindeki küçük ev aletleri ve su arıtma ekipmanları markasıdır.Laica S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

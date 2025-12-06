@@ -1,0 +1,44 @@
+[
+  {
+    "company": "I-xtech",
+    "description": "I-xtech, 1996 yılında kurulmuş olan ADG Uluslararası Tic. A.Ş. bünyesinde ithal edilen giyilebilir teknolojiler. şarj cihazları, şarj ve data kabloları, bluetooth hoparlörler, araç aksesuarları, kulaklıklar, telefon askıları, gözlük askıları, su isıtıcı markasıdır.Firma İstanbul merkezlidir, ürünlerini Çin’den ithal etmektedir ve bir çok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Copperson",
+    "description": "Copperson, 1998 yılında kurulmuş olan Kocaoğlu İç ve Dış Tic. Ltd. Şti. bünyesindeki tencere, tava markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Motech Solar",
+    "description": "Motech, 1981 yılında kurulmuş olan Motech Industries Inc. bünyesinde üretilen silikon güneş pilleri, invertörler, modüller ve güneş enerjisi sistemleri markasıdır.Motech Industries Inc. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Echostar",
+    "description": "Echostar, 1980 yılında kurulmuş olan Echostar Corporation bünyesindeki ağ sistemleri ve uydu hizmetleri markasıdır.Dünya çapında uydu iletişimi ve internet hizmetleri sağlayıcısı olan bir şirkettir.Echostar Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Venalisa",
+    "description": "Venalisa, 2013 yılında kurulmuş olan Guangzhou Canni Nail Art Co. Limited bünyesinde üretilen tırnak jeli markasıdır.Guangzhou Canni Nail Art Co. Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

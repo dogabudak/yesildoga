@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Dolby Laboratories",
+    "description": "Dolby Laboratories, 1965 yılında Ray Dolby tarafından kurulan Dolby Laboratories Inc. bünyesinde ses ve HDR görüntüleme teknolojileri markasıdır.Dolby Laboratories Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dufy",
+    "description": "Dufy, 1964 yılında kurulan Dufy Büyük Mağazacılık A.Ş. bünyesindeki erkek giyim markasıdır.Üretim dışında, yurt içinde 31 yurt dışında 5 mağazasıyla perakende sektöründe hizmet vermektedir.Dufy Büyük Mağazacılık A.Ş. 2016 yılında Cebeci Grubu tarafından tüm haklarıyla satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SoftMaker",
+    "description": "SoftMaker, 1989 yılında Martin Kotulla tarafından kurulan Softmaker Software Gmbh bünyesinde üretilen ofis üretkenliği yazılımı ve dijital yazı tipleri markasıdır.SoftMaker Office, ev, küçük işletme ve eğitim kullanıcılarına pazarlanan bir ofis paketi olan Softmaker’ın amiral gemisi ürünüdür. Tüm popüler dosya formatlarını destekler.Softmaker Software Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Organic",
+    "description": "Dr. Organic, 2007 yılında kurulan Dr Organic Ltd. bünyesinde üretilen güzellik, kozmetik ve kişisel bakım ürünler markasıdır.Ürünlerinde organik olarak yetiştirilen bileşenlerin en az yüzde 70’i kullanılır. Paraben, SLS, sentetik boya, mineral yağ, dea, bht veya izotiazolinon, gdo, koruyucu içermez. Hurma yağı türevleri içerebilir.Ürünleri hayvanlar üzerinde test edilmemektedir.Dr Organic Ltd. Birleşik Krallık merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "AYD OE Excellence!",
+    "description": "AYD OE Excellence!, 1975 yılında kurulan Aydınlar Yedek Parça San. Tic. A.Ş. bünyesindeki otomotiv yedek parçaları markasıdır.Ürün yelpazesinde binek, hafif ticari, ağır vasıta, treyler ve zirai araçlar için direksiyon ve süspansiyon parçaları, fren balatası, fren diski, hava körüğü ve hava tankı gibi ürünler yer almaktadır.ISO 9001, ISO 2701, TS EN ISO 14001, ISO 3834-2 ve IATF 16949 belgelerine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 2701",
+      "ISO 3834",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

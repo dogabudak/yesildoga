@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Abax Solar",
+    "description": "Abax, 2013 yılında kurulan Pem Enerji San. ve Tic. Ltd. Şti. bünyesindeki dizi inverterler, solar şarj kontrol cihazları, akülü inverterler, hibrid inverterler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vexus Audio",
+    "description": "Vexus Audio, 1989 yılında kurulan Henri Electronic Gmbh bünyesindeki amplifikatör, araç hoparlörleri, dış mekan hoparlörleri, duvar hoparlörü, hoparlörler, karıştırıcı, kulaklıklar, müzik ekipmanları, mikrofon, mobil pa sistemleri, tavan içi hoparlörler, güç kaynakları aksesuarları markasıdır.Henri Electronic Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Biwaa Fishing Performance",
+    "description": "Biwaa, Biwaa Co. Ltd. bünyesindeki balıkçılık ürünleri markasıdır.Ürün yelpazesi yumuşak plastik yüzücülerden, çok parçalı sert yemlerden ve hibrit yemlerden terminal olta takımlarına ve oltalara kadar uzanmaktadır.Ürünleri BPA ve ftalat içermez.Biwaa Co. Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Colmic",
+    "description": "Colmic, 1978 yılında kurulan Colmic Spa bünyesindeki balıkçılık ürünleri, olta takımları ve aksesuarları markasıdır.Şirketin iş kolu, spor ve rekreasyon ürünlerinin toptan dağıtımını içerir.Colmic Italia Spa İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Striacare",
+    "description": "Striacare, 1999 yılında kurulan Mega Farma İlaç ve Kozm. San. Tic. Paz. Ltd. Şti. bünyesindeki kozmetik ürünler markasıdır.Yeşil fasülye ekstresi, çuha çiçeği yağı, B5 ve E vitaminleri içerir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

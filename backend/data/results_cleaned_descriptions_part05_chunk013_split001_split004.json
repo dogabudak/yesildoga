@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Laken",
+    "description": "Laken, 1912 yılında kurulan Productos Deportivos S.A. bünyesinde üretilen şişe ve kaplar, yalıtımlı kamp malzemeleri markasıdır.Alüminyum, paslanmaz çelik ve plastik üretiminde uzmanlaşmış, ileri teknoloji ve tasarıma sahip dağcılık, kamp ve bisiklet ürünleri için uzmanlaşmıştır. Ürünleri BPA, ftalat gibi zararlı kimyasallar içermez. ISO 9001 belgesine sahiptir.Productos Deportivos S.A. İspanya merkezlidir. Ürünlerini 4 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Nalgene",
+    "description": "Nalgene, 1995 yılında kurulan Nalge Nunc International Corporation tarafından üretilen kırılmaz ve camdan daha hafif kavanozlar, şişeler, test tüpleri ve Petri kapları gibi plastik ürünler markasıdır.Nalge Nunc International Corporation Amerika merkezli Thermo Fisher Scientific’in bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aladdin Termos",
+    "description": "Aladdin, 1983 yılında kurulan PMI Worldwide Company bünyesindeki çelik vakumlu termos, kupa, bardak, matara, soğuk tutucu sürahi, su şişeleri ve seyahat kupaları markasıdır.Ürünleri BPA içermemektedir.PMI Worldwide Company Amerika merkezlidir. Ürünlerini Çin ve Brezilya’da bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zojirushi",
+    "description": "“Zojirushi“Zojirushi, 1948 yılında Ginzaburo ve Kinzaburo Ichikawa tarafından kurulan Zojirushi Corporation bünyesinde üretilen termos, elektrikli su ısıtıcısı, hava temizleyici, ekmek makinesi, sıcak su dağıtıcısı, elektrikli su kazanı ve pirinç ocak, vakum şişeleri, içecek dağıtıcı, kahve makinesi, vakum yalıtımlı gıda kavanozları, vakum yalıtımlı kupa ve şişeler, diğer elektrikli ürünler markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.Zojirushi Corporation Japonya merkezlidir.Hissedarları:Great Fortune International Development Ltd. (yüzde 14)Zojirushi Corp. (yüzde 9,6)Norio Ichikawa (yüzde 8,8)Ichikawa Family (yüzde 5,7)Zojirushi Kyoei Business Association (yüzde 3,2)Masahiro Ichikawa (yüzde 2,8)Yasuhiro Ichikawa (yüzde 2,8)Mitsubishi UFJ Financial Group, Inc. (yüzde 2,6)Ichikawa International Scholarships Foundation (yüzde 2,2)DAI-DAN Co., Ltd. (yüzde 0,91)",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2024-10-18"
+  },
+  {
+    "company": "Tescom",
+    "description": "Tescom, 1980 yılında kurulan Tescom A.Ş. bünyesinde üretilen inverter ve elektronik kontrol cihazları, kesintisiz güç kaynağı markasıdır.Ürün yelpazesinde 600 VA’dan 6400 kVA’ya kadar KGK, 32A-1250A arası Statik Transfer Anahtarı, 3-800 kVA arası özel üretim 60 Hz ve 400 Hz Frekans Konverterleri, redresörler, invertörler, SOLAR panel ve invertörler, VRLA AGM ve Nikel Kadmium aküler yer almaktadır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma İzmir merkezlidir. Ürünlerini İzmir Menemen Ulukent Sanayi Sitesi’nde 10 bin 500 metrekarelik kapalı alan üzerine kurulu tesislerinde üretmektedir ve 40 ülkeye ihraç etmektedir.Tescom Elektronik A.Ş., DMY Elektronik Enerji Petrol İnşaat Turizm San. ve Tic. A.Ş. grup şirketidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

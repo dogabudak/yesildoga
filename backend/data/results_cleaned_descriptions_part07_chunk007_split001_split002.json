@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Happy Clean",
+    "description": "Happy Clean, 1981 yılında Zeki Altun tarafından kurulmuş olan Altun Gıda İhtiyaç Tüketim Maddeleri İnşaat San. ve Tic. A.Ş. bünyesindeki toz deterjan, kağıt havlu, ıslak havlu, wc blok, sıvı deterjan, sıvı sabun, yumuşatıcı, bulaşık deterjanı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Getemed",
+    "description": "Getemed, 2003 yılında kurulmuş olan Getemed Medizin- und Informationstechnik AG bünyesindeki tıbbi teknoloji, kardiyolojik teşhis, ayakta yaşamsal belirtilerin izlenmesi ve telemonitoring markasıdır.Kalp atış hızı, solunum ve oksijen satürasyonu gibi önemli fizyolojik parametreleri izlemek için küçük, taşınabilir monitörler sunar.Getemed Medizin- und Informationstechnik AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Gothaer",
+    "description": "Gothaer, 1820 yılında kurulan Gothaer Versicherungsbank VVaG bünyesindeki mülkiyet sigortası, sağlık sigortası, hayat sigortası, doğrudan sigorta markasıdır.Gothaer Versicherungsbank VVaG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hempe",
+    "description": "Hempe, 1974 yılında kurulmuş olan Hempe Gmbh bünyesinde üretilen endüstriyel makineler markasıdır.Ürünleri arasında Frezeleme, Tornalama, EDM ve gıda endüstrisi için ince kırıcı ürünler yer almaktadır. ISO 9001 ve ISO 14001 belgelerine sahiptir.Hempe Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Freshchem",
+    "description": "Freshchem, 2008 yılında kurulmuş olan Bbs Endüstriyel Kimya Makine ve Plastik San. Tic. Ltd. Şti. bünyesinde üretilen endüstriyel bakım kimyasalları, gıda, çiftlik mutfak, çamaşır hijyen ürünleri, kişisel bakım ve havuz kimyasalları markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Behr",
+    "description": "Behr, 1905 yılında kurulan Mahle GmbH bünyesindeki radyatör, fan, kalorifer motoru, kalorifer radyatörü, klima radyatörü, soğutma elektrik aksamı, müşür, termostat, devirdaim ürünleri markasıdır.Mahle GmbH Almanya merkezli bir firmadır. Türkiye’de Konya ve İzmir’de fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Saucony",
+    "description": "Saucony, 1898 yılında kuruldu. 2012 yılında ayakkabı ve deri üreticisi Wolverine Worldwide şirketi tarafından satın alındı.Amerika merkezli Wolverine World Wide şirketi bünyesindeki Saucony, Türkiye dağıtıcılığını Marka Park Mağazacılık ve Pazarlama A. Ş. yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Vacheron Constantin",
+    "description": "Vacheron Constantin, 1755 yılında kurulan Vacheron Constantin SA bünyesindeki lüks saat markasıdır.Vacheron Constantin SA, 1996 yılında Richemont Group’un bir yan kuruluşu olmuştur.Richemont İsviçre merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Bonderite",
+    "description": "Bonderite, 2002 yılında ilk kez üretilen Henkel bünyesindeki yüzey işlem ürünleri markasıdır.Henkel Türkiye pazarına 1963 yılında yapıştırıcı teknolojileri alanında faaliyet gösteren üretim tesisini kurarak giriş yaptı. Bonderite Türkiye’de ilk kez 2005 yılında satılmaya başlandı.Bonderite markasını bünyesinde bulunduran Henkel 3 iş biriminde (çamaşır ve ev bakımı, beauty care ve yapıştırıcı teknolojileri) faaliyet gösteren Almanya merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bengay",
+    "description": "Bengay, Johnson kardeşler tarafından kurulan Johnson and Johnson bünyesinde ilk kez 1898 yılında üretilen ağrı giderici krem markasıdır. Bu kremin amacı vücutta bulunan sinir ve kasların rahatlamasını sağlamaktır.Tüketici sağlığı, Medikal cihazlar ve ilaç alanında faaliyet gösteren 1886 yılında kurulan Johnson and Johnson sıhhi malzeme San. ve Tic. Ltd. Şti. bir Amerikan şirketidir. Türkiye’deki faaliyetlerine 1985 yılında tüketim ürünleri firması olarak başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

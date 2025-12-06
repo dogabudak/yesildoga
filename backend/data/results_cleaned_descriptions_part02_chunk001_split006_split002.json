@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Choco Treasure",
+    "description": "Choco Treasure, 2010 yılında kurulan Candy Treasure, LLC bünyesindeki Choco hazine çikolata sürpriz yumurta, Choco hazine spor topları, Choco hazine çikolata Noel süsler, Hello Kitty Choco Treasure ve Madagaskar Choco Treaure Penguins markalı oyuncaklı çikolata markasıdır.Choco Treasure, İsviçre sütü ve çikolatası kullanılarak üretilmektedir.Candy Treasure, LLC Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Reebok",
+    "description": "Reebok, 1958 yılında Joe ve Jeff Foster tarafından kurulan Reebok International Limited bünyesindeki giyim ve ayakkabı da dahil olmak üzere fitness, koşu ve CrossFit spor kıyafetleri markasıdır.Reebok International Limited 2021 yılında Amerika merkezli özel sermaye şirketi Authentic Brands Group LLC tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-08-14"
+  },
+  {
+    "company": "ESET",
+    "description": "Eset, 1992 yılında iki şirketin birleşmesiyle kurulan Eset spol. s r.o. bünyesindeki antivirüs ve internet güvenlik ürünleri markasıdır.BT güvenlik yazılımı ve hizmetleri, 30’dan fazla dilde yerelleştirilmiş yazılımıyla dünya çapında 200’den fazla ülke ve bölgede temsil edilmektedir.Eset spol. s r.o. Slovakya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SK",
+    "updated_date": "2022-10-22"
+  },
+  {
+    "company": "Novartis",
+    "description": "Novartis, 1996 yılında Ciba-Geigy ile Sandoz’un birleşmesiyle kurulan çok uluslu eczacılık şirketi Novartis International AG bünyesindeki sağlık, gıda ve tarım ürünleri markasıdır.Geigy 18. yüzyıl ortalarında kimyasal madde ve boya ticaretiyle faaliyet gösterirken, Ciba 1859 yılında boya üretimine başlamış ve Sandoz 1886 yılında kimyasal madde firması kurmuştu.Novartis Group bünyesinde üretim yapan firma İsviçre merkezlidir.2016 yılında Novartis ürünleri, 180’den fazla ülkede yaklaşık 1 milyar kişiye ulaşmıştır.Novartis, 16 ülkede 25 üretim tesisinde üretim yapmaktadır. Bu üretim tesisleri arasında stratejik yedi fabrikadan biri olan Novartis Türkiye Kurtköy Üretim Tesisleri, 2005 yılında açılmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "ZF Sachs",
+    "description": "ZF Sachs, 1915 yılında kurulan ZF Friedrichshafen AG bünyesindeki otomobil parçaları markasıdır.ZF’nin 40 ülkede 230 adet üretim tesisi bulunmaktadır.ZF bünyesinde yer alan yüzde 100 Alman sermayeli firma ZF Sachs, Gebze OSB’de 55 bin 500 metrekarelik alanda üretim yapmaktadır. Türkiye’de yüzde 40’ı aşan oranda OEM Pazar payına sahip olan ZF Sachs Süspansiyon Sistemleri San. ve Tic. A.Ş., Ford Otosan, Fiat Tofaş, Oyak Renault gibi sektörün lider firmalarının ana tedarikçisi konumundadır.ZF Friedrichshafen AG’nin yüzde 93,8 hissesi Alman Zeppelin Vakfı’na yüzde 6,2’si ise Dr. Jürgen ve Irmgard Ulderup Vakfı’na aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

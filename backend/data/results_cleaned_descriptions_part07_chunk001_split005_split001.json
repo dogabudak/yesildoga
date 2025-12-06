@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Arkas Lojistik",
+    "description": "Arkas Lojistik, 1989 yılında Arkas Holding A.Ş. çatısı altında kurulan Arkas Lojistik A.Ş. bünyesindeki deniz, hava, kara, demiryolu kombine taşımaları yapan, açık yük ve proje taşımaları, forwarding ve depo hizmetleri sunan lojistik markasıdır.Arkas Lojistik yurtdışında Arkas Logistics markası adı altında yapılanmıştır.Arkas Holding A.Ş. 1902 yılında Gabriel J. B. Arcas tarafından İzmir’de kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Terme Di Crodo Quality Since 1931",
+    "description": "Terme Di Crodo Quality Since 1931 Nerenin MalıTerme Di Crodo Quality Since 1931, Kızıl Mavi Ay Enerji Turizm İnşaat San. ve Tic. A.Ş. bünyesinde üretilen maden suları markasıdır.Firma Çanakkale merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hyper Active",
+    "description": "Hyper Active, 1963 yılında kurulan Koruma Temizlik A.Ş. bünyesinde üretilen banyo, mutfak temizlik ürünleri, derz temizleyici, yağ çözücü, silikonlu temizleyici, lavabo açıcı, kireç çözücü markasıdır.Firma Kocaeli merkezlidir. Ürünlerini Kocaeli, Hatay ve Denizli’de bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vivace",
+    "description": "Vivace, 2016 yılında MaryAnn Guerra tarafından kurulan Aesthetics Biomedical Inc. bünyesindeki kolajen üretimini uyaran ve cilt yaşlanmasının etkilerini azaltan fraksiyonel bir mikroiğne cihazı markasıdır.Radyo frekans cihazındaki altın iğneler cilt altı dokulara ani bir atış gerçekleştirir. Yüz kırışıklıklarının, ince çizgilerin hafifletilmesinde ve yüzün, boynun, ellerin ve vücudun sıkılaştırılmasında ve tonlanması amacıyla kullanılır.Aesthetics Biomedical Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pomking",
+    "description": "Pomking, 1995 yılında Yakup Karahan tarafından kurulan Doğa Tohumculuk Gıda San. Tic. A.Ş. bünyesinde üretilen dondurulmuş patates markasıdır.BRC, ISO 22000, Helal belgelerine sahiptir.Firma Nevşehir merkezlidir. Ürünlerini toplam 65 bin metrekarelik alanda işlemektedir. 6 modernize yer altı deposuna sahiptir.Bünyesindeki markalar;DoğafrostDoğalfrostFrytımeGoldenıceKarfreshNewfreshPomfreshPomkingPomprincePomprincesPomqueen",
+    "documents": [
+      "BRC",
+      "CE",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

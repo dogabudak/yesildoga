@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Svetocopy",
+    "description": "Svetocopy, Sylvamo Corporation bünyesindeki kesilmiş ve ofset kağıt gibi kağıt ürünleri için kaplanmamış serbest sayfa (UFS) ile pazar hamuru, aseptik ve sıvı ambalaj tahtası (LPB) ve kaplanmış ağartılmamış kraft (CUK) kağıtları markasıdır.ISO 14001, ISO 9001 ve OHSAS 18001 belgelerine sahiptir.Sylvamo Corporation Amerika merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ergopouch",
+    "description": "Ergopouch, Alina Sack tarafından kurulan Martellor Pty. Ltd. bünyesindeki bebekler ve çocuklar pijama ve uyku tulumu markasıdır.Ürnün yelpazesi yenidoğandan 6 yaşına kadar uzanır. Pijamaları GOTS sertifikalı organik pamuk ve bambudan üretilmiştir, toksik olmayan sertifikalı ve cilt dostudur.Martellor Pty. Ltd. Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Zott",
+    "description": "Zott, 1926 yılında kurulan Zott Se & Co. Kg bünyesinde üretilen süt ve süt ürünleri, puding, yenilebilir buz, dondurma toz, unlu mamuller ve hamur işleri, hazır kekler ve gofretler, kakao bazlı içecekler, sütlaç markasıdır.Zott SE & co. KG Almanya merkezlidir. Polonya ve Almanya’da bulunan üretim tesislerinde ürünlerini üretmektedir. Ürünlerini 75’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2024-03-18"
+  },
+  {
+    "company": "Moi Bebe",
+    "description": "Moi Bebe, 2011 yılında kurulan Vizyon Parfümeri Ltd. Şti. bünyesinde üretilen bebek şampuanı, nemlendirici bebek vücut losyonu, pişik kremi, bebek güneş kremi markasıdır.Ürünleri Sls ve Sles, Paraben içermez ve Hipoalerjeniktir.Firma İstanbul merkezlidir.Bünyesindeki markalar;BewhiteMoi BebeMoira CosmeticsNaturalth",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yogi Tea",
+    "description": "Yogi Tea, 1984 yılında Yogi Bhajan tarafından kurulan organik bitkisel, yeşil ve siyah çay karışımları markasıdır.Yogi Tea, East West Tea Company LLC tarafından satın alınmıştır.Amerika merkezli şirket İtalya’da üretim yapmaktadır ve Almanya’da ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

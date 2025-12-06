@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Lilith Games",
+    "description": "“Lilith Games“2013 yılında kurulmuş olan Lilith Technology Co. Ltd. bünyesinde geliştirilen mobil oyunlar markasıdır.iOS, Android işletim sistemlerinde çalışan oyunlar üretmektedir.Lilith Technology Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Naturon",
+    "description": "“Naturon“2014 yılında kurulan Petlebi Güvenli E-Ticaret Ltd. Şti. bünyesindeki kedi konserveleri, petshop ve malzemeleri markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Muzee",
+    "description": "“Muzee“2012 yılında kurulan Changsha Pinguan Leather Trade Co. Ltd. bünyesinde üretilen kemerler, paspaslar markasıdır.Changsha Pinguan Leather Trade Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kristall Perfect",
+    "description": "“Kristall Perfect“1961 yılında kurulmuş olan Müller-Omicron GmbH & Co. KG bünyesinde üretilen diş silikonları, diş malzemeleri markasıdır.Malzeme NT karıştırma uçları ile işlenir.EN ISO 13485 belgesine sahiptir.Müller-Omicron GmbH & Co. KG Almanya merkezlidir. Ürünleri Almanya’da geliştirilmektedir ve 70 ülkeye pazarlanmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Qolory",
+    "description": "“Qolory“2016 yılında kurulmuş olan Perfumery Solutions Kozmetik Gıda San. Tic. Ltd. Şti. bünyesindeki kozmetik ve cilt bakımı, koku ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Perfumeprivate LabelQolory",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

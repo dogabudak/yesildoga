@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Air Liquide",
+    "description": "Air Liquide, 1902 yılında Paul Delorme tarafından kurulan Air Liquide S.A. bünyesindeki endüstriyel gazlar, ince kimyasallar markasıdır.Firma tıbbi, kimyasal ve elektronik üreticileri de dahil olmak üzere çeşitli endüstrilere endüstriyel gazlar ve hizmetler sağlamaktadır.Air Liquide S.A. Fransa çok uluslu bir şirkettir ve 80’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Everybot",
+    "description": "Everybot, 2016 yılında kurulan Everybot Inc. bünyesinde üretilen robot temizleyici markasıdır.Everybot sadece ürün geliştirmede değil, aynı zamanda kalite kontrol/üretim sisteminde de küresel standardı belirlemektedir.Everybot Inc. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Bizerba",
+    "description": "Bizerba, 1866 yılında kurulan Bizerba SE & Co. KG bünyesinde üretilen endüstriyel tartım ve etiketleme teknolojileri markasıdır.Perakende teraziler, dilimleyiciler, lojistik sistemleri, etiketler, çek tartıları üretmektedir.Bizerba SE & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hais",
+    "description": "Hais, 1985 yılında İsmail Acı tarafından kurulan Acısan Makina Teknik ve Endüstriyel Hırdavat tarafından ithal edilen ahşap işleme makineleri markasıdır.Hais markalı ürünlerini Çin’den ithal etmektedir.Bünyesindeki markalar;AcitoAmc PowerDeco-FlexHaisKuletaşLuftSafe-XShunTürkel",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bibaby",
+    "description": "Bibaby, 1980 yılında kurulan Akdem Mağazacılık Tic. Ltd. Şti. bünyesinde üretilen 0-3 yaş arası bebek giyim, anne ve bebek yardımcı ürünleri markasıdır.Ürünleri yüksek kalitede ve yüzde 100 pamuktan üretilmektedir. Bursa merkezli firmanın kendi kumaş ve boya tesisleri vardır. Ürünlerinin yüzde 30’unu 15 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

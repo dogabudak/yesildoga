@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Amadeus",
+    "description": "Air France, Lufthansa, Scandinavian Havayolları, Iberia tarafından 1987 yılında kurulan Amadeus BT Group, S.A. küresel seyahat teknolojisi şirketidir.Amadeus çözümleri gezginleri istedikleri yolculuklara bağlar; seyahat acenteleri, arama motorları ve tur operatörleri aracılığıyla havayollarına, havaalanlarına, otellere, arabalara ve demiryollarına bağlar.Amadeus BT Group, S.A. İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Nashi Sun",
+    "description": "Nashi Sun, 2010 yılında kurulan Nashi Argan s.r.l. bünyesindeki saç bakım ürünleri markasıdır.Her Nashi Argan ürün; saç ve cilt yumuşaklık, nemlendirme ve esenlik vererek basitlik ve etkinlik ile ihtiyaçlarınızı karşılamak için yaratılmıştır. Ürünlerinde Fas’ta üretilen organik Argan yağı kullanılmaktadır.Nashi Argan s.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Sally Hansen",
+    "description": "Sally Hansen, 1946 yılında Sally Hansen tarafından kurulan makyaj ve kozmetik ürünleri markasıdır. Coty Inc. bünyesindedir.Oje, oje kurutucu-temizleyici, tırnak koruyucu ve güçlendirici ürünlerin yanı sıra el-ayak, yüz bakım malzemeleri, bacak spreyi, dudak parlatıcısı gibi ürünlere sahiptir.Coty Inc. Amerika merkezli kozmetik firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Saubern Baby",
+    "description": "Saubern Baby, Haludun Ekşi tarafından kurulan Teif Bilişim Hizm. Sanal Mağazacılık ve Elektr. Tic. adına Uzay Kimya Sanayi ve Tic. A.Ş. tarafından üretilen bebek giysi ve eşyaları temizlik ürünleri markasıdır.Bünyesindeki markalar:Muju MujuNorfolkSaubern BabyTeifMirketKüchen PraticDizayn TruvaSpectral",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Morhipo",
+    "description": "Morhipo, 2011 yılında Boyner Holding çatısı altında kuruldu. Kadın, erkek, ayakkabı, çanta, çocuk, ev ve yaşam kategorilerinde ürünleri ve avantajlı kampanyaları sunan bir e-ticaret sitesiydi.2023 yılında faaliyetlerini sonlandırdı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2024-01-03"
+  }
+]

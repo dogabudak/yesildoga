@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Sennheiser",
+    "description": "Sennheiser 1945 yılında Labor W tarafından kurulan mikrofon, kulaklık gibi ses ürünleri üreten şirkettir.Stüdyo mikrofonu üreten Georg Neumann ve stüdyo monitörleri üreten Klein ile Hummel şirketin en önemli yan kuruluşlarıdır.Alman markası Sennheiser ses kaydı, iletimi ve üretimi ile ilgli tüm alanlarda en yüksek kalitede ürün ve çözümler üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-04-07"
+  },
+  {
+    "company": "Kaspersky",
+    "description": "Kaspersky Lab. 1997 yılında Yevgeni Kasperski tarafından kurulan, bilgisayar ve internet güvenliği üzerine çözümler sunan dünya çapında bir güvenlik şirketidir.Rusya merkezli güvenlik şirketi, işletmeleri, önemli altyapıları, devletleri ve tüketicileri korumak için güvenlik çözümlerini ve hizmetlerini sürekli olarak dönüştürmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": "2018-09-15"
+  },
+  {
+    "company": "Catrice Ülke",
+    "description": "Catrice markası 2001 yılında kurulan Cosnova Beauty kozmetik firmasına aittir.Avrupa’nın bir numaralı renkli kozmetik markasıdır. Dünya çapında 75’den fazla ülkede satış yapan Alman kozmetik firması Cosnova ile 2015 yılında Eczacıbaşı Tüketim Ürünleri arasında yapılan işbirliği kapsamında Catrice markasının, Türkiye’deki dağıtımını Eczacıbaşı üstlendi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "TredA Ülke",
+    "description": "TredA 2006 yılında kurulan depilasyon ürünleri markasıdır. Üretici kuruluş ARV Kozmetik Sanayi ve Dış Ticaret A.Ş. 2009 yılında kuruldu.2011 yılında Japonya’da kurulan dağıtım şirketi Taha Trading ile birlikte dünyanın çeşitli ülkelerinde depilasyon kategorisinde ürünler sağlanmaktadır.TredA yüzde 100 Türk sermayeli bir şirkettir ve Remove ile Blenior markalarını bünyesinde bulundurur.Treda’ya ait markaların Türkiye satış ve dağıtımı 2016 yılından beri Eczacıbaşı Tüketim Ürünleri tarafından yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SteelSeries",
+    "description": "SteelSeries 2001 yılında Jacob Wolff-Petersen tarafından kurulan fare, kulaklık, oyun aksesuarları ve yazılımı da dahil olmak üzere, bilgisayar çevre birimleri ve aksesuarları üreten şirkettir.Danimarkalı firma SteelSeries, 2008 yılında Kuzey Amerika merkezli oyun bilimleri ve teknoloji üreticisi Ideazon’u satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

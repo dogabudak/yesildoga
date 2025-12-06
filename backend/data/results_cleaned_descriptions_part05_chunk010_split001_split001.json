@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bzzt",
+    "description": "Bzzt, 2014 yılında kurulan Bzzt AB bünyesinde kurulan elektrikli taksi ve kargo markasıdır.Üç tekerlekli taksiyle açılış ücreti veya avans ödemeden sadece mesafe ücreti ile ödeme yapılır. Sürücüler toplu sözleşmelerle adil ücretler alır.Sipariş akıllı bir uygulamadan ve filonun verimliliğini dijital sistemden oluşan bir mobilite sistemiyle sağlanır. Şirket veya restoranlar yiyecek gönderimi yapabilir.Bzzt AB İsveç merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Phoenix Contact",
+    "description": "Phoenix Contact, 1923 yılında Hugo Knümann tarafından kurulan Phoenix Contact Gmbh & Co. Kg bünyesinde üretilen elektrik bağlantı cihazları ve elektronik ön uç ekipman markasıdır.Phoenix Contact Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hamamatsu",
+    "description": "Hamamatsu Photonics, 1953 yılında Heihachiro Horiuchi tarafından kurulan Hamamatsu Photonics K.K. bünyesinde üretilen optik sensörler (dahil fotomultiplikatör tüpler), görüntüleme cihazları, görüntüleme ve analiz sistemleri, elektrikli ışık kaynakları, opto-yarı iletkenler markasıdır.Hamamatsu Photonics K.K. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Bestron",
+    "description": "Bestron, 1976 yılında kurulan Bestron Bv bünyesinde üretilen elektrikli ev aletleri markasıdır.Kahvaltı için elektrikli cihazlardan, modaya uygun yemek pişirme cihazlarına ve pratik mutfak gereçlerinden, çok çeşitli klima ünitelerine kadar ürün çeşitliliğine sahiptir.Bestron Nederland Bv Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Proger",
+    "description": "Proger, 1951 yılında kurulan Proger S.P.A. bünyesindeki çok çeşitli alanlarda mühendislik, inşaat ve yönetim organizasyonu hizmetleri markasıdır.Firma trafik çalışmaları ve analizleri, hareketlilik planları ve tren istasyonları, havaalanları, yollar ile kurumsal, kamu ve konut binalarının inşasını sağlamaktadır.Proger S.P.A. İtalya merkezlidir ve 20’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

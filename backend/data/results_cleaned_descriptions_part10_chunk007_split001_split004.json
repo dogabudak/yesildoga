@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Autool",
+    "description": "2014 yılında kurulmuş olan Shenzhen Autool Technology Co. Ltd. bünyesinde üretilen araç arıza tespit cihazı, fren hava alma cihazı markasıdır.Shenzhen Autool Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir. Ürünleri 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Edwards Vacuum",
+    "description": "1919 yılında kurulmuş olan Edwards Ltd. bünyesindeki vakum pompası ve egzoz gazı yönetim sistemleri markasıdır.Edwards Ltd. İsveç merkezli Atlas Copco Grubunun bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Kojiesans",
+    "description": "2007 yılında kurulmuş olan Beaute Elements Ventures Inc. bünyesinde üretilen cilt bakım ürünleri markasıdır.Beaute Elements Ventures Inc. Filipinler merkezlidir.Bünyesindeki markalar;Cristalino SpringDanarraDefensil Antibacterial AlcoholDefensil Antibacterial SoapDefensil Pimple DefenseKojie SanKojie San +Kojie San Dream WhiteKojie San MenKojie San Sun ProtectScent TherapyTop2Tail",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PH",
+    "updated_date": null
+  },
+  {
+    "company": "Doddl",
+    "description": "2015 yılında Laura Thomas ve Catherine Dodd tarafından kurulmuş olan CMO Doddl Ltd. bünyesindeki çocuk çatal bıçak takımı markasıdır.CMO Doddl Ltd. İngiltere merkezlidir. Ürünleri 70’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Doslunas Cosmetics",
+    "description": "1990 yılında kurulmuş olan DOS Remedy Cosmetics Limited bünyesinde üretilen kozmetik ürünler markasıdır.Tamamı bitkisel içeriklidir ve ürünleri hayvanlar üzerinde test edilmemektedir.DOS Remedy Cosmetics İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Keybase",
+    "description": "Keybase, 2014 yılında Chris Coyne ve Max Krohn tarafından üretilen, herkesin kullanımına açık ve ücretsiz olan açık kaynak mesajlaşma ve dosya şifreleme programı markasıdır.2020 yılında Çin merkezli Zoom Video Communications, Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ground Zero",
+    "description": "Ground Zero, 1995 yılında Karl Felix Lautner tarafından kurulan Ground Zero Gmbh bünyesinde üretilen araç ses ürünleri markasıdır.Ürün yelpazesi, hoparlör, subwoofer, amplifikatör ve daha fazla dijital ses ekipmanı içermektedir. Dünya çapında 65’den fazla ülkede mevcuttur.Ground Zero Gmbh Almanya merkezlidir",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Purneva",
+    "description": "Purneva, Yerküre Doğal Yaşam Ürünleri A.Ş. bünyesindeki doğal ve organik kozmetik, kişisel bakım, temizlik ürünleri markasıdır.Firma GDO’suz, glikozsuz, katkısız ve koruyucu maddesiz gıdalar, paraben, SLS, EDTA içermeyen temizlik ürünleri üretmektedir.Ürünlerini mümkün olduğu kadar geri dönüştürülebilir kağıt ve cam ambalajlara koymayı tercih etmektedir.Bünyesindeki markalar;Anadolu BahçesiHekimanaPurnevaSade KöySade PazarYeşil Köpük",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Line Messenger",
+    "description": "2011 yılında kurulan Line Corporation bünyesindeki anlık iletişim uygulaması markasıdır.Akıllı telefon, tablet bilgisayar ve kişisel bilgisayarlar gibi elektronik cihazlarda anında iletişim sağlayan ücretsiz bir uygulamadır. Kullanıcıları metin, resim, video ve ses alışverişinde bulunur ve ücretsiz VoIP konuşmaları ve video konferansları yapar.Line Corporation Güney Kore merkezli Naver Corporation’ın yan kuruluşudur.Hissedarları:National Pension Service of Korea (yüzde 9,2)Naver Corp. (yüzde 6)Hae-Jin Lee (yüzde 3,8)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2025-05-13"
+  },
+  {
+    "company": "Threema",
+    "description": "Threema, 2012 yılında kurulan Threema Gmbh bünyesindeki açık kaynak kodlu, uçtan uca şifreli anlık mesajlaşma uygulaması markasıdır.Yazılım, bir telefon numarası veya başka herhangi bir kişisel bilgi gerektirmediği için gizlilik tasarım ilkelerine dayanmaktadır. Metin mesajlarına ek olarak, kullanıcılar sesli ve görüntülü görüşme yapabilir, multimedya, konumlar, sesli mesajlar ve dosyalar gönderebilir.Threema Gmbh İsviçre merkezlidir ve sunucuları İsviçre’de bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

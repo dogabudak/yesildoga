@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Resteril",
+    "description": "2020 yılında kurulmuş olan Dr. Kochers Hijyen Arge San. ve Tic. A. Ş. bünyesinde üretilen antibakteriyel spreyler, antibakteriyel tekstil ürünleri ve antibakteriyel yüzey hijyen ürünleri markasıdır.Doğal içerikli, antibakteriyel, antialerjik hijyen ürünleri sunmaktadır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jusy Baby",
+    "description": "2010 yılında kurulmuş olan Sevinçler Sağlık Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen bebek bezi markasıdır.ISO 9001, ISO 13485, GMP belgelerine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini Gaziantep 3. OSB’de bulunan 20 bin metrekarelik tesisinde üretmektedir ve 70’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bienly",
+    "description": "Bienly İthalat İhracat San. ve Tic. A.Ş. bünyesinde üretilen matara, mug, termos, sürahi, yağdanlık markasıdır.Ürünleri BPA içermemektedir.Firma Kocaeli merkezlidir. Ürünlerini Gebze’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Licove",
+    "description": "2015 yılında kurulmuş olan Licove Otomotiv San. Tic. Ltd. Şti. bünyesinde üretilen otomotiv yedek parçaları markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Uber",
+    "description": "2009 yılında Travis Cordell Kalanick ve Garrett Camp tarafından kurulmuş olan Uber Technologies Inc. bünyesindeki taksi, gıda dağıtım, paket teslimat, yük taşımacılığı uygulama hizmetleri markasıdır.Uber Technologies Inc. Amerika merkezlidir ve 70 ülkede faaliyet göstermektedir.Hissedarları:Sb Cayman 2 Ltd. (yüzde 19,4)Vanguard Group Inc. (yüzde 8,9)Blackrock Inc. (yüzde 7,3)Capital Research Global Investors (yüzde 5,7)Public Investment Fund (yüzde 3,4)Garrett Camp (yüzde 3,2)Fmr LLC (yüzde 2,7)Geode Capital Management LLC (yüzde 2,1)Jpmorgan Chase Co. (yüzde 1,8)Ryan Graves (yüzde 1,6)Wellington Management Group LLP (yüzde 1,5)Capital World Investors (yüzde 1,3)Jennison Associates LLC (yüzde 1,1)Northern Trust Corp. (yüzde 0,92)Ubs Group Ag (yüzde 0,9)Charles Schwab Investment Management Inc (yüzde 0,65)Brown Advisory Inc. (yüzde 0,65)Bank Of New York Mellon Corp. (yüzde 0,6)Goldman Sachs Group Inc. (yüzde 0,55)Nuveen LLC (yüzde 0,54)Invesco Ltd. (yüzde 0,53)Deutsche Bank Ag (yüzde 0,51)Boston Partners (yüzde 0,43)Clearbridge Investments LLC (yüzde 0,42)Wells Fargo Company (yüzde 0,39)",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

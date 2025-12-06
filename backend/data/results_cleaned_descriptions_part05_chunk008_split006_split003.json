@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Fluval",
+    "description": "Fluval, 1955 yılında kurulan Rolf C. Hagen Inc. akvaryumlar için filtrasyon, ısıtma, akvaryum, aydınlatma ve sulu bakım ürünleri markasıdır.Hagen, evcil hayvanlarla ilgili ürünler üretmektedir ve akvaryum filtrasyon hattı oluşturmuştur.Rolf C. Hagen Inc. Kanada merkezlidir.Bünyesindeki markalar;AquaclearExo TerraFluvalHabitrailLagunaMarinaTropicanZeus",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Wardley",
+    "description": "Wardley, 1950 yılında kurulan The Hartz Mountain Corporation bünyesinde üretilen evcil hayvan bakım ürünleri markasıdır.Şirket, köpekler, kediler, küçük hayvanlar, kuşlar, sürüngenler ve balıklar için bakım ve parazit koruması, oyuncaklar, eğitim yardımları, ikramlar ve çiğnemeler, bisküviler, yatak takımları, diyet ve takviyeler ve su klimaları sunmaktadır.The Hartz Mountain Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sera Yem",
+    "description": "Sera, 1970 yılında Josef Ravnak tarafından kurulan Sera Gmbh bünyesindeki balıklar için ev su ürünleri, akvaryum ürünleri ve gıda ürünleri markasıdır.Akvaryum bakımı, göletler, teraryum bakımı ve tuzlu su için tam kapsamlı ürünler üretmektedir. Balık yemleri, tedavi uygulamaları ve filter malzemelerinin yanı sıra sera teknik ürünler ve su bakımı için gerekli ürünleri de sunar.Sera Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir. Ürünleri 80 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pakpen",
+    "description": "Pakpen, 1989 yılında kurulan Pakpen Plastik Boru ve Yapı Elemanları San. ve Tic. A.Ş. bünyesinde üretilen pvc pencere ve kapı sistemleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Konya OSB’de 7 fabrikadan oluşan, yaklaşık 150 bin metrekarelik kapalı, toplam 300 bin metrekarelik entegre tesislerinde üretim yapmaktadır. Ürünlerini 50’ye yakın ülkeye ihraç etmektedir.Bünyesindeki markalar;PakboardPakdoorPakpanelPakpenPakplast",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polisil",
+    "description": "Polisil, 1990 yılında kurulan ASM Endüstriyel Ürünler Ltd. Şti. bünyesinde üretilen temizlik ve bakım ürünleri markasıdır.Ürünleri günlük ev temizliğinde ve ev dışında kullanılmaktadır.Bünyesindeki markalar;DuşsilMaxilPolidolPolisil",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

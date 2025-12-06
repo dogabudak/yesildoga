@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Spyderco",
+    "description": "Spyderco, 1978 yılında Sal Glesser tarafından kurulan Spyderco Knives, Inc. bünyesindeki bıçak markasıdır.Kullanım amacı farklı 20 çeşit bıçak üretmektedir.Bıçak üretiminin büyük bir kısmı, Japonya, Tayvan, İtalya ve Çin gibi ülkelerde yapılmaktadır.Spyderco Knives, Inc. Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İçdaş",
+    "description": "İçdaş, 1961 yılında Aslan ailesi tarafından kurulan İstanbul Çelik Demir İzabe Sanayi A.Ş. bünyesindeki inşaat çeliği ve alaşımlı çelik ürünleri markasıdır.İÇDAŞ, Türkiye’nin ikinci büyük çelik üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beyu",
+    "description": "Beyu, BeYu Cosmetics and more GmbH 1985 yılında kurulan ARTDECO cosmetic grubuna aittir.Almanya, İtalya, İspanya, Avusturya, Polonya, Hollanda, Macaristan, Çek Cumhuriyeti ve Romanya’daki Douglas parfümerilerinden temin edilebilir.Ürünleri 40’ın üzerinde ülkede satılmaktadır.Almanya merkezli BeYu Cosmetics and more GmbH, Avrupa ‘da kozmetik ürünlerinin en başarılı üreticileri arasındadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-01-02"
+  },
+  {
+    "company": "Boscia Kozmetik",
+    "description": "Boscia, 2002 yılında kurulan Boscia, LLC bünyesindeki cilt makımı ürünleri markasıdır.Sert kimyasallar veya koruyucular, sentetik koku ve renklendirici kullanmayan, etanol alkol ve gluten içermeyen ürünler Japon teknolojisiyle üretilmektedir. Ürünleri ayrıca bakteri ilaçları içermez, mineral yağ içermez ve hayvansal malzemeler içermez.Boscia, LLC Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Comfortfusse",
+    "description": "Comfortfüsse, Feza Dağlı tarafından kurulan Comfortfüsse San. ve Tic. bünyesindeki el yapımı ortopedik terlik, sandalet, ayakkabı ve bot ürünleri markasıdır.Ürünlerinde mantar, deri ve yün kullanmaktadır. Ürünlerin tamamı gerçek deri ve gerçek mantar granüllerinden üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-11-23"
+  }
+]

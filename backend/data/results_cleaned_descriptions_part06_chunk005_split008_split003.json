@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Berrak Makarna",
+    "description": "Berrak, 1984 yılında kurulan Tekinak Gıda San. ve Tic. A.Ş. bünyesinde üretilen makarna, un ve irmik markasıdır.ISO 9001, FSSC 22000 TSE ve Helal belgelerine sahiptir.Çankırı merkezli firma ürünlerini 80’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;BerrakGül MakarnaPasta RinoPasta Vino",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Töpfer",
+    "description": "Töpfer Hangi Ülkenin Malı MarkasıTöpfer, 1911 yılında kurulan Töpfer Gmbh bünyesinde üretilen organik bebek maması ve doğal kozmetik ürünleri markasıdır.Keçi sütünden organik lapaya kadar geniş bir ürün yelpazesine sahiptir.Töpfer Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Graceland",
+    "description": "Graceland, 1913 yılında kurulan Deichmann Se bünyesindeki kadın, erkek ve çocuk ayakkabıları, erkek ve kadın çanta ve çeşitli aksesuarlar markasıdır.Deichmann Se Almanya merkezlidir ve 26 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kate Quinn",
+    "description": "Kate Quinn, 2006 yılında kurulan Kate Quinn Organics Inc. bünyesindeki bebek bezleri, anne ve bebek kıyafetleri, aksesuarları markasıdır.Organik bebek giyiminde uzmanlaşan firma pamuklu ve bambu üstleri, altları, elbiseleri, tek parçaları, pijamaları, aksesuarları ve kadın eşyaları üretmektedir.Kate Quinn Organics Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yalçın Et",
+    "description": "Yalçın Et Nerenin Malı MarkasıYalçın Et, 1983 yılında kurulan Yalçın Et Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen et markasıdır.ISO 9001, ISO 22000, HELAL GIDA, TSE belgelerine sahiptir.İstanbul merkezli firmanın kendi besi çiftliği, hayvan kesim kombinesi ve modern et parçalama tesisi bulunmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "ATK Gaming Gear",
+    "description": "Shenzhen Yizhita Technology Co. Ltd. bünyesindeki bilgisayar oyun donanımları, kablosuz fare ve klavyeler markasıdır.Shenzhen Yizhita Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2024-12-01"
+  },
+  {
+    "company": "Hauck",
+    "description": "“Hauck“1923 yılında kurulmuş olan Hauck Gmbh + Co. Kg bünyesindeki araba ve bisiklet çocuk koltukları, bebek sağlık, bakım ve hijyen ürünleri, ahşap çocuk oyuncakları, bebek arabaları, mobilya, dış mekan oyuncakları ve aksesuarları markasıdır.Hauck Gmbh + Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Coolaer",
+    "description": "“Coolaer“1979 yılında kurulmuş olan Coolaer İklimlendirme Sistemleri A.Ş. bünyesinde üretilen soğutma sistemi, klima, soğutma sistemleri, ısı pompası, askeri klima cihazları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vithair",
+    "description": "“Vithair“2011 yılında kurulmuş olan Acs İlaç San. ve Tic. Ltd. Şti. bünyesindeki saç şampuanları, serumlar markasıdır.Ürünleri paraben, parfüm ve alkol içermez.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Teksan Jeneratör",
+    "description": "“Teksan“1994 yılında kurulmuş olan Teksan Jeneratör Elek. San. ve Tic. A.Ş. bünyesinde üretilen dizel, doğal gaz ve biyogazlı jeneratör setleri, mobil aydınlatma kulesi, portatif jeneratör, kojenerasyon, trijenerasyon çözümleri ve hibrit güç sistemleri markasıdır.Firma İstanbul merkezlidir. Ürün ve hizmetleri 140’tan fazla ülkede yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

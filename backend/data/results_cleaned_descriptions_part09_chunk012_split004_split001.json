@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Rolex",
+    "description": "“Rolex“1905 yılında Hans Wilsdorf tarafından kurulmuştur. Rolex S.A. bünyesinde üretilen kol saati ve aksesuarları markasıdır.Rolex S.A. sahiplik hisselerinin tamamı 1960 yılında İsviçre’de kurulmuş olan Hans Wilsdorf Vakfı’na aittir. Şirketin elde ettiği kârlar doğrudan vakfa yatırılır ve vergisizdir. Hisseleri dünya borsalarında satışa sunulmamıştır.Bünyesindeki markalar;1908Air-KingCosmograph DaytonaDatejustDay-DateDeepseaExplorerGMT-Master IILady-DatejustOyster PerpetualRolexSea-DwellerSky-DwellerSubmarinerYacht-Master",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "ScrapBooking",
+    "description": "“ScrapBooking“1902 yılında Narakichi Watatani tarafından kurulan Kuretake Co. Ltd. bünyesindeki kaligrafi, suluboya ve diğer el sanatları ve sanat malzemeleri markasıdır.Kuretake Co. Ltd. Japonya merkezlidir ve ürünlerini Japonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Pawbo",
+    "description": "“Pawbo“2014 yılında kurulmuş olan Pawbo Inc. bünyesindeki kablosuz evcil hayvan kamerası markasıdır.Pawbo Inc. 2016 yılında Tayvan merkezli Acer Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Sports Akileine",
+    "description": "“Sports Akileine“1943 yılında Paul Lacroix ve Henri Mas tarafından kurulmuş olan Laboratoires Asepta bünyesindeki cilt bakımı, ayak bakım ürünleri ve kozmetik ürünleri markasıdır.Laboratoires Asepta Monako merkezlidir. Üretiminin yarısını yurt dışına pazarlamaktadır.Bünyesindeki markalar;AkileineCoup D’EclatEcrinalSports AkileineVita Citral",
+    "documents": [],
+    "parent": null,
+    "origin": "MC",
+    "updated_date": null
+  },
+  {
+    "company": "Haver",
+    "description": "“Haver Sitikolin Cognizin“2006 yılında kurulmuş olan Haver İlaç San. ve Tic. A.Ş. bünyesindeki tüketici sağlığı ürünleri, vitaminler markasıdır.Firma İstanbul merkezlidir. Ürünlerini 22 bin metrekarelik açık alan, 32 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

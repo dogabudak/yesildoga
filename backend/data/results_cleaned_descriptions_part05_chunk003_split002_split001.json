@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Saitek",
+    "description": "Saitek, 1979 yılında Eric Winkler tarafından kurulan Saitek Ltd. bünyesindeki tüketici elektroniği markasıdır.Saitek Ltd. 2016 yılında İsviçre merkezli Logitech International S.A. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Sweetera",
+    "description": "Sweetera, 1992 yılında Tahir Önder tarafından kurulan Egepak Gıda ve Ambalaj San. A.Ş. bünyesinde üretilen stevia bazlı tatlandırıcı markasıdır.İzmir merkezli firma tatlandırıcı şeker alternatifleri, diyet ve diyabetik, glütensiz gıda ürünleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Queen",
+    "description": "Queen, 2008 yılında kurulan Meksim Pazarlama Tic. Ltd. Şti. bünyesinde üretilen küçük elektrikli ev aletleri markasıdır.İzmir merkezli firmanın ürünleri yüzde 100 yerli üretimdir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Delta Dondurucu",
+    "description": "Delta, 1954 yılında kurulan Uğur Soğutma A.Ş. bünyesinde üretilen dondurucu ve soğutucu, sandık tipi derin dondurucu markasıdır.Ürünlerini 220 bin metrekarelik alanda üretmektedir.TS EN ISO 9001, DIN ISO 10002, ISO 14001, ISO 22301, ISO 28000, ISO 31000, ISO 50001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 22301",
+      "ISO 28000",
+      "ISO 31000",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aflac",
+    "description": "Aflac, 1955 yılında kurulan Aflac Incorporated bünyesindeki tamamlayıcı sigorta markasıdır.Çeşitli sigorta poliçeleri sunmaktadır.Aflac Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

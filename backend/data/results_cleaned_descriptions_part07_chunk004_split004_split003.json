@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Sanicat",
+    "description": "Sanicat, 1957 yılında kurulmuş olan Tolsa S.A. bünyesindeki kedi kumu, yeni nesil katkı maddeleri, alev geciktirici, virisit, biyosit, mantar ilacı ve algisit katkı maddeleri, fotokatalitik dekontaminasyon ve kendi kendini temizleyen katkı maddeleri, boyalar ve kaplamalar, bitüm ve asfalt, inşaat malzemeleri katkı maddeleri, sondaj performans malzemeleri, endüstriyel emiciler, ağartma toprakları, filtrasyon, arıtma, hayvansal üretim katkı maddeleri, tarımsal katkı maddeleri markasıdır.Kedi kumunun üretiminde kullanılan hammaddeler olan minerallerin çıkarılmasını, işlenmesini ve ticari piyasaya sürülmesini gerçekleştirir.Tolsa S.A. İspanya merkezlidir ve ürünlerini 95 ülkeye pazarlar.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Linkbest",
+    "description": "Linkbest, 1996 yılında kurulan First-Horse Metal Products Co. Ltd. bünyesinde üretilen paslanmaz tencere, toz kutuları, ütü masaları, elbise askıları ve tel depolama arabaları markasıdır.First-Horse Metal Products Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fit Fly Bird Materials",
+    "description": "Fit Fly Bird Materials, 1989 yılında kurulmuş olan Pelagos Akvaryum San. ve Tic. Ltd. Şti. bünyesindeki evcil hayvanlar için kafes, tül ve aksesuarlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fortigate",
+    "description": "Fortigate, 2000 yılında kurulmuş olan Fortinet Inc. bünyesindeki fiziksel güvenlik duvarları, virüsten koruma yazılımı, izinsiz giriş önleme sistemleri ve uç nokta güvenlik bileşenleri gibi siber güvenlik çözümleri markasıdır.Fortinet Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Flexovit",
+    "description": "Flexovit, 1665 yılında kurulmuş olan Saint-Gobain Group SA bünyesinde üretilen taşlama, bileme, zımparalama, perdahlama diskleri markasıdır.Aşındırıcı ürün yelpazesiyle pek çok sektör, malzeme ve uygulama için kesme, taşlama, kaynak, finisaj ve polisaj çözümleri sunmaktadır.Saint-Gobain Group SA Fransa merkezlidir. Dünya çapında 63 üretim tesisine sahip firma 27 ülkede faaliyet göstermektedir.Bünyesindeki markalar;AdforsAsturienneBevegoBrasilitBritish GypsumBrodrene DahlBūvniecibas AbcCalders & GrandidgeCarborundumCdl ElecCebraceCedeoCelotexCertainteedC-FlexChrysoCoramineCultileneDahlDecoceramDecousticsDiscesurDispanoDistriplacDp MaterialesEcophonEhituse AbcEkoradEurocousticEurokeraFlexovitFormulaFrance Pare-BriseFrazerFuronGcp Applied TechnologiesGeorge BoydGibbs & DandyGimmGlassdriveGlassolutionsGlava IsolasjonGyprocInternational Decorative SurfacesInternational TimberIsorocIsoverIzocamJewsonJp CorryKaimannKanduKimmco IsoverLa Maison Saint-GobainLa Plateforme Du BatimentLecaLes Menuiseries FrançaisesMag IsoverMinsterMonterNorbondNorglideNormansNortonNorton ClipperNoviproOmniseal SolutionsOptimeraPamPanofrancePasquillPdmPlacoPlakaPoint.PPumRencolRigipsSageglassSaint-Gobain Building GlassSaint-Gobain NorproSaint-Gobain Performance PlasticsSaint-Gobain Sekurit TransportSaint-Gobain SullySaint-JustSanigrifSanitas TroeschSani-TechSefproSekuritSekurit ServiceSevaSevaxSficSheerfillSolar GardStyl’DécoSwisspacerTadmarTechnifenTelhanorteTygonVennad DahlVetrotechVetrotexWeberWehrWinterZirpro",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

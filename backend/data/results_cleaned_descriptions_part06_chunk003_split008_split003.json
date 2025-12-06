@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Elita Gıda",
+    "description": "Elita, 2006 yılında Sunar Grup bünyesinde kurulan Elita Gıda San. ve Tic. A.Ş. tarafından üretilen bitkisel sıvı yağları markasıdır.Çiftçiden doğrudan alarak işlediği yağlı tohumları nihai ürün haline getirmektedir. Mısır, ayçiçek, aspir ve omega-3 içerikli bitkisel sıvı yağlar üretmektedir.ISO 9001, ISO 10002, ISO 22000, ISO 14001, ISO 27001, Helal, Kosher ve TSE belgelerine sahip firma Adana merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Manfrotto",
+    "description": "Manfrotto, 1972 yılında Lino Manfrotto ve Gilberto Battocchio tarafından kurulan Lino Manfrotto + Co. bünyesindeki aksiyon kameraları ve dronlar, aydınlatma kontrol çözümleri, fotoğrafik filtreler, kamera çantaları, tripodlar, video tripodları markasıdır.Ürün yelpazesi, çok çeşitli kamera tripodları ve kafaları, aydınlatma stantları ve aksesuarları içermektedir.Lino Manfrotto + Co. 1989 yılında İngiltere merkezli Vitec Group Plc tarafından satın alındı. Ürünlerini 65’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Standard Chartered",
+    "description": "Standard Chartered, 1969 yılında kurulan Standard Chartered PLC bünyesindeki refah ve gelişim odaklı bireysel ve kurumsal bankacılık hizmetleri markasıdır.Dünyanın en dinamik 60’tan fazla pazarında var olan uluslararası bir bankacılık grubudur.Standard Chartered PLC İngiltere merkezlidir. 2003 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Yükseloğlu Unları",
+    "description": "Yükseloğlu Unları Nerenin Malı MarkasıYükseloğlu Unları, 1974 yılında kurulan Yükseloğlu Un A.Ş. bünyesinde üretilen un markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;Güz ÇiğdemGüz ŞahmanYükseloğlu Unları",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nature’s Bounty",
+    "description": "Nature’s Bounty, 1971 yılında kurulan The Nature’s Bounty Co. bünyesinde üretilen vitamin ve gıda takviyeleri markasıdır.Vitaminler, gıda takviyeleri, mineraller, protein barları ve tozları ve güzellik ürünleri üretmektedir.The Nature’s Bounty Co. Amerika merkezlidir.Bünyesindeki markalar;Body FortressDr.OrganicEster-CMET-RxNatures BountyOsteo Bi-FlexPure ProteinSolgarSundown",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

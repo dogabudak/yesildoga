@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Talya",
+    "description": "Talya, 2003 yılında Fitoterapi Uzmanı M. Halis Ertaş tarafından kurulan Talya Bitkisel Ürünler bünyesindeki bitkisel ekstraklar, yağlar, doğal kozmetik ürünleri ve gıda takviyeleri markasıdır.Firma bitkisel, uçucu (esansiyel) ve sabit (soğuk sıkım) yağların üretimini Antalya’da yapmaktadır ve özel markalar için ürün geliştirmektedir.Talya Bitkisel, Türkiye’de 23 binden fazla eczanede ve diğer işletmelerde satılırken, dünyada 25 ülkede satışı yapılmaktadır.2016 yılında Amerika’da Talya Herbal LLC şirketini kurmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Summer Tour",
+    "description": "Summer Tour, 2002 yılında kurulan turizm seyahat acentasıdır.Summer Tour bünyesinde ayrıca Beril Otelcilik Turizm Ticaret Ltd. Şti. yer alıyor.Antalya’da kurulan Azerbaycan tur operatörü Summer Tour’un sahibi Nümayiş Ahmedov’dur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Baytec",
+    "description": "Baytec, 2015 yılında kurulan Covestro Deutschland AG, Bayer şirketinin bir bölümüdür, polimerler ve yüksek performanslı plastikler üretmektedir.Kaplamalar, yapıştırıcılar, yalıtım malzemeleri, sızdırmazlık maddeleri, Polikarbonatlar ve poliüretanlar üretir, pazarlar ve dağıtır. Covestro, ürünleri otomotiv, inşaat, sağlık, elektronik ve tıp gibi sektörlere pazarlar.Bayer bünyesindeki Covestro Deutschland AG Almanya merkezli bir şirkettir.Covestro poliüretan 2014 resmi FIFA Dünya Kupası futbol topunda kullanıldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-05-15"
+  },
+  {
+    "company": "Hublot",
+    "description": "Hublot, 1980 yılında Carlo Crocco tarafından kurulan saat ve mücevher ürünleri markasıdır.Hublot, 2008 yılında dünyanın en büyük lüks tüketim malları üreticisi LVMH bünyesine girmiştir.LVMH, Bernard Arnault’un holding şirketi olan Arnault Family Group bünyesindedir. LVMH hisselerinin yüzde 46,84’üne sahip ve yüzde 63,13 oranında oy hakkına sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Neoperl",
+    "description": "Neoperl, 1959 yılında ortak bir aile şirketi olarak kurulan NEOPERL grubu bünyesindeki aerators, akış regülatörleri, kontrol valfleri, diverters, mutfak spreyleri, bağlantı ve Duş hortumları ve aksesuarlar markasıdır.2013 yılında Türkiye pazarına girmiştir ve NPI Sıhhi Tesisat Malzemeleri Ticaret A.Ş. olarak hizmet vermektedir.Neoperl İsviçre ve Almanya ortaklığında kurulmuştur. Pazarlama ofisi Reinach-Basel (İsviçre), ana üretim, arge ve lojistik Müllheim (Almanya)’da bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

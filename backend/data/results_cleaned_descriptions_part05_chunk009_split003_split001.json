@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Eklips",
+    "description": "Eklips, 2009 yılında kurulan Gratis İç ve Dış Tic. A.Ş. bünyesindeki akne ve siyah nokta temizleme aparatı, anahtarlık, bavul etiketi, atkı, şal, fular, ayak bakımı, banyo bakım setleri, bileklik, cüzdan, eklips manikür çubuğu, epilasyon, ağda, tıraş, fırça, sünger, keseler, küpe, kartlık, kolye, kulak temizleme çubukları, makyaj fırça, aksesuarları, makyaj temizleme ürünleri, masaj aletleri, maske, oda kokuları, plaj çantası, plaj tekstil, ponza, saç aksesuarları, saç bakım ürünü, saç boyaları, sabunlar, siperlik, tüy toplayıcı, tırnak bakım ürünleri, tırnak törpüsü, taç, takma tırnak, tattoo, sticker, toka, yüzük, yüz bakımı, battaniye, havlu, ped saklama kutusu, çıtçıt makas, çanta, çoraplar, şapka, şemsiye markasıdır.Gratis A.Ş.’nin yüzde 55 hissesi İngiltere merkezli Actera Group Limited’e geri kalan hisseler kurucu Demir Sabancı’nın sahibi olduğu Sedes İç ve Dış Tic. A.Ş.’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Idexx",
+    "description": "Idexx, 1983 yılında kurulan Idexx Laboratories Inc. bünyesindeki veteriner aletleri markasıdır.Veteriner hekimlere geniş bir teşhis ve bilgi teknolojisi tabanlı ürün ve hizmet yelpazesi sunmaktadır. 175’ten fazla ülkede hizmet vermektedir.Idexx Laboratories Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cuppon Smart Home",
+    "description": "Cuppon Smart Home, 1998 yılında kurulan Sinus Elektrik Elektronik İnşaat Turizm Taahhüt San. ve Tic. Ltd. Şti. bünyesindeki motor sistemleri, kepenk ups, kumanda, alıcı, inverter kaynak makinesi markasıdır.İstanbul merkezli firma kepenk UPS, otomatik kayar kapı sistemleri, kumanda, alıcı ünitesi, inverter kaynak makinesı üretmektedir.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hakersan H",
+    "description": "Hakersan, 1971 yılında kurulan Hakersan Banyo Aksesuarları İnşaat Taahhüt İthalat İhracat San. ve Tic. Ltd. Şti. bünyesinde üretilen klozet kapağı, rezervuar iç takımı, flatör markasıdır.İstanbul merkezli firma ürünlerini çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;AkersanArnasHakersanHakersan HVesa",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Penosil",
+    "description": "Penosil, 1974 yılında kurulan Wolf Group OÜ bünyesinde üretilen enerji tasarruflu sızdırmazlık ve yapıştırma çözümleri markasıdır.Firma yalıtım PU köpükleri, derz dolgu macunları, yüzey işlemleri ve beton katkı maddeleri üretmektedir.Wolf Group OÜ Litvanya merkezlidir. Ürünlerini Estonya, İspanya, Rusya’da bulunan tesislerinde üretmektedir ve 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LT",
+    "updated_date": "2021-12-14"
+  }
+]

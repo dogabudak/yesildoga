@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Timewatch",
+    "description": "Timewatch, 2017 yılında kurulmuş olan Merve Saat Kozmetik Gıda İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki saat markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dial’x",
+    "description": "Dial’x, 2014 yılında kurulmuş olan Kadran Saat San. ve Dış Tic. Ltd. Şti. bünyesindeki çocuk saatleri, akıllı saat, dijital saat, spor saatleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "W.Lane",
+    "description": "W.Lane, 1977 yılında kurulmuş olan Mosaic Brands Limited bünyesindeki kadın moda perakende markasıdır.Şirket, kadın iş, gündelik ve diğer çeşitli etkinlik elbiselerinin yanı sıra çantalar, şapkalar, hediyeliker, mücevherler, eşarplar sunmaktadır.Mosaic Brands Limited Avustralya merkezlidir.Bünyesindeki markalar;AutographBemeCrossroadsEzibuyKatiesMillersNoni BRiversRockmansW. Lane",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Soupline",
+    "description": "Soupline, 1806 yılında kurulmuş olan Colgate Palmolive Company bünyesindeki yumuşatıcı markasıdır.Colgate-Palmolive Company Amerika merkezlidir. 1985 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Muju Muju",
+    "description": "Muju Muju, Teif Bilişim Hizm. Sanal Mağazacılık ve Elektr. Tic. bünyesinde üretilen bebek küvet ürünleri markasıdır.Yerli üretim ürünleri birinci sınıf plastikten üretilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

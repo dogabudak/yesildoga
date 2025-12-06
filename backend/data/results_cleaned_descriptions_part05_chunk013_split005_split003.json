@@ -1,0 +1,44 @@
+[
+  {
+    "company": "FDK Batarya",
+    "description": "FDK, 1950 yılında kurulan FDK Group bünyesinde üretilen manganez kuru pil, özel lityum bataryalar, aküler markasıdır.Uzaktan sayaç okuma uygulamalarında kullanılan özel lityum bataryalar, nikel-metal hibrit bataryalar, alkalin piller, Aküler, SMD tipi küçük boyutlu katı hal pille üretmektedir.FDK Group Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Aesthetic Dermal",
+    "description": "Aesthetic Dermal, 1996 yılında kurulan Skin Tech Pharma Group S.L. bünyesinde üretilen günlük bakım ürünleri markasıdır.Skin Tech Pharma Group S.L. İspanya merkezlidir ve 80 ülkeye ürünlerini pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Halolux",
+    "description": "Halolux, 2016 yılında kurulan Ledvance Gmbh bünyesindeki akkor lambalar, deşarj lambaları, doğrusal esnek ve alan aydınlatması, doğrusal rijit çözümler, floresan lambalar, halojen lambalar, ışık yönetim sistemleri, lambalar, lambalar için elektronik kontrol dişlileri, led ışık motorları ve modülleri, led lambalar, led sürücüleri, led tüpler, trafik sinyalizasyon ekipmanları için lambalar markasıdır.Ledvance Gmbh, 2018 yılından beri Çin merkezli MLS Co. Ltd.’ye aittir ve 140’dan fazla ülkede ticari faaliyetleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Plantur",
+    "description": "Plantur, 2005 yılında Dr. Wolff Group GmbH & Co. KG bünyesinde üretilen hormonla ilişkili saç dökülmesinin önlenmesi ve renk bakım serisi ürünleri markasıdır.Dr. Wolff Group GmbH & Co. KG Almanya merkezlidir ve ürünleri 60’ın üzerinde ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Catit",
+    "description": "Catit, 1955 yılında kurulan Rolf C. Hagen Inc. bünyesindeki kedi maması, kedi kumu, kediler için plastik ürünler, çeşitli kedi oyuncakları, çok amaçlı koku giderici temizlik ürünleri, kedi mobilyaları, kedi spreyleri markasıdır.Rolf C. Hagen Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

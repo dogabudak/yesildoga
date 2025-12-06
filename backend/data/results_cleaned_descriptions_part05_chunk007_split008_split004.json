@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Wanli Tire",
+    "description": "Wanli Tire, 1988 yılında kurulan Wanli Co. Ltd. bünyesindeki lastik markasıdır.Ürünlerini 150 ülkeye pazarlamaktadır.Wanli Co. Ltd., Guangzhou Industrial Investment Holding Group Co.’ya bağlı Çin merkezli bir şirkettir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Imutor",
+    "description": "Imutor, 1942 yılında kurulan Eczacıbaşı Yatırım Holding Ortaklığı A.Ş. bünyesindeki kuruluş şirketlerinden EİP Eczacıbaşı İlaç Pazarlama A.Ş. tarafından ithal edilen ve fason üretilen multivitamin ve mineral takviyesi markasıdır.C vitamini ve çinko bağışıklık sisteminin normal fonksiyonuna katkıda bulunur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eurho Vital",
+    "description": "Eurho Vital, 1993 yılında kurulan Beyer Global Healthcare Gmbh bünyesindeki gıda takviyesi ve kozmetik ürünler markasıdır.Beyer Global Healthcare Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Love Dog Snackers",
+    "description": "Love Dog Snackers, 1972 yılında kurulan Biopet Ltd. bünyesinde üretilen kuru köpek ve kedi maması markasıdır.Maabarot Products Ltd.’nin bir parçası olan Biopet Ltd. İsrail merkezli evcil hayvan maması ve aksesuarları üreticisi ve pazarlamacısıdır.HACCP ve ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Ecico Giyim",
+    "description": "Ecico, 1975 yılında kurulan Ecico Group Limited bünyesinde üretilen bayan giyim, bayan çanta ve erkek giyim markasıdır.Ecico Group Limited Hong Kong merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

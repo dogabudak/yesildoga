@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Yemekmatik",
+    "description": "Yemekmatik, 2017 yılında Türkiye Lokantacılar, Kebapçılar, Pastacılar ve Tatlıcılar Federasyonu iş birliği ile kurulan Yemekmatik Kurumsal Hizmetler A.Ş. bünyesindeki yemek kartı, yemek çeki markasıdır.TROY logolu ilk yemek kartıdır. Herhangi bir komisyon bedeli olmayan kart, üye iş yerlerindeki anlaşmalı banka terminalleri kullanılarak bankacılık sistemi üzerinde geçmektedir.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Metropolcard",
+    "description": "Metropolcard, 2013 yılında kurulan Metropal Kurumsal Hizmetler A.Ş. bünyesindeki yemek kartı markasıdır.Çevrimiçi ödeme olanağını sağlamaktadır. Restopay, PetroPay, PassPay, OtelPay, OkulPay, GiftPay ve FiloPay gibi hizmetler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Green Therapy",
+    "description": "Green Therapy, 2009 yılında kurulan Alliance Kozmetik San. ve Tic. A.Ş. bünyesinde üretilen saç boyası ve saç bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ruck & Maul",
+    "description": "Ruck & Maul, 2002 yılında kurulan Şafak Tekstil San. ve Tic. İth. İhr. Ltd. Şti. bünyesinde üretilen anahtarlık, bermuda şort, boxer, cüzdan, çanta, elbise, erkek aksesuar, golf collection, gömlek, hırka, kapüşonlu sweatshirt, kargo şort, kazak, kemer, kısa kollu ceket, kısa tayt, kolej ceket, kot pantolon, mont, örme pantolon, pantolon, polo tişört, spor ceket, sweatshirt, şapka, şort etek, tişört, tulum, yağmurluk, yelek markasıdır.İstanbul merkezli firma bin 500 metrekarelik kapalı alanda faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Westcott",
+    "description": "Westcott, 1872 yılında Henry Westcott tarafından kurulan kesme ve ölçme aletleri markasıdır.Ürün yelpazesinde akas, cetvel, tutkal tabancaları, kalemtıraşlar, kağıt kesiciler ve matematik aletleri yer almaktadır.Westcott, 1968 yılında Amerika merkezli Acme United Corporation tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

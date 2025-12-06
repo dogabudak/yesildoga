@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Carl Zeiss",
+    "description": "Carl Zeiss markası 1846 yılında Carl Zeiss tarafından kurulan, hassas mekanik çözümler ve optikler üretmekte olan bir atölyeden büyüyerek gelişmiş ve ZEISS Grup olarak yarı iletken üretim ekipmanları, ölçüm teknolojisi, mikroskoplar, tıbbi teknolojiler, gözlük camları, film ve kamera lensleri, binokülerler ve planetaryum teknolojisi geliştirmekte ve bunların dağıtımını yapmaktadır.Tüm dünyada kullanılan mikro çiplerin çok büyük bir kısmı Almanya merkezli ZEISS’in optik teknolojileri kullanılarak üretilmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Türk Telekom",
+    "description": "Telefon, internet, mobil ve televizyon hizmetleri sunan 1994 yılında kurulan Türk Telekomünikasyon A.Ş.’nin toplam sermayesinin yüzde 55’ini temsil eden payları 2022 yılında Türkiye Varlık Fonu (TVF) tarafından satın alındı.Türk Telekom Hisseleri:Türkiye Varlık Fonu (yüzde 60)Türkiye Hazine Müsteşarlığı (yüzde 25)Halka Arz Edilen Borsada İşlem Gören Hisse (yüzde 15)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-03-16"
+  },
+  {
+    "company": "Başak Traktör",
+    "description": "Başak Traktör Sahibi KimBaşak Traktör, 1914 yılında Adapazarı’nda Demir Araba-Tahta Araba Fabrikası olarak açılmıştır. Başak Traktör 2012 yılında Sanko Grubu’na katılmıştır.1962 yılından itibaren Ford marka traktörlerin ithalatını yapmaya başlayan Başak Traktör, 1968 yılından itibaren Ford ile yapılan işbirliği çerçevesinde Adapazarı’nda yüzde 65 yerli üretim oranı ile imalat başarısını göstermiştir.1976 yılında Avusturyalı STEYR firmasıyla yapılan anlaşma kapsamında STEYR markası ile traktör üretimine başlanmış, 1996 yılından itibaren BAŞAK markası ile traktör üretimine devam edilmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "BlackBerry",
+    "description": "BlackBerry, 1984 yılında İstanbul’da doğan Karadeniz Rumu Mike Lazaridis tarafından BlackBerry marka akıllı telefon ve tabletlerin üreticisi olan Research In Motion (RIM) şirketini kurdu.2013 yılında Research In Motion (RIM) şirketinin adı BlackBerry Limited olarak değiştirilen Kanadalı telekomünikasyon ve kablosuz cihaz üreticisidir. BlackBerry marka akıllı telefon ve tabletlerin üreticisi olan firmanın ana ofisi Ontario, Kanada’dadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Hilti",
+    "description": "Hilti, 1941 yılında Eugen ve Martin Hilti tarafından kurulmuş olan Hilti Corporation bünyesinde üretilen şarjlı, elektrikli aletler, elektrikli süpürge, makine uçları, doğrudan tespit sistemleri, ölçüm aletleri ve tarayıcılar, tespit elemanları, yangın durdurucular ve yangına karşı koruma, modüler kanal sistemleri, cephe montaj sistemleri, inşaat kimyasalları, yazılım markasıdır.Hilti Corporation, Lihtenştayn merkezlidir. Avrupa, Meksika, ABD, Hindistan ve Çin’de üretim yapmaktadır. Ürünlerini 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LI",
+    "updated_date": "2023-09-25"
+  }
+]

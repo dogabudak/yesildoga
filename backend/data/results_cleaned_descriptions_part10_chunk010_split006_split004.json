@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Us Wheleer",
+    "description": "2015 yılında kurulmuş olan Hangzhou Wheeler General Machinery Incorporated Co. Ltd. bünyesinde üretilen CNC takım tezgahları, otomatik takım tezgahı yükleme ve boşaltma çözümleri markasıdır.Hangzhou Wheeler General Machinery Incorporated Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Musatti Motor",
+    "description": "2011 yılında kurulmuş olan Musatti Motor San. ve Tic. Ltd Şti. bünyesindeki motosiklet markasıdır.Altın Grup Motor bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elektrone",
+    "description": "2004 yılında kurulmuş olan Kron Bisiklet Tic. ve San. A.Ş. bünyesindeki elektrikli bisiklet, katlanır bisiklet markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Woodster",
+    "description": "2005 yılında kurulmuş olan Woodster Gmbh bünyesindeki mobilya markasıdır.Woodster GmbH Almanya merkezli Scheppach Gmbh iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Avx",
+    "description": "2012 yılında kurulmuş olan AVS Ambalaj ve Kağıt San. Tic. A.Ş. bünyesinde üretilen endüstriyel çift taraflı bant, transfer bant, kendinden yapışkanlı etiket ve silikon kaplı malzemeler markasıdır.ISO 9001, ROHS ve REACH belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 25 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

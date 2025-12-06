@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Çöps",
+    "description": "Çöps, 2016 yılında kurulan Sez Gıda Ltd. Şti. bünyesindeki Çöpşiş ve et ürünleri sunan restoranlar zinciridir.ÇÖPS restoranları franchise sistemi ile işletilmektedir.Dondurulmadan hazırlanmış et ürünlerini işletme, tedarik sistemiyle tüketicilerle buluşturur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bolenn Hug",
+    "description": "Bolenn Hug, 2015 yılında kurulan Bolenn S.L. bünyesinde üretilen bebek otomobil koltuğu markasıdır.Bolenn S.L. Çin merkezli bir şirkettir ve ürünlerini Çin’de üretmektedir. ISO 9001 belgesine sahiptir. Isofix sistemi özelliğine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2020-06-26"
+  },
+  {
+    "company": "Taotronics",
+    "description": "Taotronics, 2007 yılında kurulan Sunvalley Group bünyesinde 2008 yılından itibaren üretilen Bluetooth kulaklık, Bluetooth hoparlör ve LED aydınlatma ürünleri markasıdır.Sunvalley Group; ABD, İngiltere, Japonya ve Almanya da dahil olmak üzere 7 ülkede ürünlerini satan Çinli elektronik kuruluşudur.Bünyesindeki markalar:AnjouHootooRavpowerTaotronicsUspicyVava",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Aigo",
+    "description": "Aigo, 1993 yılında Feng Jun tarafından kurulan Beijing Huaqi Information Digital Technology Co., Ltd. bünyesindeki tüketici elektroniği şirketidir.Aigo ürünleri mobil internet cihazları, dijital depolama (usb ve sabit diskler), taşınabilir medya oynatıcı, cep telefonu, dijital kamera, güneş enerjisi şarj cihazları, mp6 (internet müzik platformu), eğitim ürünleri, bilgisayar kasaları, bilgisayar çevre birimleri içerir.Beijing Huaqi Information Digital Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Oleg Cassini",
+    "description": "Oleg Cassini, 1950 yılında kurulan perakende, gelinlik, özel etkinlik elbisesi, düğün aksesuarları, ayakkabı ve çanta, parti aksesuarları, nikah şekeri ve davetiye markasıdır.Türkiye’de ilk mağazasını 2010 yılında açtı.Gelinlik ve abiyede Amerika’nın bir numaralı markasıdır. Oleg Cassini, bir Amerikan markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "B. Braun",
+    "description": "B. Braun, 1839 yılında Julius Wilhelm Braun tarafından kurulan B. Braun Melsungen AG bünyesindeki tıbbi ve farmasötik cihaz markasıdır.B. Braun Melsungen AG Almanya merkezlidir. Firmanın 60’tan fazla ülkede ofisleri ve üretim tesisleri bulunmaktadır. Türkiye’de 2000 yılından beri B. Braun Medikal Dış Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Barum Bravuris",
+    "description": "Barum, 1948 yılında kurulan Barum s.r.o. bünyesinde üretilen otomobil, kamyonet ve arazi taşıtları için lastik markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Barum s.r.o., 1993 yılında Almanya merkezli Continental Grubu tarafından satın alınmıştır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fusswohl",
+    "description": "Fusswohl, 1972 yılında kurulan Dirk Rossmann Gmbh bünyesindeki ayak bakım kremi, ayak bakım maskesi, serinletici jel markasıdır.Dirk Rossmann Gmbh Almanya merkezlidir. Şirketin yüzde 60’ı Rossmann ailesine, yüzde 40’ı Hong Kong merkezli Watson Gurubu’na aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Megeon",
+    "description": "Megeon, 2002 yılında kurulan Megeon OOO bünyesinde üretilen ölçüm cihazları markasıdır.Ürün yelpazesinde akü test cihazı, anemometre, basınç göstergesi, boru kesiciler, esnek ölçerler, dinamometre, dürbün büyüteçleri, elektrik alan şiddeti ölçer, elektrik ölçme pensesi, frekans sayacı, gaz analizörü, gizli kablolama dedektörleri, güç kaynakları, gürültü ölçer, kablo test cihazı, kablolar ve adaptörler, kalınlık ölçer, l / c / r ölçüm cihazları, lehimleme ekipmanları, luxmetre, megaometre, metal dedektörleri, mikroskoplar, multimetre / test cihazları, nem ölçer, optik radyasyon güç sayaçları / optik test cihazları, osiloskoplar, oto test cihazları, ölçüm aletleri, ph ölçer, pirometre, refraktometre, rulo şekillendirme setleri, seviyeler / açıölçerler, sıkma ekipmanları, sinyal jeneratörleri, su analizörleri, su sızıntısı sensörleri, takometre, telemetre, terazi, termal kameralar, termo-higrometre, sıcaklık ölçer, termoregülatörler, titreşim ölçer, toprak ölçer, tork ölçer, ultrasonik banyolar, vakum ekipmanları, wattmetre gibi ürünler yer almaktadır.ISO 9000 belgesine sahiptir.Megeon OOO Rusya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Benlee",
+    "description": "Benlee, 1984 yılında kurulan Punch Gmbh bünyesinde üretilen spor malzemeleri ve aksesuarları markasıdır.Ürün yelpazesinde boks sporuyla ilgili tüm malzemeler ve aksesuarlar yer almaktadır.Punch Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

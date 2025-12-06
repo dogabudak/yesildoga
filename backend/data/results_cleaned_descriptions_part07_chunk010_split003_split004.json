@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Footbalance",
+    "description": "Footbalance, 2003 yılında kurulmuş olan Footbalance System Oy bünyesindeki ayak sağlığı, spor ürünleri markasıdır.Footbalance System Oy Finlandiya merkezlidir. Ürünlerini 40’tan fazla ülkeye dağıtmaktadır.Bünyesindeki markalar;FitzoneFootbalanceMyfootbalance",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Fako Etiketleme Makineleri",
+    "description": "Fako, 2013 yılında kurulmuş olan Fako Etiketleme Makineleri San. Tic. Ltd. Şti. bünyesinde üretilen çok amaçlı etiketleme makineleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Miramak Yakamoz",
+    "description": "Miramak Yakamoz, 1981 yılında kurulmuş olan Ünalan Su Teknolojileri İnşaat Turizm San. ve Tic. Ltd. Şti. bünyesinde üretilen su arıtma cihazları, su filtreleri, manyetik kireç önleyiciler markasıdır.Firma Balıkesir merkezlidir ve ürünlerini Balıkesir Sanayi Sitesi’nde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cordivari",
+    "description": "Cordivari, 1972 yılında Ercole Cordivari tarafından kurulmuş olan Cordivari Srl bünyesinde üretilen radyatörler, su depolama tankları, silindir kaplar, termal güneş sistemleri, baca sistemleri, gıda kapları markasıdır.UNI EN ISO 9001, UNI EN ISO 14001 belgelerine sahiptir.Cordivari Srl İtalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Pacotizing",
+    "description": "Pacotizing, 1988 yılında kurulmuş olan Pacojet International AG bünyesinde üretilen dondurulmuş hammaddelerin işlenmesinde kullanılan mutfak makinesi markasıdır.Restoran mutfaklarında çoğunlukla dondurma ve şerbet gibi tatlı tatlılarda sorbetin imalatında kullanılmaktadır.Pacojet International AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

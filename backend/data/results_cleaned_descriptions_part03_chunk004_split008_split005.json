@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ulvac",
+    "description": "Ulvac, 1992 yılında kurulan ULVAC Technologies, Inc. düz panel ekranlar, elektronik bileşenler, yarı iletkenler ve genel endüstri ekipmanları markasıdır.Özellikle sanayi ve araştırma enstitüleri için vakum araçları üretmektedir.ULVAC Technologies, Inc. 1992 yılında Japonya merkezli ULVAC, Inc.’in Amerika iştiraki olarak kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Jenoptik",
+    "description": "Jenoptik, 1991 yılında kurulan Jenoptik AG bünyesinde üretilen lazerler ve lazer sistemleri, hassas lensler ve optik bileşenler, metroloji sistemleri, trafik uygulama kameraları, elektrik motorları, jeneratörler, güç kaynağı üniteleri, optik sensörler markasıdır.Jenoptik, faaliyetlerini Üç fotonik tabanlı ışık ve optik, ışık ve üretim ve ışık ve güvenlik bölümlerine ayıran bir Alman entegre fotonik grubudur.Şirketin dünya çapındaki müşterileri arasında yarı iletken ekipman imalatı sanayi, otomotiv ve otomotiv yan sanayi, medikal teknoloji, güvenlik ve savunma teknolojisi nin yanı sıra havacılık endüstrisinde faaliyet gösteren şirketler bulunmaktadır.Jenoptik, Almanya’daki birçok önemli tesise ek olarak, ABD, Fransa, Hollanda ve İsviçre’nin yanı sıra Singapur, Hindistan, Çin, Kore, Japonya ve Avustralya’da olmak üzere dünya çapında yaklaşık 80 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Südzucker",
+    "description": "Südzucker, 1926 yılında kurulan Südzucker AG bünyesinde üretilen şeker, nişasta, işlenmiş meyve ürünleri, dondurulmuş ve soğutulmuş pizza, biyoetanol markasıdır.Südzucker AG’nin Südzucker adı altında sadece Almanya, Polonya ve Moldova’da fabrikaları bulunmaktadır.Südzucker AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ekmecik",
+    "description": "Ekmecik, 2015 yılında kurulan Başak Gıda Dağıtım Paz. San. ve Tic. A.Ş. tarafından BİM AŞ için üretilen ekmek, sandviç, kurabiye, çörek, donuk ürünler, yarı donuk ürünler markasıdır.Başak Gıda, Bim ve File gibi zincir marketlere hizmet vermek amacıyla iştirak firması olarak kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Amoy",
+    "description": "Amoy, 1908 yılında kurulan Amoy Food Ltd. bünyesinde üretilen sirke, sos, susam yağı markasıdır.Üretimden, paketleme ve dağıtıma kadar her bir prosedür şirket tarafından yönetilir.Amoy Food Ltd. Hong Kong merkezlidir. Ürünlerini Hong Kong’da bulunan üretim tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Aynasun",
+    "description": "Aynasun, 2004 yılında kurulmuş olan Fargen Sağlık Hizmetleri A.Ş. bünyesinde üretilen güneş kremi, güneş losyon, güneş kremi sprey, bronzlaşma yağı markasıdır.ISO 9001 ve ISO 13485 belgelerine sahiptir.Firma İstanbul merkezlidir ve İstanbul’da bulunan fabrikalarında ürettiği ürünleri 25’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Joyee Dikiş Makinesi",
+    "description": "Joyee, 2006 yılında kurulmuş olan Jiangsu Joyee Sewing Machine Co. Ltd. bünyesinde üretilen dikiş makineleri, kumaş kesme makineleri, endüstriyel dikiş makineleri markasıdır.Jiangsu Joyee Sewing Machine Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Victor Hugo Çanta",
+    "description": "Victor Hugo, 1997 yılında kurulmuş olan Victor Hugo Artefatos De Couro Ltda. bünyesindeki kadın çantaları, kartlıklar, kemerler ve aksesuarlar markasıdır.Victor Hugo Artefatos De Couro Ltda. Brezilya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Raliss",
+    "description": "Raliss, Hairton / Joykozmetik A.Ş. bünyesinde üretilen profesyonel saç ürünleri, krem, şampuan, saç boyası ve saç bakım ürünleri, sıvı sabun, duş jeli markasıdır.ISO 9001, ISO 14001, ISO 22716, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soho N.Y.C.",
+    "description": "Soho N.Y.C. Nerenin Malı MarkasıSoho N.Y.C. 2016 yılında kurulmuş olan Ag İç ve Dış Tic. A.Ş. bünyesinde üretilen cilt, saç, vücut, tırnak el ayak bakım ürünleri, makyaj markasıdır.Doğadan saf özler ile hazırlanan ürünler hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

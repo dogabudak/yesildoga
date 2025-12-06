@@ -1,0 +1,47 @@
+[
+  {
+    "company": "My Bottle",
+    "description": "My Bottle, 2009 yılında kurulan Ckc Hediyelik Eşya Mobilya Turizm Gıda San. Tic. Ltd. Şti. bünyesindeki matara markasıdır.İstanbul merkezli Ckc Hediyelik Eşya firması market, kırtasiye piyasasının ihtiyacına dönük ürünler ithal edip, aynı ürün yelpazesine yönelik kendi fabrikasında ısıya dayanıklı borosilikat cam matara ve nevi ürünler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "I-Total",
+    "description": "I-Total, 2008 yılında kurulan Total Juggling Srl bünyesindeki akıllı telefon ve tablet aksesuarları ve hediyelik eşya markasıdır.Total Juggling S.r.l. hediyelik eşyaları ithal eden ve dağıtan bir İtalya merkezli bir şirkettir.Bünyesindeki markalar:I-TotaliDrink",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Cosby",
+    "description": "Cosby, 2010 yılında kurulan Uçantay Gıda San. ve Tic. A.Ş. tarafından üretilen oyuncaklı şeker ürünleri markasıdır.Ürün yelpazesinde drajeli oyuncaklar, maketli oyuncaklar, blisterli oyuncaklar, sürpriz çanta ve yumurta serisi yer almaktadır. Ürünlerini Türkiye’de bulunan fabrikasında üretmektedir.ISO 9001, ISO 22000, Helal ve Kosher belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-06-30"
+  },
+  {
+    "company": "Asolo",
+    "description": "Asolo, 1946 yılında Zanatta ailesi tarafından kurulan Asolo SpA bünyesindeki ayakkabı, sırt çantası markasıdır.Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.Asolo SpA İtalya merkezlidir. Üretimi İtalya ve Romanya’daki kendi fabrikalarında yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dr Browns",
+    "description": "Dr Browns, 1996 yılında kurulan Handi Craft Company bünyesindeki bebek şişeleri ve şişe aksesuarları, emzirme ürünleri, emzikler, diş kaşıyıcılar, bebek bakım ürünleri, bardaklar ve katı beslenme ürünleri markasıdır.Bebek şişeleri BPA, PVC, kurşun veya ftalat içermez.Handi Craft Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

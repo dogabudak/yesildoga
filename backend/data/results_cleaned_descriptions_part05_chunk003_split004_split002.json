@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Storytel",
+    "description": "Storytel, 2005 yılında kurulan Storytel AB bünyesinde üretilen sesli kitap ve e-kitap servisleri markasıdır.Storytel AB İsveç merkezlidir ve 20’den fazla ülkede hizmet vermektedir. Türkiye’de Storytel Turkey Yayıncılık Hizmetleri A.Ş. olarak faaliyet göstermektedir.Bünyesindeki markalar;StorytelMofibo",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Vera Olive",
+    "description": "Vera Olive, 2018 yılında Arnas ailesi tarafından kurulan Arnas Tarım Üretim ve Tic. A.Ş. bünyesinde üretilen zeytinyağı markasıdır.Firma İstanbul merkezlidir. Ürünlerini Balıkesir’de bulunan fabrikasında üretmektedir.Bünyesindeki markalar;RiccolivoThe MillThe Soap FactoryVeraolive",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-11"
+  },
+  {
+    "company": "Abalı",
+    "description": "Abalı Nerenin Malı MarkasıAbalı, 1969 yılında kurulan Abalıoğlu Grubu bünyesinde faaliyet gösteren Abalıoğlu Yağ San. ve Tic. A.Ş. tarafından üretilen ayçiçek yağı, mısır yağı, kanola yağı markasıdır.Üretimini Türkiye’nin çeşitli illerinde bulunan fabrikalarında, tohumdan şişelemeye kadar tüm süreci gerçekleştirmektedir.İzmir merkezli firma yüzde 100 yerli sermayelidir. ISO 9001 belgesine sahiptir.Bünyesindeki markalar;AbalımAbalıoğluAgrilifeAgrilife FaktörBoraEnergy Plus",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ayhan Sezer",
+    "description": "Ayhan Sezer, 1997 yılında kurulan Ayhan Sezer Yağ ve Gıda Endüstrisi Tic. Ltd. Şti. bünyesinde üretilen aspir yağı, ayçiçek yağı, bitkisel asit yağlar, kanola yağı, keten yağı, ketencik yağı, mısır yağı, soya yağı markasıdır.Ürünlerini Balıkesir’de 44 bin metrekarelik arazi üzerinde yer alan Türkiye’nin en büyük yağ işleme tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aves Yağ",
+    "description": "Aves Yağ Nerenin Malı MarkasıAves Yağ, Aves Enerji ve Yağ San. Tic. A.Ş. bünyesinde üretilen ayçiçek yağı markasıdır.Ürünlerini Mersin’de 120 dönüm arazi üzerine kurulu tesisinde üretmektedir. 60’dan fazla ülkeye ihraç etmektedir.ISO 9001, FSSC 22000, ISO 14001, ISO 45001, ISO 27001, HELAL ve KOSHER belgelerine sahiptir.Bünyesindeki markalar;AVESSAFYA",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

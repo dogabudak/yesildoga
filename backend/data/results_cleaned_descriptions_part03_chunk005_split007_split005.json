@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Rendever",
+    "description": "Rendever, 2015 yılında kurulan Rendever, Inc. bünyesinde yaşlılar için sanal gerçeklik platformuyla aile etkinliklerine katılma ürünleri markasıdır.Zihinsel uyarımı sağlar, izolasyonu azaltır ve normalde yaşlıların kaçırmak zorunda kalacakları aile etkinliklerine katılmalarına olanak sağlar.Rendever, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sea Color",
+    "description": "Sea Color, 2003 yılında kurulan Lila Kozmetik bünyesinde üretilen saç için krem boya markasıdır.Zeytinyağı formüllü Sea Color 41 farklı renk seçeneği sunmaktadır. 20 bin metrekarelik kapalı alanda üretim gerçekleştirmektedir.Lila Kozmetik ürünlerini 31 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-05-09"
+  },
+  {
+    "company": "Sulwhasoo",
+    "description": "Sulwhasoo, 1945 yılında Suh Sung-whan tarafından kurulan Amorepacific Corporation bünyesinde üretilen kozmetik markasıdır.Amorepacific Corporation, 30’dan fazla güzellik, kişisel bakım ve sağlık markasıyla faaliyet göstermektedir.Amorepacific Corporation Güney Kore merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "ColourPop Cosmetics",
+    "description": "ColourPop Cosmetics, 2014 yılında Laura ve John Nelson tarafından kurulan Seed Beauty LLC bünyesindeki kozmetik ürünler markasıdır.Ağırlıklı olarak gözler, dudak ve yüz için ürünler üretmektedir.Seed Beauty LLC Amerika merkezlidir.Bünyesindeki markalar:ColourPopFourth RayKKW BeautyKylie CosmeticsSOL BodyTati Beauty",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "CoverGirl",
+    "description": "CoverGirl, 1961 yılında kurulan kozmetik makyaj ürünleri markasıdır.2016 yılında Coty, Inc. tarafından satın alındı.Coty, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

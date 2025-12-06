@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Fitbit Ülke",
+    "description": "Fitbit, 2007 James Park ve Eric Friedman tarafından kurulan; adım sayar, kalp hızı, uyku kalitesi, fitness gibi kişisel verileri ölçebilen kablosuz giyilebilir teknoloji cihazları markasıdır.Sağlık verilerini ölçen cihaz üreticisi Fitbit, Inc. Amerika merkezli bir şirkettir. 2019 yılında Google tarafından satın alındı. Fitbit’i Google’ın satın alması hakkında Avrupa Birliği (AB) soruşturma başlattı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-09-01"
+  },
+  {
+    "company": "DC Comics",
+    "description": "DC Comics, 1934 yılında Malcolm Wheeler Nicholson tarafından kurulan çizgi roman yayıncısıdır.Ünlü karakterleri arasında Superman, Batman, Wonder Woman, Green Lantern, Supergirl, Flash, Aquaman, Cyborg, Shazam, Martian Manhunter, Zatanna, Static Shock, Hawkman, Hawkgirl ve Green Arrow gibi isimler yer alır.1969 yılında Warner Bros. tarafından satın alınmıştır.Warner Bros. Amerikan şirketi Warner Media, LLC bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ziaja",
+    "description": "Ziaja, 1989 yılında Eczacı Alexandra ve Zenon Ziaja tarafından kurulan Ziaja Ltd Zaklad Produkcji Lekow sp z o.o. bünyesindeki kozmetik markasıdır.Yüz, vücut ve saç bakımı ürünleri üretmektedir. Ürünlerini 30 ülkeye ihraç etmektedir. ISO 9001 belgesine sahiptir. Hayvanlar üzerinde test edilmemektedir.Ziaja Ltd. Polonyalı bir kozmetik şirketidir. Ürünlerini Polonya’da 25 bin metrekarelik alana sahip iki tesiste üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": "2020-05-27"
+  },
+  {
+    "company": "Avira",
+    "description": "Avira, 1986 yılında kurulmuş olan Avira Operations GmbH & Co. KG bünyesindeki antivirüs markasıdır.Avira Operations GmbH & Co. KG, 2020 yılında Amerika merkezli Nortonlifelock Inc. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-06-13"
+  },
+  {
+    "company": "BioBaby",
+    "description": "Biobaby, 2002 yılında Cihat Dündar tarafından kurulan Bi’ota laboratuvarlarında, bebekler için cilt bakım ve temizlik ürünleri üreten markadır.BioBaby ürünleri içerisinde bebeklerin günlük bakım ihtiyacını karşılayan bebek losyonu, bebek yağı, bebek pişik önleyici krem, bebek pişik kremi; bebek temizlik ürünlerinden bebek saç ve vücut şampuanı, bebek sabunu, bebek şampuanı ve bebek temizleme mendili; güneş serisinden bebek güneş koruyucu losyon ve güneş sonrası losyonu; yenidoğan serisinden yenidoğan saç ve vücut şampuanı, yenidoğan losyonu ve bebek yağı, yenidoğan temizleme mendili, yenidoğan köpük şampuanı ve özel bakım serisi olarak da çok kuru ciltler için şampuan, çok kuru ciltler için krem, dermatolojik şampuan, kuru ve atopik ciltler için sıvı çamaşır deterjanı, kuru ve atopik ciltler için konsantre yumuşatıcı ürünleri yer almaktadır.BioBaby ürünlerinin testleri Almanya Dermatest Laboratuvarları tarafından gerçekleştirilmektedir.Türk firması Bi’ota laboratuvarları ürünleri 35 ülkede satışa sunuluyor.Bünyesindeki markalar:BioxcinBioderBioblasBiomenRestorexNutraxin",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

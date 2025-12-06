@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Caotina",
+    "description": "Caotina, 1963 yılında kurulan Wander AG bünyesinde üretilen kakao, sıcak çikolata markasıdır.Wander AG İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "It Luggage",
+    "description": "It Luggage, 1994 yılında kurulan Landor & Hawa International Ltd. bünyesindeki çanta ve valiz markasıdır.Polyester, ABS plastik, polikarbonat malzemelerle üretilen 10’un üzerinde koleksiyona sahiptir.Landor & Hawa International Ltd. İngiltere merkezlidir. Ürünlerini Çin’den ithal etmekte ve 46’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Homedics",
+    "description": "Homedics, 1987 yılında kurulan FKA Brands LLC bünyesindeki zihni stresten arındırmaya yardımcı olan sağlık ve zindelik ürünleri markasıdır.FKA Brands LLC Amerika merkezlidir.Bünyesindeki markalar;7LSElliaHomedicsHouse of MarleyJamObusFormeRevampSwimCount",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Al Afrah",
+    "description": "Al Afrah, 1951 yılında kurulan Shawaf Group bünyesinde üretilen çamaşır deterjanı, çamaşır tozu, çok amaçlı temizlik sıvısı, bulaşık yıkama sıvısı, el temizleme sıvısı, sıvı deterjan koyu, sıvı çamaşır deterjanı markasıdır.Shawaf Group for Industry and Commerce Ltd. Suriye merkezlidir.Bünyesindeki markalar;AfnanAl AfrahCleanotecQueen",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Grante",
+    "description": "Grante, 2008 yılında Teymur Akhmedov tarafından kurulan Aznar CJSC bünyesinde üretilen doğal meyve suları, kompostolar, meyve içecekleri, nektarlar, reçeller, sos, yağ, salata sosu, şerbetler markasıdır.Ürünlerimi herhangi bir kimyasal koruyucu, yapay renk ve aroma içermez.Aznar CJSC Azerbaycan merkezlidir. Ürünlerini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vom Feinsten",
+    "description": "Vom Feinsten, 1991 yılında kurulmuş olan Animonda Petcare Gmbh bünyesindeki hayvanlar için konserveler markasıdır.Animonda Petcare Gmbh, Almanya merkezli Heristo AG şirketinin bir parçasıdır. Ürünleri 35’ten fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kilim Mobilya",
+    "description": "Kilim Mobilya, 1976 yılında kurulmuş olan Kilim Mobilya A.Ş. bünyesinde üretilen koltuk takımları, oturma odası takımları, kanepeler ve üçlü koltuklar, berjerler, yatak odaları, yemek odaları markasıdır.Firma Kayseri merkezlidir.Bünyesindeki markalar;Active EnergyBiodaBlue LifeEn Tatlı ArzuFaktörFaydaFilimFilim AilesiForevitaForevivaForevivoGizemHayallerininoHybrid DesignIlkimIn SofaKilimKilim’CeMotto HomeMotto LineMotto PlusMotto XNinoPyhsio-StatusSuenaUyku BulucuUyku SihirbazıX MottoYaylaYour Life Your",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bioterra",
+    "description": "Bioterra, 2022 yılında kurulmuş olan Terra Organik Tarım Kozmetik San. Tic. A.Ş. bünyesinde üretilen doğal ve organik içeriklerle kozmetik ürünler markasıdır.Genetiği bozulmuş bileşenler, sert kimyasallar, paraben, ftalatlar, sentetik koku ve yapay renkler içermez. Ürünleri hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Luanvi",
+    "description": "Luanvi, 1968 yılında kurulmuş olan Luanvi S.A. bünyesindeki ayakkabı, spor kıyafetleri ve aksesuarı markasıdır.Spor mağazası erkek, kadın, çocuk için spor malzemeleri, futbol, basketbol, hentbol ve voleybol için ekipman ve spor giyim ürünleri üretmektedir.Luanvi S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Victory Krem",
+    "description": "Victory, Centro Kozmetik Medikal San. ve Tic. A.Ş. bünyesindeki cilt bakım ve güneş kozmetik ürünleri markasıdır.Firma İzmir merkezlidir.Bünyesindeki markalar;Auvergne Professional Skin CareChaudiéreEssayérL’autre Skin CareLoveVictory",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

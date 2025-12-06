@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Mövenpick",
+    "description": "Mövenpick Hangi Ülkenin Malı MarkasıMövenpick, 1866 yılında Henry Nestle tarafından kurulan Societe Des Produits Nestle S.A. bünyesindeki dondurma markasıdır.Glukoz şurubu, yağsız süttozu, doğal aroma vericiler içermektedir.Societe Des Produits Nestle S.A. İsviçre merkezlidir. Türkiye pazarına 1909 yılında girmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Fixegoiste",
+    "description": "Fixegoiste, 2001 yılında Armağan Kızıltan tarafından kurulan Dng Global Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen saç jölesi, sıvı sabun, traş serileri, duş jeli, şampuan, krem, saç şekillendirme ürünleri, kağıt grubu ürünleri markasıdır.Ürünlerini Tuzla OSB’de 7 bin 200 metrekarelik alanda bulunan 4 bin 800 metrekarelik kapalı alanda üretmektedir ve 38 ülkeye ihraç etmektedir.ISO, GMP ve OHSAS belgelerine sahiptir.Bünyesindeki markalar;7/4 SaisonAqua DropArmArmağan KızıltanAssassinBarcodeBarkodBarsaBarsa BarceloneBarsa BarsaBarsa EspanaBodyguardC QuickcleanCardinalConnexionCosmo LifeCrashCuatroDijeyDreamerEasy TouchEgoisteEgomaniaEncoreEquisteFeelegoistFexegoistFix EgoisteFix SunFixactivaFixecqisteFixecuisteFixedFixeggoisteFixegoisteFixegoixteFixeguistFixeguisteFixekoisteFixeqqisteFixequisteFixmaniaFixsensivaFixssFixsunFixwellFixwellegoistFlyinnGamgamGmmysGumeeGumgelGumigelIconıqueLabirentLeaugeMagic TouchMatteoMediturkMixedMüge OnanMynoteNeonNumeroOffsideOsmanlıOssePadişahPenaltyPi EgoistQuakeQuaqeQuicleanRitmixRituelSadrazamSerinShaper SShootSol InvictusSpirit Of AfricaStadiumTouaregTrılhupTruccoTurukWellday",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Un Do Tre",
+    "description": "Un Do Tre, 1996 yılında kurulan Depar Pazarlama San. ve Tic. A.Ş. bünyesinde üretilen makarna markasıdır.Ürünlerinde yerli ve ithal peynirler kullanmaktadır. Renklendirici, tatlandırıcı gibi yapay malzemeler kullanmamaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mountain Dew",
+    "description": "Mountain Dew, 1898 yılında Caleb Bradham tarafından kurulan Pepsico Inc. bünyesinde üretilen gazlı içecekler markasıdır.Ürün konsantre meyve suyu, yüksek fruktoz içeriğine sahip mısır şurubu, sitrik asit, sodyum benzoat, kafein, arap zamkı, eritorbik asit, tartrazin içermektedir.Pepsico Inc. Amerika merkezlidir. Türkiye’de 1962 yılından beri faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lebsan",
+    "description": "Lebsan, 1980 yılında kurulan Kursan Gıda Pazarlama San. ve Tic. Ltd. Şti. bünyesindeki ambalajlı kuruyemiş ve kuru gıdalar markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir. Antep fıstığı, fındık, kabak çekirdeği, nohut, mısır, kaju fıstığı ve yer fıstığı gibi kavrulmuş ve tuzlu kuru meyveleri Gaziantep’te bulunan fabrikasında üretmektedir.Bünyesindeki markalar;Ay BeyazıBeyaz AyCerezGeishaGıdalebGigsLebgumLebsanLebsan DakotaLebsan TavşanLebsoLebsyLebsynutLiderLiebsunPaylaşılmayan Lezzet",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

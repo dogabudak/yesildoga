@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Pillsbury",
+    "description": "Pillsbury, 1897 yılında Jerome Monroe Smucker tarafından kurulan The J. M. Smucker Co. bünyesinde üretilen bisküviler, tarçınlı rulolar, kurabiye hamuru, pasta kabuğu, pizza kabukları, mısır ekmeği, atıştırmalıklar, ekmekler markasıdır.The J. M. Smucker Co. Amerika merkezlidir.Bünyesindeki markalar;9LivesBick’sCriscoDunkin’ DonutsFive RosesFolgersHungry JackJifKibbles’n BitsLaura Scudder’sMartha WhiteMeow MixMilk-BonePillsburyR.W. Knudsen FamilyRobin HoodSahale SnacksSanta Cruz OrganicShirriffSmucker’struRoots",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lokman Kahvaltılık Ürünleri",
+    "description": "Lokman, 1984 yılında kurulan Mnd Kahvaltılık Gıda San. A.Ş. bünyesinde üretilen reçel, bal, tahin, pekmez, fındık kreması, helva, peynir, yer fıstıklı krema, tahin pekmez karışımı, yağ ve zeytin markasıdır.ISO 2200, HACCP ve ISO 9001 belgelerine sahiptir.Firma Ankara merkezlidir.Bünyesindeki markalar;ArınurLokmanPaşabey",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 2200",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rogue Fitness",
+    "description": "Rogue Fitness, 2007 yılında Bill Henniger tarafından kurulan Coulter Ventures LLC bünyesinde üretilen spor salonu ekipmanları markasıdır.Halterler, plakalar ve raflar, kettlebells gibi güç ve kondisyon ekipmanlarının yanı sıra CrossFit kutuları, ev jimnastik salonları, askeri, kolej ve profesyonel spor takımları için bir dizi fitness ile ilgili ekipmanlar ile ayrıca vantilatör ve kişisel koruyucu ekipman gibi tıbbi ekipmanlar üretmektedir.Coulter Ventures LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Folgers Coffee",
+    "description": "Folgers Coffee, 1850 yılında James Folger tarafından kurulan kahve markası, 2008 yılında The J.M. Smucker Company bünyesine geçti.Kahve hammaddesini Kolombiya, Nikaragua gibi ülkelerden temin etmektedir.Şirket, gıda ve hayvansal beslenme ürünlerinin üretimi ve satışı konusunda uzmanlaşmıştır.The J.M. Smucker Company Amerika merkezlidir.Hissedarları:The Vanguard Group Inc. (yüzde 11.3)Kohlberg Kravis Roberts & Co. LP (yüzde 7.63)State Street Global Advisors Inc. (yüzde 7.08)VCP I Inc. (yüzde 3.56)LSV Asset Management (yüzde 2.55)Sculptor Capital LP (yüzde 2.54)BlackRock Fund Advisors (yüzde 2.27)Geode Capital Management LLC (yüzde 2.03)Fundsmith LLP (yüzde 1.88)Massachusetts Financial Services Co. (yüzde 1.62)Bünyesindeki kahve markaları;FolgersDunkin’ DonutsCafe Bustelo",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Joalia Saat",
+    "description": "Joalia, 1920 yılında Jacques Beaufort tarafından kurulan Elysee Uhren Gmbh bünyesindeki mücevher saatler markasıdır.Koleksiyonu otomatik saatler, kronograf, elbise ve dalış saatlerinden oluşur.Elysee Uhren Gmbh Almanya merkezlidir. Almanya’da ürettiği ürünlerini 30 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

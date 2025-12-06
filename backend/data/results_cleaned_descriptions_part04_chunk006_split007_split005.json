@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Nusspo",
+    "description": "Nusspo, 2004 yılında kurulan Doğkar Gıda Maddeleri Üretim San. ve Tic. A.Ş. bünyesinde üretilen fındık ezmesi, fındık kreması, yer fıstığı kreması, kakaolu badem kreması ve çikolatalı ürünler markasıdır.Ürünlerinde toz şeker yerine mısırdan elde edilen glikoz – fruktoz şurubu kullanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bolez Piliç",
+    "description": "Bolez Piliç, 1982 yılında kurulan Ege-Tav A.Ş. bünyesinde üretilen civciv ve piliç eti ürünleri markasıdır.Firma İzmir’de bulunan kesimhanesinde piliç eti ürünlerini tek tek el ile kesmektedir. Helal belgesine sahiptir.Ege-Tav A.Ş. 2015 yılında Japonya merkezli NH Foods Ltd. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2022-04-20"
+  },
+  {
+    "company": "Hello Nature",
+    "description": "Hello Nature, 1995 yılında kurulan Beliso Sp. z o.o. bünyesinde üretilen saç bakım ürünleri markasıdır.Beliso ürünleri dört kıtada 30’dan fazla ülkede mevcuttur.Beliso Sp. z o.o. Polonya merkezlidir.Bünyesindeki markalar;ArganArgan ProfessionalCece Color SenseCece MedExperto ProfessionalHello NatureKreativPerfect.MeSalonTotal Keratin ComplexVeganWow Hair Extensions",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Flydigi",
+    "description": "Flydigi, 2008 yılında kurulan Shanghai Flydigi Electronics Technology Co.,Ltd. bünyesindeki oyun denetleyicisi, klavye ve fare, kulaklık, gamepad ve oyun aksesuarları markasıdır.Mobil oyun cihazlarının önde gelen markasıdır.Shanghai Flydigi Electronics Technology Co.,Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Monitise",
+    "description": "Monitise, 2003 yılında Alastair Lukies, Steve Atkinson tarafından kurulan Monitise Plc bünyesindeki mobil cihazla bankacılık, ödeme ve satın alma işlemleri sağlayan bir mobil bankacılık platformu markasıdır.Şirketin ürünü, insanları paralarına bağlamak için bankalar, ödeme şirketleri, perakendeciler ve mobil ağlar tarafından kullanılmaktadır.Monitise PLC, İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

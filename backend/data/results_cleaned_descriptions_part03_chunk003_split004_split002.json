@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Artemide",
+    "description": "Artemide, 1960 yılında kurulan Artemide, S.P.A. bünyesindeki aydınlatma ürünleri markasıdır.Işık tasarımı, dış mekan aydınlatması, mimari aydınlatma ürünleri üretmektedir.Optik bölümü, elektronik projeleri, malzemeleri ve ışık kaynakları ile en iyi sonuçları garanti etmek için endüstriyel üretime kadar her yeni ürünü geliştirir. ISO 9001 ve ISO 17025 belgelerine sahiptir.Artemide, S.P.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 17025",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Johnson Electric",
+    "description": "Johnson Electric, 1959 yılında Wang Seng Liang ve Wang Koo Yik Chun tarafından kurulan Johnson Electric Holdings Limited bünyesinde üretilen elektronik ve elektronik kontroller, aktüatörler, otomotiv ışıkları, klima, fren ve güç sistemleri, elektrik anahtarları markasıdır.Johnson Electric Holdings Limited Hong Kong merkezlidir. Çin’de üretim yapmaktadır ve 20 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Fein",
+    "description": "Fein, 1867 yılında Wilhelm ve Carl Fein tarafından kurulan C. & E. Fein GmbH bünyesindeki profesyonel elektrikli el aletleri markasıdır.Elektrikli matkap, öğütücü, elektrikli tornavida gibi ürünleriyle tanındı. C. & E. Fein GmbH paslanmaz çelik işleme, yüksek performanslı taşlama, sondaj, iç tasarım, yenileme, araç tamiri, tekne bakım ve endüstriyel seri montajı uygulamaları için elektrikli el aletleri üretmektedir.13 uluslararası iştirak ve dağıtıcı ile 45 ülkeye ürünlerini dağıtmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mafell",
+    "description": "Mafell, 1899 yılında kurulan Mafell AG bünyesinde ahşaplar için üretilen elektrikli el aletleri markasıdır.Marangozlar için marangoz makineleri ve elektrikli el aletleri üretmektedir. İlk dairesel testereleri üreten firmadır.Mafell AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Polo Grand",
+    "description": "Polo Grand, 1993 yılında kurulan Nadirler Dış Ticaret Limited Şirketi bünyesindeki ithal saat markasıdır.Nadirler Saat kadın, erkek, çocuk, kategorilerinde kendi markalarıyla ithal saatler sunmaktadır.Bünyesindeki markalar:BagariBelbiBiaomaBidenBistecCurrenElizabethFalmerKademanMikeNaviforcePaiduPierre RucciPolotimeSinobiVegans",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

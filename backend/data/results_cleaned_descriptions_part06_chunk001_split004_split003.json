@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Bergamont Bisiklet",
+    "description": "Bergamont, 2008 yılında kurulan Bergamont Fahrrad Vertrieb Gmbh bünyesinde üretilen bisiklet ve e-bisiklet markasıdır.Ürünleri arasında yol bisikletleri, dağ bisikletleri, eğlence bisikletleri ve çocuk bisikletleri bulunmaktadır. Komple bisikletlerin yanı sıra çerçeveler de satmaktadır.Bergamont Fahrrad Vertrieb Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Shad Motosiklet Aksesuarları",
+    "description": "Shad, 1973 yılında kurulan NAD SL bünyesindeki motosiklet ve atv endüstrisi için aksesuarlar, motor kılıfları ve yumuşak çantalar, koltuk ve kasalar markasıdır.NAD SL İspanya merkezlidir ve ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Global Implant",
+    "description": "Global Implant, Global Implant Gmbh bünyesinde üretilen oliver implant, protez, cerrahi kitler markasıdır.Her türlü klinik diş hekimi cerrahi ortopedik hastane diş laboratuvarı ihtiyacını karşılamak için geniş bir yelpazede implant ve rehabilitasyon üniteleri sağlamaktadır.Global Implant Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Çelikel",
+    "description": "Çelikel, 1962 yılında kurulan Çelik-El Tarım Makinaları San. ve Tic. Ltd. Şti. bünyesinde üretilen silaj makineleri, yem karma makineleri, gübre yönetim makineleri, balya makineleri, paketleme makineleri markasıdır.Konya merkezli firma ürünlerini 40 bin metrekarelik tesisinde üretmekte ve 100’den fazla ülkeye ihraç etmektedir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bood Design",
+    "description": "Bood Design, 2003 yılında kurulan A4 Grafik Matbaacılık Yayıncılık Reklam ve Bilgisayar Hizmetleri Ltd. Şti. bünyesinde ithal edilen elektronik ürünler ve reklam promosyon ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kassbohrer",
+    "description": "Kassbohrer1990 yılında kurulmuş olan Kassbohrer Gelandefahrzeug AG bünyesindeki römork teknolojisi, kargo ve soğuk zincir taşımacılığı için perdeler, soğutucular ve kutular, dökme, sıvı ve tehlikeli madde taşımacılığı için tank ve silolar, damperli kamyonlar, platformlar, standart ve hidrolik alçak yataklar markasıdır.Kassbohrer Gelandefahrzeug AG Almanya merkezlidir ve 55’ten fazla ülkeye hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "BPlas",
+    "description": "BPlas1987 yılında kurulmuş olan B-Plas Bursa Plastik Metal İnşaat Enerji Mad. Jeotermal Tur. Sivil Havacılık ve Tar. San. ve Tic. A.Ş. bünyesindeki enjeksiyon kalıplama, ekstrüzyon, şişirme, termoform, kalıp üretimi ve yüzey dekorasyonu, boyama, IMD, kaplama, otomotiv parçaları markasıdır.IATF 16949, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Berkshire Hathaway",
+    "description": "Berkshire Hathaway Inc. 1955 yılında iki şirketin birleşmesiyle kurulmuştur. Birçok sektörde faaliyet göstermektedir. Ana faaliyet alanları sigorta, nakliye, enerji ve üretimdir. Şirketin CEO’su Warren Buffett’dır. En büyük kurumsal hissedarı Vanguard Group Inc.’dir.Amerika merkezli Berkshire Hathaway Inc. farklı hakları olan iki sınıf ödenmemiş hisseye sahiptir. A Sınıfı hisselere sahip olanların hisse payından çok daha büyük bir oy hakkına sahip olma sebebi, B sınıfı hisselerin daha düşük oy hakına sahip olmasıdır.Hissedarları:Vanguard Group Inc. (yüzde 6,7)Blackrock Inc. (yüzde 4,8)State Street Corp. (yüzde 3,1)Geode Capital Management, LLC (yüzde 1,5)Morgan Stanley (yüzde 1)Bill & Melinda Gates Foundation Trust (yüzde 0,92)Northern Trust Corp. (yüzde 0,75)Bank Of New York Mellon Corp. (yüzde 0,61)Norges Bank (yüzde 0,53)Price T Rowe Associates Inc. (yüzde 0,51)Fmr LLC (yüzde 0,47)Jpmorgan Chase & Co. (yüzde 0,47)Charles Schwab Investment Management Inc. (yüzde 0,47)Royal Bank Of Canada (yüzde 0,46)Bank Of America Corp. (yüzde 0,42)Legal & General Group Plc (yüzde 0,41)Goldman Sachs Group Inc. (yüzde 0,36)Dimensional Fund Advisors Lp (yüzde 0,33)Nuveen Asset Management, LLC (yüzde 0,29)Barclays Plc (yüzde 0,28)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "LEVC",
+    "description": "LEVC1909 yılında kurulmuş olan London EV Company bünyesinde üretilen binek otomobil, ticari ve elektrikli araçlar markasıdır.London EV Company 2012 yılında Çin merkezli Zhejiang Geely Holding Group Co. Ltd. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Vetakoksin",
+    "description": "Vetakoksin1973 yılında kurulmuş olan Vetaş Veteriner ve Tarım İlaçları A.Ş. bünyesindeki hayvanlar için ilaç markasıdır.Vetaş Veteriner, İngiltere merkezli Eastpharma bünyesinde bulunan Deva Holding A.Ş.’nin iştirakidir. Tekirdağ ve Kocaeli’de üretim tesislerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

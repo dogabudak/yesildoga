@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Kikka Boo",
+    "description": "2016 yılında kurulmuş olan Kika Group Ltd. bünyesindeki araba koltuğu, bebek arabaları, bebek bakımı, bebek karyolası, çömlekler ve klozetler, önlük, ıslak mendil, şilteler ve mat koruyucular, aksesuar değiştirme, bebek monitörü ve kameraları, biberon ve biberon fırçaları, diş kaşıyıcı ve emzikler, eğitim kitapları, göğüs pompası, havlular, küvetler ve küvet standları, mama sandalyesi, oyun arkadaşları, pusetler, salıncak, sallanan oyuncaklar, sofra takımı, sterilizatörler ve şişe ısıtıcıları, taşıyıcılar ve yürüyüş koşum takımları, termos ve şişe izolatörleri, yürüyüşçü, yumuşak oyuncaklar, yumuşak tekstil, zıplatıcı, aksesuarlar markasıdır.Kika Group Ltd. Bulgaristan merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Visam",
+    "description": "1964 yılında kurulmuş olan Visam Plastik ve Metal Enj. San. ve Tic. A.Ş. bünyesinde üretilen ankastre stop valf, bide, lavabo ve pisuvar konsolları, cam gövdeli duvar önü rezervuar, flotör, gömme rezervuar kumanda paneli, gömme rezervuar, klozet kapağı, paslanmaz çelik duş süzgeci, paslanmaz çelik süzgeçli yer sifonu, plastik rezervuar, rezervuar iç takımları, yer sifonu markasıdır.ISO 9001, ISO 14001, ISO 45001, TSE belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Giovanni Eco Chic Beauty",
+    "description": "1979 yılında Arthur Guidotti tarafından temelleri atılan Giovanni Cosmetics Inc. bünyesindeki saç bakım ürünleri markasıdır.Giovanni Cosmetics Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gloshine",
+    "description": "2006 yılında kurulmuş olan Shenzhen Gloshine Technology Co. Ltd. bünyesinde üretilen iç ve dış mekanlar için renkli LED ekran markasıdır.ISO 9001, ISO 14001, ISO 45001, CE, ROHS belgelerie sahiptir.Shenzhen Gloshine Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Aegend",
+    "description": "2015 yılında kurulmuş olan Shenzhen Daodao E-Commerce Co. Ltd. bünyesindeki yüzme ürünleri, yüzücü gözlükleri ve kapaklar, şnorkeller, güneşten korunma için kol kılıfları, bisiklet eldivenleri, su geçirmez eldivenler ve deri eldivenler markasıdır.Shenzhen Daodao E-Commerce Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

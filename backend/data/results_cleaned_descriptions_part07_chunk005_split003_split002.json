@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Kamux",
+    "description": "Kamux, 2003 yılında Juha Kalliokoski tarafından kurulmuş olan Kamux Group bünyesindeki bayilikler ve web sitesi kombinasyonuna dayalı ikinci el otomobil perakende zinciri markasıdır.Kamux Group Finlandiya merkezlidir. Finlandiya, İsveç ve Almanya’da faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Homelux",
+    "description": "Homelux, 2009 yılında kurulmuş olan Shenzhen Homelux Intelligent Technology Co. Ltd. bünyesinde üretilen ev alarm sistemi, güç kaynağı, güneş hareket sensörü ışık, GSM PSTN çevirici, GSM, GPRS, WIFI, denetleyici, kablosuz dönüştürücü, kablosuz GSM terminali, pencere ürünleri markasıdır.Başlıca ürünleri GPRS/GSM/Bluetooth uzaktan kumanda, hırsız alarm sistemi, dış siren gibi ürünlerdir.Shenzhen Homelux Intelligent Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Marul",
+    "description": "Marul.com, 2015 yılında kurulmuş olan Marul Teknoloji A.Ş. bünyesindeki süpermarketlere aracılık eden güvenilir bir e-ticaret portalıdır.İnternetten market alışverişine olanak sağlar.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Conica",
+    "description": "Conica, 1977 yılında kurulmuş olan Conica Ag bünyesinde üretilen sistem çözümleri, atletizm pistleri, spor amaçlı salon, çok amaçlı salon, tenis kortları, suni çim, oyun alanı, sentetik koşu parkuru sistemleri markasıdır.Conica Ag İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Lalizas",
+    "description": "Lalizas, 1982 yılında kurulmuş olan Lalizas Group bünyesinde üretilen Deniz Ekipmanları, cankurtaran ekipmanları, can yelekleri, cankurtaranlar, Dalgıç Kıyafeti, mega yat şişme çamurluklar, şamandıralar, acil durum haberleşme cihazları, biniş ve pilot merdivenler, deniz tehlike sinyalleri ve piroteknik, hayat kurtarıcı ışıklar, kişisel korunma, kimyasal ve gaz koruma ekipmanları, navigasyon ışıkları, navigasyon cihazları, polar hayatta kalma ekipmanı, tıbbi ekipman, yangın söndürme ekipmanları markasıdır.ISO 9001 belgesine sahiptir.Lalizas Group Yunanistan merkezlidir. Dünya çapında 130 ülkede ticari varlığı sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Afimilk",
+    "description": "“Afimilk“1977 yılında kurulmuş olan Afimilk Ltd. bünyesinde üretilen süt çiftliği ve sürü yönetimi için gelişmiş bilgisayarlı sistemler markasıdır.Elektronik süt sayacı, inekleri izleyen adımsayar, süt çiftliği yönetim yazılımı ve çevrimiçi süt analizörü sunar ve her hayvan hakkında bilgi toplar, bir veritabanı ve raporlar oluşturur.Afimilk Ltd. İsrail merkezlidir ve 50’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Soffie",
+    "description": "“Soffie“2000 yılında kurulmuş olan Maldives Industria E Comercio De Cosmeticos Ltda. bünyesinde üretilen kişisel bakım, deodorant ve kozmetik ürünleri markasıdır.Maldives Industria E Comercio De Cosmeticos Ltda. Brezilya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "M-Pets",
+    "description": "“M-Pets“2015 yılında kurulmuş olan Jiangsu Zhongheng Pet Articles Joint-Stock Co. Ltd. bünyesinde üretilen köpek yastıkları, kaka poşetleri, kaseler, köpek evleri, yumuşak kasalar, çöp kutuları, araba koltuğu kılıfları ve diğer ürünleri markasıdır.Jiangsu Zhongheng Pet Articles Joint-Stock Co. Ltd. Çin merkezlidir. Ürünleri Çin’de üretilmektedir ve 50’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Piraat",
+    "description": "1992 yılında kurulmuş olan Balsnack International Holding AS bünyesinde üretilen cips markasıdır.Ürünleri domuz eti içermektedir.Balsnack International Holding AS Estonya merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2025-04-19"
+  },
+  {
+    "company": "Fracomina",
+    "description": "“Fracomina“2004 yılında Gerardo Prisco tarafından kurulmuş olan P.F.C.M.N.A. S.P.A. bünyesindeki giyim, pantolon, çanta ve aksesuarlar markasııdr.P.F.C.M.N.A. S.P.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

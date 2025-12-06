@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kingtex",
+    "description": "Kingtex, 1992 yılında kurulan Guangdong Kingtex Weaving Equipment Co. Ltd. bünyesinde üretilen tekstil makineleri markasıdır.Ürün yelpazesinde meç, jakarlı, endüstriyel kumaş makinesi, havlu tezgahı, hava jetli tezgahlar, kadife dokuma tezgahı, etiket tezgahı yer almaktadır.Guangdong Kingtex Weaving Equipment Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Citymate Şehir Dostu",
+    "description": "Citymate Şehir Dostu, 2017 yılında kurulan Smart Teknolojik Ürünler Paz. San. ve Tic. A.Ş. bünyesinde ithal edilen hoverboard, elektrikli kaykay, scooter, bisiklet ve aksesuarlar markasıdır.İstanbul merkezli firma TSE belgesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sofaş",
+    "description": "Sofaş, 1988 yılında kurulan Sofaş Gıda San. Tic. A.Ş. bünyesinde üretilen süt ve süt ürünleri markasıdır.Ürünlerini Uşak OSB’de bulunan 14 bin 500 metrekarelik arazide kurulu 5 bin 100 metrekare kapalı alana sahip fabrikasında üretmektedir.ISO 9001, ISO 22000, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Shimano",
+    "description": "Shimano, 1921 yılında Shozaburo Shimano tarafından kurulan Shimano Inc. bünyesindeki bisiklet bileşenleri, olta takımı, kürek ekipmanları markasıdır.Shimano Inc. Japonya merkezlidir. Ürünlerini Japonya, Malezya, Singapur, Çin, Kamboçya, Endonezya, Filipinler, Çek Cumhuriyeti ve ABD’de bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Pizza İl Forno",
+    "description": "Pizza İl Forno, 2013 yılında Utku Özer tarafından kurulan Pizza Fırını Gıda Danışmanlık San. ve Tic. A.Ş. bünyesindeki pizza markasıdır.Ankara merkezli firmanın ürün yelpazesinde sebzeli lazanya, güveç, patlıcan, domates ve parmesan peynirli pizza, çikolatalı, ballı cevizli pizza, deniz ürünleri içeren pizzalar yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

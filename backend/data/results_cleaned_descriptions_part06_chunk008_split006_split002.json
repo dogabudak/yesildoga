@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Plaisir Mama",
+    "description": "Plaisir, 1988 yılında kurulan Sarmat Evcil Hayvan ve Ürünleri San. ve Tic. A.Ş. bünyesinde ithal edilen kedi maması markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Düşler Bahçesi Temizlik Ürünleri",
+    "description": "Düşler Bahçesi, 2015 yılında kurulan Proson Kimya San. ve Tic. Ltd. Şti. bünyesindeki temizlik ürünleri markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dyna Helix Implant",
+    "description": "Dyna Helix, 1984 yılında kurulan Dyna Dental Engineering BV bünyesinde üretilen diş implantları ve aksesuarları markasıdır.Dyna Dental Engineering BV Hollanda merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Vorne",
+    "description": "Vorne, 1985 yılında kurulan İleri Pencere ve Kapı Sistemleri San. ve Tic. A.Ş. bünyesinde üretilen pencere ve kapı sistemleri markasıdır.Ürün yelpazesinde kilitlenebilir kapı kilidi, gömme kilitler, çift kanatlı pencere ve kapı sistemleri, tek kanatlı, katlamalı ve sürgülü sistemler yer almaktadır.İstanbul merkezli firma ürünlerini 50 bin metrekaresi açık, 36 bin metrekaresi kapalı alana sahip tesisinde üretmekte ve 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biotol",
+    "description": "Biotol, 2004 yılında kurulan Bileşim Kimya Temizlik Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen kişisel bakım, kozmetik, temizlik ürünleri, yumuşatıcılar markasıdır.İstanbul merkezli firma ürünlerini 70’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ergee",
+    "description": "Ergee, 1994 yılında kurulmuş olan Kik Textilien Und Non-Food Gmbh bünyesinde üretilen çorap, kumaş ve tekstil ürünleri markasıdır.Kik Textilien Und Non-Food Gmbh Almanya merkezlidir. Almanya merkezli Tengelmann Group şirketin yüzde 84 hissesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Leakfix",
+    "description": "Leakfix, 2007 yılında kurulmuş olan NM Dış Ticaret Pazarlama Ltd. Şti. bünyesindeki sprey kauçuk kaplama, su geçirmez sızdırmazlık ve tamir bandı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Easeus",
+    "description": "Easeus, 2007 yılında kurulmuş olan Chengdu Yiwo Tech Development Co. Ltd. bünyesindeki veri yedekleme, veri kurtarma ve disk yönetimi yazılımları markasıdır.Chengdu Yiwo Tech Development Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bridge Bio",
+    "description": "Bridge Bio, 1994 yılında kurulmuş olan The Bridge S.R.L bünyesinde üretilen yüzde yüz organik içecekler, tatlılar ve kremalar markasıdır.Ürünleri GDO, laktoz ve kolesterol içermez, çoğu glütensizdir.The Bridge S.R.L İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Tatbil",
+    "description": "Tatbil, 2004 yılında kurulan Emirhan Tem. Gıda San. Tic. Ltd. Şti. bünyesinde üretilen pestil, köme, tatlı, muska, çokopestil, sarma ürünleri markasıdır.Gümüşhane merkezli firma ürünlerini Gümüşhane OSB’de toplam 5 bin 500 metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

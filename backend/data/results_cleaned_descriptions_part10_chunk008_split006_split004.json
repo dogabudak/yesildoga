@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Faruk Sağın",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polcolor",
+    "description": "2007 yılında kurulmuş olan Aypol Solvent ve Kimya San. Tic. A.Ş. bünyesinde üretilen ahşap renklendirici markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr.Bk Lee",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Borotalco",
+    "description": "Bolton Group Srl bünyesinde üretilen ter önleyici sprey markasıdır.Bolton Group Srl İtalya merkezlidir ve ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Numil",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

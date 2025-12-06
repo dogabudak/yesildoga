@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dodge",
+    "description": "Dodge, 2014 yılında Fiat S.p.A. ve Chrysler Group şirketlerinin birleşmesiyle kurulan Fiat Chrysler Automobiles N.V. (FCA) bünyesindeki otomotiv markasıdır.Ana ofisi Hollanda’da finans ofisi ise İngiltere’de bulunan İtalya ve Amerika ortaklığındaki otomotiv şirketi Fiat Chrysler Automobiles N.V. markaları, FCA Italy ve FCA US olmak üzere iki ana yan kuruluş aracılığı ile faaliyet göstermektedir.Dodge markası FCA US bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vrbo",
+    "description": "Vrbo, 1995 yılında kurulan HomeAway.com, Inc. bünyesindeki Seyahat, Kiralama, e-ticaret, teknoloji sitesidir.Dünya çapında 190 ülkede hizmet vermektedir.HomeAway.com, Inc. Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "RezFree",
+    "description": "RezFree, 2015 yılında kurulan RezFree Incorporated bünyesindeki topraktaki ve tarım ürünlerindeki pestisit ve kimyasal gübre kalıntılarını temizlediği iddia edilen sıvı gübre markasıdır.RezFree Incorporated Amerika merkezli bir şirkettir.RezFree Türkiye ve Azerbaycan dağıtıcısı GoldGroup Tarım A.Ş.’dir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Astel",
+    "description": "Astel, 1976 yılında kurulan koli bandı ve maskeleme bantları markasıdır. 2012 yılında Nitto tarafından satın alındı.BENTO A. Ş. ismiyle yapışkan bant imalat etkinliklerini sürdürmektedir. Nitto Bento’nun ürün yelpazesinde; ambalaj bantları, maskeleme bantları, çift taraflı bantlar ve selofan bantlar, bebek ve yetişkin bezi üreticileri için; yan bantlar, ön bantlar, elastik kulak ve hotmelt yapışkan, pencere profilleri, dış yüzey panelleri, aluminyum ve çelik plakalar için koruyucu bantlar, özel markalar için ıslak mendil üretimi yer almaktadır.Nitto Bento’nun modern fabrikası 32 bin metrekarelik 2 binadan ve 19 bin metrekare kapalı olan sahaya sahip çağdaş tesislerinde imalat gerçekleştirmektedir. Ürünleri 30’dan fazla ülkeye ihraç edilmektedir.Bünyesindeki markalar:AstelBentoNitto",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Yonex",
+    "description": "Yonex, 1946 yılında Minoru Yoneyama tarafından kurulan YONEX Co., Ltd. bünyesindeki Tenis, Golf ve badminton ekipmanları markasıdır.Yonex badminton, Golf ve tenis raketleri, ayakkabı, tenis topları ve ve diğer ekipmanları üreten Japonya merkezli spor ekipmanları üreticisidir.Japonya’da bulunan kurumsal merkezi ve Amerika, Birleşik Krallık, Almanya, Kanada ve Tayvan dahil olmak üzere dünyanın dört bir yanında kurulan şirketleri ile çalışan küresel firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

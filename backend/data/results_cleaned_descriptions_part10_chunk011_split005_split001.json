@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Jobon",
+    "description": "1990 yılında kurulmuş olan Wenzhou Jobon Smoking Sets Manufacturing Co. Ltd. bünyesinde üretilen çakmaklar, sigara tutucular, sigara kutuları, borular markasıdır.Wenzhou Jobon Smoking Sets Manufacturing Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Rebuwo",
+    "description": "2018 yılında kurulmuş olan Rebuwo Spor Malz. Teks. Otomotiv San. ve Tic. Ltd. Şti. bünyesindeki yoga matı, pilates ekipmanları, fitness aletleri, koşu bantları, kondisyon bisikletleri ve kamp ürünleri markasıdır.Firma Antalya merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Regenesis Max",
+    "description": "2003 yılında kurulmuş olan Exeltis Pharmaceuticals Holding S.L. bünyesindeki omega 3 ilaveli multivitamin takviye edici gıda markasıdır.Insud Pharma’nın bir parçası olan Exeltis Pharmaceuticals Holding S.L. İspanya merkezlidir. Türkiye’de Exeltis İlaç San. ve Tic. A.Ş. olarak faaliyet göstermektedir. Çerkezköy OSB’de 34 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2025-10-11"
+  },
+  {
+    "company": "Scarfella",
+    "description": "2006 yılında kurulmuş olan Semercioğlu Eşarp Tekstil San. Tic. Ltd. Şti. bünyesinde üretilen eşarp, şal markasıdır.Firma Konya merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Capila",
+    "description": "1955 yılında kurulmuş olan Kurtsan İlaçları A.Ş. bünyesinde üretilen sabun, bit şampuan, spreyi, vücut kremi markasıdır.Firma İstanbul merkezlidir ve ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

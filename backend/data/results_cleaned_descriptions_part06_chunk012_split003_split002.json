@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dorcy",
+    "description": "Dorcy, 2007 yılında kurulan Dorcy International Inc. bünyesindeki şarj edilebilir fenerler, led fenerler, spot lambalar, elektrikli el aletleri, el aletleri, hava araçları, otomotiv araçları, boya ve vücut onarımı, kaynak, dış mekan araçları markasıdır.Dorcy International Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "BioHorizons",
+    "description": "BioHorizons, 1994 yılında kurulan BioHorizons Inc. bünyesindeki diş implantları, cerrahi planlama yazılımı ve eksik dişlerin değiştirilmesi için doku rejenerasyon çözümleri markasıdır.BioHorizons Inc. Amerika merkezlidir. Ürünlerini 85 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wethepeople",
+    "description": "Wethepeople, 1996 yılında kurulan We Make Things Gmbh bünyesindeki bisiklet ve bisiklet parçaları, aksesuarları, spor ayakkabıları ve giyim ürünleri markasıdır.We Make Things Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Liveasy",
+    "description": "Liveasy, Shenzhen Shi Utiled Technology Co. Ltd. bünyesinde üretilen çantalar, çırpıcı, çok amaçlı setler, ahşap oyuncak, araç içi telefon tutacakları, ayak ısıtıcıları, bavul ve valiz, bel yastığı, biberon aksesuar, bisiklet aydınlatma ikaz, bluetooth hoparlör, buhar makinesi, buharlı ütü, buharlı pişiriciler, cezveler, dekoratif yastık ve kırlent, deniz malzemeleri, diğer ölçüm cihazları, dizlik, doğrayıcılar/rondolar, doktor seti oyuncaklar, eğitici oyuncaklar, el feneri, elektrikli battaniye, erken öğrenme oyuncağı, fanlı ısıtıcılar, güneş enerji, güvenlik cihazları, gece lambası, hava nemlendirme cihazları, oksimetreler, iç ve dış mekan kedi yatakları, kablosuz şarj cihazları, kadın şapka, kadın kartlık cüzdan, kahve değirmeni ve öğütücüler, kalem kutusu, karakter figürü, kedi sulukları ve su pınarları, klavye ve mouse setler, kol saatleri, akıllı saatler, lazımlık, oturak, lego, yapı oyuncağı, masa lambası, masaj aletleri, meyve sıkıcıları, mikrofon, motosiklet kışlık uzun montlar, motosiklet yazlık eldiven, notebook çantaları, oyun çadırı ve evleri, oyuncak araç, kumandallı elektrikli arabalar, saç şekillendirme cihazları, saç kurutma makineleri, saç sakal kesme, tüy temizleme makineleri, sabitleyiciler (tripod), saklama kapları, sanatsal kalem, soundbar, su ısıtıcılar, suluk, matara, tüy toplama ürünleri, tıraş makinesi, tamir ve inşaat seti, tarak ve fırça, tarak, fırçalar ve makaslar, termoforlar ve ısıtma ürünleri, termos, test cihazları, toz torbasız süpürge, uzaktan kumandalı araçlar, vücut koruma, voltaj dedektörü, yüz temizleme cihazları, yılbaşı oyuncakları, yarış pisti markasıdır.Shenzhen Shi Utiled Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pulsemed",
+    "description": "Pulsemed, 1997 yılında kurulan Nabız Tıp Medikal Gereçleri Otomotiv San. ve Tic. Ltd. Şti. bünyesindeki tansiyon ölçer, nebulizatorler ve solunum cihazları, engelli araç sistemleri, rampalar ve tekerlekli sandalyeler, ısınma pedleri, ateş ölçer, şeker ölçer, nabız ölçüm monitörü, teraziler, vücut bakım, temiz hava ürünleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

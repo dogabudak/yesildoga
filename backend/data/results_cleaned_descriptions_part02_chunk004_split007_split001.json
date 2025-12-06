@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sarten",
+    "description": "Sarten, 1972 yılında kurulan Sarten Ambalaj San. ve Tic. A.Ş. bünyesindeki Metal Ambalajlar, Kavanoz Kapakları ve Plastik ürünler markasıdır.Metal ambalajda konserve, yemeklik yağ, aerosol, zirai ilaç, madeni yağ, boya, süt ürünleri, temizlik malzemeleri ve kozmetik sektörleri gibi farklı sektörlere üretim yapmaktadır.Silivri, Gebze , Karacabey, Gemlik, Manisa, Ayvalık ve Adana’da toplam 15 fabrikaya sahiptir.SARTEN’in Rusya, Bulgaristan ve Hollanda’da tamamı kendi sermayesi ile kurulan 3 ayrı fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Opinel",
+    "description": "1890 yılında kurulmuş olan Opinel SAS bünyesindeki mutfak, masa ve cep bıçakları, katlanır bıçaklar ve aletler, bahçe aletleri markasıdır.Opinel SAS Fransa merkezlidir. Mutfak ve masa Tekstil dokumaları ile bıçakları Fransa’da üretmektedir. Bahçe testere bıçakları ve kılıfları Çin’de üretilmektedir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2025-06-06"
+  },
+  {
+    "company": "Maglite",
+    "description": "Maglite, 1955 yılında Anthony Maglica tarafından Mag Instrument, Inc. bünyesinde kurulan led fener markasıdır.Mag Instrument, Inc. Amerika merkezli bir şirkettir ve ürünlerini Amerika’da üretmektedir.Türkiye dağıtıcısı Eyüboğlu Çelik ve Hobi Ürünleri San. ve Tic. Ltd. Şti.’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Adagün Etiket Ambalaj",
+    "description": "Adagün, 2011 yılında kurulan Adagün Etiket ve Ambalaj San. ve Tic. Ltd Şti. bünyesindeki kendinden yapışkanlı etiket markasıdır.Birçok uluslararası firmanın tedarikçisidir ve 10’dan fazla ülkeye ürünlerini satmaktadır.Adagün Etiket ve Ambalaj San. ve Tic. Ltd Şti. hisselerinin yüzde 35’i Almanya, yüzde 15’i İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bando Kayış",
+    "description": "Bando, 1906 yılında kurulan Bando Europe Gmbh bünyesinde üretilen güç aktarım kayışları, konveyör bantları ve sistemleri hassas donanım bileşenleri, plastik filmler ve levhaları, hybrid kauçuk endüstriyel ürünleri, optoelektronik ve elektronik malzemeler markasıdır.Bando Europe Gmbh Almanya merkezlidir. 2003 yılından itibaren Bando Kayış San. ve Tic. A.Ş olarak Türkiye’de Gebze OSB’de 20 bin metrekarelik tesisinde üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2022-03-28"
+  }
+]

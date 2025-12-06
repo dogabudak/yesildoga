@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Cedarin",
+    "description": "Cedarin, 2002 yılında kurulan Cedarin Kozmetik Ltd. Şti. bünyesinde üretilen kozmetik, saç ve cilt bakım ürünleri markasıdır.ISO 9001, ISO 22716 belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Accutone",
+    "description": "Accutone, 1995 yılında kurulan Accutone Technologies Limited bünyesinde üretilen çağrı merkezi telefon kulaklığı, akıllı telefon ve müzik çalan cihazlar için kulaklıklar markasıdır.Accutone Technologies Limited İngiltere merkezlidir. Üretim tesisleri Çin’de yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Evvie",
+    "description": "Evvie, 2012 yılında kurulan Mon Gıda Tic. ve San. A.Ş. bünyesinde üretilen el yapımı çikolata markasıdır.Ürünleri hiçbir koruyucu katkı maddesi kullanılmadan, taze meyvelerle üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Christofle",
+    "description": "Christofle, 1830 yılında Charles Christofle tarafından kurulan Christofle SAS bünyesindeki kuyum ve sofra takımı ürünleri markasıdır.Elektrolitik yaldız ve gümüş kaplamayı tanıtmasıyla biliniyor.Christofle SAS, 2012 yılında BAE merkezli Chalhoub Group tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": "2024-02-10"
+  },
+  {
+    "company": "Pegem Akademi Yayıncılık",
+    "description": "Pegem Akademi Yayıncılık, 1998 yılında Servet Sarıkaya tarafından kurulan Pegem Akademi Yayıncılık Eğitim ve Danışmanlık Hizmetleri Tic. Ltd. Şti. bünyesindeki yayınevidir.Binin üzerinde akademik yayın, 250’nin üzerinde sınavlara hazırlık kitapları bulunan kurumun aynı zamanda, sınavlara hazırlık kursları, kitap satış sitesi ve 81 isim hakkı bulunmaktadır.Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

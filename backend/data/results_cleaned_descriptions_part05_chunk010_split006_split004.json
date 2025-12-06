@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Tonguç Akademi",
+    "description": "Tonguç Akademi, 2015 yılında kurulan Tonguç Akademi Eğitim ve Bilgi Teknoloji Hizmetleri Tic. Ltd. Şti. bünyesindeki eğitim çözümleri markasıdırMEB müfredatına uygun olarak hazırlanan eğitimler ve sorular 3. sınıftan 11. sınıfa kadar tüm seviyedeki öğrencilerin derslerini kapsamaktadır. Ayrıntılı konu anlatım eğitim videoları, her yerden erişim sunan abonelik sistemi, soru çözümleri, deneme sınavları ve yazılı provalar sağlamaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tatsan",
+    "description": "Tatsan, 1974 yılında Tatsan Helva San. Tic. Ltd. Şti. bünyesinde üretilen tahin helva, nuga helva, cevizli helva, karamel ve aromalı helvalar, tahin ve pekmezler, krokan, kavala kurabiyesi, lokum markasıdır.Ürünleri glukoz şurubu, renklendirici, aroma verici, doğala özdeş aroma içermektedir. ISO 9001 ve HACCP belgelerine sahiptir.Kırklareli OSB’de 4 bin 700 metrekarelik kapalı alanda üretim yapmaktadır. Ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arkel",
+    "description": "Arkel, 1998 yılında kurulan ARKEL Elektrik Elektronik San. ve Tic. A.Ş. bünyesinde üretilen asansör kontrol bileşenleri markasıdır.Asansör kumanda kartları, kumanda panoları, acil kurtarma sistemleri, revizyon ve alarm setleri, VVVF sürücü, tümleşik asansör kontrol ünitesi imal etmektedir.2016 yılında ARKEL Elektrik Elektronik San. ve Tic. A.Ş.’nin çoğunluk hissesi Mediterra Capital tarafından satın alındı. 2010 yılında Ahmet Faralyalı ve Murat Erkurt’un kurduğu Hollanda merkezli Mediterra Capital BV’nin yatırımcıları arasında Avrupa İmar ve Kalkınma Bankası, Alman Kalkınma Bankası, Hollanda Kalkınma Bankası, Dünya Bankası gibi kurumlar yer alıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Abound",
+    "description": "Abound, 1888 yılında kurulan Abbott Laboratories bünyesinde üretilen besinsel destekleyiciler, özellikle tedavi edici besin içecekleri markasıdır.Abbott Laboratories Amerika merkezlidir. 150 ülkede faaliyet gösteren firma, 1987’den beri Türkiye pazarında yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "La Diva",
+    "description": "La Diva, 2005 yılında Fehmi Kumanlı tarafından kurulan Diva Sabun Buklet Malzemeleri Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen doğal sabun, spa sabunları, masaj sabunu, aromatik şampuan ve duş jeli, genel vücut bakım kremi markasıdır.ISO 14001, ISO 9001, ISO 22716 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Horwin",
+    "description": "Horwin, Horwin Europe Gmbh bünyesinde üretilen elektrikli mopedler ve scooterlar, e-motosiklet araç kategorisi l3e, elektrikli bisikletler ve diğer akıllı e-mobilite çözümleri markasıdır.Horwin Europe Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Canadian Solar",
+    "description": "Canadian Solar, 2001 yılında Shawn Qu tarafından kurulmuş olan Canadian Solar Inc. bünyesindeki güneş modülleri, güneş enerjisi sistemleri, şebeke dışı güneş ev sistemleri ve diğer güneş ürünleri markasıdır.Canadian Solar Inc. Kanada merkezlidir. 20’den fazla ülkede iştiraki bulunmaktadır. Üretim tesislerinin büyük kısmı Kanada ve Çin’de bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Bellababy",
+    "description": "Bellababy, 2019 yılında kurulmuş olan Bellababy Medical Devices Inc. bünyesindeki giyilebilir elektrikli göğüs pompaları markasıdır.Bellababy Medical Devices Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Poco Loco",
+    "description": "Poco Loco, 1876 yılında Gustav Paulig tarafından kurulan Paulig Oy bünyesindeki tortilla cipsi, tortilla sargı, yemek takımları, salsa sosu, pişirme sosu, baharat karışımı, taco kabukları, organik ürünler markasıdır.Paulig Oy Finlandiyalı bir aile şirketidir ve 13 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Maxeon Solar",
+    "description": "Maxeon Solar Ülkenin MarkasıMaxeon, 2020 yılında kurulmuş olan Maxeon Solar Technologies Ltd. bünyesinde üretilen güneş panelleri markasıdır.Maxeon Solar Technologies Ltd. Singapur merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;MaxeonSunPower",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Aftershock PC",
+    "description": "Aftershock PC, 2012 yılında kurulan Aftershock PC Pte. Ltd. bünyesinde üretilen özel masaüstü ve dizüstü bilgisayar markasıdır.Aftershock PC Pte. Ltd. Singapur merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Afinia",
+    "description": "Afinia, 2009 yılında kurulan Microboards Technology LLC, bünyesindeki 3D yazıcı veya tarayıcı markasıdır.Optik medya teknolojisi ürünleri sunan Microboards Technology LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "CyberPowerPC",
+    "description": "CyberPowerPC, 1998 yılında kurulan CyberPower, Inc. bünyesindeki özel bilgisayar markasıdır.Özel olarak oluşturulmuş bilgisayar oyunu odaklı donanım yelpazesinde ürünler üretmektedir.CyberPower, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Galax",
+    "description": "Galax, 1994 yılında kurulan Galaxy Microsystems Ltd. bünyesinde üretilen bilgisayar donanım bileşenleri markasıdır.Şirket, ürün tasarımı, prototipleme, yüzey montajı ve PCB montajı, konformal kaplama, cihaz programlama ve grafik kartı ürünlerinin fonksiyonel testlerini sunmaktadır.Galaxy Microsystems Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Prestigio",
+    "description": "Prestigio, 1990 yılında kurulan Asbisc Enterprises Plc bünyesinde üretilen tüketici elektroniği ürünleri markasıdır.Ürünleri arasında akıllı cihazlar ve aksesuarlar, iş ve eğitim için yenilikçi çözümler bulunmaktadır. Akıllı hoparlör, taşınabilir akustik sistemler, gizli kablosuz şarj cihazı, grafen tabanlı güç bankası ve tuşlarda touchpad ile interaktif klavyesine sahiptir.ISO 9001, ISO 14001 belgeleri bulunmaktadır.Asbısc Enterprises PLC merkezi Güney Kıbrıs Rum kesiminde yer almaktadır. Çin ve Belarus’ta üretim, tasarım ve teknik tesislere sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CY",
+    "updated_date": null
+  }
+]

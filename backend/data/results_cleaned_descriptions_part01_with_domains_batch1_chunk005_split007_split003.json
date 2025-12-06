@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Goo.n Ne",
+    "description": "Goo.n Ne MalıGOO.N 1943 yılında kurulan hijyen ve kağıt kategorisinde üretim yapan Daio Paper Corporation bünyesindeki bebek bezi markasıdır.Japonya merkezli Daio Paper; gazete kâğıdı, kese kâğıdı, kopya kâğıdı, kâğıt mendil, çocuk bezi, ıslak havlu gibi 20 binden fazla türde kâğıt üretimi yapıyor. Firmanın Japonya, Tayland, Çin ve Endonezya’da üretim tesisleri bulunuyor. Ürünleri 29 ülkede satılıyor.Türkiye’de Kopaş Kozmetik tarafından satılıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Arı Mama Bebek Maması",
+    "description": "Arı Mama Bebek Maması Hangi ÜlkeninArı Mama Bebek Maması 1945 yılında Sultan Yıldız tarafından kurulan Sultanlar Grup bünyesindeki Türkiye’nin ilk yerli bebek maması markasıdır.Yüzde 100 Türk sermayeli kuruluşun ürünlerinde helal sertifikası bulunuyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dardanel",
+    "description": "Dardanel1984 yılında Niyazi Önen tarafından kurulan Dardanel Önentaş Gıda San. A.Ş. bünyesindeki ton balığı markasıdır.Balıkların tamamına yakını yurtdışından gelmektedir. Sardalya ve hamsiler Türkiye’den karşılanmaktadır.Firma Çanakkale merkezlidir ve ürünlerini 40’a yakın ülkeye ihraç etmektedir.Hissedarları:Niyazi Önen Holding A.Ş. (yüzde 68,6)Diğer (yüzde 31,4)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-08-02"
+  },
+  {
+    "company": "Kay",
+    "description": "Kay, 1970’li yıllarda Ayhan ailesi tarafından kuruldu. Mar Tüketim Mad. İth. İhr. San. Ve Tic. A.Ş. bünyesinde; Süt, Yem ve Su markaları ile tüketicilere ürünlerini sunuyor.1993 yılında SEK’in Balıkesir fabrikasını satın aldı.Firma Hollanda’dan keçi ithal ederek keçi çiftliği kurdu.Kay Süt ve Balmar Süt markalarını üretiyor. Bim’e Dost markalı sütleri üretiyor. CarrefourSA’nın markasız sütlerini ve sularını üretiyor.Süt markası Libya, Irak ve Mısır gibi Ortadoğu ülkelerine ihraç ediliyor. Su markası Avrupa, Ortadoğu ve Afrika’da 25 ülkeye ihraç ediliyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-09-21"
+  },
+  {
+    "company": "Dr. Scholl’s",
+    "description": "Dr Scholl markası, 1906 yılında William Mathias Scholl tarafından kurulan ayakkabı ve bakım kremleri markasıdır.Dr. Scholl’un ürünleri, konfor sağlamak, yorgunluğu azaltmak, alt vücut ağrısını hafifletme ve önlemek için tasarlanmıştır.Dr. Scholl markası Amerika merkezli Scholl’s Wellness Company bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2021-04-01"
+  }
+]

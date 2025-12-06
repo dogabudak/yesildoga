@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Evolveo",
+    "description": "Evolveo, 2005 yılında kurulan Abacus Electric, s.r.o. bünyesindeki elektronik markasıdır.Dijital ev, kişisel elektronik ve oyun ürünleri alanında uzmanlaşmıştır. ISO 9001 belgesine sahiptir.Abacus Electric, s.r.o. Çek Cumhuriyeti merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Acrilux",
+    "description": "Acrilux, 1912 yılında kurulan Fratelli Guzzini tarafından kurulan Acrilux S.r.l. bünyesinde üretilen aydınlatma endüstrisi için termoplastik bileşenler markasıdır.Aydınlatma ürünleri için küre ve şekil, prizmatik refraktörler, tamamen kapalı üniteler, tek parça enjeksiyon kalıplı difüzörler ve prizmatik kontrolörler üretmektedir. ISO 9001 belgesine sahiptir.Acrilux S.r.l. İtalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Gofello",
+    "description": "Gofello, 1980 yılında kurulan Akay Çikolata Bisküvi Gıda San. Tic. Ltd. Şti. bünyesinde üretilen kokolin kaplamalı fındık kremalı gofret.Çikolata ve bisküvi ürünlerini 11 bin metrekarelik alanda Gaziantep 2. OSB’de üretmekte ve 40 ülkeye ihraç etmektedir.Bünyesindeki markalar;AhsenAkaiAkayAlfajrAxorBerlingoBrellaGofelloI’am OneLivinsLupişMerivaRejjoRonaySweet BoonŞimgoTatçizZico",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alke Makine",
+    "description": "Alke Makine, 2015 yılında kurulan Alke Mühendislik Makine San. Tic. Ltd. Şti. bünyesindeki şekerleme ve gıda ekipmanları markasıdır.Lokum, helva, pişmaniye, draje, müsli bar, meyve bar, nuga bar, kuruyemiş bar, granola bar ve protein bar, krokan, marshmallow, jöle şeker, jelibon, karamel, çikolata makineleri üretmektedir.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Necta",
+    "description": "Necta, Evoca Group bünyesindeki otomatik ve yarı otomatik kahve makineleri markasıdır.Küçük ofislerden kahve salonlarına, yoğun yerlerden halka açık tesislere kadar her özel ihtiyaç tamamen karşılanmaktadır.Evoca Group İtalya merkezlidir. Ürünlerini 140’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

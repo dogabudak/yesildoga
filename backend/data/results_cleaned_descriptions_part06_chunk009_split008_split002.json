@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mondi Tire Kutsan",
+    "description": "Mondi Tire Kutsan, 1974 yılında kurulan Mondi Tire Kutsan Kağıt ve Ambalaj San. A.Ş. bünyesindeki oluklu mukavva kutu kağıt ve hurda kağıt markasıdır.Firma, ormanları yönetmekten kağıt hamuru, kağıt ve plastik filmler üretmeye, etkin endüstriyel ve tüketici ambalaj çözümleri geliştirmeye ve üretmeye kadar değer zincirine tamamen entegre edilmiştir.Mondi Tire Kutsan Kağıt ve Ambalaj San. A.Ş. 2007 yılında İngiltere merkezli Mondi plc bünyesine katıldı. Türkiye’de 5 fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Orecare Diş Macunu",
+    "description": "Orecare Diş Macunu Hangi Ülkenin Malı MarkasıOrecare, 1995 yılında kurulan Tiens Co. LTD. bünyesinde üretilen diş macunu markasıdır.Florür içermez.Tiens Co. LTD. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 240 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Komeks Defter",
+    "description": "Komeks, Bera Holding iştiraki Konya Kağıt San. ve Tic. A.Ş. bünyesinde üretilen defter markasıdır.Ürün yelpazesinde tüm spiralli ve tek ortalı tel dikişli okul defterleri, özel tasarım spiralli karton ve plastik helezon spiralli PP kapaklı defterler, ayraçlı defter, güzel yazı defteri, resim defteri ve resim kağıdı, parşömen kağıdı, küp blok, A4/A5 bloknotlar, fon karton çeşitleri yer almaktadır.Firma ürünlerini Türkiye’de üretmektedir.ISO 9001, ISO 12647 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 12647",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wockhardt",
+    "description": "Wockhardt, 1960 yılında Habil Khorakiwala tarafından kurulan Wockhardt Ltd. bünyesinde üretilen ilaç ve biyoteknoloji markasıdır.Formülasyonlar, biyofarmasötikler, beslenme ürünleri ve aktif farmasötik bileşenler üretir.Wockhardt Ltd. Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Arlight",
+    "description": "Arlight, 1991 yılında kurulan Arlight Aydınlatma A.Ş. bünyesinde üretilen iç, dış ve endüstriyel aydınlatma ürünleri markasıdır.Arlight Aydınlatma A.Ş. 2014 yılında İsveç merkezli Fagerhult AB tarafından satın alındı.Firmanın Ankara’da üretim tesisleri bulunmaktadır.Bünyesindeki markalar;ArlightAtelje LyktanDesignplanEagle LightingFagerhultI-ValoLED LinearLTSVekoWE-EFWhitecroftiGuzzini",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

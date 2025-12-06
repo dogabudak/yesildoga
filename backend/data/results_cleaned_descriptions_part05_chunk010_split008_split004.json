@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Green Cola",
+    "description": "Green Cola, 2011 yılında Periklis Venieris tarafından kurulan Green Cola Company S.A. bünyesinde üretilen gazlı ve gazsız içecekler, alkolsüz içecekler markasıdır.Ürünleri zararlı kimyasal ve koruyucu madde içermemektedir. Kafeinsiz, şekersiz, yeşil çay özlü ve stevia içerir.Green Cola Company S.A. Yunanistan menşelidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Aroy-D",
+    "description": "Aroy-D, 1986 yılında kurulan Thai Agri Foods Public Company Limited bünyesindeki hindistan cevizi sütü, sos, köri ezmesi, konserve meyve, meyve suyu markasıdır.Thai Agri Foods Public Company Limited Tayland merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "Backfee",
+    "description": "Backfee, 1928 yılında Michael Schels tarafından kurulan Netto Marken-Discount Stiftung & Co. KG bünyesindeki kabartma tozu, mısır nişastası, çikolata parçaları, kek, kakao, hindistan cevizi, çikolatalı süt, vanilin şekeri, krem şanti markasıdır.Netto Marken-Discount Stiftung & Co. KG, Almanya merkezli Edeka Zentrale Stiftung & Co. KG’nin bir yan kuruluşudur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tucano Urbano",
+    "description": "Tucano Urbano, 1999 yılında kurulan Tucano Urbano S.r.l. bünyesinde üretilen motosiklet ve scooter giyim ve aksesuar markasıdır.Tucano Urbano S.r.l. İtalya merkezlidir. Üretiminin yüzde 30’undan fazlasını ülke dışına pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "INVT",
+    "description": "INVT, 2002 yılında kurulan Shenzhen INVT Electric Co. Ltd. bünyesindeki kesintisiz güç kaynağı markasıdır.Endüstri otomasyonu ve enerji gücü üzerine yoğunlaşmaktadır. ISO 9001 belgesine sahiptir.Shenzhen INVT Electric Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

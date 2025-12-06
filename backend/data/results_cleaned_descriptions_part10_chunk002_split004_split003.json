@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Skinsensual",
+    "description": "2021 yılında kurulmuş olan Meva Kozmetik Güzellik Merkezi San. Tic. Ltd. Şti. bünyesindeki cilt temizleme köpüğü ve yağı, tonik, yüz serumu, nemlendirici, göz altı serum, güneş kremi, bb krem, peeling markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lazur Plus",
+    "description": "2014 yılında kurulmuş olan Decolor d.o.o. bünyesinde üretilen su yalıtım malzemeleri, boya ve sıva, koruma malzemeleri, ahşap kaplama malzemeleri markasıdır.Ahşap, taş ve diğer yapı malzemelerinin, derzlerin, su yalıtım kaplamalarının, temizleyicilerin emprenye edilmesi ve korunması için ürünler veya kaplamalar sunmaktadır.Decolor d.o.o. Slovenya merkezlidir ve ürünleri 10’dan fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "SI",
+    "updated_date": null
+  },
+  {
+    "company": "Sysmex",
+    "description": "1968 yılında kurulmuş olan Sysmex Corporation bünyesindeki teşhis aletleri, reaktifler, sağlık yönetimi destek yazılımı markasıdır.Sysmex Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Motosol",
+    "description": "1990 yılında kurulmuş olan Rüzgar Kimya Kozmetik Ltd. Şti. bünyesinde üretilen zincir yağlayıcılar markasıdır.ISO 9001 belgesine sahiptir.Firma Tekirdağ merkezlidir. Ürünlerini Tekirdağ’da bulunan tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artzone",
+    "description": "2017 yılında kurulmuş olan Hobi24 Kırtasiye Dış Tic. Ltd. Şti. bünyesindeki akrilik boyalar, sanatsal boyalar, sulu boyalar, yağlı boyalar, sanatsal kağıtlar, malzemeler markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

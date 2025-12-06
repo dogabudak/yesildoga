@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kelde",
+    "description": "Kelde, 2019 yılında kurulmuş olan Hangzhou Kelde Technology Co. Ltd. bünyesinde üretilen elektrikli döşeme zımbaları markasıdır.Hangzhou Kelde Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "IBM",
+    "description": "IBM, 1911 yılında kurulan International Business Machines Corporation bünyesindeki yazılım, hibrit bulut çözümleri ve danışmanlık markasıdır.International Business Machines Corporation Amerika merkezlidir.Hissedarları:The Vanguard Group Inc. (yüzde 8,8)BlackRock Inc. (yüzde 8)State Street Corporation (yüzde 5,9)Bünyesindeki markalar;AlgoAlgorithmicsAndesBeyond PresenceBusiness Computing UtilityCognitive BusinessCognitive EnterpriseCognitive EraDatastageDigeyDigeysDigital CatalystDigital-NationDiscovery AcceleratorDominoDossier AcceleratorE BusinessEasystrikeEnviziExecutiveExpressFile NetFlashsystemFlowmarkGbsGlobal Business ServicesGtsHelpwareI5IBMIcemInformixInfosphereInstanaJazzLandpLotus DominoMade With DataMade With IbmMade With Ibm CloudMade With MobileMade With SocialMaximoMeasure Your CeilingNetezzaOmegamonOpcOrchestrateOutthinkPlus Is MorePowerpcPromontoryPurexmlQuantum System TwoQuickrR/SaaReal-Time Compression ApplianceReaqtaRembo TechnologyRetail Systems Application ArchitectureSemeaSemeru RuntimeSkillsbuildSmarter PlanetSpecialSpectrum FusionStorwizeSystem TwoThe Weather ChannelThe Weather EngineTurbonomic Application Resource ManagementVıperVentures In CollaborationWatson OrdersWeatherverseWorkplaceZ SystemsZ13Z15Z16ZenterpriseZsystems",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Trix Class",
+    "description": "Trix Class, 2006 yılında kurulmuş olan Medya Kırtasiye Promosyon San. ve Tic. Ltd. Şti. bünyesindeki boya kalemleri, silgi, kalem setleri, cetvel, çizim seti, bant kesme makinesi, maket bıçağı, silikon tabancası, zımba makinesi, zımba teli markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;MarcellPanda KidsTrixTrix ClassTrix Class Stationery",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pella Pencere",
+    "description": "Pella, 1925 yılında Pete Kuyper tarafından kurulmuş olan Pella Corporation bünyesinde üretilen konut evleri ve ticari uygulamalar için pencere ve kapılar markasıdır.Pella Corporation Amerika merkezlidir. Ürünlerini Amerika ve Kanada’da bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Viterax",
+    "description": "Viterax, 2018 yılında kurulmuş olan Essa Itriyat ve Kozmetik San. Tic. Ltd. Şti. bünyesindeki beyazlatıcı diş pastası, maske teli markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;EssaıtriyatItriyatsepetiViterax",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

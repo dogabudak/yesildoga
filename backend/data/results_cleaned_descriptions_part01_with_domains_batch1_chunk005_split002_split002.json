@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Loreal Paris",
+    "description": "L’Oreal Paris, 1909 yılında kurulmuş olan L’Oréal S.A. bünyesinde üretilen makyaj, cilt bakım, saç ürünleri, kozmetik ürünler markasıdır.L’Oréal S.A. Fransa merkezlidir. Şirkette Françoise Bettencourt Meyers yüzde 33 hisseye sahipken İsviçre merkezli Nestlé S.A.’nın yüzde 23,29 oranında hissesi bulunmaktadır. 1980 yılında Türkiye pazarına giriş yaparak L’oreal Türkiye olarak faaliyet göstermektedir.Bünyesindeki markalar:İpekAngelAtelier CologneBiolageBiothermCacharelCare For All By Cera VeCaritaCirque Du TricksClarisonicDecleorDieselDouble CrushEssieGarnierGiorgio ArmaniGuy LarocheHelena RubinsteinIT CosmeticsKerastaseKiehl’sL’Oreal ParisL’Oreal ProfessionnelLa Roche Posay Laboratoire DermatologiqueLancomeMagicMaison MargielaMatrixMaybelline New YorkMeta BlackMillion CurlsMizaniNYXNielyNutrisse Ultra CremePaloma PicassoParadoxePreference Le BlondingProenza SchoulerPureologyRalph LaurenRedkenShu UemuraSkinCeuticalsTrichoporosisUrban DecayVichyViktor & RolfYouth To The PeopleYue SaiYves Saint Laurent Beaute",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2023-10-19"
+  },
+  {
+    "company": "Metacafe",
+    "description": "Metacafe 2003 yılında Eyal Hertzog isimli bir yahudi tarafından kurulan video paylaşım sitesidir. Amerikan merkezli firma İsrail’den Silikon vadisine geçmeye çalışan firmalara, teknik ve iletişim olarak destek vermektedir.Metacafe özellikleri içerisinde çeşitli videolar, flash oyunları ve yeni çıkan filmlerle ilgili görüntüler bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Fonex",
+    "description": "Fonex, 1995 yılında kurulan Foneks Kozmetik Sağlık ve Eğitim Hizmetleri San. ve Tic. Ltd. Şti. bünyesindeki kişisel bakım, saç bakımı, saç şekillendirme ve elektronik kuaför ekipmanı markasıdır.Ürünlerini 65 ülkeye ihraç etmektedir. Tamamı Türk sermayesi ile faaliyet gösteren firma İstanbul merkezlidir.Bünyesindeki markalar:AstraCeylinnCreacionFnxGummyMatte LookMoserPericheVire-XWahl",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-01-15"
+  },
+  {
+    "company": "Bifa",
+    "description": "Bifa Bisküvi 1962 yılında kurulan bisküvi, çikolata, kek, gofret, kraker, şeker üretimi yapan bir markadır. Ayrıca un fabrikası, kağıt ambalaj fabrikası ve soğuk hava depolarına sahip olduğundan bisküvi ve şekerleme ürünleri için kullanılan ham maddeleri üretmektedir.Bifa, Cezayir’de kurduğu fabrikası ile ürünlerini yerel pazar ve komşu ülke pazarları ile de buluşturuyor.Bifa Bisküvi ve Gıda San. Karaman’daki 94 bin 274 metrekare toplam alanıyla, 75 bin 548 metrekare kapalı alan üzerindeki tesislerinde üretim yapıyor.Çikolata, bisküvi, kek, kraker, gofrette 600 çeşidin üzerinde ürünü 5 kıtada 80’den fazla ülkeye ihraç eden bir Türk firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Autor",
+    "description": "Autor1889 yılında kurulmuş olan Ledesma S.A.A.I. bünyesinde üretilen kağıt markasıdır.Ürünlerini şeker kamışı lifi kullanarak üretmektedir.Ledesma S.A.A.I. Arjantin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2024-07-24"
+  }
+]

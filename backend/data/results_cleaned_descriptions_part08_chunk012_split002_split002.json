@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Dixidox de Luxe",
+    "description": "Dixidox de Luxe2011 yılında kurulmuş olan Dsd Pharm S.L. bünyesinde üretilen yaşlanma karşıtı kozmetik ve saç bakım ürünleri markasıdır.Kepek ve saç derisi enfeksiyonlarını kontrol etmek için şampuanlar, spreyler, saç losyonları, serumlar, saç kremleri ve saç dökülmesini azaltmak için çeşitli maskeler ile yaşlanma karşıtı kozmetikler, gıda takviyeleri, seyahat kitleri ve saç bakım ürünleri sunmaktadır.Dsd Pharm S.L. İspanya merkezlidir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Yafa Brands",
+    "description": "Yafa1978 yılında Yafa Brands Inc. bünyesinde üretilen yazı gereçleri markasıdır.Firma ince kalemler, tükenmez ve tükenmez kalem yedekleri, dolma kalem mürekkepleri sunmaktadır.Yafa Brands Inc. Amerika merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lefant",
+    "description": "Lefant2011 yılında kurulmuş olan Shenzhen Lefant Technology Co. Ltd. bünesinde üretilen akıllı robot ürünleri markasıdır.Shenzhen Lefant Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Schneider Pen",
+    "description": "1938 yılında kurulmuş olan Schneider Schreibgerate Gmbh bünyesinde üretilen yazı gereçleri markasıdır.Ürün yelpazesinde tükenmez kalem, dolma kalem, fosforlu kalem, roller kalem, marker, fineliner, fiber ve jel kalemler, tükenmez kalem yedekleri ve mürekkep kartuşları yer almaktadır.Schneider Schreibgerate Gmbh Almanya merkezlidir. Ürünlerini Almanya’da üretmektedir ve 140 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Yoohanpack",
+    "description": "Yoohanpack1995 yılında kurulmuş olan Yoohan Pack Co. Ltd. bünyesinde üretilen ambalaj malzemeleri markasıdır.ISO 9001 belgesine sahiptir.Yoohan Pack Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

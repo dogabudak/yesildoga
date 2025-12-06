@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Nutri",
+    "description": "“Nutri“2014 yılında kurulmuş olan Omnia Nişasta San. ve Tic. A.Ş. bünyesinde üretilen nişasta, glikoz şurubu ve doğal tatlandırıcılar markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001, ISO 50001, BRC, FSMA, FSSC 22000, IP & FOOD CHAIN, Koşer ve Helal belgelerine sahiptir.Tosmur Grup Şirketidir ve Adana merkezlidir. Ürünlerini Adan OSB’de 73 bin metrekarelik alanda bulunan 55 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hyt Batarya",
+    "description": "“Hyt“1993 yılında kurulmuş olan Hytera Communications Co. Ltd. bünyesinde üretilen telsiz bataryaları markasıdır.Hytera Communications Co. Ltd. Çin merkezlidir. Ürünleri Çin’de üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;HytHyteraTrunkwave",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wöller",
+    "description": "“Wöller“2013 yılında kurulmuş olan Ys Audio Elektronik San. ve Tic. Ltd. Şti. bünyesindeki güç amplifikatörleri, mikser, hoparlörler, mikrofonlar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;IfoxStudio PlusWöllerWertexWieder",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pilyem Doyum Piliç",
+    "description": "“Doyum Piliç“1978 yılında kurulmuş olan Pilyem Gıda Tarım San. ve Tic. A.Ş. bünyesinde üretilen piliç eti markasıdır.ISO 9001, ISO 22000, HCCP, Helal belgelerine sahiptir.Firma Adana merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avova",
+    "description": "“Avova“2017 yılında kurulmuş olan Avova Gmbh bünyesindeki çocuk koltukları, bebek arabası ve aksesuarlar markasıdır.Avova Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.Bünyesindeki markalar;AvovaRecaro",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

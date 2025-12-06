@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Snappy Tom",
+    "description": "Snappy Tom, 1991 yılında kurulan Safcol Holdings Limited bünyesindeki her yaştan kedi için mamalar markasıdır.Safcol Holdings Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Molent Tools",
+    "description": "Molent Tools, 2019 yılında kurulan Snb Makine Kalıp Danışmanlık İth. İhr. Ltd. Şti. bünyesindeki kahve değirmeni, kahve ekipmanları markasıdır.Espresso, Türk kahvesi, moka pot, aeropress, delter press, filter-brew, French press öğütülmesi için özel alaşımlı paslanmaz çelik bıçaklar, mikro paslanmaz bilyeli rulman, geniş hazneye sahiptir.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nofer",
+    "description": "Nofer, 1991 yılında kurulan Nofer SL. bünyesinde üretilen paslanmaz çelikten sıhhi tesisat ve aksesuarları markasıdır.Ürün yelpazesinde el kurutma, havlu askısı rafı, havlu yüzük paslanmaz çelik, kağıt dağıtıcısı, klasik raf, havlu askısı, klasik rulo kağıt tutucu, saç kurutma makinesi duvar kromu, sabun dağıtıcısı, tuvalet kağıdı tutucusu gibi ürünler yer almaktadır.UNE-EN ISO 9001 belgesine sahiptir.Nofer SL. İspanya merkezlidir ve ürünlerini 50 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Macit Helva",
+    "description": "Macit Helva, 1938 yılında kurulan Macit Helva ve Şekerleme bünyesinde üretilen çekme helva, lokum, pişmaniye, reçel, tahin helva, tahinler, yazlık helva markasıdır.Ürünleri Emülgatör içermektedir.Firma Kastamonu merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Levear",
+    "description": "Levear, Dalian Levear Electric Co. Ltd. bünyesindeki osiloskoplar, radarlar, programlanabilir mantık denetleyicileri, ölçüm cihazları, sinyal üreteçleri, endüstriyel zamanlayıcılar ve diğer ürünler markasıdır.Dalian Levear Electric Co. Ltd. ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

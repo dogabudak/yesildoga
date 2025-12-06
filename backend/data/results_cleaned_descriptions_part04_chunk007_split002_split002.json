@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Havvaca Buhar Makinesi",
+    "description": "Havvaca, 2017 yılında Gökhan Gündoğan tarafından kurulan Yiğit Marketing bünyesindeki buhar üreteçleri, buhar kazanları, iklimlendirme ve havalandırma cihazları markasıdır.Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yukka",
+    "description": "Yukka, 2011 yılında kurulan Jie Mei Mould Co., Ltd. bünyesinde üretilen cep telefonu, kablosuz şarj cihazı, bluetooth hoparlör, bluetooth kablosuz kulaklık, akıllı saat, android akıllı terminal ve elektronik ürünler markasıdır.Tek bir kalıp şirketinden kalıp, elektronik, cep telefonu ve kuvars minerali ile yıllar süren istikrarlı büyümeden sonra bir gruba dönüşmüştür.Jie Mei Mould Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Çet-San",
+    "description": "Çet-San Nerenin Malı MarkasıÇet-San, 1979 yılında kurulan Çetsan Plastik Elektrik Malz. İmal. San. Tic. Ltd. Şti. bünyesinde üretilen armatür, aspiratör, bemis ürünleri, döşeme altı buat ve priz kasası, fiş, priz, duy, alet takımları, izolatör, bara, w. otomat rayı, kablo bağı ve aksesuarları, kablo kanalı ve aksesuarları, kangal boru, dirsek ve muf, kapı ve merdiven ışık otomatiği, kasa ve buat ve paspay, klemens, kombinasyon kutusu, kroşe ve rakor, pabuç, muf ve sıkma penseleri, seyyar el lambası, sayaç kutusu ve posta kutusu ve kofra, seyyar kablo makarası, sigorta kutusu, sinyal lambası, şartel, buton kutusu, spiral boru ve kablo toplama spiralleri, susta, taban saclı pano, telefon modül kutu ve aksesuarları, vida, yangın uyarı sistemleri, exit (çıkış) lambaları, zil butonu ve zil çeşitleri markasıdır.İkitelli O.S.B. İpkas Sanayii sitesinde 9 bin metrekarelik kapalı alanda üretim yapmaktadır. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flamingo Pet Ürünleri",
+    "description": "Flamingo, 1972 yılında René van Tendeloo tarafından kurulan Flamingo Pet Products NV bünyesindeki köpek, kedi, kuş, kemirgenler, akvaryum ve teraryum ürünleri markasıdır.Flamingo Pet Products NV Belçika merkezlidir. Ürünlerini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Chantecaille",
+    "description": "Chantecaille, 1998 yılında kurulan Chantecaille Ltd. bünyesindeki botanik cilt bakımı ve kozmetik ürünleri markasıdır.Ürünleri ftalat, sülfat, mineral yağ, palmiye yağı, sentetik renk, sentetik koku ve GDO içermemektedir. Vegan dostudur ve hayvanlar üzerinde test edilmemektedir.Chantecaille (UK) Ltd İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

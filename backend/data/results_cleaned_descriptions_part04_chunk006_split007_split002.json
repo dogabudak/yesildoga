@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Aviagen",
+    "description": "Aviagen, 1986 yılında kurulan Aviagen Inc. bünyesinde üretilen tavukçuluk hizmetleri, tavuk, yumurta ve ilgili ürünler markasıdır.Önde gelen bir kümes hayvanı yetiştirme şirketidir. Aviagen Broiler Breeders, 100’den fazla ülkeye Arbor Acres, Ross, ve Indian River ırklarından günlük ana damızlık ve damızlık civciv tedarik etmektedir.Aviagen Inc. Amerika merkezlidir. Türkiye’de Aviagen Anadolu Ana Damızlık Tavukçuluk San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bahar Hindi",
+    "description": "Bahar Hindi, 1940 yılında kurulan Bahar Tavukçuluk Gıda İnş. Tur. San. ve Tic. Ltd. Şti. bünyesinde üretilen hindi eti ve ürünleri markasıdır.Hazır dondurulmuş ürünler ve konserve ürünler üretmektedir.ISO 9001, ISO 22000 belgelerine sahiptir.HACCP Sistemi BRC Food Standartlarına göre, kanatlı et sektöründe hindi etini yumurtadan civcive, civcivden işlenmiş son ürüne kadar üreten yüzde 100 yerli sermayeli şirkettir.",
+    "documents": [
+      "BRC",
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bupiliç",
+    "description": "Bupiliç, 2003 yılında kurulan Bupiliç Entegre Gıda San. Tic. A.Ş. bünyesinde üretilen piliç ürünleri markasıdır.BRC Food , ISO 22000, FSSC 22000, ISO 9001, TSE ve Helal Üretim belgelerine sahiptir.Balıkesir, Bursa, Çanakkale, Manisa, İzmir’de yetiştirici kümesleri bulunmaktadır.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ichi",
+    "description": "Ichi, 2001 yılında Jens Poulsen tarafından kurulan DK Company A/S bünyesindeki kadın kıyafetleri markasıdır.Şirket 50’den fazla ülkede faaliyet göstermektedir.DK Company A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Zu Audio",
+    "description": "Zu Audio, 2000 yılında Sean Casey tarafından kurulan Zu Cable Incorporated bünyesindeki yüksek performanslı hoparlör ve kablo markasıdır.Zu Cable Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

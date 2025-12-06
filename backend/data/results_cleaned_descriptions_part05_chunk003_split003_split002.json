@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Anavarza Bal",
+    "description": "Anavarza Bal, 1979 yılında Süleyman Sezen tarafından kurulan Sezen Gıda Maddeleri Tarım ve Hayvan Ürünleri Tic. ve San. Ltd. Şti. bünyesinde üretilen bal ve krem bal markasıdır.Adana’da 13 bin 200 metrekarelik alanda bulunan 5 bin 500 metrekarelik kapalı alanda kavanozlama yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bugaboo",
+    "description": "Bugaboo, 1996 yılında kurulan Bugaboo International B.V. bünyesinde üretilen bebekler ve küçük çocuklar için ebeveyn ürünleri markasıdır.Ürünleri 50 ülkeye pazarlanmaktadır.Bugaboo International B.V. 2018 yılında Amerika merkezli yatırım şirketi Bain Capital LP tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Naj Oleari",
+    "description": "Naj Oleari, 1978 yılında kurulan Euro I. srl bünyesindeki koku ve güzellik ürünleri markasıdır.Firma ambalajların plastik içeriğini yüzde 1’den az olan plastiksiz ambalajlar oluşturmak için özen göstermektedir.Ürünlerini 140’tan fazla ülkeye pazarlamaktadır.Euro Italia srl İtalya merkezlidir.Bünyesindeki markalar;AtkinsonsDsquared2I ColonialiMissoniMoschinoNaj-Oleari BeautyReporterVersace",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Acqua Di Parma",
+    "description": "“Acqua Di Parma“1916 yılında Carlo Magnani tarafından kurulmuş olan Acqua Di Parma Srl bünyesindeki kokular, vücut ürünleri, tıraş ve tıraş sonrası ürünler ve mumlar markasıdır.Acqua Di Parma S. r.l. 2001 yılında LVMH Moet Hennessy Louis Vuitton SE tarafından satın alındı. Tüm ürün yelpazesi sadece İtalya’da üretilmektedir ve 40’tan fazla ülkede dağıtılmaktadır.LVMH Hissedarları",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-12-11"
+  },
+  {
+    "company": "Prince Lionheart",
+    "description": "Prince Lionheart, 1973 yılında kurulan Prince Lionheart Inc. bünyesindeki plastik ürünler markasıdır.Ürünleri arasında çocuklar için banyo ve lazımlık, kutular, oturma ve besleme ürünleri, seyahat ürünleri, oyun, güvenlik ürünleri, paketler yer almaktadır.Prince Lionheart Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

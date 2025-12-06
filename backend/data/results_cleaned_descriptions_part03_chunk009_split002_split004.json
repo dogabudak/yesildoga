@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Arcopal",
+    "description": "Arcopal, 1958 yılında Arc International Group bünyesinde üretilen sürahi, su ve meyve suyu bardağı, pişirme ve yemek cam ürünleri, saklama kutuları markasıdır.Fransa, Amerika, İspanya ve Çin’de üretim tesisleri bulunmaktadır.Arc International Group hisselerinin yüzde 80’i Amerikalı Peaked Hill Partners ile yüzde 20 hissesi Fransız Durand ailesine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mark Levinson",
+    "description": "Mark Levinson, Harman International bünyesindeki müzik aletleri markasıdır.Harman International 2017 yılında Güney Kore merkezli Samsung Electronics’in iştiraki oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Victsing",
+    "description": "Victsing, 2012 yılında kurulan Victsing Corporation bünyesindeki masaüstü aksesuarları markasıdır.Ürün yelpazesinde fare, klavye, video projektörleri ve araç aksesuarları bulunmaktadır.Victsing Corporation Amerika merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Teoxane",
+    "description": "Teoxane, 2003 yılında kurulan Teoxane Laboratories bünyesindeki dermokozmetik markasıdır.Kırışıklık giderici ve yaşlanma geciktiren krem, dudak serumu, yüz ve boyun maskesi, yatıştırıcı balsam, gece peelingi ve yoğunlaştırılmış etkiye sahip bakım serumu gibi ürünlere sahiptir.Teoxane Laboratories İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Bresser",
+    "description": "Bresser, 1957 yılında Josef Bresser tarafından kurulan Bresser GmbH bünyesinde üretilen optik ürünler, dürbün, teleskop, mikroskop, gece görüş cihazları, Telemetre markasıdır.Bresser Avrupa çapında optik ürünlerin önde gelen tedarikçilerinden biridir.1999 yılında Amerika merkezli Meade Instruments Corp. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

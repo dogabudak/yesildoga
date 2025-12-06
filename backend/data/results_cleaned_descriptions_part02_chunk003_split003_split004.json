@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Amigo Fıstık",
+    "description": "Amigo fıstık, 1995 yılında kurulmuş olan Şok Marketler Tic. A.Ş. adına muhtelif üreticiler tarafından üretilen fıstık, ayçekirdeği, çiğ badem, kuru meyve, cips, fıstık ezmesi ile atıştırmalık markasıdır.Şok Marketler hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 41,22)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-12-14"
+  },
+  {
+    "company": "Bortaçina",
+    "description": "Bortaçina, Fatin Bortaçina tarafından 1998 yılında kurulan Bor-Sa Bortaçina San. Tic. Ltd. Şti. bünyesindeki zeytinyağı markasıdır.Ayrıca Balıkesir’de üretim tesislerinin hemen yanında Bortaçina adlı bir restoranı bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Has Matik",
+    "description": "Has Matik, 1937 yılında kurulan Hayat Kimya A.Ş. bünyesindeki temizlik ürünleri markasıdır.Ürünlerini İzmit Yeniköy Entegre Üretim Tesisleri’nde üretmektedir.Tamamı yerli sermayeli Kiğılı Ailesi’nin hisselerine sahip olduğu Hayat Grubu, ağırlıklı olarak kimya ve ağaç sanayi sektörlerinde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Popping Paçito Patlayan Şeker",
+    "description": "Popping Paçito, 1993 yılında kurulan Hleks Gıda bünyesindeki şeker markasıdır.Türkiye’de Patlayan Şeker’i İlk ve Patentli olarak üreten HLEKS, uluslararası bir şirkettir.Hleks ürün grupları arasında; Patlayan Şekerli Çikolata, Sakız, Lolipop, Corn Flakes var.Gebze Plastik OSB’de bulunan fabrikasında üretim yapmakta olup, 105 ülkeye patlayan şeker ihraç edildi ve hali hazırda 81 ülkeye ihracatı sürüyor.Değişik özelliklerdeki ambalaj ve içeriği ile birlikte Hleks Shoogy Boom Patlayan Şeker BRC, ISO, UKAS, HACCP kalite belgelerine de sahip.Hleks Dünya’da, Çikolata, Mısır Gevreği, Yoğurt, Dondurma, ve bir çok değişik gıda maddesi üreten meşhur markaların Patlayan Şeker tedarikçisidir.Bünyesindeki markalar:Popping CandyShoogy BoomSparxBurstın Bıts",
+    "documents": [
+      "BRC",
+      "HACCP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sementa",
+    "description": "Sementa, 1974 yılında kurulan Karsaklar Sementa Tekstil İmalat San. Tic. A.Ş. bünyesindeki penye, triko ve spor giyim ürünleri markasıdır. Sementa Tekstil’in sahibi Karsak ailesidir.Üretim parkurlarında, penye, eşofman grubunda yılda bir milyon 200 bin, triko üretiminde ise 600 bin adet kapasitesiyle Ankara’da üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

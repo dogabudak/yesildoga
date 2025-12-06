@@ -1,0 +1,44 @@
+[
+  {
+    "company": "White Daisy",
+    "description": "White Daisy, 1992 yılında kurulan Motorfan Elektrik San. ve Tic. Ltd. Şti. bünyesinde üretilen davlumbaz, aspiratör markasıdır.Motorfan ürünlerini 45 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nehi Cola",
+    "description": "Nehi Cola, 1885 yılında Charles Alderton tarafından kurulan Keurig Dr Pepper Inc. bünyesinde üretilen soda markasıdır.Keurig Dr Pepper Inc.’in yüzde 67 hissesi JAB Holding Şirketi’ne yüzde 13,6 oranındaki hissesi ise Mondelez International’a ait Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Okyanus Koleji",
+    "description": "Okyanus Koleji, 1979 yılında Orhan Özbey tarafından kuruldu. Okyanus Holding bünyesinde faaliyet göstermektedir.Kolej, özel okul, ana okulu, ilkokul, ortaokul, lise olarak 30 kampüs ve 110’dan fazla okuluyla hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "UFI Filters",
+    "description": "UFI Filters, 1971 yılında kurulan UFI Filters Group bünyesindeki otomotiv sektörü için hava, yağ, yakıt, kabin, hidrolik ve soğutucu filtreler ile termal yönetim sistemleri markasıdır.UFI, 16 ülkede 17 sanayi bölgesine sahiptir.UFI Filters Group İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "BOK Financial",
+    "description": "Bank of Oklahoma’nın kısaltması olan BOK, 1991 yılında George Kaiser tarafından satın alındı.Şirketin yüzde 60’ı 1991 yılında bankayı FDIC’den satın alan George Kaiser’e aittir.BOK Financial Corporation Amerika merkezli bir banka holding şirketidir ve sadece Amerika’da faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

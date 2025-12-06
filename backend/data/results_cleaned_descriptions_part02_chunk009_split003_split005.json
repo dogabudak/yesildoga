@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Ekokat",
+    "description": "Ekokat, 1995 yılında kurulan Çullas Yapı Malzemeleri Sanayi ve Dış Tic. A.Ş. bünyesindeki yapı kimyasalları markasıdır.Çullas Group 2004 yılında madencilik firması kurarak, İzmir Bergama’da bulunan 10 bin metrekarelik kapalı alana sahip kırma, eleme ve genleştirme tesislerinde faaliyetlerini sürdürmektedir.Firma TSE ve CE belgesine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dow AgroSciences",
+    "description": "Dow AgroSciences, Dow Inc. bünyesindeki tarım kimyasalları, tohum ve biyoteknoloji çözümleri markasıdır.Dow AgroSciences ayrıca Omega-9 kanola ve ayçiçek yağları üretir.Dow Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İtimat",
+    "description": "İtimat, 1967 yılında kurulan İtimat Su Armatürleri San. Tic. Ltd. Şti. bünyesindeki banyo ve mutfak bataryası markasıdır.İtimat, Su Armatürleri ev tipi, sanayi tipi batarya ve ilgili ara mamulleri 7 bin metrekarelik kendi üretim tesislerinde üretmektedir. Ürünlerini 25’ten fazla ülkeye ihraç etmektedir.TSE ve ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gwest",
+    "description": "Gwest, 1981 yılında Zeki Tavas tarafından kurulan Güven Elektrik Elektronik Ltd. Şti. bünyesindeki elektrik malzeme ürünleri markasıdır.Kablo bağlantı elemanları, aksesuarları ve buton grubunda Gwest markalı ürünler üretmektedir.Güven Elektrik Şirketi Orta Gerilim Taahhüt işleri ve malzeme tedariki yapmaktadır.Bünyesindeki markalar:GWESTWOER",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "MicroTouch Solo",
+    "description": "MicroTouch Solo, 2009 yılında Kevin Harrington tarafından kurulan ürün pazarlama ve reklam şirketi As Seen On TV, Inc. bünyesindeki tıraş makinesi markasıdır.MicroTouch Solo, Amerika merkezli As Seen On TV şirketi tarafından Çin’de üretilmektedir. MicroTouch Solo, Alman çelik bıçağı kullanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

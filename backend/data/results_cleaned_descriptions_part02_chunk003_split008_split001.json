@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Vorson",
+    "description": "Vorson, 2006 yılında Dijital Medya Ltd. bünyesinde kurulan Powerbank ve Mobil aksesuar markasıdır.Vorson markasıyla; Powerbank, Kulaklık, Telefon Kılıfı, Şarj ve Data Kablosu ve Özel Tasarım Kişisel Elektronik ürünler üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vimeo",
+    "description": "Vimeo, 2004 yılında kurulan 150’den fazla ülkede faaliyet gösteren dünyanın en büyük reklam içermeyen açık video platformudur.Amerika merkezli IAC/InterActiveCorp bünyesinde hizmet veriyor.IAC/InterActiveCorp bünyesindeki şirketler:Angie’s ListApalonAsk ApplicationsAsk.comBlackPeopleMeet.comChemistry.comCityGridCollegeHumorDailyBurnDelightfulDictionary.comDotdashFriendScout24HandyHomeAdvisorHomeStarsHowAboutWeIAC FilmsInstaproInvestopediaMatch.comMeetic GroupMyBuilderMyHammerOkCupidOurTimePeople MediaPlentyOfFishReference.comSlimWareTelTechThe Daily BeastTinderTravaux.comTwooVimeoWerkspotiTranslatemHelpDesk",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wellman",
+    "description": "Wellman, 1971 yılında Dr Kartar Lalvani tarafından kurulan Vitabiotics Ltd. bünyesindeki multivitamin markasıdır.Vitabiotics Türkiye 11 marka ve 16 form ile Türkiye’nin farklı yaş gruplarına ve farklı ihtiyaçlarına dönük besin destekleri içeriyor.Vitabiotics Ltd. İngiltere merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "RC Cola",
+    "description": "RC Cola (Royal Crown Cola), 1905 yılında eczacı Claud A. Hatcher tarafından üretilen kola aromalı meşrubattır.RC Cola, 2001 yılında Kanada merkezli içecek ve gıda hizmetleri şirketi Cott LLC. tarafından satın alındı. (RC Cola’nın Amerika hakları ise Keurig Dr Pepper şirketine ait)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Kinden",
+    "description": "Kinden, 1944 yılında kurulan inşaat şirketidir.Kinden Corp Japonya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

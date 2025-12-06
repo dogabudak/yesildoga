@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Apache",
+    "description": "Apache, 1992 yılında kurulan Apache Micro Peripherals Inc. bünyesindeki modem, yönlendirici, fare, klavye, web kamerası müzik çalar, hoparlör ve kulaklık markasıdır.Amerika merkezli Micro Peripherals Inc. 2015 yılında iflas etti.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Accessorize",
+    "description": "Accessorize, 1973 yılında Peter Simon tarafından kurulan Monsoon Accessorize Limited bünyesindeki takı, şapka, çanta, iç çamaşırı, kırtasiye ürünleri, mücevher, kemer, eşarp, parmak arası terlik, eldiven, saç aksesuarları ve kozmetik markasıdır.Monsoon Accessorize Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Encore",
+    "description": "Encore, 1996 yılında kurulan Encore Electronics Inc. bünyesindeki ağ, multimedya, barkod tarayıcı, bilgisayar çevre birimleri, mobil aksesuarlar, tip c kablo ve bilgisayar kasası markasıdır.Ürünleri CE, FCC, UL sertifikalarına sahiptir ve RoHS gereksinimlerine uygun olarak üretilmektedir.Encore Electronics Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ergo Akıllı Telefon",
+    "description": "Ergo, 2002 yılında kurulan TM ERGO bünyesindeki mobil cihazlar, elektrikli araçlar, tv’ler ve aksesuarlar, ses, led aydınlatma ürünleri markasıdır.ERGO, farklı ürün alanlarında 200’den fazla ürünü bulunan ISO 9001 ve ISO 9002 sertifikalarına sahip olan Ukrayna merkezli bir şirkettir.Ukrayna, Gürcistan, Moldova ve Kazakistan’da ofisleri bulunmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": "2020-05-30"
+  },
+  {
+    "company": "Öznur Kablo",
+    "description": "Öznur Kablo, 1989 yılında kurulan Öznur Kablo A.Ş. bünyesindeki kablo markasıdır.Öznur Kablo, dört üretim fabrikasına sahiptir.SCR Elektrolitik 8 mm Bakır filmaşin üretim tesisi, 154 KV Yüksek gerilim kabloları üretebilecek yeterlikte CV XLPE izole hattı, Bakır ve Alüminyum tel çekme ve inceltme hatları, İletken ve Damar büküm hatları, 0,6/1 kv PVC, XLPE, HFFR İzole ve Dış kılıflı kablo ekstruzyon hatları, PVC granül üretimi, paketleme ve ambalajlama makineleri ile tüm bu ürünlerin kalite kontrolünün yapıldığı test laboratuvarlarıyla hizmet vermektedir.Yüzde 100 yerli sermayeli Öznur Kablo, Kalite Yönetim sistemi TS-ISO-EN 9000 ve Çevre Yönetim sistemi TS-ISO-EN 14000 ile OHSAS 18001 İş Sağlığı ve Güvenliği, ISO/IEC 27001 Bilgi Güvenliği Yönetim sistemi belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

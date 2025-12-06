@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Svetocopy",
+    "description": "“Svetocopy“1889 yılında kurulmuş olan International Paper ZAO bünyesinde üretilen fotokopi ve baskı kağıdı, fotoğraf kağıdı, ofis sarf tüketim malzemeleri markasıdır.ISO 9001, ISO 14001, ISO 22000, ISO 45001 belgelerine sahiptir.International Paper ZAO Rusya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Childgen",
+    "description": "“ChildGen Play Dough“2019 yılında kurulmuş olan Gen Proje Yönetimi ve Mimarlık İnşaat Ltd. Şti. bünyesindeki boyama aktiviteleri, doğal oyun hamurları, kinetik kum, monogram çanta, aksesuarlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carhartt",
+    "description": "“Carhartt“1889 yılında kurulmuş olan Carhartt Inc. bünyesindeki ceket, mont, tulum, tulum, yelek, gömlek, kot pantolon, tulum, yangına dayanıklı giysiler ve av kıyafetleri gibi ağır iş kıyafetleri markasıdır.Carhartt Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Thunda",
+    "description": "“Thunda“2016 yılında kurulmuş olan Ayonz Pty Ltd. bünyesindeki oyun monitörü, oyun koltuğu, oyun ses çubuğu, klavye ve fare markasıdır.Ayonz Pty Ltd. Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Mugiss",
+    "description": "“Mugiss“2009 yılında kurulmuş olan Pilkasan Plastik ve Metal Enj. Kalıpçılık bünyesinde üretilen mutfak ve ev gereçleri, plastik mutfak gereçleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

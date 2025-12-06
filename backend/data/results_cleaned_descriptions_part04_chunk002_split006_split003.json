@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Vaio",
+    "description": "Vaio, 1996 yılında kurulan kişisel bilgisayarlar ve akıllı telefonlar markasıdır.VAIO Corporation 2014 yılında Japan Industrial Partners tarafından satın alındı. Satılan şirketin azınlık hissesi Sony’e aittir ve VAIO marka ve logosu için fikri mülkiyet haklarına sahiptir.VAIO Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Untad",
+    "description": "Untad, 1960 yılında temelleri atılan Aksaray Unlu Mamülleri Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen gurme ekşi mayalı ekmek, form ekmek, tost ekmeği, tam buğday ekmeği, lavaş, pasta altı, çay gevreği ürünleri markasıdır.TES-ISO 9000 kalite belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hbmic",
+    "description": "Hbmic, 1985 yılında kurulan Hbmic Co., Ltd. bünyesindeki kozmetik ürünler markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.Hbmic Co., Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Baukjen",
+    "description": "Baukjen, 2009 yılında kurulan Izzie & Ollie Ltd. bünyesindeki, sürdürülebilir bir gelecek için çevre, etik ve sosyal açıdan bilinçli bir tarza odaklanan kadın giyim markasıdır.Izzie & Ollie Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ak Piliç",
+    "description": "Ak Piliç, 1994 yılında kurulan Ak Piliç Tic. Ltd. Şti. bünyesinde üretilen ambalajlı ve dökme beyaz et ürünleri markasıdır.Bolu’da yem fabrikası, kesimhane ve üretim çiftliklerine sahiptir. ISO 9001, ISO 22000, ISO 14001, OHSAS 18001 ve Helal Gıda belgelerine sahiptir.Üretiminin dörtte birini Ortadoğu ve Türki Cumhuriyetlerine ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

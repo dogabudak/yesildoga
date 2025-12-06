@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Biopha Nature",
+    "description": "Biopha Nature, 2010 yılında kurulan Biopha SAS bünyesinde üretilen organik kozmetik ürünleri markasıdır.Birçok hijyen ve cilt bakım ürünleri, yüz, vücut ve saç bakım ürünleri üretmektedir.Biopha SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Incase",
+    "description": "Incase, 1997 yılında Vinci Brands LLC. bünyesinde üretilen macbook koruması kılıfları, çantalar, sırt çantaları, kamera çantaları ve aksesuarları markasıdır.Vinci Brands LLC. Amerika merkezlidir.Bünyesindeki markalar;CoachGriffinIncaseIncipioKate SpadeSurvivor",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ebmpapst",
+    "description": "Ebmpapst, 1963 yılında Gerhard Sturm tarafından kurulan Elektrobau Mulfingen GmbH & Co. KG. bünyesinde üretilen elektrik motorları ve fanlar markasıdır.Elektrobau Mulfingen GmbH & Co. KG. Almanya merkezlidir. Firma Çin, Almanya ve ABD dahil 25 üretim tesisinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Moose Toys",
+    "description": "Moose Toys, 1985 yılında Brian Hamersfeld tarafından kurulan Moose Enterprise Pty. Ltd. bünyesindeki oyuncaklar markasıdır.2001 yılında Avustralyalı Manny Stul, Jacqui Tobias ve Paul Solomon tarafından satın alınan Moose Enterprise Pty. Ltd. Avustralya merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Cey Oto Yedek Parça",
+    "description": "Cey Oto Yedek Parça, 2013 yılında kurulan Cey Bilgisayar Otomotiv Yedek Parça ve Oyuncak Tic. Ltd. Şti. bünyesindeki e-ticaret olarak yedek parça satışı yapan ve bu yönde geliştirilen yazılımlar markasıdır.Perakendeci ve yedek parçacı olan firma aynı zamanda Cey Yazılım olarak yazılım üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cosori",
+    "description": "Cosori, 2012 yılında kurulan Vesync Co. Ltd. bünyesindeki akıllı küçük ev aletleri ve yemek gereçleri markasıdır.Ürün yelpazesinde akıllı hava fritöz, akıllı hava fritöz tost makinesi fırın, gıda kurutucu, ekmek kızartma makinesi, akıllı su ısıtıcısı gibi ürünler yer almaktadır.Çin menşeli Vesync Co. Ltd. Amerika merkezlidir. Şirketin yüzde 61 hissesi iki Çinliye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hawtai",
+    "description": "Hawtai, 2000 yılında kurulan Rongcheng Huatai Automobile Co. Ltd. bünyesinde üretilen otomobil, kara taşıtları için motorlar, taşıtlar için döşemeler, taşıtlar için yön sinyalleri, bisikletler, kablo taşıma aparatları ve tesisatları, taşıt tekerlekleri için lastikler, spor otomobiller markasıdır.Rongcheng Huatai Automobile Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dunlop Tires",
+    "description": "Dunlop, 1887 yılında John Boyd Dunlop tarafından kurulan lastik markasıdır.The Goodyear Tire & Rubber Company’nin bir parçası olan Goodyear Dunlop Tyres B. V. bünyesinde yer alıyor.The Goodyear Tire & Rubber Company, Amerika merkezli bir lastik üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tleps",
+    "description": "Tleps, 2015 yılında kurulan Tleps Tasarım İthalat İhracat San. ve Tic. Ltd. Şti. bünyesinde üretilen kaplamasız demir döküm pişirme gereçleri markasıdır.Ürünlerini hiçbir kimyasal kullanmadan demirden doğal olarak üretmektedir.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Laville Paris",
+    "description": "Laville Paris, C.D.B. Srl bünyesindeki aksesuarlar markasıdır.Ürünleri arasında saatler, kokular ve çantalar yer almaktadır.C.D.B. Italia Srl İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

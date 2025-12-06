@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cerva",
+    "description": "Cerva, 1981 yılında kurulan Cerva Group A. S. bünyesinde üretilen iş kıyafetleri, koruyucu ekipmanlar markasıdır.Ürün yelpazesinde iş ceketleri, iş pantolonları, profesyonel montlar, gözlükler, tek kullanımlık maskeler, koruyucu giysiler, iş eldivenleri, yağmurdan koruyucu giysiler, yüksek görünürlüklü yelekler, kulak koruma, eşya, inşaat baretleri, düşme koruması ve güvenlik halatları yer almaktadır. Ayrıca el sanatları kıyafetleri, ressam kıyafetleri ve ressam pantolonları, marangozluk kıyafetleri, çatı katı kıyafetleri ve çatı katı ayakkabıları bulunmaktadır.Cerva Group A. S. Çek Cumhuriyeti merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Zeal Optics",
+    "description": "Zeal Optics, Zeal Optics Inc. bünyesinde üretilen açık hava için güneş gözlüğü markasıdır.Güneş gözlüğü çerçevelerinde ve camlarında bitki bazlı malzemeler kullanmaktadır.Zeal Optics Inc. 2011 yılında Amerika merkezli Maui Jim Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zoll",
+    "description": "Zoll, Zoll Medical Corporation bünyesindeki tıbbi cihaz ve ekipmanlar, yazılım çözümleri markasıdır.Klinik ve operasyonel verimliliği artırırken acil bakımın geliştirilmesine ve hayat kurtarılmasına yardımcı olan tıbbi cihazlar ve yazılım çözümleri geliştirmekte ve pazarlamaktadır.Zoll Medical Corporation, Japonya merkezli Asahi Kasei Group bünyesindedir. 100’den fazla ülkede hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Zekkert",
+    "description": "Zekkert, 2014 yılında kurulan Zekkert Gmbh bünyesinde binek araçlar için yedek parçalar markasıdır.Ürünleri arasında direksiyon ve süspansiyon, amortisörler ve silecek, filtreler, fren, soğutma ve su pompaları şanzıman parçaları ve bileşenleri egzoz sistemi, conta, kauçuk conta yer almaktadır.Zekkert Gmbh Almanya merkezlidir. Çin ve Güney Kore’de bulunan tesislerinde üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Spal Automotive",
+    "description": "Spal Automotive, 1959 yılında Back Spaggiari ve Alberto Alberti tarafından kurulan SPAL Automotive Srl bünyesinde üretilen otomotiv endüstrisi için mekanik bileşenler markasıdır.Otomobil, motosiklet, otobüs, arazi araçları, hafriyat makineleri, tarım traktörleri, kamyon ve endüstriyel ekipmanlar için eksenel ve santrifüjlü doğrudan tahrikli santrifüj fanlar üretmektedir.SPAL Automotive Srl İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Tigar Tyres",
+    "description": "Tigar Tyres, 1935 yılında kurulan lastik markasıdır.2007 yılında dünyanın en büyük ikinci lastik üreticisi Michelin tarafından satın alınmıştır.Michelin Fransa merkezli lastik üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Maxxis",
+    "description": "Maxxis, 1967 yılında Luo Jye tarafından kurulan Cheng Shin Rubber Industry Co. bünyesindeki araç lastiği, atv ve bisiklet markasıdır.Maxxis, otomobil ve kamyonet, bisiklet, motosiklet, ATV gibi araçlar için lastik ürünleri sağlayan dünyanın en büyük lastik şirketlerinden biridir. Ürünlerini 180 ülkede dağıtmaktadır. Maxxis Tayvan merkezlidir. Tayvan’daki fabrika 1993 yılından beri ISO sertifikalıdır. Tayvan üretim tesislerine ek olarak, Çin, Tayland ve Vietnam’da üretim yapmaktadır.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Matador",
+    "description": "Matador, 1947 yılında kurulan Matador, A.S. bünyesindeki konveyör bantları, otomotiv parçaları ve makine markasıdır. Çok uluslu bir otomobil lastiği üreticisidir. Üretiminin yüzde 87’sini 80 ülkeye ihraç etmektedir.Şirket 1987 yılında kendi Ar-Ge merkezini kurmuş ve Hindistan, Endonezya, Etiyopya, Kamboçya, Burma, Suriye, Türkiye, İran ve Yugoslavya’da kauçuk işlerinin yapımı için teknik destek sağlamıştır.2009 yılında Almanya merkezli Continental AG, Matador’un tüm hisselerini satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Saferich Tyre",
+    "description": "Saferich Tyre, 2007 yılında lastik üretmek için Shangdong Energy Group bünyesinde kurulan lastik markasıdır.Shandong Enerji Grubu, tamamen devlete ait bir şirkettir.Shangdong Energy Group, Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "İstikbal",
+    "description": "İstikbal Nerenin Malıİstikbal, 1957 yılında Boydak Holding bünyesinde kurulan İstikbal Mobilya A.Ş. bünyesindeki kapı-pencere, dolap, yatak odaları, masa-sandalye gibi mobilya çeşitleri markasıdır.Boydak Holding A.Ş. 2016 yılında Tasarruf Mevduatı Sigorta Fonuna devredildi. Mobilya, kablo, demir, çelik, tekstil, kimya, pazarlama, lojistik, teknik servis, havacılık, finans ve yurtdışı faaliyetler hizmetleri alanlarında faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

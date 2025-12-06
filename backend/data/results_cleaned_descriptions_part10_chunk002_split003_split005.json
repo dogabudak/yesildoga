@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Yeti",
+    "description": "2006 yılında kurulmuş olan Yeti Coolers LLC. bünyesindeki açık havada kullanmak için soğutucular, içecek şişeleri ve tencereler, çantalar, sandalye, tava ve giyim ürünleri markasıdır.Yeti Coolers LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bamkel",
+    "description": "2014 yılında kurulmuş olan Bnk Sports Co. Ltd. bünyesindeki soğutucular, bavul ve çantalar, su geçirmez çantalar, bardaklar, saklama kutusu markasıdır.Bnk Sports Co. Ltd. Güney Kore merkezlidir. Ürünleri birkaç ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Purevits",
+    "description": "2019 yılında kurulmuş olan Bionative Kozmetik Dış Tic. A.Ş. bünyesindeki gıda takviyeleri markasıdır.Ürünleri tatlandırıcı, laktoz ve gluten içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arb Touring",
+    "description": "1975 yılında kurulmuş olan ARB Corporation Ltd. bünyesinde üretilen dört çeker araç tamponlar ve koruma ekipmanları, elektrikli soğutma kutuları, araç aydınlatması, kurtarma ekipmanları, safari şnorkelleri, süspansiyon, hava kompresörleri ve hava sistemleri, depolama çözümleri, küvet aksesuarları, çadırlar, tenteler ve kamp ürünleri, yakıt depoları ve yakıt depolama ürünleri markasıdır.ARB Corporation Ltd. Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Captain Stag",
+    "description": "1976 yılında kurulmuş olan Captain Stag Co. Ltd. bünyesindeki kamp ve açık hava eşyaları markasıdır.Captain Stag Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

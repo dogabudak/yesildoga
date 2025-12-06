@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Apel Aerosol Sprey",
+    "description": "Apel, 1987 yılında kurulmuş olan Beta Kimya San. ve Tic. A.Ş. bünyesinde üretilen tutkal ve yapıştırıcılar, siyanoakrilat bazlı yapıştırıcılar, poliüretan köpükler, eva bazlı yapıştırıcılar, silikon ve mastikler, teknik aerosoller, temizlik ürünleri, reaktif hotmeltler, bantlar markasıdır.Firma İstanbul merkezlidir ve ürünlerini 90 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Marvo",
+    "description": "Marvo, 2010 yılında kurulmuş olan Shenzhen Marvo Technology Co. Ltd. bünyesinde üretilen bilgisayar, araç ve mobil aksesuar ürünleri markasıdır.Ürünleri ağırlıklı olarak klavye, fare, kulaklık, hoparlör, oyun çantası, oyun pedi, BT ses, araba aksesuarları, bilgisayar aksesuarları, oyun aksesuarları ve mobil aksesuarlardan oluşmaktadır.Shenzhen Marvo Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 60’tan fazla ülke ve bölgeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cos.kim",
+    "description": "Cos.kim Nerenin Malı MarkasıCos.kim, 2022 yılında kurulmuş olan Mk Pharma Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen nemlendirme, leke, sivilce-akne, kırışıklık ve anti-aging, siyah nokta-gözenek, temizleme ürünleri markasıdır.Ürünleri paraben, alkol, boya, parfüm, sls-sles içermez ve hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-18"
+  },
+  {
+    "company": "Okadi Termos",
+    "description": "Okadi, 1997 yılında kurulmuş olan Zhejiang Kuangdi Industry and Trade Co. Ltd. bünyesinde üretilen termos bardak, termos kap ve bardak markasıdır.ISO 9000, OHSAS 18000 belgelerine sahiptir.Zhejiang Kuangdi Industry and Trade Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9000",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kambukka",
+    "description": "​KambukkaKambukka, 2009 yılında kurulmuş olan Bibo Brands Bvba bünyesindeki yeniden kullanılabilir su şişeleri, kahve kupaları ve çocuk şişeleri, içme çözümleri markasıdır.Bibo Brands Bvba Belçika merkezlidir ve ürünleri 45’ten fazla ülke ve bölgeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2024-03-21"
+  }
+]

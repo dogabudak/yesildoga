@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Hammm",
+    "description": "Hammm2010 yılında kurulmuş olan Ebebek Mağazacılık A.Ş. adına çeşitli üreticiler tarafından üretilen atıştırmalık mama, biberon maması, diğer bebek yiyecekleri, kaşık maması, kavanoz mama, organik bebek yiyecekleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Medigma İmplant",
+    "description": "Medigma1992 yılında kurulmuş olan Medigma Biomedical Gmbh bünyesinde üretilen dental implant sistemleri, restoratif bileşenler, cerrahi ve protez alet ve aksesuarlar markasıdır.Medigma Biomedical Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nudestix",
+    "description": "Nudestix2014 yılında kurulmuş olan Nudestix Inc. bünyesindeki makyaj ve cilt bakım ürünleri markasıdır.Ürünleri paraben, gluten içermez ve hayvanlar üzerinde test edilmemektedir.Nudestix Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Unilabor",
+    "description": "Unilabor2019 yılında kurulmuş olan Unilabor Kimya San. İç Dış Tic. Ltd. Şti. bünyesinde üretilen çamaşır hijyen kimyasalları, bitkisel bazlı temizleyiciler, biyolojik bakteriler, endüstriyel temizlik kimyasalları, gıda hijyen kimyasalları, havuz kimyasalları, hijyen kimyasalları, metal yenileme kremi, metal, cam sanayi kimyasalları , mutfak hijyen kimyasalları, organik kireç sökücüler, pas, silis ve kireç temizleyiciler , soğutma kimyasalları, tarım ve çiftlik hijyen kimyasalları ve mobilya, teknik bakım kimysalları, yağ sökücüler, zemin hijyen kimyasalları ile zemin kaydırmazlık uygulaması, mermer koruma ve kaplama, mobilya koruma kaplama hizmetleri markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma Antalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Naturawell",
+    "description": "Naturawell2022 yılında kurulmuş olan Naturawell Kozmetik Tic. ve San. Ltd. Şti. bünyesindeki cilt bakımı, bitki çayları, yağlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Okey",
+    "description": "Okey 1991 yılında Türkiye Aile Sağlığı ve Planlaması Vakfı desteğiyle piyasaya sürülen doğum kontrolü ve cinsel yolla bulaşan hastalıklara karşı koruyan, yan etkisiz ürünler markasıdır.İstanbul merkezli Eczacıbaşı Tüketim Ürünleri San. ve Tic. A.Ş. tarafından üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-24"
+  },
+  {
+    "company": "Tivoli",
+    "description": "Tivoli, 1994 yılında kurulan Egemen Hediyelik Eşya Züc. Teks. Amb. İth. İhr. İnş. San. Tic. A.Ş. bünyesindeki hediyelik eşya, züccaciye ve vakumlu poşet markasıdır.ISO 9001, ISO 14001, OHSAS 18001, ISO 22000 belgelerine sahiptir.Hediyelik eşya ve züccaciye ürünlerini ithal ederken vakumlu poşet üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr.pen",
+    "description": "Dr.pen Hangi Ülkenin Malı MarkasıdırDr.pen, 2010 yılında kurulan Guangzhou Ekai Electronic Technology Co., Ltd. bünyesindeki güzellik cihazları markasıdır.ISO 9001 belgesine sahiptir.Guangzhou Ekai Electronic Technology Co., Ltd. Çin merkezlidir ve ürünleri Çin’de üretmektedir.Bünyesindeki markalar:DRSDr.penArtmex",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-08-18"
+  },
+  {
+    "company": "Blistex",
+    "description": "Blistex, 1947 yılında kurulan Blistex Inc. bünyesinde üretilen dudak krem ve merhemi ile dudak ürünleri, kaşıntı önleyici merhem, nemlendirici losyon markasıdır.Ürünleri 80’den fazla ülkede satılmaktadır.Blistex Inc. dudak bakım ürünleri geliştirmek için Amerika’da kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İş-Mak-Par",
+    "description": "İş-Mak-Par, 1978 yılında kurulan İş Makineleri Yedek Parçaları San. Tic. Ltd. Şti. tarafından ithal edilen iş makinesi yedek parçaları markasıdır.Civata ve pimler, kazıcı ve delici uçlar, motor parçaları, pompa ve pompa parçaları, rulmanlar, sızdırmazlık ekipmanları, yürüyüş takımları, şanzıman ve dişli grubu, şase aksamı ürünlerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Coloud",
+    "description": "Coloud, 2008 yılında kurulan Zound Industries International AB bünyesindeki kulaklık, hoparlör ve ilgili aksesuarlar markasıdır.Şirket elektronik ses ve görüntü ekipmanı, kulaklık, hoparlör vb. ürünler üretmektedir.Zound Industries International AB İsveç merkezlidir.Bünyesindeki markalar;ColoudMolamıUrbanears",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Coumi",
+    "description": "Coumi, 2010 yılında kurulan Dongguan Koppo Electronics Co. Ltd. bünyesinde üretilen ses kontrollü kulaklıklar, TWS kulaklıklar, ANC kulaklıklar, işitme emniyetli kulaklıklar, akıllı sesli EQ kulaklıklar, kulak içi, kulak üstü, kulak kancası, boyun üstü tiplere sahip yüksek çözünürlüklü kulaklıklar markasıdır.ISO 9001 belgesine sahiptir.Dongguan Koppo Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Portronics",
+    "description": "Portronics, 2008 yılında kurulan Portronics Digital Pvt. Ltd. bünyesindeki fitness bantları, pedometreler ve anahtar bulucular gibi giyilebilir cihazlar, bluetooth hoparlörler, kulaklıklar, akıllı saat, USB hub, şarj cihazı, dijital kalemler, çevre birimleri gibi taşınabilir ses sistemleri, mini fanlar, dizüstü bilgisayar standları, kablosuz fare vb. ürünler markasıdır.Portronics Digital Pvt. Ltd. Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Magafor",
+    "description": "Magafor, Outillage Magafor S.A. bünyesindeki hassas kesici takımlar markasıdır.Şirket, endüstriyel uygulamalar için pah kırma ve çapak alma aletleri, raybalar, deliciler, sıkıştırma sistemleri, matkaplar ve mikro aletler sunmaktadır.Outillage Magafor S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Lelit",
+    "description": "Lelit, 1986 yılında kurulan Lelit Srl bünyesinde üretilen kahve makineleri ve öğtücüleri ile ütü masası, ütü araçları markasıdır.Şirketin makineleri, küçük, tek kazanlı yarı otomatik makinelerden çift kazanlı, zengin özelliklere sahip makinelere kadar uzanıyor.Lelit Srl 2022 yılında Avustralya merkezli Breville / Sage Group Limited tarafından satın alındı. Ürünleri İtalya’da tasarlayıp üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  }
+]

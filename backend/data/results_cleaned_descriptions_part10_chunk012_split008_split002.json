@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Qmax",
+    "description": "2014 yılında kurulmuş olan Vagon Ev Gereçleri Dış Tic. Ltd. Şti. bünyesindeki matara markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jeriko",
+    "description": "1994 yılında kurulmuş olan Jeriko Akaryakıt ve Filo Kiralama A.Ş. bünyesindeki akaryakıt istasyonları, madeni yağ dağıtımı, geri dönüşüm ve filo kiralama hizmetleri markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tuff Support",
+    "description": "1995 yılında kurulmuş olan Isc Industries Inc. bünyesindeki amortisörler ve aksesuarlar markasıdır.ISO 9001 belgesine sahiptir.Isc Industries Inc. Amerika merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Björndal",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Besice",
+    "description": "1997 yılında kurulmuş olan Besice Tarım Ürünleri San. Ltd. Şti. bünyesinde üretilen fındık krema, fındık ezmesi, bal, tahinli krema, krokantlı fındık ezmesi markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

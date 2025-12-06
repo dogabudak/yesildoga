@@ -1,0 +1,44 @@
+[
+  {
+    "company": "3 Musketeers",
+    "description": "3 Musketeers, 1932 yılında kurulmuş olan Mars Incorporated bünyesinde üretilen çikolata kaplı, kabarık, çırpılmış nugadan oluşan bir şeker çubuğu markasıdır.Mars Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Datça Köy Ürünleri",
+    "description": "Datça Köy Ürünleri Nerenin Malı MarkasıDatça Köy Ürünleri, 1948 yılında kurulmuş olan Datça Köy. Ürn. Turiz Tic. San. İth. İhr. Ltd. Şti. bünyesinde üretilen incir, şifalı bitki ve yağlar, arı sütü, polen, propolis, badem, bakliyat, bal, gurme ürünler, kişisel bakım ürünleri, reçel, pekmez, tahin, sirke, nar ekşisi, turşu, zeytin, zeytinyağı markasıdır.Firma Muğla merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sveston",
+    "description": "Sveston, Abdul Qayyum Corner. L.L.C bünyesindeki kuyumculuk eşyaları ve bunlardan mamul takılar, kol düğmeleri, kravat iğneleri ve heykeller, biblolar. saatler ve zaman ölçme cihazları markasıdır.Abdul Qayyum Corner. L.L.C BAE merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Raf Musluk",
+    "description": "Raf, 1933 yılında Antonio Frattini tarafından kurulmuş olan Raf 1933 Service Srl Semplificata bünyesinde üretilen musluklar, bataryalar ve yedek parçalar markasıdır.Raf 1933 Service Srl Semplificata İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Olab",
+    "description": "Olab, 1987 yılında kurulmuş olan Olab S.r.l. bünyesinde üretilen solenoid valfler, valfler, pompalar, bağlantı parçaları ve akış regülatörleri markasıdır.Olab S.r.l. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

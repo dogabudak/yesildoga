@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Terratec",
+    "description": "Terratec, 2001 yılında kurulan ultron AG bünyesindeki yüksek kaliteli ses ve video ürünleri markasıdır.Ürün yelpazesi güç bankası, hoparlörler, video, TV ve akıllı aksesuarlardan oluştmaktadır.ultron AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tecsun",
+    "description": "Tecsun, 1994 yılında kurulan Tecsun Electronic Industrial Ltd. bünyesindeki radyo markasıdır.Şirket bir radyo üreticisi olarak, amatör (HAM) alıcılar, PLL (Faz kilitli döngü) alıcıları, çoklu dönüşüm Dünya alıcıları, DSP (Dijital Sinyal İşleme) alıcıları, cep boyutunda alıcılar ve Hi-fi ses sistemleri üretmektedir.Tecsun Electronic Industrial Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Kensington",
+    "description": "Kensington, 1963 yılında kurulan Kurt Geiger Ltd. bünyesindeki ayakkabı, çanta ve aksesuarlar markasıdır.Kurt Geiger Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2021-04-07"
+  },
+  {
+    "company": "Jansport",
+    "description": "Jansport, 1967 yılında Murray ve Norman Pletz ile Jan Lewis tararfından kurulan JanSport Apparel Corp. bünyesindeki teknik dış mekan ekipmanları, günlük sırt çantaları ve seyahat ekipmanları markasıdır.JanSport Apparel Corp., 1986 yılında Amerika merkezli VF Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Littmann",
+    "description": "Littmann1902 yılında kurulmuş olan 3M Company bünyesindeki dijital stetoskoplar, hafif stetoskoplar, kardiyoloji stetoskopları, klasik stetoskoplar, aksesuarlar markasıdır.3M Company Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-03-21"
+  }
+]

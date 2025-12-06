@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vossloh",
+    "description": "Vossloh, 1888 yılında Eduard Vossloh tarafından kurulan Vossloh AG bünyesindeki ray sabitleme sistemleri, beton traversler, yumuşak sistemler ile raylar ve yumuşak sistemler ile ilgili hizmetler markasıdır.Demiryolu altyapısı için tek bir çatı altında ray sabitleme sistemleri, beton traversler, şalt sistemleri ve geçitler ile rayların değer bakımıyla ilgili bir ürün yelpazesi sunmaktadır.ISO 9001 ve ISO 14001 belgelerine sahiptir.Vossloh AG Almanya merkezlidir. Ürünleri 85’ten fazla ülkede kullanılmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tictac",
+    "description": "Ferrero Rocher, 1969 yılında Ferrero S.P.A. bünyesinde üretilen küçük sert nane aromaları markasıdır.Ürünleri genellikle menteşe kapaklı küçük şeffaf plastik kutularda satılmaktadır.Ferrero S.P.A. İtalya merkezlidir. Türkiye’de 1999 yılından beri Ferrero Türkiye olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dynamat",
+    "description": "Dynamat, 1989 yılında kurulan Dynamat Inc. bünyesindeki gürültü ve titreşime karşı çözümler markasıdır.Otomotiv ve ev ses ürünleri için ses yalıtımı, gürültü kontrolü, titreşim kontrolü, ses sönümleme malzemesi sunmaktadır.Dynamat Inc. Amerika merkezlidir. Ürünleri 30’dan fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nutart",
+    "description": "Nutart, 1984 yılında kurulan Aysan Dış. Tic. Fındık San. ve Paz. Ltd. Şti. bünyesinde üretilen kakaolu veya sade fındık kremaları, paketlenmiş kavrulmuş, kabuklu, kabuksuz, tuzlu, tatlı, baharatlandırılmış fındık markasıdır.Ürünleri trans yağ, koruyucu, renklendirici, aroma verici veya kıvam artırıcı türevi madde içermemektedir.Firma Ordu merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fosco",
+    "description": "Fosco, 1995 yılında kurulan Duman Ayakkabıcılık San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.Ürünlerini İstanbul İkitelli OSB’de bulunan bin 500 metrekarelik kapalı alanda üretmektedir.Bünyesindeki markalar;DumanF-TrendFoscoOttavo Shoes",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

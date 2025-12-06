@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Batta",
+    "description": "Batta, 2019 yılında kurulmuş olan Dora Madeni Mutfak Eşya San. Tic. A.Ş. bünyesinde üretilen çatal, kaşık, bıçak, tencere takımları, çaydanlık takımları, kek kalıpları, mutfak bıçakları, çelik saklama kabı, çelik süzgeç markasıdır.İstanbul merkezli firma ürünlerini İstanbul’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aape",
+    "description": "Aape, 2018 yılında kurulmuş olan Prostemics Co. Ltd. bünyesindeki üretilen saç bakım serumu, kozmetik ve diğer kişisel bakım ürünleri markasıdır.Prostemics Co. Ltd. Güney Kore merkezlidir ve ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Chiah Chyun",
+    "description": "Chiah Chyun, 1988 yılında kurulmuş olan Chiah Chyun Machinery Co. Ltd. bünyesinde üretilen torna ve freze tezgahları, merkezleri markasıdır.Chiah Chyun Machinery Co. Ltd. Tayvan merkezlidir. Ürünlerini Tayvan’da üretmekte ve 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Comment Gözlük",
+    "description": "Comment, 2015 yılında kurulmuş olan Meksan Optik San. Tic. A.Ş. bünyesindeki gözlük markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AgreeCarlo MossCommentGiuliettaMckanzieOptimaxStillo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Medicals International",
+    "description": "Medicals International, 1994 yılında Velid Barake tarafından kurulmuş olan Medicals International S. A. R. L. bünyesindeki görme bakımı, oftalmoloji, dermatoloji ve estetik, diş hekimliği ve yoğun bakım alanlarında tıbbi ekipmanları markasıdır.Medicals International S. A. R. L. Lübnan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "LB",
+    "updated_date": null
+  }
+]

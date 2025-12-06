@@ -1,0 +1,48 @@
+[
+  {
+    "company": "B-Twin",
+    "description": "B-Twin, 1976 yılında kurulan spor perakende zinciri Decathlon bünyesindeki bisiklet ve bisiklet aksesuarları markasıdır.Decathlon, Türkiye’deki ilk mağazasını 2010 yılında açmıştır. Marmara Forum Decathlon (İstanbul) Türkiye’nin en büyük spor mağazasıdır. Decathlon Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Papetto Ülke",
+    "description": "Papetto, 1976 yılında kurulan Ortoy Çocuk Gereçleri San. Tic. Ltd. Şti. bünyesindeki bebek ve çocuk gereçleri markasıdır.Bebek arabaları, çocuklar için araç koltuğu, mama sandalyeleri, kemerli koltukları üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "TikTok",
+    "description": "TikTok, 2016 yılında Zhang Yiming tarafından kurulan sosyal medya uygulamasıdır. Uygulama video oluşturma ve paylaşım dışında canlı yayın imkanı sağlamaktadır. Çin merkezli ByteDance firması bünyesindedir.Dünyanın en çok indirilen uygulaması ünvanını kazanmıştır. Asıl adı ve Çin’de bilinen adı Douyin’dir.ByteDance ayrıca 2017 yılında Musical.ly uygulamasını satın alarak, TikTok ile birleştirdi.Uygulama, kullanıcılara kısa videolar, müzik ve özel efektler hazırlayarak paylaşım yapılmasını sağlıyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Icera",
+    "description": "Icera, 2002 yılında kurulan Icera Inc. bünyesindeki mobil geniş bant veri merkezleri, USB çubukları ve akıllı telefonlar, dizüstü bilgisayarlar, netbook’lar, tabletler, e-kitaplar ve diğer mobil geniş bant cihazlar için modem yonga kümeleri markasıdır.Icera Inc. 2011 yılında Amerika merkezli Nvidia tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hyperx",
+    "description": "Hyperx, 2002 yılında Kingston Technology Corporation bünyesinde kurulan işitsel ürünler, klavyeler, bellek, mouse’lar, mouse pad’ler, şarj ürünleri ve depolama ürünleri markasıdır.HyperX tek bir yüksek performanslı bellek ürün yelpazesi ile başlamış olup, bellek modülleri, katı hal sürücüleri, USB Flash sürücüler, kulaklıklar ve mouse pad’lerden oluşan birden fazla ürün yelpazesini kapsamak üzere yıllar boyunca büyüyüp gelişmeye devam etmiştir.Kingston Technology Corporation Amerika merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-02-10"
+  }
+]

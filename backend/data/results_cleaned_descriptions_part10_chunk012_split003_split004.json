@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Tontarra",
+    "description": "1966 yılında kurulmuş olan Tontarra Medizintechnik Gmbh bünyesinde üretilen cerrahi aletler, endoskopi ve tıbbi cihaz teknolojisi markasıdır.Tontarra Medizintechnik Gmbh Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tarihi Kadıköy Kahvesi",
+    "description": "",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doppstadt",
+    "description": "1965 yılında kurulmuş olan Doppstadt-Gruppe Gmbh bünyesindeki atıkların geri kazanımı ve işlenmesi için kırma, ayırma ve taşıma makineleri ile traktör ve ekipmanları markasıdır.Doppstadt-Gruppe Gmbh Almanya merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bee Happy",
+    "description": "1982 yılında kurulmuş olan SIMBA-DICKIE-Vertriebs-GmbH & Co. KG bünyesinde üretilen itme çekmeli, şekillendirici ve istiflemeli oyuncaklar markasıdır.SIMBA-DICKIE-Vertriebs-GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nivisys",
+    "description": "Nivisys LLC bünyesindeki gece görüş sistemleri, termal sistemler, lazer sistemler ve yedek parçalar markasıdır.Nivisys LLC Amerika merkezli First Texas Products LLC bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

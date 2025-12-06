@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Flipper Swimsafe",
+    "description": "Flipper Swimsafe, Pro Swim Gmbh bünyesinde üretilen bebek yüzme koltuğu, güvenli yüzücüler, tek yüzme yardımı, yüzer ördek yavruları, yüzme çorabı, yüzme yardımcıları, çocuk gözlükleri, örgü çanta, şamandıra minderleri markasıdır.Kırılmaz PE köpük çekirdeği, yüksek düzeyde güvenlik ve ek yüzdürme sağlar.Pro Swim Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Antre Gourmet",
+    "description": "Antre Gourmet, 2000 yılında kurulmuş olan Bural Gıda Reklamcılık Org. İth. İhr. San. Tic. A.Ş. bünyesinde üretilen yöresel organik gurme peynirleri, nar ekşisi, bal, sade yağ, sızma zeytinyağı, markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Akpınar Civata",
+    "description": "Akpınar, 1985 yılında kurulmuş olan Akpınar Civata Hırdavat İnşaat San. ve Tic. A.Ş. bünyesindeki paslanmaz ürünler, civata, bağlantı elemanları, dübel, pirinç ürünler, hırdavat ürünleri markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Retevis",
+    "description": "Retevis, 2008 yılında kurulmuş olan H. Retevis Trade Co. Ltd. bünyesindeki deniz telsizleri, iki yönlü telsiz, çocuk bulmaca telsizleri, dış mekan su geçirmez telsiz, iş radyosu, amatör telsiz ülke çapında radyolar, şarj dinamosu, aileler ve çocuk radyoları, analog radyolar, antenler, baz istasyonu radyoları, baz ve tekrarlayıcı aksesuarları, diğer erişimler, dijital mobil radyo, dijital radyolar, el, taşınabilir radyolar aksesuarları, hf radyolar, interkomlar radyolar, kablolular, kemer klipsleri, kulaklıklar ve kulaklıklar, lisanslı ticari radyolar, mikrofonlar ve hoparlörler, mobil radyolar, mobil telsiz aksesuarları, piller, taşınabilir tekrarlayıcılar, tekrarlayıcılar markasıdır.FCC, IC, CE, ROHS, PSE, RCM, TELEC ve JATE belgelerine sahiptir.Hongkong Retevis Trade Co. Ltd. Hongkong merkezlidir. Ürünlerini 180 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Alprose",
+    "description": "Alprose, 1957 yılında kurulmuş olan Chocolat Alprose SA bünyesinde üretilen çikolata markasıdır.Ürünleri glikoz şurubu içermez. Soya, süt tozu, doğal aroma verici içerir.Chocolat Alprose SA İsviçre merkezlidir ve ürünlerini 35 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

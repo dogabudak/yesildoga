@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Deepseek",
+    "description": "2023 yılında Hedge fonu High-Flyer’ın başkanı Liang Wenfeng tarafından kurulmuş olan Hangzhou Deepseek Artificial Intelligence Basic Technology Research Co. Ltd. bünyesindeki açık kaynak kodlu, web, uygulama ve api’de kullanılabilir yapay zeka modelidir.Deepseek Basic Technology Research Co. Ltd. Çin merkezlidir. DeepSeek’in arkasında dolaylı olarak Çin devleti destekli bir yapı bulunmaktadır. Hisse senedi sembolü yoktur, herhangi bir halka açık borsada işlem görmez ve yatırımcıların hisse senedi satın almasının bir yolu yoktur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2025-02-01"
+  },
+  {
+    "company": "Chillax",
+    "description": "2020 yılında Feynman Li ve Jack Lee tarafından kurulmuş olan ChillaxCare Limited bünyesindeki akıllı bebek monitörleri, akıllı wifi kameralar, bebek aksesuarları markasıdır.ChillaxCare Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Solid",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mojeek",
+    "description": "2004 yılında Marc Smith tarafından kurulmuş olan Mojeek Limited bünyesindeki web arama motoru markasıdır.Kullanıcı gizliliği taahhüdüyle kurulmuştur. Kendi tarayıcı tabanlı dizinini işlettiği için bağımsız arama sonuçları oluşturur ve arama sonuçlarını izlemez, profil oluşturmaz veya kişiselleştirmez.Mojeek Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Axelle",
+    "description": "1983 yılında Haydar ve Mehmet Dibi tarafından kurulmuş olan Venüs Optik Gözlük San. ve Tic. Ltd. Şti. bünyesinde üretilen gözlük markasıdır.ISO 9001, ISO 13485 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;AxelleFocusVenüs Classics",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

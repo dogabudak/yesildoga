@@ -1,0 +1,46 @@
+[
+  {
+    "company": "TommyBaby",
+    "description": "TommyBaby, 1990 yılında kurulan Pınar Bebe Çocuk Gereçleri bünyesindeki 0-10 yaş arası çocuklara yönelik bebek arabası, bebek odası için mobilya ve tekstil ürünleri, hijyen-bakım-sağlık ürünleri, eğitici oyuncaklar, bisiklet ve emzirme yastığı, yürüteç ve çeşitli araç gereçler markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flink&Sauber Twin",
+    "description": "Flink & Sauber ıslak yer bezleri, 1972 yılında Dirk Rossmann tarafından kurulan Rossmann’ın tescilli markasıdır.Sağlık ve kişisel bakım ürünlerini bir arada sunan Rossmann’ın yüzde 60 hissesi Alman Rossmann ailesine, yüzde 40 hissesi ise Hong Kong merkezli Watson gurubuna aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Eltrace",
+    "description": "Eltrace, 1993 yılında Alain Bresolin tarafından kurulan Eltrace Limited bünyesindeki sıcak zeminler ve termostatlar markasıdır.Eltrace Limited Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Shaya",
+    "description": "Shaya Mağazacılık A.Ş., 2002 yılında M.H. Alshaya Co. tarafından Türkiye yatırımı olarak kurulan gıda, hazır giyim, güzellik ve bakım perakende markasıdır.1890 yılında kurulan M.H. Alshaya Co. 19 ülkede faaliyet gösteren Kuveyt merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KW",
+    "updated_date": null
+  },
+  {
+    "company": "Alex Schoeller",
+    "description": "Alex Schoeller, Alex Schoeller International Limited bünyesinde üretilen kağıt mamulleri markasıdır.Alex Schoeller International Limited İngiliz Virjin Adaları merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2021-08-10"
+  }
+]

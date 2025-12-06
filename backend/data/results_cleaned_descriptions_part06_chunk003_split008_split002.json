@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Absen",
+    "description": "Absen, 2001 yılında kurulan Absen Optoelectronic Co. Ltd. bünyesinde üretilen led ışık, led ekran, görsel, AV ve etkinlikler markasıdır.LED ekran uygulamalarında ağırlıklı olarak anahtar teslimi çözümler sunan, bir LED ürün ve hizmet sağlayıcısıdır.LED ekranları; açık hava reklam panolarında, iş merkezlerinde, alışveriş merkezlerinde, stadyumlarda, kapalı ve açık sahnelerde, sergilerde, televizyon istasyonlarında, trafik işaretlerinde vb. kullanılmaktadır.Absen Optoelectronic Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Trakya Çiftliği",
+    "description": "Trakya Çiftliği, 1985 yılında Cevat Genç tarafından kurulan GC Gıda San. ve Tic. A.Ş. bünyesindeki taze peynir, kaşar peyniri, krem peyniri, eritme peynir, labne, tereyağı, reçel, ve keçi peyniri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Parkeyes",
+    "description": "Parkeyes, 2002 yılında kurulan park rehberlik çözümleri markasıdır.Ürün yelpazesinde akıllı sensörler, yazılım platformları ve API’ler, yön bulma işaretleri, plaka tanıma sistemleri, video inceleme sistemleri ve aydınlatma gibi park yönlendirme hizmetleri sunmaktadır. Kendi LPR motoruna ve gelişmiş analitik video algoritmalarına sahiptir. Otopark, erişim kontrolü ve trafik çalışmaları için plaka tanıma pazarında park rehberlik teknolojisi sağlayıcısıdır.Yan Görüş Kameraları, Araç Altı Kontrol Sistemleri, CCTV, ParkEyes Park Yönlendirme Sistemleri, kameralarla kısılabilen Akıllı Aydınlatma gibi otopark yönetimi çözümleri park sahiplerine ve operatörlere sunmaktadır.ParkEyes, Hollanda merkezli TKH Group NV’nin bir parçasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Thermo King",
+    "description": "Thermo King, 1871 yılında kurulan Trane Technologies plc bünyesinde üretilen ısı kontrollü nakliye çözümleri markasıdır.İklim kontrollü soğutulmuş gıdaları, ilaçları ve diğer bozulabilir maddeleri taşımak için römork, kamyon karoserleri, otobüs, hava nakliyesi, gemi konteynırı ve demir yolu vagonu gibi farklı uygulamalara yönelik nakliye ısı kontrol çözümleri sunmaktadır.Thermo King İrlanda merkezli Trane Technologies plc’nin yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Gelenek Un",
+    "description": "Gelenek Un, 1963 yılında kurulan Söke Değirmencilik San. ve Tic. A.Ş. bünyesinde üretilen un markasıdır.Söke Değirmencilik San. ve Tic. A.Ş. 2022 yılında Ulusoy Un San. ve Tic. A.Ş. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

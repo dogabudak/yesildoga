@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Algida Maraş Usulü",
+    "description": "Algida Maraş Usulü, Unilever PLC.’nin yan kuruluşu olan Algida Food Service bünyesinde üretilen maraş usülü dövme dondurma markasıdır.Maraş usülü sade, çikolatalı, antep fıstıklı, karadut, limon, çilek, karamel, ceviz, sakız, kavun, bal, badem ve tahin çeşitlerine sahiptir. Ürünleri glikoz-fruktoz şurubu içermektedir.Unilever PLC İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-25"
+  },
+  {
+    "company": "Nurcevher Dondurma",
+    "description": "Nurcevher Dondurma, 2002 yılında kurulan Nurcevher Dondurma ve Tatlı firması bünyesinde üretilen dondurma markasıdır.Kahramanmaraş dondurması sahlep ve süt ile doğal şekilde üretmektedir. Sade, fıstıklı, karamelli, bademli, çikolatalı, cevizli, çilekli, vişneli gibi çok sayıda çeşide sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pusun Plastik",
+    "description": "Pusun, 2006 yılında kurulan Shanghai Explastic Technology Co. Ltd. bünyesinde üretilen PVC , PP, PE, ABS, PS, TPU, TPV ve TPE gibi farklı malzemelerden yapılmış enjeksiyon, ekstrüzyon ve presleme alanlarında çeşitli kauçuk ve plastik ürünler markasıdır.Ürünleri mutfak ve banyo serisi için su geçirmez bant, plastik tepsi serisi için kaymaz, endüstriyel alüminyum aksesuar serisi, vb. Otomotiv endüstrisinde, elektronik endüstrisinde, tıp endüstrisinde, mobilya endüstrisinde ve inşaat malzemeleri endüstrilerinde kullanılırlar.ISO 9001 belgesine sahiptir.Shanghai Explastic Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Woosic",
+    "description": "Woosic, 2017 yılında kurulan Focus Telekom Teknoloji San. ve Tic. Ltd. Şti. tarafından ithal edilen kablosuz kulaklık markasıdır.Bluetooth 5.0 dijital göstergeli özelliklerine sahip olan kulak içi kulaklıklar Çin’den ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Native Audio N A By Mars",
+    "description": "Native Audio N A By Mars, 2020 yılında kurulan Mars E-Ticaret ve Elektronik Sistemler Ltd. Şti. tarafından ithal edilen kulaklık, şarj kablosu, usb bellek, powerbank, kılıf, hoparlör, şarj standı markasıdır.Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

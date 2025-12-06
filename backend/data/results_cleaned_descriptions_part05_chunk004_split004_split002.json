@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Westweld Kaynak Makinesi",
+    "description": "Westweld, Westweld Ltd. bünyesinde üretilen kaynak makinesi ve sarf malzemeleri markasıdır.Ürünleri endüstriyel ölçekli kazanlarda, basınçlı kaplarda, nükleer ve uzay endüstrileri, köprüler, gemiler, petrol ve kimya endüstrileri, hidroelektrik santralleri ve termik santraller, metalurji endüstrileri, binalar, ağır makineler ve açık deniz sondaj platformları gibi ağır hizmet endüstrilerinde kullanılırlar.Westweld Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sunlight Cam Filmi",
+    "description": "Sunlight, Dastan Group Petrol Tic. Ltd. Şti. tarafından ithal edilen cam filmleri markasıdır.Ankara merkezli firma ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Isostar",
+    "description": "Isostar, 1977 yılında Nutrition Sante SAS bünyesinde üretilen enerji içeceği markasıdır.Ayrıca, içeceğin toz haline getirilmiş bir tablet formu suda çözünerek içilmektedir.İçerisinde karbonhidratlar (sakaroz, glikoz şurubu, DE47, maltodekstrin DE19), asitlik düzenleyici: sitrik asit, sodyum sitrat, doğal lezzet, kalsiyum fosfat, magnezyum karbonat, sodyum klorür, potasyum klorür, antioksidan: askorbik asit, madde: modifiye mısır nişastası, hindistan cevizi yağı, vitamin B1 bulunmaktadır.Nutrition Sante SAS Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tetto",
+    "description": "Tetto, 1993 yılında kurulan Damak Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen kek, bisküvi, çikolata markasıdır.Konya merkezli firma 15 bin metrekarelik kapalı alanda bulunan 10 bin metrekarelik alanda üretim yapmaktadır.TSE 22000 ve TSE 9001 belgelerine sahiptir.Bünyesindeki bazı markalar;GizzyHas İlklerHepsi Bizdenİlklerİlkler TettoMumuşakÖzilklerPizzyQizzySizzleSizzlyTetto",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İşbir Yatak",
+    "description": "İşbir Yatak Nerenin Malı Markasıİşbir Yatak, 1968 yılında kurulan İşbir Holding A.Ş. bünyesinde üretilen yatak, hammadde ve yarı mamülleri markasıdır.Ankara, İzmir ve Balıkesir’de bulunan fabrikalarında üretim yapmaktadır. Tüm şirketleri ile toplam 350 bin metrekarelik üretim tesislerinde faaliyet göstermektedir.Ürünleri İşbir Bedding markasıyla 25 ülkeye ihraç edilmektedir.Bünyesindeki markalar;AçelyaAirbedAkıllı Uyku GereçleriAkıllı YastıklarAkıllı Yatak ViscostarAkıllı YataklarAkuamatikAmonAnıwayAquamatAquamaticBdmixBedmaxBedmixBe-MixBlack PearlB-MixBoundmixBoxspringBülten NoCocodreamCoilsitComfortConformixCowfortableCowstopDıcupEasybedEkomixEkoyatElectroaırcomfortEnergyEpsilonErgoErgoflexErgomixErgopedicErgopedic ViscolineErgoplasErgosleepErgotwinFeroniaFreshmixFrezyaHeadfıxHelenHkfHutchbedİşbirİşbir BeddingKardelenKingLaleLateksitLavanta Kokulu KöyLavanta Kokulu UykularLavender GardenLife SleepLiliumM&F Mattress And Furniture ProductsMattrelaxMegamixMenekşeMorniMouMultirestNatureNature MassageNubiNubisleepNubiyatakO’daOhhoOrfePlusmixPocketspringPolicoilPolikoilPolirestPrincePuflexRanchbedRanchmatReflümaxReflümedRelaxRemixRopySea Cell & Wellness Anti-StressSleep CenterSpringmixSunmixSuperestSümbülSüpermixTechnoçiftTechnofarmsTekçiftTeknoloji ÖncüsüTravel SetUyku CenterUyku MarketUyku MerkeziUyku TeknolojisiUykupediaVıscobabyVıscogoldVıscopilVisco NatureViscoairViscoarmutViscobabyViscobedViscofixViscoflexViscofortViscogoldViscokneeViscolifeViscoltViscomarketViscomedViscomixViscomoonViscopedViscopilViscoplusViscorestViscoringViscositViscosnoreViscostarViscotrendmixYaşam MerkeziYatak MerkeziYatak UzmanıYatakmatikYunoYunobedZambak",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Detsan",
+    "description": "Detsan1974 yılında kurulmuş olan Detsan Kimya San. Tic. Ltd. Şti. bünyesinde üretilen temizlik, kişisel bakım ve dezenfektan ürünleri markasıdır.Firma Eskişehir merkezlidir. Ürünlerini Eskişehir’de bulunan fabrikasında üretmektedir.Bünyesindeki markalar;DetsanEstielLinsey",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Farmazon",
+    "description": "Farmazon2014 yılında kurulmuş olan Mesa Verde Vitamin Kozmetik ve Gıda Takviyeleri Tic. A.Ş. bünyesindeki eczacılar için B2B pazaryeri platformudur.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zeyland",
+    "description": "Zeyland1970 yılında kurulmuş olan Zeynep Giyim San. ve Tic. A.Ş. bünyesindeki bebek, çocuk giyim ve mağazaları markasıdır.Firma İstanbul merkezlidir. Ürünlerini İstanbul ve Tekirdağ’da bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cleocin",
+    "description": "Cleocin1849 yılında kurulmuş olan Pfizer Inc. bünyesindeki ilaç markasıdır.Pfizer Inc. Amerika merkezldir.Hissedarlar:Vanguard Group Inc. (yüzde 8,95)Blackrock Inc. (yüzde 7,61)State Street Corp. (yüzde 5,13)Wellington Management Group LLP (yüzde 3,14)Charles Schwab Investment Management Inc. (yüzde 2,16)Geode Capital Management LLC (yüzde 2,00)Capital World Investors (yüzde 1,99)Morgan Stanley (yüzde 1,50)Massachusetts Financial Services Co. (yüzde 1,23)Northern Trust Corp. (yüzde 1,02)State Farm Mutual Automobile Insurance Co. (yüzde 0,96)Bank Of America Corp. (yüzde 0,93)Legal General Group PLC (yüzde 0,90)Amundi (yüzde 0,82)Bank Of New York Mellon Corp. (yüzde 0,75)Jpmorgan Chase Co. (yüzde 0,74)Dimensional Fund Advisors LP (yüzde 0,63)Deutsche Bank Ag (yüzde 0,54)Invesco Ltd. (yüzde 0,52)Price T Rowe Associates Inc. (yüzde 0,44)Ubs Asset Management Americas LLC (yüzde 0,44)D E Shaw Co. Inc. (yüzde 0,43)Goldman Sachs Group Inc. (yüzde 0,39)Barclays PLC (yüzde 0,38)Wells Fargo Company (yüzde 0,36)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tosyalı Holding Ülkeye Aittir",
+    "description": "Tosyalı Holding Hangi Ülkeye Aittir Sahibi Kimdir1998 yılında kurulmuş olan Tosyalı Holding A.Ş. demir-çelik sanayisinde faaliyet göstermektedir.Tosyalı Ailesine ait olan Holding Hatay merkezlidir. Osmaniye, İstanbul, İzmir, Cezayir, Sırbistan Karadağ’da birçok üretim tesisine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": "Tosyalı Holding Hangi Ülkeye Aittir Sahibi Kimdir :",
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Scinic",
+    "description": "Scinic, 2010 yılında kurulan 11Street Co. Ltd. bünyesindeki kozmetik ürünler, vücut, cilt, güneş, saç bakım ürünleri, ağız bakımı, tıraş, yüz sabunları, makyaj, parfüm markasıdır.11Street Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Sparkling Star",
+    "description": "Sparkling Star, 2014 yılında kurulan Closurelogic Gmbh bünyesinde üretilen metal, cam, plastik, porselen, seramik ve ahşap kaplar için metalin sızdırmazlık kapakları, şişe kapakları ve tek tek parçaları markasıdır.Closurelogic Gmbh, 2020 yılında İtalya merkezli Guala Closures S.p.A tarafından satın alındı. Dünya çapında 50’den fazla ülkeye tedarik sağlamaktadır. Türkiye’de Closurelogic Ambalaj ve Kapak Sistemleri San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Texio",
+    "description": "Texio, 2012 yılında kurulan Texio Technology Corporation bünyesinde üretilen ac güç kaynakları, dijital çoklu sayaçlar, elektronik yükler, güç kaynakları, güvenlik test cihazları, lcr metre, osiloskoplar, sinyal jeneratörleri, spektrum analizörleri, test ve ölçüm cihazları markasıdır.Texio Technology Corporation Japonya merkezlidir.Bünyesindeki markalar;GW InstekTexio",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Canford",
+    "description": "Canford, 1976 yılında kurulan Canford Audio Limited bünyesindeki profesyonel ses, video, veri, güç, iletişim, yayın, av, bt aksesuarları markasıdır.Canford Audio Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Deaf Bonce Apocalypse",
+    "description": "Apocalypse, 2000 yılında kurulan Alphard Group LLC bünyesindeki hoparlörler, subwoofer’lar, amplifikatörler, kablolar ve aksesuarlar markasıdır.Firma ürünlerini Çin’de ürettirmektedir.Alphard Group LLC Rusya merkezlidir.Bünyesindeki markalarApocalypseAvatarBlack HydraDeaf BonceHannibalMachete",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kim Market",
+    "description": "Kim Market, 1987 yılında Ersan Kardeşler tarafından kurulan Kim Grup bünyesindedir.Kim Grup perakende sektöründe; Kim Market, gıda sektöründe; Ersan Et ve Olgun Meyve Sebze, inşaat sektöründe; Vadi İnşaat, Konut Yapı ve Kims Mimarlık ve bilişim sektöründe; Kim Bilişim olarak hizmet veriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fulltech",
+    "description": "Fulltech, 1980 yılında kurulan Fulltech Electric Co, Ltd. bünyesindeki fan ve fan aksesuarları markasıdır.6 bin 600 metrekarelik alanda üretim yapmaktadır.Fulltech Electric Co, Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Exustar",
+    "description": "Exustar, 1993 yılında kurulan Exustar Enterprise Co Ltd. bünyesindeki Bisiklet ve Motosiklet üzerine binlerce ürün grubu markasıdır.Bisiklet pedalları, ayakkabılar ve aksesuarlar konusunda lider bir tedarikçidir.Exustar Enterprise Co Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Dji",
+    "description": "Dji, 2006 yılında Frank Wang tarafından kurulan SZ DJI Technology Co., Ltd. bünyesindeki sivil insansız hava araçları ile kamera yalpa çemberi, uçuş platformları, kameralar, tahrik sistemleri, kamera sabitleyicileri ve uçuş kontrol sistemleri markasıdır.SZ DJI Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hanon",
+    "description": "Hanon, 2005 yılında kurulan Hanon Systems bünyesindeki otomotiv termal çözümleri, otomotiv kompresörler, otomotiv motor soğutma, otomotiv termal ve emisyon, otomotiv sıvı taşıma, elektrikli, hibrid, yakıt hücresi ve otonom araçlarda elektronik termal yönetimi markasıdır.Hanon, 20 ülkede 4 küresel teknik merkez tarafından desteklenen 40 üretim tesisine sahiptir. Türkiye’de Hanon Otomotiv İklimlendirme Sistemleri Üretim San. ve Tic. A.Ş. olarak faaliyet göstermekte olan Kore merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

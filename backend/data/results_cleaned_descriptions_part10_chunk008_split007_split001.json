@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Biskimama",
+    "description": "Biskimama Homemade Pet Food bünyesinde üretilen kedi ve köpek mamaları markasıdır.Ürünleri renklendirici ve yapay aroma içermez. ISO 2200, ISO 9001 ve ISO GMP belgelerine sahiptir.​Firma Antalya merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 2200",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biodance",
+    "description": "2020 yılında kurulmuş olan Beauty Selection Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Beauty Selection Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Beamarry",
+    "description": "2014 yılında kurulmuş olan Guangzhou Beamarry Cosmetics Co. Ltd. bünyesinde üretilen saç, vücut ve cilt bakım ürünleri markasıdır.Guangzhou Beamarry Cosmetics Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Beeovita",
+    "description": "2015 yılında kurulmuş olan Prime Care AG bünyesinde gıda takviyeleri ve ilaçlar sunan çevrimiçi sağlık ve güzellik mağazası markasıdır.Prime Care AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Normfeed Aquanorm",
+    "description": "2018 yılında kurulan Normfeed Su Ürünleri Yem San. Tic. A.Ş. bünyesinde üretilen balık yemleri markasıdır.ISO 9001, ISO 22000, GMP, HACCP, Helal belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

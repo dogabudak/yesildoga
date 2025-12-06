@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Origin Agritech",
+    "description": "Origin Agritech, 1997 yılında kurulan Origin Agritech Limited bünyesinde üretilen gdolu ve hibrit mısır, soya fasulyesi, kanola, pirinç tohumları markasıdır.Origin Agritech Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Caribic Pizza",
+    "description": "Caribic Pizza, 2009 yılında kurulan MMM Pizza Group d.o.o. bünyesindeki pizza markasıdır.Baharatlı Meksika pizzası, tavuk, yerli, kulen, retro, margharita ve yağsız pizza ürünleri ve dondurma tatlıları sunmaktadır.MMM Pizza Group d.o.o. Sırbistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RS",
+    "updated_date": null
+  },
+  {
+    "company": "Wangsu Science & Technology",
+    "description": "Wangsu Science & Technology, 2000 yılında kurulan Wangsu Science & Technology Co. Ltd., çevrimiçi iş çözümleri markasıdır.İçerik dağıtımı ve hızlandırma, sunucu barındırma ve kiralamayı içeren çevrimiçi iş çözümleri ve içerik dağıtım ağı platformu sunmaktadır.Wangsu Science & Technology Co. Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "De Sede",
+    "description": "De Sede, 1965 yılında kurulan de Sede AG bünyesinde üretilen deri, kumaş yüzey mobilyalar ve aksesuarlar markasıdır.Sede AG İsviçre merkezlidir. Ürünlerini İsviçre’de üretmekte ve 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Eti Gong",
+    "description": "Eti Gong, 1962 yılında kurulan Eti Gıda A.Ş. bünyesinde üretilen mısır ve pirinç patlağı markasıdır.ISO 9001, ISO 22000, ISO 45001 belgelerine sahiptir.Eskişehir merkezli Eti Şirketler Grubu ürünlerini 6 üretim tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Marie Claire",
+    "description": "Marie Claire, 1937 yılında Jean Prouvost ve Marcelle Auclair tarafından kurulan Marie Claire Album SA bünyesindeki kadın dergisi markasıdır. Groupe Marie Claire’e aittir.Marie Claire marka uzantıları, web siteleri ve dijital uygulamalarıyla beş kıtada 35’ten fazla ülkede güç, amaç ve stil sahibi kadınlar için baskılar yayınlamaktadır.Groupe Marie Claire Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Alnatura",
+    "description": "Alnatura, 1984 yılında kurulan Alnatura Produktions- und Handels GmbH bünyesindeki organik ürünler markasıdır.Organik gıda ve doğal ürünler (kozmetik, tekstil) sunmaktadır.Alnatura Produktions- und Handels GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dassault Aviation",
+    "description": "Dassault Aviation Group, 1929 yılında Marcel Bloch tarafından kurulan Groupe Industriel Marcel Dassault S.A. bünyesindeki havacılık, askeri ve iş uçakları, uzay aktiviteleri, hizmetleri, havacılık ve savunma sistemleri için ürün ve hizmetleri markasıdır.Groupe Industriel Marcel Dassault S.A. 90 ülkede hizmet veren Fransa merkezli çok uluslu bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Sour Patch Kids",
+    "description": "Sour Patch Kids, 1970 yılında Jaret International Inc. tarafından üretilen ekşi yumuşak şeker markasıdır.Mondelez LLC bünyesinde global bir marka haline gelmiştir.Türkiye’de 2015 yılında Jelibon markası altında piyasaya sürüldü.Jelibon markası Amerika merkezli Mondelez LLC’ye ait olan Kent Gıda Maddeleri San. ve Tic. A.Ş. bünyesinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Talens",
+    "description": "Talens, 1899 yılında Marten Talens tarafından kurulan Royal Talens BV bünyesinde üretilen güzel sanat malzemeleri markasıdır.Royal Talens BV 1991 yılında Sakura Color Products Corporation tarafından satın alındı.Sakura Color Products Japonya merkezli bir şirkettir. Royal Talens BV Hollanda’da üretim yapmaktadır.Bünyesindeki markalar:AmsterdamBruynzeelCobraEcolineRembrandtSakuraSchjerning FarverTalensTalens Art CreationVan Gogh",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

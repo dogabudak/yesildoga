@@ -1,0 +1,48 @@
+[
+  {
+    "company": "M.Asam",
+    "description": "M.Asam Hangi Ülkenin Malı MarkasıM.Asam, 1963 yılında kurulan Asam Betriebs-Gmbh bünyesinde üretilen cilt bakım ürünleri markasıdır.Emülsiyon, yüz ve vücut kremleri, serumlar, duş ve vücut jeli gibi geniş bir cilt bakım ürünleri yelpazesine sahiptir.Asam Betriebs-Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir ve 26’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lorac",
+    "description": "Lorac, 1995 yılında Carol Shaw tarafından kurulan Lorac Cosmetics bünyesindeki kozmetik markasıdır.Pigment dolu formülleri cilt dostu malzemelerle üretilmektedir.Lorac Cosmetics 2018 yılında Eric Chen tarafından kurulan Amerika merkezli Markwins Beauty Products Inc. tarafından satın alındı. Çin ve Meksika’da geniş üretim tesislerine sahiptir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Çiftçiler Yağ",
+    "description": "Çiftçiler Yağ Nerenin Malı MarkasıÇiftçiler Yağ, 1965 yılında Süleyman Çiftçi tarafından kurulan Çiftçiler Yağ San. Tic. Ltd. Şti. bünyesinde üretilen ayçiçek, mısır, fındık ve kanola yağı markasıdır.Ürünlerini Afyonkarahisar’da OSB’de bulunan 13 bin metrekaresi kapalı toplam 20 bin metrekarelik alanda üretmektedir.ISO 9001, ISO 14001, ISO 18001, ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mexx",
+    "description": "Mexx, 1986 yılında Rattan Chadha tarafından kurulan Mexx Industries B.V. bünyesindeki giyim, aksesuar, parfüm ve ev ürünleri markasıdır.Mexx Industries B.V. 2017 yılında Ron Janssen ve Ferry Helmer’in sahibi olduğu Hollanda merkezli Rnf Holding tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Belluti",
+    "description": "Belluti, 1946 yılında kurulan Ekiz Kimya San. ve Tic. A.Ş. bünyesinde üretilen zeytinyağı, bitkisel yağlar, yağ kimyasalları markasıdır.Zeytin ağacının, doğrudan meyvesinden sıkılarak, hiçbir kimyasal işlem görmeden, katkı maddesi içermeden, doğal hali ile üretilmektedir. Firma İzmir merkezlidir.Bünyesindeki markalar;BellutiDona ElenaHealthy YouKantarlı",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

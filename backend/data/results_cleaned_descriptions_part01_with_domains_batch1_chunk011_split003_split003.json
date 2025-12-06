@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Leadtek",
+    "description": "Leadtek, 1986 yılında kurulan ve bilgisayar grubunda bulunan ürünleri arasında WinFast serisi 3D grafik hızlandırıcıları, anakartlar ve multimedya kartları yer alıyor. Ayrıca iletişim gurubunda video telefon, gözetim ve GPS çözümleri içerir.Leadtek 1997 yılından beri GPS ürünleri, GPS modülleri ile GPS sistemi ürünleri üretmektedir.Nvidia tabanlı Geforce ve Quadro serisi ekran kartları, TV Kartı, TV Box, IP Kamera, Video Phone, İnce İstemci, GPS sistemleri, Modem ve Kişisel Sağlık Ürünleri gibi birçok farklı alanda üretim gerçekleştirmektedir.Leadtek Research, Inc Tayvan merkezli bir şirkettir.Sanko ve Avnet Inc. ortak kuruluşu olarak faaliyetlerine başlayan Avnet Technology Solutions Türkiye, ülke çapında bayi kanalı ile Türkiye’nin en büyük katma değerli dağıtıcısı olarak hizmet vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Elcom",
+    "description": "Elcom, 1955 yılında kurulan ticari ve endüstriyel binalar ile konutlar için enerji yönetim ve dağıtım sistemleri hizmeti veren Hager Grubu bünyesindedir.Almanya merkezli Hager Grubu, enerji dağıtımı, kablo yönetimi, güvenlik sistemleri, bina otomasyonları gibi konularda faaliyet gösteren bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Luxgen",
+    "description": "Luxgen, 2009 yılında kurulan otomotiv markasıdır. Yulon Motor Co., Ltd. bünyesindedir.Yulon Motor Co., Ltd. Tayvan merkezli bir firmadır.Luxgen ve otomotiv elektronik teçhizat sağlayıcısı HAITEC işbirliğiyle yapay zeka ve otonom sürüş teknolojisine dönük tanıtımlar yaptı.İştirakleri:Yulon-Nissan Motor Co Ltd (yüzde 50)Dongfeng Yulon (yüzde 50)Yulon GM (yüzde 50)",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Linksys",
+    "description": "Linksys, 1983 yılında kurulan Belkin International Inc. bünyesindeki modem ve Wi-Fi güçlendiricileri markasıdır.Belkin International Inc. şirketi 2018 yılında Tayvan merkezli elektronik firması Hon Hai Precision Industry Co., Ltd.’nin yan kuruluşlarından biri olan Foxconn Interconnect Technology tarafından satın alındı.Belkin International Inc. bünyesindeki markalar:BelkinLinksysWemo",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2019-06-04"
+  },
+  {
+    "company": "New Balance",
+    "description": "New Balance1906 yılında kurulmuş olan New Balance Athletics Inc. bünyesindeki spor ayakkabılar, ayakkabılar, giyim, kriket sopaları, spor giyim ve spor malzemeleri markasıdır.Jim S. Davis’in sahibi olduğu New Balance Athletics Inc. Amerika merkezlidir. Özel koleksiyonlarının bir bölümü Amerika ve İngiltere’deki fabrikalarında üretilmektedir.Bünyesindeki markalar;AbzorbNbNew BalanceNew Balance NumericPf FlyersPfRollbarStability Web",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-08-11"
+  }
+]

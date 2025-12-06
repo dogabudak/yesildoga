@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Mettzchrom Pil",
+    "description": "2013 yılında kurulmuş olan Asya İthalat bünyesinde ithal edilen saat pili, hafıza para pil, düğme pil, işitme cihazı pili, 12v kumanda pili, alkalin kalem pil, çinko karbon kalem pil, 6v pil, 9v pil, şarjlı pil çeşitleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ibuypower",
+    "description": "1999 yılında kurulmuş olan American Future Technology Corp. bünyesindeki bilgisayar çevre birimi ekipmanları ve bilgisayar yazılımları markasıdır.American Future Technology Corp. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hobi Toys",
+    "description": "2015 yılında kurulmuş olan Hobi Toys Oyuncak Dış Tic. Ltd. Şti. bünyesindeki oyuncak jeep, oyuncak tabanca, akrobat araba, iş makineleri, itfaiye arabası, plastik araba, uzaktan kumandalı arabalar markasıdır.Firma Şanlıurfa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soli Aydınlatma",
+    "description": "",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mennekes",
+    "description": "1935 yılında kurulmu olan Amad Mennekes Holding Gmbh & Co. KG bünyesindeki endüstriyel fiş ve prizler, elektrikli mobilite ürünler markasıdır.ISO 9001 belgesine sahiptir.Amad Mennekes Holding Gmbh & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

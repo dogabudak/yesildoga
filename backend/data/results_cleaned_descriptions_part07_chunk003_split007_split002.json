@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Hidrolift",
+    "description": "Hidrolift, 1978 yılında kurulmuş olan Hidrolift San. Makina Ltd. Şti. bünyesinde üretilen hidrolik sızdırmazlık elemanları, hidrolik silindir boruları, milleri, rod başı ve rulman markasıdır.Firma Ankara merkezlidir. Ürünlerini 15 bin metrekarelik alanda bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eversing",
+    "description": "Eversing, 1982 yılında kurulmuş olan Everising Machine Co. bünyesinde üretilen orta ve büyük boy şerit testereler ve daire testereler markasıdır.CE, ISO 9001, belgelerine sahiptir.Everising Machine Co. Tayvan merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Univet",
+    "description": "Univet, 1997 yılında kurulmuş olan Univet Loupes Spa bünyesinde üretilen lazer güvenlik ürünleri, gözlükleri, büyüteçler markasıdır.Göz bölgelerinin korunması için kişisel koruyucu ekipman, cerrahi mercekler ve tıbbi güvenlik gözlükleri, lazer güvenlik gözlükleri ve temiz oda gözlükleri üretmektedir.Univet Loupes Spa İtalya merkezlidir. Ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Voltrun",
+    "description": "Voltrun, 2011 yılında kurulmuş olan Zebra Elektronik A.Ş. bünyesindeki elektrikli araç şarj istasyon ağı markasıdır.Ağırlıklı olarak AC şarj soketleriyle faaliyet göstermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eliet",
+    "description": "Eliet, 1980 yılında Emiel Lietaer tarafından kurulmuş olan Eliet Europe Nv bünyesinde üretilen tarım sistemleri ve ekipmanları, çim havalandırıcılar, kenar biçme makineleri, ekim makineleri ve bahçe üfleyiciler, kar temizleyiciler, kazıyıcılar, parçalayıcılar markasıdır.Eliet Europe Nv Belçika merkezlidir ve ürünlerini Belçika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

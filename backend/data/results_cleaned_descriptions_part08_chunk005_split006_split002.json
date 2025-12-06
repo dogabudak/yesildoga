@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Maratem",
+    "description": "Maratem, 1942 yılında kurulmuş olan Eczacıbaşı Holding A.Ş. bünyesinde üretilen dezenfektanlar, çok amaçlı temizlik ürünleri, endüstriyel bulaşık makineleri için parlatıcılar, genel temizlik ve bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fix Clean Deterjan",
+    "description": "Fix Clean, 2016 yılında ABK Holding bünyesinde kurulmuş olan İvekim İlaç Kimya ve Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen deterjan, dezenfektan, temizlik ve hijyen ürünleri markasıdır.Firma Konya merkezlidir ve ürünlerini Konya’da bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tama Davul",
+    "description": "T Tama, 1957 yılında kurulmuş olan Hoshino Gakki Co. Ltd. bünyesinde üretilen davul setleri, trampet davulları, perküsyonlar, uygulama araçları, sopalar, çantalar, aksesuarlar, mikrofon standları, tişört markasıdır.Hoshino Gakki Co. Ltd. Japonya merkezlidir. Ürünlerini Japonya, Kore ve Endonezya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Dinlebi",
+    "description": "Dinlebi, 2020 yılında Ahmet Yaman, Dündar Hızal, Erdem Çelik ve Cenk Gültekin tarafından kurulmuş olan Dinlebi Sesli Kitap Yayıncılık Tic. A.Ş. bünyesindeki sesli kitap platformu markasıdır.Abonelik modeli ile kullanıcılarına sesli kitap indirme, dinleme ve paylaşma imkanı sağlamaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kinder Delice",
+    "description": "Kinder Delice, Ferrero Commerciale S.r.l. bünyesinde üretilen sütlü kremalı kakaolu kek markasıdır.Palm yağı, süt tozu, soya lestini, mono ve digliserid yağ asitleri, aroma verici, glukoz fruktoz şurubu içermektedir.Ferrero Commerciale Italia S.r.l. İtalya merkezlidir. Türkiye’de 1999 yılından beri Ferrero Türkiye Çikolata ve Tarım Ürünleri San. ve Dış Tic. A.Ş. olarak faaliyet göstermektedir. Türkiye’de 6’sı fındık fabrikası olmak üzere toplam 7 üretim tesisi bulunuyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

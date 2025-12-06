@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Massivit",
+    "description": "Massivit, 2013 yılında kurulmuş olan Massivit 3D Printing Technologies Ltd. bünyesinde üretilen endüstri için büyük ölçekli 3 boyutlu baskı sistemleri markasıdır.Jel Dağıtma Baskı teknolojisinden yararlanan şirket; çözümleri, büyük modellerin, parçaların ve kalıpların hızlı ve uygun maliyetli üretimini sağlıyor.Massivit 3D Printing Technologies Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Nova Optic Bant",
+    "description": "Novabant, 1991 yılında kurulmuş olan Seyitler Kimya San. A.Ş. bünyesinde üretilen göz kapama bandı markasıdır.Manisa merkezli şirket tıbbi plaster, yara örtüsü, ilk yardım bantları ve kapsikumlu yakı üretmektedir. 17 bin 257 metrekarelik tesisinde üretim yapmaktadır.ISO 9001, ISO 13485, ISO 22716 belgelerine sahiptir.Bünyesindeki markalar;DermafixDermamaskDermaporeKurtbandKurtplastKurtplastLombaljinMaxiporeMedi BezMedi IpekNeocapsicumNovaaidNovabandNovabantNovadialisNova Ginger PatchNovahandNova Heat PatchNovanaturaNovapadNovapatchNovaplastNovaporeNovasilkNovatransNovayakiPelikanPenguenSeyitlerSeyitler DermaporeSeyitler EyepadSeyitler Ginger PatchSeyitler GoodplastSeyitler Kartallı YakıSeyitler KurtplastSeyitler Maxi-StripSeyitler NovaSeyitler NovadialysisSeyitler NovafixSeyitler NovaipekSeyitler One Step Corn Remover StripsSeyitler PenguenTopplastUnipore",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ace",
+    "description": "Ace, 1958 yılında kurulmuş olan Fater Group SpA bünyesinde üretilen leke çıkarıcılar, ev temizlik ve hijyen ürünleri, çamaşır suyu markasıdır.Fater Group SpA 1992 yılından beri İtalya merkezli Gruppo Angelini ve Amerika merkezli Procter & Gamble ortaklığına aittir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır. İtalya, Portekiz ve Türkiye’de üretim tesislerine sahiptir. Türkiye’de Fater Temizlik Ürünleri Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Silan Yumuşatıcı",
+    "description": "Silan, 1965 yılında Henkel Ag & Co. KGAA bünyesinde üretilen çamaşır yumuşatıcısı markasıdır.Ürün içeriği yüzde 99 doğal türetilen bileşenlerden oluşmaktadır. Silikon, boya ve mikroplastik içermemektedir.Henkel Ag & Co. KGAA Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "W5",
+    "description": "W5 Hangi Ülkenin Malı MarkasıW5, 1930 yılında Josef Schwarz tarafından kurulmuş olan Lidl Stiftung & Co. KG bünyesindeki mutfak, banyo, wc, boru, temizleyiciler, bulaşık makinesi için tabletler, tuz, kireç önleyiciler, oda spreyi, parke, fayans ve cam pencereleri temizlemek için temizleme solüsyonları markasıdır.Lidl Stiftung & Co. KG Almanya merkezli Schwarz Group bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

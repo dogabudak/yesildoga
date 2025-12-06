@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Falke",
+    "description": "Falke1895 yılında kurulmuş olan Falke Kgaa bünyesindekikadınlar, erkekler ve çocuklar için taytlar, çoraplar ve moda ürünleri markasıdır.Falke Kgaa Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rosso Home",
+    "description": "Rosso Home2010 yılında kurulmuş olan Rosso Mobilya San. ve Tic. Ltd. Şti. bünyesindeki mobilya markasıdır.Firma İstanbul merkezlidir ve ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Esperro",
+    "description": "Esperro2018 yılında kurulmuş olan Double Coffee Gıda San. Tic. A.Ş. bünyesindeki kahve, filtre kahve, bitki çayları, espresso ve Türk kahvesi markasıdır.Firma Yalova merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Torin Big Red Jacks",
+    "description": "Torin Big Red Jacks2010 yılında kurulmuş olan Changshu Tongrun Auto Accessory Co. Ltd. bünyesinde üretilen kriko, kaldırma aparatları, kaldırma vinçleri, asansörler, hidrolik silindirler, elektrikli tornavidalar vs. ürünler markasıdır.Şirket kriko, kriko sehpaları, motor vinci ve sehpası, araba sarmaşığı, araba koltuğu, tekerlekler ve oto tamir aleti üretmektedir.ISO 9001, ISO/TS 16949, CE belgelerine sahiptir.Changshu Tongrun Auto Accessory Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 140’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Crunchyroll",
+    "description": "Crunchyroll2006 yılında kurulmuş olan Crunchyroll LLC bünyesindeki video akış hizmeti markasıdır.Crunchyroll LLC 2021 yılında Japonya merkezli Sony Group Corporation tarafından satın alınmıştır. Yan kuruluşu Aniplex Inc. tarafından işletilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

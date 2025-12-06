@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sojazen",
+    "description": "Sojazen, 1836 yılında kurulan Burnus Gmbh bünyesinde üretilen duş jeli markasıdır.Ürün genetiği değiştirilmemiş soya içerir. Hayvansal maddeler içermez ve hayvanlar üzerinde test edilmemektedir.Burnus Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Spor Toto",
+    "description": "Spor Toto, 1949 yılında kurulan Spor Toto Teşkilat Başkanlığı bünyesindeki spora dayalı bahis ve şans oyunları markasıdır.Türkiye’de 1959 yılında Futbolda Bahsi Müşterek Kanunu çıkarıldı. 7258 sayılı “Futbol ve Diğer Spor Müsabakalarında Bahis ve Şans Oyunları Düzenlenmesi Hakkında Kanun” hükümleri kapsamında faaliyet göstermektedir. Spor Toto ve İddaa oyunlarını oynatmaktadır.Ankara merkezli Spor Toto Teşkilat Başkanlığı’nın ilgili bakanlığı Gençlik ve Spor Bakanlığı’dır. Spor Toto’nun bağlı bulunduğu müdürlük, Gençlik ve Spor Bakanlığı’nın bir alt kurulu olan Gençlik ve Spor Genel Müdürlüğü’dür.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eisberg",
+    "description": "Eisberg, 1869 yılında kurulan Bell Food Group AG bünyesindeki taze kesilmiş salatalar ve sebzeler, salata yemekleri, meyve ve sebzeler gibi taze hazırlıklar markasıdır.Bell Food Group AG İsviçre merkezlidir. Bell Gıda Grubu, üretim tesisleri, lojistik platformları ve satış ofisleri ile 15 Avrupa ülkesinde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Papulex",
+    "description": "Papulex, 1984 yılında kurulan Alliance Pharma SAS bünyesindeki cilt bakım ürünleri markasıdır.Yağlı ve çok yağlı ciltlerin günlük bakımının yanı sıra cildin her bir noktasına uygulama için geliştirilmiştir.Alliance Pharma France SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "El-Max",
+    "description": "El-Max, 1998 yılında kurulan Konya Elmak Elektrik San. ve Tic. A.Ş. bünyesindeki elektrik malzemeleri markasıdır.Ürün yelpazesinde asansör panosu emc filtre, bimetal skp kablo pabucu, buat klemensler, butonlar, buzzer ve ledli sinyal lambaları, csa metal gövdeli limit switch, izoleli kablo yüksükleri, izoleli pabuçlar, kontaktör, kumanda kutuları, kutulu montajlı ürünler, ledli voltmetre, ampermetre sinyal lambaları, mikro switch, mini switch, otomatik sigorta, sirenler, vinç kumanda butonları, xck plastik gövdeli limit switch, yedek kontak blok gibi ürünler yer almaktadır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

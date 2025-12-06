@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Samur",
+    "description": "Samur, 1973 yılında kurulan Samur Halıları San. ve Tic. A.Ş. bünyesinde üretilen duvardan duvara halı ve halı ipliği markasıdır.Türkiye’de ilk kez polipropilen ve polyamid iplik üretimini gerçekleştirmiştir.Ürünlerini 100 bin metrekarelik kapalı alanda üretmektedir. ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-10-19"
+  },
+  {
+    "company": "Gizmo Çocuk Bezi",
+    "description": "Gizmo2013 yılında kurulmuş olan Halk Hijyenik Ürünler ve Deterjan San. ve Tic. A.Ş. bünyesinde üretilen Bebek bezi ve ıslak mendil markasıdır.Firma Adana merkezlidir. Ürünlerini Adana OSB’de bulunan tesisinde üretmektedir ve üretimin yüzde 85’ini ihraç etmektedir.Bünyesindeki markalar;AmigoAmigosBebe ChouDedoDr. PedicalDr.PedicalFresh LadyGizladyGizlifeGizmoHalkHalk AquaHalk BabyHalk BabyHalk BeybiHalk BeybiHalk GoldHalk GoldHalk LeydiHalk LeydiHalk SoftHalk SoftHalkaHalkımJloMimaNenoNiceladyOnaladyPopyoSanıtexTaffyTaffy PremiumTiffanyTiffany BabyYeni Amigo",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-20"
+  },
+  {
+    "company": "Christian Dior",
+    "description": "Christian Dior markası 1946 yılında moda tasarımcısı Christian Dior tarafından kuruldu.Firma hazır giyim, deri mallar, moda aksesuarları, ayakkabı, takı, saat, parfüm, makyaj ve cilt bakımı ürünleri tasarlar ve üretir.Fransa merkezli firma ürünleri dünya çapında perakende mağazalarının portföyünden ve çevrimiçi mağazalarından satılır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Monopoly",
+    "description": "Monopoly1903 yılında Lizzie Magie tarafından icat edilen kutu oyunları markasıdır. Emlakla ilgili zar ile oynanan kutu oyunlarıdır.Monopoly’nin çok sayıda lisanslı sürümü vardır ve çok sayıda dile çevrilmiştir.1991 yılında Amerika merkezli Hasbro Inc. tarafından satın alınmıştır.Hasbro Hissedarları",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-07-19"
+  },
+  {
+    "company": "Awei Ülke",
+    "description": "Awei markası 2008 yılında kurulan Shenzhen Yale Electronic Co Ltd’ye ait bir akıllı giyilebilir sektörün en güçlü yüksek teknoloji şirketidir. Şirket ağırlıklı olarak Akıllı Bluetooth kulaklıklar, Bluetooth hoparlörler, kablolu kulaklıklar, kulaklıklar, güç bankaları ve yüksek seviyeli akıllı giyilebilir ürünler üretmektedir.Ddünya çapında 36’dan fazla ülkede ofisi olan Hong Kong merkezli awei ürünlerinin 120 patentli ürünü bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

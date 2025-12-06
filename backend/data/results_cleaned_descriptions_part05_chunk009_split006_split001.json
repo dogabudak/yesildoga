@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Budget Blinds",
+    "description": "Budget Blinds, 1992 yılında kurulan Budget Blinds LLC. bünyesindeki pencere uygulamaları ve kaplamaları, panjurlar, perdeler markasıdır.Budget Blinds LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Culver’s",
+    "description": "Culver’s, 1984 yılında kurulan Culver Franchising System LLC bünyesinde faaliyet gösteren özel sektöre ait ve işletilen bir fast food restoran zinciridir.Genellikle tereyağlı burgerler ve dondurulmuş muhallebi ile bilinir, aynı zamanda süzme peynir, tavuk, balık ve salatalar da sunar.Culver Franchising System, LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pearle Vision",
+    "description": "Pearle Vision, 1961 yılında Stanley Pearle tarafından kurulan optik markasıdır.Göz bakımı, çeşitli sağlık ürünleri ve hizmetleri sunan en büyük franchise optik perakendecilerinden biridir.Stanley Pearle markası 2004 yılında İtalya merkezli Luxottica Group PIVA tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "PGO Scooters",
+    "description": "PGO Scooters, 1964 yılında kurulan Motive Power Industry Co. Ltd. bünyesinde üretilen motosiklet, bisiklet, scooter, ATV vb ekipman ve parçalar markasıdır.2006 yılında Jack Wang Group ve China Development Industrial Bank ortaklaşa şirkete yatırım yapmıştır.Motive Power Industry Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Chaorum",
+    "description": "Chaorum, 2006 yılında kurulan Medimecca Co. Ltd. bünyesinde üretilen diş implantı ve tıbbi parçalar markasıdır.Tasarım, CNC işleme, yüzey işleme, temizlik ve paketleme gibi tüm üretim süreçleri kendi fabrikasında yapılmaktadır.Medimecca Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

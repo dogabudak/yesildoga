@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Lowe Alpine",
+    "description": "Lowe Alpine, 1981 yılında kurulan Equip Outdoor Technologies Ltd. bünyesindeki dış mekan ekipmanları markasıdır.Firma, giyim, uyku tulumu, yalıtımlı ceket, kış aksesuarları, eldiven, şapka, çadır ve sırt çantası aksesuarları, teknik dış mekan ekipmanları tasarlamaktadır.Equip Outdoor Technologies Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Gölcük Süt",
+    "description": "Gölcük Süt, 1972 yılında Mustafa Yiyen tarafından kurulan Gölcük Süt Mamülleri San. Tic. bünyesinde üretilen süt ürünleri, dilimli kaşar, naturel kaşar, beyaz peynir, taze kaşar peyniri, İzmir tulumu, peynir çeşitleri markasıdır.Üretiminin yüzde 10’unu yurt dışına ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Truva Batarya",
+    "description": "Truva, 1982 yılında kurulan Polat Pres Tesisat Armatür San. ve Tic. Ltd. Şti. bünyesinde üretilen su armatürleri, vana, musluk, batarya markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Helvacıoğlu Flüt Melodika",
+    "description": "Helvacıoğlu Flüt Melodika Nerenin Malı MarkasıHelvacıoğlu, 1908 yılında Hayri Helvacıoğlu tarafından kurulan Helvacıoğlu Kırtasiye San. ve Tic. A.Ş. bünyesinde üretilen blokflüt, kirtasiye ürünleri markasıdır.Firmanın ürün yelpazesinde flüt, sayı boncuğu, kalemtraş, bardaklı sayı takımı, sayı fasulyesi, sayı çubuğu, kuru ve sulu kabartma, çıkartma, cetvel, gönye, minkale, pergel, bloknot, defter, kalem kutusu, plastik saplı maşa, kalemlik seti, çöp kovası, etiket, sulu boya paketi, daire ve şekil şablonu, kab kağıdı, metalize OPP kağıt, dosya, klasör, yılbaşı süsü, oyuncak, maşa, cüzdan, hatıra defteri, fihrist, mektupluk, albüm, plastik evrak rafı, metal evrak rafı, plastik harf ve sayı takımı, pastel boya, plastik alçı kalıbı, öğrenci çizim takımı, çocuk hikaye kitabı, boyama takımı, çocuk resim boyama kitabı, okul çantası, beslenme çantası gibi ürünler yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Das Lederband",
+    "description": "Das Lederband, 2016 yılında kurulan Das Lederband Gmbh bünyesinde üretilen deri köpek tasmaları markasıdır.Eski zanaat geleneğine göre deriden yapılmış köpek tasmaları ve aksesuarları üretmektedir.Das Lederband Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

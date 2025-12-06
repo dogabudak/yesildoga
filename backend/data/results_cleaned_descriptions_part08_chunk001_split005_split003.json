@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Maxi Taxi",
+    "description": "Maxi Taxi, 2021 yılında Sabahattin Korkusuz tarafından kurulmuş olan En İyi Bebek Ürünleri San. ve Tic. Ltd. Şti. bünyesinde ithal edilen çocuk bisikleti, akülü araçlar, ana kucağı, bebek arabası, bebek salıncağı, bisiklet, koruyucu tekstil, oto koltuğu, oyun parkı, yatak markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;FreebebekMaxi Taxi",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nature&More",
+    "description": "Nature&More Nerenin Malı MarkasıNature&More, 2009 yılında kurulmuş olan Denizpharma İlaç San. ve Tic. Ltd. Şti. bünyesindeki sabun markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-21"
+  },
+  {
+    "company": "Hoffmanns",
+    "description": "Hoffmanns, 2018 yılında kurulmuş olan Airbags Plastik Paz. San. ve Tic. Ltd. Şti. bünyesinde üretilen ABS valiz markasıdır.Firma Kocaeli merkezlidir. Ürünlerini 4 bin metrekarelik kapalı alana sahip tesisinde üretilmektedir ve 25 ülkeye ihraç edilmektedir.Bünyesindeki markalar;AirbagsHoffmanns",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dimato Ayakkabı",
+    "description": "Dimato Ayakkabı Nerenin Malı MarkasıDimato, 2017 yılında kurulmuş olan Abk Ayakkabı Tekstil San. ve Dış Tic. Ltd. Şti̇. bünyesinde üretilen ayakkabı markasıdır.Firma İstanbul merkezlidir ve ürünlerini pek çok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maqpro",
+    "description": "Maqpro, 2007 yılında Nine Brunner tarafından kurulmuş olan Maqpro Sas bünyesindeki makyaj ürünleri markasıdır.Maqpro Sas Fransa merkezlidir ve ürünleri Fransa’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

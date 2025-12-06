@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Timken",
+    "description": "1899 yılında kurulmuş olan The Timken Company bünyesinde üretilen rulman ve güç iletim ürünleri markasıdır.The Timken Company Amerika merkezlidir ve 40’tan fazla ülkede faaliyet göstermektedir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-09-24"
+  },
+  {
+    "company": "Formet",
+    "description": "Formet, 1995 yılında kurulan Formet Çelik Kapı A.Ş bünyesinde üretilen çelik kapı ve aksesuarları markasıdır.Ürünlerini Kayseri OSB’de toplam 55 bin metrekarelik alanda bulunan 32 bin metrekarelik kapalı alanda üretmektedir.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Toliyent",
+    "description": "Toliyent, 1986 yılında kurulan Kaplan Brode Tekstil San. ve Tic. A.Ş. bünyesinde üretilen dantel kumaş, işlemeli kumaş ev ve otel tekstilleri markasıdır.Ürünlerini Türkiye ve İran’daki toplam 29 bin metrekarelik kapalı alana sahip tesislerinde üretmekte; İran, Rusya, Türki Cumhuriyetler, Kuzey Afrika ve Ortadoğu ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ADF Ankastre",
+    "description": "ADF, 2010 yılında kurulan ADF Ankastre Ev Aletleri A.Ş. bünyesinde üretilen ankastre davlumbaz ve ocak markasıdır.Firma ürünlerini 8 bin metrekarelik kapalı alanda üretmekte ve Avrupa, Asya ve Afrika ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Decdeal Saat",
+    "description": "Decdeal, 2004 yılında kurulan Shenzhen Tomtop Technology Co. Ltd. bünyesinde üretilen çalar saatler, kronograf, kronometrik aletler, mücevher kutuları markasıdır.Firma cep telefonu, dijital kameralar, GPS vb gibi elektronik ürünler üretmektedir. Shenzhen Tomtop Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Lipault",
+    "description": "Lipault, 1910 yılında Jesse Shwayder tarafından kurulan çanta ve bavul üreten Samsonite International S.A. şirketine ait markadır.Lüksemburg merkezli Amerikan şirketidir.Samsonite’ın sert bavullarının yüzde 40’ı Hindistan’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Asperox Asprin Deterjan Ülke",
+    "description": "Asperox, 2005 yılında kurulan; toz deterjan, sıvı deterjan, yumuşatıcı, kireç önleyici, sıvı ve jel bulaşık deterjanı, çamaşır suyu, genel amaçlı temizleyiciler, sıvı sabun, oda spreyi gibi kozmetik ürünler ile birlikte hammadde üreten Beyaz Kağıt A.Ş. bünyesinde bulunan bir markadır.Adana OSB’de kurulan Beyaz Kağıt firması, Türkiye’nin ilk 5 deterjan üreticisi arasında yer alıyor. Ürünlerini ürünlerini 75 ülkeye ihraç ediyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-12-05"
+  },
+  {
+    "company": "Fujitherma",
+    "description": "Fujitherma, 1998 yılında ilk kez üretildi. Özellikle Endüstriyel nitelikte Merkezi İklimlendirme Sistemleri’nin ticari markası olarak kullanılan FUJITHERMA, VRF sistemleri, ROOFTOP cihazları, CHILLER grupları, FANCOIL üniteleri, HAVA PERDESİ cihazları ve ISI GERİ KAZANIM cihazları ile sektörde yerini aldı.FUJITHERMA 2013 ve 2014 yıllarında VRF sistemlerinde OEM marka olarak Türkiye’de en çok satılan marka olma özelliğini de kazandı.Türkiye iklimlendirme pazarı Fujitsu markası ile ilk olarak 1994 yılında tanıştı. 2007 yılından itibaren ise Fujitsu Klima Sistemlerinin Türkiye, Kuzey Kıbrıs ve Orta Asya Distribütörlüğünü, Abkay Grup yapmaktadır.Üretim Fabrikaları:Şangay – Çin Halk CumhuriyetiWuxi – Çin Halk CumhuriyetiChonburi 1 – TaylandChonburi 2 – TaylandKawasaki – JaponyaLyon – Fransa",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Gaggenau",
+    "description": "Gaggenau, 1683 yılında Margrave Ludwig Wilhelm von Baden tarafından kurulan Gaggenau Hausgerate Gmbh bünyesinde üretilen özel mutfaklar için ankastre cihazlar, lüks mutfak aletleri markasıdır.Ürün yelpazesinde fırın, buharlı fırın, mikrodalga, ısıtma çekmeceleri, kahve makinesi, gaz, indüksiyon ve cam seramik ocaklar, havalandırma sistemleri, soğutma, şarap dolapları, bulaşık makinesi, çamaşır makinesi ve kurutma makinesi bulunmaktadır.Gaggenau Hausgerate Gmbh 1995 yılından beri Almanya merkezli BSH Hausgerate Gmbh’nin bir yan kuruluşu olarak faaliyet göstermektedir. Ürünlerini Fransa, Almanya, İspanya ve Türkiye’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2022-01-01"
+  },
+  {
+    "company": "Bosch",
+    "description": "Bosch, 1886 yılında Robert Bosch tarafından kurulan Robert Bosch Gmbh bünyesindeki otomotiv parçaları, elektrikli el aletleri, güvenlik sistemleri, ev aletleri, mühendislik, elektronik, bulut bilişim, nesnelerin interneti markasıdır.Robert Bosch Gmbh 2015 yılından beri Almanya merkezli Bosch Group’a ait olan BSH Home Appliances Group bünyesindedir.Hissedarları:Robert Bosch Vakfı (yüzde 94)Bosch Ailesi (yüzde 6)Bünyesindeki markalar;BalayBoschColdexConstructaGaggenauJunkerNeffPitsosProfiloSiemensSolitaireThermadorBluemovementEcosystem BrandHome ConnectKitchen StoriesSimply YummyWewashFoodfittery",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-12-02"
+  }
+]

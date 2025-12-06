@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Nuxe Nuxuriance",
+    "description": "Nuxe Nuxuriance, 1990 yılında Aliza Cohen Jabes tarafından kurulan Laboratoire Nuxe Sas bünyesinde üretilen cilt bakım ürünleri markasıdır.Doğal kökenli ürünleri hayvanlar üzerinde test edilmemektedir.Laboratoire Nuxe Sas Fransa merkezlidir. Ürünleri 60 ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Rivacase",
+    "description": "Rivacase, 1996 yılında kurulan Riva Handelsgesellschaft Mbh bünyesindeki çantalar, sırt çantaları ve kılıflar markasıdır.Ürün yelpazesinde çantalar ve evrak çantaları, laptop sırt çantaları, kılıflar, dizüstü bilgisayar kılıfları, tablet kapakları, kamera kılıfları, hdd ve gps kılıfları, taşınabilir şarj edilebilir piller, araç şarj cihazları, duvar şarj cihazları, kablosuz şarj cihazları, seyahat adaptörleri, soğutma pedleri, vakumlu seyahat kupaları, termos, vakumlu gıda kavanozları gibi ürünler yer alır.Riva Handelsgesellschaft Mbh Almanya merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sonashi",
+    "description": "Sonashi, 1992 yılında kurulan Sonashi Ltd. bünyesinde üretilen ev aletleri, kişisel bakım ürünleri, ses, soğutma, ısıtma cihazları ve aydınlatma ürünleri, mutfak araçları, temizlik ürünleri markasıdır.Sonashi Ltd. Hong Kong merkezlidir ve ürünleri 80’den fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Yenmak",
+    "description": "Yenmak, 1965 yılında Kazım, Mustafa ve Fethi Kahvecioğulları tarafından kurulan Yenmak Otomotiv A.Ş. bünyesindeki motor parçaları markasıdır.INMETRO, ISO 9001, IATF 16949 ve ISO 14001 belgelerine sahiptir.Konya’da üretim yapan firma ürünlerini 95’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maloya",
+    "description": "Maloya, 2005 yılında iki şirketin birleşmesiyle kurulan Amtel-Vredestein N. V. bünyesinde araçlar ve bisikletler için kauçuktan üretilen lastikler markasıdır.Hollanda merkezli şirketin hisseleri Rus ve Singapur şirketlerine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

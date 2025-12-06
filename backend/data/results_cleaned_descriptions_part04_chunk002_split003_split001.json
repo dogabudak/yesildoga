@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Gmors",
+    "description": "Gmors, 1981 yılında kurulan Ge Mao Rubber Industrial Co., Ltd. bünyesindeki kauçuk ürünleri markasıdır.Farklı endüstriler için kauçuk contalar ve yedek parçalar sağlar. Çin, Tayvan ve Tayland’da bulunan fabrikalarında üretim yapmaktadır. ISO 9001 ve ISO 14001 belgelerine sahiptir.Ge Mao Rubber Industrial Co., Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Bledina",
+    "description": "Bledina, Danone’nin Infantile food’daki yan kuruluşudur.Bledina SASU, bebek beslenme ürünleri üretmektedir. Bebekler ve küçük çocuklar için çeşitli tahıllar, tatlılar, yemekler, sebzeler ve meyveli içecekler sunmaktadır.Danone Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Sonia Rykiel",
+    "description": "Sonia Rykiel, 1968 yılında kurulan Sonia Rykiel Création SAS bünyesindeki giyim, ayakkabı ve aksesuarları markasıdır.Firma hazır giyim, örgü giyim, elbise, etek, kazak, gömlek, üstler, pantolon, palto, ceket, kot ve şort yanı sıra çanta ve aksesuarları sunmaktadır.Sonia Rykiel Création Paris SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Baust",
+    "description": "Baust, 1958 yılında kurulan Baust & Co. GmbH bünyesinde üretilen palet değiştiriciler, delme teknolojisi, jantlar, otomasyon, hassas silindirler, yapı malzemesi akış sistemleri markasıdır.Baust Group, yüksek kaliteli malzeme akış sistemleri, özel uygulamalar için silindirlere kadar yenilikçi delme teknolojileri ve otomasyonda modern kontrol teknolojisi için hizmetler sunan Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Metesan Lexel",
+    "description": "Metesan Lexel, 1981 yılında Necdet ve Cavit Mete kardeşler tarafından kurulan Metesan Elektrik Malzemeleri San. ve Tic. A.Ş. bünyesindeki elektrik malzemeleri markasıdır.Metesan Lexel, Schneider Electric tarafından satın alındı.Fransa merkezli Schneider Electric 160 yılı aşkın bir süredir Türkiye’de faaliyet göstermektedir. Schneider Electric’in İzmir, Kocaeli ve Manisa’da üç üretim tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Tower Semiconductor",
+    "description": "Tower Semiconductor, 1990 yılında kurulan Tower Semiconductor Ltd. bünyesindeki SiGe, BiCMOS, SOI, karışık sinyal ve RFCMOS, CMOS görüntü sensörleri, görüntüleme dışı sensörler, güç yönetimi (BCD) ve uçucu olmayan bellek (NVM) ve MEMS yetenekleri gibi özel proses teknolojileriyle üretilen entegre devreler markasıdır.Tower Semiconductor Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Fresenius",
+    "description": "Fresenius, 1912 yılında Eduard Fresenius tarafından kurulan Fresenius SE & Co. KGaA bünyesindeki infüzyon pompaları, ilaç, hastaneler, tıbbi bakım markasıdır.Fresenius SE & Co. KGaA Almanya merkezlidir.1996 yılından itibaren Türkiye’de Fresenius Medical Care Türkiye olarak faaliyet gösteren firmanın 21 şehirde 44 Diyaliz Merkezi, 4 Ecza Deposu, 4 Bölge Satış Şubesi, 2 üretim tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Köfteci Ramiz",
+    "description": "Köfteci Ramiz, 1928 yılında temelleri atılan Ramiz Restoran İşletmeleri ve Gıda San. Tic. A.Ş. bünyesindeki restoran zinciri markasıdır.Köfte tamamen dana etinden mamul, sadece tuz ve soğandan oluşmaktadır.Bünyesindeki markalar:Rames Cafe – RestoranRamiz Grill HouseKilogramRamiz Plus",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Green Salads",
+    "description": "Green Salads, 2008 yılında Remzi Gedik tarafından kurulan Gırin Salata Gıda Turizm Teks. İnş. Otom. San. ve Tic. Ltd. Şti. bünyesindeki ızgara, tava ve salata seçenekleri sunan restoran zinciri markasıdır.ISO 22000 ve ISO 9001 belgelerine sahip üretim tesislerinde üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Great Wall Motor",
+    "description": "Great Wall Motor, 1984 yılında kurulan Great Wall Motors Company Limited bünyesinde üretilen otomobil markasıdır.Great Wall Motors Company Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Çin’in en büyük spor yeni araç (SUV) ve pick-up kamyon üreticisidir.Bünyesindeki markalar:Great WallHavalWEY",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

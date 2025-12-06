@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Naturigin",
+    "description": "Naturigin, 2004 yılında kurulan Naturigin Aps bünyesindeki saç ve vücut bakım ürünleri markasıdır.Ürünleri organik içeriklerden üretilmektedir, amonyak ve paraben içermez.Naturigin Aps Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Citycoco",
+    "description": "Citycoco, 2005 yılında kurulan Knb Lojistik Dış Tic. Ltd. Şti. tarafından ithal edilen elektrikli bisiklet ve scooter markasıdır.Citycoco markalı ürünler Çin merkezli Jiangsu Motorcycle Fabricate Co. Ltd. tarafından Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vent-Axia",
+    "description": "Vent-Axia, 1933 yılında kurulan Vent-Axia Limited bünyesindeki mekanik fanlar, ısıtma ve klima üniteleri markasıdır.Ürün yelpazesi, sadece hava hareketi ve havalandırma teknolojilerini değil, aynı zamanda kamu veya özel konutlarda kullanılmak üzere ısı geri kazanımı, elektrikli ısıtma ve soğutmayı ve yeni yapı konut uygulamalarını kapsamaktadır.Vent-Axia Limited İngiltere markasıdır. 2002 yılında İngiltere merkezli Volution Group plc’nin bir parçası oldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Mpgio",
+    "description": "Mpgio, 1997 yılında kurulan Mpgio Co. Ltd. bünyesinde üretilen eğitim tabletleri, müzik çalarlar markasıdır.Başta eğitim cihazları olmak üzere bilgisayar ürünleri, müzik çalarlar, otomobil gösterge paneli kaydedicileri gibi ürünleri üretmektedir.Mpgio Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Admira",
+    "description": "Admira, 1944 yılında Enrique Keller Fritsch tarafından kurulan Enrique Keller S.A. gitar markasıdır.Klasik gitarların yanı sıra flamenko gitarları ve elektro-klasik gitarlar üretmektedir.Enrique Keller S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

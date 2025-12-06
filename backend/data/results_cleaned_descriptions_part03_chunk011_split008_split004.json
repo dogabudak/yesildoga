@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Hodbehod",
+    "description": "Hodbehod, 2015 yılında Melih Kalkan tarafından kurulan İşkur Makina ve İplik Sanayi Ticaret bünyesindeki laptop sehpası, cep telefonu aksesuarları, mini dijital terazi ve el kompresörü ürünleri markasıdır.Konfeksiyon ürünleri kendi sanayi tesisinde üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Enka Süt",
+    "description": "Enka Süt Nerenin Malı MarkasıEnka Süt, 1985 yılında Nihat Akpınar tarafından kurulan Enka Süt ve Gıda Mamülleri Sanayi ve Ticaret A.Ş. bünyesinde üretilen süt ve süt ürünleri markasıdır.Ürün yelpazesinde süt, beyaz peynir, kaşar peyniri, yoğurt, ayran, tereyağı, süt tozu, peyniraltısuyu tozu gibi ürünler yer almaktadır.ISO 9001, ISO 9002 ve ISO 22000 belgelerine sahiptir.Ürünlerini 15 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bebivita",
+    "description": "Bebivita, 1899 yılında Joseph Hipp tarafından kurulan Hipp & Co bünyesindeki bebek maması markasıdır.HiPP firması meyve suyu, çocuklar için yemekler, tatlılar, tam tahıllı meyve püreleri üretmektedir.Hipp & Co İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "North Of Navy",
+    "description": "North Of Navy, 1952 yılında kurulan Boyner Grup bünyesindeki Boyner Büyük Mağazacılık A.Ş.’ye ait giyim, ayakkabı ürünleri markasıdır.Boyner Holding A.Ş.’nin yüzde 42,8’i Boyner Ailesine, yüzde 42,68’sı Katarlı Mayhoola for Investments LLC yatırım şirketine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  },
+  {
+    "company": "Lyonsey Professional",
+    "description": "Lyonsey Professional, 2015 yılında Cihan Pelen tarafından kurulan güzellik, kozmetik ve kişisel bakım ürünleri markasıdır.Ürün yelpazesinde şampuan, saç bakım kremi, saç bakım yağı, sabun, ozonlanmış yağ, padişah macunu gibi ürünler yer almaktadır.Bünyesindeki markalar:LeafactionGolden Leaf",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

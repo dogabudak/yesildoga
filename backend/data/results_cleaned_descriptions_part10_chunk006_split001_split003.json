@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Zottarella",
+    "description": "1926 yılında kurulan Zott SE & Co. KG bünyesinde üretilen peynir markasıdır.Ürünleri GDO içermez.Zott SE & Co. KG Almanya merkezlidir ve ürünler 40’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Loncin",
+    "description": "1993 yılında kurulmuş olan Loncin General Dynamics Co. Ltd. bünyesinde üretilen arazi spor motosikletleri, motosiklet motoru, genel güç makineleri markasıdır.Loncin General Dynamics Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ebsensor",
+    "description": "2005 yılında kurulan Mt Sağlık Ürünleri San. ve Tic. A.Ş. bünyesindeki şeker ölçüm cihazı, şeker ölçüm strip markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sembiyoz",
+    "description": "1976 yılında kurulmuş olan Sem Plastik San. ve Tic. A.Ş. bünyesindeki bardak ve aksesuarları, fincanlar, gıda kapları ve kapakları, süt ürünleri kapları, sofra takımları, sos kapları ve kapakları, tabaklar, tepsiler markasıdır.BRC-IOP, ISO 9001, HACCP, TSEK belgelerine sahiptir.Firma İstanbul merkezlidir. Malatya ve İstanbul’da üretim tesislerine sahiptir. Ürünlerini 45 ülkeye ihraç etmektedir.",
+    "documents": [
+      "BRC",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zhafir",
+    "description": "2005 yılında kurulmuş olan Zhafir Plastics Machinery Gmbh bünyesinde üretilen plastik makine ve ekipman, hassas enjeksiyon kurma makineleri markasıdır.Zhafir Plastics Machinery Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

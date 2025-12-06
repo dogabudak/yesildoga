@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Billas",
+    "description": "Billas, 1976 yılında kurulan Billas Lastik ve Kauçuk San A.Ş. bünyesindeki bisiklet, motosiklet, scooter ve implement ve tarım lastikleri markasıdır.Billas, 2011 yılında Bilecik 1. Organize Sanayi Bölgesindeki fabrikasında, yıllık 3 milyon adet dış lastik ve 6 milyon adet iç lastik üretimi gerçekleştiriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aerocool",
+    "description": "2001 yılında kurulmuş olan Aerocool Advanced Technologies Corp. bünyesinde üretilen oyun bilgisayarı kasaları, psu’lar, oyun koltukları, cpu hava ve sıvı soğutucuları, bilgisayar fanları markasıdır.Aerocool Advanced Technologies Corp. 2010 yılında İspanya merkezli Biomag S.L. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2025-01-02"
+  },
+  {
+    "company": "Erpar",
+    "description": "Erpar , 1996 yılında kurulan Erpar Otomotiv bünyesindeki Kauçuk Paspas, Halı Paspası, Trafik Setleri, Koltuk Kılıfı, Bagaj Çantası markasıdır.Yerli sermayeli Erpar Otomotiv ürünlerini Türkiye’de üretmektedir.Halı Paspas: Polyamid ve PP hammaddeli ipliklerden, Kauçuk Paspas: Tabii Kauçuk Hamurundan (PVC içermemektedir) ve TPE hammaddeli ürünlerden üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "La Vache Qui Rit",
+    "description": "La Vache Qui Rit , 1865 yılında Jules Bel tarafından kurulan Bel Group bünyesine ait bir peynir markasıdır.Türkiye pazarına 2007 yılında giren Bel Group, Dünya çapında 27 peynir üretim tesisi ve 31 ofisi ile 120’den fazla tesisleri bulunan Fransa merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2018-12-31"
+  },
+  {
+    "company": "Krauterhof",
+    "description": "Krauterhof, 1963 yılında Asam Betriebs-Gmbh bünyesinde üretilen ısıtıcı masaj jeli, aloe vera vücut bakım jeli, ayak bakım kremi, el ve tırnak bakım kremi, kırmızı asma yaprağı kremi, nasır balsamı, selülit karşıtı bakım ürünleri, serinletici masaj jeli, vazelin markasıdır.Asam Betriebs-Gmbh Almanya merkezli BHI Beauty & Health Investment Group Management Gmbh çatısı altındadır. Ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-08-01"
+  }
+]

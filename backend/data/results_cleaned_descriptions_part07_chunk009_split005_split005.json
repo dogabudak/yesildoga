@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Solano Gözlük",
+    "description": "Solano, 2016 yılında kurulmuş olan Stl Sunlife Trading Ltd. bünyesindeki gözlükler, güneş gözlükleri, özel gözlükler, gözlük çerçeveleri markasıdır.Stl Sunlife Trading Ltd. Güney Kıbrıs Rum kesimi merkezlidir.Bünyesindeki markalar;Anne MariiMezzoSolano",
+    "documents": [],
+    "parent": null,
+    "origin": "CY",
+    "updated_date": null
+  },
+  {
+    "company": "Löwenstein",
+    "description": "Löwenstein Hangi Ülkenin Malı MarkasıLöwenstein, 1968 yılında kurulmuş olan Löwenstein Medical Technology GmbH + Co. KG. bünyesinde üretilen aspirasyon, bilevel s ve st cihazları, bilevel sv cihazları (asv), cpap ve apap cihazları, fullface maskeler, klinik maskeler, nazal maskeler, nemlendiriciler, poligrafi, polisomnografi, titrasyon, ventilasyon markasıdır.Löwenstein Medical Technology GmbH + Co. KG. Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Marvel Colors",
+    "description": "Marvel Colors, 2006 yılında Orhan Kul tarafından kurulmuş olan Him Kozmetik İlaç ve Gıda San. ve Tic. A.Ş. bünyesindeki saç boyası markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "The Soap Factory",
+    "description": "The Soap Factory, 2018 yılında kurulan Rosebella Kozmetik Üretim ve San. Tic. A.Ş. bünyesinde üretilen sabunlar, banyo tuzları, hindistan cevizi yağı markasıdır.Geleneksel yöntemlerle hazırlanan el yapımı ürünleri doğal bileşenler ve bitkisel yağlar kullanılarak üretilir.ISO 22000, HACCP belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rilastil Smagliature",
+    "description": "Rilastil, 1935 yılında kurulmuş olan Istituto Ganassini Spa bünyesinde üretilen dermo-kozmetik ürünler markasıdır.Istituto Ganassini Spa İtalya merkezlidir. Ürünlerini İtalya’da üretmekte ve 90’dan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;AlkaginAxovitalBioclinComodynesCompagnie De ProvenceCumlaude LabGilKorffNeovidermOtomerRilastilSensilisThe Organic PharmacyTonimerlabViderminaVitamindermina",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

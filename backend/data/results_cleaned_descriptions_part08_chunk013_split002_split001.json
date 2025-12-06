@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Judith Leiber",
+    "description": "Judith LeiberArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1963 yılında kurulmuş olan çantalar markasıdır.Her ürün el işçiliğine titizlikle yürütülür.Abg-Slg LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sunquick",
+    "description": "SunquickArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1930 yılında kurulmuş olan Index Food Sp. z o.o. bünyesinde üretilen konsantreler markasıdır.Konsantre, içmeye hazır ve buzlu şekerlerden oluşan bir yelpazeye sahiptir.Index Food Sp. z o.o. Polonya merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Georges Mezotti",
+    "description": "Georges MezottiArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2003 yılında kurulmuş olan Coscentra B. V. bünyesinde üretilen parfüm markasıdır.Coscentra B. V. Hollanda merkezlidir. Ürünleri dünya çapında 45 ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Capone Outfitters",
+    "description": "Capone OutfittersArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2017 yılında Zeugmas Ayakkabı İthalat İhracat San. ve Tic. Ltd. Şti. bünyesinde kurulan kadın ayakkabı, topuklu ayakkabı, terlik, sandalet, babet ve çanta markasıdır.Firma İstanbul merkezlidir.12 ülkede franchise mağazalara sahiptir ve 110 ülkeye mikro ihracatlar yapmaktadır.Bünyesindeki markalar;CalzaterraCapone OutfittersCaponepoloIppocampo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zooba Games",
+    "description": "ZoobaArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2011 yılında kurulmuş olan Wildlife Studios Ltd. bünyesinde üretilen mobil oyunlar markasıdır. Çok oyunculu atış deneyiminde çevrimiçi oyunculara karşı kavga içeriklidir.Şirketin 60’tan fazla oyundan oluşan yelpazesi vardır.Wildlife Studios Ltd. Brezilya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  }
+]

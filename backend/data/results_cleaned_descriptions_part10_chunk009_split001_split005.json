@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Olaxinn",
+    "description": "2007 yılında kurulmuş olan Genveon İlaç San. ve Tic. A.Ş. bünyesinde üretilen ilaç markasıdır.Firma İstanbul merkezlidir. Ürünlerini Kocaeli’deki üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Acrylux",
+    "description": "1959 yılında kurulmuş olan Acrylux Paint Manufacturing Co. Inc. bünyesinde üretilen boyalar, kaplamalar ve sızdırmazlık malzemeleri markasıdır.Acrylux Paint Manufacturing Co. Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "LaxasFit",
+    "description": "Shenzhen United Power Technology Co. Ltd. bünyesindeki egzersiz verileri ve sağlık durumunu izlemek için Bluetooth akıllı saatlere bağlanan fitness uygulamasıdır.Adımlar, koşma, bisiklete binme ve diğer aktiviteleri kaydeder kalp hızı ve uyku kalitesini izler.Shenzhen United Power Technology Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gameon",
+    "description": "2022 yılında Türk Telekomünikasyon A.Ş. bünyesinde kurulan dijital oyun ve ekipman platformu markasıdır.Oyun odaklı internet kampanyaları, internet ve oyun cihazları, oyun içi faydalar, marka indirimleri, sosyal medya desteği, turnuvalar ve etkinlikler sunmaktadır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Allmax Alfuga",
+    "description": "Altınaylar Yapı Mikronize Dekorasyon San. ve Tic. Ltd. Şti. bünyesinde üretilen yapıştırma harçları, derz dolgu, ısı yalıtım ürünleri, onarım ve güçlendirme ürünleri, çimento esaslı harç ve sıvalar, su yalıtım ürünleri, astarlar markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Eskişehir merkezlidir. Ürünlerini Eskişehir OSB’de üretmektedir.Bünyesindeki markalar;AllmaxAyçim",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

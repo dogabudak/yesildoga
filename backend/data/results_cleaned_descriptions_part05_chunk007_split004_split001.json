@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cunill",
+    "description": "Cunill, 1957 yılında Pere Cunill tarafından kurulan Molcunill S. L. bünyesindeki kahve değirmenleri, narenciye sıkacağı markasıdır.Molcunill S. L. İspanya merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Omnicharge",
+    "description": "Omnicharge, 2015 yılında kurulan Omnicharge Inc. bünyesindeki taşınabilir güç bankası markasıdır.Elektronik ve elektrik ürünleri için mobil batarya ürünleri sunmaktadır.Omnicharge Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kuwfi",
+    "description": "Kuwfi, 2013 yılında kurulan Kuwfi Technology Co. Ltd. bünyesinde üretilen kablosuz usb adaptörleri, wifi adaptörü, kablosuz ağ kartları, yüksek güçlü kablosuz yönlendiriciler, 4g yönlendiriciler ve dış mekan kablosuz cpe gibi ağ ürünlerinin, kablosuz ve bluetooth ses ürünleri markasıdır.Kapalı ve açık Wi-Fi ağ sistemine odaklanmaktadır.Kuwfi Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Phytocenter",
+    "description": "Phytocenter, 2018 yılında kurulan Zeheri Group Sağlık Turizmi Danışmanlık Eğitim Organizasyon İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen takviye edici gıdalar, vitamin takviyeleri, eklem ve kıkırdak sağlığı destekleyici ürünler, balık yağı, bitkisel ve arı destek ürünleri ve dermokozmetik ürünler markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aflofarm",
+    "description": "Aflofarm, 1989 yılında Andrzej Furman tarafından kurulan Aflofarm Sp. z o. o. bünyesinde üretilen gıda takviyesi, makyaj malzemeler, reçeteli ve reçetesiz ilaçlar, tıbbi cihazlar markasıdır.Aflofarm Farmacja Polska Sp. z o. o. Poloya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

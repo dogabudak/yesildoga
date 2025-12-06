@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Piwin",
+    "description": "2000 yılında kurulmuş olan Zhuhai Piwin New Energy Co. Ltd. bünyesinde üretilen taşınabilir elektrikli araç şarj cihazı, elektrikli araçlar için AC şarj ürünleri markasıdır.Zhuhai Piwin New Energy Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 80’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ucomen",
+    "description": "2019 yılında kurulmuş olan Ningbo Comen Electronics Technology Co. Ltd. bünyesinde üretilen akıllı güç adaptörleri, akıllı termostat, akıllı anahtarlar ve ağ geçitleri gibi akıllı ev donanımları markasıdır.Ningbo Comen Electronics Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Anforia Cosmetic",
+    "description": "2019 yılında Melik Gıda Doğal Ürünler bünyesinde üretilen yüz, cilt, vücut, saç bakım ürünleri, koku markasıdır.Firma Bursa merkezlidir.Bünyesindeki markalar;Anforia CosmeticReçelci Cafer",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fani",
+    "description": "2019 yılında kurulmuş olan Guangzhou Fanni Trading Co. Ltd. bünyesindeki tırnak ve çeşitli kozmetik ürünler markasıdır.Guangzhou Fanni Trading Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hyeja",
+    "description": "Asez Corp. bünyesinde üretilen şampuan, akne eğilimli ciltler için ürünler, anti-karanlık noktalar, anti-koyu halkalar ve şişlik, bb krem, diş macunu, dudak makyajı, el kremi, göz çevresi, göz makyajı, güneş koruyucu çubuk, güneş koruyucu krem, güneş kremi, gece yüz maskesi, kırışıklık karşıtı, makyaj, parfümler, saç bakım ürünleri, saç maskesi, saç yağı, susuz kalmış ciltler için ürünler, vücut bakımı, vücut kremi, vurgulayıcı, yüz bakımları, yüz güneş kremi, yüz kremi, yüz makyajı, yüz maskeleri, yüz peelingi, yüz serumu, yüz toneri markasıdır.Asez Corp. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

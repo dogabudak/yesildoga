@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Fleetguard",
+    "description": "1963 yılında kurulmuş olan Atmus Filtration Technologies Inc. bünyesindeki filtreler, ortam filtrasyonu markasıdır.Atmus Filtration Technologies Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rodenstock",
+    "description": "1877 yılında kurulmuş olan Rodenstock Gmbh bünyesindeki güneş gözlükleri, gözlük camı, oftalmik lensler, lens cam temizlik malzemeleri markasıdır.Rodenstock Gmbh 2021 yılında İngiltere merkezli Apax Partners LLP tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2025-02-15"
+  },
+  {
+    "company": "Qavruq",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dimeda",
+    "description": "1976 yılında kurulmuş olan Dimeda Instrumente Gmbh bünyesindeki cerrahi uzmanlıklar için tıbbi çözümler markasıdır.Cerrahi aletler, tüm genel cerrahi alanlarında, kemik cerrahisi, mikrocerrahi, plastik cerrahi, ağız cerrahisi, damar cerrahisi, elektrocerrahi ve endoskopide teknolojiler sunmaktadır.Dimeda Instrumente Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Maxigal",
+    "description": "1991 yılında kurulmuş olan Galepharma İlaç San. ve Tic. A.Ş. bünyesindeki takviye edici gıdalar markasıdır.ISO 9001, ISO 22000, GMP, Haccp belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

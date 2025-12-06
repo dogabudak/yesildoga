@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Crabtree & Evelyn",
+    "description": "Crabtree & Evelyn, 1970 yılında Cyrus Harvey tarafından kurulan Crabtree & Evelyn Ltd. bünyesindeki kozmetik ürünler markasıdır.Crabtree & Evelyn Ltd. Amerika merkezlidir. Dünya çapında 40 ülkede mağazaları ve butikler aracılığıyla ürünleri satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Agraria",
+    "description": "Agraria, 1970 yılında Stanford Stevenson ve Maurice Gibson tarafından kurulan Agraria Inc. bünyesindeki parfüm markasıdır.Agraria ürünleri herhangi bir hayvansal bileşen veya hayvansal kaynaklı bileşen içermez ve hayvanlar üzerinde test edilmez. Tüm kokuları yüzde 100 doğal ve esansiyel parfüm yağları ile formüle edilmiştir. Banyo ve vücut koleksiyonlarında paraben, sülfat veya ftalat bulunmamaktadır.Agraria San Francisco Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Duolab",
+    "description": "Duolab, 2019 yılında The L’occitane Group bünyesinde kurulan koruyucusuz cilt bakım çözümleri markasıdır.Duolab’ın termo-kozmetik teknolojisi, kremi cildin doğal sıcaklığına ısıtır, böylece penetrasyonunu ve etkinliğini arttırır.Akıllı bir harmanlama cihazı ve benzersiz hedefli cilt bakımı sağlayan geri dönüştürülebilir kapsüllerde nemlendirici bazlar ve hedeflenmiş konsantreler koleksiyonundan oluşur.Lüksemburg merkezli The L’occitane Group’un yüzde 75 hissesi Avusturyalı iş adamı Reinold Geiger’e aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Disinfex",
+    "description": "Disinfex, 1985 yılında kurulan Rk Kozmetik ve Hijyen Ürünleri San. Dış Tic. A.Ş. bünyesinde üretilen antibakteriyel el dezenfektanı markasıdır.Ürün yüzde 75 alkol içermektedir. Bakteri ve virüslere karşı yüzde 99,9 oranında etkilidir.Firma kozmetik ve dermokozmetik ürünleri, dezenfektanlar, temizlik ve hijyen ürünlerini İstanbul Tuzla Deri OSB’de bulunan 4 bin 500 metrekarelik fabrikasında üretmektedir. Ayrıca fason üretim yapmaktadır. ISO 9001, ISO 14001 belgelerine sahiptir.Bünyesindeki markalar;DisinfexL’Emage BeautyQuiqmenRimox",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Otafarma",
+    "description": "Otafarma, 2016 yılında kurulan Ota Farma Sağlık İlaç Kozmetik Gıda Pazarlama Eğitim Hizmetleri San. ve Tic. Ltd. Şti. bünyesindeki cilt bakım ürünleri markasıdır.Bursa merkezli firma ürünlerini çeşitli ülkelerden ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

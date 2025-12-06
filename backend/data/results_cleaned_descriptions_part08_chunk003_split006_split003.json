@@ -1,0 +1,56 @@
+[
+  {
+    "company": "NovaVera",
+    "description": "NovaVera, 2017 yılında kurulmuş olan NovaVera Gıda ve Tarım San. Tic. A.Ş. bünyesinde üretilen zeytin yağı, zeytinyağı ürünleri ve yöresel ürünler markasıdır.Firma Balıkesir merkezlidir.ISO 22000, ISO 9000, ISO 14000 ve BRC belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14000",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Araldite",
+    "description": "Araldite, 2014 yılında kurulmuş olan Assan Endüstriyel ve Dış Tic. Ltd. Şti. bünyesindeki kartuş, yapıştırıcı yedek kartuş ucu, dozajlama tabancası, yapıştırıcı, yapıştırıcı dozajlama tabancası markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Koorui",
+    "description": "Koorui, 2021 yılında kurulmuş olan Shenzhen Koorui Technology Co. Ltd. bünyesinde üretilen oyun monitörü, iş monitörü, klavye ve fare, monitör standı markasıdır.Shenzhen Koorui Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Doyum Organik",
+    "description": "Doyum, 1993 yılında kurulmuş olan Armada Gıda Tic. San. A.Ş. bünyesindeki organik bakliyatlar, organik fasulye, organik köftelik bulgur, organik nohut, organik pilavlık bulgur, organik pirinç, organik yeşil mercimek markasıdır.ISO 9001, ISO 14001, ISO 22000, ISO 27001, ISO 45001, ISO 50001, Helal, Koşer ve Organik belgelerine sahiptir.Şirket, bakliyat ve tahılları ithal ve ihraç eder, işler ve paketler. Mersin merkezlidir. 155 bin metrekarelik alanda kurulu tesislerinde bakliyat ve hububat ürünlerinin işleme ve paketlemesini yapmaktadır. 45 ülkeden ithalat yapmaktadır ve ürünlerini 86 ülkeye ihraç etmektedir.Bünyesindeki markalar;Armada FoodsArmada OrganicDoyumMediterranean Village OrganicPopipop",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kw-Trio",
+    "description": "Kw-Trio Hangi Ülkenin Malı MarkasıdırKw-Trio, 1976 yılında kurulmuş olan Pao Shen Enterprises Co. Ltd. bünyesinde üretilen kağıt kesici, kırtasiye ve ofis malzemeleri markasıdır.Pao Shen Enterprises Co. Ltd. Tayvan merkezlidir. Ürünlerini 110’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

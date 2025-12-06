@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Worldchem-Sterhand",
+    "description": "Worldchem-Sterhand, 2005 yılında kurulan M.Z. Kimyasal. Ür. ve Tem. Malz. Gıda Turizm San. Tic. Ltd. Şti. bünyesinde üretilen endüstriyel bakım kimyasalları ve temizlik ürünleri markasıdır.Endüstriyel ve genel temizlik kmyasalları, havuz grubu, çiftlik grubu, marina grubu, çamaşırhane ve bulaşıkhane grubu, halı ve oto yıkama ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rhion",
+    "description": "Rhion, Aycan Ticaret bünyesindeki şarjlı vidalama, çift akülü çift vites şarjlı vidalama, darbeli matkap vidalama, lokma delme vidalama seti, darbeli matkap vidalama uç seti, 300’lü el motoru mini, ev tipi ayarlanabilir saksı sulama sistemi markasıdır.Ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pirdolin",
+    "description": "Pirdolin, 1982 yılında Nusret Selen tarafından kurulan Dermadolin Kozmetik Üretim ve Pazarlama A.Ş. bünyesindeki cilt ve saçlı derideki kaşıntı, kepek ve pullanmaya karşı şampuan, krem ve losyon markasıdır.Ürünleri Türkiye’de üretilmektedir.Dermadolin bünyesindeki markalar:CeradolinKadolinMinidolinPirdolinSedolinSelyumSeranem",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fancl",
+    "description": "Fancl, 1982 yılında kurulan Fancl Corporation bünyesindeki kozmetik ve gıda takviyeleri markasıdır.Koruyucu içermeyen cilt bakımı ürünleri sunmaktadır.Fancl Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Guizhou Tyre",
+    "description": "Guizhou Tyre, 1958 yılında kurulan Guizhou Tyre Co, Ltd bünyesinde üretilen lastik markasıdır.Kamyon, otobüs, OTR, Tarımsal, Endüstriyel ve Katı lastikler üretmektedir.GTC, ISO9001, ISO14001, American NHTSA DOT belgelerine sahiptir.Guizhou Tyre Co, Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO14001",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

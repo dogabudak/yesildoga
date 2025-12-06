@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Rembrandt",
+    "description": "Rembrandt, 1991 yılında kurulan Koninklijke Talens B.V. bünyesindeki boyalar ve cilalar, yağ bazlı boyalar markasıdır.Koninklijke Talens B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Uslion",
+    "description": "Uslion, 2014 yılında kurulan Shenzhen Xinyuan Ecommerce Co., Ltd. bünyesinde üretilen USB kabloları, araç telefonu tutucusu ve diğer cep telefonu aksesuarları markasıdır.Ürünleri arasında 3D gözlükler, araç kaydediciler, cep telefonu kılıfları, cep telefonu şarj cihazları yer almaktadır.Shenzhen Xinyuan Ecommerce Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bertronic",
+    "description": "Bertronic, 1970 yılında kurulan Bertronic Gmbh bünyesinde üretilen müzik çalar, LED masa lambaları, USB masa lambaları markasıdır.Bertronic Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lefranc Bourgeois",
+    "description": "Lefranc Bourgeois, 1992 yılında kurulan Colart Group bünyesindeki sanat malzemeleri markasıdır.Sanatçılar için boya ve sanat malzemeleri gibi geniş bir yelpazeye sahiptir.Colart Group İngiltere merkezlidir. İngiltere, Fransa ve Çin’de 10 üretim tesisine sahiptir.Bünyesindeki markalar;BeckersCharbonnelConté à ParisDekorimaElephant ArtLefranc & BourgeoisLetrasetLiquitexReevesSnazarooWinsor & Newton",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Choken Bako",
+    "description": "Choken Bako, 2016 yılında kurulan Yiwu Xingsong E-Commerce Co., Ltd. bünyesinde üretilen banyo oyuncakları, ince motor, bilişsel, sayma becerilerini geliştirmek için çocuk eğitici oyuncaklar, noel ağacı süsleri gibi oyuncak ve ürünler markasıdır.Yiwu Xingsong E-Commerce Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

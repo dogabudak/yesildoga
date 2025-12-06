@@ -1,0 +1,46 @@
+[
+  {
+    "company": "ANKUTSAN",
+    "description": "ANKUTSAN, 2002 yılında kurulan Ankutsan A.Ş. bünyesindeki oluklu mukavva kağıdı markasıdır.Üretimini farklı şehirlerde yer alan 5 fabrikasında yapmakta ve ürünlerimi 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Naturix",
+    "description": "Naturix, 1978 Yılında Musa Uğurlu tarafından kurulan Yeşililgaz Kozmetik Kimya İnşaat Otomotiv ve Gıda San. Tic. Ltd. Şti. bünyesinde üretilen kişisel bakım, kolonya ve kozmetik ürünler markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir. Ürünlerini 45 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gladen",
+    "description": "Gladen, 1997 yılında kurulan Gladen Europe Gmbh bünyesindeki havacılık ve otomotiv ses sistemleri, amplifikatör, hoparlör, subwoofer, dijital ses işlemcileri, aksesuarlar markasıdır.Gladen Europe Gmbh Almanya merkezlidir.Bünyesindeki markalar;GladenMosconi",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pipelife",
+    "description": "Pipelife, 1819 yılında kurulan Wienerberger AG’nin iştiraki Pipelife International Gmbh bünyesindeki boru sistemleri markasıdır.İçme ve kullanma suyu, bina içi tesisat, tarımsal sulama, doğalgaz, petrol, atık su boru sistemleri alanlarına dönük ürünler üretmektedir.Wienerberger AG Avusturya merkezlidir.29 ülkede faaliyet gösteren firmanın Türkiye’de iki şehirde fabrikası bulunmaktadır. 2001 yılında Arılı Plastik Sanayii A.Ş.’yi satın almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Color Soin",
+    "description": "Color Soin, 1993 yılında kurulan Laboratoire Les 3 Chenes tarafından üretilen saç bakım ürünleri markasıdır.Amonyak, silikon, resorsinol, paraben ve sodyum laureth sülfat içermeyen kalıcı bir saç boyasıdır.Laboratoire Les 3 Chenes Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

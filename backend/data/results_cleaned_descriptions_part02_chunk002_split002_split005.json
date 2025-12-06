@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Berghoff",
+    "description": "1994 yılında kurulmuş olan Berghoff Worldwide NV bünyesindeki tencere, mutfak gereçleri, sofra takımı, çatal bıçak takımı, barbekü ve aksesuarları ve cam eşyalar markasıdır.Berghoff Worldwide NV Belçika merkezlidir ve ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2025-08-03"
+  },
+  {
+    "company": "Bauknecht",
+    "description": "Bauknecht, 1919 yılında Gottlob Bauknecht tarafından kurulan Bauknecht Hausgerate GmbH bünyesindeki beyaz eşya markasıdır.1989 yılında Whirlpool Appliances LTD. tarafından satın alındı.Türkiye pazarına 2006 yılında girdi.Whirlpool Corporation Amerika merkezli beyaz eşya üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lecia",
+    "description": "Lecia, 1849 yılında Wetzlar Carl Kellner tarafından kurulan Leica Camera AG bünyesindeki fotoğraf makinası, optik ürünleri ve aksesuarları markasıdır.1986 yılında üç bağımsız şirkete (Leica Camera AG, Leica Microsystems GmbH ve Leica Geosystems AG) bölünmüştür.Almanya merkezli Leica Camera AG, kameralar ve spor optik ürünlerinin uluslararası bir üreticisidir.Çoğunluk hisselerine sahip olan Almanya merkezli ACM Projektentwicklung GmbH, 2011 yılında Leica hisselerinin yüzde 45’ini dünyanın önde gelen yatırım ve danışmanlık firmalarından Amerika merkezli The Blackstone Group’a sattı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-10-09"
+  },
+  {
+    "company": "Dayco",
+    "description": "Dayco, 1905 yılında kurulan Dayco Products, LLC bünyesindeki; inşaat, otomotiv ve sanayi şirketleri için üretilen parçaların markasıdır.Şirket, otomobil, ağır araçlar ve endüstriyel makineler için kauçuk dişli hortumları ve kemer, tensors, kasnaklar, bağlantı elemanları ve adaptörler üretmektedir.Şirketin ana müşterileri arasında Caterpillar ve General Motors gibi firmalar yer almaktadır.Dayco Products, LLC Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Furuno",
+    "description": "Furuno, 1938 yılında kurulan Furuno Electric Co., Ltd. bünyesindeki, radar sistemleri, balık bulucu makineleri ve navigasyon aletleri dahil olmak üzere deniz elektroniği markasıdır.Şirket ayrıca küresel konumlandırma sistemleri, tıbbi ekipman ve meteorolojik izleme ve analiz sistemleri üretmektedir.FURUNO 1938 yılında Japonya’da kurulmuştur ve Amerika, Panama, Avrupa ve Çin’de iştirakleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

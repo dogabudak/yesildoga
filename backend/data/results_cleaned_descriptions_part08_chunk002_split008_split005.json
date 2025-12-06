@@ -1,0 +1,44 @@
+[
+  {
+    "company": "İllalife",
+    "description": "İllalife, 2021 yılında kurulmuş olan İlla Kozmetik Üretim ve Paz. A.Ş. bünyesinde üretilen cilt bakım ürünleri, besin takviyeleri, şampuanlar, medikal, sabunlar, diş ve ağız bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yupo Şeker",
+    "description": "Yupo Şeker Nerenin Malı MarkasıYupo, 1944 yılında temelleri atılan Ülker Bisküvi San. A.Ş. tarafından üretilen yumuşak şeker, draje, lolipop markasıdır.İstanbul merkezli Ülker Bisküvi San. A.Ş.’nin sahibi Yıldız Holding A.Ş.’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Blue Aura",
+    "description": "Blue Aura, 2010 yılında kurulmuş olan Matrix Sound Ltd. bünyesindeki ses sistemleri, ev eğlence sistemi, ev ses sistemi, mıdı-cd, dab + fm markasıdır.Matrix Sound Ltd. İngiltere merkezlidir ve ürünlerini Tayvan’da ürettirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Enphase Energy",
+    "description": "Enphase Energy, 2006 yılında kurulmuş olan Enphase Energy Inc. bünyesindeki güneş enerjisi mikro invertörleri, pil enerjisi depolama ve EV şarj istasyonları markasıdır.Enphase Energy Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Raff Giyim",
+    "description": "Raff, 2011 yılında kurulmuş olan Raff Giyim San. İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen silahlı kuvvetler, güvenlik ve diğer kamu kuruluşları için tekstil ürünleri ve aksesuarları markasıdır.Firma İstanbul merkezlidir. Ürünlerini 15’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

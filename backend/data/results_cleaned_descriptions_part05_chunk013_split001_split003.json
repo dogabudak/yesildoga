@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Albohes",
+    "description": "Albohes, Shenzhen Zanyao E-Commerce Co. Ltd. bünyesinde üretilen elektrikli ev aletleri markasıdır.Ürün yelpazesinde ayrıca 3D yazıcı, bebek terazi, araç video kaydedici, yanmaz koruyucu kıyafet, konserve açacakları, kahve öğütücüler vs. ürünler yer almaktadır.Shenzhen Zanyao E-Commerce Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Electriq Power",
+    "description": "Electriq Power, 2014 yılında kurulan Electriq Power Inc. bünyesindeki hazır akıllı ev bataryası ve yazılım çözümleri markasıdır.Şirket elektrik enerjisi için ev tipi akü sistemleri ve yazılım üretmektedir.Electriq Power Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pulcra Chemicals",
+    "description": "Pulcra Chemicals, 2007 yılında kurulan Fashion Chemicals GmbH & Co. KG bünyesinde üretilen elyaf, tekstil ve deri yardımcı kimyasalları ile deterjan ve kozmetik hammaddeleri markasıdır.Fashion Chemicals GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Charmhoo",
+    "description": "Charmhoo, 2004 yılında kurulan Shandong Changhong Rubber Technology Co. Ltd. bünyesinde üretilen yarı çelik yüksek performanslı radyal lastik, tüm çelik radyal lastik markasıdır.ISO 9001 belgesine sahiptir.Shandong Changhong Rubber Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Haers",
+    "description": "Haers, 1996 yılında kurulan Zhe Jiang Haers Vacuum Containers Co. Ltd. bünyesinde üretilen paslanmaz çelik vakum yalıtımlı içecek ve gıda kapları markasıdır.Zhe Jiang Haers Vacuum Containers Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

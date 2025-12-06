@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Bursa Kebap Evi",
+    "description": "Bursa Kebap Evi (BKE), 2003 yılında Helvacı Ailesi tarafından Helvacı Grup Turizm Lojistik ve Gıda San. Tic. Ltd. Şti. bünyesinde kurulan İskender restoranı zinciridir.Ürünleri yüzde yüz yerli besi dana ve kuzu etlerinden hazırlanır. İthal et ve katkı maddesi içermez.Türkiye, Almanya, BAE, İran ve Azerbaycan’da yüzün üzerinde şubesiyle hizmet vermektedir.ISO 9001, ISO 14001, ISO 22000, Türcert Helal belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kettler",
+    "description": "Kettler, 1949 yılında Heinz Kettler tarafından kurulan Kettler Freizeit GmbH bünyesindeki koşubandı, eliptik bisiklet, Fitness istasyonları, Fitness sehpası gibi birçok farklı spor aleti markasıdır.Kettler, 120 ülkede faaliyet göstermektedir. 1981 yılından itibaren Ender Spor A.Ş. tarafından Türkiye’de temsil edilmektedir.Kettler Freizeit GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Meshque",
+    "description": "Meshque, 2017 yılında Zulfiyya Aliyeva tarafından kurulan Meshque LLC bünyesindeki kadın, erkek ve çocuklar için spor giyim ürünleri markasıdır.Meshque LLC Azerbaycan merkezlidir. Azerbaycan’ın ilk yerel spor giyim markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Brose Fahrzeugteile",
+    "description": "Brose Fahrzeugteile, 1908 yılında Max Brose tarafından kurulan Brose Fahrzeugteile GmbH & Co. KG bünyesindeki araç kapıları ve asansör kapıları için teknoloji, ön ve arka koltuklar için ayar sistemleri, elektrik motorları ve sürücüler markasıdır.Brose Group, dünya çapında 23 ülkede 63 noktada üretim yapman otomotiv tedarikçisidir.Brose Fahrzeugteile GmbH & Co. KG Almanya merkezlidir. Şirketin hissedarları Michael Stoschek, kızı Julia Stoschek ve oğlu Maximilian Stoschek’in yanı sıra ablası Christine Volkmann ve kızlarıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "BorgWarner",
+    "description": "BorgWarner, 1880 yılında kurulan BorgWarner Inc. bünyesindeki motor ve şanzıman teknolojileri markasıdır.Almanya, Macaristan, Polonya, İspanya, Portekiz, Fransa, İrlanda, İsveç, Birleşik Krallık ve İtalya’da üretim tesisleri bulunmaktadır.BorgWarner Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

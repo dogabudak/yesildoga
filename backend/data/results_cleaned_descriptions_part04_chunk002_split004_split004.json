@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Difaş",
+    "description": "Difaş, 1966 yılında kurulan Difaş Fırça ve Plastik San. ve Tic. A.Ş. bünyesinde üretilen ağız bakım ürünleri, kişisel bakım ürünleri ile ev bakım ürünleri markasıdır.TSE ve ISO 9001 belgelerine sahiptir. Çok sayıda firmaya özel markalı üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Millet",
+    "description": "Millet, 1921 yılında Marechal, Marc Millet tarafından kurulan Millet Montain Group Sas bünyesindeki giyim, sırt çantaları, uyku tulumları, ayakkabı markasıdır.Millet Montain Group Sas 1995 yılında Groupe Lafuma tarafından satın alındı.2014 yılında Fransa merkezli Groupe Lafuma’nın yüzde 60’ı İsviçreli grup Calida bünyesine geçti.Calida Group bünyesindeki markalar:EiderKillyLafumaLe ChameauMilletOberOxbow",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Groz-Beckert",
+    "description": "Groz-Beckert, 1852 yılında kurulan Groz-Beckert Group bünyesindeki endüstriyel makine iğneleri, hassas parçalar ve ince aletlerin yanı sıra tekstil yüzeylerin üretimi ve birleştirilmesi için sistem ve hizmetler markasıdır.Groz-Beckert ürünleri Almanya, İsviçre, Çek Cumhuriyeti, Portekiz, Kanada, Hindistan ve Çin’de üretilmektedir. Merkezi Almanya olan aile şirketi, üretiminin yüzde 80’inden fazlasını 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fogal",
+    "description": "Fogal, 1921 yılında Leon Fogal tarafından kurulan Fogal c/o Bianchi & Co SA bünyesinde üretilen lüks çorap ürünleri markasıdır.Fogal c/o Bianchi & Co SA, kaşmir, yün ve ipek gibi doğal lifler kullanarak ürünlerini İsviçre ve İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Liectroux",
+    "description": "Liectroux, 2015 yılında kurulan Liectroux Robotics Gmbh bünyesindeki robot elektrikli süpürge, robot pencere temizleyici, elektrikli paspas, elektrikli süpürge, ev aletleri ve küçük ev aletleri markasıdır.Liectroux Robotics Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

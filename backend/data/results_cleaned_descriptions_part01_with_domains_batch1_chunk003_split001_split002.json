@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Keds",
+    "description": "Keds markası 1883 yılında kurulan Wolverine World Wide, şirketine aittir. Ayakkabı ve deri ürünleri üreticisidir.1916 yılında ilk modeli olan Şampiyon sneaker modelinin tanıtımıyla ortaya çıktı.1916 yılında Amerikan Lastik Şirketi elindeki 30 farklı markayı tek çatı altında birleştirdi.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Elta",
+    "description": "Elta; makine, otomotiv, ziraat, elektrik ve elektronik sektöründe el aletleri üretiyor.Elta markasına ait ürünler; Anahtarlar, Lokma – Bijon Anahtarlari, Boru Anahtarları ve Penseler, Tornavida ve Allen Anahtarlar, Keskiler ve Çekiçler, Servis Alet ve Ekipmanlari, Atölye Dolabı – Takım Çantaları ve Havalı El AletleriTürk Standartlarına uygun olarak ISO 9001-2008 kalite sertifikasına sahip İZELTAŞ, İzmir tesislerinde özenle üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2018-12-09"
+  },
+  {
+    "company": "Livin Elektirkli Ev Aletleri",
+    "description": "Livin elektirkli ev aletleri N DONANIM şirketine aittir. N DONANIM 2008 yılından beri kendi alanında, ithalat, pazarlama ve mevcut teknolojik gelişimleri daha etkin ve verimli yapılara dönüştürecek hizmetleri gerçekleştirmek amacıyla faaliyet göstermektedir. N DONANIM Pazarlama yapısını Elektirkli Ev Aletleri sektöründe de etkin kullanmak için bu ürünlerin ithalatını ve üretimini gerçekleştiren Türk firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dremel",
+    "description": "Dremel, 1932 yılında Albert J. Dremel tarafından kurulan Dremel Company bünyesinde üretilen çok amaçlı el aletleri, kompakt alet sistemleri, tezgah üstü alet sistemleri markasıdır.Döner aletler, sıcak tutkal tabancaları, kaydırma testereleri, kontur zımparaları, versatips ve güçlendirilmiş tornavidalar gibi ürünlere sahiptir.Dremel Company 1993 yılında Robert Bosch GmbH tarafından satın alınmıştır ve Amerika’da bulunan Robert Bosch Tool Corporation’ın bir bölümüdür. Dremel’in Avrupa, Orta Doğu ve Afrika’daki faaliyetleri Hollanda’da bulunan Dremel Europe tarafından yürütülmektedir. Ürünleri 60’tan fazla ülkede satılmaktadır.Robert Bosch GmbH Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-08-21"
+  },
+  {
+    "company": "Avon",
+    "description": "Avon 1886 yılında kurulmuş olan Avon Products Inc. bünyesinde üretilen makyaj, parfüm, cilt bakımı, güzellik, moda ve ev ürünleri markasıdır.Avon Products Inc. 2020 yılında Brezilya merkezli Natura &Co Holding S.A. tarafından satın alınmıştır. Ürünlerini 100’den fazla ülkeye pazarlamaktadır. Türkiye pazarına 1993 yılında girmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": "2023-10-15"
+  }
+]

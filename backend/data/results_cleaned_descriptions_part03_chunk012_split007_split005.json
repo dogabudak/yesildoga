@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Eko Guitars",
+    "description": "Eko Guitars, 2020 yılında iki şirketin birleşmesiyle kurulan Algam Eko Srl bünyesindeki elektrikli ve akustik gitar markasıdır.Müzik Aleti, DJ ekipmanları, hoparlör, gitar, davul seti, ses kabloları ve aksesuarları üreticisi olan Algam Eko Srl. merkezi Fransa’da bulunan Algam Group ile İtalya’da kurulan dağıtıcı Eko’nun birleşmesiyle kuruldu.Algam Group, İspanya, Portekiz, Benelüks, İskandinav ülkeleri, Baltık ülkeleri, Mağrip ve Çin’de dağıtıcı olarak faaliyet göstermektedir.Algam EkoEko GuitarsLag GuitarsPleyel PianosQuik Lok",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Fondmetal",
+    "description": "Fondmetal, 1987 yılında Gabriele Rumi tarafından kurulan Fondmetal S.p.A. bünyesindeki lastik teker, motorlu araç parçaları ve aksesuarları markasıdır.IATF 16949, UNI EN ISO 14001 ve UNI EN ISO 9001 belgelerine sahiptir.Fondmetal S.p.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Momo",
+    "description": "Momo, 1964 yılında Gianpiero Moretti tarafından kurulan Momo Srl bünyesinde üretilen otomobiller için aksesuar ve parçalar markasıdır.Momo Srl 2011 yılında, medya eğlence, dijital medya, gayrimenkul yatırımı, turizm geliştirme ve tüketici ürün şirketlerinin bir holdingi olan Grupo Cisneros tarafından satın alındı.Grupo Cisneros Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Creightons",
+    "description": "Creightons, 1954 yılında kurulan Creightons Plc. bünyesinde üretilen kişisel bakım ve güzellik ürünleri markasıdır.Ürünleri mümkün olduğunca vegan dostudur.Creightons Plc. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Minoxil",
+    "description": "Minoxil, 2010 yılında kurulan Pharmactive İlaç Sanayi Ve Ticaret Anonim Şirketi bünyesinde üretilen saç bakım ürünleri markasıdır.GMP belgesine sahiptir.Ürünlerini Çerkezköy’de bulunan 108 bin metrekarelik alanda üretmektedir.Pharmactive İlaç San. ve Tic. A.Ş. 2006 yılında Abdulkerim Sancak tarafndan kurulan Saya Grup bünyesindedir.",
+    "documents": [
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

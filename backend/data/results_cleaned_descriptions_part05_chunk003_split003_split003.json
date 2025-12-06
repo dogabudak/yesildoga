@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Doğa Sigorta",
+    "description": "Doğa Sigorta, 1979 yılında kurulan Doga Sigorta A.Ş. bünyesindeki sigorta markasıdır.Yangın, oto kaza, oto dışı kaza ve sorumluluk, mühendislik, nakliyat ve sağlık sigortası alanlarında çok çeşitli ürünler sunmaktadır.Yerel sermayeli firma Türkiye’de 6 Bölge Müdürlüğü, 2 Bölge Temsilciliği ve bin 500’ün üzerinde acentesiyle faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lamptime",
+    "description": "Lamptime, 2004 yılında kurulan Lamptime Elektrik A.Ş. bünyesinde üretilen led aydınlatma ürünleri markasıdır.Konya merkezli firmanın ürünleri arasında led aydınlatma, sokak armatürü, projektör, rgb, led driver, wallwasher, led ampul, acil çıkış armatürleri, panel aydınlatma, led panel yer almaktadır.Ürünlerini 10 bin metrekarelik kapalı alanda üretmektedir.ISO 9001, ISO 14001, ISO 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baby Care",
+    "description": "Baby Care, 2016 yılında kurulan Us Babycare Inc. bünyesindeki bebek ve çocuk gereçleri markasıdır.Çocuklar için güvenlik koltukları, arabalar, bambu perdeler, bardaklar, bebek değiştirme paspasları, bisiklet pompaları, bisikletler, diz koruma, elektrikli aksiyon oyuncakları, evcil hayvanlar için giyim, mobilyalar, sırt çantaları, teleferikler, vücut geliştirme aparatı, yapay solunum aparatı, yapboz bulmacalar, bebek şişeleri, bebek arabaları, bebek için paspaslar, bebek yürüteçleri, bebekler, bebekler için yüksek sandalyeler, destekleri, diş aparatı, el çantaları, ev kullanımı için ısı yalıtımlı kaplar, göğüs pompaları, karyola, kişisel kullanım için saç kesme makineleri, kitap çantaları, kovalar, manikür setleri, mutfak kapları, ovma pedleri, oyuncak araba kontrolörleri, spor çantaları, tırnak makası, temizlik için paçavralar, vakum şişeleri, yapay dişler vb. ürün yelpazesine sahiptir.Us Babycare Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Baby Care markasıyla çok sayıda farklı firma ürün üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Botanica Comfort",
+    "description": "Botanica Comfort, 2016 yılında kurulan Esn Grup Kozmetik ve Bilişim İth. İhr. Ltd. Şti. bünyesinde üretilen saç ve cilt bakım ürünleri markasıdır.Ürünleri organik hammaddelerden üretilmektedir ve yüzde 100 yerli üretimdir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mizuno",
+    "description": "Mizuno, 1906 yılında kurulan Rihachi ve Rizo Mizuno tarafından kurulan Mizuno Corporation bünyesinde üretilen spor giyim, giyim, ayak ve spor malzemeleri markasıdır.Mizuno Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

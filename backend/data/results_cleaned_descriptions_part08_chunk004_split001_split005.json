@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Blueair Hava Temizleyici",
+    "description": "Blueair, 1996 yılında kurulmuş olan Blueair SE bünyesindeki hava temizleyicileri, yenilenmiş hava temizleyicileri, filtreler ve aksesuarlar markasıdır.Blueair SE, 2016 yılında İngiltere merkezli Unilever PLC tarafından satın alınmıştır. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Gorilla Drone",
+    "description": "Gorilla Drone, 2018 yılında kurulan Hubsan Teknoloji ve Tic. A.Ş. bünyesinde üretilen sensörlü hobi drone markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Türkiye’de üretim yapan Ankara merkezli firmanın; İngiltere, Almanya ve Amerika’da iştirakleri bulunmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tresna",
+    "description": "Tresna, 2008 yılında kurulmuş olan Guilin Guanglu Measuring Instrument Co. Ltd. bünyesinde üretilen dijital kumpaslar, ölçerler, dijital ve mekanik mikrometreler, dijital arama göstergeleri, saat göstergeleri, dijital kart masaları, ölçü aletleri, dönüştürücüler, iletkenler markasıdır.Guilin Guanglu Measuring Instrument Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ambi Pur",
+    "description": "Ambi Pur, 1958 yılında piyasaya sürülen koku spreyi ve jeli markasıdır.Marka 2009 yılında Amerika merkezli Procter & Gamble (P&G) şirketi tarafından satın alınmıştır.Ambi Pur’un klozetle ilgili tüm ürünlerinin lisans sahibi İspanya merkezli Bluesun Consumer Brands S.L.U. şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vilas Armatür",
+    "description": "Vilas, 1997 yılında kurulmuş olan Büyük Sağcanlar Kuyumculuk İnşaat Turizm Petrolcülük Bakırcılık San. ve Tic. Ltd. Şti. bünyesinde üretilen banyo bataryası, duş başlığı, duş seti, evye bataryası, lavabo bataryası, musluk, mutfak bataryası markasıdır.ISO 9001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Projcb Plus",
+    "description": "Projcb Plus, 2017 yılında Uğur Özyurt tarafından kurulan Özyurt Ticaret bünyesinde ithal edilen akülü matkap, benzinli ağaç motoru, tilki kuyruğu, dekupaj testere, korumalı sıcak hava tabancası, kanal açma makinesi, traşlama freze makinesi, oto tamirci krikosu gibi ürünlerden oluşan markasıdır.Projcb Plus markalı ürünlerin ticareti, Özyurt Ticaret tarafından çeşitli kanallar yoluyla yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Babylu",
+    "description": "Babylu, 1999 yılında kurulan Crevil Cosmetics & Pharmaceuticals Germany GmbH bünyesinde üretilen bebek vücut losyon, şampuan cilt bakım ürünleri markasıdır.Babylu markalı ürünlerde paraben, parafin, silikon, parfüm ve alerjien maddeler içermez. Tüm Babylu ürünleri vegan ve dermatolojik sertifikalıdır.Crevil Cosmetics & Pharmaceuticals Germany GmbH Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.Bünyesindeki markalar:BabyluCrevilElaine PerineExitansLancopharmMalouNanodermaOrthoceuticals",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sixt",
+    "description": "1902 yılında Martin Sixt tarafından kurulmuş olan Sixt SE bünyesindeki çok uluslu bir araç kiralama, araç paylaşımı ve araç abonelik hizmetleri markasıdır.Sixt Group’un ana ve holding şirketi olarak faaliyet gösteren Sixt SE, araç kiralama, araç paylaşımı, sürüş-hailing ve leasing iş alanlarında 110 ülkede faaliyet göstermektedir.Sixt Group Almanya merkezlidir. 1992 yılında Türkiye pazarına girmiştir.Hissedarları:Erich Sixt (yüzde 58,2)Lupus alpha Asset Management AG (yüzde 0,45)Crédit Mutuel Asset Management SA (yüzde 0,26)Oddo BHF Asset Management GmbH (yüzde 0,22)Joh. Berenberg Gossler & Co. KG (yüzde 0,11)Signal Iduna Asset Management Gmbh (yüzde 0,1)",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2024-12-25"
+  },
+  {
+    "company": "Fabby",
+    "description": "Fabby, 2011 yılında kurulan Zhongshan Hongxinsheng Electronics Co., Ltd. bünyesinde üretilen aydınlatma ürünleri markasıdır.Zhongshan Hongxinsheng Electronics Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Rollic Games",
+    "description": "Rollic Games, 2018 yılında Burak Vardal, Deniz Başaran ve Mehmet Can Yavuz tarafından kurulan Rollic Games Oyun Yazılım ve Pazarlama A.Ş. bünyesinde üretilen oyun yazılımları markasıdır.Rollic Games Oyun Yazılım ve Pazarlama A.Ş.’nin yüzde 80 hissesi 2020 yılında Amerika merkezli Zynga Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

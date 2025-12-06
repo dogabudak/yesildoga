@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Snowman",
+    "description": "2015 yılında Ertuğrul Çekiç ve Xia Liling tarafından kurulmuş olan işlemci soğutucu fanlar markasıdır.Firma ürünlerini geçici olarak Çin’de üretmektedir ve Türkiye’ye taşınacaktır. Ürünlerini 5 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Daglong",
+    "description": "2005 yılında kurulmuş olan Elsa Hırdavat Hüseyin Elçeoğlu bünyesinde ithal edilen akülü vidalama, ahşap ve metal kesme, dal budama makinesi, elektrikli testere, freze, havalı aletler, lazer ölçüm cihazı, taşlama makinesi markasıdır.Firma İstanbul merkezlidir ve ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Exascend",
+    "description": "2016 yılında kurulmuş olan Exascend Co. Ltd. bünyesinde üretilen CFexpress, CFast, eMMC, DRAM, Flash Depolama, Hafıza Kartları, Özel Depolama Çözümleri, Katı Hal Sürücüsü (SSD), taşınabilir SSD ve kart okuyucusu markasıdır.Exascend Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Beghelli",
+    "description": "1982 yılında Gian Pietro Beghelli tarafından kurulmuş olan Beghelli S.p.A. bünyesinde üretilen LED acil durum aydınlatma armatürleri, ev otomasyonu ve güvenlik cihazları markasıdır.Beghelli S.p.A. İtalya merkezlidir. Ürünlerini 60 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Deffter",
+    "description": "2008 yılında kurulmuş olan Defter Kırtasiye Kitap Basım Yayın Dağıtım Oto. İnş. Tic. Ltd. Şti. bünyesindeki defterler, not kağıtları ve bloknot, deri defter, sert kapak, spiralli, karton kapak, eskiz defteri, lastikli defter markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

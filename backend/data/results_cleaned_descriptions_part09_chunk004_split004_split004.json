@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Ayes Çit",
+    "description": "Ayes1978 yılında kurulmuş olan Ayes Çelik Hasır ve Çit San. A.Ş. bünyesinde üretilen Q ve R tipi tel kafesler, çit kafesleri ve özel tel kafesler markasıdır.ISO 9001, ISO 14001, ISO 14025, ISO 31000, ISO 45001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini İzmir ve Kocaeli’de bulunan fabrikalarında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 14025",
+      "ISO 31000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vaporub",
+    "description": "Vicks Vaporub1837 yılında kurulmuş olan The Procter & Gamble Company bünyesinde üretilen, mentol ve okaliptüs içeren buharlaşan merhem markasıdır.Vicks markası altında satılmaktadır.The Procter & Gamble Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Larq",
+    "description": "Larq2017 yılında kurulmuş olan Larq Inc. bünyesindeki kendi kendini temizleyen su şişesi ve su arıtma sistemleri markasıdır.Larq Inc. 2024 yılında Almanya merkezli Brita SE’nin yan kuruluşu olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dominant Yedek Parça",
+    "description": "Dominant2009 yılında kurulmuş olan Hangzhou Dominant Auto Parts Co. Ltd. bünyesinde üretilen otomobil parçaları markasıdır.Araçlar için tüm soğutma sistemleri ve klima sistemleri, direksiyon, debriyaj, hidrolik sistemi, ateşleme, yakıt besleme, direksiyon, süspansiyon vb yedek parçaları üretmektedir.ISO 9001 belgesine sahiptir.Hangzhou Dominant Auto Parts Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Akkond",
+    "description": "Akkond1943 yılında kurulmuş olan Akkond JSC bünyesinde üretilen şekerleme, bisküvi, kurabiye, gofretler, bisküvili gofretler markasıdır.ISO 9001 belgesine sahiptir.Akkond JSC Rusya merkezlidir. Ürünlerini Rusya’da üretmektedir ve 30 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

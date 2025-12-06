@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kiva Yara Bandı",
+    "description": "Kiva, 2017 yılında kurulmuş olan Kiva Kozmetik A.Ş. bünyesinde üretilen yara bandı, makyaj ve kişisel bakım ürünleri markasıdır.Şirket, dünyanın en büyük markalarının lisanslı kozmetik ürünlerini üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Erba Seafood",
+    "description": "Erba Seafood, 2014 yılında kurulmuş olan Erba Su Ürünleri İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki su ürünleri markasıdır.ISO14001, ISO9001, ISO22000 ve HACCP belgelerine sahiptir.Firma Antalya merkezlidir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO14001",
+      "ISO22000",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Balık Dünyası",
+    "description": "Balık Dünyası, 2016 yılında kurulmuş olan Balıkdünyası Su Ürünleri Gida Turizm İnşaat Pazarlama İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki balıkçılık ve deniz ürünleri markasıdır.Taze, dondurulmuş, temizlenmiş, filetosu çıkarılmış, dilimlenmiş, ileri işlenmiş, kaplanmış, tütsülenmiş ve marine edilmiş balık ürünleri sunmaktadır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kawashima",
+    "description": "Kawashima, 1912 yılında kurulmuş olan Kawashima Packaging Machinery Ltd. bünyesinde üretilen bardak doldurma ve kapatma sistemi, dikey paketleme makinesi, otomatik kasa, sarma makinesi, yatay paketleme makinesi markasıdır.Şirket ekmek dilimleyici, yastık paketleme makinesi, gaz dolum paketleme makinesi, torba doldurma, mühürleyici, paketleme makinesi, istifleme makinesi, diğer paketleme makinesi ve pim salonu denetleyicisi üretmektedir.Kawashima Packaging Machinery Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Tasuka",
+    "description": "Tasuka, 1949 yılında, kurulmuş olan Semak Makina Tic. ve San. A.Ş. bünyesindeki çay toplama makinesi akülü, çay toplama makinesi sepetli akülü, motorlu testere markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

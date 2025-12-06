@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Teatone Çay",
+    "description": "Teatone, Bim Birleşik Mağazalar A.Ş. adına Oğuz Gıda San. ve Tic. A.Ş. tarafından üretilen limon aromalı buzlu çay markasıdır.Üretici firma Adana ve Sakarya fabrikalarında ayrıca kendi markasıyla, karton kutuda yüzde 100 meyve suyu, meyve nektarı, meyveli içecek ve meyve aromalı gazlı kola, portakal, gazoz meşrubatları üretmektedir.İstanbul merkezli Bim Birleşik Mağazalar A.Ş., bünyesindeki markalara ait çeşitli ürünleri farklı firmalara ürettirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arex Sigorta",
+    "description": "Arex Sigorta, 2020 yılında kurulan Arex Sigorta A.Ş. bünyesindeki hayat sigortası dışındaki (sağlık, yangın, motorlu taşıt, konut, tarım, denizcilik, havacılık, kaza, doğal afet, ulaştırma, nakliyat, para kaybı, borçlanma, mali sorumluluk, kefalet, kredi, finansal kayıplar vb) sigortacılık faaliyetleri markasıdır.Yüzde yüz yerli sermayeli şirket İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wline",
+    "description": "Wline, Wline Kozmetik Bitkisel Ürünler ve İlaç San. A.Ş. bünyesinde üretilen doğal ve bitkisel kozmetik bakım ürünleri markasıdır.Ürünleri tamamen doğal bitkisel olarak üretilmektedir ve sağlığa zararlı kimyasallar içermemektedir.Firma Niğde merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Karl Storz",
+    "description": "Karl Storz, 1945 yılında kurulan Karl Storz SE & Co. KG bünyesinde üretilen endoskop, tıbbi alet ve cihazları markasıdır.Ürün yelpazesi onbinden fazla insan tıbbı, veterinerlik tıbbı ve endüstriyel endoskopi için endoskopik aletler içermektedir.Karl Storz SE & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Akileine",
+    "description": "“Akileine“Akileine, 1943 yılında Paul Lacroix ve Henri Mas tarafından kurulan kurulan Les Laboratoires Asepta bünyesinde üretilen kişisel bakım ürünleri markasıdır.Les Laboratoires Asepta Monako merkezlidir. Üretiminin yarısını yurt dışına pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MC",
+    "updated_date": "2024-12-10"
+  }
+]

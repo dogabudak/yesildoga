@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Pepino Baby",
+    "description": "Pepino Baby, 1992 yılında kurulmuş olan Sevimler Gıda Kozmetik İtriyat Temizlik Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen ıslak havlu mendil markasıdır.Ürünleri alkol ve paraben içermemektedir.Firma İstanbul merkezlidir. Ürünlerini 10 bin metrekarelik alanda bulunan 7 bin 500 metrekarelik kapalı alanda bulunan tesisinde üretmektedir ve 80’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;BynikibabysFor Fresshh Baby WipesHagisLady FreshNewtopfreshPepino BabyPomiksSambo BabySap Fresh Baby WipesSemiıassmınSemibaby CareSemiloveSempapilaSevimler Baby’sSufyy SoftSun Fresh",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wafer Master",
+    "description": "Wafer Master, 1993 yılında kurulmuş olan Çizmeci Gıda San. ve Tic. A.Ş. bünyesinde üretilen rulo gofretler, gofretler ve bisküviler markasıdır.Palm yağı, soya, mısır nişastası ve glukoz içermektedir.ISO 9001, ISO 22000, Helal ve Koşer belgelerine sahiptir.Firma Kocaeli merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vagisan",
+    "description": "Vagisan, 1905 yılında kurulmuş olan Dr. August Wolff Gmbh & Co. Kg Arzneimittel bünyesinde üretilen kadınlar için genital bölge kuruluğu giderici kremler markasıdır.Doğal zencefil ekstraktı, yulaf ve papatyada da bulunan doğayla aynı maddeleri içerir.Dr. August Wolff Gmbh & Co. Kg Arzneimittel Almanya merkezlidir ve ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Four Winns",
+    "description": "Four Winns, 2010 yılında kurulmuş olan Rec Boat Holdings LLC bünyesinde üretilen tekne markasıdır.Rec Boat Holdings LLC 2017 yılında Amerika merkezli Beneteau Group tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Joom",
+    "description": "Joom, 2016 yılında kurulmuş olan Sia Joom bünnyesindeki e-ticaret ve fintech şirketleri grubu markasıdır.Dünyanın her yerinden alışveriş yapabilen platformu Joom Marketplace, Almanya’da bir ilaç pazarı Onfy, Avrupa’da günlük finansal işlemlere yönelik bir fintech hizmeti olan Joompay, uluslararası e-Ticaret için lojistik, teknoloji ve altyapı hizmetleri sağlayan bir işletme olan Joom Logistics ve uluslararası toptan ticaret için bir platform olan JoomPro işletmelerini içermektedir.Sia Joom Letonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LV",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Proware",
+    "description": "1992 yılında kurulmuş olan Proware Technologies Corporation bünyesindeki RAID depolama dizisi donanım ve yazılım markasıdır.Proware Technologies Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Pilenpak",
+    "description": "2000 yılında kurulmuş olan Pilenpak Ambalaj San. ve Tic. A.Ş. bünyesinde üretilen ambalaj çözümleri markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001 belgelerine sahiptir.Firma Manisa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oxibis",
+    "description": "1992 yılında kurulmuş olan Oxibis Group SA bünyesindeki gözlük markasıdır.Oxibis Group SA Fransa merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Payten",
+    "description": "Payten Teknoloji A.Ş. bünyesindeki çevrimiçi ödeme endüstrisi çözümleri markasıdır.Payten Teknoloji A.Ş. Polonya merkezli Asseco South Eastern Europe S.A.’nın bir parçasıdır.Hissedarları:Asseco Poland – treasury shares (yüzde 17,84)Adam Goral Fundacja Rodzinna (yüzde 10,01)Yukon Niebieski Kapital B.V. (yüzde 9,99)Allianz OFE (yüzde 9,99)Nationale-Nederlanden (yüzde OFE 5,03)Diğer (yüzde 47,14)Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Catmozz",
+    "description": "2021 yılında kurulmuş olan Yakamoz Petshop Ürünleri Lojistik İç ve Dış Tic. Ltd. Şti. bünyesindeki kedi mamaları, kumları, çimleri, ödülleri, kedi tırmalamaları, kedi yatakları, koku giderici, olta oyuncaklar, oyun evleri, taşıma çantaları, tarak, fırçalar ve makaslar, tasmalar, toplar ve fareler, vitaminler, yetişkin kedi konserveleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

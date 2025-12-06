@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cco",
+    "description": "Cco, 2004 yılında kurulan Guangzhou Cocome Cosmetics Co., Ltd bünyesinde üretilen oje markasıdır.Guangzhou Cocome Cosmetics Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar:CCOCCO GelishCCO RainbowCCO ShellacRed CocomeThe Nail ShopY3",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Divage",
+    "description": "Divage, 1999 yılında kurulan Divage Fashion Srl bünyesinde üretilen makyaj, koku, cilt bakımı ürünleri ve aksesuarları markasıdır.Divage Fashion Srl, İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir. Ürünleri Portekiz, İngiltere, Fransa, İspanya, Suudi Arabistan, Türkiye, KKTC, Polonya, Macaristan, İran, BAE gibi ülkelerde satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Georges Mezotti",
+    "description": "Georges Mezotti, 2003 yılında kurulan Coscentra B.V. bünyesinde üretilen parfüm markasıdır.Coscentra B.V. Hollanda merkezlidir ve ürünlerini Hollanda’da üretmektedir. Coscentra parfümleri 45 ülkede satılmaktadır.Bünyesindeki markalar:GEORGES MEZOTTILINN YOUNGOMERTAREAL TIMESTREETLOOKS",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Trio",
+    "description": "Trio, 1991 yılında kurulan Trio Leuchten GmbH bünyesindeki armatür ve led markasıdır.TRIO Lighting Group 30’dan fazla ülkede faaliyet göstermektedir.Trio Leuchten Almanya merkezlidir. Almanya’da geliştirilen ürünleri Çin yapımıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Skinident",
+    "description": "Skinident, 1980 yılında Ernst W. Henrich tarafından kurulan Skinident AG bünyesindeki cilt bakım ürünleri markasıdır.Ürünleri parfüm, koku, paraben ve hiçbir koruyucu içermez. Mineral yağ ve hayvansal maddeler içermez.Dünya çapında 15’ten fazla ülkede satılmaktadır.Skinident AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kuken",
+    "description": "Kuken, 1968 yılında kurulan Kuken Co. Ltd. bünyesindeki hava aracı markasıdır.Her türlü hava araçları, pömatik takım ve peumatik aletler için kontrolörlerin tasarımı, üretimi ve onarımını yapmaktadır.ISO 9001 belgesine sahiptir.Kuken Co. Ltd. Japonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Akar Oyuncak",
+    "description": "Akar Oyuncak, 2015 yılında kurulan Akallı Oyuncak ve Plastik İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen 9 farklı dilde konuşan eğitici puzzle ve eğitim grupları, plastik bloklar, eva zemin karoları, plastik oyun çitleri, sallanan atlar, kamyon ve iş makineleri setleri, eğitici oyun setleri, el becerisi ve zeka geliştirici oyunlar, aksiyon setleri, oyun halıları markasıdır.Ürünlerini İstanbul’da bulunan kendi tesislerinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sweet Dreamers",
+    "description": "Sweet Dreamers, 2009 yılında kurulan Sweet Dreamers Ltd. bünyesindeki bebek uyku ürünleri markasıdır.Sweet Dreamers Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bonacure",
+    "description": "Bonacure, 1898 yılında Hans Schwarzkopf tarafından kurulan Henkel Ag & Co. Kgaa bünyesinde üretilen saç bakımı maddelerinden saç ağartma maddeleri, saç boyama maddeleri, saça parlaklık veren maddeler, saçı dalgalandırma maddeleri ve saç için fiksaj maddeleri, saç suları ve şampuanlar markasıdır.Henkel Ag & Co. Kgaa Almanya merkezlidir. Türkiye’de Türk Henkel Kimya San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-11-14"
+  },
+  {
+    "company": "Borrani",
+    "description": "Borrani, 1922 yılında Carlo Borrani tarafından kurulan RuoteMilano srl bünyesindeki otomobil ve motosiklet jantları markasıdır.2004 yılında Borrani, Hollanda merkezli Zeta Europe BV grubunun üyesi RuoteMilano srl.’ye satıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

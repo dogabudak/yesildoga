@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Elit Un",
+    "description": "Elit Un, 1997 yılında kurulan Çopuroğlu Un Tarım Ürünleri Nakliyat Tic. ve San. Ltd. Şti. bünyesindeki un markasıdır.Elit Un fabrikası bir Çopuroğlu Limited Şirketi iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brainlab",
+    "description": "Brainlab, 1989 yılında Stefan Vilsmeier tarafından kurulan Brainlab AG bünyesindeki görüntü kılavuzlu cerrahi, radyasyon onkolojisi ve tıbbi görüntü değişimi için tıbbi teknoloji ürünleri markasıdır.Ürünleri görüntü odaklı cerrahi ve radyocerrahi, dijital ameliyathane entegrasyon teknolojileri ve bulut tabanlı veri paylaşımına odaklanmaktadır.Brainlab AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Enka Süt",
+    "description": "Enka Süt, 1985 yılında kurulan Enka Süt ve Gıda Mamülleri San. ve Tic. A.Ş. bünyesinde üretilen peynir, kaşar peyniri, yoğurt, ayran, tereyağı, süt tozu, peyniraltısuyu tozu, süt bazlı toz ürünler, endüstriyel süt yağı, peynir tozu, yoğurt tozu, spray dry domates tozu, meyve tozları, kahve kreması ve bitkisel yağ tozu markasıdır.Konya merkezli firma ürünlerini 20 bin metrekarelik kapalı alana sahip modern tesislerinde üretmektedir. Ürünlerini başta körfez ülkeleri ve uzak doğu olmak üzere pek çok ülkeye ihraç etmektedir.ISO 9000, ISO 10002, ISO 14000, ISO 45001, Helal ve Kosher belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14000",
+      "ISO 45001",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Qiwi",
+    "description": "Qiwi, 2007 yılında Andrey Romanenko tarafından Qiwi Group bünyesindeki elektronik çevrimiçi ödeme sistemleri markasıdır.Mobil operatörler, internet servis sağlayıcıları, IP telefon hizmetleri operatörleri, ticari televizyon, elektronik ödeme sistemleri, MLM şirketleri, online oyunlar, içerik sağlayıcılar ve toplayıcılar, kamu hizmetleri, sabit hat hizmetleri ve online alışveriş için kullanılmaktadır.Qiwi Group Rusya merkezlidir. Rusya, Romanya, Brezilya, Kazakistan, Beyaz Rusya, Moldova, Ürdün, ABD gibi ülke pazarlarına ödeme hizmeti verirken 15 ülkeye franchising modeline göre sunulmakta.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Eskon Un",
+    "description": "Eskon Un, 1976 yılında kurulan Eskon Un ve Unlu Mamüller San. Tic. Ltd. Şti. bünyesinde üretilen buğday unu markasıdır.Firma Konya, Polatlı, Trakya ve ithal buğdaylar kullanarak Eskişehir OSB’de ekmeklik, simitlik, pidelik, lavaşlık, pasta, börek, tatlı için 14 farklı un çeşidi üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

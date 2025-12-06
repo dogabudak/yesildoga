@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Revuele",
+    "description": "Revuele, 2009 yılında kurulan Revuele Ltd. bünyesinde üretilen kozmetik ve cilt bakımı ürünleri markasıdır.Beyaz kozmetik, makyaj, kişisel hijyen ürünleri gibi kozmetik ürünleri üretmektedir. ISO 9001 belgesine sahiptir.Revuele Ltd. Bulgaristan merkezlidir. Fransa, Bulgaristan ve Polonya’da üretim tesisleri ve ofisleri bulunmaktadır. Firma ayrıca Bulgaristan ve Avrupa’daki şirketler ve perakende zincirleri için özel markalar altında ürünler üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Uniqlo",
+    "description": "Uniqlo, 1949 yılında kurulan Uniqlo Co., Ltd. bünyesindeki gündelik giyim markasıdır.Firma 14 ülkede faaliyet göstermektedir.Uniqlo Co., Ltd., 2005 yılında Japonya merkezli Fast Retailing Co.’ nun tamamen sahip olduğu bir yan kuruluşu oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Muji",
+    "description": "Muji, 1980 yılında kurulan Ryohin Keikaku Co. Ltd. bünyesindeki triko, gıda ve ev eşyaları perakendecisi ve toptancısıdır.Ev eşyaları, mutfak eşyası, moda, kırtasiye ürünleri, elektronik, ev aletleri, makyaj malzemeleri, yem, mobilya gibi ürün yelpazesine sahiptir.Ryohin Keikaku Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Swiss Tech",
+    "description": "Swiss Tech, 1980 yılında kurulan GreatStar Tools Inc. bünyesindeki çoklu anahtarlık araçları, kompakt el fenerleri, otomatik acil durum araçları, cep bıçakları, tornavidalar, teknoloji aksesuarları, büyük el aletleri ve oto bakım ürünleri markasıdır.GreatStar Tools Inc., Çin merkezli Hangzhou GreatStar Industrial Co.’ nun bir parçasıdır. Asya’daki en büyük el aleti üreticilerinden biridir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dare2b",
+    "description": "Dare2b, 1999 yılında kurulan Dare 2b Ltd. bünyesindeki kayak, bisiklet, fitness ve dış giyim ürünleri, ayakkabı ve aksesuarlar markasıdır.Herkes için açık hava spor kıyafetleri ve ekipmanları üretmektedir.Dare 2b Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

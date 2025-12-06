@@ -1,0 +1,50 @@
+[
+  {
+    "company": "BASS Technology",
+    "description": "BASS Technology, 2014 yılında Netsel Group bünyesinde kurulan Bass Teknoloji San. ve Tic. Ltd. Şti. tarafından ithal edilen akıllı telefon aksesuarları markasıdır.Firma aksesuarlar geliştirip üretimini Çin’de yaptırmaktadır.Bünyesindeki markalar:AhhaAyayaBass Technology",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "GGMM",
+    "description": "GGMM, 2001 yılında kurulan Shenzhen GG&MM Industrial Co, Ltd. bünyesinde üretilen cep telefonu kılıfı, dizüstü bilgisayar çantası, dijital fotoğraf makinesi çantası, disk koruma çantası vb. ürünler markasıdır.Shenzhen Gg&Mm Industrial Co, Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tamrock",
+    "description": "Tamrock, 1862 yılında kurulan Sandvik Group’un bir parçası olan Sandvik Mining And Construction Oy bünyesindeki pnömatik makineler, madencilik ve delme makineleri, hava kompresörleri ve bunların, hava filtreleri, kaldırma ve çekme makineleri, parçalanmış kayaları taşıma ve nakletme araçları ile parça ve bağlantıları markasıdır.Kaya sondajı, kaya kesme, kırma ve eleme, yükleme ve taşıma, tünel açma, taş ocakçılığı ve kırma ve yıkım için çözümler üretmektedir.Gelişmiş endüstriyel ürünlere sahip küresel bir grup olan Sandvik İsveç merkezlidir. Madencilik ve kaya kazıları için ekipman ve alet, servis ve teknik çözümlerin tedarikçisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": "2022-10-12"
+  },
+  {
+    "company": "Griffin",
+    "description": "Griffin, 1992 yılında kurulan Griffin Technology, Inc. bünyesindeki şarj kabloları, araç içi şarj cihazları, aux kablolar, aux-in, cüzdanlar ve kılıflar, ekran bakımı, fm vericiler, kablo organizasyonu, kablosuz şarj, kılıf ve kapaklar, kalem ve klavyeler, mikro usb kabloları, power bank, tablet koruyucu, usb-c kabloları, ipad ve iphone temizleme ürünleri markasıdır.Griffin Technology, Inc. Amerika merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gezer Ayakkabı",
+    "description": "Gezer, 1968 yılında kurulan Gezer Ayakkabı Deri San. ve Tic. A.Ş. bünyesinde üretilen terlik ve ayakkabı markasıdır.Ürünlerini Bolu’da bulunan 100 bin metrekarelik kapalı alanda üretmektedir. ISO 9001 belgesine sahiptir. Üretiminin yüzde 25’ini 30 ülkeye ihraç etmektedir.Bünyesindeki markalar:Art DecoAygezerBelkisBizimBravemanBraveman GezerBroshBzmCanariaCollection 2000ÇikitaÇikita AnatomikDanversDol-FinoDugasiFinleyG Support EquipmentGezderi GezerGezeGezerGezerdenimGezeroğluGezmeyi Seviyorum GezerGezseGezzyGiderGraizerGzrGzr KimyaGzrtradeHanzadeHavayiHer Adımda MutlulukJubicaKardelenKellyKelly Fashion StudioLinaLina TakunyeLorisLoris TakunyeNiloOcoolOrtopedaPimexPrincess AylaPrincess MiraRossalinaScalzoSchneiderSchteigerSezerSnow WhiteSponge BallSporexStone RangerSun-AyTauricaWhite HouseZiley",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

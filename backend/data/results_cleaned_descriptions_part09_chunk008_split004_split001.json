@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Vankean",
+    "description": "“Vankean“2020 yılında kurulmuş olan Nanjing Huajing Travel Goods Co. Ltd. bünyesindeki çantalar markasıdır.Nanjing Huajing Travel Goods Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Deco Boya",
+    "description": "“DecoBoya“2016 yılında kurulmuş olan Deco Söve Boya İnşaat İzolasyon Tasarım Uygulama İmalat Turizm ve Tic. Ltd. Şti. bünyesinde üretilen dış cephe boyaları, iç cephe boyaları, rulo, yağlı boya markasıdır.Firma Antalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bertazzoni",
+    "description": "“Bertazzoni“1882 yılında kurulmuş olan Bertazzoni S.p.A. bünyesindeki ocak, fırın, buzdolabı, bulaşık makinesi havalandırma ürünleri, kaplamalar ve aksesuarlar markasıdır.Bertazzoni S.p.A. İtalya merkezli Bilancia Holding S.p.A bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Riomi",
+    "description": "“Riomi“2022 yılında kurulmuş olan Hnk Elektronik İthalat İhracat Tekstil Paz. San. ve Tic. Ltd. Şti. bünyesinde ithal edilen lazer epilasyon aletleri, robot süpürge, airwrap, airfryer markasıdır.Firma Denizli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Abbruch",
+    "description": "“Abbruch“2020 yılında kurulmuş olan Favors E-Ticaret Ltd. Şti. bünyesinde ithal edilen su geçirmez bluetooth kask kulaklığı, dokunmatik bluetooth kulaklık markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

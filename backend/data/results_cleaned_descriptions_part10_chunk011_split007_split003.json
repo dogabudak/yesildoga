@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cheetos",
+    "description": "1898 yılında kurulmuş olan PepsiCo Inc.’in bir yan kuruluşu olan Frito-Lay Inc. bünyesinde üretilen cips markasıdır.PepsiCo Inc. Amerika merkezlidir. Türkiye’de Frito Lay Gıda San. ve Tic. A.Ş. olarak faaliyet göstermektedir.Bünyesindeki markalar;DoritosCheetosFritosSunchipsBaken-EtsChester’sCracker JackTostitosFunyunsMiss Vickie’sRufflesSmartfoodStacy’s",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "P.F. Flyers",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Azcomed",
+    "description": "2023 yılında kurulmuş olan Azcomed Medikal Mlz. San. ve Tic. A.Ş. bünyesinde üretilen medikal malzemeler, hipodermik iğne markasıdır.Firma İstanbul merkezlidir ve ürünlerini Tekirdağ’da bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Corner",
+    "description": "1981 yılında kurulmuş olan Üçer Zımpara Taşı San. ve Tic. Ltd. Şti. bünyesinde üretilen taşlama diskleri markasıdır.Firma Kocaeli merkezlidir.Bünyesindeki markalar;Üçer2face",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jolib",
+    "description": "2023 yılında kurulmuş olan Bey Pharma Kimya San. A.Ş. bünyesindeki cilt bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

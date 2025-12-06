@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Teesar",
+    "description": "Teesar, 1971 yılında kurulan Sturm Handels Gmbh bünyesinde üretilen dış mekan ve askeri tarzda giysiler, kamuflaj ordu tişörtleri, üniforma gömlekleri ve kargo pantolonları, ceketler, şapkalar ve diğer aksesuarlar markasıdır.Sturm Handels Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bumer Beauty",
+    "description": "Bumer, 2021 yılında kurulmuş olan BM Kozmetik ve Güzellik Ürünleri Tic. San. Ltd. Şti. bünyesindeki cilt bakım ürünleri markasıdır.Ürünleri paraben, parafin, SLS, SLES, alkol içermez ve hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Victron Energy",
+    "description": "Victron Energy, 1975 yılında kurulmuş olan Victron Energy B.V. bünyesindeki şarj cihazları, akü izolatörleri ve birleştiricileri, akü yönetim sistemleri, aksesuarlar, dc dağıtım sistemleri ve sigortalar, dc-dc dönüştürücüler, ev şarjı, güneş panelleri, invertör, şarj cihazı, mppt, invertör, şarj cihazları, invertörler, izolasyon transformatörleri, kablolar, oto transformatörler, paneller ve sistem izleme, pil koruması, pil monitörleri, piller, solar şarj kontrolörleri, transfer anahtarları markasıdır.Victron Energy B.V. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-09-08"
+  },
+  {
+    "company": "LED Lenser",
+    "description": "LED Lenser, 1983 yılında kurulan Leatherman Tool Group Inc. bünyesindeki alan aydınlatmaları, el fenerleri, kafa fenerleri, powerbank, aksesuarlar markasıdır.Leatherman Tool Group Amerika merkezlidir ve ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-09-08"
+  },
+  {
+    "company": "Goldsun Isıtıcı",
+    "description": "Goldsun, 1991 yılında kurulmuş olan Çukurova Isı A.Ş. bünyesindeki elektrikli ısıtıcılar, cafe-restaurant ısıtma sistemleri, endüstriyel ısıtıcılar, aksesuarlar markasıdır.Firma İstanbul merkezlidir ve Kocaeli’de fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

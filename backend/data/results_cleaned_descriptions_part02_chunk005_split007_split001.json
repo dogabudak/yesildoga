@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Braskem Ülke",
+    "description": "Braskem, 2002 yılında kurulan Braskem S.A. bünyesindeki Petrokimya markasıdır.Brezilya, Amerika, Meksika ve Almanya’ya yayılmış 36 endüstriyel tesisinde termoplastik reçineler ve diğer petrokimyasallar üretmektedir. Braskem şeker kamışı bazlı etanol polietilen üreterek dünyanın önde gelen biyopolimerler üreticisidir.Braskem S.A. Brezilya merkezli bir şirkettir ve şirketin yüzde 38,25’i Odebrecht, yüzde 32,15’i ise Petrobras firmalarına aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Singtel",
+    "description": "Singtel, 1836 yılında kurulan Temasek Holdings bünyesindeki internet servis sağlayıcı, IPTV, cep telefonu şebekesi ve sabit telefon hattı hizmetleri markasıdır.Singapur merkezli şirket Asya, Avusturalya ve Afrika kıtalarında faaliyet göstermektedir.Singapur’un en büyük mobil şebeke operatörüdür.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Almarai",
+    "description": "“Almarai“1977 yılında kurulmuş olan Almarai Co. Ltd. bünyesinde üretilen süt ürünleri, meyve suyu markasıdır.2009 yılından itibaren Amerika merkezli Pepsi Co. ile çok sayıda ortaklık yapmıştır.Almarai Co. Ltd. Suudi Arabistan merkezlidir.Bünyesindeki markalar;7DaysAlmara ProAlmaraiAlmarai RefreshAlmiraAlyoumFarm’s SelectL’usineNuraOne BeanPremier ChefSeama",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SA",
+    "updated_date": "2024-11-22"
+  },
+  {
+    "company": "Zambo Çikolata",
+    "description": "1950 yılında kurulan Zambo Gıda San. ve Tic. A.Ş. bünyesindeki çikolatalar, waffle ve krep sosları markasıdır.Doğal içerikli ürünlerde koruyucu kullanılmamaktadır.Firma İstanbul merkezlidir ve ürünlerini İstanbul’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-07-30"
+  },
+  {
+    "company": "Storebrand",
+    "description": "Storebrand, 1767 yılında kurulan Storebrand ASA bünyesindeki finansal hizmet markasıdır.Şirketin ana faaliyetleri yaşam sigortası ve emeklilik tasarrufu ile ilişkilidir, ayrıca yatırım, bankacılık ve sigorta ürünleri üzerinde çalışan büyük bölümlere sahiptir.Storebrand ASA Norveç merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  }
+]

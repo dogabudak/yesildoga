@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Friskies",
+    "description": "Friskies, 1934 yılında kurulan kedi maması markasıdır. Yetişkin kediler, kısırlaştırılmış kediler ve yavru kediler için mama çeşitleri bulunur.Amerikan merkezli Nestlé Purina PetCare bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bioxcin",
+    "description": "Bioxcin, 2002 yılında Cihat Dündar tarafından kurulan Bi’ota laboratuvarlarında, üretilen saç uzmanlığı markasıdır.Türkiye’nin yüzde 100 yerli şirketi Biota Laboratuvarları ürünleri 35 ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-09-04"
+  },
+  {
+    "company": "Altıncezve",
+    "description": "Altıncezve, 1940 yılında Halil Erbey tarafından kurulan Altıncezve Gıda San. Tic. Ltd. içecek ürünleri üreticisi markasıdır.Kurukahve, baharat ve aktariye dışında ürün yelpazesini artırmıştır. Kahve ve Çay Grubu, Sıcak, Soğuk ve Sütlü İçecekler ve Stick ürünleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Amana",
+    "description": "Amana, 1934 yılında George Foerstner tarafından kurulan ev aletleri markasıdır.Beyaz eşya üreticisi Whirlpool Şirketi’ne ait bir Amerikan markasıdır.Whirlpool Corporation Manisa Soğutucu Fabrikası, 2017 yılında ürettiği soğutucuların yüzde 86’sını, çamaşır makinesi fabrikası ise yüzde 96’sını ihraç etti.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "De Dietrich",
+    "description": "De Dietrich, 2004 yılında kurulan ısıtma ürünleri markasıdır.2009 yılında Avrupa’nın ısıtma sektörünün önde gelen gruplarından BDR Thermea Group şirketine satıldı.Hollandalı BDR Thermea Group Fransa’daki kazan üretim merkezini, ardından Danimarka’daki kazan fabrikasını Türkiye’ye taşıdı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2019-04-16"
+  }
+]

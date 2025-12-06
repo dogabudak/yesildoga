@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Ecco Ayakkabı",
+    "description": "Ecco, 1963 yılında kurulan Ecco Sko A/S bünyesindeki ayakkabı, sandalet, çizme ve ayakkabı aksesuarları markasıdır.Ecco Sko A/S Danimarka merkezlidir. Ürünlerini 89 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Haydi:Switch",
+    "description": "Haydi:Switch, 1996 yılında kurulan MS Bilgisayar San. ve Tic. Ltd. Şti. bünyesindeki fare ve klavye olmadan bilgisayar kullanımını sağlayan tak ve kullan aygıtlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Klepsan",
+    "description": "Klepsan, 2021 yılında kurulan Klepsan Klape Vana Ölçü Aletleri San. Tic. Ltd. Şti. bünyesindeki çekvalf, klape, kollektör ve bağlantı elemanları, musluklar, pislik tutucu, rakorlar, vanalar, su sayaçları markasıdır.TS3148, TS3147, TS579-EN 331, ISO 9001, PCT (GOST) belgelerine sahiptir.İstanbul merkezli firma ürünlerini Hadımköy OSB’de bulunan 15 bin metrekarelik fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Canvit",
+    "description": "Canvit, 1994 yılında kurulan VAFO Brands s.r.o. bünyesinde üretilen evcil hayvanlar için vitamin ve mineral takviyeleri, kuru, yarı nemli, ıslak komple ve tamamlayıcı evcil hayvan maması ve ikramları markasıdır.VAFO Brands s.r.o. Çek Cumhuriyeti merkezlidir.Bünyesindeki markalar;BritCanvitCarniloveChristopherusHauHauNutricanPlanet PetPrimacatPrimadogProfineSams Field",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Nipro",
+    "description": "Nipro, 1954 yılında kurulan Nipro Corporation bünyesinde üretilen tıbbi malzemeler markasıdır.Nipro Corporation Japonya merkezlidir. Şirketin Japonya, Asya, Kuzey ve Güney Amerika ve Avrupa’da 58 iştiraki bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

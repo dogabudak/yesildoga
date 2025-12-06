@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Agvee",
+    "description": "2017 yılında kurulmuş olan Hk Agvee Electronic Co. Ltd. bünyesinde üretilen şarj kablosu ve aksesuarlar markasıdır.Hk Agvee Electronic Co. Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Throne",
+    "description": "2004 yılında kurulmuş olan Throne AB bünyesindeki spor giyim ürünleri markasıdır.Throne AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Denokin",
+    "description": "2012 yılında kurulmuş olan Shenzhen Kesiqi Electronic Technology Co. Ltd. bünyesinde üretilen blender, gıda parçalayıcı, meyve sıkacağı, kahve değirmeni, süt köpürtücü markasıdır.Shenzhen Kesiqi Electronic Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Turando",
+    "description": "2004 yılında kurulmuş olan Ningbo Turando Electrical Appliances Co. Ltd. bünyesindeki espresso kahve makinesi, kapsül kahve makinesi, kahve değirmeni, süt köpürtücü, kapsül tutucu markasıdır.Ningbo Turando Electrical Appliances Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Konad",
+    "description": "2012 yılında kurulmuş olan Konad Co. Ltd. bünyesindeki tırnak ürünleri, cilt bakımı ve makyaj kozmetik ürünleri markasıdır.Konad Co. Ltd. Güney Kore merkezlidir. Ürünleri Kore’de üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

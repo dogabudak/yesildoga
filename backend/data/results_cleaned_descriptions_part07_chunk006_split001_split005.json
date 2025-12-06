@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Pediasure",
+    "description": "Pediasure, 1888 yılında Wallace Calvin Abbott tarafından kurulan Abbott Laboratories bünyesindeki çocuklar için besleyici içecekler ve protein içecekleri markasıdır.Abbott Laboratories Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Master Potato",
+    "description": "Master Potato, 2018 yılında kurulmuş olan Gold Harvest Kuruyemiş Gıda ve Tar. Ürün. San. ve Tic. A.Ş. bünyesindeki patates cipsi markasıdır.Firma Eskişehir merkezlidir. Ürünlerini 5 bin metrekarelik alanda bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Forcefield Body Armour",
+    "description": "Forcefield Body Armour, 1786 yılında kurulmuş olan Vale Brothers Ltd. bünyesinde üretilen motosiklet vücut koruması, sırt, göğüs, uzuv korumaları, binicilik ayakkabısı bileşenleri markasıdır.Vale Brothers Ltd. İngiltere merkezlidir ve ürünlerini İngiltere’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Barkbusters",
+    "description": "Barkbusters, 1995 yılında kurulmuş olan Rideworx Pty Ltd bünyesindeki motosiklet korumaları ve aksesuarları markasıdır.Rideworx Pty Ltd Avustralya merkezlidir ve ürünleri Avustralya’da tasarlanıp üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Johnson Controls",
+    "description": "Johnson Controls, 1885 yılında kurulmuş olan Johnson Controls International Inc. bünyesinde üretilen binalar için yangın, HVAC ve güvenlik ekipmanları markasıdır.Amerika menşeli Johnson Controls International Inc. İrlanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  }
+]

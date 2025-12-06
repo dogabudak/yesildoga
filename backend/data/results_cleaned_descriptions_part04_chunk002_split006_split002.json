@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aquila",
+    "description": "Aquila, 1958 yılında Tony Longo tarafından kurulan Aquila Shoes bünyesindeki erkek giyim, ayakkabı ve aksesuarları markasıdır.Aquila 30’dan fazla perakende mağazası işletmektedir.Aquila Shoes Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Raen",
+    "description": "Raen, 2005 yılında kurulan Roen Kişisel Bakım Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen bitkisel kişisel bakım ürünleri markasıdır.Ürünlerinin hammaddesinin büyük bir kısmı Anadolu bitki ve baharatlarından oluşmaktadır. Roen Kişisel Bakım Ürünleri San. ve Tic. Ltd. Şti. yüzde 100 yerli butik bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Friendly Organic",
+    "description": "Friendly Organic, Friendly Organic, LLC bünyesindeki organik ürünler, organik krem, organik temizlik, organik bebek ürünleri, organik, temizlik, kozmetik, cilt bakım ürünleri markasıdır.Friendly Organic, LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Thrustmaster",
+    "description": "Thrustmaster, 1990 yılında kurulan joysticks, kulaklık, oyun denetleyicileri, bilgisayar ve video oyun konsolları için direksiyon simidi markasıdır.Thrustmaster, 1999 yılında Fransa merkezli Guillemot Corporation S.A. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-02-24"
+  },
+  {
+    "company": "TallyGenicom",
+    "description": "TallyGenicom, 2009 yılında Printronix, Inc. tarafından satın alınan endüstriyel baskı çözümleri markasıdır.İş ve endüstriyel yazıcılar, baskı çözümleri, yazıcı malzemeleri, yazıcı parçaları ve hizmetleri sunarken ürün serisi, çizgi matrisi, seri matris ve monokrom lazer dahil olmak üzere çok çeşitli etki ve lazer yazıcılar içerir.Printronix, Inc. Amerika merkezli özel bir sermaye şirketi olan Vector Capital tarafından kontrol edilen Pioneer Holding Corp. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

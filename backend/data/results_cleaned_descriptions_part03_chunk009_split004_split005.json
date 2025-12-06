@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Papara",
+    "description": "2016 yılında Ahmed Faruk Karslı tarafından kurulan Papara Elektronik Para ve Ödeme Hizmetleri A.Ş. bünyesindeki sanal para ve ödeme hizmetleri markasıdır.Kullanıcılarına para transferi, fatura ödemeleri, bağış, sanal kartlar, hediye kartları gibi ürün ve hizmetler sunmaktadır.TCMB, 2023 yılında Papara Elektronik Para A.Ş.’nin ödeme hizmetleri sunmak ve elektronik para ihraç etmek üzere faaliyet izin kapsamını genişletmiştir.Firma İstanbul merkezlidir. Yasadışı bahis ve kumar sitelerinin para transferlerine aracılık ettiği iddiasıyla 2025 yılında şirkete TMSF tarafından kayyum atanmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-05-28"
+  },
+  {
+    "company": "Seç Market",
+    "description": "Seç Market, 2020 yılında Bizim Toptan Satış Mağazaları A.Ş. tarafından kurulmuş olan Seç Marketçilik A.Ş. bünyesindeki marketler zinciri markasıdır.Türkiye’de 79 ilde binin üzerinde mağazasıyla faaliyet göstermektedir.Şirketin yüzde 55,19 hissesi Yıldız Holding A.Ş.’ye aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-05"
+  },
+  {
+    "company": "Perspi Rock",
+    "description": "Perspi Rock, Asya’daki eski tuz madenlerinden üretilen yüzde yüz doğal koruma sağlayan kristal deodorant markasıdır.Kimyasal madde, paraben içermez, Alüminyum ve Alkol kullanılmadan üretilmiştir. Alerjik, hassas ciltler için uygundur.Avanor Healthcare UK tarafından İngiltere’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Springday",
+    "description": "Springday, 2005 yılında kurulan Egevizyon Elektronik Makina San. ve Tic. A.Ş. bünyesindeki ısıtma ve soğutma sistemleri markasıdır.Endüstriyel sulu klima, sulu soğutucu, infrared halojen ısıtıcı, seramik fanlı ısıtıcı, Fan-pad çözümleri için ürünler sağlar.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Geemy",
+    "description": "Geemy, Lv Yangfen adına kayıtlı sakal kesme makinesi, kişisel kullanım için elektrikli ve elektriksiz saç kesme makineleri, epilasyon cımbızı, saç kıvırma amaçlı el aleti, elektrikli ve elektriksiz epilasyon aletleri, saç dalga maşası, elektrikli veya elektriksiz traş makinesi, manikür seti markasıdır.Ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Star Wars Oyuncak",
+    "description": "Star Wars1923 yılında kurulmuş olan Hasbro Inc. bünyesindeki aksiyon figürleri markasıdır.Hasbro Inc. Amerika merkezlidir. Doğu Asya’da üretilen ürünleri 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Antom",
+    "description": "Antom2010 yılında kurulmuş olan Alipay Singapore E-Commerce Private Limited bünyesindeki satıcılara ödeme işleme hizmetleri markasıdır.Şirket, çevrimiçi ödeme için gizlilik koruması, güvenlik, geri ödeme, hızlı yanıt süresi sunar.Alipay Singapore E-Commerce Private Limited Çin merkezli Ant Group Co. Ltd. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Jox Bonbon Fruity",
+    "description": "Jox1992 yılında kurulmuş olan Durukan Şekerleme San. ve Tic. A.Ş. bünyesinde üretilen çiğnenebilir şerit şekerleme, lolipop, şekerleme markasıdır.Firma Ankara merkezlidir ve ürünlerini Ankara’da bulunan fabrikasında üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Donaci",
+    "description": "Donaci1960 yılında kurulmuş olan Evliya Şekerleme San. ve Tic. Ltd. Şti. bünyesinde üretilen hindistan cevizli çikolata kaplama markasıdır.Helal, HACGP ve ISO 22000 belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini Konya OSB’de bulunan fabrikasında üretmektedir ve 50 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Margido",
+    "description": "Margido1995 yılında kurulmuş olan Karpedo Dondurma Gıda Tarım Tekstil Kuyumculuk İnşaat San. ve Tic. Ltd. Şti. bünyesinde üretilen dondurma markasıdır.Ürünlerinde keçi sütü ve salep kullanılmaktadır.Firma Kahramanmaraş merkezlidir. Ürünlerini 10 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

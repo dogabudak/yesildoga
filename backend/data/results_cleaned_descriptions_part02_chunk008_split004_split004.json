@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Ritter Implants",
+    "description": "Ritter, 1887 yılında kurulan Ritter Implants bünyesindeki diş implant ürünleri markasıdır.Ritter Implants Amerika merkezlidir. Ürünleri Almanya’da bulunan Ritter İmplantlar GmbH & Co tarafından üretilmektedir.Türkiye genelindeki şubesi Medworld’tür.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gabrini",
+    "description": "Gabrini, 1994 yılında kurulan Kadıoğlu Kozmetik bünyesindeki allık, fondöten, far, maskara, ruj, oje, parfüm ve bakım ürünleri markasıdır.Gabrini markalı 3 binden fazla ürün 55 ülkede satılmaktadır.Türk markası Gabrini Türkiye’nin önde gelen üretim özellikli kozmetik fabrikalarından birine sahiptir. Renkli kozmetik, parfüm ve saç bakım ürünlerini 12 bin metrekarelik alanda üretmektedir. ISO 9001:2008 Kalite Yönetim Sistemleri ve HELAL/HALAL sertifikalarına sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fiskat",
+    "description": "Fiskat, 1938 yılında kurulan Fiskobirlik (Fındık Tarım Satış Kooperatifleri Birliği) bünyesinde üretilen fındıklı bar krokan markasıdır.Fiskobirlik özerkleştirildikten sonra tamamen kendi nam ve hesabına fındık alım satımını gerçekleştirmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ecosia Arama Motoru",
+    "description": "Ecosia, 2009 yılında Christian Kroll tarafından kurulan Ecosia GmbH bünyesindeki internet arama motorudur.Aramaları saklamayan ve satmayan arama yapıldıkça elde edilen gelirleri ağaç dikimine harcayan bir sitedir.Elde edilen gelirle 70 milyona yakın ağaç dikilmiştir. Site üzerinden en az 45 arama yapılarak 1 ağacın dikilmesi sağlanıyor. Gelirlerin yüde 80’ini ağaçlandırmaya harcıyor.Ecosia GmbH Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-12-13"
+  },
+  {
+    "company": "No7",
+    "description": "No7, 1935 yılında Boots UK Ltd. bünyesinde üretilen anti-aging krem, cilt bakımı ve kozmetik ürünleri markasıdır.Boots, gelir ve mağaza sayısı bakımından İngiltere ve İrlanda’nın en büyük perakendecilerinden biridir.2014 yılında Boots UK Ltd., Amerika merkezli Walgreens Boots Alliance’ın bir yan kuruluşu oldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

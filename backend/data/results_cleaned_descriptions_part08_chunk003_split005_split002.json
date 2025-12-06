@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Alexander Dennis",
+    "description": "Alexander Dennis, 2004 yılında kurulmuş olan Alexander Dennis Limited bünyesinde üretilen otobüs markasıdır.Alexander Dennis Limited, 2019 yılında Kanada merkezli NFI Group Inc. tarafından satın alınmıştır. Kanada, Çin, Avrupa, Hong Kong, Malezya, Yeni Zelanda, Singapur, Güney Afrika ve Amerika Birleşik Devletleri’nde üretim tesisleri ve ortaklıkları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Sway Helmets",
+    "description": "Sway, 2005 yılında kurulmuş olan Teks Bisiklet ve Motosiklet Aksesuarları İmalat İhr. İth. A.Ş. bünyesindeki çene açılır kasklar, cross kasklar, full faceler, jokey kaskı, kask aksesuarı, kask vizörü, kasklar, buğu önleyici, yarım kasklar, elektrikli bisiklet markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seisenbacher",
+    "description": "Seisenbacher, 1934 yılında kurulmuş olan Seisenbacher Gmbh bünyesinde üretilen modern LED aydınlatma, verimli hava kanalları ve yüksek kaliteli bagaj rafları, raylı araç iç donanım ürünleri markasıdır.ISO 9001 belgesine sahiptir.Seisenbacher Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Stay Well Kozmetik",
+    "description": "Stay Well, 2014 yılında kurulmuş olan Stay Company Gmbh bünyesinde üretilen maskeler, kollajen, üçlü hyaluronik asit, vitaminler, çay ağacı yağı içerikli ürünler markasıdır.Ürünleri bitkisel içerikldir ve hayvanlar üzerinde test edilmemektedir.Stay Company Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Steriball",
+    "description": "Steriball, 2015 yılında kurulmuş olan Sunrino Kozmetik ve Medikal Ürünleri Paz. Dış Tic. Ltd. Şti. bünyesindeki çelik dil kazıyıcı, bakır dil temizleyici, bebek diş fırçası, diş fırçası koruma kabı, silikon bebek diş fırçası, silikon parmak diş fırçası markasıdır.Diş fırçası koruma kabı tabletinde yer alan kekik yağı, defne yaprağı yağı, çay ağacı yağı, nane yağı gibi uçucu yağlar 3 ay süre ile diş fırçasını korur.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "YEO",
+    "description": "YEO, 2004 yılında kurulan Yeo Elektrik Otomasyon A.Ş. bünyesindeki otomasyon ve dijitalleşme alanlarında çözümler markasıdır.Elektrik üretimi, iletimi ve dağıtımından akıllı ve verimli elektrik enerjisi uygulamasına kadar hizmet vermektedir.Elektrik ve otomasyon, pano imalatı, e-ev, enerji üretimi, enerji iletim ve dağıtım, trafo, trafo otomasyon, yüksek gerilim çözümleri, süreç otomasyonu, scada, programlama, elektro-mekanik, bina otomasyon, endüstriyel otomasyon, orta gerilim çözümleri, alçak gerilim çözümleri, endüstriyel otomasyon gibi alanlarda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Versatile",
+    "description": "Versatile, 1963 yılında kurulan Buhler Industries Inc. bünyesindeki traktör, biçerdöver, tarım ekipmanları markasıdır.Traktörler, kendinden tahrikli püskürtücüler, biçerdöverler ve toprak işleme için ataşmanlar üretmektedir.2023 yılında Buhler Industries Inc.’in yüzde 96,7 hissesi ASKO Holding A.Ş. tarafından satın alınmıştır.Ürünlerini Kanada’da üretmektedir.Bünyesindeki markalar;Farm KingVersatile",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-12-23"
+  },
+  {
+    "company": "Wonex Technology",
+    "description": "Wonex Technology, 1999 yılında kurulan Baydemir Group bünyesinde ithal edilen müzik ve ses, şarj, güç aksesuarları, ekran koruyucu ve telefon tutucular markasıdır.Ürünlerini Çin’de ürettirmektedir. Diyarbakır merkezli firma Ar-Ge çalışmalarını Çin ve Türkiye’de sürdürmektedir.Bünyesindeki markalar;BaywonderBwdLinebeaWonex",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Adrienne Vittadini",
+    "description": "Adrienne Vittadini, 1979 yılında kurulan Abg-Slg, LLC. bünyesindeki giyim ürünleri, çanta, saat, deri aksesuarlar ve koku ürünleri markasıdır.Abg-Slg, LLC. Amerika merkezlidir.Bünyesindeki markalar;Adrienne VittadiniAdrienne Vittadini BambiniAdrienne Vittadini CapriAdrienne Vittadini PlatinoAdrienne Vittadini StudioAvAv Adrienne VittadiniAv GlamourJudith LeiberJudith Leiber More Is MoreJudith Leiber New YorkJudith Leiber NightLeiberLeiber New YorkLittle LeiberOverture Judith LeiberRose ReliefTaryn RoseVittadini",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bottega Verde",
+    "description": "Bottega Verde, 1972 yılında kurulan Bottega Verde s.r.l. bünyesindeki kozmetik ve bakım ürünleri, parfümler ve besin takviyeleri markasıdır.Bottega Verde s.r.l., İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

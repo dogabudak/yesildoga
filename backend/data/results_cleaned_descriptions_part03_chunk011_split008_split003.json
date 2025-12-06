@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Eska",
+    "description": "Eska, 2005 yılında kurulan Eska Inc. bünyesinde üretilen doğal kaynak suyu markasıdır.Yerden saf bir şekilde çıkan su, doğrudan kaynaktan şişelenir.Şişeleri yüzde 100 geri dönüştürülmüş plastikten üretilmektedir.Eska Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Beaks",
+    "description": "Beak’s, 1977 yılında kurulan Tisert Evcil Hayvan ve Akvaryum Ürünleri İthalat İhracat Sanayi Dış Tic. Ltd. Şti. bünyesindeki kuş ve kemirgen aksesuarları markasıdır.2017 yılından itibaren üretilen Beak’s markasının patenli kuş ve kemirgen yemi kutu tasarımı vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Braas",
+    "description": "Braas, 1852 yılında kurulan BMI Group bünyesindeki çatı sistemleri markasıdır.Toprak ve çimento esaslı kiremitli çatı sistemi, bütünleşik tpo membran sistemi, teknolojik su yalıtım çözümleri ve shingle-sistem, pvc membran çatı sistemi ve dayanıklı pvc membran sistemi üretmektedir.BMI Group, 40 ülkede 128 üretim tesisine sahiptir ve Amerika merkezli Standard Industries kuruluşudur. Türkiye’de 36 bin metrekarelik alanda üretim yapmaktadır.BMI Group Bünyesindeki markalar:BraasEverGuardIcopalWolfin",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "New Essentials",
+    "description": "New Essentials, 2018 yılında kurulan Fer Kozmetik İlaç ve Gıda San. Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünlerini sağlığa zararlı olmayan hammaddeler kullanarak üretmektedir.Firma İstanbul merkezlidirBünyesindeki markalar:BabymedMethebeautyNew EssentialsSunblock",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-16"
+  },
+  {
+    "company": "Onvo Elektronik",
+    "description": "2008 yılında Mehmet Atmaca tarafından kurulmuş olan MA Elektronik A.Ş. bünyesinde üretilen 4K, Ultra HD, Android, Webos, Smart TV led televizyonlar, uydu alıcılı televizyonlar, kablosuz görüntü aktarma ve media player, küçük ev aletleri, buzdolabı, elektrikli scooter ve yedek parçaları markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-01-04"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Nars Cosmetics",
+    "description": "NARS Cosmetics, 1994 yılında François Nars tarafından kurulan kozmetik ve cilt bakım ürünleri markasıdır.Dudak Parlatıcı, Ruj, Allık, Bronzlaştırıcı, Göz Farı, Çoklu, Vücut Kızdırma, Oje, Makyaj Fırçaları, Dudak Kalemi, Kaş Kalemi, Eyeliner, Glitter Kalem, Fondöten, Makyaj Astarı, Makyaj Paleti, Pudra, Kapatıcı, Mum gibi ürünleri bulunmaktadır.2000 yılında Japonya merkezli Shiseido Company, Limited bünyesine katılmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "La Perla",
+    "description": "La Perla, 1954 yılında Ada Masotti tarafından kurulan İç Çamaşırı, Mayo, Gecelik, Parfüm, Lüks Ürünler markasıdır.Şirket ayrıca çantalar ve ayakkabılar üretmektedir. İç çamaşırı ürünleri dikişsizdir.La Perla, 2018 yılında Hollanda merkezli özel sermaye şirketi Sapinda Holding B.V tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Baby Max",
+    "description": "Baby Max, Mar Bebek Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki Bebek Arabaları, Mama Sandalyeleri, Otomobil Koltukları, Oyun Parkları ve Lisanslı Ürünler markasıdır.Mar Bebek firması Baby Max markalı ürünleri Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Toblerone",
+    "description": "Toblerone, 1903 yılında kurulan Mondelez International bünyesindeki dünyanın ilk üçgen çikolata markasıdır.Mondelez International Amerika merkezlidir. 1993 yılından beri Türkiye’de faaliyetlerini sürdürmektedir. Türkiye’de Kent Gıda ve Intergum ürünlerini bünyesine katmıştır. Mondelēz International Türkiye’de faaliyetlerini Kent Gıda San. ve Tic. AŞ. tüzel kişiliği ile sürdürmektedir. 2002 yılında Kar gıdayı satın alarak tuzlu çerezler kategorisinde faaliyet göstermeye başlamıştır.Mondelēz International Türkiye, Gebze’de 85.000 m2 kapalı alanı olan önemli bir üretim tesisine sahiptir.Şu an Mondelez dünyanın yaklaşık 180 ülkesinde kendi ürünlerini üretip satıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nurgaz",
+    "description": "Nurgaz, 1998 yılında kurulan NURGAZ Gaz Armatürleri Metal İşleme Elektrik Paz. San. Tic. Ltd. Şti. bünyesindeki Kamp Ürünleri ve Tüplü Gaz Cihazları, Tav ve Kaynak Takımları, Elektrikli Ev Aletleri markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-01-30"
+  }
+]

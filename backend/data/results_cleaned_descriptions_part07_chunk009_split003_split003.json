@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Paixao",
+    "description": "Paixao, 1904 yılında François Coty tarafından kurulmuş olan Coty Inc. bünyesindeki vücut bakım ürünleri, vücut yağları markasıdır.Coty Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Javex Kablolar",
+    "description": "Javex, 1980 yılında kurulmuş olan Jave Yuan Electric Wire Co. Ltd. bünyesinde üretilen Cat7, Cat6 Ethernet Kabloları, Enstrüman, Hoparlör Kabloları, HDMI, DisplayPort Kabloları, HDMI, Görsel-İşitsel Adaptörler, MFi, Yıldırım Kabloları, Tip-C USB Kabloları, Tip-C, Yıldırım Adaptörleri markasıdır.Firma hoparlör kablosundan endüstriyel kabloya kadar saf bakır kablo konusunda uzmanlaşmıştır.Jave Yuan Electric Wire Co. Ltd. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Wow Skin Science",
+    "description": "Wow Skin Science, Fit & Glow Healthcare Pvt. Ltd. bünyesinde üretilen bitkisel saç bakımı, cilt bakımı, yüz ve vücut bakımı ürünleri markasıdır.Ürünleri paraben ve sülfat içermez. Hayvanlar üzerinde test edilmemektedir.Fit & Glow Healthcare Pvt. Ltd. Hindistan merkezlidir ve ürünlerini Hindistan’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Delia",
+    "description": "Delia, 1998 yılında kurulmuş olan Delia Cosmetics Sp z o.o. bünyesinde üretilen boya ve saç bakım ürünleri, makyaj ve tırnak kozmetikleri, yüz ve vücut kozmetikleri markasıdır.Delia Cosmetics Sp z o.o. Polonya merkezlidir. Ürünlerini 80 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Cleanvac",
+    "description": "Cleanvac, 1990 yılında kurulmuş olan Tektem Makina San. ve Dış. Tic. Ltd. Şti. bünyesinde üretilen halı yıkama makinesi, sanayi tip süpürge, basınçlı yıkama makinesi, sert zemin temizleme otomatı, sokak süpürme aracı, akülü yük ve yolcu taşıma aracı markasıdır.ISO 9001 belgesine sahiptir.İstanbul merkezli firma ürünlerini Sakarya’da 15 bin metrekaresi açık 8 bin 500 metrekaresi kapalı alanda bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

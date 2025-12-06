@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Baltalı Peynir",
+    "description": "Baltalı2008 yılında kurulmuş olan Baltalı Gıda Hayvancılık San. ve Tic. Ltd. Şti. bünyesinde üretilen keçi sütü, keçi peyniri, keçi yoğurdu, keçi tereyağı ve keçi kefiri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aqueous Technologies",
+    "description": "Aqueous Technologies1992 yılında kurulmuş olan Aqueous Technologies Corporation bünyesindeki devre düzenekleri temizleme, sökme makineleri ve temizlik test cihazları markasıdır.Aqueous Technologies Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Orçel",
+    "description": "Orçel1998 yılında kurulmuş olan Çelebi Kardeşler Gıda San. Tic. Ltd. Şti. bünyesinde üretilen sıcak, soğuk içecekler, nişastalar, unlar markasıdır.Ürünlerinde tatlandırıcı bulunmamaktadır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Strike Systems",
+    "description": "Strike SystemsActionsportgames A/S bünyesindeki spor malzemeleri, dürbün markasıdır.Actionsportgames A/S Danimarka merkezlidir.MechanixStrike SystemsStrike Systems Pro OpticsUltimateUltrair",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Oocl",
+    "description": "Oocl1969 yılında kurulmuş olan Orient Overseas Container Line Limited bünyesindeki entegre uluslararası konteyner taşımacılığı, lojistik ve terminal markasıdır.Entegre uluslararası konteyner taşımacılığı, lojistik ve terminal şirketidir.Orient Overseas (International) Limited Hong Kong merkezlidir. 70 ülkede ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Pomellos",
+    "description": "“Pomellos“2011 yılında kurulmuş olan Eose Laboratuvarları San. Ltd. Şti. bünyesindeki kolonya markasıdır.Şirket her türlü cilt ve saç sorunları için dermokozmetik ürünler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brewista",
+    "description": "“Brewista“2014 yılında kurulmuş olan Smartco Group Inc. bünyesindeki elektrikli su ısıtıcıları, kahve ürünleri ve aksesuarlar markasıdır.BPA içermez.Smartco Group Inc. Amerika merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mansarovar",
+    "description": "“Mansarovar“1996 yılında kurulmuş olan Mansarovar Forgings Pvt. Ltd. bünyesindeki somun anahtarları, anahtarlar, pense, kerpeten, otomotiv aletleri, yağlama aletleri, marangoz aletleri ve diğer dövme bileşenleri markasıdır.ISO 9001 belgesine sahiptir.Mansarovar Forgings Pvt. Ltd. Hindistan merkezlidir.Bünyesindeki markalar;MansarovarSarovar",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Orient Profesyonel El Aletleri",
+    "description": "“Orient“1989 yılında kurulmuş olan Akdemir Makina Pazarlama San. ve Dış Tic. Ltd. Şti. bünyesindeki el aletleri markasıdır.Ürünleri krom vanadium alaşımından ve yüksek kalite karbon çelikten üretilmektedir.ISO 9001, ISO 9002, ISO 9003 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;KroksOrient",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "ISO 9002",
+      "ISO 9003"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cobalex",
+    "description": "“Cobalex“1912 yılında kurulmuş olan Abdi İbrahim İlaç San. ve Tic. A.Ş. bünyesindeki enjeksiyonluk çözelti markasıdır.Firma İstanbul merkezlidir. Birçok ülkede temsilcilikler bulundurmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

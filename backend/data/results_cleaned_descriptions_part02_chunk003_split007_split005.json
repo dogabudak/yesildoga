@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Zales",
+    "description": "Zales, 1924 yılında Morris Zale, William Zale ve Ben Lipshy tarafından kurulan Zale Corporation bünyesindeki mücevher markasıdır.Zale Corporation Amerika merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Driclor",
+    "description": "Driclor, GlaxoSmithKline şirketler grubu bünyesindeki Antiperspirant markasıdır.Aşırı terlemeyi engelleyen bir roll on antiperspiranttır. Terin kıvamını artırarak kümelenmesini sağlar. Bu kümeler cilt yüzeyindeki gözenekleri tıkayarak yeni terin cilt yüzeyine ulaşmasını engelleyerek aşırı terlemeyi önler.GlaxoSmithKline Londra merkezli bir İngiliz şirketidir. Glaxo Smith Kline İlaçları San. ve Tic. A.Ş olarak Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Coverme",
+    "description": "Coverme, iPoint Teknoloji İletişim Bilişim Servis Elektronik San. Tic. Ltd. Şti. bünyesindeki akıllı telefon markasıdır.Coverme Luxury Protection adlı ürünün 35 farklı renk ve seçeneği bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Powerade",
+    "description": "“Powerade“1988 yılında The Coca-Cola Company bünyesinde üretilen bir spor içeceğidir.Fruktoz, aroma vericiler, şekerler ve tatlandırıcılar içerir.Türkiye’de ilk kez 2002 yılında satışa sunulmuştur.The Coca‑Cola Company Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-10-08"
+  },
+  {
+    "company": "RAVPower",
+    "description": "RAVPower, 2007 yılında kurulan Sunvalley Group bünyesinde 2012 yılından beri üretilen harici pil, güç bankası, USB şarj cihazı, araç şarj cihazı, şarj kabloları, Dizüstü bilgisayar ve cep telefonu pilleri markasıdır.Sunvalley Group Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-09-14"
+  }
+]

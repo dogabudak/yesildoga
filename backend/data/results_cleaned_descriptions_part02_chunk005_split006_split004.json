@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Abbvie",
+    "description": "Abbvie, 20013 Yılında Kurulan Abbvie Inc. bünyesindeki Ilaç Markasıdır. 2013 yılında Abbott’tan ayrılarak bağımsız bir şirket oldu.Abbvie Inc. Araştırma tabanlı Amerika merkezli ilaç üreticisidir.Türkiye’de AbbVie Tıbbi İlaçlar San. Tic. Ltd. Şti, olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jonsered Ne",
+    "description": "Jonsered, dünyanın en eski firmalarından biri olan Husqvarna Group bünyesindeki motorlu testere, el tipi kesici ve robotik çim biçme makineleri markasıdır.Orman-bahçe makinelerinin yanısıra hafif inşaat makineleri de üretmektedir.Husqvarna, İsveç merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": "2019-08-14"
+  },
+  {
+    "company": "Danaher",
+    "description": "Danaher, 1969 yılında kurulan Danaher Corporation bünyesindeki çevresel ve uygulamalı çözümler, diş ile ilgili işletmeler, yaşam bilimleri ve teşhis alanları çözümleri markasıdır.Danaher Corporation Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Intuit",
+    "description": "Intuit, 1983 yılında kurulan Intuit Inc. bünyesinde küçük işletmeler, muhasebeciler ve bireyler için finansal, muhasebe ve vergi hazırlama yazılımı ve ilgili hizmetler geliştiren ve satan iş ve finansal yazılım markasıdır.Intuit Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lockheed Martin",
+    "description": "Lockheed Martin, 1995 yılında kurulan Lockheed Corporation ve Martin Marietta iştiraki ileri teknoloji ve havacılık markasıdır.56 ülkede faaliyet gösteren şirket savunma sanayisinin gelire oranla en büyük yüklenicisidirLockheed Martinb Amerika merkezli bir şirkettir. Gelirinin yüzde 95’ini Amerika Savunma Bakanlığı, Amerika federal hükümet büroları ve yabancı askeri kurumlardan elde etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

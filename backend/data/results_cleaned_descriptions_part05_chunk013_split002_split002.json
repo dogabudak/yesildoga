@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Espro",
+    "description": "Espro, 2002 yılında Chris Mclean ve Bruce Constantine tarafından kurulan Espro Inc. bünyesindeki espresso araçları, kahve tadım bardakları, demleme aksesuarları, soğuk demleme, çay filtreleri markasıdır.Firma kahve ve çay presleri, sürahileri, filtre kitleri ve aksesuarları üretmektedir.Espro Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Frieling",
+    "description": "Frieling, 1988 yılında Monika ve Bernard Schnacke tarafından kurulan Frieling Inc. bünyesindeki mutfak ve misafir ürünleri, servis gereçleri ve kahve/çay aksesuarları markasıdır.Saplı cam tabanlı yay biçimli tavaları ve beş farklı ebattaki paslanmaz çelik Fransız presleri ile bilinir.Frieling USA Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Louis Tape",
+    "description": "Louis Tape, 1973 yılında kurulan Louis Adhesive Tapes Co. Ltd. bünyesinde üretilen opp bandı, baskılı bant, maskeleme bandı, selüloz bant, kraft bant, kumaş bant, pvc bant, çift taraflı bant, özel bant markasıdır.Louis Adhesive Tapes Co. Ltd. Tayland merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "Emsa Termos",
+    "description": "Emsa, 1949 yılında kurulan Emsa Gmbh bünyesinde üretilen mutfak eşyaları, matara, termo sürahiler, gıda saklama kapları, küçük elektrikli ev aletleri ve aksesuarları markasıdır.Emsa Gmbh 2016 yılından beri Fransa merkezli Groupe SEB’e aittir. Ürünlerini Almanya, Çin ve Vietnam’daki tesisinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2023-05-10"
+  },
+  {
+    "company": "Stuzzy",
+    "description": "Schesir, 1999 yılında kurulan Agras Delic S. p. A. bünyesinde üretilen evcil hayvan kuru maması markasıdır.Ürünlerinde hiçbir koruyucu madde veya boya yoktur.İtalya merkezli Agras Delic S.p.A.’nın yüzde 60 hissesini 2017 yılında Güney Kore merkezli Nxc Corp.’un yatırım kolu olan NXMH tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2023-01-26"
+  }
+]

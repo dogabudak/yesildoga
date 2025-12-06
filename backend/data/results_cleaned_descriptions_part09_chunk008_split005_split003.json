@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Viisan",
+    "description": "“Viisan“2013 yılında kurulmuş olan Beijing Mysher Technology Co. Ltd. bünyesinde üretilen belge kameraları, tepegöz kitap tarayıcıları, A3 geniş format tarayıcılar, video konferans cihazları ve çok çeşitli uygulama ihtiyaçlarını karşılamak üzere tasarlanmış çeşitli yazılım çözümleri markasıdır.Beijing Mysher Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Freshmaker",
+    "description": "“Freshmaker“2003 yılında kurulmuş olan Fulya Kozmetik Islak Mendil İmalat ve Pazarlama Ltd. Şti. bünyesinde üretilen ıslak mendil, bebek bezi, kulak çubuğu, sıvı ürünler, naturel sabun markasıdır.ISO 9001, GMP belgesine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 13 bin metrekarelik kapalı alana sahip tesisinde üretmektedir ve 70’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;FreshmakerFreshrunyLiolaLolamioNemdil",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mitutoyo",
+    "description": "“Mitutoyo“1963 yılında kurulmuş olan Mitutoyo America Corporation bünyesindeki hassas mikrometre, kumpas, kadranlı ölçüm cihazları, sertlik test cihazları, görüş özellikli ölçüm sistemleri ve 3B koordinatlı ölçüm makineleri, kameralı ölçüm cihazları, form ölçümleri, optik ölçüm, sensör sistemleri, dijital cetvel ve dro sistemleri, küçük alet cihazları ve veri yönetimi markasıdır.Mitutoyo America Corporation Amerika merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Koreaco",
+    "description": "“Koreaco“2010 yılında kurulmuş olan M Y Grup Bilişim ve Danışmanlık Hizmetleri Tic. Ltd. Şti. bünyesindeki cilt bakım kozmetikleri markasıdır.Firma İstanbul merkezlidir ve ürünleri Türkiye’de üretilmektedir.Bünyesindeki markalar;Baby FriendlyKoreacoStop Forte",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bendis Design",
+    "description": "“Bendis Design“2014 yılında kurulmuş olan Bendis Takı ve Güzellik Ürünleri Tic. Ltd. Şti. bünyesindeki takılar, bileklik, halhal, kolye, küpe, ring, saç aksesuarı, şahmeran, yüzük markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

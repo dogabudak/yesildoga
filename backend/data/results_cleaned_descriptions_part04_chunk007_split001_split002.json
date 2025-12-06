@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Pacomarine",
+    "description": "Pacomarine, 2014 yılında kurulan Eys Saat A.Ş. bünyesindeki saat markasıdır.Tasarım ve üretimini tamamen kendi kontrolünde yaparak, ürünlerini son kullanıcısına sunmaktadır.Eys Saat A.Ş., yüzde 100 yerli sermayeli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nenedent",
+    "description": "Nenedent, 1951 yılında kurulan Lenk & Schuppan KG bünyesinde üretilen diş bakım ürünleri markasıdır.Firma, koruyucular veya renklendirici maddeler gibi yapay katkı maddelerini mümkün olduğunca azaltmakta ve ürünlerini bitki bazlı formülasyonlar kullanarak geliştirmektedir. ISO 9001 belgesine sahiptir.Lenk & Schuppan KG Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aquafina",
+    "description": "Aquafina, 1994 yılında PepsiCo bünyesinde üretilen şişelenmiş arıtılmış su ürünleri markasıdır.Çeşitli cilt bakım ürünlerinde kullanım için lisanslanmıştır.Aquafina Pure Water, musluk suyu kaynaklarından ters ozmoz, ultraviyole ve ozon sterilizasyonunu arıtıyla üretilir.PepsiCo Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mulco Watches",
+    "description": "Mulco Watches, 1958 yılında kurulan Mulco Watches Inc. bünyesindeki lüks ürünler ve mücevherat markasıdır.Paslanmaz çelik, alüminyum, silikon, seramik gibi malzemelerle her parça elle monte edilir.Mulco Watches Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Claude Bernand",
+    "description": "Claude Bernand, 1884 yılında Christian Ruefli-Flury tarafından kurulan Montres Edox et Vista SA bünyesindeki lüks kol saatleri ve aksesuarlar markasıdır. Kuvars hareketli ve mekanik saatler üretmektedir.Montres Edox et Vista SA İsviçre merkezlidir. İsviçre’de el yapımı saatler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

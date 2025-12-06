@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Smalto",
+    "description": "Smalto, 1962 yılında Francesco Smalto tarafından kurulan kadın ve erkek lüks giyim ve aksesuar firmasıdır.Smalto, İtalya merkezli bir firmadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Marni",
+    "description": "Marni, 1994 yılında kurulan; kadın, erkek ve çocuk giyim, el çantası ve aksesuar markasıdır.2012 yılında Renzo Rosso’nun sahibi olduğu OTB Group bünyesine katıldı. OTB İtalya merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Freudenberg",
+    "description": "Freudenberg, 1849 yılında Carl Johann Freudenberg tarafından kurulan Freudenberg & Co. KG bünyesindeki contalar, titreşim kontrol bileşenleri, teknik tekstiller, filtreler, özel kimyasallar, tıbbi ürünler ve en modern temizlik ürünleri markasıdır.Otomotiv sanayi, sivil havacılık, makine mühendisliği, gemi yapımı, gıda ve eczacılık endüstrileri ile tarım ve inşaat makineleri de dahil olmak üzere geniş bir endüstri yelpazesine sahiptir.Freudenberg & Co. KG Almanya merkezlidir.Freudenberg bünyesindeki markalar:Chem-TrendCortecoEagleburgmannEcozeroEvolonFitFreudenberg MedicalFreudenberg Sealing TechnologiesGalaHelixmarkKlüber LubricationLutradurLutraflorLutrasilMicronairOksPellonSimritSoundtexSurtecTerbondTexbondVibracousticVildonaViledaViledonVileneVilmed",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-01-05"
+  },
+  {
+    "company": "Sükke",
+    "description": "Sükke Hangi Ülkenin Ürünü MarkasıSükke, 2015 yılında kurulan Sükke Kozmetik. Paz. san. ve Tic. Ltd. Şti. bünyesindeki alkolsüz parfüm, kokulu bakım ürünleri ve roll-on esans markasıdır.Türk firması Türkiye’de üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Neoplan Firmanın",
+    "description": "Neoplan, 1935 yılında Gottlob Auwarter tarafından kurulan Otobüs ve troleybüs markasıdır.Neoplan, NEOMAN Bus GmbH şirketi tarafından üretilmektedir. Bu şirketi 2001 yılında Alman MAN Truck & Bus AG satın almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

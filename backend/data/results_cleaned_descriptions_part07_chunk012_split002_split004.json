@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Koç Kablo",
+    "description": "Koç Kablo, 1980 yılında kurulmuş olan Koç Kablo San. Tic. Ltd. Şti. bünyesinde üretilen kablolar markasıdır.ISO 9001, ISO 14001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polaxtor",
+    "description": "Polaxtor, 2007 yılında kurulmuş olan Müzikbank Elektronik Müzik Yapım İnş. İltş. Tic. Ltd. Şti. bünyesindeki uydu sistemleri, solar sistemler, seslendirme, ağ çözümleri, bilgisayar oem ürünleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İlkim",
+    "description": "İlkim Nerenin Malı Markasıİlkim, 1998 yılında kurulmuş olan İlkim Makina Kalıp Plastik San. ve Tic. Ltd. Şti. bünyesinde üretilen süpürge yedek parçaları, beyaz eşya ve küçük ev aletleri yedek parçaları markasıdır.Firma İzmir merkezlidir. Torbalı’da 10 bin 700 metrekarelik alanda bulunan tesisinde üretim yapmaktadır. Ürünlerini pek çok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eva Mia",
+    "description": "Eva Mia, 2013 yılında kurulmuş olan Hane Ev Gereçleri San. ve Tic. Ltd. Şti. bünyesinde üretilen cam, plastik ev eşyaları, bahçe aksesuarları, plastik mutfak gereçleri, sofra ve mutfak eşyaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meşeler",
+    "description": "Meşeler, 1997 yılında kurulmuş olan Meşe Mutfak Ev Gereçleri Ltd. Şti. bünyesinde üretilen sofra ve mutfak eşyaları, pişirme ekipmanları, tencere, tava, cezve, granit pişirme ekipmanları, demir, alüminyum, bakır pişirme ekipmanları markasıdır.Firma Konya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

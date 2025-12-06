@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Care Plus",
+    "description": "“Care Plus“1992 yılında kurulmuş olan Travel Health Group Holding B.V. bünyesindeki seyahat sağlık ürünleri markasıdır.ISO 9001 belgesine sahiptir.Travel Health Group Holding B.V. Hollanda merkezlidir ve ürünlerini 30’a yakın ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Kester",
+    "description": "“Kester“1899 yılında kurulmuş olan MacDermid Alpha Electronics Solutions bünyesinde üretilen lehim teli, sıvı lehim akısı, lehim pastası, yapışkan lehim akısı, ön formlar, çubuk lehim, yarı iletken ambalajlar için gelişmiş malzemeler markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.MacDermid Alpha Electronics Solutions 2019 yılında Amerika merkezli Element Solutions Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Unica",
+    "description": "“Unica“2001 yılında kurulmuş olan Boytem Boya ve Kimya San. Tic. Ltd. Şti. bünyesinde üretilen endüstriyel ve spor zemin kaplamaları markasıdır.Firma Düzce merkezlidir. Ürünlerini 3 bin metrekarelik kapalı alanda kurulmuş olan üretim tesisilerinde üretmektedir ve 50’den fazla ülkeye ihraç etmektedir.Acryflex TL UnicflexL UnicfloorPavercoatUnica",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ritnice",
+    "description": "“Ritnice“2015 yılında kurulmuş olan VR Bilişim San. ve Tic. Ltd. Şti. bünyesindeki üst giyim, şort ve bermuda, aksesuar, alt giyim, atlet, bandana, bluz, ceket, düğme, dış giyim, elbise, etek, gömlek, hırka, kazak, kimono ve kaftan, kumaş pantolon, pantolon, tayt, tişört, tulum, yelek markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fullbeauty",
+    "description": "“Fullbeauty“1901 yılında kurulmuş olan FullBeauty Brands Operations LLC. bünyesindeki hazır giyim ürünleri markasıdır.FullBeauty Brands Operations LLC 2015 yılında İngiltere merkezli Apax Partners LLP tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Gençay Baharat",
+    "description": "Gençay Baharat Nerenin Malı MarkasıGençay Baharat, 1950 yılında temeli atılan soğuk sıkma yağlar, aromatik (uçucu) yağlar, sabit yağlar, naturel karışım yağlar, esanslar, gıda aromaları, naturel sabunlar markasıdır.Türkiye’de soğuk sıkma bitkisel ve aromatik yağ imalatı ve baharat öğütme, paketleme işleri yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coversyl",
+    "description": "Coversyl, 1954 yılında Jacques Servier tarafından kurulan Groupe de Recherche Servier bünyesindeki ilaç ve e-sağlık çözümleri markasıdır.Les Laboratoires Servier, 146 ülkede faaliyet gösteren Fransa merkezli bir kuruluştur. Türkiye’de Servier İlaç ve Araştırma A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Grupo Antolin",
+    "description": "Grupo Antolin, 1950 yılında kurulan Grupo-Antolin Irausa SA bünyesindeki araç iç mekanları için bileşenler markasıdır.Kapılar, sert döşeme, aydınlatma, kokpitler ve konsollar üretmektedir.Grupo-Antonlin Irausa İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Farmec",
+    "description": "Farmec, 1889 yılında kurulan Farmec S.A. bünyesindeki kozmetik, kişisel hijyen, ev hijyeni markasıdır.Şirket güzellik ürünleri, ev hijyen ürünleri ve diğer kimyasal ürünler üretmektedir.Romanya merkezli Farmec S.A., Romanya’nın en büyük kozmetik üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RO",
+    "updated_date": null
+  },
+  {
+    "company": "BSA Manufacturing",
+    "description": "BSA Manufacturing, 1995 yılında kurulan BSA manufacturing Sdn Bhd bünyesinde üretilen alüminyum alaşımlı jant markasıdır.ISO 9001 belgesine sahiptir. Ürünleri 62’den fazla ülkede pazarlanmaktadır.BSA manufacturing Sdn Bhd Malezya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  }
+]

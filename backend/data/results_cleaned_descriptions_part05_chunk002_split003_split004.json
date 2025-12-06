@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hennes Herman",
+    "description": "Hennes Herman, 2018 yılında kurulan Hennes Hermann A.Ş. bünyesinde üretilen erkek giyim ürünleri markasıdır.Ürün yelpazesinde takım elbise, ceket, blazer, pantolon ve gömlek, ayakkabı, kemer gibi aksesuarlar yer alan firma ürünlerini Türkiye’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alphanova",
+    "description": "Alphanova, 2019 yılında kurulan Alphanova Sante bünyesinde üretilen organik kozmetik, organik bebek bakımı ve organik güneş kremi markasıdır.Alphanova Sante Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Soltis",
+    "description": "Soltis, 2020 yılında kurulan Dar Kozmetik Ticaret Ltd. Şti. bünyesinde üretilen organik ve doğal güneş ürünleri markasıdır.Organik sertifikasına sahiptir.Bünyesindeki markalar;SoltisZubio",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oliver Weber",
+    "description": "Oliver Weber, 1994 yılında kurulan Westa Gmbh bünyesindeki Swarovski kristalleri ile takı, moda aksesuarları, çanta, güneş gözlüğü, cüzdan, kemer markasıdır.Westa Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Sütse",
+    "description": "Sütse, 2008 yılında kurulan Gıdapark Gıda San. Tic. Ltd. Şti. bünyesinde üretilen süt, yoğurt, ayran, peynir markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Fte Automotive",
+    "description": "Fte Automotive, 1943 yılında kurulan FTE Automotive Group bünyesindeki otomotiv endüstrisi için güç aktarma organları ve fren sistemleri markasıdır.FTE Automotive Group, 11 üretim tesisine sahiptir.2016 yılında FTE Automotive Group Fransa merkezli Valeo S.A. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Fuchs Petrolub",
+    "description": "Fuchs Petrolub, 1931 yılında Rudolf Fuchs tarafından kurulan Fuchs Petrolub SE bünyesinde üretilen madeni yağ, özel otomotiv kimyasalları markasıdır.Fuchs Petrolub SE, Almanya merkezlidir ve 40’dan fazla ülkede, 50’nin üzerinde şirketi ile faaliyet göstermektedir.Türkiye’de OPET Petrolcülük A.Ş. ve Fuchs Petrolub SE şirketlerinin eşit paya sahip olduğu Opet Fuchs Madeni Yağ San. ve Tic. A.Ş. otomotiv ve endüstriyel yağlayıcılar ve oto bakım ürünlerinin üretim, satış ve satış sonrası hizmetlerini gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Movas",
+    "description": "Movas, 2012 yılında kurulan Movas Motor Vantilatör San. Tic. Ltd. Şti. bünyesinde üretilen fan, santrifüj fan, üfleyici, havalandırma sistemi, egzoz fanı, eksenel fan, endüstriyel fan, su pompası, kanal fanı ürünleri markasıdır.Üretiminin yüzde 80’ini çok sayıda ülkeye ihraç etmektedir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Heidelberger Druckmaschinen",
+    "description": "Heidelberger Druckmaschinen, 1850 yılında kurulan Heidelberger Druckmaschinen AG bünyesindeki ofset baskı makinesi markasıdır.Baskı öncesi ve baskı sonrası ekipman üretmektedir. Yaprak beslemeli ofset baskı ağırlıklı olarak kataloglar, takvimler, posterler ve etiketler gibi yüksek kaliteli, çok renkli ürünler için kullanılır.Heidelberger Druckmaschinen AG, Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Olevs",
+    "description": "Olevs, 2019 yılında kurulan Guangzhou Ouwo Trading Co. Ltd. bünyesinde üretilen mücevher, saat, takı markasıdır.Guangzhou Ouwo Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

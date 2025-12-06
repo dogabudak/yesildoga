@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Deepfresh",
+    "description": "Deepfresh, 2008 yılında kurulan Aksan Kozmetik bünyesinde üretilen kolonya, çocuk köpük sabun, şampuan ve saç kremi, aseton, bebek ıslak mendilleri, cilt bakımı, cilt temizleme, duş jeli, ıslak mendil, köpük sabun, pamuk ürünleri, pamuklu kişisel bakım, sıvı sabun, antibakteriyel ürünler markasıdır.Alkol, paraben, parfüm, ftalat, fenoxietanol, koruyucu boya içermemektedir.İstanbul’da 30 bin metrekarelik entegre üretim tesisinde üretim yapan firma ürünleri 85 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Calitte",
+    "description": "Calitte, 2008 yılında kurulan ofis koltuğu, çalışma koltuğu, ofis sandalyesi, büro koltuğu, oyuncu koltuğu, bilgisayar koltuğu, ofis mobilyası markasıdır.Türkiye’nin ilk yerli oyuncu koltuğunu üretmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dansuk",
+    "description": "Dansuk, 1972 yılında Nurkan Dansuk tarafından temelleri atılan Dansuk Mühendislik A.Ş. bünyesindeki güneş enerjisi çözümleri, solar cooling, hvac çözümleri, lg ofis çözümleri, online monitoring markasıdır.Dansuk Mühendislik, Türkiye dışında Ortadoğu, Balkanlar ve Avrupa’da ticari, konut ve kamu binalarının ihtiyaç duyduğu HVAC sistemleri tasarımı, kurulum, bakım, servis, danışmanlık ve mühendislik çözümlerini yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hero Motor",
+    "description": "Hero Motor, 1947 Brijmohan Lall Munjal Ji tarafından kurulan Hero Motocorp Limited bünyesindeki motosiklet ve scooter markasıdır.Şirket, dünyanın en büyük iki tekerlekli üreticisidir.Hero Motocorp Limited Hindistan merkezlidir ve ürünlerini Hindistan’da bulunan 3 fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Sumatra",
+    "description": "Sumatra, 1994 yılında kurulan Çalık Holding girişimi olarak kurulan Gap Pazarlama A.Ş. bünyesindeki dokunmuş veya dokunmamış kumaşlar, ev tekstil ürünleri: perde, yatak örtüsü, nevresim, çarşaf, yastık kılıfı, battaniye, yorgan, havlu, tekstil bayrak, flama, etiket, bebekler için kundak örtüleri, kamp uyku tulumu markasıdır.ISO 9001, ISO 14001, ISO 18001, WRAP, Sedex, 6 Sigma belgelerine sahiptir. Ürünlerini 40 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

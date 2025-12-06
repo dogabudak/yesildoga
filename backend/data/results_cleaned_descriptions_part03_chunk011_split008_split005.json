@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fermo",
+    "description": "Fermo, 2002 yılında Apaydın Metal Ürünleri San. Tic. A.Ş. bünyesinde kurulan bahçe, kümes teli markasıdır.Ürünlerini 20 bin metrekarelik kapalı alanda Türkiye’de üretmektedir.Ürün yelpazesinde galvanizli tel ve 50 ye yakın çeşitli çit ürünleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Itel Mobile",
+    "description": "2013 yılında kurulmuş olan Shenzhen Transion Holdings Co. Ltd. bünyesinde üretilen cep telefonları, tabletler ve aksesuarlar markasıdır.Shenzhen Transion Holdings Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.Bünyesindeki markalar:",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2025-09-17"
+  },
+  {
+    "company": "Kader",
+    "description": "Kader, 1948 yılında Ting Hsiung Chao tarafından kurulan Kader Industrial Company Limited bünyesindeki plastik el feneri markasıdır.Kader Industrial Company Limited Hong Kong merkezlidir. Oyuncak ve hobi ürünleri üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "BOE Technology",
+    "description": "BOE Technology, 1993 yılında Wang Dongsheng tarafından kurulan BOE Technology Group Co, Ltd. bünyesinde üretilen elektronik bileşenler markasıdır.Lcd, oled, esnek ekranlar, mikroled’ler, parmak izi sensörleri, optoelektronik sensörler, güneş panelleri üretmektedir ve dünyanın en büyük LCD, OLED ve esnek ekran üreticilerindendir.BOE Technology Group Co, Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hi-Text",
+    "description": "Hi-Text Hangi Ülkenin Malı MarkasıHi-Text, 1966 yılında kurulan Etafelt S.R.L. bünyesinde üretileni yazı gereçleri markasıdır.Permanent marker, tükenmez, fosforlu, keçeli, asetat gibi ürün çeşitlerine sahiptir.Etafelt S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

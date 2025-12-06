@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Color&Co",
+    "description": "Color&Co, 2019 yılında Loreal Group’un bir yan kuruluşu olarak kurulan saç boyası markasıdır.Ücretsiz saç danışmanlığı hizmeti vererek saç renginin mevcut durumu ve renk isteği hakkındaki görüşmeden sonra evde boyama için kişiselleştirilmiş bir kit sunmaktadır.Loreal Group hissedarları yüzde 33 hisse ile Fransız Françoise Bettencourt Meyers ile yüzde 23,29 hisse ile İsviçre merkezli Nestle’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tang İçecek",
+    "description": "Tang, 1923 yılında kurulan Mondelez International Inc. bünyesinde üretilen toz halinde karışımlar ve içecekler, meyve suları ve meyveli içecekler markasıdır.Mondelez International Inc. Amerika merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Naturmed",
+    "description": "Naturmed, 2004 yılında Mehmet Çalık tarafından kurulan Naturmed İlaç Kimya ve Kozmetik San. Tic. Ltd. Şti. bünyesinde üretilen gıda takviyesi markasıdır.Firma Antalya merkezlidir. Akdeniz Üniversitesi içerisinde bulunan üretim tesisinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Swift Yapıştırıcı",
+    "description": "Swift, 1887 yılında Harvey Benjamin Fuller tarafından kurulan H.B. Fuller Company bünyesindeki solvent bazlı ve solventsiz, reaktif poliüretan yapıştırıcılar, endüstriyel yüzey yapıştırıcıları, pek çok yapıştırma uygulamaları markasıdır.H.B. Fuller Company Amerika merkezlidir. Türkiye’de H. B. Fuller Kimya San. ve Tic. A. Ş. olarak Kocaeli’de üretim yapmaktadır.Bünyesindeki markalar;AdecolAdvantraBaconCILBONDChapcoChildersClarityClean MeltConformaCyberbondEternaBondFast 2KFlexelFlextraFortaneFosterFull-CareFullVisionGuntherIcemaIsapurKömmerlingParabondProspecRakollRapidexRoyalSesameSwiftTECThermonexTONSANWeld Mount",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Winsor & Newton",
+    "description": "Winsor & Newton, 1832 yılında William Winsor ve Henry Newton tarafından kurulan akrilik, yağlıboyalar, suluboya, opak suluboya, fırçalar, tuvaller, kağıtlar, mürekkepler, grafit ve renkli kalemler, işaretleyiciler gibi sanat malzemeleri markasıdır.Ürün yelpazesi fırçalar, boyalar, mürekkepler, kağıt, tuval ve aksesuarlardan oluşmaktadır.Winsor & Newton markası İngiltere merkezli Colart International Holdings Limited’e aittir. Ürünlerini İngiltere, Fransa ve Çin’de bulunan 10 üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

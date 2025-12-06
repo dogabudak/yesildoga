@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Secretage",
+    "description": "2012 yılında kurulmuş olan Secret Age Kozmetik San. Tic. Ltd. Şti. bünyesindeki göz çevresi kremi, güneş kremi, kırışıklık karşıtı markasıdır.Paraben, SLS, SLES ve likit parafin gibi zararlı kimyasallar içermez. Hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Loxy",
+    "description": "1970 yılında kurulmuş olan Loxy AS bünyesinde üretilen gelişmiş film ve folyo malzemeleri markasıdır.ISO 9001, ISO 14001 ve ISO 45001 belgelerine sahiptir.Loxy AS Norveç merkezlidir. Ürünlerini 15’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Klassegear",
+    "description": "2023 yılında kurulmuş olan Klasse Group Elektronik Ltd. Şti. bünyesindeki mouse pad, yapışkanlı tutuş bandı, notebook koruyucu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-07-18"
+  },
+  {
+    "company": "Jolen",
+    "description": "1947 yılında kurulmuş olan The Jolen Group bünyesindeki tüy dökücü kremler, tüy sarartıcılar markasıdır.The Jolen Group Amerika merkezlidir ve ürünleri 30’dan fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kerozan",
+    "description": "1975 yılında kurulmuş olan Drogsan İlaçları San. ve Tic. A.Ş. bünyesinde üretilen takviye edici gıda markasıdır.ISO 9001 belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

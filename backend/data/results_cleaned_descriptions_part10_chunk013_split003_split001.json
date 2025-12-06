@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mansory",
+    "description": "1989 yılında kurulmuş olan Mansory Design & Holding Gmbh bünyesindeki araç modifikasyon aksesuarları markasıdır.Mansory Design & Holding Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Honsun",
+    "description": "1990 yılında kurulmuş olan Honsun Co. Ltd. bünyesinde üretilen tansiyon aletleri, ENT entegre teşhis sistemi, termometre, otoskop markasıdır.Honsun Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Besser",
+    "description": "1904 yılında kurulmuş olan Besser Company bünyesindeki beton ürünler ekipmanı, blok makineleri, kalıplar, finişer makineleri, kürleme, boru makineleri, prekast, hazır karışım makineler ve parçaları markasıdır.Besser Company Amerika merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sogou",
+    "description": "2005 yılında kurulmuş olan Beijing Sogou Information Service Co. Ltd. bünyesindeki çevrimiçi arama hizmetleri markasıdır.Beijing Sogou Information Service Co. Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Musway",
+    "description": "2009 yılında kurulmuş olan Shenzhen Le Yu Lu Technology Co. Ltd. bünyesinde üretilen DSP amplifikatörler, işlemciler, amfiler, hoparlörler, subwoofer’lar, aksesuarlar markasıdır.Shenzhen Le Yu Lu Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

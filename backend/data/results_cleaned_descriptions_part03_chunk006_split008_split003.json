@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Borel",
+    "description": "Borel, 2020 yılından itibaren Eti Maden İşletmeleri Genel Müdürlüğüne bağlı fabrikalarda bordan üretilen el dezenfektan markasıdır.Bor katkılı el dezenfektanı; bor, etil alkol, gliserol, aloe vera, lavanta, çay ağacı, yağ ve su karışımıyla üretilmektedir.1993 yılında kurulan Eti Maden İşletmeleri, Türkiye’de bor ve türevlerini üreten, kamuya ait madencilik ve kimya şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Husky",
+    "description": "Husky, 1997 yılında kurulan Husky cz, s.r.o. bünyesinde üretilen kamp malzemeleri, turist sırt çantaları ve spor kıyafetleri markasıdır.Kamp malzemeleri, çadır, uyku tulumu, uyku matı, outdoor giyim ürünleri üretmektedir.Ürünleri 20’den fazla ülkeye ihraç edilmektedir.Husky cz, s.r.o. Çek Cumhuriyeti merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Kensa",
+    "description": "Kensa, 1999 yılında Tahir Halitoğlu tarafından kurulan Kensa GSM bünyesinde ithal edilen batarya, bluetooth kulaklık, ekran koruyucu, ev şarjı, fm modulator, kart okuyucu, kulaklık, müzik çalar, powerbank, tamir ürünleri, usb kablo markasıdır.Cep telefonu yedek parça ve aksesuarları sektöründe faaliyet gösteren Kensa GSM ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Santa Cruz Bicycles",
+    "description": "Santa Cruz Bicycles, 1993 yılında kurulan Santa Cruz Bicycles Inc. bünyesindeki bisiklet markasıdır.Geniş bir yelpazede karbon fiber veya alüminyumdan yapılmış bisikletleri kendi tesislerinde üretmektedir. Bisikletlerin her biri Amerika’daki fabrikasında el ile monte edilmektedir.Santa Cruz Bicycles Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Swisstone",
+    "description": "Swisstone, 1991 yılında Helmut Schweiger tarafından kurulan Ivs Gmbh Industrievertretung Schweiger bünyesindeki cep telefonu, iki yönlü radyo (PMR), bebek ekranı ve düşük radyasyonlu telefon markasıdır.Ivs Gmbh Industrievertretung Schweiger Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Tosla",
+    "description": "ToslaArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2019 yılında Akbank iştiraki olarak kurulmuş olan AKÖde Elektronik Para ve Ödeme Hizmetleri A.Ş. bünyesindeki ödeme hizmetleri markasıdır.KOBİ ve kurumsal şirketler için ödeme sağlayıcılığı hizmeti verirken, Sanal POS ve Link Ödeme ile tüm banka ve kredi kartlarından her zaman çevrimiçi ödeme alma, anlaşmalı kartlara taksit seçeneği sunmaktadır.Ön ödemeli Tosla kart ile fiziksel alışverişlerde kullanılabilir, dijital mobil temassız ve QR kod ödemelerinde kullanabilir, araç kiralama, fatura ödeme, kredi başvurusu gibi birçok finansal işlem yapılaiblir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Guhl",
+    "description": "GuhlArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1887 yılında kurulmuş olan Kao Corporation bünyesindeki saç bakım ürünleri markasıdır.Tüm formülleri hayvansal kökenli hiçbir bileşen içermez. Şampuan şişeleri yüzde 99 geri dönüştürülmüş malzemelerden üretilmektedir.Kao Corporation Japonya merkezlidir. Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Anisah Coffee",
+    "description": "Anisah CoffeeArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.Anişah Gıda San. ve Tic. Ltd. Şti. bünyesindeki Türk kahvesi, espresso, filtre kahve, kahve setleri, kapsül kahveler, soğuk kahve, yeşil kahve çekirdekleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ecobor",
+    "description": "EcoborArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2021 yılında kurulmuş olan Natural Bor Gübre Tarım Hayvancılık Ltd. Şti. bünyesinde üretilen organik sıvı bor gübre markasıdır.Ürünleri zararlı kimyasal içermemektedir.ISO 9001, ISO 1002, ISO 14001, ISO 27001, ISO 40001 belgelerine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 1002",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 40001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Van Kempen & Begeer",
+    "description": "Royal van Kempen & BegeerArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2007 yılında kurulmuş olan The Cookware Company Europe BVBA bünyesinde üretilen tencere markasıdır.The Cookware Company Europe BVBA Hollanda merkezlidir ve ürünleri 100’den fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;BK CookwareGeroGreen ChefGreen+LifeKeltumKochstarVan Kempen & BegeerVita+Verde",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

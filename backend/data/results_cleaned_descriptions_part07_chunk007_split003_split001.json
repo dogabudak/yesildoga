@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Estemed",
+    "description": "Estemed, 1962 yılında kurulmuş olan Atomizer Kozmetik Turizm ve Yapı San. Tic. A.Ş. bünyesinde üretilen makyaj ve makyaj temizleyicileri, cilt temizleyicileri, vücut bakım ürünleri, aktif doğal yağlar ve/veya özler içeren cilt bakım ürünleri, güneş bakım ürünleri, banyo temizlik ve bakım ürünleri, otel misafir ağırlama ürünleri, parfüm ve vücut kokuları, saç bakımı ve şekillendirici ürünler, bebek bakım ürünleri, anti bakteriyel ürünler ve ev kozmetik ürünleri markasıdır.ISO 9001, ISO 14000, ISO 45000, Cosmetics GMP, HELAL belgelerine sahiptir.Bünyesindeki markalar;AlnovaCarlaCle D’AmourEstemedKajalLilyumReva",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14000",
+      "ISO 45000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Drossa Pharm",
+    "description": "Drossa Pharm, 1972 yılında kurulmuş olan Drossapharm AG bünyesinde üretilen eczacılık ürünleri markasıdır.Drossapharm AG İsviçre merkezlidir. Şirketin ayrıca Almanya’da bir yan kuruluşu ve Vietnam’da üretim tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "F.Dick",
+    "description": "F.Dick, 1778 yılında kurulmuş olan Friedr. Dick Gmbh & Co. KG bünyesinde üretilen aşçı ve mutfak bıçakları, elektriksiz bileme aletleri markasıdır.Friedr. Dick Gmbh & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Eti Popkek",
+    "description": "Eti Popkek, 1962 yılında kurulmuş olan Eti Gıda A.Ş. bünyesinde üretilen vişneli, limonlu, muzlu, çikolatalı kek markasıdır.Firma Eskişehir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-29"
+  },
+  {
+    "company": "Creality Ender 3",
+    "description": "Creality Ender 3 Hangi Ülkenin Malı MarkasıdırCreality, 2014 yılında kurulmuş olan Shenzhen Creality 3d Technology Co. Ltd. bünyesinde üretilen üç boyutlu yazıcılar markasıdır.Shenzhen Creality 3d Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-04-16"
+  }
+]

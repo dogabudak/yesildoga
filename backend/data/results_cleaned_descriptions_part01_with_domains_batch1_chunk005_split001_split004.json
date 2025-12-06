@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Templeton",
+    "description": "Franklin Templeton Investments 1947 yılında Rupert H. Johnson, Sr. tarafından kurulan Amerikalı küresel bir fon yönetim şirketidir.Franklin Templeton Investments’ın Türkiye’deki iştiraki Franklin Templeton Danışmanlık Hizmetleri A.Ş.’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Acıbadem Sigorta",
+    "description": "Acıbadem Sigorta 1992 yılında Bayındır Sigorta adı ile kuruldu. 2004 yılında Acıbadem tarafından satın alınarak adı Acıbadem Sağlık ve Hayat Sigorta A.Ş. olarak değiştirildi.2013 yılında Malezya Hükümetinin stratejik yatırım fonu Avicennia Capital’e satıldı. 2018 yılında ise İngiliz sigorta devi Bupa’ya satıldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Nintendo",
+    "description": "Nintendo 1889 yılında Fusajiro Yamauchi tarafından kurulan küresel bir elektronik şirketidir.Kurulduğunda oyun kartları üreten Japon firma video oyun sektörüne girerek dünyanın en büyük oyun konsolu ve oyun geliştiricisi firmalarından birisi oldu.Nintendo Konsollar:GamecubeNESNintendo 64Nintendo SwitchNintendo WiiSNESWii UNintendo Taşınabilir konsollar:Game BoyGame Boy ColorGame Boy MicroGameboy AdvanceNintendo 3DSNintendo DSNintendo DSiNintendo Bazı oyun serileri:Captain FalconDonkey KongFire EmblemIce ClimbersLegend of ZeldaPokemonStarfoxSuper Mario",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Güney Afrika Şirketleri Listesi",
+    "description": "\"Güney Afrika Şirketleri Listesi\"\nABSAAspen GroupBidvestBlue Label TelecomCapitecCell CCheckersClicksCloverCountry RoadDiscoveryEngenEOHFirst National BankFoschiniGrowthpointHi Fi CorporationInvestecLibertyLife HealthcareMedia24MediclinicMomentumMondiMr PriceMTNMultiChoiceNedbankNetcareOUTsu raneePick ‘n PayRainbow ChickenRand Merchant BankSanlamSantamSappiSaskoSasolShopriteSouth African AirwaysSparStandard BankTelkomTongaat HulettTruworthsVodacomWesbankWoolworths",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ZA",
+    "updated_date": null
+  },
+  {
+    "company": "Alemdar Kimya",
+    "description": "Türkiye’de oleo yağ üretimi yapan Alemdar Kimya, Amerikan Cargill tarafından satın alındı. Cargill, 65 ülkede 142 bin çalışanı ile faaliyet gösteriyor.Türkiye’de ayçiçeği, kolza ve aspir gibi ürünlerden üretilen hammaddeler; tekstilden matbaya, yataktan transformatöre kadar birçok endüstriyel üründe kullanılıyor.Cargill’in ayrıca Ülker Grubu ile Pendik Nişasta da ortaklığı bulunuyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

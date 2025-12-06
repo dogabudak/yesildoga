@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Fanvil IP Telefon",
+    "description": "Fanvil, 2002 yılında kurulan Fanvil Technology Co. Ltd. bünyesindeki ses ve video- IoT cihazları markasıdır.Voip ürünleri, voip oem veya odm, ip telefon, interkom, otel telefonu, kulaklık ve kapı telefonu ürünlerine sahiptir.Fanvil Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Öztiryakiler",
+    "description": "Öztiryakiler, 1958 yılında kurulan Öztiryakiler Endüstriyel Mutfak San. ve Tic. A.Ş. bünyesinde üretilen endüstriyel mutfak ekipmanları markasıdır.Hotel, restoran, kafe, pastane grupları, mobil arazi mutfakları ve ekipmanları, askeri mutfaklar, hastane ekipmanları, okul ve fabrika mutfakları gibi endüstriyel mutfak sektörü alanında çeşitli ürün gruplarında, üretim ve servis sağlamaktadır. ISO 9001, ISO 14000, ISO 22000, ISO 22163 belgelerine sahiptir. Türkiye’de üretim yapan firma ürünlerini 130 ülkeye ihraç etmektedir.2019 yılında Japonya menşeli Hoshizaki Corporation firmaya yüzde 28,6 oranında ortak oldu.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14000",
+      "ISO 22000",
+      "ISO 22163",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2022-06-18"
+  },
+  {
+    "company": "Tackle House",
+    "description": "Tackle House, 1982 yılında kurulan Tacklehouse Co. Ltd. bünyesinde üretilen plastik yemler, olta takımı markasıdır.Ürün yelpazesi balıkçılıkta kullanılan malzemeleri içermektedir.Tacklehouse Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Sea-Bond",
+    "description": "Sea-Bond, 1949 yılında Ivan Combe tarafından kurulan Combe Incorporated bünyesinde üretilen protez yapıştırıcısı markasıdır.Yastıklı, yumuşak conta, protez macunlarının sızması ve karışması olmadan tüm gün tutmayı sağlar ve çinko içermez.Combe Incorporated Amerika merkezlidir. Ürünlerini 64 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Anet 3D Yazıcı",
+    "description": "Anet 3D Yazıcı Hangi Ülkenin Malı MarkasıdırAnet, 2015 yılında kurulan Anet Technology Co. Ltd. bünyesinde üretilen 3D yazıcı ve aksesuarları markasıdır.Önceden belirlenmiş bir yol boyunca erimiş malzemenin seçici olarak biriktirilmesiyle Kaynaşık Biriktirme Modellemesi (FDM) katman katmanında bir nesne oluşturulur. Malzemeler filament şeklinde gelen termoplastik polimerlerdir. Bu filamentler plastik ekstrüzyon yöntemi kullanılarak yapılır.RoHS ve ISO 9001 belgelerine sahiptir.Shenzhen Anet Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

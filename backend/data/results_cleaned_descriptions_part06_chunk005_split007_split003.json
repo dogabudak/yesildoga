@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bakış Pvc",
+    "description": "Bakış Pvc Nerenin Malı MarkasıBakış Pvc, 2004 yılında kurulan Bakış Pvc ve Yapı Elemanları A.Ş. bünyesinde üretilen akrilik panel, dolap kapısı, mutfak dolabı kapağı, membran ve parlak paneller markasıdır.İzmir merkezli firma ürünlerini 50 bin metrekarelik kapalı tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Motor Oil Kross",
+    "description": "Motor Oil Kross, 1980 yılında kurulan Khueell Petrokimya Otomotiv San. ve Tic. A.Ş. bünyesinde üretilen madeni yağ markasıdır.ISO 9001, TSE belgelerine sahiptir.İstanbul merkezli firma ürünlerini 30’dan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;KhueellMotor Oil KrossProfix",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Milpet",
+    "description": "Milpet, 2010 yılında kurulan Mil Madeni Yağ Petrol Ürünleri Kimya San. ve Tic. A.Ş. bünyesinde üretilen motosiklet yağları, fren sıvıları, endüstriyel yağlar, dizel motor yağları, dişli ve transmisyon yağları, benzinli motor yağları, antifrizler markasıdır.ISO 9001, ISO 14001, ISO 18001 belgelerine sahiptir.Ürünlerini Gebze’de bulunan 5 bin 500 metrekaresi kapalı ve 4 bin 500 metrekaresi açık alana sahip tesisinde üretmektedir.Bünyesindeki markalar;MiloilMilpetOlympusPetronoilRedwolf",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meda Ambalaj",
+    "description": "Meda Ambalaj, 1996 yılında kurulan Meda Ambalaj Kağıt Matbaa San. Tic. Ltd. Şti. bünyesinde üretilen ambalaj malzemeleri, ambalaj poşetleri, kağıt ve baskı ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Salter",
+    "description": "Salter, 1979 yılında kurulan Comercial Salter S.A. bünyesindeki jimnastik ve spor aletleri ile malzemeleri markasıdır.Firma profesyonel ve evsel kullanım için fitness, kardiyovasküler ve rehabilitasyon ekipmanları üretmektedir.Comercial Salter S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

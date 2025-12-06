@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Winkhaus",
+    "description": "Winkhaus, 1854 yılında Winkhaus ailesi tarafından kurulan Aug. Winkhaus Gmbh & Co. KG bünyesinde üretilen pencere ve kapılar için sistem çözümleri, erişim kontrol sistemleri markasıdır.Aug. Winkhaus Gmbh & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Outwell",
+    "description": "Outwell, 1984 yılında kurulan Oase Outdoors ApS bünyesindeki çadır ve kamp ekipmanları, araç tenteleri, mobilya ve aksesuarlar markasıdır.Aileler için kampçı ihtiyaçlarını karşılamaktadır.Oase Outdoors ApS Danimarka merkezlidir. Ürünlerini 45 ülkeye pazarlamaktadır.Bünyesindeki markalar;Easy CampOutwellRobens",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Sibur",
+    "description": "Sibur, 1995 yılında kurulan Sibur PJSC bünyesinde üretilen petrokimya ürünleri markasıdır.Firma hidrokarbon satın alıp bunları plastik, kauçuk ve diğer yüksek katma değerli ürünlere işlemektedir. Petrokimya ürünlerini Olefinler ve Poliolefinler (polipropilen, polietilen, BOPP filmler, vb.) ve Plastikler, Elastomerler ve Ara Ürünler (sentetik kauçuklar, EPS, PET, vb.) olarak iki iş segmentinde satmaktadır.Sibur PJSC Rusya merkezlidir. Ürünleri 80 ülkede kullanılmaktadır. Avusturya, ve İstanbul’da birer, Çin’de 5 ofise sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Rani Çitfliği",
+    "description": "Rani Çitfliği, 1994 yılında kurulan Sezer Turizm Eğitim Sağlık Gıda San. ve Tic. A.Ş. bünyesinde üretilen süt ve süt ürünleri markasıdır.ISO 22000 belgesine sahiptir.Firma Antalya merkezlidir. 250 bin metrekarelik alana sahip çiftliğinde her türlü, süt, peynir çeşitleri ve sebzeler doğal yollarla üretilmektedir.Bünyesindeki markalar;Housez Suites & ApartmentsRani ÇiftliğiRaniSelara DesıgnSezer Club Grand AquaSezer Club Grand SideSezer Group",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bestof",
+    "description": "Bestof, 2021 yılında kurulan Özgür Shoes Ayakkabıcılık San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 45001 belgelerine sahiptir.İstanbul merkezli firma ürünlerini toplam 13 bin metrekarelik kapalı alanda bulunan tesislerinde üretmektedir.Bünyesindeki markalar;B7Bestof",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

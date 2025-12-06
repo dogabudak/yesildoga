@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Çizi",
+    "description": "Çizi Nerenin Malı MarkasıÇizi, Ülker Bisküvi San. A.Ş. bünyesinde üretilen peynirli kıraker, bisküvi, peynirli milföy markasıdır.Soya ve palm yağı içermektedir.Ülker Bisküvi San. A.Ş.’nin sahibi Yıldız Holding A.Ş.’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beach Queen",
+    "description": "Beach Queen, 2005 yılında kurulan Baymet Dış Tic. Ltd. Şti. bünyesindeki çocuk plaj ve kamp sandalyesi, plaj şemsiyeleri, plaj aksesuarları, plaj havluları, plaj ve kamp şezlongları, plaj ve kamp masaları, plaj ve kamp sandalyeleri ve çeşitli aksesuarlar markasıdır.ISO 9001 ve ISO 10002 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elong Electronics",
+    "description": "Elong, 2008 yılında kurulan Guangzhou Elong Electronics Technology Co. Ltd. bünyesindeki bilgisayar kasası, güç kaynağı, lcd, led ekran ve lcd, led televizyon, eled televizyon markasıdır.ISO 9001 belgesine sahiptir.Guangzhou Elong Electronics Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;ChangmingGokonHsLianjieSonboyWenke",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Selinay Helva",
+    "description": "Selinay Helva, Seyhanlar Gıda Paz. San. ve Tic. Ltd. Şti. bünyesinde üretilen helva, reçel, simitlik, susam, tahin, lokum ve kakaolu fındık kreması markasıdır.Ürünlerini Samsun OSB’de 10 bin metrekarelik açık 6 bin metrekarelik kapalı alanda bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eti Nero",
+    "description": "Nero, 1990 yılında piyasaya sürülen kakaolu kremalı bisküvi markasıdır.Soya, glikoz-fruktoz şurubu, palm, ayçiçek, pamuk, kanola yağı içermektedir.Nero, Eti Gıda A.Ş. tarafından üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-11"
+  }
+]

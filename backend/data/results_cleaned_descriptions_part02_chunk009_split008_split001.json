@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Tomcat",
+    "description": "Tomcat, 1868 yılında Orlando M. Scott tarafından kurulan The Scotts Company LLC bünyesindeki çim ve bahçe bakımı ürünleri markasıdır.The Scotts Company LLC Amerika merkezlidir.The Scotts Company LLC bünyesindeki markalar:Black MagicBlossomBovungCan-FiltersEarthgroEcoscrapsGavita Holland B.V.General HydroponicsGreenlightHawthorne Gardening CompanyHyponexMiracle-GroOrtho ElementalsOsmocotePathclearScotts EcosenseScotts Lawn ServiceSupersoilTOMCATVermicrop OrganicsWeedolWhitney FarmsTomcat markasıyla farklı şirketlere ait çok sayıda farklı ürün bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Blenior",
+    "description": "Blenior, 2006 yılında kurulan Treda Hızlı Tüketim Ürünleri Satış ve Dağıtım Limited Şirketi bünyesindeki tüy dökücü krem ürünleri markasıdır.Treda yüzde 100 Türk sermayeli bir şirkettir 2016 yılından beri Eczacıbaşı Tüketim Ürünleri tarafından dağıtımı yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Helix Jump",
+    "description": "Helix Jump, 2013 yılında Alexandre Yazdi ve Laurent Ritter tarafından kurulan Voodoo SAS bünyesinde hazırlanan video oyunu yazılımıdır.Fransa merkezli Voodoo SAS, Android ve iOS işletim sistemine sahip cihazlar için ücretsiz gündelik oyunlar üzerinde çalışmalar yapmaktadır. Oyunlarının indirilme sayısı 2 milyarı geçmiş durumdadır.2018 yılında şirkete Amerika bankacılık şirketi Goldman Sachs, West Street Capital Partners VII fonu aracılığıyla 200 milyon dolar yatırım yaptı.Bünyesindeki markalar:Animal Rescue 3Daquapark.ioBall BlastBall Mayhem!Color RoadCrazy Kick!Crowd CityDraw RaceFlip DunkGrass CutHelix JumpHole.ioKnock BallsLeaf Blower 3DPaper.io 2Purple DiverRoller Splat!Snaker.io !Swing RiderTouch The Wall",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Smart Kapp",
+    "description": "Smart Kapp, 1987 yılında kurulan SMART Technologies ULC bünyesinde üretilen akıllı tahta markasıdır.Akıllı tahtalar yazılım ve donanımla birlikte eğitim ve iş dünyası için kullanılan yeni nesil teknolojik tahtalardır.SMART Technologies ULC Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Saloon Pamuklu Kulak Çubuğu",
+    "description": "Saloon, 1945 yılında Hacı Sultan Yıldız tarafından kurulan Sultanlar Grup şirketi Tibet İth. İhr. ve Kozmetik Sanayi A.Ş. bünyesindeki sıvı sabun, duş jeli, oda spreyi, köpük sabun, pamuk, pamuklu çubuk, aseton, vazelin markasıdır.İstanbul’da 80 bin metrekarelik kapalı alanda üretim yapan yüzde yüz Türk sermayeli bir kuruluştur. Ürünlerini 55 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

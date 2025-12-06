@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Majolika Halı",
+    "description": "“Majolika“2023 yılında kurulmuş olan Majolika İthalat İhracat A.Ş. bünyesindeki makine halısı ve kilim markasıdır.Firma İstanbul merkezlidir. Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vi-Vax",
+    "description": "“Vi-Vax“1999 yılında kurulmuş olan Vi-Vet Kozmetik San.Tic. A.Ş. bünyesinde üretilen kartuş azulen, kartuş pudralı, konserve salatalık, sir ağda markasıdır.İstanbul merkezli firma ürünlerini İkitelli OSB’de bulunan 6 bin metrekarelik tesisinde üretmektedir ve birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;Vi-VaxVi-Vet",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sting Enerji İçeceği",
+    "description": "“Sting“2002 yılında kurulmuş olan Rockstar Inc. bünyesinde üretilen enerji içeceği markasıdır.Sitrik asit, yapay tatlandırıcı, sodyum benzoat, maltodekstrin, sodyum sitrat, sodyum heksametafosfat, potasyum sorbat, kafein, tartrazin, inositol gibi malzemeler içermektedir.Rockstar Inc. 2020 yılında Amerika merkezli Pepsico Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Homa Pompa",
+    "description": "“Homa“1946 yılında kurulmuş olan Homa Pumpenfabrik Gmbh bünyesinde üretilen pompalar, kaldırma sistemleri, karıştırıcılar ve pervaneli pompalar markasıdır.Homa Pumpenfabrik Gmbh Almanya merkezlidir ve ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Elart",
+    "description": "“Elart“2001 yılında kurulmuş olan Elart Home Tekstil A.Ş. bünyesindeki çeyizlik ürünler, banyo grubu, dekorasyon, sofra tekstili, yatak odası markasıdır.Firma Bursa merkezlidir ve ürünlerini 50’ye yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-09-21"
+  }
+]

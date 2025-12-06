@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Mapco",
+    "description": "Mapco, 1977 yılında kurulan Mapco Autotechnik Gmbh bünyesinde üretilen tahrik treni ve rulmanlar, fren sistemi, elektrik ve aksesuarlar, süspansiyon ve direksiyon, motor ve filtre markasıdır.Fren balataları, diskler, yağ filtreleri, süspansiyon kolları ve diğerleri gibi çeşitli elemanlar üretmektedir.Mapco Autotechnik Gmbh, 2019 yılında Amerika merkezli BBB Industries LLC tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ella Sabun",
+    "description": "Ella, 1997 yılında kurulan ASC Sabun ve Kimya San. Tic. A.Ş. bünyesinde üretilen sabun markasıdır.Firma ürünlerii İstanbul Organize Deri Sanayi Bolgesi’nde bulunan tesisinde üretmektedir.Bünyesindeki markalar;EllaFabienneHappy",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ülker Cocostar",
+    "description": "Ülker Cocostar Nerenin Malı MarkasıCocostar, Ülker Çikolata San. ve Tic. A.Ş. tarafından üretilen hindistan cevizi ve sütlü çikolata markasıdır.Soya, glukoz şurubu ve palm yağı içermektedir.Ülker Bisküvi San. A.Ş.’nin sahibi Yıldız Holding A.Ş.’dir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gdiff",
+    "description": "Gdiff, 2008 yılında kurulan ACH Medical Co. Ltd. bünyesinde üretilen diş implantları, tıbbi cihazlar markasıdır.Implantlar dışında, rijit tıbbi endoskoplar, tıbbi endoskoplar, tıbbi ve cerrahi laparoskoplar, non-invaziv cerrahi için tıbbi cihazlar üretmektedir.ACH Medical Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Mars Dondurma",
+    "description": "Mars Dondurma, 1932 yılında Mars Incorporated bünyesinde üretilen bar, çikolata, karamel, nugat ve dondurma markasıdır.Glikoz şurubu, soya lestini ve palm yağı içermektedir.Mars Incorporated, paketlenmiş gıda ürünleri üretmektedir. Şirket şekerleme, içecek, evcil hayvan maması ve diğer gıda ürünleri ile hayvan bakım hizmetleri üretmektedir.Mars Incorporated Amerika merkezlidir. Amerika ve çok sayıda ülkede üretim tesisleri bulunmaktadır.Bünyesindeki markalar;3 Musketeers5 GumAltoids PeppermintsAmerican Heritage ChocolateAmicelliBalisto BarBountyCelebrationsCombosDoublemintDove ChocolateEclipseEthel M ChocolatesGalaxyGoodnessKnowsHubba BubbaJuicy FruitLife SaversM&M’sMaltesersMars BarMilky Way BarMy M&M’S ChocolateOrbitWrigley’s Big Red",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

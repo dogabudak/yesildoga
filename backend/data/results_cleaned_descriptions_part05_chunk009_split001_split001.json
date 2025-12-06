@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Arisco",
+    "description": "Arisco, 1979 yılında Sedat Baykal ve Behçet Mercan Gözegir tarafından kurulan Çözüm Mutfak San. Tic. A.Ş. bünyesinde üretilen endüstriyel mutfak ürünleri markasıdır.Ürünleri arasında bulaşık yıkama makinesi, pişirici cihazlar, ızgara, fritöz, fırın, makarna haşlama, ocak, kuzine, kaynatma tenceresi, devrilir tava, servis üniteleri, banket üniteleri, muhtelif aktarma arabaları, muhtelif paslanmaz çelikten mamul tezgah, raf, istif rafı, davlumbaz gibi ürünler yer almaktadır.İzmir merkezli firma ürünlerini 80’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pensil",
+    "description": "Pensil, 2014 yılında kurulan Pensil Dayanıklı Tüketim Malları Tic. Ltd. Şti. bünyesinde üretilen cam temizliği ürünleri markasıdır.Ürünleri arasında çift taraflı mıknatıslı çift cam temizleyici aparatlar, ulaşılması zor ve iş güvenliği riski oluşturan camların temizliği için ürünler yer almaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vermop",
+    "description": "Vermop, 1927 yılında Max ve Else Salmon tarafından kurulan Vermop Salmon Gmbh bünyesinde üretilen çeşitli temizlik ekipmanları, sistemleri ve aksesuarları markasıdır.Vermop Salmon Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ailipu",
+    "description": "Ailipu, 1997 yılında kurulan Zhejiang Ailipu Technology Co. Ltd. bünyesinde üretilen otomatik dozaj pompası, dozaj kızakları, sıvı katkı endüstrisi, solenoid dozaj pompası, mekanik diyaframlı dozaj pompası, hidrolik diyaframlı dozaj pompası, pistonlu dozaj pompası ve dozaj sistemi markasıdır.Zhejiang Ailipu Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.ISO 9001, ISO 14001 ve ISO 18000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Thetford",
+    "description": "Thetford, 1963 yılında kurulan Thetford B. V. bünyesinde üretilen denizcilik, kamp ve kamyon pazarları için dünyanın önde gelen tuvalet ve ilgili sanitasyon ürünleri markasıdır.Thetford B. V., Amerika merkezli Dyson-Kissner-Moran Corporation’ın bir parçasıdır.Bünyesindeki markalar;Centre FoundryConcord American FlagpoleCoto TechnologyHapcoNorcoldPlaid Creative GroupTCE ExtrusionsThetford",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

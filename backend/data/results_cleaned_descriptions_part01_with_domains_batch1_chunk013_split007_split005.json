@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Akel Ev Aletleri",
+    "description": "Akel ev aletleri, 2001 yılında kurulan Beliva Mutfak Eşyaları San. ve Tic. Ltd. Şti. bünyesine 2007 yılında katıldı.Ürün grubunda davul fırın, midi fırın, barbekü, ızgara, pizza tavası, tost makinesi, katmer veya kavurma sacı, kettle ve su ısıtıcı, çay otomatı, ocak, gazlı ocak, elektrikli quartz ısıtıcılar bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yupiteru Ülke",
+    "description": "Yupiteru, 1970 yılında kurulan Yupiteru Industries Co. Ltd. bünyesindeki radyo, radar ve telekomünikasyon ekipmanları markasıdır.Yupiteru Industries otomobil güvenlik ekipmanları ve elektrik ekipmanları (transformatörler/inverterler) üreten Japonya merkezli elektronik imalat şirketidir.Firmanın Tokyo dışında Çin ve Hong Kong tesisleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Yaskawa",
+    "description": "Yaskawa, 1915 yılında Keiichiro Yasukawa tarafından kurulan Yaskawa Electric Corporation bünyesindeki servo motor, hareket kontrolörü, AC motor sürücüsü, switch ve endüstriyel robot, kaynak, paketleme, montaj, kaplama, kesme, tutma-taşıma ve genel amaçlı kullanılan Motoman robotların markasıdır.Yaskawa Electric Corporation Japonya merkezli Elektronik ve Robotik üretim şirketidir.2013 yılından itibaren YASKAWA Turkey Elektrik Ticaret Limited Şirketi unvanı ile İstanbul Genel Merkezi’nde, Sürücü, Hareket Kontrol Sistemleri ve Endüstriyel Robot Çözümleri ile endüstriyel otomasyon alanında satış, uygulama, eğitim, servis ve bakım bölümleri ile faaliyetlerini sürdürmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "ÇBS Ülke",
+    "description": "ÇBS Hangi Ülke MalıÇBS (Çavuşoğlu Boya Sanayi) 1943 yılında Şaban, Recep ve Abdülkadir Çavuşoğlu kardeşler tarafından kurulan boya markasıdır.Çbs Boya A.Ş 1962 yılında boya üreticilerinden ICI ile lisans anlaşması imzalayarak otomotiv boyaları üretmeye başladı. 1971 yılında Alman mürekkep üreticisi Hostmann-Steinberg ile mürekkep sektörüne girdi. 1994 yılında Japon Shinto Co.Ltd. ve Japon Itochu Corporation şirketlerinin ortaklığı ile boya ve mamülleri başta olmak üzere her türlü kimyevi ürünün toptan ithalat, ihracat ve ticareti konularında faaliyet gösteren ilk yabancı ortaklığı ÇBS Shinto A.Ş. kurulmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "TrekStor",
+    "description": "TrekStor, 2004 yılında kurulan TrekStor GmbH & Co. KG bünyesindeki MP3 çalar, sabit disk sürücüleri, tablet bilgisayar ve USB flash sürücüsü, dijital medya oynatıcı markasıdır.2009 yılında TrekStor GmbH şirketini Hong Kong merkezli Telefield International Holdings Limited elektronik üreticisi satın aldı.TrekStor markaları:DataStationMovieStationvibezi.Beat",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

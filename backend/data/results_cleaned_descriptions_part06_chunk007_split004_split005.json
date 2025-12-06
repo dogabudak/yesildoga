@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Agrover",
+    "description": "Agrover, 1955 yılında kurulan Agrover S. R. L. bünyesinde üretilen pirinç konvansiyonel ve organik, orta, yuvarlak, uzun taneli pirinç, loto ve baldo pirinci tamamen doğal veya camolino, doğu pirinci, basmati ve yasemin piriçleri markasıdır.UNI EN ISO 9001, IFS Food, BRC Food belgelerine sahiptir.Agrover S. R. L. İtalya merkezlidir ve ürünlerini İtalya’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "BRC",
+      "IFS",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Anchor Ingredients",
+    "description": "Anchor Ingredients, 2015 yılında kurulan Anchor Ingredients Co. LLC bünyesindeki insan ve evcil hayvan tüketimi için çeşitli gıda maddeleri markasıdır.Şirket tarafından satılan malzemeler arasında dağıtım için dünyanın dört bir yanından ithal edilen ürünler ile yerel olarak yetiştirilen ve daha sonra tesislerde işlenen baharat, tatlandırıcı, tohum, baklagil, kuruyemiş vs. ürünler yer alıyor.Anchor Ingredients Co. LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Errea",
+    "description": "Errea, 1988 yılında kurulan Errea Sport S.p.A. bünyesinde üretilen teknik spor giyim ürünleri markasıdır.Dokumalar tehlikeli düzeyde formaldehit içermez. OEKO-TEX belgesine sahiptir.Errea Sport S.p.A. İtalya merkezlidir ve ürünlerini 80 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "ZTE Axon",
+    "description": "ZTE Axon, 1985 yılında kurulan Zte Corporation bünyesinde üretilen akıllı telefon, telefon kılıfı ve kasası, ekran koruyucu markasıdır.Zte Corporation Çin merkezlidir ve Çin’de ürettiği ürünleri 160’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;AnyserviceAxonEye WillGotaNgccZteZte AxonZte BladeZte DipperZte IstanbulZte PolarZte Tomorrow Never WaitsZte TurkeyZte Zhong Xıng",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bareminerals",
+    "description": "Bareminerals, 1995 yılında kurulan US Buyer LLC bünyesinde üretilen cilt bakım ürünleri ve makyaj ürünleri markasıdır.Ürünleri sert kimyasallar ve gereksiz katkı maddeleri içermez ve bitki özleri ve doğal mineraller içerir. Hayvanlar üzerinde test edilmemektedir.US Buyer LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

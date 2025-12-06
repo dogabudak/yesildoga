@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fontana",
+    "description": "Fontana, 1956 yılında kurulan Fontana Group bünyesindeki otomotiv, alüminyum, biw üretimi, kalıp konstrüksiyonu, mühendislik, damgalama, montaj, sıcak şekillendirme, darbe şekillendirme markasıdır.Fontana Grubu; mühendislik, inşaat ve damgalama kalıpları ve en lüks otomobiller için beyaz çelik ve alüminyum gövde montajı olarak üç bölümede faaliyet göstermektedir.Fontana Group İtalya merkezlidir. İtalya, Türkiye ve Romanya’da üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Abitibi-Consolidated",
+    "description": "Abitibi-Consolidated, 1997 yılında kurulan Abitibi Consolidated Inc. bünyesindeki kağıt hamuru ve kağıt, ahşap ürünleri markasıdır.Gazete kağıdı, kaplamasız ahşap zemin, ahşap ürünleri, geri dönüşüm hizmetleri sunmaktadır.Abitibi Consolidated Inc. Kanada merkezlidir. Kanada, Amerika ve Birleşik Krallık’ta üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Meyane&Ru",
+    "description": "Meyane&Ru Nerenin Malı MarkasıMeyane&Ru, İdil Ocak ve Ebru Ergüler Karadeniz tarafından kurulan Ru Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen et suyu, tavuk suyu, sebze suyu, kemik suyuna börülceli mercimek çorbası, kemik suyuna köz biberli patates çorbası, mercimek çorbası markasıdır.Ürünlerinde hiçbir katkı maddesi, mono sodyum glutamat koruyucu, renklendirici yoktur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Başhan",
+    "description": "Başhan, 2005 yılında kurulan Başhan Tarımsal Ürünler A.Ş. bünyesindeki mercimek, bulgur, pirinç üretimi, bakliyat ve yem markasıdır.Dünyanın farklı ülkelerinden hububat, bakliyat ve yağlı tohum çeşitleri ithal etmektedir ve yerli mahsul ürünleri fabrikasında üretmektedir. Firmanında Rusya’da bakliyat işleme, Kırgızistan’da mercimek üretim ve bakliyat işleme tesisleri; Ukrayna, Kazakistan, Dubai’de satın alma ve ticari amaçlı kurulmuş şirketleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ta!da!",
+    "description": "Ta!da!, 1997 yılında kurulan UNIFO Gıda Sanayi ve Ticaret A.Ş. bünyesindeki ambalajlı hazır yemek, sandviç, konserve ve outdoor rasyon markasıdır. UNIFO, Süleyman Uyar tarafından kurulan 1978 yılında kurulan UYAR Şirketler Topluluğu’nun bir üyesidir.Kocaeli’de sebze, baklagiller, hububat ve et ürünleri, unlu mamullerden mikrodalgaya uygun ambalajda ortam koşullarına dayanıklı hazır yemek üretimi yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

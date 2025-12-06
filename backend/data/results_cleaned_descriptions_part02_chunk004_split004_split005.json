@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Arifoğlu",
+    "description": "Arifoğlu, 1994 yılında kurulan Arifoğlu Doğal ve Organik Ürünler San. ve Tic. Ltd. Şti. bünyesinde üretilen baharat, bitki çayları, bitkisel yağlar, pekmez, organik ürünler, arı ürünleri, sos, salça, macun ve doğal kozmetik ürünleri markasıdır.Vanilya’yı Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-07-17"
+  },
+  {
+    "company": "Würth",
+    "description": "Würth, 1945 yılında Adolf Würth tarafından kurulan Adolf Würth GmbH & Co. KG bünyesindeki vida, civata, somun, pul, dübel, kimyasal ürünler, el aletleri, makineler, mobilya aksesuarları, inşaat aksesuarları, depolama ve stok yönetim sistemlerini içeren ürünlerin markasıdır.Avusturya merkezli Würth Grubu 80’den fazla ülkede, 400’den fazla şirket ile hizmet veriyor.Würth Sanayi Ürünleri Tic.Ltd.Şti. Türkiye’de 1989 yılında Otomotiv Bölümü ile kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Klöckner Pentaplast",
+    "description": "Klöckner Pentaplast, 1965 yılında kurulan ilaç, medikal cihaz, gıda, içecek ve kart pazarlarına hizmet veren sert ve esnek paketleme, baskı ve özel çözümler markasıdır.Klöckner Pentaplast grubu Almanya merkezli, 18 ülkede hizmet veren bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Legrand Elektrik",
+    "description": "Legrand Elektrik, 1860 yılında Legrand ailesi tarafından kurulan trafo, şalt ürünleri, dağıtım panoları, kesintisiz güç kaynağı, kablo taşıma sistemleri, anahtar priz, ev otomasyon sistemleri, acil durum aydınlatma ürünleri, yapısal kablolama ve aydınlatma kontrol sistemleri markasıdır.Legrand 180 ülkede faaliyet gösteren Fransa merkezli bir şirkettir.Türkiye pazarına 1990 yılında Bufer Elektrik’i satın alarak Legrand Elektrik Sanayi A.Ş. adıyla girdi. 1992 yılında Gebze’de fabrika kurdu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2019-07-17"
+  },
+  {
+    "company": "TSMC",
+    "description": "TSMC, 1987 yılında Morris Chang tarafından kurulan yarı iletken, aydınlatma ve güneş enerjisi ürünleri markasıdır.TSMC, Tayvan merkezli Taiwan Semiconductor Manufacturing Company, Limited bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

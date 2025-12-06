@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Raw Naturals Brewing Co",
+    "description": "Raw Naturals Brewing Co.2017 yılında kurulmuş olan Kramportföljen AB bünyesinde üretilen yüz, saç ve vücut bakımı ürünleri markasıdır.Kramportföljen AB İsveç merkezlidir ve ürünlerini İsveç’te üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Bizbize Gofret",
+    "description": "Bizbize1994 yılında kurulmuş olan Bizbize Ak Gıda San. Tic. A.Ş. bünyesinde üretilen bisküviler, gofretler, marshmallow, sandviç bisküvi, kakaolu fındık kreması, kekler, pastalar, digestive bisküviler, krakerler markasıdır.Ürünleri glukoz ve fruktoz şurubu içermemektedir.ISO 9001, TSE, Helal belgelerine sahiptir.Firma Kayseri merkezlidir. Ürünlerini Kayseri OSB’de 15 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Svs Aydınlatma",
+    "description": "Svs Aydınlatma2019 yılında kurulmuş olan Svs Aydınlatma San. ve Tic. Ltd. Şti. bünyesindeki iç ve dış mekan aydınlatma ürünleri, acil aydınlatma, endüstriyel aydınlatma, ex-proof aydınlatma, lambalar, mimari sarkıt, park ve bahçe aydınlatma ürünleri, sensörler ve sürücüler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Super Expert",
+    "description": "Super Expert1978 yılında kurulmuş olan Kırmak Makine Pazarlama A.Ş. bünyesindeki kaynak makineleri, boru pafta makineleri, tesisatçı aletleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Gordon XIsap TaubeKırmakMatsumotoMiyazakiSuper ExpertTayrexZone4ride",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Blendblack",
+    "description": "Blendblack2004 yılında kurulmuş olan Yörpaş Gıda San. ve Tic. A.Ş. bünyesindeki çaylar, çekirdek kahve, özel kahveler, şuruplar, ekipmanlar, espresso, filtre kahve, hazır kahve, Türk kahvesi, tatlı İçecekler markasıdır.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-06"
+  }
+]

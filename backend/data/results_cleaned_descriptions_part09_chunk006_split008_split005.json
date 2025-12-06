@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Yumpu",
+    "description": "“Yumpu“2007 yılında kurulmuş olan i-magazine AG bünyesindeki elektronik yayıncılık platformu markasıdır.i-magazine AG İsviçre merkezli Adrom Holding AG’nin yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Sultan Sucuk",
+    "description": "“Sultan“1973 yılında kurulmuş olan Sultan Et ve Gıda Ürt. Tic. ve Paz. Ltd. Şti. bünyesinde üretilen taze et ve et ürünleri markasıdır.ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.Firma Ankara merkezlidir. Türkiye’nin farklı yerlerinde bulunan 5 bölge müdürlüğü ve bu bölge müdürlüklerine bağlı bayii ağı ve yerel zincir marketler kanalıyla hizmet vermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "AE Live",
+    "description": "“AE Live“1992 yılında kurulmuş olan Retail Royalty Company bünyesindeki televizyon grafikleri ve veri çözümleri markasıdır.Spor sektörüne yönelik sanal reklamcılık ve OTT uygulama geliştirme hizmetleri, birden çok dilde çok çeşitli platformlarda sanal stüdyolar, haber odası grafik sistemleri ve stadyum içi yayınlar yapan bir medya şirketidir.Retail Royalty Company İngiltere merkezlidir. Güney Afrika, Hindistan, Avustralya, ABD, Yeni Zelanda ve Malezya’da yan kuruluşlara sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ori",
+    "description": "“Ori“1997 yılında kurulmuş olan Başar Çay Gıda San. Tic. Ltd. Şti. bünyesinde üretilen aromalı toz içecekler ve kahve markasıdır.Firma Samsun merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hazz",
+    "description": "“Hazz“2003 yılında kurulmuş olan Betamark Gıda San. Yatırım A.Ş. bünyesindeki çikolata ve makaron markasıdır.ISO 9001 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

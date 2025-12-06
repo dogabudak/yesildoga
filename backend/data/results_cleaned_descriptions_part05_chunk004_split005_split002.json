@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Lazımbana",
+    "description": "Lazimbana.com 2006 yılında kurulan Çetin Teknoloji Ltd. Şti. bünyesindeki e-ticaret sitesidir.Cep telefonu, elektronik, ev dekorasyonu, oto yedek parça, parti malzemeleri, pet shop, süpermarket gibi kategorilerde ürünler, satıcılar tarafından site üzerinden müşterilere sunulmaktadır.Çetin Teknoloji Ltd. Şti. İstanbul merkezli Türk sermayeli elektronik ticaret yazılımları geliştiren firmadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Phillips 66",
+    "description": "Phillips 66, 1927 yılında L.E. ve Frank Phillips tarafından kurulan Phillips 66 Company bünyesindeki doğal gaz, havacılık yakıtları, motor yakıtları, petrokimya, yağlayıcılar markasıdır.Şirket doğal gaz sıvıları ve petrokimya üretimi yapmaktadır. Dünya çapında 65’ten fazla ülkede faaliyet göstermektedir.Phillips 66 Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nature Nate’s",
+    "description": "Nature Nate’s Hangi Ülkenin Malı MarkasıNature Nate’s, 1972 yılında Fred Richardson tarafından kurulan North Dallas Honey Company LP bünyesindeki ham ve filtrelenmemiş yüzde 100 saf bal markasıdır.North Dallas Honey Company, LP Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Trixie",
+    "description": "Trixie, 1974 yılında Bonnik Hansen tarafından kurulan Trixie Heimtierbedarf GmbH & Co. KG bünyesindeki evcil hayvan malzemeleri markasıdır.Köpekler, kediler, kuşlar, küçük hayvanlar ve sürüngenler için ürün yelpazesine sahiptir.Trixie Heimtierbedarf GmbH & Co. KG Almanya merkezlidir ve ürünlerini 88 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Patanjali Ayurved",
+    "description": "Patanjali Ayurved, 2006 yılında kurulan Patanjali Ayurved Limited bünyesindeki kişisel bakım, kozmetik, ayurveda ürünleri ve gıda ürünleri, el dezenfektanı, ghee ve bitkisel diş macunu, temizlik maddeleri, yemler, içecekler markasıdır.Şirketin ayrıca giyim mağazaları bulunmaktadır.Patanjali Ayurved Limited Hindistan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

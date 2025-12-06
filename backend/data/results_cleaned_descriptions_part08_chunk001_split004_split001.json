@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Dalmadorm",
+    "description": "Dalmadorm, 1995 yılında kurulan Meda AB bünyesinde üretilen ilaç markasıdır.Meda AB, 2016 yılında Amerika merkezli Viatris Inc. bünyesindedir. Ürünlerini 60 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nuh Çimento",
+    "description": "Nuh ÇimentoNuh, 1966 yılında kurulmuş olan Nuh Çimento A.Ş. bünyesinde üretilen yapı malzemeleri markasıdır.Firma Kocaeli merkezlidir ve ürünlerini Kocaeli’de bulunan fabrikasında üretmektedir.Hissedarları:Nuh Tic. ve San. A Ş. (yüzde 44,13)Partaş Capital Danışmanlık A.Ş. (yüzde 16,32)Diğer (yüzde 39,55)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-10-02"
+  },
+  {
+    "company": "Fotofix",
+    "description": "Fotofix, 2017 yılında kurulmuş olan Sezer Turan Fotofix bünyesindeki fotoğraf makineleri, video kamera, paraflaş, drone ve aksesuarları çevrimiçi satış sitesi markasıdır.Sıfır ürünler dışında ikinci el ürün alım satımı yapmaktadır. İkinci el ürünler servis kontrolünden geçirilerek sıfır ürünlerle değiştirilebiliyor veya nakit karşılığı ödeniyor.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fuxitor",
+    "description": "Fuxitor, 2020 yılında kurulmuş olan Kayberl İlaç ve Sağlık Ürünleri San. Tic. Ltd. Şti. bünyesindeki tırnak bakım yağı markasıdır.İstanbul merkezli firma ürünlerini Antalya’da bulunan Naturmed İlaç Kimya Kozmetik San. Tic. Ltd. Şti.’ye ürettirmektedir.Bünyesindeki markalar;BexowaFuxitorKayberlPastio",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Adn Fani Ben Ami",
+    "description": "Adn Fani Ben Ami, 2013 yılında kurulmuş olan G.N Cosmetics Ltd. bünyesinde üretilen cilt bakımı ve kozmetik ürünleri markasıdır.Ürün yelpazesi karmaşık yaşlanma karşıtı, akne, mezoterapi ve çok çeşitli ayak problemleri için ürünler içermektedir.G.N Cosmetics Ltd. İsrail merkezlidir ve ürünlerini İsrail’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

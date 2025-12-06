@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sonalika",
+    "description": "Sonalika, 1969 yılında kurulan Sonalika Group bünyesindeki traktör, tarım makineleri ekleri ve pick & carry vinçler markasıdır.Traktörler, çoklu kullanımlı taşıtlar, motorlar, tarım makineleri ekleri, dizel jeneratör, oto parçaları ve pick & taşıma vinçler dahil olmak üzere komple bir ürün hattı oluşturur.Sonalika Grubu, merkezi Hindistan’da bulunan çok uluslu bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Khao Shong",
+    "description": "Khao Shong, 1959 yılında Chira Chiralerspong tarafından kurulan Coffee Sales Co., Ltd. bünyesindeki kahve, hazır gıda ürünleri markasıdır.Coffee Sales Co., Ltd. Tayland merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "Şimşek",
+    "description": "Şimşek Nerenin Malı MarkasıŞimşek, 1996 yılında Ramazan Şimşek tarafından kurulan Şimşek Gıda bünyesinde üretilen Bisküvi, Kaplama, Gofret, Çikolata, Kraker, Kek, Kruvasan markasıdır.Ürünleri 95 bin metrekarelik kapalı, 40 bin metrekaresi açık olmak üzere toplam 135 bin metrekarelik alanda üretilmektedir. 100’ün üzerinde ülke’ye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fazer",
+    "description": "Fazer, 1891 yılında Karl Fazer tarafından kurulan Fazer Group bünyesindeki şekerleme, bisküvi ve tahıl ürünleri, bitki bazlı yemekler, süt ürünleri dışı ürünler, yerinde yiyecek ve içeceklerin yanı sıra yiyecek ve kafe hizmetleri sunan uluslararası markasıdır.Grup sekiz ülkede faaliyet göstermekte ve yaklaşık 40 ülkeye ihracat yapmaktadır.Fazer Group, Finlandiya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": "2021-08-01"
+  },
+  {
+    "company": "FNSS",
+    "description": "FNSS Savunma Sistemleri A.Ş., 1989 yılında savunma sistemleri üretmek için kuruldu.FNSS Savunma Sistemleri A.Ş.’nin yüzde 51 hissesi Nurol Holding’e, yüzde 49 hissesi ise İngiltere merkezli BAE Systems plc’ye aittir.Şirketin Suudi Arabistan, Birleşik Arap Emirlikleri ve Malezya’da ofisleri bulunmaktadır.Çarmıklı Ailesi tarafından 1966 yılında kurulan Nurol Holding A.Ş., ticaret, savunma sanayi, inşaat, makine ve imalat, turizm, finans alanlarında faaliyet göstermektedir.1999 yılında British Aerospace ve Marconi Electronic Systems’in birleşmesiyle kurulan BAE Systems, havacılık ve savunma sanayisinde faaliyet gösteren bir İngiliz şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

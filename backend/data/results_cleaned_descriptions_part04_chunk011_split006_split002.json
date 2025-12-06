@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Motec",
+    "description": "Motec, 1990 yılında kurulan Motec Madeni Yağlar San. Tic. Ltd. Şti. bünyesinde üretilen otomotiv yağları, motosiklet yağları, oto bakım ürünleri, gemi yağları, endüstriyel kimyasallar, sanayi ürünleri yağları, gresler markasıdır.Ürünlerini Manisa’da bulunan 4 bin metrekarelik kapalı alanda üretmektedir. ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Colop",
+    "description": "Colop, 1981 yılında Karl Skopek tarafından kurulan COLOP Stempelerzeugung Skopek GmbH & Co. KG bünyesinde üretilen damga ve markalama cihazları markasıdır.Geleneksel pullardan dijital markalama çözümlerine, sanat ve el sanatları pullarına kadar geniş bir ürün yelpazesi sunmaktadır.COLOP Stempelerzeugung Skopek GmbH & Co. KG Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Graphtec",
+    "description": "Graphtec, 1949 yılında kurulan Graphtec Corporation bünyesindeki bilgisayar giriş ve çıkış cihazları markasıdır.Şirket, ölçüm cihazları, ışık sensörü ve aletleri, hat test cihazları, çiziciler ve tarayıcılar üretmektedir.Graphtec Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Audiovox",
+    "description": "Audiovox, 1960 yılında John J. Shalam tarafından kurulan VOXX International Corporation bünyesindeki vücut kameraları, gösterge paneli kameraları, kask kameraları, ev ve ticari güvenlik kameraları, cep telefonları markasıdır.VOXX International Corporation, otomotiv ürünleri, ses ürünleri ve tüketici aksesuarları olmak üzere üç bölüme ayrılmıştır.VOXX International Corporation Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alphatauri",
+    "description": "Alphatauri, 2016 yılında Red Bull GmbH tarafından kurulan AlphaTauri GmbH bünyesindeki moda markasıdır.2018 yılındaki koleksiyonda parka, palto, gömlek, kazak, tişört, şapka, kemer ve çantalar vardı.AlphaTauri GmbH Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

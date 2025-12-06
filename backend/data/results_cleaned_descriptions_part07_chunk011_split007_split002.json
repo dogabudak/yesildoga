@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Galenica",
+    "description": "Galenica, 1927 yılında kurulmuş olan Galenica AG bünyesindeki sağlık ve lojistik markasıdır.Galenica AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Fabi Ayakkabı",
+    "description": "Fabi Ayakkabı Hangi Ülkenin Malı MarkasıFabi, 1965 yılında kurulmuş olan Fabi Spa bünyesindeki ayakkabı, bot ve aksesuarlar markasıdır.Fabi Spa İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Slava Süt",
+    "description": "Slava Süt, 2014 yılında kurulmuş olan Slava Süt ve Süt Ürünleri Gıda San. Tic. Ltd. Şti. bünyesinde üretilen peynir mayası Kazein, Sodyum Kazeinat, Süt Tozu ve Protein Konsantreleri gibi endüstriyel ürünler, çok çeşitli peynirler markasıdır.Brc ve Helal belgelerine sahiptir.Slava Süt ve Süt Ürünleri Gıda San. Tic. Ltd. Şti. Ukrayna merkezli Terra Food Group’a aittir. Karaman’da süt fabrikasına sahiptir.",
+    "documents": [
+      "BRC"
+    ],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Pierre Eyewear",
+    "description": "Pierre Eyewear, 2007 yılında kurulmuş olan New International Vision bünyesinde üretilen gözlük markasıdır.Çerçeveler el yapımıdır.New International Vision Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Kudelski",
+    "description": "Kudelski, 1951 yılında Stefan Kudelski tarafından kurulmuş olan Kudelski S.A. bünyesindeki dijital televizyon erişim ve yönetim sistemleri, içerik koruma çözümleri, siber güvenlik çözümleri, nesnelerin interneti ürünleri ve genel erişim altyapısı hizmetleri markasıdır.Kudelski S.A. İsviçre merkezlidir.Bünyesindeki markalar;Access EmotionHomedgeJoininKudelskiLivewireNagraNagra VistaNagracardNagraflipNagravisionPrm Persistent Right ManagerPush PvrPush Vod",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

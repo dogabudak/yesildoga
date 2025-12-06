@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Novaref",
+    "description": "1989 yılında kurulmuş olan Novaref S.P.A bünyesinde üretilen özel seramik rulosu, ateşe dayanıklı, malzemeler ve ürünler markasıdır.Seramik endüstrisi ve otomotiv için tasarlanmış refrakter silindirler üretmektedir.ISO 9001 belgesine sahiptir.Novaref S.P.A İtalya merkezlidir ve ürünleri İtalya’da üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2025-05-24"
+  },
+  {
+    "company": "Identi Medical",
+    "description": "Identi Medical2017 yılında kurulmuş olan Identi Healthcare Ltd. bünyesindeki cerrahi ve prosedür odası ayarı için veri toplama çözümleri, implant ve doku takibi, kullanım noktasında görünürlük sağlanması, tıbbi malzeme ikmali, yapay zeka yönetim yazılımı, narkotiklerin tam kontrolü ve mobil uygulamalar markasıdır.Identi Healthcare Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Sitram",
+    "description": "Sitram1963 yılında kurulmuş olan SA Sitram Industries bünyesinde üretilen paslanmaz çelik tencere, tava, yapışmaz kaplamalı veya kaplamasız döküm, preslenmiş ve şekillendirilmiş alüminyum tencere, mutfak gereçleri markasıdır.SA Sitram Industries Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Cafekeyf",
+    "description": "Cafekeyf2013 yılında kurulmuş olan Altın Çekirdek Kahve San. Tic. A.Ş. bünyesindeki kahve ve ürünleri markasıdır.Ürünleri glikoz şurubu, süt tozu, renklendirici, koruyucu madde içermez ve raf ömrü 16 aydır.Firma İzmir merkezlidir ve ürünlerini bir çok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Enki Limonata",
+    "description": "Enki Limonata1957 yılında kurulmuş olan Kilikya Şalgam İçecek San. ve Tic A.Ş. bünyesinde üretilen limonata markasıdır.Ürünleri tatlandırıcı, renklendirici ve koruyucu içermektedir.Firma Adana merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

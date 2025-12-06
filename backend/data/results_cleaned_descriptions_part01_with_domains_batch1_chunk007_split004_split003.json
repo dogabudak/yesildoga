@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Aquence",
+    "description": "Aquence, Türkiye pazarına 1963 yılında giren; çamaşır ve ev bakımı, güzellik ve bakım ve yapıştırıcı teknolojileri alanlarında faaliyet gösteren Alman Henkel bünyesindeki yüzey temizleyici markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Android",
+    "description": "Android, 2005 yılında Google bünyesinde çalışan Andy Rubin, Rich Miner, Nick Sears ve Chris White tarafından kurulan Linux tabanlı bir işletim sistemidir.Amerikan merkezli Google ve Open Handset Alliance tarafından, mobil cihazlar için geliştirilmekte olan Linux tabanlı özgür Android, 29 Ekim 2018 tarihine kadar ücretsiz bir işletim sistemi oldu.Ayrıca Google, Play marketteki oyun ve uygulamalar üzerinden aldığı reklamları yayınlayarak para kazanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oracle",
+    "description": "Oracle, 1977 yılında Larry Ellison, Bob Miner ve Ed Oates tarafından kurulan yazılım şirketidir.Amerikan merkezli Oracle; veritabanı, uygulama geliştirme araçları, uygulama sunucusu ile iş uygulamaları alanlarında yazılım çözümleri sunmaktadır.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "KitchenAid",
+    "description": "1945 yılında kurulmuş olan Lifetime Brands Inc. bünyesinde üretilen mikser, mutfak robotu, blender, beyaz eşya, fırın gibi mutfak eşyaları markasıdır.Lifetime Brands Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-08-21"
+  },
+  {
+    "company": "Zwilling",
+    "description": "Zwilling, 1731 yılında Peter Henckels tarafından kurulan Zwilling J. A. Henckels AG bünyesinde üretilen çatal bıçak takımı, tencere, züccaciye ve mutfak aletleri markasıdır.Dünya çapında 100’den fazla ülkede ürünleri pazarlanmaktadır.Zwilling J. A. Henckels AG Almanya merkezlidir.Bünyesindeki bazı markalar:BallariniDemeyereMiyabiStaubZwilling",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-12-18"
+  }
+]

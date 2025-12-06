@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Çerezya",
+    "description": "Çerezya Nerenin Malı MarkasıÇerezya, A101 Yeni Mağazacılık A. Ş. adına Malatya Pazarı Palancı Kuruyemiş San. ve Tic. A.Ş. tarafından üretilen acve hurması, ayçekirdeği, badem içi, beyaz leblebi, ceviz içi, cevizli sucuk, çiğ badem, çiğ fındık, çiğ kokteyl, çikolatalı leblebi, dut kurusu, fındık içi, gün kurusu, hudri hurması, işlenmiş yer fıstığı, kabak çekirdeği, kabuklu fıstık, kaju, karışık kuruyemiş, kavurga mısır, kudüs hurması, kuru incir, kuru kayısı, kuru üzüm, kurutulmuş ananas, kurutulmuş çilek, kurutulmuş elma, kurutulmuş portakal, kurutulmuş trabzon hurması, kuruyemiş, medine hurması, sarı leblebi, soslu cips fıstık, soslu mısır, sukkari yaş hurma, susamlı fındık, susamlı fıstık, tunus hurması, tuzlu fıstık, tuzlu leblebi, yerli ve ithal dakota ayçekirdeği markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-07-05"
+  },
+  {
+    "company": "Acbel Polytech",
+    "description": "Acbel Polytech, 1981 yılında kurulan AcBel Polytech Inc. bünyesindeki elektronik bileşenler, güç kaynağı markasıdır.Endüstriyel güç kaynağı, bağdaştırıcı, tıbbi güç kaynağı, telekom güç kaynağı, AC-DC ve DC-DC dönüştürücü, akıllı çözüm, yedekleme çözümleri sağlar.AcBel Polytech Inc. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Pınar Sucuk",
+    "description": "Pınar Sucuk, 1973 yılında Yaşar Holding A.Ş. bünyesinde üretilen, süt, yoğurt, ayran, peynir, meyve suyu, tereyağı, krema, puding, ketçap, mayonez, bal, sos, reçel, tatlı ve toz ürünleri markasıdır.Ürünlerini 28 ülkeye ihraç etmektedir.Yaşar Holding A.Ş., 1927 yılında Durmuş Yaşar tarafından denizcilik malzemeleri ve boya satışı yapmak için kuruldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kuzeyden Su",
+    "description": "“Kuzeyden Su“2017 yılında kurulmuş olan Kuzeyden İçecek San. ve Tic. A.Ş. bünyesindeki doğal mineralli su markasıdır.Kaynağı Ayvazpınar köyünde yeryüzüne çıkan suyu BPA içermeyen damacanalara doldurmaktadır.ISO 9001, ISO 22000 belgelerine sahiptir.İstanbul merkezli şirket 2023 yılında Tuncay Tütek’e devredilmiştir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-10-02"
+  },
+  {
+    "company": "SGÜ",
+    "description": "Sağlıklı Gıd. Ürün. San. ve Tic. A.Ş. (SGÜ) 2003 yılında kurulan içecek ürünleri üreten firmadır.Ürünlerini İstanbul’da 22 bin metrekarelik tesisinde üretmektedir.ISO 9001, ISO 22000, ISO 27001 ve Helal belgelerine sahiptir.Bünyesindeki markalar:Jack WrestlerWild PowerGloryFCX-irX-ir MojitoBi Cola – Bi PortakalBi Ice tea",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-01-30"
+  }
+]

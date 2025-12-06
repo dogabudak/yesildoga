@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ellesty",
+    "description": "Ellesty, 1981 yılında Ünal Görgülü tarafından kurulan Gelincik Kozmetik Temizlik Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen saç bakım ürünleri markasıdır.Ürünleri Paraben, SLS içermez ve hayvanlar üzerinde test edilmemektedir.Gaziantep merkezli tamamı yerli sermayeli firma ürünlerini 9 bin metrekarelik açık alan ve 5 bin metrekarelik kapalı fabrikasında üretmekte ve üretiminin yüzde 70’ini çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;DermopineEllestySebopine",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wander Beauty",
+    "description": "Wander Beauty, Divya Gugnani tarafından kurulan Wander Beauty Inc. bünyesindeki güzellik, cilt bakım ürünleri markasıdır.Wander Beauty Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Panpuri",
+    "description": "Panpuri, 2003 yılında kurulan Puri Company Limited bünyesindeki vücut bakım ürünleri markasıdır.Puri Company Limited Tayland merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "Cosmo Code",
+    "description": "Cosmo Code, 2017 Unicosm Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen saç bakım ürünleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Müllermilch",
+    "description": "Müllermilch, 1971 yılında kurulan Molkerei Alois Müller GmbH & Co. KG bünyesinde üretilen yoğurt, yoğurtlu içecekler, tatlılar, süt, pirinç, aromalı sütlü içecekler, peynir altı suyu içecekleri markasıdır.Molkerei Alois Müller GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

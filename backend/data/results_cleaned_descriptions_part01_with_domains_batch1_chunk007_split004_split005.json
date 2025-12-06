@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Malzenice Takımı",
+    "description": "Malzenice, 1931 yılında kurulan Slovakya’da kurulan bir futbol takımıdır.Takımın adı Slovakya’da bir kasabadan gelmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SK",
+    "updated_date": "2022-10-22"
+  },
+  {
+    "company": "Predo Baby",
+    "description": "Predo Baby, 2013 yılında kurulan PREDO Sağlık Ürünleri Sanayi ve Ticaret A.Ş. bünyesindeki Bebek bezi markasıdır.Türk markası Predo Baby çocuk bezi ürünleri Türkiye’de üretilmektedir ve yurt dışına ihraç edilmektedir.Bünyesindeki markalar:Hanan AlumPredo BabySlipersSlipp Bebe",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wafer Master",
+    "description": "Wafer Master, 1993 yılında kurulan Çizmeci Gıda Sanayi ve Ticaret A.Ş. bünyesindeki atıştırmalık ürünler markasıdır.Rulo gofret, düz gofret ve bisküvi kategorilerinde Çizmeci TIME markasıyla kuruluşundan bu yana yurtiçi ve yurtdışı pazarlarda satıştadır.Bünyesindeki markalar:CrepeHayhayHeyoKlasPiknikRollstickSuperrollWafer MasterWafer Master Minis",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Güneybağ",
+    "description": "Güneybağ Hangi Ülkenin Sahibi KimGüneybağ, 1973 yılında kurulan Güneyliler Gıda San. ve Tic. Ltd. Şti.’nin turşu, zeytin ve salça gibi gıda ürünleri markasıdır.Türk firmasının 2013 yılında Türkiye’de yıllık 10 bin ton üretim kapasiteli, Avrupa Standartlarında bir tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Comfortfüsse",
+    "description": "Comfortfüsse, Feza Dağlı tarafından kurulan Comfortfüsse San. ve Tic. bünyesindeki el yapımı ortopedik terlik, sandalet, ayakkabı ve bot ürünleri markasıdır.Ürünlerinde mantar, deri ve yün kullanmaktadır. Ürünlerin tamamı gerçek deri ve gerçek mantar granüllerinden üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-11-23"
+  }
+]

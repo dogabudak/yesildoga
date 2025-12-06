@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Schroders Şirketi",
+    "description": "Schroders, 1804 yılında Johann Heinrich Schröder tarafından kurulan Schroders plc bünyesindeki çok uluslu varlık yönetim şirketidir.Şirket, Avrupa, Amerika, Asya, Afrika ve Orta Doğu’daki 32 konumda faaliyet göstermektedir.Schroders plc İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bodyarmor",
+    "description": "Bodyarmor, 2011 yılında Mike Repole tarafından kurulan BA Sports Nutrition, LLC. bünyesindeki spor içeceği markasıdır.Elektrolitler, hindistancevizi suyu ve vitaminler ile doludur ve düşük sodyum ve yüksek potasyum içerir.BA Sports Nutrition, LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Korres",
+    "description": "Korres, 1996 yılında kurulan Korres Natural Products S. A. bünyesinde üretilen kuşburnu kremi, yoğurt soğutma jeli, quercetin ve meşe cilt bakım ürünleri markasıdır.Toplamda, Korres vücut, yüz ve saç bakımı ve bitkisel farmasötik ürünler alanlarında 500’den fazla ürün üretmektedir.Korres Natural Products S. A. Yunanistan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Teledyne Technologies",
+    "description": "Teledyne Technologies, 1960 yılında Henry Singleton ve George Kozmetsky tarafından kurulan Teledyne Technologies Incorporated bünyesindeki elektronik ve iletişim, mühendislik sistemleri, havacılık motorları ve bileşenleri, enerji ve güç sistemleri, dijital görüntüleme, aletler, mikroelektronik, yazılım, mikrodalga bileşenleri ve alt sistemleri, deniz sistemleri, lidar ve yarı iletken markasıdır.Teledyne Technologies Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Balviten",
+    "description": "Balviten, 2009 yılında kurulan Balviten Sp. z o.o. bünyesindeki organik ürünler, glutensiz ürünler, düşük proteinli ürünler, sporcu gıdaları markasıdır.Balviten Sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

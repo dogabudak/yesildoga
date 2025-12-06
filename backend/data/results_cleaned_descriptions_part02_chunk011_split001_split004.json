@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Sileo-ebus",
+    "description": "Sileo, Sileo GmbH bünyesindeki toplu taşıma araçları için yüksek verimli elektrikli sürücülerin markasıdır.Elektrikli otobüslerin bütünsel araç konusu üzerinde çalışır. Sileo’nun ürün yelpazesi, tam akü tahrik sistemine sahip tüm araç boyutlarını (midi-mafsallı otobüs) içerir.Sileo GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ostand",
+    "description": "Ostand, 1991 yılında kurulan C.D. Component Co, Ltd. yan kuruluşu olan bisiklet aksesuarları, arka taşıyıcı, şişe kafesi, çan ve ilgili ürünler markasıdır.C.D. Component Co, Ltd. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Uzer Makina",
+    "description": "Uzer Makina 1978 yılında Selahattin Uzuner ve Bahattin Ertuğ tarafından kurulan Uzer Makina ve Kalıp San. A.Ş. bünyesindeki lastik pişirme kalıpları ve presleri markasıdır.Ürünleri, lastik pişirme presleri ve lastik pişirme kalıpları olarak iki ana kategoriden oluşmaktadır.Kocaeli’de 2 ve Aksaray’da toplam üç tesisiyle üretim yapmaktadır.ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tudor Akü",
+    "description": "Tudor, 1890 yılında Exide Technologies bünyesinde kurulan akü markasıdır.İlk önce Tudor Markası ile Belçika ve Fransa’da fabrikalar kuruldu.Amerika merkezli Exide Technologies 80’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yiğit Akü",
+    "description": "Yiğit Akü, 1976 yılında kurulan Yiğit Akü Malzemeleri A.Ş. bünyesindeki akü ve akıllı akü markasıdır.Ankara’da 40 bin metrekarelik alanda bulunan fabrikasında üretim yapmaktadır. Ürünlerini 55 ülkeye ihraç etmektedir.ISO14001, TS-ISO 16949, ISO 9001, TS-50342–1 ve OHSAS 18001 kalite belgelerine sahiptir.Bünyesindeki markalar:YİĞİT AKÜPLATİN AKÜTUNÇ AKÜMAC POWERHELDEN",
+    "documents": [
+      "ISO",
+      "ISO 16949",
+      "ISO 9001",
+      "ISO14001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

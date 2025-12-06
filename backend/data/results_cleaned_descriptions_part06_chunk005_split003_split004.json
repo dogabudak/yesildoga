@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Gamak",
+    "description": "Gamak, 1961 yılında kurulan Gamak Makine San. A.Ş. bünyesinde üretilen elektrik motorları markasıdır.Üretim için gerekli olan hemen hemen her parçayı kendi tesisinde üretmektedir.ISO 9001, ISO 14001, ISO 27001, ISO 45001 belgelerine sahiptir.İstanbul merkezli firma ürünlerini 330 bin metrekarelik alanda kurulu 60 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Saloni Mobilya",
+    "description": "Saloni, 2000 yılında kurulan Lema Mobilya Teks. İnş. San. Ltd. Şti. bünyesinde üretilen koltuklar, koltuk takımları, dresuarlar, duvar ünitesi takımları, köşe dolaplar, karyola ve baza takımları, puf ve minderler, sandalyeler, sehpa takımları, televizyon sehpaları, yatak odası takımları, yemek masaları, yemek odası takımları, aksesuarlar markasıdır.ISO 9001, EN 12520 belgelerine sahiptir.Bursa merkezli firma ürünlerini 8 bin metrekarelik alanda üretmekte ve 18 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sender Ödeme Hizmetleri",
+    "description": "Sender, 2015 yılında kurulan Sender Ödeme Hizmetleri A.Ş. bünyesindeki ödeme markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çimstone",
+    "description": "Çimstone, 1996 yılında Akg Yalıtım ve İnşaat Malz. San. ve Tic. A.Ş. bünyesinde üretilen yüzey kaplama malzemeleri markasıdır.İzmir merkezli firmanın İzmir’de 45 bin metrekaresi açık, 15 bin metrekaresi kapalı üretim tesisi ile Kırıkkale’de 100 bin metrekaresi açık 20 bin metrekaresi kapalı tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Paytrek",
+    "description": "Paytrek, 2015 yılında Metglobal Grup’un bir iştiraki olarak kurulan Paytrek Ödeme Kuruluşu Hizmetleri A.Ş. bünyesindeki ödeme çözümleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

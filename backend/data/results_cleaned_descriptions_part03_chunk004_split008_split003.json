@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Nichia",
+    "description": "Nichia, 1956 yılında kurulan Nichia Corporation bünyesinde üretilen fosfor ve diğer kimyasalla ile LED markasıdır.Fosfor dağıtımı konusunda uzmanlaşmıştır. Işık yayan diyotlar (LED) dahil olmak üzere, lazer diyotlar, pil malzemeleri ve kalsiyum klorür üretir.Nichia, dünyanın en büyük LED tedarikçisidir. Tüm görünür spektrumda birçok farklı led ile ekran, LCD arka aydınlatma, otomotiv ve genel aydınlatma uygulamaları için LED tasarlar, üretir ve pazarlar.Nichia Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "İstanbul Kahve",
+    "description": "İstanbulkahve, 2005 yılında kurulan İstanbul Kahve İthalat San. Tic. Ltd. Şti. bünyesinde ithal edilen çiğ kahve, kavrulmuş kahve, Türk kahvesi, filtre kahve, espresso, gold, klasik, kahve beyazlatıcısı, 3’ü 1 arada, 2’si 1 arada, cappuccino, sıcak çikolata, sahlep markasıdır.Çekirdek Kahve, instant kahve, kahve kreması gibi ana hammaddeleri ilk elden ithal ederek kendi üretim tesisinde yapmaktadır.Migros, Carrefour, A101, Şok, Metro gibi ulusal zincirler ve müşteri markalarına fason üretim yapmaktadır. BRC, GMP, ISO 9001 ve ISO2200 belgelerine sahiptir.Ürünlerini 20 ülkeye ihraç etmektedir.",
+    "documents": [
+      "BRC",
+      "GMP",
+      "ISO",
+      "ISO 9001",
+      "ISO2200"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Agatha Paris",
+    "description": "Agatha Paris, 1974 yılında Michel Quiniou tarafından kurulan Agatha Diffusion SARL bünyesindeki yüzük, bilezik, kolye, küpe, kostüm takıları, takım elbise takıları, altın takı, gümüş takı, saat, kolye, kazak, koku markasıdır.Hong Kong merkezli King Power Group ortağıdır.Agatha Diffusion SARL İrlanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Rohm",
+    "description": "Rohm, 1958 yılında Kenichiro Sato tarafından kurulan Rohm Co., Ltd. bünyesindeki elektronik parça markasıdır.Entegre devre, transistör, diyot, LED, rezistans gibi ana ürünlere sahiptir.Rohm Co., Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Visteon",
+    "description": "Visteon, 2000 yılında Ford Motor Company’den ayrılarak kurulan Visteon Corporation bünyesindeki otomotiv kokpit elektroniği markasıdır.Visteon otomobiller için klima, aydınlatma ve elektronik bileşenlerin imalatı konusunda uzmanlaşmış bir Amerikan otomotiv üreticisidir.Avrupa üretim sahaları Fransa, Portekiz, Rusya, Slovakya ve Tunus’ta yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

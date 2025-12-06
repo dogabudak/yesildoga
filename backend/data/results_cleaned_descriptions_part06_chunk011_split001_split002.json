@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Araz Supermarket",
+    "description": "Araz Supermarket, 2011 yılında Aydın Talibov tarafından kurulan Araz Supermarket Mmc bünyesindeki süpermarket zinciridir.Araz Supermarket Mmc Azerbaycan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": "2023-09-24"
+  },
+  {
+    "company": "Apicure",
+    "description": "Apicure, 2015 yılında kurulan Madeva İlaç San. ve Tic. A.Ş. bünyesinde su ve ham propolis kullanılarak üretilen propolis, propolisli ağız bakım spreyi, propolisli bitkisel şurup, propolisli çatlak kremi, propolisli bariyer krem markasıdır.Ürünleri alkol veya kimyasal madde içermemektedir.Firma Ankara merkezlidir.Bünyesindeki markalar;ApicureApideva “Önce Sağlık”NewcureTval-Dk",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Europe Vital",
+    "description": "Europe Vital, 1945 yılında kurulan Uğurluoglu Bitkisel Yağ Gıda Kozmetik İthalat İhracat Ltd. Şti. bünyesinde üretilen organik yağlar, sabit yağlar, uçuçu yağlar, gıda takviyeleri markasıdır.TS EN ISO 9001, TS EN ISO 22000, GMP, Helal belgelerine sahiptir.Konya merkezli firma ürünlerini Akşehir OSB.’de yer alan 4 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Airfryer",
+    "description": "Airfryer, 1891 yılında kurulan Koninklijke Philips N.V. bünyesindeki elektrikli pişirme aletleri markasıdır.Çok az yağ ya da hiç yağ olmadan sadece sıcak hava ile pişirme sağlar.Koninklijke Philips N.V. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Beequeen Bal",
+    "description": "Beequeen, 1993 yılında kurulan Manavlar Gıda San. Tic. Ltd. Şti. bünyesinde üretilen çiçek balı, çam balı, akasya balı, karakovan balı, narenciye balı, petek bal, sedir balı, sıkma bal, yayla çiçek balı markasıdır.BRC, FSSC 2200 ve ISO 9001 belgelerine sahiptir.Firma Muğla merkezlidir. Ürünlerini 5 bin metrekarelik kapalı alanda bulunan tesisinde üretmekte ve 35’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

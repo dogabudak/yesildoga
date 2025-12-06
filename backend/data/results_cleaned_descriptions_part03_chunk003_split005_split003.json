@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Giorgio Armani",
+    "description": "Giorgio Armani, 1975 yılında Giorgio Armani ve Sergio Galeotti tarafından kurulan Giorgio Armani S.p.A. bünyesindeki konfeksiyon ürünleri, gözlük, kuyum, kozmetik ürünleri, parfüm, kol saati, giyim aksesuarları, mobilya ve mobilya aksesuarları markasıdır.Giorgio Armani S.p.A., İtalya merkezlidir.Armani Grubu’nun çeşitli ana markaları vardır:AJR Armani JuniorAX Armani ExchangeArmani CasaArmani DolciArmani FioriArmani PrivèEA7Emporio ArmaniGiorgio Armani",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Amboss",
+    "description": "Amboss, Amboss Ev Gereçleri San. ve Tic. Ltd. Şti. bünyesinde üretilen madeni servis tabak, tepsi ve kapları, çatal, kaşık, bıçak, çay tabağı, çay süzgeci, pasta küreği, kepçe ve kevgirler, servis maşası, kâse, tuzluk, kürdanlık, biberlik, dondurmalık, yumurtalık, kül tablası, peçetelik, yağ, sirke takımları, buz kovası, kapaklı ve kapaksız tencereler, kap, çay-su-süt potaları, tava, şekerlik, evye, makas, şişe ve konserve açacakları, şamdan, mama takımı, çekecek, fırçalımasa kürekleri, buzluk, limon takımları, cezve, demlik ve çaydanlıklar, föndü takımları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-02-02"
+  },
+  {
+    "company": "Melodi Çikolata",
+    "description": "Melodi Çikolata, 1957 yılında Kemal Taşar tarafından kurulan Melodi Çikolata ve Gıda San. A.Ş. bünyesinde üretilen madlen, özel çikolatalar, bebek çikolatası, söz-nişan çikolatası, drajeler, hediye çikolata, pastacılık markasıdır.200’ü aşkın çeşidi bulunan Melodi Çikolata, Türkiye’nin önde gelen butik çikolata üreticisi ve çikolata tedarikçisi konumunu almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Toyobo",
+    "description": "Toyobo, 1882 yılında kurulan Toyobo Co., Ltd. bünyesindeki elyaf ve tekstil markasıdır.Sentetik elyaflar (polyester, naylon ve akrilik) ve pamuk, yün gibi doğal elyaflar, plastik filmler ve reçineler, Reaktifler, tıbbi ürünler (örneğin yapay organlar için lif membranları) ve arıtma cihazları gibi biyokimyasal ürünler de şirket tarafından üretilmektedir.Toyobo Co., Ltd. Japonya merkezlidir. Japonya, Çin, Güney Kore, Singapur, Malezya, Avustralya, Amerika Birleşik Devletleri ve Almanya genelinde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Unimicron",
+    "description": "Unimicron, 1990 yılında kurulan Unimicron Technology Corporation bünyesinde üretilen baskılı devre kartı (PCB) markasıdır.Baskılı devre kartı, IC sızdırmazlık yükleme plakası, Mobil HDI kartı ürünlerine sahiptir.Unimicron Technology Tayvan merkezlidir. Unimicron’un Tayvan, Çin, Almanya ve Japonya’da üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

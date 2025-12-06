@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Handx",
+    "description": "Handx, 2012 yılında kurulmuş olan Human Xtensions Ltd. bünyesinde üretilen yapay uzuvlar, cerrahi cihazlar, medikal robotlar, el robot sistemi markasıdır.Human Xtensions Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Chef Seasons",
+    "description": "Chef Seasons, 2009 yılında kurulmuş olan Chef Seasons Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen baharatlar, çeşniler, baharat karışımları, soslar ve tuzlar markasıdır.Ürünleri koruyucu, tatlandırıcı, suni tat ve katkı maddeleri içermez.Firma İzmir merkezlidir.Bünyesindeki markalar;Beyond TasteChef SeasonsChefseasonsGizziaStreat ChefseasonsZest Chefseasons",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Chipotle",
+    "description": "Chipotle, 2018 yılında kurulmuş olan Cmg Pepper LLC bünyesindeki Meksika temalı restoran hizmetleri markasıdır.Cmg Pepper LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kautek",
+    "description": "Kautek, 2012 yılında kurulmuş olan Kautek A.Ş. bünyesinde üretilen binek ve hafif ticari araçlar için kauçuk ve metal ürünler markasıdır.Firma İstanbul merkezlidir.Ürünlerini Düzce OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Parolapara",
+    "description": "Parolapara, 2022 yılında kurulmuş olan Parolapara Elektronik Para ve Ödeme Hizmetleri A.Ş. bünyesindeki elektronik para ve ödeme hizmetleri markasıdır.Sanal POS hizmeti, para transferleri, kurum ve fatura ödemeleri, kartlı ve kartsız ödemeler, çevrimiçi alışverişler, nakit iade çözümleri gibi tüm finansal akışı takip edilebilen dijital cüzdan ve ön ödemeli kart imkanı sağlamaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

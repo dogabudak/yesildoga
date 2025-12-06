@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Electra Ev Aletleri",
+    "description": "Electra, 1950 yılında kurulan ev aletleri markasıdır.2011 yılında Zorlu Holding bünyesindeki Vestel Elektronik San. ve Tic. A.Ş. tarafından satın alındı.Bünyesindeki markalar;AgoraAtlanticCelcusClaytonDigihomeDikomElectraFinluxGraetzIcecoolLaurusLinetechLuxorRegalSchontechVestfrostWellingtonWestwoodWindsor",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mioji",
+    "description": "Mioji, 2020 yılında kurulan Sherman Teknoloji Tic. Ltd. Şti. bünyesindeki hava pompası, kablosuz araba hava pompası, lano ipl lazer epilasyon aleti, mini şarjlı el süpürgesi, saç düzleştirici tarak markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Astor Cosmetics",
+    "description": "Astor, 1952 yılında piyasaya sürülen makyaj ürünleri markasıdır.Ürün yelpazesinde astar boya, bronzlaştırıcı, dudak cilası, dudak kalemi, dudak parlatıcısı, göz farı, kaş, kapatıcı, rimel, ruj, sürme, tırnaklar yer almaktadır.Ürünleri hayvanlar üzerinde test edilmemektedir.Amerika merkezli Coty Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Redone Kolonya",
+    "description": "Redone, 1996 yılında kurulan Kırmızıgül Kozmetik ve Turizm San. Tic. Ltd. Şti. bünyesinde üretilen traş sonrası kolonya, traş sonrası krem, saç şampuanı markasıdır.ISO 9001, ISO 14001, ISO 18001, GMP belgelerine sahiptir.Firma ürünlerini Tekirdağ’da Çerkezköy OSB’de bulunan 20 bin metrekarelik fabrikasında üretmektedir.Bünyesindeki markalar;AC ClassRedOneRedist",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Haibo Motor",
+    "description": "Haibo, 2000 yılında kurulan Ningbo Haibo Group Company Ltd. bünyesinde üretilen tekneler için transom montajlı dönüştürücüler, deniz pervaneleri, motorları markasıdır.El kontrolü, ayak kontrolü ve sallama kontrolü dahil olmak üzere, birden fazla itme seviyesi, farklı kurulum yöntemleri içeren ürünler sunmaktadır.ISO 9001, ISO 14001, OHSAS 18000 belgelerine sahiptir.Ningbo Haibo Group Company Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

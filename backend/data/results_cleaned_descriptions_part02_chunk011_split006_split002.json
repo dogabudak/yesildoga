@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Clear Coat",
+    "description": "Clear-Coat, 2007 yılında kurulan Mobile Outfitters bünyesindeki ekran koruyucu markasıdır.Mall Kiosk Programı sayesinde 20 ülkeye yayılan 120’den fazla alışveriş merkezinde bulunmaktadır.Mobile Outfitters Amerika merkezli mobil aksesuarları şirketidir. Ürünler ABD’de tasarlanmıştır. 50’den fazla ülkede 700’den fazla noktada hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "New Era",
+    "description": "New Era, 1920 yılında Ehrhardt Koch tarafından kurulan New Era Cap Company, Inc bünyesindeki şapka, giyim ve aksesuar markasıdır.Markaya ait şapkalar yıllar geçtikçe Amerikan gençlik kültürünün bir simgesi haline gelmiştir. Hip Hop müzik dünyasında tercih edilir. Rapçiler, rockçılar, patenciler tarafından sıklıkla kullanılır.New Era Cap Company, Inc. Amerika merkezlidir ve ürünlerini Amerika’daki fabrikasında üretmektedir. Ürünleri 40’tan fazla ülkede satılmaktadır.Ayrıca 200’den fazla ABD okulu ve NHL, NBA ve NFL gibi büyük ABD spor liglerinde yer alan kulüpler için şapkalar üretir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Herschel",
+    "description": "Herschel, 2009 yılında Jamie ve Lyndon Cormack tarafından kurulan Herschel Supply Co. bünyesindeki çanta, bagaj, cüzdan ve aksesuar markasıdır.Ürünleri sırt çantası, spor çantası, bagajlar, şapka ve aksesuarları içerir. 18-35 yaş aralığındaki tüketicilere yöneliktir ve Amerikan nostaljisini çağrıştıran ürünler üretmektedir.Herschel Supply Co., Kanada merkezlidir. Dünya çapında 44 perakende satış yeri işletmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Nomadic Republic",
+    "description": "Nomadic Republic, 2015 yılından itibaren Derin Mavi Ltd. Şti. bünyesinde üretilen ip sandalet ve terlik markasıdır.Butik, doğa dostu, antibakteriyel, çok rahat ve hafif yeni nesil ip sandaletler tamamen Türk kadınının el işçiliğiyle üretilmektedir.Sosyal güvencesi olmayan ve tarım alanında çalışan kadınların el emekleriyle Muğla’da bulunan üretim atölyesinde ürünlerini üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eastpak",
+    "description": "Eastpak, 1952 yılında Monte Goldman tarafından kurulmuş olan çanta, cüzdan, bavul, giyim ve aksesuar markasıdır. 2000 yılında VF Corporation tarafından satın alınmıştır.Eastpak bazı istisnalar dışında ürünleri için 30 yıl garanti vermektedir.VF Corporation Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-02-23"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bahlsen",
+    "description": "Bahlsen, 1889 yılında kurulan Bahlsen Gmbh & Co. KG bünyesinde üretilen hamur işleri, gofret, bisküvi, waffle, çikolata ve kek markasıdır.Şirketin modern bisküvi ve gofretlerden keklere ve mevsimlik ürünlere kadar çeşitli ürün yelpazesinin yanı sıra bisküvi bazlı atıştırmalıklar, tatlı atıştırmalıklar ve son zamanlarda organik meyve ve fındık barları da bulunmaktadır.Bahlsen Gmbh & Co. KG Almanya merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;BahlsenBrandtHitKornlandKrakuskiLeibnizPick Up!Rawbite",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ambi Pur",
+    "description": "Ambi Pur, 1958 yılında ilk kez üretilen ortam kokulandırıcı sprey markasıdır.Ürün yelpazesinde araba hava spreyleri, tuvalet jant blokları ve çeşitli oda spreyleri yer almaktadır.Ambi Pur markasını 2009 yılında Amerika merkezli The Procter & Gamble Company satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Milan Silgi",
+    "description": "Milan, 1918 yılında kurulan Factis S.A. bünyesinde üretilen okul, ofis ve güzel sanatlar için kırtasiye ve aksesuarlar markasıdır.Ürünleri ftalat, ağır metaller veya aromatik katkı maddesi içermez. Kalemlerin kaplamasında kulanılan cila toksik madde içermez.Ürün yelpazesinde silgili kalemtraş, kalemlemler, silgiler ve kalemtraşlar, yazı ve resim, okul ve ofis aksesuarları, makas ve kesiciler, cetveller, düzeltme bandı, düzeltme silindiri, yapışkan notlar, yapıştırıcılar ve yapışkan bantlar, tutkal çubuğu, beyaz tutkal, bant dağıtıcıları, zımbalar, zımba sökücü, yay pusulası, hesap makinesi, koleksiyon, güzel sanatlar, fırçalar ve el sanatları gibi ürünler yer alır.Factis S.A. İspanya merkezlidir. Ürünlerini 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Jowat",
+    "description": "Jowat, 1919 yılında kurulan Jowat SE bünyesinde üretilen endüstriyel uygulamalar için yapıştırıcılar markasıdır.Otomotiv, inşaat, mobilya, grafik sanatları, ambalaj, kağıt, tekstil ve ağaç işleme endüstrilerinde çeşitli yüzeylerin yapıştırılması için tasarlanmış yapıştırıcılar üretmektedir.Jowat SE Almanya merkezlidir. Ürünlerini Almanya, ABD ve Malezya’daki tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Astra Tech",
+    "description": "Astra Tech, 2011 yılında Dentsply Sirona Inc. tarafından satın alınan AstraZeneca diş implantları ve tıbbi cihazlar ünitesi markasıdır.Dünyanın en büyük üçüncü diş implant üreticisidir. İki şirketin birleşmesiyle kurulan diş ürünleri ve teknolojileri üreticisi Dentsply Sirona Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

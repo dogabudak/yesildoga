@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Proair Klima ve Hvac Sistemleri",
+    "description": "Proair Klima Ve Hvac Sistemleri, 2010 yılında kurulan Proair Klima Havalandırma Sistemleri San. Tic. Ltd. Şti. bünyesinde üretilen spiro kanal, kare kanal, dkp sac kanal, perfore ve askı grupları, hücreli aspiratörler, aksiyal ve salyangoz fanlar markasıdır.Kocaeli merkezli firma bin 500 metrekarelik kapalı fabrikasında üretim yapmaktadır ve birçok ülkeye üretim yapmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Akiş Boya",
+    "description": "Akiş, 1938 yılında kurulan boya markasıdır. İyigüllü Şirketler Grubu tarafından satın alınan marka Ak-İş Boya San. Tic. A.Ş. bünyesinde üretilmektedir.Kendi alkit reçine ve renklendiricilerini üretmektedir. ISO 9001, TSE belgelerine sahiptir.Bursa merkezli firma 15 bin metrekarelik alanda üretim yapmakta ve birçok ülkeye boya ve ham madde ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clydesdale Kablo Ekipmanları",
+    "description": "Clydesdale, 1980 yılında kurulan Clydesdale Ltd. bünyesinde üretilen kablo kavrama ve tel halat ürünleri markasıdır.Ürün yelpazesinde canlı hat ekipmanları ve aksesuarları, uzman kablo montaj ekipmanları, yeraltı kablo montaj ekipmanları, havai hat inşaat ekipmanları, havai hat donanımı ve yalıtımlı aletler yer almaktadır. ISO 9001 belgesine sahiptir.Clydesdale Ltd. İngiltere merkezlidir ve 60’tan fazla ülkeye hizmet vermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Elsis",
+    "description": "Elsis, 1971 yılında kurulan Elsis Elektronik Sistemler A.Ş. bünyesinde üretilen otomatik voltaj regülatörleri, kesintisiz güç kaynakları ve çeşitli koruma cihazları markasıdır.Başlıca ürünleri, şalterli güç kaynağı, akü şarj aleti, DC/DC voltaj çevirici, DC/AC çevirici, kesintisiz güç kaynağı, AC voltaj regülatörü ve güç yönetim üniteleridir.ISO 9001 belgesine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Diferro Baskı Makinesi",
+    "description": "Diferro Baskı Makinesi Nerenin Malı MarkasıDiferro, 1985 yılında kurulan Diferro Makina San. ve Tic. Ltd. Şti. bünyesinde üretilen tekstil baskı makineleri, emprime baskı makinesi, fikse kurutma makinesi, kumaş baskı makineleri, şerit kurdele baskı makinesi, süblimasyon baskı makinesi, transfer baskı presi, gezer kafa transfer baskı presi, kabartma baskı presi, tepsi tipi baskı presi markasıdır.CE ve ISO 9001 belgelerine sahiptir.İstanbul merkezli firma ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

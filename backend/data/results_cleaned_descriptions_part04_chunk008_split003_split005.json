@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Hainks",
+    "description": "Hainks, 2010 yılında Günay Dönmez tarafından kurulan Güney Yem bünyesindeki kafes kuşu besleme ve bakımı ile ilgili çeşitli ürünler markasıdır.Ürünleri tatlandırıcı veya aroma verici kimyasallar içermez. Ürünlerini kendi ürettiği yem ve yem katkılarından yapmaktadır.Doğa kuşları, egzotik kafes kuşları, kümes kuşları, kanatlı yem grupları işleme, yem katkısı üretim ve paketleme tesisine sahiptir.Bünyesindeki markalar;CarnivoreHaink’sMineralblok",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sanase",
+    "description": "Sanase, 1982 yılında kurulan Postquam Cosmetics SL bünyesindeki kozmetik ürünleri markasıdır.Kuaförlük ve güzellik merkezlerinin küresel bir tedarikçisidir.Postquam Cosmetics SL İspanya merkezlidir. Dünyanın 65 ülkesinde 16 şirkete sahiptir ve ürünleri 80’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Visage Saç Boyası",
+    "description": "Visage, 1992 yılında kurulan Solido Cosmetics Ltd. bünyesindeki saç ve kozmetik ürünlerin markasıdır.Saç şampuanı, balsam, maske, sıvı kristaller, duş jeli, vücut losyonu ve vücut yağı ve diğer ürünleri üretmektedir.ISO 27716 belgesine sahiptir.Solido Cosmetics Ltd. Bulgaristan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 27716"
+    ],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Street Looks",
+    "description": "Street Looks, 2003 yılında kurulan Coscentra B. V., bünyesinde üretilen parfüm markasıdır.Coscentra parfümleri şu anda dünya çapında 45 ülkede dağıtılmaktadır.Coscentra B. V. Hollanda merkezlidir.Bünyesindeki markalar;Georges MezottiLinn YoungOmertaReal TimeStreetlooks",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Swissvita",
+    "description": "Swissvita, 2007 yılında kurulan Allways Young International Trade Co. Ltd. bünyesindeki cilt bakım ürünleri markasıdır.Allways Young International Trade Co. Ltd. Tayvan merkezlidir.Bünyesindeki markalar;AeveopAquaterSwissvita",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

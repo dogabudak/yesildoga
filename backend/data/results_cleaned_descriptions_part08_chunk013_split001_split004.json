@@ -1,0 +1,47 @@
+[
+  {
+    "company": "1001 Delights",
+    "description": "1001 Delights1930 yılında kurulmuş olan Lidl Stiftung & Co. KG bünyesindeki börek, baklava, bulgur, döner burger, dondurulmuş gıda, fasulye pepperoni, kırmızı mercimek, kaju fıstığı karamelize, kebap tipi döner sığır eti, kuskus, nektar, peynir, pizza kebapları, reçel, salata, tavuk ile kuskus salatası, yüzde 100 nar suyu markasıdır.Lidl Stiftung & Co. KG Almanya merkezlidir. Schwarz Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dynoas",
+    "description": "Dynoas2023 yılında kurulmuş olan Dynoas Dayanıklı Tüketim Malları San. ve Tic. Ltd. Şti. bünyesindeki yağsız kızartma makinesi, airfryer markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Luvishose",
+    "description": "Luvishose2015 yılında kurulmuş olan Buraks Ayakkabı Çanta İnş. ve Tic. Ltd. Şti. bünyesinde üretilen çizme, çanta ve cüzdan, abiye ayakkabı, babet, bot, gelin ayakkabısı, sandalet, spor ayakkabı, terlik, topuklu ayakkabı markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Devida",
+    "description": "Devida2005 yılında kurulmuş olan Teknosel Bilgisayar Sistemleri İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen erkek, kız çocuk ev botu terliği, günlük ayakkabı, sandalet ve terlik, spor ayakkabı, spor bot markasıdır.Firma İstanbul merkezlidir. Ürünlerini 40’tan fazla ülkede satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Water Master",
+    "description": "Water Master1993 yılında kurulmuş olan Çizmeci Gıda San. ve Tic. A.Ş. tarafından üretilen çikolatalı rulo gofret markasıdır.ISO 9001, ISO 22000, BRC belgelerine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini Güzeller OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

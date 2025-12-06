@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Allergo VitaGlucan",
+    "description": "Allergo VitaGlucan, 1969 yılında kurulan Allergopharma GmbH & Co. KG bünyesindeki vitamin, besin takviyesi markasıdır.Allergopharma, alerji immünoloji konusunda birçok teknolojik ve bilimsel ilklere imza atmıştır.Allergopharma GmbH & Co. KG Almanya’da kurulmuştur. Türkiyede de 1990 yılından itibaren Allergo İlaç Dış Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Vornado",
+    "description": "Vornado, Vornado Air LLC bünyesindeki ev fanları ve hava sirkülasyonu ile ilgili diğer küçük ev aletleri markasıdır.Vornado Air LLC Amerika merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Raphella Perfume",
+    "description": "Raphella Perfume, 2010 yılında kurulan Cc Kozmetik Kimya İnşaat Taahhüt İth. İhr. San. ve Tic. Ltd. Şti. bünyesindeki parfüm, otomobil kokusu, oda kokusu, kolonya markasıdır.Bünyesindeki markalar:Allperfumes Herkes IçinAşkın KokusuAşkın ÖtesindeBargelloBeard&MustacheBrg CosmeticsFl BargelloFleur De PerleFrGonca Ankara 1950ORaphellaRed SweetScentplusSpecial Allperfumes Herkes IçinSukoudThe Perfume TürkiyeWYakoud",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tena",
+    "description": "Tena, 1929 yılında Ivar Kreuger tarafından kağıt ambalaj şirketi olarak kuruldu. TENA, hasta bezi, emici külot, mesane pedi gibi ürünler üretmektedir.1990 yılında SCA tarafından satın alınmıştır. SCA, önde gelen küresel hijyen ve orman ürünleri şirketidir. Sürdürülebilir kişisel bakım, doku ve orman ürünleri geliştiren ve üreten İsveç merkezli gruptur.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Uriage",
+    "description": "Uriage, 1990 yılında kurulan Laboratoires Dermatologiques d’Uriage SAS bünyesinde üretilen cilt, vücut bakım ürünleri markasıdır.Uriage Termal Suyu, cildin dengesini ve hassas ciltlerin bakımını sağlamak için dermokozmetik ürünlerde konsantre edilmiştir.Laboratoires Dermatologiques d’Uriage SAS Fransa merkezlidir. Ürünleri 70’ten fazla ülkede tanınmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

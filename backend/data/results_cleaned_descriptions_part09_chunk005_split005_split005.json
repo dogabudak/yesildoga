@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Pipore",
+    "description": "Pipore1930 yılında kurulmuş olan Productores de Yerba Mate de Santo Pipó SCL bünyesinde üretilenProductores de Yerba Mate de Santo Pipó SCL Arjantin merkezlidir ve ürünlerini 17 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Eurotech Uç Bilgisayar",
+    "description": "Eurotech1992 yılında kurulmuş olan Eurotech S.p.A. bünyesindeki uç bilgisayarları ve nesnelerin interneti çözümleri markasıdır.Ürünleri arasında nesnelerin interneti, makineler arası iletişim, gömülü sistemler, gömülü kartlar ve modüller, yüksek performanslı uç bilgisayarlar yer almaktadır.Eurotech S.p.A. İtalya merkezlidir ve 45’ten fazla ülkeye hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Jussy Sensitive Skin",
+    "description": "Jussy2021 yılında kurulmuş olan Jussy Sağlık ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen ıslak mendil, ıslak havlu, yüzey temizleme, yüz temizleme, cep mendil, bebek şampuanı markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Matcha Premium Japanese",
+    "description": "Matcha Premium Japanese2018 yılında kurulmuş olan Bilge İlaç Bitkisel Ürünler Kozmetik San. ve Tic. A.Ş. bünyesindeki toz yeşil çay markasıdır.Toz yeşil çay Japonya’dan ithal edilmektedir.Firma İstanbul merkezlidir.Bünyesindeki markalar;MatchaMatcha Apricot PremiumMatcha DetoxMatcha Elix MatchaMatcha FormMatcha ForteMatcha FruttiMatcha LatteMatcha Premium JapaneseMatcha SlimMatcha Time",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cordis Tıbbi Cihazlar",
+    "description": "Cordis1957 yılında kurulmuş olan Cordis Corporation bünyesindeki cerrahi aksesuarlar ve cihazlar, kardiyovasküler filtre ve kılavuz tel markasıdır.Cordis Corporation 2015 yılında Amerika merkezli Cardinal Health Inc. bünyesine katılmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

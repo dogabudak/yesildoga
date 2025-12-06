@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Lopren Cosmetics",
+    "description": "Lopren2022 yılında kurulmuş olan Efbi Dijital Pazarlama Yazılım Reklam Endüstriyel ve Bitkisel Temizlik Ürünleri San. Tic. Ltd. Şti. bünyesindeki cilt bakım ürünleri markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Prince Food",
+    "description": "Prince Food2023 yılında kurulmuş olan Prince Gıda Tekstil İmalat Pazarlama San. ve Tic. A.Ş. bünyesindeki dondurulmuş atıştırmalık, dondurulmuş meyveler, dondurulmuş sebzeler, file paketleme markasıdır.Firma Burdur merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tropix",
+    "description": "Tropix1999 yılında kurulmuş olan Özeller Group bünyesinde üretilen gazoz, limonata, kola, soğuk çay, meybuz, meyve aromalı içecek ve meyve aromalı sakız markasıdır.ISO, TSE, HELAL belgelerine sahiptir.Gaziantep merkezli firma Gaziantep’te bulunan fabrikasında üretim yapmaktadır.Bünyesindeki markalar;ÇıtırosÇikolatteArminsaFrutzzoGold PowerLunyNus BabyPapçiPonipopsTropix",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fancy Ayakkabı",
+    "description": "Fancy1980 yılında kurulmuş olan Fantazi Ayakkabıcılık ve Gıda San. ve Tic. Ltd. Şti. bünyesindeki el yapımı deri ayakkabılar markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Krakuski",
+    "description": "Krakuski1889 yılında kurulmuş olan Bahlsen Gmbh & Co. Kg bünyesinde üretilen bisküvi markasıdır.Bahlsen GmbH & Co. KG. Almanya merkezlidir. Ürünlerini Almanya ve Polonya’da bulunan fabrikalarında üretmektedir ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

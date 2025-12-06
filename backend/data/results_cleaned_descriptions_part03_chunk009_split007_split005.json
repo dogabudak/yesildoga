@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Uğuray",
+    "description": "Uğuray, 1989 yılında kurulan Uğuray Süt Ürünleri Gıda San. ve Tic. A.Ş. bünyesinde üretilen süt ve süt ürünleri markasıdır.Antep peyniri, beyaz peynirler, dil peyniri, dilimli tost peynirleri, köy peyniri, krem peyniri, krema, lor peyniri, mozzarella, sepet peyniri, tava peyniri, tereyağ, tost peynirleri, tulum peyniri, van otlu peynir, çeçil peyniri, çerkez peyniri, örgü peyniri gibi ürünler üretmektedir.Aksaray’da bulunan tesisinde 25 çeşit ürün üretmektedir. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-05-16"
+  },
+  {
+    "company": "Cebeci Süt",
+    "description": "Cebeci, 1975 yılında kurulan Cebeci Süt ve Süt Ürünleri Tarım Hayvancılık San. ve Tic. Ltd. Şti. bünyesinde üretilen süt ürünleri markasıdır.Ürünlerini Isparta OSB’de 15 bin metrekarelik kapalı alan olmak üzere toplam 120 bin metrekarelik tesisinde üretmektedir.Ürün yelpazesinde ayran, yoğurt, beyaz peyniri, kaşar peyniri, krem peyniri, tereyağı, yöresel peynirler bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Takışoğlu",
+    "description": "Takışoğlu, 1978 yılında Ahmet Takış tarafından temelleri atılan Takışoğlu Gıda Süt ve Süt Ürünleri Tic. Ltd. Şti. bünyesinde üretilen ayran, yoğurt, beyaz peynir, kaşar peyniri, lor peyniri, tereyağı, tulum peyniri, yöresel peynirler markasıdır.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma Samsun merkezlidir. Kastamonu, Samsun ve Manisa’da toplam 15 bin metrekarelik kapalı alana sahip fabrikalarda üretim yapmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-01-29"
+  },
+  {
+    "company": "Gökçelik",
+    "description": "Gökçelik Nerenin Malı MarkasıGökçelik, 1976 yılında kurulan Gökçelik Çelik Eşya San. ve Tic. A.Ş. bünyesinde üretilen raf sistemleri markasıdır.Ürün yelpazesinde raf ve sergileme üniteleri, oyuncak ünitesi, parfümeri, kitap ve müzik üniteleri, meyve sebze üniteleri, unlu mamül ünitesi, züccaciye , teknoloji market üniteleri, kasa altı, mağaza sistemleri, turnike sistemleri, market arabaları, depolama sistemleri yer lalmaktadır.Ürünlerini dört fabrikasında üretmektedir ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ceysu Su",
+    "description": "Ceysu Su, 2003 yılında Ceylan İşletme İnşaat Turizm Yatırım Nakliyat San. ve Tic. A.Ş. bünyesinde kurulan pet ve damacana doğal kaynak suyu markasıdır.PC biçiminde beş galon olarak altı farklı PET şişe üretmektedir.Ceylan İşletme ayrıca gayrimenkul yatırımı, inşaat, otelcilik ve turizm alanında faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

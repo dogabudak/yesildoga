@@ -1,0 +1,47 @@
+[
+  {
+    "company": "KenevirCo",
+    "description": "KenevirCo, 2019 yılında kurulmuş olan Kenevir Tarım San. Tic. A.Ş. bünyesinde üretilen soğuk sıkım kenevir tohumu yağı, kenevir tohumu çayı, fonksiyonel protein barlar markasıdır.Ürünleri katkı, koruyucu ve ilave şeker içermez. Helal belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Allerpet",
+    "description": "Allerpet, 1990 yılında kurulmuş olan Allerpet Inc. bünyesinde üretilen alerjenden kaçınma ürünleri, kedi deri döküntüsü temizleyici ürünleri markasıdır.Allerpet Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.Bünyesindeki markalar;AllerpetDeMiteEat My DustFabric Sealer",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Delly",
+    "description": "Delly, 2021 yılında kurulmuş olan Annalife Gıda San. Paz. Tic A.Ş. bünyesinde üretilen şekersiz çikolatalı meyve ve kuruyemiş atıştırmalıkları markasıdır.Ürünleri rafine şeker, kimyasallar, GDO’lu malzemeler içermez.ISO 9001, ISO 14001, ISO 22000 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gold Wings",
+    "description": "Gold Wings, 1989 yılında kurulmuş olan Pelagos Akvaryum San. ve Tic. Ltd. Şti. bünyesinde üretilen kuş yemleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini 17 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aeonmed",
+    "description": "Aeonmed, 2001 yılında kurulmuş olan Beijing Aeonmed Co. Ltd. bünyesinde üretilen anestezi makinesi, ameliyat masası, ameliyat lambaları, hasta monitörü, ventilatör, infüzyon pompası, şırınga pompası, Laminer akış, çevre konfigürasyonu, proses kalite kontrolü, tavan askısı, besleme kirişi gibi tıbbi sistem çözümleri markasıdır.Beijing Aeonmed Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

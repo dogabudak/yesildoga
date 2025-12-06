@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bevel",
+    "description": "Bevel, 2013 yılında kurulan Walker & Company bünyesindeki güzellik ve sağlık ürünleri markasıdır.Walker & Company’i Amerikan merkezli Procter & Gamble (P&G) 2018 yılında satın aldı.Firmanın bünyesindeki markalar:BevelForm",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "ViewSonic",
+    "description": "“ViewSonic“1987 yılında James Chu tarafından kurulmuş olan ViewSonic Corporation bünyesindeki bilgisayar ekranları, dijital tabela ekranları, LED ekranlar, projektörler, bulut bilişim çözümleri ve eğitim çözümleri dahil olmak üzere gelişmiş görüntüleme teknolojileri markasıdır.ViewSonic Corporation Amerika merkezlidir ve ürünleri 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-10-31"
+  },
+  {
+    "company": "Kadio",
+    "description": "Kadio; Usb çoklayıcı, bluetooth, hesap makinesi, vantilatör gibi ürünlerin markasıdır.Kadio markalı ürünler Çin merkezli şirketler tarafından üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Elektrabregenz Hakkında Bilgi",
+    "description": "\"Elektrabregenz Hakkında Bilgi\"\nElektrabregenz Hakkında BilgiElektrabregenz, 1893 yılında Friedrich Wilhelm Schindler tarafından kurulan beyaz eşya şirketi markasıdır.2002 yılında köklü bir geçmişe sahip Avusturya beyaz eşya şirketi Elektra Bregenz ve bünyesindeki Elektra Bregenz markasını Arçelik satın almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "KNIPEX",
+    "description": "Knipex, 1882 yılında Carl Gustav Putsch tarafından kurulan Knipex-Werk C. Gustav Putsch KG bünyesinde üretilen pense, kesici, sıkma aletleri, tel sıyırıcılar, yalıtımlı aletler markasıdır.Knipex, Almanya’da 4 üretim şirketine ABD, Rusya, Çin, Orta Doğu ve Meksika’da satış şirketlerine sahiptir. Üretimin yüzde 60’tan fazlası birçok ülkeye ihraç edilmektedir.C. Gustav Putsch KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-10-06"
+  }
+]

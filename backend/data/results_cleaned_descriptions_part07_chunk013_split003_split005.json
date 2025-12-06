@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Protech",
+    "description": "Protech, 1975 yılında kurulmuş olan Drogsan İlaçları San. ve Tic. A.Ş. bünyesinde üretilen ilaç markasıdır.Firma Ankara merkezlidir ve ürünlerini 30’a yakın ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Welive Şampuan",
+    "description": "Welive, 2015 yılında kurulmuş olan Fed İnşaat ve Tekstil San. Dış. Tic. Ltd. Şti. bünyesindeki kişisel bakım, kozmetik ürünler, gıda takviyeleri, temizlik ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;FedLiveme Skin CareMfcS SilfedTopshopesWeliveWelivecompany",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Deep Steep",
+    "description": "Deep Steep, 1998 yılında kurulmuş olan Magnificent Seven LLC bünyesindeki banyo ve vücut ürünleri, saç bakımı, bebek ürünleri markasıdır.Ürünleri ftalat, paraben, GDO veya kimyasal koruyucu içermez ve hayvanlar üzerinde test edilmemektedir.Magnificent Seven LLC Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dana Classic",
+    "description": "Dana Classic, 1932 yılında Javier Serra tarafından kurulmuş olan Dana Classic Fragrances Inc. bünyesinde üretilen parfümler, kolonyalar markasıdır.Dana Classic Fragrances Inc. Amerika merkezlidir ve ürünlerini 75 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mçs Valiz",
+    "description": "Mçs, 1990 yılında kurulmuş olan Mekin Saraciye İmalat Toptan Parekende Tic. Ltd. Şti. bünyesinde üretilen valiz, valiz seti, laptop ve makyaj çantaları markasıdır.Firma İstanbul merkezlidir ve ürünlerini 17 bin metrekarelik fabrikasında üretmektedir.Bünyesindeki markalar;AggajBaggajBayan AyakkabıBayan ÇantaBy Fashion Hf HouseKaiserLucy DianaMçsNew V’CoccaSodamiStaidTempo BagUssaroValiz",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

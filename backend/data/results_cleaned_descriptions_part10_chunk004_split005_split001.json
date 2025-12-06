@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Eastpower",
+    "description": "1995 yılında kurulmuş olan Guangzhou Eastpower Battery Ind. Co. Ltd. bünyesinde üretilen çinko klor, alkalin, düğme ve lityum piller markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Guangzhou Eastpower Battery Ind. Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "TürkPetrol",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lesjöfors Automotive",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Songmics Home",
+    "description": "2010 yılında kurulmuş olan Ameziel Inc. bünyesindeki ev geliştirme ürünleri, taşınabilir oda organizatörü, ev organizatör ve evcil hayvan malzemeleri üzerine e-ticaret markasıdır.Ameziel Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Powwa",
+    "description": "2000 yılında kurulmuş olan Desan Electric Co. Ltd. bünyesinde üretilen elektrikli gıda karıştırıcıları, küçük mutfak aletleri markasıdır.Desan Electric Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

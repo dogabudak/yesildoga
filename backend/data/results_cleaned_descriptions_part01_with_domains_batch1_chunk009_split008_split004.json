@@ -1,0 +1,48 @@
+[
+  {
+    "company": "OnePlus",
+    "description": "OnePlus , 2013 yılında Pete Lau tarafından kurulan akıllı telefon üreticisidir.Telefon işletim sistemi Android tabanlı CyanogenMod’dur.Çinli firmanın merkezi Hong Kong’da yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Oppo",
+    "description": "Oppo, 2004 yılında kurulan Oppo Electronics Corp, bünyesindeki; MP3 çalar, Medya oynatıcı, LCD-TV, e-kitap okuyucu, DVD/Blu-Ray oynatıcı ve mobil telefon gibi elektronik ürünleri markasıdır. BBK Electronics’in yan kuruluşudur.Oppo Electronics Corp. Çinli elektronik üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-05-08"
+  },
+  {
+    "company": "Meizu",
+    "description": "Meizu, 2003 yılında Jack Wong tarafından kurulan Meizu Technology Co., Ltd. bünyesindeki MP3 ve MP4 çalar, akıllı telefon ve aksesuarları üreticisidir.2008 yılında akıllı telefon pazarına giriş yapan Meizu Technology Co., Ltd. Çin merkezli bir tüketici elektroniği şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Chery Arabası",
+    "description": "Chery, 1997 yılında kurulmuş olan Chery Automobile Co. Ltd. bünyesindeki binek otomobiller, minivanlar ve Suv’lar markasıdır.Chery Automobile Co. Ltd. Çin merkezlidir.Çin hükümeti İsrail şirketiyle yarı yarıya hisseli olarak Qoros Auto Co. Ltd. şirketini kurmuştur ve Hintli Tata Motors’a ait olan Jaguar Land Rover ile yarı yarıya hisseli olarak Chery Jaguar Land Rover şirketini kurmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-09-21"
+  },
+  {
+    "company": "Otomobil Markaları ve Ülkeleri",
+    "description": "\"Otomobil Markaları ve Ülkeleri\"\nOtomobil Markaları ve ÜlkeleriAlmanya:AudiBMWMercedes-BenzMiniPorscheSeatSkodaVolkswagenAmerika:CadillacChevroletChryslerFordTeslaÇin:CheryFAW GroupGeelyGreat WallSAABFransa:CitroenOpelPeugeotRenaultGüney Kore:HyundaiKiaSsangyongHindistan:Land RoverRange Roverİtalya:FerrariFiatLamborghiniJaponya ve Fransa:NissanJaponya:HondaSubaruSuzukiToyota",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

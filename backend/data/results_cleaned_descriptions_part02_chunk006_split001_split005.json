@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bird-X",
+    "description": "Bird-X, 1964 yılında kurulan Bird-X, Inc. bünyesindeki kuş kontrolü ve kovucu ürünler markasıdır.Bird-X ürünleri tehlikeli kimyasal böcek ilaçları, zehirleri ve tuzakları ortadan kaldırır.Bird-X, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Selle Royal",
+    "description": "Selle Royal, 1956 yılında Riccardo Bigolin tarafından kurulan Selle Royal SpA bünyesindeki bisiklet aksesuarları markasıdır.Selle Royal İtalya merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Aspirix",
+    "description": "Aspirix, 1994 yılında kurulan Aykim Temizlik Maddeleri San. ve Tic. Ltd. Şti. bünyesine ait temizlik ürünleri markasıdır.Aykim, İstanbul’da yüzde 100 yerli sermaye ile hızlı tüketime yönelik temizlik ve hijyen ürünleri üretimi ve dağıtımı yapmak için kurulmuştur. Ürünleri Avrupa, Asya ve Afrika’da yaklaşık otuz ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coopers Fiaam",
+    "description": "Coopers Fiaam, 1980 yılında kurulan Sogefi SpA bünyesindeki araç filtre ve yedek parça ürünleri markasıdır.Sogefi Group dünyanın en büyük otomobil aksam üreticilerinden biri olarak motor filtrasyon ve araç süspansiyon bileşenlerinin tasarımı ve imalatını yapmaktadır.Sogefi Group İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "PNY",
+    "description": "PNY (Paris New York), 1985 yılında Gadi Cohen tarafından kurulan PNY Technologies, Inc. bünyesindeki flash bellek kartı, USB flash sürücü, katı hal sürücüsü, bellek yükseltme modülü, taşınabilir pil şarj cihazı, bilgisayar kilidi, kablo, şarj cihazı, adaptör ve tüketici ve profesyonel grafik kartları markasıdır.PNY Technologies, Inc. Amerika merkezli bir şirkettir.Kaliforniya, Miami, Fransa ve Tayvan’da tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

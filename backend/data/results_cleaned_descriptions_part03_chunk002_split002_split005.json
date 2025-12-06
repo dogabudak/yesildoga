@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Setcard",
+    "description": "Setcard, 2001 yılında kurulan Set Kurumsal Hizmetler A.Ş. bünyesindeki yemekkartı, hediyekart, sosyalyardımkartı, konaklama, mobilödeme, loyalty, setpara, network, üyeişyeri, yemekhizmetleri, personelödüllendirme, esnekyanfayda, kartlısistemler, onlineyemekkartı, vergiindirimi, bireyselyemekkartı, harcadıkcakazan, onlineislemler, mobiluygulama, kampuskart, turnikegecissistemleri, otomat markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cardinal Health",
+    "description": "Cardinal Health, 1971 yılında kurulan Cardinal Health, Inc. bünyesindeki çokuluslu tıbbi ve cerrahi ürünler, eldiven, cerrahi konfeksiyon ve sıvı yönetim ürünleri, sağlık hizmetleri markasıdır.Cardinal Health, Inc. Amerika merkezlidir. ABD’de hastanelerin yüzde 75’inden fazlasına tıbbi ürünler sağlar.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Technics",
+    "description": "Technics, 1965 yılında kurulan Technics Professional Equipment Co., Ltd. bünyesindeki DJ setleri ve Kulaklık markasıdır. Panasonic Corporation’ın yan kuruluşudur.Panasonic Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Mylan",
+    "description": "Mylan, 1961 yılında Milan Puskar ve Don Panoz tarafından kurulan Mylan, N.V. bünyesindeki ilaç markasıdır.Mylan, N.V. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "O!Oi Collection",
+    "description": "O!Oi Collection, 2011 yılında Yeseul Jung tarafından kurulan Oi Studio Co, Ltd. bünyesindeki giyim ürünleri markasıdır.Oi Studio Co, Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

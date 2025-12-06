@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Audi Firmanın Arabası",
+    "description": "Audi, 1909 yılında August Horch, tarafından kurulan otomobil markasıdır.Volkswagen grubunun bir markasıdır.Volkswagen Almanya merkezli bir otomotiv şirketidir. 1994 yılından beri Türkiye dağıtıcısı Doğuş Otomotiv Servis ve Ticaret A.Ş.’dir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Daphne",
+    "description": "DAPHNE, 1957 yılında Pe-Re-Ja İleri Kimya Sanayi A.Ş. bünyesinde kurulan markasıdır.Ürün yelpazesinde kozmetik, parfüm, kolonya, sıvı sabun, şampuan, losyon, difüzör, hava spreyi, vücut buharı yer almaktadır.Dünya çapında 40’ın üzerinde ülkede ürünleri satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seagate",
+    "description": "Seagate, 1978 yılında Alan Shugart, Tom Mitchell, Doug Mahon ve Finis Conner tarafından kurulan Seagate Technology PLC bünyesindeki veri depolama markasıdır.Sabit disk ve depolama çözümleri üreten Amerikan şirketi Seagate’in; Dublin, İrlanda, Cupertino, Kalifornia, Amerika merkezleri bulunmaktadır.1989 yılında, Seagate, CDC’nin HDD ürün üreticisi olan Control Data Corporation’ın Imprimis bölümünü satın aldı. 1996 yılında Conner Peripherals, 2006 yılında Maxtor ve 2011 yılında Samsung HDD işini satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-08-21"
+  },
+  {
+    "company": "Keskinoğlu",
+    "description": "Keskinoğlu, 1963 yılında İsmail Keskinoğlu tarafından kurulan Türkiye’deki ilk ve tek tam entegre tavukçuluk kuruluşu Keskinoğlu Şirketler Grubu bünyesindeki piliç eti ve yumurta markasıdır.2003 yılında Keskinoğlu Organik Tavuk Gübresi Organica tesisleri faaliyete geçerken Avrupa’ya işlenmiş piliç eti ve yumurta ihraç eden ilk Türk firması oldu. 75 ülkeye ürünlerini ihraç eden yerli sermayeli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kecheese",
+    "description": "Kecheese, Türkiye’nin önde gelen baharat firmalarından Türer A.Ş. bünyesindeki Keçi Sütü Ürünleri markasıdır.Kecheese marka ürünler, Türer A.Ş. bünyesinde bulunan keçi çiftliğindeki sütlerden tamamen soğuk zincir korunarak elde edilmektedir. Aromatik bitki ürünleri 40’ın üzerinde ülkehe ihraç edilmektedir.Kecheese marka ürünler katkı ve koruyucu madde içermiyor ve tuz oranı en az düzeyde kullanılıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

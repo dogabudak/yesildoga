@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Toray",
+    "description": "Toray, 1926 yılında kurulan Toray Industries Inc. bünyesindeki fiberler, tekstil, plastikler, kimyasallar, bt ile ilgili materyaller, karbon fiber kompozit malzemeler, su arıtma membranları, ilaçlar, tıbbi ürünler markasıdır.Organik sentetik kimya, polimer kimyası ve biyokimya teknolojilerine odaklanan şirketin ürünleri ters ozmoz bigmembranları, elektronik, bt ürünleri, gelişmiş kompozit malzemeler gibi alanlara da çeşitlilik göstermiştir.Toray Industries Inc. Japonya merkezlidir. Toray’ın 20 ülkede operasyonları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Keyroad",
+    "description": "Keyroad, 1998 yılında kurulan Ningbo Keyroad Stationery & Gift Co. Ltd. bünyesinde üretilen yazı aletleri, çizim aletleri, kırtasiye veya ev için kullanım amaçlı yapışkanlar, çizim malzemeleri, ıstampa, ıstampa, zımba, kalemtıraş, lastik silgi, pergel, dik açılı cetvel, dolmakalem gibi kırtasiye ürünleri markasıdır.6-18 yaş arası çocuk ve genç öğrenciler için okul ürünleri üretmektedir.Ningbo Keyroad Stationery & Gift Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 30 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Scott Sports",
+    "description": "Scott Sports, 1958 yılında Ed Scott tarafından kurulan Scott Sports SA bünyesindeki bisiklet, kış ekipmanı, motor sporları ekipmanı ve spor giyim ürünleri markasıdır.Scott Sports SA İsviçre merkezlidir. 2015 yılında şirketin yüzde 50,1 hissesi Güney Kore merkezli Youngone Corporation tarafından satın alırken, kalan yüzde 49,9 hisse ise İsviçreli Beat Zaugg’a aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Sigg",
+    "description": "Sigg, 1908 yılında Ferdinand Sigg ve Xaver Kung tarafından kurulan Sigg Switzerland AG bünyesinde üretilen su şişeleri, vakum şişeleri ve termos markasıdır.Sigg Switzerland AG 2016 yılında Çin merkezli Haers Vacuum Containers Co. Ltd. tarafından satın alındı. Alüminyum ve polipropilenden ürünler İsviçre’de, paslanmaz çelik ve camdan ürünler Çin’de üretilmektedir.Bünyesindeki markalar;NonooSantecoSigg",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Celia Mama",
+    "description": "Celia, 1933 yılında Andre Besnier tarafından kurulan Groupe Lactalis bünyesinde üretilen bebek beslenme ürünleri markasıdır.Celia bebek sütü, yüzde 40 kazein proteini ve yüzde 60 çözünebilir protein (peynir altı suyu proteini) içeren standartlarda üretilmektedir.Groupe Lactalis Fransa merkezlidir. Avrupa’nın en büyük süt üreticisidir. Ürünleri 55’ten fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

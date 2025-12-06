@@ -1,0 +1,46 @@
+[
+  {
+    "company": "United Nude",
+    "description": "United Nude, 2003 yılında Rem Koolhaas tarafından kurulan United Nude Ltd. bünyesindeki yüksek topuklu ayakkabılar markasıdır.United Nude Ltd. İngiltere merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Acoola",
+    "description": "Acoola, 2010 yılında Emin Rustamov tarafından kurulan Concept Group OOO bünyesindeki bebek ürünleri, giyim, ayakkabı ve aksesuarları, kazak ve hırka kızlar için, elbise ve tunik kızlar için, kazak ve hırka, tişört, gömlek ve bluz, pantolon, etek markasıdır.Ürünlerinde akrilik, viskon, spandex, polar, pamuk gibi malzemeler kullanmaktadır.Concept Group OOO Rusya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Thomson",
+    "description": "Thomson, 1892 yılında Elihu Thomson tarafından kurulan Technicolor SA bünyesinde üretilen ev aletleri ve tüketici elektroniği markasıdır.Ürün yelpazesinde televizyon, video kamera, tablet bilgisayar, monitör, LCD ve plazma ekranlar yer almaktadır.Technicolor SA Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Carhartt",
+    "description": "Carhartt, 1889 yılında Hamilton Carhart tarafından kurulan Carhartt Inc. bünyesindeki giyim, ayakkabı ve aksesuarları markasıdır.Ürün yelpazesinde ceket, mont, tulum, tulum, yelek, gömlek, kot pantolon, tulum, yangına dayanıklı giyim ve av kıyafetleri gibi ağır iş kıyafetleri yer almaktadır.Carhartt Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Candy Crush Saga",
+    "description": "Candy Crush Saga, 2012 yılında King.com Ltd. tarafından üretilen ücretsiz bir maç-üç bulmaca video oyunu markasıdır.Çok sayıda platformda oynanabilen bir oyundur.King.com Ltd., 2022 yılında Amerika merkezli Microsoft Inc.’in satın aldığı Activision Blizzard Inc. bünyesinde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Dermoskin",
+    "description": "Dermoskin, 2007 yılından itibaren Matilek Medikal Ürünler Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen saç bakımı, yüz bakımı, vücut bakımı, akne, güneşten korunma, tırnak bakımı, gıda takviyesi markasıdır.ECOCERT ve COSMOS sertifikalıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Autoglym",
+    "description": "Autoglym, 1965 yılında Altro Limited bünyesinde üretilen araç bakım ürünleri markasıdır.100’den fazla ürün üretmektedir.Altro Limited İngiltere merkezlidir ve ürünleri İngiltere’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Turnib",
+    "description": "Turnib, 1980 yılında kurulan Turnip Gıda İnş. San. ve Tic. Ltd. Şti. bünyesinde üretilen şalgam suyu markasıdır.ISO9000 ve ISO22000 kalite belgelerine sahiptir.Ürünlerini Mersin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO22000",
+      "ISO9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Heliocare",
+    "description": "Heliocare, 1994 yılında kurulan Grupo Cantabria Labs bünyesinde üretilen dermatolojik ve besleyici ürünler markasıdır.Akne, saç bakımı, depigmentasyon, fotodermatoz, fotoaging, fotokoruma, hijyen, rejenerasyon, sedef hastalığı, rosacea, vitiligo, dermatit ve egzama gibi dermatolojik patolojiler ve kozmetik koşullar için çözümler sunmaktadır.Cantabria Labs, 80’den fazla ülkede, yan kuruluşları ve uluslararası dağıtım ağı aracılığıyla faaliyet gösteren cilt bakımına adanmış İspanya merkezli bir şirkettir.Bünyesindeki markalar:BiretixEndocareHeliocareIraltoneNeoretin",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "BOC Aviation",
+    "description": "BOC Aviation, 1993 yılında kurulan uçak kiralama şirketidir.Merkezi Singapur’da bulunan BOC Aviation Leasing Co., Ltd. Singapur, Birleşik Krallık ve Amerika’da ofisleri bulunmaktadır. Boc Aviation’un uçakları Afrika, Pasifik Kıyısı, Avrupa, Orta Doğu ve Amerika’daki havayolları tarafından kullanılmaktadır. Dünya çapında 70’ten fazla havayolu şirketiyle iş yapmaktadır.BOC Aviation Leasing Co., Ltd. 2006 yılında Çin devletine ait olan Bank of China tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

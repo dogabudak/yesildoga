@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Shuga",
+    "description": "Shuga, 2012 yılında kurulan İlkas Sağlık ürünleri San. ve Tic. Ltd. Şti. bünyesindeki bebek bezleri markasıdır.Gaziantep merkezli firma sağlık ürünleri, çocuk bezi, hasta bezi, ıslak mendil, kadın bağı, pedler, hijyenik tamponlar üretmektedir.ISO 9001, ISO 14001 belgesine sahiptir.Bünyesindeki markalar;FeestaFondyGigiLittlesShuga",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İlkler Tetto",
+    "description": "İlkler Tetto, 1993 yılında kurulan Damak Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen kek, bisküvi ve kurabiye markasıdır.TSE 9001, TSE 22000 ve belgelerine sahiptir.Ürünlerini 15 bin metrekarelik alanda bulunan 10 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kayla Gurme",
+    "description": "Kayla Gurme, 2015 yılında kurulan Kayla Gurme Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen karadut suyu, karadut çayı, karadut lokumu, karadutlu Türk kahvesi markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pagseguro",
+    "description": "Pagseguro, 2006 yılında Grupo Folha S.A.’a ait Universo Online’ın (UOL group) bir parçası olarak kurulan kredi kartı ödeme platformu markasıdır.Pagseguro, ticari işlemler için çevrimiçi veya mobil ödeme tabanlı bir e-ticaret hizmetidir.Grupo Folha S.A. Brezilya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Kekbis",
+    "description": "Kekbis, 2013 yılında kurulan Kekbis Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen kurabiye, gofret, kek markasıdır.İstanbul merkezli firma 8 metrekarelin alanda faaliyet göstermektedir. Ürünlerini 40 ülkeye ihraç etmektedir.ISO 9000, ISO 22000 (Haccp), Helal belgelerine sahiptir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

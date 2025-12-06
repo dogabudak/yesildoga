@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aixtron",
+    "description": "Aixtron, 1983 yılında kurulan çip ekipmanı üreticisidir. Led ve oled üretimi için gereken sistemlerin çoğunu Aixtron sağlamaktadır.Alman Aixtron SE şirketinin üretim alanları Almanya’da ve Birleşik Krallık’ta yer almaktadır.Amerikan’ın Almanya’yı uyarması sonrasında Aixtron firmasının Çin’e satılmasından vazgeçilmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Givaudan",
+    "description": "Givaudan, 1895 yılında kurulan tatlandırıcı, koku ve aktif kozmetik üreticisidir.Şirketin merkezi Vernier, İsviçre’dedir.2007 yılından beri lezzet ve koku endüstrisinin önde gelen markası olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "beIN Media",
+    "description": "beIN Media Group 2014 yılında kurulan içerisinde ücretli yayınlar olan medya grubudur.Katar merkezli medya grubu beIN Media Group’un patronu Nasser Al-Khelaifi aynı zamanda Fransa ekibi Paris Saint Germain(PSG)’nin sahibidir.Digiturk, Avrupa’da yayın ağı olan beIN Media Group tarafından satın alındı.Bünyesindeki bazı kanallar:AJ+Al Jazeera Arabic, English, BalkansAl Jazeera Documentary ChannelAl Jazeera International Film FestivalAl Jazeera Mubasher Al-AmmaBaraemDigiturkJeemTVMiramaxThe Crusades, An Arab PerspectivebeIN Channels Network (MENA) beIN Movies, BeIN SeriesbeIN Sports Australia, Canada, France, MENA, Spain, USA, Türkiye",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": "2018-11-24"
+  },
+  {
+    "company": "Loobex",
+    "description": "Loobex, 1983 yılında kurulan Ümit Şirketler Grubu bünyesindeki Anne ve Bebek elektronik ürünleri markasıdır.Ümit Şirketler Grubu Türkiye’nin her yerinde, dünyanın birçok ülkesinde de satış noktaları ile Türk kalitesini yurtdışına taşıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Noisy May Ülke",
+    "description": "Noisy May, 1975 yılında Troels Holch Povlsen tarafından kurulan hazır giyim sektöründe faaliyet gösteren Bestseller şirketine aittir.Giyim markası Noisy May, Danimarkalı Bestseller şirketi bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

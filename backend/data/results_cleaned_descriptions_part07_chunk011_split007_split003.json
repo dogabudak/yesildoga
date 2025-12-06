@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Giulietta Gözlük",
+    "description": "Giulietta, 2015 yılında kurulmuş olan Meksan Optik San. Tic. A.Ş. bünyesindeki gözlük markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Poltab",
+    "description": "Poltab, 1996 yılında kurulmuş olan Poltab Ayakkabı Taban San. Tic. Ltd. Şti. bünyesinde üretilen poltab ayakkabı tabanı markasıdır.Poliüretan, Termo/TPU ve kauçuk tabanlar tedarik etmektedir.Firma İstanbul merkezlidir ve 5 bin metrekarelik alana sahip fabrikasında üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kentquick",
+    "description": "Kentquick, 1995 yılında kurulmuş olan Soyyiğit Gıda San. ve Tic. A.Ş. bünyesindeki çikolatalı, çilekli, ballı ve muzlu, pankek şuruplar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sekonda Saat",
+    "description": "Sekonda, 1963 yılında kurulmuş olan Time Products LTD. bünyesinde üretilen kol saatleri markasıdır.Firma saat ve mücevher dağıtır, saat kayışları ve lüks çantalar üretir ve dağıtır ve mücevher satışı yapmaktadır.Time Products LTD. İngiltere merkezlidir.Bünyesindeki markalar;AccuristAlmar BoutiqueLimit WatchesMarcus WatchesSekonda",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Paco Rabanne 1 Million Parfum",
+    "description": "\"Paco Rabanne 1 Million Parfum\"\nPaco Rabanne 1 Million ParfumPaco Rabanne 1 Million Parfum, 1966 yılında kurulmuş olan Paco Rabanne S.A.S bünyesinde üretilen parfüm markasıdır.Paco Rabanne S.A.S İspanya merkezli Puig International SA’nın bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

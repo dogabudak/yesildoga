@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Moretto",
+    "description": "Arama motorlarında, markaların hangi ülkenin ürünü olduğu bilgisi genellikle hatalıdır. Aradığınız markaları sitemizi hergün ziyaret ederek bulabilirsiniz.Moretto1980 yılında kurulmuş olan Moretto S.p.A. bünyesinde üretilen otomasyon sistemleri markasıdır.Firma İtalya merkezlidir ve 60’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Pomfresh",
+    "description": "Arama motorlarında, markaların hangi ülkenin ürünü olduğu bilgisi genellikle hatalıdır. Aradığınız markaları sitemizi hergün ziyaret ederek bulabilirsiniz.Pomfresh1995 yılında kurulmuş olan Doğa Tohumculuk Gıda San. Tic. A.Ş. bünyesinde üretilen donuk patates markasıdır.ISO 22000, Helal belgelerine sahiptir.Firma Nevşehir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carglass",
+    "description": "Arama motorlarında, markaların hangi ülkenin ürünü olduğu bilgisi genellikle hatalıdır. Aradığınız markaları sitemizi hergün ziyaret ederek bulabilirsiniz.Carglass1897 yılında kurulmuş olan Belron Group S.A. bünyesindeki araç cam tamir hizmetleri markasıdır.Belron Group S.A. Belçika merkezlidir. 40’a yakın ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Devit-3",
+    "description": "Arama motorlarında, markaların hangi ülkenin ürünü olduğu bilgisi genellikle hatalıdır. Aradığınız markaları sitemizi hergün ziyaret ederek bulabilirsiniz.Devit-31958 yılında kurulan Deva Holding A.Ş. bünyesinde üretilen vitamin markasıdır.Deva Holding A.Ş. 2006 yılında İngiltere’nin denizaşırı topraklarından, Bermuda merkezli olarak kurulmuş olan Eastpharma Ltd. iştiraki Eastpharma Sarl tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Nar Şeker",
+    "description": "Arama motorlarında, markaların hangi ülkenin ürünü olduğu bilgisi genellikle hatalıdır. Aradığınız markaları sitemizi hergün ziyaret ederek bulabilirsiniz.Nar1978 yılında kurulmuş olan Nar Gıda Maddeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen şeker, bakliyat, toz içecekler, bitki çayları markasıdır.ISO 22000 belgesine sahiptir.Firma Aydın merkezlidir. Ürünlerini 6 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

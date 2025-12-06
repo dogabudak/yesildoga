@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Acura Markanın",
+    "description": "Acura, 1992 yılında kurulan; sağlık, spor, kişisel bakım ürünleri Acura Grubuna ait bir markadır.Ürün gurupları arasında; Tansiyon Aletleri, Masaj Aletleri, Nebulizatörler, Fizik Tedavi Cihazları (EMS), Dijital / Temassız Termometreler, Ses Yükseltme Cihazları, Korseler, Spor / Fitnes Ürünleri, Kişisel Bakım Ürünleri, Küçük Ev Aletleri, TV Market Ürünleri, Tekerlekli Sandalyeler, Acura Cep Telefonları ve Otomatik Kepenk Sistemleri bulunmaktadır.Firma yüzde 100 yerli sermayesiyle, 50 ülkede faaliyet göstermektedir.Japon otomobil üreticisi Honda’nın modeli olan Acura ile bir alakası yoktur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-09-23"
+  },
+  {
+    "company": "Klar",
+    "description": "Klar, 1980 yılında Dr. Stewner tarafından üretilen ekolojik temizlik ürünleri markasıdır. Klar, eteral yağı veya diğer parfümleri içermeyen, petrokimya maddeleri içermeyen alerjik reaksiyon göstermeyen yıkama ve temizleme ürünlerinden oluşmaktadır.Klar 2002 yılında Almanya merkezli AlmaWin Reinigungskonzentrate GmbH şirketi bünyesine katılmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sonett",
+    "description": "Sonett, 1977 yılında kurulan Ekolojik Temizlik ürünleri markasıdır. Markanın geliştirilmesinde başlangıç, araştırmacı Johannes Schnorr’un 1960’lı yıllarda Almanya’da Akış Araştırmaları Enstitüsü’ndeki araştırmalarına dayanmaktadır.Markanın sahibi kamu yararına çalışan Sonett vakfına ait SONETT GmbH kuruluşudur.Sıvı ve toz halindeki temizlik ürünlerinin tamamı Almanya’daki fabrikasında üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Molped",
+    "description": "Molped, 1999 yılında Hayat Kimya San. A.Ş. bünyesinde üretilen kişisel kullanım amacına uygun günlük ped ürünleri markasıdır.Firma İstanbul merkezlidir. Ürünleri 60 ülkeye ihraç edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-06"
+  },
+  {
+    "company": "AlmaWin",
+    "description": "AlmaWin, 1993 yılında kurulan, çevre ve insan dostu ekolojik temizlik ürünleri üreten AlmaWin Reinigungskonzentrate GmbH şirketine ait bir markadır. 2002 yılında Klar markasını da bünyesine katmıştır.Alman Almawin markası Almanya içerisinde ilk kez çevre ve insan dostu organik ürünleri, pazarlayan firma oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

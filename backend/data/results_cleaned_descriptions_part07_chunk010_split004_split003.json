@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Rains",
+    "description": "Rains, 2012 yılında kurulmuş olan Rains Aps bünyesinde üretilen günlük giyim, ceketler, pantolonlar, yağmurluk çanta ve aksesuarlar markasıdır.Rains Aps Danimarka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Enes Ayakkabı",
+    "description": "Enes Ayakkabı, 2003 yılında kurulmuş olan Enes Ayakkabıcılık San. ve Ltd. Şti. bünyesindeki bay, bayan, çocuk ayakkabıları ve aksesuarları, terlik, sandalet, bot ve çizme markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Moi Noi",
+    "description": "Moi Noi, 2017 yılında kurulmuş olan Cömert Bebe Konfeksiyon Tasarım İthalat İhracat San. ve Tic. Ltd. Şti. bünyesinde üretilen 0 ila 9 yaş arası kız ve erkek giyim markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carhartt Wip",
+    "description": "Carhartt Wip, 1994 yılında Edwin Faeh tarafından kurulmuş olan Work In Progress Textilhandels Gmbh bünyesindeki ceketler, gömlekler, tişörtler, elbiseler ve etekler, kot, pantolon, tulum, iç çamaşırı ve aksesuarlar markasıdır.Work In Progress Textilhandels Gmbh Almanya merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lucien Massaux",
+    "description": "Lucien Massaux, 1971 yılında kurulmuş olan Agral S. A. bünyesinde üretilen tereyağı ve yağ markasıdır.Agral S. A. Belçika merkezlidir. Ürünlerini Belçika’da üretmekte ve çok sayıda ülkeye pazarlamaktadır.Bünyesindeki markalar;HeritageJean-Marie CabayLes CoteauxLucien Massaux",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

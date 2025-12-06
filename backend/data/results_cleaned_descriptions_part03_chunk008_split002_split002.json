@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Evans Drumheads",
+    "description": "Evans Drumheads, 1996 yılında D’Addario and Company tarafından satın alınan, müzik aleti aksesuarları markasıdır.Gitar telleri, bas telleri, mandolin dizeleri, banjo dizeleri, dobro dizeleri, ukulele dizeleri, gitar kayışları, gitar kabloları, gitar alır, gitar tuners, davul kafaları gibi ürünler üretmektedir.D’Addario and Company Amerika merkezlidir ve ürünleri Amerika’da bulunan üretim tesislerinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dunlop Manufacturing",
+    "description": "Dunlop Manufacturing, 1965 yılında Jim Dunlop tarafından kurulan Dunlop Manufacturing, Inc. bünyesindeki müzikal aksesuarlar markasıdır.Dunlop Cry Baby, MXR ve Way Huge gibi birçok tanınmış efekt pedalı markası satın aldı.Dunlop Manufacturing, Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alfais",
+    "description": "Alfais, 2010 yılında İsmail Akpınar tarafından kurulan Alfais Elektronik bünyesinde ithal edilen cep telefonu aksesuarları, bilgisayar için çevirici ve adaptörler, ses ve görüntü sistemleri aksesuarları, usb ürünleri markasıdır.Alfais Elektronik tarafından satılan Alfais markalı ürünler Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Payot",
+    "description": "Payot, 1920 yılında Nadia Payot tarafından kurulan PAYOT Laboratories bünyesinde üretilen cilt bakım ürünleri markasıdır.PAYOT Laboratories Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Denkrom",
+    "description": "Denkrom, 2010 yılında kurulan gıda makineleri markasıdır.Denizli merkezli firma süt depolama, soğutma tankları ve süt ürünleri üretim makineleri üretmekte ve yüzde 90’ını ihraç etmektedir.Türkiye’de süt soğutma ve depolama, pişirme, fermantasyon ve üretim hatları sistemi üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-09-16"
+  }
+]

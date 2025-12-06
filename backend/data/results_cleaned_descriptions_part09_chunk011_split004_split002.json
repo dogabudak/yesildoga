@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Tiamob",
+    "description": "“Tiamob“2019 yılında kurulmuş olan Tiamob Tedarik Hizmetleri A.Ş. bünyesindeki demonte ayakkabılık, banyo dolabı, bar sandalyeleri, dresuarlar, erzak dolabı, fırın dolabı, gardırop, kitaplık, komodin, konsol, portmanto,vestiyer,askılık, sehpa, sehpa ve masalar, tamamlayıcı mobilyalar, televizyon ünitesi, televizyon sehpası, çalışma masası, çiçeklik, çok amaçlı dolap, şifonyer markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Freshoven",
+    "description": "“Fresh Oven“2015 yılında kurulmuş olan Başak Gıda A.Ş. bünyesinde üretilen paketli köy ekmeği, üçgen yufka, sac yufkası markasıdır.Çeşitli baharat ve katkı maddeleri içeren özel ekmek ve yufkalar da üretmektedir.Başak Gıda, Bim ve File zincir marketlere hizmet veren iştirak firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seramista",
+    "description": "“Seramista“2021 yılında kurulmuş olan Seramista Seramik San. Tic. A.Ş. bünyesinde üretilen mutfak ve banyo aksesuarları, vazo, abajur göbekleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Driscoll’s",
+    "description": "“Driscoll’s“1904 yılında kurulmuş olan Driscoll’s Inc. bünyesinde üretilen çilek, ahududu, böğürtlen, yaban mersini bitki fideleri markasıdır.Driscoll’s Inc. Amerika merkezlidir ve ürünleri yaklaşık 50 ülkeye satılmaktadır. Şirketin Amerika, Meksika ve Avustralya’da tarlaları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Medicago İlaç",
+    "description": "“Medicago İlaç“2016 yılında kurulmuş olan Medicago Ilaç Medikal San. Tic. Ltd. bünyesindeki gıda takviyeleri markasıdır.ISO 9001, GMP, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

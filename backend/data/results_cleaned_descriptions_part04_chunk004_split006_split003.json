@@ -1,0 +1,46 @@
+[
+  {
+    "company": "CND",
+    "description": "CND, 1979 yılında kurulan Creative Nail Design, Inc. bünyesindeki profesyonel tırnak, el ve ayak güzelliği ürünleri markasıdır.Güzellik ürünü koleksiyonu, tırnak cilası, tırnak bakım ürünleri, uzun aşınma cilası, el ve vücut losyonları içerir.Creative Nail Design, Inc. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mks Instruments",
+    "description": "Mks Instruments, 1961 yılında kurulan MKS Instruments, Inc. bünyesindeki basınç ölçüm ve kontrolü, akış ölçüm ve kontrol, gaz ve buhar dağıtım, gaz kompozisyon analizi, artık gaz analizi, kaçak tespiti, denetimi ve Bilgi Teknolojisi, ozon üretimi ve dağıtımı, RF ve DC güç, reaktif gaz üretimi ve vakum teknolojisi markasıdır.Proses performansını ve verimliliğini artırmak için gelişmiş üretim süreçlerinin kritik parametrelerini ölçen, kontrol eden, kontrol eden, izleyen ve analiz eden küresel bir cihaz, alt sistem ve proses kontrol çözümleri sağlayıcısıdır.MKS Instruments, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Deloitte",
+    "description": "Deloitte, 1845 yılında William Welch Deloitte tarafından kurulan Deloitte Touche Tohmatsu Limited bünyesindeki denetim, danışmanlık, finansal danışmanlık, risk danışmanlığı, vergi ve ilgili alanlarda profesyonel danışmanlık markasıdır.Deloitte Touche Tohmatsu Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Cansın",
+    "description": "Cansın, 1984 yılında kurulan Cansın Sağlık Gereçleri San. ve Tic. A.Ş. bünyesindeki tıbbi plasterler, sporcu plasterleri, yara bakım ürünleri ve göz pedleri, enjeksiyon grubu, bandajlar, yara bantları, kapsikumlu yakı, kişisel bakım markasıdır.ISO 9001 ve ISO 13485 belgelerine sahiptir.Ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SMA",
+    "description": "SMA, 1981 yılında kurulan SMA Solar Technology AG bünyesindeki invertör markasıdır.İnvertörler, fotovoltaik modüllerde üretilen dc’yi şebeke için uygun bir ac’ye dönüştürür. Akıllı sistem yöneticileri olarak, verim izleme ve şebeke yönetiminden de sorumludurlar.SMA Solar Technology AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

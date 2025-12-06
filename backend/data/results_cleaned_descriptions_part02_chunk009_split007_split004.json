@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Axis Bank",
+    "description": "Axis Bank, 1993 yılında kurulan bireysel bankacılık, kurumsal bankacılık, yatırım bankacılığı, mortgage kredileri, özel bankacılık, varlık yönetimi, kredi kartları, finans ve sigorta markasıdır.Axis Bank Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Thorne",
+    "description": "Thorne, 2012 yılında Hunca San. A.Ş. bünyesinde üretilen erkek koku markasıdır.Hunca Turquality kapsamında devlet destekli, yüzde 100 Türk kozmetik şirketidir.Ürünlerini Çerkezköy’de 22 dönüm arazi üzerine kurulu üretim tesislerinde üretmektedir.Helal, GMP, ISO 9001 ve Turquality Belgelerine sahiptir. Türk kozmetik endüstrisinin en köklü kuruluşlarından biridir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vopak",
+    "description": "Vopak, 1999 yılında kurulan Koninklijke Vopak N.V. bünyesindeki Petrokimyasallar ve yakıtlar için tank terminalleri, LNG yeniden gazlaştırma terminalleri markasıdır.Koninklijke Vopak N.V. çeşitli petrol, kimyasallar, yenilebilir yağlar ve doğal gazla ilgili ürünleri depolayan ve işleyen Hollandalı bir şirkettir. Şirket 1999 yılında Van Ommeren ve Pakhoed’un birleşmesi ile kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Taft Mega",
+    "description": "Taft, 1898 yılında kimyager Hans Schwarzkopf tarafından kurulan Schwarzkopf bünyesindeki saç bakım ürünleri markasıdır. Schwarzkopf 1995 yılında Henkel AG & Company, KGaA tarafından satın alınmıştır.Henkel AG & Company, KGaA Almanya merkezlidir.1963 yılından beri Türkiye’de Türk Henkel Kimya San. ve Tic. A.Ş. olarak faaliyet göstermektedir. Genel merkezi İstanbul’da, fabrikaları ise Gebze, Tuzla ve Ankara’dadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Taflan Radyatör",
+    "description": "Taflan Radyatör, 1936 yılında İhsan Aydın tarafından kurulan Aydın Aydın Dayanıklı Tüketim Malları San. ve Tic. Ltd. Şti. bünyesindeki radyatör markasıdır.Aydın Aydın Dayanıklı Tüketim Malzemeleri şirketi bünyesindeki markalar:TaflanKaşkarVızz-Cızzİntraled",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

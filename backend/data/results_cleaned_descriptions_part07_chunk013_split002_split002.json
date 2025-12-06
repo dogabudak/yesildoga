@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Lerato",
+    "description": "Lerato, 2016 yılında kurulmuş olan Tever Global Pazarlama ve Tic. A.Ş. bünyesindeki kamp masası, bahçe alet seti, temizleme kovası, kedi ve köpek seyahat çantası, evcil hayvan mama kasesi, kedi oyuncak, ayarlanabilir ve katlanabilir laptop masası, manyetik telefon tutucu markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;CicoshGhitaJovaLeratoMagic FreshMynilaSihirli TutamaçTeverglobal",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Promo Star",
+    "description": "Promo Star, 2001 yılında kurulmuş olan Promostar Mutfak Eşyaları San. Tic. Ltd. Şti. bünyesinde üretilen çaydanlıklar, çelik tencere setleri, basık tencereler, derin tencereler, granit setler, kare tavalar, sahanlar, tavalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maryplaid",
+    "description": "Maryplaid, 2000 yılında F.lli Campagnolo Spa bünyesinde üretilen battaniye, aksesuar ve ev tekstili markasıdır.F.lli Campagnolo Spa İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Fusion Meso",
+    "description": "Fusion Meso, 2004 yılında kurulmuş olan HB aesthetics bünyesinde üretilen kremler, maskeler, serumlar ve güçlendiriciler, temizleyiciler, kozmetik şişeler markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. ISO 9001 ve GMP belgelerine sahiptir.HB aesthetics İspanya merkezlidir ve ürünlerini 65’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Awe Cemre",
+    "description": "Awe Cemre, 2003 yılında kurulmuş olan SNS Gıda Kozmetik Tic. ve San. Ltd. Şti. bünyesinde üretilen uçucu ve sabit yağlar, doğal aromaterapi ürünleri markasıdır.İstanbul merkezli firma ürünlerini 6 bin metrekaresi kapalı, 5 bin metrekaresi açık alanda üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

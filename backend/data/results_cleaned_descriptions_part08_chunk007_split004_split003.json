@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Medicsa",
+    "description": "Medicsa, 2007 yılında kurulmuş olan Medicsa Sağlık Dış Tic. Ltd. Şti. bünyesindeki perakende satış sağlık ve kişisel bakım ürünleri markasıdır.Süt pompaları, emzirme ürünleri ve bebek bakım ürünleri kiralama, satış, pazarlama konusunda hizmet vermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biolinerx",
+    "description": "Biolinerx, 2003 yılında kurulmuş olan BioLineRx Ltd. bünyesindeki ilaç markasıdır.2014 yılında İsrail merkezli BioLineRx Ltd.’nin yüzde 12 hissesi İsviçre merkezli Novartis AG tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Starcom Tablet",
+    "description": "Starcom, 2016 yılında kurulmuş olan Unitex Technnology Co. Limited bünyesindeki Bluetooth hoparlör, akıllı kılıf, tablet bilgisayar markasıdır.Unitex Technnology Co. Limited Hong Kong merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Mucovit",
+    "description": "Mucovit, 1992 yılında temelleri atılan Neutec İlaç San. Tic. A.Ş. bünyesinde üretilen vitaminler markasıdır.Firma İstanbul merkezlidir. Ürünlerini Sakarya’da bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Didi Soğuk Çay",
+    "description": "Didi, 1983 yılında kurulmuş olan kamu iktisadi kuruluşu Çay İşletmeleri Genel Müdürlüğü Çay-Kur bünyesindeki soğuk çay markasıdır.ISO 9000, ISO 22000 ve Helal belgelerine sahiptir.Çay İşletmeleri Genel Müdürlüğü Çay-Kur’un bütün hisseleri 2017 yılında Türkiye Varlık Fonuna aktarılmıştır.Firma Rize merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

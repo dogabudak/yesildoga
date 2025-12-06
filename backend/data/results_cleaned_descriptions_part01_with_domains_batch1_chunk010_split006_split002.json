@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Japar",
+    "description": "Japar, 1986 yılında kurulan Japar Plastik İnşaat Malzemeleri Gıda Ambalaj Sanayi ve Ticaret A.Ş. bünyesindeki plastik malzemeden sıhhi tesisat malzemeleri markasıdır.Yerli firma Japar, 30’dan fazla ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ottomix",
+    "description": "2005 yılında kurulan Panorama Uluslararası taşımacılık şirketi, gemi taşımacılığı ve hırdavat tedarikçiliği alanlarında hizmet verirken 2017 yılında yüzde 100 yerli ve milli Türk markası olan kendi üretimi OTTOMIX adlı batarya üretimine başlamıştır.Su armatürleri çeşitliliğine sahip banyo ve mutfakta modern görünüm kazandırıyor ergonomik ürünlerle hayatı kolaylaştırıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Noco",
+    "description": "Noco, 1914 yılında fizikçi Joseph Henry Nook tarafındankurulan The NOCO Company bünyesindeki; tüketici pil şarj cihazları, atlama başlangıç, güneş panelleri ve taşınabilir güç cihazları ile pil ürünleri ve aksesuarları markasıdır.The NOCO Company, Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Probau",
+    "description": "Probau, Bauhaus yapı marketleri adına Werkhaus GmbH tarafından üretilen inşaat malzemeleri markasıdır.Werkhaus GmbH, 1992 yılında Holger Dannenberg tarafından kurulan çiçeklik, kalemlik, saklama kutuları ve raf sistemleri gibi aksesuarlar, perakende ve teşhir vitrinleri gibi evin içindeki her şeyi üreten ve baskı yapan Almanya merkezli firmadır.Bauhaus İsviçreli perakende satış şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2020-03-31"
+  },
+  {
+    "company": "Tumblr",
+    "description": "Tumblr, 2007 yılında David Karp tarafından kurulan sosyal ağ ve blog sitesidir.2017 yılında Verizon şirketler ailesinin bir üyesi olan dijital ve mobil medya şirketi Oath Inc. tarafından satın alındı. Verizon Communications Inc. Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

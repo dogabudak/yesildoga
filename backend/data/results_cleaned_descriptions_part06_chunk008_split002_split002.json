@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Parfumane",
+    "description": "Parfumane, 2018 yılında kurulan Parfumane Parfüm ve Müzecilik San. A.Ş. bünyesindeki parfümler markasıdır.Firma İstanbul merkezlidir. Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lillydoo",
+    "description": "Lillydoo, 2015 yılında Gerald Kullack ve Sven Bauer tarafından kurulan Lillydoo Gmbh bünyesindeki bebek bezleri ve bebek mendilleri markasıdır.Lillydoo Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ör-Koop",
+    "description": "Ör-Koop Nerenin Malı MarkasıÖr-Koop, 2008 yılında kurulan S.S.Ör-Koop Nazilli ve Çevresi Tarımsal Kalkınma Kooperatifi bünyesinde üretilen ayran, bal, peynir, tahin, tereyağı, yoğurt, zeytinyağı markasıdır.Aydın merkezli tarımsal kalkınma kooperatifi, 3 binden fazla ortağının ürettiği çiğ sütleri almaktadır. Türkiye’de yem fabrikası olan bir kooperatiftir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Senseo",
+    "description": "Senseo, 2001 yılında Douwe Egberts B.V. bünyesinde üretilen kahve kapsülleri ile çalışan bir kahve makinesi markasıdır.Koninklijke Douwe Egberts B.V. Hollanda merkezlidir. Şirketin yüzde 51 hissesi Hollanda merkezli JDE Peet’s NV.’ye ve yüzde 49 hissesi Amerika merkezli Mondelez International Inc.’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "The Baby Barn",
+    "description": "The Baby Barn, 1993 yılında kurulan The Baby Barn Pram & Nursery Centre Ltd. bünyesindeki bebek ekipmanları, bebek arabaları, araba koltuğu ve kreş mobilyaları markasıdır.The Baby Barn Pram & Nursery Centre Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

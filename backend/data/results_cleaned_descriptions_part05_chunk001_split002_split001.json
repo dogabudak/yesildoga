@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Alesta",
+    "description": "Alesta, 1985 yılında kurulan Alesta Gıda San. ve Dış Tic. A.Ş. bünyesinde üretilen makarna ve irmik markasıdır.Spagetti, penne, dirsek, erişte, spirali gibi 50 farklı çeşit makarna üretmektedir. Ürünlerini 60 ülkeye ihraç etmektedir.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Bünyesindeki markalar;AlestaÖrnekSeaSunMum",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yamar Electronics",
+    "description": "Yamar Electronics, 1994 yılında kurulan Yamar Electronics Ltd. bünyesindeki DC güç hatları üzerinden birleştirilen veri/kontrol teknolojisi markasıdır.Otomotiv, Endüstriyel, havacılık, yenilenebilir enerji ve daha fazla alanlar için DC-BUS teknolojisi, doğru akım (DC) pil hatları üzerinden dijital yollarla veri, ses, müzik ve video sinyallerinin iletişimini sağlar.Yamar Electronics Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Gıda",
+    "description": "Gıda, 2013 yılında kurulan Gıda International Group Ltd. Şti. bünyesindeki atıştırmalık meyve, kuru kayısı, kayısı ezmesi, meyve küpleri markasıdır.Cips ve rulo dilim, kuru meyve küpleri ve kuru meyve ürünleri üretmektedir.ISO 9001, ISO 22000, Kosher, Helal belgelerine sahiptir.Bünyesindeki markalar;American FarmsGidaGida International GroupInjazSultanTurkish Farms",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gülbahçe",
+    "description": "Gülbahçe, 1991 yılında kurulan Gülbahçe Kozmetik Ltd. Şti. bünyesinde üretilen kolonya, parfüm, gülsuyu, oda kokusu, ıslak mendil, ıslak havlu, sıvı sabun, oto bakım ürünleri, medikal mendiller, el temizleme jeli, bambu oda kokusu ve koku giderici markasıdır.ISO 90001 belgesine sahiptir. Ürünlerini 10’dan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;İlkomİlkom KiddyBursa Geceleri,DestinaDevonaFabiyaGülbahçeJusteneKerryRoosSincere",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 90001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cappel",
+    "description": "Cappel, 1997 yılında kurulan Günsu Su Kimyasalları San. ve Tic. A. Ş. bünyesinde üretilen su şartlandırma kimyasalların, temizlik ürünleri markasıdır.Ürünlerini Antalya OSB’de 20 bin metrekarelik açık alanda bulunan 10 bin metrekarelik kapalı alanda üretmektedir.Bünyesindeki markalar;AlbinoAlcovAlgaecideAnteAnte-CorAyleeCalcex FilterCalcex PoolCappelChlortabClearflock-LDr. QueEponaEponolForestGünsanGünsuGünsu SGünsu Suya Atılan ImzaGk Ph (-)JaxpelLopexMyconexOwiPonkaPoolwıcQuickchlorSetraxSteytSteyt Su ArıtmaTargetTeknophosTwg Treat WaterTwg Wave Systems",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

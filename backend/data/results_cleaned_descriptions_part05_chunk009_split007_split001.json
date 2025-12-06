@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Nordic",
+    "description": "Nordic, 2010 yılında iki firmanın birleşerek kurduğu Mylna Sport AS bünyesindeki koşu bandı, egzersiz bisikleti markasıdır.Şirket, spor depolarına ve eğitim stüdyolarına spor malzemeleri tedarik etmektedir.Mylna Sport AS Norveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "SKLZ",
+    "description": "SKLZ, 2002 yılında kurulan Pro Performance Sports LLC bünyesindeki spor malzemeleri markasıdır.Denge, hız, çeviklik ve güç gibi temel becerileri geliştiren fonksiyonel bir fitness ekipmanı isteyenler için uygundur. Hem takım içinde hem de bireyde sporculara ve tüketicilere sahip kişisel bir antrenör için mükemmeldir.Pro Performance Sports LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Grimme",
+    "description": "Grimme, 1861 yılında Franz Carl Heinrich Grimma tarafından kurulan Grimme Landmaschinenfabrik GmbH & Co. bünyesinde üretilen tarım makineleri alanında patates, pancar ve sebze teknolojisi markasıdır.Sebze sektöründe soğan, kırmızı pancar, havuç, pırasa, frenk soğanı, kereviz, rezene, bezelye, marul vb. hasat için çeşitli yenilikçi makineler üretmektedir.Grimme Landmaschinenfabrik GmbH & Co. Almanya merkezlidir ve 120’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ropa Maschinenbau",
+    "description": "Ropa Maschinenbau, 1986 yılında Hermann Paintner tarafından kurulan Ropa Fahrzeug- Und Maschinenbau Gmbh bünyesinde üretilen şeker pancarı ve patates hasat makineleri markasıdır.Ropa Fahrzeug- Und Maschinenbau Gmbh Almanya merkezlidir. Ürünlerini 40’dan fazla ülkeye pazarlamaktadır. Almanya iştirakleri olan Fransa, Ukrayna, Rusya, Polonya ve Çin’de yedek parça deposuyla, doğrudan satış ve servis desteği vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Thaco",
+    "description": "Thaco, 1997 yılında Tran Ba Duong tarafından kurulan Truong Hai Auto Corporation bünyesinde üretilen otomobil ve otomobil yedek parçaları markasıdır.Ürün Ar-Ge, otomobil parçaları üretiminden oto montaj, lojistik, dağıtım ve perakendeye kadar A’dan Z’ye bir değer zincirine sahiptir.Truong Hai Auto Corporation Vietnam merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "VN",
+    "updated_date": null
+  }
+]

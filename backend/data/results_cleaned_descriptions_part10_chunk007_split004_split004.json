@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Vogami",
+    "description": "2007 yılında kurulmuş olan İvekim İlaç Kimya ve Kozmetik San. şirketi bünyesindeki saç, cilt, yüz bakım ürünleri markasıdır.ABK Holding kuruluşu olan firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Powerbuilt",
+    "description": "1979 yılında kurulmuş olan Alltrade Tools LLC bünyesindeki kaldırma ekipmanı, el aletleri, montaj kitleri markasıdır.Alltrade Tools LLC Amerika merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gillette Venus",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Eneloop",
+    "description": "2005 yılında piyasaya sürülen şarj edilebilir pil ve aksesuarlar markasıdır.2009 yılında Japonya merkezli Panasonic Energy Co. Ltd. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Beyorganik",
+    "description": "2021 yılında kurulmuş olan Zehra Güzelocak Bey Organik Gıda Pazarlama bünyesinde üretilen organik gıda ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

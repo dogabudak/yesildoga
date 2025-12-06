@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Valve",
+    "description": "Valve, 2003 yılında kurulmuş olan Oakley Inc. bünyesindeki koruyucu gözlük, reçeteli gözlükler, güneş gözlükleri, parlama önleyici gözlükler markasıdır.Oakley Inc. 2007 yılında çoğunluk hisseleri EssilorLuxottica S.A. tarafından satın alındı.EssilorLuxottica S.A.’nın çoğunluk hisseleri Lüksemburg merkezli Delfin S.a r.l.’ye aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": "2024-02-13"
+  },
+  {
+    "company": "Pelagos Saat",
+    "description": "Pelagos, 1926 yılında kurulmuş olan Montres Tudor SA bünyesindeki saat markasıdır.Montres Tudor SA İsviçre merkezli Hans Wilsdorf foundation vakfı bünyesindedir ve saatlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Mark Ryden",
+    "description": "Mark Ryden, 2012 yılında kurulmuş olan Changsha Pinguan Leather Trade Co. Ltd. bünyesinde üretilen sırt çantası, laptop çantası, seyahat çantası markasıdır.Changsha Pinguan Leather Trade Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;Mark RydenMuzeeMazzy Star",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Baraka",
+    "description": "Baraka, 1993 yılında kurulmuş olan Bio Extracts Pvt. Ltd. bünyesinde üretilen çörek otu yağı, çörek otu bazlı doğal bitkisel takviyeler, organik sızma hindistancevizi yağı ve kişisel bakım ürünleri markasıdır.ISO 14001, ISO 22000, AB Organik, JAS organik, USFDA, HELAL ve KOŞER belgelerine sahiptir.Bio Extracts Pvt. Ltd. Sri Lanka merkezli Aberdeen Holdings’in bir yan kuruluşudur. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "FDA",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "Sri Lanka",
+    "updated_date": null
+  },
+  {
+    "company": "Frinsa",
+    "description": "Frinsa, 1961 yılında kurulmuş olan Frinsa Del Noroeste SA bünyesinde üretilen konserve ton balığı ve kabuklu deniz ürünleri markasıdır.Şirket tuzlu suda yulaf ezmesi, midye, sardalya ve diğer ilgili ürünler sunmaktadır.Frinsa Del Noroeste SA İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

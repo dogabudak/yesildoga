@@ -1,0 +1,44 @@
+[
+  {
+    "company": "MFT Energy",
+    "description": "MFT Energy, 2016 yılında kurulmuş olan MFT Energy A/S bünyesindeki enerji ve gaz ticaret merkezidir.MFT Energy A/S Danimarka merkezlidir. Türkiye, Avustralya ve Singapur’da ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Ahlatcı",
+    "description": "Ahlatcı, 1984 yılında kurulmuş olan Ahlatcı Holding A.Ş. bünyesindeki kuyumculuk, yatırım, enerji, sağlık, inşaat, gayrimenkul, rafineri, finans ve ödeme sistemleri markasıdır.Holding, 6 ana sektörde 40 şirketi ile faaliyet göstermektedir.Çorum merkezli firma 26 ülkeye ihracat gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Puretools",
+    "description": "Puretools, 2001 yılında kurulan Purelink Gmbh bünyesindeki ticari AV kurulumları ve uygulamaları için matrisler, anahtarlayıcılar, ayırıcılar, dönüştürücüler ve genişleticiler gibi yüksek kaliteli Ses / Video elektroniği ürünlerini içerir. Odak noktası, HDMI, DisplayPort, DVI, USB, HDBaseT markasıdır.Purelink Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Audiosonic",
+    "description": "Audiosonic, 1977 yılında kurulmuş olan Tristar Europe B.V. bünyesindeki eğlence amaçlı görsel-işitsel ürünler markasıdır.Firmanın ürün yelpazesi ev aletleri, ses ve görüntü, iletişim, bebek bakımı ve açık hava yaşamı kategorilerine yayılmıştır.Tristar Europe B.V. Hollanda merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Lavalier",
+    "description": "Lavalier, 2019 yılında kurulmuş olan The Best Spot Corp. bünyesindeki hoparlörler, mikrofonlar, saatler, akıllı saatler, kulaklıklar, kulaklıklar, kablosuz şarj cihazları, şarj cihazları gibi elektronik cihazlar markasıdır.The Best Spot Corp. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

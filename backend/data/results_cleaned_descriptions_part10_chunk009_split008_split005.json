@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Anyela",
+    "description": "Aly Güzellik ve Kozmetik Ürünleri Tic. Ltd. Şti. bünyesindeki saç ve cilt bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coofbe",
+    "description": "2022 yılında kurulmuş olan Coofbe E-Ticaret Hizmetleri Ltd. Şti. bünyesinde ithal edilen çevirici ve adaptörler, ön cam güneşliği, şarj cihazları, şarj kabloları, akıllı saat ve bileklik aksesuarları, araç içi telefon tutacağı, bardaklık, bluetooth kulaklık, ekran koruyucu, çok amaçlı temizlik ürünleri, kılıflar, motosiklet telefon ve navigasyon tutucular, mouse, notebook standı, tablet kılıf, kalem, standları, telefon kulaklıkları, telefon oyun aksesuarları, vantilatör markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cool cold",
+    "description": "2007 yılında kurulmuş olan Coolcold Technology Co. Ltd. bünyesinde üretilen dizüstü soğutma pedi, dizüstü bilgisayar standı, mikrofon, kulaklık, hoparlörler markasıdır.ISO 9001, CE belgelerine sahiptir.Coolcold Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Highstar",
+    "description": "1994 yılında kurulmuş olan Jiangsu Highstar Battery Manufacturing Co. Ltd. bünyesinde üretilen li-ion pil, sodyum iyon pil, konut enerji depolama sistemi, lityum pil takımı, prizmatik lifepo4 hücresi, silindirik li-ion hücre, telekom istasyonu için yedek güç, ticari ve endüstriyel enerji depolama sistemi markasıdır.Jiangsu Highstar Battery Manufacturing Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yepvital",
+    "description": "2015 yılında kurulmuş olan Yep Pet Food San. Tic. Ltd. Şti. bünyesindeki köpek mamaları markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

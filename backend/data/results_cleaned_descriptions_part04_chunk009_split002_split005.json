@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Canello",
+    "description": "Canello, 1996 yılında kurulan Çelik Bisiklet Motosiklet San. Tic. Ltd. Şti. bünyesinde üretilen çocuk bisikletleri, hizmet bisikletleri, mtb bisikletler, şehir bisikletleri markasıdır.Ayrıca bisiklet ve motosiklet sektörü için yedek parçalar sunmaktadır.Bursa merkezli firma 4 bin 520 metrekarelik kapalı ve bin 775 metrekarelik açık alanda kurulan fabrikasıyla hizmet vermektedir.Bünyesindeki markalar;Çelik BisikletCanelloCaspiano",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-04-20"
+  },
+  {
+    "company": "Meistersinger",
+    "description": "Meistersinger, 2001 yılında Manfred Brassler tarafından kurulan MeisterSinger GmbH & Co. KG bünyesinde üretilen saat markasıdır.Mekanik kol saati, elbise saati, dalış saati üretmektedir.MeisterSinger GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Achill",
+    "description": "Achill, 2002 yılında kurulan Ekimsan Ekşioğlu İnşaat ve Makine San. Tic. Ltd. Şti. bünyesinde üretilen askı aparatı ve televizyon sehpaları markasıdır.Ayrıca Achill markasıyla HDMI kablo, ekran temizleme spreyi, hoparlör ayağı ürünleri sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tricraft",
+    "description": "Tricraft, Hejian Dacheng Abrasive Tools Ltd. bünyesinde üretilen aşındırıcı el aletleri, zımpara taşlama tekerlekleri, tırpan taşları, bileme tekerlekleri, kesme el aletleri, spatula, bıçak bileme aletleri, korindon taşlama tekerlekleri, gravür araçları markasıdır.Hejian Dacheng Abrasive Tools Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Transval",
+    "description": "Transval, 1974 yılında Adem Ağırbaş tarafından kurulan Transval Bisiklet Dış Ticaret San. ve Tic. Ltd. Şti. bünyesindeki bisiklet ve jant markasıdır.Ürünlerini 4 bin metrekarelik kapalı alanda üretmektedir. ISO 14001, ISO 9001, OHSAS 18001, belgelerine sahiptir.Ürünlerini Almanya, Hollanda ve Yunanistan başta olmak üzere AB ülkelerine ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

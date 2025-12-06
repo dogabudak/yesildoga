@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Page Personnel",
+    "description": "Page Personnel, 1976 yılında Michael Page ve Bill McGregor tarafından kurulan PageGroup plc bünyesindeki ülke çapında geçici, sözleşmeli ve daimi personel alım hizmetleri markasıdır.Dünyanın her yerinde ofisleri vardır ve işe alım hizmetleri vermektedir.35 ülkede faaliyet gösteren PageGroup plc İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Autowit",
+    "description": "Autowit, 2018 yılında kurulan Neabot Tech Co. Limited bünyesinde üretilen araç aksesuarları markasıdır.Araçlar için kapasitör araba atlama marş güç bankası, hava temizleyici, akülü lastik şişirme ürünleri sunmaktadır.Neabot Tech Co. Limited, Çin merkezli Genhigh Tech Co. Ltd.’nin bir yan kuruluşudur ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Aku Slope",
+    "description": "Aku, AKU s.r.l. bünyesinde üretilen erkek, kadın ve çocuk ayakkabıları markasıdır.Firma doğa ile temas halinde olanlar için dağ, avcılık ve eğlence amaçlı ayakkabılar üretmektedir.AKU Italia s.r.l. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2022-03-21"
+  },
+  {
+    "company": "Clorts",
+    "description": "Clorts, 2006 yılında Guangzhou Hongchi Sports Goods Co. Ltd. bünyesinde üretilen dış mekan ayakkabıları ve diğer fonksiyonel ayakkabılar markasıdır.Ürünleri deri, ultra PU veya enjeksiyon tabanlı ağdan yapılmıştır.Guangzhou Hongchi Sports Goods Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Yihua",
+    "description": "Yihua, 2014 yılında kurulan Guangzhou Yihua Electronic Equipment Co. Ltd. bünyesinde üretilen elektrikli ve gazlı kaynak makineleri, elektrikli ark kaynak cihazları, elektrikli lehim cihazları, elektrikli ark kesme cihazları, elektrikli kaynak makine elektrotları ve bunlarla aynı işleve sahip robotlar markasıdır.Guangzhou Yihua Electronic Equipment Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 40’tan fazla ülkeye pazarlamaktadır.ISO 9001, RoHS, FCC, INMETRO, SAA ve SGS belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Albimo",
+    "description": "Albimo, 1998 yılında kurulan Albimo Mobilya Teks. İnş. Gıda. Turz. Tic. San. Ltd. Şti. bünyesinde üretilen mobilya ve koltuk markasıdır.Bursa merkezli firma 20 bin metrekarelik kare kapalı alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aermec",
+    "description": "Aermec, 1961 yılında Giordano Riello tarafından kurulan Aermec S.P.A. bünyesinde üretilen klima markasıdır.Ürün yelpazesi, sıvı soğutma grupları, ısı pompası, fancoil, klima santralleri, split üniteler, VRF sistemleri, ısı geri kazanım ekipmanları, çatı üniteleri gibi ürünlerden oluşmaktadır.Aermec S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Akuvox",
+    "description": "Akuvox, 2012 yılında Star-net Group’un bir yan kuruluşu olarak kurulan Akuvox Networks Co. Ltd. bünyesinde üretilen interkom, görüntülü telefon, kapı telefonu, iç mekan monitörü, bina otomasyonu markasıdır.Akuvox Networks Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kral Tatlı",
+    "description": "Kral Tatlı Nerenin Malı MarkasıKral, 1967 yılında Sait Köksal tarafından kurulan Kral Unlu Mamuller Gıda San. ve Tic. A.Ş. bünyesinde üretilen şambaba tatlısı, şekerpare tatlısı, cinbaba tatlısı, kalburabastı tatlısı, kemalpaşa tatlısı, güllaç tatlısı, glutensiz güllaç, kadayıf, pasta altı kekler, erişte, kurabiye, mantı, tarhana, yufka markasıdır.TSE, ISO 9001 ve ISO 22000 belgelerine sahiptir.Ankara merkezli firma ürünlerini 10 bin metrekaresi açık 7 bin metrekarelik kapalı alanda kurulu olan tesisinde üretmektedir.Bünyesindeki markalar;AltınolukBeykökEski DostGülbahçesiGüllüaşKaizenKırkayakKöksalKörebeKralKral CinbabaKral Dünya TatlısıKralzadeLutemNatural GıdalarNatural TatlarNatural WaterOlsada YesekPembe KöşkRamazanRamazan BaklavasıRamazan CinbabasıRamazan GüllacıRamazan KadayıfıRamazan KemalpaşasıRamazan ŞekerparesiRamazan Tarhana ÇorbasıRamazan TatlılarıRamazan TatlısıRamazanın TatlılarıReyfesTatlı AnnemTatlı Bir BuluşmaTatlı Çiftliği",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cavendish & Harvey",
+    "description": "Cavendish & Harvey Hangi Ülkenin Malı MarkasıCavendish & Harvey, 1932 yılında kurulan Cavendish & Harvey Confectionery Gmbh bünyesinde üretilen şekerleme markasıdır.Cavendish & Harvey Confectionery Gmbh, 2002 yılında Boettger Gruppe tarafından satın alındı.Boettger Gruppe Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

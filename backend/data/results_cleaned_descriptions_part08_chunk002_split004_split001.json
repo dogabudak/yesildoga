@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Scudo Sports",
+    "description": "Scudo Sports, 2022 yılında kurulmuş olan Scudo Sports Tekstil Sanayi ve Tic. Ltd. Şti. bünyesinde üretilen bisiklet motosiklet ve outdoor ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Remolent",
+    "description": "Remolent, 2012 yılında kurulmuş olan Are İlaç Medikal İç ve Dış Tic. Ltd. Şti. bünyesindeki cilt bakım ürünleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kennel Premium Dog Food",
+    "description": "Kennel, 1982 yılında kurulmuş olan Çağatay Evcil Hayvan Mamaları ve Yem Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen köpek mamaları markasıdır.İzmir merkezli firma ürünlerini 16 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jusbox Perfumes",
+    "description": "Jusbox Perfumes, 2000 yılında kurulmuş olan Beauty San S.P.A. bünyesinde üretilen parfüm markasıdır.Beauty San S.P.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Ralon Super",
+    "description": "Ralon Super, 1863 yılında kurulmuş olan Bayer AG yan kuruluşu Bayer Intellectual Property Gmbh bünyesinde üretilen hayvan ve bitki imha maddeleri, herbisitler markasıdır.Bayer Intellectual Property Gmbh Almanya merkezlidir.Bünyesindeki markalar;Adengo SC 465AlionAtlantis StarAttribut SuperBetanal maxxPro OD 209Buctril MCChallengeSC -600Ekipp Super WG 61Kelt WG 85Laudis OD 66Merlin Flexx SC 480Ralon SuperRicestar EC 14Sencor Gold WG 41,5Sencor SC 600Sigma OF 120",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

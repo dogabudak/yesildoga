@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Olaplex",
+    "description": "Olaplex, 2014 yılında kurulan Olaplex, Inc. bünyesindeki saç bakım ürünleri markasıdır.Ürünlerini 100’den fazla ülkeye pazarlamaktadır.Olaplex, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nudo",
+    "description": "Nudo, 1920 yılında Ali Eriş tarafından kurulan Erişler Gıda San. ve Tic. A.Ş. bünyesindeki kıvırcık erişte markasıdır.Ürünleri MSG vs. hiçbir katkı maddesi, yapay katkılar, boyalar, renklendiriciler içermez.Gimdes helal belgesine sahiptir.Erişler gıda bünyesindeki markalar;Eriş UnMiluniNudoÖzde",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Castore",
+    "description": "Castore, 2015 yılında Phil Beahon ve Tom Beahon tarafından kurulan J.Carter Sporting Club Limited bünyesindeki spor giyim markasıdır.Şirketin ürünleri dünya çapında 50’den fazla ülkede satılmaktadır.J.Carter Sporting Club Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Feel Life",
+    "description": "Feel Life, 2013 yılında kurulan Feellife Health Inc. bünyesindeki taşınabilir kafes nebülizörü markasıdır.Feel Life markalı ürünler 50’den fazla ülke ve bölgeye satılmaktadır.Feellife Health Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Acevivi",
+    "description": "Acevivi, 2008 yılında kurulan Shenzhen Sailvan Network Technology Co., Ltd. bünyesinde üretilen saç düzleştirici, fırçalar, göz farı, tırnak cilası, dudak parlatıcıları, karın pedleri, göğüs pompaları, elektrikli akupunktur aletleri, kalp hızı izleme cihazı, masaj cihazları markasıdır.Ürünlerini 200 ülkeye pazarlamaktadır.Shenzhen Sailvan Network Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

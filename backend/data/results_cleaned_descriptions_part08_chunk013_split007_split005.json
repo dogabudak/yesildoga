@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dear Body Bronzlaştırıcı",
+    "description": "Dear Body2008 yılında kurulmuş olan A101 Yeni Mağazacılık A.Ş. adına çeşitli üreticiler tarafından üretilen bronzlaştırıcılar, güneş krem ve losyonları, serumlar markasıdır.Üretici firmalar ürünlerini Türkiye’de üretmektedir.A101 Market Sahibi Kimdir?",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aria Guitars",
+    "description": "Aria Guitars1956 yılında Shiro Arai tarafından kurulmuş olan Arai & Co. Inc. bünyesindeki elektro gitarlar, elektrikli baslar, akustik gitarlar, klasik gitarlar, diğer enstrümanlar ve aksesuarlar markasıdır.Arai & Co. Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Alisha",
+    "description": "Alisha1985 yılında Cem Sunman tarafından kurulmuş olan Sunman San. Mamülleri İthalat İhracat ve Tic. A.Ş. bünyesindeki bebek oyuncakları markasıdır.Firma İstanbul merkezlidir ve 11 bin metrekarelik bir oyuncak fabrikası vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "MR.DIY",
+    "description": "MR.DIY2005 yılında kurulmuş olan MR D.I.Y. Group Bhd bünyesindeki yapı market ve ev gereçleri perakende markasıdır.MR D.I.Y. Group Bhd Malezya merkezlidir. Türkiye’de 2022 yılından beri MR.DIY TURKEY Ev Gereçleri ve Yapı Malzemeleri İthalat A.Ş. olarak faaliyet göstermektedir. Türkiye’de 20 ilde 100’e yakın mağazaya sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": "2024-08-25"
+  },
+  {
+    "company": "Fitville",
+    "description": "Fitville2022 yılında kurulmuş olan Guangzhou Luhua Trading Co. Ltd. bünyesinde üretilen ergonomik ayakkabı markasıdır.Ürün yelpazesinde erlik, bot, spor ayakkabı, sandalet, düz ayakkabı, çorap, ortez tabanlık, ayak bileği desteği, spor çantası, şapka yer almaktadır.Guangzhou Luhua Trading Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

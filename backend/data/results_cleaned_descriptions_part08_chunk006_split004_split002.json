@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kdi Balon",
+    "description": "Kdi, 2001 yılında kurulmuş olan Kdi Industries Sdn Bhd. bünyesinde üretilen çeşitli şekil ve boyutlardaki kauçuk kateks balonlar markasıdır.Kdi Industries Sdn Bhd. Malezya merkezlidir. Ürünlerini 25’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ID",
+    "updated_date": null
+  },
+  {
+    "company": "Ankebut",
+    "description": "Ankebut, 2019 yılında kurulmuş olan Ankebut Oyuncak Kırt. Dek. İml. San. ve Tic. Ltd. Şti. bünyesinde üretilen ahşap eğitici oyuncaklar, yapboz, okul araç ve gereçleri ve ahşap duvar dekorasyon ürünleri markasıdır.Firma Zonguldak merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Blackeyewear",
+    "description": "Blackeyewear, 1998 yılında kurulmuş olan Aydın Optik Makina Paz. San. ve Tic. Ltd. Şti. bünyesindeki gözlük markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zooz",
+    "description": "Zooz, 2013 yılında kurulmuş olan Zooz Power Ltd. bünyesinde üretilen ultra hızlı EV şarjı çözümleri markasıdır.Şarj altyapısı, e-Mobilite, enerji depolama ve hızlı şarj hizmetlerini sunmaktadır.Zooz Power Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Ecomatik",
+    "description": "Ecomatik, 2021 yılında kurulmuş olan Mcmbor Temizlik Gıda Otomotiv İnşaat San. ve Tic. Ltd. Şti. bünyesinde üretilen temizlik ürünleri markasıdır.Firma Konya merkezlidir.Bünyesindeki markalar;Aloxi MatikDetix MatikDoğu MatikDoxyl MatikEcomatikEge MatikH-Eco MatikHmborIksirMarix MatikMattics MatikMaxi MatikMcm İksirMcmborPercoPurpak MatikScox MatikTiceTidexoTitox MatikTixeTuxy Matik",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

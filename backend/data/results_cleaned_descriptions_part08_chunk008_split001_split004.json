@@ -1,0 +1,61 @@
+[
+  {
+    "company": "Smart Dough",
+    "description": "Smart Dough, 2019 yılında kurulmuş olan MGS Plastik San. Tic. Ltd. Şti. bünyesindeki oyun hamuru markasıdır.ISO 9001, ISO 14001, OHSAS 18001, BRC GMP belgelerine sahiptir.Firma Tekirdağ merkezlidir. Ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir.Bünyesindeki markalar;Almira’nın DünyasıBeyazlar Ülkesi Alissa&SonyaCraftland Dough Shape Your DreamsEda’nın DünyasıFunny Elly’s WorldLuna’nın DünyasıMgsMgs Toy FactoryMy BuildersSare’Nin DünyasıSgmSmart CraftSmart DoughSmart LandSmart SandSmartland DoughSmartland SandWhite World Alissa&Sonya",
+    "documents": [
+      "BRC",
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arsanmak",
+    "description": "Arsanmak, 1975 yılında temelleri atılan Arsanmak Makina İmalat San. ve Tic. A.Ş. bünyesindeki etiketleme makineleri, kapak kapatma makineleri, sıvı dolum makineleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Prosenic",
+    "description": "Prosenic, 2007 yılında kurulmuş olan Betpa Dijital Teknoloji Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki airfryer, dikey süpürgeler, hava temizleyiciler, mutfak aletleri, robot süpürgeler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Klerax",
+    "description": "Klerax, 2020 yılında kurulmuş olan Asef Islak Mendil Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen bebek bakım, endüstriyel bakım, ev, ofis ve araç bakım, kozmetik ve kişisel bakım, pet ve farm care, tıbbi ve perineal bakım için ıslak mendiller markasıdır.ISO 9001, ISO 1002, ISO 13485, ISO 14001, ISO 22716, ISO 31000, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 1002",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 31000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Limera",
+    "description": "Limera, 2007 yılında kurulmuş olan Fimaks Plastik A.Ş. bünyesinde üretilen kullan at plastik kapları markasıdır.Firma Tekirdağ merkezlidir. Çorlu’da 20 bin metrekarelik alanda bulunan 10 bin metrekarelik kapalı alana sahip tesisinde üretim yapmaktadır ve ürünlerini 34 ülkeye ihraç etmektedir.ISO 9001 belgesine sahiptir.Firma Tekirdağ merkezlidir.Bünyesindeki markalar;Fimaks PlastikHolopakLimera",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

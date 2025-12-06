@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Stüssy",
+    "description": "Stüssy, 1985 yılında Shawn Stussy tarafından kurulan Stüssy Inc. bünyesindeki giyim ve aksesuarlar markasıdır.Erkekler ve kadınlar için gömlekler, kapüşonlular ve kazaklar, ceketler, aksesuarlar sunmanın yanı sıra pantolon ve kot pantolon ile ilgili ürünler sunmaktadır.Amerika merkezli Stüssy Inc. giyim ve aksesuar mağazaları zinciri işletmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "UGG",
+    "description": "UGG, 1978 yılında Brian Smith tarafından kurulan Ugg Holdings Inc. bünyesindeki ayakkabı ve aksesuarları, çanta, giyim, dış giyim, ev eşyaları ve diğer ürünler markasıdır.Ayakkabılarını Vietnam ve Çin’de bulunan fabrikalarında üretmektedir.Ugg Holdings Inc. 1995 yılında Amerika merkezli Deckers Outdoor Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Roberto Cavalli",
+    "description": "Roberto Cavalli, 1970 yılında kurulan Roberto Cavalli S.P.A. bünyesindeki moda, lüks, aksesuar ve yaşam tarzı evidir.Üst düzey ürün yelpazesinde kokular ve saatler yer almaktadır.Roberto Cavalli S.P.A., 2019 yılında BAE merkezli Vision Investment Co. LLC. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Lige Saat",
+    "description": "Lige, 2013 yılında Kaiser International Trade Co. Ltd. tarafından kurulan Guangzhou Lige Watch Co. Ltd. bünyesinde üretilen saat, akıllı saat, akıllı bilezik, kan basıncı ekranı markasıdır.Guangzhou Lige Watch Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Modine",
+    "description": "Modine, 1916 yılında kurulan Modine Manufacturing Company bünyesinde üretilen, ısı transfer ürünleri, radyatör ve iklimlendirme teknolojisi ürünleri markasıdır.Modine Manufacturing Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

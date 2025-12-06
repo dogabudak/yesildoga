@@ -1,0 +1,49 @@
+[
+  {
+    "company": "B-Cure Laser",
+    "description": "B-Cure Laser, 2009 yılında kurulmuş olan Erika Carmel Ltd. bünyesindeki tıbbi cihazlar markasıdır.Şirketin ürünleri, günlük ev içi kullanım için ağrı, ortopedik bozukluklar, yaralar ve iltihapları tedavi etmek için tasarlanmıştır, bunlar bir dizi hafif ve taşınabilir cihazdır. Ayrıca Şirket hayvan tedavisi için cihaz geliştirdi.Erika Carmel Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Quick Dicer",
+    "description": "Quick Dicer, 2008 yılında kurulan Hedef Tüketim Ürünleri San. ve Dış Tic. A.Ş. bünyesinde ithal edilen bıçak bileyiciler, rendeler, mutfak makası, ipli doğrayıcı markasıdır.Firma İstanbul merkezlidir. Ürünlerini Asya ve Avrupa’nın çeşitli ülkelerinden tedarik etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nilem",
+    "description": "Nilem, 2004 yılında kurulmuş olan Aktaş Sağlık Kozmetik ve Temizlik Ürünleri San. Tic. Ltd. Şti. bünyesinde üretilen deterjan, bulaşık deterjanı, yumuşatıcı, ahşap temizleyici, cam temizleyici, yüzey temizleyici, sıvı el sabunu, yağ sökücü, halı şampuanı, arap sabunu markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beauty House",
+    "description": "Beauty House, 2015 yılında kurulmuş olan Eve Mağazacılık A.Ş. bünyesindeki duş jeli, el kremi, ıslak havlu, kolonya, sabun, sıvI sabun, vücut şampuanı, vücut losyonu, manikür set, fırça, makyaj süngeri, makyaj çantaları markasıdır.Firma İstanbul merkezlidir. Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Juan Valdez",
+    "description": "Juan Valdez, 1927 yılında kurulmuş olan Federacion Nacional De Cafeteros De Colombia bünyesindeki kahve markasıdır.Federacion Nacional De Cafeteros De Colombia Kolombiya merkezlidir.Bünyesindeki markalar;BuendiaCafe De ColombiaJuan Valdez",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

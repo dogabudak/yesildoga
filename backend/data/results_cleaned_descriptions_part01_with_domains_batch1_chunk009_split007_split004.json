@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Barielle",
+    "description": "Barielle, 1980 yılında kurulan cilt güçlendirici, el ve ayak bakım kremleri markasıdır.Barielle ürünlerinde formaldehit, toluen veya Dibutil ftalat (DBP) içermez.Barielle Amerikan merkezli bir markadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-08-13"
+  },
+  {
+    "company": "Invicta",
+    "description": "Invicta, 1991 yılında kurulan Invicta Watch Group bünyesindeki kol saatleri ve aksesuarları markasıdır.Invicta Watch Company of America Inc. Amerika merkezlidir. Ürünlerini İsviçre’de ürettirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-05-07"
+  },
+  {
+    "company": "Trilogic",
+    "description": "Trilogic, 1986 yılında kurulan Trilogic, Inc bünyesindeki; bluetooth kulaklık, mp3 çalar, kart okuyucu, klavye ve setleri, mouse, hoparlör, notebook soğutucu, oyun kolu, kulaklık ve güç kaynağı markasıdır.Trilogic, Inc Amerikan merkezli şirkettir ve ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Thermaltake",
+    "description": "Thermaltake, 1999 yılında kurulan Technology Co., Ltd bünyesindeki; bilgisayar kasası, soğutucu, güç kaynağı, fan, laptop soğutucu ve depolama aksesuarları markasıdır.Technology Co., Ltd Tayvan merkezli bir şirkettir ve Çin ile birlikte çok sayıda üretim tesisi bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2019-04-14"
+  },
+  {
+    "company": "NZXT",
+    "description": "NZXT, 2004 yılında Johnny Hou tarafından kurulan bilgisayar donanımı üreticisidir. Bilgisayar kılıfları, güç kaynağı üniteleri, bilgisayar fanları, su soğutma, RGB LED aydınlatma, anakartlar, bileşenler ve bilgisayar oyun pazarı için aksesuarlar üretmektedir.NZXT, Amerikan merkezli bir şirkettir. Ürünler Amerika’da tasarlanarak Çin ve Tayvan’da üretliyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

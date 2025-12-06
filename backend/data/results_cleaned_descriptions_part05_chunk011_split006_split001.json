@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Avista Oil",
+    "description": "Avista Oil, 1951 yılında kurulan Avista Oil Gmbh bünyesinde üretilen atık yağ ve yağ bazlı sıvılar markasıdır.Kullanılmış yağın karıştırılmasında öncüdür. Çeşitli Avrupa ülkelerinde rafineri ve toplama faaliyetleri bulunmaktadır.Şirket, atık yağın arıtılması için, ince film buharlaştırma içeren çok aşamalı bir damıtma kullanır.Avista Oil Gmbh Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Prontotour",
+    "description": "Prontotour, 1993 yılında kurulan Prontotour AC Turizm Tic. A.Ş. bünyesindeki biletleme, kurumsal seyahat hizmetleri, münferit turlar, vize hizmetleri markasıdır. A grubu seyahat acentesi olarak hizmet vermektedir.İstanbul merkezli firma turizm sektöründe faaliyetlerini sürdürmektedir.Pronto Grup Şirketleri; Pronto Mice, Pronto Bus, Pronto Teknoloji, Binovist, Senna",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zero Motorcycles",
+    "description": "Zero Motorcycles, 2006 yılında Neal Saiki tarafından kurulan Zero Motorcycles Inc. bünyesindeki elektrikli motosikletler markasıdır.Zero Motorcycles Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Necchi",
+    "description": "Necchi, 1919 yılında kurulan Necchi s.r.l. bünyesinde üretilen dikiş makineleri, buzdolapları için kompresörler, elektronik hesap makineleri için mekanik parçalar markasıdır.Necchi Italy s.r.l. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2022-05-04"
+  },
+  {
+    "company": "Hoechstmass",
+    "description": "Hoechstmass, 1895 yılında kurulan Hoechstmass Balzer Gmbh bünyesinde üretilen klasik terzi bantları, otomatik makaralı bantlar, dijital veri işleme için elektronik ölçüm bandı, işaretleme kalemleri, dikiş sökücüler ve dikiş yardımcıları markasıdır.Hoechstmass Balzer Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Rafamet",
+    "description": "Rafamet, Rafamet S.A. bünyesinde üretilen demiryolları için makineler, dikey ve yatay torna tezgahları, özel amaçlı freze makineleri markasıdır.Tekerlek takımı işleme için özel amaçlı takım tezgahları üretmektedir.Rafamet S.A. Polonya merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Monki",
+    "description": "Monki, 2006 yılında kurulan perakende moda mağaza zincirleri markasıdır.2008 yılında H & M Hennes & Mauritz AB bünyesine katıldı.Genç kadınlara yönelik giyim ürünleri sunmaktadır.H & M Hennes & Mauritz AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Me & the Bees Lemonade",
+    "description": "Me & the Bees Lemonade, 2009 yılında Mikaila Ulmer tarafından kurulan Me & the Bees Lemonade Company bünyesinde üretilen şişelenmiş içecek markasıdır.Keten tohumu ile yapılan ve kır çiçeği balıyla tatlandırılmış şişelenmiş limonatalar üretmektedir.Me & the Bees Lemonade Company Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Body Fantasies",
+    "description": "Body Fantasies, 2000 yılında PDC Brands Ltd. bünyesinde üretilen parfim markasıdır.Şirket kozmetik, saç, koku, kişisel bakım, sağlıklı yaşam ve banyo kategorilerinde markalardan oluşan bir ürün yelpazesine sahiptir.PDC Brands Ltd. İngiltere merkezlidir. Ürünleri dünya genelinde 80’den fazla ülkede bulunmaktadır.2017 yılında CVC Capital Partners Ltd. tarafından satın alındı.Bünyesindeki markalar;Bod manBody FantasiesBodycologyCalgonCantuDr Teal’sElegant TouchEylureME! bathSalon System",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Pro Star Mama",
+    "description": "Pro Star, 2016 yılında kurulan Hermos Gıda Ltd.Şti. bünyesinde üretilen kedi ve köpek mamaları markasıdır.ISO 9001, ISO 14001, ISO 22000, GMP. BRC belgelerine sahiptir.Manisa merkezli firma ürünlerini 13 bin 500 metrekarelik alanda kurulu fabrikasında üretmektedir.",
+    "documents": [
+      "BRC",
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

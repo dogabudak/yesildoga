@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sata Jet",
+    "description": "Sata Jet, 1907 yılında kurulan Sata Gmbh & Co. Kg bünyesinde üretilen boya püskürtme tabancaları ve sistemleri, filtre teknolojisi, solunum koruma sistemleri ve aksesuarlar markasıdır.Sata Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sachs Debriyaj",
+    "description": "Sachs, 1915 yılında kurulan ZF Friedrichshafen AG bünyesinde üretilen debriyaj sistemleri ve amortisörler markasıdır.ZF Friedrichshafen AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lizay Pırlanta",
+    "description": "Lizay Pırlanta, 1994 yılında kurulan Lizay Kuyumculuk Tic. A.Ş. bünyesindeki lüks ürünler ve mücevherler markasıdır.Ürün yelpazesi pırlanta, elmas, altın ve değerli taşlardan oluşmaktadır.Türkiye çapında 45 konumda mağazası bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Favori Kuyumculuk",
+    "description": "Favori, 1992 yılında kurulan Favori Kuyumculuk San. ve Tic. A.Ş. bünyesindeki taşlı, taşsız takımlar, incili, mineli takılar, bileklikler, kolye uçları, yüzükler, küpeler, bilezikler, genç, çocuk ve erkek takıları, pırlantalı ve elmas takılar markasıdır.İstanbul merkezli firma ürünlerinin yüzde 95’ini kendi tesislerinde üretmekte ve yüzde 5’ini İtalya’dan ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tomey Göz Cihazları",
+    "description": "Tomey, 2000 yılında kurulan Tomey Corporation bünyesindeki göz tıbbı alanında da göz hastalıklarının tedavisinde ve erken teşhisinde kullanılan oftalmik tıbbi cihazlar markasıdır.Kornea topografları, optik biyometre, otomatik ref-topograf, ultrasonik a/b tarayıcı ve pakimetre, görüntüleme sistemleri, mikroskop, ultrason, muayene cihazları, grafik projektör, monitörü, elektrofizyoloji gibi ürünler sunmaktadır.Tomey Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

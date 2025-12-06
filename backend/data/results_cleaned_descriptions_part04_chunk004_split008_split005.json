@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Sanex",
+    "description": "Sanex, 1987 yılında kurulan deodorant ve vücut temizleme ürünleri markasıdır.Sara Lee’nin kişisel bakım işini satın alan Unilever’e Avrupa Birliği düzenleyicileri Sanex’i elden çıkarmasını istedi.Sanex, 2011 yılında Amerika merkezli Colgate-Palmolive Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Shungyang",
+    "description": "Shungyang, 2013 yılında kurulan Shandong Shuangyang Machinery Co., Ltd. bünyesinde üretilen egzoz fanları, soğutma pedi, besleme sistemi, gömme hester gibi her türlü sıcaklık kontrol sistemi markasıdır.ISO 9001 belgesine sahiptir.Shandong Shuangyang Machinery Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bobo Bird",
+    "description": "Bobo Bird, 2010 yılında kurulan Shenzhen 2win Tech Limited bünyesinde üretilen saat, saat kayışları, kronometrik aletler, mücevherler, mücevher kutuları, işlenmemiş veya yarı işlenmiş değerli metaller markasıdır.Metal ve kauçuktan kaynaklanan kirliliği azaltmak için geri dönüştürülmüş akçaağaç, bambu ve sandal ağacından üretilmektedir.Shenzhen 2win Tech Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Forwell",
+    "description": "Forwell, 1987 yılında kurulan Forwell Precision Machinery Co. Ltd. bünyesinde üretilen kalıp değiştirme sistemleri, kalıp arabası sistemleri, PCB ince delici sistemleri ve otomatik kalıp sıkma sistemleri markasıdır.Çok çeşitli özelleştirilebilir hızlı değişim sistemleri ve otomatik Forwell kalıp kelepçesi sistemleri, Pres makineleri (mekanik ve hidrolik tipler), plastik enjeksiyon kalıplama makineleri ve kalıp döküm makineleri gibi birçok farklı makine türü için kullanılabilir.Forwell Precision Machinery Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Deko Matkap",
+    "description": "Deko, 2006 yılında kurulan Yue Qing Union Trade Co. Ltd. bünyesinde üretilen elektrik ve elektronik ürünleri markasıdır.Yue Qing Union Trade Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Çok sayıda farklı firmaya ait Deko markalı ürün bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

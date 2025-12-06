@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Xchanging",
+    "description": "Xchanging, 1999 yılında kurulan Xchanging – DXC Technology Company bünyesindeki bir iş süreci ve teknoloji hizmetleri sağlayıcısı ve entegratörü markasıdır.Ticari sigorta sektörüne teknoloji destekli iş hizmetleri sunmaktadır. Dış kaynak kullanımında, Xchanging genellikle müşterinin iş sürecini veya arka ofis işlevini devralacak ve bunları yönetim görevlerinin daha iyi ve daha ucuz bir şekilde yürütülmesini sağladığını iddia ettikleri varolan bir platforma dahil eder.Xchanging – DXC Technology Company İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Emerson Electric",
+    "description": "Emerson Electric, 1890 yılında John W. Emerson tarafından kurulan Emerson Electric Co. bünyesindeki çok çeşitli endüstriyel, ticari ve tüketici pazarları için ürünler ve mühendislik hizmetleri markasıdır.Dünya çapında yaklaşık 205 üretim yeri bulunmaktadır.Emerson Electric Co., Amerika merkezli çok uluslu bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Baykim",
+    "description": "Baykim, 1983 yılında Ahmet İsfendiyar Balgüç tarafından kurulan Baykim Kimya Ürünleri Sanayi A.Ş. bünyesinde ilaç ve kozmetik sektörü için üretilene ara malların markasıdır.Ürünleri arasında parafin wax, emülsiyon, vazelin ve diğer kimyasallar yer almaktadır.Romanya’da iki üretim fabrikası bulunmaktadır. Üretiminin yüzde 90’ını ihraç etmektedir. 90’dan fazla ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Linear Technology",
+    "description": "Linear Technology, 1981 yılında kurulan Lineer Teknoloji Corporation bünyesindeki analog cihazlar, performanslı analog entegre devreler markasıdır.Şirketin ürünlerine yönelik uygulamalar arasında telekomünikasyon, cep telefonları, ağ ürünleri, dizüstü ve masaüstü bilgisayarlar, video/multimedya, endüstriyel enstrümantasyon, otomotiv elektroniği, fabrika otomasyonu, proses kontrolü, askeri ve uzay sistemleri yer almaktadır.Lineer Teknoloji Corporation Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Han’s Laser",
+    "description": "Han’s Laser, 1996 yılında kurulan Han’s Laser Technology Industry Group Co., Ltd. bünyesinde üretilen lazer ekipmanları markasıdır.Ürünleri arasında lazer işaretleme makineleri, lazer kaynak makineleri, lazer kesim makineleri, 3D yazıcılar yer almaktadır.ISO 9001 belgesine sahiptir.Han’s Laser Technology Industry Group Co., Ltd. Çin merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Gürsel",
+    "description": "Gürsel, 1989 yılında kurulan Gürsel Turizm A.Ş. bünyesindeki personel ve öğrenci taşımacılığı, şoförlü ve şoförsüz, yüksek modelli binek araçlar ile kurye hizmeti markasıdır.Türkiye’nin her yerine her gün her saat hizmet vermektedir. Bununla birlikte ekstra araç talepleri karşılanmaktadır.İstanbul, Kocaeli, Eskişehir, Ankara, İzmir, Manisa, Erzurum, Adana, Antalya, Trabzon, Bursa, Muğla ve tüm ülke genelinde 500’ün üzerinde kuruluşa hizmet veren ulusal bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Komşufırın",
+    "description": "Komşufırın, 1972 yılında kurulan Doruk Group Holding bünyesinde 2008 yılında kurulan fırıncılık markasıdır.Doruk Group Holding, buğday tohumundan, ekmeğin sofraya gelinceye kadar geçirdiği tüm sürecin her aşamasında bulunmaya çalışıyor.12 bin 500 metrekarelik üretim tesisinde üretim gerçekleştirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vidar",
+    "description": "Vidar, 2009 yılında kurulan Vidar International Co.,Ltd bünyesinde üretilen Bluetooth hoparlör, Güç bankası, Bluetooth kulaklık, pil markasıdır.Vidar International Co.,Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tonmeister",
+    "description": "Tonmeister, 2006 yılında kurulan Mck Teknoloji Limited Şirketi bünyesindeki elektronik ve bilgisayar aksamları markasıdır.Tonmeister markalı ürünler Çin’den ithal edilmektedir.Mck Teknoloji Limited Şirketi bünyesindeki markalar:TonmeisterMakt",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Happy Moon’s",
+    "description": "Happy Moon’s, 1999 yılında Hüseyin Aymutlu tarafından kurulan Happy Moon’s Grup bünyesindeki kafe markasıdır.Menüsü Türk, İtalyan, Meksika, Amerikan ve yerel lezzetlerden oluşan 200’ün üzerinde çeşide sahiptir.Türkiye’ye yayılmış, toplam 28 şubesi bulunmaktadır.Bünyesindeki markalar:BIG KITCHENBOB’S KITCHENHAPPY MOON’SMANHATTAN COFFEE",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

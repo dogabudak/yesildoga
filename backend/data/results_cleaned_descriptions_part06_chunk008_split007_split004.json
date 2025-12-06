@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Proclinic",
+    "description": "Proclinic, 1983 yılında kurulan Proclinic S. A. U. bünyesinde üretilen cerrahi ekipman, mobilya ürünleri, ortodontik sarf malzemeleri, çelik teller, alaşımlar, aksesuarlar, diş telleri, iğneler vb. diş endüstrisi için çözümler markasıdır.Proclinic S. A. U. İspanya merkezlidir.Bünyesindeki markalar;4designD_DevicesOxteinProclinicProclinic ExpertSecretalignerTokuyamaVeloce",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Zımaş Zımpara",
+    "description": "Zımaş, 1980 yılında kurulan Zımaş Zımpara ve Değirmentaşı San. A.Ş. bünyesinde üretilen zımpara tozu, değirmen taşı ve değirmen, Mermer ve Karo silme taşları, tırpan bileme taşlar markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ultrafresh",
+    "description": "Ultrafresh, 2008 yılında kurulan Aksan Kozmetik San. ve Tic. A.Ş. bünyesinde üretilen genel ve kişisel temizlik ürünleri, hijyen ürünleri, bebek bakım ürünleri, evcil hayvan bakım ürünleri markasıdır.İstanbul bulunan 30 bin metrekarelik entegre üretim tesisinde Sedex, ISO ve GMP kalite standartlarında üretim yapan firma ürünleri 95 ülkeye ihraç etmektedir.Bünyesindeki markalar;Bebe RoyalComfort LoveDeepFreshL’unique ParisSavon De LuxeSavon De RoyalUltraFresh",
+    "documents": [
+      "GMP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sprange",
+    "description": "Sprange, 1993 yılında kurulan Aktürk Elektronik Ltd. Şti. bünyesindeki şarj ve data kablosu, şarj aletleri, klavye, kulaklık, mouse pad, taşınabilir şarj markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Azumi Filtre",
+    "description": "Azumi, 1919 yılında kurulan Azumi Filtration Product Co. Ltd. bünyesinde üretilen otomotiv filtrasyon ürünleri markasıdır.Tam kapsamlı yağ, hava, kabin, yakıt, şanzıman filtreleri üretmektedir.Azumi Filtration Product Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

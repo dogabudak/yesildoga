@@ -1,0 +1,53 @@
+[
+  {
+    "company": "PeoplePerHour",
+    "description": "PeoplePerHour, 2007 yılında kurulan People Per Hour Limited bünyesindeki işletmelere serbest çalışanlara erişim sağlayan çevrimiçi bir platform markasıdır.People Per Hour Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Access Bank",
+    "description": "Access Bank, 1989 yılında kurulan Access Bank PLC bünyesindeki banka markasıdır.Krediler, kredi kartları, tasarruflar, yatırımlar, ipotekler gibi alanlarda hizmet vermektedir.Access Bank PLC Nijerya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Motte",
+    "description": "Motte, 2001 yılında kurulan Beliva Mutfak Eşyaları San. ve Tic. Ltd. Şti. bünyesindeki mutfak araçları, diğer ev aletleri, mutfak ve yemek ürünleri, bahçe ekipman ve malzemeleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Başyazıcı",
+    "description": "Başyazıcı Nerenin Malı MarkasıBaşyazıcı, 1953 yılında Mahmut Başyazıcıoğlu tarafından kurulan Başyazıcıoğlu Et ve Gıda San. Tic. A.Ş. bünyesinde üretilen pastırma, sucuk, salam, sosis, kavurma, fümedil ve jambon gibi et mamülleri markasıdır.Kendi tesislerinde Kars ve çevresindeki yaylalarda otlayan yerli büyükbaş hayvanları, ürettiği yemlerle beslemekte ve yetiştirdiği hayvanlardan üretim yapmaktadır.Kayseri merkezli firma ISO 9001, ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Peksa",
+    "description": "Peksa, 1965 yılında Sami Pekgüzel tarafından temeli atılan Peksa Profil San. ve Tic. A.Ş. bünyesinde üretilen panel radyatör markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Ürünlerini 60’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

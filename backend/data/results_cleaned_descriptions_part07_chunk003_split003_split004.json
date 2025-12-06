@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Veganland Çiğ Köfte",
+    "description": "Veganland Çiğ Köfte, 2016 yılında kurulan Veganland Gastronomie Gmbh bünyesindeki çiğ köfte şubeleri markasıdır.Firma üretim aşamasında kullandığı bulgur, salça, baharatlar ve yeşillikler ile lavaş ve çiğköfteleri steril makinelerde el değmeden üreterek vakumlu poşetlerde şubelere göndermektedir. Helal belgesine sahiptir.Veganland Gastronomie Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kiribi Çakmak",
+    "description": "Kiribi, 2012 yılında kurulan Laudisi Distribution Group Inc. bünyesindeki çakmak markasıdır.Laudisi Distribution Group Inc. Amerika merkezlidir. Ürünleri Japonya’da elle monte edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Blackchem",
+    "description": "Blackchem, 2020 yılında kurulan Blackchem Endüstri Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen endüstri ürünleri, teknik spreyler, özel yapıştırıcılar, sızdırmazlık malzemeleri, yüksek performanslı montaj pastaları markasıdır.Ürün yelpazesi tüm sanayi alanları için özel yapıştırıcılar ve sızdırmazlık malzemeleri, teknik spreyler, montaj macunları ve yağları kapsamaktadır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sharz.net",
+    "description": "Sharz.net, 2019 yılında kurulan Evs Elektrikli Şarj Sistemleri San. ve Tic. A.Ş. bünyesindeki şarj istasyonları markasıdır.Şarj istasyonu ağı, avmler, konut siteleri, oteller gibi farklı kamusal alana genellikle 22 kW Tip 2 AC şarj soketleriyle hizmet vermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eberspacher",
+    "description": "Eberspaecher, 1865 yılında Jakob Eberspacher tarafından kurulan Eberspacher Gruppe GmbH & Co. KG bünyesindeki egzoz teknolojisi, araç ısıtıcıları ve klima sistemleri markasıdır.Eberspacher Gruppe GmbH & Co. KG Almanya merkezlidir ve 29 ülkede 80 lokasyona sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-08-05"
+  }
+]

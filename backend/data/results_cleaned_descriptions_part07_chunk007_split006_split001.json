@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Nite-Eye",
+    "description": "Nite-Eye, 2007 yılında kurulmuş olan Hawke Sport Optics, LLC bünyesindeki dürbün markasıdır.İngiltere menşeli olan Hawke Sport Optics LLC Amerika merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Boka",
+    "description": "Boka, 2015 yılında kurulmuş olan Boka LLC bünyesinde üretilen diş macunu ve diş fırçaları markasıdır.Diş macunu florür içermez.Boka LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hedef Filo",
+    "description": "Hedef Filo, 2003 yılında Hedef Alliance Holding A.Ş. tarafından kurulan Hedef Araç Kiralama ve Servis A.Ş. bünyesindeki filo kiralama çözümleri markasıdır.İstanbul, İzmir, Bursa , Ankara ve Konya ofislerinde müşterilerine hizmet vermektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Egeliler Ahşap",
+    "description": "Egeliler Ahşap, 1960 yılında kurulmuş olan Egeliler Ahşap ve Plastik Doğrama San. Tic. Ltd. Şti. bünyesindeki pergola, deck, kamelya, kış bahçesi, veranda, dış cephe, lamine kirişler ve makaslar, merdiven uygulamaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oclean Diş Fırçası",
+    "description": "Oclean Diş Fırçası Hangi Ülkenin Malı MarkasıdırOclean, 2016 yılında kurulmuş olan Shenzhen Yunding Information Technology Co. Ltd. bünyesinde üretilen akıllı sesli elektrikli diş fırçası, diş duşu, dezenfektan ve aksesuar markasıdır.Shenzhen Yunding Information Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

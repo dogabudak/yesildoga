@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Pakçöp",
+    "description": "Pakçöp, 1983 yılında Kanık Şirketler Grubu bünyesinde kurulan İlka Plastik Ambalaj Gıda San. ve Tic. Ltd. Şti. tarafından üretilen çöp torbası, markasıdır.ISO 9001, ISO 22000 ve ISO 14001 belgelerine sahiptir.Kocaeli merkezli firma ürünlerini 12 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Buff",
+    "description": "Buff, 1992 yılında kurulan Buff Original S.A. bünyesindeki şapkalar, eşarplar, boyun ısıtıcıları veya saç bantları, ayakkabı markasıdır.Buff Original S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Minitro Oyuncak",
+    "description": "Minitro, 1982 yılında kurulan Birlik Oyuncak San. ve Tic. Ltd. Şti. bünyesinde üretilen araba oyuncaklar markasıdır.Firmanın ürün yelpazesinde masal anlatan hayvanlar, bebek malzemeleri, Türk klasik özel koleksiyon arabalar, çok fonksiyonlu robotlar gibi ürünler yer almaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cafe Morning",
+    "description": "Cafe Morning, 2012 yılında kurulan Beyda Gıda Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen pişirmeye hazır kahve, toz içecekler markasıdır.ISO 22000, HELAL, KOSHER belgelerine sahiptir.Firma ürünlerini İstanbul’da 20 bin metrekarelik alanda üretmekte ve 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Proteinocean",
+    "description": "Proteinocean, 2016 yılında kurulan Proteinocean Gıda A.Ş. bünyesinde üretilen sporcu gıdaları ve protein tozları markasıdır.ISO 9001, ISO 10002, ISO 22000, GMP, Helal belgelerine sahiptir.Ankara merkezli firma ürünlerini Ostim OSB’de üretmektedir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 10002",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-12"
+  }
+]

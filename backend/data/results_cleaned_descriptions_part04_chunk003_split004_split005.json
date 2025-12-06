@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Life in",
+    "description": "Life in, Gratis İç ve Dış Tic. A.Ş. bünyesinde ithal edilen besin takviyeleri markasıdır.Gratis İç ve Dış Tic. A.Ş. güzellik ve bakım ürünleri perakende zinciridir. Life in markalı ürünlerini İngiltere’den ithal etmektedir.Gratis’in sahibi İngiltere merkezli özel sermaye şirketi Actera Group Limited ve Demir Sabancı’ya ait Sedes İç ve Dış Ticaret A.Ş. ortaklığıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "The Unbranded Brand",
+    "description": "The Unbranded Brand, 2009 yılında Naked & Famous tarafından kurulan kot pantolon ve giyim ürünleri markasıdır.Firma çok düşük fiyatlarda pantolon satışını amaçlamaktadır. Bu nedenle hiçbir reklam kampanyası yapmamaktadır.Naked & Famous Kanada merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kalabak",
+    "description": "Kalabak, 1936 yılında kurulan, Büyükşehir Bel. E.S.Kİ. Su ve Kanalizasyon İd. Gen. Müd.’e ait doğal kaynak suyu markasıdır. Devlet güvencesi altındadır.ISO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sava Tyres",
+    "description": "Sava, 1998 yılında kurulan Sava Tyres d.o.o. bünyesindeki lastik ve kauçuk ürünler markasıdır.Orta Avrupa’nın çok çeşitli binek, SUV, hafif kamyon ve kamyon lastikleri sağlayan en büyük lastik üreticilerinden biridir.2004 yılında, Amerika merkezli The Goodyear Tire & Rubber Company, Sava lastiklerinin tamamına sahip oldu ve şirketin adını Goodyear Dunlop Sava Tires olarak değiştirdi. Sava lastikleri, Avrupa geneline yayılan çeşitli fabrikalarda üretilir ancak lastiklerin büyük çoğunluğu Slovenya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-10-13"
+  },
+  {
+    "company": "Dr. Gusto",
+    "description": "“Dr.Gusto“2015 yılında kurulan Gusto Pastacılık Gıda San Tic. Ltd. Şti. bünyesinde üretilen endüstriyel sınıf bileşenler ve ürünler, pişirme ve pastacılık katkı maddeleri, serpintiler ve drajeler, yenilebilir boyalar, metalik renkler, tatlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-09-18"
+  }
+]

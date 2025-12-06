@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Yukirtiq",
+    "description": "2020 yılında kurulmuş olan Shanghai Laojiegun Industrial Co. Ltd. bünyesindeki spor giyim, iş ve güvenlik kıyafetleri, yağmurluk, kazak, pantolon, yelek, ceket, uzun kollu kazak gibi giyim ürünleri markasıdır.Shanghai Laojiegun Industrial Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "De Buyer",
+    "description": "1996 yılında kurulmuş olan De BUYER Industries SAS bünyesinde üretilen tencere ve tavalar, pişirme araçları, bıçak ve dilimleme, mutfak eşyaları markasıdır.De BUYER Industries SAS 2025 yılında Fransa merkezli SEB SA tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Vionine",
+    "description": "2020 yılında kurulmuş olan Vionine İç ve Dış Tic. Ltd. Şti. bünyesindeki Kore kozmetik cilt ve makyaj ürünleri sunan e-ticaret sitesi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vacu Vin",
+    "description": "1996 yılında kurulmuş olan Vacu Vin BV bünyesindeki kokteyl ve bar aksesuarları, soğutucular, stoperlar ve koruyucular, tirbuşonlar ve açıcılar markasıdır.Vacu Vin BV Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Xtool Laser",
+    "description": "2013 yılında kurulmuş olan Makeblock Co. Ltd. bünyesinde üretilen fiber ve diyot lazer kesici makineleri ve aksesuarları markasıdır.Makeblock Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

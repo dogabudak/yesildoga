@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Tempix Ülke",
+    "description": "Tempix, 2002 yılında kurulan Tempix AB bünyesinde üretilen dondurulmuş ve soğutulmuş ürünler için bir zaman ve sıcaklık göstergesi markasıdır.Soğuk zincir akıllı etiket sistemi; üretim aşamasında oluşturulan kalitenin, yol, depo veya raflarda bozulmadan tüketiciye sunulması için tasarlanmıştır.Tempix AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Getinge",
+    "description": "Getinge, 1904 yılında Olander Larsson tarafından kurulan Maquet Cardiopulmonary bünyesindeki tıbbi cihazlar markasıdır.Maquet dünyanın dört bir yanında 36 yan kuruluşu ve 250’e yakın dağıtıcı ve ortağı ile 40’dan fazla ülkede faaliyet göstermektedir.Üretimin ana noktaları Almanya, Fransa, İsveç, Amerika ve Türkiye’de bulunmaktadır.Maquet Cardiopulmonary İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Dovido",
+    "description": "Dovido, 1993 yılında kurulan Temel Gıda Toprak Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki kuru meyve markasıdır.Manisa’da 15 milyon metrekarelik bağ alanına sahip firma katkısız, doğal yöntemlerle kurutulan kuru meyveler sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-01"
+  },
+  {
+    "company": "Seğmen",
+    "description": "Seğmen, 1938 yılında kurulan Seğmen Kardeşler Gıda Üretim ve Ambalaj Sanayi A.Ş. bünyesinde üretilen reçel, marmelad, bal, helva, fındık ezmesi, tahin, pekmez, tahinli pekmez, baharat, tereyağı, peynir, lokum markasıdır.Sincan OSB’de 18 bin metrekare alanda kurulu tesislerinde, tamamen kapalı sistemde, üç pastörize hattında reçel, marmelat, meyve sosları vb ürünler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Noble Group",
+    "description": "Noble Group, 1986 yılında kurulan Richard Samuel Elman tarafından kurulan Noble Group Holdings Limited bünyesindeki tarım ürünleri (yün, soya fasulyesi, tahıl, kahve, kakao, şeker), mineral, cevher ve kömür markasıdır.Ana işi pamuk, tahıl, kahve, kömür, demir cevheri, çelik, alüminyum ve temiz yağ gibi doğal kaynaklar ve çeşitli hammaddeler içerir.Özellikle tohum, şeker, kakao, pamuk, kahve, gübre, petrol, kömür, gaz, güç, polimerler, petrokimyasallar, demir cevheri ve mineralleri işler. Güney Amerika, Güney Afrika, Avustralya ve Endonezya gibi düşük maliyetli bölgelerden satın alır ve ağırlıklı olarak Asya ve Orta Doğu’ya satar.Noble Group Hong Kong merkezli uluslararası bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

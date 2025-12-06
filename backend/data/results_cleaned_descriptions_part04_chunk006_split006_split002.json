@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Charmin",
+    "description": "Charmin, 1928 yılında kurulan Hoberg Paper Company bünyesinde üretilen tuvalet kağıdı, banyo mendilleri, kağıt peçeteler ve diğer kağıt ürünleri markasıdır.Hoberg Paper Company 1957 yılında Amerika merkezli Procter & Gamble (P&G) tarafından satın alındı.Charmin, Procter & Gamble tarafından üretilen bir Amerikan tuvalet kağıdı markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Epiphone",
+    "description": "Epiphone, 1873 yılında Anastasios Stathopoulos tarafından kurulan Epiphone Banjo Company bünyesindeki müzik aletleri markasıdır.1957 yılında Epiphone Banjo Company Amerika merkezli Gibson Brands, Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Blue Beautifly",
+    "description": "Blue Beautifly, 2011 yılında kurulan Blue Beautifly LLC bünyesindeki organik cilt ve vücut bakım ürünleri markasıdır.Yüz ve vücut bakım ürünleri GDO içermez, vegandır ve hayvanlar üzerinde test edilmemektedir.Blue Beautifly LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Azelis Firması",
+    "description": "Azelis, 2001 yılında kurulan Azelis Group bünyesindeki, özel kimyasalların dağıtımı üzerine uzmanlaşmış bir kimya dağıtıcısıdır.Boya sektörüne yönelik su bazlı reçine, pigment, özel dolgular, biyosit ve kalınlaştırıcıları bulunmaktadır.2008 yılında Tara Kimya A.Ş.’yi satın alarak Türkiye pazarına girmiştir.Azelis Group Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Cocona Care",
+    "description": "Cocona Care, 2009 yılında Sri Lestari tarafından kurulan Hindistan cevizi yağı bazlı doğal güzellik ürünleri markasıdır.Vücut, yüz, saç ve ayak bakımı ürünleri üretmektedir.Ürünlerinde hayvan içeriği, yapay renklendirici, parafin, petrol yağı ve alkali kullanmamaktadır.Cocona Care Endonezya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ID",
+    "updated_date": null
+  }
+]

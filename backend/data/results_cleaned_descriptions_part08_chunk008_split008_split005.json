@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Brit",
+    "description": "1994 yılında kurulmuş olan VAFO Brands s.r.o. bünyesinde üretilen evcil hayvanlar için yiyecekler markasıdır.Ürünleri soya veya gdo gibi katkı maddeleri içermemektedir. ISO 9001 ve HACCP belgelerine sahiptir.VAFO Brands s.r.o. Çekya merkezlidir. Ürünlerini 85’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Marlux",
+    "description": "2001 yılında kurulmuş olan Martı Perakendecilik San. İç ve Dış Tic. Ltd. Şti. bünyesindeki yağmurluk markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bostik",
+    "description": "2004 yılında kurulmuş olan Arkema Group bünyesindeki Bostik SA tarafından üretilen yapıştırıcılar ve sızdırmazlık maddeleri maddesi markasıdır.Arkema Group Fransa merkezlidir ve 40’tan fazla ülkede varlığa sahiptir.Hissedarları:ISALT (yüzde 7,92)BPIFrance Investissement SAS (yüzde 7,17)Norges Bank Investment Management (yüzde 6,46)Amundi Asset Management SA (yüzde 5)The Vanguard Group Inc. (yüzde 2,65)Capital Research & Management Co. (yüzde 2,39)Janus Henderson Investors UK Ltd. (yüzde 1,92)Dimensional Fund Advisors LP (yüzde 1,34)Amundi Ireland Ltd. (yüzde 1,30)Victory Capital Management Inc. (yüzde 0,858)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Bytrap",
+    "description": "1993 yılında kurulmuş olan Mustafa Kurt Kimya San. ve Tic. Ltd. Şti. bünyesindeki haşereler ve ffareler için hazır yapışkan tuzak markasıdır.Firma İstanbul merkezlidir. Ürünlerini Uşak’ta bulunan fabrikasında üretmektedir.Bünyesindeki markalar;AlotrapBeyazkedi BytrapBy-YemBytrapCatMr. TrapRatmattSarıkedi BytrapSuper By TrapSuper BytrapTuta-Tut",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Crivit",
+    "description": "1932 yılında kurulmuş olan Lidl Stiftung & Co. Kg bünyesindeki bisiklet, doğa sporları, fitness, kondisyon, outdoor giyim, ayakkabı, spor, fitness, spor giyim aksesuar markasıdır.Lidl Stiftung & Co. Kg Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

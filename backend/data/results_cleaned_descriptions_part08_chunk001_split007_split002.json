@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Grotto Ayakkabı",
+    "description": "Grotto, 2006 yılında kurulmuş olan Gençizler Ayakkabı Deri San. Tic. Ltd. Şti. bünyesinde üretilen erkek ve kadın deri ayakkabı, bot çizme, terlik markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nature by Me",
+    "description": "Nature by Me, Gravel Gıda Paz. San. ve Tic. A.Ş. bünyesindeki glutensiz unlar, süper yiyecekler, kakaolar, sebze tozları, meyve tozları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jack Dikiş Makinesi",
+    "description": "Jack, 1995 yılında kurulmuş olan Jack Technology Co. Ltd. bünyesinde üretilen dikiş makinesi ve ekipmanları markasıdır.Jack Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Palovue",
+    "description": "Palovue, 2009 yılında kurulmuş olan Foneric Technology Co. Ltd. bünyesindeki ses ve akıllı ev ürünleri markasıdır.Foneric Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Peki Muzlu Gofret",
+    "description": "Peki, ŞOK Marketler Tic. A.Ş. adına Ülker Bisküvi San. A.Ş. tarafından üretilen kakaolu, muzlu, meyveli gofret ve kek markasıdır.Aşırı şekerli ürün palm yağı içermektedir.Şok Marketler hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 41,22)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-12-14"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cutex",
+    "description": "Cutex, 1911 yılında kurulan Northam Warren Company bünyesindeki kozmetik, tırnak bakım ürünleri markasıdır.2016 yılında Revlon, Inc. tarafından satın alındı.Revlon, Inc. 1932 yılında kurulan Amerika merkezli çok uluslu kozmetik şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sendeo",
+    "description": "Sendeo, 2017 yılında Aygaz Doğal Gaz İletim A.Ş. bünyesinde kurulan kargo ve lojistik markasıdır.2021 yılında Koç Holding, Aygaz’dan Aykargo sermayesinin yüzde 45’ini devraldı ve isim değişikliğine gidildi.2024 yılında Sendeo ile Ekol Lojistik A.Ş.’ye ait olan Kolay Gelsin eşit ortaklık şeklinde ve Kolay Gelsin adı altında birleşmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-12-16"
+  },
+  {
+    "company": "Mederer",
+    "description": "Mederer, 1975 yılında kurulan Mederer GmbH bünyesinde üretilen şekerleme, meyan kökü ve lokum markasıdır.Almanya, Çin, İspanya, Çek Cumhuriyeti, Amerika’da fabrika ve şubelere sahiptir.Mederer GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Agilent Technologies",
+    "description": "Agilent Technologies, 1999 yılında William Redington Hewlett tarafından kurulan Agilent Technologies, Inc. bünyesindeki laboratuvar kullanımı için aletler, yazılımlar, hizmetler ve sarf malzemeleri markasıdır.Agilent Technologies, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Trelleborg",
+    "description": "Trelleborg, 1905 yılında Henry Dunker ve Johan Kock tarafından kurulan Trelleborg AB bünyesindeki döner şaft contası, yağ contası, hidrolik conta, statik conta, mekanik yüzey contası, pnömatik conta markasıdır.Trelleborg AB İsveç merkezlidir. Yaklaşık 50 ülkede faaliyet göstermektedir. Dört kıtada 24’ten fazla üretim tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

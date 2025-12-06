@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hankem",
+    "description": "Hankem, 1995 yılında kurulan Hankem Aydınlatma Ürünleri San. Tic. Ltd. Şti. bünyesindeki aydınlatma ürünleri markasıdır.Led, aydınlatma, özel üretim, wallwasher, sokak aydınlatma, ledline gibi ürün yelpazesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Adam",
+    "description": "Adam, 1961 yılında kurulan Kellwood Apparel LLC bünyesindeki eşarplar, baş giysileri ürünleri markasıdır.Firma ürünlerini Tayvan ve Hong Kong’daki iki büyük üretim tesisinde üretmektedir.2016 yılında Kellwood Apparel LLC, Hong Kong merkezli bir yatırımcı grubu tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Cerner",
+    "description": "Cerner, 1979 yılında Neal Patterson, Paul Gorup, Cliff Illig tarafından kurulan Cerner Corporation bünyesindeki sağlık bilgi teknolojisi hizmetleri, cihazları ve donanım markasıdır.Cerner Corporation, 2021 yılında Amerika merkezli Oracle Corporation tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-01-15"
+  },
+  {
+    "company": "Juniper Networks",
+    "description": "Juniper Networks, 1996 yılında Pradeep Sindhu tarafından kurulan Juniper Networks Inc. bünyesindeki yönlendiriciler, anahtarlar, ağ yönetim yazılımı, ağ güvenliği ürünleri ve yazılım tanımlı ağ teknolojisi dahil olmak üzere ağ ürünleri markasıdır.Juniper Networks Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Röhm",
+    "description": "Röhm, 1909 yılında Heinrich Röhm tarafından kurulan RÖHM GmbH bünyesindeki mandren araçları markasıdır.Ürünleri arasında bağımsız aynalar, elektrikli ayna teknolojisi, hareketli merkezler, kavrama teknolojisi, mandreller, matkap aynaları, mengeneler, takım sıkma sistemleri, torna aynaları, yüz tornavidalar yer almaktadır.Şirketin ürünleri özellikle otomobil endüstrisi, mühendislik, enerji sektörü, demiryolu araçları ve havacılık için çözümler sunmaktadır.RÖHM GmbH 2010 yılında Almanya merkezli Umarex Sportwaffen GmbH & Co. KG tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

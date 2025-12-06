@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Adeka",
+    "description": "Adeka 1915 yılında kurulan Adeka Corporation bünyesindeki ince kimyasal ürünler gibi plastikler için katkı maddeleri, yarı iletkenler için yüksek performanslı malzemeler ve dijital cihazlar. markasıdır.Adeka Corporation Japonya merkezlidir. 15 üretim sahasına sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Amrobt",
+    "description": "Amrobt, 2019 yılında kurulan Amrobt Technology Co. Ltd. bünyesinde üretilen robotik elektrikli süpürge, ev ve mutfak ürünleri ve aksesuarları markasıdır.Amrobt Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "ANENG VD807",
+    "description": "ANENG VD807 Hangi Ülkenin Malı MarkasıAneng, 2019 yılında kurulan Shenzhen Yucheng Lianhe Electronics Co. Ltd. bünyesinde üretilen voltaj test cihazları markasıdır.Shenzhen Yucheng Lianhe Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2025-02-05"
+  },
+  {
+    "company": "Zel Kemik Suyu",
+    "description": "Zel, 1956 yılında kurulan Cng Cengiz Tedarik Dış Ticaret Ltd. Şti. bünyesindeki ilikli kemik suyu, çorbalar, hazır yemekler, konserveler, kahvaltılıklar, sıcak ve soğuk içecekler, collagen markasıdır.Ürünleri katkı ve koruyucu içermez ve geleneksel yöntemlerle üretilir.İzmir merkezli firma Türkiye’nin birçok ilinde ve yurt dışındaki fabrikalarda fason üretimler yaptırmaktadır. TSK’nın en büyük tedarikçilerindendir.ISO 9001, Helal belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eti Cicibebe",
+    "description": "Eti Cicibebe, 1962 yılında Firuz Kanatlı tarafından kurulan Eti Gıda A.Ş. bünyesinde üretilen bebe bisküvisi markasıdır.Bitkisel yağ (palm, ayçiçek, pamuk, kanola), aroma vericiler (vanilin, vanilya ekstraktı) ve gluten içermektedir.Eti Şirketler Grubu’nun 6 üretim tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

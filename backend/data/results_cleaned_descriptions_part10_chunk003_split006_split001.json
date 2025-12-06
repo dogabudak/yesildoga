@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Actec",
+    "description": "1996 yılında kurulmuş olan Xiamen Actec Electronics Co. Ltd. bünyesindeki acil durum aydınlatması, led, oled modülleri için çalışma donanımı, güç kaynağı üniteleri, ev şarj istasyonları markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Xiamen Actec Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Akarca",
+    "description": "1990 yılında kurulmuş olan Akarca Tekstil Konf. San. Tic. Ltd. Şti. bünyesinde üretilen döşemelik kumaş, perde kumaşları, tül perde, fonluk markasıdır.Firma Bursa merkezlidir. Ürünlerini Bursa’da bulunan 11 bin metrekarelik kapalı alana sahip tesisinde üretmektedir ve ürünlerini bir çok ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kaplanlar",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Reparestim",
+    "description": "1996 yılında kurulmuş olan Skin Tech Pharma Group S.L. bünyesinde üretilen yaşlanma karşıtı cilt bakım ürünleri markasıdır.ISO 13485 ve ISO 22716 belgelerine sahiptir.Skin Tech Pharma Group S.L. İspanya merkezlidir ve ürünlerini 80 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Zipp",
+    "description": "1987 yılında Stan Day tarafından kurulan Sram LLC bünyesindeki bisiklet tekerlekleri, yarış bisikleti gidonları markasıdır.Sram LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

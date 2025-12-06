@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Citrix Systems",
+    "description": "Citrix Systems, 1989 yılında Ed Iacobucci tarafından kurulmuş olan Citrix Systems Inc. bünyesindeki masaüstü sanallaştırma yazılımı, bulut ve ağ iletişimi markasıdır.Citrix Systems Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Arabica Coffee House",
+    "description": "Arabica Coffee House, 2014 yılında kurulmuş olan Ddy Gıda İnş. Taah. Tur. İth. İhr. San. ve Tic. A.Ş. bünyesindeki çekirdek kahveler, şuruplar, atıştırmalıklar, buzlu içecekler, demleme çaylar, kahve ekipmanları, sandviçler, tatlılar, termoslar markasıdır.Kahvelerini, yeşil çekirdek olarak dünyanın en iyi kahve yetiştiren bölgelerinden ithal edip kendisi kavurmakta ve taze olarak tüm şubelerinde müşterilerine sunmaktadır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "06 Soğutma Klima",
+    "description": "06 Soğutma Klima, 1997 yılında kurulmuş olan 06 Soğutma Klima İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen aksiyel fanlı su soğutma kuleleri, paket tipi soğuk su üreticileri, paket tipi termokonvektör, süt soğutma makineleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Türkova",
+    "description": "Türkova Nerenin Malı MarkasıTürkova, 1999 yılında kurulmuş olan Türkova Süt Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen burger peyniri, mozzarella peyniri, taze kaşar peyniri, tost peyniri markasıdır.Firma İstanbul merkezlidir. Ürünlerini Bartın OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rodex El Aletleri",
+    "description": "Rodex, 1989 yılında kurulmuş olan Akdemir Global Dış Tic. A.Ş. bünyesindeki pense, anahtarlar, makas ve kesici, testere, tornavida, servis aleti ve ekipmanları, bits uç, güvenlik ekipmanları, kaynakçı ekipmanları, marangoz ekipmanları, ölçü aleti, terazi, çekiç, balta, elektrikli el aletleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "ArıSusam",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Msr Gear",
+    "description": "1972 yılında kurulan Cascade Designs Inc. bünyesindeki kamp sobaları, su arıtma çözümleri, kar ayakkabısı, çadır, tencere, direkler markasıdır.Cascade Designs Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pez",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Alldra",
+    "description": "1930 yılında kurulmuş olan Alldra BV bünyesinde üretilen çok sayıda tatlı ve tatlıda kullanılan renkli soslar markasıdır.Gluten içermeyen ürünleri Helal ve Koşer belgelerine sahiptir.Alldra BV 2016 yılında Belçika merkezli Iscal Sugar SA tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Scientia",
+    "description": "1998 yılında kurulmuş olan Amelia Knight Limited bünyesinde üretilen cilt bakım ürünleri, tonik, nemlendirici markasıdır.Ürünleri bitkisel içeriklerden oluşmaktadır ve hayvanlar üzerinde test edilmemektedir.Amelia Knight Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

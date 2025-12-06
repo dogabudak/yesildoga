@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Air Jordan",
+    "description": "1964 yılında kurulmuş olan Nike Inc. bünyesinde üretilen spor ayakkabılar, atletik giyim, spor malzemeleri, aksesuarlar markasıdır.Nike Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İlposan",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Groseri",
+    "description": "1989 yılında kurulmuş olan Groseri Gıda ve İhtiyaç Maddeleri Tic. Ltd. Şti. bünyesindeki marketler zinciri markasıdır.Firma Adana merkezlidir. Adana ve Mersin’de 30 mağazaya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Süzen",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sky Devices",
+    "description": "2014 yılında kurulmuş olan SKY Devices LLC bünyesindeki akıllı telefon, tablet markasıdır.SKY Devices LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

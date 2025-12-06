@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Adapazarı Şeker Fabrikası",
+    "description": "Adapazarı Şeker Fabrikası Sahibi Kim Kime AitTürkiye de Anonim şirket statüsünde kurulan ilk şeker fabrikası Adapazarı Şeker Fabrikası A.Ş. 1952 yılında kuruldu.2013 yılında yüzde 98,8 hissesi Yıldız Holding A.Ş.’ye devredilerek Yıldız Holding iştiraki oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mettler Toledo",
+    "description": "Mettler Toledo, 1945 yılında Erhard Mettler tarafından kurulan Mettler-Toledo International Inc. bünyesindeki laboratuvar terazisi, endüstriyel teraziler ve kantarlar, ürün kontrol sistemleri, rainin sıvı taşıma çözümleri, proses analitiği, taşıma ve lojistik, analitik cihazlar, otomatik reaktörler ve yerinde analiz, gıda perakendesi terazileri markasıdır.Mettler-Toledo International Inc. İsviçre merkezlidir. Üretim tesisleri ABD, Almanya, Birleşik Krallık, İsviçre ve Çin’de bulunmaktadır. Ürünleri 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Hipee",
+    "description": "Hipee, 2013 yılında kurulan Tianjin Fruit Technology Co. Ltd. bünyesinde üretilen akıllı duruş düzeltme, buharlı göz maskesi, akıllı idrar algılama cihazı, akıllı sağlık hapı kutusu, sağlık kiti markasıdır.Tianjin Fruit Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Seenergy",
+    "description": "Seenergy, Seenergy Güvenlik Teknolojileri A.Ş. bünyesindeki IP kameralar, gece görüşlü kameralar, dome kameralar, box kameralar, speed dome kameralar, dvr kayıt cihazları, alarm sistemleri, muhafaza ve ayaklar, aksesuarlar, lensler markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Haznedar Su",
+    "description": "Haznedar Su, 1998 yılında kurulan Haznedar Doğal Kaynak Suyu Pazarlama Ltd. Şti. bünyesinde üretilen doğal kaynak suyu markasıdır.ISO 9001, ISO 14001, ISO 22000, ISO 45001, TSE, Kosher belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

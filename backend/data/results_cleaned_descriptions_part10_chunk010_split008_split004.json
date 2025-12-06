@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Turbogen",
+    "description": "2014 yılında kurulmuş olan Turbogen Ltd. bünyesindeki yenilenebilir enerji ekipmanları markasıdır.Binalar için yerinde yeşil enerji üretimi için kombine soğutma ısıtma ve güç sistemleri soğuk ısı ve güç CCHP sistemleri sunmaktadır.Turbogen Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Aon Implants",
+    "description": "2008 yılında kurulmuş olan Aon Implants Srl bünyesindeki diş implantları, protez bileşenleri ve bunlarla ilişkili cerrahi aletler markasıdır.Aon Implants Srl İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Mitello",
+    "description": "1988 yılında kurulmuş olan Cora & Peter Kuo Incorporation bünyesindeki akustik gitar telleri, darbuka, davul, def, keman, klasik gitar telleri, klasik gitar, perküsyon, stüdyo kabloları, stand ve tabureler, çalgı aksesuarları, yan flüt, askılar markasıdır.Cora & Peter Kuo Incorporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Çamlı",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hava.ist",
+    "description": "Havaist Taşımacılık San. ve Tic. A.Ş. bünyesindeki otobüs yolcu taşımacılığı markasıdır.İstanbul Havalimanı ile İstanbul’un bir çok noktası arasında yolcu taşımacılığı hizmeti vermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

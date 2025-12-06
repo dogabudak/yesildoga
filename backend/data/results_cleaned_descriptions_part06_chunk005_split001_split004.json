@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Cahan Pen",
+    "description": "Cahan Pen, 1995 yılında kurulan Cahan Pen MMC bünyesinde üretilen plastik boru ve ek parçaları, kapı, pencere, sistemleri, siding cephe kaplama, radyatör ve çatı sistemleri markasıdır.K-Q TSE-ISO-EN 9000, TS ISO 10002, TS EN ISO 14001, TS EN ISO 9001, TS ISO 18001 belgelerine sahiptir.Cahan Pen MMC Azerbaycan merkezlidir ve ürünlerini Nahçıvan’da bulunan 8 bin 400 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Ooni Fırın",
+    "description": "Ooni, 2012 yılında Kristian Tapaninaho ve Darina Garland tarafından kurulan Ooni Limited bünyesindeki çok yakıtlı pizza fırınları ve diğer pişirme ekipmanları markasıdır.Ooni Limited İngiltere merkezlidir. İskoçya’da tasarlanan fırınlar Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Tasco",
+    "description": "Tasco, 2015 yılında kurulan Vista Outdoor Inc. bünyesindeki teleskop, dürbün markasıdır.Firma amatör gökbilimciler için teleskoplar, mikroskoplar, dürbünler, teleskopik manzaralar ve diğer tüfek aksesuarları gibi diğer optik ürünler ithal etmektedir.Vista Outdoor Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oba Yağ",
+    "description": "Oba Yağ Nerenin Malı MarkasıOba, 2005 yılında kurulan Eskişehir Yağ San. Gıda Paz. Tic. Ltd. Şti. bünyesinde üretilen kanola yağı, mısır yağı, ayçiçeği yağı markasıdır.ISO 9000, ISO 14000, OHSAS 18000, ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 22000",
+      "ISO 9000",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beauty Girl",
+    "description": "Beauty Girl, 2015 yılında kurulan Eve Mağazacılık A.Ş. bünyesindeki oje markasıdır.Kozmetik ve kişisel bakım sitesi Turgut Aydın Holding tarafından kurulmuştur.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

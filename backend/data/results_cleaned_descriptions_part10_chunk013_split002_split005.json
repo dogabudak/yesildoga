@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kylie Baby",
+    "description": "1904 yılında kurulmuş olan Coty Inc. bünyesinde üretilen bebekler için cilt ve saç bakım ürünleri markasıdır.Hipoalerjenik ürünler parfüm içermez.Coty Inc. Amerika merkezlidir.Hissedarları:Cosmetics Bv Jab (yüzde 34,50)Blackrock Inc (yüzde 5,88)Charles Heilbronn (yüzde 5,11)Vanguard Group Inc (yüzde 4,21)Bnp Paribas Financial Markets (yüzde 3,95)Sue Nabi (yüzde 3,86)Peter Harf (yüzde 2,80)Banco Santander Sa (yüzde 2,65)Ameriprise Financial Inc (yüzde 1,88)Dimensional Fund Advisors LP (yüzde 1,60)State Street Corp (yüzde 1,31)Norges Bank (yüzde 1,29)Thrivent Financial For Lutherans (yüzde 0,92)Geode Capital Management LLC (yüzde 0,71)Morgan Stanley (yüzde 0,69)Man Group PLC (yüzde 0,69)Goldman Sachs Group Inc (yüzde 0,56)Renaissance Technologies LLC (yüzde 0,56)Millennium Management LLC (yüzde 0,49)D E Shaw Co Inc (yüzde 0,47)Edmond De Rothschild Holding Sa (yüzde 0,46)Charles Schwab Investment Management Inc (yüzde 0,44)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pyramex",
+    "description": "1991 yılında kurulmuş olan Pyramex Safety Products LLC bünyesindeki güvenlik gözlükleri, sert şapkalar, işitme koruması, güvenlik yeleği, iş kıyafetleri, kafa dişli, yüz kalkanları, tek kullanımlık kulak tıkaçları, lens temizleme ürünleri, yeniden kullanılabilir kulak tıkaçları, atış gözlükleri, ergonomi, eldiven, güvenlik, solunum cihazları, kaynak, taktik, göz koruma, güneş gözlükleri markasıdır.Pyramex Safety Products LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rekolte",
+    "description": "2024 yılında kurulmuş olan Bazaar Tüketim Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen bakliyatlar, turşu, tarhana çorbası markasıdır.İstanbul merkezli firma Zırhlıoğlu Group iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Heine Optotechnik",
+    "description": "1946 yılında kurulmuş olan HEINE Optotechnik GmbH & Co. KG bünyesinde üretilen tıbbi teşhis aletleri markasıdır.HEINE Optotechnik GmbH & Co. KG Almanya merkezlidir. Ürünleri Almanya’da üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Banner Akü",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

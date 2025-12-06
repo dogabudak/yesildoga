@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Klipsch",
+    "description": "Klipsch, 1946 yılında kurulan Klipsch Group, Inc. bünyesindeki hoparlör ve kulaklık markasıdır.2011 yılında VOXX International Corporation tarafından satın alındı.1960 yılında kurulan VOXX International Corporation; otomotiv elektroniği, tüketici elektroniği aksesuarları ve tüketici ve ticari ses ekipmanları üreten Amerika merkezli tüketici elektroniği şirketidir.Bünyesindeki markalar:808 AudioAcoustic ResearchAdventAudiovoxCarLinkChampChipmunksCode-AlarmDirected ElectronicsFlashLogicHirschmannInVision TechnologiesIncaarJamoJensen ElectronicsKlipschMagnatPrestigePursuiTrakPursuitRCASurface CleanTerkZentral Home Command",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Elac",
+    "description": "Elac, 1926 yılında kurulan ELAC Electroacustic GmbH bünyesindeki stüdyo monitörler, hoparlörler, subwoofers hoparlör sürücüleri ve kulaklık markasıdır.ELAC Electroacustic GmbH, Çin merkezli Legend Holdings Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Clarion",
+    "description": "Clarion, 1940 yılında kurulan Clarion Co., Ltd. bünyesindeki otomotiv ses ve navigasyon sistemleri markasıdır.Birinci sınıf araç içi hifi ses ve multimedya elektronik aygıtları ile navigasyon ve arka görüş kamerası aygıtlarının tasarımcısı, geliştiricisi ve üreticisi olarak faaliyet göstermektedir.Clarion Co., Ltd., 2019 yılında Fransa merkezli Faurecia Clarion Electronics tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Chengless",
+    "description": "Chengless, Vb Cudi Dağıtım Pazarlama Gıda San. İç ve Dış Ticaret Ltd. Şti. bünyesindeki mısır cipsi markasıdır.Ürün içeriğinde mısır irmiği, bitkisel yağ, tuz, çeşide göre doğala özdeş baharat aroması bulunmaktadır. Ürünleri fırınlanmaktadır ve kızartılmamaktadır.ISO 22000 ve 22001 belgelerine sahiptir. Ürünlerini Gaziantep’te bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Burmester Audiosysteme",
+    "description": "Burmester Audiosysteme, 1977 Dieter Burmester tarafından kurulan Burmester Audiosysteme GmbH bünyesinde üretilen üst düzey ses bileşenleri markasıdır.Otomotiv endüstirisi ve müzikseverler için ürünler üretmektedir.Burmester Audiosysteme Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

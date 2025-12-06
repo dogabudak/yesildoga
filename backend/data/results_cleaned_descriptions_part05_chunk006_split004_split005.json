@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Blinc",
+    "description": "Blinc, 1999 yılında kurulan Blinc Inc. bünyesindeki tüp maskara, fırçalar ve aletler markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Blinc Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Trouver",
+    "description": "Trouver, 2017 yılında kurulan Dreame Technology Tianjin Co. Ltd. bünyesinde üretilen akıllı ev aletleri, kablosuz elektrikli süpürgeler, yüksek hızlı saç kurutma makineleri, bilgisayar donanımı ve yazılım ürünleri ve diğer ürünler markasıdır.Dreame Technology Tianjin Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Polo Club",
+    "description": "Polo Club, 2010 yılında kurulan Company Bridge & Life S.L. bünyesindeki erkek, kadın ve çocuklar için gömlekler, tekstil ürünleri, ayakkabılar, bez çantalar markasıdır.Company Bridge & Life S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Beem",
+    "description": "Beem, 1974 yılında kurulan Beem Gmbh bünyesinde üretilen semaver, kahve makinesi ve mutfak ve yemek pişirme için ev aletleri, tencere, tava, su ısıtıcısı, fırınlar markasıdır.Beem Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Campingaz",
+    "description": "Campingaz, 1949 yılında Gabriel Corlet, Rene Furrow, Andre Collomb, Lucien Bussiere tarafından kurulan hava yatakları, lambalar ve sobalar, ocaklar, ızgaralar, soğutma ekipmanları, bahçe ekipmanları, şişme ürünleri markasıdır.2016 yılında Amerika merkezli Newell Brands Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

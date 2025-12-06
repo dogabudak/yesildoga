@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fabyou",
+    "description": "Fabyou, 2015 yılında kurulmuş olan Beauty Net Korea Co. Ltd. bünyesinde üretilen gözenek arındıcı ampul, maskeler, tonerler, jeller markasıdır.Beauty Net Korea Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Weprof",
+    "description": "Weprof, Disalab Kimya San. ve Tic. Ltd. Şti. bünyesindeki saç ve cilt bakım ürünleri ve sir ürünleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Paul Mark",
+    "description": "Paul Mark, 2009 yılında kurulmuş olan Kırşan Kozmetik Gıda Tur. San. ve Tic. Ltd. Şti. bünyesindeki koku vericiler markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Trocal",
+    "description": "Trocal, 1897 yılında kurulmuş olan Profine Gmbh bünyesinde üretilen pencere ve kapı sistemleri için plastik profiller, panjur sistemleri ve PVC plakalar markasıdır.Profine Gmbh Almanya merkezlidir. Ürünlerini 70 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Güvenli Peynir",
+    "description": "Güvenli, 2016 yılında kurulmuş olan Albatros Süt Ürünleri bünyesinde üretilen çerkez peyniri, taze kaşar peyniri, mihaliç peyniri, sepet peyniri, örgü peyniri vanotlu peynir markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

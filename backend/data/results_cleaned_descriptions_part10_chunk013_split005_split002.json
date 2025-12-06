@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Gloflon",
+    "description": "2008 yılında kurulmuş olan Global Medikit Limited bünyesinde üretilen tek kullanımlık enjejsiyonlar markasıdır.GMP, ISO 9001, ISO 13485 belgelerine sahiptir.Global Medikit Limited Hindistan merkezlidir. Ürünleri Hindistan’da üretilmektedir ve 60’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Konvesan",
+    "description": "2007 yılında kurulmuş olan Konvesan Konveyör Ekipmanları Makina San. Tic. Ltd. Şti. bünyesindeki konveyör makineleri ve ekipmanları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pandaglass",
+    "description": "2008 yılında kurulmuş olan Shenzhen Runjiangnan Technology Co. Ltd. bünyesinde üretilen cep telefonu ve tabletler için temperli camlar markasıdır.Shenzhen Runjiangnan Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "On’plast",
+    "description": "2017 yılında kurulmuş olan Onset Plastik Kalıp San. ve Tic. Ltd. Şti. bünyesinde üretilen plastik enjeksiyon markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Setecoject",
+    "description": "1977 yılında kurulmuş olan Set Medikal San. ve Tic. A.Ş. bünyesinde üretilen şırınga, hipodermik iğne ve insülin kalem iğnesi markasıdır.GMP, ISO 9001, ISO 13485 belgelerine sahiptir.Firma İstanbul merkezlidir ve toplam 10 bin metrekarelik tesisinde üretim yapmaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Dr. Oetker",
+    "description": "Dr. Oetker Hangi Ülkenin Malı MarkasıDr. Oetker, 1891 yılında August Oetker tarafından kurulan Dr. August Oetker Nahrungsmittel KG bünyesindeki hamur kabartma tozu, puding, kek karışımları, şekerli vanilin, geleneksel Türk tatlıları, yoğurt, dondurulmuş ürünler markasıdır.Dr. August Oetker Nahrungsmittel KG Almanya merkezlidir. 40’tan fazla ülkede faaliyet göstermektedir. Türkiye’de 1987 yılından beri Dr. Oetker Gıda San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-10-13"
+  },
+  {
+    "company": "Apex Computer Technology",
+    "description": "Apex Computer Technology, 1998 yılında kurulan Apex Computer, Inc. bünyesindeki bilgisayar ürünleri markasıdır. Bilgisayar güç kaynakları ve kasaları üretmektedir.Apex Computer, Inc. Amerika merkezli bir şirkettir ve şirketin sahibi Carol Janes’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tronsmart",
+    "description": "Tronsmart, 2008 yılında Eric Cheng tarafından kurulan; hızlı şarj cihazları, USB Tip-C aksesuarları, Bluetooth ses, Oyun aksesuarları ve Akıllı ev ürünleri markasıdır.Tronsmart Çin merkezli bir şirkettir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pikatel",
+    "description": "Pikatel, 1981 yılında kurulan Elkotek Mühendislik ve Danışmanlık Hizm. A.Ş. bünyesindeki modem, web kamera markasıdır.Pikatel markalı ürünler yurt dışındaki çok sayıda farklı ülkeye ait üreticilerden ithal edilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-04-19"
+  },
+  {
+    "company": "Syngenta",
+    "description": "Syngenta, 2000 yılında kurulan Syngenta AG bünyesinde üretilen tarımsal kimyasallar ve tohumların markasıdır.Syngenta AG bir biyoteknoloji şirketi olarak, genomik araştırma yapmaktadır.2015 yılında Syngenta AG, Çin devlet kuruluşu olan ChemChina tarafından satın alınmıştır. Şirketin merkezi İsviçre’de yer almaktadır.Türkiye pazarına 1965 yılında giren ve fabrika kuran şirket satıldıktan sonra adını Syngenta Tarım Sanayi olarak değiştirerek işlevini sürdürmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-10-04"
+  }
+]

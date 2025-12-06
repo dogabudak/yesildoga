@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kumtoys",
+    "description": "Kumtoys, 2001 yılında Umut Aslan tarafından kurulan Kum Toys Egitim Materyalleri Üretim ve Pazarlama bünyesindeki çocuk oyuncakları, oyunları, okul kırtasiye malzemeleri, el sanatları markasıdır.Çocukların hayal gücünü, el becerilerini ve öz güvenlerini geliştiren boyama, alüminyum folyo, maket, basit elektrik devresi, etamin, renkli keçe, renkli pul, ahşap boyama, linol baskı, renkli taş gibi malzemeler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Raspberry Pi",
+    "description": "Raspberry Pi, 2009 yılında kurulan Raspberry Pi Foundation Limited bünyesinde okullarda temel bilgisayar bilimi çalışmaları için üretilen tek kartlı bilgisayarlar markasdır.Bilgisayarlar ve mikrodenetleyiciler, kameralar ve ekranlar, eklenti panoları, güç kaynakları ve kablolar, giriş çıkışlar ve çevre aygıtları üretmektedir.Raspberry Pi Foundation İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Milliyet Gazetesi",
+    "description": "Milliyet, 1926 yılında ilk kez basılan ve 2011 yılında Demirören Holding A.Ş. tarafından satın alınan Milliyet Gazetecilik ve Yayıncılık A.Ş. bünyesindeki günlük gazetedir.Demirören Holding A.Ş. Yönetim Kurulu Başkanı Yıldırım Demirören’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Meituan",
+    "description": "Meituan, 2010 yılında kurulan Meituan Inc. bünyesindeki teslimat hizmetlerinde, tüketici ürünlerinde ve perakende hizmetlerinde faaliyet gösteren e-ticaret platformu markasıdır.İşletmesi, catering, talep üzerine teslimat, araba kiralama, bisiklet paylaşımı, otel ve seyahat rezervasyonu, sinema bileti ve diğer eğlence ve yaşam tarzı hizmetleri dahil olmak üzere 200’den fazla hizmet kategorisinde faaliyet göstermektedir.Meituan Inc. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Milli Gazete",
+    "description": "Milli Gazete, 1973 yılında kurulan Yeni Neşriyat A.Ş. bünyesindedir.Ömer Yüksel Özek Milli Gazete’nin imtiyaz sahibi ve genel müdürüdür.Gazete Milsan Basın San. A.Ş. tarafından basılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

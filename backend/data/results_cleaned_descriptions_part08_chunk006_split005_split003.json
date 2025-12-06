@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Pontiac",
+    "description": "Pontiac, 1908 yılında kurulmuş olan General Motors LLC bünyesindeki üretimi durdurulan otomobil ve parçaları markasıdır.General Motors LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dijipol",
+    "description": "Dijipol, 2020 yılında Özser Neo Sigorta ve Reasürans Brokerliği A.Ş. bünyesinde kurulan dijital sigorta tekliflerinin satın alınabileceği uygulama hizmetleri markasıdır.Çok sayıda sigorta şirketinden teklif alabilme, fiyat karşılaştırması yapabilme ve internetten sigorta poliçesi alma imkanı sağlayan firma ayrıca müşterilerine, şubelerinden de yerel olarak hizmet sunmaktadır.ISO 9001, ISO 10002, ISO 14001, ISO 22031, ISO 27001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 22031",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "MG4",
+    "description": "MG, 1924 yılında kurulmuş olan MG Motor UK Ltd. bünyesinde üretilen akülü elektrikli otomobil markasıdır.MG Motor UK Ltd. 2007 yılında Çin merkezli SAIC Motor Corp. Ltd. tarafından satın alınmştır. 2021 yılından itibaren Türkiye pazarına Doğan Trend Otomotiv ile giriş yapmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "EMA Jewellery",
+    "description": "EMA Jewellery, 2013 yılında Erol Durmuş, Eren Sürme tarafından kurulmuş olan Ema Altın Kuyumculuk San. Tic. Ltd. Şti. bünyesindeki kuyumculuk markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Burger Schön",
+    "description": "Burger Schön, 2019 yılında kurulmuş olan Schön Gıda Turizm San. ve Tic. Ltd. Şti. bünyesindeki hamburger işletmeleri markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

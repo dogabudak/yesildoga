@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Yudumla Şerbetleri",
+    "description": "Yudumla Şerbetleri, 1971 yılında Mustafa Türkmen tarafından kurulan Tarihi Yudumla Şerbeti Gıda Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen şerbet ve reçel markasıdır.Ürünlerinde sağlığı tehdit eden hiç bir kimyasal madde bulunmamaktadır.Firma ürünlerini İzmir’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sezon Pirinç",
+    "description": "Sezon Pirinç, 1950 yılında M. Kemal Erdoğan tarafından kurulan Sezon Pirinç A.Ş. bünyesinde üretilenPirinç, tarlada çeltikten paketlenmiş ürüne kadar el değmeden otomatik olarak üretilmektedir.Firma ürünlerini Edirne’de bulunan fabrikasında üretmektedir.Bünyesindeki markalar;DünyaSezonSimge",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Skeyndor",
+    "description": "Skeyndor, 1988 yılında kurulan Skeyndor S.L.U bünyesinde üretilen yüz, vücut bakım ürünleri ve güneş bakım ürünleri markasıdır.Firma parfüm, kozmetik, erkek ve kadınlar için kremler, serumlar, temizleyiciler, tonerler, nemlendiriciler, rujlar, maskaralar, göz farı, göz astarları ve diğer vücut bakım ürünlerini sunmaktadır.Skeyndor S.L.U İspanya merkezlidir. Ürünlerini İspanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2022-04-12"
+  },
+  {
+    "company": "Polatsan Baharat",
+    "description": "Polatsan, 1995 yılında kurulan Polatsan Tarım Ürünleri Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen baharat, pul biber, salça, kuruyemiş markasıdır.Gaziantep merkezli firma ürünlerini 6 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Insight",
+    "description": "Insight, 1948 yılında kurulan Eley S.r.l. bünyesinde üretilen saç, yüz ve vücut kozmetik ürünleri markasıdır.Insight, fito-ekstraktlar ve fito-yağlar ile organik bileşenler kullanılarak formüle edilmiştir.Eley S.r.l. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.ISO 9001 ve ISO 22716 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

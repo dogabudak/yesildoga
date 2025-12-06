@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Volt Akü",
+    "description": "Volt Akü, 1989 yılında kurulan Volt Akü Sanayi ve Ticaret A.Ş. bünyesindeki akümülatör ve malzemeleri markasıdır.Ürünlerini İTOB OSB’de 5 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Klass",
+    "description": "Klass, 1973 yılında kurulan Klass Dış Ticaret Ltd. Şti. bünyesinde üretilen midi fırın, elektrikli quartz soba, gazlı pişirici, barbekü markasıdır.Ürünlerini 42 bin metrekarelik açık alandaki 28 bin 400 metrekarelik kapalı alanda üretmektedir.CE, GS, CB ,SASO, SONCAP ve TSE gibi belgelere sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Curaprox",
+    "description": "Curaprox, 1972 yılında kurulan Curaden AG bünyesindeki mekanik diş fırçası, elektrikli diş fırçası, diş macunu, ağız bakım setleri, gargara ve diş ipi markasıdır.Curaden AG İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Compal Electronics",
+    "description": "Compal Electronics, 1984 yılında kurulan Compal Electronics, Inc. bünyesindeki dizüstü bilgisayar, PDA, televizyon markasıdır.Dünyanın en büyük ikinci sözleşmeli dizüstü bilgisayar üreticisidir.Compal Electronics, Inc. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Murata Manufacturing",
+    "description": "Murata Manufacturing, 1944 yılında Akira Murata tarafından kurulan Murata Manufacturing Company, Ltd. bünyesindeki Monolitik seramik kapasitör, SAW filtresi, Seramik rezonatörler, Piezoelektrik sensörler, Seramik filtreler, Piezoelektrik ziller, Kısa menzilli kablosuz modüller, İletişim modülleri (Bluetooth® modülleri dahil), Çok katmanlı seramik cihazlar, Bağlayıcı, Izolatörler, Güç kaynakları, Devre modülleri, EMI Bastırma filtreleri, Endüktör (bobinler), Sensör markasıdır.Murata Manufacturing Company, Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

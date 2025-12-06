@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Makino",
+    "description": "Makino, Makino Inc. bünyesindeki endüstriyel makineler, yatay işleme merkezleri, dikey işleme merkezleri, tel edm’ler, platin edm’ler, 5 eksenli işleme merkezleri markasıdır.Makino Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Argo Cnc",
+    "description": "Argo, 1984 yılında kurulmuş olan Lih Chang Machinery Co. Ltd. bünyesinde üretilen cnc delme makinesi, freze ve kılavuz çekme işleme merkezi, dikey freze makineleri, cnc kılavuz çekme merkezi, cnc kılavuz çekme ve delme makinesi, işleme merkezi, cnc işleme merkezi, diz tipi freze makinesi markasıdır.ISO 9001 belgesine sahiptir.Lih Chang Machinery Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Acure",
+    "description": "Acure, 2009 yılında kurulmuş olan Better Planet Brands LLC bünyesinde üretilen cilt, vücut ve saç bakım ürünleri markasıdır.Ürünleri paraben, sülfat, formaldehit, parafin, mineral yağ içermez ve hayvanlar üzerinde test edilmemektedir.Better Planet Brands LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sandqvist",
+    "description": "Sandqvist, 2004 yılında Anton, Daniel ve Sebastian tarafından kurulmuş olan Sandqvist Bags and Items AB bünyesindeki çantalar markasıdır.Sandqvist Bags and Items AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Brasso",
+    "description": "Brasso, 1823 yılında kurulmuş olan Reckitt Benckiser Group plc bünyesinde üretilen metal temizleyici ve parlatıcı markasıdır.Kapı kolu, musluk, soba ve buzdolabının metal kısmı gibi yüzeylerin parlaklığının yanı sıra verimli bir temizlik sağlayan Cilalı bir metal ve krom kaplamadır.Reckitt Benckiser Group plc İngiltere merkezlidir. Türkiye’de Reckitt Benckiser A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

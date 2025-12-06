@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Hongwin",
+    "description": "Hongwin, 2018 yılında kurulan Wenzhou Hongwin Auto Parts. Co. Ltd. bünyesinde üretilen otomatik sensörler, otomatik valfler, ateşleme bobini modülü, termostat ve muhafaza ürünleri gibi otomobil parçaları markasıdır.Wenzhou Hongwin Auto Parts. Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Oza Coffee",
+    "description": "Oza Coffee, 1984 yılında kurulan Ergün Oza Kahve Ltd. Türk kahvesi, tek içimlik kahve çeşitleri, espresso ve filtre kahve, cafe ve bar ürünleri ile kahve evi markasıdır.Türk kahvesi üretiminde kullanılan çekirdek kahve Brezilyadan, tek içimlik hazır granül kahve ürünlerinin hammaddesi ise Almanya dan ithal edilmektedir.ISO 9001, ISO 22000 belgelerine sahiptir.Ergün Oza Kahve Ltd. KKTC merkezlidir ve ürünlerini KKTC’de 2 bin metrekarelik arazide buluınan bin 800 metrekarelik tesisinde üretmektedir. Ürünlerini İngiltere’ye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "Northern Cyprus",
+    "updated_date": null
+  },
+  {
+    "company": "Chef Börek",
+    "description": "Chef Börek, 2011 yılında kurulan Avrupa Ajans Organizasyon ve Reklam Hizmetleri Dış Tic. Ltd. Şti. bünyesindeki börek restaurant ve cafe markasıdır.Adana böreği, boşnak böreği, boşnak mantısı, çeşitli ana yemek, tatlı sosları, kahve çeşitleri, çay çeşitleri, içecekler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yağmur Tarım Makineleri",
+    "description": "Yağmur Tarım Makineleri, 1974 yılında kurulan Yağmur Tarım Makinaları San. ve Tic. A.Ş. bünyesindeki çapa makineleri, el traktörleri, çayır biçme makineleri, ekipmanlar markasıdır.2017 yılında Yağmur Tarım Makinaları San. ve Tic. A.Ş.’nin tüm hisseleri şirketin kurucu ortağı ve yönetim kurulu başkanı Şükrü Saraç tarafından devralınmıştır.İstanbul merkezli firma ürünlerini 55 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lidersan Simetra",
+    "description": "Lidersan Simetra, 2018 yılında kurulan Tahir Dendeş Dayanıklı Tüketim Malları İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki elektrikli şofben markasıdır.Firma Aydın merkezlidir.Bünyesindeki markalar;ArtemisAydınderyaDamlaDeryaLidersan SimetraLidersanderyaSimetraTd GünerTd Tahir DendeşYade Ilkemiz Sonsuzluk",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-12-16"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Tally Weijl",
+    "description": "Tally Weijl, 1984 tarihinde Tally Elfassi-Weijl tarafından kurulan Tally Weijl Trading AG bünyesindeki moda markasıdır.Tally Weijl dünya çapında 800’den fazla mağazada bulunmaktadır.Tally Weijl Trading AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Primark",
+    "description": "Primark, 1969 yılında kurulan Primark Stores Limited bünyesindeki moda, güzellik ve ev eşyaları sunan uluslararası bir perakende markasıdır.Avrupa ve Amerika’da 13 ülkede 380’den fazla mağazada faaliyet göstermektedir.Primark Stores Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Simplo Technology",
+    "description": "Simplo Technology, 1992 yılında kurulan Simplo Technology Co. Ltd. bünyesinde üretilen 1. Sınıf pil modülü markasıdır.ISO 9001, ISO 14001, ISO 17025, ISO 45001, TS 16949, ISO 13485 belgelerine sahiptir.Simplo Technology Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 17025",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Akyazı",
+    "description": "Akyazı, 1968 yılında Lütfü Akyazı tarafından kurulan Akyazı Okul Büro Malzemeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen çeşitli okul ürünleri, yazı tahtası, mantar pano, kumaşlı pano, okul gereçleri, çizim masası, makam panosu, display pano, eğitim panosu ve akıllı tahta markasıdır.Ürünlerini 4 bin 850 metrekarelik kapalı alanda üretmektedir ve 22 ülkeye ihraç etmektedir. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ABA Rulman",
+    "description": "ABA, 1982 yılında Rafet Bulut tarafından kurulan ABA Otomotiv bünyesindeki kayış gergileri, rulmanlar, otomatik gergiler, kasnaklar, multi – v kayış kitleri, zamanlama kitleri, v kayışları ve avara kasnakları gibi otomotiv parçaları markasıdır.Ürünlerini 79 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

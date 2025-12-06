@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ancwear",
+    "description": "Ancwear2007 yılında kurulmuş olan Shenzhen Ancam Tech Co. Ltd. bünyesinde üretilen akıllı bilezikler, gözlükler, saatler, araba kara kutuları, bluetooth bilezik saatler, casus kamera kalemleri, saatleri, çocuk takip bilekliği, saatleri, giyilebilir kameralar, gizli kameralar, saatleri, iğne deliği kameralar, kamera güneş gözlüğü, pedometre spor saatleri, spor kameraları, taşınabilir dvr’ler markasıdır.Shenzhen Ancam Tech Co. Ltd. Çin merkezlidir. Ürünleri Çin’de üretilmektedir ve 20’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alerma",
+    "description": "AlermaGençler Kozmetik San. ve Tic. A.Ş. bünyesindeki şampuan, saç kremi, saç maskesi, saç bakım spreyi markasıdır.Paraben, sülfat, alkol, yapay renklendirici içermez. Hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seven up Temizlik Ürünleri",
+    "description": "Seven up2004 yılında kurulmuş olan Ada Kimya Pazarlama bünyesinde üretilen çamaşır bakım ürünleri, ahşap temizleyici, bulaşık bakım ürünleri, cam temizleyici, ekran temizleyici, jel lavabo açıcı, kişisel bakım ürünleri, genel temizleyici, wc ve banyo temizleyici, yüzey temizleyici markasıdır.ISO 9001, OHSAS 18001, ISO 14001, ISO 27001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Roomys",
+    "description": "Roomys2023 yılında kurulmuş olan Roomys Tekstil Tic. Ltd. Şti. bünyesindeki okul çantası, sırt çantası markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doras",
+    "description": "Doras1992 yılında kurulmuş olan Doruk Yapı Gereçleri San. ve Tic. Ltd. Şti. bünyesinde üretilen silindir, silindirli kilit, tirajlı kilit, asma kilit, yedek tirajlı barel, kayar milli asma kilit markasıdır.Firma İstanbul merkezlidir. Ürünlerini 14 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kiri Peynir",
+    "description": "Kiri, 1865 yılında Leon Bel tarafından kurulmuş olan Bel SA bünyesindeki peynir markasıdır.2007 yılında Türkiye pazarına girmiştir ve ürünlerini Tekirdağ’da bulunan tesislerinde üretmektedir.Bel SA Fransa merkezlidir. Ürünleri 27 üretim sahasında hazırlanmakta ve 120’den fazla ülkede dağıtılmaktadır.Bünyesindeki markalar;BabybelBoursinGoGo squeeZKarperKiriLa Vache qui ritLaughing CowMini KiriNurishhPiknikPom’potes",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2023-09-26"
+  },
+  {
+    "company": "Lipault",
+    "description": "Lipault, 2005 yılında Samsonite International S.A. bünyesinde üretilen bagajlar, çantalar, günlük çantalar ve aksesuarlar markasıdır.Samsonite International S.A. Lüksemburg merkezli Amerikan şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Lip Serum",
+    "description": "Lip Serum, 1947 yılında kurulan Blistex Inc. bünyesindeki dudak serumu markasıdır.Blistex ürünleri 80’den fazla ülkede satılmaktadır.Blistex Inc. Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Van Heusen",
+    "description": "Van Heusen, 1881 yılında Musa Phillips, John Van Heusen ve Dramin Jones tarafından kurulan Phillips-Van Heusen Corp. bünyesindeki giyim markasıdır.Phillips-Van Heusen 2002 yılında Türkiye’de satışlara başladı.Phillips-Van Heusen Corp Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-01-24"
+  },
+  {
+    "company": "Domotherm",
+    "description": "Domotherm, 1985 yılında UEBE Medical GmbH şirketi bünyesinde üretilen tıbbi termometre markasıdır.1890 yılında kimyager Wilhelm Uebe tarafından kurulan UEBE, doğrudan ve dolaylı olarak tanınmış dağıtıcılar aracılığıyla sağlık pazarı malzemeleri satmaktadır.Medikal cihazlar üreten UEBE Medical GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

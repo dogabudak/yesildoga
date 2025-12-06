@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Freya",
+    "description": "Freya, 1993 yılında kurulan Freya Kozmetik ve Gıda Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen şampuan, cilt ve el bakım ürünleri, gül ürünleri, güneş kremi, kaş şekillendirici, saç bakım ürünleri, serumlar markasıdır.Ürünlerinde Hindistan ve Avrupa menşeili hammaddeler kullanılırken, ambalaj olarak Avrupa ve Çin menşeili ambalajlar kullanmaktadır.İstanbul merkezli firmanın bin 400 metrekarelik üretim tesisinin bin metrekaresi açık, 400 metrekaresi kapalı depolama alanına sahiptir. Ürünlerini 5 kıtaya ihraç etmektedir.Bünyesindeki markalar;BarbarossaBitoffBypenolDr.FreyaFieraFr PlusFr. DermaFr. GoldFr. Health CareFreyaFreya CosmeticFreya GoldFreya GülsaFreya PlusFryNorsPasifexPharmaroyalQueen Of RoseRosequeen",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mobiletron",
+    "description": "Mobiletron, 1982 yılında kurulan Mobiletron Electronics Co. Ltd. bünyesinde üretilen araç güvenlik sistemi, ayna monitör, ccd kamera, alternatör voltaj regülatörleri, alternatör doğrultucular ve diyotlar, ateşleme kontrol modülleri, elektrikli el aletleri, şarj edilebilir elektrikli el aletleri, lastik basıncı izleme sistemi, yedekleme sistemi, tpms, otomotiv elektroniği markasıdır.IATF 16949, ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.Mobiletron Electronics Co. Ltd. Tayvan merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Visaton",
+    "description": "Visaton, 1968 yılında kurulan Visaton Gmbh & Co. Kg bünyesinde üretilen hoparlör ve hoparlör bileşenleri markasıdır.Endüstri, gemiler, toplu taşıma araçları, müzeler, motorlu evler veya oturma odası için çok çeşitli alanlarda akustik ürünler üretmektedir. ISO 9001 belgesine sahiptir.Visaton Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Traymed",
+    "description": "Traymed, 2016 yılında kurulan Telkar Çevre Sağlık End. Plas. San. ve Tic. A.Ş. bünyesinde üretilen tedavi tepsileri, kan örnek taşıma setleri ve idrar-gaita örnek taşıma setleri, acil çantaları, tedavi tepsileri markasıdır.TSE EN 23907, ISO 9001, ISO 14001, TS ISO 45001, ISO 13485 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;DanboxPboxSharpboxSmaasTelkarTraymed",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Swb Rulman",
+    "description": "Swb, 1983 yılında kurulan Linqing Xintai Bearing Co. Ltd. bünyesinde üretilen rulmanlar, bilyalı yataklar, rulmanlar için bilya halkalar, kendiliğinden yağlanan rulman, makineler için rulman bağlantısı, aktarım mili için rulmanlar, makineler için sürtünmesız rulmanlar, makaralı rulmanlar, araçlar için rulmanlar, şaft makineleri markasıdır.Linqing Xintai Bearing Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;KgSwb",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

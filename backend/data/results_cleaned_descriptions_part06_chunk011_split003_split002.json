@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Viored",
+    "description": "Viored, 2003 yılında kurulan Lila Kozmetik A.Ş. bünyesinde üretilen saç boyası markasıdır.GMP ve ISO 9001 belgelerine sahiptir.Firma ürünlerini Diyarbakır’da bulunan 20 bin metrekarelik kapalı alanda üretmektedir ve 31 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-07"
+  },
+  {
+    "company": "Ferfresh",
+    "description": "Ferfresh, 1978 yılında kurulan Fersan Fermantasyon Ürünleri San. ve Tic. A.Ş. bünyesinde 2019 yılından beri üretilen temizlik sirkeleri markasıdır.TSE, BRC-8, Helal, Koşer belgelerine sahiptir.Fersan Fermantasyon Ürünleri San. ve Tic. A.Ş., 2012 yılında Almanya merkezli Develey Senf & Feinkost Gmbh tarafından satın alındı. Ürünlerini İzmir’de bulunan fabrikasında üretmekte ve 40 ülkeye pazarlamaktadır.",
+    "documents": [
+      "BRC"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "AAK",
+    "description": "AAK2005 yılında Aarhus United ve Karlshamns AB’nin birleşmesiyle kurulmuş olan AAK AB bünyesinde üretilen bitkisel yağlar ve katı yağlar markasıdır.ISO 9001, ISO 14001, ISO 22000 ve OHSAS 18001 belgelerine sahiptir.AAK AB İsveç merkezlidir. Çok sayıda ülkede 20’den fazla üretim tesisine sahiptir. Türkiye’de AAK Turkey Gıda San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.Hissedarları:Melker Schörling AB (yüzde 30,3)Alecta Pension Insurance Mutual (yüzde 4,7)Didner & Gerge Fonder AB (yüzde 3,1)Nordea Investment Management AB (yüzde 2,4)Cliens Kapitalförvaltning AB (yüzde 1,8)Kirkbi Invest A/S (yüzde 1,8)Spiltan Fonder AB (yüzde 1,2)Lansförsakringar Fondförvaltning AB (yüzde 1)Enter Fonder AB (yüzde 0,67)Storebrand Asset Management AS (yüzde 0,64)Bünyesindeki markalar;AlbaAlbaktifAlbaletAlbamiksAstaBiskinBonaFestinoFritaFrita MultiKreminStellaSuper AlbaSupraTadTadımTavaTrioUnikaUnipro",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": "2024-08-05"
+  },
+  {
+    "company": "Vala Krema",
+    "description": "Vala, 1979 yılında kurulan Savola Group bünyesindeki Savola Gıda San. ve Tic. A.Ş. tarafından üretilen çok amaçlı bir margarin, su içermeyen bitkisel pastacılık yağı markasıdır.Savola Group, El Velid bin Talal El Suud’un sahibi olduğu Suudi Arabistan merkezli Kingdom Holding Company bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SA",
+    "updated_date": null
+  },
+  {
+    "company": "Özüm Şekerleme",
+    "description": "Özüm, 1994 yılında kurulan Özüm Gıda San. ve Tic. A.Ş. bünyesinde üretilen konserve meyveler (vişne, kiraz, ayva, armut, kayısı, şeftali), marmelatlar, meyve şekerlemeleri, meyve suları, meyveli aromalı şuruplar, reçeller markasıdır.Ayrıca gıda işletmelerinin ara mamül ve işlenmiş yarı mamül ihtiyacına dönük üretimler de gerçekleştirmektedir.İstanbul merkezli firma ürünlerini Kütahya’da yer alan 4 bin 300 metrekarelik açık alanda kurulu olan 2 bin 100 metrekarelik kapalı alana sahip fabrikasında üretmektedir.Bünyesindeki markalar;ÖzümÖzümsanÖzümsan AlizeÖzümsan Alize Ice TeaÖzümsan AuraÖzümsan Filiz ÇayıÖzümsan LimonataÖzümsan Rize ÇayıÖzümsan SerinaÖzümsan TintinaSerinaSerina Limonata",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

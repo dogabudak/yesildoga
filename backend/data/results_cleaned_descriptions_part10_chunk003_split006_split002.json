@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Zimaş",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wii U Gamepad",
+    "description": "1889 yılında Fusajiro Yamauchi tarafından kurulmuş olan Nintendo Co. Ltd. bünyesindeki video oyun konsolu için standart oyun denetleyicisi markasıdır.Nintendo Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Lüx Safety",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Moldex",
+    "description": "1980 yılında kurulmuş olan Moldex-Metric Inc. bünyesindeki kulak koruyucular, kulak tıkacı istasyonu duvara takma aparatı markasıdır.Moldex-Metric Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wally",
+    "description": "1994 yılında kurulmuş olan yat markasıdır.Marka 2019 yılında İtalya merkezli Ferretti Spa tarafından satın alınmıştır.Hissedarları:Shandong State-Owned Asset Sup. & Adm. Commission (yüzde 37,5)Valea Foundation (yüzde 13,2)Danilo Iervolino (yüzde 5,2)Piero Ferrari (yüzde 4,5)UBS Asset Management Switzerland AG (yüzde 3,9)Chimera Financial Investments LLC (yüzde 2,9)Julius Kiss (yüzde 2)Biglari Capital LLC (yüzde 1,8)Helikon Investments Ltd. (yüzde 1,6)Fideuram Asset Management SGR SpA (yüzde 1,5)",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Jo Malone London",
+    "description": "Jo Malone London, 1990 yılında Jo Malone tarafından kurulan Jo Malone London Inc. bünyesindeki parfüm ve kokulu mum, banyo ürünleri ve oda kokuları markasıdır.Jo Malone London Inc. 1999 yılında Amerika merkezli The Estee Lauder Companies Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Swah",
+    "description": "Swah, 1988 yılında kurulan Swah s.r.o. bünyesinde üretilen hava kanalları için profil hatları ve makineleri markasıdır.Rulo şekillendirme hatlarına ve HVAC kanalı üreten makinelere odaklanmıştır.Swah s.r.o. Çek Cumhuriyeti merkezlidir. Ürünlerini 3 bin metrekarelik alana sahip tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Pure Beauty",
+    "description": "Pure Beauty, 1828 yılında kurulan A.S. Watson Group Ltd. bünyesinde üretilen şampuan, cilt bakım ürünleri, duş jeli, el kremi, güneş koruyucu ürünler, günlük kremler, güzellik maskesi, deodorant, kozmetik serumlar, losyonlar, parfümler, saç bakım preparatları ve ürünleri, kremleri, spreyleri, temizleme köpüğü, maskeleri, yağları, temizlik ve bakım amaçlı temizleme sütü, vücut bakım preparatları ve ürünleri, yüz bakım ürünleri markasıdır.A.S. Watson Group Ltd.’nin yüzde 75 hissesi Hong Kong merkezli CK Hutchison Holdings’e ve yüzde 25 hissesi Singapur merkezli Temasek Holdings’e aittir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Bluesky Tırnak Bakım Ürünleri",
+    "description": "Bluesky, 2009 yılında kurulan Guangzhou Qingxiu Rihua Co. Ltd. bünyesinde üretilen sahte tırnak, tırnak ağartıcı, tırnak bakım ürünleri, tırnak cilası, tırnak güçlendirici, tırnak jeli, tırnak minesi, tırnak parlatıcı, tırnak ucu, tırnakları şekillendirmek için sıvı ve tozlar, tırnakları güçlendirmek için preparatlar, tırnaklar için kremler, tırnaklar için resimli çıkartmalar, yapay tırnak uçları ve formları, yapıştırıcıları, oje bazlı kaplama, kurutma solüsyonları, sökücüler, el ve ayak kremi, losyonları ve temizleyiciler, kozmetik, makyaj müstahzarları, parfüm, zayıflama amaçlı kozmetik preparatlar, tuvalet malzemeleri markasıdır.Guangzhou Qingxiu Rihua Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 67 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "3Dconnexion",
+    "description": "3Dconnexion, 1993 yılında kurulan 3Dconnexion Group bünyesindeki 3D navigasyon cihazları, 3D fareler, Cadmouse gibi ergonomik donanım ve akıllı, kullanımı kolay yazılımlar markasıdır.3Dconnexion Group Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

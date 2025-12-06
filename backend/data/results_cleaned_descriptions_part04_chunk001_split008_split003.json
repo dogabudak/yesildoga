@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vital Baby",
+    "description": "Vital Baby, 2005 yılında Steve Tollman tarafından kurulan Vital Innovations Ltd. bünyesindeki bebek besleme aksesuarları markasıdır.Tüm Vital Baby ürünleri BPA içermeyen malzemelerden üretilmektedir.Vital Innovations Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Turkey Hill",
+    "description": "Turkey Hill, 1931 yılında Armor Frey tarafından kurulan Turkey Hill, L.P. bünyesinde üretilen dondurulmuş süt tatlılar, yoğurt, şerbet, dondurma, süt, buzlu çay ve meyve içecekleri markasıdır.Turkey Hill, L.P. 2019 yılında Amerika merkezli özel sermaye şirketi Peak Rock Capital tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mam",
+    "description": "Mam, 1976 yılında Peter Röhrig tarafından kurulan MAM Babyartikel Gesellschaft m.b.H. bünyesindeki bebek ürünleri markasıdır.Avusturya, İsviçre, Macaristan ve Tayland’da üretim tesisleri bulunmaktadır.MAM Babyartikel Gesellschaft m.b.H. Avusturya merkezlidir. MAM ürünleri 5 kıtada 58 ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Coit Cleaners",
+    "description": "Coit Cleaners, 1950 yılında Louis Joe Kearn tarafından kurulan Coit Services, Inc. bünyesindeki temizlik ürünleri ve hizmetleri markasıdır.Coit Services, Inc Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tippmann",
+    "description": "Tippmann, 1986 yılında kurulan Tippmann Sports LLC. bünyesindeki paintball ekipmanları, bazı endüstriyel ürünler için kullanılan el ile ve pnömatik ağır dikiş makineleri markasıdır.Tippmann Sports LLC.’nin 2004 yılında Amerika merkezli özel sermaye şirketi Summit Partners tarafından çoğunluk hissesi satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

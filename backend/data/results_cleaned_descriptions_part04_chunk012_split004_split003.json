@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Milkybar",
+    "description": "Milkybar, 1905 yılında Anglo-Swiss birleşerek kurulan Nestlé S.A. bünyesinde üretilen beyaz çikolata markasıdır.Milkybar üretimi, süt ve şeker kıtlığı nedeniyle 1940 yılında üretimi sona erirken 1956 yılında tekrar üretilmeye başlandı.Milkybar, bazı ülkelerde kakao yağı içermemekte ve çikolata olarak etiketlenmemektedir.Nestlé S.A. İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Lugol’s Solution",
+    "description": "Lugol’s Solution, 2011 yılında kurulan Anfora Sağlık Hizmetleri İnşaat Turizm San. ve Tic. Ltd. Şti. bünyesinde üretilen iyot damla markasıdır.Ürün içeriğinde iyot, potasyum iyodür ve diyonize saf su bulunmaktadır.Afyonkarahisar merkezli firma ayrıca ithal ettiği tıbbi cihazları satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "General Cable",
+    "description": "General Cable, 1927 yılında kurulan General Cable Corporation bünyesinde üretilen güç, telekomünikasyon, fiber optik, elektronik ve datacom kabloları markasıdır.Enerji, İnşaat, Sanayi, uzmanlık ve iletişim sektörleri için bakır, alüminyum ve fiber optik kablolar üretir.General Cable Corporation 2018 yılında İtalya merkezli Prysmian Cavi E Sistemi Energia S.r.l. tarafından satın alındı. Ürünlerini Amerika’da üretmektedir.Bünyesindeki markalar;PrysmianDrakaGeneral Cable",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Osem",
+    "description": "Osem, 1942 yılında kurulan Osem Investments Ltd. bünyesindeki kahve, çikolata, makarna, kahvaltılık tahıllar, şekerleme markasıdır.Çorba, soslar, konserve yiyecekler, hazır yemekler, et alternatifleri, salatalar, unlu mamuller, içecekler, bisküviler, hazır kahve, kahve kapsülleri, şurup, içecek, sıcak çikolata, tahıl gevreği, kahvaltı, tahıl barları ve atıştırmalıklar, buğday, yer fıstığı, patates ve mısır, dondurulmuş ve soğutulmuş gıdalar, bebek maması ürünleri, bebek tahıl, patates püresi, bisküvi ve çocuklar için makarna üretmektedir.Osem Investments Ltd. 1995 yılında İsviçre merkezli Nestlé S.A. tarafından satın alındı. Osem Investments Limited, iştirakleri ile birlikte İsrail, Avrupa ve Amerika’da gıda ürünleri üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Spectrumprofiler",
+    "description": "Spectrumprofiler, 2018 yılında kurulan Deviser Instruments Incorporated bünyesinde üretilen kablosuz iletişim ağlarını dağıtmak, korumak ve sorun gidermek için tasarlanmış el tipi kablosuz alan test cihazı markasıdır.Deviser Instruments, dünya çapındaki iletişim servis sağlayıcılarına ve ekipman üreticilerine geniş bir test ve ölçüm çözümleri yelpazesi sunmaktadır.Deviser Instruments Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

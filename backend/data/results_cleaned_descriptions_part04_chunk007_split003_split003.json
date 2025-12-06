@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Hikari",
+    "description": "Hikari, 1877 yılında kurulan Kamihata Fish Industries Ltd. bünyesindeki balık yemi markasıdır.Kamihata canlı tropikal ve deniz balıklarının önde gelen tedarikçisidir. Kendine ait adalarında yetiştirdiği vahşi tür balıklar ile 4 yıl boyunca tecrübe ettiği tamamen doğal ve laboratuvar ortamında zenginleştirilmemiş yemler son teknoloji üretim tesislerinde harmanlanır.Hikari markalı balık yemleri, Japonya merkezli Kamihata Fish Industry Group’un bir parçası olan Koyrin Co Ltd tarafından Japonya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Liz Earle",
+    "description": "Liz Earle, 1995 yılında Liz Earle ve Kim Buckland tarafından kurulan Liz Earle Beauty Co. Limited bünyesindeki cilt bakımı, saç bakımı, vücut bakımı ve makyaj ürünleri markasıdır.Ürünleri koruyucu ve hayvansal katkılar içermemektedir ve hayvanlar üzerinde test edilmemektedir.Liz Earle Beauty Co. Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Marc Deterjan",
+    "description": "Marc1999 yılında kurulmuş olan Reckitt Benckiser Plc bünyesinde üretilen ev temizlik ürünleri markasıdır.Reckitt Benckiser Group, merkezi İngiltere ve Galler olan, ev ve kişisel bakım ürünleri üreten çok uluslu bir şirkettir ve ürünleri 100’den fazla ülkede tüketilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2024-07-17"
+  },
+  {
+    "company": "Boglioli",
+    "description": "Boglioli, 1974 yılında Mario Luigi Boglioli tarafından kurulan Boglioli S.P.A. bünyesindeki giyim markasıdır.Boglioli S.P.A. İtalya merkezlidir. Ürünlerini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Hobot",
+    "description": "Hobot, 2010 yılında kurulan Hobot Technology Inc. bünyesinde üretilen robotik temizlik ürünleri ve akıllı ev aletleri markasıdır.Ürünlerini dünya çapında 30’dan fazla ülkeye pazarlamaktadır. ISO 9001 belgesine sahiptir.Hobot Technology Inc. Tayvan merkezlidir ve ürünleri Tayvan’da üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Navimate",
+    "description": "Navimate, 1976 yılında Barry Megdal tarafından kurulan SHB Instruments, Inc. bünyesindeki elektrik ve elektrik sinyallerini ölçmek için kullanılan aletlerin markasıdır.Dalgıçlar için su altı gps cihazları üretmektedir.SHB Instruments Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Metlife",
+    "description": "Metlife, 1868 yılında kurulan MetLife Inc. bünyesindeki bireysel hayat sigortası markasıdır.MetLife Inc. Amerika merkezlidir. Metlife 60’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nefis Bulgur",
+    "description": "Nefis Bulgur, 1965 yılında Ahmet Şerif tarafından kurulan Nefis Bulgur San Tic. Ltd. Şti. bünyesinde üretilen sarı bulgur, esmer bulgur, aşurelik buğday, kırmızı mercimek, nohut ve yem katkı maddeleri markasıdır.Firma Gaziantep Başpınar 2. OSB’de 10 bin metrekarelik alanda bulunan 7 bin 500 metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bursev Plastik",
+    "description": "Bursev Plastik, 1982 yılında kurulan Bursev Plastik ve Dış Tic. A.Ş. bünyesinde üretilen plastik depolama ürünleri, çöp kovaları, mutfak, çamaşır, banyo ve temizlik, bebek ve çocuk, ev gereçleri, sebzelikler, tabureler ve masalar, bakır serisi markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elastron",
+    "description": "Elastron, 1980 yılında kurulan Elastron Kimya San. Tic. A.Ş. bünyesinde üretilen termoplastik elastomer (TPE) markasıdır.TPV, SEBS, SBS ve TPO bazlı ürünler üretmektedir.Ürünlerini Gebze OSB’de üretmektedir ve 50 ülkeye ihraç etmektedir.ISO 9001, ISO/TS 16949, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

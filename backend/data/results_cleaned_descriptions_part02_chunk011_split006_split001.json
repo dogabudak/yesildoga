@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Camper",
+    "description": "Camper, 1975 yılında Lorenzo Fluxa Figuerola tarafından kurulan ayakkabı markasıdır.Ürünleri 40 ülkede, 400’den fazla mağazada satılmaktadır.Camper İspanya merkezlidir ve Türkiye’de 2011 yılında kurulan Santanyi Ayakkabı Ticaret Ltd. Şti. ile faaliyet göstermektedir.Bünyesindeki markalar:Casa CamperDos Palillos",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Toms",
+    "description": "Toms, 2006 yılında Blake Mycoskie ve Alejo Nitti tarafından kurulan Toms Shoes bünyesindeki ayakkabı, giyim, gözlük, kahve, gömlek markasıdır.2014 yılında şirketin yüzde 50’si Amerika merkezli Bain Capital’e satıldı.Toms Shoes Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Goorin Bros",
+    "description": "Goorin Bros, 1895 yılında kurulan Goorin Bros, Inc. bünyesindeki kadın ve erkek şapkası markasıdır.Şapka üreticisi Goorin Bros, Inc. sahibi Amerika’nın köklü ailelerindendir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kanken",
+    "description": "Kanken, 1960 yılında Ake Nordin tarafından kurulan Fjallraven AB bünyesinde 1978 yılında kurulan çanta markasıdır.Fjallraven AB, Fenix Outdoor International AG’nin bir yan kuruluşudur. Açık hava ekipmanları konusunda uzmanlaşmış şirket çoğunlukla pahalı giyim ve sırt çantaları üretmektedir. İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Case Yard",
+    "description": "Case Yard, 2015 yılında kurulan Case Yard Inc. bünyesindeki ahşap telefon kılıfları, polikarbonat plastikt kılıflar ve mobil aksesuarlar markasıdır.Bambu, kiraz ve ceviz ahşap malzemeler kullanılır.Case Yard Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

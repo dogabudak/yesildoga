@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Selective Profesyonel",
+    "description": "Selective Profesyonel, 1974 yılında kurulan Tricobiotos S.p.A. bünyesindeki saç bakımı markasıdır.Ürünleri 41 ülkede pazarlanmaktadır.Tricobiotos SpA, saç bakımı ve güzellik için kozmetik ürünlerin üretimi ve pazarlanması konusunda faaliyet gösteren İtalya merkezli bir şirkettir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Vinolet",
+    "description": "Vinolet, 2009 yılında kurulan Promo Sağlık ve Bakım Ürünleri San. ve Tic. Ltd. Şti. tarafından üretilen saç ve cilt bakım ürünleri, buharlaşan merhem viks ürünleri markasıdır.Ürünleri doğaldır ve paraben içermez. Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Algo Wax Simple",
+    "description": "Algo Wax Simple, 1976 yılında kurulan Şifa Kimya İlaç Kozmetik San. Tic. A.Ş. bünyesinde üretilen buharlaşan krem markasıdır.ISO 22000 belgesine sahiptir.Konya OSB’de 4 bin 500 metrekarelik arazide 3 bin 500 metrekarelik kapalı alanda üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hard Candy",
+    "description": "Hard Candy, 1995 yılında Dineh ve Pooneh Mohajer, Ben Einstein tarafından kurulan Hard Candy, Inc. bünyesindeki kozmetik ürünler markasıdır.Şirketin ürünleri arasında tırnak cilası, saç parıltısı ve parfümler yer almaktadır. Ürünleri hayvanlar üzerinde test edilmemektedir.Hard Candy, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Grishko",
+    "description": "Grishko, 1989 yılında Nikolay Grishko tarafından kurulan Grishko Ltd. bünyesindeki dans ayakkabıları, giyim ve aksesuarları markasıdır.Avrupa’da dört fabrika ve 70’den fazla ülkede satış yapan uluslararası bir şirkettir.Grishko Ltd. Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

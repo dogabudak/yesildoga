@@ -1,0 +1,50 @@
+[
+  {
+    "company": "The Guardian",
+    "description": "1907 yılında Charles Prestwich Scott tarafından kurulmuş olan Guardian Media Group plc bünyesindekiGuardian Media Group plc İngiltere merkezli Scott Trust Limited’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Iqon",
+    "description": "1994 yılında Matthias Knoll ve Stefan Göhl tarafından kurulmuş olan Powerslide Sportartikelvertriebs Gmbh bünyesindeki patenler, tekerlekli spor malzemeleri, çerçeveler, tekerlekler, rulmanlar, koruyucu giysiler ve kasklar, giysiler, seyahat malzemeleri ve aksesuarlar markasıdır.Powerslide Sportartikelvertriebs Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Alesto",
+    "description": "1930 yılında kurulmuş olan Lidl Stiftung & Co. KG bünyesindeki fındık aperatifleri, fındık doğal, kuruyemişler ve kuru meyveler, karışımlar ve meyveler, tohumlar ve mısır markasıdır.Schwarz Group bünyesindeki Lidl Stiftung & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Massive Audio",
+    "description": "1999 yılında kurulmuş olan Massive Audio Inc. bünyesindeki araç ses hoparlörleri, aksesuarları, mono marine pro ses hoparlörü, kulaklıklar, subwoofer’lar, korna, tweeter’lar, sıkıştırma sürücüleri markasıdır.Massive Audio Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wafios",
+    "description": "1893 yılında kurulmuş olan Wafios AG bünyesinde üretilen tel ve boru işleme makineleri markasıdır.Firma tel ve borudan yapılmış küçük karmaşık parçaların üretimi için CNC boru bükme makineleri, yedek parça ve alet üretmektedir.Wafios AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

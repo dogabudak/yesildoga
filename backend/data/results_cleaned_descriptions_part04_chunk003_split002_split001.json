@@ -1,0 +1,44 @@
+[
+  {
+    "company": "B.H.D Tools",
+    "description": "B.H.D Tools, 2004 yılında Salih Elçeoğlu tarafından kurulan Harun Hırdavat İthalat İhracat ve Dahili Tic. bünyesinde ithal edilen hırdavat ve el aletleri markasıdır.B.H.D Tools markalı ürünler Çin’den ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Comedones",
+    "description": "2020 yılında kurulmuş olan Comedones Elektronik San. Tic. Ltd. Şti. bünyesindeki eğitici oyuncaklar, masaj cihazı, tartı, vakum makinesi, yazı tahtası markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-04-14"
+  },
+  {
+    "company": "Cosrx",
+    "description": "Cosrx, 2002 yılında kurulan Cosrx Inc. bünyesindeki kozmetik ürünler markasıdır.Sivilce bandı, sivilce temizleme pedi gibi özgün ürünleriyle dikkat çekmektedir. Formüllerini doğal ve cilt için zararlı yan etkileri olmayan içeriklerden oluşturmaktadır.Cosrx Inc. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Naturelgaz",
+    "description": "Naturelgaz, 2004 yılında Global Yatırım Holding bünyesinde kurulan Naturelgaz San. ve Tic. A.Ş., bünyesindeki boru hattından doğal gaz dışında (CNG/LNG) dökme gaz markasıdır.Firma fabrika, enerji üretim tesisi, otel, asfalt üretim tesisi gibi endüstriyel ve ticari müşterilere ve çeşitli nedenlerle doğal gaz boru hattına erişimi olmayan şehirler veya kasabalardaki hanelere dökme CNG satışı ve dağıtımı yapmaktadır.Global Yatırım Holding Grubu; liman altyapısı, elektrik üretimi/gaz/maden, gayrimenkul, finans olmak üzere dört ana iş kolunda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eyebrowz",
+    "description": "Eyebrowz, 1997 yılında kurulan Eyebrowz Designs Inc. bünyesindeki kozmetik ürünler markasıdır.Kaş farı, kaş ve kirpik uzatıcı serum, kaş şablonları, kaş kalemi, takma kaş, göz farı gibi geniş kaş ürün seçeneğine sahiptir.Eyebrowz Designs Inc. Amerika merkezlidir ve 25’ten fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

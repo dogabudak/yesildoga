@@ -1,0 +1,42 @@
+[
+  {
+    "company": "Atacand",
+    "description": "1999 yılında kurulmuş olan AstraZeneca plc bünyesindeki hipertansiyon ilacı markasıdır.AstraZeneca plc İngiltere merkezlidir. 1999 yılından beri Türkiye pazarında yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Hyperimax",
+    "description": "2010 yılında kurulmuş olan Santasya İlaç Kozmetik Medical İtr. Paz. Sağlık Hizmetleri bünyesindeki cilt bakım kremi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Farizon Auto",
+    "description": "2016 yılında kurulmuş olan Zhejiang Geely Farizon New Energy Commercial Vehicle Group bünyesinde üretilen elektrikli ticari araç markasıdır.Şirket Çin merkezli Geely Holding Group’un ticari araç bölümüdür.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Isle Of Paradise",
+    "description": "2020 yılında kurulmuş olan Future Beauty Labs bünyesinde üretilen kişisel bakım ürünleri markasıdır.Ürünleri falates, mineral yağ, sülfat, GDO, paraben, petrol, gluten, toksin içermez ve hayvanlar üzerinde test edilmemektedir.Future Beauty Labs Birleşik Krallık’a bağlı İskoçya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "American Tourister",
+    "description": "1910 yılında kurulmuş olan Samsonite IP Holdings S.A.R.L bünyesindeki valiz, fonskiyonel seyahat ürünleri markasıdır.Amerika menşeli Samsonite IP Holdings S.A.R.L Lüksemburg merkezlidir ve ürünlerini Hong Kong’ta üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Schmidt’s Deodorant",
+    "description": "Schmidt’s, 2010 yılında Jaime Schmidt tarafından kurulan Schmidt’s Deodorant Company LLC bünyesinde üretilen doğal deodorant, sabun ve diş macunu gibi bitkisel ve mineral bazlı kişisel bakım ürünleri markasıdır.Ecocert belgesine sahiptir.Schmidt’s Deodorant Company LLC 2017 yılında İngiltere merkezli Unilever PLC’nin yan kuruluşu olmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-25"
+  },
+  {
+    "company": "Noco Genius",
+    "description": "Noco Genius, 1914 yılında kurulan The Noco Company bünyesindeki akü şarj ve akü takviye ürünleri, güneş panelleri ve taşınabilir güneş panelleri ile geniş bir yelpazede akü ürünleri ve aksesuarları markasıdır.The Noco Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yazio",
+    "description": "Yazio, 2009 yılında kurulan Yazio Gmbh bünyesindeki kalorileri hesaplama mobil uygulamadır.Uygulama 20 dilde ve dünya çapında 150’den fazla ülkede mevcuttur.Yazio Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fanton",
+    "description": "Fanton, 1975 yılında kurulan Fanton Spa bünyesindeki elektrik malzemeleri ve elektronik aksamlar, güç şeritleri, fişler, adaptörler markasıdır.Fanton Spa İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Meakida",
+    "description": "Meakida, A. J. Machineries bünyesindeki akülü aletler, avuç taşlama, boya karşılaştırıcı, daire testere, döner çekiç, elektrikli püskürtme tabanı, çevirici kaynak makinesi, kalıp taşlayıcı, kompresör, matkap, mermer kesici, parlatıcı, planya makinesi, sıcak hava tabanı, testere, tezgah değirmeni, üfleyici, yedek parçaları ve aksesuarları markasıdır.A. J. Machineries Hindistan merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

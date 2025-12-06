@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Chocolat Stella",
+    "description": "Chocolat Stella, 1928 yılında kurulan Chocolat Stella SA bünyesinde üretilen organik çikolata markasıdır.İsviçre’nin en köklü organik çikolata markasıdır ve İsviçre Çikolata Üreticileri Birliği üyesidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2020-05-19"
+  },
+  {
+    "company": "Triwa",
+    "description": "Triwa, 2007 yılında kurulan bir saat ve aksesuarlar markasıdır.Triwa senede 2 defa, sınırlı sayıda özel kolleksiyon saat üretiyor.Triwa İsveç merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Kenda Ülke",
+    "description": "Kenda, 1962 yılında kurulan KENDA RUBBER INDUSTRIAL COMPANY alt markasıdır.Tayvanlı lastik üreticisidir. Bisiklet, motosiklet, ATV, römork, otomobil ve endüstriyel ekipmanlar için lastikler üretir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "S&W İçecek",
+    "description": "S&W Premium, 1896 yılında Samuel Wasson, Gustav ve Samuel Wormser tarafından kurulan işlenmiş meyve, sebze, sos ve içecekler gibi 200’ü aşkın ürünlerin markasıdır.Amerika’da kurulan S&W Premium, Amerika ve diğer ülkelerin de perakende pazarı için birinci sınıf markalı gıda ürünleri alanında dünyada en büyük üretici, distribütor ve pazarlamacılar arasında yer alıyor.Ayrıca Filipinler’de bulunan Philpack Şirketi devri sonrası dünyadaki işlenmiş ananas üretiminin yüzde 20’si elinde bulunuyor.Şam Yaş Sebze ve Meyve Depolama İth. İhr. Tic. Ltd. Şirketi 2015 yılında S&W Premium’un distribütörlük haklarını alarak konserve ve içecek ürünlerini Türkiye pazarına sunmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Brüt Parfüm Ne",
+    "description": "Brüt Parfüm Ne MalıBrut, 1964 yılında Faberge Paris tarafından ilk kez üretildi. 1973 yılında BRUT 33 günlük kolonya markası oldu.1968 yılında Amerika’da kurulan Helen of Troy Limited tarafından 2003 yılında Brut markası satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

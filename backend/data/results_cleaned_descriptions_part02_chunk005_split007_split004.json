@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bombardier",
+    "description": "Bombardier, 1942 yılında Joseph-Armand Bombardier tarafından kurulan Bombardier Inc. bünyesinde üretilen uçak, tren, tramvay markasıdır.Bombardier Inc. Kanada merkezli bir havacılık şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Cumba Salıncak",
+    "description": "Cumba Salıncak, 1957 yılında kurulan Kervancı İş Makinaları Şti. bünyesine ait markadır.Kervancı Grup bünyesinde 6 farklı şirket bulunmaktadır.İnşaat, enerji denetimi ve verimlilik artışı, enerji üretimi konusunda yatırım aşaması, atık suların geri kazanımı, havada oluşan zararlı maddelerin bertarafı ve koku giderimi ile Bahçe Mobilyası Grubu, Züccaciye Grubu, Masa Grubu, Sandalye Grubu ve Mobilya İskeleti Grubu faaliyet alanlarıdır.500 adet farklı ürün grubunu oluşturduğu, iç ve dış mobilya ithalatı, kamp / plaj mobilya üretimi ile birlikte zücaciye ürünlerinin tedarikçiliğini yapmaktadır.Vietnam, Çin ve Endonezya gibi ülkelerden bahçe mobilyaları ve züccaciye ürün gruplarını ithal etmektedir. Diğer ürünleri İzmir’de bulunan 10 bin 700 metrekarelik fabrikasında üretmektedir.Kervancı Grubu Markaları:SilenzioExternoSteril-AireE-Fit",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Grupa Pzu",
+    "description": "Pzu (Powszechny Zaklad Ubezpieczen) , 1803 yılında kurulan Grupa Pzu bünyesindeki kamu ticaret sigortası markasıdır.Grup şirketleri hayat dışı sigorta, şahsi ve hayat sigortası, yatırım fonları ve açık emeklilik fonları alanlarında hizmet vermektedir.PZU grup Polonya merkezlidir. Polonya ‘nın en büyük finans kurumlarından biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Benetton",
+    "description": "Benetton, 1965 yılında Luciano, Gilberto, Giuliana ve Carlo Benetton tarafından kurulmuş olan Benetton Group Srl bünyesindeki giyim, ayakkabı, çanta ve aksesuarlar markasıdır.Çok sayıda ülkede mağaza ağına sahiptir.Benetton ailesi tarafından kontrol edilen Edizione S.p.A. bünyesindeki Benetton Group Srl İtalya merkezlidir.Bünyesindeki markalar;SisleyUndercolors of BenettonUnited Colors of Benetton",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2023-09-25"
+  },
+  {
+    "company": "Stabilus",
+    "description": "Stabilus, 1934 yılında kurulan Stabilus S.A. bünyesindeki gaz yaylar, hidrolik amortisörler ve elektromekanik ürünlerin markasıdır.Firma dünya çapında 17 üretim tesisiyle 9 ülkede faaliyet göstermektedir. Bu ülkeler; Almanya, Romanya, Çin, Kore, ABD, Meksika, Brezilya, Avustralya ve Yeni Zelanda.Stabilus S.A. Lüksemburg merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  }
+]

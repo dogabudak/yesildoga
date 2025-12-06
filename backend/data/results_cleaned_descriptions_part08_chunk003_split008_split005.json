@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Pure Choice",
+    "description": "Pure Choice, 2021 yılında kurulmuş olan Pure Choice Kozmetik A.Ş. bünyesindeki kişisel bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kılıçoğlu Kiremit",
+    "description": "Kılıçoğlu Kiremit Nerenin Malı MarkasıKılıçoğlu, 1927 yılında kurulmuş olan Endel Endüstri Elektrik San. ve Tic. A.Ş. bünyesinde üretilen kiremit ve çatı sistemleri, tuğla, kaplama tuğla ve terra cotta karolar markasıdır.Firma Eskişehir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kroser",
+    "description": "Kroser, 2021 yılında kurulmuş olan Emilyma Limited bünyesindeki evrak çantası, sırt çantası, tekerlekli çanta, el bagajı, bilgisayar çantaları markasıdır.Emilyma Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Climbing Technology",
+    "description": "Climbing Technology, 1986 yılında kurulmuş olan Aludesign S.p.A. bünyesindeki dağcılık, tırmanma, yükseklikte çalışma ve kurtarma için tırmanış kıyafetleri, kişisel koruyucu ekipman markasıdır.Aludesign S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Skylotec",
+    "description": "Skylotec, 1947 yılında Eduard Kaufmann tarafından kurulmuş olan Skylotec Gmbh bünyesindeki koşum takımı ve kasklar, boyunluklar ve tutma halatları, kurtarma ekipmanları, koruyucu ekipmanlar markasıdır.Skylotec Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

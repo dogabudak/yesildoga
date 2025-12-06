@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Rubena",
+    "description": "Rubena, 1908 yılında kurulan Rubena s.r.o. bünyesinde üretilen esnek ve şişirilebilir kauçuk ürünler, hava yaylı körükler ve güç elemanları, kauçuk bileşikleri, kauçuk kalıplı parçalar, lastikler ve tüpler, silikon ürünler, v kayışları markasıdır.Rubena s.r.o. Çek Cumhuriyeti merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Tanex",
+    "description": "Tanex, 1995 yılında Taneks Kağıt San. Ürünleri Tic. ve San. Ltd. Şti. bünyesinde üretilen ofis grubu etiketler markasıdır.Ürün yelpazesinde beyaz etiketler, çocuk çıkartmaları, fanatik etiketler, fotoğraf kağıtları, nokta etiketleri, ofc etiketleri, okul etiketleri, tekstil etiketleri yer almaktadır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.İstanbul merkezli firma ürünlerini 35 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dong-a",
+    "description": "Dong-a, 1946 yılında Kim Jung-woo tarafından kurulan Dong-a Pencil Co. Ltd. bünyesinde üretilen yazma aletleri markasıdır.ISO 9002, ISO 14001, AP ve ACM belgelerine sahiptir.Dong-a Pencil Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "KW-trio",
+    "description": "KW-trio, 1976 yılında Jackson Huang tarafından kurulan Pao Shen Enterprises Co. Ltd. bünyesinde üretilen kırtasiye ve ofis malzemeleri markasıdır.Ürün yelpazesinde sabit ve taşınabilir ofis malzemeleri, giyotinler ve kağıt kesme makineleri aksesuarları, kesiciler, ofis ürünleri ve masaüstü aksesuarları yer almaktadır.Pao Shen Enterprises Co. Ltd. Tayvan merkezlidir ve ürünlerini 110’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Louis Tape",
+    "description": "Louis Tape, 1973 yılında kurulan Louis Adhesive Tapes Co. Ltd. bünyesinde üretilen yapışkan bantlar, maskeleme bandı ve kauçuk solvent bazlı OPP bant, selüloz bantlar, akrilik su bazlı yapıştırıcı, serbest kağıt ve etiket markasıdır.Louis Adhesive Tapes Co. Ltd. Tayland merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  }
+]

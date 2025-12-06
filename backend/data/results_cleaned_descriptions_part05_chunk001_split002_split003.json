@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Aldiva",
+    "description": "Aldiva, 2015 yılında Tayyar Investment Finansal Yönetim A.Ş. bünyesinde üretilen bisküvi, kek, kraker, gofret, çikolata, çikolata bar ve kremalı çikolata markasıdır.Ürünlerini Karaman OSB’de üretmektedir.Bünyesindeki markalar;AldivaBest Food",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elure",
+    "description": "Elure, 2000 yılında kurulan Syneron Medical Ltd. bünyesindeki tıbbi olmayan kozmetik ürünler, yüz ve cilt kremleri, klinik ve spalar tarafından sunulan cilt aydınlatma, cilt parlatma ve cilt beyazlatmada kullanmak için losyonlar markasıdır.Firma epilasyon ve kırışıklık azaltma tedavileri, medikal-estetik tedaviler, vücut şekillendirme, kozmetik cerrahi için cihazlar üretmektedir.Syneron Medical Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Calorstat",
+    "description": "Calorstat, 1927 yılında kurulan Vernet Group bünyesinde üretilen termostat ve bileşenleri markasıdır.Firma otomotiv piyasası için soğutucu, şanzıman ve yakıt sistemi parçaları da üretir.Vernet Group Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Juki",
+    "description": "Juki, 1938 yılında kurulan JUKI Corporation bünyesindeki endüstriyel ve ev tipi dikiş makineleri, SMT montaj çözümleri ve sistemleri markasıdır.JUKI Corporation Japonya merkezlidir. Japonya, Çin ve Vietnam’da üretim tesislerine sahiptir ve ürünlerini yaklaşık 170 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Maltay",
+    "description": "Maltay, Altay Gıda Tic. Ltd. Şti. bünyesindeki Nurdan Gıda Paz. Tic. Ltd. Şti. tarafından üretilen kuruyemiş markasıdır.Ürünlerini Tekirdağ’da bulunan 4 bin 500 metrekarelik tesislerinde üretmekte ve Yunanistan, Bulgaristan, Kosova, Makedonya, Arnavutluk, İsviçre, Rusya, ve Libya gibi ülkelere ihraç etmektedir.ISO 22000 belgesine sahiptir.Bünyesindeki markalar;7NutsAltayMaltayNutlandThrakiTrakya Candan",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

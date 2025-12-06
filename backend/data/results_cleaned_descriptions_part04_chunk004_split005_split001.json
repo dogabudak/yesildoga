@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Spin Master",
+    "description": "Spin Master, 1994 yılında Ronnen Harary, Anton Rabie, Ben Varadi tarafından kurulan Spin Master Inc. bünyesindeki çocuklar için tüketici ürünleri markasıdır.Küresel bir oyuncak ve eğlence şirketi olan Spin Master Inc. Kanada merkezlidir.Bünyesindeki markalar:Abby HatcherAir HogsBakuganBatmanBuild-A-BearBunchemsChubby PuppiesCool MakerDC UniverseDragons Rescue RidersDreamworks DragonsErector by MeccanoEtch A SketchGUNDHatchimalsKinetic SandKnits CoolLuvabellaMealtime MagicMonster JamNinja BotsOrbeezPAW PatrolPop StreamPresent PetsRainbow JelliesRusty RivetsSew CoolSpin Master GamesSwimwaysTech DeckThe AnimalTwisty PetzZoomer",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Aneng",
+    "description": "Aneng, 2012 yılında kurulan Shenzhen BOWShine Technology Co., Limited bünyesinde üretilen dijital multimetre, dijital kumpaslar, dijital temassız ateş ölçer ve aksesuarları markasıdır.ISO 9001 belgesine sahiptir.ANENG markalı ürünler Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Funskool",
+    "description": "Funskool, 1937 yılında kurulan Funskool Ltd. bünyesindeki oyuncak ürünleri markasıdır.Kendi markaları dışında yabancı oyuncak markalarının lisansıyla oyuncaklar üretmekte ve dağıtmaktadır.Funskool Ltd. Hindistan merkezlidir. Şirketin yüzde 60’ı Hindistan merkezli MRF Ltd.’ye, yüzde 40’ı Amerika merkezli Hasbro, Inc.’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cartamundi",
+    "description": "Cartamundi, 1970 yılında kurulan Cartamundi Group bünyesindeki masa oyunları, kart oyunları, tahsil kart oyunları, paketleri markasıdır.Dünyanın en büyük oyun kartı üreticilerinden biridir.Cartamundi Group Belçika merkezlidir. İngiltere, Almanya, Fransa, Polonya, İrlanda, Hindistan ve Amerika’da tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Tarte Cosmetics",
+    "description": "Tarte Cosmetics, 2000 yılında kurulan Tarte Inc. bünyesindeki kozmetik markasıdır.Ürünleri paraben, mineral yağ, ftalat, triklosan sodyum, lauril, sülfat ve gluten içermez.Tarte Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

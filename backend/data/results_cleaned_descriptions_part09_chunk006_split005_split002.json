@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Besintaş",
+    "description": "Besintaş1975 yılında kurulmuş olan Besintaş Çeltik, Un ve Yem Fabrikaları Tic. ve San. A.Ş. bünyesinde üretilen un ve pirinç markasıdır.Yan mamul olarak Kepek imalatı yapmaktadır.TSE belgesine sahiptir.Firma Bursa merkezlidir. Ürünlerini Bursa’da 12 bin 937 metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dasani",
+    "description": "Dasani1999 yılında piyasaya sürülen şişelenmiş su markasıdır.Yapay mineraller eklenmiş arıtılmış sudur.Amerika merkezli The Coca-Cola Company tarafından üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dryfix",
+    "description": "Dryfix2016 yılında kurulmuş olan İzersan Yapı Malzemeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen fayans boyama seti, fonksiyonel boyalar, ısı yalıtım çözümleri, kaymaz zemin çözümleri, su yalıtım çözümleri, yangın dayanımlı ürünler markasıdır.Firma İzmir merkezlidir.Bünyesindeki markalar;BetolacDry Fix Happy PaintDryfixDryfix WoodlacFloor-ARock’n RollWater BlockWoodlac",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Celeron",
+    "description": "Celeron1998 yılında Intel Corporation tarafından piyasaya sürülen bir dizi düşük kaliteli IA-32 ve x86-64 bilgisayar mikroişlemci modelidir.2023 yılında üretimi durdurulmuştur.Intel Corporation Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Anunnaki Koşu Bandı",
+    "description": "Anunnaki2020 yılında kurulmuş olan Alfa Soylu Elektronik Basım ve İnşaat San. Tic. Ltd. Şti. bünyesinde ithal edilen şınav aparatı, adaptör madencilik kartı, altın metal dedektörü, banyo lavabo musluğu, boya kaplama kalınlık ölçer, boya tabancası, butonlu güç anahtarı kablosu, cep telefonu soğutma fanı, cnc kontrol kartı, direksiyon seti, diy kiti, dual band telsizi araç şarj kablosu, dumble, duvar barfiks, egzersiz aleti, egzersiz kettlebell, gamepad oyun kolu, gitar ve anfi ses aktarıcı, grafik ekran transistör test cihazı, hareket sensörü beyaz, hdmi ses ve görüntü aktarıcı, kablosuz şeffaf kılıf, koşu bandı, kumanda oyun kolu, motor hız ölçer, multimetre, musluk bataryası, pci-express güç kablosu, pil test aleti, ps4 oyun kolu, saç bakım tarağı saç fırçası, selfie makyaj işığı, su pompası motoru, type c to usb converter hub, voltmetre usb test cihazı, wifi internet geliştirme kartı markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AlfasAnunnakiKutpack",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Polaris Ütü",
+    "description": "Polaris, Arvis Company bünyesindeki ütüler ve temizleyiciler, elektrikli su ısıtıcısı, karıştırıcılar, gazlı çakmak, öğütücüler, meyve sıkacakları, tost makineleri, kahve değirmenleri, kahve makineleri, et değirmenleri, gıda işlemcileri, mutfak terazileri, saç kurutma makineleri, şekillendiriciler, saç tarakları, teraziler, jakuzi ayak banyosu, seramik ısıtıcılar, alan ısıtıcıları, konvektörler, radyatörler, fanlı ısıtıcılar markasıdır.Arvis Company BAE merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Zeegma",
+    "description": "Zeegma, 2015 yılında kurulan BrandLine Group sp. z o.o. bünyesinde üretilen elektrikli ev aletleri markasıdır.BrandLine Group sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Cooper & Hunter",
+    "description": "Cooper & Hunter, 1996 yılında kurulan Соорег&Hunter International Corporation büyesinde üretilen klima ve havalandırma ekipmanları markasıdır.ETL ve AHRI belgelerine sahiptir.Соорег&Hunter International Corporation Amerika merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vitek",
+    "description": "Vitek, 2000 yılında kurulan Business-Aliance OOO bünyesindeki ev aletleri, iklim sistemleri ve ses-video araçları markasıdır.Business-Aliance OOO Rusya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Juvena",
+    "description": "Juvena, 1954 yılında kurulan Troll Cosmetics Gmbh bünyesinde üretilen lüks cilt bakım ürünleri markasıdır.Yaşlanma karşıtı cilt bakım ürünleri sunmaktadır.Troll Cosmetics Gmbh İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

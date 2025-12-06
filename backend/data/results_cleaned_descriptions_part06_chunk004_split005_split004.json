@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Shirin",
+    "description": "Shirin, 2006 yılında kurulan Tatlı OOO bünyesinde üretilen şeker ve çikolata markasıdır.Firmanın ürünlerini diğerlerinden ayıran farkı, üretim sürecinde çevre dostu hammaddeler ve doğal gıda katkı maddeleri kullanılmasıdır. Şekerleme ürünlerinin üretimi için ana hammadde olan kakao ürünleri (kakao yağı, kakao tozu vb.) genetiği değiştirilmiş katkı maddeleri içermez.Tatlı OOO Azerbaycan merkezlidir ve ürünlerini çok sayıda ülkeye ihraç etmektedir.ISO 9001, ISO 22000 ve HACCP belgelerine sahiptir.Bünyesindeki diğer markalar;EvdarMu-u-uchSafien",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Ulduz Çikolata",
+    "description": "Ulduz Çikolata, 1994 yılında Aydın Talıbov tarafından kurulan Veyseloğlu Şirketler Qrupu bünyesinde 2001 yılında kurulan çikolata markasıdır.Veyseloğlu Şirketler Qrupu Azerbaycan merkezlidir ve ürünlerini Azerbaycan’da üretmektedir.Bünyesindeki markalar;DuharEstellaKonfellaLa MondeMakaroniMohobbatQidamSalattoSeçməTomattoUlduzVesta",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Jokey Plastik",
+    "description": "Jokey, 1968 yılında kurulan Jokey SE bünyesinde üretilen gıda ve gıda dışı ürünler için kapaklı sert plastik ambalajlar markasıdır.Firma enjeksiyon kalıplama ile plastik kovalar, plastik küvetler, plastik kutular ve plastik tepsiler üretmektedir.Jokey SE Almanya merkezlidir. 12 ülkede 15 tesiste üretim yapmakta ve 80 ülkeye pazarlamaktadır.ISO 9001, ISO 50001, BRC belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Jac Fırın Ekipmanları",
+    "description": "Jac, 1946 yılında kurulan Jac Sa bünyesinde üretilen fırın makineleri, dilimleme makineleri, ekmek yapma makineleri ve ekipmanları markasıdır.Jac Sa Fransa merkezlidir. Tüm makineleri Belçika ve Fransa’daki fabrikalarında üretilmekte ve 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Mc Donald’s Türkiye",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": "2024-12-11"
+  }
+]

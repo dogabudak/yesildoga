@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kama Teker",
+    "description": "Kama, 1956 yılında kurulan Kama Pres San. ve Tic. A.Ş. bünyesinde üretilen teker markasıdır.Ürün grupları; hafif sanayi, orta sanayi, ağır sanayi ruletleri, yedek teker, makineler, bilye ve rulman, kulp ve tutamaklar, taşıma ve istif ekipmanlarından oluşmaktadır.ISO 9001, ISO 12100, ISO 10002, ISO 14001, Rohs, TSE belgelerine sahiptir.İstanbul merkezli firma ürünlerini 25 bin metrekarelik kapalı alana sahip fabrikasında üretmekte ve 22 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 12100",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Me-O",
+    "description": "Me-O, 1921 yılında kurulan Charoen Pokphand Group Co. Ltd. bünyesindeki hayvanların altına serilen kum markasıdır.Şirket, bağlı ortaklıkları aracılığıyla ambalajlı gıda, pazarlama ve dağıtım, gayrimenkul geliştirme, otomotiv, finans ve sigorta, ilaç ve telekomünikasyon işletmelerine odaklanmaktadır.Charoen Pokphand Group Co. Ltd. Tayland merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "K-Beauty",
+    "description": "K-Beauty, 2014 yılında kurulan Absolute Hot New York Corp. bünyesindeki kozmetikler, fondöten, gözkalemleri, cilt bakım ürünleri, emülsiyonlar, kremler, yağlar markasıdır.Absolute Hot New York Corp. Amerika merkezlidir ve ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Roketsan",
+    "description": "Roketsan, 1988 yılında kurulan Roketsan Roket San. ve Tic. A.Ş. bünyesindeki uzay projeleri, hava savunma sistemleri, kara sistemleri, deniz sistemleri, hassas güdümlü sistemler, balistik koruma sistemleri markasıdır.Roketsan A.Ş., yüzde 55 hissesine sahip TSK Güçlendirme Vakfı’nın bir kuruluşudur. Makina ve Kimya Endüstrisi A.Ş. yüzde 15, ASELSAN Elektronik San. ve Tic. A.Ş. yüzde 15 ve Türkiye Vakıflar Bankası Türk A.O. yüzde 10 hisseye sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gaerne",
+    "description": "Gaerne, 1962 yılında Ernesto Gazzola tarafından kurulan Gaerne Spa bünyesinde üretilen motosiklet, bisiklet ayakkabıları, botlar, motokros botları markasıdır.Gaerne Spa İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

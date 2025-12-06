@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Hobby Time",
+    "description": "1999 yılında kurulmuş olan Uğur Akman-Hobbytime bünyesindeki şeffaf kalıplama silikonu, 12 ve 24 volt dc ileri geri modulu, kanat tamponu, mat pvc levhalar, okuyucu kontak ve mıknatıs, plastik şeffaf levhalar, röle kartı, tuğralar markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Erimez Kardağ",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lightcut",
+    "description": "2006 yılında kurulmuş olan Sz Dji Technology Co. Ltd. bünyesinde üretilen görüntü işleme uygulaması ve görüntü işleme program ve yazılımları markasıdır.Destekleyen cihazlar bağlandığında, çekimlerin gerçek zamanlı önizlemelerini ve hızlı düzenlemeyi destekler. Uygulama ve yazılım görüntülerdeki temaları tanıyabilir ve eşleşen video şablonlarını akıllıca önerebilir.Sz Dji Technology Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "TUI",
+    "description": "1923 yılında kurulmuş olan TUI AG bünyesindeki charter ve tarifeli yolcu havayolları, paket tatiller, kruvaziyer hatları, oteller ve tatil köyleri, seyahat acente hizmetleri markasıdır.TUI AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "G.Dano",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

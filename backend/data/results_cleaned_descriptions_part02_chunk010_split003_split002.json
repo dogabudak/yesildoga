@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Beşler Sucuk",
+    "description": "Beşler, 1945 yılında Bahri Beşler tarafından kurulan Karizma Beşler Et Gıda San. ve Tic. A.Ş. bünyesindeki et ürünleri markasıdır.Silivri’de bulunan 40 bin metrekarelik arazinin 30 bin metrekarelik kapalı alana sahip fabrikasında üretim yapmaktadır.Qcs International Helal sertifikasına sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-06-14"
+  },
+  {
+    "company": "Pandora Takı",
+    "description": "Pandora, 1982 yılında Per Enevoldsen tarafından kurulan Pandora A/S bünyesindeki mücevher üreticisi ve perakendecisidir.Özel takı bilezik, tasarım yüzük, kolye ve saatleri ile bilinir. Şirketin Tayland’da bir üretim tesisi bulunurken ürünlerini 100’den fazla ülkeye pazarlamaktadır.2008 yılında Danimarkalı özel sermaye grubu Axcel tarafından Pandora’nın yüzde 60 hissesi satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Vitra",
+    "description": "Vitra, 1942 yılında kurulan Eczacıbaşı Grubu bünyesindeki sıhhi tesisat, banyo mobilyaları, pirinç ve seramik karo markasıdır.1966 yılında VitrA markası benimsenmiştir.1999 yılında İrlanda’da bir fabrika satın alındı. Şirket 80’den fazla ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Corega",
+    "description": "Corega, 1930 yılında GlaxoSmithKline Plc bünyesinde üretilen diş protezi bakım ürünleri markasıdır.Corega ürün grubu, Türkiye ve diğer ülkeler için yeni ilaçlar, aşılar ve sağlık bakım ürünleri geliştiren İngiltere mezkezli GlaxoSmithKline (GSK) tarafından üretilmektedir.Türkiye’de Glaxo Smith Kline İlaçları San. ve Tic. A.Ş olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2024-05-05"
+  },
+  {
+    "company": "Mindray",
+    "description": "Mindray, 1991 yılında kurulan Shenzhen Mindray Bio-Medical Electronics Co., Ltd. bünyesindeki tıbbi cihaz markasıdır.Mindray ürünleri 190’ın üzerinde ülke ve bölgede satılmaktadır.Shenzhen Mindray Bio-Medical Electronics Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

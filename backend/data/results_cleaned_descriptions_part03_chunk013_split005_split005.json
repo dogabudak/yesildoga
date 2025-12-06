@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Efacec",
+    "description": "Efacec, 1948 yılında kurulan Efacec Serviços Corporativos, S.A., bünyesindeki elektrikli araçlar için hızlı şarj altyapı markasıdır.Efacec Serviços Corporativos, S.A., Portekiz merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Starmobile",
+    "description": "Starmobile, 2011 yılında Star Telecom Alliance Resources, Inc. bünyesinde kurulan akıllı telefon, cep telefonu, tablet bilgisayar, ağ çözümleri ve e-sigara markasıdır.Star Telecom Alliance Resources, Inc., Filipinler merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PH",
+    "updated_date": null
+  },
+  {
+    "company": "Ampd Energy Ülke",
+    "description": "Ampd Energy, 2014 yılında Brandon Ng ve Luca Valente tarafından kurulan Ampd Energy Ltd. bünyesinde üretilen enerji depolama sistemleri markasıdır.Ampd Energy Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": "2020-11-03"
+  },
+  {
+    "company": "Festina",
+    "description": "1902 yılında kurulmuş olan Festina Lotus SA bünyesindeki saat markasıdır.Festina Lotus SA İspanya merkezlidir. İsviçre ve İspanya’da üretim yapmaktadır ve ürünlerini 90’dan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Calypso​Candino​FestinaJaguar​Kronaby​LotusLotus SilverLotus StylePerreletSoprod​",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2025-02-16"
+  },
+  {
+    "company": "Sierra Wireless",
+    "description": "Sierra Wireless, 1993 yılında kurulan Sierra Wireless, Inc. bünyesindeki mobil geniş bant cihazları, gömülü kablosuz modüller, kablosuz ağ geçitleri ve yönlendiriciler, M2M bulut platformu markasıdır.Sierra Wireless, Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Toradex",
+    "description": "Toradex, 2003 yılında kurulan Toradex AG bünyesindeki gömülü sistemler, bilgisayar modülleri, bireysel tek ödemeli bilgisayar markasıdır.Şirketin ürünleri çeşitli gömülü cihazlarda kullanılmaktadır.Toradex AG, modüller (COM) veya modüller (SOM) sistemlerinin yanı sıra uyumlu panolar ve bileşenler üzerinde gömülü bilgisayarlar tasarlayan ve geliştiren bir İsviçre şirketidir..Şirketin Amerika, Brezilya, İsviçre, Hindistan, Japonya, Çin ve Vietnam’da ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Bizden",
+    "description": "Bizden, 1949 yılında kurulan Seçkin Onur A.Ş. bünyesinde 1997 yılından itibaren üretilen fasulye, nohut, mercimek, pirinç, bulgur, bakla, barbunya, mısır, buğday, makarna, mantı, erişte, kuskus, şehriye, un, helva, tahin, pekmez, Kemal Paşa tatlısı, mısır nişastası, buğday nişastası, pirinç unu, irmik, karbonat, hamur kabartma tozu, vanilya, kakao, bezelye konservesi, salça, çay, kahve, şeker markasıdır.ISO 9001, ISO 22000 HACCP belgelerine sahiptir.Orta Doğu Ülkeleri, Türki Cumhuriyetler ve Kıbrıs’a ürünlerini ihraç etmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gökçek",
+    "description": "Gökçek, İbrahim Gökçek tarafından kurulan Gökçek Şifa Lab. San. Tic. Ltd. Şti. bünyesinde üretilen bitkisel kapsüller, İçecekler, karışımlı çaylar, yağlar, ekstreleri, bitki çayları markasıdır.ISO 22000, ISO 9001, CTR, Infanca ve DSR Helal belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avşar Maden Suyu",
+    "description": "Avşar Maden Suyu, 2008 yılında Demirci Hacı Ömer Oğulları Şirketler Grubu tarafından üretilen mandalina c-plus, mango-ananas, yeşil elma aromalı gibi 10 çeşit meyve aromalı ve sadece maden suyu ile limonata ve gazoz markasıdır.Toplam 300 bin metrekarelik alanda bulunan 8 bin 200 metrekarelik alanda üretim gerçekleştirmektedir.Ürünlerini Amerika, Tayland, Irak, Belçika, Çin, Güney Afrika ve Azerbaycan gibi ülkelerin yer aldığı 10 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Scrabble",
+    "description": "Scrabble, 1948 yılında mimar Alfred Mosher Butts tarafından tasarlanan kelime oyunu markasıdır.Alfred Butts 1948 yılında Scrabble telif haklarını James Brunot’a sattı.Daha sonra Scrabble işletme hakları Hasbro ve Mattel arasında paylaştırıldı. Hasbro Amerika Birleşik Devletleri ve Kanada’da oyunu üretirken, diğer ülkelerde ise Mattel tarafından üretilmektedir. Her iki şirkette Amerika merkezlidir.Scrabble, iki, üç veya dört oyuncuyla, rastgele çekilmiş 7 harfle oluşturulan anlamlı kelimelerin 15’e 15’lik özel tasarımlı bir oyun tahtasına yerleştirilmesi suretiyle oynanan tur bazlı bir kelime oyunudur.Oyun 121 ülkede 29 dil seçeneğiyle satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

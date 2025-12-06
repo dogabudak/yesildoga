@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Lincoln Electric",
+    "description": "Lincoln Electric, 1895 yılında kurulmuş olan Lincoln Electric Holdings Inc. bünyesindeki duman emme sistemleri, güvenlik ve koruyucu malzemeleri, kaynak malzemeleri, kaynak telleri, tozları ve elektrotları, otomasyon, plazma kesme malzemeleri markasıdır.Lincoln Electric Holdings Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gekamac",
+    "description": "Gekamac, 1963 yılında kurulmuş olan Gedik Kaynak San. ve Tic. A.Ş. bünyesinde üretilen kaynak ve kesme makineleri, gazaltı kaynak makineleri, inverter kaynak makineleri ve örtülü kaynak elektrotları markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001 belgelerine sahiptir.Gedik Holding çatısı altındaki firma Sakarya merkezlidir ve ürünlerini Hendek 2. OSB’de bulunan 261 bin 700 metrekarelik alandaki tesisinde üretmektedir ve 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eda Cookware",
+    "description": "Eda Cookware, 2019 yılında kurulmuş Eda Çelik San. Tic. Ltd. Şti. bünyesindeki çatal kaşık bıçak takımları, çay makineleri, çaydanlıklar, cam setler, tencere grubu, diğer ürünler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Licorico",
+    "description": "Licorico, 2000 yılında kurulmuş olan Global Gıda Pazarlama San. ve Dış. Tic. A.Ş. bünyesindeki yumuşak şeker markasıdır.Firma İstanbul merkezlidir. Ürünlerini 30 bin metrekarelik tesislerinde üretmektedir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Air ForceAir LoopAirloopApacheArasArasyogiAutobahnBaybuzBenzinBombeoCandy ToysCaptain HookCarlosCeceChoco Cream CarsChoco CreamtoysChoco DociaChoco Stick ArasChocobonCrazy TeamDapdapDinoriumDouble TroubleDuby ToysEdukidsEggo ToysEkşi TopEkşigExpressFairy Tales Hansel & GretelFunny CarFunny FaceG Dino BigG Ekşi TopG HybrıdG Toy Joy Bubble GumG Toy Joy ColoursG Toy Joy DoughG ToyjoyGarbageGdinobigGlauraGlobal Ekşi TopGlobal HybrıdGlobal JoytoyGlobal LicoricoGlobal LoopGlobal SweetsGlobal Toy JoyGlobalgıdaGloballoopIceberg Buz DağıIceboxIcy NicyJasmineJasmine ArasJelly GoJelly TeamJelly ToyJolipaJoytoyJr.EggJumping FaceJungle FamilyJunglesportJunior BallKineticsLet’ScandyLicoricoLo Op CandiesLoop JeloxLoop LicoricoLoop MarshoLoopjeloxLoopmarshoLucky BallLucky BugMagıc VıctorıaMagic BonMagic BoxMagic Box ArasMagic BunnyMagic TroyaMagiciceMagicspideroMixer Kid´S ToysMr.Lucky EggNinchickyNutsan IcebergPetitpengunyPiratoPoleroReplyScuod ToysSoccerSport FanSuper Mix ArasT-JoyTiny MiniToon BoxToy Joy StickToy-JoyToyjoy JellyToys ArasViwi",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Faf Filtre",
+    "description": "Faf Fresh Air Filter, 2010 yılında kurulmuş olan Fors Gayrimenkul İnşaat Taahhüt San. Ltd. Şti. bünyesinde üretilen hepa ve karbon filtreler markasıdır.Firma İstanbul merkezlidir. Ürünlerini 200’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;Faf Fresh Air FilterStartofisler",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Daks",
+    "description": "Daks, 1894 yılında Simeon Simpson tarafından kurulan DAKS Simpson Group PLC bünyesindeki erkek ve kadınlar için lüks giyim ve aksesuarlar markasıdır.Ürünlerini 30’dan fazla ülkeye ihraç etmektedir.DAKS Simpson Group PLC İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Gamesir",
+    "description": "Gamesir, 2010 yılında kurulan Guangzhou Chicken Run Network Technology Co, Ltd bünyesindeki Oyun kumandası, Bluetooth oyunkolu, mekanik oyun klavyeleri, oyun fareleri, battledock ve konsol aksesuarları markasıdır.Guangzhou Chicken Run Network Technology Co, Ltd Çin merkezli bir şirkettir ve ürünlerini Çin’de üretmektedir.Çin, Hong Kong ve Amerika’da ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Petrix",
+    "description": "Petrix, 1997 yılında kurulan Pan Film Ticaret bünyesindeki aydınlatma, ev ve dekoratif aksesuarlar, telefon aksesuarları markasıdır.Firma fotoğraf ve fotoğrafçılık sarf malzemelerinin ithalatını gerçekleştirdi. Firmanın SBS, GOLLA ve KONUS markalarının Türkiye dağıtıcısıdır. Ürünleri uzakdoğuda üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pisen",
+    "description": "Pisen, 2003 yılında kurulan Pisen Electronics Co.,Ltd bünyesindeki powerbank ve usb kabloları markasıdır.Pisen Electronics Co.,Ltd Çin merkezli bir şirkettir ve ürünlerini Çin’deki fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "JCB Matkap",
+    "description": "JCB, 1945 yılında Joseph Cyril Bamford tarafından kurulan J.C. Bamford Excavators Limited bünyesindeki inşaat, tarım, atık işleme ve yıkım makineleri, hırdavat malzemeleri, elektrikli el aletleri ve mekanik el aletleri markasıdır.Asya, Avrupa, Kuzey Amerika ve Güney Amerika’da 22 fabrikası vardır; ürünleri 150’den fazla ülkede satılmaktadır.J.C. Bamford Excavators Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2020-01-15"
+  }
+]

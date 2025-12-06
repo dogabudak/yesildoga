@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Kaisareia",
+    "description": "Kaisareia, 1989 yılında kurulmuş olan Erkiliç İnşaat Metal San. Tic. Ltd. Şti. bünyesinde üretilen mini fırın, davlumbaz, mutfak aspiratörü, ankastre ocak, ankastre setler, ısıtıcılar, insert markasıdır.Firma Kayseri merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fayza",
+    "description": "Fayza, 1954 yılında kurulmuş olan Altesse Quality Food SA bünyesinde üretilen soslar ve mayonez markasıdır.Ürünlerini sadece doğal malzemelerle ve koruyucu olmadan üretmektedir.Altesse Quality Food SA Belçika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Lee Kum Kee",
+    "description": "Lee Kum Kee, 1888 yılında kurulmuş olan Lee Kum Kee Company Limited bünyesinde üretilen soslar markasıdır.Lee Kum Kee Company Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Crying Thaiger",
+    "description": "Crying Thaiger, 1995 yılında Sonchai Wattanaporn tarafından kurulmuş olan Suree Interfoods Co. Ltd. bünyesinde üretilen tatlı biber sosu, börek sosu, sriracha sosu, soya sosu, pad thai sosu, istiridye sosu, balık sosu, tay köri ezmesi, hindistancevizi sütü ve hindistancevizi suyu markasıdır.ISO 9001, GMP, HACCP ve BRC belgelerine sahiptir.Suree Interfoods Co. Ltd. Tayland merkezlidir.",
+    "documents": [
+      "BRC",
+      "CE",
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "incehesap.com",
+    "description": "incehesap.com 2008 yılında kurulmuş olan İncehesap Sanal Mağazacılık Tic. A.Ş. bünyesindeki e-ticaret sitesidir.Firma İstanbul merkezlidir. 7 bin 500 metrekarelik tesisinde faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

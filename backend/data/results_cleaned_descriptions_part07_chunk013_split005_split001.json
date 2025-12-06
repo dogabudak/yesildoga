@@ -1,0 +1,44 @@
+[
+  {
+    "company": "ChargePoint",
+    "description": "ChargePoint, 2007 yılında kurulmuş olan ChargePoint Holdings Inc. bünyesindeki elektrikli araç şarj cihazları markasıdır.ChargePoint Holdings Inc. Amerika merkezlidir ve 14 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Launca Medical",
+    "description": "Launca Medical, 2013 yılında kurulmuş olan Guangdong Launca Medical Device Technology Co. Ltd. bünyesinde üretilen 3 boyutlu ağız içi tarayıcılar, diş tarayıcı, diş CAD / CAM ve diş çözümü markasıdır.Guangdong Launca Medical Device Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Anubismed",
+    "description": "Anubismed, 1982 yılında kurulmuş olan Anubis Cosmetics SL bünyesinde üretilen kozmetik ürünler markasıdır.Anubis Cosmetics SL İspanya merkezlidir. Ürünlerini İspanya’da üretmektedir ve 39 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Fobem Smart TV",
+    "description": "Fobem, 2000 yılında kurulmuş olan Işık Elektronik San. ve Tic. A.Ş. bünyesindeki televizyon, uydu alıcıları, smart ve led tvler, monitör, uydu anten kabloları, telefon şarj kabloları ve telefon şarj cihazları, LNB ve DiseqC Switch, uydu kumandası markasıdır.Firma İstanbul merkezlidir ve ürünlerini 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nivalis",
+    "description": "Nivalis, 2003 yılında kurulmuş olan Sns Gıda Kozmetik Tic. ve San. Ltd. Şti. bünyesinde üretilen şampuanlar, aktar ürünleri, gıda takviyeleri ve vitaminler, bitkisel yağlar, helva, tahin ve pekmez, saç dökülmesine karşı ürünler, vücut yağları markasıdır.İstanbul merkezli firma ürünlerini 6 bin metrekaresi kapalı olan, toplam 11 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

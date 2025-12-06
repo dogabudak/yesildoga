@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Pearl Drops",
+    "description": "Pearl Drops, 1846 yılında John Dwight tarafından kurulan Church & Dwight Co. Inc. bünyesindeki diş macunları, tozları ve suları markasıdır.Church & Dwight Co. Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Frudia",
+    "description": "Frudia, 1986 yılında kurulan Welcos Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri paraben ve sülfat içermez.Welcos Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "SVP Worldwide",
+    "description": "SVP Worldwide, 2004 yılında kurulan SVP-Singer Holdings Inc. aracılığıyla iş yapmaktadır.Dünya çapında yılda satılan her üç dikiş makinesinden yaklaşık birini oluşturan dünyanın en büyük dikiş makinesi şirketidir.SVP Worldwide 2021 yılında Amerika merkezli Platinum Equity LLC tarafından satın alındı. Brezilya’da iğne, Çin’de dikiş makineleri üretim tesisleri vardır. İştirakleri aracılığıyla 180’den fazla ülkede faaliyet göstermektedir.Bünyesindeki markalar;Husqvarna-VikingMysewnetPffafSinger",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Biovene Barcelona",
+    "description": "Biovene Barcelona, Biovene Cosmetics SL bünyesinde üretilen kişisel bakım ürünleri markasıdır.Ürünleri organik ve doğal malzemeler kullanılarak üretilmektedir. Hayvanlar üzerinde test edilmemektedir.Biovene Cosmetics SL İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Getwell",
+    "description": "Getwell, 2015 yılında kurulan Honnes Sağlık ve Endüstriyel Ürünleri A.Ş. bünyesinde üretilen yara bandı, sağlık, hijyen ürünleri markasıdır.Firma Kocaeli merkezlidir.Bünyesindeki markalar;AlphetaAstro BoyBandevaBanduffB-GoodClivexGetwellHonnesHydro EffectRe-BornRocket GirlRoots For AllRoutine For AllS2ambiumSarteraSelf RoutineSevronSkin RootsThe Re-BornThere BornTranta",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

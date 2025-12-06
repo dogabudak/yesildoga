@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Real Thai Original Thai Cuisine",
+    "description": "Real Thai, 2000 yılında kurulan Thaitan Foods International Co. Ltd. bünyesinde üretilen gıda katkı maddesi, besin takviyesi ve güzellik ürünleri markasıdır.Geniş ürün yelpazesinde hindistan cevizi sütü, hamur ürünü, konserve köri ürünü, atıştırmalık ürün, pirinç ürünü, konserve meyve şurup, sos, pirinç eriştesi, pirinç şehriye, tayland çayı gibi ürünler yer almaktadır. HACCP ve Helal belgelerine sahiptir.Thaitan Foods International Co. Ltd. Tayland merkezlidir.",
+    "documents": [
+      "CE",
+      "HACCP"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "Step Tuvalet Kağıdı",
+    "description": "Step, 1996 yılında kurulan Yöntem Gıda İhtiyaç Maddeleri Nakliye ve Kağıtçılık Üretim Paz. ve Tic. Ltd. Şti. bünyesinde üretilen tuvalet kağıdı, peçete, kağıt havlu markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Hammadde temininden tam mamüle kadar olan süreçte yüzde 100 yerli kaynaklar ve selülöz kullanarak üretim yapmakta ve 25 ülkeye ihraç etmektedir.Bünyesindeki markalar;AquaChef’s Select Smart ChoiceCraneDropDusterEkselansEssenEvocrane EndüstriyelFreedayFreepaperG&YHydro BondLadyLongMarvelOnlyOnlymycupRobiStepStep EmotionStepmaskYeni Only ProfessionalYeni Only TrioYöntem",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nukon",
+    "description": "Nukon, 2008 yılında Nuri Körüstan A.Ş. bünyesindeki Lazer Makine Metal Sanayi ve Tic. A.Ş. tarafından üretilen fiber lazer, plazma, su jeti, cnc alevli kesim makineleri, yükleme-boşaltma sistemleri gibi makine ve ekipmanlar markasıdır.Ürünlerini 25 bin metrekarelik kapalı alanda üretmekte ve 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Orjena",
+    "description": "Orjena, 2009 yılında kurulan Wannabe Cosmetic Co. Ltd. bünyesindeki cilt bakım ürünleri markasıdır.Firma kozmetik, cilt bakım ve makyaj ürünleri üretmektedir.Wannabe Cosmetic Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Nutrever",
+    "description": "Nutrever, 2011 yılında kurulan Sere Gıda San. ve Dış Tic. A.Ş. tarafından ithal edilen sporcu gıdası ve takviye edici gıdalar markasıdır.Ürünlerinde Creapure, Carnipure gibi hammaddeler kullanılarak Almanya ve Çek Cumhuriyeti’nde sporcu gıdası üreticilerinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

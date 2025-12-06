@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cerelac",
+    "description": "Cerelac, 1949 yılında Nestle S.A. tarafından üretilen hazır tahıllar markasıdır.Anne sütünün yerine geçmez. Bebekler için tamamlayıcı bir gıda olabilir.Nestle S.A. İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Salmo",
+    "description": "Salmo, 1991 yılında Radoslaw Zaworski tarafından kurulan Salmo Group bünyesindeki olta takımı, giyim eşyası ve dış mekan ürünleri markasıdır.Salmo Group Letonya merkezlidir. Ürünlerin çoğunluğu Letonya, Finlandiya, Japonya, Çin ve Kore’de üretilmektedir.Büyesindeki markalar;Lucky JohnNorfinSalmo",
+    "documents": [],
+    "parent": null,
+    "origin": "LV",
+    "updated_date": null
+  },
+  {
+    "company": "Comme Des Garcons",
+    "description": "Comme Des Garcons, 1969 yılında Rey Kawakubo tarafından kurulan Comme des Garçons Co. Ltd. bünyesindeki giyim, aksesuar, parfüm markasıdır.Comme des Garçons Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "New Look",
+    "description": "New Look, 1969 yılında Tom Singh tarafından kurulan New Look Retailers Limited bünyesindeki giyim, iç çamaşırı, ayakkabı ve aksesuarlar markasıdır.Şirket etek, kot pantolon, pantolon, şort, tozluk, sweatshirt ve diğer ilgili ürünleri satmaktadır.New Look Retailers Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Specco El Aletleri",
+    "description": "Specco, 2006 yılında kurulan Ritim Yapı İnşaat ve Dış Tic. Ltd. Şti. bünyesindeki elektrikli el aletleri, hırdavat ekipmanları, elektro-mekanik ekipmanları markasıdır.Şarjlı matkap, matkap, avuç taşlama, kırıcı delici gibi ürünler sunmaktadır.İstanbul merkezli firma ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

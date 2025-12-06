@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Bluedio",
+    "description": "Bluedio, 2002 yılında kurulan Guangzhou Liwei Electronics Co., Ltd. bünyesinde üretilen bilgisayar çevre aygıtları, telefon alıcıları, telsiz, ses verici cihazları, kulaklıklar, kulak tıkacı, ev kullanımı için uzaktan kumandalar, pil şarj cihazları, galvanik hücreler markasıdır.Bluetooth kulaklık, cep telefonu, titreşimli kulaklık, müzik çalar vb. ürünler konusunda uzmandır.Guangzhou Liwei Electronics Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.ISO 9001, ISO 14001, CE, ROHS, FCC belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Qcy",
+    "description": "Qcy, 2009 yılında kurulan Xiaoxia Cai bünyesinde üretilen kulaklık ve hoparlör markasıdır.CSR yonga seti, DSP / CVC dijital gürültü yalıtımı, TWS stereo kablosuz bağlantı gibi teknolojileri üreten firma, dinamik ünite, yeni diyafram, birim yapıyı geliştirip tasarlayabiliyor.Xiaoxia Cai Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Motorol",
+    "description": "Motorol, Maximus Lubricants LLC bünyesindeki endüstriyel, özel ve otomotiv yağları markasıdır.Metal işleme, tekstil, elektrik ve otomotiv gibi sayısız endüstriye hizmet vermek için 150’den fazla farklı yağlayıcıdan oluşmaktadır.Çeşitli üretim birimlerinin ülkeleri de dahil olmak üzere yaklaşık 25 ülkeye hizmet vermektedir.BAE merkezli Motorol, Bae, Hindistan, Kenya merkezli 3 stratejik tesiste faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "AKG",
+    "description": "AKG, 1947 yılında Dr. Rudolf Goerike ve Ernst Pless tarafından kurulan Akustische und Kino-Gerate Gesellschaft m.b.H. bünyesindeki mikrofon, kulaklık, kablosuz sistemler, konferans sistemleri ve kulaklıkları markasıdır.AKG, 1994 yılında Harman International’ın bir parçası oldu.Harman International 2017 yılında Güney Kore merkezli Samsung Electronics’in iştiraki oldu.Harman International Bünyesindeki markalar:AKGAMXArcamBang & OlufsenBeckerCrownDigiTechHarman KardonInfinityJBLLexiconMark LevinsonMartinRevelSoundcraftStuderdbx",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2020-01-13"
+  },
+  {
+    "company": "Valpadana",
+    "description": "Valpadana, 1935 yılında kurulan traktör markasıdır. 1995 yılında Morra Ailesinin kurduğu ARGO SpA tarafından satın alındı ve Argo SpA’nın bir bölümü olan Argo Tractors Grubu’nun bir parçası olarak faaliyet göstermeye başladı.Argo Tractors İtalya merkezli bir şirkettir İtalya’da yer alan toplam 5 tesisinde üretim yapmaktadır.ARGO SpA İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

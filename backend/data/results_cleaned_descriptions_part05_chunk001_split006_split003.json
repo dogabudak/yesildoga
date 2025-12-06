@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Terka",
+    "description": "Terka, 2013 yılında kurulan Terka Baharat Şifalı Bitkiler İth. İhr. San. ve Tic. Ltd. bünyesinde üretilen şifalı bitkiler ve ithal susam markasıdır.Karabiber Vietnam’dan, rendelenmiş hindistan cevizi Sri Lanka’dan, susam Nijerya, Etiyopya ve Hindistan’dan, karanfil Madagaskar’dan, limon tuzu Çin’den, çörekotu Hindistan ve Etiyopya’dan, kurutulmuş tüm zencefil Çin’den, kırık zencefil Nijerya’dan, zerdeçal Hindistan’dan, havlıcan Çin’den ithal edilmektedir.ISO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Delek Drilling",
+    "description": "Delek, 1951 yılında kurulan Delek Group Ltd. bünyesindeki petrol ve doğal gaz, otomobil ticareti, finansal hizmetler markasıdır. 2022 yılında NewMed Energy olarak adını değiştirmiştir.Ağırlıklı olarak enerji sektöründe faaliyet gösteren bir gruptur.Delek Group Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": "2024-08-01"
+  },
+  {
+    "company": "Sabrent Connecting The Future",
+    "description": "Sabrent Connecting The Future, 2009 yılında kurulan Nexark Inc. bünyesinde üretilen bilgisayar donanımı ve bilgisayar çevre birimleri markasıdır.Nexark Inc. merkezi Amerika’da bulunan Tayvan menşeli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Türkel",
+    "description": "Türkel Nerenin Malı MarkasıTürkel, 2005 yılında kurulan Çarşamba Tarım ve Gıda Ürün. San. ve Tic. İth. İhr. A.Ş. bünyesinde üretilen turşu, hazır yemekler, salamura yaprak, haşlama bakliyatlar markasıdır.Ürünlerini Türkiye’nin çeşitli bölgelerinden temin ederek, turşu, konserve, bakliyat, çerez, zeytin, reçel, helva ve asma yaprağını Manisa’da 22 dönüm arazide bulunan 4 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Toyotomi",
+    "description": "Toyotomi, 1949 yılında kurulan Toyotomi Kogyo Co. Ltd. bünyesinde üretilen klima markasıdır.Toyotomi Group Japonya merkezlidir. ABD, Avrupa ülkeleri ve dünyanın pek çok ülkesinde klima üretmektedir. Türkiye pazarında Toyotomi Japan olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

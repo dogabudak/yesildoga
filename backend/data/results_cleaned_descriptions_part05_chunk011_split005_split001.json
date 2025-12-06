@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Cezbeli Kahve",
+    "description": "Cezbeli Kahve, 2009 yılında kurulan Haremlik Gıda Ltd. Şti. bünyesindeki Türk Kahvesi markasıdır.Arabica ağacının çekirdeklerinden üretilmektedir. Köpük artırıcı, yapay aroma veya koruyucu gibi katkı maddeleri içermez. ISO 9001 ve ISO 22000 belgelerine sahiptir.Üretimini İzmir OSB’de bulunan tesisinde yapmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Musicozy",
+    "description": "Musicozy, 2009 yılında kurulan Jiaxing Jiahong Electroacoustic Science & Technology Co. Ltd. bünyesindeki elektro-akustik test cihazları ve elektro-akustik üretim ekipmanları, ses yastığı, mini hoparlör, taşınabilir hoparlör markasıdır.ISO 9001 belgesine sahiptir.Jiaxing Jiahong Electroacoustic Science & Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Drop Ctrl",
+    "description": "Drop, 2012 yılında Steve El-Hage ve Nelson Wu tarafından kurulan Massdrop Inc. bünyesindeki ses ürünleri ve mekanik klavyeler markasıdır.Massdrop Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dakkın",
+    "description": "Dakkın, 1978 yılında kurulan Akin Ziraat İlaçları İnşaat San. Tic. Ltd. Şti. bünyesindeki motorlu testere, motorlu tırpan, benzinli ve dizel su motoru, toprak burgu makinesi, kar küreme makinesi, güç ürünleri, ilaçlama makinesi, jeneratör, süt sağma makinesi, yem kırma ve ezme makineleri, domuz kovucu, motorlu çapa makinesi, tırpan aksesuarları, motorlu çayır biçme makinesi, güvenlik ve bakım ürünleri, üfleme makinesi markasıdır.Düzce merkezli firma ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nareg Coffee",
+    "description": "Nareg, 2005 yılında kurulan Abc Kahve Gıda Paz. San. ve Tic. Ltd. Şti. bünyesindeki kahveler, sıcak içecekler, çaylar, aromalı şuruplar, meyve püreleri, soslar, sprey krema, makineler markasıdır.Arabica ve Speacialty kahve çekirdeklerini çiğ ithal ederek üretim yapmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

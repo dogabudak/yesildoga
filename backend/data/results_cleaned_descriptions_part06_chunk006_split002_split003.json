@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Vals Vantilatör",
+    "description": "Vals Vantilatör Nerenin Malı MarkasıVals, 2011 yılında kurulan Vals Elektronik A.Ş. bünyesinde üretilen ısıtıcı, elektrikli vantilatör, aspiratör, küçük ev aletleri markasıdır.Firma ürünlerini Manisa OSB’de 9 bin metrekaresi kapalı toplam 12 bin metrekarelik alanda bulunan tesisinde üretmektedir. Firma ayrıca farklı sektörler için çeşitli hassas plastik parçalar üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sarıklar Kırkyıl",
+    "description": "Kırkyıl, 1970 yılında kurulan Sarıklar Gıda San. ve Tic. Ltd. Şti. bünyesindeki menengiç, osmanlı, dibek, hazır kahve çeşitleri markasıdır.Firma Gaziantep merkezlidir.Bünyesindeki markalar;Cafe RioDairy Products SGSarıklar KırkyılSarıklar Royal",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jumiso",
+    "description": "Jumiso, 2016 yılında kurulan Helloskin Co. Ltd. bünyesinde üretilen vücut ve güzellik bakım kozmetikleri, yaşlanma karşıtı kozmetik preparatlar, güzellik sabunu ve serumları, güneş kremi gibi cilt bakım ürünleri markasıdır.Helloskin Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2023-08-11"
+  },
+  {
+    "company": "Photoleap",
+    "description": "Photoleap, 2013 yılında kurulan Lightricks Ltd. bünyesinde üretilen video ve görüntü düzenleme mobil uygulamaları markasıdır.Telefonlar için hepsi bir arada fotoğraf editörü ile arka plan değiştirme nesne kaldırma, kolajlar oluşturma, filtreleme ve efektler uygulamaktadır.Lightricks Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "SPD Aks",
+    "description": "SPD, 1985 yılında kurulan Aslan Kardeşler Otomotiv ve Yedek Parça San. Tic. Ltd. Şti. bünyesindeki otomotiv ve yedek parçaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

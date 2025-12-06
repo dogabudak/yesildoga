@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Gekatec",
+    "description": "Gekatec1963 yılında kurulmuş olan Gedik Kaynak San. ve Tic. A.Ş. bünyesindeki kaynak sarf malzemeleri markasıdır.Firma Sakarya merkezlidir. Sakarya Hendek 2. OSB’de 261 bin 700 metrekarelik alanda üretim yapmaktadır ve 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Raval Acs",
+    "description": "Raval Acs2002 yılında kurulmuş olan Raval Acs Ltd. bünyesinde üretilen otomotiv yakıt deposu havalandırma sistemleri markasıdır.Şirket, benzin, dizel ve biyoyakıt sistemleri için havalandırma sistemi çözümleri sunmaktadır.ISO 9001, ISO 14001 belgelerine sahiptir.Raval Acs Ltd. İsrail merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Tnuva",
+    "description": "Tnuva1926 yılında kurulmuş olan Tnuva Central Cooperative For The Marketing Of Agricultural Produce In Israel Ltd. bünyesinde üretilen süt ürünleri markasıdır.Tnuva Central Cooperative For The Marketing Of Agricultural Produce In Israel Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Pizza Mi-Go",
+    "description": "Pizza Mi-Go2020 yılında Migros Tic. A.Ş. bünyesinde üretilen dondurulmuş ve pişirilmiş pizza markasıdır.M Fırın ile taze olarak müşterilerine sunulan ürünler, Migros mağazalar, sanal market üzerinden alınmakta ve pizza servisi yapılmaktadır.Migros Türk’ün Sahibi Kimdir?",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bioventus",
+    "description": "Bioventus2012 yılında kurulmuş olan Bioventus Inc. bünyesindeki kemik stimülasyon cihazları, osteoartrit eklem sıvısı tedavileri, allojenik morfogenetik proteinler, kemik greftleri, allogreftler, Periferik Sinir Ağrısı, Rehabilitasyon, omurga, hyaluronik asit enjeksiyonları ve periferik sinir stimülasyonu markasıdır.Bioventus Inc. Amerika merkezlidir. Ürünlerini İsrail’de üretmektedir. Dünya çapında 50’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

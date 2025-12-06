@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Outback",
+    "description": "1983 yılında kurulmuş olan Outback Trading Co. Ltd. bünyesindeki dış giyim ürünleri, şapka ve kıyafetleri markasıdır.Outback Trading Co. Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bankers Box",
+    "description": "1917 yılında kurulmuş olan Fellowes Brands Inc. bünyesindeki depolama çekmeceleri, saklama kutuları, dergi dosyaları, sıralayıcılar, organizatör saklama kutuları, dekoratif, atık ve geri dönüşüm, tıbbi, hareketli kutular, kutular, kitler markasıdır.Fellowes Brands Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "TFA Dostmann",
+    "description": "1964 yılında kurulmuş olan TFA Dostmann Gmbh & Co. KG bünyesinde üretilen hava durumu ve ölçüm cihazı, meteorolojik aletler markasıdır.TFA Dostmann Gmbh & Co. KG Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Saks Fifth Avenue",
+    "description": "1867 yılında Andrew Saks tarafından kurulmuş olan Saks & Company bünyesindeki perakende satış markasıdır.Lüks moda için önde gelen destinasyondur.Saks & Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Old Navy",
+    "description": "1994 yılında Mickey Drexler tarafından kurulmuş olan Old Navy LLC bünyesindeki giyim markasıdır.Old Navy LLC Amerika merkezli Gap Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

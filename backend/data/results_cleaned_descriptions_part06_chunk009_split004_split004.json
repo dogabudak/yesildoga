@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Motip",
+    "description": "Motip, Wout Post tarafından kurulan Motip B.V. bünyesinde üretilen araba tamir boyaları, ayar efektleri için çeşitli özel boyalar, bakım ve koruma için çeşitli araç bakım ürünleri, dolgu maddeleri ve gövde altı kaplamaları markasıdır.Motip B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Citrus Splash",
+    "description": "Citrus Splash, 2017 yılında kurulan Wildmint Cosmetics Ltd. bünyesindeki cilt bakım ürünleri markasıdır.Paraben, sülfat, ftalat, propilen glikol, mineral yağlar, yapay koku, petrol veya triklokarban içermez.Hayvanlar üzerinde test edilmemektedir.İngiltere merkezli Wildmint Cosmetics Ltd. ürünlerini İngiltere’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Seçsan Gıda",
+    "description": "Seçsan, 1995 yılında kurulan Seçsan Gıda Pazarlama Turizm Bilgisayar İnşaat San. ve Tic. Ltd. Şti. bünyesinde üretilen yemek ve organizasyon hizmetleri markasıdır.ISO 9001, ISO 22000, OHSAS 18001, TSE belgelerine sahiptir.Ürünlerini İzmir Atatürk OSB’de bulunan 7 bin 600 metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Türkiye Petrolleri A.O. TPAO",
+    "description": "1954 yılında kurulmuş olan Türkiye Petrolleri Anonim Ortaklığı Genel Müdürlüğü bünyesindeki hidrokarbon arama, sondaj, üretim, rafineri ve pazarlama faaliyetleri markasıdır.Ankara merkezli Türkiye Petrolleri A.O. (TPAO) 2017 yılında Bakanlar kurulu kararıyla Türkiye Varlık Fonu A.Ş.’ye devredilmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-02-28"
+  },
+  {
+    "company": "Tamron",
+    "description": "Tamron, 1950 yılında kurulan Tamron Co. Ltd. bünyesinde üretilen fotografik lensler, kameralar için optik bileşenler, ticari veya endüstriyel kullanım optiği markasıdır.Birçok fotoğraf makinesi marka ve modeline göre objektif üretmektedir.Tamron Co. Ltd. Japonya merkezlidir. Ürünlerini Japonya, Çin ve Vietnam’da üretmektedir.Japonya merkezli Sony Corporation, şirketin yüzde 11’lik payına, Japonya merkezli New Well Co. ise şirketin yüzde 17.34’lük payına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Petosan",
+    "description": "Petosan, 1924 yılında Solveig ve Otto Barman tarafından kurulan Petosan AS bünyesinde köpekler için çift başlı diş fırçaları ve çok çeşitli ağız bakım çözümleri markasıdır.Petosan AS Norveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Drynites",
+    "description": "Drynites, 1872 yılında kurulan Kimberly-Clark Corporation bünyesinde üretilen bebek ve küçük çocuklar için atılabilir emici külot ve tuvalet alıştırıcı atılabilir pantolon markasıdır.Kimberly-Clark Corporation Amerika merkezlidir ve 37 ülkede üretim yapmaktadır. Türkiye pazarına 2005 yılında Kimberly-Clark Tüketim Malları San. ve Tic. A.Ş. olarak girmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zomm",
+    "description": "Zomm, Zomm LLC bünyesindeki cep telefonları, müzik çalarlar ve bilgisayarlar için kişisel kablosuz uyarı alıcı-vericileri markasıdır.Cep telefonları için dünyanın ilk kablosuz tasmasıdır. Tam mobil hoparlör işlevselliği ile çağrı bildirimi sağlar, panik alarmı sağlar ve dünyanın herhangi bir yerinden tek bir düğmeye basarak acil yardım çağırır.Zomm LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hastel",
+    "description": "Hastel, 1993 yılında kurulan Hastel Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen paketli mantı, erişte, baklavalık yufka, tarhana, şambaba, pasta keki, böreklik yufka, su böreklik yufka ve kurabiye markasıdır.Ürünlerini Burdur OSB’de 30 bin metrekarelik arsa üzerindeki 15 bin metrekarelik kapalı alanda üretmekte ve çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yema",
+    "description": "Yema, 1948 yılında Henry Louis Belmont tarafından kurulan Ambre SA bünyesindeki kol saatleri, aksesuarlar markasıdır.Analog ve LCD saatler dışında LED saatler üretmektedir.Ambre France SA, 2009 yılında Fransa merkezli Montres Ambre SA tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Penaten",
+    "description": "Penaten, 1904 yılında Max Riese bünyesinde kurulan hassas bebek cildinin günlük bakımı ve temizliği için ürünler markasıdır.Nemlendirici yüz ve vücut bakım kremi, şampuan, bakım yağı, bakım losyonu gibi ürünler sunmaktadır.Penaten, Amerika merkezli Johnson & Johnson bünyesindedir. Üretimi İtalya ve Fransa’da yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sanpan",
+    "description": "Sanpan, 2005 yılında kurulan Sanpan Isıtma Sistemleri San. ve Tic. A.Ş. bünyesinde üretilen havlu radyatörler, ısıtma ve soğutma çözümleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Sanpan Isıtma Sistemleri San. ve Tic. A.Ş. 2011 yılında İsviçre merkezli Zehnder Group A.G. tarafından satın alındı. Ürünlerini Manisa OSB’de 7 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Redmond",
+    "description": "Redmond, 2007 yılında kurulan Redmond Tehnopoisk OOO bünyesinde üretilen küçük mutfak aletleri, mutfak eşyaları, elektrikli ev aletleri, banyo terazileri markasıdır.Redmond Tehnopoisk OOO Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Europtec",
+    "description": "Europtec, 2004 yılında kurulan Europtec Ag bünyesinde üretilen cam ve plastik malzemelerden yapılmış bileşenler markasıdır.Şirketin iş kolu preslenmiş ve üflemeli cam üretimini içermektedir.Europtec Ag, İsviçre merkezli Glas Trösch Group bünyesindedir. Türkiye’de 2008 yılından beri Europtec Cam San. Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Benetech",
+    "description": "Benetech, 2010 yılında kurulan Shenzhen Jumaoyuan Science and Technology Co. Ltd. bünyesinde üretilen kızılötesi termometre, anemometre, ses seviyesi ölçer, nem ve sıcaklık ölçer, titreşim ölçer, ultrasonik kalınlık ölçer gibi cihazlar markasıdır.Shenzhen Jumaoyuan Science and Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

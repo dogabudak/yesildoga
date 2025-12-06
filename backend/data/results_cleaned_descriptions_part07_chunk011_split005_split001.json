@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Toppits",
+    "description": "Toppits, 1929 yılında kurulmuş olan Cofresco Frischhalteprodukte GmbH & Co. KG bünyesinde üretilen alüminyum folyo, gıda filmi, dondurucu torbaları, pişirme için alüminyum folyo, kek kapları, barbekü tepsileri, sandviç kağıdı, buz küpü torbaları, kavurma tüpleri markasıdır.Cofresco Frischhalteprodukte GmbH & Co. KG Almanya merkezli Melitta Group şirketidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Antonio Banderas Parfüm",
+    "description": "Antonio Banderas, 1914 yılında Antonio Puig tarafından kurulmuş olan Antonio Puig SA bünyesindeki parfüm markasıdır.Antonio Puig SA İspanya merkezlidir. Ürünleri 150’den fazla ülkede satılmaktadır. Şirketin Avrupa’da, 4 Meksika’da bir olmak üzere toplam beş üretim tesisi ve 30 ülkede ofisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Jarek 5",
+    "description": "Jarek 5 Hangi Ülkenin Malı MarkasıJarek 5, 1997 yılında kurulmuş olan Jagoda Jps Agromachines bünyesinde üretilen hasat makinesi, biçerdöver markasıdır.Jagoda Jps Agromachines Polonya merkezlidir ve ürünlerini 20’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Jival",
+    "description": "Jival, 1960 yılında kurulmuş olan Evliya Şekerleme San. ve Tic. Ltd. Şti. bünyesinde üretilen çikolata markasıdır.ISO 22000 ve Helal belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini Konya OSB’de bulunan fabrikasında üretmektedir ve 50 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nanoderma",
+    "description": "Nanoderma, 1999 yılında kurulmuş olan Crevil Cosmetics & Pharmaceuticals Gmbh bünyesinde üretilen yüz, cilt bakımı markasıdır.Kozmetik-GMP, ISO 22716 ve ISO 22716 belgelerine sahiptir.Crevil Cosmetics & Pharmaceuticals Germany Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

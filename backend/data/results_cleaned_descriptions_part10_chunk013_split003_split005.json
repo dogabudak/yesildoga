@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Apraise",
+    "description": "2014 yılında kurulmuş olan Apraise Ltd. bünyesinde üretilen kaş makyajı, kaş ve kirpik bakımı, göz maskesi ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Apraise Ltd. İngiltere merkezlidir. Ürünlerini İngiltere’de üretmektedir ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Perge",
+    "description": "1985 yılında kurulmuş olan Eylül Kozmetik ve Kimya San. Dış Tic. Ltd. Şti. bünyesinde üretilen ağda bezleri ve spatulalar, aplikatörler, banyo ürünleri set, banyo pol. ve duş lifi süngeri, boya fırçaları aksesuarları, cımbız ve epilasyon yay, el ve ayak törpüleri, eldivenler, klasik tokalar, makyaj süngerleri/kalemtraş, pensler ve manikür makasları, saç bigudileri, saç sakal fırçaları, tırnak makasları, taraklar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fayrinoks",
+    "description": "2000 yılında Abdullah Dereboyu tarafından kurulmuş olan Fayrinoks Endüstriyel Mutfak Makineleri bünyesinde üretilen büfe, kafe tipi endüstriyel mutfak makineleri, tost makinesi, çay kazanı markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Perplexity AI",
+    "description": "2022 yılında Perplexity AI Inc. bünyesindeki yapay zeka ile çalışan ücretsiz cevap motorudurPerplexity AI Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Espirit",
+    "description": "1968 yılında kurulmuş olan Esprit Holdings Limited bünyesindeki kadın kıyafetleri, erkek kıyafetleri, aksesuarlar, ayakkabılar, vücut kıyafetleri, çocuk kıyafetleri, gözlük, koku markasıdır.Esprit Holdings Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

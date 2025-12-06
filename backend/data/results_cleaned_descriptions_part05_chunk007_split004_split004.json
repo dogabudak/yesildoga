@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Dç Dökümçelik",
+    "description": "Dç Dökümçelik, 1997 yılında kurulan Vera Üretim ve Pazarlama bünyesindeki ani su ısıtıcılar, mutfak aletleri, elektrikli ısıtıcılar, aspiratörler markasıdır.Ürünlerini işbirliği yaptığı firmalarla üretmektedir. Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Giggles",
+    "description": "Giggles, 2010 yılında kurulan Sevinçler Sağlık Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen bebek bezi, hasta bezi, ıslak mendil, hijyenik ped ve bebek şampuanı ürünleri markasıdır.Ürünlerini Gaziantep 3. OSB’de bulunan 20 bin metrekarelik tesisinde üretmektedir ve 70’ten fazla ülkeye ihraç etmektedir.GMP, ISO 9001, ISO 13485 belgelerine sahiptir.Bünyesindeki markalar;Dolphin BabyDr.ComfortDr.MarcoFirstladyGigglesGiggles PremiumJusy BabyLady GigglesMarcoMedyNew Dr.Comfort UnderpadPepySüvariSensa AdultSevinçSevinçler Sağlık ÜrünleriSnow Panda Baby DiapersTabbyTactilTiny BabyTwitter",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alkemie",
+    "description": "Alkemie, 2014 yılında kurulan Alkemie Group Sp. z o.o. sp. k. bünyesinde üretilen doğal cilt bakım ürünleri markasıdır.Ürünleri SLS, PEGs, paraben veya petrol türevleri içermez. GDO’suz bikilerden üretilir. Hayvanlar üzerinde test edilmemektedir.Alkemie Group Sp. z o.o. sp. k. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Lotus Software",
+    "description": "Lotus Software, 1982 yılında Mitch Kapor ve Jonathan Sachs tarafından kurulan yazılım markasıdır.Grafiksel kullanıcı arayüzü teknolojisi olmayan yıllarda kullanılan WYSIWYG özellikli ürün olan Lotus 1-2-3 hesap tablosu uygulamasıyla ön plana çıkmıştır.Lotus Software 2018 yılında Hindistan merkezli HCL Technologies Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Gainward",
+    "description": "Gainward, 1984 yılında kurulan Gainward Europe Gmbh bünyesindeki grafik kartları markasıdır.Firma grafik yonga setleri ve özel grafik kartları üretmektedir.Gainward Europe Gmbh, 2005 yılında Tayvan merkezli Palit Microsystems Ltd. tarafından satın alınmıştır. Ürünleri Çin ve Tayvan’da bulunan fabrikalarda üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

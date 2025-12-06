@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Mbr",
+    "description": "Mbr Medical Beauty Research, Mbr Medical Beauty Research Gmbh bünyesinde üretilen yüz bakımı, saç bakımı, vücut bakımı, erkek bakımı, güneşten korunma bakımı, koku ürünleri markasıdır.Mbr Medical Beauty Research Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Valmont",
+    "description": "Valmont, 1985 yılında kurulan Cvl Cosmetics S.A. bünyesindeki cilt bakım ürünleri markasıdır.Bozulmamış doğal kaynaklardan yaşlanma karşıtı cilt bakım ürünlerini formüle etmektedir.Cvl Cosmetics S.A. İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Penhaligons",
+    "description": "Penhaligon’s, 1870 yılında William Henry Penhaligon tarafından kurulan Penhaligon’s Limited bünyesinde üretilen parfüm markasıdır.2015 yılında Penhaligon’s Limited, moda ve koku şirketi Puig International SA tarafından satın alındı.Puig International SA İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "ORS Rulman",
+    "description": "ORS, 1982 yılında kurulan Ortadoğu Rulman San. ve Tic. A.Ş. bünyesinde üretilen rulman markasıdır.Ürünlerini Ankara’da 300 bin metrekarelik arazide 100 bin metrekarelik kapalı alanda üretmektedir. ISO 9000 belgesine sahiptir.Üretiminin yaklaşık yüzde 50’sini A.B.D., Almanya, İtalya, Fransa, İngiltere, Tayvan, Portekiz ve Mısır gibi ülkelere ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Berlei",
+    "description": "Berlei, 1917 yılında Fred Burley tarafından kurulan Berlei Limited bünyesinde üretilen iç çamaşırı markasıdır.Berlei Limited, çok uluslu külot, çorap, sütyen ve basit tişörtler gibi iç çamaşırı üreten Amerika merkezli Hanesbrands Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

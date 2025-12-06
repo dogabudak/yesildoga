@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Avengers",
+    "description": "The Avengers, ilk kez 1963 yılında Marvel Studios tarafından üretilen ve Marvel Comics’in süper kahraman ekibi olan filmdir. Bu filmin karakterleri Hasbro tarafından oyuncak olarak satılmaktadır.Oyuncaklar Çin’de üretilmektedir.Amerika merkezli Hasbro, Türkiye’de 1984 yılından beri faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-05-25"
+  },
+  {
+    "company": "Special K",
+    "description": "Special K, 1956 yılında Kellogg NA Co bünyesinde üretilen Tahıl, Protein yemek barları, Tahıl barları, Kraker cips, Hamur cips, Protein shakes, Düz ekmek kahvaltı sandviçler, Waffle, Popcorn cips, Protein snack barlar, Kahvaltı Shakes, Kraker, Brownie ısırıkları, Protein su karışımları, Protein granola barları markasıdır.Kellogg, 1906 yılında Will Keith Kellogg tarafından kurulan çokuluslu Amerikan merkezli bir gıda üretim şirketidir.Türkiye’de Kellogg Med Gıda Ticaret Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Greenpan",
+    "description": "Greenpan, 1991 yılında kurulan The Cookware Company LLC bünyesinde 2007 yılında üretilen tencere markasıdır.The Cookware Company, markaları perakende ve özel mağazaların yanı sıra televizyon alışveriş kanalları ve dünya çapında 100’ün üzerinde ülkede perakende web siteleri üzerinden satılıyor.The Cookware Company Belçika merkezli bir şirkettir.Bünyesindeki markalar:AnotechBKGeroGreenChefGreenLifeGreenPanKELTUMKVKBVitaVerde",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2019-06-08"
+  },
+  {
+    "company": "Oxiron Telefon",
+    "description": "Oxiron, OXIRON Mobil Technologien GmbH şirketine ait bir akıllı telefon markasıdır.İstanbul İkitelli’de, 3 bin metrekarelik alanda kurulan cep telefonu üretim tesisinde üretilmektedir.Alman cep telefonu firması Oxiron ile tekstil firması Universal işbirliğiyle, mühendis ve yazılım desteği Almanya’dan sağlanırken Türkiye’de işçilik ve üretim yapılıyor.Universal Tekstil, Türkiye’de polar kumaşta en büyük firmalardan biri.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Evercool",
+    "description": "Evercool, 1992 yılında kurulan EVERCOOL Thermal Corp., Ltd. bünyesineki soğutucu fan ürünleri markasıdır.Evercool Thermal Corp., Ltd. şirketinin merkezi Tayvan’da, 25 bin metrekarelik üretim tesisleri ise Çin’de yer almaktadır.Türkiye dağıtıcısı Segment Bilgisayar’dır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2019-05-31"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Enterprise",
+    "description": "Enterprise Rent-A-Car, 1957 yılında kurulan Enterprise Holding bünyesindeki araç kiralama şirketidir.85 ülkede 9 bin ofisiyle hizmet vermektedir.Amerika merkezli Enterprise Holding, 2007 yılında National Car Rental ve Alamo markalarını satın aldı.Enterprise Rent-A-Car, Alamo ve National Car Rental markaları Türkiye’de Yes Oto Kiralama A.Ş tarafından 27 şehirde 50 ofis ile temsil edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "KidZania",
+    "description": "KidZania, 1999 yılında Xavier Lopez Ancona tarafından kurulan KidZania Operations S.A.R.L. bünyesindeki 4 -14 yaş arasındaki çocukların aktivite alanları markasıdır.Çocuklara meslek deneyimletmeyi amaçlar. Çocuklar 65 aktiviteye katılarak sanatsal, fiziksel ve sosyal becerilerini geliştirir. Tercih ettikleri 100’den fazla ünlü markalara ait mesleği bir üniforma giyip deneyimleyebilir.Meksika merkezli KidZania 21 ülke, 28 şehirde faaliyet gösteriyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MX",
+    "updated_date": "2021-02-01"
+  },
+  {
+    "company": "Setur",
+    "description": "Setur, 1964 yılında Koç Holding tarafından kurulan Setur A.Ş. bünyesindeki turizm hizmetleri, gümrükten muaf mağazalar ve özel havacılık faaliyetleri markasıdır.Abercrombie&Kent, Orient Express markalarının satış hakkına sahip olan Setur2001 yılında Türkiye’nin en büyük online turizm portalı Seturbiz.com’u da bünyesine alarak, e-ticaret faaliyetlerine başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Merlin Entertainments",
+    "description": "Merlin Entertainments, 1998 yılında kurulan Merlin Entertainments plc bünyesindeki eğlence şirketidir.2019 yılında Amerika merkezli Blackstone Group, Danimarka merkezli Kirkbi A/S ve Kanada merkezli CPP Investment Board konsorsiyumu tarafından satın alındı.Bünyesindeki markalar:Alton Towers ResortBlackpool TowerChessington World of AdventuresDreamworks ToursFalls Creek Alpine ResortGardalandHeide ParkHotham Alpine ResortLegoland ResortsLondon DungeonLondon EyeMadame TussaudsSea Life AquariumsThorpe ParkWarwick Castle",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Madame Tussauds",
+    "description": "Madame Tussauds, Marie Tussaud tarafından kurulan eğlence şirketi The Tussauds Group bünyesindedir.Tarihi ve kültürel kahramanlar, sanat, spor ve siyaset dünyasının yaklaşık 60 ünlü ismin balmumu heykeli müzesinde yer alıyor.Amsterdam, Berlin, Hong Kong, İstanbul, New York, Sidney ve Tokyo’nun da bulunduğu 24 şehirde şubesi vardır.Tussauds Group, 2007 yılında Merlin Entertainments tarafından satın alındı. Merlin Entertainments, Amerika merkezli Blackstone Group, Danimarka merkezli Kirkbi A/S ve Kanada merkezli CPP Investment Board konsorsiyumuna aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Youth Of The People",
+    "description": "Youth Of The People, 2015 yılında kurulan Youth to the People LLC bünyesinde üretilen cilt bakım ürünleri markasıdır.Youth to the People LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Süphan",
+    "description": "Süphan, 1975 yılında Abdullatif Hazır tarafından kurulan Süphan Tarım Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen buğday unu, irmik, bulgur, makarna markasıdır.TSE ISO 9000, TSE ISO 22000, TSE kalite ve Helal belgelerine sahiptir.Ürünlerini Gaziantep 2. OSB’de üretmektedir.Bünyesindeki markalar;BaşerNuronurSüphan",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Taşkınlar Un",
+    "description": "Taşkınlar Un Nerenin Malı MarkasıTaşkınlar Un, 1992 yılında kurulan Taşkınlar Un Fabrikası San. Tic. ve Ltd. Şti. bünyesinde üretilen un markasıdır.Konya merkezli firmanın toplam 30 bin metrekarelik alan üzerinde bulunan 10 bin metrekarelik alanda modern tesisinde üretim yapılmaktadır.ISO 9001, ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Diehl",
+    "description": "Diehl, 2002 yılında kurulan Diehl Stiftung GmbH & Co. KG bünyesinde üretilen yarı mamul ve dövme ürünler markasıdır.Şirket, Avrupalı ​​ev aletleri ve ısıtıcı üreticilerine elektronik kontroller sağlamaktadır.Diehl Stiftung & Co. KG Almanya merkezli sanayi grubudur. Diehl ürünlerini yaklaşık 80’den fazla yerde geliştirir, üretir ve pazarlar.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bivy",
+    "description": "Bivy, 2008 yılında kurulan Taha Kimya Kozmetik ve Tüketim Ürünleri San. Paz. Ltd. Şti. bünyesinde üretilen ıslak mendil markasıdır.Taha Kimya bebek ve antibakteriyel ıslak mendil, şampuan, saç kremi, sıvı el sabunları, yüzey temizleyiciler, çamaşır deterjanları, yumuşatıcılar, çamaşır suyu, leke çıkarıcı, halı şampuanı, yağ sökücü gibi ürünlerini Gaziantep 1. Sanayi Bölgesinde bulunan 25 bin metrekarelik fabrikasında üretim yapmaktaıdr.Bünyesindeki markalar;Active Bac Technology +BabycixBeauty Lovely DivaBibaby+Bii House Clean TimeBii House Fresh TimeBii Wipes Bathroom CleanerBii Wipes ComfortBii Wipes Glass CleanerBii Wipes KidsBii Wipes Kitchen CleanerBii Wipes NewbornBii Wipes Wood CleanerBii’BabyBii’WipesBiiwipes EbruliBittolBivyBivy BabyBivy Clean TimeBivy ComfortBivy FlashBivy Fresh TimeBivy IxirBivy Magic WipesssBivy ShineBlack EagleBubiCarmellaCrazy EagleElgisiFashion Hair StyleFashion Make-UpFull PowerGold EagleGoosLovelloOnnoOud LuxuryPeedPro Style SilverPro SytleRed SeveRoyal BabyRoyal SoltanaSavon De ParisSoltanaTahaTavyTingsTom&MaryTomyWhite Eagle",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

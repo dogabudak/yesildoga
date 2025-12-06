@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Araz Supermarket",
+    "description": "“Araz Supermarket“2011 yılında Aydın Veyseloğlu, Ilgar Talibov ve Bahtiyar Allahverdi tarafından kurulmuş olan Araz Supermarket MMC bünyesindeki süpermarket zinciri markasıdır.Araz Supermarket MMC Azerbaycan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Pasha Bank",
+    "description": "“Pasha Bank“1987 yılında Yatırım Bank A.Ş. unvanıyla İstanbul’da kurulmuştur. Kurumsal, ticari, premium ve yatırım bankacılığı olarak hizmet vermektedir.2015 yılında Azerbaycan merkezli Pasha Bank OJSC tarafından hisseleri satın alınmıştır ve yeni unvanı, PASHA Yatırım Bankası A.Ş. olmuştur. 2023 yılında PASHA Holding LLC tarafından çoğunluk hisseleri devralınmıştır.Hissedarları:PASHA Holding LLC (yüzde 71,74)PASHA Bank OJSC (yüzde 28,2)",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Deepest",
+    "description": "“Deepest“2004 yılında kurulmuş olan Sis Tarım Halk Sağlığı Ürünleri San. Tic. Ltd. Şti. bünyesindeki haşere ilaçları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mateks Makina",
+    "description": "“Mateks Makina“1980 yılında kurulmuş olan Mateks Makina San. Dursun Bal bünyesinde üretilen mantı, baklava, içli köfte, kol böreği, su böreği, pelmeni, rende, yufka, lavaş, hamur ve sigara böreği makineleri markasıdır.ISO 9001, CE, TSEK belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 8 bin 500 metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oba Marketler Şebekesi",
+    "description": "“Oba Market“2016 yılında Veyseloğlu Şirketler Grubu tarafından kurulmuş olan OBA Market MMC bünyesindeki marketler zinciri markasıdır.Firma Azerbaycan merkezlidir. Ülke çapında binden fazla mağazaya sahiptir.Bünyesindeki markalar;Çudo VkusaAlemshahBabuşkinoDory BabyFelliniHekayaLazovskayaLovbeMonte LemoNurRevelSabellaSafranTamdadTurk chefZolotaya BasnaZolotoy Kray",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  }
+]

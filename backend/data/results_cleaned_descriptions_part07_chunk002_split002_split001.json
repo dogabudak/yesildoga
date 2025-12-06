@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Moll Xtra Charge",
+    "description": "Moll, 1946 yılında kurulan Moll Batterien Gmbh bünyesinde üretilen otomotiv ve ticari araçlar için aküler markasıdır.Standart pillere kıyasla önemli ölçüde geliştirilmiş bir şarj kabulüne sahiptir ve özellikle şarj seviyesi düşük olduğunda çok daha hızlı şarj olur.Moll Batterien Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rombat",
+    "description": "Rombat, 1980 yılında kurulan Rombat SA bünyesinde üretilen otomobiller, kamyonlar, bisikletler, enerji depoları için aküler markasıdır.ISO 9001, ISO TS 16949, ISO 18001, ISO 14001 belgelerine sahiptir.Rombat SA, 2012 yılında Güney Afrika Grubu Metair Investment Limited’in iştiraki olan Metair International Holdings Coöperatief U. A tarafından satın alındı. Ürünlerini Romanya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RO",
+    "updated_date": null
+  },
+  {
+    "company": "Prolinc",
+    "description": "Prolinc, 1993 yılında kurulan Prolinc Cosmetics Inc. bünyesindeki tırnak, el ve ayak bakımı ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Prolinc Cosmetics Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bakon Havya",
+    "description": "Bakon, 1998 yılında kurulan Shenzhen Bakon Electronic Technology Co. Ltd. bünyesinde üretilen lehimleme araçları, akıllı fırçasız elektrikli tornavida, elektronik aletler ve test aletleri markasıdır.ISO 9001 belgesine sahiptir.Shenzhen Bakon Electronic Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Donna Glove",
+    "description": "Donna Glove, 2012 yılında kurulan A.E.I.24 bünyesinde üretilen kendi kendine meme muayenesi eldiveni markasıdır.Mineral yağ, NF 18 içeren 3 kat poliüretandan yapılmıştır.A.E.I.24 İspanya merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

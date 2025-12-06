@@ -1,0 +1,49 @@
+[
+  {
+    "company": "CHI Haircare",
+    "description": "CHI Haircare, 1986 yılında Farouk Shami tarafından kurulan Farouk Systems, Inc. bünyesinde üretilen saç bakım ürünleri markasıdır.Saç ve cilt bakım ürünlerini dünya çapında 106’dan fazla ülkeye pazarlamaktadır.Farouk Systems, Inc. Amerika merkezlidir.Bünyesindeki markalar;BioSilkCationic Hydration Interlink (CHI)SunGlitz",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oneva",
+    "description": "Oneva, 2009 yılında kurulan Neva Gıda Maddeleri ve Baskı Malz. Dış Tic. Ltd. Şti. bünyesinde üretilen bitkisel sıvı yağlar markasıdır.Tüm yağları kendi tesislerinde ve tamamen soğuk pres yöntemle üretmektedir. Üretim sürecinde kimyasal, katkı ve koruyucu madde kullanılmaz.Tüm ürünleri ilk ve tek seferlik sıkımla üretilir. ISO 22000 ve GMP belgelerine sahiptir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Saffet Abdullah",
+    "description": "Saffet Abdullah, 1959 yılında kurulan Saffet Kollektif Şti. bünyesinde üretilen güllaç markasıdır.Ürünlerini İstanbul’da bulunan 3 bin 200 metrekarelik alanda bulunan fabrikasında üretmektedir. ISO 22000 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polytop",
+    "description": "Polytop, 1983 yılında kurulan Polytop Gmbh bünyesindeki araç temizliği ve bakımı ürünleri markasıdır.Firma motorlu taşıtların temizlenmesi ve işlenmesinin tüm alanlarında kullanım için temizlik, bakım ve bitirme ürünlerinin üreticilerinden biridir.Polytop Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tommy’s Bears",
+    "description": "Tommy’s Bears Nerenin Malı MarkasıTommy’s Bears, 1952 yılında kurulan Elvan Gıda San. ve Tic. A.Ş. bünyesinde üretilen şeker, jelatin bazlı çiğneme şekerleri, sakızlı şekerler markasıdır.Firma Türkiye’de 6, yurt dışında ise 2 fabrikasında üretim yapmaktadır. Ürünlerini 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Cecile",
+    "description": "Cecile, 2005 yılında renkli kozmetik ve parfüm gruplarıyla Özsoy Kozmetik bünyesindeki markadır. Türkiye pazarında ilk olarak parfümleriyle tanınan marka daha sonradan kozmetik ürünleriyle ön plana çıkmıştır. Renkli Kozmetik ve Parfüm gruplarında 200’ün üzerinde ürüne sahiptir.Cecile, İzmir’de bulunan üretim tesisi ile yüzde 100 yerel hizmet sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Guerlain",
+    "description": "Guerlain, 1828 yılında Pierre Guerlain tarafından kurulan parfüm, cilt ve saç bakımı ve kozmetik ürünleri markasıdır.Guerlain markası 1994 yılında Fransa merkezli LVMH Grup bünyesine geçmiştir.LVMH Grup bünyesindeki markalar:Acqua di ParmaArdbegBelvedereBenefit CosmeticsBerlutiBodega NumanthiaBulgariCaffe-Pasticceria CovaCape MentelleCelineChandonCharles & KeithChateau Cheval BlancChateau d’YquemChaumetCheval Blanc (hotels)Cloudy BayDFSDiorDom PerignonEmilio PucciFeadshipFendiFenty Beauty by RihannaFREDFresh (fragrances)GivenchyGivenchy ParfumsGlenmorangieGuerlainHennessyHouse of BijanHublotKat Von D BeautyKenzoKenzo ParfumsKrugLe Bon MarcheLe Grande EpicerieLes EchosLoeweLoro PianaLouis VuittonMaison Francis KurkdjianMake Up For EverMarc JacobsMarc Jacobs BeautyMercierMoet & ChandonMoynatNewton VineyardNicholas KirkwoodParfums Christian DiorPerfumes LoeweRimowaRuinartSephoraStarboard Cruise ServicesTAG HeuerTerrazas de los AndesThomas PinkVeuve ClicquotWenjunWoodinville Whiskey Co.Zenith",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2019-06-02"
+  },
+  {
+    "company": "Jowae",
+    "description": "Jowae, 1969 yılında Patrick Ales tarafından kurulan Ales Groupe bünyesindeki cilt bakımı ürünleri markasıdır.Ürünlerinin içeriğinde paraben, mineral yağ, silikon, hayvansal kökenli maddeler ve fetosipetanol içermez ve yüzde 93’ü bitki içeriklidir.Fransa firması Ales Groupe bünyesindeki markalar:CaronJowaeLaboratoire DucastelLieracPhytoPhyto Specific",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Saloon Burger",
+    "description": "Saloon Burger, 2014 yılında Turgut Aydın Holding A.Ş. tarafından kurulan Sb Gıda İşletmeleri A.Ş. bünyesindeki paket servis sunan restoran işletmeleri markasıdır.Burgerler, atıştırmalıklar, salatalar, tatlılar ve içecekler gibi ürünler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-22"
+  },
+  {
+    "company": "Agiss",
+    "description": "Agiss, 2000 yılında kurulan Kozmotek Pazarlama Kozmotik ithalat İhracat San. Tic. Ltd. Şti. bünyesindeki tüy sarartıcı, renk açıcı, aktivatör kremler, boncuk ağda markasıdır.ISO 9001, ISO 22716, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;AgissAgiva",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-07"
+  }
+]

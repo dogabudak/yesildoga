@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Geoxyn",
+    "description": "Geoxyn, Ahmet Ümit Sabancı tarafından kurulan Sonofarma İlaç Kimya San. Tic. Ltd. Şti. bünyesinde üretilen viral ve bakteriyel enfeksiyonlardan koruyan burun sprey markasıdır.Eczanelerde gıda takviyesi grubunda satılmaktadır. Geliştirilen solüsyonun koronavirüsü 1 dakika içerisinde yok ettiği, Bursa Uludağ Üniversitesi ve Çukurova Üniversitesi’nde görev yapan akademisyenlerin işbirliği ile yapılan çalışmayla ispatlandı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "XGI Technology",
+    "description": "XGI Technology, 2003 yılında kurulan XGI Technology Inc. bünyesindeki grafik kartları markasıdır.XGI Technology Inc. Tayvan menşelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Tereson",
+    "description": "Tereson, 2004 yılında kurulan Primo Ambalaj ve Kimya San. Tic. A.Ş. bünyesindeki terleme önleyici, serinletici minder ve ayak kokusu önleyici krem markasıdır.A.Çorum Medical tarafından üretilmektedir.ISO 9001, ISO 14001 ve ISO 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dorin",
+    "description": "Dorin, 1780 yılında kurulan F. Excellence SARL, bünyesindeki parfümeri ve güzellik ürünleri markasıdır.France Excellence SARL Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Naturamaks Çorba",
+    "description": "Naturamaks, 1976 yılında Özdemir Ali Yarar tarafından kurulan Lezzo Gıda Pazarlama A.Ş. bünyesinde üretilen çorba, sos ve tatlı markasıdır.Çevreye zararlı atık üretmeyen tesislerinde, ISO 9001 ve Haccp kurallarına uygun olarak üretim yapmaktadır. Ürünlerini AB ülkeleri, Avustralya, Yeni Zelanda, Afrika ve Ortadoğu ülkelerine ihraç etmektedir.Bünyesindeki markalar;LezzoNaturamaks",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-11-18"
+  }
+]

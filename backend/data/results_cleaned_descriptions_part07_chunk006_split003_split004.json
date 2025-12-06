@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kinza Yapı",
+    "description": "Kinza Yapı, 1996 yılında kurulmuş olan Kinza Yapı A.Ş. bünyesindeki küresel inşaat sektörüne yönelik projelendirmeden anahtar teslim işlemlere kadar süreçlerin her aşamasında hizmet ve ürünler sunan markadır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Patron Agri Systems",
+    "description": "Patron Agri Systems, 2009 yılında kurulmuş olan Patron Agri Systems BV bünyesindeki sera bahçeciliği için bir dizi elektrik tesisatı, iklim bilgisayarı, aydınlatma ve su teknik tesisatı, gelgit ve akış sistemleri markasıdır.Tarım ve bahçe bitkileri sektöründe özelleştirilmiş sulama ve elektrik çözümleri sunmaktadır.Patron Agri Systems BV Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Ahbap Su",
+    "description": "Ahbap Su, 2022 yılında Haluk Levent öncülüğünde, ihtiyaç sahibi kişilere yardımda bulunmak amacıyla kurulmuş olan Ahbap Derneği bünyesinde üretilen pet şişe ambalajlı içme suyu markasıdır.Ahbap markalı suyun kaynağı Bursa Uludağ.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hero’s Pizza",
+    "description": "Hero’s Pizza, 2022 yılında kurulmuş olan Heros Gıda Tic. ve San. A.Ş. bünyesindeki internet üzerinden yemek siparişi, pizza siparişi verme ve sipariş üzerine paket servis hizmeti markasıdır.Firma İstanbul merkezlidir. İstanbul ve Tekirdağ’da şubelere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Orange County Hotel",
+    "description": "Orange County, 1998 yılında kurulmuş olan Toros-Han Res. Tur. San. ve Tic. A.Ş. bünyesindeki halka açık otel ve motel işletmeleri markasıdır.Yiyecek ve içeceklerin sağlanması hizmetleri, geçici konaklama hizmetleri gibi hizmetler sunmaktadır. Kilis şehrinde 5890 KW’lık güneş enerji santral kurulumu yapım aşamasındadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

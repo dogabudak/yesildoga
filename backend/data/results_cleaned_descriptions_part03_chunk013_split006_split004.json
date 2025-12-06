@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Mionix",
+    "description": "Mionix, 2007 yılında kurulan Mionix AB bünyesindeki bilgisayar oyun faresi, oyun yüzeyleri, oyun klavyeleri, oyun sesi, oyun kulaklıkları, oyun mousepad’leri, oyun aksesuarları, oyun çevre birimleri, sayısallaştırılmış oyun ürünleri markasıdır.Mionix AB İsveç merkezli şirkettir. Mionix, oyun donanımı tasarlayan ve el işi yapan küresel bir markadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Powercom",
+    "description": "“Pcm Powercom“1987 yılında kurulmuş olan Powercom Co. Ltd. bünyesindeki kesintisiz güç kaynağı, otomatik voltaj regülatörü ve diğer çevre birimleri markasıdır.On-line UPS, Line-Interactive UPS, Off-Line UPS, 3 fazlı UPS, fonksiyon UPS, otomatik voltaj Regülatörü ve invertör dahil olmak üzere çeşitli güç çözümleri ve çevre birimleri üretmektedir.ISO 9001 ve ISO 14001 belgelerine sahiptir.Powercom Co. Ltd. Tayvan merkezlidir. Ürünlerini 80 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2024-08-21"
+  },
+  {
+    "company": "Teco Electric & Machinery",
+    "description": "Teco Electric & Machinery, 1956 yılında kurulan TECO Electric & Machinery Co., Ltd. bünyesindeki 60 bin Hp arasında değişen komple bir motor serisi, maksimum 14.200 V ve yüksek verimli motorlar, inverter görev motorları ve çeşitli müşteri ihtiyaçlarını karşılamak için patlamaya dayanıklı motorlar markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.TECO Electric & Machinery Co., Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Nemetschek",
+    "description": "Nemetschek, 1963 yılında kurulan Nemetschek SE bünyesinde üretilen mimarlar, mühendisler ve inşaat endüstrisi için yazılım markasıdır.Nemetschek Grup, bina ve gayrimenkullerin yanı sıra medya ve eğlence için planlama, tasarım, bina ve yönetim için yazılımlar geliştirmektedir.Nemetschek SE Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Autozone",
+    "description": "Autozone, 1979 yılında kurulan AutoZone, Inc. bünyesindeki otomotiv parçaları ve aksesuarları markasıdır.Ürün yelpazesinde araç parçaları, otomotiv aksesuarları, otomobil parçaları, piller, frenler, motor yağı, kimyasallar, bujiler, yıkama, balmumu, şoklar, silecekler, araçlar, marşlar, alternatörler, ışıklar, motor, boya, kemerler, hortumlar gibi ürünler yer almaktadır.AutoZone, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

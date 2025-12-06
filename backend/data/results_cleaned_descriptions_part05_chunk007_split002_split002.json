@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Uneller",
+    "description": "Uneller, 2010 yılında kurulan Üçge Gıda Ltd. Şti. bünyesinde üretilen unlu mamuller, bisküvi, gofret, kurabiye ürünleri markasıdır.Firma ürünlerinde hiçbir katkı maddesi, renklendirici ve glikoz kullanmamaktadır. Pancardan üretilen şekeri tatlandırıcı olarak kullanmaktadır.İstanbul merkezli firma ISO 9001 ve ISO 22000 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mevsim Baharat",
+    "description": "Mevsim Baharat, 1976 yılında İlker ve Müberra Erdem tarafından kurulan Yatpaz Tüketim Mamülleri Gıda San. Tic. A.Ş. bünyesindeki baharatlar ve yemeklik harçlar markasıdır.İstanbul merkezli firmanın ISO 22000, TSE ve Helal belgeleri bulunmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Leva House",
+    "description": "Leva House, 1992 yılında Mehmet Acar tarafından kurulan Ceren Kardeşler Plastik Züccaciye San. ve Tic Ltd Şti. bünyesindeki küçük ev gereçleri markasıdır.İzmir merkezli firmanın yaklaşık 100 bin metrekarelik depolama alanları içerisinde 15’in üzerinde perakende satış mağazaları vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tisserand Aromatherapy",
+    "description": "Tisserand Aromatherapy, 1984 yılında kurulan First Natural Limited bünyesinde üretilen yüzde 100 doğal saf uçucu yağlar ve aromaterapi banyo, vücut ürünleri markasıdır.First Natural Limited İngiltere merkezlidir ve ürünlerini İngiltere’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "İlka Ruloçöp",
+    "description": "İlka Ruloçöp Nerenin Malı Markasıİlka Ruloçöp, 1983 yılında kurulan İlka Plastik Ambalaj Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen plastik ambalaj malzemesi markasıdır.Ürün yelpazesinde her tür baskılı veya baskısız, alçak ve yüksek yogunluklu atlet poşet, rulo çöp torbası, gofreli ve gofresiz polietilen filmler, EVA ilaç torbalar, gıdaya uygun PVC streç filmleri, tıbbi atık çöp torbası yer almaktadır.Kanık Şirketler Grubu bünyesinde yer alan İlka Plastik Kocaeli’de 12 bin metrekarelik alanda üretim yapmaktadır.ISO 9001, ISO 22000 ve ISO 14001 belgelerine sahiptir.Bünyesindeki markalar;İlkaİlka Plastikİlka Ruloçöpİlka WrapİlkaplastİlkaplastikPakçöpPak WrapPakwrapPeb 101Pec 140Pec 144RuloçöpRulo Wrap",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Çerezza",
+    "description": "Çerezza Hangi Ülkenin Malı MarkasıÇerezza, 1961 yılında kurulmuş olan Frito-Lay Inc. bünyesinde üretilen cips markasıdır.Frito-Lay Inc. Amerika merkezli PepsiCo Inc.’in bir yan kuruluşudur. Türkiye’de Frito Lay Gıda San. ve Tic. A.Ş. olarak faaliyet göstermektedir.Bünyesindeki markalar;Bluebird FoodsCheetosCracker JackÇerezzaDoritosFritosFunyunsGamesaHostess Potato ChipsKurkureLay’sLay’s StaxMiss Vickie’sMunchiesMunchosObertoRold GoldRoccoRufflesSabraSabritasSmartfoodSun ChipsThe Smith’s Snackfood CompanyTostitosUncle ChippsWalkers",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-02-22"
+  },
+  {
+    "company": "Mr.Green",
+    "description": "Mr.Green Hangi Ülkenin MalıMr.Green markalı ürünler BİM tarafından farklı firmalara üretilmekte veya ithal edilmektedir.Mr.Green markası 2010 yılından beri BİM’in bünyesindedir.Bazı ürünleri Çin’den ithal edilirken bazı temizlik ürünleri Türkiye’de çeşitli firmaların fabrikalarında BİM için Mr.Green markasıyla üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Doğuş",
+    "description": "Doğuş Hangi Ülkenin Malı MarkasıDoğuş1985 yılında Karakan Ailesi tarafından kurulan Doğuş Çay ve Gıda Maddeleri Üretim Pazarlama İthalat İhracat A.Ş. bünyesinde üretilen çay, şeker ve konserve ürünleri markasıdır.ISO 9001, ISO 22000, ISO 45001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir.Rize’de 5 çay işleme, Ordu’da çay paketleme, İzmir’de soğuk çay üretim ve salça ve konserve üretim, Aksaray’da cips üretim, İstanbul’da cips üretim, Afyon şeker üretim fabrikalarına sahiptir.Bünyesindeki markalar;AdiosArmoniArtosBestyBibury TeaBiofoodBöğürtlenli Doğuş Blackberry Karışık Meyve Çayı Mixed Fruit TeaCafe UniversityCerezosChips MasterChipsinternationalChipsmanChipsoCipsmanCipsoCipsointernationalCoffee LatinoCoffee UniversityCornitosCritosCurcunaÇerezoÇerezosÇizzoDipsosDoğuDoğu ÇayDoğuşDoğuşçayDonuttiDoynutFalcon EnergyFazla Hüp MısırFlavour Fırından Gelen Çıtır LezzetFoxFox FırındanGrillGüneş AkşamGüneş ÇayGüneş SabahHarikanoHayatı Güzelleştiren ÇayHaydibi Çay Haydibi ÇayIncecik CipsoJr.CipsKaradenizKaradeniz Çayfilizi Geleneksel Siyah ÇayKaradeniz Filiz Çayı Siyah ÇayKaradeniz Karadeniz TiryakiKaradeniz Mavi Harman Geleneksel Siyah Çay Yeni TadıylaKaradeniz Rize Geleneksel Siyah ÇayKaradeniz TiryakiKarakan Enerji SolarKeyf-i DemKriketLanutteLaylayMatteMeteorMisçerezMr.LimonNo:53NovelNuti MelaPacoPapsPaps UpPatatesin Lezzet UstasıPatatesin Yeni Lezzet UstasıPatoPatosPatosinternationalPekosPoloPortosPuffRise UpRitosRootsSelectionSuntimeŞanslı ÇarkTiTi MixTırtıklı CipsoTortillaTringosWrinkleYeni Doğuş",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-02-04"
+  },
+  {
+    "company": "Bi Cola",
+    "description": "Bi Cola, 2003 yılından beri SGU Sağlıklı Gıda Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen kola markasıdır.Firmanın üretim tesisi İstanbul, Celaliye’de toplam 22 bin metrekarelik alanda bulunmaktadır.Yerli firma SGU Sağlıklı Gıda Ürünleri San. ve Tic. A.Ş. bünyesindeki içecek markaları:Jack WrestlerWild PowerGloryFcX-IrX-Ir LoveX-Ir MojitoBi ColaBi PortakalBi Ice Tea",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clas Ohlson",
+    "description": "1918 yılında Clas Ohlson tarafından kurulan, donanım, ev, eğlence, elektrik ve multimedya ürünleri markasıdır.Clas Ohlson mağazaları Norveç, Finlandiya, Birleşik Krallık, Almanya ve Dubai’de bulunmaktadır. Mağazalarda satılan ürünlerin çoğu kendi markalarına aittir. Asaklitt (Bagaj ve travelware), Capere (banyo malzemeleri), Cocraft (El aletleri), COTECH (elektrikli aletler), Coline, Exibel (elektrikli ev ürünleri) ve Northlight (aydınlatma).Clas Ohlson, İsveç merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

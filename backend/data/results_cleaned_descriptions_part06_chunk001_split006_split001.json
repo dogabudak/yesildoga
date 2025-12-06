@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Rey Copy",
+    "description": "Rey, 1898 yılında kurulan International Paper Company bünyesinde üretilen kağıt markasıdır.Baskı renkleri Colorlok teknolojisine sahip kağıtlarda geleneksel kağıtlara göre 2,5 kata kadar daha hızlı kurur.ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir. İşlenmiş ahşap ürünlerinin tamamı sürdürülebilir şekilde yönetilen ormancılıktan elde edilmektedir.International Paper Company Amerika merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lintec",
+    "description": "Lintec, 1927 yılında kurulan Lintec K. K. bünyesinde üretilen yapıştırıcılar, özel kağıtlar ve serbest bırakma filmleri, yapışkan malzeme, özel kağıt, serbest bırakma kağıdı markasıdır.Lintec K. K. Japonya merkezlidir. Şirketin en büyük hissedarı Nippon Paper Group’tur.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Durun Un",
+    "description": "Durun, 1995 yılında kurulan Katmer Un ve İrmik San. ve Tic. A.Ş. bünyesinde üretilen makarna, mantı, erişte, her türlü un, irmik, nişasta markasıdır.Firma buğdayı tamamen yıkayıp temizleyerek Ankara OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dynaudio",
+    "description": "Dynaudio, 1977 yılında kurulan Dynaudio A/S bünyesinde üretilen hoparlör markasıdır.Firma elektro-akustik bileşenler, optik bileşenler, elektronik aksesuarlar ve ilgili ürünlerin üretimini yapmaktadır.Dynaudio A/S’nin çoğunluk hissesi 2014 yılında Çinli Goertek Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Naim Audio",
+    "description": "Naim Audio, 1973 yılında Julian Vereker tarafından kurulan Naim Audio Ltd. bünyesindeki amplifikatörler, elektrik güç kaynağı muhafazaları, hoparlörler, dijitalden analoga dönüştürücü, ağ sürücüleri, kablolar markasıdır.Ürünleri televizyon hariç yüksek kaliteli ses ve görsel-işitsel zincirin tüm unsurlarını içerir.Naim Audio Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

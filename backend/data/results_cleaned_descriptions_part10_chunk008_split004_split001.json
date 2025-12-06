@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cobbelti Eyewear",
+    "description": "1999 yılında kurulmuş olan Efor Optik Gözlük San. ve Tic. Ltd. Şti. bünyesindeki erkek gözlük markasıdır.Firma İstanbul merkezlidir ve ürünlerini 30’a yakın ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mygames",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Lezzetos",
+    "description": "2012 yılında kurulmuş olan Lezzetsan Gıda İmalatı San. ve Tic. Ltd. Şti. bünyesinde üretilen aromalı cips markasıdır.Firma Gaziantep merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Menzerna",
+    "description": "1888 yılında kurulmuş olan Menzerna Polishing Compounds GmbH & Co. KG bünyesinde üretilen parlatma macunları markasıdır.Endüstri ve zanaat için çözümler sunmaktadır.Menzerna Polishing Compounds GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Duxone – Automotive Paint Systems",
+    "description": "2013 yılında kurulmuş olan Axalta Coating Systems LLC bünyesindeki oto boya sistemleri, mix boya, vernik, sertleştirici, astar, macun, tiner, ince polish pasta, akrilik ve bazkat hazır kutu boyalar markasıdır.Axalta Coating Systems LLC Amerika merkezlidir. Türkiye’de Axalta Boya Sistemleri San. ve Tic. Ltd. Şti. olarak üretim yapmaktadır. Ürünleri 140’tan fazla ülkede kullanılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

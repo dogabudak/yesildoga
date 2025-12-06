@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Şef Matik",
+    "description": "Şef2004 yılında kurulmuş olan Etap Kozmetik Kimya San. A.Ş. bünyesinde üretilen toz çamaşır deterjanları markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini Konya OSB’de bulunan 40 bin metrekarelik kapalı ve 29 bin metrekarelik açık alanda üretmektedir ve yüzde 35’ini ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Koenic",
+    "description": "Koenic2010 yılında kurulmuş olan Imtron Gmbh bünyesindeki küçük ev aletleri, büyük ev aletleri, güzellik ürünleri, mikrodalga, soğutma ve ısıtma ürünleri, zemin bakımı ürünleri markasıdır.Imtron Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Snüz",
+    "description": "Snüz2006 yılında kurulmuş olan Green Sheep Group Ltd. bünyesindeki kreş ve bebek ürünleri markasıdır.Green Sheep Group Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Qutu",
+    "description": "Qutu1979 yılında kurulmuş olan Surkalıp Kalıp San. ve Tic. Ltd. Şti. bünyesinde üretilen enjeksiyon kalıp, plastik dekoratif ürünler markasıdır.Çeşitli endüstriler için sektöre yönelik hassas kalitede özel kalıplar üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "BioInfinity Dental Implant",
+    "description": "BioInfinity Dental Implant2016 yılında kurulmuş olan Avrupa İmplant San. ve Dış Ltd. Şti. bünyesinde üretilen dental implant sistemleri markasıdır.ISO 9001, EN ISO 13485 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

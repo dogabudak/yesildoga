@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Homemade Aromaterapi",
+    "description": "Homemade Aromaterapi, 2012 yılında kurulan Homemade Aromaterapik Ürünler Tic. A.Ş. bünyesinde üretilen doğal aromaterapi ürünleri markasıdır.Bitkilerin, kabuk, yaprak, çiçek, meyve, tohum, sap, kök gibi farklı yerlerinden çeşitli yöntemlerle yüzde 100 saf uçucu yağlarla ve soğuk sıkım sabit yağlarla formüle edilir.Ürünleri hayvanlar üzerinde test edilmemektedir. Hammaddelerin tamamı vegan içeriklidir ve keçi sütü dışında hayvansal ürün içermez. ISO 22716, ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sunpride",
+    "description": "Sunpride, 1984 yılında kurulan Firgo-Pak Gıda Maddeleri San. ve Tic. A.Ş. bünyesinde üretilen gazlı ve gazsız içecekler, meyve suyu, konserve ve dondurulmuş gıda ürünleri markasıdır.Firmamız sahip olduğu alkolsüz içecekler ve meyve suyu hatlarında kola, gazoz, meyve suyu, meyveli su gibi yüzlerce çeşit ürünü Bursa İnegöl’de bulunan 30 bin metrekarelik alanda kurulu olan fabrikasında üretmektedir.Üretiminin tamamını İngiltere, Amerika, Almanya ve Japonya dahil 14 ülkeye ihraç etmektedir.ISO 9001, ISO 22000 HACCP, BRC (AA+), IFS (Higher LEVEL) ve RENTOKIL belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "CE",
+      "HACCP",
+      "IFS",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cosmo Lab Evolvy",
+    "description": "Cosmo Lab Evolvy, 2017 yılında kurulan Can Bio Kozmetik Doğal Ürünler Gıda ve Danışmanlık San. Tic. Ltd. Şti. bünyesinde üretilen doğal, cilt ve vücut bakım ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bottega Veneta",
+    "description": "Bottega Veneta, 1966 yılında Michele Taddei ve Renzo Zengiaro tarafından kurulan Bottega Veneta SA bünyesinde üretilen deri eşyalar, hazır giyim, ayakkabı, takı, parfüm, gözlük, mobilya markasıdır.Bottega Veneta, Fransa merkezli Kering Holding’in bir parçasıdır.Bottega Veneta’nın 43 ülkede 250’den fazla mağazası vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2022-09-23"
+  },
+  {
+    "company": "Ozonlabs",
+    "description": "Ozonlabs, 2007 yılında Angela Balasu Dündaralp tarafından kurulan Ozonlabs Kişisel Bakım ve Kozmetik Tic. Ltd. bünyesindeki kozmetik, güzellik ve cilt bakım ürünleri markasıdır.OzonLabs, Ozon bazlı kozmetik ve sağlık ürünleri şirketidir. Avrupa merkezli laboratuarlarında yüzde 100 doğal malzemelerden formüller geliştirmektedir. Ürünlerini hayvanlar üzerinde test etmemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

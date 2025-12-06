@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Biotta",
+    "description": "1957 yılında kurulmuş olan Biotta AG bünyesinde üretilen organik sıkılmış meyve suyu markasıdır.Ürünleri yapay katkı maddesi ve ilave şeker içermez.Biotta AG İsviçre merkezli Orior AG’nin bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Zaroza",
+    "description": "2004 yılında kurulmuş olan Alyors Grubu bünyesinde üretilen cilt bakım ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;İyonDay2DayDr. Thomson JonesNBT LifeNaturalNestOceanOrzax Food SupplementsThe Mossi LondonY’our Gummie",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Asido",
+    "description": "2006 yılında Abdulrezzak Sancak tarafından kurulmuş olan Saya Holding’e ait Humanis Sağlık A.Ş. tarafından üretilen takviye edici gıdalar markasıdır.Firma İstanbul merkezlidir. Çerkezköy OSB’de üretim tesisinde ürettiği ürünlerini 25 ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dmxtop",
+    "description": "Shangqiu Deyuan Electronic Commerce Co. Ltd. bünyesinde üretilen anahtarlık, anaokulu çantası, araç içi telefon tutacakları, bagaj çantaları, banyo lavabo bataryası, banyo oyuncağı, beceri oyuncakları, beslenme çantası, bluetooth kulaklık aksesuarları, boyama seti, dekoratif aydınlatma, deniz kolluğu, deniz malzemeleri, dizlik, dirsek ve bilek koruma, doğrayıcılar, rondolar, eğitici oyuncaklar, erkek güneş gözlüğü, erkek omuz çantası, erkek sırt çantası, futbol topları, gece lambası, ilköğretim çantası, ısıtıcı ayakları ve aparatlar, kadın güneş gözlüğü, kadın şapka, kalem kutusu, kız çocuk beslenme çantası, kız çocuk şemsiye, kondisyon masaj cihazları, kupa bardak, kuru boyama kalemi, lise ve üniversite çantası, mama saklama kapları, manuel tıraş makineleri, mutfak ekipmanları, oje kurutucu, organizerler, oyun çadırı ve evi, parçalı setler, peluş oyuncak, rc elektrikli arabalar, saç sakal kesme, tüy temizleme makineleri, saklama kutusu, spor oyuncağı, stres oyuncağı, suluk, matara, şamdan ve mumluk, şapkalar, telli dosya, temizlik gereçleri, tıraş makinesi, tırnak fırçası, unisex güneş gözlüğü markasıdır.Shangqiu Deyuan Electronic Commerce Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Laccess",
+    "description": "DongGuan Laccess Electronic Technology Ltd. bünyesinde üretilen kulaklık, hoparlör, mikrofon markasıdır.DongGuan Laccess Electronic Technology Ltd. Çin merkezlidir ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

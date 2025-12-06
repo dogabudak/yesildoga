@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Owen Mens Wear",
+    "description": "Owen, 1940 yılında kurulan Owen Tekstil İhracat İthalat San. ve Tic. Ltd. Şti. bünyesindeki takım elbise, ceket, gömlek, pantolon, mont, kaban, yelek, kravat, mendil ve papyon çeşitlerinden oluşan erkek giyim ürünleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini Türkiye’de 3 bin 500 metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ensure",
+    "description": "Ensure, 1888 yılında kurulan Abbott Laboratories Inc. bünyesindeki besin takviyesi markasıdır.Gluten içermeyen ürün hastaların kilo almasına yardımcı olmak içindir. Mısır nişastası, kanola yağı ve soya içerir. Helal ve Koşer belgelerine sahiptir.Abbott Laboratories Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pacojet",
+    "description": "Pacojet, 1992 yılında kurulan Pacojet International AG bünyesindeki mutfak pişirme sistemleri markasıdır.Derin dondurulmuş gıdaları ultra ince dokulara (şerbetler, dondurmalar, fars, köpükler, çorbalar, konsantreler, hamurlar, kütleler gibi) çözülmeden mikro püre haline getiren mutfak cihazları üretmektedir.Pacojet International AG İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Lova Yatak",
+    "description": "Lova Yatak, 1972 yılında Hacı Ali Doğan tarafından temelleri atılan Doğanlar Mobilya Grubu İmalat San. ve Tic. A.Ş. bünyesinde üretilen yatak markasıdır.Geri dönüşümlü malzemeden üretilmiş kumaş ve malzemeleriyle ürünlerini sunmaktadır.İstanbul merkezli firma ürünlerini Çanakkale’de bulunan 5 bin metrekarelik fabrikasında üretmekte ve 35 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Neuroces",
+    "description": "Neuroces, 2013 yılında kurulan Neurosante Medikal Elektronik Ltd. Şti. bünyesindeki anksiyete, depresyon ve insomnia semptomlarını azaltan cihaz markasıdır.Anksiyete, depresyon ve insomnia tedavisi için Kraniyal Elektroterapi Stimülasyonu yöntemiyle kullanılan, taşınabilir ve pille çalışan bir tıbbi cihazdır.EN ISO 13485, CE 1304, EN ISO 13485 belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

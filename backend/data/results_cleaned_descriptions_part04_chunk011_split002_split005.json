@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Lutron",
+    "description": "Lutron, 1976 yılında kurulan Lutron Electronic Enterprise Co., Ltd. bünyesinde üretilen test ve ölçüm cihazları markasıdır.Ürünlerinin yüzde 95’i 80’den fazla ülkeye pazarlanmaktadır. ISO 9001 belgesidir.Lutron Electronic Enterprise Co., Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Woyax",
+    "description": "Woyax, 2013 yılında kurulan Mucize Batarya Teknolojileri San. Tic. A.Ş. bünyesindeki batarya markasıdır.Batarya gücünü iki katına çıkarmak için Woyax wonder Battery geliştirilmiştir.Woyax markalı ürünler Çin’den ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aloha Browser",
+    "description": "“Aloha Tarayıcı“2015 yılında Andrew Frost Moroz tarafından kurulan Aloha Mobile Ltd. bünyesinde geliştirilen web tarayıcı markasıdır.Android ve iOS çalıştıran akıllı telefonlar için kullanılabilen web tarayıcı, sınırsız ücretsiz olan ve tek bir tıklama ile etkinleştirilebilen yerleşik VPN hizmeti aracılığıyla herhangi bir sitenin engelini kaldırma yeteneğine sahiptir.Aloha Mobile Ltd. Güney Kıbrıs Rum kesimi merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CY",
+    "updated_date": "2024-09-12"
+  },
+  {
+    "company": "Kyver",
+    "description": "Kyver, 1991 yılında kurulan Magnetics Inc. bünyesindeki araç ses ekipmanları, müzik aletleri, rollins gitar, klavyeler, resif perküsyon, dc/dc adaptörler, priz adaptörleri, kulaklık, telefon adaptörleri ve kabloları, ses ve video çalar, cep telefonu kılıfları ve kablolar, piller, pil şarj cihazları, mikrofonlar, fare altlıkları, taşıma çantaları ve kasetleri markasıdır.Magnetics USA Inc. Amerika merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Blumarine",
+    "description": "Blumarine, 1977 yılında Anna Molinari ve Gianpaolo Tarabini tarafından kurulan Blufin S.p.A. bünyesindeki Kadın giyim, iç çamaşırı, plaj kıyafeti, gelinlik, çanta, ayakkabı, kemer, eldiven, saat, koku, ev dekorasyonu ve sofra takımı markasıdır.Blufin S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

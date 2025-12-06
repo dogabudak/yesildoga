@@ -1,0 +1,49 @@
+[
+  {
+    "company": "The Fair",
+    "description": "The Fair.2019 yılında kurulmuş olan Güldez Kozmetik ve Sağlık Ürünleri Dış Tic. Ltd. Şti. bünyesindeki aydınlatıcı serum, cilt bakım serumu, ciltler için temizleme jeli, göz çevresi serum, kil maskesi, multi vitamin jel tonik, saç serumu, yüz kremi, yüz yıkama jeli markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Cp CosmoperaThe Fair.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elmer’s",
+    "description": "Elmer’s1903 yılında kurulmuş olan Newell Brands Inc. bünyesindeki eğitici oyuncaklar, sanatsal hobi ürünleri, slime, spor oyuncağı, yapıştırıcı markasıdır.Newell Brands Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Termolux",
+    "description": "Termolux1966 yılında kurulmuş olan Termo Teknik Tic. ve San. A.Ş. bünyesinde üretilen panel radyatör markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001, ISO 50001 belgelerine sahiptir.Termo Teknik Tic. ve San. A.Ş. 1991 yılından beri İngiltere merkezli Stelrad Group plc’nin Türkiye iştirakidir. Ürünlerini Tekirdağ’da bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bullcaptain Çanta",
+    "description": "Bullcaptain2014 yılında kurulmuş olan Foshan Captain Bull Leather Co. Ltd. bünyesinde üretilen cüzdan, kemer, çanta, debriyaj çanta, omuz çantası, evrak çantası ve messenger çanta dahil olmak üzere erkek ve kadınlar için deri ürünler markasıdır.Foshan Captain Bull Leather Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Poca APP",
+    "description": "Poca2021 yılında OYAK Portföy Girişim Sermayesi Fonu ve Birleşik Ödeme Hizmetleri ve Elektronik Para A.Ş. ortaklığında kurulmuş olan dijital cüzdan markasıdır.Para transferi, dijital kart işlemleri, fatura ödeme, nakit iade kampanyaları, sigorta işlemleri ve QR işlemler gibi özellikler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

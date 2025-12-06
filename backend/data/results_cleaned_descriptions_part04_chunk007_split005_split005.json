@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Boss Audio",
+    "description": "Boss Audio, 1987 yılında Sam Rabbani tarafından kurulan Boss Audio Systems bünyesinde üretilen ses ve video ürünleri markasıdır.Boss ses kataloğu, 130’dan fazla ülkede satılan 500’den fazla otomobil, deniz ve powersports ürününü içeriyor.Amplifikatörler, ekranlı In-Dash DVD alıcıları, multimedya alıcıları, CD alıcıları, alıcı/hoparlör paket sistemleri, video monitörleri ve DVD combo oynatıcılar, flip-down monitörler, DVD’li kafalık monitörleri, aksesuarlar, sinyal işlemcileri, bas jeneratörleri, ekolayzırlar, güçlendirilmiş subwoofer’lar, hoparlörler, tweeter’lar, kapasitörler, kurulum aksesuarları, ürün ekranları üretmektedir.Boss Audio Systems Amerika merkezlidir. Amerika dışında Çin’de ofisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alpino",
+    "description": "Alpino, 1943 yılında kurulan Industrias Masats, S.L. bünyesindeki kuru boyalar, keçeli kalem, oyun hamuru, makas, yüz boyası ve mum boya ürünleri markasıdır.El sanatları için renkli kalem, işaretleyici, boya kalemi, modelleme kili, makyaj, sanatsal aktivitelere yönelik çok çeşitli okul malzemeleri ve ürünleri sunmaktadır.Industrias Masats, S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "FYC",
+    "description": "FYC, 1990 yılında kurulan Ningbo Fayuan Beauty Instrument Co. Ltd. bünyesinde üretilen elektrikli saç kesme makinesi, saç kurutma makinesi, saç maşası, kuaför makası markasıdır.ISO 9001 belgesine sahiptir.Ningbo Fayuan Beauty Instrument Co. Ltd. Çin merkezlidir ve Çin’de ürettiği ürünleri 40’tan fazla ülke ve bölgeye pazarlamaktadır.Bünyesindeki markalar:FAYUANFYC",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Borealis",
+    "description": "Borealis, 1994 yılında kurulan Borealis AG bünyesinde üretilen poliolefin, hidrokarbon, baz kimyasallar, gübre markasıdır.Dünyanın sekizinci en büyük polietilen (PE) ve polipropilen (PP) üreticisi, Avrupa’nın en büyük ikinci Poliolefin üreticisi olan plastik üreticisidir.Sarf malzemeler, plastomerler ve köpürebilir malzemeler, temel kimyasallar, otomotiv endüstrisi, boru, hidrokarbonlar ve enerji, melamin ve gübre ürünleri üretmektedir. 120’den fazla ülkede faaliyet göstermektedir.Borealis AG Avusturya merkezlidir. Hisslerinin yüzde 75’in Avusturyalı OMV’ye yüzde 25’i ise BAE merkezli MUBADALA’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Uniqa",
+    "description": "Uniqa, 1999 yılında kurulan Uniqa Insurance Group AG bünyesindeki sigorta markasıdır.Avusturya, Arnavutluk, Bosna, Bulgaristan, Hırvatistan, Çek Cumhuriyeti, Macaristan, Kosova, Lihtenştayn, Makedonya, Karadağ, Polonya, Romanya, Rusya, Sırbistan, Slovakya, İsviçre ve Ukrayna’da 40 şirkete sahiptir.Uniqa Insurance Group AG Avusturya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

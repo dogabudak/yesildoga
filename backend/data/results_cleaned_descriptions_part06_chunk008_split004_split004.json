@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Mikropor",
+    "description": "Mikropor, 1987 yılında kurulan Mikropor Makina San. ve Tic. A.Ş. bünyesinde üretilen çeşitli endüstriler için atmosferik hava filtrasyon çözümleri ve basınçlı hava arıtma sistemleri markasıdır.Firma Ankara merkezlidir ve ürünlerini 140’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cem Kablo Bulucu",
+    "description": "Cem Instruments, 1991 yılında kurulan Shenzhen Everbest Machinery Industry Co. Ltd. bünyesinde üretilen ölçüm cihazları markasıdır.ISO 9001 belgesine sahiptir.Shenzhen Everbest Machinery Industry Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "TFA Dostmann",
+    "description": "TFA Dostmann, 1964 yılında kurulan TFA Dostmann GmbH & Co. KG bünyesinde üretilen ölçüm aletleri markasıdır.Ürün yelpazesinde termometre, nemölçer, yağmur ölçer, karbon ölçüm cihazları, higrometre, çalar saat, saat, terazi, meteoroloji istasyonları, akıllı ev ürünleri gibi ürünler yer almaktadır.TFA Dostmann GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Be-Ped",
+    "description": "Be-Ped, 2002 yılında kurulan Salvin Tekstil San. ve Tic. A.Ş. bünyesinde üretilen bebek temizleme pamuğu markasıdır.Su ile dokuma üretim hattıyla üretim yapmaktadır. Ürünlerinin tamamı saf pamuktan üretilmektedir, parfüm ve boya içermez.Tekirdağ merkezli firma ISO 9001 belgesine sahiptir. Ürünlerini 50 bin metrekarelik arsa üzerinde yer alan 20 bin metrekarelik fabrikasında üretmektedir.Bünyesindeki markalar;Be-PedMak-PedSallSalvin",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ruoshui",
+    "description": "Ruoshui, 1986 yılında kurulan Xi’an Beicheng Electronics Co. Ltd. bünyesinde üretilen dijital multimetre avometre, yüksek doğruluk ve yüksek performans ile dc ve ac gerilim, dc ve ac akım, direnç, kapasitans, frekans, sıcaklık, diyot ve süreklilik ölçmek için kullanılan, geniş ekranlı elektronik multimetre, elektrikçi aletleri, güç ölçüm aletleri ve laboratuvar aletleri markasıdır.ISO 9001 belgesine sahiptir.Xi’an Beicheng Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

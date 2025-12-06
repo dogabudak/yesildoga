@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Enchantimals",
+    "description": "Enchantimals, 1945 yılında Harold Matt Matson ve Elliot Handler tarafından kurulan MATTEL INC. bünyesindeki plastik oyuncak markasıdır.Ürünlerini Çin’de üretmektedir.Mattel Inc. Amerika merkezlidir.KarakterlerAndie AlligatorBaxi ButterflyBeatrice BeeBlyss BunnyBree BunnyBren BearCailey CowCameo CrabCay CaterpillarCherish CheetahCiesta CatClarita ClownfishDanessa DeerDara DragonflyDolce DolphinEffie ElephantEkaterina ElephantFanci FlamingoFelicity FoxFluffy BunnyGillian GiraffeHedda HippoHixby HedgehogJessa JellyfishKarina KoalaLadelia LadybugLarissa LemurLiora LionLluella LlamaLorna LambMayla MouseMerit MonkeyMyka MonkeyOhana OwlPatter PeacockPawbry Polar BearPeeki ParrotPetya PigPreena PenguinPrue PandaRaelin RaccoonRedward RoosterSaffi SwanSage SkunkSancha SquirrelSandella SeahorseSaxon SnailSela SlothStarling StarfishTadley TigerTamika Tree FrogTanzie TigerTaylee TurtleWinsley WolfZelena Zebra",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Achromin",
+    "description": "Achromin, 1965 yılında Achromin Cosmetic bünyesinde üretilen leke giderici krem markasıdır.Ürün cilt üzerindeki koyu ve kahverengi lekelerin yoğunluğunu azaltmak ve ultraviyole radyasyona karşı korumak için kullanılıyor.ISO, OHSAS ve GMP belgelerine sahiptir.Achromin Cosmetic Bulgaristan merkezlidir ve ürünlerini Bulgaristan’da üretmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Hootsuite",
+    "description": "Hootsuite, 2008 yılında Ryan Holmes tarafından kurulan Hootsuite Medya, Inc. bünyesindeki sosyal medya yönetim platformudur.Şirketin 175’ten fazla ülkede 16 milyondan fazla kullanıcısı bulunmaktadır.Hootsuite Medya, Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Ausini",
+    "description": "Ausini, 1996 yılında kurulan Guangdong Ausini Toys Industry Co., Ltd. bünyesinde üretilen plastik hayvanlar ve iyi donanımlı test ekipmanları ve güçlü teknik gücü ile yapı taşları üreticisidir.Guangdong Ausini Toys Industry Co, Ltd Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Uğur Okulları",
+    "description": "Uğur Okulları Sahibi Kim Hangi ÜlkeninUğur Okulları, 1968 yılında Enver Yücel tarafından kuruldu. Amerika’da şubesi bulunmaktadır.Uğur Eğitim kurumları, okul öncesi eğitimden doktoraya kadar uzanan geniş bir yelpazede faaliyet gösteriyor.Enver Yücel, Bahçeşehir Uğur Eğitim Kurumlarının Yönetim Kurulu Başkanıdır. Uğur Hazırlık, Uğur Yayınları, Uğur Kariyer Merkezi, Uğur Dershaneleri, Bahçeşehir Okulları, Bahçeşehir Koleji Fen ve Teknoloji Liseleri, Uğur Okulları, Bahçeşehir Üniversitesi, Bay Atlantic University Washington, Berlin International University of Applied Sciences Berlin, BAU International University Batumi, Bahçeşehir Cyprus University Cyprus, Mentora Dil Okulları ve CES Dil Okulu kurucusudur. Ayrıca Xi’an International University’nin BAU Global Eğitim Ağı’na ve Fulford Academy’nin K12 School bünyesine katılmasını sağlamıştır.Bahçeşehir Kolejleri Koleji Sahibi Kim Hangi Ülkenin",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

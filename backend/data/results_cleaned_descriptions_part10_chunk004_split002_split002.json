@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Kerry Asav",
+    "description": "1994 yılında kurulmuş olan Asav Lojistik Hizmetleri A.Ş. bünyesindeki depolama, dağıtım ve gümrük aracısı, birinci sınıf hava yükü, deniz yükü ve yol yük hizmetleri markasıdır.2019 yılında Çin merkezli SF Holding Co. Ltd.’ye ait Kerry Logistics tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Zinedent",
+    "description": "2015 yılında kurulmuş olan Zinedent İmplant Üretim A.Ş. bünyesindeki diş implantı markasıdır.Şirketin tüm hisseleri İsviçre merkezli Straumann Holding AG’nin, iştiraki Instradent AG’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Speck Pumpen",
+    "description": "1909 yılında kurulmuş olan Speck Pumpen Verkaufsgesellschaft Gmbh bünyesinde üretilen endüstriyel pompalar, pompa teknolojileri ve çözümleri markasıdır.Speck Pumpen Verkaufsgesellschaft Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hongji Toys",
+    "description": "1996 yılında kurulmuş olan Zhejiang Hongji Toys Manufacture Co. Ltd. bünyesinde üretilen ahşap oyuncaklar markasıdır.Tahta oyuncak bloklar, tel labirent, bulmaca, oyunlar ve diğer eğitim oyuncakları sunmaktadır.ISO 9001 belgesine sahiptir.Zhejiang Hongji Toys Manufacture Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sometech",
+    "description": "2006 yılında kurulmuş olan Sometech Inc. bünyesindeki 2D video endoskopi sistemi, 3D video dijital İşletim mikroskopi sistemi, 3D video dijital laparoskopi sistemi, RF cerrahi cihaz markasıdır.Sometech Inc. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

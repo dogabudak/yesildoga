@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ankara Sigorta",
+    "description": "Ankara Sigorta, 1936 yılında Bakanlar Kurulu onayıyla kurulmuş olan Ankara Anonim Türk Sigorta Şirketi bünyesindeki kasko, trafik, konut, işyeri sigortası markasıdır.2000 yılında şirketin ana hisseleri Polis Bakım ve Yardım Sandığı tarafından Özelleştirme İdaresi Başkanlığı’ndan satın alınmıştır.ISO 9001 belgesine sahiptir. İstanbul merkezlidir.Bünyesindeki markalar;Akıllı ÇözümAnkara SigortaAnkara Sigorta Mutluluğun SigortasıAnkara SigortaAnkaravanAnkaravosGüvencem AnkaraMutluluğun Sigortası",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Minn Kota",
+    "description": "Minn Kota, 1970 yılında kurulmuş olan Johnson Outdoors Inc. bünyesindeki trolling motoru, sığ su ankrajları ve deniz aküsü markasıdır.Johnson Outdoors Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-10-30"
+  },
+  {
+    "company": "Rayqueen Baby",
+    "description": "Rayqueen Baby, 1996 yılında kurulmuş olan Jung Hwan Co. Ltd. bünyesindeki diş çıkartma oyuncakları, emzik, bebek kaşığı, UV ışık sterilizatörü, bebek küveti, bebek ürünleri markasıdır.Jung Hwan Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Sammic",
+    "description": "Sammic, 1961 yılında kurulmuş olan Sammic S. L. bünyesinde üretilen ticari eşya yıkama ekipmanları, ticari gıda hazırlama ekipmanları, ticari gıda koruma ekipmanları, ticari pişirme ekipmanları ve ticari snack barlar ve pizzacı ekipmanları markasıdır.Sammic S. L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Asus Lighting",
+    "description": "Asus Lighting, 2015 yılında kurulmuş olan Asus Aydınlatma Elektrik İnşaat San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen aydınlatma direkleri, dekoratif aydınlatma, endirekt aydınlatma direkleri, led sokak armatürü, led projektör, çim aydınlatma markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

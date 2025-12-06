@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cutco",
+    "description": "Cutco, 1949 yılında kurulan Cutco Corporation bünyesinde üretilen bıçak ve mutfak aksesuarları markasıdır.Cutco markasıyla 100’den fazla mutfak çatal bıçak ürünleri, mutfak gereçleri, tencereler, çeşitli spor ve açık hava bıçakları satılmaktadır.Cutco Corporation Amerika merkezlidir. Cutco markalı bıçaklar Amerika’da üretilirken diğer ürünler ise Meksika ve Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Keito",
+    "description": "Keito, 1991 yılında kurulan Akenez Turizm San. Tic. ve Taş. A.Ş. bünyesindeki uydu alıcısı markasıdır.Ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Happy Plugs",
+    "description": "Happy Plugs, 2011 yılında Andreas Vural tarafından kurulan Happy Plugs AB bünyesindeki akıllı telefon aksesuarları markasıdır.Happy Plugs AB İsveç merkezlidir. Ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Monoprice",
+    "description": "Monoprice, 2002 yılında Jong Lee ve Seok Hong tarafından kurulan Monoprice, Inc. bünyesindeki kablolar, adaptörler, hdmi kablo, profesyonel ses, bilgisayar aksesuarları, ev sineması markasıdır.Monoprice, Inc. 2016 yılında Tayvan merkezli güç kablosu setleri ve ağ çevre birimleri sağlayıcısı YFC-Boneagle Electric Co., Ltd. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "McIntosh Laboratory",
+    "description": "McIntosh Laboratory, 1949 yılında Frank McIntosh tarafından kurulan McIntosh Group bünyesindeki ses ekipmanları markasıdırMcIntosh Group Amerika merkezlidir.Bünyesindeki markalar:Audio ResearchMcIntosh LaboratorySonus FaberWadia DigitalSumikoPrymaFine Sounds Asia",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

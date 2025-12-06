@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Dearcc",
+    "description": "Dearcc, 2015 yılında kurulan Zhejiang Dianka Automobile Technology Co. Ltd. bünyesinde üretilen elektrikli otomobil markasıdır.Ticari, elektrikli otomobil üretiminde uzmanlaşmıştır.Zhejiang Dianka Automobile Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Güral Porselen",
+    "description": "Güral Porselen, 1989 yılında kurulan Güral Porselen Turizm ve Vitrifiye San. A.Ş. bünyesinde üretilen porselen, çelik, granit ürünler markasıdır.Ürünlerini 75 bin metrekaresi kapalı, toplamda 275 bin metrekarelik alanda üretmektedir. ISO 9001 belgesine sahiptir.Ürünlerini 60 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "FAW Group",
+    "description": "FAW Group, 1953 yılında kurulan FAW Group Corporation Limited bünyesinde üretilen otomobil, otobüs, kamyon, otomotiv parçaları markasıdır.FAW Group Corporation Limited Çin’de bulunan bir Çin Devlet otomobil üretim şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Adonit",
+    "description": "Adonit, 2010 yılında kurulan Adonit Creative Inc. büyesindeki mobil aksesuarları markasıdır.Piyasadaki en küçük iOS stylus, Pixelpoint teknolojisine sahip ilk kalem olan Jot Script, not tutucular için doğal bir el yazısı deneyimi sağlamak üzere tasarlanmıştır.Adonit Creative Inc. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "MStar",
+    "description": "MStar, 2002 yılında kurulan MStar Semiconductor bünyesinde üretilen yarı iletken markasıdır.Mstar, GSM Cep Telefonları için çip setlerine ek olarak, ekran Ic’leri ve karışık mod ASIC/IPs şeklinde multimedya ve kablosuz iletişim için donanım üretmektedir.MStar Semiconductor Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

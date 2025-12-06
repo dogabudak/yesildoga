@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Wera",
+    "description": "Wera, 1936 yılında Hermann Werner tarafından kurulan Wera Werkzeuge GmbH bünyesinde üretilen ergonomik tornavidalar, tork sınırlayıcı tornavidalar, havacılık mro’su için araçlar, elektronik üretim hizmetleri araçları, esd araçları markasıdır.Ürünlerini Çek Cumhuriyeti ve Tayvan’da üretmektedir.Wera Werkzeuge GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Armor",
+    "description": "Armor, 2005 yılında kurulan Hegeli Ortopedik Ürünler San. ve Tic. Ltd. Şti. bünyesinde üretilen ortopedik ürünler markasıdır.Fabrikası İstanbul’da bulunmaktadır. ISO 9001, ISO 13485 belgelerine sahiptir.Bünyesindeki markalar:HEGELI ORTOPEDIKARMOR",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avansas",
+    "description": "Avansas, 2009 yılında kurulan Avansas Ofis Malzemeleri Ticaret A.Ş. bünyesinde faaliyet gösteren e-ticaret sitesidir. Peker Ailesi tarafından kurulurken 2012 yılında ortakları arasına Topbaş Ailesi katıldı.Kendine ait olan profesyonel dağıtım ağı, stoklu çalışma prensibi ve 12 bin metrekarelik deposunda 5 binden fazla ürünü müşterilerine sunar. Kendi araçlarıyla tüm siparişleri bir sonraki iş günü teslim eder.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Splat",
+    "description": "Splat, 2001 yılında Evgeny Demin ve Elena Belous tarafından kurulan Splat Global Ltd. bünyesindeki ağız bakım ürünleri, temizlik köpükleri markasıdır.Diş macunu, doğal temizlik ürünleri, bebek kozmetik ve saç bakım ürünleri üretmektedir.Ürünlerini 60’ın üzerinde ülkeye ihraç etmektedir. 23 ülkede patent almıştır. Tüm ürünleri Rusya, Japonya, AB ülkelerinde kapsamlı testlere tabidir. ISO 14001, ISO 9001 belgelerine sahiptir.Splat Global Ltd. Rusya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": "2020-12-02"
+  },
+  {
+    "company": "Yataş",
+    "description": "Sahibi KimYataş, 1976 yılında Yavuz, Hakkı ve Osman Altop ile Yılmaz ve Mehmet Öztaşkın tarafından Kayseri’de temeli atılan Yataş Yatak ve Yorgan San. Tic. A.Ş. bünyesindeki yatak, baza, yorgan, ev tekstili, mobilya ürünleri ve aksesuarları markasıdır.Kayseri ve Ankara’daki fabrikaları ile 92 bin metrekare kapalı alan, 160 bin metrekare açık alanda üretim yapmaktadır.Ürünlerini 50 ülkeye ihraç eden Yataş Grup, Almanya, İngiltere, Suudi Arabistan, İran, Avusturya, Azerbaycan, Bulgaristan, Çin, Fas, Gürcistan, Irak, İtalya, Karadağ, Kazakistan, Kıbrıs, Libya, Lübnan, Makedonya, Mısır ve Türkmenistan’da olmak üzere 50 kurumsal mağaza ile hizmet vermektedir.Hisse sahipleri:Hacı Nuri ÖZTAŞKIN (yüzde 8,2)Yılmaz ÖZTAŞKIN (yüzde 7,3)Bostancı Otelcilik ve Turizm İşletmesi A.Ş. (yüzde 5,65)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-07-24"
+  }
+]

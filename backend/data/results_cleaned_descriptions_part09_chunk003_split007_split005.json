@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Polmak Gold",
+    "description": "Polmak Gold1985 yılında kurulmuş olan Polmak Gıda Endüstrisi A.Ş. bünyesinde üretilen kremfıstık fıstık ezmesi markasıdır.Firma Mersin merkezlidir.Bünyesindeki markalar;Bay FıstıkPolmak GoldPolmak Polygold",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pana Chocolate",
+    "description": "Pana Chocolate2012 yılında kurulmuş olan Pana Chocolate Pty. Ltd. bünyesinde üretilen çikolata, içecek karışımları, dondurulmuş tatlılar, snack barlar markasıdır.Ürünleri bitki bazlıdır, gluten, süt ve katkı maddesi içermez.Pana Chocolate Pty. Ltd. Avustralya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Emergen-C",
+    "description": "Emergen-C1992 yılında GlaxoSmithKline Consumer Healthcare L.P. bünyesinde üretilen toz haline getirilmiş içecek karışımı vitamin takviyesi markasıdır.GlaxoSmithKline Consumer Healthcare L.P. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Deva Berk Yoğurt",
+    "description": "Deva Berk2007 yılında kurulmuş olan Berk Süt Mamülleri San. ve Tic. Ltd. Şti. bünyesinde üretilen yoğurt markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ajet",
+    "description": "Ajet2023 yılında kurulmuş olan Ajet Hava Taşımacılığı A.Ş. bünyesindeki havayolu markasıdır.Ankara merkezli AJet Hava Taşımacılığı A.Ş. yüzde 100 Türk Hava Yolları iştirakîdir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

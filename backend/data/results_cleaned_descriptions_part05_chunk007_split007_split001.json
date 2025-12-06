@@ -1,0 +1,45 @@
+[
+  {
+    "company": "By Kitchen",
+    "description": "By Kitchen, 2006 yılında kurulan Diva Endüstriyel Mutfak ve Soğutma Cihazları San. Tic. Ltd. Şti. bünyesindeki buz makinesi, mısır patlatma makinesi, pamuk şekeri makinesi, bar blender, sanayi tipi fritöz, kahve makinesi, set üstü mikser, soğuk teşhir ünitesi, sebze doğrama makinesi, waffle makinesi, tezgah tipi buzdolabı, fırın, konveyörlü bulaşık makinesi, hamur yoğurma makinesi, ekmek dilimleme makinesi, waffle makinesi, bar mikseri, buz kırma makinesi, çay makinesi, sıcak çikolata makinesi, narenciye sıkma makinesi gibi ürünler markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lakewood Guitars",
+    "description": "Lakewood Guitars, 1986 yılında Martin Seeliger tarafından kurulan Lakewood Guitars GmbH & Co. KG bünyesinde üretilen klasik gitarlar markasıdır.Her birinde çeşitli modellere sahip dört temel seri sunmaktadır.Lakewood Guitars GmbH & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kellenberger",
+    "description": "Kellenberger, 1890 yılında kurulan Hardinge Inc. bünyesindeki CNC torna, freze ve taşlama makinelerinin yanı sıra teknolojik olarak gelişmiş iş tutma ve takım tezgahı aksesuarları markasıdır.Hardinge Inc. 2018 yılında Amerika merkezli Privet Fund Management LLC. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Expobar",
+    "description": "Expobar, 1980 yılında kurulan Crem International S.L. bünyesindeki elektrikli kahve makineleri markasıdır.Firma profesyonel kahve çözümlerinin tasarımı ve üretiminde pazara öncülük etmektedir.Crem International S.L. 2018 yılında Amerika merkezli Welbilt Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fimar",
+    "description": "Fimar, 1974 yılında kurulan Fimar S.p.a. bünyesindeki profesyonel catering için makineler markasıdır.Ürün yelpazesinde yoğurma makinesi, krep makinesi, et işleme, karıştırıcı, kesme soyma ve koruma, makarna makinesi, makarna ve pizza rulo makinesi, snack bar ürünleri, sosisli sandviç pişirici, yemek pişiriciler gibi ürünler yer almaktadır. ISO 9001 belgesine sahiptir.Fimar S.p.a. İtalya merkezlidir.Bünyesindeki markalar;EasylineFimarForcarForcold",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

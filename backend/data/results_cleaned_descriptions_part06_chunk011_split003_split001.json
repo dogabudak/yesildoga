@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vioraplast",
+    "description": "Vioraplast, 2011 yılında kurulan Zerpak Ambalaj Plastik ve Lüks Hırd. San. Dış Tic. Ltd. Şti. bünyesinde üretilen çöp torbası, gıda filmi, pişirme kağıdı, alüminyum folyo, fırın poşetleri, buzdolabı poşetleri, temizlik ürünleri markasıdır.Zerpak Ambalaj, Zergrup ailesinin üretici üyesidir.İstanbul merkezli firma 5 bin 500 metrekarelik kapalı alanda bulunan fabrikasında üretim yapmakta ve üretiminin yüzde 35’ini bölge ülkelerine ve ABD’ye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Replant",
+    "description": "Replant, 2006 yılında kurulan Implant Direct Corporation bünyesinde üretilen diş implant sistemleri markasıdır.Diş implantları sadece tıbbi sınıf titanyum alaşımından üretilmektedir. ISO 13485 belgesine sahiptir.Implant Direct Corporation Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wouqer",
+    "description": "Wouqer, 2016 yılında kurulan Wouqer Makina Teknoloji San. ve Tic. Ltd. Şti. bünyesinde üretilen 3d yazıcılar ve filamentler markasıdır.Firma Denizli merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Turbopax Profesyonel",
+    "description": "Turbopax Profesyonel, 2010 yılında kurulan Sabuncuoğlu Kimya A.Ş. bünyesinde üretilen halı şampuanları, ahşap temizleyici, cam silici, çamaşır yumuşatıcı, endüstriyel bulaşık makinesi deterjanı, parlatıcı, granit temizleyici, kıvamlı çamaşır suyu, kir çözücü, kireç ve pas çözücü, leke sökücü, otomat solüsyonu, ovma jel, sıvı çamaşır deterjanı, sıvı sabun, yağ çözücü, genel temizlik ürünleri markasıdır.İzmir merkezli firma ürünlerini İTOB OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "JA Solar",
+    "description": "JA Solar, 2005 yılında kurulan JA Solar Holdings Co. Ltd. bünyesinde üretilen güneş panelleri, fotovoltaik güneş pilleri markasıdır.12 Üretim üssü ve dünya çapında 20’den fazla şubesi bulunan şirketin ürünleri 135 ülke ve bölgede mevcuttur.JA Solar Holdings Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

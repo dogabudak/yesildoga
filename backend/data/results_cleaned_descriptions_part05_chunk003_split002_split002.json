@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Fonri",
+    "description": "Fonri, 2007 yılında kurulan Ankaref İnovasyon ve Teknoloji A.Ş. bünyesindeki akıllı ev sistemi markasıdır.Yeni nesil akıllı ürünleri ile Nesnelerin interneti (IoT) alanında çözümler üretmektedir.Şirketin merkezi Ankara’da ODTÜ Teknokent’de yer alırken ayrıca İstanbul Teknopark ofisiyle de hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Steakmaster",
+    "description": "Steakmaster, 1924 yılında kurulan Teka Group S.A. bünyesindeki et pişirme ürünleri markasıdır.Teka Group S.A. İsviçre merkezli HERITAGE B.V.’ye aittir. Dünya genelinde bulunan 15 üretim tesisinin 2’si Türkiye’de yer almaktadır.Ürünleri 120’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "İnci Bulgur",
+    "description": "İnci Bulgur, 1992 yılında Fuad Akıllı tarafından kurulan İnci Bulgur A.Ş. bünyesindeki bulgur aşurelik buğday, pilavlık ve köftelik bulgur markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Hatay merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Temesist",
+    "description": "Temesist, 1980 yılında kurulan Teknik Metal Sistemleri San. ve Tic. Ltd. Şti. bünyesindeki endüstriyel depolama sistemleri, otomatik ve yarı otomatik depolama raf, depo raf sistemi, dış giydirme raf sistemi, sırt sırta raf sistemi, depo projelerde sistemi, çift yön palet, sistemi bozucu, endüstriyel raf sistemi, kendinden destekli depo, raf sistemi, çelik raf, palet rafı, hafif yük raf süpermarket raf ve asrs markasıdır.Bilecik OSB’de yüzde 100 Türk sermayesiyle kurulan firma 17 bin metrekarelik üretim alanına sahiptir. Ürünlerini 55 ülkeye ihraç etmektedir. TS EN ISO 15512 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 15512"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Helle",
+    "description": "Helle, 1932 yılında Steinar ve Sigmund Helle tarafından kurulan A/S Helle Fabrikker bünyesinde üretilen bıçak ve çatal bıçak takımı ürünleri markasıdır.A/S Helle Fabrikker Norveç merkezlidir. Ürünlerini Norveç’te üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  }
+]

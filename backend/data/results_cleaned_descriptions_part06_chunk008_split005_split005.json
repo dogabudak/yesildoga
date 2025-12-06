@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Cocoon Çelik Sistem",
+    "description": "Cocoon, 2011 yılında kurulan Cocoon System AG bünyesindeki inşaat çözümleri markasıdır.Şirketin hafif çelik konstrüksiyon sistem bileşenleri, çok sayıda projelerde alçıpan, dış duvar ve müstakil evlerde kullanılmaktadır.Cocoon System AG İsviçre merkezlidir ve şirketin yüzde 50’si Almanya merkezli Knauf Gips KG’ye ait.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Peter Millar",
+    "description": "Peter Millar, 2001 yılında kurulan Peter Millar LLC bünyesindeki erkek veya kadın için gündelik spor giyim, lüks ve performans golf kıyafetleri, aksesuar, ayakkabı markasıdır.Peter Millar LLC 2012 yılında İsviçre merkezli Richemont SA tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Morila",
+    "description": "Morila, 2009 yılında kurulan Taizhou Morila Sewing Machine Co. Ltd. bünyesinde üretilen çok iğneli dikiş makinesi, özel dikiş makinesi markasıdır.ISO 9000, ISO 14000 belgelerine sahiptir.Taizhou Morila Sewing Machine Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Schurter",
+    "description": "Schurter, 1933 yılında Heinrich Schurter tarafından kurulan Schurter Holding AG bünyesindeki elektrikli ve elektronik bileşenler ve elektronik hizmet sağlayıcısı markasıdır.Konektörler, sigorta, devre kesiciler, giriş sistemleri ve EMC ürünleri, anahtar bileşenler, korumalı güç kaynağı, elektronik endüstrisi için PCB Montajı ve tasarımı alanında bitmiş ürünlerin üretimine yönelik hizmetler sunmaktadır.Schurter Holding AG İsviçre merkezlidir ve 60 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Klevv",
+    "description": "Klevv, 2014 yılında kurulan Essencore Limited bünyesinde üretilen bellek, ssd, sd kartı, usb sürücüler markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Essencore Limited Hong Kong merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

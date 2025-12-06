@@ -1,0 +1,50 @@
+[
+  {
+    "company": "PCA Skin Clearskin",
+    "description": "PCA Skin Clearskin, 1990 yılında kurulmuş olan CP Skin Health Group Inc. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.CP Skin Health Group Inc. 2018 yılında Amerika merkezli Colgate-Palmolive Company tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lamar Porselen",
+    "description": "Lamar, 2006 yılında kurulmuş olan Sra Dış Tic. A.Ş. bünyesindeki porselen markasıdır.Ürünleri mutfak tezgâhları, banyo lavaboları, iç ve dış cephe kaplamaları gibi pek çok alanda kullanılabilir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aspect",
+    "description": "Aspect, 1994 yılında kurulmuş olan Advanced Skin Technology Pty. Ltd. bünyesinde üretilen kozmesötik cilt bakım ürünleri markasıdır.Ürünleri doğal olarak türetilmiş, organik ve tahriş edici maddeler içermeyen konsantrasyonlarda saf aktif bileşenlerle üretilmektedir.Advanced Skin Technology Pty. Ltd. Avustralya merkezlidir.Bünyesindeki markalar;AspectAspect DrAspect MineralsAspect PlatinumAspect SunBiojuveCosmedixCosmedix EliteDermafracDermaquestPca SkinSkinbetter ScienceSkinpenSociete",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Orkide Lingerie",
+    "description": "Orkide Lingerie, 1999 yılında kurulmuş olan Kateks İç Giyim San. Tic. Ltd. Şti. bünyesinde üretilen iç giyim ürünleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini iki ayrı üretim tesisinde, 10 bin metrekarelik kapalı alanda kendi bünyesinde bulunan atölyelerde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biochem",
+    "description": "Biochem, 1986 yılında kurulmuş olan Biochem additives Handels – und produktionsgesellschaft mbH bünyesinde üretilen hayvan yemi çözümleri markasıdır.Katkı maddeleri, ön karışımlar ve yem takviyeleri gibi hayvanlar için ürünler üretmektedir. ISO 9001 ve GMP+ belgelerine sahiptir.Biochem additives Handels – und produktionsgesellschaft mbH Almanya merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

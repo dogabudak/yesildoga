@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Primanova",
+    "description": "Primanova, 1987 yılında kurulan Ansan Metal ve Plastik Ltd. Şti. bünyesinde üretilen banyo ve mutfak aksesuarları, ev dekorasyon ürünleri markasıdır.İstanbul’da bulunan üretim tesisinde plastik, çelik, paslanmaz çelik ve alüminyum malzemelerden ürünler üretmektedir. ISO 9001 belgesine sahiptir.Firmanın ayrıca Rusya’da üretim tesisleri ve mağazaları bulunmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Humin-Tech",
+    "description": "Humin-Tech, 2001 yılında Aydoğan Cengiz ve Müfit Tarhan tarafından kurulan Humintech Gmbh bünyesinde üretilen toprak koşullandırıcıları, bitki güçlendiricileri ve hayvan yemi takviyeleri ile çevre teknolojisinde veya sanayi sektöründe uygulama için temel ürünler markasıdır.Firma tarım, hayvancılık, çevre teknolojisi ve sanayi sektöründe uygulama için geniş bir yelpazede ürünler sunmaktadır.Humintech Gmbh Almanya merkezli bir biyoteknoloji kuruluşudur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "CMS-Helmets",
+    "description": "CMS-Helmets, 1976 yılında Mario Santiago tarafından kurulan CMS Helmets – Fabrica de Capacetes bünyesinde üretilen motosiklet kaskı markasıdır.Ürünlerini 30’a yakın ülkeye pazarlamaktadır.CMS Helmets – Fabrica de Capacetes Portekiz merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Fibria",
+    "description": "Fibria, 1966 yılında kurulan Fibria Celulose S.A. bünyesinde üretilen kağıt hamuru ve kağıt markasıdır.Firma ormancılık ürünleri üretir, kaplamasız ve kuşe kağıt üretimi için okaliptüs kısa elyaf hamuru sağlamaktadır.Fibria Celulose S.A. Brezilya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Liz Claiborne",
+    "description": "Liz Claiborne, 1976 yılında kurulan Liz Claiborne Inc. bünyesindeki giyim ürünleri, parfüm ve aksesuarlar markasıdır.Liz Claiborne Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

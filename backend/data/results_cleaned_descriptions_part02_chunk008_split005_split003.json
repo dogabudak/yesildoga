@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bal Küpü",
+    "description": "Balküpü1987 yılında kurulmuş olan Keskinkılıç Gıda San. ve Tic. AŞ. bünyesinde üretilen şeker ve çay markasıdır.ISO 9001, ISO 22000, TS ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir. Kocaeli ve Aksaray’da 2 milyon 189 bin 953 metrekaresi açık, 35 bin 997 metrekaresi kapalı olan alanlarda bulunan fabrikalarında üretim yapmaktadır ve ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-07-17"
+  },
+  {
+    "company": "Tombow",
+    "description": "Tombow, 1913 yılında Harunosuke Ogawa tarafından kurulan Tombow Pencil Co., Ltd. bünyesindeki kalemler, renkli kalemler, tükenmez kalemler, mekanik kalemler, işaretleme kalemleri, düzeltme bantları, yapışkan bantlar, yapıştırıcı çubuklar, sıvı yapıştırıcılar, kozmetikler vs. ürünler markasıdır.Tombow Japonya merkezlidir. Tayland ve Vietnam’da üretim tesislerine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2020-05-15"
+  },
+  {
+    "company": "TOFAŞ",
+    "description": "TOFAŞ, 1968 yılında Vehbi Koç tarafından kurulan Türk Otomobil Fabrikası A.Ş. bünyesindeki binek ve hafif ticari araç markasıdır.Tofaş ortaklık yapısı:Fiat Chrysler Automobiles’ın (FCA) yüzde 37,8Koç Holding yüzde 37,8Diğer ortaklar yüzde 24,3FCA, 2014 yılında Fiat S.p.A. ve Chrysler Group şirketlerinin birleşmesi sonucunda kurulan İtalya ve Amerika ortaklığındaki otomotiv şirketidir. FCA merkezi Hollanda’da finans ofisi ise İngiltere’de bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İzlesene.com",
+    "description": "İzlesene.com Hangi Ülkenin Malıİzlesene, 2006 yılında Noktacom Medya İnternet Hizmetleri San. ve Tic. A.Ş. bünyesinde kurulan Türkiye’nin ilk ve en büyük video topluluğudur. Kullanıcılarına video izleme ve paylaşma imkânı vermektedir.Türkiye’den en çok ziyaret edilen web sitelerinden biridir.Nokta bünyesindeki markalar:izlesene.comSinemalar.comAlkislarlayasiyorum.com",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mutlu Makarna",
+    "description": "Mutlu Makarna, 1972 yılında kurulan Mutlu Makarnacılık Sanayi ve Ticaret A.Ş. bünyesindeki makarna, un ve irmik markasıdır.Sade makarna, kepekli makarna, sebzeli makarna, irmik, un gibi ürünlerden 45 çeşit Gaziantep’te kurulu tesislerinde üretim yapmaktadır.Bünyesindeki markalar:MutluPastariccoBaharPasta Lusso",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

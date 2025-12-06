@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Westone",
+    "description": "Westone, 1959 yılında Ron Morgan tarafından kurulan Westone Laboratories Inc. kulaklık ve işitme cihazı, işitme koruma ürünleri, özel iletişim kulaklıkları, klinik ve odyolojik malzemeler markasıdır.Westone Laboratories Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kingdian",
+    "description": "Kingdian, 2010 yılında kurulan Shenzhen Kingdian Technology Co. Ltd. bünyesinde üretilen SSD Katı Hal Diski markasıdır.FCC, CE, ROHS belgelerine sahiptir.Shenzhen Kingdian Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 52 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tuya",
+    "description": "Tuya, 2012 yılında kurulan Hangzhou Tuya Information Technology Co. Ltd. bünyesindeki parmak izi kilidi, akıllı anahtar, akıllı hoparlörler, evrensel uzaktan kumanda, akıllı lamba markasıdır.Hangzhou Tuya Information Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Maisto",
+    "description": "Maisto, 1967 yılında P. Y. ve Y. C. Ngan tarafından kurulan May Cheong Toy Products Factory Limited bünyesinde üretilen oyuncaklar, model araçlar, dekoratif süs eşyaları markasıdır.May Cheong Toy Products Factory Limited Hong Kong merkezlidir. Ürünlerini 115 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Sb Sangsin Brake",
+    "description": "Sb Sangsin Brake, 1975 yılında kurulan Sangsin Brake Co. Ltd. bünyesinde üretilen taşıtlar için fren, diskli, çemberli frenler, fren balataları, fren pabuçları, fren segmanlar, pabuçlu frenler, konik frenler markasıdır.Sangsin Brake Co. Ltd. Güney Kore merkezlidir. Çin ve Hindistan’da tesislere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

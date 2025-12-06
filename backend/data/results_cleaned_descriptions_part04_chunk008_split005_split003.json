@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Barentz",
+    "description": "Barentz, 1953 yılında Herman Barentz tarafından kurulan Barentz International BV. bünyesindeki gıda katkı maddeleri markasıdır.Barentz 60’dan fazla ülkede faaliyet göstermektedir.Barentz International BV. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "IPI",
+    "description": "IPI, 1981 yılında kurulan IPI srl. bünyesinde üretilen aseptik paketleme sistemleri, yüksek kaliteli karton ambalaj ve kapak çözümleri markasıdır.Süt ürünleri, meyve suyu, şarap, su, süt alternatifleri, peynir, sebze ve diğer sıvı gıdalar IPI ambalaj platformunda paketlenebilen ürünlerin örnekleridir.2013 yılında, otomatik ekipman, endüstriyel proses çözümleri ve hassas ekipmanların üreticisi olan İtalya merkezli Coesia Group’un bir parçası olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Beneo",
+    "description": "Beneo, 2007 yılında kurulan Beneo Gmbh bünyesinde üretilen fonksiyonel lifler, fonksiyonel karbonhidratlar, özel pirinç bileşenleri ve fonksiyonel proteinler gibi gıda ürünleri markasıdır.Şirketin ürün yelpazesi bebek maması, unlu mamuller, tahıllar, içecekler, şekerlemeler, süt ürünleri, et ve sebzeler, çorbalar ve soslarda kullanılmaktadır.Beneo Gmbh, Almanya merkezlidir ve Südzucker Group’un bir parçasıdır. Belçika, Almanya, İtalya ve Şili’de bulunan yedi ofis ve beş üretim sahasında faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Döhler",
+    "description": "Döhler, 1838 yılında kurulan Döhler Group bünyesindeki yiyecek ve içecek endüstrisi için doğal içerikler, içerik sistemleri ve entegre çözümler markasıdır.Ürün yelpazesi doğal lezzet tabanlı malzemeler, doğal renklendiriciler, sağlık malzemeleri, bakliyat ve tahıl maddeleri, süt ve bitki-aralıkları, fermente maddeler, kuru meyve ve sebze maddeleri, meyve ve sebze sistemleri için malzemeler içermektedir.Döhler Group Almanya merkezlidir ve 130’dan fazla ülkede faaliyet göstermektedir. Her kıtada 40’tan fazla üretim tesisine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Harrys",
+    "description": "Harry’s, 2012 yılında Andy Katz-Mayfield ve Jeff Raider tarafından kurulan Harry’s Inc. bünyesinde üretilen tıraş ekipmanları, bıçaklar, tıraş kremi, vücut yıkama ve diğer aksesuarlar markasıdır.Harry’s, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

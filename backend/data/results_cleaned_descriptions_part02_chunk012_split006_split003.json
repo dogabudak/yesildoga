@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Safia",
+    "description": "Safia, 1998 yılında bir grup müteşebbis tarafından kurulan Nafia Gıda Kozmetik Temizlik İnş.Turz. San. ve Tic. Ltd. Şti. bünyesinde üretilen doğal içerikli ürünlerin markasıdır.Ürünlerinde insan sağlığına zararlı ve dinen haram olan katkı maddeleri kullanılmıyor.Nafia Gıda yerli sermayeli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Raymax Pil",
+    "description": "Raymax, 2001 yılında kurulan Zhejiang Mustang Battery Co., Ltd. bünyesindeki çinko-karbon pil, cıva içermeyen alkalin pil, cıva içermeyen lityum düğme hücreleri ve nikel metal hibrit şarj edilebilir pil markasıdır.Zhejiang’in farklı boyutlarda olmak üzere toplam 36 üretim hattı var.Zhejiang Mustang Battery Co., Ltd. Çin merkezli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Herby",
+    "description": "Herby, 2017 yılında kurulan Herby Gıda Sanayi Pazarlama ve Ticaret A.Ş.’nin bitki çayları markasıdır.Ürünler:SLEEP TEAACTIVE TEASKIN DETOX TEAHANGOVER TEADETOX TEA",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nanhua",
+    "description": "Nanhua, 1990 yılında kurulan Nanhua Electronics Co., Ltd. bünyesindeki sinyal, aydınlatma ve kontrol teknolojisi markasıdır.Nanhua Electronics; havacılık ışıkları, LED endüstriyel ışıklar, anemometreler, anti çarpışma cihazları ve endüstriyel iletişim cihazları üretmektedir. Havacılık, sanayi, metalurji, limanlar, madenler ve diğer tehlikeli alanlarda kullanılabilecek güvenlik ışıkları ürünleri için geniş bir yelpazeye sahiptir.Nanhua Electronics Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pujol Iluminacion",
+    "description": "Pujol Iluminacion, 1978 yılında kurulan Pujol Iluminacioon S.L. bünyesindeki iç dekoratif aydınlatma armatürleri markasıdır.Pujol üretiminin yarısını 40’tan fazla ülkeye ihraç etmektedir.Pujol Iluminacioon S.L. İspanya merkezlidir ve İspanya’da bulunan fabrikasında dekoratif aydınlatma ürünlerini üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Scrubology",
+    "description": "2002 yılında kurulmuş olan Work ‘N Gear Inc. bünyesindeki önlükler, laboratuvar önlükleri, sağlık, iş kıyafetleri, ayakkabılar markasıdır.Work ‘N Gear Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Coffee Lab",
+    "description": "2012 yılında kurulmuş olan Mithatpaşa Kafeterya Gıda Turizm Tic. Ltd. Şti. bünyesindeki kahve mağazaları markasıdır.Kahveler, ithal yeşil çekirdeklerden kavurulup sunulmaktadır. Pastacılık ürünlerini kendi üretim bandında yapmaktadır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dark Blue Energy Drink",
+    "description": "2010 yılında kurulmuş olan Meridyen Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen enerji içeceği markasıdır.Multivitaminli ve şekersiz çeşitlerine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini 5. OSB’de kurulu fabrikasında üretmektedir ve 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wedeco",
+    "description": "1976 yılında kurulmuş olan Xylem Inc. bünyesinde üretilen ultraviyole (UV) dezenfeksiyon ve ozon oksidasyon çözümleri markasıdır.Kimyasal içermeyen ve çevre dostu su ve atık su arıtma teknolojileri üretmektedir.Xylem Inc. Amerika merkezlidir. Ürünleri 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hopi",
+    "description": "2015 yılında Boyner Grup şirketi BNR Teknoloji A.Ş. tarafından kurulmuş olan kişiselleştirilmiş alışveriş deneyimi sunan mobil uygulama markasıdır.Veri analizi ve yapay zeka teknolojileriyle uçtan uca hiper-kişisel alışveriş deneyimi sunmaktadır.Boyner Holding A.Ş.’nin yüzde 42,80’i Boyner Ailesine, yüzde 42,68’i Katar merkezli Mayhoola for Investments LLC yatırım firmasına aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  }
+]

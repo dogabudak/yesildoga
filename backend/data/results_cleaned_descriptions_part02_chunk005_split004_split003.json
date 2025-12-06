@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Northern Rock",
+    "description": "Northern Rock, 1965 yılında kurulan İngiliz bankasıdır.2008 yılında banka zarar edince İngiltere devleti bankaya el koydu. İngiltere’de bankacılık krizi sırasında devlet tarafından kurtarıldı. Hazine bankayı iyi kısım ve kötü kısım olarak ikiye ayırdı. Bankanın iyi kısmı Northern Rock PLC, 2011 yılında yılında Sir Richard Branson’un Virgin şirketine satıldı.Kamu idaresinde kalan Northern Rock’un kötü kısmı Northern Rock Asset Management (NRAM), banka yönetiminin hazırladığı bir plan çerçevesinde yavaş yavaş zararlarını konsolide etmeye çalıştı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Bugido Adora",
+    "description": "Bugido1995 yılında kurulmuş olan Bİm Birleşik Mağazalar A.Ş. adına Natura Gıda San. A.Ş. tarafından üretilen dondurma ve dordurmalı tatlılar markasıdır.Ürünlerinde Glikoz şurubu bulunmaktadır.Natura Gıda Sahibi Kimdir",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-12-19"
+  },
+  {
+    "company": "Michael Kors Beauty",
+    "description": "Michael Kors Beauty, 1994 yılında kurulan Estee Lauder Şirketler Grubu bünyesindeki MAC Cosmetics’e ait markadır. Parfüm, mücevher, saat, güneş gözlüğü, ayakkabı, cüzdan gibi aksesuar markasıdır.MAC Cosmetics, 90’dan fazla ülkede satış yapan Amerikalı Estee Lauder şirketine ait markadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-12-08"
+  },
+  {
+    "company": "Olay",
+    "description": "Olay 1952 yılında P&G (Procter & Gamble) bünyesinde üretilen güzellik ürünleri markasıdır.Olay, Güney Afrika’da Olay Yağı olarak ortaya çıkmıştır.1837 yılında kurulan P&G (Procter & Gamble), Amerika merkezli bir şirkettir ve Türkiye pazarına 1987 yılında girmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Esmalglass-Itaca",
+    "description": "Esmalglass-Itaca, 1978 yılında kurulan Esmalglass-Itaca Grup bünyesindeki firitler, Sırlar, Seramik Boyaları, Katkı Malzemeleri, Dekor ve tamamlayıcı parçaları markasıdır.İspanya merkezli şirketin İspanya, İtalya, Portekiz, Brezilya, Endonezya, Çin, Rusya, Türkiye, Meksika ve Tayland’ta şubeleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Uğuray Süt",
+    "description": "Uğuray, 1982 yılında kurulan Uğuray Süt Ürünleri Gıda San. ve Tic. A.Ş. bünyesinde üretilen süt tozu, peynir altı suyu tozu, çeçil peyniri, çerkez peyniri, örgü peyniri, antep peyniri, beyaz peynirler, dil peyniri, dilimli tost peynirleri, köy peyniri, krem peyniri, krema, lor peyniri, mozzarella, sepet peyniri, tava peyniri, tereyağ, tost peynirleri, tulum peyniri, van otlu peynir, buzağı maması markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Aksaray merkezli firma ürünlerini 10 bin metrekaresi kapalı 40 bin metrekarelik açık alana sahip Aksaray OSB’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Onixon",
+    "description": "Onixon, 1999 yılında kurulan Sky İthalat İhracat ve Pazarlama Ltd. Şti. tarafından ithal edilen modem markasıdır.Ürünleri Çin’den ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sina Pırlanta",
+    "description": "Sina Pırlanta, 2000 yılında kurulan Sina Kuyumculuk San. ve Tic. A.Ş. bünyesindeki pırlanta ve mücevher markasıdır.Sina Group, Türkiye ile 28 ülkede 50’ye yakın satış noktası ile ürünlerini sunan firma İstanbul merkezlidir.Bünyesindeki markalar;Buta JewellerySina Pırlanta",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Diana Monroe",
+    "description": "Diana Monroe, 2016 yılında kurulan 7 Renk Kozmetik San. Tic. Ltd. Şti. bünyesindeki ruj, maskara, lipgloss, likit ruj, dipliner, eyeliner, fondöten, concealer, pudra, allık, pudra, terracotta pudra, terracotta allık markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ColleenDiana MonroeOilio",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yumoshi",
+    "description": "Yumoshi, 2010 yılında kurulan Shenzhen Hecheng Technology Co. Ltd. bünyesinde üretilen olta makaraları, yapay balık yemi, ısırma sensörleri, balık kancaları, olta takımı markasıdır.Shenzhen Hecheng Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

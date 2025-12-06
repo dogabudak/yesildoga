@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Breguet",
+    "description": "Breguet, 1775 yılında Abraham-Louis Breguet tarafından kurulan Montres Breguet SA bünyesinde üretilen lüks saat ve mücevher markasıdır.1999’dan beri Swiss Swatch Group’un bir yan kuruluşu olmuştur. Swiss Swatch Group İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Nissens",
+    "description": "Nissens, 1921 yılında kurulan Nissens Automotive A/S bünyesindeki kondansatör, kompresör, kurutucu, ısıtma cihazları, radyatörler, fanlar markasıdır.Ürünlerini Danimarka, Slovakya ve Çin’de bulunan tesislerinde üretmektedir.Nissens Automotive A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Vontobel",
+    "description": "Vontobel, 1924 yılında kurulan Vontobel Holding AG bünyesindeki özel bankacılık ve yatırım yönetimi grubudur.Vontobel 22 ülkede 30 şubede varlık yönetimi, yatırım bankacılığı ve varlık yönetimi, varlıklı özel müşteriler ve kurumsal yatırımcılara hizmet vermektedir.Vontobel Holding AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Microcase",
+    "description": "Microcase, 2010 yılında Himmet Yaşar Baştuğ tarafından kurulan Alfa İç ve Dış Ticaret Ltd. Şti. bünyesinde ithal edilen telefon aksesuar, tablet aksesuar, baskılı kılıflar, kablolar ve çeviriciler markasıdır.Bünyesindeki markalar:DoormoonDoomoonElektromaxxKidigiMicrocaseMofi",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mammut",
+    "description": "Mammut, 1862 yılında Kaspar Tanner tarafından kurulan Mammut Sports Group AG bünyesinde üretilen outdoor bot, ayakkabı, mont, pantolon, sırt çantası, eldiven, bere markasıdır.Mammut Sports Group AG, merkezi İsviçre’de bulunan çok uluslu bir dağcılık ve trekking şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

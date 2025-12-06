@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Roott Implants",
+    "description": "Roott, 2011 yılında kurulmuş olan Trate AG bünyesinde üretilen diş implantları markasıdır.ISO 13485 ve CE belgelerine sahiptir.Trate AG İsviçre merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Maypls Plastik",
+    "description": "Maypls, 2004 yılında kurulmuş olan Maypls Plastik San. ve Tic. Ltd. Şti. bünyesinde üretilen plastik taşıma kasaları, süt, ayran kasası, yoğurt kasaları, meyve, sebze kasaları, ekmek kasaları, plastik sepetler markasıdır.Firma Manisa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meyvana",
+    "description": "Meyvana, 1980 yılında kurulmuş olan Nelly Gıda ve Tarım Ürünleri San. Tic. Ltd. Şti. bünyesinde üretilen meyve kabuğu şekerlemesi markasıdır.Ürünleri doğal olmayan hiçbir katkı maddesi ve glukoz şurubu içermez. FSSC 22000, Koşer ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Helvasan",
+    "description": "Helvasan, 1993 yılında kurulmuş olan Helvasan Limited bünyesinde üretilen helva, Tahin, Susam ve Pekmez markasıdır.ISO 22000 belgesine sahiptir.Helvasan Limited KKTC merkezlidir. Ürünlerini Alayköy OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "Northern Cyprus",
+    "updated_date": null
+  },
+  {
+    "company": "Zet Redüktör",
+    "description": "Zet Redüktör, 2006 yılında kurulmuş olan ZET Redüktör San. ve Tic. A.Ş. bünyesinde üretilen redüktörler, dişliler, hidrostatik varyatörler markasıdır.1995 yılında Mega Grup tarafından satın alındı.Ürünlerini Eskişehir OSB’de 8 bin 500 metrekarelik arazide üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Jetşef",
+    "description": "“Jetşef“2021 yılında kurulmuş olan Jetşef Teknoloji ve Gıda Tic. A.Ş. bünyesindeki restoranlar markasıdır.Pizza, lahmacun, pide, döner, sulu yemek ve kebap gibi ürünler sunmaktadır. Çatısı altında yer alan restaurantlara lojistik ve teknolojik servis sağlayan bir bulut restoran sistemidir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vevise Lokum",
+    "description": "“Vevise“2018 yılında kurulmuş olan Stella Food Gıda A.Ş. bünyesindeki lokum ve kahve markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biotronik",
+    "description": "“Biotronik“1963 yılında kurulmuş olan Biotronik Se & Co. Kg bünyesindeki tıbbi cihazlar markasıdır.Biotronik Se & Co. Kg Almanya merkezlidir. Ürünleri 100’den fazla ülkeye pazarlanmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "BAE Batterien",
+    "description": "“BAE Batterien“1899 yılında doğmuş olan Bae Batterien Gmbh bünyesindeki otomotiv ve endüstriyel uygulamalar için kurşun asit akü markasıdır.Bae Batterien Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Happy Cucumber",
+    "description": "“Happy Cucumber“1988 yılında kurulmuş olan Akten Kozmetik San. ve Paz. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.SLS, SLES, paraben, parafin, koruyucu, hayvansal yağ, kostik içermez. Hayvanlar üzerinde test edilmemektedir.ISO 9001, GMP ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

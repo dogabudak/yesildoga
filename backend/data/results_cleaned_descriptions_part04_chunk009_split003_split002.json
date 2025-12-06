@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Textar",
+    "description": "Textar, 1913 yılında kurulan Tmd Friction Services Gmbh bünyesindeki fren sürtünme malzemeleri markasıdır.Firma, disk fren balataları, tambur fren balataları, yarış araçları için fren balataları ve demiryolu endüstrisi için diğer sürtünme malzemelerini üretmektedir.Tmd Friction Services Gmbh Almanya merkezlidir. Ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2022-10-13"
+  },
+  {
+    "company": "Oculus VR",
+    "description": "Oculus VR, 2012 yılında Palmer Luckey tarafından kurulan sanal gerçeklik teknoloji ve yazılım ürünleri markasıdır.Şirket, oyun için tasarlanmış sanal gerçeklik kulaklıklarının yanı sıra geliştirme kitleri ve diğer oyun ürünlerini sunmaktadır.2014 yılında Amerika merkezli Facebook Technologies, LLC. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Peppa Pig",
+    "description": "Peppa Pig, Astley Baker Davies Ltd. bünyesindeki okul öncesi animasyon filmi ve ürünleri markasıdır.Astley Baker Davies Ltd. 2015 yılında Entertainment One Ltd.’in bir yan kuruluşu oldu.Entertainment One Ltd. Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Jaga",
+    "description": "Jaga, 1962 yılında kurulan Jaga NV bünyesinde üretilen ısıtma, soğutma ve havalandırma için radyatörler markasıdır.Firma, panel ve kolon radyatörleri, havlu ısıtıcıları, dekoratif radyatörler, oksijen sistemleri ve tüm şekil, boyut ve renklerde yenilikçi yerden ısıtmaya kadar geniş bir yelpazede ısıtma çözümleri sunmaktadır.Jaga NV Belçika merkezli ısıtma sistemleri firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Xonix Saat",
+    "description": "Xonix, 1978 yılında kurulan Xuxin(Zhuhai) Precision Industry Co., Ltd. bünyesinde üretilen saat markasıdır.İnce USB bellek saati üretmektedir. Saat bileşenlerinin yüzde 60’ını fabrikasında üretmektedir. Ürünlerini 150’den fazla ülkeye pazarlamaktadır.Xuxin(Zhuhai) Precision Industry Co., Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

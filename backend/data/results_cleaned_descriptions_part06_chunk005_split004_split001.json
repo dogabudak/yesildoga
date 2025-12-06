@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Backhaus",
+    "description": "Backhaus, 2004 yılında kurulan Mergen Gıda San. ve Dış. Tic. A.Ş. bünyesinde üretilen ekmek, kek, çörek, kurabiye, makaron ve pasta çeşitleri markasıdır.Firmanın fırın, pastane şubeleri bulunmaktadır.İstanbul merkezli firma ürünlerini 4 bin 500 metrekarelik üretim tesisinde üretmektedir.Bünyesindeki markalar;BackhausBackhaus SchokoladeBrothausBuuday BackhausMergenOrganic WorldPanera",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beikell",
+    "description": "Beikell, 2017 yılında kurulan Shenzhen Teng Xun Zhan Yi Technology Co. Ltd. bünyesindeki akıllı telefon aksesuar ve şarj kabloları markasıdır.Başlıca ürünleri arasında 3C tüketici elektroniği, ev ürünleri ve dış mekan ürünleri bulunmaktadır.Shenzhen Teng Xun Zhan Yi Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Paint.NET",
+    "description": "Paint.NET, 2004 yılında Dotpdn LLC bünyesinde üretilen görüntü ve fotoğraf düzenleyici programıdır.Geliştirme projesi , Microsoft’un desteğiyle Washington State Üniversitesi’nde (WSU) başlatıldı.C# programlama dilinde programlanmıştır.Dotpdn LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Paly Temizlik Ürünleri",
+    "description": "Paly Temizlik Ürünleri Nerenin Malı MarkasıPaly, 1995 yılında kurulan Saruhan Endüstriyel Temizlik Ürünleri San. Tic. ve Paz. Ltd. Şti. bünyesinde üretilen genel temizlik ürünleri, sıvı ve toz çamaşır deterjanı, bulaşık makinesi tablet deterjan, yumuşatıcı, kireç önleyici, yağ sökücü ve çözücü soda, sıvı el sabunu, çocuk bezi, oda spreyi, kağıt havlu, tuvalet kağıdı, bulaşık süngeri, endüstriyel temizlik ürünleri markasıdır.İstanbul merkezli firma ürünlerini 5 bin metrekarelik kapalı alanda üretmektedir.Bünyesindeki markalar;CarmisDarnyDorenDr.EinsteinGreen Water Yeşil Su DiscoveryMerzePalyPondi",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Apetech",
+    "description": "Apetech, 2012 yılında kurulan Apetech Otomotiv Dağıtım ve Tic. A.Ş. bünyesinde üretilen otomotiv yedek parçaları, fren sistemleri markasıdır.Binek, hafif ticari ve ağır vasıta araçlar için disk fren balataları ve arka pabuç balatalarının tasarımı ve üretimini yapmaktadır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Kocaeli merkezli firma Dilovası İmes OSB’de 7 bin 500 metrekaresi kapalı toplam 10 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

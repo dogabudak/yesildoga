@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Golrang",
+    "description": "Golrang1971 yılında Mohammad Karim Fazlı tarafından kurulmuş olan Pakshoo Industrial Group bünyesinde üretilen bulaşık yıkama sıvıları, çamaşır suyu, çamaşır tozu, tuvalet temizleyici, cam temizleyici, şampuan, saç kremi, bebek şampuanı, duş jeli ve deterjan markasıdır.Pakshoo Industrial Group İran merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  },
+  {
+    "company": "Dorsh",
+    "description": "Dorsh2020 yılında kurulmuş olan Worldebs Kozmetik San. ve Dış Tic. Ltd. Şti. bünyesindeki saç ve cilt bakım ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;DorshPro Barber GarageWorld’ebs",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avent",
+    "description": "Philips Avent1984 yılında kurulmuş olan Koninklijke Philips N.V. bünyesindeki emzik, biberon, biberon ısıtıcı, yemek makineleri, göğüs pompası ve diğer bebek besleme ve sağlık aksesuarları markasıdır.Koninklijke Philips N.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "La D’or Sıvı Sabun",
+    "description": "La D’or2021 yılında kurulmuş olan Omka Kozmetik Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen sıvı el sabunu markasıdır.ISO 9001 ve ISO 22716 belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini İstanbul’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kedacom",
+    "description": "Kedacom1995 yılında kurulmuş olan Suzhou Keda Technology Co. Ltd. bünyesindeki video konferans, video izleme ve çeşitli video çözümleri markasıdır.Suzhou Keda Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

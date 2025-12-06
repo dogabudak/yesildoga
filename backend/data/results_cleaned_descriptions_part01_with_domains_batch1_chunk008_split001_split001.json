@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bahco",
+    "description": "Bahco, 1920 yılında Joseph Johnson ve Bill Seidemann tarafından kurulan Snap-on şirketi bünyesindeki el aletleri markasıdır.Amerikan merkezli Snap-on, değiştirilebilir lokma ve anahtar saplarını üreten ve satan ilk alet firmasıdır.Snap-on pek çok endüstriyel alanda profesyoneller için sistem çözümleri, onarım bilgisi ve alet üretim, ekipman, teşhis ve pazarlama yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "St. Jude Medical",
+    "description": "St. Jude Medical Hangi Ülkenin Malı MarkasıSt. Jude Medical, 1976 yılında kurulmuş olan tıbbi cihazlar markasıdır.Ürün yelpazesinde kardiyoverter defibrilatörler, kardiyak resenkronizasyon tedavisi cihazları, kalp pilleri, uzaktan izleme sistemleri, kardiyak haritalama ve görselleştirme sistemleri, kateter bazlı ablasyon cihazları, vasküler kapatma cihazları, yapısal kalp ürünleri, omurilik stimülasyonu, periferik sinir stimülasyonu ve derin beyin stimülasyon cihazları bulunmaktadır.2017 yılında Amerika merkezli Abbott Laboratories tarafından satın alınmıştır. Ürünleri 100’den fazla ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-07-31"
+  },
+  {
+    "company": "Hafele",
+    "description": "Hafele, 1923 yılında Adolf Hafele ve Hermann Funk tarafından kurulan mobilya aksesuarları ve kapı donanımları markasıdır.Hafele mobilya parçaları (menteşeler, çekmece sistemleri, kolları, konektörler, ortam aydınlatma), mimari donanım (kapı donanımı ve Elektronik Kilitleme sistemleri) ve diğer ilgili parçaları üretir. Ayrıca ütü tahtaları ile kapı örtüleri gibi çeşitli ürünler üretmektedir.Hafele Almanya merkezli bir şirkettir.Hafele Markaları:DialockIxconnectLift + TurnLooxMoovitOfficysSlidoStartec",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aygaz",
+    "description": "Aygaz1961 yılında Koç Holding tarafından kurulmuş olan Aygaz A.Ş. bünyesindeki lpg, lpg’li cihazlar, otogaz istasyonları markasıdır.Firma İstanbul merkezlidir ve ürünlerini 30’a yakın ülkeye ihraç etmektedir.Bünyesindeki markalar;Adg EnerjiAyışığıAygazAykargoAykorAylavAypürsuAypakAypayBalkaynakBodrumFilikaGreenodorInoboxLipetLipetgazMavi AygazMogazOtoaygazPürsuPalmiyeSagalassos",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-07-24"
+  },
+  {
+    "company": "Beyu",
+    "description": "Beyu, 1985 yılında Helmut Baurecht tarafından kurulan ARTDECO cosmetic GmbH bünyesindeki kozmetik ürünler markasıdır.BEYU, Almanya’nın yanı sıra İtalya, İspanya, Avusturya, Polonya, Hollanda, Macaristan, Çek Cumhuriyeti ve Romanya gibi 36 ülkede mevcuttur.BEYU gözlük de birçok ülkede mevcuttur, ve genellikle Pearl mağazalarında en çok satan gözlük markasıdır.ARTDECO cosmetic bir Alman firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-01-02"
+  }
+]

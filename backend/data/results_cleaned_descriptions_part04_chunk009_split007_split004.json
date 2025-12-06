@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Montbell",
+    "description": "Montbell, 1975 yılında Isamu Tatsuno tarafından kurulan Mont-Bell Co. Ltd. bünyesindeki dış giyim ve ekipman markasıdır.Grup şunlardan oluşur: Montbell Co., Ltd.; Bellcadia Co., Ltd.; Hokuriku Montbell Co. Ltd.; Nature Enterprise Co. Ltd.; Montbell Holdings Co. Ltd.; Montbell America, Inc. ve mont-bell (Suisse) SA.İş, dış mekan ekipman imalatını, toptan satışını, perakende satışını, etkinlik planlamasını ve açık hava ve rekreasyon sigorta acentesini içerir.Mont-Bell Co. Ltd. Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Fomilk",
+    "description": "Fomilk, 2018 yılında kurulan Fomilk Gıda A.Ş. bünyesinde üretilen badem, fındık, soya, hindistan cevizi, fıstık, yulaf, çikolata ve fındık, cheddar tadında, mozzarella tadında, dereotlu, zahterli, 100% fındık ezmesi, 100% badem ezmesi, 100% organik hindistan cevizi ezmesi markasıdır.Ürünleri hayvansal gıda içermemektedir. Buğday, yer fıstığı, gluten, palm yağı, renklendirici maddeler, koruyucu kimyasal içermiyor.Tüm malzemeleri GDO’suz, koşer ve helal belgelidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dolmilk",
+    "description": "Dolmilk, 2014 yılında kurulan Dolfos Sp. z o.o. Sp. k. bünyesindeki hayvanlar için premiksler, tamamlayıcı yemler ve süt ikameleri markasıdır.Protein sadece süt kökenlidir. Formül, vitaminler, amino asitler, makro ve mikro besinlerin yanı sıra laktoz ile güvenli bir seviyede zenginleştirilmiştir.Dolfos Sp. z o.o. Sp. k. Polonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Aptonia",
+    "description": "Aptonia 1976 yılında kurulan Decathlon S.A. bünyesindeki bir dizi triatlon ekipmanı ve aksesuarı ve tüm dayanıklılık sporcuları ve kadınlar için tasarlanmış bir dizi beslenme, hidrasyon ve kurtarma ürünü markasıdır.Decathlon uluslararası mağaza zinciridir.Decathlon S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Merbolin",
+    "description": "Merbolin, 1960 yılında kurulan Merbolin Boya San. ve Tic. A.Ş. bünyesindeki hava ve fırın kurumalı akrilik boya, üre-melamin esaslı fırın boya, epoksi boya, klor kauçuk boya, ısıya dayanıklı silikon boya, poliüretan boya, rapid boya, tiner, wash primer boya, selülozik boya, sentetik boya, antipas, astar, macun, ahşap koruyucu, vernik, plastik boya, tiner, tutkal, solvent ve su bazlı dış cephe boyaları markasıdır.Ürünlerini İzmit-Dilovası tesislerinde üretmektedir. ISO 9000, TS EN ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

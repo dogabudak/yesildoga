@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Byju’s",
+    "description": "Byju’s, 2011 yılında Byju Raveendran ve Divya Gokulnath tarafından kurulan Think & Learn Pvt. Ltd. bünyesindeki çevrimiçi eğitim hizmetleri markasıdır. Dünya çapında 21’den fazla ülkede faaliyet göstermekte ve çok sayıda dilde eğitim programları vermektedir.Şirket, ilkokul ve ortaokul konuları, yurt dışı ve yurt içi sınava hazırlık kursları, öğrenim programları ve uygulamalar için teknoloji tabanlı bir eğitim platformu sunmaktadır.Think & Learn Pvt. Ltd. Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Globant",
+    "description": "Globant, 2003 yılında Martín Migoya, Guibert Englebienne, Martín Umaran ve Nestor Nocetti tarafından kurulan Globant S. A. bünyesindeki yazılım geliştirme, altyapı yönetimi, mobil uygulama geliştirme, sosyal ağ geliştirme markasıdır.Globant S. A. Lüksemburg merkezlidir. 21 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Yadea",
+    "description": "Yadea, 2001 yılında kurulan Yadea Technology Group Co. Ltd. bünyesinde üretilen elektrikli araçlar, elektrikli scooterlar, elektrikli bisikletler, elektrikli motosikletler, elektrikli üç tekerlekli bisikletler, elektrikli scooter ve elektrikli mopedler markasıdır.Yadea Technology Group Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Karlıdağ",
+    "description": "Karlıdağ Nerenin Malı MarkasıKarlıdağ, 1955 yılında kurulan Kaçmazlar Gıda Maddeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen süt, açık şarküteri ürünleri, beyaz peynirler, kaşar ve eritme peynirler, tereyağ ve kaymak, yoğurt ve ayran, yöresel peynirler markasıdır.TSE ve ISO 9000 belgelerine sahiptir.İstanbul merkezli firma ürünlerini Malatya’da bulunan 4 bin 500 metrekaresi kapalı toplam 20 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Efba",
+    "description": "Efba, 1980 yılında kurulan Emy Emaye Boya Pres. San. Tic. Ltd. Şti. bünyesinde üretilen mini fırın, tost makinesi, elektrikli ocaklar, elektrikli barbekü, elektrikli kebapmatik, elektrikli ısıtıcı, fanlar markasıdır.ISO 9001, ISO 14001, ISO 27001, OHSAS 18001 belgelerine sahiptir.Kırklareli merkezli firma ürünlerini 70 ülkeye ihraç etmektedir.Bünyesindeki markalar;AlvinaAsaletBoweryChawarmaEfbaEmyHousetechMaharetShashlikŞaşlık",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

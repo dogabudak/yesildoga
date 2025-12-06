@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Crest Diş Macunu",
+    "description": "Crest1955 yılında piyasaya sürülen florürlü diş macunu ve diğer ağız hijyeni ürünleri markasıdır.Crest’in hassas dişlere özel geliştirilen diş macunu çeşitleri de bulunuyor.Amerika merkezli Procter & Gamble (P&G) şirketi tarafından üretilmektedir ve 70 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fujidoor",
+    "description": "Fujidoor2016 yılında kurulmuş olan Abc Isıtma Soğutma Mühendislik Tic. Ltd. Şti. bünyesindeki hava perdeleri, nem alma cihazları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tern Bikes",
+    "description": "Tern2011 yılında Florence Shen ve Joshua Hon tarafından kurulmuş olan Mobility Holdings Ltd. bünyesindeki katlanır bisikletler, elektrikli bisikletler, kargo bisikletleri ve bisiklet aksesuarları markasıdır.Mobility Holdings Ltd. Tayvan merkezlidir. Ürünlerini 60 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Jacuzzi",
+    "description": "Jacuzzi1915 yılında Jacuzzi Ailesi tarafından kurulmuş olan Jacuzzi Inc. bünyesinde üretilen jakuziler, havuzlar ve diğer banyo ve spa ürünleri markasıdır.Jacuzzi Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kinder Pingui",
+    "description": "Kinder Pingui1946 yılında Pietro Ferrero tarafından kurulmuş olan Ferrero SpA bünyesinde üretilen iki dilim yumuşak kek ve sütlü kremalı çikolata markasıdır.Ürünleri glukoz fruktoz şurubu, soya lestini ve palm yağı içermektedir.Ferrero SpA İtalya merkezlidir. Türkiye’de 1999 yılından beri Ferrero Türkye Çikolata ve Tarım Ürünleri San. ve Dış Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

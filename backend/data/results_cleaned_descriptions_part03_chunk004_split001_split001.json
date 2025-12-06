@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Şenpiliç",
+    "description": "Şenpiliç, 1978 yılında Haşim Gürdamar ve 5 arkadaşı tarafından kurulan Şenpiliç Gıda Sanayi A.Ş. bünyesinde üretilen piliç eti markasıdır.Türkiye’nin en büyük entegre piliç eti üreticisidir. 24 damızlık çiftlik, 2 kuluçkahane, 3 yem fabrikası bulunmaktadır.ISO 9001, TSE HACCP 13001 belgelerine sahiptir.Ürünlerini Rusya, Irak, Libya, Gürcistan, Afrika, Asya, Körfez ülkeleri ve Türk Cumhuriyetleri’ne ihraç etmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nexeya",
+    "description": "Nexeya, 1997 yılında kurulan Nexeya SAS bünyesindeki test ve entegrasyon çözümleri, görev yönetim sistemleri, güç dönüşümü markasıdır.Havacılık, savunma, enerji, demiryolu ve uzay sektörleri için elektronik ekipmanların tasarımı ve geliştirilmesi konusunda uzmanlaşmıştır. Kritik elektronik ürünler tasarlar, üretir, test eder ve sürdürür.2019’dan bu yana Amerika merkezli yatırım şirketi KKR & Co., Inc.’nin sahibi olduğu HENSOLDT Grubu’nun bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Leybold",
+    "description": "Leybold, 1850 yılında kurulan Leybold GmbH bünyesinde üretilen vakum teknolojileri, vakum pompaları, sızıntı algılama, vakum araçları, vakum ölçümü, vakum sistemi çözümleri markasıdır.Uygulama alanları kaplama teknolojileri, ince filmler ve veri depolama, analitik aletler ve klasik endüstriyel süreçlerdir.Leybold GmbH Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hengst",
+    "description": "Hengst Automotive, 1958 yılında Walter Hengst tarafından kurulan Hengst SE bünyesinde otomotiv endüstrisi için üretilen filtre sistemleri ve motor bileşenlerinin yanı sıra endüstriyel ve çevresel teknoloji aletleri için filtreler markasıdır.Dört kıtada Almanya, Brezilya, Çin, Hindistan, Polonya, Singapur ve ABD dahil 20 ülkede faaliyet göstermektedir.Hengst SE Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Real Techniques",
+    "description": "Real Techniques, 2011 yılında Samantha ve Nicola Chapman tarafından kurulan Paris Presents Incorporated bünyesinde üretilen makyaj malzemeleri, fırçaları ve süngerleri markasıdır.Fırçaları sentetikten üretilmiştir. Hayvanlar üzerinde ürünleri test edilmemektedir.Real Techniques Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

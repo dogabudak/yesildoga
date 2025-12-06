@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Fiorella",
+    "description": "Fiorella, 1952 yılında kurulan Elvan Gıda San. ve Tic. A.Ş. bünyesinde üretilen çikolata markasıdır.Ürünleri emülgatör soya, aroma verici, gluten, palm yağı içermektedir.Elvan Şirketler Grubu ürünlerini 100’ün üzerinde ülkeye ihraç etmektedir.ISO 9001, ISO 22000, ISO 270001 ve Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Reeses",
+    "description": "Reeses, 1894 yılında kurulan The Hershey Company bünyesinde üretilen fıstık ezmesi ile doldurulmuş çikolata kalıbı markasıdır.Ürünleri soya emülgatörler, laktoz, sentetik antioksidanlar içermektedir.The Hershey Company Amerika merkezlidir ve ürünlerini çeşitli Amerikan şirketlerine ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Accud",
+    "description": "Accud, 2010 yılında kurulan Suzhou Accud. Co., Ltd. bünyesinde üretilen ölçüm cihazları markasıdır.Mikrometre, kadran gösterge, göstergeler, yükseklik göstergesi, gösterge blokları, sertlik test cihazı, görme ölçüm makinesi gibi ölçüm cihazları ürün yelpazesinde yer almaktadır.ISO 9001 belgesine sahiptir.Suzhou Accud. Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Floss Gloss",
+    "description": "Floss Gloss, 2011 yılında Aretha Sack ve Janine Lee tarafından kurulan Floss Gloss Ltd. bünyesindeki tırnak boyası ve cila markasıdır.Vegan ürünler Dibutil Ftalat, Toluen, formaldehit, formaldehit reçinesi, kafur, Trifenil fosfat veya Ksilenkim içermez. Hayvanlar üzerinde test edilmemektedir.Floss Gloss Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mason Pearson",
+    "description": "Mason Pearson, 1865 yılında kurulan Mason Pearson Bros. Limited bünyesindeki saç fırçası ve tarak markasıdır.Meşhur turuncu ped, fırçanın ucundaki küçük bir delikten hava ile dolar ve saç fırçasına lüks bir yumuşak yastık verir. Yüksek kaliteli yaban domuzu kılları, uzun kullanım ömrü sağlar.Mason Pearson Bros. Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

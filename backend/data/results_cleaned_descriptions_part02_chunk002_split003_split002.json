@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Sunding",
+    "description": "Sunding, 2002 yılında kurulan Dongguan Sunding Electron Co.,Ltd. bünyesindeki bisiklet parçaları ve aksesuarları ile bisiklet bilgisayarı markasıdır.Firma küçük elektronik ev ürünleri üretiminde uzmanlaşmıştır. Ağırlıklı olarak bisiklet mesafe ölçer bilgisayarı, bisiklet ışığı, flaş ışık ve geçiş denetleyicisi üretiyor.Ürünleri Avrupa, Amerika ve Ortadoğu’ya ihraç edilmektedir.Sunding, Çin merkezli bir şirkettir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Polyone",
+    "description": "Polyone, 2000 yılında M.A. Hanna Company ve Geon Company şirketlerinin birleşmesiyle kurulan PolyOne Corporation bünyesindeki polimer malzeme, hizmet ve çözümlerin markasıdır.PolyOne termoplastik bileşikler, özel polimer formülasyonları, renk ve katkı sistemleri, termoplastik reçine dağılımı ve vinil reçineler işlemleri vardır.80’den fazla üretim ve dağıtım tesisleri bulunmaktadır.Amerika merkezli şirket Türkiye’de Polyone Tekno Polimer Muhendislik Plastikleri Sanayi ve Ticaret A.Ş. olarak İstanbul’da hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dwyer Ülke",
+    "description": "Dwyer, 1931 yılındad kurulan Dwyer Instruments, Inc. bünyesindeki basınç, seviye, akış, sıcaklık, hava, hava kalitesi, hız ve nem enstrümantasyonları, vanalar, test ekipmanları markasıdır.Kontrol ve ölçüm endüstrisine, tesisat, petrol, gaz, kimya vb. sektörlere hizmet vermektedir.Dwyer’in birçok patentli ürünü bulunmaktadır. Magnehelic fark basınç göstergeleri, Photohelic basınç anahtarları, Rate Master akış ölçerleri bunlardan sadece birkaçıdır.Amerika merkezli Dwyer Inc.’in 1986 yılından beri Türkiye distrübütörü ITM Filtreleme ve Kontrol Mühendislik San. Tic. Ltd. Şti.’dir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hazelle Helal Mi",
+    "description": "Hazelle, 2008 yılında kurulan Karimex Gıda San. ve Dış Tic. Ltd. Şti. bünyesinde, Türk fındığıyla üretilen ezme ve helva markasıdır.Ordu da ki Fındık Entegre ve Çikolatalı Ürünler tesislerinde üretimlerini gerçekleştiren firmanın TSE sertifikası dışında; FSSC 22000, HELAL, KOSHER, SEDEX, VEGAN, EKO, IFS ve BRC sertifikaları bulunmaktadır.Karimex bünyesindeki markalar:Hazelle Fındık EzmeleriHazelle Tahin HelvalarıKarimex Fındık KremalarıKıyır Kıyır Kuruyemiş",
+    "documents": [
+      "BRC",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Angelini",
+    "description": "Angelini, 1919 yılında Francesco Angelini tarafından kurulan Angelini Group bünyesinde üretilen ilaç markasıdır.Angelini Group, 20 ülkede faaliyet göstermektedir. Türkiye’de Angelini İlaç San. ve Tic. A. Ş. olarak faaliyet gösteriyor.İtalya menşeli Angelini, kişisel bakım alanında, Procter & Gamble ile kurduğu ortak girişim Fater ile birlikte Angelini Group Pampers, Lines, Linidor ve Dignity markaları altında bebek bezi ve hijyenik ped alanında İtalya’nın pazar lideridir. Fameccanica şirketi ile hijyenik ürünler sektöründe faaliyet gösterirken, şarap (Bertani Domains) ve parfüm (Angelini Beauty) gıda takviyeleri ve bitkisel ürünler (Farmamed ve Body Spring) sektörleri gibi farklı alanlarda da faaliyet çeşitliliği vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

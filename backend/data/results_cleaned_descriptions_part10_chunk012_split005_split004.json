@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Klauke",
+    "description": "1879 yılında kurulmuş olan Emerson Electric Co. bünyesindeki elektrik bağlantı sistemleri, kıvırma, kesme, hidrolik güvenlik araçları, yumruklama, evrensel araçlar, pompalar, el aletleri, kablo çekme teknolojisi, sıhhi tesisat ürünleri markasıdır.Emerson Electric Co. Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ulike",
+    "description": "2013 yılında kurulmuş olan Hangzhou Ulike Technology Co. Ltd. cilt bakımı, güzellik ürünleri, epilasyon cihazları, LED ışık terapisi maskesi markasıdır.Hangzhou Ulike Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Chuba",
+    "description": "2019 yılında Serra Tekstil Tic. ve San. Ltd. Şti. bünyesinde kurulan kadın, erkek giyim ürünleri ve aksesuarları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "C&City",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Daiwha",
+    "description": "1979 yılında kurulmuş olan Daiwha Corp. Ltd. bünyesinde üretilen infüzyon pompaları ve ultrasonik enerji sistem markasıdır.Daiwha Corp. Ltd. Güney Kore merkezlidir ve ürünlerini 60’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

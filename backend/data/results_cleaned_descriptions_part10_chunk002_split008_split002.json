@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Implance",
+    "description": "2007 yılında kurulmuş olan AGS Medikal Ürünleri İth. İhr. Tic. A.Ş. bünyesindeki implant, protez, cerrahi kitler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Metylan",
+    "description": "1953 yılında Henkel AG & Co. KGaA bünyesinde üretilen toz bazlı duvar kağıdı macunu, maskeleme bandı, duvar kağıdı sökücü, duvar dolgu maddeleri, astar, macun, yapıştırıcılar, duvar kaplama ürünleri markasıdır.Henkel AG & Co. KGaA Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ottotecnica",
+    "description": "2006 yılında kurulmuş olan Ottotecnica S.R.L. bünyesindeki transformatör, elektrikli mekanik güvenlik ürünleri, demiryolu güvenlik ürünleri markasıdır.Ottotecnica S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dantela",
+    "description": "1992 yılında kurulmuş olan Dantela Nakış Tekstil San. ve Tic. Ltd. Şti. bünyesindeki battaniye, havlu, bornoz, nevresim takımları, pike takımları, yatak çarşafları, örtüleri, ekipmanları markasıdır.Firma Denizli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evonox Clean",
+    "description": "2011 yılında kurulmuş olan Erişim İthalat ve İnternet Hizm. Tic. Ltd. Şti. bünyesindeki mutfak, banyo temizleyici, leke çıkarıcı, çamaşır parfümü, temizlik bezi, yağ çözücü ve kireç sökücü markasııdr.ISO 9001, ISO 14001, GMP, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

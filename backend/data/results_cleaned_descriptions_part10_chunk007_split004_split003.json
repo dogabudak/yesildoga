@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vitabiotics",
+    "description": "1971 yılında Kartar Singh Lalvani tarafından kurulmuş olan Vitabiotics Ltd. bünyesinde üretilen vitamin markasıdır.Her bir kapsül 17mg demir (Gentle Iron) içermektedir. Renklendirici, laktoz, maya, alkol içermez ve hayvanlar üzerinde test edilmemektedir.Vitabiotics Ltd. İngiltere merkezlidir ve ürünleri 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Arkopharma",
+    "description": "1979 yılında kurulmuş olan Güneş Kozmetik Sağlık Ürünleri Tic. A.Ş. bünyesindeki cilt bakım ürünleri, saç bakım ürünleri, takviye edici gıdalar markasıdır.Firma İstanbul merkezlidir. Ürünleri Fransa’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ByPureblack",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Çinkopast",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tahinly",
+    "description": "2021 yılında kurulmuş olan Aren İlaç ve Tıbbi Besinler Üretim İç ve Dış Tic. A.Ş. bünyesinde üretilen tahinli karışık kurabiye, tahinli tahıllı kraker, tahinli tarsus çöreği markasıdır.Ürünlerinin tamamı doğal, gluten, rafine şeker ve katkı maddeleri içermemektedir.ISO 9001, ISO 22716, Helal belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

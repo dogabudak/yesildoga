@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Hommak",
+    "description": "Hommak, 2004 yılında kurulan Milkotek Gıda Mak. San. ve Tic. Ltd. Şti. bünyesinde üretilen süt ve gıda makineleri markasıdır.Süt ürünleri, yiyecek ve içecek, kimya ve petrokimya, kozmetik ve ilaç sanayi ürünleri uygulamaları için istenilen kapasite ve basınçlarda homojenizatör, laboratuvar tipi homojenizatör, yoğurt dolum makinesi, ricotta sistem ve mikser makineleri üretimi yapmaktadır.Makine üretiminin büyük çoğunluğunu 55’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "AT&S",
+    "description": "AT&S, 1987 yılında kurulan AT & S A. Technologie & Systemtechnik Aktiengesellschaft bünyesindeki yarı iletkenler için üst düzey baskılı devre kartları ve alt tabakalar markasıdır.AT & S Austria Technologie & Systemtechnik Aktiengesellschaft Avusturya merkezlidir. Avusturya, Hindistan ve Kore’deki fabrikalar endüstriyel ve otomotiv sektörleri için küçük ve orta ölçekli serilere odaklanmaktadır. Çin’de, mobil Terminal segmentindeki müşteriler için büyük seriler üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Povit",
+    "description": "Povit, Guangdong Povit Sporting Technology Ltd. bünyesinde üretilen egzersiz ekipmanları, göğüs yayı, egzersiz el kavrayıcı, atlama ipleri, egzersiz için barlar, atletik spor malzemeleri, spor malzemeleri ve ekipmanları markasıdır.Guangdong Povit Sporting Technology Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Çiğköftem",
+    "description": "Çiğköftem, 1993 yılında kurulan EM Group Gıda San. Tic. Ltd. Şti. bünyesinde üretilen çiğköfte markasıdır.ISO 1002, ISO 9001, ISO 22000 begelerine sahiptir.Firma 6 şirketi ile 8 ülkede 300’den fazla bayisiyle hizmet vermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 1002",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Youhong",
+    "description": "Youhong, 2004 yılında kurulan Shenzhen Youhong Technology Co., Ltd. bünyesinde üretilen akıllı saat, akıllı halat atlama, sağlıklı pedometre, ev kullanımı güzellik ekipmanları, BL 4.0 etkinlik izleyici markasıdır.ISO13485, ISO9001, ISO9001, ISO13485, ISO14001 belgelerine sahiptir.Shenzhen Youhong Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO13485",
+      "ISO14001",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

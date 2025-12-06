@@ -1,0 +1,51 @@
+[
+  {
+    "company": "HARS",
+    "description": "HARS, 1983 yılında H. Hüseyin ANGILCI tarafından kurulan HARS Traktör A.Ş. bünyesindeki traktör Debriyaj Baskı-Balata, Talaşlı imalat ve saç aksamları, debriyaj baskısı, direksiyon, aktarma organları, arka düzen, ön düzen, motor, hidrolik aksamları, soğutma sistemleri, fren aksamları, çamurluk, panjur ve kaporta, rulman ve eksoz, susturucu, mazot depoları, pervaneler, radyator davlumbazları, hava filtre ve have filitre bacaları ve subap kapakları markasıdır.Toplamda 72 bin metrekarelik bir alanda üretim yapmaktadır. Pek çok yabancı markaya ait traktörlere uygun yedek parça üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gorilla Glass",
+    "description": "Gorilla Glass, 1851 yılında kurulan Corning Inc. bünyesindeki cep telefonları, portatif medya oynatıcılar, taşınabilir bilgisayar ekranları ve televizyon ekranları gibi taşınabilir elektronik cihazlar için kapak camı olarak kullanılan sertleştirilmiş bir cam markasıdır.Ürünleri Amerika, Kore ve Tayvan’da üretilmektedir.Bir milyardan fazla mobil cihazda, Gorilla Glass kullanıyor.Corning Inc. Amerika merkezli özel cam, seramik, fiber optik kablo, donanım ve ekipman, emisyon kontrol teknolojisi, lcd cam ve yaşam bilimleri ürünleri üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vantuz",
+    "description": "Vantuz, Pozitif Elastomer Sanayi ve Ticaret Ltd. Şti. bünyesindeki vakum lastikleri, körük ve her türlü sızdırmazlık elemanları markasıdır.İstanbul’da 800 metrekarelik bir imalathane de faaliyet gösteren yüzde 100 yerli sermayeli bir kuruluştur.ISO 9001: 2008 TUV AUSTRIA CERT Uluslar arası kalite standart belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Asahi Glass",
+    "description": "Asahi Glass, 1907 yılında kurulan AGC Inc. bünyesindeki cam ve seramik markasıdır.Düz cam, otomotiv camı, vitrin camı, elektronik ve enerji ve kimyasallar gibi temel endüstrilere odaklanmaktadır.Dünya çapında 200’den fazla yan kuruluşa sahiptir ve 20’den fazla ülkede faaliyet göstermektedir.AGC Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Dsc Alarm",
+    "description": "Dsc Alarm, 1979 yılında DSC (Digital Security Controls) Group bünyesinde kurulurken 2002 yılında Tyco International tarafından satın alındı.Kontrol panelleri, IP alarm izleme ürünleri, kablosuz panelleri gibi güvenlik sistemi alanında çözümler sunmaktadır.Tyco International Kanada merkezli bir şirkettir. Ürünlerini Kanada ve İtalya’daki üretim tesislerinde üretmektedir.Bünyesindeki markalar:American DynamicsIndustry LeaderBentelCEMDSCExacq TechnologiesKantechTotal SolutionIncrease EfficiencySur-GardVisonic",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

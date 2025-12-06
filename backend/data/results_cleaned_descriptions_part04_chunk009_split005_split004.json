@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Widefly",
+    "description": "Widefly, 2006 yılında kurulan Widefly Ltd. bünyesindeki pos cihazları, el terminali markasıdır.Widefly Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Mad Catz",
+    "description": "Mad Catz, 1989 yılında kurulan Mad Catz Global Limited bünyesinde üretilen klavye, fare, fare altlığı, kulaklık, mikrofon ve kontrolörler gibi oyun çevre birimleri markasıdır.Mad Catz Global Limited 2017 yılında iflas eden 2018 yılında Hong Kong’a merkezini taşıyan bir Amerikan şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Afanda",
+    "description": "Afanda, 2015 yılında kurulan Afanda Barkod Sistemleri Bilg. Yaz. Elektr. Tic. A.Ş. bünyesinde ithal edilen android pos terminal, barkod okuyucular, digital kiosk, el terminalleri, garson çagrı sistemi, para çekmeceleri, pos aksesuarları, pos scale, pos terminaller, yazıcılar, yeni nesil pos kasalar markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dibea",
+    "description": "Dibea, 2007 yılında kurulan Suzhou Dibea Elektrik Technology Co. Ltd. bünyesinde üretilen kablosuz elektrikli süpürge, ürün aksesuarları markasıdır.Akülü Elektrikli süpürgeler, Robotik Elektrikli süpürgeler, UV yatak temizleyiciler, araç elektrikli süpürgeler üretmektedir.Suzhou Dibea Elektrik Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Daylong Actinica",
+    "description": "Daylong Actinica, 1981 yılında M. Owen tarafından kurulan Galderma S.A. bünyesinde üretilen cilt bakım ürünleri markasıdır.Dünya çapında bir dağıtım ağı ile 100 ülkede 33 şubeye sahiptir. Fransa, Kanada ve Brezilya’da üretim tesisleri bulunmaktadır.Galderma SA İsviçre merkezlidir. 2019 yılında İsveç merkezli EQT VIII Fonu, Singapur merkezli GIC, BAE yatırım kurumu Luxinva ve PSP Investments ve diğer kurumsal yatırımcılardan oluşan bir konsorsiyum tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

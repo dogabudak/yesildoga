@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Klorobor",
+    "description": "Klorobor, 2004 yılında kurulan İnter Royal Kimya San. Tic. Ltd. Şti. bünyesinde bordan üretilen yüzey temizleyici markasıdır.Sentetik parlatıcı, alkol ve alerjen içermez. Şebeke suyunu yumuşatır ve yüzey gerilimini temizlik için en uygun değere getirir.Firma Tekirdağ merkezlidir ve ürünlerini Tekirdağ’da bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Conn-Selmer",
+    "description": "Conn-Selmer, 1909 yılında kurulan Conn-Selmer Inc. bünyesindeki bakır üflemeli müzik aletleri, vurmalı müzik aleti ve nefesli müzik aleti markasıdır.Conn-Selmer Inc. Amerika merkezli Paulson & Co. Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Schesir",
+    "description": "Schesir, 1986 yılında kurulan Agras Delic S.p.A. bünyesinde üretilen kedi ve köpekler için ıslak ve kuru mama markasıdır.Agras Delic S.p.A. İtalya merkezlidir. 2017 yılında Güney Kore merkezli Nxc Corp.’un yatırım kolu olan NXMH tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2023-01-26"
+  },
+  {
+    "company": "Hush Puppies",
+    "description": "Hush Puppies, 1958 yılında kurulan Wolverine World Wide Inc. bünyesindeki ayakkabılar, slipler, botlar markasıdır.Firma ayakkabı, giyim, aksesuar, spor giyim ürünleri üretmektedir.Wolverine World Wide Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fyne Audio",
+    "description": "Fyne Audio, Fyne Audio Ltd. bünyesinde üretilen hoparlör markasıdır.Firma yüksek performanslı hoparlör tasarlar ve üretir.Fyne Audio Ltd. İskoçya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

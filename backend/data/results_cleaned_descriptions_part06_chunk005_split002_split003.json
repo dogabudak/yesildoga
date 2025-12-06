@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Misspap",
+    "description": "Misspap, 2013 yılında kurulan Misspap Ltd. bünyesindeki kadınlar için kıyafetler, ayakkabı ve aksesuarlar markasıdır.Misspap Ltd. 2019 yılında İngiltere merkezli çevrimiçi moda perakendecisi Boohoo Group’un bir yan kuruluşu oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ferbe",
+    "description": "Ferbe, 1969 yılında kurulan Beşer Balatacılık A.Ş. bünyesinde üretilen binek, ticari araç ve motosiklet için fren balataları ve disk fren sistemleri markasıdır.İzmir merkezli firma ürünlerini 70 bin metrekaresi açık 38 bin metrekarelik kapalı alanda üretmektedir. Ürünlerini 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flink & Sauber",
+    "description": "Flink & Sauber, 1972 yılında kurulan Dirk Rossmann Gmbh bünyesindeki temizlik ürünleri, temizlik bezleri markasıdır.Dirk Rossmann Gmbh’nin yüzde 60 hissesi Alman Rossmann ailesine, yüzde 40 hissesi ise Hong Kong merkezli Watson Gurubu’na aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "La Perla",
+    "description": "La Perla, 1954 yılında Ada Masotti tarafından kurulan La Perla Global Management Limited bünyesindeki kadınlar için iç çamaşırı, mayo, keten ürünler, hazır giyim, kokular, ayakkabı ve çanta markasıdır.La Perla Global Management Limited 2018 yılında Hollanda merkezli Sapinda Holding B.V. ‘nin yatırım şirketi Silvio Scaglia tarafından satın alındı. Ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Vandenberg",
+    "description": "Vandenberg, 2000 yılında kurulan Van Den Berg A.S. bünyesindeki her türlü giyim, mayolar, her çeşit çorap, eşofman, ince formalar, polo gömlekler, tişörtler ve taytlar, tekstil malzemelerinden yapılmış giyim aksesuarları, kravatlar, şallar, papyonlar, eşarplar, kuşaklar, bereler, kepler, siperlikler, şapkalar, bandanalar, başlıklar markasıdır.Van Den Berg A.S. Çek Cumhuriyeti merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  }
+]

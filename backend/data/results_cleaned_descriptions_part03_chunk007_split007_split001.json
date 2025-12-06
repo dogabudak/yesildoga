@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Caso",
+    "description": "Caso, 2001 yılında kurulan Braukmann GmbH & Co KG bünyesinde üretilen taşınabilir mutfak aletleri markasıdır.Ev aletleri, blender, kahve öğütücü, mikrodalga, narenciye sıkacağı, su ısıtıcısı, tost makinesi, vakum sızdırmazlık ürünleri, şarap buzdolapları, indüksiyon ocakları, mikrodalga, elektrikli süpürgeler, ölçekler, süt köpürtücü ve nemlendiriciler gibi ürünlere sahiptir.Braukmann GmbH & Co KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Wüsthof",
+    "description": "Wüsthof Hangi Ülkenin Malı MarkasıdırWüsthof, 1814 yılında kurulan Wüsthof Gmbh bünyesinde üretilen mutfak çatal bıçakları ve aksesuarları markasıdır.Wüsthof, öncelikle mutfakta kullanılmak üzere tasarlanmış bıçaklara ek olarak, bıçakların saklanması ve keskinleştirilmesinin yanı sıra bıçak depolama ve kesme tahtaları üretmektedir.Wüsthof’un tüm bıçakları da dahil olmak üzere ürünlerin yüzde 90’dan fazlası Almanya’daki fabrikasında üretilmektedir.Wüsthof Gmbh Almanya merkezlidir ve ürünleri 80’den fazla ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tramontina",
+    "description": "Tramontina, 1911 yılında Valentin Tramontina tarafından kurulan Tramontina S.A. bünyesinde üretilen tencere, düdüklü tencere, sofra takımı, mutfak aletleri, elektrikli el aletleri, elektrik malzemeleri, ahşap ve plastik mobilyalar, bahçe ekipmanları, lavabolar ve fıçılar, mutfak aksesuarları markasıdır.Tramontina S.A. Brezilya merkezlidir ve ürünlerini Brezilya’da bulunan 8 fabrikada üretmektedir. Tramontina markalı ürünler 120’den fazla ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": "2021-03-23"
+  },
+  {
+    "company": "Laurastar",
+    "description": "Laurastar, 1980 yılında kurulan Laurastar SA bünyesinde üretilen buharlı ütü, ütü sistemleri, ütü aksesuarları markasıdır.Üretiminin yüzde 70’ini Avrupa’ya ihraç eden Laurastar dünya çapında 2 milyondan fazla ürün satmaktadır.Laurastar SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Jura",
+    "description": "Jura, 1931 yılında Leo Henzirohs tarafından kurulan Jura Elektroapparate AG bünyesinde üretilen otomatik kahve makineleri ve elektrikli ev aletleri markasıdır.İsviçre merkezli Jura Elektroapparate AG, dünya çapında yaklaşık 50 ülkede faaliyet göstermektedir. Premium otomatik özel kahve makineleri, tamamen İsviçre’de geliştirilmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

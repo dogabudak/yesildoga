@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Fixman",
+    "description": "Fixman, 1995 yılında Jiang Gang Bao tarafından kurulan Ningbo JJTools bünyesindeki el aletleri markasıdır.Ürün yelpazesi anahtarlar, takım kitleri tornavidalar, çekiçler, takım saklama, soket ve aksesuarları, ölçüm aleti, kesme aleti, sıkma aleti vb. ürünlerden oluşmaktadır.Ningbo JJTools Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Makterm Soğutma Sistemleri",
+    "description": "Makterm Soğutma Sistemleri, 2016 yılında kurulan Makterm Endüstriyel Soğutma ve Mak. San. Tic. Ltd. Şti. bünyesindeki şoklama ünitesi, chiller üniteleri, donmuş muhafaza üniteleri, endüstriyel İklimlendirme ve soğutma grupları, taze muhafaza üniteleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Buccellati",
+    "description": "Buccellati, 2011 yılında Mario ve Gianmaria Buccellati tarafından iki şirketin birleşmesiyle kurulan lüks takı, saat ve aksesuarlar markasıdır.Buccellati, 2019 yılında İsviçre merkezli Richemont International SA tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Frette",
+    "description": "Frette, 1860 yılında Jean Baptiste Edmond Frette, Alexandre Payre ve Charles Chaboud tarafından kurulan Frette North America Inc. bünyesindeki lüks yatak çarşafları ve ev yaşam tarzı ürünleri markasıdır.2005 yılında İngiltere merkezli Change Capital Partners tarafından satın alındı.Frette Kuzey Amerika, Inc. yatak, banyo ve masa örtülerinin yanı sıra bornoz, terlik ve havuz havlusu ürünleri sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Goldvish",
+    "description": "Goldvish, 2003 yılında Gregor Snip ve Michel Morren tarafından kurulan GoldVish S.A. bünyesindeki lüks cep telefonu ve aksesuarları markasıdır.Cep telefonlarının bazıları elmaslarla süslenmiş altınla kaplıdır.GoldVish S.A. İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

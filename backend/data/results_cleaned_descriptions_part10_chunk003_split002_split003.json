@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Harlingen Tools",
+    "description": "1980 yılında kurulmuş olan Sichuan Machinery Imp. & Exp. Corp Ltd. bünyesinde üretilen metal kesme aletleri ve takım tutucu parçaları markasıdır.Sichuan Machinery Imp. & Exp. Corp Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Taconova",
+    "description": "1961 yılında kurulmuş olan Taconova Group AG bünyesindeki ısıtma, sıhhi tesisat ve güneş enerjisi uygulamaları için hidronik çözümler markasıdır.Şirketin temel yetkinlikleri arasında hidronik dengeleme, valf ve aksesuarlar, pompa teknolojisi, yerden ısıtma ve sistem teknolojisi bulunmaktadır.Taconova Group AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Endokon",
+    "description": "Endokon Dijital Hizmetler San. ve Tic. Ltd. Şti. bünyesindeki teleskopik merdivenler ve merdiven aksesuarları markasıdır.Firma Samsun merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coolmoon",
+    "description": "2012 yılında kurulmuş olan Chongqing Coolmoon Electronics Co. Ltd. bünyesinde üretilen kasa fanı, işlemci soğutucusu, LED fan, bilgisayar güç kaynağı markasıdır.Chongqing Coolmoon Electronics Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Panova Window&Door Sytems",
+    "description": "1991 yılında kurulmuş olan Özgür Yapı A.Ş. bünyesinde üretilen plastik pencere ve kapı sistemleri markasıdır.ISO 9001, ISO 14001, ISO 45001, CE belgelerine sahiptir.Firma Afyonkarahisar merkezlidir. Ürünlerini 17 bin metrekaresi kapalı toplam 26 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

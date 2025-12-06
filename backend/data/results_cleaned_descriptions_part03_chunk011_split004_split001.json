@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Keysight",
+    "description": "Keysight, 2014 yılında HP’nin bir ürünü olan Agilent Technologies’in ayrılmasıyla ortaya çıkan Keysight Technologies, Inc. bünyesindeki elektronik test ve ölçüm ekipmanı ve yazılımı markasıdır.Cihazları arasında osiloskop, multimetre, mantık analizörü, sinyal jeneratörü, spektrum analizörü, vektör ağ analizörü, atomik kuvvet mikroskobu, otomatik optik muayene, otomatik X-ışını muayenesi, devre test cihazı, güç kaynağı ve el aletleri bulunur. Ayrıca elektronik tasarım otomasyonu (EDA) yazılımı üretmektedir.Keysight Technologies, Inc. Amerika merkezlidir.Şirketin en büyük hissedarları:The Vanguard Group (yüzde 11,2)T. Rowe Price Associates (yüzde 7,72)SSgA Funds Management (yüzde 4,17)BlackRock Fund Advisors (yüzde 2,48)Greenlight Capital (yüzde 2,36)Fidelity Management & Research (yüzde 2,13)JPMorgan Investment Management (yüzde 2,05)Sound Shore Management (yüzde 1,70)Geode Capital Management (yüzde 1,60)Ninety One (yüzde 1,60)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lora Garden",
+    "description": "Lora Garden, 1989 yılında Turap Uzunoğlu tarafından kurulan Turap Tekstil Ltd. Şti bünyesinde üretilen iç giyim ürünleri markasıdır.İstanbul’da bulunan 2 bin 200 metrekarelik fabrikasında insan sağlığına zarar vermeyen kendi kumaşını üretebilen ve tekstil teknolojileri üzerine ciddi yatırımlar yapan Türk firmasıdır. Ürünlerini İngiltere, İspanya, Sırbistan ve Romanya gibi Avrupa ülkeleri dışında Arap ülkelerine de pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lapp Ülke",
+    "description": "Lapp, 1959 yılında kurulan Lapp Holding AG bünyesindeki kablo ve bağlantı teknolojisi alanında entegre çözümler, kablolar ve esnek kablolar, endüstriyel konektörler ve vida teknolojisi, kablolama çözümleri, otomasyon teknolojisi, robotik çözümleri ve teknik aksesuarlar markasıdır.Kablo ve aksesuarlar, endüstriyel konektörler, sistem çözümleri ve iletişim teknolojisi alanında ürünleri, Lapp Group’un 18 üretim tesisinde üretilmektedir. 100’den fazla yabancı ülke ile çalışmaktadır.Lapp Holding AG Almanya merkezlidir. Türkiye’de LAPP KABLO San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kingleen",
+    "description": "Kingleen, 1999 yılında kurulan Guangzhou Kingleen Electronics Co, Ltd. bünyesinde üretilen power bank, ev şarj cihazı, duvar şarj cihazı, araba şarj cihazı, kablo, veri kablosu, kulaklık, cep telefonu pilleri, şarj cihazları ve diğer iletişim aksesuarları markasıdır.ISO 9000 belgesine sahiptir.Guangzhou Kingleen Electronics Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Urovo",
+    "description": "Urovo, 2006 yılında kurulan Urovo Technology Co., Ltd bünyesinde üretilen mobil bilgisayar, Android el POS terminalleri, AIDC terminalleri, RFID okuyucu, el barkod tarayıcılar ve taşınabilir termal yazıcılar markasıdır.Ürünlerini 50’den fazla ülkeye pazarlamaktadır.Urovo Technology Co, Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

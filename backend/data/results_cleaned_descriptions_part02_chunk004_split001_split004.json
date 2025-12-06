@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bonjela",
+    "description": "Bonjela, 1996 yılında kurulan TUĞBAY Tekstil bünyesindeki eşarp markasıdır.Eşarbın iplikten son tüketiciye ulaşana kadar bütün süreçleri Bursa’da kendi bünyesinde 10 bin metrekarelik alandaki dokuma fabrikasında yüzde 100 yerli üretim ile üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Deerma",
+    "description": "“Deerma“2011 yılında kurulan Foshan Shunde District Delmar Electric Appliance Co. Ltd. bünyesinde üretilen nemlendirici, elektrikli süpürge, mite kaldırma makinesi, meyve suyu kupası, su ısıtıcısı, nem alma makinesi, elektrikli ısıtıcı ve mutfak aletleri markasıdır.Foshan Shunde District Delmar Electric Appliance Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2024-12-03"
+  },
+  {
+    "company": "Mobass",
+    "description": "Mobass, 1985 yılında kurulan Merdan Elektronik bünyesindeki ses sistemleri, oto teyp, oto ses sistemleri, oto amplifikatör ve double-indash teyp markasıdır.Elektronik ürünlerin ithalatının yanında, kendi üretim tesislerinde tüketici elektroniği ürünlerinin de üretimini yapmaktadır.Şirketin İstanbul ve Mersin’de toplam iki ofisi bulunmaktadır. 4 bin 500 metrekare kapalı alanda faaliyet gösteren üretim ve montaj tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Massive",
+    "description": "Massive markası 1985 yılında kurulan Reis Elektronik A.Ş.’ye aittir. Türkiye’de otomobil aksesuar ve dizayn sektöründe faaliyet göstermektedir.Reis elektronik A.Ş. bünyesinde Massive markalı oto hoparlör üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lancaster",
+    "description": "Lancaster, 1946 yılında Dr Eugène Frezzatti ve Georges Wurz tarafından kuruldan cilt bakımı, güneş kremleri, anti-aging ve banyo ürünleri markasıdır. Ürünler 40’tan fazla ülkede satılmaktadır.1971 yılında ilk güneş kremleri serisi çıkarılmıştır.Lancaster markası Amerikan merkezli Coty Inc. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-09-13"
+  }
+]

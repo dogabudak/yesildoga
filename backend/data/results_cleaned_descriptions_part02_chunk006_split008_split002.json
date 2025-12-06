@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ibanez",
+    "description": "Ibanez, 1957 yılında ilk kez üretilen, Hoshino Gakki Co., Ltd. bünyesindeki elektro gitar, akustik gitar, bas gitar, amplifikatör, ukulele ve mandolin markasıdır.Hoshino Gakki Co., Ltd. Japonya merkezlidir. Japonya dışında Kore ve Endonezya’da üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Etstur",
+    "description": "Etstur, 1991 yılında Mehmet ve Murat Ersoy tarafından kurulan Ets Ersoy Turistik Servisleri A.Ş. Türkiye’de 90, yurt dışında ise yaklaşık 60 destinasyonu kapsayan yüzlerce tur paketi ile özel hizmetler sunuyor.Firma bünyesinde dijital seyahat platformu Let’s Go Dergi, didimtur.com, Voyage ve Maxx Royal otelleri ve uçak bileti satışı gerçekleştiren Ucuzabilet.com ve otelleri puanlayan site Otelpuan.com bulunuyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ashton",
+    "description": "Ashton, 1997 yılında kurulan Australis Music Group Pty Ltd bünyesindeki müzik aletleri markasıdır.Ürün yelpazesi; Akustik, Klasik, Elektrikli, Ukulele, Davul ve aksesuarlardan oluşuyor.Australis Music Group Pty Ltd şirketi Avustralya merkezlidir ve ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "AIMOOSI",
+    "description": "AIMOOSI, 2014 yılında kurulan Guangzhou Shangpinjiayuan Commerce And Trade Co., LTD. bünyesindeki makyaj ürünleri markasıdır.Guangzhou Shangpinjiayuan Commerce And Trade Co., LTD. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wpro",
+    "description": "Wpro, Whirlpool Emea S.P.A. bünyesindeki elektrikli Süpürge Torbaları, aksesuarları, ocak kaput filtreleri ve su filtreleri markasıdır.Whirlpool Emea S.P.A. Amerika merkezli Whirlpool Corporation’ın İtalya iştirakidir.Türkiye’de ana markası Hotpoint ve Indesit markalarıyla beyaz eşya, küçük ev aletleri ve klima sektöründe faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

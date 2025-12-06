@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Radialitic Kügerr",
+    "description": ":",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-09-29"
+  },
+  {
+    "company": "Meram Un",
+    "description": "Meram, 1995 yılında kurulan Al-San Gıda Tic. ve San. A.Ş. bünyesinde üretilen tam buğday, böreklik, baklavalık unlar markasıdır.ISO 22000, Helal belgelerine sahiptir.Firma Konya merkezlidir.Bünyesindeki markalar;Demre UnMeram Un",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kaptanlar Un",
+    "description": "Kaptanlar Un, 1995 yılında kurulan Kaptanlar Un Gıda Enerji San. ve Tic. A.Ş. bünyesinde üretilen ekmeklik buğday unu, baklavalık, yufkalık, simitlik, lavaşlık, pidelik unlar, çavdarlı unlar, fırın unları markasıdır.Çanakkale merkezli firma Çanakkale’nin Biga ilçesinden temin ettiği buğdayları, ithal buğdaylarla harmanlayarak ürünlerini üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Anıl Un",
+    "description": "Anıl Un Nerenin Malı MarkasıAnıl Un, 1981 yılında kurulan Anıllar Un Fabrikası Tic. ve San. A.Ş. bünyesinde üretilen her türlü un markasıdır.Güney Marmara ve Türkiye’nin çeşitli bölgelerinde bulunan, tedarikçilerden ve müstahsilden alınan buğdaylar fabrikasında işlem görmektedir.Bursa merkezli firma İnegöl OSB’de 8 bin 500 metrekaresi kapalı toplam 10 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bemtat Un",
+    "description": "Bemtat Un, 2006 yılında Serdar Özdoyuran tarafından kurulan Bemtat Gıda ve Yatırım Endüstrileri A.Ş. bünyesinde üretilen un ve tahıl ürünleri markasıdır.ISO 9001 ve ISO 2000 belgelerine sahiptir.Firma ürünlerini Tekirdağ’da bulunan 5 bin metrekaresi kapalı 10 bin metrekarelik alanda üretilmektedir ve 32 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 2000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

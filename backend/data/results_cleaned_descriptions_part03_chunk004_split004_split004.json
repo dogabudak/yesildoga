@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Ardolet",
+    "description": "Ardolet, 2005 yılında kurulan Ardolet Makine Sanayi ve Tic. Ltd. Şti. bünyesinde üretilen dolum ve kapama makinesi, şişe çalkalama makinesi, etiketleme makinesi, paletleme makinesi markasıdır.Firma anahtar teslim fabrikalar kurabilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Munzur",
+    "description": "Munzur, 2005 yılında 240 ortaklı olarak kurulan Munzur Tarım ve San. Ürünleri. Tic. A.Ş. bünyesindeki kaynak suyu markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Ürünlerini Almanya, Avusturya, Hollanda ve İngiltere’ye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pomellos",
+    "description": "Pomellos, 1998 yılında Eda Çiçekci, Serdar Türkoğlu, Ersin Demir ve Özgür Elaldırsın tarafından kurulan Eeose Laboratuarları Kozmetik ve İlaç Ltd. Şti. bünyesindeki kolonya markasıdır.Ürünleri özellikle İran, Azerbeycan, Rusya, Ortadoğu, Türk Cumhuriyetleri ve Kıbrıs’ta kullanılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Revox",
+    "description": "Revox, Geomass Arge Ltd. Şti. bünyesindeki şampuan, saç kremi, saç bakım ürünleri, bebek bakım ürünleri, bitkisel saç bakım ürünleri markasıdır.Tüm ürünlerinde geliştirdiği sistemle üretilen oksijenle arıtılmış su kullanılmaktadır. Ürünlerinde, yüzde 100 bitkisel bazlı aktifler temel unsurdur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bora Plastik",
+    "description": "Bora Plastik, 1957 yılında, İbrahim Bora tarafından kurulan Bora Plastik San. ve Tic. A.Ş. bünyesinde üretilen mutfak ürünleri, erzak kavanozu, saklama kapları, tempesta serisi, tabaklık, kaşıklık, süzgeç, buzluk ve sürahi, bardak ve ölçü kabı, tepsi, kesim panosu, ekmeklik, sepet, huni, bulaşık leğeni ve lavabo çöplük, çöp kovası ve sepeti, kasa, sıkacak ve rendeler, banyo ve temizlik ürünleri, badya ve leğenler, çamaşır kirli sepeti, elbise askısı, duvar askısı, su kovası, wc takımı, maşrapa, faraş ve cam siler, mandal, çekmeceli dolap, hobi kutusu, boyacı kabı markasıdır.Robotlu üretim yapmaktadır. ISO 9001 ve ISO 22000 belgelerine sahiptir.Bünyesindeki markalar:MONOTONEHİTBOXCORONAHİP",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

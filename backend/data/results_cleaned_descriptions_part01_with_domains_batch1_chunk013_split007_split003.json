@@ -1,0 +1,48 @@
+[
+  {
+    "company": "FAB Boya",
+    "description": "FAB Boya, 2001 yılında kurulan FAB Boya və Kimya San. MMC bünyesinde üretilen su bazlı, sentetik, sellülozik boya markasıdır.Firma su bazlı, sentetik, selülozik boya ve solvent ürünler, polimerler, seramik contalar, PVA bazlı çeşitli yapıştırıcılar, akrilik bağlayıcılar, plastik ürünler ve alçı ürünleri üreticisidir.İnsan sağlığına ve çevreye zarar vermeyen ürünler üretmektedir.ISO 9001 belgesine sahiptir.FAB Boya və Kimya San. MMC Azerbaycan merkezlidir ve ürünlerini Azerbaycan’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": "2021-10-10"
+  },
+  {
+    "company": "Adarad",
+    "description": "Adarad, 1987 yılında Koç Holding tarafından kurulan ısıtma sektörü ürünleri markasıdır.Adarad 2008 yılında Ada Metal Grubu tarafından satın alınarak, Adarad Döküm Ürünleri Sanayi ve Ticaret A.Ş. adıyla faaliyet göstermektedir.Üretim tesisi Bursa OSB’de 245 bin metrekarelik alanda 60 bin metrekare kapalı alanı bulunmaktadır.Kat Kaloriferleri, Merkezi Sistem Isıtma Kazanları, Doğalgaz Sobaları, Döküm Dilimli Radyatörler dışında otomotiv sektörüne yedek parça üretimi, Döküm Rögar Kapağı ve Döküm Kanal Izgaraları üretimi de yapmaktadır.Ürünlerinin büyük bir kısmını Avrupa, Kuzey Afrika, Ortadoğu, Amerika ve Kanada’ya ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Black Star Burger",
+    "description": "Black Star Burger, 2016 yılında Timati, Pavel Kuryanov ve Valter ile birlikte işadamı Yuriy Levitas tarafından açılan restoran zinciridir.Black Star Burger, hamburgerlerini siyah eldivenlerle tanıtan ilk restoran oldu, restoran ağının ayırt edici bir özelliği de yemek pişirmek için domuz eti kullanılmıyor olması. Antibiyotik ve hormon içermeyen sığır eti kullanılıyor. Bu etleri Zareticno Şirketler Grubu sağlıyor.Black Star Burger, Rusya merkezli bir restoran ve Rusya dışında Kırgızistan, Özbekistan gibi ülkelerde şubeleri bulunuyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": "2019-10-02"
+  },
+  {
+    "company": "Promise",
+    "description": "Promise, 1975 yılında kurulan Güneş Çakmak ve Elektronik Ticaret Limited Şirketi bünyesindeki metal çakmak, metal matara, anahtarlık, çakmak gazı, sigara tabakası, küllük, puro makası, grinder, pipo, kişisel aksesuarlar markasıdır.Firmanın bünyesindeki markalar:GÜNEŞHONESTJOBONLOTUSPROMISEPromise markasıyla çok sayıda farklı firmanın çok sayıda ürünü bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gazprom",
+    "description": "Gazprom 1989 yılında kurulan jeolojik keşif, üretim, taşıma, depolama, işleme ve gaz, gaz kondens ve petrol satışı, gaz satışı, araç yakıtı olarak, ısı ve elektrik gücünün üretimi ve pazarlanması konusunda odaklı küresel bir enerji şirketidir. Dünyanın en çok doğalgaz üreten kuruluşudur.Gazprom hisselerinin yüzde 50,23’ü Rusya hükümetine aittir ve Rusya’nın en büyük şirketidir. Avrupa ülkelerinde pazar payı yüzde 27’dir. 30’dan fazla ülkeye gaz ihracatı yapmaktadır. Gazprom, Rusya’nın en iyi 4 petrol üreticisinden biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

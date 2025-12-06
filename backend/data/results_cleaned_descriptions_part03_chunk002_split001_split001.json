@@ -1,0 +1,48 @@
+[
+  {
+    "company": "KNOG",
+    "description": "KNOG, 2003 yılında Hugo Davidson ve Malcolm McKechnie tarafından kurulan KNOG Pty Ltdç bünyesindeki bisiklet aksesuarları markasıdır.Ürünleri bisiklet ışıkları, farlar, el fenerleri, bisiklet çanları ve daha fazlasını içerir.KNOG ve tüm tasarımlar Avustralya menşelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Java",
+    "description": "Java platformu, 1990 yılında James Gosling tarafından Sun Microsystems, Inc’de cihazdan bağımsız olarak programların çalışmasına izin vermek amacıyla geliştirilmiştir. Platform üç ana bölümden oluşur: Java programlama dili, Java Sanal Makine (JVM) ve birkaç Java Uygulama Programlama Arabirimleri (API’ ler). Java platformunun tasarımı, Java Topluluk Süreci (JCP) aracılığıyla satıcı ve kullanıcı topluluğu tarafından denetlenir.2010 yılında Amerika merkezli Oracle Corporation tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Realme",
+    "description": "Realme, 2018 yılında kurulan Realme Chongqing Mobile Telecommunication Corp. Ltd. bünyesinde üretilen akıllı telefonlar, tablet bilgisayarlar, kulaklıklar, güç bankaları, telefon kılıfları, çantalar, akıllı televizyon, akıllı saat, dizüstü bilgisayar markasıdır.Realme Chongqing Mobile Telecommunication Corp. Ltd. Çin merkezli BBK Electronics Corp. Ltd.’nin yan kuruluşudur. Ürünlerini Çin’de üretmektedir ve 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-09-20"
+  },
+  {
+    "company": "Javascript",
+    "description": "Javascript, 1995 yılında Brendan Eich tarafından üretilen programlama dilidir. Netscape Navigator 2.0 ile birlikte piyasaya sürüldü.1996 yılında JavaScript’in endüstri standardı olarak belirlenmesi amacıyla Ecma International firmasına başvuruldu ve JavaScript, ECMAScript belirtimleri ile standartlaştırılmıştır. Daha sonra başvuru geri çekildiği için Ecma Java standardizasyonundan sorumlu değildir.JavaScript, Oracle Corporation’ın ABD’deki ticari markasıdır. Netscape Communications ve Mozilla Vakfı gibi mevcut kuruluşlar tarafından icat edilen ve uygulanan teknoloji lisansı altında kullanılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rosta",
+    "description": "Rosta, 2018 yılında kurulan Rosta Gıda Maddeleri A.Ş. bünyesinde üretilen fındık ürünleri markasıdır.Ürettiği doğal fındık ezmesine koruyucu ve katkı maddeleri katılmıyor. Hammaddesinde kenarda kalmış fındık kullanılmıyor. Rosta markasıyla üretilen iki fındık ezmesi bulunuyor. Birinde yüzde 25 pancar şekeri ve yüzde 75 Giresun fındığı kullanılırken diğeri yüzde 100 Giresun fındığından üretiliyor.ISO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

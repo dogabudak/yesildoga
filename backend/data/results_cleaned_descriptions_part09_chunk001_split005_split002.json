@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Nemus",
+    "description": "Nemus2016 yılında kurulmuş olan Nemus Elektronik San. ve Tic. A.Ş. bünyesinde üretilen konektör, kablo gruplama ve yüksek teknoloji bağlantı elemanlarıOtomasyon ve savunma sanayileri için kalıp üstü sensör konektörleri ve kabloları üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gigandet",
+    "description": "GigandetMtr24 Gmbh bünyesindeki dalış saatleri, erkek saatleri, gmt saatleri, klasik saatler, otomatik saatler markasıdır.Mtr24 Gmbh Almanya merkezlidir ve ürünleri Almanya’daki fabrikasında üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Byintek",
+    "description": "Byintek2013 yılında kurulmuş olan Changsha Byintek Electronics Co. Ltd. bünyesinde üretilen tüketici elektroniği, ev sinema sistemleri, projektörler, ekranlar markasıdır.Changsha Byintek Electronics Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Rolls Royce Araba",
+    "description": "Rolls Royce1998 yılında kurulmuş olan Rolls-Royce Motor Cars Limited bünyesinde üretilen lüks otomobil markasıdır.Rolls-Royce Motor Cars Limited Almanya merkezli BMW AG tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Noksel",
+    "description": "Noksel1987 yılında kurulmuş olan Noksel Çelik Boru San. A.Ş. bünyesinde üretilen petrol, gaz, su ve kazık endüstrileri için spiral kaynaklı çelik borular, uzunlamasına kaynaklı çelik borular ve oyuk kesitler markasıdır.Firma Ankara merkezlidir. Sakarya, Hatay ve İspanya’da fabrikalara sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Aimpoint",
+    "description": "Aimpoint, 1974 yılında kurulan Aimpoint AB bünyesinde üretilen elektro-optik kırmızı nokta nişan teknolojisi ve aksesuarları markasıdır.Avcılar ve spor atıcılar için tasarlanmıştır. ISO 9001 belgesine sahiptir.Aimpoint AB İsveç merkezlidir ve ürünlerini İsveç’te bulunan 2 üretim tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Watts",
+    "description": "Watts, 1874 yılında Joseph Watts tarafından kurulan Watts Water Technologies Inc. bünyesinde üretilen su teknolojileri, sistemleri markasıdır.Konut, endüstriyel, belediye ve ticari tesisler için yerden buz eritme, su filtreleme gibi su çözümleri sunmaktadır.Watts Water Technologies Inc. Amerika merkezlidir.Bünyesindeki markalar;AercoAmes Fire & WaterworksApexAvgBlücherDormontFebcoHf ScientificMueller Steam SpecialtyOrionPowersPvi IndustriesSentinel HydrosolutionsSuntouchTekmar Control SystemsThe Detection GroupWatts",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bureau Veritas",
+    "description": "Bureau Veritas, 1828 yılında kurulan Bureau Veritas S.A. bünyesindeki laboratuvar test, muayene, belgelendirme hizmetleri markasıdır.Müşterilerinin varlıkları, ürünleri, altyapıları ve süreçlerinin kalite, sağlık ve güvenlik, çevre koruması ve sosyal sorumluluk açısından standartları sağlaması için çözümler sunmaktadır.Bureau Veritas S.A. Fransa merkezlidir ve 140 ülkede hizmet vermektedir. Türkiye’de 1992 yılından beri faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Violin Memory",
+    "description": "Violin Memory, 2005 yılında Donpaul Stephens ve Jon Bennett tarafından kurulan Violin Systems LLC bünyesinde üretilen bilgisayar veri depolama ürünleri markasıdır.Violin Systems LLC 2017 yılında Soros Fund Management LLC tarafından yönetilen özel bir yatırım fonu olan Quantum Partners LP tarafından satın alındı.Şirketin çözümleri, birden fazla sanayi genelinde ticari işletmelerin depolama sistemleri, sağlık, finansal hizmetler ve iletişim sektörleri olmak üzere verimlilik getirmek için tasarlanan Flash bellek Platformu da dahil olmak üzere bulut tabanlı yelpazesi sunmaktadır.Violin Systems LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Eucerile",
+    "description": "Eucerile, 1902 yılında Isaac Lifschützl tarafından üretilen vücut ve yüz bakım ürünleri, güneş koruyucu ve temizleyici ürünler markasıdır.Ürün ambalajlarında yüzde 99’a kadar geri dönüştürülmüş plastik kullanılmaktadır.1911 yılında Almanya merkezli Beiersdorf AG tarafından satın alındı.",
+    "documents": [
+      "CE",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

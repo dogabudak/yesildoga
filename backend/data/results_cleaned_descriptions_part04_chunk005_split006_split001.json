@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Yulongshan",
+    "description": "Yulongshan, 2007 yılında kurulan Chongqing Yulongshan Food Co. Ltd. bünyesinde üretilen tatlı patates erişte, turşu pırasa markasıdır.Gıda ürünlerinin geliştirilmesi, işlenmesi ve toptan satışı ile uğraşan sanayileşmiş bir tarımsal kuruluştur.Chongqing Yulongshan Food Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Crytek Firması",
+    "description": "Crytek Gmbh, 1999 yılında Cevat, Avni ve Faruk Yerli tarafından kurulan video oyun geliştiricisi ve yazılım geliştiricisidir.Crytek Gmbh, Yerli Ailesi’ne ait olan Almanya merkezli bir oyun şirketidir. Ayrıca Ukrayna ve Türkiye’de 2 stüdyosu vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Umidigi",
+    "description": "Umidigi, 2012 yılında kurulan UMi Technology Co., Ltd. bünyesinde üretilen akıllı telefon, giyilebilir cihazlar, kulaklıklar, aksesuarlar, güç bankası markasıdır.UMi Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 20’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Manli",
+    "description": "Manli, 1996 yılında kurulan Manli Technology Group Ltd. bünyesindeki bilgisayar grafik kartları, madencilik sistemleri, madencilik kartları ve diğer çevre birimleri/bileşenleri markasıdır.ISO 9001 ve ROHS belgelerine sahiptir.Manli Technology Group Ltd Hong Kong merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Letsfit",
+    "description": "Letsfit, 2016 yılında kurulan Letsfit LLC bünyesindeki fitness için, direnç bantları, akıllı saatler, spor izci, bluetooth kablosuz kulaklıklar, gıda ölçekler, yüzme gözlüğü markasıdır.Kablosuz teknolojik fitness ürünleri, sağlık ürünleri, giyilebilir teknoloji, kablosuz kulaklıklar, fitness izleyicileri, egzersiz ekipmanları, fitness aksesuarları, egzersiz ekipmanları ve egzersiz aksesuarları üretmektedir.Letsfit LLC Amerika merkezlidir. Ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

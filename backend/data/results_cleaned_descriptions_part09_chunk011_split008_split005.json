@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Cleana",
+    "description": "“Cleana“2019 yılında kurulmuş olan Cleana Inc. bünyesindeki ticari klozet markasıdır.Ticari alanlarda temizliği iyileştiren ticari klozetler üretmektedir.Cleana Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Trax Dingil",
+    "description": "“Trax“1980 yılında kurulmuş olan Özkoç İlave Dingil San. ve Tic. Ltd. Şti. bünyesindeki treyler dingili, süspansiyon sistemleri, yedek parçalar markasıdır.ISO 9001 belgesine sahiptir.Firma Konya merkezlidir. Ürünlerini Konya OSB’de bulunan 20 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oxxo",
+    "description": "“Oxxo“1978 yılında kurulmuş olan Cadena Comercial OXXO S.A. de C.V. bünyesindeki market, fast food, atm ve benzin istasyonları markasıdır.Cadena Comercial OXXO S.A. de C.V. Meksika merkezli Fomento Económico Mexicano S.A.B. de C.V.’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "MX",
+    "updated_date": null
+  },
+  {
+    "company": "Sahler",
+    "description": "“Sahler“1997 yılında kurulmuş olan Sahler Plastik Ltd. Şti. bünyesindeki oto paspaslar, bagaj havuzu, oto aksesuar markasıdır.Ürünleri termo plastik elastomer hammaddesinden üretilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Schmilton",
+    "description": "“Schmilton“1985 yılında kurulmuş olan Sporteks Spor Malzemeleri Tekstil San. ve Tic. Ltd. Şti. bünyesindeki çorap, şapkalar, bandana, basketbol aksesuarları, basketbol giyim, dizlik ve bileklikler, dizlikler, fitness dizlik ve bileklikler, futbol şortları, futbol aksesuarları, hakem malzemeleri, kaleci malzemeleri, koruyucular, tekmelik, baldırlık, voleybol aksesuarları markasıdır.Firma İstanbul merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Nebula",
+    "description": "Nebula, 2011 yılında Steven Yang tarafından kurulan Anker Innovations bünyesindeki powerbank, şarj kabloları ve kablosuz hoparlörler markasıdır.Anker Innovations bilgisayar ve mobil çevre birimleri ile akıllı şarj teknolojileri ürünleri üretmektedir.Anker Innovations Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Askam",
+    "description": "Askam, 1962 yılında yüzde 60 Chrysler International S.A. ve yüzde 40’ı 3 yerli ortak ile kurulan ASKAM Kamyon İmalat ve Tic. A. Ş. bünyesindeki kamyon ve ticari araç markasıdır.2003 yılında Askam Kamyon’un tüm hisselerini Çiftçiler Holding aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İş Bora",
+    "description": "İş Bora, 1990 yılında Toshiba Corp (Tokyo-Shibaura-Engineering) ve IHI (Ishikawajima Harima Industries) tarafından kurulan Shibaura Europe B. V. bünyesindeki traktör, çim bakım ekipmanları, jeneratörler ve küçük motorlar markasıdır.İş Bora, Japonya merkezli IHI Corporation bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2019-11-23"
+  },
+  {
+    "company": "YTO",
+    "description": "YTO, 1955 yılında kurulan Sinomach’ın bir parçası olan YTO Group Corporation bünyesinde üretilen tarım ve inşaat makineleri markasıdır.Tarım traktörleri, motorlar ve kamyonlar dahil olmak üzere bir dizi ürün üreten birçok yan kuruluş ve bölümden oluşan Çin merkezli üreticidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Antonio Carraro",
+    "description": "Antonio Carraro, 1910 yılında Giovanni Carraro tarafından kurulan Antonio Carraro S.p.A. bünyesindeki traktör markasıdır.Dünya çapında faaliyet gösteren şirket, Avustralya, İspanya ve Türkiye’deki şubeleriyle hizmet vermektedir.Antonio Carraro S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

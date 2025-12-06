@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Magicvoice",
+    "description": "Magicvoice, 1984 yılında kurulan Merter Elektronik San. ve Tic. Ltd. Şti. bünyesindeki trafolu anfi, mixer, seslendirme sistemleri, aktif hoparlör, telsiz hoparlör, usb sd bluetooth çevirici dijital player, cami seslendirme, aktif sütun hoparlör, el mikrofonu, müzik kutusu, unit membran, mevlüt anfisi, megafon, pasif hoparlör, pazarcı anfisi, tavan hoparlör, oto teyp, anfi kablo, cami kolonu, mikrofon sehpası, kürsü mikrofonu, tweeter, mikrofon tutacağı, cami ses sistemleri, ses kontrol cihazı markasıdır.Merter Elektronik teknoloji ile uydu sistemleri, solar enerji sistemleri, seslendirme, ağ çözümleri, bilgisayar oem ürünlerini Çin’den ithal ederek satmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lakta",
+    "description": "Lakta, 1912 yılında Eng. Rudolf Pitzka ve ana hissedar Prag Kredi Bankası tarafından kurulan Zaharni Zavodi JSC bünyesindeki şekerleme, tatlı, Türk lokumu, helva ve gofret markasıdır.Zaharni Zavodi Grubu şeker üretimi, şekerleme, etanol ve yüksek proteinli yem, bir matbaa, bünyesinde termal elektrik santrali ve mekanik onarım fabrikası gibi çeşitli fabrikalar içerir.Zaharni Zavodi Grubu Bulgaristan merkezlidir ve Bulgaristan’ın en büyük gıda üretim kompleksidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": "2020-01-07"
+  },
+  {
+    "company": "Balkan",
+    "description": "Balkan, 1991 yılında Balkan Süt Ürünleri Sanayi bünyesinde üretilen süt, yoğurt, ayran, süzme yoğurt, meyveli yoğurt, kaşar peyniri, beyaz peynir (kültürlü ve klasik), tulum peyniri, taze peynir, örgü peyniri, krem peynir, lor peyniri, tereyağı, kaymak markasıdır.İzmir’de 20 bin metrekarelik alanda bulunan 15 bin metrekarelik kapalı alanda UHT süt ve kaymak üretimi yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Neşe Çay",
+    "description": "Neşe Çay Nerenin Malı MarkasıNeşe Çay, 1988 yılında kurulan Neşe Çay Gıda İnş. Nak. Paz. İth. İhr. Ltd. Şti. bünyesinde üretilen Siyah Çay, Yeşil Çay, Beyaz Çay, Matcha Çayı, Oolong Çayı markasıdır.Ürünlerini 5 bin metrekarelik alanda bulunan fabrikasında üretmektedir.Kuveyt, Katar ve Danimarka’ya ürünlerini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bulut Yumuşatıcı",
+    "description": "Bulut, Bim Birleşik Mağazalar A.Ş. adına Sudesan Temizlik Ürünleri ve Ambalaj San. Tic. A.Ş. tarafından üretilen yumuşatıcı markasıdır.Sudesan Temizlik Ürünleri ve Ambalaj San. Tic. A.Ş. 1965 yılında Nadir Şükrü Deniz tarafından kurulan kozmetik ve temizlik ürünününe ek olarak plastik şişe ve özel markalı ürünler üretmektedir.BRC CP, ISO 22716:2007 GMP Kozmetik, ISO 9001:2015, ISO 14001:2015, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

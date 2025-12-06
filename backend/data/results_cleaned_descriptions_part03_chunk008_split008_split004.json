@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Love My Body",
+    "description": "Love My Body, 1992 yılında kurulan Adil Işık Group bünyesindeki kadın giyim ürünleri markasıdır.Adil Işık Group ürünlerinin yüzde 90’ı yerli üretimdir.Bünyesindeki markalar:adLLove my body",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wolf Garten",
+    "description": "Wolf Garten, 1922 yılında kurulan MTD Inc. bünyesinde üretilen el aletleri, tarım ve bahçecilik ürünleri markasıdır.Ürün yelpazesinde; çim biçme makinesi, budama makası, çim gübresi, çim biçme traktörü gibi 500’den fazla ürün yer almaktadır.MTD Inc. Amerika merkezlidir.Bünyesindeki markalar:ArnoldCub CadetMTDRobomowWolf-Garten",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-10-14"
+  },
+  {
+    "company": "Westa",
+    "description": "Westa, 1985 yılında kurulan Ekingen Elektronik Pazarlama İthalat İhracat Sanayi ve Tic. Ltd. Şti. tarafından ithal edilen profesyonel ses sistemleri, kamera ve kayıt cihazları markasıdır.Firma ürünlerini Çin’den ithal etmektedir ve birçok elektronik ürünün ve yedek parçalarının ithalatını, üretimini veya montajını yapmaktadır.Bünyesindeki markalar:DigilineFujitronWesta",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Immo",
+    "description": "Immo, 2013 yılında kurulan İMMO Ltd. Şti. bünyesinde üretilen iç, dış, tavan boyası, astar, izolasyon ve renkli boya markasıdır.Aydın’da faliyet gösteren ve teknolojik inşaat, elektrik malzemeleri satış ve montajı konularında çalışan İMMO Ltd. Şti. yarı Alman yarı Türk iş ortaklığına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Agusta",
+    "description": "Agusta, 1923 yılında kurulan AgustaWestland S.p.A. bünyesindeki helikopter ve uçak motoru markasıdır.AgustaWestland S.p.A. İtalya merkezli Leonardo S.p.A.’nın tamamına sahip olduğu bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

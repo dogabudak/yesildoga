@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tagaz",
+    "description": "Tagaz, 1997 yılında kurulmuş olan Taganrog Automobile Factory bünyesinde üretilmiş araçlar markasıdır.Şirket 2014 yılında iflas etti. Taganrog Automobile Factory Rusya merkezliydi.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Swirl",
+    "description": "Swirl, 1908 yılında kurulmuş olan Melitta Europa Gmbh & Co. Kg. bünyesindeki elektrikli süpürge torbaları ve elektrikli süpürge aksesuarları, çöp kutuları, kireç çözücüler, lens temizleme mendilleri ve hava filtreleri markasıdır.Melitta Europa Gmbh & Co. Kg Almanya merkezlidir. Ürünlerini 40 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Camry",
+    "description": "Camry, 1991 yılında kurulmuş olan Adler Sp. z o.o. bünyesinde üretilen su ısıtıcısı, buharlı ütü, yağ presi, elektrikli ısıtma yastığı markasıdır.Adler Sp. z o.o. Polonya merkezlidir ve ürünlerini 50 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Jokon",
+    "description": "Jokon, 1948 yılında kurulmuş olan Jokon Gmbh bünyesinde üretilen çok çeşitli modern aydınlatma armatürleri, arka lambalar, karavan aydınlatma, araç aydınlatması ve yedek parçaları markasıdır.Jokon Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lavonni",
+    "description": "Lavonni, 2001 yılında kurulmuş olan Promostar Mutfak Eşyaları San. Tic. Ltd. Şti. bünyesinde üretilen döküm, granit tencereler, döküm kek kalıpları, cam kapaklar, sahanlar, sap, tepe setleri, tava kulpları, tava ve sahan setleri, tavalar, pişirme ekipmanları markasıdır.Ürünleri kimyasal içermez. Firma İstanbul merkezlidir.Bünyesindeki markalar;LavonniPromo Star",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-07-22"
+  }
+]

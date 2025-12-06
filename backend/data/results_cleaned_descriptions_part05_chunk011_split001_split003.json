@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Stitec",
+    "description": "Stitec, 2000 yılında kurulan Stitec AB bünyesindeki enerji ve genişbant çözümleri markasıdır.Altyapı, arızi, sonuçsal, elektrik ve gayrimenkul olmak üzere üç pazar alanında elektrik ve geniş bant çözümleri üretmektedir.Stitec AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Sts Oberholz",
+    "description": "Sts Oberholz, 1997 yılında kurulan STS Oberholz GmbH & Co KG bünyesindeki karavan ve motorlu evler için güvenlik ve kilitleme sistemleri markasıdır.Ürün yelpazesinde kilitleme sistemleri, variller ve anahtarlar, dolgu boyunları, aksesuarlar, ekler ve aksesuarlar yer almaktadır.STS Oberholz GmbH & Co KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pqwt",
+    "description": "Pqwt, 2006 yılında kurulan Hunan Puqi Geologic Exploration Equipment Institute bünyesinde üretilen yeraltı su bulucu, boru su kaçak dedektörü, maden dedektörü, boşluk dedektörü, yeraltı metal dedektörü, arkeolojik dedektör, su dedektörü, yeraltı su dedektörü markasıdır.Hunan Puqi Geologic Exploration Equipment Institute Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Netd",
+    "description": "Netd, 2013 yılında Doğan Holding bünyesinde kurulan Netd Müzik Video Dijital Platform ve Tic. A.Ş. bünyesindeki yasal video platformu markasıdır.Doğan Holding’in hak sahibi olduğu tüm video içeriklerinin bulunduğu sitedir.Tüm içerik ücretsiz ve reklam desteklidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Üçleroğlu Tuz",
+    "description": "Üçleroğlu Tuz, 1972 yılında kurulan Rıfat Üçleroğlu Genel Gıda İnşaat Nakliye San. ve Tic. A.Ş. bünyesinde üretilen tuz markasıdır.ISO 9001 belgesine sahiptir.Firma Konya merkezlidir.Bünyesindeki markalar;ÜçleroğluAnadolu Tuz",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

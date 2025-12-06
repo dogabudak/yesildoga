@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Safun",
+    "description": "Safun, 1998 yılında kurulan Zhejiang Safun Industrial Co. Ltd. bünyesinde üretilen akülü bahçe aletleri, bahçe aletleri, elektrikli aletler, elektrikli bahçe aletleri, elektrikli el aletleri, bataryalar ve aksesuarlar markasıdır.Zhejiang Safun Industrial Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 120 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ulric de Varens",
+    "description": "Ulric de Varens, 1983 yılında Ulric Viellard tarafından kurulan Ulric De Varens SA bünyesinde üretilen parfüm, vücut bakım ürünü, kadın kozmetik ürünleri, ev kokuları ve mumları ile mücevherler markasıdır.Ulric De Varens SA Fransa merkezlidir. Türkiye’de Parfumvarens Kozmetik San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Jean Paul Gaultier",
+    "description": "Jean Paul Gaultier, 1978 yılında Jean Paul Gaultier tarafından kurulan Jean Paul Gaultier S.A. bünyesindeki parfüm markasıdır.2011 yılında Jean Paul Gaultier S.A. çoğunluk hissesi İspanya merkezli Puig S.L. tarafından satın alındı ve Parfüm lisansı 2016 yılında Puig S.L.’ye geçti. Ürünlerini 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Zespri",
+    "description": "Zespri, 2000 yılında kurulan Zespri International Limited bünyesindeki kivi markasıdır.Şirket, kivi çeşitleri üretmekte ve pazarlamaktadır. Ayrıca dünya çapında yemek tarifleri, bahçecilik araştırmaları ve tedarik perakendecileri sunmaktadır.Zespri International Limited Yeni Zelanda merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NZ",
+    "updated_date": null
+  },
+  {
+    "company": "Cellucor",
+    "description": "Cellucor, 2014 yılında kurulan Woodbolt Distribution LLC bünyesinde üretilen vitamin ve gıda takviyeleri markasıdır.Şirket, antrenman öncesi, antrenman sonrası, amino asitler, protein, testosteron güçlendiriciler ve kilo kaybı takviyelerinin yanı sıra erkekler ve kadınlar için antrenman seansı ve hazır giyim ürünleri sunmaktadır.Woodbolt Distribution LLC Amerika merkezlidir.Bünyesindeki markalar;CellucorXtend",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

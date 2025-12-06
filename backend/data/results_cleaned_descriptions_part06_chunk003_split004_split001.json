@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Jacques Du Manoir",
+    "description": "Jacques Du Manoir, 1976 yılında kurulan Jacques Du Manoir AG bünyesinde üretilen kol saatleri markasıdır.Jacques Du Manoir AG İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Suyika",
+    "description": "Suyika, 1990 yılında kurulan Suyika Tem. Mad. San. Tic. Paz. Ltd. Şti. bünyesinde üretilen elektrikli şofbenler, musluk, banyo aksesuarları markasıdır.Firma Samsun merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Licape",
+    "description": "Licape, 2020 yılında kurulan Carpediem Kozmetik A.Ş. bünyesinde üretilen leke kremi, cilt beyazlatıcı, yüz temizleme jeli markasıdır.Ciltte oluşan güneş lekesi, akne, siyah nokta, kırışıklık gibi çeşitli sorunları yok eden ürünler üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Remsa",
+    "description": "Remsa, 2008 yılında kurulan Eurofren Systems S.L.U. bünyesinde üretilen fren parçaları markasıdır.Kurşun, bakır ve antimon gibi ağır metaller içermeyen fren balataları üretmektedir.Eurofren Systems S.L.U. İspanya merkezlidir.Bünyesindeki markalar;RemsaRoadhouse y Woking",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Masmi Natural Cotton",
+    "description": "Masmi Natural Cotton, 2006 yılında kurulan Cotton High Tech S.L. bünyesinde üretilen organik pamuklu hijyenik ped, tamponlar, kulak çubukları, pamuk diskler, ıslak mendil, hijyen ürünleri markasıdır.Ürünleri yüzde 100 organik pamuktan üretilmektedir ve hayvanlar üzerinde test edilmemektedir. Kimyasal maddeler, pestisitler, klor, dioksin, GDO içermez. ISO 9001 belgesine sahiptir.Cotton High Tech S.L. İspanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

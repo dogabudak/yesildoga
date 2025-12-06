@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Colmar",
+    "description": "Colmar, 1923 yılında Mario Colombo tarafından kurulan Mario Colombo & Co S.P.A. bünyesindeki spor ekipman ve giysiler markasıdır.Mario Colombo & Co S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Wrapsol",
+    "description": "Wrapsol, 2008 yılında kurulan MLC Manufacturing LLC. bünyesindeki cep telefonları, dizüstü bilgisayarlar, tabletler, saatler ve giyilebilir cihazlar dahil her türlü cihaz için ekran koruma ürünleri markasıdır.Koruyucu filmi nanoteknoloji ile üretilmiş poliüretan yapıdadır.MLC Manufacturing LLC. Amerika merkezlidir ve 20’den fazla ülkede hizmet vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Madeş Metal",
+    "description": "Madeş Metal, 1978 yılında kurulan Madeş Metal San. ve Tic. Ltd. Şti. bünyesinde üretilen HDG, PPGI, HR, HRP, CR ürün satışı Dilme, Boy kesme, trapez, oluk, Stor, mahya ürünleri markasıdır.OHSAS 18001, ISO 9001, ISO 14001 belgelerine sahiptir.Demir çelik sektöründe hizmet veren Kocaeli merkezli firma ürünlerini 20 bin metrekarelik alanda bulunan Dilovası Makine OSB’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eksen Mobilya",
+    "description": "Eksen Mobilya, 1991 yılında kurulan Asil Büro Mobilya İmalat ve Tic. Ltd. Şti. bünyesinde üretilen ofis mobilyaları markasıdır.Ahşap, metal, deri ve cam ürünlerini kullanarak, doğaya ve insan sağlığına zararlı malzeme kullanmadan; yönetici grupları, personel grupları, resepsiyon, kesonlar soyunma dolapları ve standart kabinler, toplantı ve konferans, okul sıraları, dolaplar, iş istasyonları mobilyaları üretmektedir.ISO 9001 belgesine sahiptir.Gaziantep merkezli firma ürünlerini 7 bin metrekaresi kapalı olmak üzere toplam 20 bin metrekarelik alanda üretmektedir. Ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jack Wills",
+    "description": "Jack Wills, 1999 yılında Peter Williams tarafından kurulan Jack Wills Retail Limited bünyesindeki giyim markasıdır.Kıyafetleri gömlek, tüvit bleazer ceket gündelik giysiler, kapüşonlu üstlük, eşofman, tişört ve polo gömleklerden oluşmaktadır. Jack Wills’in ürünleri, silindir şapkalı ve bastonlu sülün imzalı logosuyla markalanmıştır.Jack Wills Retail Limited, 2019 yılında İngiltere merkezli Frasers Group plc tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

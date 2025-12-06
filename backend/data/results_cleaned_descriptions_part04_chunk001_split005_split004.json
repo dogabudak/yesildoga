@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Yeelight",
+    "description": "Yeelight, 2012 yılında kurulan Qingdao Yeelink Information Technology Co., Ltd. bünyesindeki LED Tavan Lambası, LED Ampul, LED Masa Lambası markasıdır.Ürünleri dünya çapında 100’den fazla ülke ve bölgeye pazarlanmaktadır.Qingdao Yeelink Information Technology Co., Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "OpenText",
+    "description": "OpenText, 1991 yılında Tim Bray, Gaston Gonnet ve Frank Tompa tarafından kurulan OpenText Corporation bünyesindeki Kurumsal içerik yönetimi, iş süreci yönetimi, müşteri deneyimi yönetimi, bilgi alışverişi, keşif ve analiz yazılımı, siber güvenlik yazılımı markasıdır.OpenText Corporation Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Dealertrack",
+    "description": "Dealertrack, 2001 yılında kurulan Dealertrack, Inc. bünyesindeki otomotiv perakende sektörü için dijital çözümler markasıdır.Dealertrack, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aroma Espresso Bar",
+    "description": "Aroma Espresso Bar, 1994 yılında Sahar Shefa tarafından kurulan Aroma Espresso Bar Ltd. bünyesinde üretilen espresso bar ve kahve zinciri markasıdır.Ülke çapında 125 şubesi vardır. Amerika, Kanada, Romanya, Kazakistan ve Ukrayna’da şubeleri bulunmaktadır.Aroma Espresso Bar Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Elite Turkish Coffee",
+    "description": "Elite Turkish Coffee, 1933 yılında Richard ve Hilde Strauss, Eliyahu Fromenchenko, Mara Mosevics-Gottlieb tarafından kurulan Strauss Group Ltd. bünyesinde üretilen kahve içeceği markasıdır.Süt ürünleri, kahve, çikolata, su, atıştırmalıklar, salata ve sos üreticisi Strauss Group Ltd. İsrail merkezlidir. Doğu Avrupa ve Brezilya’da lider bir kahve şirketidir. İsrail’deki en büyük gıda ürünleri üreticileri arasındadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

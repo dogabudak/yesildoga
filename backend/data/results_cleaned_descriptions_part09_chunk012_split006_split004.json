@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Keune Haircosmetics",
+    "description": "“Keune Haircosmetics“1922 yılında Jan Keune tarafından kurulmuş olan Keune Haircosmetics B.V. bünyesindeki saç bakım ürünleri, saç şekillendiriciler markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Keune Haircosmetics B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "AllMatters",
+    "description": "“AllMatters“2012 yılında kurulmuş olan Organicup Aps bünyesindeki yeniden kullanılabilir dönem iç çamaşırları, regl kupası markasıdır.Ürünleri parfüm ve alkol içermez.Organicup Aps Danimarka merkezlidir ve ürünleri AB’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Southampton F.C",
+    "description": "Southampton F.C.“Southampton F.C. İngiltere merkezli bir futbol kulübüdür.Kulübün çoğunluk hisselerini 2022 yılında spor ve eğlence sektöründe faaliyet gösteren yatırım firması İngiltere merkezli Sport Republic satın almıştır. Azınlık hisseler Katharina Liebherr’e aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ekler",
+    "description": "“Ekler“2006 yılında kurulmuş olan Ekler bünyesindeki cerrahi aydınlatma, dekoratif tavan armatürleri, diş lazeri, led ampuller, multimedya cerrahi aydınlatma, tavan ışıkları, aksesuarlar markasıdır.Ekler Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Göztepe SK",
+    "description": "Göztepe SK Hangi Ülkenin“Göztepe SK“Göztepe SK 1925 yılında kurulmuştur.Kulübün yüzde 70 hissesini 2022 yılında spor ve eğlence sektöründe faaliyet gösteren yatırım firması İngiltere merkezli Sport Republic satın almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

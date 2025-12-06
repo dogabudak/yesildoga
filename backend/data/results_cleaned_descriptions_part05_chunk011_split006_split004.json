@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dove Chocolate",
+    "description": "Dove Chocolate, 1939 yılında Dove Candies & Ice Cream tarafından üretilen çikolata markasıdır. Dove, çok çeşitli çikolatalı şekerlerin yanı sıra süt, kek ve dondurma gibi diğer çikolata ürünlerini de üretmektedir.Dove Candies & Ice Cream 1986 yılında Amerika merkezli Mars Incorporated tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Eurobatex",
+    "description": "Eurobatex, 1976 yılında kurulan Union Foam S.P.A. bünyesinde üretilen izolasyon malzemeleri, metalden olmayan esnek borular ve hortumlar markasıdır.Şirketin iş kolu kauçuk, plastik hortum ve kemer imalatını içermektedir. Ayrıca inşaat endüstrisi için kauçuk ürünler, ısı yalıtım malzemeleri ve ses yalıtım malzemeleri alanlarında da faaliyet göstermektedir.Union Foam S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Geze",
+    "description": "Geze, 1863 yılında kurulan Geze Gmbh bünyesindeki otomatik kapı sistemleri ve kapı teknolojisi, CAM sistemleri, duman ve ısı tahliye sistemleri, güvenlik sistemleri, pencere ve havalandırma teknolojileri markasıdır.Geze Gmbh Almanya merkezlidir. Türkiye’de Geze Kapı ve Pencere Sistemleri San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Derma E",
+    "description": "Derma E 1984 yılında kurulan Stearn’s Products Inc. bünyesinde üretilen vitaminler, antioksidanlar ve doğal cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. Paraben, sülfat, vazelin, mineral yağ, ftalat, sodyum lauril sülfat, soya, GDO hayvansal bileşenler içermez.Stearn’s Products Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Chint",
+    "description": "Chint, 1984 yılında kurulan Zhejiang Chint Electrics Co. Ltd. bünyesinde üretilen elektrikli ve elektronik cihazlar, elektrik ve otomasyon kontrol sistemleri, güneş pilleri ve modülleri, terminal cihazları, kontrol cihazları markasıdır.Zhejiang Chint Electrics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

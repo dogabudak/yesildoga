@@ -1,0 +1,45 @@
+[
+  {
+    "company": "AF International",
+    "description": "AF International, 1941 yılında kurulan HK Wentworth Grubu bünyesindeki otomotiv, endüstriyel ve anahtar imalat sektörleri için yağ üretimi ve tedariki sağlar.H. K. Wentworth Limited, İngiltere merkezli elektronik ve endüstriyel üretim endüstrileri için yüksek özel kimyasal ürünlerin üreticisidir. ISO 9001, ISO 140001, IATF 16949, OHASA 18001 ve AS/EN 9100 belgelerine sahiptir. 60’ın üzerinde ülkede faaliyet göstermektedir.İngiltere, Hindistan ve Çin’de üretim merkezlerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pales",
+    "description": "Pales, 2007 yılında Lale Çavuşoğlu Kuseyrioğlu tarafından kurulan Pales Süt Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen tereyağı, peynir, lor ve çökelek markasıdır.Firma Antakya’nın yöresel peynirlerini üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bahlsen",
+    "description": "Bahlsen, 1889 yılında Hermann Bahlsen tarafından kurulan Bahlsen GmbH & Co. KG. bünyesinde üretilen çikolata, şekerleme markasıdır.Bahlsen GmbH & Co. KG. Almanya merkezlidir. Çeşitli bisküvi, kek ve gofret gibi ürünlerini Almanya’da ve Polonya’da bulunan fabrikalarında üretmektedir ve ürünlerini 55 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tonny Black",
+    "description": "Tonny Black, 2011 yılında kurulan Aypima Ayakkabı İm. Paz.ve Mat. San. Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.Ayakkabı üretiminin her aşamasını İstanbul’da bulunan 5 bin metrekarelik kendi fabrikasında gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "M Mon Village",
+    "description": "Mon Village, 1934 yılında Andre Cornu tarafından kurulan Cornu S.A., Boulangerie Fine bünyesinde 2013 yılından itibaren üretilen tereyağı, peynir, taze kurabiye, kraker ve diğer kuru fırın ürünleri ve atıştırmalık gıdalar markasıdır.Cornu S.A., Boulangerie Fine İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.Üretimini özel olarak tasarlanan son teknolojik otomatik sistemlerle gerçekleştirmektedir. Ürünlerini 37 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

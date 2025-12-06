@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cemilzade",
+    "description": "Cemilzade, 1867 yılında Şekerci Udi Cemil Efendi tarafından temelleri atılan Cemilzade Tur. Yat. İnş. Gıda San. ve Tic. A.Ş. bünyesinde üretilen lokum, ezme, şekerleme, çikolata, marmelat markasıdır.Ürünleri hiçbir katkı maddesi içermemektedir. Tatlandırıcı olarak sadece pancar şekeri kullanılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brunello Cucinelli",
+    "description": "Brunello Cucinelli, 1979 yılında kurulan Brunello Cucinelli S.p.A. lüks erkek giyim, kadın giyim ve aksesuarları markasıdır.Şirketin tüm ürünleri el yapımıdır.Brunello Cucinelli S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Eleventy",
+    "description": "Eleventy, 2007 yılında Marco Baldassari ve Paolo Zuntini tarafından kurulan Eleventy World Srl bünyesindeki lüks giyim ürünleri markasıdır.2014 yılında özel sermaye şirketi Vei Capital firmanın yüzde 51’ini devraldı.Eleventy World Srl İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "American Vintage",
+    "description": "American Vintage, 2005 yılında Michael Azoulay tarafından kurulan American Vintage Inc. bünyesindeki giyim ürünleri markasıdır.Dünya çapında yaklaşık 150 butiğe sahiptir.American Vintage Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Harris Wharf London",
+    "description": "Harris Wharf London, 2010 yılında Harris Wharf Style Srl bünyesindeki klasik resmi kıyafetleri yeniden tasarlayan modern bir dış giyim markasıdır.Wharf Style Srl tüm koleksiyonları sadece İtalyan kumaşlarından İtalya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

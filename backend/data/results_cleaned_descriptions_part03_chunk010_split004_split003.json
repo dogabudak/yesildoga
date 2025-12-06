@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Neopink",
+    "description": "Neopink, 2014 yılında kurulan Softcosmetic Medikal Sağlık Ürünleri Paz. İth. İhr. Ltd. Şti. bünyesinde üretilen tüy inceltici bakım kremi markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Smorff",
+    "description": "Smorff, 2018 yılında kurulan Denis Kozmetik San. Ve Tic. Ltd. Şti. bünyesinde üretilen konserve ağda markasıdır.Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mumuso",
+    "description": "Mumuso, 2014 yılında Mumuso Co. Ltd. bünyesinde üretilen makyaj ürünleri markasıdır.Mumuso Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mollon Pro",
+    "description": "Mollon Pro, 2003 yılında kurulan Molon Cosmetics Sp. Z.O.O. bünyesinde üretilen tırnak bakım ürünleri markasıdır.Molon Cosmetics Sp. Z.O.O. Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Doxa",
+    "description": "Doxa, 1992 yılında kurulan Ergün Kimya Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen el ve vücut temizleyici markasıdır.Ürünlerini Gaziantep 5. OSB’de bulunan 18 bin 500 metrekarelik alanda üretmektedir.Bünyesindeki markalar:DOXAGLOREXLEVESSİMAMY SOAPNOXES",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

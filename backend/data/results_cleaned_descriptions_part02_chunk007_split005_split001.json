@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Polion",
+    "description": "Polion, 2005 yılında kurulan İ Teknoloji Bilgisayar ve Elektronik San. ve Tic. Ltd. Şti. bünyesindeki batarya markasıdır.Ürünlerini Türkiye’de İstanbul’daki fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Altın Petek Yarışması",
+    "description": "Altın Petek yarışması ilk kez 2016 yılında devlet televizyonu TRT1’de yayınlanan, yapımcılığını Ramazan Arman ve Orhan Öztürk’ün üstlendiği yüzde 100 yerli bilgi yarışmasıdır.Büyük ödülü 1 milyon TL olan bilgi yarışması en az 8 en fazla 15 doğru cevapla kazanılabilir. Son soru olan Altın Petek’e kaç soruda ulaşabileceği yarışmacının anahtar kelime tercihlerine bağlıdır. Yarışmacı yarışmaya 4 Bronz Joker ve 1 Gümüş Joker hakkıyla başlar ve bilemediği ilk soruda elenir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Da Vinci Learning Kanalı",
+    "description": "Da Vinci Learning, 2007 yılında kurulan Da Vinci Media GmbH bünyesindeki belgesel, eğitim kanalıdır.Da Vinci, 3 kıtada ve 19 farklı dilde 30 milyondan fazla abone tarafından izleniyor.Da Vinci Learning, Da Vinci U’nun yanı sıra, gün içinde çocuklara ve ailelere yönelik eğitici programlar, akşam kuşağında ise yetişkinlere yönelik belgeseller ve eğitici diziler yayınlamaktadır.Da Vinci Media GmbH Almanya merkezlidir.2015 yılından itibaren Türkiye’de yayına başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "kidSAFE Sertifikası",
+    "description": "kidSAFE, 2006 yılında kurulan Samet Privacy LLC, bünyesinde çocuklar için uygun çevrimiçi oyun siteleri, eğitim hizmetleri, sanal dünyalar, sosyal ağlar, mobil uygulamalar, tablet cihazlar, bağlı oyuncaklar, vb. çevrimiçi web siteleri ve teknolojileri ile interaktif hizmetler için verilen bağımsız bir güvenlik sertifikasıdır.Samet Privacy LLC, Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jungheinrich",
+    "description": "Jungheinrich, 1953 yılında Dr. Friedrich Jungheinrich tarafından kurulan Jungheinrich AG bünyesindeki istif makineleri markasıdır. Ayrıca yedek parça tedarik etmektedir.39 ülkede faaliyet gösteren Jungheinrich AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

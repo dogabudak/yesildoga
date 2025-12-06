@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Kagito",
+    "description": "2017 yılında kurulmuş olan Kagito Kırtasiye San. ve Tic. Ltd. Şti. bünyesindeki ajanda, ciltli defterler, fosforlu kalem, kalem ve yazı, keçe uçlu kalem, keçeli boya kalemi, not defterleri, silgi markasıdır.Firma Tekirdağ merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "MTNG Shoes",
+    "description": "2010 yılında Mtng Europe Experience SLU bünyesinde kurulmuş olan; kadınlar, erkekler ve çocuklar için ayakkabılar, sandaletler, botlar, çeşitli giyim ve aksesuarlar markasıdır.Mtng Europe Experience SLU İspanya merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "John Hatter",
+    "description": "2018 yılında kurulmuş olan John Hatter & Co. bünyesindeki lüks şapkalar, kasketler, kayak kaskları, cüzdanlar, tişörtler, kılıfar markasıdır.John Hatter & Co. İsveç merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Joy Sportswear",
+    "description": "1975 yılında kurulmuş olan Scoretex Gmbh bünyesindeki erkek ve kadınlar için pantolonlar, spor, fitness giyim ürünleri markasıdır.Scoretex Gmbh Almanya merkezlidir.Bünyesindeki markalar;Hot SportswearJoy SportswearVenice Beach",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mina Yağ",
+    "description": "yılında kurulmuş olan Emek Yağ San. A.Ş. bünyesinde üretilen ayçiçek yağı markasıdır.ISO 9001, TSE, Helal ve Koşer belgelerine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

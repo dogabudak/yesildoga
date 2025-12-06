@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Eylure",
+    "description": "Eylure, 1947 yılında David ve Eric Aylott kardeşler tarafından kurulan kirpik markasıdır.1981 yılında Amerika’da kurulan PDC Brands şirketine ait bir markadır.Takma kirpik denince ilk akla gelen dünyadaki ilk markadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Stuart Weitzman",
+    "description": "Stuart Weitzman, 1986 yılında ayakkabı tasarımcısı Stuart Weitzman tarafından kurulan ayakkabı markasıdır.Weitzman’ın kurduğu şirket bir kaç kez el değiştirdi. Şirket Amerikan merkezli Tapestry, Inc. bünyesinde faaliyet gösteriyor.Tapestry Bünyesindeki Markalar:Coach New YorkKate SpadeStuart Weitzman",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Selpak Firmanın",
+    "description": "Selpak, 1970 yılında kurulan Eczacıbaşı Tüketim Ürünleri markasıdır. Selpak markalı, Tuvalet kağıdı, havlu, kağıt bez, peçete, mendil ve kutu mendil gibi ürünleri bulunmaktadır.Eczacıbaşı 1942 yılında Nejat Ferit Eczacıbaşı tarafından kuruldu. Eczacıbaşı temel olarak yapı ürünleri, sağlık, tüketim ürünleri alanında, ulusal ve uluslararası pazarlara yönelik olarak çalışan bir sanayi kuruluşları topluluğudur. Topluluk yapısında, bu temel sektörler dışında finans, bilgi teknolojileri, kaynak teknolojileri, madencilik ve gayrimenkul geliştirme alanında etkinlik gösteren kuruluşlar da yer alıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Waymo",
+    "description": "Waymo, 2009 yılında kurulan kendi kendini süren elektrikli araç markasıdır. Google 2016 yılında projeyi ana şirketi olan Alphabet Inc. altında yeni bir şirkete geçirdi. Bu şirket 2020 yılında seri üretime geçmeyi planlıyor.Alphabet Inc. Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sensilis",
+    "description": "Sensilis, 1994 yılında kurulan; Anti Aging ürünler, cilt bakım kremi, cilt temizleme ürünleri, dudak bakımı, göz çevresi bakımı, maske, nemlendirici, saç bakım maskesi, saç kremi, şampuan ve yetişkinler için güneş kremi markasıdır.Sensilis bir İspanya markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2020-02-18"
+  }
+]

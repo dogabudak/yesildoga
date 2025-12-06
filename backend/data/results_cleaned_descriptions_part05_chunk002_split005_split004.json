@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sarcam",
+    "description": "Sarcam, 1996 yılında kurulan Sar-Cam San. Tur. İnş. Taah. ve Tic. Ltd. Şti. bünyesinde üretilen çift cam, aynalı buzlu cam, düz cam, lamine cam, reflektif cam, renkli cam, temperli cam markasıdır.Ürünlerini başta Balkan ülkeleri olmak üzere pek çok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sarbay",
+    "description": "Sarbay, 2012 yılında kurulan Sarbay Gida Eğitim Giyim Çelik Orman Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen şerbet, pekmez ve yüz maskesi markasıdır.Ana çalışma alanı gıda ve kozmetik olan firmanın ürünleri arasında gıda ürünleri (ayçiçek yağı, un, zeytin yağı, kurutulmuş meyveler, kuruyemişler, bisküvi çikolata, meyve suyu ve hazır içecekler), bebek bezi ve hijyen ürünleri, tekstil, ayakkabı, Kişisel bakım ve hijyen ürünleri (bebek ve yetişkin bezleri, ıslak mendil, tuvalet kağıdı ve peçete, şampuan), genel temizlik ürünleri yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wishtrend",
+    "description": "Wishtrend, 2010 yılında kurulan Wishcompany Inc. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. Vegan ve çevre dostudur.Wishcompany Inc. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir ve 70’ten fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Salon",
+    "description": "Salon, 2006 yılında kurulan Kyana Hellas AE bünyesinde üretilen profesyonel saç ürünleri markasıdır.Kuaför ürünleri alanında hizmet vermektedir.Kyana Hellas AE Yunanistan merkezlidir ve ürünlerini Yunanistan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "UleFone Akıllı Telefon",
+    "description": "UleFone Akıllı Telefon Hangi Ülkenin Malı MarkasıUleFone, Zhang Linyi tarafından kurulan Ulefone Technology CO. LTD. bünyesinde üretilen mobil cihaz ve aksesuar markasıdır.Ulefone Technology CO. LTD. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-11-08"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Caniss",
+    "description": "2004 yılında kurulmuş olan Chemo Healthcare Pvt. Ltd. bünyesinde üretilen antibiyotik markasıdır.ISO 9001 belgesine sahiptir.Chemo Healthcare Pvt. Ltd. Hindistan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "HomeMaxx",
+    "description": "Bim Birleşik Mağazalar A.Ş. adına ithal edilen veya muhtelif üreticiler tarafından üretilen elektronik ürünler markasıdır.Dikiş makinesi, elektrikli şofben, süpürgeler, hava nemlendirici, buhar kazanlı ütü, araç buzdolabı gibi ürünler sunulmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Milk&Moo",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seasir",
+    "description": "1948 yılında kurulmuş olan Shandong Seasir Brewing Food Co. Ltd. bünyesinde üretilen soya sosu, sirke, teriyaki sosu, unagi sosu ve diğer baharat çeşitleri markasıdır.Brc, Ifs, Fda, Helal, Koşer, Sedex, Haccp, Organik belgelerine sahiptir.Shandong Seasir Brewing Food Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "BRC",
+      "FDA",
+      "HACCP",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Medkon Lines",
+    "description": "2009 yılında kurulmuş olan Medkon Hat İşletmeciliği Denizcilik ve Tic. A.Ş. bünyesindeki konteyner hat servisi, feeder konteyner servisi, kabotaj taşımacılığı, açık yük ve proje taşımacılığı, brokerlik, gemi kiralama, lojistik servis sağlayıcılığı, S&P, forwarding, gemi alım-satım, kara nakliyesi, depo işletmeciliği ve gemi-liman acenteliği markasıdır.Firma İstanbul merkezlidir. Türkiye’de İzmir, Bursa, Kocaeli, Mersin, Hatay dışında; Mısır, Libya, Cezayir, Fas, Tunus, Arnavutluk, İspanya, Lübnan ve Romanya’da da ofisleri vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

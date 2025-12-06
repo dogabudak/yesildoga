@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Renee Cosmetics",
+    "description": "Renee Cosmetics, 2019 yılında kurulan Renee Cosmetics Pvt. Ltd. bünyesinde üretilen makyaj markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Renee Cosmetics Pvt. Ltd Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Sznajder",
+    "description": "Sznajder, 1925 yılında kurulan Zap Sznajder Batterien S.A bünyesinde üretilen akü ve pil markasıdır.ISO / TS 16 949, ISO 9001, ISO 14001, GOST belgelerine sahiptir.Zap Sznajder Batterien S.A Polonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Schmetz",
+    "description": "Schmetz, 1851 yılında kurulan Ferd. Schmetz Gmbh bünyesinde üretilen ev ve endüstriyel dikiş makinesi iğneleri markasıdır.Ayrıca atölyeler ve hobi sektörü için eksiksiz bir ürün yelpazesini kapsamaktadır.Ferd. Schmetz Gmbh, 2017 yılında Almanya merkezli Groz-Beckert KG’nin bir parçası oldu. Firmanın Almanya, Belçika, Çek Cumhuriyeti, Portekiz, ABD, Hindistan, Çin ve Vietnam’da üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Segafredo Zanetti",
+    "description": "Segafredo Zanetti, 1973 yılında kurulan Segafredo Zanetti S. P. A. bünyesindeki kahve içecekleri markasıdır.Evde tüketim için ürünler (ifade edilen karışımlar ve sistemler) ve ev dışında tüketime yönelik ürünler (profesyonel karışımlar, sistemler, espresso, otomatlar) sunmaktadır.Segafredo Zanetti S. P. A. İtalya merkezli Massimo Zanetti Beverage Group holding şirketine aittir. Şirketin Brezilya’da, kahve ekimi olan kendi tarlaları vardır.Bünyesindeki markalar;BoncafeBonchocoBonteaBrodiesCafe CorsicaCafe MagCafe MontanaCafe VelezChase & SanbornChock full o’NutsFabiaHills Bros.Hills Bros. CappuccinoHoja VerdeiCafèItambeKauaiLa San MarcoMeiraMJBPhiltre d’OrPrivate LabelsPuccino’sSaicafSan MarcoSegafredo ZanettiSegafredo Zanetti Coffee SystemSegafredo Zanetti EspressoTiktak",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Aigostar",
+    "description": "Aigostar, 2009 yılında kurulan Aigostar SL bünyesinde üretilen ev aletleri, aydınlatma ürünleri ve elektrikli ürünler, elektrikli su ısıtıcıları, kahve makineleri, hava fritözleri, karıştırıcılar, elektrikli süpürgeler, ampuller, prizler markasıdır.Aigostar SL İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Ufen",
+    "description": "1996 yılında kurulmuş olan Çetinkaya Kırtasiyecilik ve Kağıt Ürünleri San. Dış Tic. Ltd. Şti. bünyesindeki spiralli defterler, ciltli defterler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ink-Tank",
+    "description": "Ink-Tank Hangi Ülkenin Malı MarkasıdırInk-Tank1995 yılında kurulmuş olan Zhuhai National Resources & Jingjie Printing Technology Co. Ltd. bünyesinde üretilen çeşitli baskı sarf malzemeleri markasıdır.Mürekkep püskürtmeli kartuşlar ve şişelenmiş mürekkep üretmektedir ayrıca fotoğraf kağıdı, toner kartuşları, renkli şeritler, CISS ve diğer ilgili ürünler tedarik etmektedir.ISO 9001, ISO 14001 belgelerine sahiptir.Zhuhai National Resources & Jingjie Printing Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hourglass",
+    "description": "2004 yılında kurulmuş olan Kingdom Animalia LLC bünyesinde üretilen kozmetik, makyaj, cilt bakımı ve güzellik ürünleri markasıdır.Şirket, ruj, astar, rimel, parfüm gibi ürünler sunmaktadır. Ürünleri hayvanlar üzerinde test edilmemektedir.Kingdom Animalia LLC 2017 yılında İngiltere merkezli Unilever PLC tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Rockstar Energy",
+    "description": "2001 yılında kurulmuş olan Rockstar Inc. bünyesinde üretilen enerji içeceği markasıdır.Glikoz, sitrik asit, asitlik düzenleyici, taurin, renklendiriciler içermektedir.Rockstar Inc. 2020 yılında Amerika merkezli PepsiCo Inc.tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Care + Protect",
+    "description": "Care + Protect1984 yılında Haier Group bünyesinde kurulmuş olan Haier Smart Home Co. Ltd. bünyesindeki temizlik ürünleri, yıkama aksesuarları, gıda koruma, mutfak aksesuarları markasıdır.Haier Smart Home Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

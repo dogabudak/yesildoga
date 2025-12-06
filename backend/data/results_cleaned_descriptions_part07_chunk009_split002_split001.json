@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Opar",
+    "description": "Opar, 1973 yılında Tofaş Türk Otomobil Fabrikası A.Ş. bünyesinde kurulan Opar A.Ş. bünyesindeki yedek parça ve aksesuarlar, yağlar ve kimyasallar markasıdır.Yüzde 100 Koç Holding sermayeli şirket Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Descente",
+    "description": "Descente, 1935 yılında kurulmuş olan Descente Ltd. bünyesindeki spor giyim ve aksesuarlar markasıdır.Firma çok çeşitli rekabetçi sporlar için birden fazla markada sürekli olarak performans ürünleri geliştirmiştir.Descente Ltd. Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Keddo",
+    "description": "Keddo, 1992 yılında kurulmuş olan Keddo Grunberg Gmbh bünyesinde üretilen ayakkabı markasıdır.Birçok ülkede depolara sahiptir.Keddo Grunberg Gmbh Almanya merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;AnalpaBetsyCrosbyGrunbergKeddo",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Burley-Sekem",
+    "description": "Burley-Sekem, 1985 yılında Joe Burley tarafından kurulmuş olan Burley Sports Pty. Ltd. bünyesinde üretilen ragbi, kriket ve futbol gibi çeşitli sporlardan takımlar için ekipman ve ürünler markasıdır.Burley Sports Pty. Ltd. Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Atlıhan Giyim",
+    "description": "Atlıhan, 2003 yılında kurulmuş olan Ka-gi Tekstil San. Tic. Ltd. Şti. bünyesinde üretilen erkek dış giyim, erkek takım elbise, kaban, mont, gömlek, pantolon markasıdır.Firma Adana merkezlidir.Bünyesindeki markalar;AtlıhanAtlıhanparkKa&giSormen",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

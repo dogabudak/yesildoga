@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Skip Hop",
+    "description": "Skip Hop, 2003 yılında Michael ve Ellen Diamant tarafından kurulan Skip Hop Inc. bünyesindeki ebeveynler, bebekler ve çocuk ürünleri markasıdır.Skip Hop Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Singulato",
+    "description": "Singulato, 2014 yılında kurulan Zhiche Youxing Technology Co., Ltd. bünyesinde üretilen elektrikli araç markasıdır.Singulato Motors, büyük veri geliştirme ve bulut bilgi işlem teknolojilerine odaklanarak yeni elektrikli araçları, sürücüsüz sürüş sistemleri, otomotiv ağ hizmetleri geliştirmektedir.Zhiche Youxing Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bandizip Ülke",
+    "description": "Bandizip, 2008 yılında kurulan Bandisoft Co., Ltd. bünyesindeki bilgisayar tabanlı sıkıştırma programı markasıdır.Bandisoft tarafından geliştirilen ve dağıtılan özgür yazılımlar, ev ve iş yeri de dahil olmak üzere her yerde serbestçe kurulabilir ve kullanılabilir.Bandisoft Co., Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2020-10-18"
+  },
+  {
+    "company": "Vepa",
+    "description": "Vepa, 1956 yılında kurulan Vepa Fırça San. ve Tic. A.Ş. bünyesinde üretilen tarak ve ahşap saplı saç fırçaları ile ıtriyat ve kozmetik markasıdır.Ürün yelpazesi ağız bakım ürünleri, kişisel bakım ürünleri, ev bakım ürünleri markasıdır.2008 yılında Hasan Hüsnü Okur tarafından satın alınmıştır.Ürünleri çok sayıda ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eizo",
+    "description": "Eizo, 1968 yılında kurulan Eizo Corporation bünyesindeki bilgisayar monitörleri, tıp monitörleri, renk yönetim monitörleri, endüstriyel monitörler, görüntüleme sistemi yazılımı markasıdır.Eizo Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

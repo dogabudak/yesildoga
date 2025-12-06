@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fullwood",
+    "description": "Fullwood1992 yılında kurulmuş olan Fullwood Ltd. bünyesinde üretilen süt sağım makineleri, süt depolama ve soğutma çözümleri markasıdır.Fullwood Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Sumaş",
+    "description": "Sumaş1978 yılında kurulmuş olan Sumaş Suni Tahta ve Mobilya San. A.Ş. bünyesinde üretilen suni yonga levha ve sunta tutkalı markasıdır.Firma Balıkesir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Inpos",
+    "description": "İnpos2019 yılında kurulmuş olan Unıq Teknoloji A.Ş. bünyesinde üretilen ödeme sistemleri çözümleri markasıdır.Yazarkasa pos cihazları, termal rulo, yazar kasa para çekmecesi, taşıma çantası gibi ürünler ve yazılımlar sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Primark & Penneys",
+    "description": "Primark Penneys1969 yılında kurulmuş olan Primark Stores Limited bünyesindeki giyim, kozmetik ve ev eşyaları perakende markasıdır.Primark Stores Limited İngiltere merkezli Associated British Foods plc bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Lansor",
+    "description": "Lansor1983 yılında kurulmuş olan Sanovel İlaç San. ve Tic. A.Ş. bünyesindeki ilaç markasıdır.Toksöz Grup’a ait Sanovel A.Ş.’nin yüzde 30’u 2020 yılında İngiltere merkezli Metric ve ortağı Afendis Capital Partners tarafından yönetilen Yamma Investments tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

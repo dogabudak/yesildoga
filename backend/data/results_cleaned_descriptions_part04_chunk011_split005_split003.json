@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Aischaa",
+    "description": "Aischaa, 1993 yılında kurulan R-R İth. İhr. ve Paz. Şirketi bünyesindeki saç bakım ürünleri, antibakteriyel el ve cilt losyon markasıdır.Ürünlerini Almanya, Fransa, Birleşik Krallık ve Hollanda başta olmak üzere birçok Avrupa ülkesine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baypack",
+    "description": "Baypack, 2018 yılında kurulan Baypack Ambalaj Gıda San. ve Tic. A.Ş. bünyesinde üretilen polietilen gıda ve sanayi streçleri, alüminyum folyo, yanmaz fırın torbası ve pişirme kağıdı markasıdır.Firma ayrıca palet streci, plastik ve karton bardak, pipet, koli bandı tpe eldiven, çöp poşeti, silaj film gibi ürünler, islak mendil ve koku ürünleri sunmaktadır.ISO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Faberlic",
+    "description": "Faberlic, 1997 yılında Alexey Nechaev tarafından kurulan Faberlic JSC yılında kurulan kozmetik ürünler markasıdır.Ürün yelpazesinde cilt ve saç bakımı, özel parfümler, dekoratif kozmetikler, ev ve sağlık ürünleri, iç çamaşırı ve tayt, moda kıyafetleri yer almaktadır.Faberlic JSC Rusya merkezlidir. Ürünlerini 42 ülkeye pazarlamaktadır.ISO 9001, ISO 22716 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Eas Electric",
+    "description": "Eas Electric, 2016 yılında kurulan Eas Electric Smart Technology S.L. ev aletleri, televizyon ve evsel ve endüstriyel klima ekipmanları markasıdır.Eas Electric Smart Technology S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Chuwi",
+    "description": "Chuwi, 2004 yılında kurulan Chuwi Innovation and Technology Co. Ltd. bünyesinde üretilen tablet, dizüstü bilgisayar, mini bilgisayar, bilgisayar aksesuarları ve diğer dijital ürünler markasıdır.Chuwi Innovation and Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmekte, 60’tan fazla ülke ve bölgede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

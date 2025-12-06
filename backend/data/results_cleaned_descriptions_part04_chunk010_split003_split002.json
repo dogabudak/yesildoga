@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Brand Charger",
+    "description": "Brand Charger, 2011 yılında kurulan BrandCharger Limited bünyesindeki çantalar, teknoloji ürünleri, cep telefonu aksesuarları markasıdır.BrandCharger Limited Hong Kong merkezlidir. Ürünlerini 100’den fazla ülkeye dağıtmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Burkley",
+    "description": "Burkley, 2014 yılında kurulan Buonaventura Bag And Cases LLC bünyesindeki, kamera, bilgisayar, akıllı saat, mobil cihazlar için tasarlanan kılıflar markasıdır.Buonaventura Bag And Cases LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oji",
+    "description": "Oji Paper, 1873 yılında kurulan Oji Paper Co., Ltd. bünyesinde üretilen baskı ve yazı kağıdı, oluklu mukavva ve karton, ambalaj ve ambalaj kağıdı, kağıt kaplar, termal kağıtlar, plastikler ve tek kullanımlık çocuk bezleri markasıdır.Oji ayrıca kağıt yapımı ve ambalajlama için kimyasalların üretiminde de yer almaktadır.Oji Paper Co Ltd. Japonya’nın en büyük ikinci kağıt üreticisidir. Ürünlerini 16 fabrikada üretmektedir. Dünya çapında 120’den fazla bağlı kuruluş ve bağlı kuruluşa sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Haweel",
+    "description": "Haweel, 2010 yılında kurulan Shenzhen Haweel Technology Co. Ltd. bünyesinde üretilen elektronik ürünler, dijital aksesuarlar, Cep telefonu aksesuarları markasıdır.Shenzhen Haweel Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünleri 200’den fazla ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Guard Leather",
+    "description": "Guard Leather, 1982 yılında kurulan Özözler Deri Mam. Day. Tük. Mal. San. ve Tic. Ltd. Şti. bünyesinde üretilen deriden çanta, cüzdan, kemer ve çeşitli deri aksesuarları markasıdır.TSE ve ISO 9001 belgelerine sahiptir.Ürünlerini İstanbul’da bulunan 4 bin 500 metrekaresi kapalı, bin 500 metrekaresi açık alanda yer alan fabrikasında yüzde 100 yerli olarak üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

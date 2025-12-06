@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Nichicon",
+    "description": "Nichicon, 1950 yılında kurulan Nichicon Corporation bünyesinde üretilen kapasitör, hibrit entegre devreler, termistörler markasıdır.Nichicon Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "HBO Max",
+    "description": "HBO Max, 2018 yılında WarnerMedia Direct LLC tarafından kurulan dijital içerik platformu markasıdır.Dijital yayın platformu aylık ve yıllık abonelik seçenekleri sunmaktadır.WarnerMedia Direct LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Repo Soğuk Jöle",
+    "description": "Repo Soğuk Jöle Nerenin Malı MarkasıRepo, 1988 yılında kurulan Özmer Pastacılık ve İçecek Ürünleri San. Paz. Tur. ve Dış Tic. A.Ş. bünyesinde üretilen pastacılık ürünleri markasıdır.Ürün yelpazesinde kokteyl sosları, limon sosları, kokteyl şuruplari, meyve özlü pastacilik katkilari, dondurma sosları, bitkisel jöleler, profiterol sos, glasso sosu, kokteyl miks gibi ürünler yer almaktadır.TSE ISO EN 9000, ISO 9001 ISO 22000 belgelerine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini 50’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;CoreFümerFoLimpoRepo",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Şenocak Fındık",
+    "description": "Şenocak Fındık Nerenin Malı MarkasıŞenocak Fındık, 1953 yılında kurulan Şenocak Gıda Fındık Entegre Turz. Nak. İnş. San. Tic. Ltd. Şti. bünyesinde üretilen kabuklu fındık ve doğal fındık, kavrulmuş, beyazlatılmış, doğranmış, un ve fındık ezmesi ürünleri markasıdır.ISO 22000, BRC, UTZ, IFS, Kosher, Sedex, Helal, Organik belgelere sahiptir.Firma Ordu merkezlidir ve Ordu’da bulunan fabrikasında üretim yapmaktadır.",
+    "documents": [
+      "BRC",
+      "IFS",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ninja Foodi",
+    "description": "Ninja, 1994 yılında Mark Rosenzweig tarafından kurulan SharkNinja Operating LLC bünyesindeki düdüklü tencere, ızgara, fırın, blender, küçük ev aletleri ve temizlik çözümleri markasıdır.SharkNinja Operating LLC 2017 yılında Çin merkezli CDH Private Equity tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

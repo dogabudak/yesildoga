@@ -1,0 +1,46 @@
+[
+  {
+    "company": "The Protein Works",
+    "description": "The Protein Works, 2012 yılında kurulan Class Delta Ltd. bünyesinde üretilen gıda takviyesi ve vücut geliştirme takviyeleri markasıdır.Şirket, peynir altı suyu protein tozları, şurup, protein püresi, protein krepleri, protein granolaları, protein tatlıları ve fındık ezmesi gibi proteinli yiyecekler üretmektedir.Class Delta Ltd. İngiltere ve Galler merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Odor Eaters",
+    "description": "Odor Eaters, 1947 yılında kurulan Blistex Inc. bünyesinde üretilen ayak kokusu giderici sprey ve ayak tabanlığı ürünleri markasıdır.Firma ayrıca dudak bakım ürünleri serisi üretmektedir.Blistex Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rochcell",
+    "description": "Rochcell, 2018 yılında kurulan Salkom Kozmetik Turizm Orman Ürünleri İthalat İhracat Tic. Ltd. Şti. bünyesindeki kişisel bakım ürünleri markasıdır.Firma ürünlerini İstanbul’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pikok",
+    "description": "Pikok, 1930 yılında Josef Schwarz tarafından kurulan Lidl Stiftung & Co. KG bünyesindeki hazır yemekler, sosisler ve sosis konserveleri markasıdır.Lidl Stiftung & Co. KG, Almanya merkezli Schwarz Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Demet’s",
+    "description": "Demet’s, 1898 yılında George Demet tarafından kurulan Demet’s Candy Company bünyesindeki çikolata, fındık kremalı tatlı, karamel, çikolata kaplamalı ve atıştırmalık ürünler markasıdır.Demet’s Candy Company, 2013 yılında Yıldız Holding tarafından satın alındı. Ürünlerini Amerika’da bulunan 2 fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

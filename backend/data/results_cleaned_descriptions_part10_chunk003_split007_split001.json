@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Zolli Candy",
+    "description": "2014 yılında kurulmuş olan Koelnmesse Inc. bünyesinde üretilen şekerlemeler markasıdır.Ürünleri gluten içermez. Koşer belgesine sahiptir.Koelnmesse Inc. Amerika merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pcwinmax",
+    "description": "2005 yılında kurulmuş olan Shenzhen Tengyatong Electronic Co. Ltd. bünyesinde üretilen grafik kartları, bellek ve ekran kartları markasıdır.Shenzhen Tengyatong Electronic Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Viya Logistics",
+    "description": "2010 yılında kurulmuş olan Viya Lojistik Ltd. Şti. bünyesindeki nakliye, hava taşımacılığı, depolama hizmetleri, denizyolu taşımacılığı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fullbar",
+    "description": "1978 yılında temelleri atılan Akanlar Çikolata İçecek San. ve Nak. Tic. Ltd. Şti. bünyesinde üretilen kakao kaplamalı çilek, bitter ve yer fıstığı, krema dolgulu çilek kokolin ve kakaolu bisküvi parçacıklı kokolin markasıdır.ISO 9001, ISO 22000, ISO 45001, GMP belgelerine sahiptir.Firma Gaziantep merkezlidir ve ürünlerini 40 ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mojorette",
+    "description": "1961 yılında kurulmuş olan Simba-Dickie-Vertriebs-Gmbh & Co. Kg bünyesinde üretilen küçük döküm ölçekli model araçlar markasıdır.Simba-Dickie-Vertriebs-Gmbh & Co. Kg Almanya merkezlidir. Ürünlerini Tayland ve Fransa’da bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

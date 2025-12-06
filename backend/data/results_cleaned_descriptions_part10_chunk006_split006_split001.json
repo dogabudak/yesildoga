@@ -1,0 +1,44 @@
+[
+  {
+    "company": "MiniKöşk",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Go",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Dynapro",
+    "description": "1941 yılında kurulmuş olan Hankook Tire & Technology Co. Ltd. bünyesindeki araç lastikleri markasıdır.Daha uzun sırt ömrü için dolgu maddeleri ve esnek kauçuk malzemeleri kombinasyonu sunmaktadır.Güney Kore merkezli Hankook Tire & Technology Co. Ltd. Türkiye’de Hankook Lastikleri A.Ş. olarak faaliyet göstermektedir ve ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Pollo Wers",
+    "description": "2022 yılında kurulan Bsg Çanta İmalat San. ve Tic. A.Ş. bünyesinde üretilen sırt çantaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fishake",
+    "description": "2022 yılında kurulmuş olan Risay Gıda Teknoloji Lojistik ve Tekstil San. Tic. Ltd. Şti. bünyesindeki çikolata, aktar ürünleri, bitki çayları, detox şurubu, içecekler, kahve, pekmez, polen ve propolis, proteinli besin, saç toniği, sirke ve nar ekşisi, tonik, vücut kremleri markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

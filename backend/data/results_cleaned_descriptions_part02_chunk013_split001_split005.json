@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Unique2go",
+    "description": "Unique2go, 2012 yılında kurulan Protein Stüdyo Gıda Sani ve Tic. A.Ş. bünyesindeki doğal protein bar markasıdır.Katkısız koruyucusuz, rafine şekersiz ve yağsız atıştırmalıklar üretmektedir. Tatlandırıcı, gluten, soya, glikoz şurubu, yağ içermemektedir. ISO 22001 sertifikasına sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tranquini",
+    "description": "Tranquini, 2015 yılında kurulan Tranquini GmbH bünyesindeki bitki özleri içecekleri ve yeşil çay markasıdır.Ürünleri koruyucu kimyasallar içermez, tamamen doğal tatlandırıcılar ve doğal renklendiriciler kullanılarak üretilir. Karbonatsız ürün yelpazesi yeşil çay ve doğal maden suyundan Theanine ile karıştırılmış bir bitkisel karışım içerir.Tranquini GmbH Avusturya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Bonne Maman",
+    "description": "Bonne Maman, 1971 yılında Jean Gervoson tarafından kurulan reçel, marmelat, komposto, tatlılar, kek ve bisküvi, hamur işleri, yoğurt markasıdır.1959 yılında kurulan Andros şirketi bünyesindedir.Andros Fransa merkezli bir üreticidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Marines",
+    "description": "Marines, 1960 yılında kurulan Grup SAGUN bünyesindeki Marines Gıda Ürünleri San. ve Tic. A.Ş. tarafından üretilen bütün balıklar, fileto balıklar, kabuklular, dondurulmuş paket ürünler, marinatlı ürünler, ançüez ve füme – ton konserve, dilimlenmiş balıklar ve fümeler, yumuşakçalar, kaplamalı ürünler markasıdır.Türkiye’nin farklı yerlerinde 10 üretim tesisi ile deniz ürünleri yetiştiriciliği, üretimi, ihracatı ve ithalatı alanlarında faaliyet göstermektedir.Sagun Grup, ISO 9001 ve HACCP kalite güvence belgeleri ve TSE üretim standartlarına sahiptir.Ürünlerini ABD, Japonya, Almanya, İngiltere, Fransa gibi birçok ülkeye ihraç ediyor.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aerocamber",
+    "description": "Aerocamber, 1948 yılında Allen Chao tarafından kurulan Allergan, Inc. bünyesindeki maske markasıdır.Allergan, yüz kırışıklıkları tedavisinde dünya çapında kullanılan Botoks’u icat eden firmadır. Göz sağlığı, medikal estetik ve dermatoloji, nörolojik bilimler, gastroenteroloji, kadın sağlığı, üroloji ve enfeksiyon hastalıkları alanlarında tedavi çözümleri sunan 100 ülkede faaliyet gösteren bir şirkettir.2019 yılında Amerikalı AbbVie şirketi tarafından satın alınmıştır.Allergan’ın küresel merkez ofisleri, İrlanda ve ABD’de bulunmaktadır. Allergan Türkiye’de 2010’dan beri Allergan İlaçları Tic. A.Ş. olarak faaliyet göstermektedir.Hissedarları:The Vanguard Group (yüzde 7,22)Wellington Management (yüzde 6,74)GIC Pte (Investment Management) (yüzde 4,72)SSgA Funds Management, (yüzde 4)ClearBridge Investments (yüzde 2,52)Artisan Partners (yüzde 2,31)BlackRock Fund Advisors (yüzde 2,3)Longview Partners (yüzde 2,13)UBS Securities (yüzde 2)Farallon Capital Management (yüzde 1,9)",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

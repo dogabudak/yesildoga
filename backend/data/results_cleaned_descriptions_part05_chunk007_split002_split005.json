@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Gislaved",
+    "description": "Gislaved, 1893 yılında kurulan Gislaved Gummi AB bünyesindeki lastik markasıdır.Gislaved Gummi AB 1992 yılında Almanya merkezli Continental AG tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Alpin",
+    "description": "Alpin, 1999 yılında kurulan Alpin Teknoloji bünyesindeki sunucu, veri depolama, video konferans, SSD ve RAM markasıdır.ISO 9001, ISO 14001, ISO 10002, ISO 27001, ISO 20000-1, OHSAS 18001 ve TSE-HYB belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 20000",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Factorled",
+    "description": "Factorled, 2015 yılında kurulan Micro Sine Electric SL bünyesindeki led aydınlatma ürünleri markasıdır.Hem aydınlatma hem de endüstriyel ve evsel aydınlatmada led aydınlatma alanında geniş deneyime sahip çevrimiçi bir aydınlatma perakendecisidir.Micro Sine Electric SL İspanya merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Atiplast",
+    "description": "Atiplast, 2014 yılında kurulan Atisan Ambalaj Atık Geri Dönüşüm San. ve Tic. A.Ş. bünyesinde üretilen plastik granül, plastik poşet markasıdır.Kocaeli’de 4 bin metrekaresi kapalı toplam 10 bin metrekarelik alanda LDPE poşet üretimi, ambalaj atığı geri kazanım, ambalaj atığı toplama ayırma ve tehlikesiz atık toplama ayırma faaliyetleri gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "iDiskk",
+    "description": "iDiskk, 2005 yılında kurulan Shenzhen FeiTianXia Technology Ltd. bünyesinde üretilen usb mfi flash bellek, kart okuyucu, bluetooth kulaklık, 3d hologram ad led fan, apple mfi hdd muhafaza, kablosuz şarj, kablolar, şarj cihazları, solar şarj cihazları ve cep telefonu aksesuarları markasıdır.Shenzhen FeiTianXia Technology Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

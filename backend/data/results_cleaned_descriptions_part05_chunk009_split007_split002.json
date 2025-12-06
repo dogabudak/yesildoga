@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Edelrid",
+    "description": "Edelrid, 1863 yılında Julius Edelmann ve Carl Ridder tarafından kurulan Edelrid GmbH & Co. KG bünyesindeki kişisel koruyucu spor ekipmanları, tırmanma ve dağcılık ürünleri markasıdır.Edelrid GmbH & Co. KG 2006 yılında Almanya merkezli VauDe Sport GmbH & Co. KG tarafından satın alındı. Firma ürünlerini kendi bünyesinde veya Avrupa, Tayvan, Çin, Vietnam ve Kore’deki ortaklarıyla üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "As Term Fırın",
+    "description": "As Term, 1995 yılında Slavcho Pavlov tarafından kurulan As Term Eood. bünyesinde üretilen odunlu, gazlı, odun ve gazlı, elektrikli fırınlar markasıdır.As Term Eood Bulgaristan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Biomerieux",
+    "description": "Biomerieux, 1963 yılında Alain Merieux tarafından kurulan Biomerieux SA bünyesindeki teşhis çözümleri (reaktifler, aletler, yazılımlar, hizmetler) markasıdır.44 yan kuruluşu ve geniş dağıtıcı ağıyla 160’tan fazla ülkeye hizmet vermektedir.Biomerieux SA Fransa merkezlidir. Türkiye’de 1997 yılından beri Biomerieux Diagnostik Malzemeleri ve Hizmetleri Tic. A.Ş. olarak faaliyet göstermektedir. ISO 9001 ve ISO 10002 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Dongbu Hitek",
+    "description": "Dongbu Hitek, 1953 yılında kurulan Db Hitek Co. Ltd. bünyesinde üretilen cosf verimli cmos görüntü sensörü, lcd sürücü ıc cihazları ve diğer ilgili ürünler markasıdır.CMOS görüntü sensörleri, LCD sürücü çipleri ve gömülü flash bellek konusunda uzmanlaşmıştır. Ürünleri dizüstü bilgisayarlar, cep telefonları ve düz panel ekranlar gibi ürünlerde kullanılmaktadır. Firma ayrıca tarım ve kimya bölümlerine de sahiptir.Db Hitek Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Centrum",
+    "description": "Centrum, 1978 yılında Glaxosmithkline Plc bünyesinde üretilen bir besin takviyesi multi-vitamin markasıdır.Gluten içermez. 83 ülkede bulunan multivitamin takviyesidir.Glaxosmithkline Plc İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

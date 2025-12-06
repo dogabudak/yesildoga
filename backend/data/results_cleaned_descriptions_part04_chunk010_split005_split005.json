@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Eska Logistics",
+    "description": "Eska Logistics, 2015 yılında kurulan Eska Logistics LLC bünyesindeki kargo taşımacılığı markasıdır.Eska Logistics LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dinçer",
+    "description": "Dinçer, 1980 tarihinde kurulan Dinçer Gıda San. ve Tic. Ltd. Şti. bünyesindeki iç bakla, irmik, aşurelik buğday, börülce, bezelye, bulgur, chia, fasulye, mercimek, mısır unu, nohut, patlayan mısır, pirinç markasıdır.Ürünlerini başta Almanya, Fransa ve İsveç olmak üzere çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "House of Marley",
+    "description": "House of Marley, 2010 yılında kurulan House of Marley, LLC bünyesindeki ev ve kişisel ses sistemleri, kulaklıklar, Bluetooth hoparlörler markasıdır.Ürünleri, bambu, FSC sertifikalı ahşap, geri dönüştürülebilir alüminyum, plastik ve kumaşlar gibi malzemelerden üretilmektedir.Bob Marley’in ailesiyle birlikte kurulmuş olan ve yönetiminde aile bireylerinin söz sahibi olduğu House of Marley LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aromio",
+    "description": "Aromio, 1972 yılında kurulan D Makina A.Ş. bünyesinde üretilen endüstriyel dondurma karışımları, milkshake ve ice slush, frozen yoğurt tozları, premixler, sıcak veya soğuk içecek tozları, dondurma tozları, waffle, lokma ve pancake toz karışımları markasıdır.Waffle, sıcak çikolata, meyve suyu gibi toz ürünleri koruyucu ve tatlandırıcı maddeler içermez.Helal ve Iso 22000 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aroha",
+    "description": "Aroha, Fulya Genç tarafından kurulan Superisi Tarım Hayvancılık ve Gıda Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen çikolatalar, sürülebilir kremalar, stevia ve superfoods, trüfler ve spesiyaller markasıdır.Ürünlerinde kakao çekirdeği, tatlandırıcı (bal, hurma özü, pancar şekeri veya stevia) sütlü çeşidine göre tam yağlı inek sütü tozu veya hindistan cevizi sütü tozu kullanılır. Lesitin, emülgatör, ilave yağlar, aroma vericiler içermez.Aroha Çikolata yüzde yüz yerli sermayeli olarak Türkiye’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

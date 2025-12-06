@@ -1,0 +1,46 @@
+[
+  {
+    "company": "La Prairie",
+    "description": "La Prairie, 1882 yılında kurulan cilt bakım kremleri ve kozmetik ürünler üreten çok uluslu Beiersdorf AG şirketinin markasıdır.Beiersdorf dünyanın 200 ülkesinde kişisel bakım ürünleri, tıraş köpüğü, deodorant, parfüm, şampuan, krem, losyon, duş jeli, kozmetik ürünleri sunan Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "La Roche Posay Firmanın",
+    "description": "La Roche Posay, 1909 yılında Eugene Schueller tarafından kurulan kozmetik şirketidir.L’Oreal şirketine aittir.Loreal Group dünyanın en büyük kozmetik ve güzellik şirketidir. Fransız L’Oréal’in başlıca hissedarlarından biri yüzde 33 hisse ile Françoise Bettencourt Meyers. Nestle’nin şirkette yüzde 23,29 oranında hissesi vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Callebaut",
+    "description": "Callebaut, 1996 yılında Callebaut ile Cacao Barry firmalarının birleşmesiyle kurulan Barry Callebaut AG bünyesinde üretilen çikolata, çikolatadan kabuklar ve kuplar, çikolatadan dekorlar, kakao ürünleri, kuruyemiş ve kuruyemiş ezmeleri, çıtır dokunuşlar, dolgular ve kremalar, kaplamalar, glaze ve krema kaplamalar markasıdır.Dünya çapında 60’tan fazla üretim tesisi işleten firma 2013 yılında Türkiye’de bir çikolata fabrikası açmıştır.Barry Callebaut AG İsviçre merkezlidir.Bünyesindeki markalar;ActibrewActicoaAlproseAlto El SolAlungaBaricoaBarry CallebautBarry Callebaut RubyCacao BarryCallebautCalletsCappuchocoCaprimoCharles BarryChocolate AcademyChocolate MastersChocovicCocoartColor Concentration ControlDelynaFlairGrowing Great ChocolateIbcInayaLouisdorLuijckxMignatureMona LisaMycryoOcoaOr NoirQ FermentationRb1RigolettoRoutierRuby CalletsSarottiSenzaSicaoSilberTerra CacaoVan HoutenVan LeerVhVh Van Houten Since 1828Wholefruit BoldWholefruit VelvetyWorld Chocolate MastersXocaoZephyr",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2022-05-03"
+  },
+  {
+    "company": "Lancome",
+    "description": "Lancome, 1935 yılında Armand Petitjean tarafından kurulan lüks parfüm makyaj, kozmetik ve cilt bakımı ürünleri markasıdır.Lancome, 1964 yılında dünyanın en büyük kozmetik ve güzellik şirketi Loreal Group tarafından satın alındı.Fransa merkezli L’Oréal’in yüzde 33 hissesi Fransız Françoise Bettencourt Meyers’e yüzde 23,29 hissesi Nestle’ye ait.L’Oréal, Türkiye pazarına 1980’li yıllarda L’oreal Türkiye adıyla giriş yaptı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Arbella",
+    "description": "Arbella, 2007 yılında ilk kez üretilen, Durum Gıda’ya ait olan makarna ve irmik ürünleri markasıdır.Arbella Makarna ve Arbella İrmik, Mersin’de faaliyet gösteren tesislerde üretilmektedir.Arbella markası ile 25 çeşit makarna üreten Durum Gıda, Arbella Family ile çocuklar ve ailelere yönelik Warner Bros karakterli vitamin ve mineral katkılı makarnalar, Arbella Plus markası ile tam buğday makarnası, glutensiz ve sebzeli makarnalar üretmektedir.Kanada merkezli AGT Food and Ingredients Inc. Durum Gıda’nın sahibidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": "2019-09-24"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Fleet Guard",
+    "description": "Fleet Guard, 1958 yılında kurulan Cummins Inc. bünyesinde üretilen motor filtresi markasıdır.Hava filtresi, yakıt filtresi, yağ filtresi üretmektedir.Cummins Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Leroy Somer",
+    "description": "Leroy Somer, 1919 yılında Marcellin Leroy tarafından kurulmuş olan Leroy-Somer SAS bünyesinde üretilen endüstriyel alternatörler, jeneratörler, elektrik motorları ve tahrik sistemleri markasıdır.Leroy-Somer SAS, 2017 yılında Japonya merkezli Nidec Corporation tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2023-01-19"
+  },
+  {
+    "company": "Violife",
+    "description": "Violife, Upfield B.V. bünyesinde üretilen bitki bazlı yapay peynir markasıdır.Hindistancevizi yağından üretilmekte olan ürünler; koruyucu maddeler, kazein, laktoz, süt ürünleri, glüten, fındık ve soya içermez.Upfield B.V. 2018 yılında Amerika merkezli küresel yatırım şirketi KKR & Co. Inc. tarafından satın alınmıştır. Türkiye’de Upfield İstanbul Gıda Üretim A.Ş. olarak faaliyet göstermektedir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Necono",
+    "description": "Necono, 2001 yılında Alex Kaiser tarafından kurulan Necono AG bünyesinde üretilen akımsız 3D nemlendirici markasıdır.Yatak odasında, çocuk odasında veya oturma odasında bulunan bir 3D nemlendiricidir, aşırı kuru havaya karşı kullanılır.Necono AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Nerds",
+    "description": "Nerds, 1908 yılındakurulan Ferrara Candy Company Inc. bünyesinde üretilen sakızlı şekerlemeler markasıdır.Ferrara Candy Company, 2017 yılında İtalya merkezli Ferrero SpA tarafından satın alındı. Firma ürünlerini Amerika’da üretmektedir.Bünyesindeki markalar;Atomic FireBallBarch’sBlack ForestBob’sBoston Baked BeansBottle CapsChucklesFruit Stripe GumFun DipFunables Fruity SnacksGobstopperJaw BustersJujyfruitsLaffy TaffyLemonheadNerdsNipsNow and LaterPixy StixRainbloRedHotsRuntsSather’sSpreeStretch Island FruitSuper Bubble GumSweetartsTrolli",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Gekoo",
+    "description": "Gekoo, 2014 yılında kurulan Gekoo Gıda ve Ekolojik Ürünler San. ve Tic. A.Ş. bünyesindeki baharatlar, bakliyat, bal, glutensiz un, manav, meyve kuruları, pekmez tahin meyve özleri, un ve tahıllar, yağlar, zeytin, salça markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oscar Schmidt",
+    "description": "Oscar Schmidt, 1911 yılında kurulan akustik gitarlar, bas, elektro gitarlar, ukulele, mandolin, kılıflar ve çantalar markasıdır.Firmanın Avrupa’da beş ve Amerika’da bir fabrikası vardır.Oscar Schmidt Amerika merkezli JAM USA LLC’nin bir bölümüdür.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Abacus Electronics",
+    "description": "Abacus Electronics, 1984 yılında kurulan Abacus Electronics Gmbh bünyesindeki ses hi-fi amplifikatör, aktif hoparlörler, preamp, hat sürücüsü, hoparlör, pa aktif hoparlör gibi ses ürünleri markasıdır.Abacus Electronics Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Peiker Acustic",
+    "description": "Peiker Acustic, 1946 yılında Peiker Acustic GmbH & Co. KG bünyesindeki bilgi ve iletişim teknolojileri markasıdır.Mikrofon, hoparlör, radyo ve cep telefonu kullanımı için telefon, Bluetooth eller serbest kitleri ve araç içi multimedya sistemleri dahil olmak üzere elektronik ürünler üretmektedir.Peiker Acustic GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Essity",
+    "description": "Essity, 2017 yılında kurulan Essity AB bünyesindeki kişisel bakım, profesyonel hijyen ürünleri markasıdır.Essity AB İsveç merkezlidir.Bünyesindeki markalar;JOBSTLeukoplastLibresseOKAY (Fransa ve Belçika’da)PlentyTENATempoTorkVindaZewa veya Cushelle",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Free Denvers",
+    "description": "Denvers, 2005 yılında kurulmuş olan Elit Ayakkabıcılık San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;CosbyCrushDenversFree NobleScooby Kids",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kooler",
+    "description": "Kooler, 2000 yılında kurulmuş olan Kolsan Kocaeli Lastik San. A.Ş. bünyesinde üretilen araç lastikleri markasıdır.ISO 9001, ISO 45001 belgelerine sahiptir.Firma Kocaeli merkezlidir ve ürünlerini 50’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;ChemiKolsanKoolastKoolerKoolsebaWaterfall",
+    "documents": [
+      "ISO",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aksin Pampa",
+    "description": "Pampa, 1987 yılında kurulmuş olan Bülent Aksin Ayakkabıcılık San. Tic. A.Ş. bünyesinde üretilen ayakkabı markasıdır.ISO 9001 belgesine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini bin metrekaresi kapalı, 500 metrekaresi açık alanda bulunan üretim tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aymina",
+    "description": "Aymina, 2005 yılında kurulmuş olan Aymina Dokuma Teks. San. Tic. Ltd. Şti. bünyesinde üretilen tül, perde, masa örtüleri markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yörüksüt",
+    "description": "Yörüksüt Nerenin Malı MarkasıYörüksüt, 1992 yılında kurulmuş olan Yörüksüt A.Ş. bünyesinde üretilen ayran, kaymak, kefir, peynirler, süt, terayağı, yoğurt markasıdır.Firma Mersin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

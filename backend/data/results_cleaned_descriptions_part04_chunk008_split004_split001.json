@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cosfinity",
+    "description": "Cosfinity, 2009 yılında kurulan Cosfinity Pack & Acc Co. Ltd. bünyesinde üretilen kozmetik ambalaj markasıdır.Özelleştirilmiş kozmetik ambalajlar üretmektedir.Cosfinity Pack & Acc Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pure Storage",
+    "description": "Pure Storage, 2009 yılında John Colgrove ve John Hayes tarafından kurulan Pure Storage, Inc. bünyesindeki veri depolama donanım ve yazılım markasıdır.Tüm flash veri depolama donanım ve yazılım ürünlerini geliştirmektedir. Pure Storage, tüketici sınıfı katı hal sürücüleri kullanarak veri merkezleri için geliştirdiği flash tabanlı depolama ürünleri, geleneksel disk belleğinden daha hızlıdır. Pure Storage, her sürücüde saklanabilecek veri miktarını artırmak için özel çoğaltma ve sıkıştırma yazılımı geliştirir ve kendi flash depolama donanımını geliştirir.Pure Storage, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Micronic",
+    "description": "Micronic, 1984 yılında kurulan Mycronic AB bünyesinde mikrolitografi için kullanılan lazer yazıcılar, elektronik endüstrisi için SMT yerleştirme makineleri ve şablonsuz yazıcılar markasıdır.Bir bilgisayar teknolojisi şirketi olan Mycronic AB İsveç merkezlidir. 50’den fazla ülkede faaliyet göstermektedir. Çin, Fransa, Almanya, Japonya, Singapur, Güney Kore, Tayvan, Hollanda, Birleşik Krallık ve Amerika’da tamamen sahip olduğu iştirakleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Regatta",
+    "description": "Regatta, 1981 yılında Lionel Black tarafından kurulan Regatta Ltd. bünyesindeki giyim ve aksesuar markasıdır.Çeşitli açık hava spor markalarını içeren bir konsorsiyum olan Regatta Group’un bir parçasıdır.Regatta Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Tohatsu",
+    "description": "Tohatsu, 1922 yılında kurulan Tohatsu Corporation bünyesindeki dıştan takma motorlar, eğlence tekneleri, taşınabilir yangın pompaları, küçük itfaiye araçları, inşaat ve drenaj pompaları ve nakliye için soğutma üniteleri markasıdır.Tohatsu Corporation Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

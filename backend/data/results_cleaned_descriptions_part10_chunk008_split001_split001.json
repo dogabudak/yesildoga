@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Elevenlabs",
+    "description": "2022 yılında kurulmuş olan Eleven Labs Ltd. bünyesindeki yapay zeka destekli ses teknolojisi markasıdır.Metinleri insan benzeri doğal seslerle hayata geçirir.Eleven Labs Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bm Audio",
+    "description": "2000 yılında kurulan BM Audio Labs Inc. bünyesindeki amplifikatör ve hoparlör ve ses sistemleri markasıdır.BM Audio Labs Inc. Amerika merkezlidir ürünlerini Hong Kong’ta üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Deckers",
+    "description": "1973 yılında kurulmuş olan Deckers Outdoor Corporation bünyesindeki ayakkabı, giyim ve aksesuarlar markasıdır.Deckers Outdoor Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Novac",
+    "description": "2005 yılında kurulmuş olan Novac Makine San. Tic. Ltd. Şti. bünyesindeki dikey, yatay vakum makineleri, dilimleme makineleri, hazır kap termo form makineler, rendeleme ve küp kesim makineleri, tereyağ tambur ve tereyağ gramajlama makinesi, vakum pompaları markasıdır.Firma Sakarya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Latika",
+    "description": "2013 yılında kurulmuş olan Slava Süt ve Süt Ürünleri Gıda San. Tic. Ltd. Şti. bünyesinde üretilen geleneksel peynir ürünleri, kaşar ve mozzarella ürünler, kahvaltılık krema, sürülebilir ürünler, tereyağ ürünleri markasıdır.ISO 22.000, BRC, Helal belgelerine sahiptir.Firma Karaman merkezlidir. Ürünlerini Karaman OSB’de üretmektedir.",
+    "documents": [
+      "BRC",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

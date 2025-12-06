@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Quercetti",
+    "description": "1950 yılında Alessandro Quercetti tarafından kurulmuş olan Quercetti & C. S.p.A. bünyesindeki eğitici oyuncaklar, plastik oyuncaklar markasıdır.Quercetti & C. S.p.A. İtalya merkezlidir ve ürünleri İtalya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Tyrolia",
+    "description": "1950 yılında kurulmuş olan Htm Sport Gmbh bünyesindeki kayak ekipmanları markasıdır.Htm Sport Gmbh Avusturya merkezlidir. Üretiminin yüzde 90’ının ülke dışına pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Socomec",
+    "description": "1922 yılında kurulmuş olan Socomec Group bünyesindeki çok devreli güç izleme sistemi, elektrik sensörleri ve transformatörler, enerji ölçüm cihazları, göstergeler ve transdüserler, güç kalitesi, tek devreli güç izleme cihazları markasıdır.Socomec Group Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Lacinia",
+    "description": "2011 yılında kurulmuş olan Norm Kozmetik Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen kozmetik ve bakım ürünleri, bitkisel çay, bitkisel yağlar, ev bakım ve temizlik, pet kozmetik, takviye edici gıda markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Canhome",
+    "description": "2005 yılında kurulmuş olan Plas-San Plastik Sanayi-Mehmet Saribaş bünyesindeki çöp poşetleri markasıdır.Firma Gaziantep merkezlidir. Ürünleri Gaziantep 2. OSB’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kingsong",
+    "description": "2012 yılında kurulmuş olan Kingson Technology Co. Ltd. bünyesinde üretilen e-unicycles, e-scooterlar, e-bisikletler markasıdır.Kingson Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir. Ürünleri 100’den fazla ülkeye dağıtılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pawmas",
+    "description": "1987 yılında kurulan Şadanlar Pet Dış Tic. Ltd. Şti. bünyesinde üretilen kedi ve köpek kuru maması markasıdır.Firma İstanbul merkezlidir. Çanakkale Ezine Gıda OSB’de 12 bin 900 metrekarelik alanda kurulu üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bizim Akdo",
+    "description": "2002 yılında kurulmuş olan AKDO Dondurma Yapı Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen dondurma, tatlılar, pastalar, unlu mamülleri, ambalajlı ürünler markasıdır.Helal belgesine sahiptir.Firma Kahramanmaraş merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Centrivet",
+    "description": "1996 yılında kurulan Acon Laboratories Inc. bünyesinde üretilen şeker ölçüm cihazı ve strip, glikoz ölçüm cihazı markasıdır.ISO 13485 belgesine sahiptir.Acon Laboratories Inc. Amerika merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nutripower Nutrition",
+    "description": "2014 yılında kurulmuş olan Myd Spor Ekipmanları Sportif Beslenme Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen kreatin, l-karnitin, spor besinleri, sporcu gıdaları markasıdır.Firma Gaziantep merkezlidir ve Gaziantep’te üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

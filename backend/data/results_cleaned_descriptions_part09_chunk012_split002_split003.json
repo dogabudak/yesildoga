@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Riccon",
+    "description": "“Riccon“2020 yılında kurulmuş olan Lindon Ayakkabı İç Ve Dış Tic. Ltd. Şti. bünyesindeki ayakkabı markasıdır.Firma İzmir merkezlidir.Bünyesindeki markalar;LindonRiccon",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rolcar",
+    "description": "“Riccon“1961 yılında Rogelio Lopez tarafından kurulmuş olan Rogelio SA de CV bünyesindeki otomobil yedek parçaları, yağlayıcılar, fren hidroliği, akım geçiren kablolar, temizlik maddeleri markasıdır.Rogelio SA de CV Meksika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "MX",
+    "updated_date": null
+  },
+  {
+    "company": "Purple Biotech",
+    "description": "“Purple Biotech“2010 yılında kurulmuş olan Purple Biotech Ltd. bünyesinde üretilen tümöre karşı bağışıklık ve ilaç direncinin üstesinden gelen ilaçlar markasıdır.Purple Biotech Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Winlevi",
+    "description": "“Winlevi“1997 yılında kurulmuş olan Cosmo Pharmaceuticals NV bünyesindeki cilt ilacı markasıdır.12 yaş ve üstü kişilerde kullanılmaktadır.Cosmo Pharmaceuticals NV İrlanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Spellbinders",
+    "description": "“Spellbinders“2003 yılında kurulmuş olan Spellbinders Paper Arts Company LLC bünyesindeki kalıp kesme ve kabartma makineleri, kalıplar, kabartma klasörler, sıcak folyo plakalar, tipo baskı plakaları ve küratörlüğünde aksesuarlar markasıdır.Spellbinders Paper Arts Company LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

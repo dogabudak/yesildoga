@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Chitir Chicken",
+    "description": "Chitir Chicken, 2008 yılında kurulan Makfry Endüstriyel Mutfak Ekipmanlari Gida inşaat İthalat İhracat San. Tic. Ltd. Şti. bünyesindeki Kızarmış Tavuk Fast-Food restoran zincirleri markasıdır.İzmir merkezli firmanın 17 ülkede şubeleri bulunmaktadır. Kullandığı makineler ve ürünleri yüzde 100 yerli üretimle yapmayı hedeflemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sidem Direksiyon Bileşenleri",
+    "description": "Sidem, 1933 yılında kurulan Sidem Nv bünyesinde üretilen palet kontrol kolları, bilyalı mafsallar, rot uçları, eksenel eklemler, stabilizatör bağlantıları, sessiz bloklar, dikme montajları gibi direksiyon ve süspansiyon parçaları markasıdır.Sidem Nv Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "GAC Motor",
+    "description": "Gac Motor, 1995 yılında kurulan Guangzhou Automobile Group Co. Ltd. bünyesinde üretilen ticari araçlar, yolcu arabaları, otobüsler, otomotiv bileşenleri markasıdır.Guangzhou Automobile Group Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mesan Kilit",
+    "description": "Mesan Kilit, 1979 yılında kurulan Mesan Kilit A.Ş. bünyesinde üretilen kilit, menteşe, conta, aksesuarlar ve kulplar, paslanmaz çelik ürünler, elektronik kollu kilitler, izleme ve erişim kontrol sistemi, elektronik dolap kilitleri, diğer elektronik kilitler markasıdır.ISO 9001, ISO 14001, OHSAS 18001, ISO 27001, ISO 50001, RoHS belgelerine sahiptir.Mesan Kilit A.Ş. 2014 yılında İngiltere merkezli Essentra plc grubunun Components bölümü şirketleri arasına katılmıştır.İstanbul, Silivri’de 35 bin metrekarelik kapalı alanda faaliyet göstermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 50001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Tempo Gofret",
+    "description": "Tempo, 1976 yılında kurulan Tempo Şekerleme San. ve Tic. Ltd. Şti. bünyesinde üretilen gofret markasıdır.Ürünleri susam, şeker, glikoz, fındık, bal içermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

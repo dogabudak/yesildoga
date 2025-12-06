@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Proficare Kişisel Bakım Ürünleri",
+    "description": "Proficare, 1982 yılında kurulan Clatronic International Gmbh bünyesindeki ağız bakımı, epilasyon ve vücut bakımı, erkekler için saç bakımı ve sakal düzeltme, iç mekan iklimi, saç bakımı, sağlık ve fitness, zemin ve tekstil bakımı ürünleri markasıdır.Clatronic International Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Maxxmee",
+    "description": "Maxxmee, Brand Chain Gmbh bünyesindeki mutfak, bahçe ve kendin yap ürünleri, giyim ve aksesuar, güzellik ve fitness, aksesuarlar markasıdır.Brand Chain Gmbh’nin çatı şirketi DS Holding Gmbh 2021 yılında Almanya merkezli The Social Chain AG tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Azim Un",
+    "description": "Azim Un, 2000 yılında kurulan Akhan Un Fabrikası Gıda Tarım Ürünleri San. Tic. Ltd. Şti. bünyesinde üretilen çok amaçlı un, bazlamalık un, ekmeklik un, el yufkalık un, kadayıflık un, katmerlik un, lüks böreklik ve baklavalık un, lavaşlık un, makine yufkalık un, pastalık ve böreklik un, pidelik un, simitlik un, tam buğday unu, tandırlık un, yufkalık un markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma Adana merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fermo Tel",
+    "description": "Fermo, 2002 yılında kurulan Apaydın Metal A.Ş. bünyesinde üretilen tel ve çit ürünleri markasıdır.Amasya merkezli firma ürünlerini 20 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "3A Medes",
+    "description": "3A Medes, 1984 yılında kurulan 3A Medes Company bünyesinde üretilen diş klinikleri ve laboratuvarları için piezo ultrasonik ölçekleyici, vakumlu eski, contalar, tek kullanımlık ısırık tepsileri, film montajı, dental cihazlar gibi diş ve laboratuvar ekipmanları ve sarf malzemeleri markasıdır.ISO 13485, GMP belgelerine sahiptir.3A Medes Company Güney Kore merkezlidir ve ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

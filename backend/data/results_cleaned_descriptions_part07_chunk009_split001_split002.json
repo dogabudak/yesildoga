@@ -1,0 +1,50 @@
+[
+  {
+    "company": "TT Electronics",
+    "description": "TT Electronics, 1812 yılında kurulmuş olan TT Electronics Plc bünyesinde üretilen elektronik bileşenler markasıdır.Havacılık, savunma, medikal ve endüstriyel pazarlar için sensörler, dirençler ve diğer elektronik bileşenler tasarlar ve üretir. Otomotiv, enerji ve endüstriyel pazarlar için güç kaynakları, konektörler ve diğer elektronik bileşenler tasarlar ve üretir.TT Electronics Plc İngiltere merkezlidir. Ürünlerini İngiltere, Amerika, Meksika, Çin ve Malezya dahil olmak üzere dünya çapında 21’den fazla üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Huayu Air Fryer",
+    "description": "Huayu, 1996 yılında kurulmuş olan Huayu Electrical Appliance Group Co. Ltd. bünyesinde üretilen pişirme ekipmanları, ütü, elektrikli süpürge, derin dondurucu, buzdolabı, radyatör, kahve makinesi, tost makinesi, su sebili markasıdır.Huayu Electrical Appliance Group Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kajal Professional",
+    "description": "\"Kajal Professional Nerenin Markas\"\nKajal Professional Nerenin MarkasKajal, 1962 yılında kurulmuş olan Atomizer Kozmetik Turizm ve Yapı San. Tic. A.Ş. bünyesinde üretilen makyaj ürünleri markasıdır.ISO 9001, ISO 14000, ISO 22716, ISO 45000, HELAL belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 22716",
+      "ISO 45000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "La Melon",
+    "description": "La Melon, 2020 yılında kurulmuş olan SDG Grup Kozmetik ve Gıda Ltd. Şti. bünyesinde üretilen makyaj ürünleri, nemlendirici, kapatıcı, jel krem makyaj tabanı, bronzlaşma yağı, dudak yağı, kaş mumu markasıdır.Ftalat, paraben içermez ve tamamen doğal ve zengin içerikler ile formüle edilmiştir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Uquip",
+    "description": "Uquip, 2011 yılında Sascha Dieball, Kai Harms ve Frank Hansen tarafından kurulmuş olan Skanfriends Gmbh bünyesindeki çadırlar, kamp malzemeleri, çantalar, motosiklet ve karavan kapakları, spor malzemeleri markasıdır.Skanfriends Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Urtekram",
+    "description": "Urtekram, 1972 yılında kurulan Urtekram Int. A/S bünyesinde üretilen bakım ürünleri, gıda ve dondurulmuş gıda, laktoz ve glutensiz ürünler markasıdır.Urtekram Int. A/S Danimarka merkezlidir ve ürünlerini Danimarka’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Jiacom",
+    "description": "Jiacom, 2010 yılında kurulan Shenzhen JIACOM Technology Co., Ltd bünyesinde üretilen temassız ateş ölçer markasıdır.Firma kan basıncı ekranı, kızılötesi termometre, kızılötesi kulak / alın termometresi, nebülizör, kan şekeri ölçer ürünleri üretmektedir.Shenzhen JIACOM Technology Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünleri 120’den fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Xidian",
+    "description": "Xidian, 2012 yılında kurulan Shenzhen Xinxinsheng Technology Co., Ltd. bünyesinde üretilen temassız dijital ateş ölçer termometre markasıdır.Shenzhen Xinxinsheng Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Elektromarla",
+    "description": "Elektromarla, 1954 yılında kurulan Marla Turizm İnşaat Tekstil San. Tic. A. Ş. bünyesinde üretilen mini buzdolabı, soğutucu, otel kasası, kettle ve kettle tepsisi markasıdır.Ürünlerini 10 bin 200 metrekarelik kapalı alanda bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clinians",
+    "description": "Clinians, 1960 yılında Corrado Ravanelli tarafından kurulan Mirato S.p.A. bünyesinde üretilen güneş kremi, yüz ve vücut bakım ürünleri markasıdır.Clinians, 2000 yılında Mirato tarafından satın alındı.Mirato S.p.A. İtalya merkezlidir.Bünyesindeki markalar:BreezeCliniansGeomarGlicemilleI ProvenzaliIntesaMaliziaNidraSplend’Or",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

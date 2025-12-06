@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Kwailnara",
+    "description": "KwailnaraArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1986 yılında kurulan Welcos Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Firma doğal güzellik ve kozmetik ürünleri üretmektedir.Welcos Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Noxy Herbal",
+    "description": "Noxy HerbalArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1993 yılında kurulmuş olan Maxi Kimya A.Ş. bünyesinde üretilen yüz temizleme jeli, aydınlatıcı serum, lift serum, asit serum, kuru ve cansız saçlar için, erkek şampuan, zeytinli sıvı sabun markasıdır.İstanbul merkezli firma ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir. Ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "No-Max Tiner",
+    "description": "No-MaxArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2015 yılında kurulmuş olan Sed-Kim Sedef Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen yanmaz tiner markasıdır.Tinere alternatif, sentetik ve selülozik yanmazlık özelliği bulunan ve tüm tiner işlevlerini sağlayan yanmaz tiner ateşle temas ettiğinde yanma ve parlama özelliği olmayan renksiz bir çözeltidir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Transparent Clinic",
+    "description": "Transparent ClinicArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1982 yılında kurulmuş olan Anubis Cosmetics S.L. bünyesinde üretilen yüz kozmetikleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Anubis Cosmetics S.L. İspanya merkezlidir. Ürünlerini İspanya’da üretmektedir ve 40’a yakın ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Çobanpınar",
+    "description": "ÇobanpınarArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1985 yılında kurulmuş olan Çobanpınar İçme Suyu ve İnş. San. Tic. Ltd. Şti. bünyesinde üretilen şişelenmiş içme suyu markasıdır.Polikarbonat Damacanaları, her dolumdan önce sağlığa uygun deterjan, dezenfektan ve ozonla sterilize edilmektedir.ISO 9001, HACCP, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

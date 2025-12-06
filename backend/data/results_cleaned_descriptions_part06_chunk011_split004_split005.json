@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Shofbi",
+    "description": "Shofbi, 2012 yılında kurulan Sıcak Musluk San. ve Tic. Ltd. Şti. bünyesinde üretilen akıllı şofben markasıdır.CE ve ISO 10002 belgelerine sahiptir.Firma Denizli merkezlidir. Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jnod",
+    "description": "Jnod, 2009 yılında kurulan Guangdong Jnod New Energy Technology Co. Ltd. bünyesinde üretilen elektrikli ısıtma kazanı, elektrikli kombi, elektrikli ısıtma sistemi kazanı, anlık elektrikli su ısıtıcı ve elektrikli su musluğu markasıdır.Guangdong Jnod New Energy Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Le Pain Des Fleurs",
+    "description": "Le Pain Des Fleurs, 1989 yılında kurulan Ekibio SAS bünyesinde üretilen ekmek, tahıl gevrekleri ve bisküvi gibi organik yiyecekler markasıdır.Ürün yelpazesi ayrıca temizlik, ev işleri, hijyen ve daha fazlasını içerir.Ekibio SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "9GAG TV",
+    "description": "9GAG, 2008 yılında Ray, Chris, Derek Chan, Marco Fung, Brian Yu tarafından kurulan 9GAG Inc. bünyesindeki çevrimiçi fotoğraf ve video paylaşım platformudur. Kullanıcı tarafından oluşturulan içeriği veya diğer içerikleri harici sosyal medya web sitelerinden yüklemelerine ve paylaşmalarına olanak tanır.Freestyle Capital, True Ventures, First Round Capital, Greycroft Partners, 500 Startups, Y Combinator ve ABD’deki bir grup büyük melek yatırımcı tarafından desteklenmektedir.9GAG Inc. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Benzaderm",
+    "description": "Benzaderm, 2015 yılında kurulan Solebio İlaç San. İthalat İhracat A.Ş. bünyesindeki cilt sorunları için jel markasıdır.12 yaşından küçük çocuklarda güvenliliği ve etkililiği gösterilmemiştir. Çocuklar için tavsiye edilmemektedir. Ağız, göz, dudak, mukoz membranlar, egzemalı ve hasarlı cilt ile temas ettirilmemelidir.İstanbul merkezli firma ürününü Kırklareli merkezli üretici Farma-Tek İlaç San. ve Tic. A.Ş.’ye ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

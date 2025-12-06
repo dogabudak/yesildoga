@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Skagen",
+    "description": "Skagen, 1984 yılında kurulan Fossil Group, Inc. bünyesindeki saat markasıdır.Fossil Group, Inc. Amerika merkezlidir. Fossil erkek ve kadın koleksiyonunda cüzdan, çanta, takı, saat ve güneş gözlüğü bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "KIOTI Tractor",
+    "description": "KIOTI Tractor, 1986 yılında Daedong Industrial Company, Ltd. traktör ve tarım ekipmanları markasıdır.Şirketin Amerika, Hollanda ve Çin’de iştirakleri bulunmaktadır.Daedong Güney Kore merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Poly Gold",
+    "description": "Poly Gold, Keskin ailesi tarafından kurulan Everest Elektronik Kuyumculuk Hırdavat İthalat İhracat Petrol İnşaat Nakliyat Tekstil Sanayi bünyesinde 2002 yılından itibaren yer alan bilgisayar ve gsm aksesuarları, elektronik ve güvenlik sistemleri ürünleri markasıdır.Poly Gold markalı ürünler Çin’den ithal edilmektedir.Bünyesindeki markalar:DiaronPoly GoldPoly LedSg Swissgold",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-05-13"
+  },
+  {
+    "company": "Merck Sharp & Dohme",
+    "description": "Merck Sharp & Dohme (MSD), 1891 yılında Merck ailesi tarafından Merck’in bir iştiraki olarak kurulan ve 1917 yılında bağımsız bir şirket olan Merck & Co., Inc., d.b.a. dünyanın en büyük ilaç şirketlerinden biridir.Alman Merck KGaA şirketinin bir yan kuruluşu olarak kurulmasına rağmen 1917 yılında Amerika hükümeti tarafından kamulaştırılarak bağımsız bir Amerikan şirketi oldu. Merck & Co. Amerikan şirketi sadece Amerika ve Kanada’da Merck ticari markası haklarına sahiptir. Diğer ülkelerde Merck, Sharp & Dohme (MSD) olarak faaliyet göstermektedir.Türkiye’de 1992 yılından itibaren Merck Sharp & Dohme İlaçları Ltd.Şti.(MSD) olarak kolestrol, hipertansiyon, osteoporoz, astım, glokom, hastane infeksiyonları gibi farklı tedavi alanlarında faaliyet göstermektedir.MSD Türkiye, merkez ofisi 16 bin 500 metrekare alana kurulan bina, çeşitli güvenlik, yangın ve merkezi otomasyon sistemlerine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-01-28"
+  },
+  {
+    "company": "Sedwick",
+    "description": "Sedwick, 1971 yılında Osman Boyner tarafından kurulan BEYMEN MAĞAZACILIK A.Ş. bünyesindeki triko markasıdır.Beymen, Boyner Grup şirketidir. Sermayesinin yüzde 96,89 oranındaki çoğunluğu Mayhoola’ya geri kalanı Boyner Holding’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  }
+]

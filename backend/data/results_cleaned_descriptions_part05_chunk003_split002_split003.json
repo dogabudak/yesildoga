@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Oba Market",
+    "description": "OBA Market MMC, 2016 yılında Veyseloğlu Grubu bünyesinde kurulan komşu market ağı markasıdır.Ağ oluşturma ana amacı, malları düşük fiyat ve yüksek kalite ile müşterilere sunmaktır. Şu anda 900’den fazla online market içermektedir. Nahçıvan dışında Azerbaycan’ın, tüm bölgelerinde kullanılabilir.Veyseloğlu Grubu Azerbaycan merkezlidir.Bünyesindeki markalar;Çudo VkusaAlemshahBabuşkinoDory BabyFelliniHekayaLazovskayaLovbeMonte LemoNurRevelSabellaSafranTamdadTurk chefZolotaya BasnaZolotoy Kray",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "GVDA",
+    "description": "GVDA, 2005 yılında kurulan Shenzhen GVDA Technology Co. Ltd. bünyesinde üretilen lazer mesafe ölçer, lazer seviyesi, kızılötesi termometre, gaz analizörleri, metal dedektörü ürünleri markasıdır.Shenzhen GVDA Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wl Toys",
+    "description": "Wl Toys, 2013 yılında kurulan Wl-Toys Ltd. bünyesinde üretilen radyo kontrollü drone, kedi, tekne, tank gibi oyuncaklar ve tüketici elektroniği ürünleri markasıdır.Wl-Toys Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-11-28"
+  },
+  {
+    "company": "Florist Su",
+    "description": "Florist Su Çelik Kardeşler Su Tesisleri Nakliye San. ve Tic. Ltd. Şti. bünyesinde üretilen içme suyu markasıdır.ISO 9001, ISO 22000 belgelerine sahip olan firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Laofix",
+    "description": "Laofix, 2020 yılında kurulan Lavofix Doğal Kozmetik Ürünleri bünyesinde üretilen organik saç bakım ürünleri markasıdır.Lavanta ürünlerini mamul madde haline getirerek üretim yapmaktadır. Firma Isparta merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Otumm Saat",
+    "description": "Otumm, 2013 yılında kurulan More Labels Group S.L. bünyesindeki saat markasıdır.Paslanmaz çelik, plastik ve alaşımlı kasalar gibi her türlü malzemeden saatler üretmektedir.More Labels Group S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Ff Group",
+    "description": "Ff Group, Ffgroup Tool Industries bünyesindeki çok çeşitli el aletleri ve aksesuarları, elektrikli el aletleri aksesuarları, bahçe aletleri, tarım aletleri, boya aletleri ve spreyleri, yapıştırıcılar, kilitler ve asma kilitler, iş güvenliği eldivenleri ve ayakkabıları markasıdır.ISO 9001 belgesine sahiptir.Ffgroup Tool Industries Almanya merkezlidir.Bünyesindeki markalar;BenmanFf GroupHugo LocksMorris",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "The Newlab.",
+    "description": "The Newlab. Nerenin Malı MarkasıThe Newlab., 2018 yılında kurulan Cosmopublic İç ve Dış Tic. A.Ş. bünyesinde üretilen koltuk altı beyazlatıcı roll on markasıdır.Ürünleri paraben, sls içermez, GMP belgelidir.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Reva Cosmetics",
+    "description": "Reva Cosmetics, 1962 yılındakurulan Atomizer Kozmetik A.Ş. bünyesinde üretilen temiz içerikli kozmetik ürünleri markasıdır.Firmanın üretim yelpazesi makyaj ve makyaj temizleyicileri, cilt temizleyicileri, vücut bakım ürünleri, aktif doğal yağlar veya özler içeren cilt bakım ürünleri, güneş bakım ürünleri, banyo temizlik ve bakım ürünleri, otel misafir ağırlama ürünleri, parfüm ve vücut kokuları, saç bakımı ve şekillendirici ürünler, bebek bakım ürünleri, anti bakteriyel ürünler ve ev kozmetik ürünlerinden oluşmaktadır.ISO 9001, Cosmetics GMP, HELAL, ISO 14000, ISO 45000 belgelerine sahiptir.Bünyesindeki markalar;AlnovaCarlaCle D’AmourEstemedKajalLilyumReva",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14000",
+      "ISO 45000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Teknomarin",
+    "description": "Teknomarin, 1999 yılında kurulan İstanbul Teknik Boya ve Kimya San. Ltd. Şti. bünyesinde üretilen sanayi, deniz ve yat boyaları markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.İstanbul merkezli firma ürünlerini Tuzla Deri OSB’de üretmektedir.Bünyesindeki markalar;Tekno MarinTeknofillerTeknogloss Pu SyntheticTeknomarTeknomarinTeknomaxTeknomixTeknopox",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

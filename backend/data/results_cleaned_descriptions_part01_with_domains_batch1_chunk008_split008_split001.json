@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Hivy Baby",
+    "description": "Hivy Baby, Aktürk Group bünyesindeki yumuşak ve dayanıklı bebek bezi markasıdır. Bebek bezi, hasta bezi, kadın pedi ve ıslak mendil ürünleri üretmektedir.25 bin metrekare alanda üretim, ithalat ve ihracat faaliyetleri gösteren bir Türk firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Saipem",
+    "description": "Saipem, 1957 yılında kurulan mühendislik ve inşaat, sondaj, kıyı inşaatı, Offshore montajı şirketidir.İtalya merkezli Saipem petrol ve gaz sektöründe büyük ve uluslararası anahtar teslim müteahhitlik şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Laggys",
+    "description": "Laggys, Aktürk Group’un Aktürk Bilişim Teknolojileri A.Ş. bünyesinde yer almaktadır. Laggys ürünleri Çin’de üretilmektedir.Aktürk Group marka ve ürünleri elektronik sektöründe cep telefonu, tablet, bilgisayar ve akıllı saatler gıda sektöründe; çay, hazır kahve, pirinç ve acı biber sağlık sektöründe; bebek bezi, hasta bezi, kadın pedi ve ıslak mendil ürünleri üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çakır Çelik",
+    "description": "Çakır Çelik, 1984 yılında kurulan Çakır Ailesi tarafından kurulan Çakır Mutfak Eşyaları San. ve Tic. Ltd. Şti. bünyesindeki çelik mutfak eşyaları markasıdır.Çay semaveri, otel tipi su ısıtıcıları, çorba kazanı ve benmari kabı üretimi dışında düdüklü tencere üretiyor. Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vigo",
+    "description": "Vigo, 1976 yılında kurulan Mastaş A.Ş. bünyesindeki elektrikli yağlı radyatör markasıdır.Bursa’da üretim yapan Mastaş’ın ürün çeşitleri; çeşitli panel radyatör, sulu ve elektrikli havlu radyatör, elektrikli konvektör ısıtıcı ve vanadan oluşuyor.Radyatör ve elektrikli ısıtıcı üretimine yönelik 10 bin metrekare ve 3 bin metrekarelik iki ayrı fabrikada faaliyetine devam etmektedir.Şirket bir diğer fabrikasında ayrıca otomotiv yan sanayine hidrolik ve eksantrik pres, özel kaynak makinesi, otomotiv ana sanayine seri sac parça ve sac kalıplar üretimi yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2018-11-18"
+  }
+]

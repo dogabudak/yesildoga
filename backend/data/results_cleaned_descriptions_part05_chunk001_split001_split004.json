@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Dear Body",
+    "description": "Dear Body, 2002 yılında kurulan Yiwu Dearbody Cosmetics Co., Ltd. bünyesinde üretilen kozmetik ürünleri markasıdır.Yiwu Dearbody Cosmetics Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kupp",
+    "description": "Kupp , 1970 yılında kurulan Curkuşlar İnşaat Malz. San. Tic. Paz. Ltd. Şti. bünyesinde üretilen sıhhi tesisat armatürleri bataryalar, musluklar ve su flex markasıdır.ISO 9001 belgesine sahiptir.Bünyesindeki markalar;Ac GroupKupp",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SMD Dizgi",
+    "description": "SMD Dizgi, 1988 yılında kurulan Endüstriyel Elektrik Elektronik San. ve Tic. Ltd. Şti. bünyesindeki elektronik kart SMD dizgisi markasıdır.Firma 11 bin metrekarelik kapalı olmak üzere toplam 28 bin metrekarelik alanlarda teknoloji, otomasyon enerji üretimi ve tasarrufu çözümleri sunmaktadır.Üretiminin yüzde 65’ini 65 ülkeye ihraç etmektedir.ISO 9001, OHSAS 18001, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "General Dynamics",
+    "description": "General Dynamics, 1899 yılında John Philip Holland tarafından kurulan General Dynamics Corporation bünyesindeki iş jetleri, iletişim sistemleri, bt sistemleri, deniz uçağı, görme sistemleri, görünmez gemi, kabotaj yasası gemiler, nükleer motorlu denizaltılar, savunma araçları, silah sistemleri, tanklar, uçak uçuş kontrol sistemi, yardımcı gemiler ve hizmetler markasıdır.General Dynamics Corporation (GD) bir Amerikan Havacılık ve savunma şirketidir. General Dynamic hisselerinin yüzde 10’u Crown ailesine aittir.General Dynamics, 45’ten fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Klivya",
+    "description": "Klivya, 1978 yılında Kemal ve Nuri Ölçer tarafından kurulan Arı Kimya San. Tic. Ltd. Şti. bünyesinde üretilen ayak spreyi, deodorant, krem, saç şekillendirici, traş jeli markasıdır.ISO 9001 belgesine sahiptir. Firma 3 üretim bölümü ve 2 idari bölümden oluşan bin metrekarelik kapalı alanda üretim yapılmaktadır.Bünyesindeki markalar;De PiarDermactiveDermycinExigencyFreeonİlaydaİlayda Bronzeİlayda SecureKlivyaLadiaPiarPiar GenesisPopodermSeoxin",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

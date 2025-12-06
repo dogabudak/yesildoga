@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Gedore",
+    "description": "Gedore, 1919 yılında kurulan GEDORE Werkzeugfabrik GmbH & Co. KG bünyesindeki mekanik el aletleri, elektrikli el aletleri, tork aletleri ve kalibrasyon, dövme, vde aletleri, çekmecelerGedore tüm dünyada 70’ten fazla ülkede temsil edilmektedir.GEDORE Werkzeugfabrik GmbH & Co. KG Almanya merkezlidir. Almanya ve Brezilya, İngiltere, Avusturya, Güney Afrika’daki üretim tesislerinde üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Telecool",
+    "description": "Telecool, 1995 yılında kurulan Airsys Refrigeration Engineering Technology Co. Ltd. bünyesindeki bilgi ve iletişim teknolojisi ve tıbbi görüntüleme ve teşhis ekipmanları için soğutma sıcaklık kontrol ünitesi markasıdır.Sıcaklık, nem, gürültü, hava basıncı test ekipmanları, laboratuar cihazları: Sanayi, laboratuar ve laboratuar ekipmanları en eksiksiz ve çeşitli türleri, bilgisayar odası, soğutucu, yüksek/düşük sıcaklık test cihazları, su püskürtme test cihazları için performans test cihazları sıcaklık kontrol ünitesi için performans test ekipmanları da dahil olmak üzere sahip, ve çeşitli, rüzgar hızı, vb. Teknik seviye: hassas bilgisayar odası için TCU, mobil barınak için TCU, kabin ısı eşanjörü ve hava soğutmalı ısı pompası gibi alanlarda ürünlere sahiptir.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Airsys Refrigeration Engineering Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Felicia",
+    "description": "Felicia, 1989 yılında Murat Gönenbaba tarafından kurulan Pelagos Akvaryum San. ve Tic. Ltd. Şti. bünyesindeki hayvan yemi markasıdır.Akvaryum balıkçılığı ile kuş yemleri için üretilen ürünleri beş ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fondital",
+    "description": "Fondital, 1970 yılında Silvestro Niboli tarafından kurulan Fondital S.p.A. bünyesindeki radyatörler, kazanlar, yenilenebilir enerji alüminyum alaşımları markasıdır.Çok sayıda şirketle 8 farklı ülkede faaliyet gösteren İtalya merkezli Fondital S.p.A., 90’dan fazla pazarda ürünlerini satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Huian",
+    "description": "Huian, 1995 yılında kurulan Huion Animation Technology Co., Ltd. bünyesindeki kalem tablet, kalem ekran, kalem bilgisayar, led ışık pedi ve aksesuarlar markasıdır.Huion, dijital cihazların yanı sıra bireyselleştirilmiş OEM ve ODM çözümleri de sunmaktadır.Shenzhen Huion Animation Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

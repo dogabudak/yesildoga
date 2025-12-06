@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Meadow",
+    "description": "Meadow, 2015 yılında kurulmuş olan Meriton Technologies Pvt. Ltd. bünyesindeki sebzeler, meyveler için üstü açık yetiştirme torbaları, yetiştirme küpleri, düz torbalar, dökme bloklar markasıdır.Meriton Technologies Pvt. Ltd. Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Techno Terazi",
+    "description": "Techno, 1975 yılında kurulmuş olan Ayyıldız Elektrikli Ev Eşyaları İmalat ve Paz. A.Ş. bünyesindeki fotokopi makinesi, tıpkıbasım cihazları, teraziler, güneşpilleri, süpürgeler, ağda cihazları markasıdır.CE, EMC, LVD, GMARK belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 30 bin metrekarelik kapalı alanda bulunan tesisinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Takstar Hoparlör",
+    "description": "Takstar Hoparlör Hangi Ülkenin Malı MarkasıTakstar, 1995 yılında kurulmuş olan Guangdong Takstar Electronic Co. Ltd. bünyesinde üretilen kulaklık, taşınabilir amplifikatör, ses sistemi, hoparlör kabini, amplifikatör, karıştırıcı, konferans sistemi, aksesuar markasıdır.Guangdong Takstar Electronic Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Manuel Raymond",
+    "description": "Manuel Raymond, 2004 yılında kurulmuş olan Müzik Aletleri Com Kuyumculuk Turizm San. ve Tic. Ltd. Şti. bünyesindeki bağlama teli takım, dijital piyano, gitar klasik, keman tam takım, keman teli tek, klasik gitar, melodika, org, org 5 oktav markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kendo El Aletleri",
+    "description": "Kendo, 1979 yılında kurulmuş olan Saame Tools Shanghai Imp. & Exp. Co. Ltd. bünyesinde üretilen kesme, ölçme aletleri, el aletleri ve elektrikli alet aksesuarları markasıdır.Saame Tools Shanghai Imp. & Exp. Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

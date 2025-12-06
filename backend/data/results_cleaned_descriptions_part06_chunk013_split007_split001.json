@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Oster",
+    "description": "Oster, 1910 yılında kurulan Sunbeam Products Inc. bünyesindeki mutfak ev aletleri markasıdır.Ürün yelpazesinde waffle makineleri, ekmek kızartma fırınları, hava fritözleri, yemek doğrayıcı, karıştırıcı gibi küçük mutfak aletleri bulunmaktadır.Sunbeam Products Inc. 2016 yılında Amerika merkezli Newell Brands Inc. bünyesine geçti.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rise And Shine",
+    "description": "Rise And Shine, 2019 yılında kurulan Dipomed Medikal Kozmetik İthalat İhracat San. Tic. Ltd. Şti. bünyesindeki cilt bakım, kozmetik, saç bakım, sabun, vücut bakım ürünleri markasıdır.İstanbul merkezli şirkete 2023 yılında TMSF kayyum atamıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-08"
+  },
+  {
+    "company": "Joseph Vögele",
+    "description": "Joseph Vögele, 1836 yılında kurulan Joseph Vögele AG bünyesindeki tekerlek veya tırtıl tahrikli sokak döşeme asfalt makinesi markasıdır.Üretimin odak noktası, dört tekerlekten çekişli veya paletli makineler olarak üretilen yol finişerleridir. Finişerin arka ucuna sabitlenen şaplar, zemini uygun profil ve kalınlıkta asfalt veya beton olarak uygular.Joseph Vögele AG 1996 yılında Amerika merkezli Wirtgen Group Zweigniederlassung der John Deere GmbH & Co. KG bünyesine dahil oldu. Almanya, Brezilya, Çin’de üretim tesislerine sahiptir. Türkiye’de Wirtgen Ankara Makina San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Manitou",
+    "description": "Manitou, 1958 yılında kurulan Manitou BF S.A. bünyesindeki malzeme taşıma, ekipman taşıma, havadan çalışma platformları, iş makineleri teleskopik taşıyıcı, forklift markasıdır.Manitou BF S.A. Fransa merkezlidir. Fransa, Almanya, Birleşik Krallık, İtalya, İsrail, Amerika’da üretim tesisi de dahil olmak üzere 17 yan kuruluş işletmektedir. Ürünlerini 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tianqiu",
+    "description": "Tianqiu, 1994 yılında kurulan Guangdong Tianqiu Electronics Technology Co. Ltd. bünyesinde üretilen alkalin düğme, lityum düğme, çinko hava düğme, silindirik alkalin, boyut C, D ve 9V lityum fotoğraf pilleri, Nİ-MH, Nİ-CD şarj edilebilir piller markasıdır.Guangdong Tianqiu Electronics Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

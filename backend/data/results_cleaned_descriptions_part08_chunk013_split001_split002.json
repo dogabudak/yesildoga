@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Fazer Crisp",
+    "description": "Fazer Crisp1891 yılında kurulmuş olan Fazer Group bünyesindeki kurutulmuş somon otlar ve limon soslu gevrek çavdar, gevrek koyu çavdar kremalı peynir, marmelat ve kekik, rokfor kreması, armut ve nar ile gevrek kimyon, mozzarella, ve kiraz domatesli gevrek yulaf markasıdır.Fazer Group, Finlandiya merkezlidir ve ürünlerini 40 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Melodi Boya",
+    "description": "Melodi2007 yılında kurulmuş olan Mld Boya ve Kimya İnşaat San. ve Tic. Ltd. Şti. bünyesinde üretilen boya, inceltici, parlatıcı, koruyucu ve yapıştırıcı markasıdır.TS EN ISO 9001 belgesine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vintage T9 Trimmer Professional",
+    "description": "Vintage2016 yılında kurulmuş olan Dinamik Plastik Elektronik Pazarlama San. ve Tic. A.Ş. bünyesindeki şarj edilebilir, kablosuz saç kesme makinesi ve sakal düzeltici markasıdır.Firma İstanbul merkezlidir ve ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Poliya",
+    "description": "Poliya1983 yıllında kurulmuş olan Poliya Poliester San. ve Tic. A.Ş. bünyesindeki jelkotlar ve topkatlar, kalıp ayırıcı ve vakslar, kalıp sistemleri, kimyasal dayanım kılavuzu, pigment pastalar, poliester reçineler, vinilester reçineler, yapıştırıcı pastalar, yardımcı malzemeler ve ekipmanlar markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 45001, ISO 27001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "By Nini",
+    "description": "By Nini2019 yılında kurulmuş olan By Nini Gıda Tekstil Aksesuar San. ve Tic. Ltd. Şti. bünyesindeki cilt bakımı ve güzellik çözümleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

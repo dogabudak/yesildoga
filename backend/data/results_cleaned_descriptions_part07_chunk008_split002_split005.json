@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Eden Appliance",
+    "description": "Eden Appliance, 1985 yılında kurulmuş olan Smartwares B.V. bünyesindeki mutfak aletleri ve klima markasıdır.Smartwares B.V. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Fastfryer Airfryer",
+    "description": "Fastfryer, 1972 yılında kurulmuş olan Kumtel Dayanıklı Tüketim Malları Plastik San. ve Tic. A.Ş. bünyesinde üretilen yağsız fritöz airfryer markasıdır.Firma Kayseri merkezlidir. Ürünlerini Kayseri OSB’de bulunan tesislerinde üretmektedir ve 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lasocki",
+    "description": "Lasocki, 1990 yılında kurulmuş olan Ccc.Eu Sp. Z o.o. bünyesindeki ayakkabı markasıdır.Ayakkabı perakendecisi ve e-ticaret şirketi olarak 28 pazarda faaliyet göstermektedir.Ccc.Eu Sp. Z o.o. Polonya merkezlidir.Bünyesindeki markalar;Action BoyBassanoCccCesare CaveClara BarsonHalfpriceHome & RelaxJenny Fairy & Fairy JennyLanettiLasockiMagic LadyNellibluOscar TaylorSarah KarenVapianoVia Ravia",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Köylüm",
+    "description": "Köylüm, 1938 yılında kurulmuş olan Standart Besicilik Hayvancılık ve Gıda Ürünleri San. Tic. Ltd. Şti. bünyesinde üretilen beyaz peynirler, dilim kaşar, kaşar peynirleri, mozzarella, yöresel peynirler markasıdır.Brc, Helal, ISO 22000 belgelerine sahiptir.Firma Manisa merkezlidir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Palivor Çiftliği",
+    "description": "Palivor Çiftliği Nerenin Malı MarkasıPalivor Çiftliği, 2011 yılında kurulmuş olan Kırklar Doğal Ürünler Tur. Gıda Tarım ve Hayv. A.Ş. bünyesindeki organik tarım ve eko turizm markasıdır.Toplam 140 dönüm arazi üzerinde kurulmuş çiftlikten oluşan Palivor Çiftliği, ürettiği organik tarım ürünleri ve yerli üreticilere ürettirdiği gıda ürünlerini sunmaktadır.Firma Kırklareli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

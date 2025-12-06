@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Abba Natura",
+    "description": "2023 yılında kurulmuş olan Abba Sağlık ve Gıda San. Tic. A.Ş. bünyesindeki cilt bakım yağları markasıdır.ISO ve GMP belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Joinfit",
+    "description": "2007 yılında kurulmuş olan Suzhou Industrial Park Jiayou Sports & Leisure Products Co. Ltd. bünyesinde üretilen spor ekipmanları ve aksesuarları markasıdır.Suzhou Industrial Park Jiayou Sports & Leisure Products Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wero",
+    "description": "2024 yılında kurulmuş olan EPI Company SE bünyesindeki ödeme çözümleri markasıdır.Avrupa’da banka hesapları arasında para alıp gönderme işlemleri yapılmasını sağlar.EPI Company SE Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Mareno",
+    "description": "1922 yılında kurulmuş olan Ali Group S.r.l. bünyesindeki modüler pişirme hatları, gıda hazırlama aletleri, soğuk odalar ve soğutulmuş tezgahlar ve dolaplar, fırınlar, bulaşık makineleri markasıdır.Ali Group S.r.l. İtalya merkezlidir.Bünyesindeki markalar;ACPAdamaticAladdin Temp-RiteAli ComendaAlicontractAlphatechAmbachAmerican Dish ServiceAUREABAR LINEBaronBelshaw AdamaticBertrand-PumaBeverage-AirBGIBi-LineBlue SealBongardBurlodgeCarpigianiCFIChampionClevelandCMAComendaConvothermCREMCrystal TipsDelfieldDIHREdlundEgroElectro FreezeElomaEsmachFabristeelFalconFriginoxFriulinoxFrymasterGarlandGBGGrandimpiantiGrandimpianti LaundryHiberHoonvedIce-O-MaticIcematicIceteam 1927 BIBIceteam 1927 CattabrigaIceteam 1927 ColdeliteIceteam 1927 Ott FreezerIceteam 1927 PromagInducsJIPAKOLD-DRAFT",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dotvolt Innovative Power Solutions",
+    "description": "2021 yılında kurulan Dotvolt Elektrik Elektronik Enerji San. ve Tic. A.Ş. bünyesinde üretilen araç şarj istasyonu, enerji koruma prizleri, kuru tip ups aküleri, line interaktif ups’ler, monofaze regülatörler, online monofaze rack ups’ler, online monofaze ups’ler, online trifaze giriş, monofaze çıkış ups’ler, online trifaze ups’ler, trifaze regülatörler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Aerobie",
+    "description": "Aerobie, 1984 yılında Alan Adler tarafından kurulan açık havada uçan diskler ve spor oyuncakları markasıdır.En uzağa atılabilen uçan halka ve disk oyuncaklarını içermektedir.2017 yılında Kanada merkezli oyuncak ve eğlence şirketi Spin Master Ltd. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "2AS",
+    "description": "2AS, 1984 yılında kurulan Kar Gıda İnşaat Spor Malzemeleri Giyim San. ve Tic. Ltd. Şti. bünyesindeki günlük, dağcılık veya kayak/snowboard sporu için kullanılabilen giyim ürünleri markasıdır.Firma ürünlerini uzak doğuda ürettirmektedir.Firmanın bünyesinde 9 spor mağazası, 4 butik mağaza, 2 The North Face mağazası ve franchise butik mağaza ile 3 kayak kiralama merkezi yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Velioğlu Çiftliği",
+    "description": "Velioğlu Çiftliği, 1959 yılında Veli Yapıcı tarafından kurulan Velioğlu Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen ayran, günlük süt, kaymak, manda yoğurdu, tereyağı, yoğurt markasıdır.Firma ürünlerini İstanbul İkitelli OSB’de bulunan tesisinde geleneksel yöntemlerle doğal ve katkısız olarak üretmektedir. HELAL ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tribest Slowstar",
+    "description": "Tribest Slowstar, 1988 yılında kurulan Tribest Corporation bünyesindeki ev aletleri markasıdır.Ürün yelpazesinde meyve sıkacağı, mikser, blender, öğütücü, hava temizleyici, yoğurt üretici, soya sütü üretici ve küçük mutfak aletleri yer almaktadır.Tribest Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kuvings",
+    "description": "Kuvings, 1978 yılında kurulan NUC Electronics Co. Ltd. bünyesinde üretilen meyve sıkacağı, karıştırıcı, öğütücü, aspiratör, yoğurt makinesi ve küçük mutfak aletleri markasıdır.Meyve sıkacakları yüksek mühendislik plastik reçinesi ve BPA içermeyen plastik reçineden üretilmektedir.NUC Electronics Co. Ltd. Güney Kore merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

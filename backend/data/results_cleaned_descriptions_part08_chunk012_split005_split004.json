@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Paolo Argento",
+    "description": "Paolo Argento2020 yılında kurulmuş olan Comarch SA bünyesinde üretilen ev kokuları, kokulu mumlar ve banyo tuzları markasıdır.Tüm ürünler Avrupa’da üretilen malzemelerden yapılmıştır.Comarch SA Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Perfektüp",
+    "description": "Perfektüp1955 yılında kurulmuş olan Perfektüp Ambalaj San. ve Tic. A.Ş. bünyesinde üretilen ambalaj çözümleri markasıdır.İlaç, kişisel bakım, ev bakım, kozmetik, gıda, kırtasiye ve kimya sektörlerine yönelik ürünler üretmektedir.İstanbul merkezli Perfektüp, Bell Holding A.Ş. bünyesindedir. Türkiye, Bulgaristan ve İtalya’da toplam 6 üretim tesisine sahiptir ve ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pepplus",
+    "description": "Pepplus2002 yılında kurulmuş olan Picobio Co. Ltd. bünyesinde üretilen kozmetik, yaşlanma karşıtı, kırışıklık iyileştirme, beyazlatma, gözenek küçültme gibi cilt bakım ürünleri markasıdır.Picobio Co. Ltd. Güney Kore merkezlidir.Bünyesindeki markalar;EpicurePepplusSuperliftingprogram",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Gint",
+    "description": "Gint1973 yılında kurulmuş olan Zhejiang Gint Vacuum Flask Technology Co. Ltd. bünyesinde üretilen öğle yemeği kutusu, cam şişe, cam kaplı termal şişe, cezve, kahve kupa, kamp şişesi, plastik şişe, soğutucu kutusu, su şişesi, yumuşak soğutucu markasıdır.Zhejiang Gint Vacuum Flask Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Provoq",
+    "description": "Provoq1923 yılında kurulmuş olan Ayakkabı Dünyası Kundura San. ve Tic. A.Ş. bünyesinde üretilen bot, ayakkabı ve sandalet, valiz, çanta markasıdır.İstanbul merkezli şirket 2014 yılında Esas Holding ile iş ortaklığı gerçekleştirmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

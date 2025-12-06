@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Pizza Wings",
+    "description": "Pizza Wings, 2007 yılında kurulan Zng Dayanıklı Tüketim Malları İnşaat Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen pizza markasıdır.Günlük üretilen pizzalarıyla birlikte kızarmış tavuk lezzetini bir arada sunarken ayrıca salata, atıştırmalıklar, hamburger sunmaktadır.İzmir merkezli firma Helal belgesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sugarbear",
+    "description": "Sugarbear, 2015 yılında kurulan Besweet Creations Inc. bünyesindeki sakızlı vejetaryen saç multivitamini markasıdır.Vitaminleri buğday, gluten, soya, süt, sığır eti, domuz eti, yumurta, balık, yer fıstığı ve yapay tatlandırıcılar içermemektedir. Helal ve Koşer belgelerine sahiptir.Besweet Creations Inc. Amerika merkezlidir.Bünyesindeki markalar;Beauty BearsSugarbear SleepSugarbearhairSugarbear",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Art Creation",
+    "description": "Art Creation, 1899 yılında kurulan Koninklijke Talens B.V. bünyesinde üretilen yağlı, akrilik boyalar, suluboya, guaş, yumuşak, suda çözünür yağ pastelleri, kalemler, boyama araçları, gerilmiş tuvaller, kâğıt, şövale markasıdır.Koninklijke Talens B.V. 1991 yılında Japonya merkezli Sakura Color Products Corporation’ın bir yan kuruluşu olmuştur. Ürünlerini 100 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Haten",
+    "description": "Haten, 1988 yılında kurulan Haten Kozmetik ve Plastik San. A.Ş. bünyesinde üretilen kişisel bakım ürünleri, spa ürünleri, otel banyo ürünleri, banyo aksesuarları, otel, oda malzemeleri markasıdır.ISO 9001, ISO 10002, ISO 14001 belgelerine sahiptir.İstanbul merkezli firma 10 bin metrekarelik entegre tesislerinde üretim yapmaktadır.Bünyesindeki markalar;BurtinHatenRosso BiancoV.I.P Hotel Supplies",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rova Batarya",
+    "description": "Rova, 2016 yılında kurulan Rova Bilişim İthalat İhracat San. Tic. Ltd. Şti. bünyesindeki cep telefonu bataryası, şarj başlığı ve şarj kablosu, koruyucu aksesuarlar markasıdır.İstanbul merkezli firma ürünlerini Çin’de ürettirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

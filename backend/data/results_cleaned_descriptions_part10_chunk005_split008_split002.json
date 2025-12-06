@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Stratego",
+    "description": "1974 yılında kurulan Jumbo Grup B. V. bünyesindeki kart oyunları markasıdır.Jumbo Grup B. V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Delizia",
+    "description": "1966 yılında Dimo Fotioğlu tarafından kurulmuş olan Deliziya Gıda Mamülleri Ltd. Şti. bünyesindeki chia tohumu, hardal ve çeşniler, kinoa, tahıllar ve kahvaltılık gevrekler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Başdaş Marketler",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "CapCut",
+    "description": "2013 yılında kurulmuş olan Shenzhen Fanmeng Technology Co. Ltd. bünyesindeki hepsi bir arada video düzenleyici yazılımı ve mobil uygulama markasıdır.Shenzhen Fanmeng Technology Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Estomin",
+    "description": "1983 yılında kurulmuş olan Cahit Selimoğlu İlaç San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt bakım jeli markasıdır.ISO 9001, ISO 14001, ISO 22000, GMP, OHSAS 18001 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Nove So Ülke",
+    "description": "Nove&So, Kiteks Tekstil Tic. ve San. A.Ş. tarafından üretilen tekstil ürünleri markasıdır.Kiteks Tekstil, yün, yün-polyester, yün-ipek, yün-tensel ve yün-pamuk gibi kumaşları Çin’den ithal etmektedir.Türkiye’deki pazarlarından ise Akrilik, Pamuk, Pamuk-Elastan, Pamuk-Keten, Pamuk-Viskoz-Keten, Pamukolyester, Polyester-Viskoz-Elastan, Viskoz-Akrilik-Keten, Viskoz-Keten, Yün-Akrilik temin etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Intenso",
+    "description": "INTENSO, 1998 yılında kurulan Intenso International GmbH bünyesindeki USB bellek, sabit disk, bellek kartları, SSD, pil, müzik çalar, dijital fotoğraf çerçevesi, powerbank ve kablosuz şarj cihazları markasıdır.Intenso International GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Braytron",
+    "description": "Braytron, 2012 yılında kurulan Braytron Srl bünyesinde üretilen led aydınlatma ürünleri markasıdır.CE, RoHS, EMC, Dekra, EAC ve TÜV belgelerine sahiptir.Braytron Srl Romanya merkezlidir. Romanya ve Türkiye’de yüksek teknoloji üretim hatları ve gelişmiş arge merkezi ile donatılmış modern bir üretim üssü ile fabrikalar işletmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RO",
+    "updated_date": null
+  },
+  {
+    "company": "Luis Bien",
+    "description": "Luis Bien, 2014 yılında kurulan BG İç ve Dış Ticaret bünyesinde üretilen kişisel bakım ürünleri markasıdır.Yüzde 100 Türk sermayesi ile kurulan firma ISO Standartlarına uygun üretim tesislerinde GMP belgeli 80’e yakın ürün çeşidi üretmektedir.Ürünlerini Amerika, Azerbaycan, Irak, Çin, Suudi Arabistan, Katar, Kuveyt, Almanya, Fransa, Avusturya ve Makedonya gibi ülkelere ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hakkı Efendi",
+    "description": "Hakkı Efendi, 2004 yılında kurulan Kocalar Pazarlama A.Ş. bünyesindeki kahve ve baharat bağlantılı ürünler markasıdır.Baharat, kahve, turşu, mantı, köfte harcı gibi Hakkı Efendi markalı ürünlerin üretimi ve tedariki alanında faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

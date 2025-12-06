@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Danino",
+    "description": "Danino, 1967 yılında kurulmuş olan Compagnie Gervais Danone SA bünyesinde üretilen meyve aromalı yoğurtlar, pudingler markasıdır.Compagnie Gervais Danone SA Fransa merkezlidir. Ürünlerini 120’den fazla ülkeye pazarlamaktadır. Türkiye pazarına 1997 yılında girmiştir ve 7 ilde üretim yapmaktadır.Bünyesindeki markalar;ActimelActiviaAlproAptamilDanetteDanioDanoninoEvianNutriciaNutrilonVolvic",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Amiad Water Systems",
+    "description": "Amiad Water Systems, 1962 yılında kurulmuş olan Amiad Water Systems Ltd. bünyesinde üretilen endüstriyel, belediye ve tarımsal kullanım için su filtreleri ve filtrasyon sistemleri markasıdır.Tek çatı altında 4 filtreleme teknolojisi ve geniş bir ürün yelpazesine sahiptir.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Amiad Water Systems Ltd. İsrail merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Chiron",
+    "description": "Chiron, 1921 yılında kurulmuş olan Chiron Group SE bünyesindeki CNC kontrollü, dikey frezeleme ve frezeleme, tornalama işleme merkezleri ve otomasyon çözümleri markasıdır.Chiron Group SE Almanya merkezlidir. Dünya çapında üretim ve geliştirme sahaları, satış ve servis şubeleri ve ticari acenteleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kuschelweich",
+    "description": "Kuschelweich, 1954 yılında kurulmuş olan Fit Gmbh bünyesinde üretilen çamaşır parfümü, deterjan, kokulu poşet, renkli deterjan, yumuşatıcı markasıdır.Ürünlerinin bir çoğu yenilenebilir hammaddeler temelinde üretilmektedir. ISO 9001, ISO 14001, ISO 50001 belgelerine sahiptir.Fit Gmbh Almanya merkezlidir.Bünyesindeki markalar;FenjalFitGardGrüne KraftKuschel WeichReiSansoSunil",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cyren",
+    "description": "Cyren, 1991 yılında kurulmuş olan Cyren Ltd. bünyesindeki web, e-posta ve mobil işlemleri korumak için bilgi güvenliği çözümleri markasıdır.Şirket, siber tehditleri, kötü amaçlı yazılım saldırılarını, bilgi sızıntılarını, yasal sorumluluğu ve verimlilik kaybını azaltan entegre bulut tabanlı güvenlik teknolojisi çözümlerinin hizmet olarak güvenlik sağlayıcısıdır.Cyren Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

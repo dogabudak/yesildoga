@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kiyomi Collagen",
+    "description": "Kiyomi, 2020 yılında kurulmuş olan Kiyomi Pharma Medikal Pazarlama A.Ş. bünyesindeki kolajen, beyazlatıcı yüz serumu, c vitamini yüz serumu, cilt yenileyici yüz serumu, güneş koruyucu krem spf 50, yoğun nemlendirici h.a. serum, gözenek sıkılaştırıcı yüz serumu markasıdır.Kolajen hammaddesi Belçika menşeilidir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mincer Pharma Est. 1989",
+    "description": "Mincer Pharma, 2016 yılında kurulmuş olan Basel Olten Pharm S.A. bünyesinde üretilen kişisel bakım ürünleri markasıdır.Basel Olten Pharm S.A. Polonya merkezlidir.Bünyesindeki markalar;BunaEvreeMincer PharmaNeuronicaSolvea",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Fury E-Sport",
+    "description": "Fury, 2008 yılında Feyzi Öztürklü tarafından kurulmuş olan Trakya Güvenlik ve Bilgisayar Sistemleri bünyesinde ithal edilen ssd, harici taşınabilir disk, lcd led televizyon duvar asma aparatı markasıdır.Firma Edirne merkezlidir ve ürünlerini Çin’den ithal etmektedir.Bünyesindeki markalar;AqualinkFuryHızlı TeknolojiSkysatTb Teknoloji BayiTeknoloji ParkıTrakya Kamera & Alarm Sistemleri",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dikmaksan",
+    "description": "Dikmaksan, 1997 yılında kurulmuş olan Dikmaksan Bitki Yağı Makinaları bünyesinde üretilen distilasyon sistemleri, filtre makineleri, sanayi tipi soğuk pres yağ makineleri, soğuk pres yağ makineleri, soğuk sıkım zeytinyağ makineleri, market tipi tahin makinesi, mini un değirmeni, gıda makinesi markasıdır.Firma Antalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hyperx Fury",
+    "description": "Hyperx Fury, 1987 yılında John Tu ve David Sun tarafından kurulmuş olan Kingston Technology Corporation bünyesindeki usb, kulaklık, fare, klavye ve yanıp sönen ssd markasıdır.Kingston Technology Corporation Amerika merkezlidir. Ürünlerini uzakdoğu ülkelerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

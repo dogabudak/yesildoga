@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Kevin Murphy",
+    "description": "2004 yılında kurulmuş olan Kevin Murphy Group Pty Ltd. bünyesindeki şampuan, saç kremi, bakım ve şekillendirme ürünleri markasıdır.Kevin Murphy Group Pty Ltd. Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Fobos",
+    "description": "2003 yılında TTAF Elektronik Grubu tarafından kurulmuş olan Fobos Plastik Endüstri San. ve Tic. A.Ş. bünyesinde üretilen plastik enjeksiyon markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 2 bin 500 metrekarelik kapalı alanda ve bin 500 metrekarelik açık alanda bulunan tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Korelya",
+    "description": "2022 yılında kurulmuş olan Elya Kozmetik San. ve Tic. Ltd. Şti. bünyesindeki ağız çalkalama suyu, ayak kremi, cilt serumu, deodorant ve roll on, diş beyazlatma ürünü, göz kremi, saç toniği, tonik, yüz güneş kremi, yüz kremi, yüz maskesi, yüz temizleyicileri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Komşu Kahve",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Air Optix",
+    "description": "1945 yılında kurulmuş olan Alcon Inc. bünyesindeki kontakt lens markasıdır.Alcon Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

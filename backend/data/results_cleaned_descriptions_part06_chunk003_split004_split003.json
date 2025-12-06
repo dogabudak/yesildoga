@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bohima",
+    "description": "Bohima, 1978 yılında Ferda Çiçekçi tarafından kurulan FC Kimyasal Hijyen ve Temizlik Ürünleri Ltd. Şti. büyesinde üretilen limon kolonyaları markasıdır.Firma kolonya dışında oto bakım, kişisel hijyen, çevresel hijyen ve temizlik ürünleri üretmektedir.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Ürünlerinin tamamı İzmir’de bulunan fabrikasında üretilmektedir.Bünyesindeki markalar;BohimaElplusFc.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Multiplus",
+    "description": "Multiplus, 2004 yılında kurulan Alg İlaç San. Tic. Ltd. Şti. bünyesinde üretilen aseton, ayak bakım kremi, spreyi, burun ve sinüs temizleme kiti, cilt beyazlatıcı krem, cilt temizleme mendili, distile su, ağız spreyi, vazelin, gül kokulu vazelin, katı vazelin, gümüş nitrat çubuk, ingiliz karbonatı, karamürver efervesan tablet, kozmetik jeli, kulak buşon yumuşatıcı, lanolin krem, mentollü balsam, multibit sprey saç biti ve yumurtalarına karşı, tatlı badem yağı, ultrason jeli, vitamin c ve çinko efervesan tablet, vitamin c tablet, vitamin d3 ve vitamin k damla takviye edici gıda markasıdır.İstanbul merkezli firma ürünlerini 30 ülkeye ihraç etmektedir.Bünyesindeki markalar;BunnyDermoseptMultiplus",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eurotools Tech",
+    "description": "Eurotools Tech, Hrc Kesici Takımlar Makine San. ve Tic. Ltd. Şti. bünyesindeki karbür freze, karbür matkap, hassas takım tutucuları ve kesici takım tutucuları markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maasco Elektrik",
+    "description": "Maasco, 2006 yılında kurulan Maasco İç ve Dış Tic. Ltd. Şti. bünyesindeki sıkma ve kesme penseleri, el penseleri, ısı ile daralan makaronlar, bara kesme, delme ve bükme, butonlar, hidrolik pompalar ve kafalar, izoleli kablo uçları, kablo bağları, kablo soyma ve sıyırma penseleri, kablo yüksükleri, pabuç sıkma penseleri, panç delme penseleri, pnömatik sıkma penseleri, sıkmalı kablo pabuçları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "TOS Svitavy",
+    "description": "TOS Svitavy, 1947 yılında kurulan TOS Svitavy a.s. bünyesinde üretilen ağaç işleme makineleri, torna aynaları, ayna yedekleri markasıdır.ISO 9001 belgesine sahiptir.TOS Svitavy a.s.’nin çoğunluk hisseleri 1996 yılında Çek Cumhuriyeti merkezli B.G.M. export a.s. tarafından satın alındı. Ürünlerini 50 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  }
+]

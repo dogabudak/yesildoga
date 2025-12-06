@@ -1,0 +1,47 @@
+[
+  {
+    "company": "FedEx",
+    "description": "FedEx (Federal Express), 1971 yılında Frederick W. Smith tarafından kurulan dünya çapında hava kara transfer ve lojistik hizmeti veren şirkettir.FedEx, Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wrangler",
+    "description": "Wrangler, 1904 yılında C.C. Hudson tarafından kurulan; pantolon, şort, tişört ve gözlük markasıdır.1986 yılında VF Corporation tarafından satın alındı. Amerikan merkezli VF Corporation, uluslararası giyim markalarını bünyesinde bulunduran şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tommy Hilfiger",
+    "description": "1985 yılında Tommy Hilfiger tarafından kurulmuş olan Tommy Hilfiger Licensing LLC bünyesindeki kadın, erkek çocuk, outdoor, giyim, ayakkabı, çanta ve aksesuar perakende markasıdır.Tommy Hilfiger Licensing LLC Amerika merkezli G-III Apparel Group Ltd. bünyesindedir. 100 ülkede faaliyet göstermektedir. Tommy Hilfiger 2002 yılında Türkiye pazarına giriş yapmıştır.Hissedarları:BlackRock Advisors LLC (yüzde 15,7)Morris Goldfarb (yüzde 10,7)Vanguard Fiduciary Trust Co. (yüzde 10,7)DFA Australia Ltd. (yüzde 6,5)American Century Cos. Inc. (yüzde 3,7)State Street Corp. (yüzde 3,5)RBC Global Asset Management Inc. (yüzde 2,6)Charles Schwab Investment Management, Inc. (yüzde 2,2)Millennium Management LLC (yüzde 2,1)Geode Capital Management LLC (yüzde 2,1)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-06-07"
+  },
+  {
+    "company": "Wendy’s",
+    "description": "Wendy’s, 1969 yılında Dave Thomas tarafından kurulan restoran zinciridir. Dünyanın 3. büyük hamburger fast food zinciridir. 6 binden fazla restoranı bulunmaktadır. Merkezi Dublin’de yer almaktadır.The Wendy’s Company büyesideki Wendy’s Amerikan firmasıdır.Wendy’s 1999 yılında Türkiye’den çekildi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-03-17"
+  },
+  {
+    "company": "GMC",
+    "description": "GMC, 1911 yılında William C. Durant tarafından kurulan cip, ticari kamyon, kamyonet, otobüs, minibüs, askeri araç ve spor araçları markasıdır.GMC, Amerikan merkezli General Motors’un bir birimidir. Araçları Kuzey Amerika ve Orta Doğu’da pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

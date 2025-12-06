@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Beckhoff",
+    "description": "Beckhoff, 1980 yılında kurulan Beckhoff Automation GmbH & Co. KG bünyesindeki Endüstriyel bilgisayarlar, I/O ve fieldbus bileşenleri, sürücü teknolojisi ve otomasyon yazılımı markasıdır.Bilgisayar ve EtherCAT tabanlı kontrol teknolojisine dayalı açık otomasyon sistemleri geliştirmektedir.Beckhoff Automation GmbH & Co. KG Almanya merkezlidir. 2008 yılından beri Türkiye’de Beckhoff Otomasyon Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Delphi Automotive",
+    "description": "Delphi Automotive, 2009 yılında kurulan Delphi Technologies bünyesindeki; araçlar için klima ve motor soğutma, fren, dizel sistemler, motor yönetimi, yakıt sistemleri, ateşleme, direksiyon ve süspansiyon, teşhis ve test ekipmanları ve bakım ürünleri markasıdır.Delphi Technologies 2020 yılında Amerika merkezli BorgWarner Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Livanova Ülke Firması",
+    "description": "Livanova, 2015 yılında kurulan Livanova, Plc bünyesindeki tıbbi cihazlar markasıdır.Çeşitli ürün yelpazesi ve küresel erişim sunan, 100’den fazla ülkede varlığını sürdüren tıbbi teknoloji ve hizmet şirketidir.Amerikan-İtalyan ortaklığında kurulan LivaNova PLC İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Al-Fa Green",
+    "description": "Al-Fa Green, 1953 yılında kurulan Civan Ticaret Makine ve Teknik Hırdavat bünyesinde ithal edilen bahçe aletleri, teknik hırdavat ve kasap malzemeleri markasıdır.Ürün yelpazesinde makine veya motor ile çalışan ziraat aletleri, ziraat makineleri, biçerdöver, biçerbağlar, pulluk, dizkaro, vanvey, balyalama makinesi, motorlu çim biçme makinesi, ilaçlama makinesi, hayvan kırpma makinesi, keser, testere, bıçkı, rende, çim kesme makası, boru anahtarı, ingiliz anahtarı, spatüla, tırpan, balta, çekiç, balyoz, çim biçme makinesi, el aletleri olarak kalıplar, ilaçlama pompası, badana makinesi, keski, tornavida, mekanik matkap, biley taşı ve çarkı, lokma takımı, pense, kerpeten, kriko, set dolu takım çantası, su ve gaz tesisatları için musluklar, tank için seviye kontrol vanası, dedantör, otomatik sulama teçhizatı için fıskiye, musluk, zirai amaçlı sulama makinesi, duş için ahize ve spiral, sıhhi tesisat parçası olan borular yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nocciolata",
+    "description": "Nocciolata, 1923 yılında kurulan Rigoni Di Asiago S.R.L. bünyesinde üretilen organik kakaolu fındık kreması, reçel markasıdır.Ürünleri gluten, trans yağ, renklendirici, GDO içermemektedir. Malzemeleri arasında ayçiçek yağı, yağsız süt tozu, kakao yağı yer almaktadır. Ürünleri yüzde 100 organik sertifikalı olarak üretilmektedir.Rigoni di Asiago S.r.l., 2018 yılında Rigoni ailesinin holding şirketinin çoğunluk hisseleri, İsviçre özel sermaye fonu Kharis Capital tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2021-05-12"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Weima",
+    "description": "Weima, 1980 yılında kurulan Weima Maschinenbau Gmbh bünyesinde üretilen tek şaftlı öğütücüler, dört şaftlı öğütücüler, kesme değirmenleri, briket presleri, boşaltma presleri ve aksesuarlar markasıdır.Presleri, içecek ve gıda endüstrisinde her türlü ambalaj ve etiketlerin sıkıştırılması ve geri dönüşümü için kullanılmaktadır.Weima Maschinenbau Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Arkimya",
+    "description": "Arkimya, 1969 yılında kurulan Arkimya San. ve Tic. A.Ş. bünyesinde üretilen vazelin, kostik, asit, zırnık, boya, benzol, gliserin, karbondiyoksit, kalsium karbonat markasıdır.ISO 9001 belgesine sahiptir.İzmir merkezli firma ürünlerini 80’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bioarge",
+    "description": "Bioarge, 2013 yılında Glohe Bitkisel Ürünler San. ve Tic. A.Ş tarafından kurulan BioArge Laboratories bünyesinde üretilen bitkisel cilt bakım ürünleri, kişisel bakım ürünleri, temizlik ürünleri ve bebek ürünleri markasıdır.Ürünleri sentetik içermeyen, yüzde yüz doğal hammadde içeren formüllerle üretilmektedir.İstanbul merkezli firma ürünlerini Tuzla’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hanman",
+    "description": "Hanman, 2013 yılında kurulan Shenzhen B.D. Communication Co. Ltd. bünyesinde üretilen telefon cüzdan, deri kılıfları, tablet kılıfları, dizüstü çantaları markasıdır.Shenzhen B.D. Communication Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Optima Yem",
+    "description": "Optima, 1986 yılında Ralston Purina International’ın iştiraki olarak kuruldu. 2003 yılında Türkiye hakları satın alınarak kurulan Optima Besin Maddeleri San. ve Tic. A.Ş. bünyesinde üretilen hayvan yemleri markasıdır.Yüzde yüz Türk sermayeli bir yapıda olan şirket, Kırklareli, Balikesir ve Bolu’da bulunan üç fabrikasında üretim yapmaktadır. ISO 9001 belgesine sahiptir.Bünyesindeki markalar;OPTİMAVET-LINE",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

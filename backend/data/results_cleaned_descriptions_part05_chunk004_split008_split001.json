@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Torpado",
+    "description": "Torpado, 1895 yılında Carlo Torresini tarafından kurulan bisiklet markasıdır.Ürünleri arasında kros bisikletleri, dağ bisikletleri, yol bisikletleri, bisiklet, trekking, şehir bisikletleri ve elektrikli bisikletler yer almaktadır..2001 yılında İtalya merkezli Cicli Esperia S.p.a. bünyesine geçmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Snaploc",
+    "description": "Snaploc, 1877 yılında kurulan Wilhelm Böllhoff GmbH & Co. KG bünyesindeki standart vidalar, özel bağlantı elemanları ve montaj sistemleri markasıdır.Dünyanın en önde gelen bağlantı elemanları ve işleme sistemleri üreticilerinden ve tedarikçilerinden birisidir.Wilhelm Böllhoff GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hedrin",
+    "description": "Hedrin, 1922 yılında Nathan Thornton ve Phillip Ross tarafından kurulan Thornton & Ross Ltd. bünyesindeki saç biti temizleme ürünleri markasıdır.Thornton & Ross Ltd. 2013 yılından beri Almanya merkezli Stada Arzneimittel AG grubunun bir parçasıdır. Ürünleri dünya çapında yaklaşık 120 ülkede satılmaktadır.Bünyesindeki markalar;CovoniaHedrinCetrabenZoflora",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Verno",
+    "description": "Verno, 1994 yılında kurulan Arena Promosyon Ltd. Şti. bünyesindeki oto kokusu, kolanya, kutu mendil ve promosyon magnet markasıdır.İstanbul merkezli firma kolonya dışında dezenfektan, kutu mendil, hijyenik mendil ve hava tazeleyici alan kokuları üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Game Garaj",
+    "description": "GameGaraj.com, 2002 yılında kurulan Eksa Elektronik Bilgi İşl. A.Ş. bünyesinde ithal edilen masaüstü bilgisayar-oem ürünleri markasıdır.Yüksek performanslı ve erişilebilir oyuncu bilgisayarı, aksesuarları ve ultra hızlı iş istasyonu çözümleri sunmaktadır.Eksa Elektronik ithal ettiği teknoloji ürünlerinin tüketiciye ulaştırılmasını sağlayan dağıtım şirketidir. İstanbul’da 5 bin metrekarelik kapalı alana sahip merkez binasında hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "RStudio",
+    "description": "RStudio, 2011 yılında kurulan R-Tools Technology, Inc. bünyesindeki güçlü veri kurtarma, geri alma, sürücü görüntüsü, veri güvenliği ve bilgisayar gizlilik yardımcı programları markasıdır.R-Tools Technology, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bellagente",
+    "description": "Bellagente, 2016 yılında kurulan Bal Orman Ürünleri İç ve Dış Tic. Ltd. Şti. bünyesindeki duvar dekorasyon ürünleri markasıdır.Kanserojen madde içermeyen yeni nesil kendin yap (DIY) ürünleri ısı ve ses yalıtımı sağlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stowa",
+    "description": "Stowa, 1927 yılında Walter Storz tarafından kurulan Stowa Gmbh Co Kg bünyesinde üretilen mekanik cep ve kol saati markasıdır.Orijinal tarihi saatler kendi saat müzesinde sergilenmektedir.STOWA GmbH CO KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nomos Glashütte",
+    "description": "Nomos Glashütte, 1990 yılında Roland Schwertner tarafından kurulmuş olan NOMOS Glashütte/SA Roland Schwertner KG bünyesindeki mekanik kol saatleri markasıdır.NOMOS Glashütte/SA Roland Schwertner KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-09-11"
+  },
+  {
+    "company": "Teknogreen",
+    "description": "Teknogreen, 1982 yılında kurulan Alkaya Elektronik San. Tic. Ltd. Şti. bünyesinde ithal edilen kablo ürünleri, bilgisayar, test veya ölçüm cihazları, led aydınlatma, yapı veya hırdavat ürünleri markasıdır.Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

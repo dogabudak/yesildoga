@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Matila",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "NN Hayat ve Emeklilik",
+    "description": "2003 yılında kurulmuş olan NN Hayat ve Emeklilik A.Ş. bünyesindeki bireysel emeklilik, hayat sigortası, tamamlayıcı sağlık sigortası, ferdi kaza sigortası markasıdır.2025 yılında İsviçre merkezli Zurich Insurance Group Ltd., Zurich Yaşam ve Emeklilik A.Ş. aracılığıyla şirketin hisselerini satın almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Fineksus",
+    "description": "2002 yılında kurulmuş olan Fineksus Bilişim Çözümleri Tic. A.Ş. bünyesindeki kara para ile mücadele teknolojileri, sınır ötesi ödemeler, swift, saas, bulut hizmetleri, api entegrasyonu, finansal mesajlaşma markasıdır.2025 yılında Almanya merkezli Cleversoft Group Gmbh tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sleepsense",
+    "description": "1993 yılında kurulmuş olan S.L.P Scientific Laboratory Products Ltd. bünyesinde üretilen uyku teşhis sistemleri, sarf malzemeleri markasıdır.Uyku bozukluklarını teşhis etmek için fizyolojik sensörler geliştirmektedir.ISO 9001, ISO 13485 belgelerine sahiptir.S.L.P Scientific Laboratory Products Ltd. İsrail merkezlidir. Ürünleri 30’dan fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Mlink",
+    "description": "2021 yılında Migros Türk T.A.Ş. tarafından kurulmuş olan Mimeda Medya Platform A.Ş. bünyesindeki perakende reklam teknolojisi markasıdır.Perakendeciler müşteri verilerini kullanarak, sosyal medyada ya da perakende satış kanallarındaki reklamlarını tek platform üzerinden kurmasını sağlar.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

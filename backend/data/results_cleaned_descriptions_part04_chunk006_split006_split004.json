@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Xtep",
+    "description": "Xtep, 2001 yılında kurulan Xtep International Holdings Limited bünyesinde üretilen ayakkabı, giyim, aksesuar markasıdır.Xtep International Holdings Limited, Hong Kong merkezli bir spor malzemeleri üretim şirketidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "SYM Motors",
+    "description": "SYM Motors, 1954 yılında Huang Ji-Jun ve Chang kuo-un tarafından kurulan Sanyang Motor Co., Ltd. bünyesinde üretilen scooter, motosiklet ve diğer motorlu araçlar markasıdır.Sanyang Motor Co., Ltd. Tayvan merkezlidir. Ürünlerini Tayvan, Çin ve Vietnam olmak üzere üç üretim üssünde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Yuhchang",
+    "description": "Yuhchang, 1967 yılında kurulan Yuhchang Electric Co. Ltd. bünyesinde üretilen kondansatör markasıdır.Ürünleri arasında güç kapasitörler, kuru tip güç kapasitörler, elektrikli cihazlar için kapasitörler, otomatik güç faktörü regülatörü ve kontrol paneli, seri reaktörler yer almaktadır.ISO 9001 belgesine sahiptir.Yuhchang Electric Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Türkiye Varlık Fonu A.Ş İçindeki Kurumlar",
+    "description": "\"Türkiye Varlık Fonu A.Ş İçindeki Kurumlar\"\nTürkiye Varlık Fonu A.Ş İçindeki KurumlarTürkiye Varlık Fonu (TVF) Anonim Şirketi, 2016 yılında kurulan varlığa dayalı kalkınma fonudur. Cumhurbaşkanlığı’na bağlıdır.Yelpazesindeki finansal hizmetler, enerji, ulaştırma ve lojistik, madencilik, şans oyunları, teknoloji ve telekom, tarım ve gıda, gayrimenkul kuruluşların büyüme hedeflerine katkı sağlar.Yönetim KuruluRecep Tayyip Erdoğan Türkiye Cumhuriyeti CumhurbaşkanıProf. Dr. Erişah Arıcan Yönetim Kurulu ÜyesiHüseyin Aydın Yönetim Kurulu ÜyesiBurak Dağlıoğlu Yönetim Kurulu ÜyesiMustafa Rifat Hisarcıklıoğlu Yönetim Kurulu ÜyesiFuat Tosyalı Yönetim Kurulu ÜyesiZafer Sönmez Genel Müdür ve Yönetim Kurulu ÜyesiBünyesinde toplanan şirketler ve hisse oranları;Türk Telekomünikasyon A.Ş. % 6,6Kayseri Şeker Fabrikası % 11,1Platform Ortak Kartlı Sistemler A.Ş. % 20,0Turkcell İletişim Hizmetleri A.Ş. % 26,2Türkiye Vakıflar Bankası TAO % 36,0Türkiye Denizcilik İşletmeleri A.Ş. % 49,0Türk Hava Yolları % 49,1Türkiye Halk Bankası A.Ş. % 75,3Borsa İstanbul % 80,6Türkiye Sigorta A.Ş. % 81,1Boru Hatları İle Petrol Taşıma A.Ş. % 100Çay İşletmeleri Genel Müdürlüğü % 100Eti Maden İşletmeleri % 100İstanbul Finans Merkezi % 100Posta ve Telgraf Teşkilatı A.Ş. % 100T.C. Ziraat Bankası A.Ş. % 100TCDD İzmir Liman İşletmesi % 100Türkiye Hayat Emeklilik A.Ş. % 100Türkiye Petrolleri A.O. % 100Türksat Uydu Haberleşme Kablo TV ve İşletme A.Ş. % 100TVF Enerji Sanayi ve Ticaret A.Ş. % 100TVF Maden Sanayi ve Ticaret A.Ş. % 100TVF Rafineri ve Petrokimya Sanayi ve Ticaret A.Ş. % 100",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gatorade",
+    "description": "Gatorade, 1965 yılında kurulan The Gatorade Company, Inc. bünyesindeki spor içeceği markasıdır.Ürünleri 80’den fazla ülkede dağıtılmaktadır.2001 yılında The Gatorade Company, Inc. Amerika merkezli PepsiCo tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

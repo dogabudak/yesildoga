@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Bandai Namco",
+    "description": "Bandai Namco Games, Bandai Namco Holdings bünyesinde yer alan video oyunu geliştirme ve yayınlama alanlarında hizmet veren bir şirkettir. Şirket, oyuncaklar, video oyunları, arcadeler, anime ve lunaparklarında uzmanlaşmıştır.Namco ile Bandai 1995 yılında birleşerek Namco Bandai Games şirketini oluşturdu.Japonya merkezli Bandai Namco Holdings bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Fisher Price",
+    "description": "Fisher Price markası 1930 yılında Herm Fisher tarafında kuruldu. Şirket 1993 yılında Mattel bünyesine geçti.Mattel 1945 yılında kurulan oyuncak üretim şirketidir.Firmanın merkezi Amerika’da yer almaktadır. Ürünlerini Çin’de ürettirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-05-11"
+  },
+  {
+    "company": "TSMC",
+    "description": "TSMC 1987 yılında kurulan dünyanın ilk özel yarı iletken dökümhanesi olan ve uzun süredir kendi alanında lider olan, merkezi ve ana faaliyet alanlarıyla dünyanın en büyük bağımsız (yarı saf) yarı iletken üreticisidir.TSMC açılımı Taiwan Semiconductor Manufacturing Company, olan şirketin merkezi Tayvan’ın Hsinchu kentindeki Hsinchu Bilim ve Endüstri Parkı’nda bulunuyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Pierre Cardin",
+    "description": "Pierre Cardin markası adını İtalyan asıllı Fransız modacıdan almaktadır.Mösyö Pierre Cardin, otoriterlerce yeryüzünün en iyi bilinen beş Fransız moda tasarımcısından biri olarak kabul edilmektedir.Dünyanın birçok yerinde butikleri açılan Pierre Cardin, sadece giyimle sınırlı kalmayıp, mücevher, parfüm, mobilya, aksesuar gibi alanlarda da tasarım markası olarak bilinirliğini artırmıştır.Pierre Cardin, Aydınlı Grup’la imzalanan işbirliği sözleşmesi ile 1994 yılında Pierre Cardin Türkiye’deki ilk mağazasını açmıştır.Aydınlı Grup, Pierre Cardin’de 10 ülkede bu uluslararası markanın sahibi ya da lisansörü konumundadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2019-12-08"
+  },
+  {
+    "company": "Neutrogena",
+    "description": "Neutrogena 1930 yılında Emanuel Stolaroff tarafından kurulan Natone tarafından üretilen cilt bakımı, saç bakımı ve kozmetik markasıdır. Şirketin adı 1962 yılında Neutrogena Corporation olarak değiştirildi.Neutrogena ürünleri 70’ten fazla ülkede dağıtılır.Neutrogena özel temizlik ürünleri, nemlendiriciler, banyo ve vücut ürünleri, kozmetik ürünler, saç ürünleri, erkek cilt bakım ürünleri dahil olmak üzere geniş bir ürün yelpazesine sahiptir.Neutrogena Corporation, 1994 yılında Amerika merkezli cilt, saç bakımı ve kozmetik markası Johnson & Johnson adlı şirket tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-01-10"
+  }
+]

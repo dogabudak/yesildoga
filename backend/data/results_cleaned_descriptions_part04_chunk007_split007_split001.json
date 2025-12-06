@@ -1,0 +1,46 @@
+[
+  {
+    "company": "AP&T",
+    "description": "AP&T, 1989 yılında kurulan AP&T AB bünyesindeki üretim hatları, otomasyon, presler ve makine araçları markasıdır.Sac şekillendirme endüstrisinde faaliyet gösteren bir sanayi kuruluşudur. Şirket, preslenmiş sac parçaları üreten şirketler için komple üretim sistemleri, otomasyon ekipmanları, presler, aletler ve hizmetler geliştirmekte ve üretmektedir.AP&T AB İsveç merkezlidir ve Fairford Group bünyesindedir. İtalya’da üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Miss Sporty",
+    "description": "Miss Sporty, 2011 yılında kurulan göz, dudak, tırnak, yüz makyaj ürünleri markasıdır.Coty Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "MUA",
+    "description": "MUA, 2010 yılında kurulan FB Beauty Ltd. bünyesindeki kozmetik ve güzellik ürünleri markasıdır.Şirket fondöten, maskara, göz kalemi, toz, ruj, fırçalar, aletler ve diğer ilgili ürünleri sunmaktadır.FB Beauty Ltd. İngiltere merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Researchgate",
+    "description": "Researchgate, 2008 yılında Ijad Madisch, Sören Hofmayer ve Horst Fickenscher tarafından kurulan ResearchGate GmbH bünyesindeki bilim adamları ve araştırmacılar için paylaşım, soru sorma ve cevaplama ile işbirlikçileri bulmak için kullanılan bir akademik sosyal ağ sitesidir.ResearchGate GmbH Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fizy",
+    "description": "Fizy, 2008 yılında Robert Yaris tarafından kurulan Lifecell Müzik Yayın ve İletim A.Ş. bünyesindeki müzik veri akışı ve dijital müzik platformu markasıdır.2011 yılında Turkcell’in sahibi olduğu Lifecell Müzik Yayın ve İletim A.Ş. tarafından satın alındı.Turkcell’in hisselerinin yüzde 26,2’si TVF Bilgi Teknolojileri İletişim Hizmetleri Yat. San. ve Tic. A.Ş.’ye yüzde 19,8’i ise Rus işadamı Mikhail Maratovich Fridman tarafından kurulan LetterOne Holdings S.A.’ya ait IMTIS Holdings SARL’ye aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

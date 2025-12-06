@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Elugel",
+    "description": "1962 yılında Pierre Fabre tarafından kurulmuş olan Pierre Fabre Laboratuvarları bünyesindeki diş jeli markasıdır.Pierre Fabre Laboratoires Fransa merkezlidir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır. Şirketin çoğunluk hisseleri Pierre Fabre Vakfı’na aittir. Türkiye’de Pierre Fabre İlaç ve Pierre Fabre Dermokozmetik şirketleriyle faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Elishacoy",
+    "description": "2004 yılında kurulmuş olan Elishacoy Co. Ltd. bünyesinde üretilen kozmetik, cilt bakım ürünleri markasıdır.Elishacoy Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr.Phytopharma",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pantogar",
+    "description": "1908 yılında kurulmuş olan Merz Therapeutics Gmbh bünyesinde üretilen ilaç markasıdır.Merz Therapeutics Gmbh Almanya merkezli Merz Group’un bir parçasıdır ve ürünlerini 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Natural Formula",
+    "description": "1987 yılında Sano ınternational Ltd. tarafından piyasaya sürülen saç bakım ürünleri markasıdır.Doğal malzemelerden üretilen ürünleri hayvanlar üzerinde test edilmemektedir.Sano ınternational Ltd. İsrail merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

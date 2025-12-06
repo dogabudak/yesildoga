@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mioclean",
+    "description": "Mioclean, 1990 yılında faaliyete başlamış olan Çarşıbaşı Grubu bünyesindeki Avrupa Tekstil Kozmetik A.Ş. tarafından üretilen çamaşır deterjanı, çamaşır yumuşatıcı, elde bulaşık deterjanı, ev bakımı ve temizlik, mutfak ve banyo temizlik, tuvalet temizlik, yüzey temizlik markasıdır.Firma İstanbul merkezlidir ve İstanbul Tuzla Deri OSB’de toplam 15 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Inovatools",
+    "description": "Inovatools, 1990 yılında kurulmuş olan Inovatools Eckerle & Ertel Gmbh bünyesindeki karbür kesici takımlar, frezeler, hassas aletler, talaşlı imalat aletleri markasıdır.Inovatools Eckerle & Ertel Gmbh Almanya merkezlidir. Avusturya, İtalya, ABD, İspanya, Portekiz ve Türkiye’de ortaklıkları bulunmaktadır Türkiye’de İnovatools Kesici Takımlar San. ve Tic. Ltd. Şti. olarak 2011 yılından beri faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pridance",
+    "description": "Pridance, 1964 yılında kurulmuş olan Primavera International S.r.l. bünyesinde üretilen dans kıyafetleri, bale çorabı, dans çorabı, ısıtıcı çoraplar, spor giyim ve moda aksesuarı markasıdır.Primavera International S.r.l. İtalya merkezlidir. Ürünlerini İtalya’da üretmektedir ve 40 ülkeye pazarlamaktadır.Bünyesindeki markalar;PridancePrimaveraSpring Revolution",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Rosefield Ams | Nyc",
+    "description": "Rosefield, 2014 yılında kurulmuş olan Rosefield Group B.V. bünyesindeki mücevherler, değerli taşlar, saat ve kronometrik aletler markasıdır.Rosefield Group B.V. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Tapo",
+    "description": "Tapo, 1996 yılında kurulmuş olan TP-Link Corporation Limited bünyesinde üretilen ağ cihazları ve aksesuarları markasıdır.Ürün yelpazesinde akıllı ampul, akıllı anahtar, akıllı fiş, akıllı hub, akıllı kamera, akıllı sensör, robot vakum ürünler yer almaktadır.TP-Link Corporation Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

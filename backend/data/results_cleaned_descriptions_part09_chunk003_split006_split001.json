@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Nextbeau",
+    "description": "Nextbeau2008 yılında kurulmuş olan Bangagan Cosmetic Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.ISO 9001 belgesine sahiptir.Bangagan Cosmetic Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Comfort Family",
+    "description": "Comfort Family1995 yılında kurulmuş olan BİM Birleşik Mağazalar A.Ş. adına çeşitli üreticiler tarafından üretilen iç giyim ürünleri markasıdır.Üretici firmalar ürünleri Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zeon Saat",
+    "description": "Zeon1979 yılında kurulmuş olan Zeon Ltd. bünyesindeki saatler markasıdır.Zeon Ltd. 1994 yılında Hong Kong merkezli Herald Holdings Limited tarafından satın alınmıştır. Ürünleri 40’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Biröz",
+    "description": "Biröz1966 yılında birkaç kooperatifin biraraya gelerek kurduğu Sınırlı Sorumlu Trakya Yağlı Tohumlar Tarım Satış Kooperatifleri Birliği bünyesindeki ayçiçek yağı, bitkisel margarin markasıdır.Edirne merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Comma",
+    "description": "Comma1969 yılında Bernd Freier tarafından kurulmuş olan s.Oliver Bernd Freier GmbH & Co. KG. bünyesindeki triko, kaban, ceket, pantolon, elbise, bluz, tişört gibi giyim ürünleri markasıdır.s.Oliver Sales GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

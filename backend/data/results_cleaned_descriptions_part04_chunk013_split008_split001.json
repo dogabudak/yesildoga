@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Emci",
+    "description": "Emci, 2013 yılında kurulan Emci Aydınlatma Elek. İml. Mon. Demir Çelİk End. İth. İhr. San. ve Tic. Ltd. Şti. bünyesindeki bayrak direkleri, aydınlatma direkleri, PTS direği, mobese direği, mafsallı kamera direkleri, bayrak direği, dekoratif kamera direkleri, dekoratif direk ve tabela direkleri markasıdır.Ürünlerini 4 bin metrekarelik kapalı, 5 bin metrekarelik açık alanda üretmektedir.ISO 9001, OHSAS 18001, TS EN ISO14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "ISO14001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sky Glue",
+    "description": "Sky Glue, 1999 yılında kurulan Daejin Chemical Co. Ltd. bünyesinde üretilen sahte kirpikleri yapıştırmak için yapıştırıcılar markasıdır.Daejin Chemical Co. Ltd. Günye Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Karda Dondurmaları",
+    "description": "Karda Dondurmaları, 2005 yılında kurulan Arılar İnşaat Gıda San. Tic. Ltd. Şti. bünyesinde üretilen dondurma markasıdır.Malatya 2. OSB’de 14 bin 250 metrekarelik arazi üzerinde bulunan 10 bin metrekarelik kapalı alanda bulunan tesisinde üretim yapmaktadır. Ürünlerini Irak’a ihraç etmektedir.ISO 9001, ISO 22000, BRC, Helal belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doratek",
+    "description": "Doratek, 2011 yılında kurulan Doratek Medikal Elektrik Makina San. ve Tic. Ltd. Şti. bünyesindeki ortopedi ve travma alanlarında sağlık sektörüne yönelik ürünler markasıdır.EN ISO13485 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "OB Tampons",
+    "description": "OB Tampons, 2006 yılında kurulan Victory Group Costa Brava SL bünyesindeki kadın tamponları markasıdır.OB Tampons, Amerika merkezli Johnson & Johnson şirketinin bir parçası olan bir firma tarafından üretilmektedir.Victory Group Costa Brava SL İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

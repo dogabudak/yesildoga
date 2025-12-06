@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Schulthess",
+    "description": "Schulthess1845 yılında kurulmuş olan Schulthess Maschinen AG bünyesinde üretilen çamaşır makinesi, kurutucu markasıdır.Özel, ticari ve endüstriyel müşteriler için makineler, sistemler ve sistem çözümleri geliştirmekte ve üretmektedir.Schulthess Maschinen AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Neko Otomotiv",
+    "description": "Neko1990 yılında kurulmuş olan Neko Otomotiv San. ve Tic. A.Ş. bünyesindeki otomotiv yedek parçaları markasıdır.Ürün yelpazesinde binek, hafif ticari ve ağır vasıtalara yönelik her türlü mekanik ve elektrikli parça ile oto kimyasalları ve oto aksesuarları yer almaktadır.Firma İstanbul merkezlidir. Ürünlerini 45 ülkeye ihraç etmektedir.Bünyesindeki markalar;NekoNeko Otomotiv Since 1990NekootomotivNetex Quality Spare PartsNetexpartsNetexparts Quality Spare PartsSince 1990 Neko Otomotiv",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Valoe",
+    "description": "Valoe1978 yılında kurulmuş olan Valoe Oyj bünyesindeki güneş enerjisi sistemleri markasıdır.Fotovoltaik teknolojisinde uzmanlaşmıştır.Valoe Oyj Finlandiya merkezlidir. Litvanya’da güneş pilleri ve Finlandiya’da geleneksel ve PV güneş modülleri üretmektedir. Valoe ayrıca fotovoltaik sistemleri geleneksel güneş enerjisi santralleri veya uygulamasına entegre sistemler olarak kurar.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Hellobio",
+    "description": "Hellobio1999 yılında kurulmuş olan Canbis Gıda San. Tic. Ltd. Şti. bünyesinde üretilen kahvaltılık mısır gevrekleri markasıdır.Ürünleri koruyucu ve renklendirici içermemektedir.Firma Gaziantep merkezlidir. Ürünlerini 20’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;BiofitCanbioCanbisCanbis HellobioCansizlar SankyChipsupEstd 2005 Voov Bakery Since 2005GofomisGold Grain Natural ProductHellobioKids ChocoballsNesineProteintop",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-05-05"
+  },
+  {
+    "company": "Buzdağı Doğal Mineralli Su",
+    "description": "Buzdağı2015 yılında kurulmuş olan Seli Kaynak ve Meyve Suları İşletmeleri San. Tic. A.Ş. bünyesinde üretilen şişelenmiş doğal mineralli su markasıdır.ISO 9001, ISO 14001, ISO 22000, Koşer ve Helal belgelerine sahiptir.Firma Sakarya merkezlidir. Ürünlerini Almanya, İngiltere, İsrail, Filistin, BAE, Kuveyt, Katar, Azerbaycan, Suudi Arabistan gibi ülkelere ihraç edilmektedir.Bünyesindeki markalar;Bir Yudum Su Bir Ömür SağlıkBuzdağıBuzdağı Doğal Mineralli SuBuzdağı DoğançayBuzdağı FormBuzdağı Gratuity Of The NatureBuzdağı MaxBuzdağı PlusBuzdağı SakaryaBuzdağı UpBuzdağı+BuzzblueBuzzblue Natural Spring WaterSakarya Buzdağı Doğal Mineralli SuSenin Şehrin Senin MarkanSılaSıla Doğal Kaynak SuyuSılasu",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

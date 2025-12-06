@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Healthyme",
+    "description": "1996 yılında kurulan Acon Laboratories Inc. bünyesinde üretilen gebelik testi markasıdır.ISO 13485 belgesine sahiptir.Acon Laboratories Inc. Amerika merkezlidir ve ürünlerini Çin’de üretmektedir. 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wosen",
+    "description": "1992 yılında kurulmuş olan Zhongshan Wosen Lighting Technology Co. Ltd. bünyesinde üretilen güneş enerjili sel ışıkları, güneş enerjili sokak lambaları, led duvar paketi ışıkları, led gömme ışıklar, led panel ışıkları, led sel ışıkları, led sokak lambaları, led stadyum ışıkları, led yüksek defne ışıkları markasıdır.CE, RoHS, SAA ve ISO 9001 belgelerine sahiptir.Zhongshan Wosen Lighting Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Başak",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mchose",
+    "description": "2014 yılında kurulmuş olan Mchose Digital Technology Co. Ltd. bünyesindeki oyun klavyesi, faresi ve kulaklıkları markasıdır.Mchose Digital Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "AstroStart",
+    "description": "2020 yılında kurulan Voxx Dei LLC bünyesindeki uzaktan kumandalı marş motoru, uzaktan araç çalıştırma ve güvenlik sistemleri markasıdır.Voxx Dei LLC, Amerika merkezli VOXX Electronics Corporation’un bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

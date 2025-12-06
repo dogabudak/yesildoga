@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Powermat Technologies",
+    "description": "Powermat Technologies, 2006 yılında kurulan Powermat Technologies Ltd. bünyesindeki kablosuz güç çözümleri markasıdır.Powermat Technologies Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Nufarm",
+    "description": "Nufarm, 1956 yılında Max Fremder tarafından kurulan Nufarm Limited bünyesindeki zirai ilaçlar, endüstriyel kimyasallar markasıdır.Nufarm Australia Limited Avustralya merkezlidir. Ürünleri 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Bosphorus",
+    "description": "Bosphorus, 1997 yılında Ayhan Ercan tarafından kurulan Ecem Naturel Kozmetik Kişisel Bakım ve Sağlık Ürünleri bünyesindeki bitkisel kozmetik markasıdır.ISO 9001 belgesine sahiptir.Ürünleri paraben ve triclosan gibi zararlı koruyucular içermez. Hayvanlar üzerinde test edilmemektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Radwin",
+    "description": "Radwin, 1997 yılında Sharon Sher tarafından kurulan Radwin Ltd. bünyesinde üretilen noktadan noktaya ve tek noktadan çok noktaya kablosuz geniş bant için donanım markasıdır.Radwin Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "GAN",
+    "description": "GAN, 1993 yılında kurulan Gan Tekstil San. Dış Tic. A.Ş. bünyesinde üretilen polyester ve polietilen ipliklerin karışımıyla üretilen sentetik masaj ürünleri, doğal sisal ve pamuk ipliklerinden ve doğal loofah ve doğal bambu ve keten liflerinden üretilen masaj ürünleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

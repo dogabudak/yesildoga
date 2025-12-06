@@ -1,0 +1,51 @@
+[
+  {
+    "company": "G-Speed",
+    "description": "G-Speed Hangi Ülkenin Malı MarkasıdırG-speed, G-Technology alt markası olarak depolama çözümleri sunar.G-Technology markası medya ve eğlence endüstrisinin gibi yüksek kapasiteli hafıza gereksinimleri karşılamaktadır.G-Technology, Amerikan merkezli Western Digital Corporation’a aittir. Western Digital, 1970 yılında kurulan dünya’nın en büyük sabit disk üreticilerinden biridir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Transcend",
+    "description": "Transcend, 1988 yılında Chung-Won Shu, Peter tarafından kurulan Transcend Information, Inc. bünyesindeki; her tür bellek modülleri, flaş hafıza kartı, USB bellek, dijital müzik çalar, kart okuyucu, taşınabilir sabit diskler, multimedya ürünleri, katı hal sürücüler(SSD), vücut kamerası, araç kamerası, kişisel bulut depolama ve endüstriyel ölçekli ürünler dahil olmak üzere 2 binden fazla ürün içeren markadır.Tayvan merkezli Transcend Information, Inc.’in Amerika, Almanya, Hollanda, Birleşik Krallık, Japonya, Hong Kong, Çin ve Güney Kore’de şubeleri bulunmaktadır. ISO 9001 kalite belgesini alan ilk Tayvanlı bellek modülü üreticisidir. Topam Kalite Kontrol kavramı ile Tayvan’ın ilk bellek modülü üreticisi ve dünyanın ikinci ISO 9001, ISO 14001 ve QCO80000 belgesi alan şirketidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2019-08-27"
+  },
+  {
+    "company": "Doogee",
+    "description": "Doogee, 2003 yılında kurulan akıllı telefon markasını 2013 yılında KVD International Group Ltd. satın aldı.KVD International Group Ltd. İspanya şirketidir ürünleri Çin’de Shenzhen DOOGEE Hengtong Technology Co., Ltd üretmektedir. Dünya’da 160 ülkede ürünleri satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Afia",
+    "description": "Afia, 1998 yılında kurulan Nafia Gıda Ltd. Şti. bünyesindeki; Unlu Mamüller, Temizlik Malzemeleri, Sos, Salça,Yağ ve Baharat, Şeker ve Hediyelik, Pasta Malzemeleri, Meşrubat ve İçecek Çeşitleri, Kuru Gıda ve Bakliyat, Kozmetik ve Kişisel Bakım, Kahvaltılık, Hediye Paketleri, Et Ürünleri, Cips, Kraker ve Atıştırmalık, Çikolata ve Kek Çeşitleri, Çay, Kahve, Şeker ve Tuz, Bisküvi ve Gofret Çeşitleri, Bal, Reçel ve Gıda Takviyeleri markasıdır.Ürünlerinde insan sağlığına zararlı ve dinen haram olan katkı maddeleri kullanılmıyor.Nafia Gıda Ltd. Şti. yerli sermayeli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-03-22"
+  },
+  {
+    "company": "Akfa",
+    "description": "Akfa, 1951 yılında kurulan Dikey Gıda Tarım Pazarlama ve Ticaret A.Ş. bünyesindeki domates ve konserve ürünleri markasıdır.Ürünleri katkısız koruyucu madde içermemektedir.Türkiye’nin ilk salça fabrikası olan Dikey Gıda Tarım Pazarlama ve Ticaret A.Ş. yerli sermayeli firmadır. İki fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

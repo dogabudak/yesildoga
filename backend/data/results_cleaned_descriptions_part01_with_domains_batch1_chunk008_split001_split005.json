@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bulova",
+    "description": "Bulova, 1875 yılında Joseph Bulova tarafından kurulan saat markasıdır.2008 yılında Japonya merkezli The Citizen Group tarafından satın alınmıştır.Türkiye’de 1986 yılından bu yana saat sektöründe faaliyet gösteren Ersa Saat, Bulova markasının Türkiye distribütörü olarak satış yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Tracmax Lastiği Ne",
+    "description": "Tracmax, 1986 yılında kurulan Shandong YongSheng Rubber Group LTD. bünyesindeki lastik markasıdır.Tracmax markası Çin’in en büyük lastik fabrikalarından birinde üretilmektedir. Amerika, Avrupa, Ortadoğu, Güneydoğu Asya, Afrika ve Avustralya gibi pek çok kıtada ürünleri satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nuby",
+    "description": "Nuby, 1992 yılından beri New Valmar bünyesindeki çocuk ürünleri ve ahşap ürünleri markasıdır. Nuby ürünleri dünyanın 155 ülkesine dağıtılmaktadır.Belçika merkezli New Valmar şirketi bünyesindeki Nuby ürünleri Çin’de üretiliyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Hanomag Ülke",
+    "description": "Hanomag, 1925 yılında kurulan buhar lokomotifi, traktör, kamyon, askeri araç, inşaat araçları ve otomobil markasıdır.1989 yılında, dünyanın en büyük ikinci inşaat makinesi üreticisi olan Japon Komatsu, Hanomag AG’nin belli bir payını satın aldı ve 2002 yılında şirketin yüzde 100 iştiraki olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Clarins",
+    "description": "Clarins, 1954 yılında Jacques Courtin-Clarins tarafından kurulan Clarins SAS bünyesinde üretilen kozmetik markasıdır.Kadınlar için makyaj malzemeleri, selülit kremi, vücut sıkılaştırıcısı, göğüs kremi, peeling, makyaj temizleyici, tonik, nemlendirici ve onarıcı ürünler, erkekler için serumlar, nemlendiriciler, tıraş köpükleri ve jel temizleyicileri gibi ürünler sunmaktadır.Clarins SAS Fransa merkezlidir. Ürünlerini 150 ülkeye pazarlamaktadır.Bünyesindeki markalar;AromaphytosoinClarinsClarins ParisClarinsmenEau DynamisanteEau RessourçanteExpertise 3pIntegrinePar AmourSeves",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-02-26"
+  }
+]

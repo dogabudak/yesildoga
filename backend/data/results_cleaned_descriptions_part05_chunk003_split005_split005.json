@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ambitious",
+    "description": "Ambitious, 2008 yılında kurulan Industria De Calçado Celita Lda bünyesindeki erkek ayakkabı ve giyim markasıdır.Industria De Calçado Celita Lda Portekiz merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Teardrop Sulu Göz",
+    "description": "Teardrop Sulu Göz, 1927 yılında kurulan Kent Gıda Maddeleri San. ve Tic. A.Ş. bünyesinde üretilen sakız markasıdır.Kent Gıda Maddeleri San. ve Tic. A.Ş. Amerika merkezli Mondelez International şirketine aittir. Ürünlerini Kocaeli’de bulunan 85 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-08-23"
+  },
+  {
+    "company": "Big Babol",
+    "description": "Big Babol, 2001 yılında kurulan Perfetti Van Melle S.p.A. bünyesinde üretilen sakız markasıdır.Ürün şellak, karmin, brilliant blue fcf, bht, glikoz şurubu, soya lesitin, aroma vericiler ve renklendiriciler içermektedir.Perfetti Van Melle S.P.A. İtalya ve Hollanda şirketleri ortaklığına aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "One More Bant",
+    "description": "One More Bant, 2016 yılında kurulan One life Medikal Kozmetik İth. İhr. San. ve Tic. Ltd. Şti. bünyesindeki sağlık bandı markasıdır.İçeriğinde altın kore kırmızı ginsengi, saponinler, glucosamine ve gümüş iyonları yer alır.Bünyesindeki markalar;24k Eyes LifeAngel Painless LifeAnti Smoke LifeDay 24 LifeDay LifeDetox LifeEyes LifeFoot LifeGüvenilir GayrimenkulGüvenilirarabamGüvenilirevimGinseng Painless LifeGold Eyes LifeGold Face LifeGold Gel Eyes LifeGold Lips LifeHerbal Painless LifeIron LifeLider LifeMagnefit LifeMig LifeMind LifeNap LifeOne Life AkademiOne Life BantOne Life DetoxOne Life GlobalOne Life MedikalOne Life OrganikOne Life Plus GlobalOne Life TurkeyOne Life WorldwideOne More BantOne More WorldwidePainless LifePower LifePowerman LifeQ+ LifeSlim LifeTherapy LifeVitamin LifeWarmer Life",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tritone Cream",
+    "description": "Tritone Cream, Akatich AG bünyesinde üretilen güneş, yaşlanma, hamilelik ve cilt lekeleri kremi markasıdır.Dermo-kozmetik ürünler geliştirmekte ve üretmekte olan Akatich AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

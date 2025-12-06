@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Lunch & Dinner",
+    "description": "Lunch & Dinner Nerenin Malı Markası“Lunch & Dinner“Lunch & Dinner, 1994 yılında Pastavilla bünyesinde üretilen makarna markasıdır. 2019 yılında Durum Gıda San. ve Tic. A.Ş. tarafından satın alınmıştır.Türkiye’de üretim yapmaktadır. Ürünleri koruyucu ve katkı maddesi içermez.ISO 9001, ISO 14001, ISO 22000 ve Helal Gıda belgelerine sahiptir.Durum Gıda Kanada merkezli AGT Food and Ingredients Inc.’e aittir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": "2024-12-03"
+  },
+  {
+    "company": "Pacovis",
+    "description": "Pacovis Gıda, 2008 yılında kurulan Pacovis Gıda Sanayi & Ticaret A.Ş. bünyesindeki baharatlar, lezzet karışımları, fonksiyonel karışımlar markasıdır.Ürünleri İzmir üretim tesisinde işlenerek özel üretilmektedir.Pacovis Gıda, Pacovis AG (İsviçre) ve Kütaş Tarım ortaklığı ile kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Albert Genau",
+    "description": "Albert Genau, 1992 yılında kurulan Işıldak İnşaat Taahhüt Tic. A.Ş. bünyesindeki balkon camlama sistemleri, cephe camlama sistemleri, alüminyum pencere sistemleri, pergola-tente sistemleri, çelik kapılar, otomatik kapılar ve yangın dayanımlı kapılar markasıdır.Albert Genau markalı ürünler, üretici bayilik alt yapısıyla 33 ülkede, 100’ü aşkın üretici bayi tarafından pazara sunulmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dynamic",
+    "description": "Dynamic, 1993 yılında kurulan Interspor Dış Tic. A.Ş. bünyesinde ithal edilen koşu bandı, eliptik bisiklet, dikey bisiklet, masaj aleti, paten, scooter, ağırlık istasyonu gibi spor ürünleri markasıdır.Firma TSE, TS EN ISO 9001, TS 10002, TS EN ISO 14001, TS 18001, OHSAS 18001, TS EN ISO 27001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Velavit",
+    "description": "Velavit, 2006 yılında kurulan Salute Sağlık Hizmetleri A.Ş. çatısı altında faaliyet gösteren Velavit Sağlık Ürünleri A.Ş. bünyesindeki gıda takviyesi markasıdır.Velavit, Almanya’da Salute güvencesi ile üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

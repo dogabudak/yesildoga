@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tadano",
+    "description": "Tadano, 1948 yılında Masuo Tadano tarafından kurulan Tadano Ltd. bünyesindeki vinç ve hava çalışma platformları markasıdır.Şirket dünyanın en büyük yedinci vinç üreticisidir. İnşaat vinçleri, Kamyon yükleyici vinçleri ve Hava çalışma platformları üretmektedir.Tadano Limited Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Baosteel",
+    "description": "Baosteel, 1978 yılında kurulan Shanghai Baosteel Group Corporation bünyesindeki çelik, yassı çelik ürünleri, uzun çelik ürünleri, tel ürünleri, plakalar markasıdır.Otomotiv çeliği üretimine daha fazla önem vermektedir.Baosteel Group Çin merkezli çelik üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "First Pacific",
+    "description": "First Pacific, 1981 yılında Sudono Salim tarafından kurulan First Pacific Company Limited bünyesindeki yatırım yönetimi ve holding şirketidir.Telekomünikasyon, tüketici gıda ürünleri ve altyapı sektörüne yatırım yapmaktadır. Şu anki başkanı Endonezya asıllı Çinli girişimci Anthoni Salim’dir. First Pacific Company Limited şirketinin merkezi Hong Kong’ta yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Altice",
+    "description": "Altice, 2001 yılında İsrail asıllı Fransız girişimci Patrick Drahi tarafından kurulan Altice Europe NV bünyesindeki telekomünikasyon ve yayın dağıtıcısıdır.Altice Europe NV, Hollanda merkezli çokuluslu telekom ve kitle iletişim şirketidir.Batı Avrupa, İsrail ve Karayipler’de 50 milyondan fazla internet, TV ve telefon müşterisi bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Schaefer",
+    "description": "Schaefer Group, 1937 yılında Fritz Schaefer tarafından kurulan şirketler grubu bünyelerindeki; yüksek katlı raf; platformlar; depolama ve alma cihazları, kutular ve konteynerler, depo işlemlerini kontrol etmek ve izlemek için yazılım, ofis, atölye ve iş ekipmanları, otomatik depolama, taşıma ve toplama sistemleri, atık konteynerleri; atık bertaraf çözümleri markasıdır.Schaefer Group, 3 kıtada 16 üretim tesisi ile faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "JD implant",
+    "description": "JD implant, 2006 yılında kurulan JDentalCare srl bünyesindeki diş implantları, diş cerrahi aletler, dental cihazlar markasıdır.ISO 13485 belgesine sahiptir.JDentalCare srl İtalya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "NT Dental",
+    "description": "NT Dental, 2007 yılında kurulan NT-Trading GmbH & Co. KG bünyesinde üretilen diş implantları, diş ve diş teknolojisi amaçları için yansıma önleyici sıvı, diş aşındırıcıları vb diş malzemeleri markasıdır.NT-Trading GmbH & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hirschmann",
+    "description": "Hirschmann, 1997 yılında kurulan Hirschmann Electronic Gmbh & Co. Kg. bünyesinde üretilen bilgisayar ağ ürünleri markasıdır.Otomasyon ve ağ teknolojisi için çözümler geliştirmektedir.Hirschmann Electronic Gmbh & Co. Kg. 2007 yılında Almanya merkezli Belden Electronics Gmbh tarafından satın alınmıştır. Almanya, Macaristan ve Çin’de üretim merkezleri ve Avrupa, Asya ve ABD’de kardeş kuruluşları vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Yamaichi",
+    "description": "Yamaichi, 1983 yılında kurulan Yamaichi Electronics Co. Ltd. bünyesindeki test ve yanma soketleri, konektörler ve ara bağlantı sistemleri markasıdır.Telekom altyapısı, otomotiv, endüstriyel otomasyon, cep telefonları, GPS sistemleri, yazıcılar, dijital kameralar, video kameralar ve diğer tüketici, endüstriyel ve elektronik cihazlarda kullanılan bileşenleri üretmektedir.Yamaichi Electronics Co. Ltd. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nnolcon",
+    "description": "Nnolcon, Nnolcon Medical Technology Co. Ltd. bünyesinde üretilen cerrahi el aletleri markasıdır.Firma ultrasonik ve oftalmik tıbbi cihazlar geliştirmektedir.Nnolcon Medical Technology (Suzhou) Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

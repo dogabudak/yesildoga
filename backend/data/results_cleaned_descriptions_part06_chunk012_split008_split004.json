@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Adin Dental",
+    "description": "Adin, 2001 yılında Eyal Milman ve Yechezkel Adin tarafından kurulan Adin Dental Implant Systems Ltd. bünyesinde üretilen diş implant sistemleri markasıdır.Adin Dental Implant Systems Ltd. İsrail merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Argo Rubinetterie",
+    "description": "Argo Rubinetterie, 1978 yılında kurulan Argo Rubinetterie Srl bünyesinde üretilen musluk ve bağlantı parçaları markasıdır.Şirket, mutfak sektöründen mobilya sektörüne özel sıhhi ürünlerin üretimi ile uğraşmaktadır.Argo Rubinetterie Srl İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Astrosyn",
+    "description": "Astrosyn, 2000 yılında kurulan Astrosyn International Technology Ltd. bünyesinde üretilen dönen elektrikli makineler markasıdır.Ürünleri arasında özel ac ve dc motorlar, elektronik bileşenler, endüstriyel dc motorlar, step motorlar, sürücüler ve aksesuarlar yer almaktadır. ISO 9001 belgesine sahiptir.Astrosyn International Technology Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Atmel",
+    "description": "Atmel, 1984 yılında kurulan Atmel Corporation bünyesinde üretilen mikroişlemciler, flash bellek, dokunmatik ekran denetleyicileri, dokunmatik sensörler, kablosuz veya radyo frekans alıcı-vericiler markasıdır.Ürünleri arasında mikrodenetleyiciler, gömülü radyo frekans cihazları, Wi-Fi, EEPROM ve flash bellek cihazları, simetrik ve asimetrik güvenlik çipleri, dokunmatik sensörler, kontrolörler ve uygulamaya özel ürünler yer almaktadır. Özellikle gömülü sistemler için mikrodenetleyici ve dokunmatik sistemlerde uzmanlaşmıştır.Atmel Corporation, 2016 yılında Amerika merkezli Microchip Technology Incorporated tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Arc’teryx",
+    "description": "Arc’teryx, 1989 yılında kurulan Arc’teryx Equipment Inc. bünyesinde üretilen dış giyim, spor giyim, çantalar, tırmanış ekipmanları markasıdır.Dünya çapında 80’den fazla markalı mağazaya sahiptir.Arc’teryx Equipment Inc., 2019 yılında Çin merkezi Anta Sports Products Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

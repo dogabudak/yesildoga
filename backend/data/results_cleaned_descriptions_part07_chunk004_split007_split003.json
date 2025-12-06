@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sentat Şekerleme",
+    "description": "Sentat Şekerleme Nerenin Malı MarkasıSentat, 1975 yılında kurulmuş olan Şimşirler Gıda Tic. ve San. Ltd. Şti. bünyesinde üretilen akide şekeri, lokum, reçel ve helva markasıdır.Ürünleri glikoz, koruyucu, katkı ve renklendirici, gluten içermez. Doğal renklendirici içerir.Firma Balıkesir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rastar Toys",
+    "description": "Rastar Toys, 2000 yılında kurulmuş olan Rastar Interactive Entertainment Technology Co. Ltd. bünyesinde üretilen oyuncaklar, model arabalar, bisikletler markasıdır.Rastar Interactive Entertainment Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Favors",
+    "description": "2020 yılında kurulmuş olan Favors E-Ticaret Ltd. Şti. bünyesinde ithal edilen şarj cihazı, akıllı saat, araç içi aksesuarlar, bluetooth kulaklık, kılıf ve ekran koruyucu, kulaküstü kulaklık, oyuncu kulaklığı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-09-17"
+  },
+  {
+    "company": "Edelmeister",
+    "description": "Edelmeister, 1989 yılında kurulmuş olan Van Pur S.A. bünyesindeki alkolsüz bira, alkolsüz malt içecek markasıdır.Ürünleri katkı maddesi ve laktoz içermez.Van Pur S.A. Polonya merkezlidir. Almanya merkezli Pura Birra GmbH, Danimarka merkezli Royal Unibrew A/S ve Polonyalı Zbigniew Wantusiak şirketin hisselerine sahiptir.Bünyesindeki markalar;BraniewoBrokCortesEdelmeisterGornoslaskieHalneJasne ze PelneKarpackieKufloweLomzaSlaskieVan PurVan Pur Malt",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Alfapet",
+    "description": "Alfapet, 2010 yılında kurulmuş olan Alfa Pet Yem San. Ltd. bünyesindeki evcil hayvanlar için kuru mamalar, ödül mamaları markasıdır.Ürünleri doğal kurutulmuş yüzde yüz sakatattan üretilmektedir ve kimyasal hiçbir katkı içermez.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

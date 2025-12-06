@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Eternal Shoes",
+    "description": "Eternal Shoes2014 yılında kurulmuş olan Eternal Ayakkabı ve Tekstil San. Tic. Ltd. Şti. bünyesinde üretilen çanta, ayakkabılar, babet, bot ve çizme, sandalet, sneakers, terlik markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Follini Shoes",
+    "description": "Follini Shoes1990 yılında kurulmuş olan Özyaka Ayakkabı Çanta ve Tekstil ve Tic. Ltd. Şti. bünyesindeki kadın çizme, kadın bot, kadın günlük ayakkabı, kadın sandalet, kadın terlik, kadın terlikterlik, topuklu ayakkabı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Follini Shoes",
+    "description": "Follini Shoes2011 yılında kurulmuş olan FBS E-Ticaret Bilişim Hizmetleri Ltd. Şti. bünyesindeki çizme, babet, stiletto, topuklu ayakkabı markasıdır.Kadın ve erkekler için büyük ve küçük numara ayakkabılar sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Snob Deodorant",
+    "description": "Snob1938 yılında İzak Pinto tarafından kurulmuş olan Pinkar Kimya San. ve Tic. A.Ş. bünyesinde üretilen deodorant ve parfüm çeşitleri markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Driclor",
+    "description": "Driclor2000 yılında kurulmuş olan GlaxoSmithKline plc bünyesindeki koltuk altı ile el ve ayaklarda aşırı terlemeyi önlemeye yardımcı olan ürünler markasıdır.Alüminyum klorür sayesinde terlemeyi geçici olarak düşürerek terlemeyi azaltabilir.GlaxoSmithKline plc İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

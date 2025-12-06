@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aurubis",
+    "description": "Aurubis, 2008 yılında kurulan Aurubis AG bünyesinde üretilen bakır katot ve bakır ürünler markasıdır.Avrupa’nın en büyük ve Dünyanın ikinci büyük bakır üreticisidir. Dünyadaki en büyük geri dönüşüm bakır üreticisidir.Aurubis AG Almanya merkezlidir. Şirketin yüzde 25 hissesi Salzgitter AG’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Internet Download Manager",
+    "description": "Internet Download Manager, 1999 yılında kurulan Tonec Inc. bünyesinde geliştirilen Windows işletim sistemi için indirme yöneticisidir.Tonec Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Doğtat",
+    "description": "Doğtat, 2004 yılında kurulan Hanımeli Meyiş Gıda Üretim ve Dış Tic. Ltd. Şti. bünyesinde üretilen reçel, kakaolu fındık kreması ve helva markasıdır.Ürünlerini Kocaeli’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bio Petactive",
+    "description": "Bio Petactive, 1990 yılında kurulan Mar Kimya Veteriner Hizmetleri Tic. Ltd. Şti. bünyesinde üretilen evcil hayvanlar için kozmetik ürünler, besin takviyeleri, sağlık ürünleri markasıdır.İzmir İTOB OSB’de faaliyet göstermektedir.Bünyesindeki markalarAqua-FixAvilinBıo PetactiveBio-FelilysineCatimaltContra IchthyoDeep FixMultisolNutrivetPetactiveSilycuminVıyomegaVitalicatVitalidogViyomegaZoo Smart",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "A10 Networks",
+    "description": "A10 Networks Hangi Ülkenin Malı MarkasıA10 Networks, 2004 yılında Lee Chen tarafından kurulan A10 Networks Inc. bünyesindeki uygulama dağıtım denetleyicilerinin (yazılım ve donanım) markasıdır.A10 Networks, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

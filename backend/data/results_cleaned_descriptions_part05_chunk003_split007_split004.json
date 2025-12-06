@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Bion Likit",
+    "description": "Bion, 2016 yılında kurulan Mohen Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen ev kullanımı için pestisit ürünleri markasıdır.Böcek, karınca yemi, böcek, sinek yokedici solvent veya su bazlı aerosol, elektro likit sivrisinek kovucu set, elektro mat tablet cihaz, sivrisinek kovucu losyon, hamamböceği jeli, karınca tebeşiri ürünleri üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Neura Robotics",
+    "description": "Neura Robotics, 2017 yılında kurulan Neura Robotics Gmbh bünyesinde üretilen motorlar, servo sürücüler, hareket kontrol cihazları ve makine görüş sistemleri, kartezyen robotlar, otomatik güdümlü araçlar ve scara robotlar markasıdır.Firma üretim, sağlık, lojistik ve hizmet uygulamalarına yönelik ürünler üretmektedir.Neura Robotics Gmbh, Çin merkezli Han’s Laser Technology Industry Group Co.’nun tamamına sahip olduğu bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sarıyer Gazoz",
+    "description": "Sarıyer Gazoz Nerenin Malı MarkasıSarıyer Gazoz, 1997 yılında kurulan Oğuz Gıda A.Ş. bünyesindeki gazlı meşrubat markasıdır.Firma ürünlerini Adana, Sakarya ve Bolu’da bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Madran Su",
+    "description": "Madran Su, 1973 yılında Bozdoğan Belediyesi ve İller Bankası desteğiyle kurulan doğal kaynak suyu markasıdır.Aydın, Bozdoğan Belediyesi Madran Memba Suyu İşletmesi damacana, pet, gazoz dolum hattıyla üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alhonga",
+    "description": "Alhonga, 1981 yılında kurulan Alhonga Enterprise Co. Ltd. bünyesinde üretilen bisiklet fren sistemleri markasıdır.Hidrolik frenler, tam hidrolik jant fren, mekanik disk fren ve bisiklet ürün ve aksesuarları üretmektedir.Alhonga Enterprise Co. Ltd. Tayvan merkezlidir. Ürünlerini Tayvan ve Vietnam fabrikalarında üretmektedir. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

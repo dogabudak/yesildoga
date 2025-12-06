@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Zühre Ana",
+    "description": "Zühre Ana, 2011 yılında Muharrem Kakı tarafından kurulmuş olan Erişim İthalat ve İnt Hiz. Tic. Ltd. Şti. bünyesinde üretilen bitkisel ürünler markasıdır.Ürün yelpazesinde macun, vitamin, krem, pekmez, kahvaltılık bitkisel gıda takviyeleri yer almaktadır.Firma İstanbul merkezlidir. Ürünlerini 22 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Morokon",
+    "description": "Morokon, 2019 yılında kurulmuş olan Morokon Kozmetik İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki saç bakım ürünleri ve saç boyası markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "WeChat",
+    "description": "WeChat, 2011 yılında Tencent Holdings Limited bünyesinde üretilen anlık mesajlaşma, sosyal medya ve mobil ödeme uygulamasıdır.Tencent Holdings Limited Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mager El Aletleri",
+    "description": "Mager, 2020 yılında kurulmuş olan Mager İç ve Dış Ticaret – Mahmut Ümit GERS bünyesindeki dolu takım çantaları, el aletleri, kaynakçı setleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AvmpuanGmc Power ToolsMagerSocketpro",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Qualchem Polymer",
+    "description": "Qualchem Polymer, 1998 yılında kurulmuş olan Qual-Chem Polymers Group Inc. bünyesinde üretilen kauçuk ve plastik markasıdır.Qual-Chem Polymers Group Inc. Amerika merkezlidir ve onun üzerinde ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Echosline",
+    "description": "Echosline, 1946 yılında Mario Pettenon tarafından kurulan ve AGF88 Holding S.r.l.’nin yönetim ve koordinasyonuna tabi şirket olan Pettenon Cosmetics Spa bünyesindeki saç bakım ürünleri markasıdır.Pettenon Cosmetics Spa, profesyonel saç ve cilt bakımı konusunda uzmanlaşmış ilk yüzde 100 İtalyan sanayi gruplarından biridir.AGF88 Holding S.r.l İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Daihatsu",
+    "description": "Daihatsu, 1907 yılında kurulan Daihatsu Motor Co., Ltd. bünyesinde üretilen otomotiv markasıdır.2016 yılında Toyota Motor Corporation’ın tamamına sahip olduğu bir yan kuruluşudur.Daihatsu, 130 ülkede üretim, satış ve servis operasyonlarına sahiptir.1937 yılında kurulan Toyota Motor Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Ceylinn Professional",
+    "description": "Ceylinn Professional, Fonex Kozmetik Limited Şirketi bünyesindeki kadınlar için saç bakım, renklendirme ve şekillendirme çözümleri markasıdır.1995 yılında kurulan Fonex Kozmetik Limited Şirketi yüzde 100 yerli sermaye olarak sektörde faaliyet gösteriyor.Fonex Kozmetik, Dünya çapında Ceylinn Professional markasıyla 50 ülkeye ihracat yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Belimo",
+    "description": "Belimo, 1975 yılında kurulan Belimo Holding AG bünyesinde üretilen ısıtma, havalandırma ve klima sistemlerinin kontrolü için aktüatör çözümleri markasıdır.Motor ve vana teknolojisinde ısıtma, havalandırma ve iklimlendirme pazar lideridir.Aktüatörler ve kontrol vanaları firmanın ağırlık verdiği alandır. Karakterize kontrol vanaları, bağımsız basınç vanalar, amortisör aktüatörler, yangın ve duman amortisörleri, sensörler, enerji vanaları, kelebek vanalar, güçlendirme aktüatörleri, bölge vanaları, küre vanalar, bilyevanlar üretmektedir.Belimo Holding AG, merkezi İsviçre’de bulunan ve Amerika, Avrupa ile Asya Pasifik’te iş birimleri olan halka açık bir şirkettir. Türkiye’de Belimo Turkey Otomasyon A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Atlas Copco",
+    "description": "Atlas Copco, 1873 yılında Eduard Franckel tarafından kurulan Atlas Copco AB bünyesindeki kompresör, inşaat ve madencilik ekipmanı, endüstriyel el aletleri ve montaj sistemleri markasıdır.180’den fazla ülkede faaliyet gösteren şirket, 20’den fazla ülkede üretim yapmaktadır.Atlas Copco, firma adı ve markasıyla, özellikle Yağlı ve yağsız kompresörler konusunda uzmanlaşmış olup, ayrıca jeneratör, basınçlı hava kurutucular, çeşitli sanayi filtreleri, hidrolik kırıcılar, hava itkili ya da elektrikli el aletleri, inşaat ve etkinlik göstermektedir.Atlas Copco Group, merkezi İsveç’te bulunan küresel bir sanayi grubudur. Atlas Copco Türkiye; endüstriyel gaz ve hava kompresörleri, kurutucu, filtre, vakum pompası, inşaat ve yıkım araçları, seyyar kompresör, ışık kulesi ve jeneratör, yol yapım aletleri, endüstriyel el aletleri, montaj sistemleri ve hata önleyici yazılım çözümleri üretmektedir.Bünyesindeki markalar:Atlas CopcoChicago PneumaticEdwardsHenrobBeaconMedaesQuincy CompressorSCA",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": "2023-10-17"
+  }
+]

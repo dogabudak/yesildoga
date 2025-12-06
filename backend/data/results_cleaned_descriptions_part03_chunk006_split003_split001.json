@@ -1,0 +1,53 @@
+[
+  {
+    "company": "RazoRock",
+    "description": "RazoRock, 2009 yılında Joseph Abbatangelo ve Michael Luorio tarafından kurulan RazoRock c/o Old World Importing Inc. bünyesindeki ıslak tıraş ürünleri, tıraş fırçaları, tıraş sabunları, jilet, doğal deodorantlar markasıdır.RazoRock c/o Old World Importing Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tek Boya",
+    "description": "Tek Boya, 1994 yılında kurulan Üçel Boya Paz. San. Tic. Ltd. Şti. bünyesinde üretilen inşaat sektörü boyaları, aromatik kokulu boya, inceltici, parlatıcı, koruyucu ve yapıştırıcı markasıdır.TS EN ISO 9001, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kardelen Boya",
+    "description": "Kardelen Boya, 1995 yılında kurulan Kardelen Boya ve Kimya Sanayi Tic. Ltd. bünyesinde üretilen boyar maddeler, paslanma önleyici, tahta ve metal koruyucu, boya için inceltici markasıdır.Ankara OSB’de üretim yapmaktadır. TSE-EN ISO 9001 belgesine sahiptir.Bünyesindeki markalar:İzobondBrilandGoncaKardelen",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fineblue",
+    "description": "Fineblue, 2017 yılında Nokta Elektronik Dış Tic. Ltd. Şti. tarafından kurulan usb kablo, araç şarj aleti, kulaklık, bluetooth ürünleri, powerbank ve seyahat şarj aleti markasıdır.Trakya, Lüleburgaz’da kurulan teknoloji üssünde bilişim ve Gsm sektöründe teknolojik ürün ve aksesuar parçalarının teminini sağlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stepan",
+    "description": "Stepan, 1932 yılında Alfred C. Stepan tarafından kurulan Stepan Company bünyesindeki deterjan, şampuan, diş macunu, kozmetik köpürme ve temizleme yeteneklerini geliştirmek için kullanılan aniyonik yüzey aktif maddeleri markasıdır.Tarımsal çözümler, antimikrobiyal, içecekler, inşaat, gıda takviyeleri, emülsiyon polimerizasyon, tatlar, gıda; ev, kurumsal ve endüstriyel temizlik, endüstriyel ürünler, çamaşır ve temizlik, beslenme, beslenme tozları, oilfield, kişisel bakım, ilaç, phthalic anhidritve polyester polyols (kaplamalar, yapıştırıcılar, sızdırmazlık, elastomerler, toz boya reçineleri ve sert köpük için) kullanılır.Stepan Company Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

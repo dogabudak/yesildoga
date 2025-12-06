@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kontron",
+    "description": "Kontron, 1959 yılında Branco Weiss tarafından kurulan Kontron AG bünyesindeki gömülü bilgisayar teknolojisi markasıdır.Kontron, standart ürünleri ve son teknoloji bazlı entegre teknolojilere dayanan özel çözümler ile çeşitli sektörlerde güvenli ve yenilikçi uygulamalar sunar.Kontron AG Almanya merkezli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Softy",
+    "description": "Softy, 2000 yılından beri temizlik kağıtları sektöründe üretim yapan Europap Tezol Kağıt San. ve Tic. A.Ş. bünyesindeki temizlik kağıdı ürünleri markasıdır.Europap Tezol Kağıt San. ve Tic. A.Ş. 1932 Yılında kurulan yerli sermayeli Tezol Şirketler Grubu’na bağlıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pierce",
+    "description": "Pierce, 1917 yılında William Besserdich ve Bernhard Mosling tarafından kurulan kamyon, ağır ve zırhlı araç, askeri araç, kamyon gövdeleri, havalimanı itfaiye araçları ve erişim ekipmanları markasıdır.Oshkosh Corporation, Amerika merkezli bir kamyon üreticisidir. Ürünleri 150’den fazla ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gardena",
+    "description": "Gardena, 1961 yılında Werner Kress ve Eberhard Kastner tarafından kurulan; sulama sistemleri pompaları, bahçe havuzları, çim bakımı, ağaç ve çalı bakımı, bahçe aletleri veya toprak işlemeye kadar her türlü ihtiyacı karşılayacak ürünler markasıdır.2006 yılında İsveç merkezli Husqvarna Group tarafından satın alındı.Ürünleri dünyada 80’den fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Blomberg",
+    "description": "Blomberg, 1883 yılında kurulan solo ve ankastre beyaz eşya ürünleri markasıdır.Fransa’nın en büyük beyaz eşya üreticisi Brandt’ın Almanya’daki iştiraklerinden Blomberg-Werke Hausgerate ile pazarlama şirketi Brandt Group Hausgerate’yi Arçelik 2002 yılında satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Viavor",
+    "description": "Viavor, 2022 yılında kurulmuş olan Beautymap Kozmetik Tic. A.Ş. bünyesindeki antiaging ve antioksidanlar, güneş ürünleri, leke ürünleri, nemlendiriciler, serumlar, temizleme ürünleri, vücut ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "llumar",
+    "description": "llumar, 2017 yılında kurulmuş olan Eastman Performance Films LLC bünyesinde üretilen bina ve otomobil cam filmleri markasıdır.Eastman Performance Films LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Joozy",
+    "description": "Joozy, 2016 yılında kurulmuş olan DyDo Drinco Turkey İçecek Satış ve Pazarlama A.Ş. bünyesinde üretilen greyfurt ve üzüm aromalı asitli içecek markasıdır.Glikoz şurubu, asesülfam, aspartam, sodyum benzoat, acacia gum, potasyum sorbat, sitrik asit, koruyucu, gibi katkılar içermektedir.DyDo Drinco Turkey, Japonya merkezli DyDo Group Holding bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "İlbay’s",
+    "description": "İlbay’s, 2007 yılında kurulmuş olan İlbays Tekstil Temizlik İthalat İhracat San. Tic. Ltd. Şti. bünyesindeki mikrofiber bez, waffle bez, mop ve bıçak seti markasıdır.Firma Burdur merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kleen Bebe",
+    "description": "Kleen Bebe, 1872 yılında kurulmuş olan Kimberly-Clark Worldwide Inc. bünyesindeki bebek bezi, bebek cit bakım ürünleri, mendil ve banyo havlusu markasıdır.Kimberly-Clark Worldwide Inc. Amerika merkezlidir ve ürünlerini 175’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Belstaff",
+    "description": "Belstaff, 1924 yılında Eli Belovitch ve Harry Grosberg tarafından kurulan Belstaff International Limited bünyesindeki giyim markasıdır.Kadın ve erkekler için su geçirmez giyim ve aksesuarlar üretmektedir.Belstaff International Limited, 2017 yılında İngiltere merkezli INEOS Group Ltd. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Yatsan",
+    "description": "Yatsan, 1974 yılında kurulan İnci Mobilya Malzemeleri Tic. ve San. A.Ş. bünyesinde üretilen yaylı yataklar, çeşitli dolgu malzemeleri, yaysız yataklar, başlıklar ve yatak setleri, özel tasarımlı yat yatakları markasıdır.İzmir merkezli firma üretiminin yarısını çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;5thavenueAlpengluhenAmerican DreamAraba SpaAtlasliterieAvalancheBed BoutiqueBellagioBetiliBlauCar SpaCarringtonCartecoCavallo EmbroıderChıro DeluxeChloeCloverCool And DryCrownCrown PlusDeluxumDiamond HillsFionceFresh St4rtGoossensGoossens InfinityHamiltonHantermannHaremHerrenhausenHgcİnciİnterbedİnter-BedKingsleyKitzhbuhelLang&MartiniLas VegasLe RoyLyonbedMattress BoutiqueMattressboutiqueMemory FoamMérensMillwoodMountain StyleMurmeltierNyxOtantique PlusOthantiqueRosendahlRougeSilwa DreamsSlaapadviesSleep & DreamsSleep StarSleepy’sSmartdreamSmartsleepSophieSteinbockSuite DreamsSultanSupersleepSüper Yatak SySweet DreamsSwiss BeddingTemperatureTestdreamTherapysteUyku ShopUykucuVegas DreamVienna Royal BedsWeddingWohnraumWortflexYatak BoutiqueYatsamYatsanYaysan",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sunsay",
+    "description": "Sunsay, 1976 yılında kurulan Sunsay Pompa Vana Ltd. Şti. bünyesindeki pompa, vana, armatür, ölçü ve kontrol sistemleri markasıdır.Firma Adana merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Airtamer",
+    "description": "Airtamer, 2004 yılında kurulan Headwaters Research & Development Inc. bünyesindeki kişisel hava temizliyiciler ve aksesuarları markasıdır.Headwaters Research & Development Inc. Kanada merkezlidir. Ürünlerini 55’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Erco",
+    "description": "Erco, 1934 yılında kurulan Erco Gmbh bünyesindeki led armatür markasıdır.Perakende, iş ve ağırlama, yaşam ve kamu binaları için mimari projelerde özelleştirilmiş aydınlatma çözümleri için yüzde 100 led teknolojisi kullanarak aydınlatma araçları geliştirmektedir.Erco Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir. Dünyada 60’ın üzerinde iştirak, şube ve acenteyle faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

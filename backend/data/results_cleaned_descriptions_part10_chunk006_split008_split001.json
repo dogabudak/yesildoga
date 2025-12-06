@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Siliwax",
+    "description": "2008 yılında kurulmuş olan Okpa Metal San. Dış Tic. Ltd. Şti. bünyesindeki banyo tekstili, banyo aksesuarları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "A. Schulman",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Typhoon Housewares",
+    "description": "1975 yılında kurulmuş olan Rayware Limited bünyesindeki yemek takımları, tezgah depolama ve tencere gibi çok çeşitli ürünler markasıdır.Rayware Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Lierac",
+    "description": "2014 yılında kurulmuş olan Guangzhou Ruixue Watch Co. Ltd. bünyesinde üretilen saat markasıdır.Guangzhou Ruixue Watch Co. Ltd. Çin merkezilidir ve tüm ürünleri Çin’de üretilmektedir.Bünyesindeki markalar;ForsiningJargarT-Winner",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "TrendyolGO",
+    "description": "2022 yılında kurulmuş olan Tyg Turkey Elektronik Tic. Hizmetleri ve Yatırımları A.Ş. bünyesindeki çevrimiçi market ve yemek siparişi uygulaması markasıdır.Çin merkezli Alibaba Group Holding Limited tarafından kontrol edilen şirketin 2025 yılında yüzde 85 hissesi Amerika merkezli Uber Technologies Inc. tarafından satın alınmıştır.Uber Hissedarları",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

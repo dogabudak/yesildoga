@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Wish",
+    "description": "Wish, 2010 yılında Piotr Szulczewski ve Sheng Zhang tarafından kurulan Contextlogic Inc. bünyesindeki çevrimiçi e-ticaret platformudur.Çok sayıda farklı kategoride ürün satışı gerekleştirmektedir. Ürün tedarikçilerinin büyük çoğunluğu Çin merkezlidir.Contextlogic Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hsthe Sea",
+    "description": "Hsthe Sea, 2014 yılında kurulan Shenzhen Haishi Tongda Technology Co. Ltd. bünyesinde üretilen SSD, HDD, Dahili SSD, Harici mobil sabit disk, Usb sürücü markasıdır.Shenzhen Haishi Tongda Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Olessentia",
+    "description": "Olessentia, Apeiron Doğal Ürünler İthalat İhracat San. ve Tic. Ltd Şti. bünyesindeki uçucu ve sabit yağlar, yüz, saç ve vücut bakım ürünleri, buhurdanlık, cam şişe, damlalıklar markasıdır.Bakım ürünleri yüzde 100 doğal ve organik içerikli ürünlerdir. Organik belgesine sahiptir ve geri dönüştürülebilen malzemeler kullanılarak üretilmektedir.Firma Eskişehir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "X-Star",
+    "description": "X-Star Hangi Ülkenin Malı MarkasıdırX-Star, 2013 yılında kurulan Shenzhen X-Star Technology Co. Ltd. bünyesinde üretilen katı hal sürücüleri, ddr3/ddr4 bellek markasıdır.Shenzhen X-Star Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Baroness",
+    "description": "Baroness, 2013 yılında kurulan Bastonlu Züccaciye Tic. San. Ltd. Şti. bünyesinde üretilen metal, plastik, silikon ev ve mutfak aletleri markasıdır.Firma İstanbul’da bulunan fabrikasında üretim yapmaktadır.ISO 9001, ISO 10002, ISO 22000, ISO 45001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

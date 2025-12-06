@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Olivetti",
+    "description": "Olivetti, 1908 yılında Camillo Olivetti tarafından C. Olivetti & Co., SpA. bünyesinde kurulan büro makineleri ve bilişim sistemleri markasıdır.Şirket 2003 yılında Telecom Italia ile birleşti.Telecom Italia hisselerinin yüzde 23,94’ü Fransız Vivendi ve yüzde 4,93’ü Cassa Depositi e Prestiti’ye ait.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Dikom",
+    "description": "Dikom tüketici elektroniği (LCD TV, dekoder, vs.) İtalyan şirket ICAL S.P.A 2013 yılında Zorlu Holding bünyesindeki Vestel Elektronik şirketine sattı.İtalya’nın önde gelen tüketici elektroniği markalarındandır. Vestel A.Ş güvencesi ile üretilmekte ve Vestel A.Ş. garantisi altındadır.Vestel, Manisa ve Rusya’da üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cross",
+    "description": "Cross, 1846 yılında Richard Cross tarafından kurulan 2017 yılında Transom Capital Group, LLC bünyesine geçen yazı aletleri, dergiler ve aksesuarlar markasıdır.Transom Capital Group, LLC Amerika merkezli bir yatırım şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Medisana",
+    "description": "Medisana, 1981 yılında kurulan Medisana Gmbh bünyesindeki sağlık kontrolü, evde masaj, kişisel hijyen, wellness ev, taşınabilir sağlık ürünleri markasıdır.Medisana Gmbh’nin çoğunluk hisseleri 2015 yılında Çin merkezli Ogawa Smart Healthcare Technology Group Co. Ltd. tarafından satın alındı. Ürünlerini 40 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2022-09-22"
+  },
+  {
+    "company": "Parker",
+    "description": "Parker, 1888 yılında George Safford Parker tarafından kurulan lüks kalem üreticisidir.Mürekkepli, kartuşlu dolma kalem ile çevirmeli veya basmalı mekanizmaya sahip tükenmez kalem ve roller kalem gibi ürünleri bulunmaktadır.Parker markasının sahibi Amerikan merkezli Newell Brands Inc. şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Roland",
+    "description": "Roland, 1972 yılında Ikutaro Kakehashi tarafından kurulan Roland Corporation bünyesindeki müzik aletleri, ses/video, elektronik, bilgisayar ile ilgili ürünler ve yazılım markasıdır.Roland Corporation Japonya merkezli bir şirkettir. Roland’ın ayrıca İtalya, Tayvan ve Amerika’da üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Elçili",
+    "description": "Elçili, 1976 yılında temelleri atılan Tam Gıda Tarım ve Hayvancılık Ürünleri San. Tic. Ltd. Şti. bünyesindeki süt ve süt ürünleri markasıdır.İnek peyniri, koyun peyniri ve keçi peyniri ile üretime başlayan firma 1984 yılında peynir altı suyundan yapılan lor üretimine başladı. 2005 yılında ise yoğurt, tereyağı, ayran ve kaymak üretimine geçti.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Deren Çay",
+    "description": "Deren Çay Hangi Ülkenin Malı MarkasıDeren, 2005 kurulan çay içecekleri markasıdır. Deren Çay, Şok Marketler Tic. A.Ş. bünyesindedir ürünleri Şok Marketler Tic. A.Ş. adına muhtelif firmalar tarafından üretilmektedir.Şok Marketler hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 41,22)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-12-14"
+  },
+  {
+    "company": "Swifty Sharp",
+    "description": "Swifty Sharp, 2011 yılında kurulan HIP Innovations, LLC bünyesindeki Bıçak Bileme Makinesi markasıdır.HIP Innovations, LLC Kanada merkezli bir şirkettir.Ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "İBB İştirak Şirketleri",
+    "description": "\"İBB İştirak Şirketleri\"\nİstanbul Büyükşehir Belediyesi tarafından kurulan ve işletilen çok sayıda şirket bulunmaktadır.2004 yılında Resmi Gazetede yayımlanan ilgili maddeye göre, Büyükşehir Belediyesi kendisine verilen görev ve hizmet alanlarında, ilgili mevzuatta belirtilen usullere göre sermaye şirketleri kurabilmektedir. Ayrı bir tüzel kişiliğe ve bütçeye sahip, yarı ticari nitelikte ancak yerel yönetime bağlı ve yerel yönetimin genel denetimi altında çalışan özel amaçlı bu kuruluşlar aracılığıyla bir çok hizmet yürütülmektedir.İBB İştirak Şirketleri:Ağaç ve Peyzaj A.Ş.İstanbul’un yeşil alan çalışmalarını yürütmek, ağaç ve süs bitkileri yetiştirmek ve bu konuda bilimsel araştırmalar yapmak amacıyla kuruldu.Belbim A.Ş.İstanbul toplu ulaşımında kullanılan entegre Elektronik Ücret Toplama Sistemi’nin kurucusudur.Beltur A.Ş.Çok kapsamlı gastronomi ve turizm işletmeciliği hizmeti vermek için kuruldu.Bimtaş Boğaziçi Peyzaj İnşaat Müşavirlik Teknik Hizmetler San. Tic. A.Ş.Planlı ve sağlıklı kentleşmenin gereği olan alt ve üstyapı yatırımlarının gerçekleşmesi için ilgili kuruluşlara mühendislik, müşavirlik ve proje hizmetleri veriyor.Boğaziçi Yönetim A.Ş.Toplu konut yapılan yeni yerleşim bölgelerini, içinde yaşayacak kişiler için yaşanabilir mekânlara dönüştürmek amacıyla kurulmuştur.İstanbul Enerji Sanayi ve Ticaret A.Ş.Petrol ve petrol ürünleri ticareti yapmak, doğalgaz ithalatı ve yenilenebilir enerji kaynaklarından elektrik üretimini kapsayacak şekilde kurulmuştur.Güven Su A.Ş.Halk Ekmek A.ŞHamidiye A.Ş.İ.D.T.M. A.Şİgdaşİsbak A.Şİsfalt A.Ş.İspark A.Ş.İsper A.Ş.İstaç A.Ş.İstanbul İmar İnşaat A.Ş.İstgüven A.Ş.İston A.Ş.İsttelkom A.Ş.İsyön A.Ş.KiptaşKültür A.Ş.Medya A.Ş.Metro İstanbul A.Ş.Otobüs A.Ş.Spor İstanbul A.Ş.Şehir Hatları A.Ş.Şişli Kültür A.Ş.Ugetam A.Ş.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

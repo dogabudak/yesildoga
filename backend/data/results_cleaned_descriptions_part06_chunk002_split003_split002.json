@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Brooks Sports",
+    "description": "Brooks Sports, 1914 yılında John Brooks Goldenberg tarafından kurulan Brooks Sports Inc. bünyesindeki spor ayakkabı, giyim ve aksesuarlar markasıdır.Brooks Sports Inc. 2006 yılında Amerika merkezli Berkshire Hathaway Inc. tarafından satın alındı. Ürünlerini 60 ülkede pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Akira",
+    "description": "Akira, 1994 yılında kurulan TT International Limited bünyesinde üretilen tüketici elektroniği markasıdır.TT International Limited Singapur merkezlidir ve ürünleri 60 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Avtek",
+    "description": "Avtek, 2004 yılında kurulan Vidis S.A. bünyesindeki etkileşimli görüntüler, interaktif yazı tahtaları, projeksiyon ekranları, ince istemciler, tesisat sistemleri, dijital tabela ve aksesuarlar markasıdır.Vidis S.A. Polonya merkezlidir. Ürünlerini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Bella",
+    "description": "Bella, 1976 yılında kurulan Tzmo SA bünyesinde üretilen bio tabanlı pedler, klasik hijyenik pedler, tamponlar, islak mendil, pamuk ürünleri, kağıt ürünleri gibi kadın hijyen ürünleri markasıdır.Tzmo SA Polonya merkezlidir.Bünyesindeki markalar;BellaBella BiO basedBella ControlBella Control DiscreetBella CottonBella HerbsBella IdealeBella IntimaBella MedicaBella No1Bella PantyBella PerfectaBella TampoBella for Teens",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Tiret",
+    "description": "Tiret, 1999 yılında iki şirketin birleşmesiyle kurulan Reckitt Benckiser Group PLC bünyesindeki temizlik ürünleri markasıdır.Reckitt Benckiser Group PLC İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

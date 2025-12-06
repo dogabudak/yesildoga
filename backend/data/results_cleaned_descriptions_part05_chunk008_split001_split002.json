@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dolce Gusto",
+    "description": "Dolce Gusto, 1866 yılında kurulan Nestle S.A. bünyesinde üretilen kahve makineleri ve kahve kapsülleri markasıdır.Su pompalı su tankı ile elektrikli ısıtıcıdan oluşan cihazında kahve kapsülleri kullanılmaktadır. Makineler Almanya merkezli Krups tarafından üretiliyor.Nestle S.A. İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Toms Ayakkabı",
+    "description": "Toms, 2006 yılında Blake Mycoskie tarafından kurulan Toms Emea B. V. bünyesindeki ayakkabı, kışlık bot, çizme, gözlük, ceket, tişört ve çorap markasıdır.Kadınlar, erkekler ve çocuklar için spor ve günlük ayakkabı modelleri üreten marka, kumaş veya deri malzeme kullanmaktadır.Toms Emea B. V. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Berenni",
+    "description": "Berenni, 1993 yılında kurulan Bulmazlar Ayakkabı San. Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.Konya merkezli firma ürünlerini 2 bin 500 metrekarelik kapalı alanda bulunan tesisinde üretmektedir.Bünyesindeki markalarBerenniCrisso",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Numark",
+    "description": "Numark, 1971 yılında Harry ve Robert Kotovsky tarafından kurulan Inmusic Brands Inc. bünyesindeki ses ve müziğin çalınmasını, karıştırılmasını ve manipülasyonunu kontrol etmek için bilgisayar donanımı; Medya oynatıcılar; Kulaklıklar, pikapları ve hoparlör muhafazalar markasıdır.Inmusic Brands Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Toyi",
+    "description": "Toyi, 2017 yılında kurulan Toyi Oyun ve Tasarım A.Ş. bünyesindeki oyuncak kiti markasıdır.Çocuklar için eğitici oyuncakları geri dönüştürülmüş plastikten üretilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

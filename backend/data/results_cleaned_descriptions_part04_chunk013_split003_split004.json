@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Babyish",
+    "description": "Babyish, 1995 yılında kurulan Elif Kozmetik Ürünleri Ltd. Şti. bünyesinde üretilen ıslak mendil, sıvı sabun, şampuan, kolonya ve sprey markasıdır.İzmir merkezli firma ürünlerini 6 bin 600 metrekarelik kapalı alanda üretmektedir. Ürünlerini 67’den fazla ülkeye ihraç etmektedir.ISO 9001, ISO 14001, OHSAS 18001, cGMP belgelerine sahiptir.Bünyesindeki markalar;İdilBabyishBabysmileDalımPearly",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Garlex",
+    "description": "Garlex, 2009 yılında kurulan Garlex Naturel Ürünler bünyesinde üretilen kişisel, cilt bakım ürünleri, şampuan, bitkisel kozmetik ürünler markasıdır.Firma Eskişehir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Asprinn",
+    "description": "Asprinn, 1974 yılında kurulan Güleç Kimya Temizlik Ürünleri Taşımacılık San. Tic. Ltd. Şti. bünyesinde üretilen temizlik ürünleri markasıdır.Ürünlerini 30 bin metrekarelik açık alanda bulunan 6 bin 500 metrekarelik kapalı alanda üretmektedir.Bünyesindeki markalar;AilemAncalAsprinnDetaxExpoFormülHanımeliHipotosPendyYuvam",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Optoacoustics",
+    "description": "Optoacoustics, 2006 yılında kurulan Optoacoustics Ltd. bünyesindeki tıbbi, endüstriyel, çevresel ve araştırma uygulamaları için fiber optik tabanlı akustik mikrofonlar, fiber optik mikrofonlar, kulaklıklar, ivmeölçerler, sensörler, telefon aksesuarları ve diğer bileşenler markasıdır.Optoacoustics Ltd. İsrail merkezlidir. Ürünlerini İsrail’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Florista Natural",
+    "description": "Florista Natural, 1998 yılında kurulan Roteks Maki. Tekstil Elektronik ve Gıd. San. Ltd. Şti. bünyesinde üretilen vücut bakım ürünleri, şampuan, sıvı sabun, sıvı el sabunu, vücut bakım kremleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

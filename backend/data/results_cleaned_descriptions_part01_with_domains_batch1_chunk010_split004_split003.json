@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cadillac",
+    "description": "Cadillac, 1902 yılında William Murphy, Lemuel Bowen ve Henry M. Leland tarafından kurulan lüks otomobil markasıdır.Cadillac 1909 yılında Amerikalı General Motors grubu tarafından satın alındı. General Motors, otomobil ve parçalarını tasarlayan, üreten, piyasalara dağıtan ve finansal hizmetleri satan Amerikan çok uluslu bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Givenchy",
+    "description": "Givenchy, 1952 yılında Hubert de Givenchy tarafından kurulan; giyim, aksesuar, parfüm ve kozmetik ürünleri markasıdır.Givenchy, 1988 yılında dünyanın en büyük lüks tüketim malları üreten gruplarından Fransa merkezli LVMH tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2019-02-12"
+  },
+  {
+    "company": "GS Yuasa",
+    "description": "GS Yuasa, 2004 yılında Genzou Shimadzu ve Shichizaemon Yuasa tarafından kurulan şirketlerin birleştirilmesiyle iki kurucunun isimlerinden oluşturulan; otomobil ve motosiklet pilleri üreten şirkettir. Gelişmiş pil teknolojisi çeşitli havacılık ve savunma uygulamaları için üretilir.GS Yuasa Corporation Japonya merkezli; Otomotiv, endüstriyel ve motosiklet pilleri, Güç kaynağı sistemleri ve Aydınlatma donanımları üreten bir şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Zavrak",
+    "description": "Zavrak, 1969 yılında kurulan IŞIK Turşuculuk ve Gıda Sanayi bünyesindeki turşu markasıdır.Doğal hammadde kullanarak ve katkısız, yaklaşık 30 turşu çeşidi ile üretim yapan yerli sermayeli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dahua",
+    "description": "Dahua, 2001 yılında kurulan video gözetim ürünleri markasıdır.Dahua video gözetim ürün hattı, ağ kameraları, NVRs ve HD koaksiyel üzerinde de dahil olmak üzere bankacılık ve finans, hükümet, sanayi, perakende, spor ve eğlence, ulaşım ve enerji de dahil olmak üzere birçok sektörlerde kullanılabiliyor.Ürünleri 180’den fazla ülke ve bölgelerde kullanılmakta.Dahua Technology Co, Ltd Çin merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

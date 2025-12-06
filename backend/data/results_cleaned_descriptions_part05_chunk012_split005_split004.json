@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Cabana Sun",
+    "description": "Cabana Sun, 1979 yılında kurulan Linco Care Ltd. bünyesinde üretilen güneşten korunma ürünleri markasıdır.Firma ayrıca tüy dökücü ürünler, kozmetik ürünler, cilt bakımı ve banyo malzemeleri, çok çeşitli kişisel bakım ürünleri üretmektedir. ISO 9001, ISO 14001 belgelerine sahiptir.Linco Care Ltd. İngiltere merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;CalypsoCabana SunSun TropicRe-GenDimplesSilkia DepilatorySilkia PediCareRestoraSafaGorgeous BronzeCocoa Skin Therapy Oil",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ankutsan",
+    "description": "Ankutsan, 2002 yılında kurulan Ankutsan Antalya Kutu San. Oluklu Mukavva Kağıt Tic. A.Ş. bünyesinde üretilen oluklu mukavva levha ve kutu markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 45001, ISO 50001, HELAL belgelerine sahiptir.Yüzde yüz yerli sermayeli İstanbul merkezli firma ürünlerini Antalya, Mersin, Ankara, Adana ve Tekirdağ’da toplam 239 bin metrekarelik alanda yer alan 5 üretim tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lunette",
+    "description": "Lunette, 2005 yılında kurulan Lune Group Oy bünyesinde üretilen silikon adet kabı temizleme maddeleri, sabunlar, uçucu yağlar, hijyenik müstahzarlar ve ürünler, hijyenik örtü ve mendil gibi kişisel hijyen için emici ürünler, tamponlar, pantilinler markasıdır.Lune Group Oy 2020 yılında İsveç merkezli Peptonic Medical AB’nin bir parçası oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Moleskine",
+    "description": "Moleskine, 1997 yılında kurulan Moleskine Srl bünyesindeki küresel çok kanallı bir platform aracılığıyla ikonik markalı dizüstü bilgisayarlar ile yazma, seyahat ve okuma araçları markasıdır.Moleskine Srl, 2016 yılında Belçika merkezli D’Ieteren SA tarafından satın alındı.Bünyesindeki markalar;BelronD’Ieteren AutomotiveD’Ieteren ImmoMoleskinePHE (Parts Holding Europe)TVH",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2023-12-23"
+  },
+  {
+    "company": "Eratec",
+    "description": "Eratec, 2002 yılında kurulmuş olan Era-Tec Gmbh bünyesindeki ahşap kürek, akıllı çay makinesi, bitkisel çaydanlık, çift hazneli airfryer, çift kontaklı ızgara, doğrayıcı mutfak elektrikli, el mikseri seti, elektrikli paspas, elektronik namaz hocası, ezan okuyan saat, hamur karıştırıcı, hava fritözü, ıslak ve kuru elektrikli süpürge, kablosuz şarjlı saç düzleştiricisi, mikser, mobil klima, namaz saati, paslanmaz çelik ekmek küreği, pizza fırını, gazla çalışan, pizza taşı, sıcak hava fırını, sesli ve mealli süreler, sıcak hava fritözü, su fıskiyesi, taş fırın, tam otomatik kahve makinesi markasıdır.Era-Tec Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-04-07"
+  }
+]

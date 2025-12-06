@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Schütz Dental",
+    "description": "Schütz Dental, 1962 yılında kurulan Schütz Dental Gmbh bünyesindeki diş malzemeleri ve ekipmanları, diş ürünleri, implant markasıdır.DIN EN ISO 9001 ve DIN EN ISO 13485 belgelerine sahiptir.Schütz Dental Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hysure",
+    "description": "Hysure, 2019 yılında kurulan Zhongshan Hysure Electric Co. Ltd. bünyesindeki nem alma cihazı, nemlendirici, hava temizleyici ve nem alma cihazı markasıdır.Zhongshan Hysure Electric Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Salora",
+    "description": "Salora, 1928 yılında kurulan tüketici elektroniği, televizyon, akıllı televizyon, aksiyon kamerası, projektör, çamaşır makinesi, buzdolabı, bulaşık makinesi, dondurucu markasıdır.Salora, 2006 yılında Hollanda merkezli Salora International BV tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "NBB Kumanda",
+    "description": "NBB, 1977 yılında kurulan NBB Controls + Components Gmbh bünyesinde üretilen mobil ekipmanların, vinçlerin ve endüstriyel radyo uzaktan kumanda vericileri ve alıcıları, özelleştirilmiş kontrol sistemleri markasıdır.Dijital güvenlik radyo uzaktan kumandaları konusunda uzmanlaşmıştır.NBB Controls + Components Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bay Kerem",
+    "description": "Bay Kerem, 1978 yılında kurulan Meray Kuruyemiş Gıda San. Tic. Ltd. Şti. bünyesindeki kuruyemiş, ay çekirdeği, kabak çekirdeği, kurutulmuş meyve markasıdır.ISO 9001, ISO 14001, ISO 22000, OHSAS 18001, HACCP belgelerine sahiptir.Firma Gaziantep merkezlidir ve ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Polytech Implant",
+    "description": "Polytech1986 yılında kurulmuş olan Polytech Health & Aesthetics Gmbh bünyesinde üretilen göğüs implantları ve diğer silikon implantları markasıdır.Polytech Health & Aesthetics Gmbh Almanya merkezlidir. Ürünleri Almanya’da üretilmektedir ve 80’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "3eyes3",
+    "description": "3eyes32003 yılında kurulmuş olan Alseltaş Teknoloji San. ve Tic. Ltd. Şti. bünyesindeki ağ video çözümleri markasıdır.Firma İstanbul merkezlidir. Ürünleri Tayvan’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Spy+",
+    "description": "Spy+1994 yılında piyasaya sürülen güneş gözlüğü, gözlük, oyun gözlüğü, kar gözlüğü, kar kaskı ve MX gözlükleri markasıdır.2018 yılında Fransa merkezli Bolle Brands Group tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Kenzoki",
+    "description": "Kenzoki1970 yılında kurulmuş olan Kenzo S.A. bünyesindeki cilt bakım ürünleri markasıdır.1993 yılında Kenzo S.A. Fransa merkezli LVMH Moet Hennessy Louis Vuitton SE tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Initio Parfums Prives",
+    "description": "Initio2019 yılında kurulmuş olan Artessence Fzc bünyesinde üretilen lüks parfümler ve niş kokular markasıdır.Artessence Fzc BAE merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  }
+]

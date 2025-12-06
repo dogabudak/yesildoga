@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Momox",
+    "description": "“Momox“2004 yılında kurulmuş olan Momox SE bünyesindeki ikinci el tüketim malları satışı sitesi markasıdır.Momox SE Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aperyder",
+    "description": "“Ape Ryder“2004 yılında kurulmuş olan Mj Group bünyesindeki RKS Otomotiv San. Tic. A.Ş. tarafından üretilen elektrikli bisikletler ve aksesuarları markasıdır.Firma Gaziantep merkezlidir. Ürünlerini 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ark Akar",
+    "description": "“Ark Kırtasiye“1925 yılında kurulmuş olan Akar Kırtasiye San. ve Tic. Ltd. Şti. bünyesindeki ofis ve okul kırtasiye malzemeleri markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 60’tan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;3aArkArk KırtasiyeCollexDr.Shock",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Betoptek",
+    "description": "“Betoptek“2013 yılında kurulmuş olan Shenzhen Betoptek Electronics Co. Ltd. bünyesinde üretilen araç kamera ve ekranları, araç dvr, dikiz kamera, park sensörü, kablosuz monitör ve kamera, araç aksesuarları markasıdır.Shenzhen Betoptek Electronics Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cuktech",
+    "description": "“Cuktech“2016 yılında kurulmuş olan Cuktech Technology Co. Ltd. bünyesinde üretilen şarj cihazları ve güç bankaları markasıdır.Cuktech Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

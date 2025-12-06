@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Panek Rent a Car",
+    "description": "Panek Rent a Car, 2009 yılında kurulan Panek S.A. bünyesindeki araç kiralama markasıdır.Şeffaf kiralama kuralları, ek hazırlık ücretleri, mevsimlik ücretler, kış lastiği ücretleri eksikliği gibi avantajlar sunar.Panek S.A. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Berivan Yazma",
+    "description": "Berivan, 1970 yılında Fehmi Özgen tarafından kurulan Hasözgen Tekstil San. ve Tic. A.Ş. bünyesinde üretilen yazma, baskılı kumaş, çesitli giysiler markasıdır.Ürünlerini Tokat OSB’de bulunan fabrikalarında üretmektedir.Bünyesindeki markalar;ÇeyizBerivanEvvelEyvan",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tropifit",
+    "description": "Tropifit, 1997 yılında kurulan Tadeusz Ogrodnik Tropical bünyesinde üretilen evcil hayvan mamaları markasıdır.Akvaryum ve gölet balıkları, sürüngenler, küçük kemirgenler ve kuşlar için çok çeşitli yiyecekler üretmektedir.Tadeusz Ogrodnik Tropical, Polonya merkezlidir.ISO 9001, HACCP belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Kraftvoll",
+    "description": "Kraftvoll, 2009 yılında kurulan Dinamik Otomotiv Gıda Tekstil İth. İhr. San. ve Tic. Ltd. Şti. bünyesindeki otomotiv yedek parça markasıdır.Fren balata ve diskleri, fren cırcırları, pas sökücü spreyler, motor temizleme spreyleri vs. ürünleri arasındadır.Bünyesindeki markalar;AdagroupAutoplusBraxisDinamikDinamik OtomotivE C EurocellKarınca KararıncaKraftvollKraftvoll GermanyLksLks MchanixMartiguesNewada ChemicalsSltTecdataTokibaWagenburg",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cognex",
+    "description": "Cognex, 1981 yılında kurulan Cognex Corporation bünyesindeki akıllı kameralar, bilgisayar tabanlı sistemler, görüntü sistemleri, endüstriyel kimlik, görüntü sensörleri, görüntü işleme yazılımları markasıdır.Fabrikalarda, depolarda ve dağıtım merkezlerinde kullanılan barkod okuyucuları, makine görüş sensörleri ve makine görüş sistemlerini içerir.Cognex Corporation Amerika merkezlidir, 20’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

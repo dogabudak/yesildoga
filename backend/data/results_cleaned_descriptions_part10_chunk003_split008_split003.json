@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Deental Pro",
+    "description": "1988 yılında kurulmuş olan Grup Boniquet SL bünyesinde üretilen diş macunu ve gargara markasıdır.Grup Boniquet SL İspanya merkezlidir ve ürünleri İspanya’da üretilmektedir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Macfit",
+    "description": "2014 yılında kurulmuş olan Mars Spor Kulübü ve Tesisleri İşletmeciliği A.Ş. bünyesindeki spor salonu zinciri markasıdır.2025 yılında Polonya merkezli Benefit Systems S.A. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "The Bath Factory",
+    "description": "2024 yılında kurulmuş olan Tbf Kozmetik San. Tic. A.Ş. bünyesindeki duş jelleri, vücut peelingleri, vücut spreyleri, sabunlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hyper Tough",
+    "description": "1978 yılında Henry Willis tarafından kurulmuş olan elektrikli el aletleri, setleri, matkaplar, el aletleri markasıdır. Walmart Apollo LLC bünyesindedir.Walmart Apollo LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yokatta",
+    "description": "2005 yılında kurulmuş olan Yokatta Inc. bünyesindeki alaşım jantlar markasıdır.ISO 9001, ISO 14001, CE ve TSE belgelerine sahiptir.Yokatta Inc. Japonya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

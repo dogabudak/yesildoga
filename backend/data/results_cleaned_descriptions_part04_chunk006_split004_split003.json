@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Avalon Guitars",
+    "description": "Avalon Guitars, 1989 yılında Steve McIlwrath tarafından kurulan Avalon Guitars Limited bünyesindeki çok çeşitli çelik telli akustik gitarlar markasıdır.Avalon Guitars Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Folli Follie",
+    "description": "Folli Follie, 1982 yılında Dimitris ve Ketty Koutsolioutsos tarafından kurulan Folli Follie Group bünyesindeki lüks mücevher, saat ve moda aksesuarları markasıdır.Folli Follie Group Yunanistan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Armitron",
+    "description": "Armitron, 1956 yılında Eugen Gluck tarafından kurulan E. Gluck Corporation bünyesindeki saat markasıdır.LED destekli, beş fonksiyonlu (Saat, Dakika, Saniye, gün ve Tarih) dijital saatler konusunda uzmanlaşmıştır.E. Gluck Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pebble",
+    "description": "Pebble, 2013 yılında kurulan Pebble Technology Corporation bünyesindeki akıllı saat markasıdır.Pebble’ın fikri mülkiyeti, fitness takibi konusunda uzmanlaşmış giyilebilir bir teknoloji şirketi olan Fitbit tarafından satın alındı.Fitbit Amerika merkezli Google tarafından 2019 yılında satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Riot Games",
+    "description": "2006 yılında Brandon Beck ve Marc Merrill tarafından kurulan Riot Games, Inc. bünyesinde üretilen oyun markasıdır.Şirket, çok oyunculu bir çevrimiçi savaş Arenası oyunu olan League of Legends geliştirmek için kuruldu.Riot Games, Inc. 2015’ten beri, Çin Holding Holding Tencent’in bir yan kuruluşudur.Bünyesindeki OyunlarLeague of LegendsLeague of Legends: Wild RiftLegends of RuneterraTeamfight TacticsValorant",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

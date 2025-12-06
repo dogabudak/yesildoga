@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Onida Electronics",
+    "description": "Onida Electronics, 1981 yılında G.L. Mirchandani tarafından kurulan Mirc Electronics Limited bünyesinde üretilen elektronik ve ev aletleri markasıdır.Düz panel televizyonlar (LED, LCD), klima, çamaşır makinesi, mikrodalga fırın, ev sinema sistemleri, cep telefonları, projektör sistemleri ve LED ışıklar gibi ürünler üretmektedir.Mirc Electronics Limited Hindistan merkezlidir ve ürünlerini Hindistan’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Kaneka",
+    "description": "Kaneka, 1949 yılında kurulan Kaneka Corporation bünyesinde üretilen kimyasallar, fonksiyonel plastikler, genişletilebilir plastikler, gıdalar, yaşam bilimleri ürünleri, elektronik ürünler, sentetik elyaflar markasıdır.Firma fonksiyonel reçine, köpük reçine ve sentetik elyaf gibi kimyasal ürünler üretmektedir.Kaneka Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "U-Turn Audio",
+    "description": "U-Turn Audio, 2012 yılında kurulan U-Turn Audio Inc. bünyesindeki pikap ve hoparlörler markasıdır.U-Turn Audio, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "NAD Electronics",
+    "description": "NAD Electronics, 1972 yılında kurulan NAD Electronics International bünyesindeki ev tipi hi-fi amplifikatörleri ve ilgili bileşenler markasıdır.NAD Electronics International, 1999 yılında Ontario, Kanada merkezli Lenbrook Industries Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Luxman",
+    "description": "Luxman, 1925 yılında kurulan Luxman Corporation bünyesinde üretilen lüks ses bileşenleri, pikaplar, amplifikatörler, alıcılar, teyp desteleri, optik çalarlar ve hoparlörler gibi çeşitli ses ürünleri markasıdır.Luxman Corporation 2009 yılında Çin merkezli International Audio Group Ltd. tarafından satın alındı. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Signify",
+    "description": "Signify, 2016 yılında kurulan Signify N.V. bünyesindeki lamba ve aydınlatma armatürleri markasıdır.Firma 2018 yılında Philips Lighting adını Signify olarak değiştirdi.Signify N.V. Hollanda merkezli çok uluslu bir aydınlatma şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Kümbetli",
+    "description": "Kümbetli, 1979 yılında kurulan Kümbetli Tarım Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen beyazlatılmış iç fındık, dilinmiş fındık, fındık unu, kıyılmış fındık, kavrulmuş iç fındık, naturel iç fındık markasıdır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İdeal Çöp Torbası",
+    "description": "İdeal, 1973 yılında kurulan Koroplast Temizlik Ambalaj Ürünleri San. ve Dış Tic. A.Ş. çöp torbası, buzdolabı poşeti, pişirme kağıdı markasıdır.Koroplast Temizlik Ambalaj Ürünleri San. ve Dış Tic. A.Ş. 2017 yılında merkezi İngiltere’ye bağlı özerk bir adada bulunan Actera Group tarafından çoğunluk hisseleri satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Frederic Malle",
+    "description": "Frederic Malle, 2000 yılında Frederic Malle tarafından kurulan Editions De Parfums LLC bünyesindeki parfüm markasıdır.Parfümler, aksesuarlar, mumlar ve ev kokuları sağlamaktadır.Frederic Malle, 2015 yılında Amerika merkezli Estee Lauder Companies Inc.’e satıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Verde Yağ",
+    "description": "Verde Yağ Nerenin Malı MarkasıVerde, 1996 yılında kurulan Verde Yağ Besin Maddeleri San. ve Tic. A.Ş. bünyesinde üretilen yemeklik yağlar, zeytinyağları, bitkisel yağlar markasıdır.Zeytinyağını cam şişeye koymaktadır.Verde Yağ, 2018 yılında İzmir merkezli TRK Group tarafından satın alındı. Ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

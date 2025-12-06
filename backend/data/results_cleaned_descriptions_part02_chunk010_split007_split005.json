@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Koni",
+    "description": "Koni, 1857 yılında A. de Koning tarafından kurulan amortisör markasıdır.Ürünleri 125 ülkede satılmaktadır.1972 yılından beri Amerika merkezli sanayi şirketi olan ITT Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sinopec",
+    "description": "Sinopec, 2000 yılında kurulan yakıt, doğalgaz, yağ, petrokimya markasıdır.China Petrochemical Co., Ltd. bünyesindedir ve şirketin sahibi Çin hükümetidir.Çin’in yol ve nehirleri üzerinde sıklıkla Sinopec dolum istasyonları görülür.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sparco",
+    "description": "Sparco, 1977 yılında Enrico Glorioso ve Antonio Parisi tarafından kurulan Sparco SpA bünyesindeki motorsporları güvenlik ekipmanları ve araba aksesuarları markasıdır.Sparco SpA İtalya merkezli oto parçası ve aksesuar firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Centone",
+    "description": "Centone, Sitil Çizgi şirketler Gurubu bünyesindeki yüzde 100 Türk sermayeli erkek giyim markasıdır.Takım elbise, smokin ,gömlek, ceket, pantolon, t-shirt, mont, ayakkabı, damatlık, mezuniyet takımı gibi ürünlerini yurt içi ve yurt dışında 70 mağazasıyla tüketici ile buluşmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Caretta",
+    "description": "Caretta, 2001 yılında kurulan Kemerburgaz Ofis ve Okul Gereçleri San. Tic. A.Ş. bünyesindeki; min, mekanik kurşun kalem, jel kalem, fineliner, fosforlu kalem, kurşun kalem, silgi, silgili kalemtıraş, makas, ayraç, dosyalama ve arşivleme, ofis araçları markasıdır.Caretta markalı ürünler PVC ve fitalat gibi sağlığa zararlı kimyasallar içermiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Lumix",
+    "description": "Lumix, 2001 yılında Panasonic dijital SLR fotoğraf makinesi serisidir.Panasonic 1918 yılında Konosuke Matsushita tarafından kurulan, Japonya merkezli elektronik aletler üreticisidir.1981 yılından beri ürünleriyle Türkiye pazarında bulunuyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Remta",
+    "description": "Remta, 1995 yılında Refik Gökbay tarafından kurulan; endüstriyel mutfak ekipmanları, kahveci ocakları, döner makineleri, sanayi tipi çay makineleri, firitözler, tost makineleri, ızgara, çorba kazanları, portakal sıkma makineleri markasıdır.Türk firmanın İstanbul’da 2 fabrikası bulunmaktadır.Remta ürün grupları:Çay, Kahve OtomatıÇorba IsıtıcısıDöner OcağıFritözIzgaraKahveci OcağıLüks SemaverLimonata, Ayran SoğutucusuMotorlu Portakal Sıkma Makinesi,Muhtelif setüstü ekipmanlar ve yedek parçalarıSüt, Salep, Çikolata Otomatı,Tost Makinesi,Waffle, Kornet, Krep Pişiricisi",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carte D’or",
+    "description": "Carte D’or Hangi Ülkenin MalıCarte D’or, 1989 yılında Unilever PLC.’nin yan kuruluşu olan Algida Food Service bünyesinde üretilen dondurma ve tatlı markasıdır.1993 yılında Türkiye pazarına girdi.Carte D’or, Unilever PLC. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-04-02"
+  },
+  {
+    "company": "Sbarro",
+    "description": "Sbarro, 1956 yılında Gennaro ve Carmela Sbarro tarafından kurulan Sbarro, LLC. bünyesindeki pizza, makarna, salata, köfte ve tatlı gibi çok çeşitli İtalyan ürünleri markasıdır.Amerikan markası Sbarro, 2007 yılından itibaren TAB Gıda ile Türkiye’ye giriş yaparken, 30’a yakın ilde 80 restorana sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Chillout Ülke",
+    "description": "Chillout, 1926 yılında mucit Max Katzman tarafından kurulan Kaz Incorporateddu markasıdır.Şirketin sahibi Amerikan Helen of Troy Limited’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

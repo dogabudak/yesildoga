@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Dedeoğlu",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İtimat",
+    "description": "",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hesap",
+    "description": "2024 yılında kurulmuş olan Hesap Bilgi Hizmetleri ve Teknoloji A.Ş. bünyesindeki finansal platform markasıdır.Kullanıcılara dahili bir finansal kurum ağı aracılığıyla kişiselleştirilmiş bankacılık ürünleri sunmaktadır.Sipay Global Holding’in yan kuruluşu olan firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Schoner",
+    "description": "1994 yılında kurulmuş olan Schoner Gmbh bünyesindeki gerilim koruma röleleri, ev araç şarj istasyonları markasıdır.Schoner Gmbh Almanya merkezlidir. 2021 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fludex SR",
+    "description": "1954 yılında Jacques Servier tarafından kurulmuş olan Les Laboratoires Servier bünyesindeki idrar söktürücü ilaç markasıdır.Les Laboratoires Servier Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

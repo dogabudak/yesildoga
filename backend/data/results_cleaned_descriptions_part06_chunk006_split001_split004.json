@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Babymoov",
+    "description": "Babymoov, 1988 yılında kurulan Babymoov Group bünyesindeki bebekler için beslenme, konfor, güvenlik, bakım, dış mekan, oyuncak ürünleri markasıdır.Babymoov Group Fransa merkezlidir, ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Flaxes",
+    "description": "Flaxes, 2010 yılında kurulan Apfel Bilişim Elektronik San. ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen bilgisayar aksesuarları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;FlaxesQportZytech",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Inwells",
+    "description": "Inwells, 2004 yılında kurulan Durak Group Oto Yedek Parça İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki otomobil yedek parçaları alarm, far markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;inwellsrisingxiaye",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sams Gurme",
+    "description": "Sams Gurme, Sams Sağlıklı Alışveriş Merkezi San. Tic. A.Ş. bünyesinde üretilen atıştırmalık ürünler markasıdır.Kahvaltılık ve lifli ürünler, tahıl patlağı ve gevrekler, kıtır ekmekler, endüstriyel ürünler sunmaktadır. Kara buğdaydan üretilen ürünleri gluten içermemektedir.TSE, FSSC 22000, ISO 9000, ISO 10002, ISO 22000 belgelerine sahiptir.Firma Gaziantep merkezlidir.Bünyesindeki markalar;ÇipoÇipo GurmeÇoko BoomGlutensiz FabrikaLoftLoft ÇipoLoft GurmeLoft PitaSams GurmeSamsbellaSamsbioSamsfitSamsfoodSamsorganik",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Milaura",
+    "description": "Milaura, 2015 yılında Laura Poretti tarafından Milaura Srl bünyesindeki kadın kıyafetleri, elbiseler, gömlek, etek, pantolon, ayakkabı, çanta ve aksesuarlar markasıdır.Milaura Srl İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

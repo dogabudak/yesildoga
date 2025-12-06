@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Zaita Valentina",
+    "description": "Zaita Valentina, 2003 yılında kurulmuş olan Sck Zeta Dış Tic. Pazarlama Ltd. Şti. bünyesinde üretilen bulaşık yıkama sabunu, sıvı deterjan, kumaş yumuşatıcı, cam temizleyici, krem temizleyici, paslanmaz çelik temizleyici markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 7 bin 500 metrekarelik kapalı alanda üretmekte ve 48 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stick On Spots",
+    "description": "Stick On Spots, 2002 yılında kurulmuş olan Kozmoklinik Kozmetik ve Medikal Ürünler Paz. ve Tic. A.Ş. bünyesindeki cilt bakım ürünü markasıdır.Ürünleri Zararlı kimyasallar içermez ve hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Uppercut Deluxe",
+    "description": "Uppercut Deluxe, Uppercut Deluxe Pty. Ltd. bünyesindeki pomatlar, sakal yağı, saç şekillendirme ve tıraş ürünleri sunan bir saç ve sakal ürünleri markasıdır.Uppercut Deluxe Pty. Ltd. Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Ultraform",
+    "description": "Ultraform, 1865 yılında kurulmuş olan Basf SE bünyesinde üretilen kimyevi maddelerden düşük moleküller organik aldehidlerin polimerizasyon mamulleri ve karışımları markasıdır.Basf SE Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sweatblock",
+    "description": "Sweatblock, 2004 yılında kurulmuş olan DC Alpine Partners LLC bünyesindeki aşırı terleme ve koku önleyici koltuk altı, el, ayak, yüz ve vücut ürünleri markasıdır.DC Alpine Partners LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

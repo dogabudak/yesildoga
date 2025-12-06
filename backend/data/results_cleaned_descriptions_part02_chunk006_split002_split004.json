@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Gulf Cryo",
+    "description": "Gulf Cryo, 1953 yılında Salim Huneidi tarafından kurulan gaz üreticisidir.Endüstriyel ve medikal gazlar alanında bölgenin en büyük şirketidir.Şirketin yüzde 20’si Bahreyn merkezli yatırım fonu Investcorp’un patronu Nemir Kırdar’a ait.Kuveyt merkezli Gulf Cryo, Deniz Gaz ve Yalız Gaz’ı satın aldı. Deniz Gaz, oksijen, azot, helyum, asetilen, argon başta olmak üzere 11 farklı türde medikal ile endüstriyel gaz dolumu ve üretimi yapıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "KW",
+    "updated_date": null
+  },
+  {
+    "company": "İCA Home & Garden",
+    "description": "ICA Home & Garden, 1990 yılında kurulan İCA DIŞ TİCARET A.Ş. bünyesindeki dış mekan tekstil ürünleri, bahçe mobilyaları ve aksesuarları ithal ederek satan mağazadır.Dünyaca ünlü ev ve bahçe mobilya markalarından oluşan ürünleri satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kron Bisiklet",
+    "description": "Kron, 1963 yılında kurulan Efor & Öz Efor bünyesindeki Dağ, Şehir, Yol, Katlanabilir ve Çocuk Bisikletleri markasıdır.Efor & Öz Efor bisiklet, bisiklet yedek parça ve bisiklet aksesuarları toptan ve perakende satışı yapan yerli sermayeli firmadır. Kron markalı ürünleri Tayvan’da üretilirken montajı Türkiye’de yapılmaktadır.Bünyesindeki markalar:KronScottTernGeroni",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Finder",
+    "description": "Finder, 1954 yılında kurulan FINDER S.p.A. bünyesindeki adım röleleri, ışığa bağlı röleler, endüstriyel röleler, minyatür ve ultra ince röleler, güç röleleri, zamanlayıcı röle yuvaları ve aksesuarları markasıdır.FINDER S.p.A. İtalya merkezli bir şirkettir.Şirketin Finder markalı diğer ürünlerle bir alakası yoktur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Uls Kargo Havayolları",
+    "description": "Uls Kargo Havayolları, 2004 yılında kurulan Uls Havayolları Kargo Taşımacılık A.Ş. bünyesindeki kargo uçağı ve uçak kiralama markasıdır.İstanbul Atatürk Havalimanı merkezli şirketin filosunda bulunan üç A310-300 kargo uçağı ile faaliyet göstermektedir. Toplam taşıma kapasitesi 120 tondur. Özel isteğe bağlı olarak uçak kiralama, diğer havayollarına ekibi ile uzun dönem uçak kiralama ve tarifeli sefer seçenekleri bulunmaktadır.Tehlikeli madde, canlı hayvan, taze sebze-meyve ve özen gerektiren her çeşit yükü ULS Havayolları Kargo taşımaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

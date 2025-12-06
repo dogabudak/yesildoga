@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Bonjour Sufle",
+    "description": "Bonjour Sufle, 1997 yılında kurulan Cjsc Konti-Rus bünyesindeki şekerleme, çikolata, kurabiye, karamel, jöle fasulyesi ve çerez markasıdır.Avrupa ve Asya’ya ürün ihraç etmektedir.Cjsc Konti-Rus Rusya merkezlidir ve ürünlerini Rusya’da üretmektedir.Bünyesindeki markalar:AmourBonjour SufleRonnieTimiVery Much",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Avk Chocolate",
+    "description": "Avk Chocolate, 1991 yılında kurulan Avk Confectionery bünyesinde üretilen çikolata tatlılar, tahıl tatlılar ve aperatifler, jöle, şekerleme ürünleri markasıdır.ISO 9000, ISO 22000 belgelerine sahiptir.Avk Confectionery Ukrayna merkezlidir ve ürünlerini Ukrayna’da üretmektedir. AVK ayrıca, Çek Cumhuriyeti ve Türkiye gibi diğer ülkelerin en iyi üretim tesislerinde sipariş verme gibi Global özel etiket trendini de kullanıyor.Ürünlerini 60 ülkeye pazarlamaktadır.Bünyesindeki markalar:Avk ChocolateBam-BukChocolate NightGulliverJuvelandKreskoMazhorRoyal CharmTrueffleTrufalieWho Said Muuu",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Asia Vital Components",
+    "description": "Asia Vital Components, 2003 yılında kurulan Asia Vital Components Dongguan Co. Ltd. bünyesindeki bilgisayar çevre birimleri, iletişim ve tüketici elektroniği markasıdır.Firma, bilgisayar kasası, arayüz kabloları, merkezi işleme ünitesi (CPU) radyatörler, ısı emiciler, fanlar, dizüstü soğutma modülleri, ısı eşanjörleri, grafit, ısı boruları ve ıslatma plakaları, su soğutmalı panoları ve diğer ilgili ürünleri geliştiriyor ve üretiyor.Asia Vital Components Dongguan Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "4 Moms",
+    "description": "4 Moms, 2005 yılında kurulan Thorley Industries LLC bünyesindeki bebek arabaları, bebek küvetleri, elektrikli katlanır bebek arabaları ve aksesuarları markasıdır.Thorley Industries, LLC ebeveynler ve bebekler için ürünler oluşturan Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Angelcare",
+    "description": "Angelcare, 1997 yılında Maurice Pinsonnault tarafından kurulan The Holding Angelcare Inc. bünyesindeki hareket izleme ekranı, video ekranı, ses ekranı, banyo desteği, banyo koltuğu, bebek bezi bertaraf kutusu, kumaş kollu elbise, çocuk, spor malzemeleri, eğlence ve diğer sektörlerde tüketici ürünleri, çok amaçlı yağ spreyi markasıdır.Ürünleri 60 ülkede satılmaktadır.The Holding Angelcare Inc. Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

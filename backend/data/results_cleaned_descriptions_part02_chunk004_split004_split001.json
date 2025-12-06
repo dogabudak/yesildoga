@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Coqui",
+    "description": "Coqui, 2016 yılında kurulan COQUI Shoes Ltd. bünyesindeki ayakkabı, bot, sandalet ve terlik markasıdır.COQUI Shoes Ltd. Kanada merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Mecitefendi",
+    "description": "Mecitefendi, 1994 yılında Gürkan Satmış tarafından kurulan Mecitefendi Bitkisel Ürünler Gıda Sanayi ve Ticaret Limited Şirketi bünyesindeki bitkisel kozmetik ürünler, bitkisel yağlar, sular, çaylar ve macunlar markasıdır.İzmir’de 5 bin metrekare kapalı bin metrekare açık alanda üretim yapmaktadır. Kozmetik ürün yelpazesinde, saç ve cilt bakım ürünleri, sabunlar, kolonyalar yer alıyor. 180’i kozmetik ürün olmak üzere toplam 400’e yakın ürün yelpazesi bulunmaktadır.Ürünlerini Belçika, Bosna Hersek, Almanya, Libya ve BAE gibi ülkelere ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Shiffa Home",
+    "description": "Shiffa Home, 1989 yılında kurulan Aksuvital Doğal Ürünler A.Ş. bünyesindeki Arı Ürünleri, Gıda Takviyeleri, Sıvı Ekstraktlar, Pekmezler, Macunlar, Bitkisel Çaylar, Öğütülmüş Ürünler, Doğal Yağlar, Doğal Kişisel Bakım Ürünleri, Bitki Suları ve Misfak Diş Fırçaları markasıdır.Orta Doğu başta olmak üzere 5 kıtaya ihracat yapmaktadır.Bünyesindeki markalar:AksuvitalShiffa HomeSoftem",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Symbian Limited",
+    "description": "Symbian, 1984 yılında kurulan İngiltere merkezli Symbian Limited bünyesindeki mobil cihazlar için ortak olarak kullanılan bir işletim sistemidir.Symbian işletim sistemini kullanan birkaç farklı arabirim bulunmaktadır. Android işletim sisteminin yaygınlaşmasıyla, kullanımı azalan Symbian 2010 yılı sonuna kadar en popüler akıllı telefon işletim sistemiydi.Symbian kullanım lisansı olan markalar:ArimaBenQFujitsuLenovoMotorolaNokiaSamsungSharp CorporationSiemensSonySony Ericsson",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Rixos Otel",
+    "description": "Rixos, 2000 yılında Fettah Tamince ve Ukraynalı yatırımcı İgor Gumenyük tarafından kurulan Oteller Grubudur.Rixos Hotels & Resorts 8 farklı ülkede 26’sı 5 yıldızlı 1’i ise 7 yıldızlı olmak üzere 27 otel ile faaliyet gösteren turizm şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

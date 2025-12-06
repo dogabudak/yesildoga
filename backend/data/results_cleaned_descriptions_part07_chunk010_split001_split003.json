@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Footline",
+    "description": "Footline, 2017 yılında kurulmuş olan Baymen Deri ve Ayakkabı San. Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zandona",
+    "description": "Zandona, 1985 yılında kurulmuş olan Zandona SRL bünyesinde üretilen motosiklet ve binicilik için çocuk koruyucuları ve aksesuarları, şapka, çanta, ceket cep koruyucuları, yetişkin bel destek kemerleri, yetişkin koruyucuları ve aksesuarlar markasıdır.Zandona SRL İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Yiğido Dondurma",
+    "description": "Yiğido Dondurma Nerenin Malı MarkasıYiğido Dondurma, 2008 yılında Pişken Grup tarafından kurulan keçi sütünden üretilen dondurma markasıdır.ISO 22000 ve Helal belgelerine sahiptir.Firma Denizli merkezlidir.Bünyesindeki markalar;Melisdo DondurmaMrş Maraş DondurmaYiğido Dondurma",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Shea Moisture",
+    "description": "Shea Moisture, 1991 yılında kurulmuş olan Sundial Brands LLC bünyesinde üretilen şampuan, saç kremi, vücut ve cilt bakım ürünleri markasıdır.Ürünleri sülfat, paraben, ftalat, mineral yağ, vazelin içermez ve hayvanlar üzerinde test edilmemektedir.Sundial Brands LLC 2017 yılında İngiltere merkezli Unilever PLC tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kimwadalh",
+    "description": "Kimwadalh, 2005 yılında kurulmuş olan Huizhou Shangwang Technology Network Co. Ltd. bünyesinde üretilen çanta, kemer ve cüzdan, sırt çantaları, peluş ürünler markasıdır.Huizhou Shangwang Technology Network Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

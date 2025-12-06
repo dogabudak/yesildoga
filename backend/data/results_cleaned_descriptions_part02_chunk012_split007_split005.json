@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kludi",
+    "description": "Kludi, 1926 yılında kurulan Kludi GmbH & Co. KG bünyesindeki banyo ve mutfak armatürleri, banyo armatürleri, duş, aksesuarlar, demirbaşlar, özel bağlantı parçaları ve banyo mobilyaları markasıdır.Kludi GmbH & Co. KG Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir. Kludi markalı ürünler 100’den fazla ülkede kullanılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Jumbo",
+    "description": "Jumbo, 1947 yılında Nubar Çolakyan tarafından kurulan Jumbo Ev Gereçleri San. Tic. A.Ş. bünyesinde üretilen çelik, porselen, cam ve taş ev gereçleri markasıdır.Jumbo Ev Gereçleri San. Tic. A.Ş. 2014 yılında Karaca Porselen ve Sunny Elektronik ortaklığı tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kemer Country",
+    "description": "Kemer Country, 1986 yılında Esat Edin tarafından İstanbul’da oluşturulan konut ve sosyal tesis alanıdır.Kemer Country; bünyesindeki Kemer Country Club ve Kemer County Hotel ile birlikte hizmet sunuyor.2009 yılında Demirören Holding bünyesine geçti.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2019-12-27"
+  },
+  {
+    "company": "Baby Tv",
+    "description": "Baby Tv, 2003 yılında kurulan küçük çocuklar ve onların ebeveynleri için yapılmış dünyanın ilk 24 saat reklamsız kanalıdır.85 farklı ülkede, 14 dilde yayın yapmaktadır.BabyTV, çoğunluk hisseleri 2007 yılında Fox Networks Group tarafından satın alınmıştır. Rupert Murdoch’ın sahip olduğu Amerikan televizyon kanalıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cbeebies",
+    "description": "\"Cbeebies Kanalı Kime Ait\"\nCbeebies, 2002 yılında kurulan, küçük çocuklara yönelik televizyon kanalıdır.Abonelik hizmetleriyle uluslararası ağı yönetmektedir. 2018 yılından itibaren Digiturk üzerinden Türkiye’de yayına başlamıştır.Cbeebies, 1922 yılında kurulan BBC(British Broadcasting Corporation)’nin sahibi olduğu ve işlettiği ücretsiz televizyon kanalıdır. Merkezi Londra’da bulunan İngiliz kanalıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

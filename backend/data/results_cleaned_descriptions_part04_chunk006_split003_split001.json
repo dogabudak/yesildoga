@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Doxie",
+    "description": "Doxie, 2019 yılında kurulan Doxie & Co. LLC. bünyesindeki kablosuz ve taşınabilir belge tarayıcıları markasıdır.Doxie & Co. LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "LiveProfile",
+    "description": "LiveProfile, 2010 yılında Phil Karl ve William Key tarafından kurulan LiveProfile Inc. bünyesinde üretilen mesajlaşma uygulaması ve mobil sosyal ağ markasıdır.Kullanıcıların mesaj, fotoğraf, video, ses ve diğer içerik türlerini göndermesine ve almasına izin verir.LiveProfile Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Couche-Tard",
+    "description": "Couche-Tard, 1980 yılında Alain Bouchard tarafından kurulan Alimentation Couche-Tard Inc. bünyesindeki market ağı markasıdır.Mağazalarının çoğu karayolu taşımacılığı ve konaklama ürünleri ile yakıt sunarken, diğerleri sadece yakıt sunan çalışansız otomatik akaryakıt istasyonlarıdır.Alimentation Couche-Tard Inc. Kanada merkezlidir.Bünyesindeki markalar:7-joursCircle KCouche-TardDairy MartDaisy MartRunWinks",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Madara Cosmetics",
+    "description": "Madara Cosmetics, 2006 yılında kurulan MADARA Cosmetics SIA bünyesinde üretilen organik kozmetik, cilt bakımı ürünleri markasıdır.MÁDARA markası altında, organik cilt bakımı, vücut bakımı, saç bakımı ve bebek bakım ürünleri sunmaktadır.Şirket ayrıca fason üretim, ürün formülasyonu ve özel etiket hizmetleri sunmaktadır. Ürünleri geri dönüştürülebilir ambalajlarda paketlenmektedir.MADARA Cosmetics SIA Letonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LV",
+    "updated_date": "2022-02-04"
+  },
+  {
+    "company": "Mandom Cosmetics",
+    "description": "Mandom, 1927 yılında Shinpachiro Nishimura tarafından kurulan Mandom Corporation bünyesindeki makyaj malzemeleri, koku ürünleri markasıdır.Mandom Corporation Japonya merkezlidir.Bünyesindeki markalar;BifestaGATSBYLUCİDOLucido-lPixyPucelle",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

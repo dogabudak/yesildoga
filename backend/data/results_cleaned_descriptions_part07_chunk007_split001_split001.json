@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ameda",
+    "description": "Ameda, 1942 yılında kurulmuş olan Ameda Inc. bünyesinde üretilen tıbbi cihazlar, göğüs pompaları, emzirme ürünleri markasıdır.Şirket, göğüs pompaları ve süt saklama, göğüs bakımı ve beslenme ürünleri sunmaktadır.Ameda Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wagenburg",
+    "description": "Wagenburg, 2009 yılında kurulmuş olan Dinamik Otomotiv Gıda Tekstil İth. İhr. San. ve Tic. Ltd. Şti. bünyesindeki otomotiv yedek parçaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "The Organic Pharmacy",
+    "description": "The Organic Pharmacy, 2002 yılında kurulmuş olan The Organic Pharmacy Ltd. bünyesinde üretilen doğal cilt bakım ürünleri markasıdır.Ürün yelpazesinde temizleyiciler, tonerler, serumlar ve yüz kremleri yer almaktadır. Ürünleri hayvanlar üzerinde test edilmemektedir.The Organic Pharmacy Ltd. İngiltere merkezlidir. Ürünlerini 45 ülkeye pazarlamaktadır.Bünyesindeki markalar;Glamour FoodOrganic GlamOrganic Glam OgThe Organic Pharmacy",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Rox Wood",
+    "description": "Rox Wood, 1990 yılında kurulmuş olan Teknik Alet San. ve Tic. A.Ş. bünyesindeki çakı ve bıçak aksesuarları, çekiç, çizim ipi, çok fonksiyonlu ürünler, işçi tulumu, işkence, iskarpelalar, açı ölçer, avuç taşlamalar, bıçak bileme, balta, boya tabancası, cetvel, daire testere, diğer ölçüm cihazları, dijital ölçüm cihazları, eğe seti, el testeresi, kıl testere, elektrikli zımpara makinesi, freze, freze uçları, gönye, gönye, havalı aletler, hobi aksesuarları, hobi makineleri, kaynak gözlüğü, elektrot ve aksesuarlar, maket bıçak, makineler, matkap aparatları, mandrenler, matkap, vidalama uçları, mengeneler, mug, mutfak aksesuarları, rende, rendeler, sanatsal hobi ürünleri, taşlama uçları, kesici taş, takım çantaları, torna makinesi, tornavida, vidalama aksesuarlar, yıkama şampuan, yardımcı malzeme, yedek bıçaklar, zımpara uçları, aksesuarlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Quiet Tıkaç",
+    "description": "Quiet, 1906 yılında kurulmuş olan Honeywell International Inc. bünyesinde üretilen ipli, kordonlu slikon kulaklık tıkaçları markasıdır.Üretim ve sanayi çalışmaları, kişisel amaçlı, makine kullanımı, kazı çalışmaları gibi ortamlarda kullanılmaktadır.Honeywell International Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

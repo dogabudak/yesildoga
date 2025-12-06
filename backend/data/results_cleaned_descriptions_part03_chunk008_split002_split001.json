@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Filmam",
+    "description": "Filmam, 1870 yılında kurulan Mam Filmam Ltd. bünyesinde üretilen el yapımı çakı markasıdır.Ürünlerinde paslanmaz Alman inox çelik ile İspanya ve Güney Afrika’daki özel ağaçlardan üretilen ahşap saplar kullanılmaktadır.Mam Filmam Ltd. Portekiz merkezlidir ve ürünlerini Porketiz’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Vitakraft",
+    "description": "Vitakraft, 1837 yılında kurulan Vitakraft pet care GmbH & Co. KG bünyesindeki hayvan besinleri markasıdır.Tüm evcil hayvanların beslenmesi için ürünler üretmektedir.Vitakraft pet care GmbH & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.Bünyesindeki markalar:VitalityPoésieVitaNatureEmotion",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bafang",
+    "description": "Bafang, 2003 yılında kurulan Bafang Electric (Suzhou) Co.,Ltd. bünyesinde üretilen elektrikli araç aksesuarları markasıdır.Yüksek kaliteli motorlar dışında, elektrikli bisiklet ve elektrikli scooter için bileşenlerin tam ürün yelpazesi sunmaktadır. ISO 9001 belgesine sahiptir. Ürünleri RoHS uyumlu ve CE etiketine sahiptir.Bafang Electric (Suzhou) Co.,Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Konchero",
+    "description": "Konchero, 2013 yılında kurulan Atsis Dış Ticaret ve Makine Danışmanlık Ltd. Şti. bünyesinde ithal edilen otomatik espresso makineleri, ticari ve ev tipi filtre kahve makineleri ve 3.dalga kahve ekipmanları markasıdır.Ürünlerini doğrudan Çin’deki üretici firmalardan ithal etmektedir ve üretimin her aşamasını mühendis kadrosuyla tüketicilere ulaştırmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Osawa",
+    "description": "Osawa, 1987 yılında kurulan Efor Dayanıklı Tüketim Malları Pazarlama Tic. Ltd. Şti. bünyesindeki ses sistemleri, ses mikserleri, mikrofonlar, ışıklandırma sistemleri, hoparlörler, amplifikatör ve aksesuarları markasıdır.Bünyesindeki markalar:BardiChankerDdsDexunEfor OsawaEfor StoreKajiwaKönigKönigelektronikLöweLtoMekseOkmikOkpaOsawaÖzayRoofSound WaveSoundkingWoll",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

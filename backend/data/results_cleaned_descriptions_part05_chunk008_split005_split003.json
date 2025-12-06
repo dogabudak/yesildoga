@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kargoist",
+    "description": "Kargoist, 2012 yılında kurulan Asilkar Hızlı Kargo Taş. Tic. A.Ş. bünyesindeki kargo iş modeli markasıdır.İstanbul, Ankara, Bursa, Kocaeli, İzmir, Antalya gibi şehirler başta olmak üzere çok sayıda şehirde ve ilçede paket özelliklerine göre kargolama, geri dönüşümlü kargo ve kurumsal kurye hizmetleri ile faaliyet gösteren yerli sermayeli dağıtım firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sirui",
+    "description": "Sirui, 2001 yılında kurulan Guangdong SIRUI Optical Co. Ltd. bünyesinde üretilen optik lens ve anahtar bileşenleri, hassas fotoğraf ekipmanları, yeni akıllı aydınlatma ürünleri ve anahtar bileşenleri ve optik aletler, el sabitleyici, spor kameralar, lensler, filtreler, profesyonel fotoğraf ve video ekipmanları markasıdır.Guangdong SIRUI Optical Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Turkish Ground Services",
+    "description": "Turkish Ground Services, 2008 yılında Türk Hava Yolları A.O. ve TAV Havalimanları A.Ş. iştiraki Havaş ortaklığıyla kurulan TGS Yer Hizmetleri A.Ş. bünyesindeki yer hizmetleri markasıdır.Toplam 9 istasyonda, anlaşmalı 200’ün üzerinde havayoluna ramp, harekât, kargo ve yolcu hizmetleri sunmaktadır.ISO 9001, ISO 10002, ISO 14001, TS EN 45001, TS ISO/IEC 27001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Global Fire",
+    "description": "Global Fire, 1984 yılında Joao Paulo Ajami tarafından kurulan Global Fire Equipment (GFE) S. A bünyesinde üretilen yangın algılama cihazları, adreslenebilir ve konvansiyonel kontrol panelleri, yangın algılama ve alarm sistemleri markasıdır.Global Fire Equipment (GFE) S. A. Portekiz merkezlidir. Ürünlerini Portekiz’de üretmekte ve 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Iwako",
+    "description": "Iwako, 1968 yılında kurulan Iwako Global Co. Ltd. bünyesindeki silgiler, silgi setleri markasıdır.Ürünlerinde toksik olmayan, çevre dostu malzemeler kullanılır ve parçaları geri dönüştürülür.Iwako Global Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

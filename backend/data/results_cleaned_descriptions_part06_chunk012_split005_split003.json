@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Şampiyon Filtre",
+    "description": "Şampiyon Filtre, 1985 yılında kurulan Şampiyon Filtre Paz. Tic. ve San. A.Ş. bünyesinde üretilen yağ, yakıt, hava ve hidrolik filtreler markasıdır.Filtreler otomotiv, tarım, iş makineleri ile ticari amaçlı otobüs ve kamyonlar içindir.ISO 9001, TSE, IATF 16949 belgelerine sahiptir.Hatay merkezli firma ürünlerini 75 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Chakra",
+    "description": "Chakra, 2006 yılında kurulan Chakra Mağazacılık Tic. ve A.Ş. bünyesindeki banyo ve plaj havluları, bornozlar, nevresim takımları, ev giyimi, ev aksesuarları, aromatik yağlar, parfümler, kandil, mum ve vücut bakım ürünleri satan alışveriş sitesi ve mağazaları markasıdır.Kocaer Grubu’nun bir üyesi olan Kocaer Tekstil’e ait Chakra, Türkiye’de 45, yurt dışında 14 mağazası ile faaliyet göstermektedir.Grup üretim faaliyetlerini 3’ü Demir Çelik, ve 2’si Tekstil olmak üzere toplam 5 fabrikada yaklaşık 400 bin metrekaresi açık, 120 bin metrekaresi kapalı alanda sürdürmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lekam",
+    "description": "Lekam, 2000 yılında kurulan Przedsiebiorstwo Farmaceutyczne Lek-Am sp.z o.o. bünyesindeki dermatolojik cilt bakımı ürünleri, doğal takviyeler, sağlıklı yaşam ürünleri, sinir sistemine yönelik otc ürünler, yara bakım setleri ve yara bantları markasıdır.Przedsiebiorstwo Farmaceutyczne Lek-Am sp.z o.o. Polonya merkezlidir. Ürünlerini 24 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Biorad",
+    "description": "Biorad, 2005 yılında kurulan Necm Kimya Akaryakıt Ürün Medikal Malz. San. Tic. Ltd. Şti. bünyesinde üretilen el hijyen ürünleri ve yüzey hijyen ürünleri, antibakteriyel ıslak mendiller, tıbbi alet ve endoskop temizleyicileri, şömine yakıtları, alkol, kimyasallar markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Strong Televizyon",
+    "description": "Strong, 2001 yılında kurulan Işık Elektronik San. ve Tic. A.Ş. bünyesinde üretilen televizyon, akıllı televizyon ve monitör markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;AmstradEchosatFobemFreeskyMirtechStrongTempoTevsan",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

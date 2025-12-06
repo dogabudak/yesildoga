@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sinclair Research",
+    "description": "Sinclair Research, 1973 yılında kurulan Sinclair Research Ltd. bünyesinde üretilen tüketici elektroniği markasıdır.Sinclair Research Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Pearl Drums",
+    "description": "Pearl Drums, 1946 yılında kurulan Pearl Music Europe B.V. bünyesindeki davul ve perküsyon ürünleri markasıdır.Pearl, akustik ve elektronik davul setleri, konser ve el perküsyonu ve donanımı dahil olmak üzere vurmalı çalgılar üreticisidir.Pearl Music Europe B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Pretty Ballerinas",
+    "description": "Pretty Ballerinas, 2005 yılında kurulan Desarollos Insulares S.A.U. bünyesindeki ayakkabı, çanta ve aksesuarlar markasıdır.Desarollos Insulares S.A.U. İspanya merkezlidir. Dünyanın pek çok yerinde 80 mağazası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Blackbaud",
+    "description": "Blackbaud, 1981 yılında Anthony Bakker tarafından kurulan Blackbaud Inc. bünyesindeki bulut bilişim sağlayıcısı markasıdır.Kâr amacı gütmeyen kuruluşlar, vakıflar, şirketler, eğitim kurumları, sağlık kuruluşları, dini kuruluşlar ve bireysel değişim olmak üzere sosyal iyilik topluluğuna hizmet vermektedir. Ürünleri bağış toplama, web sitesi yönetimi, CRM, analitik, finansal yönetim, biletleme ve eğitim yönetimine odaklanmaktadır.Blackbaud Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Starlyf Fast Heater",
+    "description": "Starlyf 2015 yılında kurulan Actervis Gmbh bünyesindeki elektrikli ısıtıcı, akülü buharlı ütü, akülü elektrikli el süpürgesi, akülü temizleme ve döner fırça, ayak bakım pedi masaj cihazları, bıçak setleri, boya silindiri, buharlı paspas, cam sileceği, düdüklü tencere, dondurma makineleri, duş kolu, elektrikli ızgaralar, elektrikli süpürge ve aksesuarları, fritöz, güvenlik kamerası, küvet kavrama kulpları, kızılötesi ısıtıcı, masaj yastığı, mini fan, mutfak makinesi, mutfak yardımcıları, paspası, seyahat yastığı, tava, termo kupa vakum bardak markasıdır.Actervis Gmbh İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

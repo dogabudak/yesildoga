@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Campione",
+    "description": "Campione, 1989 yılında Hans Davidts tarafından kurulan Campione Textil Vertriebs Gmbh bünyesindeki giyim ürünleri markasıdır.Kumaşlar, profesyonel kesim ve özgün tasarım çözümlerinden oluşmaktadır.Campione Textil Vertriebs Gmbh Almanya merkezlidir. Almanya, İtalya, Türkiye’deki fabrikalarında üretilmektedir. Ürünleri 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Seljel",
+    "description": "Seljel, 1961 yılında Tezman Holding A.Ş. bünyesinde kurulan Sel San. A.Ş. tarafından üretilen sığır derilerinden yapıştırıcı/teknik jelatin markasıdır.Firma ayrıca yüzde 100 sığır derisinden gıda ve farmasötik jelatin üretmektedir.TSE Helal, ISO 9001, BRC V7, OHSAS 18001 belgelerine sahiptir.İstanbul merkezli firma ürünlerini Balıkesir’de bulunan 25 bin metrekarelik fabrikasında üretmekte ve üretiminin yüzde 60’ını 25 ülkeye ihraç etmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hurraw",
+    "description": "Hurraw, 2010 yılında kurulan Hurraw! Balm LLC. bünyesinde üretilen dudak balmları markasıdır.Ürünleri katkı maddesi, gluten, soya ve hayvansal ürün içermez. Organik içeriklidir ve soğuk press yağ kullanılarak üretilmektedir.Hurraw! Balm LLC. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alba Saat",
+    "description": "Alba, 1979 yılında kurulan Trading As Seiko Holdings Corporation bünyesinde üretilen cep, kol ve diğer cins saatler; bunların parçaları ve aksesuarları markasıdır.Trading As Seiko Holdings Corporation Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Bluweld",
+    "description": "Bluweld, 2006 yılında kurulan Vega Makina San. ve Tic. A.Ş. bünyesinde üretilen kaynak ve kesme makineleri, kaynak jeneratörleri, kaynak telleri, sert lehim telleri ve kaynak sarf malzemeleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

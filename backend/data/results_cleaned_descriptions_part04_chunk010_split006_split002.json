@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Rasayana",
+    "description": "Rasayana, 1986 yılında kurulan Rasa Organik Yaşam Ürünleri Sağlık Gıda Tarım Tur. San. Tic. Ltd. Şti. bünyesindeki bitki, yağ, bitki suları, gıda, baharat, tohum, kozmetik, bitki öz yağları ve esansları markasıdır.Konya merkezli firma ürünlerini anlaşmalı olduğu çiftçilerden elde ettiği organik bitkilerden üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "XP Kozmetik",
+    "description": "XP, 2005 yılında Abdurrahman Karatekin tarafından kurulan Karatekin Kozmetik bünyesinde ithal edilen makyaj ürünleri markasıdır.Ürün yelpazesinde dipliner, jel eyeliner, cımbız, stick fondöten, kaş kalemi, mat ruj, göz kalemi gibi ürünler yer almaktadır.XP markalı ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fibrelle",
+    "description": "Fibrelle, 2011 yılında kurulan Kardel Gıda Paz. Ltd. Şti. bünyesinde üretilen stevialı tatlandırıcı markasıdır.Stevia Rebudiana bitkisinin yapraklarından üretilen doğal bir tatlandırıcıdır. Pişirilebilir formdaki tatlandırıcı, şekerle aynı tatlılık ve yapısal özelliklere sahip olduğu için şekerin kullanıldığı tüm tariflerde kullanılabilir.Firma, Prebiyotik Lif, Vitamin ve Stevialı tatlandırıcı üretimi yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Choceur",
+    "description": "Choceur, 1913 yılında Karl ve Theo Albrecht tarafından kurulan Aldi GmbH & Co. KG bünyesindeki çikolata markasıdır.Ürün içeriğinde emülgatör (soya lesitin), vanilin, gluten, tam yağlı süt tozu ve aşırı şeker bulunmaktadır.Ucuz gıda marketleri zinciri Aldi GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Siberian Wellness",
+    "description": "Siberian Wellness, 1996 yılında kurulan Siberian Heath International LLC bünyesinde üretilen gıda katkı maddeleri ve kozmetik ürünleri markasıdır.Takviye edici gıdalar ve diğer ürünler üzerinde çeşitli klinik araştırmalar gerçekleştirilmektedir.GMP, ISO 9001 ve HACCP belgelerine sahiptir.Sibirskoye Zdorovye Rusya merkezlidir ve ürünlerini Sibirya’dan elde ettiği hammadeleri kullanarak Rusya’da üretmekte ve 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

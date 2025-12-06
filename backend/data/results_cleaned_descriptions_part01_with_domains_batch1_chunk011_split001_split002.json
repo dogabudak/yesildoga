@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Handxon Ülke",
+    "description": "Handxon, 2013 yılında Jimmy Jacques tarafından kurulan teknoloji şirketidir. Bilgisayar donanımı, tüketici elektroniği ve tablet bilgisayar geliştirir ve satar. 3G WCDMA Router ve Power Bank gibi ürünleri bulunmaktadır.Handxon S.A. Haiti merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "ZTE",
+    "description": "ZTE, 1985 yılında Hou Weigui tarafından kurulan, telekomünikasyon servis sağlayıcılarına ve işletmelerine cep telefonları, akıllı telefonlar, tablet bilgisayarlar, donanım, yazılım ve hizmetler sunan markadır.ZTE, Çin merkezli bir şirkettir. Çin’in telekomünikasyon donanımları ve akıllı telefonlarının ikinci büyük üreticisidir. Ev pazarında ilk 5 büyük akıllı telefon üreticilerinden biridir.Çin, Amerika, İsveç ve Kore’de 13 araştırma merkezi bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alpen Tahıl Ürünleri",
+    "description": "Alpen, 1932 yılında kurulan Weetabix Ltd. bünyesinde üretilen kahvaltılık tahıl ürünleri markasıdır.Ürünleri koruyucu ve yapay tatlandırıcı içermemektedir.Weetabix Ltd., 2017 yılında Amerika merkezli Post Holdings Inc. tarafından satın alınmıştır.Bünyesindeki markalar;AlpenBananabixChocobixFrutibixMinibixOatibixReady BrekWeeta FlakesWeetabixWeetabix MinisWeetos",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-11-25"
+  },
+  {
+    "company": "Aroma",
+    "description": "Aroma, 1968 yılında kurulan Aroma Bursa Meyve Suları ve Gıda Sanayi A.Ş. bünyesindeki meyve suyu ve kaynak suyu markasıdır.1991 yılında şirketin çoğunluk hissesi Duruk Ailesi tarafından satın alındı.Aroma, 2004 yılından beri su piyasasında da yer almaktadır.Aroma’nın, ihracat yaptığı ülkeler arasında Almanya, Fransa, İngiltere, Hollanda, İspanya, Belçika, Norveç, Polonya, Danimarka, Avusturya, İsviçre, İsveç, Amerika, Avustralya, KKTC, Türkmenistan, Gürcistan, Çin, Bulgaristan, Malta, Kanada, Moğolistan, Fildişi Sahilleri, Gana, Kenya, Benin, Burkina Faso, Fas, Libya, Irak, İsrail, Meksika, İtalya, Dubai yer alıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oleo Mac Ülke",
+    "description": "Oleo Mac, 1992 yılında kurulan Emak S.p.A. bünyesindeki içten yanmalı motor teknolojileri markasıdır.Ürün yelpazesi testere, fırçalı, çim biçme makineleri, bahçe traktörleri, biçme makineleri, tablasız biçme makineleri gibi 250’den fazla ürünü kapsıyor.İtalyan menşeli Emak S.p.A. bünyesinde 4 ticari marka, 4 üretim tesisi, 8 şube ve 135 dağıtıcı yer alırken 85 ülkede ürünleri satılmaktadır.Emak S.p.A. bünyesindeki markalar:EfcoOleo-MacBertoliniNibbi",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2020-01-05"
+  }
+]

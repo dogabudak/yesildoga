@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Adams Rite",
+    "description": "Adams Rite, 1994 yılında kurulan Assa Abloy Group Company bünyesindeki ticari, endüstriyel ve kurumsal yapı inşaat sektörüne kapı ve kapı donanım ürünleri markasıdır.Adams Rite, Assa Abloy Grubunun bir parçasıdır. Grubun iki büyük hissedarı bulunmaktadır bunlar; İsveçli (Investment AB Latour) ve Melker Schörling AB.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Ph Formula",
+    "description": "Ph Formula, 2010 yılında Petru van Zyl tarafından kurulan Laboratorio pHformula Internacional, S.L. bünyesinde üretilen cilt bakım ürünleri markasıdır.Phformula, dermatolojik bir cilt yenileme sistemidir. Kozmesötikler ve hekimler arasında yer alan ve dünya çapında 35’ten fazla ülkeye tanıtılma sürecinde olan bir sistem.Laboratorio pHformula Internacional, S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Nevtron",
+    "description": "Nevtron, 1951 yılında kimya doktoru Vahit Nevhiz Işıl tarafından kurulan Türkiye’nin ilk yerli radyo cihazı markasıdır.Cihazlarda kullanılan bobin, transformatör, kutu, şasi, bazı rezistanslar, düğme vb bakalit malzemeleri tamamen Türkiye’de üretilmiş, hoparlör gibi parçalar Almanya’dan ithal edilmiştir.Nevtron fabrikasında radyo, televizyon, pikap, müzik seti, video, teyp üretilmiştir. 1988 yılında ise ithal firmalarla rekabet edemeyince sanayiden çekilmiştir.Nevtron markalı radyo ve radyolu pikaplar antika olarak satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sachajuan",
+    "description": "Sachajuan, 1997 yılında Sacha Mitiç ve Juan Rosenlind tarafından kurulan Sachajuan Haircare AB bünyesinde üretilen saç bakım ürünleri markasıdır.Tüm ürün geliştirme işlemleri İsveç merkezli Sachajuan Haircare AB tarafından yapılır ve ürünlerin büyük çoğunluğu burada üretilir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Nouba",
+    "description": "Nouba, 1982 yılında Rosy Armanini tarafından kurulan Nouba By Matisse S.R.L. bünyesindeki kozmetik ürünleri markasıdır.NOUBA en iyi parlak renkler, pişmiş toz ürünleri ve geniş bronzlaşma portföyü ile tanınır.Nouba By Matisse S.R.L. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

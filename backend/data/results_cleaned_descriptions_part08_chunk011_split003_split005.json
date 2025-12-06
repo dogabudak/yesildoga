@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Duella",
+    "description": "Duella2012 yılında kurulmuş olan Kontekbir Gıda İhtiyaç Maddeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen waffle sosları, fındık, fıstık, bisküvi kremaları markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Irfora",
+    "description": "Irfora2004 yılında kurulmuş olan Shenzhen Tomtop Technology Co. Ltd. bünyesinde üretilen UHF mikrofon kablosuz sistem hareketli bobin/kondansatör markasıdır.Shenzhen Tomtop Technology Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Karacakaya Su",
+    "description": "Karacakaya2007 yılında kurulmuş olan Karacakaya Gıda San. ve Ltd. Şti. bünyesinde üretilen şişelenmiş sular, meşrubatlar markasıdır.ISO 9001 belgesine sahiptir. Su dolum merkezi, suyu kaynağından doğrudan şişeleyerek üretim yapmaktadır.Firma Bursa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İntegro",
+    "description": "İntegro2007 yılında kurulmuş olan İntegro Gıda San. ve Tic. A.Ş. bünyesinde üretilen tarımsal katkılar, yem katkıları markasıdır.Yem üreticilerine hammadde tedarik hizmeti vermektedir.Firma İstanbul merkezlidir. Ürünlerini Kocaeli’de bulunan tesisinde üretmektedir.Bünyesindeki markalar;Aerosilaj MısırAgro IntegroAşımbonAşımmıxBrilaskinBro MassBuzibonCatymilcoÇiftliğim 365Çiftliğim CepteDirenç Buzağı JelDirenç Buzağı TozDirenç KuzuDirenç Kuzu JelDirenç OğlakDog StarDogymilcoEcobonEcomassEcomixEcosaccEcotoxEcowallFermomassFerrolyt PetGroflor CaninGroflor CanineGroflor FelineGrosaccHomerosInte Bakır Max Organik Şelatlı MineralInte Bakır Organik Şelatlı MineralInte Besi BonInte Besi MixInte Çinko Max Organik Şelatlı MineralInte Çinko Organik Şelatlı MineralInte Direnç OğlakInte GenInte LiverInte Mangan Max Organik Şelatlı MineralInte Mangan Organik Şelatlı MineralInte MosInte PowermassInte ProsaccInte Sabit Değer YemInte Selenyum Organik Şelatlı Mineralınte SwıneInte TailorInte TotalInte Total BesiInte Total PlusInte Total SütInte VitalIntebeeIntebeefInte-BlockIntebonIntebufferIntecalfIntecalf DiarrheaIntecellIntecrocIntedairyIntedirençkuzuInteequıneIntefertilIntefurIntegroIntekurbanbonIntekurbanmixIntelayerIntelohusabonIntelohusamixIntemixıntepetIntepowerIntesaccInteserpIntestrongInte-TotalIntetoxIntevinIntewallJetsilaj MısırJetsilaj YoncaKangalmixKneex CaninKneex CanineKoyunbonKurbanbonKurbanmixLohusabonLohusamixMetasaccMetasacc PlusMuhteşem RasyonPawmuchPet ForcealytPetox CaninPetox CaninePowermassProbonPromassProwallRumibonRumisaccSabit Değer YemSmart BlokSodyumsaccTargetoxTargetox PlusTatsaccThermosaccUltrabonUltramixVitabon BesiVitabon SütWallsacc",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pratic CNC",
+    "description": "Pratic2008 yılında kurulmuş olan Pratic Cnc Technology Co. Ltd. bünyesinde üretilen çok fonksiyonlu cnc yatay işleme merkezleri, cnc dik işleme merkezi, cnc portal işleme merkezleri markasıdır.Ürünleri, otomotiv, yeni enerji araçları, havacılık, demiryolu taşımacılığı, 5G ve diğer makine imalatı gibi çeşitli endüstrilerde kullanılmaktadır.Pratic Cnc Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

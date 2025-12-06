@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mitoyo",
+    "description": "1965 yılında kurulmuş olan Mitoyo-Seiko Co. Ltd. bünyesindeki otomobil bileşenleri, ofis otomasyon bileşenleri, iletişim ekipmanları gibi çeşitli montaj ve vidalar markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Mitoyo-Seiko Co. Ltd. Japonya merkezlidir. Çin’de anlaşmalı fabrikası bulunmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Hollister",
+    "description": "2000 yılında kurulmuş olan Hollister Co. bünyesindeki giyim, aksesuarlar, kokular markasıdır.Hollister Co. Amerika merkezli Abercrombie & Fitch Co’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Homatics",
+    "description": "1992 yılında kurulmuş olan Ab-Com s.r.o. bünyesindeki akıllı televizyon kutusu, medya çalar, uzaktan kumanda, ev sinema sistemleri markasıdır.Ab-Com s.r.o. Slovakya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SK",
+    "updated_date": null
+  },
+  {
+    "company": "Heron Preston",
+    "description": "2015 yılında kurulmuş olan Heron Preston Srl bünyesindeki giyim ve aksesuar markasıdır.Heron Preston Srl, İngiltere merkezli Farfetch Limited’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Modus",
+    "description": "2013 yılında kurulmuş olan Bonso Technology Co. Ltd. bünyesindeki elde taşınabilir ultrasonik kabuk kontrolü, evcil hayvan malzemeleri, köpek tasması, mini statik kabuk kontrol tasması, otomatik ultrasonik kabuk kontrolü, statik bark kontrol eğitim yaka, statik kabuk kontrol tasması, temel köpek tasmaları, uzaktan kumandalı köpek eğitim tasması markasıdır.Bonso Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

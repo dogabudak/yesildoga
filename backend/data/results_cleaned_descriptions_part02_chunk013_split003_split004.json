@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Carl’s Jr",
+    "description": "Carl’s Jr., 1941 yılında Carl ve Margaret Karcher tarafından kurulan CKE Restaurants Holdings Inc. bünyesindeki fast food restoran zinciridir.Hamburger, patates kızartması, tavuk, salata, alkolsüz içecekler sunmaktadır. 39 ülkede faaliyet göstermektedir. Türkiye’de 20’den fazla şubesiyle hizmet vermektedir.CKE Restaurants Holdings Inc. Amerika merkezlidir.Bünyesindeki markalar:Carl’s Jr.Hardee’sGreen BurritoRed Burrito",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-12-23"
+  },
+  {
+    "company": "Ventino",
+    "description": "Ventino, 2013 yılında kurulan Arkılıç Dtm. Paz. San. Ltd. Şti. bünyesinde üretilen ankastre, ankastre fırın, ankastre ocak, setüstü ocak, davlumbaz, aspiratör, mini fırın markasıdır.Ventino ürünlerinde, yüzde yüz yerli üretimden oluşan bileşenler kullanılmıştır. CE ve ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lulla Baby",
+    "description": "Lulla Baby, 1928 yılında Imam Kayalı Holding bünyesindeki Enka Hijyen Ürünleri San. ve Tic. A.Ş. tarafından üretilen bebek ürünleri markasıdır.Gaziantep OSB’de 53 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Schulzz",
+    "description": "Schulzz, 2018 yılında kurulan Ramerk Teknoloji Ticaret Limited Şirketi bünyesindeki bluetooth kulaklıklar ve bilgisayar aksesuarları, banyo aksesuarları markasıdır.Ürünlerini Çin’den ithal etmektedir.Ramerk Teknoloji bünyesindeki markalar:SchulzzBaseusSyma",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-03-09"
+  },
+  {
+    "company": "Atom Kablo",
+    "description": "Atom Kablo, 1992 yılında kurulan Atom Kablo San. ve Tic. A. Ş. bünyesindeki izoleli , esnek kablolar , 1, 2 ve 3 damarlı yassı kablolar , zırhsız ve zırhlı enerji kabloları , sokak aydınlatma kabloları , trafik sinyal kabloları , uzatma grup prizleri ve kabloları , halojensiz, alev geciktirici, düşük duman yoğunluklu kablolar , yangına dayanıklı kablolar markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

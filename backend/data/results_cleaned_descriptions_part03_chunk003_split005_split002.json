@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Castorama",
+    "description": "Castorama, 1969 yılında Christian Dubois tarafından kurulan inşaat, bahçe, banyo, dekorasyon için, diy ürünlerin dağıtım zinciridir.2002 yılında Kingfisher plc tarafından satın alındı.Kingfisher plc Avrupa’nın en büyük ve dünyanın en büyük üçüncü ev geliştirme perakendecisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Nüral",
+    "description": "Nüral Hangi Ülkenin Malı MarkasıNüral, 1899 yılında kurulan Federal-Mogul Corporation bünyesinde üretilen piston markasıdır.Federal-Mogul 34 ülkede 100 üretim tesisine sahiptir. Motorparts ve Powertrain olmak üzere iki temel gurup olarak çalışır.Federal-Mogul Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aytuğ",
+    "description": "Aytuğ Nerenin Malı MarkasıAytuğ Çorap, 1957 yılında kurulan çorap markasıdır. 2016 yılında Rota Tekstil Bilgisayar Sistemleri San. ve Tic. Ltd. Şti. bünyesine geçmiştir.Aytuğ Çorap, kuzu yünü, bambu, Coolmax, Tencel, Modal ve organik pamuk gibi malzemelerde örme çorap koleksiyonunu kapsıyor.Rota Tekstil, Yozgat ve Kütahya’da iki üretim tesisinde üretim gerçekleştiriyor. Firma GOTS, Oeko-Tex, ISO 9001 ve FQC 14001, OHSAS 18001, SA8000 ve Sedex belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Botalife",
+    "description": "Botalife, 2005 yılında kurulan Manolya Doğal ve Aromatik Ürünler Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen bitkisel yağlar, yüzde 100; doğal sabun, şampuan, kozmetik ürünleri, şeker ilavesiz macun ve keçiboynuzu özü markasıdır.Kekik, defne, lavanta, çörek otu, badem, keten tohumu, hindistan cevizi gibi hammaddelerden üretim yapmaktadır. Hammaddesi Türkiye’de bulunmayan yağları analiz raporlarına göre ithal etmektedir. Uçucu yağları buhar distilasyonu ile sabit yağları ise soğuk pres yöntemi ile hijyenik koşullarda besin değerleri kaybolmadan üretip filtreleyerek paketlemektedir.Ürünlerini 16 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fontignac",
+    "description": "Fontignac, 2008 yılında Zwilling grubu tarafından satın alınan tencere üreticisi Staub bünyesinde üretilen mutfak ürünleri markasıdır.Tüm emaye döküm demir tencereler ve seramik sunum ve pişirme gereçleri Fransa’da üretilmektedir.Zwilling Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

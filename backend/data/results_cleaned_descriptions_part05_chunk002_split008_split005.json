@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Ova Un",
+    "description": "Ova Un, 1953 yılında kurulan Ova Un Fabrikası A.Ş. bünyesinde üretilen buğday unu markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-07-29"
+  },
+  {
+    "company": "Mutlular",
+    "description": "Mutlular, 1967 yılında Mehmet Mutlu tarafından temelleri atılan Mutlular Tarim Turizm ve Tic. A.Ş. bünyesinde üretilen gönen baldo, pilavlık, osmancık ve kırık pirinç markasıdır.Balıkesir merkezli firma ayrıca biyogaz enerji, biyokütle enerji, lisanslı depoculuk, antrepoculuk, akaryakıt, et entegre, tarım işletmeleri alanlarında faaliyet göstermektedir.Bünyesindeki markalar;Ay-GülGönen DamakGönen MutlularGönen Mutlular ÇiftliğiGönen YeşilovaMg Mutlular GrupMg Mutlular Grup DamakMg Mutlular Grup MutluMutlu FidanMutlu GönenMutluhanMutlular",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Snapdragon",
+    "description": "Snapdragon, 2008 yılında kurulan Qualcomm Incorporated bünyesinde üretilen akıllı telefon ve tablet bilgisayarlar için tasarlanan bir mobil çip markasıdır.Qualcomm Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Seed Progen",
+    "description": "Seed Progen, 2004 yılında Özbuğday Grup bünyesinde kurulan ProGen Tohum A.Ş. tarafından üretilen pamuk, buğday, arpa, soya fasulyesi, tohum markasıdır.Antakya OSB’ de 30’dan fazla pamuk çeşidi, buğday, hibrit mısır ve soya fasulyesi tohumları üretimi gerçekleştiren yüzde 100 yerli sermayeli firmadır.İspanya’dan Kırgızistan’a 10’dan fazla ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hermesetas",
+    "description": "Hermesetas, 1904 yılında kurulan Hermes AG bünyesinde üretilen granül toz veya sıvı tatlandırıcı markasıdır.Hermes AG İsviçre merkezlidir.Bünyesindeki markalar;AssugrinHermesetasSteviasweet",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

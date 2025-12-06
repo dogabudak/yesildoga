@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Axis Ayakkabı",
+    "description": "Axis, 1993 yılında kurulmuş olan Macro Ayakkabı ve Otelcilik San. ve Tic. A.Ş. bünyesindeki spor ayakkabı markasıdır.Firma İstanbul merkezlidir. Ürünlerini 5 bin metrekarelik fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Boston Donuts",
+    "description": "Boston Donuts, 2015 yılında kurulmuş olan Bd Reklam Gıda San. ve Tic. Ltd. Şti. bünyesindeki donut markasıdır.Firma İstanbul merkezlidir. İstanbul, İzmir, Eskişehir, Bursa, Sakarya, Kocaeli, Balıkesir, Aydın, Denizli ve Manisa’da 60’a yakın şubeye sahiptir.Aynı marka ile Amerika’da faaliyet gösteren firma ile bir bağlantısı yoktur ve karıştırmamak için logolara dikkat edilmelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Studi",
+    "description": "Studi, Bim A.Ş. adına Smart Ofis Kırtasiye A.Ş. tarafından üretilen veya ithal edilen kurşun kalem, silgi, suluboya, pastel boya, kuru boya, matara, çanta, defter markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Robert Piguet",
+    "description": "Robert Piguet, 1944 yılında kurulmuş olan Fashion Fragrances & Cosmetics Ltd. bünyesindeki parfüm ve kolonya markasıdır.Fashion Fragrances & Cosmetics Ltd. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "5.11 Tactical",
+    "description": "5.11 Tactical, 1992 yılında kurulmuş olan 5.11 Inc. bünyesinde üretilen üniformalar, eldiven, bot, kılıf, bıçak, el feneri, askı vb. ürünler markasıdır.5.11 Inc. 2016 yılında Amerika merkezli Compass Diversified Holdings tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

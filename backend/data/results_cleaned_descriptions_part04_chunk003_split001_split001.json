@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sampure Minerals",
+    "description": "Sampure Minerals, 2009 yılında kurulan Mersigo Sp. Z o.o., bünyesindeki doğal kozmetik ürünleri, parfüm, kişisel kullanım amaçlı koku vericiler markasıdır.Ürünleri zararlı kimyasallar, bizmut oksiklorür, mineral yağ (ve türevleri), paraben türevi koruyucular, talk, dolgu maddeleri, lanolin, alkol ve hayvansal katkılar içermemektedir ve hayvanlar üzerinde test edilmemektedir. HMC Helal belgesine sahiptir.Mersigo Sp. Z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Vax",
+    "description": "Vax, 1977 yılında Alan Brazier tarafından kurulan Vax Limited bünyesindeki halı temizleyicileri, buharlı temizleyiciler, kablosuz elektrikli süpürge, hava arıtma ürünleri, temizleme solüsyonları markasıdır.Vax Limited İngiltere merkezlidir. Vax markalı makineler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Botanicals",
+    "description": "Dr. Botanicals, 2012 yılında kurulan Skin Research Ltd. bünyesindeki cilt bakımı ve vücut yıkama ürünleri markasıdır.Ürünleri vegandır ve hayvanlar üzerinde test edilmemektedir. LGBT’ye ait bir marka olarak, ürünlerinden birini alan her kişinin ailesine katıldığını düşünmektedir.Skin Research Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ferm",
+    "description": "Ferm, 1965 yılında kurulan Ferm International B.V. bünyesindeki testere, sondaj, zımpara, kesme, öğütme, delme, taşlama ve frezeleme elektrikli el aletleri markasıdır.Ferm International B.V. Hollanda merkezlidir ve ürünlerini Çin’de ürettirmektedir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Wellhome",
+    "description": "Wellhome, 1996 yılında kurulan Meltem Modüler Mobilya Koltuk San. ve Tic. A.Ş. bünyesinde üretilen aydınlatma, ayna, baza, duvar ünitesi, genç odası, halı, köşe koltuk takımı, kitaplık, koltuk takımı, mutfak masa ve sandalye, orta sehpa, puf, yatak başlık, yatak, yemek odası, zigon sehpa markasıdır.ISO 9001 belgesine sahiptir. Ürünlerinde E-1 sertifikalı hammadde kullanılmaktadır.Türkiye’de 68 şehirde yüzden fazla mağazaya ve dünya çapında faaliyet gösteren 80 showrooma sahiptir.Bursa merkezli firma ürünlerini İnegöl’de 210 bin metrekarelik üretim tesisinde üretmekte çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;HoneyImo Inegöl Mobilya OutletNew Joy HomeNewjoyNjSleepy HomeSoftpureWejoyWellhomeWeltewWeltewsleepWeltewuykuWfc World Furniture CenterWfp World Furniture PointWonderland",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-08-01"
+  }
+]

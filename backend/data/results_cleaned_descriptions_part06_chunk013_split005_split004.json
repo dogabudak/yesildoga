@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Amante Baby&Kids",
+    "description": "Amante Baby&Kids, 1986 yılında kurulan Metin Şenyurt Konfeksiyon Tic. ve San. Ltd. Şti. bünyesindeki 0-12 yaş grubu için giyim ürünleri markasıdır.Firma Bursa merkezlidir. Ürünlerini 30’dan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;Amante Baby&KidsEfsabella Baby&Kids",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bracker",
+    "description": "Bracker, 1835 yılında kurulan Bracker AG bünyesindeki tekstil endüstrisindeki kilit ürünler markasıdır.Firma ring makineleri için bilezik, kopça, masura, manşon, apron üretiminde ve bakım konularında liderdir.Bracker AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Armex",
+    "description": "Armex, 1989 yılında kurulan Akk Adil Kapı Kolu San. ve Tic. Ltd. Şti. bünyesinde üretilen zamak, alüminyum ve paslanmaz çelikten üretilen kapı kolları markasıdır.İstanbul merkezli firma kapı ve pencere kolu dışında; menteşe, ofis ve büro mobilyaları için aksesuar üretmektedir. Ürünlerini Ortadoğu ülkeleri başta olmak üzere Afrika ve Avrupa ülkelerine ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kael",
+    "description": "Kael, 1992 yılında kurulan Kael Müh. Elektronik Tic. ve San. Ltd. Şti. bünyesindeki özel röleler, özel zaman röleleri, şönt reaktör, astronomik zaman saatleri, dönüştürücüler, dijital ölçü cihazları, dijital motor koruma röleleri, faz koruma röleleri, fotosel röleler, gerilim koruma röleleri, reaktif güç kontrol röleleri, seviye kontrol röleleri, super svc ve super tcr, zaman röleleri markasıdır.Firma İzmir merkezlidir. Ürünlerini 42 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wemo",
+    "description": "Wemo, 1983 yılında kurulan Belkin International Inc. bünyesindeki akıllı ev ürünleri markasıdır.Işık anahtarı, akıllı videolu kapı zili, dişli akıllı fiş, mini akıllı fiş, kablosuz akıllı dış mekan fişi, kablosuz akıllı dimmer, kablosuz akıllı fiş, ev otomasyon ürünleri üretmektedir.Belkin International Inc. Tayvan merkezli Foxconn’un yan kuruluşlarından biri olan Foxconn Interconnect Technology bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

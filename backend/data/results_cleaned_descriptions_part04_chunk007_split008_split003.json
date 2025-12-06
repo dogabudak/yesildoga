@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Shazam",
+    "description": "Shazam, 1999 yılında Chris Barton, Philip Inghelbrecht, Avery Wang ve Dhiraj Mukherjee tarafından kurulan Shazam Entertainment Ltd. bünyesindeki şarkı tanıma yazılımıdır.Müzik tanıma bir uygulama aracılığıyla ve çevrimiçi olarak yapılır. Android, macOS, iOS, Wear OS ve watchOS için kullanılabilen uygulama, çalan kısa bir örneği ve cihazdaki mikrofonu kullanarak müzik, film, reklam ve televizyon şovlarını tanıyabilir.Shazam Entertainment Limited, 2017 yılında Amerika merkezli Apple Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pantum",
+    "description": "Pantum, 2009 yılında kurulan Zhuhai Pantum Electronics Co., Ltd bünyesinde üretilen lazer yazıcılar ve toner kartuşları markasıdır.Tek işlevli, çok işlevli ve yüksek hızlı çift yönlü baskı içeren ürün yelpazesine sahiptir.Zhuhai Pantum Electronics Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 40 ülke ve bölgeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Academia.edu",
+    "description": "Academia.edu, 2008 yılında Richard Price tarafından kurulan Academia, Inc. bünyesindeki akademisyenler için ticari sosyal ağ sitesidir.Akademisyenlere ve kullanıcılara profil oluşturma, çalışma yükleme, ilgi alanlarını belirleyip bu alandaki araştırmacıları takip etme gibi özellikle sunmaktadır.Academia, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "THine",
+    "description": "THine, 1991 yılında Tetsuya Iizuka tarafından kurulan THine Electronics, Inc. bünyesinde üretilen yüksek hızlı seri arabirim (V-by-One HS, LVDS, CalDriCon), görüntü sinyal işlemcisi (ISS), analog-dijital dönüştürücü (ADC), zamanlama kontrolörü, güç yönetimi, LED sürücü, motor sürücü markasıdır.THine Electronics, Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Soap & Glory",
+    "description": "Soap & Glory, 1846 yılında John Boot tarafından kurulan Boots UK Limited bünyesindeki makyaj ve cilt bakım ürünleri markasıdır.Boots UK Limited 2014 yılında Amerika merkezli Walgreens Boots Alliance’ın bir yan kuruluşu oldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

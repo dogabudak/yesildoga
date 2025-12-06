@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Solvay",
+    "description": "Solvay, 1863 yılında kurulan Solvay S.A. bünyesindeki kimya ürünleri markasıdır.Solvay ürünleri maden, petrol ve gaz ekstraksiyonunun, uçak, otomobil, batarya, akıllı cihazlar ve medikal araçlar gibi alanlarda kullanılmaktadır.62 ülkede faaliyet gösteren Solvay Grubu Belçika merkezlidir. Trükiye’de 20 yıldan fazla bir süredir Solvay İstanbul Kimya Ticaret ve Sanayi Ltd.Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Körting",
+    "description": "Körting, 1871 yılında Berthold ve Ernst Körting tarafından kurulan Körting Hannover A.G. bünyesindeki pompa ve pompa tabanlı vakum teknolojisi, endüstriyel brülörler, makine termal ve kimyasal arıtma / dönüşüm ürünleri markasıdır.Körting Hannover A.G. Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Camsil",
+    "description": "Camsil, 1945 yılında Yıldız Ailesi tarafından kurulan Sultanlar Grup’a ait Tibet İthalat İhracat ve Kozmetik Sanayi A.Ş. bünyesindeki sıvı temizlik ürünleri markasıdır.Tibet, yüzde 100 Türk sermayeli bir şirkettir.İstanbul’da bulunan 80 bin metrekarelik tesislerinde üretim gerçekleştirmektedir. HACCP ve ISO 9001 sertifikalarına sahiptir. Ürünlerini 55 ülkeye ihraç etmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aykim Kimya",
+    "description": "Aykim, 1994 yılında Aydın İshakoğlu tarafından kurulan Aykim Sanayi Kimyasalları San. ve Tic. A.Ş. bünyesindeki köpük kesiciler, antistatik ajanlar, boyada örtücülük ve opak polimerler, dolgu maddeleri, epoksi hammaddeleri, film yapıcı ajan, fonksiyonel dolgu maddeleri, fotobaşlatıcılar, yüzey ajanları, kalınlaştırıcı ve çökme önleyiciler, kaolin, mikrobiyolojik koruyucular biyositler, pigment pastalar pigmentler, tekstüre ajanlar, uv matlaştırıcılar, uv yüzey ajanı, waxlar, yüzey düzenleyiciler, yapı kimyasalları, ph düzenleyiciler gibi boya hammaddeleri, kimyasal hammaddeler, sanayi kimyasalları, yapı kimyasalları markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yed",
+    "description": "Yed, 2011 yılında kurulan Duru Doruk Dış Ticaret Ltd. Şti. bünyesindeki Yed Ekipman Oto ve İnş Ürünl. Ltd. Şti’ye ait, tuning ve modifiye ürünleri, otomobil aksesuarları markasıdır.Bünyesindeki markalar:YEDSkunkAEMJDMMEC DesignMagnaflowOABBA",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

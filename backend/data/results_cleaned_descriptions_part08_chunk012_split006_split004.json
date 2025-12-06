@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Planet Çöp Kovası",
+    "description": "Planet1974 yılında kurulmuş olan Uğurlar Plastik San. ve Tic. Ltd. Şti. bünyesinde üretilen plastik temizlik gereçleri, çöp kovaları, su kovaları ve temizlik setleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini İkitelli OSB’de bulunan 10 bin metrekarelik alanda hammadde üretiminden son ambalaj aşamasına kadar gerçekleştirmektedir ve 70’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;GeckoHippoKoalaPapillonPlanetSpin MopStoneTwistWelle",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fitomer",
+    "description": "Fitomer2015 yılında Bezmialem Vakıf Üniversitesi İktisadi İşletmesi bünyesinde üretilen bitkisel içecekler, doğal bitkisel çaylar, soğuk sıkım sabit yağlar markasıdır.Ürünlerinde hiç bir katkı maddesi bulunmamaktadır.Türkiye’nin YÖK onaylı ilk Fitoterapi merkezi Bezmialem Vakıf Üniversitesi’nde bulunmaktadır ve İstanbul Kalkınma Ajansı desteğiyle kurulmuştur.Üniversite İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kincrem Color",
+    "description": "Kincrem1932 yılında kurulmuş olan KIN Cosmetics S.A.U. bünyesindeki saç boyası markasıdır.KIN Cosmetics S.A.U. İspanya merkezlidir ve ürünlerini 30’dan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Haute By KinstyleKinactifKincrem ColorKinessencesKinmenKinstyle",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Ekşi Yüz",
+    "description": "Ekşi Yüz1996 yılında kurulmuş olan Saadet Gıda Pazarlama San. ve Tic. A.Ş. bünyesinde üretilen sakız markasıdır.Ürünleri glukoz şurubu, renklendirici ve kıvam artırıcı içermektedir.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Era Izgara",
+    "description": "Era2000 yılında kurulmuş olan Era Ev Aletleri San. ve Tic. Ltd. Şti. bünyesinde üretilen elektrikli ızgaralar, tost makinesi, elektrikli pişirici, barbekü, tekli pişirme ocağı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

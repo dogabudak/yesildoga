@@ -1,0 +1,47 @@
+[
+  {
+    "company": "+Lux Unfiltered",
+    "description": "+Lux Unfiltered, 2019 yılında Sivan Ayla ve Paul Richards tarafından kurulan +Lux Unfiltered Inc. bünyesindeki kozmetik ürünler, şampuanlar, cilt bakım ürünleri, giyim, iç çamaşırı markasıdır.Cilt bakım ürünleri hayvanlar üzerinde test edilmemektedir.+Lux Unfiltered Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Schlumberger",
+    "description": "Schlumberger, 1926 yılında Conrad ve Marcel Schlumberger tarafından kurulan Schlumberger Limited bünyesindeki petrol sahası hizmetleri ve ekipmanları markasıdır.Schlumberger, 120’den fazla ülkede faaliyet göstermektedir.Schlumberger Limited Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tiens Airiz Ped",
+    "description": "Tiens Airiz Ped, 1995 yılında Li Jinyuan tarafından kurulan TIENS Group Co. Ltd. bünyesinde üretilen ped markasıdır.Firma gıda takviyesi, sağlık cihazı, cilt bakım ürünleri üretmektedir.Çin merkezli TIENS Group, 190 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "İnvac Vakum",
+    "description": "İnvac, 2018 yılında kurulan İnvac Makina Tic. ve San. Ltd. Şti. bünyesinde üretilen vakumlu paketleme makinesi markasıdır.Dikey veya yatay tip, bigbag, masa üstü, otomatik ve manuel vakum makinesi üretmektedir.Firma ayrıca yardımcı ekipmanlardan dolum, tartım sistemleri, bant sistemi, konveyör sistemi ve robotik aktarma sistemine yatırımlar yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Proxentin",
+    "description": "Proxentin, 2002 yılında kurulan Biota Bitkisel İlaç ve Kozmetik Lab. A.Ş. bünyesinde üretilen antibakteriyel hijyen ürünler markasıdır.Proxentin, bakteri ve virüsleri ellere, vücuda, çamaşırlara ve yüzeylere yayılmasını önlemek içindir. Ürünlerini 35 bin metrekarelik alanda yer alan tesisinde üretmekte ve 60’dan fazla ülkeye ihraç etmektedir.ISO 22000, Helal ve Kosher belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

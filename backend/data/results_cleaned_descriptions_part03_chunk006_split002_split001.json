@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Permatex",
+    "description": "Permatex, 1909 yılında üretilen; otomotiv bakım ve onarım, ev ve donanım onarım ürünleri markasıdır.Permatex, 1912 yılında kurulan Illinois Tool Works Inc.’in bir bölümüdür.Conta, el temizleyiciler, yapıştırıcılar, sızdırmazlık, yağlar, temizleyiciler, onarım kitleri gibi özel onarım ürünleri sunmaktadır.Illinois Tool Works Inc. Amerika merkezlidir.Dünya çapında 85’ten fazla ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tekbaş",
+    "description": "Tekbaş Nerenin Malı MarkasıTekbaş, 1997 yılında kurulan Tekbaş A.Ş. bünyesinde üretilen un markasıdır.Ürünlerini Konya’da bulunan 40 bin metrekarelik açık alanda bulunan 20 bin metrekarelik kapalı alanda üretmektedir. ISO9001 ve ISO 22000 belgelerine sahiptir.Bünyesindeki markalar:ŞAHANCİVANDERMANDESTANFERMANHAKANHANKAĞANOZANSULTANUĞRAN",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avilo",
+    "description": "Avilo, 1928 yılında Hacı Şükrü Oktav tarafından kurulan Oktav Zeytinyağı Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen zeytinyağı markasıdır.ISO 9001 ve TS EN ISO 22000 belgelerine sahiptir.İzmir merkezli firma Tire OSB’de 5 bin metrekarelik alanda; cam şişe ve teneke kutu zeytinyağı üretimi gerçekleştirmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-02-01"
+  },
+  {
+    "company": "Derdeva",
+    "description": "Derdeva, 1993 yılında Azad Satış tarafından kurulan Öz Urfa Baharat bünyesinde üretilen bitkisel yağlar ve ürünleri markasıdır.Tüm yağları katkısız ve doğal olan firmanın ürünlerinde kimyasal madde ve inceltici bulunmamaktadır. 86 çeşit Sabit ve Uçucu bitkisel yağı mevcuttur.Bünyesindeki markalar:Yusat DerdevaYusatÖz Urfa Baharat",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fide Konserve",
+    "description": "Fide Konserve, 1974 yılında kurulan Oraklar Turizm Gıda San. ve Tic. A.Ş. bünyesindeki konserve domates salçası, ton balığı, sebze ürünleri, biber salçası, balık, kemik suyu ve tavuk suyu, közlenmiş ürünler, hazır yemekler, domates ürünleri, soslar, meyve ürünleri markasıdır.Türkiye dışında Cezayir’de de fabrikası bulunmakta ve Afrika ülkeleri başta olmak üzere, yurtdışında üretim ve pazarlama faaliyetleri yapmaktadır. Ürünlerini 67 ülkeye ihraç etmektedir. ISO, HACCP ve BRC belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "CE",
+      "HACCP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

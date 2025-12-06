@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Madame Moss",
+    "description": "Madame Moss, 1978 yılında kurulmuş olan Gezer Konfeksiyon Giyim İnş. San. Tic. Ltd. Şti. bünyesindeki hazır giyim ve aksesuarlar markasıdır.Firma Ankara merkezlidir. 7 ilde 14 mağazasıyla hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doral Güneş Sistemleri",
+    "description": "Doral, 2007 yılında kurulmuş olan Doral Energy Group bünyesinde üretilen yenilenebilir enerji ürünleri markasıdır.Enerji depolamasıyla birleştirilmiş en büyük güneş enerjisi projeleri boru hattına sahip ve yeşil elektrik sağlayıcısı konumunda.Doral Energy Group İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Scarlett Ped",
+    "description": "Scarlett, BİM Birleşik Mağazalar A.Ş. adına Hayat Kimya San. A.Ş. tarafından üretilen hijyenik ped markasıdır.Normal, günlük ve gece gibi çeşitleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Linkfar",
+    "description": "Linkfar, 1992 yılında kurulmuş olan Linkfar Healthcare Gmbh bünyesindeki diyabet malzemeleri, Bebek ve anne ürünleri ile banyo malzemeleri, tıbbi cihazları markasıdır.ISO 9001, ISO 13485 belgelerine sahiptir.Linkfar Healthcare Gmbh Almanya merkezlidir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;LianfaLinkfar",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sanük",
+    "description": "Sanük, 1977 yılında kurulmuş olan ayakkabı ve sandaletler, terlik ve botlar markasıdır.Amerika merkezli Deckers Outdoor Corporation bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

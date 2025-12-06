@@ -1,0 +1,60 @@
+[
+  {
+    "company": "Newtech Filter",
+    "description": "2015 yılında kurulmuş olan Newtech Filter India Pvt. ltd. bünyesindeki otomobil filtresi, yağlama yağı filtresi, hava filtresi markasıdır.Newtech Filtre Hindistan Pvt. Ltd. Hindistan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Carni Cat",
+    "description": "2019 yılında kurulan Maya Family Pet Ürünleri A.Ş. bünyesinde üretilen kedi maması markasıdır.Ürünlerini hayvanlar üzerinde test etmemektedir.Firma Kırklareli merkezlidir ve ürünlerini Kırklareli’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Be Open",
+    "description": "2004 yılında kurulan Shokz Holding Ltd. bünyesinde üretilen kablosuz kulaklıklar markasıdır.Shokz Holding Ltd. Hong Kong merkezlidir. Ürünlerini Çin’de üretmektedir ve 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Ade Terazi",
+    "description": "1935 yılında kurulmuş olan Ade Germany Gmbh bünyesindeki terazi, ölçüm makineleri ve cihazları markasıdır.ISO 13485, ISO 9001 belgelerine sahiptir.Ade Germany Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sio",
+    "description": "2000 yılında kurulmuş olan Bileşim Kimya Temizlik Ürunleri San. Tic. Ltd. Şti. bünyesinde üretilen ev temizlik ürünleri ve kişisel bakım ürünleri markasıdır.ISO 9001, ISO 14001, OHSAS 18001, ISO 22716 belgelerine sahiptir.İstanbul merkezli firma ürünlerini 70’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

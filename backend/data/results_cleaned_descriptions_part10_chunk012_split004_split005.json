@@ -1,0 +1,45 @@
+[
+  {
+    "company": "PureMounts DS",
+    "description": "2001 yılında kurulan Purelink Gmbh bünyesindeki multimedya tutma sistemleri, televizyon, monitör askıları, montaj çözümleri markasıdır.Pumounts, küresel olarak hareket eden ve alanında yenilikçi bir ürün konsepti sunan bir Purelink GmbH markasıdır.Purelink Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Colourful World",
+    "description": "1903 yılında kurulmuş olan August Storck KG bünyesinde üretilen karamel ve çikolatalı şekerler markasıdır.August Storck KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Clean Beauty",
+    "description": "1980 yılında kurulmuş olan John Paul Mitchell Systems Inc. bünyesinde üretilen saç bakımı ürünleri markasıdır.John Paul Mitchell Systems Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pollux",
+    "description": "2007 yılında kurulmuş olan Aypol Solvent ve Kimya San. Tic. A.Ş. bünyesinde üretilen metalik boyalar markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dnz",
+    "description": "2009 yılında kurulan Denizpharma İlaç San. ve Tic. Ltd. Şti. bünyesindeki multivitaminler, takviye edici gıdalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

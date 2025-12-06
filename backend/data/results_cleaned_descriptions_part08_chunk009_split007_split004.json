@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Atto Shoes",
+    "description": "2021 yılında kurulmuş olan Turco Production Teknoloji Medya ve Yazılım Hizmetleri Tic. A.Ş. bünyesinde üretilen büyük beden ayakkabılar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lines",
+    "description": "1993 yılında kurulmuş olan Yonca Lines Ev Gereçleri ve Tekstil San. Tic. Ltd. Şti. bünyesinde üretilen granit tencereler, çelik tencereler, çelik çaydanlıklar markasıdır.ISO 9001, TSE ve CE belgelerine sahiptir.Firma Kahramanmaraş merkezlidir. Ürünlerini 20 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.Bünyesindeki markalar;AldentaLinesRaymondYonca",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Charmens",
+    "description": "2019 yılında kurulmuş olan Stila Tekstil Deri İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen bambu oda kokuları, oto kokuları, oda spreyleri ve kokulu mum markasıdır.Tüm kokular Fransa menşeli esans kullanılarak üretilmektedir.Firma Bursa merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tokuyama",
+    "description": "1983 yılında kurulmuş olan Proclinic S. A. U. bünyesinde üretilen ortodontik sarf malzemeleri, kitler markasıdır.Proclinic S. A. U. İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Piapiri",
+    "description": "1996 yılında kurulmuş olan Ünlü Yatırım Holding A.Ş. bünyesindeki hisse senedi, viop, varant, yatırım fonu, kur/parite ve kripto para verilerinin takip edilebildiği uygulama markasıdır.EFT ve virman işlemleri ücretsiz bir şekilde gerçekleştirilir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

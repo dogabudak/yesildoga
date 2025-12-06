@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Clorox",
+    "description": "Clorox, 1913 yılında Archibald Taft, Edward Hughes, Charles Husband, Rufus Myers, William Hussey tarafından kurulan kurulan The Clorox Company bünyesindeki temizleme, gıda depolama veya çöp torbaları, gıda, kedi çöp, kömür, diyet takviyeleri, sindirim sağlığı, kişisel bakım, sağlık, su filtrasyonu markasıdır.The Clorox Company, Amerika merkezlidir.Bünyesindeki markalar:BritaBurt’s BeesFormula 409Fresh StepHidden Valley RanchKingsfordKitchen BouquetLestoilLiquid-PlumrNutranextPine-SolPoettRenew LifeThe Glad Products Company",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fleetcor",
+    "description": "Fleetcor, 2000 yılında kurulan FleetCor Technologies, Inc. bünyesindeki yakıt kartları ve işgücü ödeme ürünleri ve hizmetleri markasıdır.Ticari filolar, petrol şirketleri, petrol pazarlamacıları ve hükümetlere hizmet vermektedir.FleetCor Technologies, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "BOE Technology",
+    "description": "BOE Technology, 1993 yılında kurulan BOE Technology Group Co., Ltd. bünyesindeki elektronik bileşenler markasıdır.BOE, dünyanın en büyük LCD, OLED ve esnek ekran üreticilerinden biridir.BOE Technology Group Co., Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-05-03"
+  },
+  {
+    "company": "Sunwoda Electronics",
+    "description": "Sunwoda Electronics, 1997 yılında kurulan Sunwoda Electronic Co., Ltd. bünyesinde üretilen liion pil modülü ürünleri, cep telefonu lityum pil modülleri, dizüstü bilgisayar modülleri ve güç lityum-iyon pil modülleri markasıdır.Sunwoda ayrıca aydınlatma, tıbbi ve dijital kamera alanları için ürünler sağlar.Sunwoda Electronic Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tianshui Huatian",
+    "description": "Tianshui Huatian, 2003 yılında kurulan Tianshui Huatian Technology Co., Ltd. bünyesinde üretilen basınç sensörü, basınç vericisi, basınç anahtarı, alet, seviye verici markasıdır.Tianshui Huatian Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

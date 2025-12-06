@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Baker Hughes",
+    "description": "Baker Hughes, 1907 yılında kurulan Baker Hughes Company bünyesindeki petrol ve gaz endüstrisine petrol sondajı, formasyon değerlendirmesi, tamamlama, üretim ve rezervuar danışmanlığı için ürün ve hizmetler markasıdır.Baker Hughes Company Uluslararası endüstriyel hizmet şirketi ve dünyanın en büyük petrol sahası hizmetleri şirketlerinden biridir.Baker Hughes Company Amerika merkezlidir. Şirketin yüzde 30’u General Electric Company’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hidrofugal",
+    "description": "Hidrofugal, 1882 yılında kurulan Beiersdorf AG bünyesindeki hassas anti-transpirant roll on, deodorant markasıdır.Ter ve vücut kokusuna karşı ürünler geliştirmektedir.Cilt bakım kremleri ve kozmetik ürünleri üreticisi Beiersdorf AG Almanya merkezlidir. Türkiye’de Nivea Beiersdorf Turkey Kozmetik San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mildo Gıda",
+    "description": "Mildo Gıda, 2013 yılında Ömer Baturalp tarafından kurulan Mildo Gıda San. ve Dış Tic. A.Ş. bünyesinde üretilen ekmekçilik ve pastacılık ürünleri markasıdır.Ürünlerini 22 ülkeye ihraç etmektedir.BAE merkezli Master Baker firması Mildo Gıda San. ve Dış Tic. A.Ş.’nin diğer ortağıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Elg",
+    "description": "Elg, 2009 yılında kurulan Elg Dayanıklı Tüketim Malz. Ltd. Şti. bünyesinde üretilen su sebilleri markasıdır.Firma ayrıca mimarlık, inşaat, dekorasyon hizmetleri, yazılım, web ve grafik tasarım, network sistemleri, alanlarında hizmet vermektedir.Ürünlerini İran, Irak, Türkmenistan, Kırgısiztan ve Kıbrıs’a ihraç etmektedir.ISO 9001, IS0 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zeto",
+    "description": "Zeto, 2000 yılında kurulan Zeta Dış Tic. İth. İhr. Paz. Ltd. Şti. bünyesindeki temizlik ve kozmetik ürünleri markasıdır.Ürünlerini 7 bin 500 metrekarelik kapalı alanda üretmekte ve 48 ülkeye ihraç etmektedir.Bünyesindeki markalar;Air NaturaAmerican BouquetEsteraGianMiss ClearNeutrevoSea DolphinSilk FruitsTanyaZaita ValentinaZetoZetollZetox",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

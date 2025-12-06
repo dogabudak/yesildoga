@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Garena",
+    "description": "Garena, 2009 yılında Forrest Li tarafından kurulan S. Ocean Technology and Media Co. bünyesinde hizmet veren çevrimiçi oyun platformu markasıdır.Oyunlar ağ üzerinden oynanır. Oyuncular bu oyunlara kurucu veya oyuncu olarak katılabilir. GGTV turnuvaları veya oyunları canlı olarak izleme imkânı sunar.2019 yılında Singapur merkezli Sea Limited’in yan kuruluşu oldu.Garena yaklaşık 153 ülkede faaliyet gösterirken Türkiye dahil 43 ülke ise oyunda resmi olarak adı geçen ülkelerdir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Dropbox",
+    "description": "Dropbox, 2007 yılında Arash Ferdowsi ve Drew Houston tarafından kurulan Dropbox Inc. bünyesindeki bulut depolama, istemci yazılımı, dosya senkronizasyonu ve barındırma, kişisel bulut markasıdır.Kullanıcılara 2 GB veri saklama alanı vermektedir.Dropbox Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Anl Choco nerenin",
+    "description": "Anl Choco, 2005 yılında kurulan Anl Gıda San. ve Tic. A.Ş. bünyesinde üretilen oyuncaklı çikolatalı sürpriz yumurta, oyuncaklı noel ve paskalya çikolatası figürlü, oyuncaklı şeker fasulyesi, oyuncaklı şekerleme markasıdır.Ürün yelpazesinde hediyelik ve dökme çikolata, dekor çikolata, oyuncaklı sürpriz yumurta, oyuncaklı figür çikolata, gofret ve kornet çikolata yer almaktadır.Ürünlerini İstanbul’da bulunan 15 bin metrekarelik alanda bulunan fabrikasında üretmektedir ve 90 ülkeye ihraç etmektedir.ISO 22000 standartları kullanılarak tamamenBünyesindeki markalar;ANL ChocoDeluxeLexusMinicco CornetSafari ParkSanta DeluxeSanta Lexus",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Belkıs Ayçiçek Yağı",
+    "description": "Belkıs, 1996 yılında kurulan Pam Yağ Gıda ve Kimya San. Tic. Ltd. Şti. bünyesinde üretilen ayçiçek yağı, mısır yağı, pamuk yağı, yemeklik margarin, endüstriyel margarin markasıdır.ISO 9001, ISO 22000, Helal ve TSE belgelerine sahiptir.Bünyesindeki markalar;BelkısKaram",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wizcom Technologies",
+    "description": "Wizcom Technologies, 1995 yılında kurulan Wizcom Technologies Ltd. bünyesindeki taşınabilir el tipi tarama çevirmenleri markasıdır.Şirket, basılı metni tarayabilen ve metni, kelimeden kelimeye, diğer dillere hemen çevirebilen ve çevrilmiş metni bir LCD ekranda görüntüleyebilen veya metni tarayabilen ve taranan metni bir bilgisayardaki kelime işlem yazılımına aktarmak için bellekte tutabilen taşınabilir elektronik kalem şeklindeki tarayıcılar üretmektedir.Wizcom Technologies Ltd. İsrailli bir şirkettir ve merkezini Amerika’ya taşımıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Heyo",
+    "description": "Heyo, 1993 yılında kurulan Çizmeci Gıda San. ve Tic. A.Ş. bünyesinde üretilen kreamlı bisküvi markasıdır.ISO 9001, ISO 22000, BRC belgelerine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini Güzeller OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ferled",
+    "description": "Ferled, 2019 yılında kurulan Ser Aydınlatma Elektrik Malzemeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen aydınlatma ürünleri markasıdır.ISO 9001, ISO 14001, OHSAS 1800, TSE belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini İstanbul’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bowflex",
+    "description": "Bowflex, 1986 yılında kurulan Nautilus Inc. bünyesindeki fitness ekipmanları markasıdır.Bisikletliler, eliptikler, ev spor salonları, koşular, ağırlıklar ve banklar, jrny dijital fitness gibi ürünlere sahiptir.Nautilus Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Show Shoe Care Products",
+    "description": "Show, 1975 yılında kurulan Burhanoğulları Kimya A.Ş. bünyesinde üretilen ayakkabı cilası ve kundura boyası markasıdır.ISO 9001 ve GOST-R belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 55’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Charge Now",
+    "description": "Charge Now, 2017 yılında kurulan Digital Charging Solutions Gmbh bünyesindeki elektrikli araç şarj istasyonları markasıdır.Halka açık şarj ağı, çeşitli pazarlarda farklı tipte (AC / DC) şarj istasyonları içermektedir. 25 ülkede 400 binden fazla şarj noktası bulunmaktadır.Digital Charging Solutions Gmbh 2019 yılında Almanya merkezli BMW Group ve Daimler AG arasındaki mobilite ortak girişiminin bir parçası olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

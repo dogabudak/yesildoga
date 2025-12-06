@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Esptiger",
+    "description": "2021 yılında kurulmuş olan Ganzhou Jinghu Technology Co. Ltd. bünyesinde üretilen oyuncu fare altlıkları markasıdır.Ganzhou Jinghu Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "UnIstanbul",
+    "description": "2016 yılında kurulmuş olan UnIstanbul Gıda Lojistik ve İnş. San. Tic. Ltd. Şti. bünyesinde üretilen çikolata fındık japonesse kurabiye, dürümlük katmer, domatesli, fesleğenli, zeytinli grissini, kalem, muska, paçanga börekleri, parmesanlı grissini, yufka markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Melwiss",
+    "description": "Cocowiss Gıda San. Tic. A.Ş. bünyesinde üretilen sıvı çikolata, aromalı, sütlü çikolata sosları, hazır çikolata markasıdır.Ürünleri palm yağı ve koruyucu içermez.Firma Düzce merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Longli",
+    "description": "2001 yılında kurulmuş olan Changshu Longli Thread Co. Ltd. bünyesinde üretilen yüksek mukavemetli iplik, polyester iplik, naylon iplik, bondi iplik markasıdır.Changshu Longli Thread Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alhan",
+    "description": "1978 yılında kurulmuş olan Çağrı Endüstri A.Ş. bünyesinde üretilen modüler kayışlar, plaka zincirleri, kılavuzlar, düz ve kavisli raylar, ayaklar, alüminyum profiller, rulman ekleri, çerçeve sistemleri, makaralı kılavuzlar markasıdır.Firma İstanbul merkezlidir. Ürünlerini 30 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

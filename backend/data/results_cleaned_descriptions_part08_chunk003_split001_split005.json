@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Altebox",
+    "description": "Altebox, 1996 yılında kurulmuş olan Alte Elektronik İnşaat San. ve Tic. Ltd. Şti. bünyesindeki kamera ve alarm sistemleri için bağlantı elemanları, kamera buatı, kamera uzatma aparatı, muhafazalar ve ayaklar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Periche",
+    "description": "Periche, 2003 yılında kurulmuş olan Piyano Kozmetik Kimya Tekstil Yayıncılık Reklamcılık Organizasyon San. ve Tic. Ltd. Şti. bünyesinde üretilen vücut spreyi markasıdır.Firma Kocaeli merkezlidir. Ürünlerini Gebze Güzeller OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mack Çanta",
+    "description": "Mack, 2012 yılında kurulmuş olan Net Aksesuar Bilişim Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen notebook çantaları, notebook sırt çantaları, organizer çantalar, sırt çantaları, plaj çantaları markasıdır.ISO 9001, ISO 14001, ISO 10002, ISO 27001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evin Ütü Masası",
+    "description": "Evin, 1972 yılında kurulmuş olan Evin Çelik Eşya Tel Çekme San. Tic. A.Ş. bünyesinde üretilen ütü masası, çamaşır kurutmalığı, merdiven, portmanto, yedek bez, SG2 gazaltı kaynak teli, çelik tel, dikenli tel, tavlı tel ve doğrultulmuş tel markasıdır.Firma Kayseri merkezlidir ve ürünlerini 24 bin 400 metrekaresi kapalı, toplam 63 bin 400 metrekarelik alanda bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rose Bikes",
+    "description": "Rose, 1907 yılında kurulmuş olan Rose Bikes Gmbh bünyesindeki bisiklet, bisiklet parçaları, bisiklet aksesuarları ve giyim markasıdır.Rose Bikes Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

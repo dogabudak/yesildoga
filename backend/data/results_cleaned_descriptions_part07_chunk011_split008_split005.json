@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Biokat",
+    "description": "Biokat, 2012 yılında kurulmuş olan Biokat Systeme Gmbh bünyesinde üretilen tıbbi cihazlar markasıdır.Biokat Systeme Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Anadolu Sağlık Merkezi",
+    "description": "Anadolu Sağlık Merkezi, 1979 yılında Anadolu Grubu’nun bir kolu olan kâr amacı gütmeyen Anadolu Eğitim ve Sosyal Yardım Vakfı tarafından kurulan kardiyoloji, nörolojik bilimler, onkoloji, kadın sağlığı, dahiliye ve diğer pek çok alanda hizmet veren bir hastanedir.Johns Hopkins Medicine International, Anadolu Sağlık Merkezi’ni sıfırdan geliştirmek için 2001 yılında Anadolu Vakfı ile çalışmaya başlamış ve klinik kalite ve hasta güvenliği, klinik program geliştirme ve bilgi aktarımı odaklı bir ortaklık anlaşması imzalamıştır.ISO 9001, ISO 14001, OHSAS 18001 ve JCI belgelerine sahiptir.Anadolu Sağlık Merkezi, ihtiyaç sahiplerine ücretsiz sağlık hizmeti vermekte ve hasta eğitim programı, ilk yardım kursu ile koruyucu hekimlik hakkında seminer ve programlar düzenlemektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ghirardelli",
+    "description": "Ghirardelli, 1852 yılında kurulmuş olan The Ghirardelli Chocolate Company bünyesinde üretilen çikolata ürünleri markasıdır.The Ghirardelli Chocolate Company 1998 yılında İsviçre merkezli Chocoladefabriken Lindt & Sprüngli AG tarafından satın alınarak yan kuruluşu haline geldi.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Crafy Oyun Hamuru",
+    "description": "Crafy, 1985 yılında kurulmuş olan Sunman San. Mamülleri İthalat İhracat ve Tic. A.Ş. bünyesinde üretilen oyun hamuru markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Ada BebekAfro BebekAlishaAlyssBanyo SaatiBebelouBelissaBlack BirdBlxBoubouBulut BebekClaraCrafyCrazooÇay KeyfiDenis BebekDollectiblesDollz And MoreDollz’N MoreEcchoEdu SunEdusunFanmixFun DoughFunmixGigi BebekGloopyGökkuşağı BebekleriGüneşbebekHawkHero CombatHommyIvy DesignJunior Doc.KübirikLara BebekLila BebekLittle ChefLittle FisherLittle SisterMagical BookzzMaxx WheelsMina BebekMineMini TunesMiniboNaz BebekNesliNil BebekPaladinPretty PinkyPuffy FriendsPunk BebekRed BeardRising SportsSelinShop’n DropSihri SensinSister CreationsSmile GamesStardustSun DesignSunconSunmanSunportTabii Ki!TaraTinaTop ToyzzUykudan ÖnceWecampWild West HeroWitty Puzzle’zzWoody Ağaç DünyasıYıldız BebekZapp",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artu Çikolata",
+    "description": "Artu Çikolata Nerenin Malı MarkasıArtu Çikolata, 2014 yılında kurulmuş olan Artu Çikolata Gıda San. İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen madlen çikolata, çakıltaşı çikolata, tablet çikolata, kaşık çikolata markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

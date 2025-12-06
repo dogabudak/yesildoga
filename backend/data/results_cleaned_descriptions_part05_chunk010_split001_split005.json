@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Apollo Beton Makineleri",
+    "description": "Apollo, 2007 yılında kurulan Apollo Construction Equipment Ltd. bünyesinde üretilen sabit formlu beton döşeme makineleri, kuru tip döşeme makineleri, beton boru, menhol sistemleri ve kutu menfez yapma makinesi, kafes kaynak makinesi, kendinden yüklemeli beton mikseri, blok yapma makinesi, kayma formlu döşeme makineleri, hafriyat ekipmanları, yol yapım ekipmanları ve beton ekipmanları gibi inşaat sektörü için karıştırma tesisleri, makineleri ve hizmetleri markasıdır.Apollo Construction Equipment Ltd., 2013 yılında İsviçre merkezli Ammann Schweiz AG tarafından satın alındı. Ürünlerini Hindistan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Miogatto",
+    "description": "Miogatto, 1955 yılında kurulan Morando S.P.A. bünyesinde üretilen kedi, köpek, atlar için mama markasıdır.Morando S.P.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Paypal",
+    "description": "Paypal, 1998 yılında kurulan Paypal Inc. bünyesindeki online ödemeler, mobil ticaret, ödeme güvenliği, para transferleri, sanal ödeme işlemleri, geliştiriciler için para kazanma ve e-ticaret markasıdır.Mobil cihaz aracılığıyla ve mağazada çevrimiçi ödeme yapma ve ödeme alma imkanı sağlar. Dünya çapında 26 para birimi kullanmaktadır.Paypal Inc. Amerika merkezlidir.Daha önce Türkiye’de faaliyet gösteren ancak kanunlara uymadığı için BDDK tarafından başvurusu reddedildiği için 2016 yılında Türkiye’deki faaliyetlerini durdurmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gionee",
+    "description": "Gionee, 2002 yılında Liu Lirong tarafından kurulan Shenzhen Gionee Technology Co. Ltd. bünyesindeki akıllı telefon ve akıllı saatler markasıdır.iflastan sonra, 2018 yılında şirket, Karbonn Mobiles’in ana şirketi olan Hindistan merkezli Jaina Group tarafından satın alındı.Shenzhen Gionee Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Netease Games",
+    "description": "Netease Games, 2001 yılında Netease Limited bünyesinde kurulan bilgisayar istemcisi ve mobil oyunlar markasıdır.Firma bilgisayar yazılımları, çevrimiçi elektronik yayınlar üretmektedir.Netease (Hong Kong) Limited, Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

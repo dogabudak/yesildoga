@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Pickwick",
+    "description": "Pickwick, 2019 yılında iki şirketin birleşmesiyle kurulmuş olan JDE Peet’s NV bünyesindeki çay, meyveli çay markasıdır.JDE Peet’s NV’nin yüzde 60,5 hissesi Lüksemburg merkezli JAB Holding Company S.a r.l. bünyesindeki Acorn Holdings’e ait, yüzde 22,9 hissesi ise Amerika merkezli Mondelez International Inc.’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Violectric",
+    "description": "Violectric, 2009 yılında Lake People Electronic Gmbh bünyesinde üretilen AD, DA dönüştürücü, aksesuarlar, kulaklık, mikrofon amplifikatörleri, mogami kabloları, niimbus, preamplar markasıdır.Lake People Electronic Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Polat Makina",
+    "description": "Polat Makina, 1978 yılında kurulmuş olan Polat Makina San. A.Ş. bünyesindeki zeytinyağı teknolojileri, süt teknolojileri, dehidrasyon ve arıtma, zeytinyağı sürahileri, süt ayırıcılar, zeytinyağı ayırıcılar, endüstriyel ayırıcı, endüstriyel sürahiler, dehidrasyon sürahileri, sıcak su kazanı, vakum pompası, prina ekstraksiyon ünitesi, butik üniteler, sürekli üniteler, modüler proses ünitesi, modüler malaxing ve zeytin taşıma ve yıkama ünitesi markasıdır.Polat Group Holdıng A.Ş. bünyesindeki firma Aydın merkezlidir. Fabrikası 30 bin metrekarelik kapalı alana sahiptir. 44 ülkede 13 grup şirketiyle faaliyet göstermektedir.Bünyesindeki markalar;Mastery In The Heart Of FlowPg PolatgroupPg PumpPgsolutionsPolatPolat Extraction TechnologiesPolat RedüktörPolat Technic",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ABC Deterjan",
+    "description": "ABC, 1972 yılında kurulmuş olan ABC Deterjan Sanayi ve Tic. A.Ş. bünyesinde üretilen çamaşır bakım ürünleri, bulaşık bakım ürünleri, sıvı sabun, sert yüzey temizleyiciler markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ABCHair",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Final Tea",
+    "description": "Final Tea, 1996 yılında Azersun Holdinq MMC şirketler grubu bünyesindeki Sun-Tea çay fabrikasında üretilen çay markasıdır.TSE ISO 9001, TSE ISO 14001, TSE ISO 45001, TSE ISO 22000 belgelerine sahiptir.Azersun Holdinq MMC Azerbaycan merkezlidir ve ürünlerini birçok ülkeye pazarlamaktadır.Bünyesindeki markalar;AzerchayBergaFinalGolden PashaMaryamPurrangi",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  }
+]

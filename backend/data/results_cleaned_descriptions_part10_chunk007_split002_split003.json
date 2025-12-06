@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Yazz",
+    "description": "1954 yılında kurulmuş olan Bayer Türk Kimya San. Tic. Ltd. Şti. bünyesindeki doğum kontrol ilacı markasıdır.Bayer Türk, Almanya merkezli Bayer Weimar GmbH und Co. KG çatısı altındadır ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Wezteck",
+    "description": "2018 yılında Weston Brown tarafından kurulmuş olan Wezteck LLC bünyesindeki programlanabilir saç kesme makineleri ve aksesuarları markasıdır.LCD ekrana sahip makinelerde tek tuşa basarak kademeler seçilebiliyor.Wezteck LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Takıştır",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mummylac",
+    "description": "1999 yılında kurulan İstanbul İlaç Kozmetik Tur. San. ve Tic. Ltd. Şti. bünyesinde üretilen bitkisel damla markasıdır.ISO 9001, ISO 13485, ISO 22000, ISO 22716 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Microbonk",
+    "description": "2016 yılında kurulmuş olan Neupharma İlaç Kozmetik ve Medikal San. Ltd. Şti. bünyesindeki takviye edici gıdalar markasıdır.OTC grubu ürünlerinin üretimi Almanya’da gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Honeywell Aerospace",
+    "description": "Honeywell Aerospace, 1938 yılında kurulan uçak motorları, aviyonik, yardımcı güç üniteleri, kara kutular, uydular, uzay ekipmanları ve diğer havacılık ürünleri markasıdır.Uzay ekipmanları, türbin motoru, yardımcı güç üniteleri, fren, tekerlek, sentetik görüş, pist güvenlik sistemleri ve diğer aviyonik ürünleri üretmektedir.Amerika merkezli Honeywell International Inc.’in bir bölümüdür.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kern",
+    "description": "Kern, 1844 yılında Mechanikus Gottlieb tarafından kurulan Kern & Sohn Gmbh bünyesinde üretilen hassas terazi markasıdır.Ürün yelpazesi endüstriyel teraziler, laboratuvar terazileri, test ağırlıkları ve DAkkS kalibrasyonları olmak üzere tüm tartım tekniklerni içermektedir.ISO 9001 belgesine sahiptir.Kern & Sohn Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Precisa",
+    "description": "Precisa, 1935 yılında Ernst Jost tarafından kurulan Precisa Gravimetrics AG bünyesinde üretilen laboratuvar ve endüstri için tartılar ve analitik araçlar markasıdır.Ürün yelpazesinde yarı mikro tartılar, analitik tartılar, hassas tartılar, endüstriyel ölçekler, nem analizörleri, kül analizörleri ve aksesuarları yer almaktadır.ISO 9001 belgesine sahiptir.Precisa Gravimetrics AG İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "HF Scientific",
+    "description": "HF Scientific, 1874 yılında Joseph Watts tarafından kurulan Watts Water Technologies, Inc. bünyesindeki su kalitesi ölçüm çözümleri markasıdır.Çeşitli uygulamalarda su kalitesini izlemek için kullanılan enstrümantasyon, test kitleri ve kimyasal reaktifler üretmektedir.Watts Water Technologies, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Novagent",
+    "description": "Novagent, Novagent Dış Tic. Ltd. Şti. bünyesindeki çekerocaklar, güvenlik dolapları, laboratuvar mobilyaları, laboratuvar tezgahları, laboratuvar servis üniteleri, laboratuvar aksesuarları, laboratuvar malzemeleri, silindir gaz dolapları, asit dolapları, baz dolapları, kimyasal madde dolapları, tezgah altı dolaplar, çalışma tezgahları, laboratuvar çalışma tezgahları, laboratuvar servis kolonları, laboratuvar servis duvarları, laboratuvar sandalyeleri, laboratuvar lavaboları, laboratuvar tüp askıları, laboratuvar sabunlukları markasıdır.OHSAS 18001, DIN EN ISO 14001 DIN EN ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

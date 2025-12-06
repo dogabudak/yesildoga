@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bonherre",
+    "description": "Bonherre2016 yılında kurulmuş olan Bon İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki erkek kişisel bakım, tıraş malzemeleri alışveriş sitesi markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Going Zeero",
+    "description": "2023 yılında kurulmuş olan Zeero Kozmetik ve Gıda San. ve Tic. A.Ş. bünyesindeki ev temizlik ürünleri markasıdır.Bitkisel içerikli ürünleri plastik ambalaj içermez.Firma İstanbul merkezlidir.Bünyesindeki markar;Büyük Dedemin BallarıGoing ZeeroJardin NaturelKuatraRoseceZubio",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-02-18"
+  },
+  {
+    "company": "Manche",
+    "description": "Manche2014 yılında kurulmuş olan Manche Mağazacılık San. ve Tic. Ltd. Şti. bünyesindeki bluz, ceket, elbise, eşofman, gömlek, hırka, kaban, kazak, kimono, mont, pantolon, parfüm, seamless, sweatshirt, şort, tayt, tişört markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Heidelberg Materials",
+    "description": "Heidelberg Materials1873 yılında kurulmuş olan Heidelberg Materials AG bünyesinde üretilen çimento ve hazır beton, doğal taş agregaları, taş parçaları ve kırma taşlardan oluşan ezilmiş agregalar, prekast beton parçalar, kum, çakıl, asfalt markasıdır.Heidelberg Materials AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "ZzzQuil",
+    "description": "ZzzQuil1837 yılında kurulmuş olan Procter & Gamble Co. bünyesinde üretilen tıbbi takviyeler, çocuk takviyeleri markasıdır.Procter & Gamble Co. Amerika merkezlidir. Türkiye’de Procter Gamble Tüketim Malları San. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

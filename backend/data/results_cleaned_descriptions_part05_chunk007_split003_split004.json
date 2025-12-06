@@ -1,0 +1,45 @@
+[
+  {
+    "company": "South Surveying",
+    "description": "South Surveying, 1989 yılında kurulan South Surveying & Mapping Technology Co. Ltd. bünyesindeki bilgi teknolojisi ve hizmetleri markasıdır.Yüksek hızlı demiryolu ölçümü, İHA sistemi, mobil lazer tarama, hassas konum hizmeti, GIS yazılımı için Ar-Ge teknolojisi geliştirmektedir. Hizmeti; anket ekipmanı, hassas ölçüm sistemi, veri süreci projesi ve akıllı şehir uygulamasını kapsamaktadır.South Surveying & Mapping Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Usher",
+    "description": "Usher, 1972 yılında kurulan Usher Audio Technology bünyesindeki ses amplifikatörleri ve hoparlör sistemleri ve bileşenleri markasıdır.Usher Audio Technology Tayvan merkezlidir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Sram",
+    "description": "Sram, 1987 yılında Stan Day tarafından kurulan Sram LLC bünyesindeki bisiklet bileşenleri, çatal ve amortisörler, vites, fren sistemleri vb. ürünler markasıdır.Sram LLC Amerika merkezlidir.Bünyesindeki markalar;AvidQuarqRockshoxSramTruvativZipp",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rituals",
+    "description": "Rituals, 2000 yılında kurulan Rituals Cosmetics B.V. bünyesindeki saç ve vücut spreyleri, losyonlar, hediyeler, kıyafetler, yüz kremleri, bebek ve anne bakım ürünleri markasıdır.Rituals Cosmetics Enterprise B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Dermanol",
+    "description": "Dermanol, 2008 yılında kurulan Harot Kozmetik Ltd. Şti. bünyesinde üretilen bitkisel masaj kremi markasıdır.Antalya merkezli yerli sermayeli şirket üretimini yaptığı ürünleri çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;DermanolHaremHarem’sIprowKara KatranTroils",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Dexeryl",
+    "description": "Dexeryl, Pierre Fabre Laboratuvarları bünyesindeki el ve vücut için nemlendirici krem markasıdır.1962 yılında kurulan Pierre Fabre Grubu’nun 43 ülkede iştiraki bulunurken, 130’dan fazla ülkede ürünlerini dağıtıyor.Pierre Fabre Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2020-02-12"
+  },
+  {
+    "company": "Siemens",
+    "description": "Siemens, 1847 yılında kurulmuş olan Siemens AG bünyesinde üretilen ocak, fırın, davlumbaz, bulaşık makinesi, çamaşır makinesi, kurutucu, buzdolabı ve dondurucu, elektrikli süpürge, espresso makinesi ve küçük mutfak aletleri markasıdır.Siemens AG 2015 yılından beri Almanya merkezli Bosch Group’a ait olan BSH Home Appliances Group bünyesindedir.Hissedarları:Robert Bosch Vakfı (yüzde 94)Bosch Ailesi (yüzde 6)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-12-02"
+  },
+  {
+    "company": "Restorex",
+    "description": "Restorex, 2002 yılında Cihat Dündar tarafından kurulan Bi’ota laboratuvarlarında, üretilen şampuan markasıdır.Restorex ürünlerinin testleri Almanya Dermatest Laboratuvarları tarafından gerçekleştirilmektedir.Türk firması Bi’ota laboratuvarları ürünleri 42 ülkede satışa sunuluyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-12-30"
+  },
+  {
+    "company": "Goldsun",
+    "description": "Goldsun, 1991 yılında kurulan Çukurova Isı bünyesindeki kısa dalga infrared ısıtıcısı markasıdır.Ürünlerinde kullanılan ampül dışındaki bütün parçalar ve tasarım Çukurova Isı’ya aittir ve ürünleri Made in Turkey damgasını taşımaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Natracare",
+    "description": "1989 yılında kurulmuş olan Bodywise Limited bünyesindeki hijyenik pedler, tamponlar markasıdır.Ürünlerinde sadece organik ve doğal materyaller kullanılmaktadır.Bodywise Limited İngiltere merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2025-04-16"
+  }
+]

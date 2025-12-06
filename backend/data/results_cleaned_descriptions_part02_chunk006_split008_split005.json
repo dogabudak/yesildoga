@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Fancl",
+    "description": "Fancl, 1980 yılında kurulan FANCL International, Inc. bünyesindeki kozmetik ve cilt bakım ürünleri markasıdır.Koruyucu içermeyen cilt bakımı ve kozmetik ürünleri üretmektedir.FANCL International, Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Saf Holland",
+    "description": "Saf Holland, 1881 yılında kurulan SAF-HOLLAND S.A. bünyesindeki ticari kamyon, traktör, römork, otobüs ve karavan gibi araçların orijinal parçaları ile satış sonrası parçaları markasıdır.Avrupa’daki ticari araç pazarının en büyük bağımsız tedarikçisidir ve dünya pazarlarının çoğunda bulunmaktadır.Ürün yelpazesi aks ve süspansiyon sistemleri, beşinci tekerlekler, kingpins ve iniş takımlarından oluşur.SAF-HOLLAND S.A., Lüksemburg merkezlidir.Bünyesindeki markalar:SAFHOLLANDNEWAYSAF-HOLLANDCORPCO",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Coretronic",
+    "description": "Coretronic, 1992 yılında kurulan Coretronic Corporation bünyesindeki DLP projektörler, İnteraktif Projeksiyon Sistemi, Sürükleyici Eğri Dokunmatik Sistem, Görüntü Sinyal İşlemkutusu, Projeksiyon Modülü, PoE Güç Kaynağı, Giyilebilir Ekran, Spektrometre, Işık Kılavuzu Plakası(LGP), LCD Arka Işık Modülü, Optik Bileşen, Kesintisiz Ekran, Ultra İnce Çift Ekran, Dokunmatik Modül, Endüstriyel ve Tıbbi Ekran, Tıbbi Muayene Cihazı markasıdır.Coretronic Corporation Tayvan merkezli endüstriyel ve tıbbi LCD ekran üreticisidir.Bünyesindeki markalar:OptomaNuForce",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Himax Technologies",
+    "description": "Himax, 2001 yılında kurulan Himax Technologies, Inc. bünyesindeki yarı iletken markasıdır.Himax Technologies Limited, Cayman Adaları Şirketler Kanunu kapsamında bir holding olarak işlev görür.TV’lerde, dizüstü bilgisayarlarda, monitörlerde, cep telefonlarında, tabletlerde, dijital fotoğraf makinelerinde, araç navigasyonunda, sanal gerçeklik (VR) cihazlarında ve diğer tüketici elektroniği cihazlarında kullanılan ekran sürücüsü entegreleri ve zamanlama denetleyicilerinde dünya çapında bir pazar lideridir. Ayrıca, dokunmatik sensör ekranlar, hücre içi Dokunmatik ve Ekran Sürücüsü Entegrasyonu (TDDI) tek yonga çözümleri, LED sürücü entegreleri, güç yönetimi entegreleri, monitörler ve projektörler için ölçeklendirici ürünleri, kişiye özel video için denetleyiciler tasarlar.Himax Technologies Tayvanlı şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Goldtool",
+    "description": "Goldtool, 1991 yılında kurulan Goldsun Electronics bünyesindeki lan kablo test cihazları, elektronik, bilgisayar, telekomünikasyon ve çeşitli kendin yap araçları markasıdır.Asya, Avrupa, Orta Doğu ve Amerika’da 60 ülkede faaliyet göstermektedir.Goldsun Electronics Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

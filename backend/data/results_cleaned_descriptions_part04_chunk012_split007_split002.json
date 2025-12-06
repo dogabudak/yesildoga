@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Julius Blum",
+    "description": "Julius Blum, 1952 yılında Julius Blum tarafından kurulan Blum GmbH bünyesindeki dolap ve mobilya endüstrisi için menteşe, kaldırma ve koşucu sistemleri ve uygun montaj araçları markasıdır.Blum uluslararası bir mobilya donanım üreticisidir.Blum GmbH Avusturya merkezlidir ve üretim tesisleri Avusturya, ABD, Polonya ve Brezilya’da bulunmaktadır. Ürünleirini 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Aslı Börek",
+    "description": "Aslı Börek, 1994 yılında kurulan Atılım Unlu Mamülleri San. Tic. A.Ş. bünyesindeki pastane zinciri markasıdır.İstanbul’da 15 bin metrekarelik kapalı modern üretim tesisine sahiptir.Aslı Börek, 2021 yılında Eksim Holding’in iştiraki Eksun Gıda, tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sunny Dates",
+    "description": "Sunny Dates, 2010 yılında kurulan Yousef Abdul Latif and SonsAgriculture Ltd (YALA) tarafından 2015 yılında kurulan Kafile Gıda İnş.San. ve Tic. Ltd. Şti. bünyesindeki hurma markasıdır.Şirket gayrimenkul, inşaat, otelcilik, ilaç ve teknoloji gibi çeşitli endüstrilerde yatırımları bulunan Suudi Arabistan merkezli Yousef Abdul Latif Jameel Group Co. Ltd.’nin bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SA",
+    "updated_date": null
+  },
+  {
+    "company": "Zubio",
+    "description": "Zubio, 2020 yılında kurulan Dar Kozmetik Tic. Ltd. Şti. bünyesinde üretilen prebiyotik diş macunu, diş eti bakımı diş macunu, çocuk diş macunu markasıdır.Ürünlerinin tamamı doğal içeriklidir, organik sertifikalıdır.Ürünleri SLS/SLES, gluten, alkol, tatlandırıcı, sentetik koku, PEG, boyar madde, koruyucu, fornaldehit içermez.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-01-13"
+  },
+  {
+    "company": "Royal Sluis",
+    "description": "Royal Sluis, Svs Holland B.V. bünyesindeki sebze ve çiçek tohumları, peletlenmiş sebze ve çiçek tohumları, taze meyveler, sebzeler ve çiçekler markasıdır.Svs Holland B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

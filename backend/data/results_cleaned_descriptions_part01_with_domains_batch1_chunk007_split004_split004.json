@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hirox",
+    "description": "Hirox, 1978 yılında kurulan lens ve optik sistem üreticisidir.Japon Hirox Co Ltd. şirketi bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Hella",
+    "description": "Hella, 1899 yılında Sally Windmüller tarafından kurulan otomotiv parça tedarikçisidir.Hella KGaA Hueck & Co. Almanya merkezli; otomotiv endüstrisi için aydınlatma ve elektronik bileşenler ve sistemler geliştirmekte ve üretmekte olup, aynı zamanda Avrupa’daki otomotiv parçaları, aksesuarları, teşhis ve hizmetleri için en büyük ticaret organizasyonlarından birine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mahle",
+    "description": "Mahle, 1920 yılında kurulan otomotiv sektörü tedarikçisidir.İçten yanmalı motorlar için gerekli sistem ve yedek parçaları, piston sistemleri, silindir parçaları, supap sistemleri, hava ve sıvı filtre sistemlerinin tedarikçisidir.Alman firması Mahle GmbH 2011 yılında Türkiye’de faaliyet gösteren ve Motor parçaları üretimi yapan Mopisan firmasının tüm hisselerini satın almıştır.Alman şirketin bünyesindeki markalar:BRAIN BEEBehrCleviteIzumiKnechtMAHLEMetal Leve",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Regus",
+    "description": "Regus, 1989 yılında Mark Dixon tarafından kurulan IWG plc bünyesindeki çalışma alanı sağlayıcısı markasıdır.Büyük plazaların tamamını kiralayıp alanlara bölerek küçük şirketlere ve freelance çalışan kişilere kiralarlar.İngiliz girişimci Mark Dixon tarafından 1989 yılında Belçika’da kurulan Regus, 2002 yılında yüzde 58 oranındaki hakim hisselerini sattı. Regus, İsviçreli IWG Plc bünyesindedir ve Jersey merkezli bir çalışma alanı şirketidir.Regus’un müşterileri arasında multimilyon dolarlık şirketler bulunmaktadır. Türkiye pazarına 1999 yılında girdi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2021-01-22"
+  },
+  {
+    "company": "Schaeffler",
+    "description": "Schaeffler, 1946 yılında Dr. Wilhelm ve Dr.-Ing. E. h. Georg Schaeffler kardeşler tarafından kurulan aile mülkiyetinde olan en büyük teknoloji şirketlerinden biridir.Alman Schaeffler Grubu, entegre otomotiv endüstrisinde küresel çapta lider bir tedarikçi konumundadır. Türkiye’deki faaliyetlerine 1986 yılında kurulan İNA Rulmanları Tic. Ltd. Şirketi ile başlarken, FAG Markası da 1986 yılında FAG Rulmanları Türkiye İrtibat Ofisi’ni kurmuştur. INA ve FAG Markaları, Schaeffler KG çatısı altında yer alırlar. 2007 yılında firmalar Schaeffler Rulmanları Tic. Ltd. Şirketi olarak değiştirilmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

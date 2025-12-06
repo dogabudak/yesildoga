@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kyota",
+    "description": "Kyota2004 yılında kurulmuş olan Infinite Creative Enterprises Inc. bünyesindeki masaj koltukları markasıdır.Infinite Creative Enterprises Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Meiko",
+    "description": "Meiko1927 yılında kurulmuş olan MEIKO Maschinenbau GmbH & Co. KG bünyesinde üretilen endüstriyel çamaşır makineleri ve sistemleri, konveyör sistemleri, gıda sistemleri, temizlik ve dezenfeksiyon teknolojisi ve geçmeli havuz klimaları markasıdır.MEIKO Maschinenbau GmbH & Co. KG Almanya merkezlidir. 30’dan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Samvardhana Motherson",
+    "description": "Motherson1975 yılında kurulmuş olan Samvardhana Motherson International Ltd. bünyesinde üretilen otomobil parçaları markasıdır.Otomotiv endüstrisinde, dış dikiz aynalarının, kablo demetlerinin ve polimer modüllerinin üreticisidir.Samvardhana Motherson International Ltd. Hindistan merkezlidir.Hissedarları:Shri Sehgal Trustee Co. Pvt Ltd. (yüzde 13,7)Vivek Chaand Sehgal (yüzde 12,9)Renu Alka Sehgal (yüzde 12,4)Sumitomo Electric Industries Ltd. (yüzde 9,8)Radha Rani Holdings Pte Ltd. (yüzde 7,61)Nippon Life India Asset Management Ltd. (yüzde 2,15)Kotak Mahindra Asset Management Co. Ltd. (yüzde 1,65)Uti Asset Management Co. Ltd. (yüzde 1,65)Motherson Engineering Research & Integrated Tech Ltd. (yüzde 1,64)Dsp Asset Managers Pvt. Ltd. (yüzde 1,53)",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Kawa Jıl",
+    "description": "2007 yılında kurulan Nehir Balıkçılık Malzemeleri San. Tic. ve Paz. Ltd. Şti. bünyesindeki şamandıra, mantar, fırdöndü, klips, çeliktel, hazır takım, çapari, kafa lambası, fener, kamış, kepçe, livar, pinter, misina, ip, sazan aksesuarları, takım çantası, kutu, yapay yemler ve aksesuarlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Geisha Jeans",
+    "description": "Geisha2001 yılında Mark Jessurun tarafından kurulmuş olan GSH Webshop B.V. bünyesindeki bluz, ceket, elbise ve tulumlar, etek, kazak ve hırkalar, kot, miniler, pantolon, tişört markasıdır.GSH Webshop B.V. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

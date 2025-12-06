@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Pinkberry",
+    "description": "Pinkberry, 2005 yılında kurulan Shelly Hwang ve Young Lee tarafından kurulan Dondurulmuş yoğurt, Smoothies, Meyve Parfesi ve Taze Meyve Kasesi markasıdır.Taze meyveler, çikolatalar, gevrekler, kuruyemiş çeşitleri, bal ve pekmez gibi 30’dan fazla ek lezzetlere sahiptir.Pinkberry, 1979 yılında Hong Kong asıllı Stanley Ma tarafından kurulan Kanada merkezli MTY Food Group Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Mojue",
+    "description": "Mojue, 1983 yılında kurulan Tesan İletişim A.Ş. bünyesindeki bilgi ve iletişim teknolojileri ürünleri markasıdır.Türkiye başta olmak üzere 20’den fazla ülkede ürünleri satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Shake Shack",
+    "description": "2004 yılında Danny Meyer tarafından kurulmuş olan Shake Shack Enterprises LLC bünyesindeki restoran zinciri markasıdır.Ürünleri arasında burger, sosisli sandviç, dondurulmuş muhallebi, shake ve alkollü içecekler yer almaktadır.LGBTQ kapsayıcı politikaları nedeniyle ödül almıştır.Shake Shack Enterprises LLC Amerika merkezlidir. Shake Shack, aralarında Union Square Cafe, Gramercy Tavern, The Modern gibi Danny Meyer’a ait Union Square Hospitality Group’un (USHG) bir parçasıdır. Dünya çapında 400’den fazla noktaya sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-06-03"
+  },
+  {
+    "company": "Okyanus Mineral Madencilik",
+    "description": "Okyanus Mineral Madencilik Sanayi ve Ticaret A.Ş., 2014 yılında Ocean Partners Holdings Limited bünyesinde Türkiye’de kurulmuştur.Ocean Partners, Kanada, Şili, Çin, Kıbrıs, Meksika, Moğolistan, Hollanda, Peru, Tayvan, Türkiye, Birleşik Krallık ve ABD dahil olmak üzere birçok ülkede faaliyet gösteriyor ve Arjantin, Avustralya, Bolivya, Brezilya, Şili, Ekvador, Hindistan, Japonya, Güney Afrika, Güney Kore, Orta / Doğu Avrupa ve eski Sovyetler Birliği ülkelerinde acentelik temsilciliğini sürdürüyor.Ocean Partners Holdings Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Celine",
+    "description": "Celine, 1945 yılında Celine Vipiana tarafından kurulan hazır giyim ve deri lüks eşya markasıdır.1996 yılında dünyanın dört bir yanında 60 alt şirketi ile faaliyet gösteren en büyük lüks tüketim malları üreten gruplarından LVMH Louis Vuitton S.A. tarafından satın alındı.LVMH, Fransa merkezli bir holdingtir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

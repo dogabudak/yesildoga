@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Fix Dessert Chocolatier",
+    "description": "“Fix Dessert Chocolatier“2021 yılında Sarah Hamouda ve Nouel Catis Omamalin tarafından kurulmuş olan Fix Dessert Chocolate L.L.C. bünyesinde üretilen çikolata markasıdır.Fix Dessert Chocolate L.L.C. BAE merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Decostone",
+    "description": "“Decostone“1994 yılında kurulmuş olan Decostone Yapı Kimyasalları San. Tic. Ltd. Şti. bünyesindeki astar, derz dolgu, epoksi, ısı yalıtımı, sızdırmazlık ürünleri, su yalıtımı, yapıştırıcı, yardımcı ürünler markasıdır.ISO 9001, TSE, CE belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Donper",
+    "description": "“Donper“2002 yılında kurulmuş olan Hubei Donper Electromechanical Group Co. Ltd. bünyesinde üretilen soğutma kompresörü üretimi, ticari soğutma makineleri markasıdır.Hubei Donper Electromechanical Group Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Lagash",
+    "description": "“Lagash“1994 yılında kurulmuş olan Renatus Gıda Dağıtım ve Pazarlama A.Ş. bünyesinde üretilen çiğ köfte markasıdır.İçerisinde et olmayan çiğ köfte; bulgur, isot, salça, soğan, maydanoz ve çeşitli baharatların karıştırılmasıyla üretilmektedir.ISO 9001, ISO 10002, ISO 14001, ISO 45001 Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Klingspor",
+    "description": "“Klingspor“1893 yılında kurulmuş olan Klingspor AG bünyesinde üretilen kaplamalı aşındırıcı, kesme tekerlekler, taşlama diski, aşındırıcı paspas diski, aşındırıcı paspas tekerlekler ve elmas aletler markasıdır.Klingspor AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

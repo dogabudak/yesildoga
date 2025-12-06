@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Litamin",
+    "description": "1836 yılında kurulmuş olan Burnuscare Gmbh bünyesinde üretilen cilt ve vücut bakım ürünleri markasıdır.Burnuscare Gmbh Almanya merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nstbio",
+    "description": "2013 yılında kurulmuş olan Nstbio Co. Ltd. bünyesindeki soğuk demleme kahvesi, soğuk brew tea & bitkar, kırmızı ginseng, mikro öğütme kahve ve ginseng markasıdır.ISO 9001, FSSC 22000, HALAL, HACCP, GMP belgelerine sahiptir.Nstbio Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Barenmarke",
+    "description": "1932 yılında kurulmuş olan Hochwald Foods Gmbh bünyesinde üretilen süt ürünleri markasıdır.Hochwald Foods Gmbh Almanya merkezlidir ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sanipack Solutions",
+    "description": "2014 yılında kurulmuş olan Sanipack Solutions Amb. ve Sağ. Ürünleri San. Tic. A.Ş. bünyesinde üretilen ambalaj ve sağlık ürünleri markasıdır.ISO 9001, ISO 13485 belgelerine sahiptir.Firma Ankara merkezlidir ve ürünlerini 2 bin metrekarelik üretim tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "John Frieda",
+    "description": "1887 yılında Tomiro Nagase tarafından kurulmuş olan Kao Corporation bünyesinde üretilen saç güzellik ve bakım ürünleri markasıdır.Kao Corporation Japonya merkezlidir.Bünyesindeki markalar;Bio-Oil",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Aquax",
+    "description": "Aquax, 2017 yılında kurulan Colorkim Kimya Ltd. Şti. bünyesinde üretilen boyama, baskı ve apre fabrikaları için çevre dostu tekstil kimyasalları markasıdır.Farklı polimer, tekstil, özel kimyasallar, analitik test aletleri ve uygulama prosesleri tedarik eden İstanbul merkezli kimya şirketidir.Bünyesindeki markalar;AquaxAquaxpColorkimColorpolColorprintPerxPhPtf",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Epilla",
+    "description": "Epilla, 2006 yılında kurulan T&M Özel Sağlık Hiz. Medikal İnş. Turizm San. ve Tic. Ltd. Şti. bünyesindeki tüy dökücü ürünler ve cihazlar markasıdır.Ürünlerini İstanbul’da üretmektedir. TS EN ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sendem",
+    "description": "Sendem, 2007 yılında kurulan Shenzhen Sendem Technology Co. Ltd. bünyesinde üretilen kontrollü kulaklık, bluetooth kulaklık, mobil güç kaynakları, şarj cihazları, veri kabloları markasıdır.Shenzhen Sendem Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hantech",
+    "description": "Hantech, 2011 yılında kurulan Ananda Gmbh bünyesindeki klima, ısıtıcı, fan, hava arıtma ürünleri, lamba ve aletler markasıdır.Hantech, hafif ticari klima ürünleri yelpazesi Mono ve multi-split sistemlerini kapsamaktadır.Ananda Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Jetta",
+    "description": "Jetta, 1937 yılında kurulan Disco Corporation bünyesinde üretilen güçle çalışan aşındırıcı tekerlekler ve elmas kesme aletleri, bıçaklar, matkaplar markasıdır.Yarı iletken silikon gofretleri ve diğer malzemeleri kesmek için kesme testereleri ve lazer testereleri, silikon ve bileşik yarı iletken gofretleri ultra ince seviyelere işlemek için öğütücüler, gofretin arka tarafındaki taşlama hasar tabakasını çıkarmak ve talaş mukavemetini arttırmak için parlatma makineleri üretmektedir.Disco Corporation Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Paltoi",
+    "description": "2013 yılında kurulmuş olan Atelier Toi Turizm Tic. Danışmanlık Tic. Ltd. Şti. bünyesindeki giyim markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Deniport",
+    "description": "Ulaş Yumurtaş – Deniport Dış Ticaret bünyesindeki termal pad ve termal macun markasıdır.Firma Denizli merkezlidir.Bünyesindeki markalar;DeniportIce DragonPullwarkUlaş Yumurtaş – Deniport Dış Ticaret :",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ceylift",
+    "description": "2011 yılında Ceylan Group bünyesinde üretilen istifleme makineleri markasıdır.Firma Adana merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sensil",
+    "description": "1969 yılında kurulan Nilit Ltd. bünyesindeki kompresyon giyim ürünleri markasıdır.Nilit Ltd. İsrail merkezlidir ve ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Selmark",
+    "description": "1975 yılında Amador Perez tarafından kurulmuş Selmark SL bünyesindeki iç giyim markasıdır.Selmark SL İspanya merkezlidir ve ürünlerini 60’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

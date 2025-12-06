@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Libreoffice",
+    "description": "Libreoffice, 2010 yılında kurulan The Document Foundation bünyesinde üretilen ücretsiz ve açık kaynaklı bir ofis üretkenliği yazılım paketidir.LibreOffice paketi, kelime işlem, elektronik tablolar, slayt gösterileri, diyagramlar ve çizimlerin oluşturulması ve düzenlenmesi, veritabanlarıyla çalışmave matematiksel formüller oluşturma programlarından oluşur. 115 Dilde mevcuttur.Dijital uçurumu ortadan kaldırmaya ve herkesi tam vatandaş olarak güçlendirmeye, ana dillerin korunmasını desteklemeye ve özel yazılım ve format kilitlemesinden kaçınmaya çalışmaktadır.The Document Foundation Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Open Office",
+    "description": "Open Office, 1999 yılında kurulan Apache Software Foundation bünyesinde üretilen açık kaynaklı bir ofis üretkenliği yazılım paketidir.Kelime işlemci, elektronik tablo, sunum uygulaması, çizim uygulaması, formül düzenleyicisi ve veritabanı yönetim uygulaması içerir.Apache Software Foundation Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "By Şeker",
+    "description": "By Şeker Nerenin Malı MarkasıBy Şeker, 2010 yılında kurulan Modis Yapı Mimarlık Mühendislik İnşaat Sağlık Hizmetleri Nakliye ve Gıda San. Dış Tic. Ltd. Şti. bünyesinde üretilen küp şeker markasıdır.Ürünlerini yüzde yüz şekerpancarından üretmektedir.Firma Rize merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Anthofit",
+    "description": "Anthofit, 1984 yılında kurulan Anthogyr Group bünyesinde üretilen implant sistemleri, implantoloji, cerrahi ve genel diş hekimliği ekipmanları, dijital çözümler markasıdır.Anthogyr Group, 2019 yılında İsviçre merkezli Institut Straumann AG tarafından satın alındı. Ürünlerini Fransa’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Cossta Cosmetic",
+    "description": "Cossta Cosmetic, 2001 yılında kurulan Him Kozmetik İlaç ve Gıda San. Tic. A.Ş. bünyesindeki kişisel bakım ve güzellik mağazaları markasıdır.12 şehirde bulunan 30’dan fazla mağazası ile güzellik, kozmetik, sağlık ve kişisel bakım ürünleri sunmaktadır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

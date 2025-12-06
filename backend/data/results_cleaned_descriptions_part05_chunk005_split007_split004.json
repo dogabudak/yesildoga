@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ekiz Yağ",
+    "description": "Ekiz Yağ Nerenin Malı MarkasıEkiz Yağ, 1946 yılında kurulan zeytin yağı, ayçiçek ve mısır yağı markasıdır.2014 yılından beri Küçükbay Yağ ve Deterjan San. A.Ş. bünyesindedir.Firma İzmir merkezlidir.Bünyesindeki markalar;AbideAkideÇilliDalyanDünya Bizim MutfağımızDünya MutfaklarıEkizEmreHakanHürHürpakIdeal OrkideKandilliKaşKezbanKüçükbayMantikMavişMutfak Bizim DünyamızNimpakNinemNinempakNinpakNurNursunObaOkşarOrchidOrchideaOrchideeOrkideOrkide7OrkidemOyaÖdülReySalatamSerçeSevilSqualenekizSümbülYeni Orkide",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Altın Vadi",
+    "description": "Altın Vadi Nerenin Malı MarkasıAltın Vadi, 1999 yılında kurulan Küp Yağ San. ve Tic. A.Ş. bünyesinde üretilen zeytinyağı ve zeytin ürünleri markasıdır.Ürünlerini Aydın’da 10 bin metrekarelik alanda bulunan fabrikasında üretmektedir. ISO 9001 ve Organik belgelerine sahiptir.Firma ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Douwe Egberts",
+    "description": "Douwe Egberts, 1753 yılında kurulan Koninklijke Douwe Egberts B.V bünyesindeki kahve, çay markasıdır.Koninklijke Douwe Egberts B.V, 2019 yılında Peet’s Coffee ve Jacobs Douwe Egberts’in birleşmesiyle kurulan Hollanda merkezli JDE Peet’s NV bünyesindedir.JDE Peet’s NV’nin yüzde 60,5 hissesi Reimann ailesinin kontrolündeki Lüksemburg merkezli JAB Holding Company S.à r.l. bünyesindeki Acorn Holdings’e ait olup, yüzde 22,9 hissesi Amerika merkezli Mondelez International Inc.’e aittir ve kalan 16,6 hissesi halka açıktır.Bünyesindeki markalar;Café HagCafitesseDouwe EgbertsJacobsL’ORMaxwell HouseMocconaNatreenPiazza D’OroPickwickPromessoSenseoSplendidTassimo",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Muud Müzik",
+    "description": "Muud, 2012 yılında Türk Telekomünikasyon A.Ş. bünyesindeki TTNET A.Ş. tarafından üretilen dijital müzik dinleme ve indirme servisidir.Anlaşmalı müzik şirketlerine ait 5 milyona yakın yerli ve yabancı şarkılar Muud web sitesi veya mobil uygulamaları üzerinden dinlenebilmektedir. Ücret ödeyen üyeler ise her ay belli sayıda şarkıyı indirebilmektedir. Türk Telekom üyesi olmayan kullanıcılarda misafir kullanıcı olarak şarkılara ulaşabilmektedir.Türk Telekom’un yüzde 55 hissesi Levent Yapılandırma Yönetimi A.Ş.’ye, yüzde 25 hissesi Türkiye Hazine Müsteşarlığı’na, yüzde 5 hissesi Türkiye Varlık Fonu’na aittir ve yüzde 15 hissesi halka açıktır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eslem Çikolata",
+    "description": "Eslem Çikolata, 2012 yılında kurulan Eslem Çikolata San. ve Tic. Ltd. Şti. bünyesinde üretilen çikolata markasıdır.Ürünlerini Sakarya’da bulunan bin metrekarelik kapalı alanda üretmektedir ve 30 ülkeye ihraç etmektedir. Helal ve ISO 22000 belgelerine sahiptir.Bünyesindeki markalar;Doctor CreamEslem ÇikolataEslem Joy-OMister CreamStilier’s",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

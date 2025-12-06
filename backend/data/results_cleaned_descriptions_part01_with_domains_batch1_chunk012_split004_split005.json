@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Koala Oto Koltuğu",
+    "description": "Koala, 2007 yılında İtameks bünyesinde kurulan çocuk güvenlik koltuğu markasıdır.İtameks, 1982 yılında ilk markası olan Pufi ile koltuk kılıfı üretimine başladı. Farklı malzeme ve prosesten otomobil paspası üretmektedir.Dilovası’ndaki fabrikası Avrupa’nın en büyük paspas üretim merkezidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pedigree",
+    "description": "Pedigree, 1957 yılında kurulmuş olan Pedigree Petfoods Ltd. bünyesindeki evcil hayvanlar için kuru mama, yaş mama ve ödül maması markasıdır.Pedigree Petfoods Ltd. Amerika merkezli Mars Incorporated bünyesindedir. Türkiye’de Mars Gıda Ürünleri Tic. Ltd. Şti. iştirakiyle faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-12-04"
+  },
+  {
+    "company": "Max Extra",
+    "description": "Max Extra markalı ürünler Numan Özkara Mak. San. Ltd. Şti. tarafından ithal edilmektedir.NINGBO JL MEASURING & TOOL CO., LTD tarafından Max Extra markalı ürünler Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2020-04-28"
+  },
+  {
+    "company": "Vivident",
+    "description": "Vivident, Perfetti Van Melle 2001 yılında Perfetti S.p.A. ve Van Melle BV şirketlerinin birleşmesiyle kurulan şekerleme, sakız üretimi ve dağıtımı yapan şirketin bünyesindeki tatlandırıcılı sakız markasıdır.Vivident, ilk kez 1991 yılında Türkiye pazarına girdi. Bitki özlü, meyve suyu içeren mikrodraje, sıvı dolgulu ilk draje sakız ve ilk plastik kutulu ambalaj özelliklerine sahiptir.İtalyan şirket Perfetti Van Melle, Rusya, Sri Lanka, Bangladeş, İspanya, Hindistan, Vietnam ve Çin’de yeni üretim birimleri kurarak Avrupa ve Asya’daki faaliyetlerini genişletmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Polarn O. Pyret",
+    "description": "Polarn O. Pyret, 1976 yılında Nils Adamsson tarafından kurulan bebek ve çocuk giyim markasıdır.İngiltere, İrlanda, İsveç, Norveç, İzlanda, Hollanda, Estonya, Letonya, Finlandiya ve ABD’de mağazaları vardır.Polarn O. Pyret, İsveç merkezli bir giyim markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Caffeinbox",
+    "description": "Caffeinbox2020 yılında kurulmuş olan Caffeinbox Kafe San. Tic. Ltd. Şti. bünyesindeki kahve restoranları markasıdır.Firma Denizli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Spazio",
+    "description": "Spazio2010 yılında kurulmuş olan Kamil Subaşı Tekstil İthalat İhracat Turizm San. ve Tic. A.Ş. bünyesindeki abiye, bluz, ceket, dış giyim, elbise, etek, pantolon, triko, aksesuar markasıdır.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Münzing",
+    "description": "Münzing1830 yılında kurulmuş olan Münzing Chemie Gmbh bünyesinde üerilen özel katkı maddeleri markasıdır.Köpük gidericiler, dağıtıcılar, reoloji değiştiriciler, emülgatörler, ıslatma ve tesviye maddeleri, mikronize ve kaplanmış balmumlarının yanı sıra balmumu dispersiyonları ve emülsiyonları içeren bu katkı maddeleri üretmektedir.Münzing Chemie Gmbh Almanya merkezlidir. Ürünlerini Almanya, ABD, Avustralya ve Asya’daki üretim tesislerinde üretmektedir. 40’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kumovis",
+    "description": "Kumovis2017 yılında kurulmuş olan Kumovis Gmbh bünyesinde üretilen 3D yazıcı markasıdır.Tıbbi teknoloji şirketi olarak temiz oda entegrasyonuna sahip olan 3 boyutlu yazıcılar üretmektedir. Uygulama alanları küçük serilerden PEEK, PPSU ve PLLA gibi filamentlerden yapılan kişiye özel implantlara ve şablonlara kadar uzanmaktadır.Kumovis Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sonance",
+    "description": "Sonance1981 yılında kurulmuş olan Sonance Inc. bünyesindeki duvar içi hoparlör, subwoofer, amplifikatör, ses kontrolleri, IR tekrarlanabilir kitler ve kablosuz vericiler markasıdır.Sonance Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

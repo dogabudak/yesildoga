@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Terina",
+    "description": "Terina, 2005 yılında kurulan Nortura bünyesindeki dondurulmuş ve konserve gıda et işleme firmasıdır.Terina markasını 2006 yılında Nortura Norveç et işleme şirketi satın aldı.Firmanın bünyesindeki markalar:AlfathiEldhusGildePriorTerinaThulefjord",
+    "documents": [],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": null
+  },
+  {
+    "company": "Kingsoft",
+    "description": "Kingsoft 1988 yılında Kau Pak Kwan tarafından kurulan yazılım şirketidir.Kingsoft Corporation; Video oyun geliştirme için Seasun, mobil internet uygulamaları için Cheetah Mobile, bulut depolama platformları için Kingsoft bulutlar ve ofis yazılımları için WPS markalarını üreten Çin merkezli bir şirkettir.Kingsoft Corporation 2011 yılında Çin merkezli Tencent’e satıldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kahramanlar",
+    "description": "Kahramanlar 1974 yılında alüminyum mutfak gereçleri ithalatı ile üretim hayatına başlayan; Tencere Grubu, Çaydanlıklar, Yanmaz Yapışmaz, Çay Setleri, Ç.K.B. Takımları, Cam Setler, Porselen Grubu, Çay Otomatı, Servis Takımları, Cezveler, Çöp Kovaları, Çift Amaçlı Semaver gibi mutfak ürünleri markasıdır.İki farklı tesiste 7 bin 500 metrekare kapalı alanda üretim yapmaktadır ve ürünlerini 20 ülkeye sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gaz Voda",
+    "description": "Gaz Voda’nın temelleri 1887 yılında meyve özlerinin ilk başta saf suyla seyreltilmesiyle Sovyetler Birliği’ne bağlı Gürcistan’da atıldı.Tarhun otu, vanilya, bergamot, armut, karadut ve nar aromalı, üzümlü, çikolata ve vanilyalı gazoz aromasına sahip çeşitli ürünleri mevcuttur.Gaz Voda, ilk kez Türkiye’ye getiren Syuzana Askarova’dır.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Liquitex",
+    "description": "Liquitex 1955 yılında Henry Levison tarafından kurulan, 2000 yılında Colart Group bünyesine geçen akrilik boya ve sanat malzemeleri markasıdır.Colart Group, İngiltere merkezli bir firmadır. Şirketin İngiltere, Fransa ve Çin’de 10 üretim tesisi bulunmaktadır.Liquitex markasının Türkiye distribütörü Südor boya firmasıdır.Colart Group Bünyesindeki Markalar:Beckers “A”CharbonnelConte a ParisDekorimaElephant ArtLefranc & BourgeoisLetrasetLiquitexReevesSnazarooWinsor & Newton",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

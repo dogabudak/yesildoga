@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hairtamin",
+    "description": "Hairtamin, Hairtamin LLC bünyesinde üretilen şampuan ve saç kremleri, saç vitaminleri markasıdır.Ürünleri koruyucu madde, dolgu maddesi, yapay katkılar, gluten içermez. Hayvanlar üzerinde test edilmemektedir.Hairtamin LLC, Amerika merkezlidir ve ürünleri Amerika’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "International Business Machines",
+    "description": "International Business Machines, bilinen adıyla IBM, 1911 yılında Charles Ranlett Flint tarafından kurulan International Business Machines Corporation bünyesinde üretilen bilgisayar donanımı, yazılımları ve ana bilgisayarlardan nanoteknolojiye kadar çeşitli alanlarda barındırma ve danışmanlık hizmetleri markasıdır.IBM aynı zamanda büyük bir araştırma kuruluşudur.IBM’in icatları arasında otomatik vezne makinesi (ATM), disket, sabit disk sürücüsü, manyetik şeritli kart, ilişkisel veritabanı, SQL programlama dili, UPC barkoduve dinamik rasgele erişim belleği (DRAM) bulunur.International Business Machines Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Byopecia Multiplex",
+    "description": "Byopecia Multiplex, 1994 yılında kurulan Loop Bilişim Yazılım ve Sağlık Hizmetleri Tic. ve San. Ltd. Şti. bünyesindeki saç dökülmesine karşı gıda takviyesi markasıdır.Etken maddelerin tamamında hayvansal yağ veya gıda yoktur. Metilsülfonilmetan, Cüce Palmiye, Darı Tohumu, B1, B2, B3, B5, B6, B12 Vitaminleri, C-E Vitaminleri, Demir, Çinko, At Kuyruğu Ekstresi, L-Sistein, L-Metiyonin, Bal Kabağı Ekstresi, Ginkgo Biloba içerir.Firma İstanbul merkezlidir.Bünyesindeki markalar;Byopecia MultiplexTrichos",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bobel",
+    "description": "Bobel, 2019 yılında kurulan Cosmox Kozmetik San. ve Tic. Ltd. Şti. bünyesindeki saç bakım ürünleri markasıdır.Kuaförler için keratin ve brezilya fönü ihtiyacını karşılayarak ekstra bakım sağlar.Firma İstanbul merkezlidir.Bünyesindeki markalar;BobelBobel IxirOximumProvista",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Balmuda",
+    "description": "Balmuda, 2003 yılında Gen Terao tarafından kurulan Balmuda Inc. bünyesinde üretilen küçük mutfak aletleri, ekmek kızartma makinesi, su ısıtıcı, fener, akılllı telefon markasıdır.Balmuda Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

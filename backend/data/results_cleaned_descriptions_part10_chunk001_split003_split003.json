@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bal Börek Baklava",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Koshin",
+    "description": "1998 yılında kurulmuş olan Ees-Energy-Production-Systems Gmbh bünyesinde üretilen su pompaları, denizcilik ekipmanları, enerji ekipmanları, pompa ve yedek parça markasıdır.Ürün yelpazesinde bahçe pompası, servis suyu pompası, atık su pompası, dalgıç pompalar, yüksek basınç pompalar gibi ürünler yer almaktadır.Ees-Energy-Production-Systems Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hanna Instruments",
+    "description": "1978 yılında kurulmuş olan Hanna Instruments Inc. bünyesindeki ph ölçerler, bulanıklık ölçerler, titrasyon sistemleri, sıralı orp ve klor izleme sistemleri, kimyasal test kitleri, manyetik karıştırıcılar, elektrotlar ve problar ve refraktometreler markasıdır.Hanna Instruments Inc. Amerika merkezlidir ve 34 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Newlong",
+    "description": "1941 yılında kurulmuş olan Newlong Industrial Co. Ltd. bünyesindeki çanta yapma makinesi, çok duvarlı kağıt torba yapımı makinesi, endüstriyel çanta dikiş makinesi, fleksografik baskı makinesi, kare tabanlı alışveriş çantası yapma makinesi, otomatik paketleme sistemleri, otomatik torba dikişi sistemleri, pe torba yapma makinesi, torba kapama makinesi, üst dolgu macunu markasıdır.Newlong Industrial Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Stevis",
+    "description": "2008 yılında kurulmuş olan Stevis Tech. Co. Ltd. bünyesinde üretilen lazer kesim makineleri, kaynak makineleri, pah kırma makineleri, bükme makineleri ve özelleştirilmiş otomatik üretim hatları markasıdır.ISO 9001 belgesine sahiptir.Stevis Tech. Co. Ltd. Çin merkezlidir. ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

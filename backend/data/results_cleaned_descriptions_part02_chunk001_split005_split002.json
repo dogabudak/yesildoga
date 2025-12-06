@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Waterman",
+    "description": "Waterman, 1884 yılında Lewis Waterman tarafından kurulan dolma kalem markasıdır.Dolma Kalem, Roller Kalem, Tükenmez Kalem, mürekkep ve tüm kalemlerinin yedek parçalarının üretimini yapmaktadır.2000 yılından beri Amerikan Newell Brands iştiraki Sanford L.P. şirketi Waterman markasının sahibidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Omega Saat Ülkeye Ait Markadır",
+    "description": "Omega SA, 1842 yılında Louis Brandt tarafından kurulan The Swatch Group bünyesindeki lüks saat markasıdır.Swatch Group saat ve saat mekanizmaları, takı eşyaları, elektronik sistemlerin üretimi ve satışı ve saat endüstrisi ile ilgili diğer alanlarda üretim yapan uluslararası bir firmadır.Swatch Group İsviçre merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2020-05-10"
+  },
+  {
+    "company": "Barry Callebaut",
+    "description": "Barry Callebaut AG, 1996 yılında Callebaut ile Cacao Barry firmalarının birleşmesiyle kurulan çokuluslu kakao ve çikolata üreticisidir.Şirket, endüstriyel gıda üreticilerinden çikolatacılar, pastane şefleri, fırıncılar, oteller, restoranlar veya hazır yemek firmaları gibi çikolatanın zanaatkar ve profesyonel kullanıcılarına kadar gıda endüstrisi için kakao, çikolata ve şekerleme ürünleri üretmektedir.Barry Callebaut İsviçre merkezli şirkettir. Türkiye, Rusya, Çin, Brezilya ve Meksika’da çikolata fabrikaları vardır. 50’den fazla çikolata ve kakao fabrikasını işletmekte ve 30’dan fazla ülkede faaliyet göstermektedir.Hissedarları:Jacobs Holding AG (yüzde 30.1)Renata Jacobs (yüzde 5.00)UBS Asset Management Switzerland AG (yüzde 2.46)Norges Bank Investment Management (yüzde 1.76)The Vanguard Group Inc. (yüzde 1.67)Vontobel Asset Management AG (yüzde 1.62)Credit Suisse Asset Management AG (yüzde 1.43)T. Rowe Price Associates Inc. (yüzde 1.34)Zürcher Kantonalbank (yüzde 1.33)BlackRock Fund Advisors (yüzde 1.18)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2022-05-03"
+  },
+  {
+    "company": "Bonhair",
+    "description": "Bonhair, 1964 yılında İbrahim Göçer tarafından kurulan Ulusoy İlaç ve Kozmetik Sanayi ve Ticaret A. Ş. bünyesindeki şampuan, saç kremi, saç spreyi, jöle, saç düzleştirme ve perma ürünleri, saç losyonları, saç boyaları markasıdır.Konya OSB’de 5 bin metrekarelik bir arsa üzerinde 4 bin 800 metrekarelik kapalı alanda, Bütan / Propan gaz dolumu ünitesi de içeren bir tesiste üretim yapan yerli sermayeli bir firmadır.Bünyesindeki markalar:BİRGÜLBLACKSEABONDROPSBONFRESHBONHAIRBONNİCONBONNYTBULVARMİSKONMOONULUSOY",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dermovate",
+    "description": "Dermovate, 2000 yılında Glaxo Wellcome ve SmithKline Beecham firmasıyla kurulan GSK (GlaxoSmithKline plc) ilaç ve kişisel bakım şirketi bünyesindeki krem ve merhem markasıdır.Türkiye’de Glaxo Smith Kline İlaçları San. ve Tic. A.Ş. olarak faaliyet göstermektedir.GSK bir İngiliz şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

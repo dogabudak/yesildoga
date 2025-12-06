@@ -1,0 +1,54 @@
+[
+  {
+    "company": "No Şuga",
+    "description": "No Şuga Nerenin Malı MarkasıNo Şuga, 1995 yılında kurulan Kervan Gıda San. ve Tic. A.Ş. bünyesindeki şekersiz sakız markasıdır.TSE Helal, AIB, BRC, ISO9001, IFS kalite belgelerine sahiptir.Kervan Gıda Türkiye’nin en büyük yumuşak şeker üreticisidir ve yüzde 100 Türk sermayelidir. Ürünlerini 75 ülkeye ihraç etmektedir.",
+    "documents": [
+      "BRC",
+      "CE",
+      "IFS",
+      "ISO",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-08-09"
+  },
+  {
+    "company": "Maybelline",
+    "description": "Maybelline, 1915 yılında Thomas Lyle Williams tarafından kurulan Maybelline LLC bünyesindeki kozmetik ürünleri markasıdır.Maybelline LLC 1996 yılında L’Oreal tarafından satın alınmıştır.Fransa merkezli L’Oréal S.A.’nın yüzde 23,29 oranındaki hissesi İsviçre merkezli Nestlé S.A.’ya aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2023-11-03"
+  },
+  {
+    "company": "Zerowater",
+    "description": "Zerowater, 2002 yılında kurulan Zero Technologies LLC bünyesindeki su arıtma sürahileri ve filtreleri markasıdır.Gıda sınıfı AS ve ABS plastikleri kullanılarak üretilen sürahi ve filtreleri NSF ve FDA onaylıdır. Florürü yok etmek, fenolleri ve mikrobiyolojik kistleri filtreleme konusunda sertifikalı değildir. Filtrelerinde uranyumu işlemekte yaygın olarak kullanılan malzemeler bulunmaktadır.Zero Technologies LLC Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [
+      "FDA"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Globay",
+    "description": "Globay, 2003 yılında kurulan Antex Tekstil Ayakkabı Hazır Giyim Mağazacılık Tic. ve San. Ltd. Şti. bünyesindeki erkek giyim perakende markasıdır.Damatlık ve Smokin, Takım Elbise, Ceket, Mont ve Kaban, Gömlek, Pantolon, Triko, Tişört, Sweat, Hırka ve Yelek, Ayakkabı ve Aksesuar ürünleri sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Remeha",
+    "description": "Remeha, 1935 yılında kurulurken 2009 yılında BDR Thermea Group şirketine dahil olan, yer, duvar tipi kazanlar ve kombiler markasıdır.Remeha, Avrupa ülkelerinde pazar konumunu güçlendiren, yenilikçi ısıtma sistemleri ve sıcak su sistemleri üreticisidir.BDR Thermea Group Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

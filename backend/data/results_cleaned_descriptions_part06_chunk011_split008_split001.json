@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Beliva",
+    "description": "Beliva, 2001 yılında kurulan Beliva Mutfak Eşyaları Sanayi ve Tic. Ltd. Şti. bünyesindeki elektrikli mini, midi fırın markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AkelBelivaBoğaziçiBörekmatikGümüşolukMotte",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beestar",
+    "description": "Beestar, A101 Yeni Mağazacılık A.Ş. bünyesindeki a4 fon kartonu, cetveller, cetvelli kağıt makası, eva, keçe, metal pergel, plastik korumalı anaokulu makası markasıdır.Cetveller, makaslar ve pergel gibi ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "La Belle",
+    "description": "La Belle, A101 Yeni Mağazacılık A.Ş. bünyesindeki hijyenik pedler markasıdır.Selüloz, emici polymer, polyetilen içermektedir.Ürünler A101 Yeni Mağazacılık A.Ş. adına Hayat Kimya San. A.Ş. tarafından Kocaeli’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Royal Conta",
+    "description": "Royal Conta, 1978 yılında kurulan Royal Conta San. Tic. A.Ş. bünyesinde üretilen makine ve motorlar için silindir metal contalar, metal-elastomer contalar, conta malzemeleri markasıdır.QS 9000 / ISO 9002, ISO 14001, IATF 16949 belgelerine sahiptir.İstanbul merkezli firma Dudullu OSB’de üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hema Pompa",
+    "description": "Hema, 1973 yılında Hattat kardeşler tarafından kurulan Hema Endüstri A.Ş. bünyesinde üretilen aktarma organları, direksiyon ve fren sistemleri, hidrolik kaldırıcılar, hidrolik komponentleri, kontrol valfleri, maden direkleri, motor üniteleri, pompalar ve motorlar, şase ve süspansiyon sistemleri, ticari araç direksiyon sistemleri, transmisyon ve aks sistemleri markasıdır.Otomotiv, Tarım Makineleri, İş Makineleri, Madencilik ve diğer sanayide kullanılan ekipman ihtiyaçlarını karşılamaktadır.Tekirdağ merkezli şirketin Çerkezköy’de 551 bin metrekarelik arazide bulunan 181 bin metrekarelik kapalı alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

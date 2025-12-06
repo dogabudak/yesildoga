@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Thunder",
+    "description": "Thunder, 2008 yılında Tavas Pet ve Sera Pet ortaklığı ile kurulan Lider Petfood Yem San. ve Tic. A.Ş. bünyesinde üretilen kedi ve köpek kuru mama markasıdır.İzmir merkezli firma ürünlerini Manisa’da bulunan 2 tesiste toplam 41 bin metrekarelik alanlarda üretmekte ve 52 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Grace Cole",
+    "description": "Grace Cole, 2007 yılında Tracy Mort tarafından kurulan Cole Beauty Ltd. bünyesindeki banyo, vücut ve ev koku ürünleri, cilt bakım ürünleri markasıdır.Ürünleri Paraben, SLS, slikon içermez. Hayvanlar üzerinde test edilmemektedir.Cole Beauty Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Montibello",
+    "description": "Montibello, 1967 yılında Francesc Adam tarafından kurulan Cosmetica Cosbar S.L. bünyesindeki parfüm, kozmetik ve saç ürünleri markasıdır.Şirket kişisel bakım ürünleri; parfüm, kozmetik ve diğer tuvalet preparatları üretmektedir.Cosmetica Cosbar S.L. İspanya merkezlidir ve ürünlerini İspanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Mobvoi",
+    "description": "Mobvoi, 2012 yılında Zhifei Li tarafından kurulan Hk Smartmv Limited bünyesinde üretilen akıllı saatler, kulaklıklar, ev koşu bandı ve aksesuarları markasıdır.Hk Smartmv Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 40’tan fazla ülke ve bölgeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Misfit",
+    "description": "Misfit, 2011 yılında Sonny Vu, John Sculley, Sridhar Iyengar tarafından kurulan Misfit Inc. bünyesindeki giyilebilir cihazlar, akıllı ev ürünleri markasıdır.Sensörleri ve ev otomasyon ürünlerini kullanan giyilebilir teknolojide uzmanlaşmıştır.Misfit Inc. 2015 yılında Amerika merkezli Fossil Group Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

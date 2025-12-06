@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Hell Energy Drink",
+    "description": "Hell Energy Drink, 2006 yılında kurulan Hell Energy Magyarország Kft. bünyesinde üretilen içecek markasıdır.50’nin üzerinde ülkede faaliyet göstermektedir. Romanya, Bulgaristan, Slovakya, Kıbrıs ve Azerbaycan’da pazar lideridir.Hell Energy Magyarország Kft. Macaristan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HU",
+    "updated_date": null
+  },
+  {
+    "company": "Wainer",
+    "description": "Wainer, 1985 yılında kurulan Arıkan İthalat Saat San. ve Dış Tic. Ltd. Şti. bünyesindeki saat markasıdır.Tasarımı Türkiye’de yapılan Wainer markalı saatler İsviçre’de üretilmektedir ve marka 72 ülkede tescillidir.Wainer Saat 70’ten fazla ülkede pazarlanmaktadır.Bünyesindeki markalar:BelmondBelmond BBelmond CrystalClıckClick ClockClıckclockEndoraEssenceFashion Meets Fitnessi-watchLouis LaurenNidaQuantumQuantum SolarSlazengerSupermetaltechWWainerWaıner",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Esit",
+    "description": "Esit, 1980 yılında kurulan Esit Elektronik Ltd. Şti.bünyesinde üretilen tartı aletleri markasıdır.Firma Sakarya’da 30 bin metrekarelik alanda kurulu olan fabrikasında taşıt kantarı üretirken, İstanbul’da 32 bin metrekarelik alanda kurulu olan fabrikasında ise Yük Hücresi, Elektronik, Çelik Konstrüksiyon, Makina, Metal İşleme, Isıl işlem ve Arge teknik birimleri ile şirketin yönetim ve pazarlama birimleri bulunmaktadır.Firmanın ihracat oranı yüzde 30’dan fazladır.ISO 9001, EN 45501, OIML, CE belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Relpol",
+    "description": "Relpol, 1958 yılında kurulan Relpol S.A. bünyesinde üretilen elektromanyetik röle markasıdır.İzleme röleleri, arayüz röleleri, czip koruma rölesi, elektromanyetik minyatür röleler, endüstriyel röleler, güç kaynakları, kontaktörler, minyatür pcb güç röleleri, radyasyon portalı monitörleri, zaman röleleri gibi ürünler üretmektedir.Relpol S. A. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "IWC",
+    "description": "IWC , 1868 yılında Florentine Ariosto Jones tarafından kurulan IWC International Watch Co. AG. bünyesinde üretilen lüks saat markasıdır.IWC International Watch Co. AG., 2000 yılındai İsviçre merkezli Swiss Richemont Group’un bir yan kuruluşu oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

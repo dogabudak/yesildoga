@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hanesbrands",
+    "description": "Hanesbrands, 2006 yılında kurulan Hanesbrands Inc. bünyesinde üretilen iç çamaşırı, külot, sütyen, çorap ve basit tişörtler markasıdır.Firma çeşitli markalar altında pazarlanan rahat giyim, erkek iç çamaşırı, çocuk iç çamaşırı ve çorap gibi temel giyim ürünlerine odaklanmaktadır.Hanesbrands Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Audioengine",
+    "description": "Audioengine, 2005 yılında kurulan Audioengine LLC bünyesindeki hoparlör, kablosuz iç ve dış mekan hoparlörleri, kulaklık amplifikatörleri markasıdır.Kablosuz hoparlörler ve ev ses sistemleri konusunda uzmanlaşmış bir hoparlör şirketidir.Audioengine LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Laraska",
+    "description": "Laraska, 2020 yılında kurulan Laraska Tarım Ürünleri San. ve Tic. A.Ş. bünyesindeki kuru gıda ürünleri, tıbbi ve aromatik çaylar ve kurutulmuş mantarlar markasıdır.Organik ve konvensiyonel gıdalar, bakliyat, baharat, kuru meyve, şifalı bitkiler, aromatik ve bitkisel çay ve yağlar üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Puppyoo",
+    "description": "Puppyoo, 1999 yılında kurulan Puppy Electronic Appliances Internet Technology Beijing Co. Ltd. bünyesinde üretilen akülü elektrikli süpürge, teneke kutu elektrikli süpürgeler, ıslak ve kuru elektrikli süpürge, araba için elektrikli süpürge, UV yatak elektrikli süpürge ve akıllı Robotik elektrikli süpürge markasıdır.Ev temizlik cihazları geliştirmektedir.Puppy Electronic Appliances Internet Technology Beijing Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Petquitte",
+    "description": "Petquitte, 2018 yılında kurulan Lezita Balık A.Ş. bünyesinde üretilen kedi ve köpek mamaları markasıdır.Ürünleri renklendirici, yapay veya doğala özdeş gıda boyaları içermez. Ürünün içeriğinde doğal renk vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

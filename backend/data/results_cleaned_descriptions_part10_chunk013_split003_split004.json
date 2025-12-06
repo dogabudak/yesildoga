@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Dutz Eyewear",
+    "description": "2005 yılında kurulmuş olan Dutz Eyewear BV bünyesindeki gözlük markasıdır.Alerji dostu ve katı paslanmaz çelik malzemeler kullanılarak çerçeveler üretilmektedir.Dutz Eyewear BV Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Mullvad",
+    "description": "2009 yılında kurulmuş olan Mullvad VPN AB bünyesindeki ticari VPN hizmeti markasıdır.WireGuard ve OpenVPN protokollerini kullanarak güvenli bağlantılar sunar. Kripto paralarla ödeme kabul eder.Mullvad VPN AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Merba Nougatelli Cookies",
+    "description": "1920 yılında kurulmuş olan Merba B.V. bünyesinde üretilen kurabiyeler markasıdır.Merba B.V. Hollanda merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "X100 Rapıd-dose",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Saipa",
+    "description": "1965 yılında kurulmuş olan Saipa Motor Corporation bünyesinde üretilen otomobil, ticari araçlar, motorlar, otomotiv parçaları markasıdır.Saipa Motor Corporation İran merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  }
+]

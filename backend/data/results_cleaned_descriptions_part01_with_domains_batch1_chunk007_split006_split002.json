@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vuudy",
+    "description": "Vuudy, 1973 yılında kurulan Aytan Bebe bünyesindeki ayakkabı markasıdır.Türk firması Asya’dan Kuzey Afrika’ya, Kuzey Amerika’dan Avrupa’ya kadar pekçok ülkede 21-36 ayak numaraları arasında ürettiği ayakkabılarla kız çocuklarına etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zilli",
+    "description": "Zilli, 1970 yılında Alain Schimel tarafından kurulan lüks erkek giyimindeki özel işçiliğiyle üretilen gömlekler, takımlar, triko giysiler, kotlar ve ayakkabılar markasıdır.Bir Fransız aile işletmesi olarak kurulan modaevi Zilli, süet deri, cilalanmış kuzu derisi, pekari, piton, Porosus timsahı, devekuşu, geyik derisi kullanarak ürünlerini üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Diesel",
+    "description": "Diesel, 1978 yılında Renzo Rosso ve Adriano Goldschmied tarafından kurulan giyim firmasıdır.İtalya’da kurulan Diesel S.p.A, denim kot başta olmak üzere, kadın ve erkek spor giyim, çocuk giyim, ayakkabı, gözlük, saat, aksesuar, mücevher ve parfüm koleksiyonlarını genişletmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Tiger Jilet",
+    "description": "Tiger, 2005 yılında kurulan dünyanın en büyük jilet üreticilerinden Czech Blades s.r.o. bünyesindeki jilet markasıdır.Tiger, Çek Cumhuriyeti’nde üretilen bir markadır.Tiger jiletler CML Makina tarafından ithal edilmektedir.Firmanın bünyesindeki markalar:TIGERTATRALEONSOKOLLUXORINDUSTRIAL",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": "2020-01-07"
+  },
+  {
+    "company": "Pastacity",
+    "description": "Pastacity, 2004 yılında Beşler Grup’un makarna sektöründeki yatırımı olarak kurulan Beşler Makarna bünyesindeki makarna markasıdır.Türk firması Beşler Makarna üretim kapasitesiyle ülkemizin en büyük makarna üreticileri arasında yer almakta. Ürünlerini 100 ülkeye ihraç etmekte.Beşler Makarna bünyesindeki markalar:BeşlerBeşler GlutensizGoncaKıtlaxPastacitySanta Sophia",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

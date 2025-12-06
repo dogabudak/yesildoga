@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Mg Gülçiçek",
+    "description": "Mg Gülçiçek Nerenin Malı MarkasıMg Gülçiçek, 1961 yılında Mişel Gülçiçek tarafından kurulmuş olan Gülçiçek Kimya ve Uçan Yağlar San. ve Tic. A.Ş. bünyesinde üretilen aerosol, ev bakımı, kişisel bakım, kağıt ürünleri, parfüm markasıdır.ISO/IEC 27001, ISO 14001, ISO 9001, ISO 22716, ISO 45001, Helal belgelerine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini 50 bin metrekarelik kapalı alana sahip tesisinde üretmektedir ve 55 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Martı Scooter",
+    "description": "Martı, 2021 yılında kurulmuş olan Martı Technologies Inc. bünyesindeki yazılım sistemleri ve IOT altyapısı ile hizmet verilen e-moped, e-bisiklet ve e-scooter kiralama hizmetleri markasıdır.Elektrikli scooter servisi İstanbul, Ankara, İzmir, Bursa, Yalova, Antalya, Eskişehir, Ordu, Sakarya ve Gaziantep gibi şehirlerde hizmet vermeye başladı.2021 yılında Avrupa İmar ve Kalkınma Bankası’nın da katılımcıları arasında yer aldığı Actera III adlı fon, Perpetual Motion S.à.r.l. isimli bir şirket kurarak Martı’ya yatırım yaptı.Martı Technologies Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Noir Parfüm",
+    "description": "Noir Parfüm, 2007 yılında kurulmuş olan Mandev Kozmetik San. ve Tic. Ltd. Şti. bünyesindeki parfümler, çubuklu oda kokuları, kokulu mumlar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Noir MascaradeNoir Musée De L’ImaginationNoir Parfüm",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baojie",
+    "description": "Baojie, 1994 yılında kurulmuş olan Quanzhou Baojie Electronics Co. Ltd. bünyesinde üretilen kablosuz amatör ve profesyonel el telsizi ve aksesuarları, araç radyosu, tekrarlayıcı, amplifikatör markasıdır.ISO 9001 belgesine sahiptir.Quanzhou Baojie Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dipomed",
+    "description": "Dipomed, 2019 yılında kurulmuş olan Dipomed Medikal Kozmetik İthalat İhracat San. Tic. Ltd. Şti. bünyesindeki cilt çatlağı onarım sistemi, çatlak kabin ve ev devam ürünleri, aydınlatıcı krem, arındırıcı peeling, lazer sonrası nemlendirici losyon, günlük mucize temizleme köpüğü, kiraz saplı karışık bitki çayı, selülit kontrol kremi, yağ kontrol temizleme köpüğü, yoğun günlük nemlendirici krem markasıdır.İstanbul merkezli şirkete 2023 yılında TMSF kayyum atamıştır.Bünyesindeki markalar;ConqurerDeeprollDipofoodDipomedDipomixDiporedElectiveEnerciMaderiseRise And ShineRs Clean",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-08"
+  }
+]

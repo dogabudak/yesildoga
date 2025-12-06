@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Veta Şampuan",
+    "description": "Veta, 2017 yılında kurulan Veta Group LLC bünyesindeki cilt bakımı ve profesyonel sınıf salon saç bakımı markasıdır.Sülfat, paraben, ftalat, silikon ve ilaç içermez.Veta Group LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bioefes",
+    "description": "Bioefes, Smartdialing Gmbh bünyesindeki temizlik ürünleri markasıdır.Hayvanlar üzerinde test edilmemektedir ve Helal belgesine sahiptir. Dezenfektan alkolsüzdür. Doğal aromatik zencefil kokuludur.Smartdialing Gmbh İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Cooljag",
+    "description": "Cooljag, 2001 yılında kurulan Chia Cherne Industry Co. Ltd. bünyesinde üretilen işlemci soğutucu, sunucu soğutucu, soğutucu, bilgisayar aksesuarları markasıdır.Chia Cherne Industry Co. Ltd. Tayvan merkezlidir. Çin, Malezya ve Tayvan’da faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Cnspoke",
+    "description": "Cnspoke, 1970 yılında kurulan fren sistemi, taşıma çubukları veya çerçeveler markasıdır.Firma Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Almila Mobilya",
+    "description": "Almila Mobilya, 2004 yılında kurulan Almila Mobilya A.Ş. bünyesinde üretilen bebek, çocuk, genç mobilyaları markasıdır.Firma Kayseri merkezlidir. Ürünlerini 19 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Strauss Coffee",
+    "description": "Strauss Coffee, 1939 yılında kurulmuş olan Strauss Group Ltd. bünyesindeki kahve markasıdır.Strauss Group Ltd. İsrail merkezlidir. 10 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Ace Pack",
+    "description": "Ace Pack, 1992 yılında kurulmuş olan Ace Pack Co. Ltd. bünyesinde üretilen kağıt bardak makineleri, baskı makine ve teknolojileri, kesme ve katlama makineleri, ambalajlama makineleri, zımbalama makineleri markasıdır.Ace Pack Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Darwi",
+    "description": "Darwi, 1923 yılında kurulmuş olan The Clay And Paint Factory SA bünyesindeki kendiliğinden sertleşen killer, modelleme killeri, kalıp sıva formu, akrilik boyalar, cam boyaları, soğuk seramik boyası, kumaş boyaları, deri boyası, hint mürekkebi markasıdır.The Clay And Paint Factory SA Belçika merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Snapware",
+    "description": "Snapware, 2009 yılında kurulmuş olan Instant Brands Inc. bünyesindeki plastik gıda saklama kapları markasıdır.Ürünleri BPA içermez.Instant Brands Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gehwol",
+    "description": "Gehwol, 1868 yılında kurulmuş olan Eduard Gerlach Gmbh bünyesindeki ayak bakım ürünleri markasıdır.Eduard Gerlach Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

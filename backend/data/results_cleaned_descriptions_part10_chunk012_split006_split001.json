@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Lunamelt",
+    "description": "1887 yılında kurulmuş olan H.B. Fuller Company bünyesindeki sıcakta eriyen yapıştırıcı, basınca duyarlı yapıştırıcı, reaktif yapıştırıcı ve dolgu macunları markasıdır.H.B. Fuller Company Amerika merkezlidir. Türkiye’de H. B. Fuller Kimya San. ve Tic. A. Ş. olarak Kocaeli’de üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zinsser",
+    "description": "1948 yılında kurulmuş olan RPM International Inc. bünyesinde üretilen astar macunları markasıdır.RPM International Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Simmer",
+    "description": "Simmer Kesici Takım San. Tic. A.Ş. bünyesinde üretilen frezeleme, delik delme, raybalama, sert kesici takımlar, broşlama, tornalama, whirling diş açma kesici takımları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nourkrin",
+    "description": "2013 yılında kurulmuş olan Pharma Medico Ltd. bünyesinde üretilen saç bakım destekleyici besinler, vitaminler markasıdır.Pharma Medico Ltd. İngiltere merkezlidir ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Onevan",
+    "description": "2016 yılında Guangzhou Yaofeina IT Service Co. Ltd. bünyesinde üretilen akülü aletler, elektrikli el aletleri markasıdır.Otomotiv, bahçecilik, kampçılık, ev geliştirme ve ağaç işleri için kablosuz elektrikli aletleri üretmektedir.Guangzhou Yaofeina IT Service Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

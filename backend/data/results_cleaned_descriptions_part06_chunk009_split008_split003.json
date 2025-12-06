@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Kettenbach",
+    "description": "Kettenbach, Kettenbach Gmbh & Co. KG bünyesinde üretilen diş malzemeleri, macunlar, yapıştırıcılar, diş restorasyon malzemeleri markasıdır.ISO 13485, EN ISO 13485 belgelerine sahiptir.Kettenbach Gmbh & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aşçı Anne",
+    "description": "Aşçı Anne Nerenin Malı MarkasıAşçı Anne, 2014 yılında kurulan Aşçı Anne – Çiğdem Ardıç tarafından üretilen katkısız, şekersiz, nişastasız doğal bebek gıda ürünleri markasıdır.Ürün yelpazesinde süt alerjisi olan bebeklere bulgur, tarhana, un, mercimek gibi ek gıdalar, makarnalar, keçi sütlü doğal bebek gıdaları, tarhanalar, ıspanaklı, pancarlı, siyez unlu, karabuğdaylı, havuçlu ürünler yer almaktadır.Bursa merkezli firma ISO 22000 ve helal belgelere sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "IDUN Minerals",
+    "description": "IDUN Minerals, 2011 yılında kurulan IDUN Minerals AB bünyesindeki cilt bakım ürünleri, makyaj ürünleri, yüz, saç, tırnak bakım ürünleri, fırçalar ve aksesuarlar markasıdır.IDUN Minerals AB İsveç merkezlidir ve ürünlerini İsveç’te üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Ultenic",
+    "description": "Ultenic, 2010 yılında kurulan Shenzhen Youtenike Technology Co. Ltd. bünyesinde üretilen akıllı ev aletleri, vakum robotu, akülü vakum, hava fritözü ve aksesuarları markasıdır.Shenzhen Youtenike Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kaplamin",
+    "description": "Kaplamin, 1976 yılında kurulan Kaplamin Ambalaj San. ve Tic. A.Ş. bünyesinde üretilen dayanıklı tüketim ambalajları, gıda ambalajları, kağıt çanta ürünleri, kimya ve temizlik ambalajları, otomotiv sanayi ambalajları, seramik ve vitrifiye ambalajları, kutular markasıdır.ISO 9001, ISO 14001, BRC, FSC belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

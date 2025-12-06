@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ziiiro",
+    "description": "Ziiiro, 2010 yılında Robert Dabi ve Derick Ip tarafından kurulan Zero Watches (HK) Ltd bünyesinde üretilen saat markasıdır.Zero Watches (HK) Ltd Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "BOTTA Design",
+    "description": "BOTTA Design, 1986 yılında Klaus Botta tarafından kurulan lüks ürünler ve mücevherat markasıdır.BOTTA design, iki iş alanında faaliyet göstermektedir.Kol saatleri geliştirirken aynı zamanda bir hizmet ajansı olarak faaliyet gösteren Almanya merkezli bir şirkettir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Senmaxu",
+    "description": "Senmaxu, 2015 yılında kurulan Guangzhou Senmaxu Electronics Technology Co., Ltd. bünyesinde üretilen seyahat şarj cihazı, araba şarj cihazı, veri kablosu, aux kablo, kulaklık vb. telefon akıllı mobil aksesuarları markasıdır.Guangzhou Senmaxu Electronics Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dialog Semiconductor",
+    "description": "Dialog Semiconductor, 1985 yılında kurulan Dialog Semiconductor PLC bünyesindeki yarı iletken tabanlı sistem çözümleri markasıdır.Firma, akıllı telefonlar, bilgi işlem, Nesnelerin İnterneti cihazları, LED katı hal aydınlatması ve akıllı ev uygulamaları için düzeltilmiş, yüksek entegre uygulamaya özel standart ürün (ASSP) ve uygulamaya özel entegre devre (ASIC) karma sinyalli entegre devreler (IC’ler) oluşturur.Dialog Semiconductor PLC, İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Besi",
+    "description": "Besi, 1995 yılında Richard Blickman tarafından kurulan BE Semiconductor Industries N.V. bünyesindeki yarı iletken markasıdır.Elektronik, mobil internet, bilgisayar, otomotiv, endüstriyel, LED ve güneş enerjisi de dahil olmak üzere çok çeşitli son kullanıcı pazarlarında leadframe, substrat ve gofret düzeyinde ambalaj uygulamaları için öncü montaj süreçleri ve ekipmanları geliştirmektedir.BE Semiconductor Industries N.V., Hollanda merkezli çok uluslu bir şirkettir. Çin ve Malezya bulunan iştirakleriyle üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

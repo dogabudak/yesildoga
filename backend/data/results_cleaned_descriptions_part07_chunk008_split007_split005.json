@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Baby More",
+    "description": "Baby More, 1998 yılında kurulmuş olan Mert-Koz Kozmetik Kimya Gıda Amb. San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen bebek losyonu, bebek yağı, bebek şampuanı markasıdır.ISO 9001 belgesine sahiptir.Firma İzmir merkezlidir.Bünyesindeki markalar;Baby MoreChefata OffroadCosmozone SurvivalCrdbxDescha KariGood&HealthHocIsmiraMoringa MedinaNew Life",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yutty",
+    "description": "Yutty, 1996 yılında kurulmuş olan Çiloğlu Gıda İthalat İhracat Dağıtım Paz. San. ve Tic. Ltd. Şti. bünyesinde üretilen şekerlemeler markasıdır.ISO 9001 ve ISO 22000 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 18 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nanogen Şampuan",
+    "description": "Nanogen Şampuan Hangi Ülkenin Malı MarkasıdırNanogen, 1999 yılında kurulmuş olan Pangaea Laboratories Ltd. bünyesinde üretilen şampuan, saç ve cilt için müstahzarlar, saç dökülmesi ürünleri markasıdır.Pangaea Laboratories Ltd. İngiltere merkezlidir ve ürünlerini İngiltere’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Tobii",
+    "description": "Tobii, 2001 yılında kurulmuş olan Tobii AB bünyesinde üretilen araştırma ve pazar analizi için göz izleme ürünleri, endüstriyel entegrasyon için göz izleme bileşenleri markasıdır.Ürünleri, XR kulaklıklara, bilgisayarlara entegrasyon için araştırma dereceli göz izleyicileri ve analiz yazılımı, oyun çözümleri ve göz izleme platformlarının yanı sıra özel yapım araç çözümleri, EdTech ve sağlık teknolojisi ürünlerini içerir.Tobii AB İsveç merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Esmara Loungewear",
+    "description": "Esmara Loungewear, 1930 yılında kurulmuş olan Lidl Stiftung & Co. KG bünyesindeki kadın giyim ürünleri markasıdır.Lidl Stiftung & Co. KG, Almanya merkezli Schwarz Group bünyesindedir. 29 ülkede şubeleriyle faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

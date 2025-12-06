@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Baştaş Beton",
+    "description": "Baştaş Beton, 1984 yılında BAŞTAŞ Çimento A.Ş. bünyesinde kurulan hazır beton markasıdır.Türkiye’de çimento sektöründe beton tesisi kuran ilk firmadır.BAŞTAŞ Hazır Beton San. ve Tic. A.Ş. unvanıyla faaliyetlerine devam eden firmayı dünya çapında faaliyet gösteren Fransız VICAT grubu satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Testo",
+    "description": "Testo, 1957 yılında kurulan Testo SE & Co. KGaA bünyesindeki ölçüm cihazları markasıdır.Ürün yelpazesinde portatif ve sabit sıcaklık, nem, basınç, hava hızı, baca gazı, ortam havası kalitesi, ışık ve gürültü şiddeti, pH/iletkenlik, devir ölçüm cihazları, baca gazı analizörleri ve termal kameralar yer almaktadır.ISO 9001, ISO 14001, OHSAS 18001, HACCP, CFR21 belgelerine sahiptir.Testo SE & Co. KGaA Almanya merkezlidir, 36 iştiraki ve 80’den fazla dağıtım ortağı ile her kıtada faaliyet göstermektedir. Türkiye’de 2000 yılından beri Testo Elektronik Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2022-08-29"
+  },
+  {
+    "company": "Inficon",
+    "description": "Inficon, 2000 yılında kurulan Isıtma, Soğutma, Havalandırma ve Klima alanında, gaz kaçak dedektörü, geri toplama ünitesi, vakum pompası ve manometreler ile teraziler gibi ürünlerin markasıdır.Ana pazarları arasında spesifik vakum proses endüstrisi, acil müdahale ve güvenlik, soğutma ve havalandırma, genel vakum prosesi gibi farklı pazarlar bulunmaktadır.Dünya çapında 17 ofise sahip olan Inficon İsviçre merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Jump",
+    "description": "Jump, 1987 yılında kurulan Genmar İç ve Dış Tic. A.Ş. bünyesindeki spor, deri ayakkabı, çocuk ayakkabısı, bay-bayan bot, bayan çizme, bay-bayan terlik, ayakkabı bakım ürünleri kemer, çanta cüzdan ve çeşitli aksesuarlar markasıdır.İstanbul merkezli firma ürünlerini 25’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-06-14"
+  },
+  {
+    "company": "Cyristal Baby",
+    "description": "Cyristal Baby, 1993 yılında kurulan Dalpa Sanayi ve Ticaret Ltd. Şti. bünyesindeki bebek araç gereçleri markasıdır.Dalpa Sanayi ve Ticaret Ltd. Şti. bebek araç gereçleri sektörü dışında; elektronik ev aletleri, dayanıklı tüketim malları ve hediyelik eşya gibi sektörlerde faaliyet göstermektedir.Dalpa bünyesindeki markalar:CAMCystal BabyPregoPrego ToysRollPlaySunny Baby",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

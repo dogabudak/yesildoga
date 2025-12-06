@@ -1,0 +1,48 @@
+[
+  {
+    "company": "T-Charge Eyewear",
+    "description": "T-Charge Eyewear, 2009 yılında kurulan GO Eyewear Group bünyesindeki gözlük markasıdır.Her markası için kendi tasarımını yapmaktadır.GO Eyewear Group Portekiz merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Ana HickmannBravewearBulgetHickmannJo&Margot MilanoT-Charge Eyewear",
+    "documents": [],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Sword Premium Quality",
+    "description": "Sword Premium Quality, 1996 yılında kurulan Arslanlar Grup Gıda Telekom San. Tic. ve Pazarlama A.Ş. tarafından ithal edilen bluetooth hoparlör, ekran koruyucu, kılıf, kulaklık, şarj cihazı, kablo, powerbank, batarya, araç tutucu markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gold & Wood",
+    "description": "Gold & Wood Hangi Ülkenin Malı MarkasıdırGold & Wood, 1995 yılında Maurice Leonard tarafından kurulan Wood Optic Diffusion SA bünyesinde üretilen el yapımı gözlük ve güneş gözlüğü markasıdır.Ürünlerini elmas, altın, odun ve hayvanlardan boynuz malzemeleri kullanarak üretmektedir.Wood Optic Diffusion SA Lüksemburg merkezlidir ve ürünlerini Lüksemburg’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Paciotti",
+    "description": "Paciotti, 1948 yılında Giuseppe ve Cecilia Paciotti tarafından kurulan Paciotti S.p.A bünyesinde üretilen ayakkabı, çanta, kemer ve diğer aksesuarlar, takı, hediyeler, çocuk giyim, sokak giyim markasıdır.Paciotti S.p.A İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Hanowa",
+    "description": "Hanowa, 1963 yılında Hans Noll tarafından kurulan Hanowa AG bünyesinde üretilen kadın kol saati, yüzük saatler, kolyeler ve cep saatleri markasıdır.Hanowa AG İsviçre merkezlidir. Ürünleri birinci sınıf İsviçre yapımıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

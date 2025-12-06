@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Futpet",
+    "description": "Futpet Evcil Hayvan Ürünleri San. Tic. Ltd. Şti. bünyesindeki kedi ve köpek mamaları markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Apicenna",
+    "description": "1991 yılında kurulmuş olan Apicenna LLC bünyesinde üretilen veteriner ilaçlar, yem takviyeleri ve hijyen malzemeleri markasıdır.Apicenna LLC Rusya merkezlidir. Ürünlerini Rusya’da üretmektedir ve 10’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Diafarm",
+    "description": "1980 yılında kurulmuş olan Diafarm A/S bünyesindeki evcil hayvanlar ve üretim hayvanları için tamamlayıcı yem takviyeleri ve bakım ürünleri markasıdır.Dozaj formları, kutularda paketlenmiş toz, tablet, sert ve yumuşak jelatin kapsüller, macunlar, şuruplar, losyonlar, jeller, şampuanlar ve sabunlar kabarcıklar, tüpler, küçük ve büyük şişeler, kavanozlar ve kovalardan oluşmaktadır.Diafarm A/S Danimarka merkezlidir. Ürünlerini bir çok ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Buldak",
+    "description": "1961 yılında kurulmuş olan Samyang Foods Co. Ltd. bünyesinde üretilen baharatlı tatlılar markasıdır.ISO 22000, HELAL ve HACCP belgelerine sahiptir.Samyang Foods Co. Ltd. Güney Kore merkezlidir. Ürünlerini Kore’de üretmektedir ve bir çok ülkeye pazarlamaktadır.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Rainwater",
+    "description": "1993 yılında kurulmuş olan Rainwater A.Ş. bünyesindeki su arıtma cihazları, su arıtmalı sebiller, gıda filtrasyon sistemleri, genel arıtma sistemleri, hidrojenli sebil teknolojisi, musluk ve bataryalar, ön tortu filtrasyonu markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

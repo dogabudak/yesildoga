@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bisolnatur",
+    "description": "Bisolnatur, 2004 yılında kurulan Sanofi SA bünyesindeki gıda takviyesi markasıdır.Şeftali, limon ve portakal aromaları içeren Bisolnatur yüzde 100 doğaldır. Gluten, renklendirici, koruyucu, tatlandırıcı, paraben gibi katkılar içermemektedir.Sanofi SA Fransa merkezlidir. 100 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Brooks Brothers",
+    "description": "Brooks Brothers, 1818 yılında Henry Sands Brooks tarafından kurulan lüks giyim, aksesuar ve ev mobilyası markasıdır.Brooks Brothers markası 2020 yılında Amerika merkezli Authentic Brands Group ve Authentic Brands Group ve Simon Property Group arasındaki ortak girişim olan SPARC Group LLC tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Issey Miyake",
+    "description": "Issey Miyake, 1971 yılında Issey Miyake tarafından kurulan Issey Miyake Inc. bünyesindeki giyim ürünleri markasıdır.Şirketin iş kolu, kadın, çocuk ve bebek giyim ve aksesuarlarının toptan dağıtımını içerir.Issey Miyake Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "VideoGo",
+    "description": "VideoGo, iDealshare Corp bünyesinde üretilen ses ve video dönüştürme yazılımı markasıdır.Hemen hemen her türlü video, ses ve hatta çevrimiçi medya dosyalarını neredeyse hiç kalite kaybı olmadan hızlı dönüştürebilir.iDealshare Amerika merkezlidir. Windows ve Mac işletim sistemleri için ses ve video dönüştürme konusunda uzmanlaşmış bir multimedya yazılım şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Darty",
+    "description": "Darty, 1957 yılında Natan, Marcel ve Bernard Darty tarafından kurulan özel mağazalarda elektrikli ev aletlerinin perakende markasıdır.Fnac Darty bünyesindedir. Fnac Darty Fransa merkezlidir.Bünyesindeki markalar:DartyFnacMistergooddealVanden Borre",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

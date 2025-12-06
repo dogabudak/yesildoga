@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kundal",
+    "description": "2016 yılında kurulmuş olan The Skin Factory Co. Ltd. bünyesinde üretilen saç ve vücut bakım ürünleri markasıdır.The Skin Factory Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Cadum",
+    "description": "1907 yılında kurulmuş olan sabun, bebek bakım ürünleri, şampuan ve vücut temizleme ürünleri markasıdır.Markayı 2012 yılında L’Oréal S.A. tarafından satın alınmıştır.Fransa merkezli L’Oréal S.A.’nın yüzde 33 hissesi Fransız Françoise Bettencourt Meyers’e yüzde 23,29 oranında hissesi İsviçre merkezli Nestlé S.A.’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Efasit",
+    "description": "1969 yılında Herbert Lix tarafından kurulmuş olan Kyberg Pharma Vertriebs-Gmbh bünyesindeki ayak bakım ürünleri markasıdır.Kyberg Pharma Vertriebs-Gmbh Almanya merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dirol",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dielac",
+    "description": "1976 yılında kurulmuş olan V. Dairy Products Jsc bünyesinde üretilen bebek süt tozu ve maması markasıdır.FSSC, ISO, GMP ve BRC belgelerine sahiptir.Vietnam Dairy Products Jsc Vietnam merkezlidir ve ürünlerini 60’a yakın ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [
+      "BRC",
+      "GMP",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "VN",
+    "updated_date": null
+  }
+]

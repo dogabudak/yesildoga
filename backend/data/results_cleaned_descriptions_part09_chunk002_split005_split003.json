@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Forever21",
+    "description": "Forever211994 yılında kurulmuş olan Forever 21 Inc. bünyesindeki moda perakende markasıdır.Şirket kadın, erkek ve çocuklar için aksesuarlar, güzellik ürünleri, ev eşyaları ve giyim ürünleri sunmaktadır.Forever 21 Inc. Amerika merkezlidir ve 50’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Coledan",
+    "description": "Coledan2011 yılında kurulmuş olan World Medicine İlaç San. ve Tic. A.Ş. bünyesinde üretilen d vitamini markasıdır.Firma İstanbul merkezlidir. Türkiye’deki üretim tesisleri İstanbul ve Tekirdağ’da yurt dışındaki üretim tesisleri ise Romanya ve Cezayir’de bulunmaktadır. Ürünlerini 40’a yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nishua",
+    "description": "Nishua1938 yılında kurulmuş olan Detlev Louis Motorrad-Vertriebsgesellschaft Mbh bünyesindeki motosiklet kıyafetleri, kasklar markasıdır.Die Detlev Louis Motorrad-Vertriebsgesellschaft Mbh Almanya merkezlidir.Bünyesindeki markalar;CaferacerDeloDetlev LouisFastwayHighway 1Moto-DetailNishuaNordkapRekurvRothewaldSaitoSuper ShieldVanucci",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nuri Leflef",
+    "description": "Nuri Leflef1918 yılında Nuri Leflef tarafından kurulan Şafak Kimya San. A.Ş. bünyesinde üretilen ayakkabı boyası, cilası, parlatıcı sünger, süet ve nubuk bakım ürünleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini 4 bin metrekarelik kapalı alana sahip fabrikasında üretmektedir ve ürünlerini birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;LeflefNuri LeflefPenguen",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SC Sarvin",
+    "description": "SC Sarvin2021 yılında kurulmuş olan SC Sarvin Giyim San. ve Tic. Ltd. Şti. bünyesindeki alt, üst, dış giyim, alt üst takım, aksesuar, ayakkabı ve terlik markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

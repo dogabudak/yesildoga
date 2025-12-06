@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Apeirona",
+    "description": "Apeirona1992 yılında kurulmuş olan Med-Kar Matbaacılık Kağ. San. Tic. Ltd. Şti. bünyesindeki çizgili ve kareli defterler, çizgisiz defterler, günlük planlayıcılar, haftalık planlayıcılar, kalem-kalemlik, kareli defterler, kitap okuma defteri, klasik defterler, masaüstü planlayıcılar, noktalı defter setleri, planlama setleri, sınava hazırlık defteri, seyahat planlayıcılar, spor ve diyet defterleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cengo Kalem",
+    "description": "Cengo2021 yılında kurulmuş olan Cengiz Yazı Gereçleri Dış Tic. İnş. Ltd. Şti. bünyesindeki yazı gereçleri, resim ve çizim malzemeleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biolight Life",
+    "description": "Biolight Life2005 yılında kurulmuş olan Biolight Life Sciences Ltd. bünyesinde üretilen tıbbi cihazlar, teşhis ve ilaçlar markasıdır.Biolight Life Sciences Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Freshlife",
+    "description": "Freshlife2004 yılında kurulmuş olan Eruslu Sağlık Ürünleri San. ve Tic. A.Ş. tarafından üretilen hasta bezi markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 27001, ISO 45001, ISO 50001 ve Helal belgelerine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini 150’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kasho",
+    "description": "Kasho1974 yılında kurulmuş olan Kai Usa Ltd. bünyesinde üretilen bıçaklar markasıdır.Ürünleri iki farklı paslanmaz çelik alaşımına sahiptir.Kai Usa Ltd. Japonya merkezli KAİ Corporation’ın bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

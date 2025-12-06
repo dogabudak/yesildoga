@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Henna Vital",
+    "description": "Henna Vital 2004 yılında Anadolu Endüstri Kimya tarafından üretilmeye başlanan Hindistan geleneksel yöntemi Ayurveda kullanılarak, insan sağlığı ve çevre duyarlılığıyla üretilen sağlıklı kınalı saç boyasıdır.Yurt içi ve yurt dışında satılan Türk markasıdır. Siyah, kahverengi, kestane, kızıl ve sarı olmak üzere beş ana renk seçeneği bulundurmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nerox",
+    "description": "Nerox markası 1984 yılında Kazım Zer tarafından Gaziantep’te kurulan Zer Group bünyesindeki hırdavat markasıdır.Firma, Nerox, Carelly, U-2, U-4 markalarıyla kendi ürünlerinin satışını ve ambalaj sektöründeki yatırımları ile Starplus, Puanto markalarıyla çöp torbası, buzdolabı poşeti üretimi yapmaktadır.Bine yakın bayisi ve 140’ın üzerinde tedarikçi ile 40 bini geçen ürün gamına sahip bir Türk firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hisense",
+    "description": "Hisense, 1994 yılında kurulan Hisense International Co. Ltd. bünyesinde üretilen çamaşır, bulaşık makinesi, şarap dolabı, akıllı telefon, buzdolabı, dondurucu, fırın, klima, mikrodalga, ocak, ses çubğu, televizyon markasıdır.Hisense International Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 130 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-12-16"
+  },
+  {
+    "company": "Soo Baby",
+    "description": "Soo baby markası 2012 yılında kurulan 2Kids Satış Pazarlama ve Danışmanlık A.Ş. bünyesine aittir.Soo be çocuk giyiminin yanı sıra Soo baby alt markası ile anne, bebek ve çocuk ihtiyaçları için; pusetler, oto koltukları, mama sandalyeleri, oyuncaklar, hediye setleri, aksesuarlar vs. ürünler üreten Türk firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bing",
+    "description": "Bing, 2009 yılında tanıtılan Microsoft Corporation bünyesindeki web arama motorudur.Web, video, resim ve harita arama ürünleri, çeviri de dahil olmak üzere çeşitli arama hizmetleri sunmaktadır. Türkçe dahil 40 dilde hizmet vermektedir.Firma Bing’in bir arama motoru olmadığını, karar verme motoru olduğunu ifade etmiştir.Microsoft Corporation Amerika merkezlidir.Microsoft’un Sahibi Kimdir",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-07-15"
+  }
+]

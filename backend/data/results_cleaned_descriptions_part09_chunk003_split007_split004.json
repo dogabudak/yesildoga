@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Sunuv",
+    "description": "Sunuv2013 yılında kurulmuş olan Shenzhen Uvled Technology Co. Ltd. bünyesinde üretilen UV LED tırnak lambası markasıdır.Shenzhen Uvled Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Needion",
+    "description": "Needion2017 yılında kurulmuş olan BND Group Teknoloji A.Ş. bünyesindeki e-ticaret ve ilan platformu markasıdır.dur.Firma İzmir merkezlidir.Bünyesindeki markalar;BanaBırakLabada CateringLabada GurmeNeedion",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "HP Sauce",
+    "description": "HP Sauce1875 yılında kurulmuş olan HP Foods Limited bünyesinde üretilen İngiliz kahverengi sosu markasıdır.Sos; malt ve ispirto sirkesi, glikoz-fruktoz şurubu, hurma, mısır ve çavdar unu, tuz, baharatlar, demirhindi ve domates içermektedir.HP Foods Limited 2005 yılında Amerika merkezli H. J. Heinz Company tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "M.Z. Ege",
+    "description": "M.Z. Ege1995 yılında kurulmuş olan Bim Birleşik Mağazalar A.Ş. adına Ege Hazır Yiyecek San. ve Tic. Ltd. Şti. tarafından üretilen dürüm çiğ köfte markasıdır.Ürünleri glikoz-fruktoz şurubu ve gluten içermektedir.Üretici firma İzmir merkezlidr.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mezzet",
+    "description": "Mezzet1992 yılında kurulmuş olan Ege Hazir Yiyecek San. ve Tic. A.Ş. bünyesinde üretilen hazır yemek, konserve sebze, asma yaprağı dolması, humus, fasulye ve turşuları markasıdır.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

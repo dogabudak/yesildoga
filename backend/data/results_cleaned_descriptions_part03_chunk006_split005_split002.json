@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Karpin",
+    "description": "Karpin, 1988 yılında kurulan Yılmazlar Kırtasiye İth. İhr. ve Dış Tic. Ltd. Şti. bünyesindeki kağıt, karton ve bunlardan üretilen ürünler, plastik malzemeden mamül ambalajlama ve sarma malzemeleri, matbaa ve ciltleme malzemeleri, basılı evrak, yayın, takvim, poster, afiş, tablo, çıkartma ve büro makinesi markasıdır.Yılmazlar Kırtasiye, kırtasiye ve ofis malzemesi ithalat ve ihracatıyla, kırtasiye ve ofis malzemeleri toptan dağıtımında faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cyrene",
+    "description": "Cyrene, 2018 yılında kurulan Estela Dermokozmetik Tic. Ltd. Şti. bünyesindeki kozmetik ürünler markasıdır.Estela Dermokozmetik, parfüm, koku, sıvı ürün, manikür veya pedikür müstahzarı, güneş koruyucu ürünler, dudak ve göz makyaj ürünü, banyo tuzu, pudra, sabun ve organik yüzey aktif müstahzarı, deodorant vb. ürünlere sahiptir.Firma her türlü kozmetik, dermokozmetik, güzellik ve estetik ürünleri üretip satışını yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İnter Mac3",
+    "description": "İnter Mac3 Hangi Ülkenin Malıİnter Mac3, 2005 yılında kurulan Em-Kar Elektronik Tekstil Gıda İnşaat İthalat İhracat San. ve Tic. Ltd. Şti. tarafından ithal edilen tıraş makinesi markasıdır.Şanlıurfa’da faaliyet gösteren Em-Kar Elektronik bünyesindeki İnter Mac3 markalı ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Martens",
+    "description": "Dr. Martens, 1911 yılında kurulan R. Griggs & Co. Ltd. bünyesindeki ayakkabı, bot, çanta, giyim, ayakkabı bakım ürünleri markasıdır.2003 yılında üretimin çoğu Çin ve Tayland, son zamanlarda Vietnam ve Endonezya’da yapılmaktadır. Haftada sadece bin çift İngiltere’deki fabrikasında üretilmektedir.R. Griggs & Co. Ltd. 2013 yılında İngiltere merkezli küresel yatırım firması Permira Holdings Limited tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Live Clean",
+    "description": "Live Clean, 2007 yılında The Hain Celestial Group, Inc. bünyesinde üretilen saç bakımı, bebek bakımı, banyo bakımı, cilt bakımı ve dudak bakım ürünleri markasıdır.Ürünler paraben, SLS ve zararlı kimyasallar içermez. Hayvanlar üzerinde test edilmez ve yüzde yüz vejetaryen ve vegan ürünlerdir. Geri dönüştürülebilir ambalajlar kullanarak paketlenir.The Hain Celestial Group, Inc. Amerika merkezlidir.Bünyesindeki markalar:Alba BotanicaAvalon Natural ProductsBatherapyFootherapyHeather’s NaturalsJASÖN Natural CosmeticsLive CleanOrjene OrganicsQueen HeleneShaman Earthly OrganicsZia Natural Skincare",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

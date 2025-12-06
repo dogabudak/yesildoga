@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Purc",
+    "description": "Purc, 2013 yılında kurulmuş olan Guangzhou Locroyal Cosmetics Co. Ltd. bünyesinde üretilen şampuanlar, saç bakım kremleri, saç spreyleri ve maskeleri markasıdır.Guangzhou Locroyal Cosmetics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fleima-Plastic",
+    "description": "Fleima-Plastic Hangi Ülkenin Malı MarkasıdırFleima-Plastic, 1974 yılında kurulmuş olan Fleima-Plastic Gmbh bünyesinde üretilen tıbbi teknoloji için yüksek kaliteli enjeksiyon kalıplı parçalar ve plastikten yapılmış montajlı modüller, kozmetik ve gıda teknolojisi sektörleri için enjeksiyonla kalıplanmış bileşenler markasıdır.ISO 13485 ve ISO 9001 belgelerine sahiptir.Fleima-Plastic Gmbh 2004 yılından beri Almanya merkezli Masterflex SE grubunun bir parçasıdır.Bünyesindeki markalar;AptFleima-PlasticMasterductMasterflexMatzen & TimmNovoplast Schlauchtechnik",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Qualyns",
+    "description": "Qualyns, 2016 yılında kurulmuş olan Durel Farma İlaç Kozmetik ve Medikal San. Dış Tic. A.Ş. bünyesindeki şampuanlar, aloe vera jel, beyazlatıcı syndet sabunu, canlandırıcı tonik, epilasyon sonrası ve vücut nemlendiriciler, güneş kremi, kayısı çekirdeği peeling, serumlar, shiny saç serumu, vücut losyonu, yüz beyazlatıcı serum, yüz kremleri, yüz maskeleri, yüz temizleme jeli, yüz temizleme sütü markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kashi",
+    "description": "Kashi, WK Kellogg Co. bünyesindeki mısır gevreği markasıdır.WK Kellogg Co. Amerika merkezlidir.Bünyesindeki markalar;Bear NakedFroot LoopsFrosted FlakesKashiRaisin BranRice KrispiesSpecial K",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jungo Connectivity",
+    "description": "Jungo Connectivity, 2013 yılında kurulmuş olan Jungo Connectivity Ltd. bünyesindeki kamera tabanlı sürücü izleme yazılımı markasıdır.Bu çift kameralı sistem, dünya çapında erişilebilen gerçek zamanlı uyarılar, olay kaydı, trend analizi ve sürücü puanlaması için yapay zeka video analizlerini kullanıyor.Jungo Connectivity Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

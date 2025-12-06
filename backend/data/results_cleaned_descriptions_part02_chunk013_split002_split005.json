@@ -1,0 +1,48 @@
+[
+  {
+    "company": "La Scada",
+    "description": "La Scada, 2011 yılında kurulan Dns Deri Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki deri giyim ürünleri markasıdır.Dns Deri Ürünleri San. ve Tic. Ltd. Şti. ham veya yarı mamul deriden üretilen deri ayakkabı, çanta, kemer gibi ürünleri satan Deri Giyim Mağazaları alanında faaliyet gösteren bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hayfene",
+    "description": "Hayfene, Ucuzcular Gıda Mad. San. ve Tic. A.Ş. bünyesindeki baharat, bitkisel çay, bitkisel yağ, sos, kuruyemiş ve kuru meyve ürünleri markasıdır.Orser, ISO 9001, ISO 22000, QCS International Halal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "NEF",
+    "description": "NEF, 2010 yılında Timur Holding bünyesinde oluşturulan gayrimenkul markasıdır.Nef markası 2009 yılında tescil edildi.Nef, projelerinde iç mekan ve dış cephenin yanı sıra elektrik anahtarları, kapı kolları gibi en ince ayrıntılarda tasarımı ön planda tutan konut geliştiricidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Storck Bicycle",
+    "description": "Storck Bicycle, 1989 yılında Markus Storck tarafından kurulan Storck Bicycle GmbH bünyesindeki bisiklet markasıdır.Yol bisikletleri, dağ bisikletleri, trekking bisikletleri, e-bisikletler, parçalar ve giyim ürünleri üretmektedir.Storck Bicycle GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dynapac",
+    "description": "Dynapac, 1934 yılında Donovan Werner, Stig Giertz-Hedström, Ivar Strömberg tarafından kurulan Dynapac Compaction Equipment AB bünyesindeki döşeme, mobil besleyici, silindir ve planlayıcı gibi inşaat ekipmanları markasıdır.Mobil yol yüzeyi kompaktörleri alanında dünya lideridir.Almanya, İsveç, Çin, Hindistan ve Brezilya’da üretim tesisleri bulunmaktadır.2017 yılında Fransa merkezli Fayat Grubu tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

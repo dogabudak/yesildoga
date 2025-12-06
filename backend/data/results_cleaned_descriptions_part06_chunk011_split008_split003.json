@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ahir Tost Peyniri",
+    "description": "Ahir, A101 Yeni Mağazacılık A.Ş. bünyesindeki tam yağlı eritme peyniri markasıdır.Laktoz, pastörize inek sütü, peynir mayası, peynir kültürü içermektedir.Ürünleri A101 Yeni Mağazacılık A.Ş. adına Gündoğdu Gıda Süt Ürünleri San. ve Dış Tic. A.Ş. tarafından Manisa’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Saitek",
+    "description": "Saitek, 1979 yılında kurulan Saitek Ltd. bünyesindeki bilgisayar oyun denetleyicileri, bilgisayar çevre birimleri, fareler ve klavyeler, bilgisayar + ipod hoparlörler, kulaklıklar, uçuş simülatörleri markasıdır.Saitek Ltd. 2016 yılında İsviçre merkezli Logitech international S.A. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Fentex",
+    "description": "Fentex, 2006 yılında kurulan Fentexmedical Gmbh bünyesinde üretilen endoskopi, otoloji, sinüs cerrahisi, rinoloji, ağız boşluğu, laringoloji ile ilgili medikal ürünler markasıdır.Fentexmedical Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Helvacı Ali",
+    "description": "Helvacı Ali, 2020 yılında kurulan Helvacı Ali Gıda San. Tic. A.Ş. bünyesinde üretilen irmik helvaları, tahin helvaları, tahin ve pekmez, enfes boza, kestane şekeri, kıtır helva, susamlı krokan markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma Bursa merkezlidir ve 5 ülkede 130’dan fazla şubeye sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Beauty Formulas",
+    "description": "Beauty Formulas, 2005 yılında kurulan Drammock International Ltd. bünyesindeki ayak bakımı, cilt bakımı, ağız hijyeni, tüy dökücüler ve kadın hijyen ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir ve doğal malzemelerden üretilmektedir.Drammock International Ltd. İngiltere merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

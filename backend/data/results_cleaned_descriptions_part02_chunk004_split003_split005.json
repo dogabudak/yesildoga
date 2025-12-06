@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Jackson",
+    "description": "Jackson, 1985 yılında kurulan Marmara Elektrik Elektronik San. ve Tic. Ltd. Şti. bünyesindeki küçük elektrikli ev aletleri markasıdır.Firmanın bünyesindeki markalar:JacksonJohnsonAmetekTeCeCansın",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Trina",
+    "description": "Trina, 1960 yılında kurulan Doğuş Kozmetik Gıda İnşaat Turizm Tic. A. Ş. bünyesindeki kişisel bakım ürünleri markasıdır.Ankara’da 15 bin metrekarelik, Lojistik merkezinde hizmet vermektedir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-01-20"
+  },
+  {
+    "company": "Bionsen",
+    "description": "Bionsen, 2006 yılında kurulan Coswell S.p.A. bünyesindeki deodorant markasıdır.Coswell Grup parfümeri, eczane ve çikolata olmak üzere üç üretim bölümünden oluşuyor.Coswell S.p.A. İtalya merkezli bir şirkettir.Coswell bünyesindeki markalar:AngelicaBelCane BelgattoBionsenBiorepairBipantolBlanxBraccialiniByblosDolorelax IsomarFavefucaGandiniLenigolaManilaMisterBabyPrepRapidentRenato BalestraRockfordStomygenThermaeTransvitalZanzarella",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "The Marmara Oteli",
+    "description": "The Marmara, 1978 yılında kurulurken, 1984 yılında Oğuz Gürsel’in sahibi olduğu Kiska Holding tarafından satın alınan otel zinciridir. Şirkette Yırcalı ailesinin de sembolik oranda payı bulunuyor. The Marmara Hotels’i Oğuz Gürsel’in çocukları Sabahat Bike Gürsel, Enver Kağan Gürsel ve Hüsniye Ardıç Gürsel yönetiyor.The Marmara Grubu, aynı isimle Taksim, Pera, Şişli, Antalya ve Bodrum olmak üzere toplam 5 oteli ve özel davetler için Esma Sultan Yalısı ile hizmet veriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Hector",
+    "description": "Hector, 2012 yılında kurulan AZRA Grup Makine San. ve Tic. Ltd. Şti. bünyesindeki saç kurutma makinesi markasıdır.AZRA Grup ürün yelpazesinde fön makineleri, difizorler, taraklar, düzleştiriciler, makaslar, vent fırçalar, manikür-pedikür grubu ve ağda ısıtıcılar yer almaktadır.Bünyesindeki markalar:HectorNewyork StyleBionsePulsarKashoJanakeFejicWaxessAyrıca Fenerbahçe, Beşiktaş ve Trabzonspor lisanslı saç kurutma makineleri satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

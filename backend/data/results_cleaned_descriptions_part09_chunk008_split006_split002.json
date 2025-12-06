@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Teffo",
+    "description": "“Teffo“1997 yılında kurulmuş olan NV Kon Carpets bünyesinde ithal edilen mutfak eşyası, ev eşyası, halı, dekorasyon, aydınlatma, mobilya ve zemin kaplamaları markasıdır.NV Kon Carpets Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Nükleon Laboratuvar Cihazları",
+    "description": "“Nükleon“2008 yılında kurulmuş olan Nükleon Laboratuvar ve Medikal Cihazlar Makine İmalat Kimyasal İnşaat Taahüt San. ve Tic. Ltd. Şti. bünyesindeki laboratuvar cihazları markasıdır.ISO 9001, ISO 13485, ISO 14001, ISO 18001, ISO 10002 ve TSE belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Quick Sigorta",
+    "description": "“Quick Sigorta“2017 yılında kurulmuş olan Quick Sigorta A.Ş. bünyesindeki zorunlu trafik sigortası, kasko, yangın sigortası, nakliyat sigortası, ferdi kaza sigortası markasıdır.Maher Holding A.Ş. iştiraki olan şirket İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Slipstop",
+    "description": "“Slipstop“2014 yılında kurulmuş olan Ages Tekstil Pazarlama ve San. A.Ş. bünyesindeki kaydımaz patik ve deniz ayakkabısı, şapkalar, şort, kapri, mayo, bikini, tişört, havlu, bornoz, deniz şortu, panço, plaj havlusu, yağmurluk, alıştırma mayoları, spor mayo markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hagan",
+    "description": "“Hagan“1924 yılında kurulmuş olan Hagan Ski Gmbh bünyesindeki kayak malzemeleri, tur ayakkabıları, kürkler ve aksesuarlar markasıdır.Hagan Ski Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

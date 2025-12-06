@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Insize",
+    "description": "Insize, 1995 yılında kurulan Insize Co., Ltd. bünyesindeki ölçüm aletleri markasıdır.Insize Co., Ltd. Çin merkezlidir. Ürünlerini 75’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bylion Kablo Makarası",
+    "description": "Bylion Kablo Makarası Nerenin Malı MarkasıBylion, Emfanorm Elektronik Plastik San. Tic. Ltd. Şti. bünyesinde üretilen kablo makaraları markasıdır.Komponent imalatı dahil bir çok üretim faaliyeti aynı fabrika çatısı altında gerçekleştirilmektedir. Elektronik kart tasarımları, plastik ve mekanik tasarımları kendi bünyesinde bulunan ekipleriyle yürütmektedir.Başlıca ürünleri; LED ampul, koruyucu baret, makaralı uzatma kablosu, kauçuk topraklı priz, kauçuk fiş grubudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arena Sport",
+    "description": "Arena Sport, 1972 yılında Horst Dassler tarafından kurulan Arena S.p.A bünyesindeki mayo, yüzme havuzu için gerekli tüm beachwear, iki parça yüzme takım elbise, yüzme gözlüğü, spor sandalet, su ayakkabısı, yüzme kep, havlu, eğitim araçları markasıdır.Arena S.p.A İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Erşan Et",
+    "description": "Erşan Et, 1991 yılında kurulan Erşan Et ve Et Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen sucuk, salam, sosis, kavurma ve pastırma, taze et, döner, jambon markasıdır.Ürünlerini Bilecik’te bulunan 21 bin metrekarelik alan üzerinde 13 bin 500 metrekarelik kapalı alanda üretmektedir.ISO 9001, ISO 22000, TSE Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kitpoint",
+    "description": "Kitpoint, 2016 yılında kurulan Kitpoint Proje Danışmanlık ve Tic. A.Ş. bünyesindeki otel oda içi ekipmanları, minibar, saç kurutma makinesi, otel odası para kasası, golf aracı ekipmanı markasıdır.Otel, tatil köyü, golf tesisi, hastane, site, fabrika, çiftlik, üniversite, belediye ve trafiğe kapalı tüm alanlar için amacına göre elektrikli ve benzinli hizmet araçları çözümleri sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

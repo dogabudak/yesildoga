@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Asus Zenbook",
+    "description": "2011 yılında Asustek Computer Inc. bünyesinde üretilen dizüstü bilgisayar serisidir.Ürün yelpazesi, ultra ince ve güç tasarruflu dizüstü bilgisayarlar, ayrık grafik işlem birimleri gibi eklemelerle üst düzey ve daha büyük dizüstü bilgisayarlar gibi değişen modelleri içermektedir.Asustek Computer Inc. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Tennen Nutrition",
+    "description": "Tennen Pharma İlaç Kozmetik Gıda San. ve Tic. A.Ş. bünyesindeki takviye edici gıdalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Trakya Birlik",
+    "description": "1966 yılında Babaeski, Edirne ve Lüleburgaz Yağlı Tohumlar Tarım Satış Kooperatifleri biraraya gelerek yemeklik yağ üretimi yapan Sınırlı Sorumlu Trakya Yağlı Tohumlar Tarım Satış Kooperatifleri Birliği’ni kurmuştur.HACCP, ISO 9001 belgelerine sahiptir.Firma Edirne merkezlidir. Ürünlerini entegre tesislerinde bulunan yağ fabrikasında üretmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Karasu Plastik",
+    "description": "1998 yılında kurulmuş olan Karasu Plastik Eşya ve Kalıp San. ve Tic. Ltd. Şti. bünyesinde üretilen plastik ürünler, saksılar markasıdır.Firma İstanbul merkezlidir ve ürünlerini İstanbul’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "HKJ",
+    "description": "2004 yılında kurulmuş olan Qingdao Haikejia Intelligent Equipment Technology Co. Ltd. bünyesinde üretilen pirinç, erişte, makarna gibi gıda paketleme makineleri markasıdır.Qingdao Haikejia Intelligent Equipment Technology Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve bir çok ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Akwel",
+    "description": "Akwel, 1972 yılında kurulan Mgi Coutier SA bünyesindeki otomotiv bileşenleri markasıdır.ISO 9001, ISO / TS 16949, ISO 14001 belgelerine sahiptir.Mgi Coutier SA Fransa merkezlidir. Türkiye dahil 22 ülkede 40’tan fazla tesisi bulunmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Opalinox",
+    "description": "Opalinox, 2010 yılında kurulan Opalinox Metal ve San. Ltd. Şti. bünyesinde üretilen paslanmaz çelik mutfak lavaboları, sifon ve diğer sıhhi tesisat ürünleri markasıdır.Ürünleri için ağırlıklı olarak 304 çeliği kullanırken talep olması halinde 201 çeliği de kullanmaktadır.ISO 9001 belgesine sahiptir.İstanbul merkezli firma ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Whey Shake Whey Protein Concentrate",
+    "description": "Whey Shake Whey Protein Concentrate, 2003 yılında kurulan SI03 Inc. bünyesinde üretilen proteinler, amino asitler ve antioksidanlar markasıdır.Şirket spor beslenme, sağlık ve tıbbi pazarlarda her şeyi kapsayan çeşitli protein tozları ve besin takviyeleri üretmektedir.SI03 Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cliffield Tea Earl Grey",
+    "description": "Cliffield Tea Earl Grey, 1993, Black Tea Exports (Pvt) Ltd. bünyesinde üretilen çay, yeşil çay, poşet çay ürünleri markasıdır.HACCP, ISO 22000, GMP belgelerine sahiptir.Black Tea Exports (Pvt) Ltd. Sri Lanka merkezlidir. dünyada 50’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE",
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "Sri Lanka",
+    "updated_date": "2022-05-23"
+  },
+  {
+    "company": "Calx",
+    "description": "Calx, 1992 yılında kurulan Balkanoğlu Ayakkabı Gıda ve Tekstil San. Tic. Ltd. Şti. bünyesinde üretilen spor ayakkabı, terlik ve çizme markasıdır.Bursa merkezli firma ürünlerini 9 bin 600 metrekare kapalı ve 6 bin 500 metrekarelik açık alanda üretim yapmaktadır ve ürünlerini 20’ye yakın ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

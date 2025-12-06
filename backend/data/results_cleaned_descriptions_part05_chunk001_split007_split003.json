@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dmg Mori",
+    "description": "Dmg Mori, 1870 yılında kurulan CNC makineleri, imalat, freze makineleri, torna tezgahları, torna ve değirmen komple işleme, ultrasonik, lasertec ve katkı maddesi üretimi, kalıp ürünleri markasıdır.DMG MORI, dünya çapında takım tezgahı üreticisidir.2016 yılından beri Alman-Japon şirketi Global one Company bünyesinde faaliyet göstermektedir.Almanya’nın en büyük kesme makinesi üreticilerinden biridir ve aynı zamanda CNC kontrollü Torna ve Freze makinelerinin önde gelen küresel üreticisidir. 86 ülkede 15 üretim tesisi ile faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Amuage",
+    "description": "Amuage, 1983 yılında kurulan Amouage Ltd. bünyesindeki parfüm markasıdır.Uluslararası bir lüks parfüm evidir. Amouage Ltd. Umman merkezli Omani Sabco Group bünyesindedir. Ürünleri dünya çapında 80’den fazla ülkede mevcuttur.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Gatech",
+    "description": "Gatech, 2003 yılında kurulan Ege Elektrik Metal Gaz Endüstri San. ve Tic. Ltd. Şti. bünyesindeki ısıtıcı, fön makinesi, fırın, robot süpürge, su ısıtıcısı, vantilatör markasıdır.Yerli sermayeli firma bazı ürünlerini ithal ederken, bazı ürünlerini ise fabrikasında üretim hatlarında işleyerek setler halinde satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Homstar Ülkennin",
+    "description": "Homstar, 1984 yılında kurulan Ünsal Yapı ve Ticaret Şirketi bünyesinde ithal edilen led tv, ev sinema sistemleri, dijital uydu alıcıları, elektrikli ev aletleri, dvd oynatıcıları, oto ses sistemleri markasıdır.Ünsal Yapı tüketici elektroniği ve elektrikli ev aletleri alanında faaliyet gösteren İstanbul merkezli firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Esaslı",
+    "description": "Esaslı, 2000 yılında Şevket Sabancı ve ailesi tarafından kurulan Esas Holding iştiraki Esaslıgrup Gıda San. ve Tic. A.Ş. bünyesinde üretilen et ve şarküteri ürünleri, dondurulmuş yemeklik et ürünleri markasıdır.ISO 9000, ISO 22000 ve Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Colruyt",
+    "description": "Colruyt, 1925 yılında kurulmuş olan Colruyt Group nv bünyesindeki gıda ve gıda dışı dağıtım sektöründe faaliyet gösteren mağazalar markasıdır.Colruyt Group nv Belçika merkezlidir. Belçika, Fransa ve Lüksemburg’da 600’den fazla kendi mağazası ve 580’den fazla bağlı mağazası ile faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "DTİ Implant",
+    "description": "DTİ Implant, 2009 yılında kurulmuş olan DTİ İmplant Sistemleri San. ve Tic. A.Ş. bünyesinde üretilen implant sistemleri markasıdır.Ürünleri tüm dünyadan bilim adamları, doktorlar ve mühendisler tarafından tasarlanmıştır.EN ISO 13485 belgesine sahiptir.Firma Kocaeli merkezlidir. Avrupa Konseyi Kalkınma Bankası tarafından desteklenmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Storage Drop",
+    "description": "Storage Drop, 1998 yılında kurulmuş olan Storage Drop Storage Technologies Ltd. bünyesindeki enerji depolama alanında çözümler markasıdır.Güneş ve rüzgar enerjisi üreticileri ve ısıtma, havalandırma, iklimlendirme (HVAC) uygulamaları için yenilenebilir enerji karlılığını en üst düzeye çıkaran yenilenebilir enerji depolama sistemleri geliştirmektedir.Storage Drop Storage Technologies Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Çamsan Parkelam",
+    "description": "Çamsan Parkelam Nerenin Malı MarkasıÇamsan Parkelam, 1978 yılında kurulmuş olan Çamsan Entegre Ağaç San. ve Tic. A.Ş. bünyesinde üretilen laminat parke, mdflam ve mdf ürünleri markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Sakarya 2. OSB’de 90 bin metrekaresi kapalı toplam 300 bin metrekarelik alanda üretmektedir ve birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Esri",
+    "description": "Esri, 1969 yılında Jack Dangermond ve Laura Dangermond tarafından kurulmuş olan Esri Inc. bünyesinde üretilen dijital haritalama ve analiz, ticari coğrafi bilgi sistemi yazılımı markasıdır.Esri Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

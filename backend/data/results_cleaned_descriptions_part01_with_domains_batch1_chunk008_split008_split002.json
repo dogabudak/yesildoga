@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Rubenis",
+    "description": "Rubenis, 1996 yılında kurulan HUAYU ELECTRICAL APPLIANCE GROUP CO. LTD. firması tarafından üretilen ev aletleri ürünleri markasıdır.HUAYU şirketinin ürünlerinin tamamı Çin’de üretilmektedir.Türkiye’de Balcı İç ve Dış Ticaret Limited Şirketi tarafından ithal edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Edenred Ülke",
+    "description": "Edenred, 1992 yılında kurulan Edenred SE bünyesindeki ön ödemeli kuponlarla yemek hizmeti markasıdır.Firma 42 ülkede özel ve kamu sektörlerinde üye kuruluşlara ve müşterilere hizmet vermektedir. Türkiye’de yemek kuponu hizmetini sunan ilk uluslararası firmadır.Edenred SE Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2022-06-14"
+  },
+  {
+    "company": "Alarko",
+    "description": "Alarko1954 yılında İshak Alaton ve Üzeyir Garih tarafından kurulmuş olan Alarko Holding A.Ş. bünyesindeki ısıtma, klima, soğutma, taahhüt, enerji, hafif sanayi, turizm, su ürünleri , gayrimenkul, altyapı inşaatı, finans faaliyetleri markasıdır.Holding İstanbul merkezlidir. 1998 yılında Amerika merkezli iklimlendirme firmalası Carrier ile eşit oranda Alarko Carrier adında ortaklık kurmuştur.Hissedarları:İzzet Garih (yüzde 17,6)Leyla Alaton (yüzde 14,7)Vedat Aksel Alaton (yüzde 14,2)Dalia Garih (yüzde 13)Dİğer (yüzde 40,2)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-07-24"
+  },
+  {
+    "company": "Carrier",
+    "description": "Carrier, 1915 yılında mühendis Willis Haviland Carrier tarafından kurulan iklimlendirme firmasıdır.Şirket 1979 yılından beri Amerikan merkezli United Technologies bünyesindedir.1975 yılında kurulan United Technologies Corporation; uçak motoru, helikopter, ısıtma, havalandırma ve soğutma, yakıt hücreleri, asansör ve yürüyen merdiven, yangın ve emniyet sistemleri, bina sistemleri ve endüstriyel ürünler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vaillant",
+    "description": "Vaillant, 1874 yılında Johann Vaillant tarafından kurulan; ısıtma ve havalandırma ürünleri markasıdır.Vaillant, Alman markasıdır.Vaillant Türkiye, 1992 yılında tümüyle yabancı sermaye ile kuruldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-07-17"
+  }
+]

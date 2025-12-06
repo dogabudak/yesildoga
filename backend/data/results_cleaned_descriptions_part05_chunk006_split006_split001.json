@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Abel Odor",
+    "description": "Abel Odor, 2011 yılında Frances Shoemack tarafından kurulan Abel Odor Limited bünyesinde üretilen yüzde yüz doğal malzemelerden üretilen parfüm markasıdır.Abel Odor Limited Yeni Zelanda merkezlidir ve ürünlerini 33 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NZ",
+    "updated_date": "2021-11-18"
+  },
+  {
+    "company": "Ege Bal",
+    "description": "Ege Bal, 1996 yılında kurulan Netka Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen bal ve zeytinyağı markasıdır.Ürünlerini İzmir Aliağa OSB’de 10 bin metrekarelik açık ve 4 bin 675 metrekarelik kapalı alanda bulunan tesislerinde üretmekte ve çok sayıda ülkeye ihraç etmektedir.ISO 22000, ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Unold",
+    "description": "Unold, 1966 yılında kurulan Unold AG bünyesinde üretilen elektrikli mutfak ve ev aletleri markasıdır.Küçük mutfak ürünleri, fanlar, fanlı ısıtıcılar, saç kurutma makineleri, fırınlar vb. ürün yelpazesine sahiptir.Unold AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pizzamaster",
+    "description": "Pizzamaster, 1992 yılında kurulan Svenska Bakepartner AB bünyesinde üretilen taş ocaklı fırınlar markasıdır.Fırın ve pizza fırınları ürün yelpazesine sahiptir. Dünyanın en büyük elektrikli güverte fırın serisine sahiptir.Svenska BakePartner AB İsveç merkezlidir ve ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Steba",
+    "description": "Steba Germany, 1919 yılında kurulan Steba Elektrogeräte GmbH & Co. KG bünyesinde üretilen ütü, tost makinesi, su ısıtıcısı, ocak, elektrikli barbekü, fritöz, küçük fırınlar, elektrikli ızgaralar vb. ürünler markasıdır.Steba Elektrogeräte GmbH & Co. KG Almanya merkezlidir. Ürünlerini Almanya’da üretmekte ve 45’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

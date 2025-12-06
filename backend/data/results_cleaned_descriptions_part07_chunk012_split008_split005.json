@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Essence Saat",
+    "description": "Essence, 1985 yılında kurulmuş olan Arıkan Saat A.Ş. bünyesindeki saat markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BHPCBelmondCitizenEssenceGantKenneth ColeLeecooperPoliceQuantumSlazengerWainer",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sude Deterjan",
+    "description": "Sude, 1965 yılında kurulmuş olan Sudesan Temizlik Ürünleri ve Ambalaj San. Tic. A.Ş. bünyesinde üretilen temizlik ürünleri markasıdır.ISO 9001, ISO 14001, BRC CP, ISO 22716, OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;Cool TouchCountry AirCundaCylon LaboratoriesFennzaI My BabyI My BodyI My HomeI My RoutineInga BabyJor-ElKindergartenNezkoOyroPerıtoPoolitePoopsyQcSavıaSudeSudesanTyrox XplusVaedolWafZim",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Specialized",
+    "description": "Specialized, 1974 yılında kurulmuş olan Specialized Bicycle Components Inc. bünyesindeki bisiklet ve bisiklet bileşenleri markasıdır.Specialized Bicycle Components Inc. Amerika merkezlidir.Bünyesindeki markalar;AethosAllezArmadilloComoCreoCruxDıvergeEpicHardrockKenevoMeeperPortoR RetülRetülRoubaıxSırrusSpecializedStumpjumperS-WorksVadoVerto",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Marisol Gözlük",
+    "description": "Marisol, 2009 yılında kurulmuş olan Filiz Aksesuar Gözlük ve Saat Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki gözlükler, güneş gözlükleri, lensler ve kutuları, kılıfları, parçaları ve aksesuarları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baseh",
+    "description": "Baseh, 2017 yılında kurulmuş olan Bahtiyar Motor Tic. San. Ltd. Şti. bünyesindeki motorlu testerelere takılabilen kabuk soyma, oyma, planya ve motorlu tırpanlara takılabilen ürün hasat, çapalama aparatları ve motorlu testere ve motorlu tırpanlar markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

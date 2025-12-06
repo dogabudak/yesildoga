@@ -1,0 +1,48 @@
+[
+  {
+    "company": "PerkinElmer",
+    "description": "PerkinElmer, 1937 yılında Richard Scott Perkin tarafından kurulan PerkinElmer, Inc. analitik aletler, laboratuvar teknolojileri, tıbbi görüntüleme ekipmanı, tanı testleri, kordon kanı bankacılığı, laboratuvar hizmetleri markasıdır.Optoelektronik bölümü, sayısal görüntüleme ve özel ışıklandırma takımı tasarlar ve imal eder.PerkinElmer, Inc. yaşam ve analitik bilimler, optoelektronik ve akışkanlar bilimleri alanlarında çalışan, Amerika kökenli uluslararası bir şirkettir. Dünyada 125 ülkede faaliyet göstermektedir. Türkiye’de PerkinElmer, A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "LG Seeds",
+    "description": "LG Seeds, 2000 yılında kurulan AgReliant Genetics, LLC bünyesindeki mısır, soya fasulyesi ve yonca tohumu markasıdır.Mısır, soya fasulyesi, yonca, sorgum, hassas ekim, araştırma, üretim, kalite, mısır yetiştiriciliği, mısır üretimi, soya üretimi, tescilli germplazm, genetik çeşitlilik, yonca üretimi, sorgum üretimi, tohum tedavileri üzerine faaliyet göstermektedir.Amerika’nın üçüncü büyük mısır tohumu şirketidir.AgReliant Genetics bünyesindeki markalarAgriGoldLG SeedsPRIDE Seeds",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "W-Lab Madeleb",
+    "description": "Madeleb, 2009 yılında kurulan Land Of Cosmetics Kimya San. ve Tic. Ltd. Şti. bünyesindeki nemlendirici cilt bakım kremi markasıdır.Lavanta yağı, papatya özü ve aynı safa özü içeren krem Norm Bitkisel Ürünler Paz. San. Tic. Ltd. Şti. tarafından Türkiye’de üretilmektedir.Bünyesindeki markalar;CandyvitCentellinLand Of CosmeticsLocMadelabMadelebMadeleb Plus +NutrinewUltramisUltramissW Lab CosmeticsW Lab KozmetikW Lab MadelebWlabW-LabW-Lab CosmeticsW-Lab Cosmetics AvrupaW-Lab Cosmetics EuropeW-Lab KozmetikWlab MadelabW-Lab Madeleb",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-10-26"
+  },
+  {
+    "company": "Silky Lip Liner",
+    "description": "Silky Lip Liner, 2011 yılında kurulan Ekka Kozmetik Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki dudak kalemi markasıdır.Ekka Kozmetik, lisanslı kozmetik ürünlerinin üretimini, pazarlamasını ve dağıtımını yapmaktadır. ISO 9001 – GMP belgelerine sahiptir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lanaform",
+    "description": "Lanaform, 1975 yılında kurulan LANAFORM SA bünyesinde üretilen arnicaps bel ve mide sıkılaştırıcı ve şekillendirici mikrokapsül korse markasıdır.Üst karın, karın, kalça ve baldır bölgelerinde etkilidir.LANAFORM SA, Belçika merkezlidir. Dünya çapında 40’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

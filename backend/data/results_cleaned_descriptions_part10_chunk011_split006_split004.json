@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bidalli",
+    "description": "2021 yılında kurulmuş olan Lumiere Co. Ltd. bünyesinde üretilen cilt bakımı serumu, göz kremi ve maskesi, güneş kremi, yüz kremi ve losyonu markasıdır.Lumiere Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Baby Trend",
+    "description": "1988 yılında kurulmuş olan Baby Trend Inc. bünyesindeki bebek ürünleri, bebek arabaları, katlanabilir nefes alabilen beşik yatak ve bebek malzemeleri, oto koltukları, mama sandalyeleri markasıdır.Baby Trend Inc. Amerika merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Simonds Saw",
+    "description": "1832 yılında kurulmuş olan Simonds International LLC bünyesindeki kesici takımlar ve ilgili ekipmanlar, metal, ahşap, kağıt ve plastik ürünleri kesmek için aletler markasıdır.Simonds International LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sqwincher",
+    "description": "1992 yılında kurulmuş olan Sqwincher Corporation bünyesinde üretilen spor içeceği, hazır içecek, buzlukta dondurulmuş ürünler, sıvı ve toz konsantreler markasıdır.Kent Precision Foods Group Inc. Amerika merkezlidir.Bünyesindeki markalar;EverlyteFast PackHydrationCare 360PowderPackProfessional Grade HydrationQwikServQwikStikSqwincherThick-It",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Markal",
+    "description": "1934 yılında kurulmuş olan LA-CO Industries LLC bünyesindeki sıvı, katı boya kalemleri, işaretleme araçları, sıcaklık gösterge araçları, sıhhi tesisat, hvac için kimyasallarLA-CO Industries LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Heaven on Earth",
+    "description": "Heaven on Earth, 2020 yılında kurulmuş olan GG Pharma Kozmetik ve İlaç San. Tic. A.Ş. bünyesindeki çatlak yağı, şampuan, bebek köpük şampuanı, bebek masaj yağı, bebek ve çocuk şampuanı, deo roll-on fresh, mineral güneş kremi, pişik kremi, vücut koruyucu sprey markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "BPW Dingil",
+    "description": "BPW, 1898 yılında kurulmuş olan BPW Bergische Achsen KG bünyesinde üretilen kamyon römorkları ve yarı römorklar için komple çalışan dişli sistemler, dingil, aks sistemleri, fren teknolojisi, süspansiyon ve rulmanlar markasıdır.BPW Bergische Achsen KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Akaso",
+    "description": "Akaso, 2017 yılında kurulmuş olan Shenzhen Cnest Electronic Technology Co. Ltd. bünyesinde üretilen taşınabilir medya oynatıcılar, set üstü kutular, radyolar, mikrofonlar, araba video kaydedicileri, kameralar, fotoğraf filtreleri, fotoğraf aparatı anlamına gelir, projeksiyon aparatı, mini projektörler, teleskoplar, izinsiz giriş alarmları, endüstriyel amaçlı endoskopi kameraları, kameralar ve fotoğraf ekipmanları için özel olarak uyarlanmış çantalar, kızılötesi kameralar, güvenlik kameraları, web kameraları, video bebek monitörleri, anahtarlar, elektrik, hırsızlık önleme kurulumları, elektrik, kameralar, hoparlörler için dolaplar, saatler içeren radyolar, elektrikli kapı zilleri, ölçekler, hayvanlar için elektronik tanımlama cihazları, bebek monitörleri, sanal gerçeklik kulaklıkları, kulaklıklar, elektronik kitap okuyucular, kamera kılıfları, fişler, soketler ve diğer kontaklar, uzaktan kumanda aparatı, spor için koruyucu kasklar, dalgıç maskeleri, kilitler markasıdır.Shenzhen Cnest Electronic Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Chocorite",
+    "description": "Chocorite, 2005 yılında kurulmuş olan HealthSmart Foods Inc. bünyesinde üretilen düşük karbonhidratlı şekerler, çikolata barları, protein çubukları markasıdır.Firma düşük karbonhidratlı, düşük kalorili, az yağlı, şekersiz çikolatalar üretmektedir.HealthSmart Foods Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Herbivore",
+    "description": "Herbivore, 2011 yılında Julia Wills ve Alexander Kummerow tarafından kurulmuş olan Herbivore Botanicals bünyesinde üretilen doğal cilt ve vücut bakım ürünleri markasıdır.Ürünleri sentetik bileşenler içermez. Ürünlerinde doğal bileşenler, bitki bazlı gıda sınıfı soğuk preslenmiş yağlar, buharla damıtılmış terapötik dereceli uçucu yağlar, GDO’suz soya mumu kullanılır. Hayvanlar üzerinde test edilmemektedir.Herbivore Botanicals Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

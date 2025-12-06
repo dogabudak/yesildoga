@@ -1,0 +1,51 @@
+[
+  {
+    "company": "T&G",
+    "description": "T&G Hangi Ülkenin Malı MarkasıdırT&G, 2019 yılında kruulan Shenzhen Chengtai Electronic And Technology Co. Ltd. bünyesinde üretilen güneş enerjili bluetooth radyolar, saatli radyolar, mini hoparlör, fenerli radyolar, led ışıklı hoparlörler, bt hoparlör, taşınabilir hoparlörler, bluetooth kulaklık ve kulakiçi kulaklık markasıdır.ISO 9001, ISO 9000, ISO 14001 belgelerine sahiptir.Shenzhen Chengtai Electronic And Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dektec",
+    "description": "Dektec, 2000 yılında kurulan Dektec Digital Video B.V. bünyesindeki test ve ölçüm ürünleri, operasyonel yazılımlar, bilgisayar eklenti kartları, USB aygıtları, ağ aygıtları ve bağımsız IP dönüştürücüsüDekTec Digital Video B.V. Hollanda merkezlidir. Ürünleri 40’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Oqan",
+    "description": "Oqan, Hol Music Dral S.L.U bünyesindeki mandolinler, havai kitarası, akustik gitarlar, bas gitarlar, klasik gitarlar, elektrogitar, Çellolar, kontrbas keman markasıdır.Akustik, elektrik ve bas gitarlardan, orkestra telli çalgılara kadar geniş bir ürün yelpazesine sahiptir.Hol Music Dral, S.L.U İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Dveo",
+    "description": "Dveo, 1981 yılında kurulan DVEO Computer Modules Inc. bünyesindeki ip’den sdi kod çözücüye, iptv ve ott için çok kanallı kod dönüştürücüler, iptv ve ott için ip video dağıtımı, sdi’den ip akış kodlayıcısına, tek noktaya yayın-çok noktaya yayın cihazları markasıdır.IP üzerinden video kodlama, kod dönüştürme, sunma ve kod çözme konusunda uzmanlaşmıştır. Gelişmiş yüksek standart tanımlı kodlama ve akışıyla cihazları; H. 264 AVC, H. 265, MPEG-2, HLS, RTMP, RTSP, IGMP, Çok noktaya Yayın vb. gibi video kodeklerini, protokollerini ve paketleyicilerini ve kapsayıcılarını destekler.DVEO Computer Modules Inc. Amerika merkezlidir.",
+    "documents": [
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mastodon",
+    "description": "Mastodon, 2016 yılında Eugen Rochko tarafından kurulan Mastodon Ggmbh bünyesindeki ücretsiz, açık kaynaklı, merkezi olmayan bir sosyal ağ markasıdır.Mastodon Ggmbh, merkezi Almanya’da bulunan ve öncelikle bağışlarla finanse edilen kâr amacı gütmeyen bir kuruluştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

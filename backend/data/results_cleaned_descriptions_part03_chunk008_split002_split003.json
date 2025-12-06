@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Janssen Cosmetics",
+    "description": "Janssen Cosmetics, 1990 yılında Walther Janssen tarafından kurulan Janssen Cosmetics GmbH bünyesindeki cilt bakım ürünleri markasıdır.Ürünlerini 80’e yakın ülkede dağıtmaktadır.Janssen Cosmetics GmbH Almanya merkezlidir ve ürünlerini Almanya’da üreterek Alman malı mührü taşıyarak pazarlamaktadır. TÜV belgelerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Peter Thomas Roth",
+    "description": "Peter Thomas Roth, 1993 yılında kurulan Peter Thomas Roth Labs LLC. bünyesindeki cilt bakımı ürünleri markasıdır.Şirket parfüm, kozmetik, cilt bakımı ve diğer ürünler sunmaktadır.Peter Thomas Roth Labs LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Histomer",
+    "description": "Histomer, 1982 yılında Vittorio Bortolin tarafından kurulan Valetudo Srl. bünyesinde üretilen cilt bakım ürünleri markasıdır.EN ISO 9001 belgesine sahiptir.Valetudo Srl. İtalya merkezlidir ve ürünlerini İtalya’da üreterek İtalya malı mührüyle 30’dan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar:BiogenaCalciferinaHistomerPlanta Pura",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Klapp",
+    "description": "Klapp, 1980 yılında Gerhard Klapp tarafından kurulan Klapp Cosmetics GmbH bünyesindeki göz çevresi, yüz, el ve ayak, sakal, vücut, boyun ve dekolte , dudak bakım ürünler, kırışıklık giderici, anti aging ürünler, cilt keleri için ürünler, akne önleyici ürünler, problemli cilt ürünleri, olgun cilt ürünleri, erkek cilt ürünleri, temizleyici ve nemlendirici ürünler, selülit ürünleri markasıdır.Ürünleri 60’tan fazla ülkede satılmaktadır.Klapp Cosmetics GmbH Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.Bünyesindeki markalar:Clinical CareGk CosmeticsHealth CosmeticalsKlapp GroupRepacell",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tiande",
+    "description": "Tiande, 2007 yılında kurulan Tiande Limited Liability Company bünyesindeki cilt bakım, makyaj ve saç bakım ürünleri, diş ve ağız hijyen ürünleri, wellness ve spa ürünleri, kişisel hijyen ürünleri, sağlık ürünleri, el ve ayak bakım ürünleri, vücut şekillendirme ürünleri markasıdır.Tiande ürünleri Çin, Avrupa ve Rusya’da üretilmektedir. ISO 9001 ve GMP belgelerine sahiptir.Tiande Limited Liability Company Rusya merkezlidir. Altay bölgesinde dünyanın en ekolojik temiz bölgelerinden birinde kurulmuş uluslararası bir güzellik ve sağlık şirketidir. Tiande markası 32 ülkede bulunmaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

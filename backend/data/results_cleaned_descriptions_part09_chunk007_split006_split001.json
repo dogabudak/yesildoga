@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Angie",
+    "description": ",“Angie“2011 yılında kurulmuş olan Rebul Jcr Kozmetik Pazarlama A.Ş. bünyesindeki parfüm, vücut spreyi markasıdır.Firma İstanbul merkezlidir. Ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vidaa",
+    "description": "“Vidaa“2019 yılında kurulmuş olan Vidaa Usa Inc. bünyesindeki akıllı televizyon işletim sistemi ve içerik platformu markasıdır.Ses kontrolü, uygulama mağazası, faturalandırma, ödeme ve çok daha fazlasını içeren bir Linux tabanlı işletim sistemidir. 200’den fazla uygulama içermektedir.Vidaa Usa Inc. Çin merkezli Hisense Electric Co. Ltd.’nin bir yan kuruluşudur.2024 yılında şirketin yüzde 4,64 oranındaki hissesini satın almak için Vestel bir iyi niyet mektubu imzalamıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2024-09-19"
+  },
+  {
+    "company": "Çamlıbel Nural",
+    "description": "“Çamlıbel Nural Kaynak Suları“1992 yılında kurulmuş olan Çamlıbel Nural Memba Suyu Gıda Temizlik Maddeleri Tarım Orman Ürün. Tur. Mak. Amb. Paz. San. İth. İhr. ve Tic. Ltd. Şti. bünyesinde üretilen kaynak suyu markasıdır.Su hiçbir işleme tabii tutulmaz.Firma Hatay merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Unicus",
+    "description": "“Unicus“2017 yılında kurulmuş olan Unicus Kırtasiye İth. İhr. Tic. Ltd. Şti. bünyesindeki kalemler, kalem kutusu, silgi, kalemtraş, kalem tutacağı, yazı aksesuarları, hediyelik eşyalar, okul araç ve gereçleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Abka",
+    "description": "“Abka“1997 yılında kurulmuş olan Abka Kırtasiye ve Ambalaj San. Tic. Ltd. Şti. bünyesindeki Dosyalama ürünleri, çantalar, ofis kırtasiye ürünleri, defter, ajanda, satranç takımı markasıdır.Firma İstanbul merkezlidir. Ürünlerini 17 bin metrekarelik tesislerinde üretim yapmaktadır.Bünyesindeki markalar;AbkaBagageBond ProjeCetvelpergelIşıkbayKaratuvalPlasmechProartRulo TüpSanart",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

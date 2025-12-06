@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Prolucky",
+    "description": "“ProLucky“2022 yılında GlobalStore Elektronik A.Ş. bünyesinde kurulmuş olan elektrikli scooter markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dorman Products",
+    "description": "“Dorman Products“1918 yılında kurulmuş olan Dorman Products Inc. bünyesinde üretilen otomotiv ürünleri markasıdır.Doğrudan değiştirilebilen otomotiv ve ağır hizmet parçaları, orijinal arıza modlarını ortadan kaldırmak için yeniden tasarlanmış parçalar sunmaktadır.Dorman Products Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "ADVA Optical Networking",
+    "description": "“ADVA Optical Networking“1994 yılında kurulmuş olan ADVA Optical Networking SE bünyesindeki dalga boyu bölmeli çoklayıcılar, taşıyıcı ethernet erişim ürünleri, ağ yönetim yazılımı markasıdır.ADVA Optical Networking SE 2021 yılında Amerika merkezli Adtran Inc. ile birleşti.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Daorkow",
+    "description": "“Daorkow“Changsha Daoerke Network Technology Co. Ltd. bünyesinde üretilen hoparlörler, akıllı telefonlar, akıllı saatler, geri sayım sayaçları ve alarmlar markasıdır.Changsha Daoerke Network Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pro Nutrition",
+    "description": "“Pro Nutrition“1999 yılında kurulmuş olan S.C. Pro Nutrition Impex S.R.L. bünyesindeki gıda takviyeleri, protein konsantreleri, vitaminler, mineraller markasıdır.ISO 9001 belgesine sahiptir.S.C. Pro Nutrition Impex S.R.L. Romanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RO",
+    "updated_date": null
+  }
+]

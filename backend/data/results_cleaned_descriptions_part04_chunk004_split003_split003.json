@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Lenco",
+    "description": "Lenco, 2015 yılında kurulan Commaxx International NV bünyesindeki pikap, radyo, hoparlör, Hi-Fi ve tüketici elektroniği ürünleri markasıdır.Commaxx International NV İsviçre merkezli Commaxx International’ın bir parçasıdır. Commaxx International markaları kendi web mağazaları ile ulusal ve yerel dağıtıcılar aracılığıyla tüm dünyada satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Powerboost",
+    "description": "Powerboost, 1897 yılında Viktor Gehrig tarafından kurulan Gema GmbH bünyesinde üretilen elektrostatik toz boya ekipmanları markasıdır.Ürünleri 60’tan fazla ülkede dağıtım ağıyla pazarlanmaktadır.Gema GmbH 2012 yılında sıvı taşıma sistemleri ve bileşenleri tedarikçisi olan Amerika merkezli Graco Group’un bir parçası olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "DALI",
+    "description": "DALI, 1983 yılında Peter Lyngdorf tarafından kurulan DALI A/S bünyesindeki hoparlör markasıdır.Dünyada 65’ten fazla ülkede pazarlanmaktadır.DALI A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Epos",
+    "description": "Epos, 1983 yılında Robin Marshall tarafından kurulan Epos Ltd. bünyesindeki Hi-Fi ve ev sineması hoparlörleri markasıdır.Epos Ltd. 2020 yılında Finkteam’in kurucusu Karl-Heinz Fink tarafından satın alındı. Creek Audio Ltd, yedek parçalardan sorumlu olmaya devam edecek.İngiltere merkezli Epos Ltd. Almanya ve İngiltere’den yönetilecek.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "MartinLogan",
+    "description": "MartinLogan, 1979 yılında Gayle Martin Sanders ve Ron Logan Sutherland tarafından kurulan MartinLogan, Ltd. bünyesindeki açık hoparlörler ve subwoofer, tavan hoparlörleri ve duvar hoparlörler, dts çalıştır özelliğine sahip elektrostatik ve katlanmış hoparlörler, floorstanding hoparlörler, ev sinema hoparlörleri, stereo hoparlörler, soundbars, kablosuz hoparlör sistemleri markasıdır.MartinLogan, Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

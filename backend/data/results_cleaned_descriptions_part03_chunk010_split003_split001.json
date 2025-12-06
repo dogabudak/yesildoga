@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Pozis",
+    "description": "Pozis, 1898 yılında kurulan Pozis Jsc bünyesindeki ev soğutucu aletleri, cam kapılı soğutucu dolaplar, tıbbi cihazlar ve makine yapımı ürünler markasıdır.Pozis Jsc Rusya merkezlidir.Rusya Mekanik Mühendisleri Birliği kamu kuruluşunun da bir üyesidir. Tataristan ve Rusya’da endüstriyel kalkınmaya önemli ölçüde katkıda bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Swolx",
+    "description": "Swolx, 1990 yılında kurulan Hatipoğlu Ayakkabı ve Deri Sanayi Ticaret Ltd.Şti. bünyesinde üretilen iş güvenlik ayakkabıları, kıyafetleri ve aksesuarları markasıdır.Ürünlerini İstanbul ve Çankırı’da bulunan fabrikalarında üretmektedir. ISO 20345 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 20345"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Olefini",
+    "description": "Olefini, 1977 yılında kurulan Olefini S.A. bünyesindeki hava perdesi yelpazesi, fan bobinleri, fan ısıtıcıları, plastik fanlar, havalandırma ekipmanları, klima ve ısıtma aksesuarları markasıdır.Klima, ısıtma veya soğutma endüstrisi için plastik fanlar ve aksesuarlar için geniş bir yelpazede üretim yapmaktadır. Şirket mühendislik bölümü, elektronik araştırma ve geliştirme laboratuvarı, rotor montaj ve denge tesisi, enjeksiyon kalıplama atölyesi, hava perdesi montajcısı ve test merkezini içermektedir.Olefini S.A. Yunanistan merkezlidir. OLEFINI ürünlerini İspanya, Fransa, İsveç, Belçika, Rusya, BDT ülkeleri gibi 30’dan fazla ülkede dağıtmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": "2020-07-26"
+  },
+  {
+    "company": "Sani-Vac",
+    "description": "Sani-Vac, 1975 yılında kurulan Sani-Vac Service Inc. bünyesinde hizmet veren son teknoloji ekipmanlarla ticari ve endüstriyel uygulamalar için yüksek kaliteli kapalı hava temizlik hizmetleri markasıdır.Ticari, endüstriyel, kurumsal iklimlendirme hava kanalı ve mutfak havalandırma temizliği için son teknoloji ekipmanlarla çözümler sunar.Sani-Vac Service Inc. hastane, okul, daire, restoran, perakende mağazası, kamu binası, üretim ve sanayi tesisleri, fabrika, yüksek katlı bina gibi yerlerde HVAC temizlik ve ticari mutfak havalandırma yağ giderici hizmetleri sağlayan Amerika merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Davines",
+    "description": "Davines, 1984 yılında kurulan Davines S.P.A. bünyesindeki kozmetik ürünler markasıdır.Cilt ve saç bakımı konusunda uzmanlaşmış ürünler güzellik profesyonelleri için ürünler üretmektedir.Davines S.P.A. Hollanda, Fransa, İngiltere, Amerika ve Meksika’da ticari ofisleri ve dünya çapında 80’den fazla dağıtıcısı olan İtalya merkezli bir aile kozmetik şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

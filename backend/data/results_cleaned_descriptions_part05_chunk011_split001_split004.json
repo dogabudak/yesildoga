@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Elkline",
+    "description": "Elkline, 1999 yılında Stephan Knüppel tarafından kurulan Elkline Gmbh bünyesindeki kadın, erkek ve çocuk giyim ürünleri markasıdır.Tişörtlerinde veya Biyo-kazaklarında organik pamuk ve doğal lifler kullanmaktadır. Polar, geri dönüştürülmüş Polyester ile üretilmektedir.Elkline Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Westlake Chemical",
+    "description": "Westlake Chemical, 1986 yılında Ting Tsung Chao tarafından kurulan Westlake Chemical Corporation bünyesindeki, çeşitli tüketici ve endüstriyel pazarlar için temel olan petrokimya, polimer ve fabrikasyon yapı ürünleri markasıdır.Westlake Chemical Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Imice",
+    "description": "Imice, 2007 yılında kurulan Huizhou Shendongshi Electronic Co. Ltd. bünyesinde üretilen fare, klavye, kablosuz fare, oyun faresi, oyun klavyesi, kulaklık, usb bluetooth markasıdır.Huizhou Shendongshi Electronic Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Silicon Labs",
+    "description": "Silicon Labs, 1996 yılında kurulan Silicon Laboratories Inc. bünyesindeki mikrodenetleyiciler, sensörler, akıllı kablosuz teknolojileri markasıdır. Donanım alanındaki ürün yelpazesi, mikro denetleyiciler, zamanlama bileşenleri, düşük güçlü sensörler ve kablosuz modüllerden oluşur.Çeşitli bağlı cihazlarda kullanılmak üzere yarı iletken ürünler sunar. Buna taşınabilir cihazlar, radyolar, tüketici elektroniği, ağ cihazları, enstrümantasyon, endüstriyel elektronik ve ev otomasyonu dahildir.Silicon Laboratories Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vulcan Materials",
+    "description": "Vulcan Materials, 1909 yılında kurulan Vulcan Materials Company bünyesinde üretilen kırma taş, kum ve çakıl markasıdır.İnşaat malzemeleri üreticisidir.Vulcan Materials Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

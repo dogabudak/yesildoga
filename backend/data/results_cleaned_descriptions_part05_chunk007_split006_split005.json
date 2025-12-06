@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Fehn",
+    "description": "Fehn, 1949 yılında Arthur Fehn tarafından kurulan Fehn Gmbh & Co. Kg bünyesindeki bebek ve çocuk oyuncakları, tutaç ve çıngırak, bebek giyim, tekstil aksesuarları, etkinlik yorganları ve yuvaları, yumuşak kitaplar ve aksesuarlar markasıdır.Fehn Gmbh & Co. Kg Almanya merkezlidir ürünlerini Sri Lanka’da bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ambush",
+    "description": "Ambush, 2008 yılında kurulan Ambush S.r.l. bünyesindeki giyim ve aksesuarlar, mücevher markasıdır.Ambush S.r.l. 2020 yılında İngiltere merkezli Farfetch Limited tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Piron",
+    "description": "Piron, 2006 yılında Italo ve Amelia Tommasin tarafından kurulan Piron srl bünyesinde üretilen profesyonel fırınlar, pişirme çözümleri, yoğuşma davlumbazları markasıdır.Şirket işletmeler için malzeme tedariği ile ekipmanlar sağlamaktadır.Piron srl İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dr Böhm",
+    "description": "Dr Böhm, 1968 yılında Friedrich Böhm tarafından kurulan Apomedica Pharmazeutische Produkte Gesellschaft M.B.H. bünyesinde üretilen kozmetik ürünler, gıda takviyeleri, tatlandırıcılar ve alkolsüz içecekler markasıdır.Apomedica Pharmazeutische Produkte Gesellschaft M.B.H. Avusturya merkezlidir.Bünyesindeki markalar;ApozemaDr. BöhmLaseptonLuuf",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Abiomed",
+    "description": "Abiomed, 1981 yılında David M. Lederman tarafından kurulan Abiomed Inc. bünyesinde üretilen kardiyovasküler tıbbi implant cihazları markasıdır.Harici ve implante edilebilir dolaşım destek cihazları geliştiren ve üreten bir tıbbi cihaz şirketidir.Abiomed Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

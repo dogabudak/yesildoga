@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Gruma",
+    "description": "Gruma, 1949 yılında Roberto González Barrera tarafından kurulan Gruma, S.A.B. DE C.V bünyesinde üretilen mısır unu, tortilla, mısır cipsi, düz ekmek markasıdır.Dünyanın en büyük mısır unu ve tortilla üreticisidir.Gruma, S. A. B. de C. V., Meksika merkezli çok uluslu mısır unu ve tortilla üretim şirketidir. Meksika’daki en büyük buğday unu üreticisidir. Amerika, Avrupa ve Çin’de mısır unu ve ekmeği üretir.",
+    "documents": [],
+    "parent": null,
+    "origin": "MX",
+    "updated_date": null
+  },
+  {
+    "company": "SK Hand Tools",
+    "description": "SK Hand Tools, 1919 yılında Mason H. Sherman ve Roger Klove tarafından kurulan SK Hand Tool LLC. bünyesinde üretilen profesyonel el aletleri, cırcır anahtarları markasıdır.Anahtar, mandal, tornavida, alet kutuları ve hava araçları dahil olmak üzere 3 bin 500’den fazla parçadan oluşan bir takım hattına sahiptir.SK Hand Tool LLC. 2010 yılında Amerika merkezli Ideal Industries’in bir parçası oldu. Ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Grainger",
+    "description": "Grainger, 1927 yılında William Wallace Grainger tarafından kurulan W.W. Grainger, Inc. bünyesinde motorlar, aydınlatma, malzeme taşıma, bağlantı elemanları, sıhhi tesisat, aletler ve güvenlik malzemeleri, envanter yönetimi hizmetleri ve teknik destek gibi tekliflerle endüstriyel tedarik sağlamaktadır.W.W. Grainger, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lastvoice",
+    "description": "Lastvoice, 1990 yılında kurulan Yonka Elektronik San. ve Tic. A.Ş. bünyesindeki mikrofon ve mikrofon ürünleri, amfi, mikser, power amfi duvar, hoparlör ses sistemleri, enstrüman ve mikrofon standları, jak, rock kabin markasıdır.Gaziantep merkezli firma ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Surker",
+    "description": "Surker, 2010 yılında Zheng Xiao Cai tarafından kurulan kişisel bakım ürünleri markasıdır.Ürün yelpazesi saç düzleştirici, saç kurutma makinesi ve manikür setinden oluşmaktadır.Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

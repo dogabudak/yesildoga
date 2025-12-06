@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Daag",
+    "description": "1993 yılında kurulmuş olan Ledrin Sp. z o.o. bünyesinde üretilen deri el çantaları ve aksesuarlar markasıdır.Ledrin Sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Depreks",
+    "description": "1912 yılında kurulmuş olan Abdi İbrahim İlaç Sanayi A.Ş. bünyesinde üretilen kapsül ilaç markasıdır.Prejelatinize nişasta, dimetikon, kapsül boyar madde, sığır jelatini gibi yardımcı maddeleri içermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baharoğlu",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "GurmeBarf",
+    "description": "2020 yılında kurulmuş olan Gurmebarf Gıda Hayvancılık San. ve Tic. Ltd. Şti. bünyesinde üretilen kedi ve köpekler için doğal çiğ mamalar markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Acoustic Energy",
+    "description": "1987 yılında kurulmuş olan Acoustic Energy Loudspeakers Ltd. bünyesinde üretilen hoparlör markasıdır.Acoustic Energy Loudspeakers Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

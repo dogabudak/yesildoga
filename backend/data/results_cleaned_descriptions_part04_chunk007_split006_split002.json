@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Longline",
+    "description": "Longline, 2000 yılında kurulan Longline Bilişim Teknolojileri Ltd. Şti. bünyesindeki memory, ssd, server, network, fiber optik ve endüstriyel test cihazı ürünleri markasıdır.ISO 9001 belgesine sahiptir.Ürünlerinin montajı Çin’de yapılmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Commes",
+    "description": "Commes, 2017 yılında kurulan Nys Saat Tic. Ltd. Şti. bünyesinde ithal edilen dijital, dokunmatik ve klasik kol saatleri markasıdır.Bünyesindeki markalar;ComwatchCommesT-Goer AutomaticTouche-Watch",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kirkland Signature",
+    "description": "Kirkland Signature, 1976 yılında James Sinegal, Jeffrey Brotman tarafından kurulan Costco Wholesale Corporation bünyesindeki gıda ürünleri markasıdır.Costco Wholesale Corporation, birden fazla ülkede toptan üyelik depoları işleten Amerika merkezli, dünyanın en büyük ikinci perakendecisidir. Her türlü gıda, otomotiv malzemeleri, oyuncak, donanım, spor malzemeleri, mücevher, elektronik, giyim, sağlık ve güzellik yardımcılarının yanı sıra diğer ürünleri satmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Windows Ülkeye Aittir İşletim Sistemi",
+    "description": "Windows, 1975 yılında Bill Gates tarafından kurulan Microsoft Corporation bünyesinde bilgisayarlar için üretilen işletim sistemi markasıdır.Microsoft Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": "Windows Hangi Ülkeye Aittir Hangi Ülkenin İşletim Sistemi :",
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Soundcloud",
+    "description": "Soundcloud, 2007 yılında Alexander Ljung tarafından kurulan SoundCloud Global Limited & Co. KG bünyesindeki çevrimiçi müzik servisidir.SoundCloud, ses dosyalarını paylaşmak ve dağıtmak için çevrimiçi bir müzik hizmeti sunmaktadır. Müzisyenler için bir işbirliği ve reklam platformu olarak hizmet vermektedir.SoundCloud Global Limited & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Redexon",
+    "description": "Redexon 1863 yılında kurulan Bayer AG’ye ait Bayer Türk Kimya San. Ltd. Şti. bünyesindeki takviye edici gıda markasıdır.1954 yılından beri Türkiye’de faaliyet gösteren Bayer Türk tarafından üretilen ürünler 40’tan fazla ülkeye pazarlanmaktadır.Bayer AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Küschall",
+    "description": "Küschall, 1978 yılında Rainer Küschall tarafından kurulan Küschall AG bünyesinde üretilen tekerlekli sandalye markasıdır.Küschall AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Putzmeister",
+    "description": "Putzmeister, 1958 yılında kurulan Putzmeister Holding Gmbh bünyesinde üretilen beton pompaları, kamyon karıştırıcıları, beton pompaları, harç makineleri, endüstriyel pompalar, mobil konveyör bantları, beton püskürtme makineleri ve beton karıştırma tesisleri markasıdır.Putzmeister Holding Gmbh 2012 yılında Çin merkezli Sany Heavy Industry Co. Ltd. tarafından satın alınmıştır. Türkiye’de Putzmeister Makine San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2024-03-19"
+  },
+  {
+    "company": "Koenigsegg",
+    "description": "Koenigsegg, 1994 yılında Christian von Koenigsegg tarafından kurulan Koenigsegg Automotive AB bünyesinde üretilen yüksek performanslı spor otomobil markasıdır.Koenigsegg Automotive AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Smile Lab",
+    "description": "Smile Lab, 2008 yılında kurulan Smile Lab S. AB bünyesinde üretilen kozmetik ürünler markasıdır.Ürünleri arasında diş beyazlatma tedavileri, günlük kullanım gülümseme güzellik araçları ve lüks aksesuarları yer almaktadır.Smile Lab Sweden AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

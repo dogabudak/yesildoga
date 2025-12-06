@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bfgoodrich",
+    "description": "Bfgoodrich, 1870 yılında Benjamin Goodrich tarafından kurulan lastik markasıdır.Ürün yelpazesi spor ve yarış arabaları, binek otomobiller, minibüsler ve ağır ekipman lastikleri ile off-road için lastikler sunmaktadır.1988 yılında Fransa menşeli Michelin North America Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Dabur",
+    "description": "Dabur, 1884 yılında S. K. Burman tarafından kurulan Dabur I. Ltd. bünyesinde üretilen saç bakımı, ağız bakımı, sağlık, cilt bakımı, evde bakım ve gıdalar markasıdır.Ürünlerini doğal ve kimyasal içermeyen bitkiler kullanarak üretmektedir.Dabur India Limited Hindistan merkezlidir. Ürünlerini 120’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Dabur AmlaDabur ChyawanprashDabur HoneyDabur HonitusDabur Lal TailDabur PudinHaraDabur Red PasteRealVatika",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": "2023-11-24"
+  },
+  {
+    "company": "QSC",
+    "description": "QSC, 1968 yılında Patrick Quilter, Barry Andrews, John Andrews tarafından kurulan QSC LLC bünyesindeki ses yükselteçleri, hoparlörlerve dijital sinyal işleme ürünleri markasıdır.Güç amplifikatörleri, hoparlörler, sinyal işleme, dijital sinyal aktarımı ve bilgisayar kontrol sistemleri üretmektedir.QSC LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hengfeng Tires",
+    "description": "Hengfeng, 1995 yılında kurulan Shandong Hengfeng Rubber & Plastic Co. Ltd. bünyesinde üretilen lastik markasıdır.Otomobil, suv, 4×4, kamyonet, kamyon ve iş makineleri için lastik ve vanalar üretmektedir.Shandong Hengfeng Rubber & Plastic Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kemetyl",
+    "description": "Kemetyl, 1918 yılında kurulan Kemetyl Polska Sp. z o.o. bünyesindeki oto bakım ve aksesuarları, hijyen ve ev ürünleri markasıdır.Ürün yelpazesinde antifrizler, cam temizleme ürünleri, dış cephe temizliği, fren sıvıları, hijyen veya dezenfeksiyon ürünleri, katkılar, dezenfektanlar bulunmaktadır.Kemetyl Polska Sp. z o.o. Polonya merkezlidir.Bünyesindeki markalar;Black ArrowCarifilKemetyl",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

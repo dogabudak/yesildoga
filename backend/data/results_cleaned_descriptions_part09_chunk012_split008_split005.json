@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Anyoung",
+    "description": "Anyoung2011 yılında kurulmuş olan Foshan Anyoung Furniture Co. Ltd. bünyesinde üretilen ofis veya ev mobilyaları, akıllı çalışma masası, bar taburesi, el arabası, kahve masası, kanepeler, ofis koltuğu, sandalye, koltuk markasıdır.Foshan Anyoung Furniture Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "DH Labs Silver Sonic",
+    "description": "DH Labs Silver Sonic2004 yılında kurulmuş olan DH Labs Inc. bünyesindeki bağlantı kabloları, ara bağlantılar, bileşenler, dijital kablolar, diy kablolar ve konektörler, fono kabloları, güç kabloları, hoparlör kabloları, konektörler, kulaklıklar ve aksesuarlar, subwoofer kabloları, toplu kablo ve konektörler, video kabloları, aksesuarlar markasıdır.DH Labs Inc. Amerika merkezlidir ve ürünleri Amerika’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "EN Taksi",
+    "description": "EN Taksi2015 yılında kurulmuş olan Otomotist Kent Teknolojileri A.Ş. bünyesindeki taksi uygulaması markasıdır.Akıllı telefonları kullanarak taksi çağırma, ne kadar ödeneceği ve ödeme seçenekleri sağlar.Uygulama İzmir Büyükşehir Belediyesi ile Şoförler ve Otomobilciler Esnaf Odası işbirliğiyle hazırlanmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "TOD TV",
+    "description": "TOD2022 yılında Bein Media Group LLC bünyesinde kurulmuş olan spor akışına özel erişim sağlayan abonelik tabanlı bir OTT platformudur.Bein Media Group LLC Katar merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  },
+  {
+    "company": "Exotic",
+    "description": "Exotic2022 yılında kurulmuş olan GE.TA Tarım ve Gıda San. Tic. A.Ş. bünyesinde üretilen taze sıkma meyve suları, limonata, şalgam suyu markasıdır.Meyve suyunu konsantre etmeden, katkı, koruyucu, renklendirici ve su eklemeden üretmektedir.Firma Adana merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

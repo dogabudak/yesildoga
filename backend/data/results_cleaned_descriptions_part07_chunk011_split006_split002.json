@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Boss Hammer Co",
+    "description": "Boss Hammer Co. Hangi Ülkenin Malı MarkasıBoss Hammer Co., 2019 yılında Dan Raymond tarafından kurulmuş olan Boss Hammer Company LLC bünyesinde üretilen el aletleri markasıdır.Boss Hammer Company LLC Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dynastar",
+    "description": "Dynastar, 1907 yılında kurulmuş olan Skis Rossignol S.A. bünyesindeki kayak ve kayak aksesuarları markasıdır.Skis Rossignol S.A. 2013 yılından beri İsveç merkezli Altor Equity Partners’a aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Avlon",
+    "description": "Avlon, 1984 yılında Ali N. Syed tarafından kurulmuş olan Avlon Industries Inc. bünyesinde üretilen saç bakım ürünleri, şampuan, saç kremi, saç spreyleri markasıdır.Avlon Industries Inc. Amerika merkezlidir. Ürünlerini 46 ülkeye pazarlamaktadır.Bünyesindeki markalar;AffirmFermFiberGuardKeraCareMoisturColor",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-02-04"
+  },
+  {
+    "company": "Tylenol",
+    "description": "Tylenol, 1893 yılında kurulmuş olan Johnson & Johnson Consumer Inc. bünyesinde üretilen besin takviyeleri markasıdır.Johnson & Johnson Consumer Inc. Amerika merkezlidir ve ürünleri Amerika’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Koch-Chemie",
+    "description": "Koch Cremie, 1968 yılında Hans Koch tarafından kurulmuş olan Koch-Chemie Gmbh bünyesinde üretilenoto yıkama kimyasalları, oto arıtma, endüstriyel ve atölye zemin temizliği ürünleri, araçlar için temizlik ve bakım ürünleri markasıdır.Koch-Chemie Gmbh 2017 yılında Fransa merkezli Le Groupe Novarc SA’nın bir parçası olmuştur. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2023-10-09"
+  }
+]

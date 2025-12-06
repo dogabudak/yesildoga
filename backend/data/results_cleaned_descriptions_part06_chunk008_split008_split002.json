@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Meg’s Lizanorm",
+    "description": "Meg’s, 2016 yılında kurulan Megs Medikal Sağlık Hiz. Tic. A.Ş. adına A Pharma Sağlık Ürünleri A.Ş. tarafından üretilen üzüm çekirdeği ekstresi gıda takviyesi markasıdır.Ürün içeriği ithal bileşenlerden oluşmaktadır. Glikozamin sülfat, Vitamin E ve Kollajen içermektedir.ISO 9001 ve ISO 22000 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "IME-DC",
+    "description": "IME-DC Hangi Ülkenin Malı MarkasıIME-DC, 2001 yılında kurulan Ime-Dc Gmbh bünyesindeki taşınabilir kan şekeri ölçüm cihazı markasıdır.DIN EN ISO 13485, DIN EN ISO 15197 belgelerine sahiptir.Ime-Dc Gmbh Almanya merkezlidir. Almanya’da ürettiği ürünleri 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 15197"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Active Bahçe Makineleri",
+    "description": "Active, 2013 yılında kurulan Active s.r.l. bünyesinde üretilen bahçecilik, per bahçe makineleri, yeşil bakım, endotermik motorlar, motorlu testereler, fırça kesiciler ve çim biçme makineleri markasıdır.Active s.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Clean Implant",
+    "description": "Clean Implant, 2016 yılında Dirk Duddeck tarafından kurulan CleanImplant Foundation CIF GmbH bünyesindeki dental implantlar markasıdır.Cleanimplant Foundation Cif Gmbh, yüzde 100 bağımsız kâr amacı gütmeyen Almanya merkezli bir kuruluştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Apiyem",
+    "description": "Apiyem, 2013 yılında kurulan Apipark ArıcılIk Üretim Araştırma Danışmanlık Eğitim Yetiştiriciliği İhracat İthalat San. A.Ş. bünyesinde üretilen arı yemleri markasıdır.Firma Tekirdağ merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

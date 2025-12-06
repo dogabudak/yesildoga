@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Fini",
+    "description": "Fini Golosinas, 1970 yılında Manuel Sánchez Cano tarafından kurulan Sanchez Cano, S.A. bünyesinde üretilen şeker ve şekerleme ürünleri markasıdır.Şirketin İspanya, Portekiz, Birleşik Krallık ve Şili’nin yanı sıra dünya çapında müşteri zincirleri ve 2002’den beri Brezilya’da yeni bir fabrikası bulunmaktadır.Sanchez Cano, S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Body Natur",
+    "description": "Body Natur, 1987 yılında kurulan Viokox S.A. bünyesindeki kozmetik, epilasyon, cilt bakımı, dermokozmetik, doğal kozmetik, ayak bakımı ürünleri markasıdır.Ürünlerini 14 bin metrekarelik fabrikasında üretmekte ve 50’den fazla ülkede ürünleri bulunmaktadır.Viokox S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Nehir Mutfak",
+    "description": "Nehir, 1981 yılında kurulan Nehir A.Ş. bünyesinde üretilen çeyiz seti, çatal kaşık bıçak setleri, çay kahve takımları, çay setleri, bone china yemek takımları, çatal kaşık bıçak setleri, servis takımları markasıdır.Firma, tasarım, hammadde seçimi, polisaj, paketleme, olarak tüm ayrıntılarla üretim gerçekleştirmektedir.Nehir markalı çatal, kaşık, bıçak takımları 18/10 Cr-Ni paslanmaz çelik kullanılarak üretiliyor ve ürünlerine 50 yıl garanti veriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wabco",
+    "description": "Wabco, 1869 yılında kurulan WABCO Holdings Inc. bünyesindeki elektronik, mekanik ve mekatronik fren, stabilite ve otomasyon sistemi teknolojileri markasıdır.Ticari araçlar için emniyet ve kontrol sistemleri tedarik etmektedir. ABS, ECAS, EBS, TCE ve RSS gibi elektronik fren aksamları üretmektedir.40 ülkede faaliyet gösteren WABCO’nun genel merkezi İsviçre’dedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Classone",
+    "description": "Classone, 2006 yılında kurulan Classone Teknoloji Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen çanta markasıdır.Başlıca çanta grupları; sırt çantası, el çantası, makyaj çantası, soğutuculu buzluk çantası, okul çantası, piknik çantası, bel çantası, fuar çantası, kongre çantası, sempozyum çantası, plaj çantası, thermo çanta, ilk yardım çantası, şeffaf çanta, anne bebek çantası ve özel tasarım çantaları oluşturmaktadır ve yüzde 100 yerli üretilmektedir.Promosyon çanta türleri arasında; notebook, evrak, sırt, seyahat, spor, tablet bilgisayar, fotoğraf makinesi, makyaj, plaj, alışveriş, bel, tıraş, omuz, umre/hac, termal soğutucu, el, fuar, seminer, kongre, okul, ilk yardım çantaları yer almaktadır. Bu tür çantalara her türlü tasarım, logo ve yazı eklenebiliyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-20"
+  }
+]

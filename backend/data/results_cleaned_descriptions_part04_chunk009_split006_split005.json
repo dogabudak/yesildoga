@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Texas Instruments",
+    "description": "Texas Instruments, 1930 yılında kurulan Texas Instruments Incorporated bünyesinde üretilen hesap makinesi, analog elektronik, dijital sinyal işlemcileri, dijital ışık işlemcileri, entegre devreler, gömülü işlemciler markasıdır.Texas Instruments Incorporated Amerika merkezlidir. ABD’nin en büyük teknoloji firmalarındandır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "So Saff",
+    "description": "So Saff, So Saff Kozmetik San. ve Danışmanlık Dış Tic. Ltd. Şti. bünyesinde üretilen ağız bakım ürünleri, arındırıcılar, bitki suları ve yağlar, ısparta gül çayı, koltuk altı bakımı, tuz lambası, yüz ve vücut bakım ürünleri markasıdır.Kimyasal katkı malzemesi içermeyen, koruyucusuz doğal malzemelerden, cilde ve doğaya dost ürünler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Depka",
+    "description": "Depka, 2008 yılında kurulan Depka Group bünyesinde üretilen iç mekân dekoratif duvar kaplama malzemesi markasıdır.Depka Group, Yabel ve Yurtman Grup şirketleri bünyesindedir. Duvar kaplaması pamuk ve doğal yapıştırıcı ile dekoratif doğal taşlardan imal edilmiştir. Kullanılan bütün malzeme yüzde 100 doğaldır. Sağlığa zararlı hiç bir madde içermez ve yüzde 40 enerji tasarrufu sağlar. Ses izolasyonu sağlar.ISO 9001, ISO 10002, TSE EN ISO 11925-2, TSE EN 13501-1 belgelerine sahiptir.Ürünlerini 15 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 11925",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Prozinc",
+    "description": "“Prozinc“2009 yılında kurulmuş olan Dermotek İlaç ve Dermokozmetik San. Tic. Ltd. Şti. bünyesindeki şampuan, saç boyası, saç bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-10-06"
+  },
+  {
+    "company": "Faik Sönmez",
+    "description": "Faik Sönmez, 2005 yılında kurulan Faik Sönmez Tekstil San. ve Tic. A.Ş. bünyesindeki tekstil, dokuma, konfeksiyon ve deri ürünleri ile hazır giyim ürünleri markasıdır.Türkiye’de 12 şehirde 30’dan fazla mağazaya sahiptir. Ayrıca Irak ve Azerbaycan’da mağazası bulunmaktadır ve internetten satış yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

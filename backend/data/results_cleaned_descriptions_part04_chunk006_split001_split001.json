@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Voxeljet",
+    "description": "Voxeljet, 1999 yılında kurulan voxeljet AG bünyesindeki endüstriyel 3D baskı sistemleri üreticisidir.Baskı sistemlerinin geliştirilmesi ve dağıtımının yanı sıra, voxeljet AG ayrıca metal döküm için kalıp ve modellerin isteğe bağlı üretimi için servis merkezleri işletmektedir. Bu ürünler, 3D baskı yöntemi kullanılarak üretilmektedir.voxeljet AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pacific Image",
+    "description": "Pacific Image, 1993 yılında kurulan Pacific Image Electronics Co. Ltd. bünyesinde üretilen tarayıcı, aydınlatıcı, CCD kamera markasıdır.Dijital ve Biyogörüntüleme ürünleri üretmektedir.Pacific Image Electronics Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Viotek",
+    "description": "Viotek, 2000 yılında kurulan Viotek Inc. bünyesindeki oyun monitörleri markasıdır.Ev için tasarlanan oyun monitörleri üretmektedir.Viotek Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ussu Power Tools",
+    "description": "Ussu Power Tools, 1991 yılında kurulan Center Dış Tic. Mak. San. ve Paz. A.Ş. bünyesindeki elektrikli ve akülü el aletleri, bahçe ürünleri markasıdır.Ürünlerini Çin’den ithal etmektedir.Center A.Ş. bünyesinde bahçe ürünleri, basınçlı yıkama, dalgıç pompa, el aletleri, elektrikli alet aksesuarları, elektrikli ve akülü el aletleri, jeneratör, kaynak makinesi, kompresör, sanayi süpürgeleri gibi ürünler yer almakta.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "HCH",
+    "description": "HCH, 1973 yılında Hu Chengjiang tarafından HCH Grubu bünyesinde üretilen bilyalı ve konik makaralı rulman markasıdır.Ürünleri elektrik motorları, otomotiv sektörü, ev gereçleri, motosikletler, ağır araçlar, elektrikli aletler, pompalar gibi alanlarda kullanılmaktadır.ISO 9002 belgesine sahiptir.HCH Grubu Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

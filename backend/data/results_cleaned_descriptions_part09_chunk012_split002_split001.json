@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Hitscan",
+    "description": "“Hitscan“1992 yılında kurulmuş olan Zhejiang Yasun Intelligent Technology Co. Ltd. bünyesindeki kablosuz fareler, altlıklar markasıdır.Zhejiang Yasun Intelligent Technology Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 25 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vsb Energy",
+    "description": "“Vsb“1996 yılında kurulmuş olan Vsb Holding Gmbh bünyesindeki fotovoltaik sistemler, rüzgar türbinleri, trafo merkezleri, yeniden güç verme, ticari yönetim ve şarj altyapı kurulumları markasıdır.Vsb Holding Gmbh 2024 yılında Fransa merkezli TotalEnergies SE tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Klotz",
+    "description": "“Klotz“1979 yılında kurulmuş olan Klotz Ais Gmbh bünyesindeki ses, video, multimedya ve fiber optik kablolar markasıdır.Ürünleri ekipman kiralama şirketleri, kayıt stüdyoları, televizyon yayıncıları, tiyatrolar, stadyumlar, arenalar ve yolcu gemileri tarafından kullanılmaktadır.ISO 9001 belgesine sahiptir.Klotz Ais Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hausekids",
+    "description": "“Hausekids“1993 yılında kurulmuş olan Güven Mağazaları A.Ş. bünyesindeki 0-16 yaş bebek ve çocuk tekstili ve perakende satış mağazası markasıdır.Firma Elazığ merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Steinmusic",
+    "description": "“Steinmusic“1982 yılında kurulmuş olan Steinmusic Pro Gmbh bünyesinde üretilen hoparlörler, vinil elemanları, oda akustik elemanları, yükselteçler markasıdır.Steinmusic Pro Gmbh Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Baxter International",
+    "description": "Baxter International, 1931 yılında Donald Baxter tarafından kurulan Baxter International Inc. bünyesindeki tıbbi malzemeler markasıdır.Baxter International Inc. Amerika merkezli çok uluslu bir sağlık şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Magicshine",
+    "description": "Magicshine, 1999 yılında kurulan Shenzhen MINJUN Electronic Technology Co., Ltd bünyesinde üretilen bisiklet, kayak, koşu ve diğer açık hava sporları için bisiklet lambası, el feneri ve far markasıdır.MINJUN Electronic Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Yongnuo",
+    "description": "Yongnuo, 2006 yılında kurulan Shenzhen Yong Nuo Photographic Equipment bünyesindeki fotoğraf ekipmanı markasıdır.Kamera lensi, teleconverters, flaş ekipmanları, kablo bültenleri ve diğer fotoğraf ekipmanlarını üretmektedir. Firma ayrıca, Canon ve Nikon DSLR fotoğraf makineleri için uyumlu otofokus prime lensler imal etmektedir.Shenzhen Yong Nuo Photographic Equipment Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "360 Robotik Elektrikli Süpürge",
+    "description": "360 Robotik Elektrikli Süpürge Hangi Ülkenin Malı Markasıdır360 Robot Vacuum Cleaners, 2005 yılında kurulan Qihoo 360 Technology Co., Ltd. bünyesinde üretilen akıllı robotik elektrikli süpürge markasıdır.Güvenlik yazılımları ve mobil uygulamalarıyla bilinen Çinli şirket Qihoo 360 Technology Co., Ltd. ürünlerini Çin’de üretmektedir.Bünyesindeki modeller;360 Robot Vacuum CleanersS5S6S6Pro/S9S7",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Delta Cafes",
+    "description": "Delta Cafés, 1961 yılında Rui Nabeiro tarafından kurulan Novadelta, S.A. bünyesindeki kahve, çay, sandviç ve buzlu içecekler markasıdır.Delta Cafés, 35’ten fazla ülkede pazarlanmaktadır.Novadelta, S.A. Portekiz merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  }
+]

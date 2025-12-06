@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Gallet",
+    "description": "Gallet, 1466 yılında Gallet Ailesi tarafından kurulan kol saati, kronometre ve endüstriel zamanlayıcı markasıdır.Gallet, İsviçre merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Twozies",
+    "description": "Twozies, 1985 yılında Brian Hamersfeld tarafından kurulan Moose Creative Management Pty Ltd. bünyesindeki oyuncak markasıdır.Moose ürünleri 85 ülkede satılmaktadır.Moose Toys Avustralya’nın en büyük beşinci ve ABD’nin dördüncü büyük oyuncak üreticisidir. Los Angeles, Hong Kong, Çin, Londra, Paris ve Vietnam’da şubeleri bulunmaktadır.Bünyesindeki markalar:Aqua SandBeadosBetty SpaghettyFur Babies WorldLittle Live PetsMighty BeanzThe Grossery GangThe Trash Pack",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": "2020-01-06"
+  },
+  {
+    "company": "Luminox",
+    "description": "Luminox, 1989 yılında Barry Cohen tarafından kurulan saat markasıdır.Luminox Saat şirketi Amerikan merkezli bir şirket iken 2006 yılında, şirketin yüzde 50 hissesini İsviçre merkezli Mondaine satın almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pip Nut",
+    "description": "Pip Nut, 2013 yılında Pippa Murray tarafından kurulan; Fıstık ezmesi, Gevrek akçaağaç fıstık ezmesi, Badem ezmesi, Hindistan cevizi badem ezmesi, Kaju ezmesi, Bal tarçın ve kaju yağı markasıdır.Pip & Nut İngiltere merkezli bir firmadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Beados",
+    "description": "Beados, 1985 yılında Brian Hamersfeld tarafından kurulan Moose Creative Management Pty Ltd. bünyesindeki oyuncak markasıdır.Beados markalı kız ve erkek çocuk ve bebek oyuncakları bulunmaktadır.Moose Toys Avustralya’nın en büyük beşinci ve ABD’nin dördüncü büyük oyuncak üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": "2020-01-06"
+  }
+]

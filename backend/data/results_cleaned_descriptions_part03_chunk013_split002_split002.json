@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Lightair",
+    "description": "Lightair, 2002 yılında kurulan LightAir International AB bünyesindeki hava temzileme ürünleri markasıdır.LightAir International AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Berrado",
+    "description": "Berrado, 2017 yılında kurulan Berrado E-Ticaret Mobilya San. Tic. Ltd. Şti. bünyesinde üretilen bez dolap markasıdır.Kayseri’de üretim yapan firma mobilya ve ev dekorasyon ürünleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eneos",
+    "description": "Eneos, 1888 yılında kurulan Eneos Corporation bünyesindeki petrol ürünleri, motor yağı markasıdır.Eneos Holding bünyesindeki Eneos Corporation Japonya merkezlidir ve Japonya’nın en büyük petrol şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Hengtong",
+    "description": "Hengtong, 1993 yılında Cui Genliang tarafından kurulan Hengtong Group bünyesinde üretilen güç ve fiber optik kablo markasıdır.Hengtong Group Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Maurice Lacroix",
+    "description": "Maurice Lacroix, 1975 yılında Desco von Schulthess Holding AG bünyesinde üretilen saat markasıdır.Desco Group İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

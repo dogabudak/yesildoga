@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Mamiya",
+    "description": "Mamiya, 1940 yılında Tsunejiro Sugawara tarafından kurulan Mamiya Digital Imaging Co. Ltd. Kameralar, lensler, optik aletler, aksesuarlar ve diğer ürünler markasıdır.Mamiya Digital Imaging Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Grosche Termos",
+    "description": "Grosche, 2006 yılında kurulan Grosche International Inc. bünyesindeki kahve, çay ve hidrasyon ürünleri markasıdır.Ürün yelpazesinde termos, matara, züccaciye ve kupalar, espresso, fransız presleri, çaydanlıklar, bütün fasulye kahvesi, gevşek yapraklı çaylar yer almaktadır.Grosche International Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gezolan",
+    "description": "Gezolan, 1968 yılında kurulan Gezolan AG bünyesinde üretilen EPDM Dolgu granülleri markasıdır.Ürün yelpazesi ile çok çeşitli uygulamalar için yüksek kaliteli sentetik zemin kaplamaları için renkli EPDM granülleri ve suni çim sistemleri için EPDM Dolgu granülleri sunmaktadır.Gezolan AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "K Kraiburg",
+    "description": "K Kraiburg, 1947 yılında kurulan Kraiburg Holding Gmbh & CO. KG bünyesinde üretilen yumuşak, elastik ve hafif TPE bileşikler markasıdır.Otomotiv, tüketici, sanayi ve medikal sektörü için termoplastik elastomerler üretmektedir. ISO 9001 ve ISO 14001 belgelerine sahiptir.Kraiburg Holding Gmbh & CO. KG Almanya merkezlidir. Almanya, ABD ve Malezya’da üretim tesislerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mölnlycke",
+    "description": "Mölnlycke, 1849 yılında kurulan Mölnlycke Health Care AB bünyesinde üretilen tek kullanımlık cerrahi ve yara bakım ürünleri markasıdır.Şirket, antiseptikler, pansumanlar, kremler, merhemler, eldivenler, ovma takımları, cerrahi önlükler ve ek ürünler dahil olmak üzere tek kullanımlık cerrahi ve yara bakım ürünleri sunmaktadır.Mölnlycke Health Care AB, İsveç merkezli yatırım şirketi Investor Aktiebolag bünyesindedir. Üretim tesisleri Avusturya, Belçika, Çek Cumhuriyeti, Polonya, Finlandiya, ABD, Fransa, Malezya, Tayland ve Birleşik Krallık’ta bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

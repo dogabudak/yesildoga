@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Aspinatura",
+    "description": "“Aspinatura“1989 yılında kurulmuş olan Bayer Türk Kimya San. Ltd. Şti. bünyesindeki öksürük şurubu, boğaz spreyi, burun spreyi markasıdır.Bayer Türk Almanya merkezli Bayer AG’nin iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dhf",
+    "description": "“Dhf“1999 yılında kurulmuş olan Taizhou Donghong Furniture Manufacture Co. Ltd. bünyesinde üretilen çocuk taburesi, bar taburesi, döşeme sandalyesi, ev dekorasyonu, kanepe, masa, metal, ahşap taban, plastik sandalye, replika sandalye, sanat baskısı markasıdır.ISO 9001 belgesine sahiptir.Taizhou Donghong Furniture Manufacture Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Delkin Devices",
+    "description": "“Delkin Devices“1986 yılında kurulmuş olan Delkin Devices Inc. bünyesindeki hafıza kartı, endüstriyel eMMC, kompakt flash bellek kartları ve USB flash sürücü ve depolama çözümleri markasıdır.ISO 9001 belgesine sahiptir.Delkin Devices Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Verico",
+    "description": "“Verico“2006 yılında kurulmuş olan Verico International Co. Ltd. bünyesindeki flash USB sürücü, flash bellek kartı, DRAM modülü, bellek ürünleri markasıdır.Verico International Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Doughnut Çanta",
+    "description": "“Doughnut“2010 yılında kurulmuş olan Siu Siu Style Company Limited bünyesindeki çantalar markasıdır.Siu Siu Style Company Limited Hong Kong merkezlidir. Ürünlerini 35’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

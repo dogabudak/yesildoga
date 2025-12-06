@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fahrenheit",
+    "description": "Fahrenheit, 1919 yılında kurulan; konfeksiyon, hazır giyim, deri ürünleri, moda aksesuarları, ayakkabı, takı, saatler, parfüm, makyaj ve cilt bakım ürünleri tasarlayıp satan Avrupa moda şirketi Dior bünyesinde üretilen parfüm markasıdır.Dior, Fransa merkezli LVMH bünyesinde yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Akfix",
+    "description": "Akfix, 1989 yılında İstanbul, Tahtakale’de ticari hayatına başlayan Akdemir Ticaret’e ait yapı kimyasalları markasıdır.2001 yılında, yapı kimyasalları alanında faaliyetlerine başlayan Akfix; Poliüretan aerosol köpük, Derz dolgu ürünleri, Kırtasiye amaçlı yapıştırıcı, Teknik ve endüstriyel yapıştırıcılar ve Teknik aerosol ürünler başta olmak üzere geniş bir ürün gamı ile müşterilerine ulaşmaktadır.Akfix ürünleri, İstanbul Hadımköy de 25 bin metrekare alan üzerine kurulu, son teknoloji ile donatılmış tesislerinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lafarge",
+    "description": "Lafarge, 1833 yılında kurulan Lafarge S.A. bünyesindeki çimento, agrega ve beton, çatı malzemeleri, alçı ve alçı levha ürünleri markasıdır.Lafarge 1989 yılında Aslan Çimento fabrikasını bünyesine katarak Türkiye’de çimento sektörüne girdi. 2009 yılında Aslan Çimento satıldı.Lafarge Grubu Türkiye’deki yatırımları Lafarge Ereğli Fabrikası ile alçı alanında Dalsan firması ile olan ortaklığı Lafarge Dalsan’dır.Lafarge Grubu İsviçre merkezli LafargeHolcim Ltd bünyesindedir.Lafarge Grubunun 70’e yakın ülkede 160 fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Pentel",
+    "description": "Pentel, 1946 yılında kurulan Pentel Co., Ltd. bünyesindeki yazma aletleri markasıdır.Özel olarak düzenlenen kırtasiye ürünleri üreten Pentel Co., Ltd. Japonya menşeli bir şirketidir.Pentel ürünleri Japonya, Tayvan ve Fransa’da üretilmektedir.Tursan Kırtasiyecilik A.Ş. Pentel yazı araçlarının Türkiye dağıtıcısıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Paper Mate Ülke",
+    "description": "Paper Mate, 1940 yılında Patrick J. Frawley tarafından kurulan yazı aletleri markasıdır. Newell Brands firmasının yan markası Sanford L.P. bünyesindedir.Newell Brands Inc. şirketi Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

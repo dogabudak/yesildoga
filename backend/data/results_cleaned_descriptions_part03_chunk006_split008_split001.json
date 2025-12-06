@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Schock",
+    "description": "Schock, 1971 yılında kurulan Schock Metallwerk GmbH bünyesindeki teleskopik ray ve çekmece sistemleri markasıdır.Bilyalı kılavuzlar ve teleskopik raylar, özel profiller ve özel profiller, rulo şekillendirme teknolojisine sahip ürünler üretmektedir. ISO 14001 belgesine sahiptir.Schock Metallwerk GmbH Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Xetec",
+    "description": "Xetec, 1985 yılında kurulan Murtaş Elektronik A.Ş. bünyesindeki tüketici elektroniği markasıdır.Murtas A.Ş. İstanbul’da tüketici elektroniği, otomobil dvd, navigasyon, araç takip, arıza tespit, teşhis donanım ve yazılım ürünleri, masaj ve promosyon ürünleri ve tüketici elektroniği dışında ahşap ürünler imalatı ve satışı, gayrimenkul yatırım ve inşaat alanlarında faaliyet göstermektedir.Bünyesindeki markalar:BraxDigital DesignsHEISecasXetecXetec Assist",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vivol",
+    "description": "Vivol, 1982 yılında kurulan Upi-Uğur Plastik San. ve Tic. Ltd. Şti. bünyesinde üretilen sir-ağda ısıtıcı makineleri, sir-ağda aksesuarları, plastik roll-on kartuş, kozmetik ürün ambalajları markasıdır.Ürünlerini İzmir Tekeli OSB’de bulunan 7 bin 500 metrekarelik alanda bulunan fabrikasında üretmektedir. ISO 9001 belgesine sahiptir.ürünlerinin yüzde 70’i Özbekistan, İngiltere, İran, İspanya, İsrail, İsveç, İsviçre, İtalya, Almanya, Amerika, Avusturalya, Azerbaycan, Belçika, BAE, Ermenistan, Fransa, Güney Afrika, Hırvatistan, Hollanda, KKTC, Kanada, Lübnan, Mısır, Makedonya, Meksika, Monako, Romanya, Rusya, Suriye, Tunus, Ukrayna, Yunanistan gibi ülkelere ihraç edilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arbos Traktör",
+    "description": "Arbos Traktör, 1896 yılında kurulan Arbos Group S.P.A. bünyesinde üretilen tarımsal kullanım için traktörler, hasat makineleri markasıdır.Arbos Group S.P.A. Çinli Tianjin Lovol Heavy Industry Co. Ltd.’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "La Diva",
+    "description": "La Diva, 2005 yılında Fehmi Kumanlı tarafından kurulan Diva Sabun Buklet Malzemeleri Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen doğal sabun, spa sabunları, masaj sabunu, aromatik şampuan ve duş jeli, genel vücut bakım kremi markasıdır.ISO 14001, ISO 9001, ISO 22716, OHSAS18001, IQM HALAL belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

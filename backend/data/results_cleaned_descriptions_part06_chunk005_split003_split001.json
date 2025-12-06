@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Egesan",
+    "description": "Egesan, 1973 yılında kurulan Egesan Aşındırıcı Taşlar A.Ş. bünyesinde üretilen kesme ve taşlama taşları, seramik ve reçine bağlayıcılı aşındırıcı ürünler markasıdır.Firma İstanbul merkezlidir ve ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sunringle",
+    "description": "Sunringle, HB Performance Systems Inc. bünyesindeki bisiklet parçaları, jant ve bileşenler, sunringle tekerlekleri, merkezler, rim markasıdır.HB Performance Systems Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sportourer",
+    "description": "Sportourer, 1897 yılında kurulan Selle S.r.l. bünyesindeki bisiklet parçaları markasıdır.Firma bisiklet eyerleri, gidon sapları ve diğer kullanışlı bisiklet aksesuarlarını üretmektedir. Yüksek elastik köpükler ve jel pedlerin yanı sıra eşit basınç dağılımı ve mükemmel şok emilimi için bir elastomer sistemi sunmaktadır.Selle Italia S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Banda Viking",
+    "description": "Banda Viking, 1998 yılında kurulan Banda Audioparts Ind. e Com. Ltda. bünyesinde üretilen otomotiv amplifikatörleri markasıdır.Banda Audioparts Ind. e Com. Ltda. Brezilya merkezlidir ve ürünlerini Brezilya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": "2022-08-29"
+  },
+  {
+    "company": "Target",
+    "description": "Target, 1902 yılında George Dayton tarafından kurulan Target Brands Inc. bünyesindeki perakende markasıdır.Perakende biçimleri arasında indirim mağazası, hipermarket ve küçük mağazalar bulunur.Target Brands Inc. Amerika merkezlidir. ABD genelinde 2 bine yakın mağazası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

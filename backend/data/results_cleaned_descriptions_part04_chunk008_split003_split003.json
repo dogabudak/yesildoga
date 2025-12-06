@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Off-White",
+    "description": "Off-White, 2012 yılında Virgil Abloh tarafından kurulan Off White Srl. bünyesindeki giyim, ayakkabı, mobilya, aksesuar markasıdır.Off White Srl.’nin ana kuruluşu olan İtalya merkezli New Guards Group Holding S.p.A.’yı 2019 yılında Farfetch’in sahibi José Neves satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Pixelworks",
+    "description": "Pixelworks, 1997 yılında Allen Alley tarafından kurulan Pixelworks, Inc. bünyesinde üretilen görüntü işleme, post-processing video sinyalleri, ekran sistemleri için ağ yetenekleri ve video konferans, video izleme ve diğer endüstriyel video uygulamaları için entegre devreler markasıdır.Şirket ayrıca dijital ekran, projeksiyon cihazları ve dijital tabela sağlar.Pixelworks, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Baro Cook",
+    "description": "Baro Cook, 1997 yılında kurulan Dokdo Co., Ltd. bünyesinde üretilen ev, tencere ve moda ürünleri markasıdır.Dokdo Co., Ltd. Güney Kore merkezlidir. Ürünlerini 20’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Dolomite",
+    "description": "Dolomite, 1897 yılında kurulan Dolomite S.R.L. bünyesindeki açık ve trekking ayakkabıları, kentsel ayakkabı ve spor giyim ürünleri markasıdır.Dolomite S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Point 65",
+    "description": "Point 65, 1996 yılında kurulan Point 65 AB bünyesindeki kayak ve sırt çantaları markasıdır.Kuzey Avrupa’nın önde gelen açık hava markası ve dünyanın en hızlı büyüyen açık hava markalarından biridir.Point 65 Sweden AB, İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

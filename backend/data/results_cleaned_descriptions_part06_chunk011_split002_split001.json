@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Decor Up",
+    "description": "Decor Up, 1982 yılında kurulan Unigra S.r.l. bünyesindeki şekerli sıvı şanti markasıdır.Master Martini alt markasıyla üretilmektedir.ISO 9001, ISO 14001, UTZ, Koşer ve Helal belgelerine sahiptir.Unıgrà S. r. l. İtalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dekojel",
+    "description": "Dekojel, 1988 yılında Abdullah Topçuol tarafından kurulan Katsan Gıda San. ve Tic. Ltd. Şti. bünyesindeki pastacılık jeli çeşitleri, soslar markasıdır.Pastaların kaplanmasında ve süslenmesinde kullanılır.ISO 9001 ve HELAL belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çınar Konserve",
+    "description": "Çınar Konserve Nerenin Malı MarkasıÇınar, 1996 yılında kurulan Çınar Konserve ve Şekerleme Turistik Tes. San. Tic. Ltd. Şti. bünyesinde üretilen meyve konserveleri, soğan konserveleri, şekerleme konserveleri, biber konserveleri, fondan, kestane şekeri, kurutulmuş meyveler, kurutulmuş sebzeler, marmelatlar, meyve özleri, meyve dolguları markasıdır.Bursa merkezli firma ürünlerini Kestel OSB’de 5 bin metrekarelik arazide bulunan 3 bin 800 metrekarelik kapalı alana sahip tesisinde üretmektedir.ISO 9001, ISO 22000, FSSC 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Palmira Matik",
+    "description": "Palmira, 2021 yılında kurulan Nd Kimya Temizlik Ürünleri İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki çamaşır suyu, deterjan, leke çıkarıcı, pas ve kireç çözücü, sıvı sabun, yüzey temizleyici, yumuşatıcı markasıdır.Firma Mersin merkezlidir.Bünyesindeki markalar;DadexExxen LifeNd Kimya Natural WorldPalmira",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sermelex",
+    "description": "Sermelex, 2021 yılında kurulan Sermelex Mutfak Gereçleri San. ve Tic. Ltd. Şti. bünyesindeki elektrikli küçük ev aletleri markasıdır.Firma elektrikli ızgara üretiminde uzmanlaşmıştır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

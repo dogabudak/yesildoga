@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Termocold",
+    "description": "Termocold2013 yılında kurulmuş olan Termocold İklimlendirme Sistemleri A.Ş. bünyesindeki otomotiv yedek parçaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bompi",
+    "description": "Bompi2011 yılında kurulmuş olan Bompi Gıda Makine Turizm San. ve Tic. Ltd. Şti. bünyesinde üretilen beze, bisküvi, kurabiye markasıdır.ISO 9001, ISO 22000 ve TSE belgelerine sahiptir.Firma Eskişehir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gülefşan",
+    "description": "Gülefşan2017 yılında kurulmuş olan Altınbaşak Helal Ürün. Toptan Dağıtım-Aytekin Dereli bünyesindeki bitkisel bulaşık ve çamaşır deterjanları, bitkisel şampuanlar ve yağlar, jelatinsiz şekerlemeler, sirke, çay ve kahveler, gıda takviyeleri, arı ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Reine",
+    "description": "Reine2003 yılında kurulmuş olan 7K Temizlik Ürünleri ve Dağıtım Ltd. Şti. bünyesinde üretilen duş jelleri markasıdır.ISO 9001 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Allbirds",
+    "description": "Allbirds2016 yılında kurulmuş olan Allbirds Inc. bünyesindeki spor ayakkabı ve giyim markasıdır.Allbirds Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

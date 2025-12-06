@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Penta Banyo Aksesuarları",
+    "description": "Penta, 1989 yılında kurulan Penta Group A.Ş. bünyesindeki su armatürleri, banyo aksesuarları, duş sistemleri markasıdır.Penta tesisat ve yapı malzemeleri sektöründe üretim yapan, Musluk, Banyo Armatürleri, Mutfak Armatürleri üreten bir firmadır.Penta markasıyla ürünleri olan çok sayıda firma bulunmaktadır ve bu firmalarla bir alakası yoktur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çağdaş Yaşam Okulu",
+    "description": "Çağdaş Yaşam Okullarının sahibi 1989 yılında kurulan sivil toplum kuruluşu Çağdaş Yaşamı Destekleme Derneği’dir.Eğitimde fırsat eşitliği, kız çocuklarının okullaştırılması, kitap, araç-gereç desteği, okul öncesi eğitimi ve lise mezunu mesleksiz kızlara meslek edindirme, sonunda ekonomik özgürlüklerine kavuşması gibi projeler de Çağdaş Yaşamı Destekleme Derneğinin ilgi alanı dahilindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Yurt Konserve",
+    "description": "1974 yılında kurulan İstanbul Gıda San. ve Tic. A.Ş. bünyesinde üretilen hazır yemek konserveleri markasıdır.Ürün yelpazesinde barbunya pilaki, ıspanak, aşure, barbunya haşlama, etli kuru fasulye, fasulye haşlama, fasulye pilaki, garnitür, haşlanmış bezelye, köfte, kahvaltılık sos, mısır, nohut haşlama, patlıcan kızartma, rosto, sebzeli kebap, soslu tavuk, tas kebabı, uskumru, yaprak sarma, gibi ürünler yer almaktadır.İstanbul merkezli firma ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-03-15"
+  },
+  {
+    "company": "Omlight",
+    "description": "Omlight, 1970 yılında temelleri atılan Omak Makine San. Tic. ve Ltd. Şti. bünyesindeki led aydınlatma ürünleri markasıdır.Omlight markalı ürünler Çin’de Ningbo Enka İnternational Trading Company’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Emmya Pil",
+    "description": "Emmya, 2001 yılında kurulan Barış Elektronik Otomotiv İnşaat Turizm Gıda Tic. ve San. Ltd. Şti. bünyesindeki pil markasıdır. Ürünlerini ithal etmektedir.Barış Elektronik ses ve görüntü cihazlarının ve bunların parçalarının perakende ticareti konularında faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

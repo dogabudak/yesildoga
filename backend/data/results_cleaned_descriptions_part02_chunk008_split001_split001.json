@@ -1,0 +1,46 @@
+[
+  {
+    "company": "TOKİ",
+    "description": "1980’li yıllara kadar kamunun toplu konut yapımıyla ilgili çeşitli faaliyetleri tam anlamıyla başarılı olamayınca 8. Cumhurbaşkanı Turgut Özal’ın talimatıyla 1984 yılında yürürlüğe giren Toplu Konut Kanunu ile özerk Toplu Konut Fonu’na haiz, Genel İdare dışında Toplu Konut ve Kamu Ortaklığı İdaresi Başkanlığı adı ile kurulmuştur. Sonraki yıllarda adı ve faaliyet alanlarında değişiklikler olmuştur.TOKİ (Toplu Konut İdaresi Başkanlığı) 2018 yılında Çevre ve Şehircilik Bakanlığı’na bağlanan bir kamu kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Türkiye Petrolleri",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-03-25"
+  },
+  {
+    "company": "Magdeburger Sigorta",
+    "description": "Magdeburger Sigorta, 1844 yılında kuruldu. 2018 yılında tüm hisselerini yüzde 100 Türk sermayeli Borlease satın aldı.Magdeburger Sigorta A.Ş. bir Borlease grup şirketi oldu.Kısa sürede, 6 bin adede ulaşan filosu, 81 şehre yayılmış servis ağı ile hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mobileiron",
+    "description": "Mobileiron, 2007 yılında kurulan Kurumsal Mobilite Yönetimi çözümleri sunan bir yazılım markasıdır.Akıllı Telefon, Mobil, Mobil Cihaz Yönetimi (MDM), Kurumsal, Mobil Uygulama Yönetimi (MAM), Tabletler, SaaS, Mobil Güvenlik, BYOD, mutli-OS, Kurumsal Mobilite, Veri Kaybı Önleme, Güvenlik, Tek Oturum Açma uzmanlık alanlarına sahip olan MobileIron’un mobil merkezli, güvenlikte sıfır güvenlik politikası, işletme kaynaklarına güvenli erişim vermeden önce her kullanıcıyı, cihazı, uygulamayı, ağı ve tehdidi doğrular.Mobileiron Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mellanox Technologies",
+    "description": "Mellanox Technologies, 1999 yılında kuruldu. Sunucular ve depolama için uçtan uca InfiniBand ve Ethernet ara bağlantı çözümleri ve hizmetlerinin tedarikçisidir. Mellanox ara bağlantı çözümleri, en yüksek verim ve en düşük gecikme süresi sağlayarak, uygulamalara daha hızlı veri sunarak ve sistem performans yeteneğinin kilidini açarak veri merkezi verimliliğini artırır.InfiniBand ve Ethernet teknolojisine dayanan İsrail-Amerikan çok uluslu bilgisayar ağı ürünleri tedarikçisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-11-10"
+  }
+]

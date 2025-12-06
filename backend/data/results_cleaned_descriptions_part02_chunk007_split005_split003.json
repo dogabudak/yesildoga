@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Elten",
+    "description": "Elten, 1910 yılında Johann van Elten tarafından kurulan ELTEN GmbH bünyesindeki ayakkabı markasıdır.Güvenlik ve iş ayakkabıları üretmektedir.ELTEN GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bizim Vatan",
+    "description": "Bizim Vatan, 1951 yılında kurulmuş olan ve Şok Marketler Tic. A.Ş. adına muhtelif firmalar tarafından üretilen ton balığı, garnitür, salata, konserve, bezelye, üzüm-elma sirkesi, salata sosları markasıdır.Şok Marketler hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 41,22)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-12-14"
+  },
+  {
+    "company": "ELF",
+    "description": "ELF, 1924 yılında Ernest Mercier tarafından kurulan Total S.A. bünyesindeki binek araç motor yağı markasıdır.Total S.A. Fransa merkezlidir.Türkiye’de TOTAL’in bağlı iştiraki olan Total Oil Türkiye A.Ş., 15 Nisan 2016 tarihinde akaryakıt dağıtım faaliyetleri ile birlikte Demirören Holding’e devroldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tellioğlu Un",
+    "description": "Tellioğlu, 1982 yılında Hüseyin Tellioğlu tarafından kurulan Tellioğlu Şirketler Grubu bünyesindeki un ve yem markasıdır.Un fabrikası, kuluçka tesisleri ve yem fabrikasından oluşan grup, 2004 yılında, antik mermer fabrikası kurmuştur. 2007 yılında meyve yetiştiriciliğine başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Uppababy",
+    "description": "Uppababy, 2006 yılında kurulan Monahan Products LLC bünyesindeki bebek arabaları, oto koltuğu, beşik standları, bebek arabası aksesuarları, arabalar için çantalar, ana kucağı, bebek malzemeleri ve aksesuarları markasıdır.Ürünleri, Juvenile Product Manufacturing Association ve CPSC tarafından gerekli olan endüstri standartlarını karşılamaktadır.Monahan Products LLC Amerika merkezlidir.Bünyesindeki markalar;CruzG-LinkG-LiteG-LuxeMesaPiggybackRumbleseatUppababyVista",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-11-11"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Sarıyer Gazoz Limonata",
+    "description": "Sarıyer Limonata, 1997 yılında kurulmuş olan Oğuz Gıda San. ve Tic. A.Ş. bünyesinde üretilen meyve suyu markasıdır.Firma Sakarya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hydroxycut",
+    "description": "Hydroxycut, 1995 yılında kurulmuş olan Iovate Health Sciences International Inc. bünyesindeki diyet takviyesi markasıdır.Kanada merkezli Iovate Health Sciences International Inc.’in çoğunluk hisseleri 2016 yılında Çin merkezli Xiwang Foodstuffs Co. Ltd. tarafından satın alınmıştır. Ürünlerini 140 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Altınay Lokum",
+    "description": "Altınay Lokum Nerenin Malı MarkasıAltınay Lokum, 1990 yılında kurulmuş olan Altınay Şekerleme San. Tic. A.Ş. bünyesinde üretilen kaymaklı lokum markasıdır.Hiçbir şekerleme ürününde, glikoz vb. katkı maddeleri kullanılmamaktadır.Firma Afyon merkezlidir.Bünyesindeki markalar;AltınayAltınay LokumİçadedenSalih Şeker Altınay",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rinacheck",
+    "description": "Rinacheck, 2005 yılında kurulmuş olan Mt Sağlık Ürünleri San. ve Tic. A.Ş. bünyesindeki şeker ölçüm cihazları markasıdır.ISO 9001 ve ISO 13485 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eolo",
+    "description": "Eolo, 1981 yılında kurulmuş olan Eolo Eğitici Oyuncak ve Yayıncılık San. ve Tic. Ltd. Şti. bünyesinde üretilen eğitici oyuncak ve kitap markasıdır.Okul öncesi çağı çocuklarına yönelik ürünler tasarlamaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

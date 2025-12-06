@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Woodmaster Vernik",
+    "description": "Woodmaster, 1994 yılında kurulan Haskan Boya San. ve Tic. Ltd. Şti. bünyesindeki boya ve cila malzemeleri markasıdır.Firma su bazlı boyalar, akrilik ve rölyef dış cephe boya ve astarları, parke, marley ve beyaz tutkallar, solvent bazlı sonkat ve astarlar, endüstriyel astar ve sonkatlar, epoksi astar, sonkat ve yer kaplaması üretmektedir.Ürünlerini 7 bin metrekarelik arazi üzerinde 4 bin metrekaresi kapalı alanda yer alan fabrikasında üretmektedir.ISO 9001 ve TSE belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Exess",
+    "description": "Exess, 1985 yılında kurulan Visard and Mistral S.r.l. bünyesinde üretilen gözlük, çerçeve ve aksesuarlar markasıdır.Visard s.r.l. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Topicrem",
+    "description": "Topicrem, 1909 yılında kurulan Mayoly Spindler Pharmaceutical Laboratories SAS bünyesinde üretilen cilt bakım ürünleri markasıdır.Firma yumuşak kapsüllerin formülasyonu ve üretimi, çeşitli farmasötik formların üretimi (fitiller, tabletler, kaplanmış tabletler, paketler) ve kozmetik ürünlerin geliştirilmesi ve üretimi (vücut losyonları, kremler, şampuanlar, tonerler) dahil olmak üzere tüm ihtiyaçları için üretim yapmaktadır.Mayoly Spindler Pharmaceutical Laboratories Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Orti",
+    "description": "Orti, 1987 yılında kurulan Yazar Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen şeker, bakliyat, un, irmik, galete unu, mısır unu, nişasta, pirinç unu, pudra şekeri markasıdır.Ankara merkezli firmanın ürün yelpazesinde pirinç ve bakliyat çeşitleri, mısır, un, irmik, nişasta çeşitleri, çay, toz şeker, küp şeker, zeytin, baharat, kuruyemiş yer almaktadır.Bünyesindeki markalar;OrtiYazar",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Chronut",
+    "description": "Chronut, 2007 kurulan Chronale Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen fındık ve fındık ürünleri markasıdır.Ürünleri yüzde 100 doğaldır ve koruyucu madde, renklendirici, trans yağ, palm yağı içermez.ISO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

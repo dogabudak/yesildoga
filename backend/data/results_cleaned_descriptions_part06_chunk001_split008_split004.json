@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Nice Akıllı Ev Otomasyonu",
+    "description": "Nice, 1993 yılında kurulan Nice S.p.A. bünyesindeki akıllı ev, güvenlik, ev ve bina otomasyonu markasıdır.Konut ve ticari alanlarda kapılar, garaj kapıları, gölgeleme sistemleri, park sistemleri, kablosuz alarm sistemleri ve bina güvenliği için kapsamlı bir entegre çözümler yelpazesi ile otomasyon sistemlerinin yönetilmesinde çok uluslu bir referans şirketidir.Nice S.p.A. İtalya merkezlidir. 5 kıtada 24 ülkede şubesi, 15 üretim tesisi ile 100’den fazla ülkeye ürünlerini pazarlamaktadır.Bünyesindeki markalar;AbodeEleroFibaroHysecurityNortek Security & Control",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Varan Turizm",
+    "description": "Varan Turizm, 1946 yılında kurulan kara yolu üzerinden yolcu taşımacılığı markasıdır.2020 yılında Soğancı Grup tarafından satın alınan Varan Turizm, Varan Grup Turizm A.Ş. bünyesindedir.Firma Ankara merkezlidir. İstanbul, İzmir, Ankara ve Bursa için seferler düzenlemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Anadolu Seyehat",
+    "description": "Anadolu Seyehat, 1994 yılında kurulan Anadolu Seyahat Ltd. Şti. bünyesindeki öğrenci, personel taşımacılık, filo kiralama, transfer hizmetleri markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cw Enerji",
+    "description": "Cw Enerji, 2010 yılında kurulan CW Enerji Mühendislik Tic. ve San. A.Ş. bünyesindeki güneş paneli, çeviriciler, solar şarj kontrol cihazları, solar paketler, solar ekipmanlar, enerji depolama çözümleri, yenilenebilir enerji hizmetleri markasıdır.Türkiye, Avrupa ve Uzak Doğu’da güneş paneli üretimi gerçekleştirmektedir. Şebeke bağlantılı sistemler, şebekeden bağımsız akü destekli sistemler, güneş enerjili sulama sistemleri, LED aydınlatma sistemleri, güneş enerjili kamera sistemleri ve elektrikli araç şarj istasyonları gibi alanlarda da hizmet vermektedir.ISO 9001, ISO 14001, OHSAS 18001, ISO/IEC 27001, ISO 50001, ISO 10002 belgelerine sahiptir.Firma Antalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 50001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Furygan",
+    "description": "Furygan, 1969 yılında kurulan Furygan SAS bünyesinde üretilen günlük yaşam için sağlam ve koruyucu motosiklet ekipmanları markasıdır.Ceket, pantolon, eldiven ve koruma ürünleri üretmektedir.Furygan SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

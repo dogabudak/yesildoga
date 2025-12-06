@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Mienca Plastik",
+    "description": "Mienca2017 yılında kurulan M.Erdem Plastik Hammadde San. ve Tic. Ltd. Şti. bünyesinde üretilen genel kullanım amaçlı plastik ürünler markasıdır.ISO 9001 ve ISO 22000 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "La Cena",
+    "description": "Lacena2003 yılında kurulmuş olan Seshin Industry Co. Ltd. bünyesinde üretilen mutfak aletleri, pişirme aletleri, su ısıtıcıları markasıdır.Ağırlıklı olarak alüminyum döküm kaplı tencere üretmektedir. Başlıca ürünler kızartma tavası, sos tavası ve sos tenceresi, sote tavası, WOK, çift tava, kızartma tavası gibi ürünlerdir.ISO 9001 ve ISO 14001 belgelerine sahiptir.Seshin Industry Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Arfesan",
+    "description": "Arfesan1969 yılında kurulmuş olan Arfesan Arkan Fren Elemanları San. ve Tic. A.Ş. bünyesinde üretilen havalı fren aktüatörleri, havalı fren ekipmanları, havalı fren çözümleri ve havalı fren odaları markasıdır.2003 yılında Arkan Gruba dahil olan firma Kocaeli merkezlidir. Ürünlerini 11 bin 500 metrekarelik alanda bulunan tesisinde üretmektedir ve 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Euchner",
+    "description": "Euchner1953 yılında kurulmuş olan Euchner GmbH + Co. KG bünyesindeki çok fonksiyonlu kapı kutusu, koruma kilitli veya kilitlemesiz transponder kodlu emniyet şalterleri, transponder kodlu anahtar sistemleri eks ve cks, harici değerlendirmeli transponder kodlu okuma kafaları, manyetik olarak kodlanmış emniyet şalterleri, elektromekanik emniyet şalterleri koruma kilidi, koruma kilidi olmayan elektromekanik emniyet şalterleri, emniyet röleleri, kontrol sistemleri ve filtre modülü, devreye alma anahtarı, acil durdurma cihazları, io-link’e bağlantı için güvenlik mühendisliği, as-arayüzlü güvenlik mühendisliği, atex direktifine göre güvenlik mühendisliği, ışık ızgaraları ve ışık perdeleri, elde tutulan askı istasyonları ve el çarkları, kumanda kolu anahtarları, konum anahtarları ve çoklu limit anahtarları, tanımlama sistemleri markasıdır.Euchner GmbH + Co. KG Almanya merkezlidir. Türkiye’de Euchner End. Emn. Tek. Ltd. Şti. olarak faaliyet göstermektedir.Bünyesindeki markalar;EuchnerSafetsenseSafetsense Machine Safety",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Penelope",
+    "description": "Penelope1993 yılında kurulmuş olan Maya Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen yastık, yorgan, uyku pedi, alez ve aksesuarlar markasıdır.ISO 9001, OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 50 ülkeye ihraç etmektedir.Bünyesindeki markalar;Back To SchoolBambinaBambudaBimba CollectionBubblegelClassico CollectionClima AriaClima Max FirmClima Max SoftClimasleepCloudiaColoraCoolla CollectionCottinaCrownaDormeDormiasDowna CollectionDowna Comfort TopperDownagelDownasleepDreamaiaElegante CollectionElideFibra ComfortGıdıkKaztüyüLoveraMaiamoreMaya AkademiMaya ElitMayakademiMayasMaya’s ProfessionalMicraMonmaiaNuovaOthelloPaliaPenelopePiuma CollectionPiumaiaPnlpProtecta CollectionSerenadeSofficaThelloUyku KütüphanesiUykuhaneUykulabWoolla",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

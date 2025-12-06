@@ -1,0 +1,48 @@
+[
+  {
+    "company": "CIXI FULI ELECTRONICS",
+    "description": "CIXI FULI ELECTRONICS çok sayıda plastik silikon tabancası üreten bir Çin markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vella Koleston",
+    "description": "Vella Koleston markası 1904 yılında Paris, Fransa’da kurulan küresel güzellik ürünleri üreticisi Coty, Inc. bünyesine ait bir markadır. Ana ürünleri parfüm, makyaj malzemeleri, cilt ve vücut bakım ürünleridir.Coty Şirketinin sahibi Lüksemburg merkezli JAB Holding Company’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Armaf Parfümü",
+    "description": "Armaf parfüm, tasarımcı Armaf tarafından 2015 yılında üretilen parfüm markasının 97 çeşit parfümü bulunmaktadır.Armaf markası Sterling Parfume firmasına aittir. Firma 1998 yılında kurulan güzellik ve kişisel bakım sektöründe markalı ürünler üreten Birleşik Arap Emirlikleri markasıdır.Sterling Parfume bünyesindeki diğer markalar:Armaf, Armaf Enchanted, Armaf Marjan, Armaf Niche, Bio, Cosmo, Estiara French Way, Estiara Passion, Femelle, Flavia, Hamidi, Havex, Jenny Glow, Oros, Sea Pearl, Cosmetic",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": "2019-12-19"
+  },
+  {
+    "company": "General Mobile",
+    "description": "General Mobile, 2005 yılında kurulmuş olan akıllı telefon, tablet, akıllı cihazlar, genişbant ve aksesuarlar markasıdır.General Mobile, 2012 yılında Telpa Telekomunikasyon A.Ş. tarafından satın alındı.Firma İstanbul merkezlidir. Ürünlerini 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-01-10"
+  },
+  {
+    "company": "Monster High",
+    "description": "Monster High bebek oyuncak markası, 1945 yılında kurulan Mattel oyuncak şirketine aittir.Mattel oyuncakları Çin’de üreten bir Amerikan oyuncak firmasıdır. Yıllar önce Çin’de kurşun kirliliğinin yol açtığı skandal üzerine Amerika’daki son fabrikası olan orijinal Fisher-Price bölümünün ilk kısmını 2002 yılında kapattı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

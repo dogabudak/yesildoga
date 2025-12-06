@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aren",
+    "description": "Aren, 2011 yılında kurulan Aren Kozmetik Ltd. Şti. bünyesinde üretilen kolonya, şampuan, duş jeli, oda kokusu, parfüm, optik ürünler ve otel ürünleri markasıdır.Ürünlerini bin 200 metrekarelik alanda üreten tamamı yerli sermayeli bir firmadır. Firmanın ürün yelpazesinde yer almaktadır. Ürünlerini Afrika ve Avrupa ülkelerine ihraç etmektedir.Bünyesindeki markalar;ArenE & A İKSİRLionelNOVONovocareVenilia",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aromis",
+    "description": "Aromis, 2007 yılında kurulan Aromis Kimya Aroma ve Esans San. Tic. Ltd. Şti. bünyesinde üretilen aroma ve esans markasıdır.İstanbul İkitelli OSB’de kolonya, deterjan, temizlik malzemeleri, kişisel bakım ürünleri, parfüm, sabun ürünler için esans, gıda sektörü için aromalar üretmektedir.Bünyesindeki markalar;Aff Aromis Flavours & FragranceAromisAromis KimyaNazey",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "LKW Walter",
+    "description": "LKW Walter, 1924 yılında kurulan Transportorganisation AG bünyesindeki karayolunda veya kombine trafikte komple yük nakliyesinin organizasyonu markasıdır.Demiryolu, karayolu veya kısa mesafeli deniz taşımacılığı üzerinden kombine taşımacılık hizmeti sunmaktadır.Transportorganisation AG, Avusturya merkezli Walter Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Raboom",
+    "description": "Raboom, 2017 yılında kurulan Rapoli Trend Atölyesi Tekstil San. ve Dış Tic. A.Ş. bünyesindeki çanta, bez çanta, kalem çantaları, valiz, kılıflar, kırtasiye setleri, masa aksesuarları, okul çantaları, sırt çantaları, tişört markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fiverr",
+    "description": "Fiverr, 2010 yılında Micha Kaufman ve Shai Wininger tarafından kurulan Fiverr International Ltd. bünyesinde, serbest çalışanlar tarafından sunulan çeşitli dijital hizmetleri satın almaları ve satmaları için iki taraflı bir platform markasıdır.Sitede sunulan hizmetler arasında yazı, çeviri, grafik tasarım, video düzenleme ve programlama yer almaktadır.Fiverr International Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Lady Caramel",
+    "description": "Lady Caramel, 1997 yılında kurulan Elf Şirketler Grubu bünyesindeki Elfa Laboratory tarafından üretilen tüy dökücü vücut kremi markasıdır.2012 yılında kurulan Elfa Laboratory Ukrayna merkezlidir ve ürünlerini Ukrayna’da üretmektedir.Bünyesindeki markalar:Ag-plusAloe EpilBIOBIO greenBio naturellCamomile DepilationCool menDermaglinDr. SanteECOPLANT HOMEElfa PharmFresh JuiceGreen PharmacyLady CaramelO’HerbalPINK ELEPHANTPink UpSalonSeptterilSun BerrySun EnergyVERY BERRY",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Oben",
+    "description": "Oben, 2017 yılında kurulan Oben İlaç Medikal Kozmetik Dış Tic. Ltd. Şti. bünyesindeki tüy dökücü krem markasıdır.ISO 9001 ve ISO 13485 belgelerine sahiptir.Bünyesindeki markalar:BatobenBlack LatteBorkBork Swiss EnergyCarbon LatteCdvet Natürliche TiergesundheitCold-BenDr Oben Swiss EnergyFazıl ÇilMedbantMysterious BeautyObenPha Pet Health AssociationRosebenSwiss EnergyWoodcast",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zenith",
+    "description": "Zenith, DRN Kimya Paz. Dağ. End. Tem. ve Kim. Ür. bünyesindeki lastik parlatıcı, lastik sütü, torpido sütü, motor ve jant temizleyici, özel jant temizleyici, cilalı otomobil şampuanı, halı yıkama şampuanı markasıdır.Otomobil temizlik ürünleri üreticisi Drn Kimya bünyesindeki markalar:ZenithTunex",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Steinway",
+    "description": "Steinway, 1893 yılında Heinrich Engelhard Steinweg tarafından kurulan Steinway & Sons Inc., bünyesindeki kuyruklu ve dik piyano markasıdır.Amerika ve Almanya’da fabrikaları bulunmaktadır.Steinway & Sons Inc., 2013 yılında Amerika merkezli yatırım şirketi Paulson & Co. Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Powercolor",
+    "description": "Powercolor, 1997 yılında kurulan TUL Corporation bünyesindeki ekran kartı, bilgisayar kılıfı, güç ve sürücü ürünleri, multimedya cihazları markasıdır.PowerColor markalı kartların çoğu Foxconn tarafından üretilmektedir.TUL Corporation Tayvan merkezlidir ve ürünleri Tayvan’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

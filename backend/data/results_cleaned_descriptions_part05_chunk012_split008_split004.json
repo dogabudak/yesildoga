@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Şımart Katya",
+    "description": "Şımart Katya Nerenin Malı MarkasıŞımart, 2020 yılında kurulan Şımart Teknoloji San. ve Tic. A.Ş. bünyesinde üretilen robot süpürge ve paspas markasıdır.Türk hane yapısına uygun olarak geliştirilen ürünler tamamen yerli ve milli fabrikada üretilmektedir.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Veka",
+    "description": "Veka, 1967 yılında Heinrich Laumann tarafından kurulan Veka AG bünyesinde üretilen pencere, kapı, kepenk ve sürgülü kapıların yanı sıra polivinil klorürden (PVC) plaka sistemlerinin üretimi için plastik profil sistemleri markasıdır.Veka AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pimtaş",
+    "description": "Pimtaş, 1977 yılında kurulan Pimtaş Plastik A.Ş. bünyesinde üretilen pvc, hdpe, pp, atık su, kaplin ek parçaları, teknik malzemeler, havuz ekipmanları markasıdır.Yüzde yüz yerli sermayeli şirket Kocaeli merkezlidir. Ürünlerini 107 ülkeye ihraç etmektedir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vivadiag",
+    "description": "Vivadiag, 2013 yılında kurulan VivaChek Biotech Co. Ltd. bünyesinde üretilen şeker ölçüm stribi, kan şekeri ölçüm cihazı markasıdır.VivaChek Biotech Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Malongo",
+    "description": "Malongo, 1934 yılında kurulan Compagnie Mediterraneenne Des Cafes S.A. bünyesindeki kavrulmuş kahve ve kahve makineleri markasıdır.Compagnie Mediterraneenne Des Cafes S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

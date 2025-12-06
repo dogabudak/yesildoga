@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dermovitamin Krispus",
+    "description": "Dermovitamin İlaç Gıda Takviyeleri ve Kozmetik San. ve Tic. A.Ş. bünyesindeki bitkisel takviye edici gıda markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yeşil Kozan",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Krilom",
+    "description": "2011 yılında kurulan Tab İlaç San. A.Ş. bünyesindeki omega3 takviye edici gıda markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kolossal",
+    "description": "1972 yılında Dominique Ruf ve Pierre-Etienne Ruf tarafından kurulmuş olan Ruf-Esterel Production bünyesinde üretilen erkekler için geliştirilmiş krem markasıdır.Ruf-Esterel Production Fransa merkezlidir ve ürünleri Fransa’da üretilmektedir. Ürünlerini 45’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Intenpure",
+    "description": "2008 yılında kurulmuş olan Dnd Kozmetik Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki saç bakım ürünleri markasıdır.Ürünleri argan yağı içermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

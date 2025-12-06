@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Cosvoce",
+    "description": "2023 yılında kurulmuş olan Cahft Sağlık ve Kozmetik Ürünleri Tic. Ltd. Şti. bünyesindeki cilt bakım ürünleri markasıdır.Ürünleri alkol, paraben ve boya içermez. Hayvanlar üzerinde test edilmemektedir.ISO 9001, ISO 14001, ISO 22301, ISO/IEC 27001, ISO 45001, ISO 50001, GMP belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22301",
+      "ISO 45001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ergün Çikolata",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "ISO18001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kravatkolik",
+    "description": "1977 yılında kurulmuş olan Lapescara Teks. Ürn. San. ve Tic. Ltd. Şti. bünyesindeki kravat ve erkek aksesuarları sunan çevrimiçi satış sitesi markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;KravatkolikLa’Pescara Cravatte",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jaecoo",
+    "description": "1997 yılında kurulmuş olan Chery Automobile Co. Ltd. bünyesinde üretilen otomobil markasıdır.Chery Automobile Co. Ltd. Çin merkezlidir. Türkiye’de Chery Otomobil San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Colormax",
+    "description": "2008 yılında kurulmuş olan Maksis Kozmetik İtriyat Pazarlama ve Dış Tic. Ltd. Şti. bünyesindeki saç boyası, saç bakım ürünleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini bir çok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

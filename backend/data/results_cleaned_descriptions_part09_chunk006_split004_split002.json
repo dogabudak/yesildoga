@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Dragro",
+    "description": "Dragro2022 yılında kurulmuş olan Hangzhou Bida Network Technology Co. Ltd. bünyesinde üretilen akülü testere markasıdır.Hangzhou Bida Network Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Elancyl Eau D’eclat",
+    "description": "Elancyl Eau D’eclat1942 yılında kurulmuş olan Industrial Farmaceutica Cantabria SA bünyesindeki parfüm, vücut için koku losyonu, vücut bakım spreyi markasıdır.Industrial Farmaceutica Cantabria SA İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Topi Tanem",
+    "description": "Topitanem1995 yılında kurulmuş olan Bim A.Ş. adına muhtelif üreticiler tarafından üretilen çikolata kaplı toplar markasıdır.Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dbyd",
+    "description": "DbydGrandVision Group Holding B. V. bünyesindeki güneş gözlükleri markasıdır.GrandVision Group Holding B. V. 2019 yılında Fransa merkezli Essilor Luxottica SA tarafından satın alınmıştır. Grandvision Group’un 40’tan fazla ülkede 7 binden fazla mağazası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Duolingo",
+    "description": "Duolingo2011 yılında kurulmuş olan Duolingo Inc. bünyesindeki eğitim uygulaması markasıdır.40’tan fazla dilde kurslar sunmaktadır. Dil öğrenme uygulamaları üretmektedir ve dil sertifikası sağlamaktadır.Duolingo Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Madel",
+    "description": "Madel, 1977 yılında kurulan Madel Spa. bünyesinde üretilen ev temizlik ve kişisel bakım ürünleri markasıdır.Ürün yelpazesinde çamaşır deterjanları, yumuşatıcılar, yün ve ince kumaşlar ve sıvı el yıkama ürünleri, banyo ve mutfaklar için kireç gidericiler, bulaşıklar için ürünler, cilt temizleme ürünleri yer almaktadır.Madel Spa. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.Bünyesindeki markalar;DeoxMadelPulirapidSmacchiotuttoWinni’sWinni’s Naturel",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Mera Hayvan Yemi",
+    "description": "Mera, 1949 yılında kurulan Mera Tiernahrung Gmbh bünyesinde üretilen kedi ve köpek maması markasıdır.IFS ve BRC standartlarına göre belgelere sahiptir.Mera Tiernahrung Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "BRC",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Radox",
+    "description": "Radox, 1908 yılında ilk kez üretilen 2009 yılında Unilever tarafından satın alınan duş jeli, köpüğü, banyo tuzları, yağları, el yıkama ürünleri markasıdır.Köpük banyosu ve duş jeli çeşitleriyle tanınan bir kişisel bakım ürünleri markasıdır.İngiltere merkezli Unilever PLC, Türkiye’de 1952 yılından beri faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-25"
+  },
+  {
+    "company": "Yeni Akit",
+    "description": "Yeni Akit, 2011 yılında kurulan Uğurlu Gazetecilik Basın Yayın Matbaacılık Reklamcılık Ltd. Şti. bünyesindeki günlük gazete markasıdır.İstanbul merkezli gazetenin sahibi Ramazan Fatih Uğurlu.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Scavia",
+    "description": "Scavia, 1911 yılında kurulan Fms Trading Srl bünyesindeki kuyumculuk eşyaları (taklitleri dahil), altın, mücevherler, kıymetli taşlar ve bunlardan oluşturulan takılar, kol düğmeleri, kravat iğnesi, biblolar, saatler ve zaman ölçme cihazları markasıdır.Fms Trading Srl İtalya merkezlidir. Ürünleri İtalya’da tasarlanmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

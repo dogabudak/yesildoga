@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Paofong",
+    "description": "Paofong, 1986 yılında kurulan Pao Fong Industry Co Ltd. bünyesinde üretilen geleneksel takım tezgahları markasıdır.Firma CNC takım tezgahları ile yatay frezeleme ve Yatak tipi frezeleme ürünleri geliştirmektedir.Pao Fong Industry Co Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Sadovsky",
+    "description": "Sadovsky, 1967 yılında Shmuel Sadovsky tarafından kurulan Sadovsky Ltd. bünyesinde üretilen temizlik ürünleri markasıdır.Mutfak süngerleri, mikrofiber bez, mikrofiber zemin dolum bezleri, dokunmamış aşındırıcı elyaflar, haşere kontrolü için kimyasallar ve koku giderici malzemeler üretmektedir.Firma dünyanın önde gelen temizlik markalarından bazılarına üretim yapmaktadır. Müşterileri arasında büyük ölçekli dağıtıcılar, süpermarketler ve perakende zincirleri vardır (Sano, 3M, Henkel, Coop, aldı, Safeway, Lidl, Leroy Merlin, Libman ve daha fazlası).Sadovsky Ltd. İsrail merkezlidir. İsrail’de üç, Çin’de bir fabrikasında üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "M.H.Chen",
+    "description": "M.H.Chen Hangi Ülkenin Malı MarkasıdırM.H.Chen, 1980 yılında kurulan M.H.Chen’s Industrial Co. Ltd. bünyesindeki balıkçılık ekipmanları markasıdır.Ton balığı loglines, snaps, fırdöndüler, kancalar ve taklit yemler, kıvrımlar ve aksesuarlar üretmektedir.M.H.Chen’s Industrial Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Landtek",
+    "description": "Landtek, 2002 yılında kurulan Guangzhou Landtek Instruments Co. Ltd. bünyesinde üretilen profesyonel metre ve ölçüm aletleri markasıdır.Ürün yelpazesinde kalınlık ölçer, yüzey pürüz test cihazı, titreşim metre, sertlik ölçüm cihazı, ph denetleyicisi, gerginlik ölçer, yakıt basınç ölçer, gaz potansiyometre ölçüm cihazı, anemometre, nem ölçer, tahıl nem ölçer, nem ölçer, stroboskop, motor takometre, takometre, Lux ölçer, ses seviyesi ölçer, sıcaklık ölçer vb kemeri yer almaktadır.Guangzhou Landtek Instruments Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hawe",
+    "description": "Hawe, 1949 yılında kurulan HAWE Hydraulik SE bünyesinde üretilen hidrolik, endüstriyel hidrolik, mobil hidrolik markasıdır.Bu hidrolik ünitelerin yanı sıra, ayar pompaları, vanalar, sensörler ve aksesuarlar içerir.ISO 9001, ISO 14001, ISO 50001, OHSAS 18001 belgelerine sahiptir.HAWE Hydraulik SE Almanya merkezlidir. Ürünleri 16 ülke ve satış ortakları ile 40’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 50001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

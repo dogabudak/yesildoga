@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Doğu Karadeniz Çay",
+    "description": "Doğu Karadeniz Çay Nerenin Malı MarkasıDoğu Karadeniz Çay, 2002 yılında kurulan paket çay, hediyelik çay, demlik süzen paket, bitki çayları, kolonyalar markasıdır. 2005 yılından beri Balsan Grup bünyesinde yer almaktadır.Firma Rize merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "W Walter",
+    "description": "W Walter, 1935 yılında Hellmuth Walter tarafından kurulan Walterwerk Kiel GmbH & Co. KG bünyesinde üretilen otomatik waffle pişirme makineleri, otomatik atıştırmalık pişirme makineleri, endüstriyel gofret pişirme makineleri, waffle pişirme ve atıştırmalık pişirme sistemleri markasıdır.Walterwerk Kiel GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "P&P Poyraz Poyraz",
+    "description": "P&P Poyraz Poyraz Nerenin Malı MarkasıP&P Poyraz Poyraz, 1993 yılında kurulan Poyraz Poyraz Fındık Entegre San. ve Tic. A.Ş. bünyesinde üretilen fındık, dilimlenmiş fındık, fındık unu ve fındık püresi, iç fındık ve işlenmiş fındık markasıdır.ISO 9001, ISO 22000, Brc, Ifc, Kosher, Helal, Organik, Utz, Sedex belgelerine sahiptir.Ordu merkezli firma ürünlerini Ordu’da bulunan 17 bin 500 metrekaresi kapalı toplam 37 bin metrekarelik alanda bulunan tesisinde üretmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yanyun",
+    "description": "Yanyun, 1996 yılında kurulan Shandong Yanyun Packing Technology Co. Ltd. bünyesinde üretilen mobilya, plastik ambalaj kapları, kaplar için metalden olmayan kapaklar, metalden olmayan sızdırmaz kapaklar, metalden olmayan şişe kapakları, menteşeler, metalden değil, bambu sanat ve el sanatları, depolama ve nakliye için metalden olmayan kaplar, kaplar için metal olmayan kapaklar, şişeler için mantarlar markasıdır.Shandong Yanyun Packing Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Chereks Kraulquappen",
+    "description": "Chereks Kraulquappen, Kidswim Gmbh bünyesindeki yüzme kolluğu, herkes için yüzme halkaları, yüzme tahtaları, yüzgeçler, dubalar ve paspaslar, aqua fitness yardımcıları ve su oyuncakları markasıdır.Kidswim Gmbh İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

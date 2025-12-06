@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Elya Kozmetik",
+    "description": "Elya Kozmetik, 2003 yılında kurulmuş olan Elya Kozmetik San. ve Tic. Ltd. Şti. bünyesinde marka sahipleri için özel etiket çalkalama suyu, ağız kokusu önleyici sprey, antiperspirant sprey, ayak kokusu önleyici sprey, diş beyazlatıcı jel, güneş kremi üreticisidir.İstanbul merkezli firma ayrıca plastik ambalajların tümünü kendi içerisinde basmaktadır.Bünyesindeki markalar;ElyaElya KozmetikKorse TürkiyeLg Luis GoldenLuis GoldenMadeliseMadesoreNedefitRolab Kozmetik",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elke Air Conditioning",
+    "description": "Elke, 2003 yılında kurulmuş olan Elke S.r.l. bünyesindeki otomotiv klima sistemleri, evsel ve endüstriyel klima sistemleri, evsel ve endüstriyel soğutma markasıdır.Otomotiv ve HVAC endüstrisindeki klima sistemlerinin bakımı, temizlenmesi ve sanitizasyonu için ürünler üretmektedir. ISO 9001 belgesine sahiptir.Elke S.r.l. İtalya merkezlidir ve ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Vintage",
+    "description": "Vintage, 1992 yılında kurulmuş olan Aktüel Group Optik San. Ve Tic. Ltd. Şti. bünyesinde üretilen güneş gözlüğü ve optik çerçeve markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AmorExactGazarelliOexQmarinesRichie RichVintage",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Redriver",
+    "description": "Redriver, 2017 yılında kurulmuş olan Anadolu Gözlük Sanayi İth. İhr. Ltd. Şti. bünyesinde üretilen güneş gözlüğü ve gözlük çerçeveleri markasıdır.Firma Kırıkkale merkezlidir ve ürünlerini Kırıkkale OSB’de bulunan bin 800 metrekarelik alanda üretmektedir.Bünyesindeki markalar;LucetteLuvi HillsRedriver",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elegance Lens",
+    "description": "Elegance, 2004 yılında kurulmuş olan Cihan Medikal San. ve Tic. A.Ş. bünyesinde üretilen kontak lens ve lens solüsyonu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

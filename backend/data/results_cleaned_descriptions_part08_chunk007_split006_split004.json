@@ -1,0 +1,47 @@
+[
+  {
+    "company": "ChatGPT",
+    "description": "ChatGPT, 2015 yılında Elon Musk, Greg Brockman, Ilya Sutskever, John Schulman, Sam Altman, Wojciech Zaremba tarafından kurulmuş olan Openai L.P. tarafından geliştirilen sohbet botu markasıdır.Şirket, yapay zeka araştırma ve dağıtımı için araştırma yapar ve makine öğrenimini uygular.Openai L.P. Amerika merkezlidir. Şirketin yüzde 49’luk hissesi Amerika merkezli Microsoft Corp.’a aittir.Bünyesindeki markalar;ChatgptGpt-3",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Unimaxi",
+    "description": "Unimaxi, 2007 yılında kurulmuş olan Maxi Kimya A.Ş. bünyesinde üretilen bulaşık makinesi tableti markasıdır.Ürünleri kimyasal ve petrol türevi hammaddeler içermez.İstanbul merkezli firma ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir ve 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pulsenmore",
+    "description": "Pulsenmore, 2014 yılında kurulmuş olan Pulsenmore Ltd. bünyesindeki evde kullanıma yönelik taşınabilir ultrason cihazları markasıdır.Şirketin cihazı, hastaların kendi taramalarını yapmalarını, buluta yüklemelerini ve doktorlardan geri bildirim almalarını sağlıyor.Pulsenmore Ltd. İsrail merkezlidir. Amerika ve İsrail’deki tesislerinde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Günbak",
+    "description": "Günbak Nerenin Malı MarkasıGünbak, 1985 yılında kurulmuş olan Gün Gıda Tic. Ltd. Şti. bünyesindeki bakliyat, baharat, şeker, kahve, toz içecek, un ve nişasta markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Aydın merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jute",
+    "description": "Jute, Innovation Derma Line Gmbh bünyesinde üretilen kozmetik ve cilt bakımı ürünleri, beyazlatıcı ürünler, güneş bakım ürünleri, helal cilt bakımı, vücut bakımı, yüz bakımı, yaşlanma karşıtı ürünler ve tedaviler markasıdır.Innovation Derma Line Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

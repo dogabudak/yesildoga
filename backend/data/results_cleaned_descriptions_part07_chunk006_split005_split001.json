@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Richa",
+    "description": "Richa, 1956 yılında kurulmuş olan Richa NV bünyesindeki moto giyim, deri takım elbise, deri ceket ve pantolon, yağmurluk, eldiven, bot, kask, çanta markasıdır.EN 17092 belgesine sahiptir.Richa NV Belçika merkezlidir. Ürünlerini 50 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Enpos",
+    "description": "Enpos, 2010 yılında kurulmuş olan Enpos Bilişim San. ve Tic. A.Ş. bünyesindeki donanım ve yazılım çözümleri, kablosuz satış otomasyon çözümleri markasıdır.ISO 22301, ISO 10002, ISO 27001, ISO 20000 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 20000",
+      "ISO 22301",
+      "ISO 27001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Purevax",
+    "description": "Purevax, 1885 yılında kurulmuş olan Boehringer Ingelheim International Gmbh bünyesinde üretilen hayvan sağlığı ürünleri markasıdır.Köpeklerde, kedilerde ve atlarda enfeksiyon kontrolü için veteriner ürünleri ve veteriner aşıları sunmaktadır.Boehringer Ingelheim International Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Masterseal",
+    "description": "Masterseal, 1909 yılında kurulmuş olan Construction Research & Technology Gmbh bünyesindeki beton katkıları, çimento katkı maddeleri, yeraltı inşaatı için kimyasal çözümler, su yalıtım çözümleri, sızdırmazlık malzemeleri, onarım ve koruma çözümleri, performans harçları, performans döşeme çözümleri markasıdır.Construction Research & Technology Gmbh Almanya merkezli MBCC Group şirketinin ​​bir parçasıdır.Bünyesindeki markalar;AlbariaColorbioticsConideckConiroofDrytackFleksmörtelGleniumMaster BuıldersMaster Builders SolutionsMasterairMasterbraceMastercastMastercemMastercreteMastereaseMasteremacoMasterfiberMasterfinishMasterflameMasterflexMasterflowMastergleniumMasterinjectMasterkureMasterlifeMastermatrixMasterpelMasterpolyheedMasterpozzolithMasterprotectMasterrheobuildMasterrocMastersealMastersunaMastertileMastertopMasterweldMb Construction Chemicals GroupMultithermNanocreteNon PrimePCIPozzolithRheobuildRheosoilThermotekThomsitUcreteXolutecWatson Bowman AcmeWolmanYksYks-Fleksmörtel",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dates Hurma",
+    "description": "Dates, 2002 yılında kurulmuş olan Sobhi Trading Company bünyesindeki Nakhl Sabz Sobhi Co. tarafından üretilen hurma, hurma şurubu ve hurma ezmesi markasıdır.Nakhl Sabz Sobhi Co. İran’ın Doğu Azerbaycan Eyaleti’nde bulunan Tebriz şehrinde bulunmaktadır ve ürünlerini 37’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  }
+]

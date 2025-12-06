@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Power Beat",
+    "description": "Power Beat1988 yılında kurulmuş olan Cora & Peter Kuo Incorporation bünyesinde üretilen, üflemeli çalgılar, gitarlar, ksilofon, standlar, vurmalı çalgılar markasıdır.Cora & Peter Kuo Incorporation Tayvan merkezlidir.Bünyesindeki markalar;CpkMitelloPower Beat",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Bugiad",
+    "description": "Bugiad1999 yılında kurulmuş olan Bugiad Gmbh bünyesindeki otomotiv yedek parça ve aksesuarları markasıdır.ISO 9001 belgesine sahiptir.Bugiad Gmbh İngiltere merkezli. DK Group Investments Ltd. bünyesindedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Modibodi",
+    "description": "Modibodi2011 yılında Kristy Chong tarafından kurulmuş olan Modibodi Pty. Ltd. bünyesinde üretilen tek kullanımlık hijyen ve hazır iç giyim ürünleri markasıdır.Şirket yeniden kullanılabilir sızdırmaz giysiler üretmektedir.Modibodi Pty. Ltd. Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Solaer Renewable",
+    "description": "Solaer Renewable2009 yılında kurulmuş olan Solaer Renewable Energies Ltd. bünyesindeki fotovoltaik güneş panelleri markasıdır.Yer ve çatı projeleri için ürünler geliştirmektedir.Solaer Renewable Energies Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Reeltech",
+    "description": "ReeltechReeltech Vertriebs Gmbh bünyesindeki aydınlatma asansörleri,cctv-asansörler,aksesuarlar markasıdır.Reeltech Vertriebs Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

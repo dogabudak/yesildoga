@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Authentic Beauty Concept",
+    "description": "Authentic Beauty Concept, 1876 yılında Fritz Henkel ve ortaklarıyla kurulmuş olan Henkel Ag & Co. Kgaa bünyesinde üretilen saç bakımı, temizleme, renklendirme ürünleri, kozmetik amaçlı saç losyonları ve şampuanları markasıdır.Henkel AG & Co. KGaA Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hoechst",
+    "description": "Hoechst1994 yılında kurulmuş olan Hoechst Gmbh bünyesinde üretilen farmasötikler, kimyasallar, sentetik reçineler, organik pigmentler, aşılar, polyester filmler, klor, grafit elektrotlar, bitki koruma, veteriner ilaçları, pvc, florokimyasallar, masterbatchler, marka lifler ve filament iplikler, kaplamalar, emülsiyonlar, pvoh, pva veya pval, tekstil boyaları ve pp, pe, hdpe ürünler markasıdır.Hoechst Gmbh 2004 yılında Fransa merkezli Sanofi S.A.’nın yan kuruluşu olmuştur ve ilaçlara yatırım yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-04-04"
+  },
+  {
+    "company": "Afacanlar",
+    "description": "Afacanlar, 1996 yılında kurulmuş olan Afacanlar Orman Ürünleri İnş. ve Nak. San. Tic. Ltd. Şti. bünyesinde üretilen keresteler, merdiven, kamelya, ahşap doğrama markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dreo",
+    "description": "Dreo, 2021 yılında kurulmuş olan Hesung Innovation Corp. bünyesindeki ısıtıcılar, kule fanlar, hava temizleyicileri, klima, elektrikli süpürge, hava fritözleri markasıdır.Hesung Innovation Corp. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Recipe For Men",
+    "description": "Recipe For Men, 2003 yılında kurulmuş olan Dalarna AB bünyesindeki erkekler için cilt bakım ürünleri markasıdır.Dalarna AB İsveç merkezlidir. Ürünlerini 25’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

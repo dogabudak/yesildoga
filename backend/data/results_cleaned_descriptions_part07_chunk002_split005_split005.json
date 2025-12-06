@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Promalt",
+    "description": "Promalt, 2001 yılında kurulan Ebebek Mağazacılık A.Ş. bünyesindeki alkolsüz malt içecekler markasıdır. Ebebek Mağazacılık A.Ş. adına Oğuz Gıda San. Tic. A.Ş. tarafından üretilmektedir.Gluten içermektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Afnan Perfumes",
+    "description": "Afnan Perfumes, 2007 yılında Imran Fazlani tarafından kurulan Afnan Perfumes LLC bünyesinde üretilen parfüm markasıdır.Afnan Perfumes LLC, BAE merkezlidir ve ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Najel",
+    "description": "Najel, 2000 yılında kurulan Sas Najjar bünyesindeki makyaj, doğal ve organik kozmetik ürünleri markasıdır.Sas Najjar Fransa merkezlidir. Ürünlerini 27 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Yoko Kozmetik",
+    "description": "Yoko, 1995 yılında kurulan Siam Yoko Co. Ltd. bünyesinde üretilen kozmetik ürünler markasıdır.Ürün yelpazesi, kozmetik ve cilt bakımı, yaşlanma karşıtı ürünler, vücut bakımı, vücut geliştirme, yüz bakımı, spa ürün bakımları, beyazlatıcı ürünler içermektedir.Siam Yoko Co. Ltd. Tayland merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;ArgussyYokoYoko Gold",
+    "documents": [],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "Alpol Cosmetique",
+    "description": "Alpol Cosmetique, 1947 yılında kurulan Alpol Cosmetique SAS bünyesinde üretilen yüz ve vücut kozmetikleri markasıdır.ISO 22716, ISO 9001, ISO 13485 ve ECOCERT belgelerine sahiptir.Alpol Cosmetique SAS Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

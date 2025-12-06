@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Vogt Medical",
+    "description": "Vogt Medical, 1991 yılında Michael Vogt tarafından kurulan Vogt Medical Vertrieb Gmbh bünyesinde üretilen tıbbi tek kullanımlık ürünler markasıdır.ISO 9001 ve EN ISO 13485 belgelerine sahiptir.Vogt Medical Vertrieb Gmbh Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tantifrutti",
+    "description": "Tantifrutti, 2008 yılında Rigoni Di Asiago S.R.L. bünyesinde üretilen soğuk preslenmiş organik meyve ve meyve suyu markasıdır.Yabani böğürtlen, elle seçilmiş meyvelerden elde edilen tam aromalı bir nektar ve elma, narenciye ve zencefil, karışımları olmak üzere iki çeşit meyve suyu mevcuttur.Rigoni di Asiago S.r.l., 2018 yılında Rigoni ailesinin holding şirketinin çoğunluk hisseleri, İsviçre özel sermaye fonu Kharis Capital tarafından satın alındı.Bünyesindeki markalar;FiordifruttaNocciolataMielbioTantifrutti",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Rolly Toys",
+    "description": "Rolly Toys, 1970 yılında kurulan Rolly Toys I. Srl. bünyesinde üretilen 1-10 yaş arası çocuklar için sallanan atlar, dama, plastik açık hava oyunları, eğitici oyunlar, plastik oyunlar ve oyuncaklar, plastik bahçe ve park oyunları, scooter, oyuncak traktörler, üç tekerlekli bisikletler markasıdır.Ürün yelpazesinde metal ve plastik üç tekerlekli bisikletler, scooterlar, metal ve plastik el arabaları, peluş ve ahşap sallanan atlar, bahçe satrancı, römorklar, kazıyıcılar, pulluklar, makaralar, vinçler, yanıp sönen farlar, alet kutuları, iş elbiseleri, tişörtler, kapaklar, bayraklar, çıkartmalar, kalemler, pimler, metal kızaklar, kızaklar ve plastik kızaklar yer almaktadır.Rolly Toys Italiana Srl. Almanya merkezli Franz Schneider GmbH & Co. KG grubunun bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hazra Baharat",
+    "description": "Hazra Baharat, 1980 yılında kurulan Hazra Baharat ve Gıda San. Tic. Ltd. Şti. bünyesindeki karabiber, kırmızı pul, nane, kekik, acı kımızı, kimyon, tarçın, hindistan, susam, sumak, çörek otu, karanfil, kuş üzümü, dolmalık fıstık, ada çayı, zencefil, defne yaprağı, yenibahar, kişniş, safran, çemen, mahlep, haşhaş tohumu, fesleğen, reyhan, beyaz biber, biberiye, köri, anason, rezene, zerdeçal markasıdır.Tarçın, Karabiber, kimyon ve yenibahar gibi taneli ve kabuklu ürünleri tane olarak alıp öğütme işlemlerini kendi tesislerinde gerçekleştirir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Heidenhain",
+    "description": "Heidenhain, 1948 yılında kurulan Dr. Johannes Heidenhain Gmbh bünyesinde üretilen ölçüm sistemleri, sayısal kontroller markasıdır.Doğrusal ve açılı çözücüleri, özellikle takım tezgahlarında, otomatik makinelerde ve sistemlerde kullanılmak üzere üretilmiştir. Takım tezgahları için sayısal kontrollerin yanı sıra uzunluk ve açı için mekatronik ölçüm cihazları üreten özel bir kuruluştur.Dr. Johannes Heidenhain Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

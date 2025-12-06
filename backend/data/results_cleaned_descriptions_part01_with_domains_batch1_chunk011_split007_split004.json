@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Lotus Arabası",
+    "description": "Lotus, 1952 yılında Colin Chapman tarafından kurulan spor ve yarış arabası markasıdır.Amerika, Çin ve Malezya’da üretim tesisleri bulunan Lotus’un yüzde 51 hissesi Çin merkezli Geely firmasına, yüzde 49 hissesi ise Malezyalı Etika Automotive firmasına ait.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-03-05"
+  },
+  {
+    "company": "Quickstar",
+    "description": "Quickstar, 1993 yılında kurulan Furkan Kimya bünyesindeki yapıştırıcı markasıdır.Furkan Kimya yerli sermayeli firmadır ve ürünlerini Türkiye’de üretmektedir. 2005 yılında taşındığı 3 bin 500 metrekare kapalı alanlı fabrikasında ürettiği ürünleri Irak, İran, Arnavutluk, Bosna Hersek, Makedonya ve Türki Cumhuriyetlerine ihraç etmektedir ve ayrıca fason üretim yapmaktadır.Furkan Ltd. bünyesindeki markalar:QuickstarCartellJetbondVaiko",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Costa Coffee Kimindir",
+    "description": "Costa Coffee, 1971 yılında Bruno ve Sergio Costa tarafından kurulan dünyanın yaygın kahve zincirlerinden biridir.2009 yılında Türkiye pazarına giren Costa Coffee bir yıl sonra yatırımlarını sonlandırarak ayrılmıştı.2018 yılında Amerikan merkezli Coca Cola tarafından satın alındı. İngiltere’nin en büyük kahve zinciri Costa Coffee 32 ülkede faaliyet gösteriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mr.Brown Kahve",
+    "description": "Mr.Brown Kahve Kimin MarkasıMr. Brown Coffee, 1998 yılında ilk kez King Car şirketi tarafından üretilen kahve markasıdırı.Kahve tadını, Arabica ve Robusta çekirdeklerinden almaktadır. Teneke olarak satılan kahve ürünüdür. 240 ml çelik tenekeler ve 330 ml plastik şişelerde satılmaktadır.King Car Group Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Scotland",
+    "description": "Scotland, Özdallar Ayakkabı ve Yan Sanayi Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.Ürün gamında Trekking ve Hiking botları öncelikli olmak üzere zorlu iklim şartlarına karşı dayanıklı Outdoor ürünler bulunmaktadır.Özdallar yerli sermayeli bir şirkettir.Firmanın bünyesindeki markalar:MarcomenScotland",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

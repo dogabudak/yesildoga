@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vastarel",
+    "description": "Vastarel1954 yılında kurulmuş olan Les Laboratoires Servier bünyesindeki ilaç markasıdır.Les Laboratoires Servier Fransa merkezlidir. 150’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Kangaroos",
+    "description": "Kangaroos1979 yılında kurulmuş olan Asco Group Limited bünyesindeki ayakkabı, giyim ve aksesuar markasıdır.1995 yılında İngiltere merkezli Pentland Brands plc tarafından satın alınmıştır. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Proscar",
+    "description": "Proscar1891 yılında kurulan Merck & Co. Inc. bünyesindeki ilaç markasıdır.Merck & Co. Inc. Amerika merkezlidir. Türkiye’de Merck Sharp Dohme İlaçları Ltd. Şti. olarak faaliyet göstermektedir.Hissedarları:Vanguard Group Inc. (yüzde 9,6)Blackrock Inc. (yüzde 8,1)State Street Corp. (yüzde 4,6)Wellington Management Group LLP (yüzde 3,4)Geode Capital Management LLC (yüzde 2,2)Fmr LLC (yüzde 2)Morgan Stanley (yüzde 1,6)Bank Of America Corp. (yüzde 1,4)Price T Rowe Associates Inc. (yüzde 1,1)Northern Trust Corp. (yüzde 1)Jpmorgan Chase Co. (yüzde 1)Legal General Group PLC (yüzde 0,92)Deutsche Bank Ag (yüzde 0,84)Bank Of New York Mellon Corp. (yüzde 0,78)Franklin Resources Inc. (yüzde 0,7)Charles Schwab Investment Management Inc. (yüzde 0,7)Ameriprise Financial Inc. (yüzde 0,67)Nuveen Asset Management LLC (yüzde 0,65)Wells Fargo Company (yüzde 0,65)Invesco Ltd. (yüzde 0,63)Dz Bank Ag Deutsche Zentral Genossenschafts Bank Frankfurt Am Main (yüzde 0,58)Capital World Investors (yüzde 0,55)Fisher Asset Management LLC (yüzde 0,55)State Farm Mutual Automobile Insurance Co. (yüzde 0,54)Royal Bank Of Canada (yüzde 0,54)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jako Giyim",
+    "description": "Jako1989 yılında kurulmuş olan Jako AG bünyesindeki spor giyim ve aksesuarları markasıdır.Şirket, takım sporları kıyafetleri üretmektedir.Jako AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Magideal",
+    "description": "Magideal2016 yılında kurulmuş olan Pengzhan Wanguo E-Commerce Co. Ltd. bünyesindeki otomotiv ve motosiklet, kendin yap ve aletler, elektronik, oyuncak ve oyunlar, düğün ve parti malzemeleri markasıdır.Pengzhan Wanguo E-Commerce Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

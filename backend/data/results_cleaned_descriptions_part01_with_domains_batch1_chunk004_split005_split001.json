@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Pine Bebek Bezi",
+    "description": "Pine bebek bezi markası 1992 yılından beri faaliyet gösteren ARKAN TİC. SAN. LTD bünyesine aittir.Pine, Sundus ve Bebish markalarıyla üretim yapmaktadır.Türk şirketi Arkan; bebek bezi, hasta bezi, ıslak mendil ve bebek bakım ürünlerinin üretimi ve pazarlanması alanında faaliyet gösteriyor ve dünya çapında 45 ülkeye ürünlerini ihraç ediyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2018-10-20"
+  },
+  {
+    "company": "Zippo",
+    "description": "Zippo, 1933 yılında George G. Blaisdell tarafından kuruldu. Çakmak aksesuarları, çok amaçlı çakmaklar, erkek ve kadın parfümleri, yaşam tarzı aksesuarları, gözlük, outdoor ürünleri içermektedir.Amerikan markası Zippo Amerika’nın en büyük ve en bilinen simgelerinden birine dönüştürmüştür.Blaisdell, Zippo çakmak gibi gözüken bir arabayla yola çıkmaya karar verince, 1947 yılında Zippo Araba doğmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2018-08-06"
+  },
+  {
+    "company": "Sinoli",
+    "description": "Sinoli marka hücre, lityum pil, güneş enerjisi enerji depolama, UPS güç kaynağı, elektrikli araç, taşınabilir tıbbi cihaz, kablosuz LED ışık vb. ürünler üreten Shenzhen Sinoli Elektronik şirketi bünyesindedir.Çin firması ayrıca pil kimyası seçimi, pil şarj cihazı seçimi ve tasarımı, uygulamaya dayalı akü yakıt göstergesi önerileri, akü güvenlik ve devre önerileri, batarya yapısı önerileri, düzenleyici rehberlik, üretim test cihazları tasarlıyor ve geliştiriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Laufenn Lastik",
+    "description": "Laufenn, 1941 yılında kurulmuş olan Hankook Tire & Technology Co. Ltd. bünyesinde üretilen lastik markasıdır.Hankook Tire & Technology Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2023-06-03"
+  },
+  {
+    "company": "Kleenex",
+    "description": "Kleenex ilk kez 1924 yılında üretilen Kimberly-Clark şirketine ait; peçete, mendil, kağıt mendil, kâğıt havlu, tuvalet kağıdı markasıdır.Amerikan firması Kleenex, 150’den fazla ülkede satış yapıyor ve dünyanın en fazla tercih edilen mendil markasından biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

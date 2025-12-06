@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Look Bisiklet",
+    "description": "Look , 1986 yılında kurulan bisiklet markasıdır.Look, karbon tasarımı ve yapımı konusunda eşsiz tecrübelere sahip bir Fransa firmasıdır.Sporcular Look’un ürettiği Pist bisikletlerini kullandı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "UFO TECH",
+    "description": "UFO TECH , 2002 yılında kurulan Ufo-tech Technology Co., Ltd bünyesindeki PP filtre ve karbon malzemelerin markasıdır.Ürünler, elektrik, eczacılık, gıda, içecek, kimyasallar, kimya ve kanalizasyon bertaraf gibi endüstrilere sağlanır.Tayvan merkezli firmanın ürünlerinin yarısı Tayvan, Amerika, Japonya ve Malezya, geri kalanı yarısı ise Çin’e ihraç edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Chips Chopper",
+    "description": "Chips Chopper , 1985 yılında kurulan Uçar Kalıp bünyesindeki şekilli Sebze ve Meyve bıçakları markasıdır. Hamur kesici, limon ve meyve sıkacağı, sebze ve meyve oyma aleti, şekilli sebze ve meyve kesme aleti, özel tutacaklı şekilli sebze ve meyve kesme aleti, şekilli sebze ve meyve kesme aleti ile kızartma yapmak için ürünler üretilmektedir.Yüzde 100 paslanmaz çelik ürünlerin üretimi Türkiye’de yapılmaktadır. Firma ürünlerin Çin malı taklitlerine dikkat edilmesi gerektiğini belirtiyor",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mentor Implant Firmanın",
+    "description": "Mentor Implant , 1969 yılında Christopher Conway, Eugene Glover ve Thomas Hauser tarafından kuruldu.2009 yılında Amerikan merkezli Johnson & Johnson şirketi tarafından satın alındı ve bünyesindeki Ethicon şirketine dahil edildi.İmplant ürünlerin bir kısmını Hollanda’da üretmektedir. Türkiye’de kullanılan implantlar Hollanda’dan gelmektedir.Türkiye’de en çok kullanılan meme implantları markalarından biri olan Mentor markasıyla 20 yıldır göğüs implantı üretilirken, bu ürünler yaklaşık 70 ülkede satılıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Göğüs Silikon ve Meme Implantları",
+    "description": "İlk silikon göğüs protezleri 1961 yılında Amerikan merkezli Dow Corning firması tarafından geliştirildi. 1992 yılında FDA, sıvı silikon göğüs implantların kullanımını yasakladı. 2006 yılında 14 yıllık silikon yasağı yeni nesil koheziv silikon jel içeren göğüs implantlarına onay verilince kaldırıldı.Günümüzde kullanılan göğüs protezlerinin dış kılıfı katı silikon ya da poliüretandır. Protezlerin içinde; serum fizyolojik (tuzlu su), soya yağı, hidrojel gibi karbonhidratlar, sıvı silikon, jel silikon gibi değişik yapıda maddeler içerebilir.Göğüs silikon implantları markaları ve ülkeleri:Amerika:Ideal ImplantAllergan-NatrelleImplantechMentor (Johnson & Johnson)Sientraİrlanda:EurosiliconeInamedNagorBrezilya:LifesillSilimedFransa:ArionCereplasSebbinKosta RikaMotiva ImplantÇin:RefinexRXDİtalya:İmplaphormKore:Hans Implant",
+    "documents": [
+      "CE",
+      "FDA"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

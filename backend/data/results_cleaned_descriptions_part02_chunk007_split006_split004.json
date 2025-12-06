@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Sara Lee",
+    "description": "Sara Lee, 1939 yılında kurulan Sara Lee Corporation bünyesindeki yiyecek, içecek, ev ve vücut bakım ürünleri markasıdır.Sara Lee Amerikan tüketim malları şirketidir. 40’tan fazla ülkede faaliyet gösteren firmanın ürünleri 180’den fazla ülkede satılmaktadır.2014 yılında Hillshire, Sara Lee operasyonlarıyla birlikte Tyson Foods, Inc. tarafından satın alındı.Markalar:Ball Park FranksBryanBryan FoodsCroustiPâteDeli d’ItaliaDeli PerfectEmerilGalileoGallo SalameGreen HillHillshire FarmJimmy DeanKahn’sKing CottonMerrildMr. TurkeyOrtizR.B. RiceRainboRudy’s FarmSara LeeState FairWest Virginia BrandBravoButter-Nut CappuccinoCabocloCafe ContinentalCafe DamascoCafe do PontoCafe PilaoCafitesseCain’s CoffeeChat NoirDouwe EgbertsHarrisHornimansJacqmotteJava CoastKanis & GunninkKayoLaurentisMaison du CafeMarcillaMaryland ClubMerrildMocconaNatreenNatrenaParadisePiazza d’OroPickwickPrimaSeletoSenseoSoleySteamersSuntiptVan Nelle",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Santa Farma",
+    "description": "Santa Farma, 1946 yılında Farma Laboratuvarı ile Santa Laboratuvarı birleşmesi sonucu temelleri atılan Santa Farma İlaç Sanayi A.Ş. bünyesindeki ilaç markasıdır. Sami Kiresepi Santa Farma İlaç Sanayi A.Ş. patronudur.1953 yılında üretim tesisi kurma kararı alan şirket, GEBKİM OSB’deki üretim tesisi, 43 bin metrekare kapalı alanda geliştirdiği ürünlerin yanı sıra, lisans altında önde gelen çokuluslu kuruluşların ilaçlarını da Türkiye’de üretmektedir. Toplam 73 ürünle faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wacom",
+    "description": "Wacom, 1983 yılında Murakami Higashi tarafından kurulan Wacom Co., Ltd. bünyesindeki grafik tabletleri ve kalem tablet markasıdır.Wacom’un Amerika, Almanya, İngiltere, Çin, Güney Kore, Avustralya ve Singapur’da iştirakleri vardır.Wacom Co., Ltd. Japonya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "DJ Cool Klima ve Soğutma",
+    "description": "2014 yılında DENSO, Türkiye’de bir ortak girişim başlattı. DJ Cool Klima ve Soğutma Cihazları San. Tic. A.Ş. Denso ve Abdul Latif Jameel kuruluşudur. Abdul Latif Jameel’in bağlı kuruluşu olan ALJ Holding AŞ, 1998 yılından beri Türkiye’de faaliyet göstermektedir.BAE merkezli ALJ Holding Türkiye’deki üretime yönelik yatırımı, otomotiv yan sanayinde dünya devi olan Japon Denso ile İzmir’de gerçekleştirdi. İzmir Çiğli fabrikada, klima ve soğutma cihazları üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Adeka",
+    "description": "Adeka, 1956 yılında 5 ortakla kurulan Adeka İlaç Sanayi ve Ticaret A.Ş. bünyesindeki ilaç markasıdır.Üretimi cGMP ve cGLP standartlarına uygun tesislerinde Samsun’da gerçekleştirmektedir.Ayrıca ortaklık kurduğu dünyanın önde gelen firmalarına ait ürünlerin üretim ve ithalatını gerçekleştirmektedir.",
+    "documents": [
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

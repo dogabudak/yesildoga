@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Emporia Smart",
+    "description": "1991 yılında kurulmuş olan Emporia Telecom GmbH & Co. KG bünyesinde üretilen akıllı telefonlar, tabletler, uygulamalar, tuşlu cep telefonları ve aksesuarlar markasıdır.Kullanımı kolay ve özellikle eski nesle uyarlanmış ürünler üretmektedir. Ayrıca yaşlılar için eğitim ve öğretim programları geliştirmekte ve ürün yelpazesinde çok çeşitli aksesuarlar, sabit telefonlar ve sağlık ürünleri sunmaktadır.Emporia Telecom GmbH & Co. KG Avusturya merkezlidir. Avrupa’da 30’dan fazla ülkede varlığını sürdürmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Polikur",
+    "description": "1970 yılında temelleri atılmış olan Polikur Plastik ve Sünger San. Tic. A.Ş. bünyesinde üretilen bulaşık süngerleri, bulaşık teli, mop paspas, banyo süngeri, temizlik paspası, temizlik bezleri, cam bezi, mikrofiber temizlik bezleri, kapı ve pencere bantları, oto yıkama süngerleri ve bezleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polipak",
+    "description": "1984 yılında kurulmuş olan Polipak Plastik Ambalaj Ltd. Şti. bünyesinde üretilen polyester (pet) çemberler, polipropilen çemberler, süper bant, çember aparatı markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini Gebze Plastikçiler OSB’de bulunan 6 bin 500 metrekarelik kapalı alanda bulunan tesisinde üretmektedir. Ürünlerini 42 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hun Tahin",
+    "description": "2008 yılında kurulmuş olan A101 Yeni Mağazacılık A.Ş. adına Boztoprak Gıda San. ve Tic. A.Ş. bünyesinde üretilen tahin markasıdır.Susam tohumlarının kavrulması ve öğütülmesiyle üretilmektedir.Üretici firma Afyonkarahisar merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Chocodan’s",
+    "description": "Chocodan’s1989 yılında kurulmuş olan Şölen Çikolata Gıda San. A.Ş. bünyesinde üretilen karamel çikolata kaplı fındık markasıdır.Firma İstanbul merkezlidir. Ürünlerini Gaziantep ve İsanbul’da toplam 210 bin metrekarelik alanda bulunan tesislerinde üretmektedir ve 120’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

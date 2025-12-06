@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Skincode",
+    "description": "Skincode, 1998 yılında kurulan Skincode AG bünyesindeki cilt bakım ürünleri markasıdır.Ürünlerinde, paraben, koruyucu madde, koku, renklendiriciler ve hayvansal kaynaklı malzemeler kullanmamaktadır.Skincode AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Cavalier",
+    "description": "Cavalier, 1996 yılında kurulan Cavalier N.V. bünyesindeki şekersiz barlar, şekersiz sütlü gofret, şekersiz napolitaine, şekersiz deniz kabukları markasıdır.Cavalier N.V. Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Swisscare",
+    "description": "Swisscare, 2005 yılında kurulan Swisscare Insurance Services AG. bünyesindeki online uluslararası sağlık, seyahat ve öğrenci sigortası markasıdır.Avrupa Ekonomik Alanı’nı oluşturan 30 ülkeye erişim sağlayan bir sınır ötesi lisansa sahiptir.Swisscare, İsviçre’de kurulmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Piano Luce",
+    "description": "Piano Luce, 1992 yılında kurulan Işıker Paz. ve Dış Tic. Ltd. Şti. bünyesindeki kadın spor giyim, bluz, spor pantolon markasıdır.Türkiye’de yaklaşık 620 noktada markalarını tüketicilerle buluşturmaktadır. Rusya, Amerika ve İsrail’de dağıtıcılar aracılığıyla pazarlanmaktadır.Bünyesindeki markalar:BirseEcobabyLirPiano LuceSchık",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Icon Undies",
+    "description": "Icon Undies, 2014 yılında Radha ve Miki Agrawal, Antonia Dunbar tarafından kurulan Thinx Inc. bünyesindeki iç çamaşırları, ince ped, temizleyici mendil markasıdır.Thinx Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

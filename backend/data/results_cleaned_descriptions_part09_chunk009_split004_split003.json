@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Phytocomplex",
+    "description": "“Phytocomplex“1988 yılında kurulmuş olan Akten Kozmetik San. ve Paz. Ltd. Şti. bünyesinde üretilen saç bakım ürünleri markasıdır.ISO 9001, GMP ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sebahat Lokum",
+    "description": "“Sebahat“1987 yılında Cavit Sebahat tarafından kurulmuş olan Sebahat S.A./N.V. bünyesinde üretilen bal, cezerye, helva, kafelo, kraker, lokum, pekmez, pişmaniye, reçel, şekerleme, tahin, toz içecek markasıdır.Sebahat S.A./N.V. Belçika merkezlidir. Ürünlerini 15 bin metrekarelik arazi içinde 8 bin metrekarelik kapalı alanda bulunan tesisinde üretmektedir.ISO 22000, FSSC 22000 ve Helal belgelerine sahiptir.Bünyesindeki markalar;EfsaneLokiLovlyPeraSebahatSilvy",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Eleman.net",
+    "description": "“Eleman Net“2005 yılında kurulmuş olan Piko Danışmanlık Hizmetleri A.Ş. bünyesindeki iş ilanı ve istihdam platformu markasıdır.400 binden fazla üye firma ve her sektör ve pozisyondaki 15 milyondan fazla iş arayanlara hizmet vermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Agptek",
+    "description": "“Agptek“2001 yılında kurulmuş olan Mambate USA Inc. bünyesindeki elektronik ürünler, şişe kesici, hamaklar, hidrasyon kesesi, iş telefonu, izleme ışık kutusu, kablo yönetimi, kamp çadırları, kulaklık, müzik çalar, mikrofiber plaj havlusu, sırt çantası aksesuarları, seyahat aksesuarları, akıllı saat markasıdır.Mambate USA Inc. Amerika merkezlidir. Ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vetus Tweezers",
+    "description": "“Vetus Tweezers“Electro-Optix Inc. bünyesindeki cımbızlar markasıdır.Kullanım alanları elektronik montaj için, laboratuvarlar ve araştırma, tıbbi, kişisel, kirpik bakımı gibi alanları kapsamaktadır.Electro-Optix Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

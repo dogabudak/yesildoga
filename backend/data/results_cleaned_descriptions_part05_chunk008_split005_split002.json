@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Senix",
+    "description": "Senix, 2002 yılında kurulan Zhejiang YAT Electrical Appliance Co. Ltd. bünyesinde üretilen bahçe makineleri, elektrikli el aletleri ve akıllı aletler markasıdır.Zhejiang YAT Electrical Appliance Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Geographical Norway",
+    "description": "Geographical Norway, 2005 yılında kurulan Eighteen October 2001 S.L.U. bünyesindeki erkek, kadın ve çocuklar için giyim, mobilya ve aksesuarları perakende markasıdır.Eighteen October 2001 S.L.U. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Bir Günde Kargo",
+    "description": "Bir Günde Kargo, 2014 yılında kurulan Bir Günde Kargo Lojistik Dağıtım Nakliyat Orman Ürünleri Gıda San. ve Tic. Ltd. Şti. bünyesindeki E-Ticaret ve B2C hizmetlerinde çözüm odaklı, profesyonel ve yeni nesil kargo hizmetleri markasıdır.Teslimat aşamasında GPS verileri üzerine adres fotoğrafını işleme özelliğine sahiptir. Siparişleri bir gün içerisinde sahiplerine ulaştırmaktadır.ISO 9001, ISO 10002, ISO 14001, ISO 45001, BTK, M ve K belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maktec",
+    "description": "Maktec, 1915 yılında Kabushiki Kaisha Makita tarafından kurulan Makita Corporation bünyesinde üretilen akülü vidalama makinesi, matkaplar, taşlama makinesi, zımparalama makinesi, testereler, planyalar, kırıcılar, endüstriyel elektrikli el aletleri markasıdır.Makita Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Wk Wagner Kablo",
+    "description": "Wk Wagner Kablo, 1992 yılında kurulan Wagner Kablo San. ve Tic. A.Ş. bünyesinde üretilen kablo ağacı markasıdır.Ürünlerini Antalya Serbest Bölgesi’nde 12 bin metrekarelik üç üretim binasında üretmektedir. Ürünlerini 25’ten fazla ülkeye ihraç etmektedir.ISO 16949, ISO 9001 ve ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 16949",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "My Little Baby",
+    "description": "My Little Baby, 2010 yılında kurulmuş olan Limon Oyuncak İthalat İhracat San. ve Tic. Ltd. Şti. bünyesinde üretilen oyuncak makyaj ürünleri markasıdır.Firma İstanbul merkezlidir.BarbaraKarlar PrensesiLimon OyuncakMy Little Baby",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Niche Collection",
+    "description": "Niche Collection, 2004 yılında kurulmuş olan De Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen parfüm markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Ital ParfumeJodexOry",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Taşkale Helva",
+    "description": "Taşkale Helva Nerenin Malı MarkasıTaşkale, 1995 yılında kurulmuş olan Şok Marketler Tic. A.Ş. adına Şükreden Gıda San. Ltd. Şti. bünyesinde üretilen kağıt helva markasıdır.Ürünleri Türkiye’de üretilmektedir.Şok Marketler hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 41,22)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-12-14"
+  },
+  {
+    "company": "Hair Shine",
+    "description": "Hair Shine, A101 Yeni Mağazacılık A.Ş adına Hobi Kozmetik İmalat San. ve Tic. A.Ş. tarafından üretilen saç bakım ürünleri markasıdır.Firma ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Focusrite Scarlett",
+    "description": "Focusrite, 1985 yılında kurulmuş olan Focusrite Audio Engineering Ltd. bünyesindeki ses arayüzleri markasıdır.Focusrite Audio Engineering Ltd. İngiltere merkezlidir.Bünyesindeki markalar;Adam AudioAmpifyFocusrite ProMartin AudioNovationOptimal AudioSequential Audio",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

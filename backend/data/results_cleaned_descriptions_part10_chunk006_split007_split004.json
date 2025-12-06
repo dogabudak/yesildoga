@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Boldy",
+    "description": "2023 yılında Kükrer A.Ş. bünyesinde kurulmuş olan hazır yemek ve market zinciri markasıdır.Bütün dünya mutfaklarından çeşitler sunmaktadır. Ürün ambalajları bozulduğunda şişme özelliğine sahiptir.Firma İstanbul merkezlidir. Kocaeli’de 15 bin metrekarelik bir mutfağa sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "X Plus",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ravenhead",
+    "description": "1962 yılında iki şirketin birleşmesiyle kurulmuş olan Rayware Limited bünyesinde üretilen bardak, kase, sürahi, cam eşyalar markasıdır.Rayware Limited İngiltere merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Hitschies",
+    "description": "1929 yılında kurulmuş olan Hitschler International Gmbh & Co. Kg bünyesinde üretilen şekerleme ürünleri ve sakız markasıdır.Helal belgesine sahiptir.Hitschler International Gmbh & Co. Kg Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tootoo",
+    "description": "2020 yılında kurulan Arimpex İç ve Dış Tic. A.Ş. bünyesindeki sıvı sabun, ıslak mendil, oda spreyi ve mikrofiber havlular markasıdır.Arpacıoğlu Grup bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

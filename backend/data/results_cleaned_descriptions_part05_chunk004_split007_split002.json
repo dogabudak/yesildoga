@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Yves Saint Laurent",
+    "description": "Yves Saint Laurent, 1961 yılında Pierre Berge, J. Mack Robinson ve Yves Saint Laurent tarafından kurulan Yves Saint Laurent Parfums SAS bünyesinde moda evi güzellik ürünleri markasıdır.Markanın ürünleri arasında giysi, makyaj, kozmetik, gözlük, parfüm, çanta, ayakkabı, spor ayakkabı, iç çamaşırı yer almaktadır.Yves Saint Laurent Parfums SAS, 1990 yılında Fransa merkezli Kering SA tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-01-09"
+  },
+  {
+    "company": "Sealy",
+    "description": "Sealy, 1881 yılında Daniel Haynes tarafından kurulan Sealy Corporation bünyesindeki yatak çarşafları markasıdır.Çin’de üretim tesisi bulunmaktadır.Sealy Corporation 2012 yılında Amerika merkezli Tempur Sealy International Inc. bünyesine geçti.Bünyesindeki markalar;BassettSealy PosturepedicStearns & Foster",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lixada",
+    "description": "Lixada, 2004 yılında kurulan Shenzhen Tomtop Technology Co. Ltd. bünyesinde üretilen aydınlatmalar, el feneri ve led’ler, spor ve açık hava giyim ürünleri markasıdır.Shenzhen Tomtop Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mano Organizer",
+    "description": "Mano, 1973 yılında kurulan Renk Plastik San. ve Tic. Ltd. bünyesinde üretilen avadanlıklar, organizerler, plastik çekmeceli kutular, plastik takım çantaları, saklama kutusu, ayakkabı kutusu ve tablaları, muhafazalı çanta markasıdır.İstanbul merkezli firma ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Woohoobox",
+    "description": "Woohoobox, 2015 yılında Azar Shirinov tarafından kurulan Woohoobox Hediyelik Eşya ve Kırtasiye Ürünleri Tic. Ltd. Şti. bünyesindeki hediye kutu ve unik ürünler markasıdır.Hediyelik ürünler, hediyelik kutu modelleri, kırtasiye malzemeleri, kupa ve bardaklar, laptop sticker, led ışıklar, okul çantaları, organizer kalemlikler gibi ürünler üretmektedir. Firma çok sayıda ürünün patentine sahiptir.Ürünlerini Bağımsız Devletler Topluluğu’na ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

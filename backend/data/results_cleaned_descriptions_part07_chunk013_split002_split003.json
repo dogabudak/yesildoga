@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Jerky Time",
+    "description": "Jerky Time, 2002 yılında kurulmuş olan Yantai China Pet Foods Co. Ltd. bünyesinde üretilen köpekler için atıştırmalıklar, kurabiyeler, bisküviler mamalar markasıdır.Yantai China Pet Foods Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmekte, 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ally Mobile",
+    "description": "Ally Mobile, 2011 yılında kurulmuş olan Berkant Elektronik Bilgisayar İthalat İhracat San. ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen cep telefonu yedek parça ve aksesuarları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ludita",
+    "description": "Ludita, 2022 yılında kurulmuş olan 2n Kozmetik Tekstil İthalat İhracat San. ve Tic. A.Ş. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri parfüm, paraben, SLS içermez ve hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "VV Better",
+    "description": "VV Better, 2017 yılında kurulmuş olan Global Line Co. Ltd. bünyesinde üretilen maskeler ve yüz paketleri, cilt bakım ürünleri markasıdır.Global Line Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Ouate",
+    "description": "Ouate Le Touquet Paris Plage, 2019 yılında Astrid Mauduit Rutkowski tarafından kurulmuş olan Ouate SAS bünyesinde üretilen 4 ila 11 yaş arası çocuklar için nemlendirici ve yatıştırıcı cilt bakım ürünleri markasıdır.Ouate SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Humble Brush",
+    "description": "Humble Brush, 2013 yılında Noel Abdayem tarafından kurulan The Humble Co. AB bünyesindeki diş fırçası markasıdır.Humble Brush markalı diş fırçaları yüzde 100 biyolojik olarak parçalanabilir bambudan yapılmış bir tutamağa sahiptir. Kılları naylondan yapılmıştır.The Humble Co. AB İsveç merkezli diş sağlığı ürünleri üreticisidir ve ürünlerini İsveç’te üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Energy Sistem",
+    "description": "Energy Sistem, 1995 yılında kurulan Energy Sistem Technology S.A. bünyesindeki kişisel ses ürünleri markasıdır.Ürün yelpazesinde taşınabilir hoparlörler, ses kuleleri, Bluetooth kulaklıklar veya kablo, MP3 ve MP4 çalarlar için özel olarak tasarlanmış hoparlörler yer almaktadır.Energy Sistem Technology S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Misedor",
+    "description": "Misedor, 2007 yılında kurulan Akerman Temizlik Kozmetik San.Tic Ltd. Şti. bünyesinde üretilen deterjan, kozmetik, kişisel bakım, tekstil, takı ve aksesuar, ev mutfak aletleri, pratik malzemeler, leke çıkartıcı ürünler markasıdır.İnsan ve çevre sağlığına dost odaklı formüllere sahip temizlik ürünleri üretmektedir.ISO 9001, ISO 14001 ve OHSAS belgelerine sahiptir.Bünyesindeki markalar:DermamisFelinaMelisaMisDentMissFemiNaturaxin",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Guardian Glass",
+    "description": "Guardian Glass, 1932 yılında kurulan Guardian Industries bünyesindeki ticari uygulamalar ile konut ve ulaştırma uygulamaları için düz cam ve fabrikasyon cam ürünler, otomotiv çerçeveleri ve yapı ürünlerinin dağıtımı markasıdır.Firma beş kıtada üretim tesislerine sahiptir ve 25’ten fazla ülkede faaliyet göstermektedir.Guardian Industries, Amerika merkezli Koch Industries, Inc.’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Koenic",
+    "description": "Koenic, 2007 yılında kurulan Imtron Gmbh bünyesindeki elektrikli aletler, elektrikli el aletleri, elektrikli mutfak aletleri, ölçüm cihazları, ısıtma ve soğutma ürünleri ve pişirme aletleri markasıdır.Imtron Gmbh, Almanya merkezli Media Saturn Holding GmbH’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

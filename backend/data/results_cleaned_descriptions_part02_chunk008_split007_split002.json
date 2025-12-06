@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Burcu",
+    "description": "Burcu Gıda, 1982 yılında kurulan Burcu Gıda Konservecilik ve Salça A.Ş. bünyesindeki domates, biber salçaları, ketçap ve mayonez, konserveler, haşlanmış ürünler, hazır yemekler, soslar markasıdır.Burhaniye’de ve Çanakkale, Yenice ilçesinde olmak üzere 2 üretim tesisi ile gıda sektöründe üretimine devam etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Butterfly",
+    "description": "Butterfly, 1919 yılında kurulmuş olan Shang Gong Group Co. Ltd. bünyesinde üretilen endüstriyel dikiş ekipmanları ve ev dikiş makinesi markasıdır.Shang Gong Group Co. Ltd. Çin merkezlidir. Çin, Almanya, Çek Cumhuriyeti ve Romanya’da 10 üretim tesisi bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-03-19"
+  },
+  {
+    "company": "Carron",
+    "description": "Carron, 1911 yılında Hermann Franke tarafından kurulan Franke Holding AG bünyesindeki Ankastre Setleri, Evye ve Aksesuarları, Armatür, Ocak, Fırın ve Aksesuarları, Davlumbaz ve Aksesuarları, Mikrodalga Fırın, Aspiratör, Bulaşık Makinesi, Buzdolabı markasıdır.Franke Holding AG İsviçre merkezlidir ve Michael Pieper şirketin şimdiki sahibidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Naturem",
+    "description": "Naturem, 2015 yılında kurulan Şeherli Gıda A.Ş. bünyesindeki reçel, bal, helva markasıdır.Bal aromalı şurup ürünleri bulunmaktadır.Mersin ve Ankara’da fabrikaları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Que",
+    "description": "Que, Boyner Grup şirketlerinden AY Marka Mağazacılık A.Ş. çatısı altında yer alan hazır giyim markasıdır.Boyner’in yüzde 42,80 oranındaki hissesi Boyner Ailesine, yüzde 42,68’i ise Katarlı Mayhoola for Investments LLC yatırım firmasına aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  }
+]

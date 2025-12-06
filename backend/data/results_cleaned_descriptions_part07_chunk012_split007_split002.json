@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Avantron",
+    "description": "Avantron, 2019 yılında kurulmuş olan Avantaj Güvenlik Sistemleri Bilgisayar Bilişim Elektronik San. ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen bilgisayar, bilgisayar bileşenleri, baskı çözümleri, çevre birimleri, güvenlik ürünleri, tüketici elektroniği markasıdır.Firma İstanbul merkezlidir ve ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ancora Meyve Suyu",
+    "description": "Ancora, 2015 yılında kurulmuş olan Forte Gıda San. ve Tarım Ürünleri Paz. İthalat İhracat Ltd. Şti. bünyesinde üretilen doğal içecekler, meyve özleri ve ballar markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cubo Boya",
+    "description": "Cubo, 2004 yılında kurulmuş olan Başergün Boya ve Kimya A.Ş. bünyesinde üretilen inşaat boyaları, sanayi boyaları, efekt boyalar, yapı kimyasalları, su yalıtımı, ısı yalıtımı ve eps markasıdır.ISO 9001, ISO 14001, TSE belgelerine sahiptir.Firma Antalya merkezlidir ve ürünlerini 17 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pepino Ayakkabı",
+    "description": "Pepino, 1993 yılında kurulmuş olan Macro Ayakkabı ve Otelcilik San. ve Tic. A.Ş. bünyesindeki bebek ve çocuk spor ayakkabıları, yürüyüş ayakkabıları markasıdır.Firma İstanbul merkezlidir. Ürünlerini 5 bin metrekarelik fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hops",
+    "description": "Hops, 1997 yılında kurulmuş olan Sapro Temizlik Ürünleri Tic. ve San. A.Ş. bünyesinde üretilen ıslak mendil, dezenfektan, alkollü ıslak mendil, antibakteriyel temizlik ürünleri markasıdır.Firma İstanbul merkezlidir. Uçtan uca entegre üretim yapan 4 şirketten oluşmaktadır ve ürünlerini 65’e yakın ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

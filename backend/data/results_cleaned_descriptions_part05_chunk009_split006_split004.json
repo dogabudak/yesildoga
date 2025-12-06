@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Unu",
+    "description": "Unu, 2013 yılında kurulan Unu Gmbh bünyesinde üretilen elektrikli scooter, şarj cihazı ve aksesuarlar markasıdır.Taşınabilir aküleri, entegre navigasyonu ve paylaşılabilir bir dijital anahtarı olan ve eşyalar için bolca alana sahip olan elektrikli scooterlar üretmektedir.Unu Gmbh Almanya merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Oculus",
+    "description": "Oculus, 2012 yılında kurulan sanal gerçeklik cihazları, dijital hizmetler markasıdır.Oculus VR tarafından oluşturulan bir sanal gerçeklik kulaklığı ve başa takılı ekran serisidir. Kullanıcı için sanal gerçeklik ve artırılmış gerçeklik sağlar.Oculus, 2014 yılında Amerika merkezli Meta Platforms Inc.(daha önce Facebook Inc. olarak bilinir) tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bourgault",
+    "description": "Bourgault, 1969 yılında Frank Borgo tarafından kurulan Bourgault Industries Ltd. bünyesindeki tarım ekipmanları, küçük taneli büyük ölçekli tohumlama sistemleri markasıdır.Bourgault Industries Ltd. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Club 4 Paws",
+    "description": "Club 4 Paws, 2003 yılında kurulan Kormotech LLC bünyesinde kedi ve köpekler için üretilen ürünler markasıdır.Ürün yelpazesi, kedi ve köpekler için kuru ve ıslak diyetler ile ikramlar gibi ürünleri içerir. ISO 22000 ve FSSC 22000 belgelerine sahiptir.Kormotech LLC Ukrayna merkezlidir. Ürünlerini 38 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Automatik",
+    "description": "Automatik, 2015 yılında iki şirketin birleşmesiyle kurulan Maag Automatik Srl bünyesindeki peletleme sistemleri, geri dönüşüm sistemleri, pompa ve filtrasyon sistemleri, toz haline getirme sistemleri markasıdır.Maag Automatik Srl, 2012 yılında Amerika merkezli Dover Corporation’ın bir parçası oldu.Bünyesindeki markalar;AutomatikEttlingerGalaMaagReductionScheerXantec",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

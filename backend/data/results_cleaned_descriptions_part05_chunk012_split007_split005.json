@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Balsnack",
+    "description": "Balsnack, 1996 yılında kurulan As Balsnack International Holding bünyesindeki tuzlu atıştırmalıklar markasıdır.Patates cipsleri üretmektedir.As Balsnack International Holding Estonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "EE",
+    "updated_date": "2022-03-26"
+  },
+  {
+    "company": "SKY İmplant",
+    "description": "SKY, 1995 yılında kurulan Bredent Gmbh & Co. KG bünyesinde üretilen diş implantları, protez, protez ataşmanları, periodontal estetik restorasyonları markasıdır.Bredent Gmbh & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Stanley Termos",
+    "description": "Stanley, 1913 yılında William Stanley Jr tarafından kurulan Pacific Market International LLC bünyesindeki çelik vakumlu termos, kupa, bardak, matara, soğutucu sürehiler, kamp tencereleri, kamp malzemeleri markasıdır.BPA içermeyen ürünleri yüzde yüz geri dönüşüm plastikten üretilmekte ve ürünlerinin çoğunluğu gıda saflığı derecesi kullanılarak, 18/8 Paslanmaz Çelik’ten üretilmiştir.Pacific Market International LLC Amerika merkezlidir. Ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Frutenza",
+    "description": "Frutenza, Taha M. Bawazeer ve Najmaldien A. Al-Anesi tarafından kurulan Frutenza LLC bünyesinde üretilen meyve suyu, malt, buzlu çay, enerji içecekleri markasıdır.Frutenza LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Darbo",
+    "description": "Darbo, 1879 yılında kurulan Darbo AG bünyesinde üretilen meyve reçelleri, meyve şurupları, bal ve meyve bazlı gıda maddeleri markasıdır.Darbo AG Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

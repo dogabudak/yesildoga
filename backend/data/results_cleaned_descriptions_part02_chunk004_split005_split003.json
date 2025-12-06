@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hardox",
+    "description": "Hardox, 1962 yılında kurulan SSAB bünyesindeki aşınma levhaları markasıdır.İsveç ve ABD merkezli bir çelik şirketidir. İsveç, Finlandiya ve ABD’de üretim tesisleri, Çin, Brezilya ve diğer birçok ülkede çeşitli çelik ürünlerini işleme ve bitirme tesislerine sahiptir.Firma 1997 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "AdSense",
+    "description": "AdSense, 2003 yılında Google tarafından kurulan siteler üzerinden reklam gösterim ürünüdür.2008 yılında Google, DoubleClick yayınlama sistemini bünyesine katmıştır.Adsense, Google tarafından kurulan Amerika merkezli Alphabet Inc bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hamidiye Su",
+    "description": "Hamidiye Kaynak Suları, 1902 yılında II. Abdülhamit tarafından İstanbul’a çeşmeler aracılığıyla içme suyu dağıtımı için kurulmuştur. Günümüzde İstanbul’un çeşmelerinin büyük bir çoğunluğu kapatılmış su ücretli hale getirilmiştir.1979 yılında Hamidiye A.Ş. İstanbul Büyükşehir Belediyesi tarafından işletilmek üzere kurulmuştur.Hamidiye Kaynak Suları dünyada ilk kez Florürlü su üreterek İstanbul halkının tüketimine sunmaktadır.İstanbul Büyükşehir Belediyesi şirketleri:AğaçBelbimBelturBimtaşBoğaziçi Yönetim A.Ş.HamidiyeİGDAŞİsbakİsttelkomİsfaltİsparkİSTAÇİDTMEnerjiHalk EkmekİmarUlaşımISTIME Medya A.Ş.İstonKiptaşİstanbul Otobüs AŞKültürSağlıkSpor A.Ş.Şehir Hatları A.Ş.UGETAMİETTİSKİİSPER",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-12-30"
+  },
+  {
+    "company": "Shindaiwa",
+    "description": "Shindaiwa, 2008 yılında iki şirketin birleşmesiyle kurulan YAMABIKO Corporation bünyesindeki Dış mekan Makineleri, Tarımsal makineler, Genel Endüstriyel makineler markasıdır.YAMABIKO Corporation Japonya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Winman",
+    "description": "Winman, 2000 yılında kurulan pnömatik, hidrolik ve otomasyon ürünleri markasıdır.Bursa-Çalı Sanayi bölgesindeki fabrikasında yurtiçi ve yurtdışında çeşitli firmalarda ürünleri üretilmektedir.Winman Bursa merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

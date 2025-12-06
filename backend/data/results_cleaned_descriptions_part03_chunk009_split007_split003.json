@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Sinohero",
+    "description": "Sinohero, 2003 yılında kurulan Sinohero Instruments Co., Ltd. bünyesindeki tıbbi cihazlar ve aksesuarlar markasıdır.Sinohero Instruments Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Yonker",
+    "description": "Yonker, 2005 yılında kurulan Xuzhou Yongkang Electronic Science Technology Co. Ltd., bünyesinde üretilen tıbbi elektronik ekipmanlar markasıdır.ISO-9001 belgesine sahiptir.Xuzhou Yongkang Electronic Science Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Endostall",
+    "description": "Endostall, 2009 yılında Serhat Evler tarafından kurulan Endostall Medikal Kbb Cihaz ve Sarf Malzemeleri bünyesindeki tıbbi malzemeler markasıdır.Ürün yelpazesinde Abr Cihazı, Ateş Ölçer, Bera Cihazı, Burun Tamponu, Cerrahi Aspiratör, Diagnostik Ürünler, Ekg Cihazı, Endoskopi Sistemleri, Endoskopik Kamera, Endostall Medikal, Fetal Doplerler, Fiber Optik Kablo, Flexsible Nazofaringaskop, Gümüş Kanül, Gümüş Nitrat Çubuğu, Head Lamb, Headlight, Jinekolojik Ürünler, Kafa Lambası, Kamera, Kbb Koltuğu, Kbb Muayene Üniti, Kbb Üniti, Koter Cihazı ve Aksesuarları, Kulak Tamponu, Kulak Tüpü, Laringaskop, Led Işıklı Kafa Lambası, Mikroskop, Nasal Splintler, Oae Cihazı, Odyometreler, Oftalmaskop, Optikler, Otoskop, Pulse Oximetreler, Soğuk Işık Kaynağı, Stand, Steteskop, Tansiyon Aletleri, Teleskop, Timpanometre gibi ürünler yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Contec",
+    "description": "Contec, 1992 yılında kurulan Contec Medical Systems Co, Ltd. bünyesindeki tıbbi aletler markasıdır.Arterioskleroz İntife, B-ultrason Tanı Sistemi, Blood Pressure Ekran, Cep Fetal Doppler, Dijital Beyin Elektrik Aktivite Haritalama, Dinamik EEG Sistemi, 1-12 kanallı EKG, EEG, EKG İş İstasyonu, İdrar Analizörü, EKG Makinesi, Fetal Doppler, Hasta Monitörü ve Görüntü Ekipmanları, Kan Basıncı Monitörü, Multi-parametre Vital Signs Ekran, Nabız Ölçer, Oksijen Konsantratör, Polisomnografi Analiz Sistemi, Pulse Oksimetre, Sphygmomanometer, Spirometre, Taşınabilir EKG Monitör, Telemedicine, Ultrason Ekipmanları, Uyku Apnesi Ekran Ölçer gibi ürünler üretmektedir.ISO 9001, ISO 14001, ISO 13485, ISO 13485 belgelerine sahiptir.Contec Medical Systems Co, Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Özkayışdağı Su",
+    "description": "Özkayışdağı Su, 1995 yılında kurulan Özkayışdağ Kaynak Suları İşletmeleri bünyesindeki pet ve cam şişe kaynak suyu markasıdır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

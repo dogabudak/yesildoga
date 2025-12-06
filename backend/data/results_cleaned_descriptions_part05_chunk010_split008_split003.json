@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Bereket Döner",
+    "description": "Bereket Döner, 1988 yılında kurulmuş olan Bereket Döner San. ve Tic. A.Ş. bünyesindeki hazır döner zinciri markasıdır.Dönerciler ile catering ve perakende firmalarına döner tedarik etmektedir.ISO 9001, ISO 22000, ISO 10002, OHSAS 18001 ve Helal belgelerine sahiptir.İstanbul merkezli firma 2024 yılında Yörpaş Gıda San. ve Tic. A.Ş. tarafından satın alındı.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-02-25"
+  },
+  {
+    "company": "Itram Higiene",
+    "description": "Itram Higiene, 2006 yılında kurulan Itram Higiene SL bünyesindeki gıda ve tarım-gıda endüstrisindeki hijyen için çok çeşitli özel kimyasallar, deterjanlar ve dezenfektanlar, uygulama, dozajlama ve kontrol sistemleri markasıdır.Gıda ve ilaç endüstrisindeki biyofilmlerin tespiti ve ortadan kaldırılması için çözümler sunmaktadır.Itram Higiene SL İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Kickers",
+    "description": "Kickers, 1970 yılında Daniel Raufast tarafından kurulan Kickers International B.V. bünyesinde üretilen ayakkabı markasıdır.Kickers International B.V., 2007 yılında Fransa merkezli Groupe Royer tarafından satın alındı. Markanın Birleşik Krallık lisansı Pentland Group’a aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Unilumin",
+    "description": "Unilumin, 2004 yılında kurulan Unilumin Group Co. Ltd. bünyesinde üretilen uhd led video, kiralık led ekran, reklam led ekran, sabit led ekran, ticari ekran ve spor ekranı gibi led uygulama ürünleri markasıdır.Şirketin ana ürünleri LED ekranlar, LED aydınlatma lambaları, LED ışıklar ve diğerlerini içerir.Unilumin Group Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wonik",
+    "description": "Wonik, 1998 yılında kurulan Wonik IPS Co. Ltd. bünyesinde üretilen yarı iletkenler, ekranlar ve güneş pilleri üretimi için ekipmanlar markasıdır.Şirketin ana ürünleri arasında plazma geliştirilmiş kimyasal buhar biriktirme (PECVD), ALD, difüzyon termal sistemleri, kuru aşındırma makineleri, düşük sıcaklıkta poli silikon (LTPS) fırınları, pı kürleme, radar arabirim ekipmanı (RIE) aşındırma makineleri bulunmaktadır.Wonik IPS Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

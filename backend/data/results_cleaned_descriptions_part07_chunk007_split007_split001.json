@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Stompgrip",
+    "description": "Stompgrip, 1994 yılında kurulmuş olan Stompgrip Inc. bünyesinde üretilen motosiklet, çekiş, özel parçalar, performans parçaları, snowboard, tank kulpları, tank koruyucuları ve stomp pedleri markasıdır.Şirket, genel güç sporları uygulamaları, filo araçları ve inşaat, tarım ve madencilik için ağır ekipman için çok amaçlı ürün hatlarının yanı sıra sokak Motosikletleri, Kır Bisikletleri, ATV’ler, Kar Motosikletleri, Snowboardlar ve Kayaklar için özel ürünler sunmaktadır.Stompgrip Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Martor",
+    "description": "Martor, 1940 yılında kurulmuş olan Martor KG bünyesinde üretilen bıçaklar, kesiciler, bıçak uçları, makaslar ve aksesuarlar markasıdır.DIN EN ISO 9001, DIN EN ISO 14001 belgelerine sahiptir.Martor KG Almanya merkezlidir. Ürünlerini Almanya’da üretmektedir ve 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kitap Sepeti",
+    "description": "\"Kitap Sepeti Nerenin\"\nKitap Sepeti NereninKitap Sepeti, 2010 yılında kurulmuş olan Point İnternet Teknolojileri ve Lojistik A.Ş. bünyesindeki internet üzerinden kitap satışı yapılan sitesidir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kwikmark",
+    "description": "Kwikmark, 2004 yılında kurulmuş olan Kwik Mark Inc. bünyesinde üretilen markalama makineleri, nokta vuruşlu işaretleyiciler markasıdır.Kwik Mark Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Imax Film",
+    "description": "Imax, 1967 yılında kurulmuş olan Imax Corporation bünyesindeki özel mekan filmleri ve sinema salonları markasıdır.Imax Corporation Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

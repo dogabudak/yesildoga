@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Lapitak",
+    "description": "Lapitak, 1995 yılında Tutku Dış Ticaret ve Kozmetik Ltd. Şti. bünyesinde üretilen bir ayak bakım kremi markasıdır.Lapitak, üretimi Türkiye’de yapılan yerli bir markadır.Firmanın bünyesinde Dermoness markası da yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kerastase",
+    "description": "Kerastase, 1964 yılında kurulan saç bakım konusunda salonlarla hizmet sunmaya başlayan L’Oreal Group bünyesindeki bir markadır.1909 yılında kurulan Loreal Group dünyanın en büyük kozmetik ve güzellik şirketidir. Fransız L’Oréal’in başlıca hissedarlarından biri yüzde 33 hisse ile Françoise Bettencourt Meyers. Nestle’nin şirkette yüzde 23,29 oranında hissesi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Marubeni",
+    "description": "Marubeni, 1918 yılında kurulan; enerji, kimya, gıda, tekstil, otomotiv sanayi, ağır iş makineleri üretimi, lojistik, finans gibi alanlarda iş yapan genel ticaret şirketidir.Marubeni ana hissedarları:The Trust Bank of JapanSompo JapanMeiji Yasuda Life Insurance CompanyMizuho BankMarubeni Türkiye’deki çalışmalarına 1965 yılında başladı.Sabancı Holding’e ait Temsa İş Makinaları’na ortak olmuş durumda. Komatsu inşaat makinelerini Temsa ile birlikte pazarlıyor.Marubeni, 2014’te Japon Nisshin Foods ile birlikte Nuh’un Ankara Makarnası’na ortak olmuştu.Erdemir, İşdemir, Karademir gibi demir-çelik fabrikalarıyla ortak projeler gerçekleştiriyor.Marubeni, Marmaray projesi içerisinde de yer aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Akamai Nedir",
+    "description": "Akamai, 1998 yılında matematik profesörü F. Thomson Leighton tarafından kurulan İçerik Dağıtım Ağı (CDN) ve Bulut İşleme Hizmetleri firmasıdır.Amerikan merkezli şirket, dünya çapında bir sunucu ağı işleterek, bu sunuculardaki kapasiteleri kullanıcıya yakın konumlarda dağıtarak Web sitelerinin daha hızlı çalışmasını isteyen müşterilere kiralıyor. Bir Kullanıcı bir Akamai müşterinin URL’sine gittiğinde, tarayıcı web sitesinin Akamai’nin kopyalarından birine yönlendirilir.Dünyanın en büyük ve en güvenilir bulut içerik dağıtım platformudur. Akamai, milyarlarca cihazda yılda 95 eksabaytlık veri dağıtımı yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "G2M",
+    "description": "G2M Hangi Ülkenin MalıG2M 1981 yılından beri otel, restoran, yemek şirketleri gibi ev dışı tüketim noktalarının gıda, sarf ve temizlik malzemesi ihtiyaçlarını karşılıyor. Taze meyve sebzeden dondurulmuş gıdaya, kuru gıdadan süt ve süt ürünlerine, pastacılık ürünlerinden baharat, konserve ve temizlik ürünlerine kadar geniş bir yelpazede dağıtım yapıyor. Dağıtımını yaptığı toplam ürün portföyünün yüzde 20’si, kendi markalı ürünlerinden oluşuyor.G2M’nin yüzde 64 hissesi Yıldız Holding tarafından satın alınmıştır.G2M, Türkiye genelinde 70 şehirde 11 dağıtım merkezi ile faaliyet gösteriyor.Türkiye’de 150 bin ev dışı tüketim noktası var.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Danet",
+    "description": "Danet, 1972 yılında kurulan et ve et ürünleri markasıdır.Danet köftenin en önemli özelliği %100 dana etinden üretilmesi, hiçbir katkı maddesi ve sinir kullanılmamasıdır.Danet yerli sermayeli aile şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Optima Akü",
+    "description": "Optima, 1972 yılında Donald H. McClelland ve John L. Devitt tarafından kurulan akü ve pil markasıdır.2000 yılında akü üreticisi Johnson Controls International (JCI) tarafından satın alındı.Johnson Controls International İrlanda merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Ne-ad",
+    "description": "Ne-ad, 1978 yılında kurulan NEAD Elektrik Pazarlama A.Ş. bünyesindeki anahtar serileri, grup prizler, aksesuarlar, kauçuk, alüminyum, modüler, kombinasyon markasıdır.Ürün yelpazesinde anahtar prizler, endüstriyel fiş prizler , kauçuklu ürünler, modüler alüminyum priz blokları, grup prizler ve aksesuarlar yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mexpraid",
+    "description": "Mexpraid, 1965 yılında kurulan Badeli Saat Sanayi ve Dış Ticaret Ltd. Şti. bünyesindeki saat markasıdır.Badeli Saat Esenyurt’ta kol, masa, duvar ve cep saatleri ile makinelerinin, kasalarının ve diğer parçalarının imalatı (kronometreler ve taşıtlar için gösterge panellerinde bulunan saatler vb tipteki saatler dahil) konularında hizmet vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tangit",
+    "description": "Tangit, 1876 yılında Fritz Henkel ve ortaklarıyla kurulan Henkel bünyesindeki boru yapıştırıcısı markasıdır.Tangit ; Atık su, Endüstriyel boru döşeme, kimyasal fabrika altyapı inşaatları, basınçlı ve basınçsız uygulamalar, sulama boruları ve sistemleri, sera üretimi, yüzme havuzu üretimi, geniş boru yapıştırıcısı ile, pasif yangın dayanımı, altyapı bağlantılarının yalıtımı konularında da ürünler üretmektedir.Henkel Almanya merkezli bir şirkettir. Tangit 60’tan fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

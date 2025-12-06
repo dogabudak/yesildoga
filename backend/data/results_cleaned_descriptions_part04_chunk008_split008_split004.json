@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Rosenthal",
+    "description": "Rosenthal, 1879 yılında Philipp Rosenthal tarafından kurulan Rosenthal Gmbh bünyesinde üretilen porselen, cam, seramik ürünler ve ev eşyaları markasıdır.Rosenthal Gmbh 2009 yılında İtalya merkezli Sambonet Paderno Industrie S.p.A.’nın bir parçası olmuştur. Ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Roth & Rau",
+    "description": "Roth & Rau, 1991 yılında kurulan Meyer Burger Gmbh bünyesinde üretilen güneş paneli üretiminde kullanılan makine ve ekipmanlar markasıdır.Güneş pilleri için yansıma önleyici kaplama tesisleri; polikristal silikon ve ince film güneş pili üretim hatları; iyon ışını ve plazma kaynakları üretmektedir. Ürün portföyü PECVD kaplama tesislerini içermektedir.Meyer Burger Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dewberry",
+    "description": "Dewberry, 1987 yılında kurulan Sinye Tekstil Pazarlama Reklamcılık San. ve Tic. Ltd. Şti. bünyesindeki erkek, kadın ve çocuk kıyafetleri markasıdır.İstanbul merkezli firma endüstri odaklı tişörtler, spor giyim, dış giyim, gömlek ve bluz, tişört, sweatshirt, sweatpants, sweatsuit, kazak üretmektedir. Ürünlerini İsrail, Yunanistan ve Fransa’ya ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Adolfo Carli",
+    "description": "Adolfo Carli, 1937 yılında Adolfo Carli tarafından kurulan Carli 1937 Srl bünyesinde üretilen ayakkabı markasıdır.Ürünlerinin tamamı el yapımıdır.Carli 1937 Srl İtalya merkezlidir ve ürünlerini İtalya’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Fenix",
+    "description": "Fenix, 2001 yılında kurulan Fenixlight Limited bünyesinde üretilen fener, far, bisiklet ışıkları, kamp lambası, dalış ışıkları, köşe lambası ve aksesuarları markasıdır.Ürünlerini 100’den fazla ülke ve bölgeye pazarlamaktadır.Fenixlight Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

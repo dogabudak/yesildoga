@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Glyco",
+    "description": "Glyco, 1899 yılında kurulan Federal-Mogul Corporation bünyesinde üretilen rulman, motor krank yatakları, kepleri, eksantirik yatakları, contaları vb. motor parçaları markasıdır.Federal-Mogul 34 ülkede 100 üretim tesisine sahiptir. Federal-Mogul, Powertrain ve Motorparts olmak üzere iki temel gurup olarak çalışır.Federal-Mogul, Powertrain ve Motorparts plmak üzere iki temel gurup olarak çalışır. Powertrain (piston, segman, silindir gömleği, supap, motor yatağı, conta, sızdırmazlık elemanları, koruyucu sistemler, buji, ateşleme elemanları ve diğer bileşenler) otomotiv, ağır vasıta ve endüstriyel uygulamalara orijinal motor ekipmanları üretimine odaklı çalışmaktadır.Motorparts ise ek olarak fren (orijinal ekipman ve yedek parça), şasi ve aktarma elemanları, filtre, silecek ve diğer yedek parça ürünleri gibi satış sonrası parçalar üretimine odaklıdır.Federal-Mogul iştiraki şirketler 1969 yılında Türkiye’deki sanayi faaliyetlerine başladı. Federal-Mogul Türkiye günümüzde motor komponentleri üretimi alanında dünyada kapasite ve teknoloji alanında en öneml tesislerden biridir.Federal-Mogul Corporation 2018 yılında Amerika merkezli Tenneco Inc. tarafından satın alındı.Bünyesindeki markalar:AEANCOBERUBentley-HarrisChampionFel-ProFerodoGlycoGoetzeMOOGNuralPayenWagner",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Erpiliç",
+    "description": "Erpiliç, Er Piliç Entegre Tavukçuluk Üretim Pazarlama Tic. Ltd. Şti. bünyesindeki etlik civciv, damızlık civciv, broiler tavuk, damızlık tavuk yetiştirme, kuluçkalık yumurta, damızlık yumurta üretimi, bütün ve parçalanmış tavuk eti, tavuk ayağı ve ileri işlem ürünleri üretimi, karma hayvan yemi üretimi, kemik unu ve tavuk yağı markasıdır.Ürünleri bütün piliç, parça ürünler, şarküteri ürünleri, tabaklı ürünler, sakatat ve işlenmiş ürünler olarak gruplandırılmıştır.Firmanın yem ve civciv şirketi bulunmaktadır.Üretim tesisleri HACCP Gıda Güvenliği belgesi, ISO 9001-2000 Kalite Yönetim Sistemi Belgesi, ISO 22000- 2005 Gıda Güvenliği Sistemi Belgesi, TSE Standartlarına uygunluk belgelerine sahiptir. ERPİLİÇ tesislerinde, islami kurallara uygun kesim yapılmaktadır.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rasch",
+    "description": "Rasch, 1861 yılında Rasch ailesi tarafından kurulan Rasch & Co. KG bünyesindeki duvar kağıdı markasıdır.Dünya genelinde 12 farklı yerde tasarım stüdyoları bulunan Rasch grubunun Almanya, Polonya ve Ukrayna’da üretim tesisleri bulunmaktadır.RAL ve CE sertifikası ile insan sağlığına zararlı hiçbir madde kullanılmadan Alman üretim teknolojisi ile üretilen Rasch duvar kağıtları, ekolojik ve anti-alerjiktir ve yanmaya, güneş ışığına dayanıklıdır, kolay temizlenebilir.Rasch Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Meister",
+    "description": "Meister, 1930 yılında kurulan MeisterWerke Schulte GmbH bünyesindeki laminat parke, Lindura ahşap zemin, tasarım zemin, Nadura zemin, mantar zemin, muşun zemin, şeritler ve paneller markasıdır.Meşe ve Karaçam ağaçlarının farklı işlemlerden geçerek yüzeylere dönüştürüldüğü ürünlerden oluşan ürün koleksiyonuna sahiptir.MeisterWerke Schulte GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lens Technology",
+    "description": "Lens Technology, 2003 yılında Zhou Qunfei tarafından kurulan Lens Technology Co.,Ltd. bünyesindeki dokunmatik ekran markasıdır.Lens Technology, lens ürünleri, dokunmatik panel kapak, dokunmatik sensör modülleri ve dokunmatik panel kapakları üretip satan Çin merkezli teknoloji şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

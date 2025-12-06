@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mavic",
+    "description": "Mavic, 1889 yılında Leon ve Laurent Vielle tarafından kurulan Mavic SAS bünyesindeki dış mekan ve spor ürünleri markasıdır.Jantlar, alüminyum jantlar ve ilgili aksesuarlar dahil olmak üzere bisiklet parçalarının üreticisi ve çevrimiçi perakendecisidir.2020 yılında Mavic SAS, Fransa merkezli Bourrelier Group SA tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Yuneec",
+    "description": "Yuneec, 1999 yılında kurulan Yuneec International Co. Ltd. bünyesinde üretilen elektrikli insanlı uçaklar, drone, radyo kontrollü uçak serileri ve kamera sistemleri markasıdır.Yuneec International Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Neox",
+    "description": "Neox, 2016 yılında kurulan Efece Yapı Kimyasalları Alüminyum Tic. ve San. Ltd. Şti. bünyesindeki yapı kimyasalları markasıdır.Duşkabin silikon, dış cephe silikon, poliüretan mastik, MS polimer, Silikon mastik, akrilik mastik, butylen mastik, yangına dayanıklı ürünler ve bant sistemleri gibi ürün yelpazesine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Freefly",
+    "description": "Freefly, 2011 yılında kurulan Freefly Systems Inc. bünyesindeki fotoğraf ve sinematografide kullanılan insansız hava araçları ve uyumlu drone aksesuarları, kamera sabitleyicileri, film aksesuarları, insansız kara aracı markasıdır.Freefly Systems Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Forte GT",
+    "description": "Forte GT, 2005 yılında kurulan Teks Bisiklet ve Motosiklet Aksesuarları İmalat İhr. İth. A.Ş. bünyesinde üretilen motosiklet giyim ve aksesuarları markasıdır.Türkiye’de üretim yapan firma ürünlerini çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;BenkiaForte GtSwayTex MotorXlockXrider",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

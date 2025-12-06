@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Robwell Airfryer",
+    "description": "Robwell, 2011 yılında kurulmuş olan Zamane Elektronik Bilişim İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde ithal edilen air fryer, yağsız hava fritözü markasıdır.ISO 9001 ve ISO 10002 belgelerine sahip olan firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Discover Card",
+    "description": "Discover Card, 1886 yılında Richard Warren Sears, Alvah Curtis Roebuck tarafından kurulmuş olan Sears Roebuck and Co. bünyesindeki kredi kartı, finans, ödeme kredileri markasıdır.Dolaşımdaki kart sayısına göre ABD’deki en büyük üçüncü kredi kartı markasıdır. Discover 185 ülkede kabul edilmektedir.Sears Roebuck and Co. Amerika merkezli ESL Investments bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cru Organics",
+    "description": "Cru Organics, 2018 yılında kurulmuş olan Cevea Kozmetik İmalat İthalat İhracat San. Tic. Ltd. Şti. bünyesinde üretilen cilt ve saç bakım ürünleri, balmumu markasıdır.Ürünlerinin tamamı doğal ve temiz içeriklidir.Firma Muğla merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Turbogen",
+    "description": "Turbogen, 2014 yılında kurulmuş olan Turbogen Ltd. bünyesinde üretilen yenilenebilir enerji malzemeleri markasıdır.Şirket, binalara yerinde enerji üretimi için tescilli jet tahrik teknolojisine dayanan birleşik ısı ve güç sistemleri sunmaktadır.Turbogen Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Seuthe",
+    "description": "Seuthe, 1899 yılında kurulmuş olan Seuthe Gmbh bünyesindeki çelik ve paslanmaz çelikten kaynaklı boru ve profiller, açık profillerin üretimi için makineler markasıdır.Seuthe Gmbh 2010 yılında Avusturya merkezli Asmag Group şirketi tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

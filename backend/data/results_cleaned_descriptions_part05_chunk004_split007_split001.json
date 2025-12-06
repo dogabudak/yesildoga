@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Airlite Gözlük",
+    "description": "Airlite Gözlük Nerenin Malı MarkasıAirlite, 1979 yılında kurulan Karat Optik San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen gözlükler, güneş gözlükleri, lensler ve bunların kutuları, kılıfları, parçaları ve aksesuarları markasıdır.Yüzde yüz yerli sermaye ve yerli üretim ile sanayi serktöründe yer alan firma İstanbul’da Grillamid TR90 hammaddesiyle optik çerçeve üretmektedir.Bünyesindeki markalar;AirliteCleefPhilip MorganRbRenato Balestra",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Allgaier",
+    "description": "Allgaier, 1906 yılında Georg Allgaier tarafından kurulan Allgaier Werke Gmbh bünyesinde üretilen otomotiv endüstrisi için pres ve sac parça ve aletler, elek, kurutma ve granülasyon ekipmanları markasıdır.Allgaier’ın yapısı 2008 yılında holding, kalıp ve damgalama işi ve proses mühendisliği olarak üçe bölündü.Allgaier Werke Gmbh Almanya merkezlidir. Almanya, Fransa, Meksika, İspanya, İsveç ve Hindistan’da üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aquazzura",
+    "description": "Aquazzura, 2011 yılında Edgardo Osorio tarafından kurulan Aquazzura S.r.l bünyesindeki kadın ayakkabısı markasıdır.Ürünleri el yapımıdır. Aquazzura’nın ayakkabı koleksiyonları 58 ülkede mevcuttur.Aquazzura Italia S.r.l İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Schweppes",
+    "description": "Schweppes, 1783 yılında Jacob Schweppe tarafından kurulan maden suyu, tonik, zencefil gazozu, mojito, limonata, gazoz markasıdır. Dağıtım hakları karmaşık bir döküme sahiptir. 2008 yılında Amerika merkezli Keurig Dr Pepper Inc.’ın bünyesine geçmiştir.Avrupa ülkelerinde Keurig Dr Pepper Inc. ile birlikte üretim hakkı The Coca-Cola Company’e aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mares",
+    "description": "Mares, 1949 yılında Ludovico Mares tarafından kurulan Mares S.p.A. bünyesindeki dalış kıyafetleri, maskeleri ve Şnorkeller, Regülatörler, Dalış bilgisayarları, yüzgeçler, aletler, pusulalar, basınç göstergeleri, dalış aksesuarları markasıdır.Mares S.p.A., Hollanda ve Avusturya merkezli HTM Sport Gmbh bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

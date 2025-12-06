@@ -1,0 +1,46 @@
+[
+  {
+    "company": "TDK",
+    "description": "TDK (Tokyo Denki Kagaku), 1935 yılında kurulan TDK Corporation bünyesindeki elektronik malzeme, bileşenler, kayıt ve veri depolama ortamı ürünleri markasıdır.Ürün yelpazesinde CD, DVD, Blu-ray, Elektrik-Elektronik bileşenleri ve Güç kaynakları yer almaktadır.TDK Corporation Japonya merkezli bir elektronik şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Konica Minolta",
+    "description": "Konica Minolta, 2003 yılında kurulan Konica Minolta Hondings, Inc bünyesindeki ofis ekipmanları, tıbbi görüntüleme, grafik görüntüleme, optik cihazlar, fotoğraf ekipmanları, ölçü aletleri markasıdır.Konica Minolta, baskı üretim pazarı için fotokopi makinesi, lazer yazıcı, çok fonksiyonlu çevre birimleri, dijital baskı sistemleri, dahili lens, medikal ve grafik görüntüleme sistemleri, X-Ray görüntü işleme sistemleri üretmektedir.Konica ve Minolta şirketlerinin birleşmesiyle kurulan Konica Minolta Hondings Japonya merkezli teknoloji şirketidir. Dünya çapında 35 ülkede ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "ZF Friedrichshafen",
+    "description": "ZF Friedrichshafen, 1915 yılında kurulan ZF Friedrichshafen AG bünyesindeki otomobil parça üreticisidir. Sahipleri yüzde 93,8 oranıda Zeppelin Vakfı ve yüzde 6,2 oranında Dr. Jürgen und Irmgard Ulderup Stiftung.Almanya merkezli ZF, otomobil ve ticari araçlar için aktarma organları ve şasi teknolojisi tedarikçisidir.Bünyesinde her tip ZF şanzıman, diferansiyel, direksiyon üniteleri için yedek parça yer almaktadır.ZF’nin 40 ülkede 230 adet üretim tesisi bulunmaktadır.Türkiye’de ZF Services Türk San. ve Tic. A.Ş. olarak faaliyet göstermektedir. Türkiye’de yüzde 40’ı aşan oranda OEM Pazar payına sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pilot Kalem",
+    "description": "Pilot, 1918 yılında Ryosuke Namiki tarafından kurulan Pilot Corporation bünyesindeki kalem, çeşitli kağıt ve mücevher markasıdır.Pilot Corporation Japonya merkezli bir şirkettir. Ürünlerini Japonya, Güney Kore ve Amerika’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Karali Çay Ülke",
+    "description": "Karali Çay Hangi Ülke MarkasıKarali Çay, 1993 yılında kurulan Karali Çay Sanayi Tic. ve Gıda Pazarlama A. Ş. bünyesindeki çay markasıdır. Faaliyet alanları arasında çay kazanı ve zeytin bulunmaktadır.Organik dökme siyah çay, süzen poşet ve demlik poşeti çayları sektöründe bir ilktir.Firmanın Rize, İzmir, Bursa, İstanbul, Ankara, Mersin’de şubeleri bulunmaktadır.Bünyesindeki markalar:KaraliOrgalife",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

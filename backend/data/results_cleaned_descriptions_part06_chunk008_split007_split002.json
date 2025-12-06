@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Refco",
+    "description": "Refco, 1972 yılında kurulan Refco Manufacturing Ltd. bünyesinde üretilen vakum pompaları, kurtarma birimleri, yoğuşma pompaları, dijital analog manifoldlar, hortumlar, kaçak dedektörleri, vakum ölçerler, basınç göstergeleri, vanalar, boru bükme, boru genişleticiler, tüp kesiciler, el aletleri, soğutma kilitler, yedek parça şarj çekirdek değiştirme araçları, refmesh uygulama ve dışa dönük ve dövülme araçları markasıdır.Refco Manufacturing Ltd. 1996 yılında Almanya merkezli WIKA Grubu tarafından devralındı. Ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ayşegül Sevilen Bebek",
+    "description": "Ayşegül Sevilen Bebek, 1982 yılında kurulan Birlik Oyuncak San. ve Tic. Ltd. Şti. bünyesinde üretilen Türkçe konuşan plastik bebek oyuncak markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Activision",
+    "description": "Activision, 1979 yılında kurulan Activision Publishing Inc. bünyesindeki konsol, mobil cihazlar ve bilgisayarlarda etkileşimli eğlence ürünleri geliştiricisi ve dağıtıcısıdır.Activision Publishing Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Welch Allyn",
+    "description": "Welch Allyn, 1915 yılında kurulan Welch Allyn Inc. bünyesinde üretilen tıbbi teşhis cihazları, hasta gözlem sistemleri ve hassas minyatür lambalar markasıdır.Welch Allyn Inc. 2015 yılında Amerika merkezli Hill-Rom Holdings Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mannol",
+    "description": "Mannol, 2004 yılında SCT-Vertriebs GmbH tarafından kurulan UAB SCT Lubricants bünyesindeki motor yağı, gres ve katkı maddesi markasıdır.Otomotiv sıvıları, yağlayıcılar, katkı maddeleri ve araç bakım ürünleri sunmaktadır.ISO 9001 belgesine sahiptir.SCT-Vertriebs GmbH Almanya merkezlidir. Ürünlerini 120 ülkeye pazarlamaktadır.Bünyesindeki markalar;ChempioilFanfaroMannolPemco",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2024-07-05"
+  }
+]

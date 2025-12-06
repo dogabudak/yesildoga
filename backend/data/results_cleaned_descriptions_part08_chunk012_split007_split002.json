@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Calliel",
+    "description": "Calliel2023 yılında kurulmuş olan Calliel Pharma Kozmetik San. ve Tic. A.Ş. bünyesindeki cilt bakım ürünleri, kremler, losyonlar, peelingler, serumlar, yağlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nanya",
+    "description": "Nanya1995 yılında kurulmuş olan Nanya Technology Corporation bünyesinde üretilen dinamik rasgele erişimli bellek yongaları ve modülleri, yarı iletken ürünleri ve ilgili aksesuarları markasıdır.Nanya Technology Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Crown Professional Tools",
+    "description": "Crown1983 yılında kurulmuş olan Zhejiang Crown Power Tools Manufacturing Co. Ltd. bünyesinde üretilen akülü aletler, bahçe aletleri, elektrikli el aletleri, hava araçları, aksesuarlar markasıdır.Zhejiang Crown Power Tools Manufacturing Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Poxy Temizlik",
+    "description": "Poxy2008 yılında kurulmuş olan Poxy Temizlik Kozmetik İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen genel, çamaşır, bebek hijyen ürünleri, cilt bakım ürünleri, duş jelleri, kolonya, otomobil bakım ürünleri, parfüm, saç bakım ürünleri, saç parfümü, scrub, vücut losyonu, vücut parfümü markasıdır.Ürünleri insan sağlığına zarar veren kimyasallar içermez ve Helal belgesine sahiptir.Firma Aydın merkezlidir. İstanbul’da bulunan fabrikasında üretim yapmaktadır.Bünyesindeki markalar;BioferOto55Poxy",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rubberex",
+    "description": "Rubberex1987 yılında kurulmuş olan Rubberex Corporation (M) Berhad büynesinde üretilen endüstriyel kullanım, ev kullanımı, tek kullanımlık eldivenler markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Rubberex Corporation (M) Berhad Malezya merkezlidir ve ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  }
+]

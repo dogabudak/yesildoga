@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dede Oyuncak",
+    "description": "Dede Oyuncak, 1962 yılında kurulan Fen Oyuncak ve Mutfak Eşyaları Paz. Tic. Ltd. Şti. bünyesindeki plastik oyuncak markasıdır.Ürün yelpazesinde lisanslı oyuncaklar, eğitici oyuncaklar, kız oyun takımları, plaj ürünleri, oyuncak kamyonlar, spor oyuncakları gibi ürünler yer almaktadır.İstanbul merkezli firma ürünlerini 12 bin metrekarelik kapalı alanı olan tesislerinde üretmekte ve 60 ülkeye ihraç etmektedir.Bünyesindeki markalar;BrightzzBultakCactusblocksCandy & KenCandy GirlDedeDede CactusblocksDede Candy GirlDede OyuncakDedetoysFenFen Akıllı ÇocukFen Builiding BlocksFen Hobby BlocksFen Maxi BlocksFen Mega EğitimFen Mini BlocksFen Puzzle BlocksIn-My-MindKaktüsNoperPlay SoftStyle Boom",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Byron Terlik",
+    "description": "Byron, 2014 kurulan Kssoft Terlik ve Ayakkabı San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı, terlik ve deri ürünleri markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "aQuas",
+    "description": "aQuas, 2008 yılında kurulan Vivatinell Limited bünyesinde üretilen güneş kremi markasıdır.Cilt için faydalı mineralleri içeren Atlas okyanusunun yüzlerce metre altından yeryüzüne ulaşan hidro termal sularını kullanmaktadır.Vivatinell Limited İngiltere merkezlidir. Türkiye’de Vivatinell Kozmofarmasötik San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir. İkisi İngiltere’de, biri Türkiye’de olmak üzere üç üretim tesisinde üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Çokonat",
+    "description": "Çokonat Nerenin Malı MarkasıÇokonat, 1970 yılında piyasaya sürülen çikolata kaplı fındıklı gofret ve kakao kreması markasıdır.Soya ve palm yağı içermektedir.Çokonat, Yıldız Holding’e ait Ülker Çikolata San. ve Tic. A.Ş. bünyesinde üretilmektedir.İstanbul merkezli firma 12 ülkede 21 fabrikaya sahiptir ve Türkiye’de 25 fabrikası bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-04-07"
+  },
+  {
+    "company": "Çokomel",
+    "description": "Çokomel Nerenin Malı MarkasıÇokomel, 1970 yılında piyasaya sürülen bisküvi üzerinde kakao kaplamalı yumuşak marshmallow markasıdır.Soya ve palm yağı içermektedir.Çokomel, Yıldız Holding’e ait Ülker Bisküvi San. A.Ş. bünyesinde üretilmektedir.İstanbul merkezli firma 12 ülkede 21 fabrikaya sahiptir ve Türkiye’de 25 fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

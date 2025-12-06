@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Tekin Acar Kozmetik",
+    "description": "Tekin Acar Kozmetik 1979 yılında kurulan Türkiye’nin büyük kozmetik perakendecisidir.Tekin Acar Kozmetik markasının sahibi Fransa’da bulunan Fransız LVMH Holding’in sahibi olduğu Sephora şirketidir. Bu şirket, Türkiye’de 7 yıldır faaliyet gösteriyor.2019 yılı sonuna doğru ticaret mahkemesi kararına göre iflas ettiği açıklandı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2020-01-10"
+  },
+  {
+    "company": "TAG Heuer",
+    "description": "TAG Heuer S.A. 1860 yılında Edouard Heuer tarafından Uhrenmanufaktur Heuer adıyla kurulan lüks saat ve aksesuarlar üreten firmadır.1985 yılında TAG Group tarafından hisseleri alınınca adı TAG Heuer oldu ve 1999 yılında Fransa’nın lüks tüketim ürünleri üreticisi LVMH tarafından TAG Heuer’in tamamına yakını satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2019-09-25"
+  },
+  {
+    "company": "Dianjitek",
+    "description": "Dianjitek Shenzhen Hongdafeng Electronics Co Ltd (HDF) tasarım, imalat ve All-in-one PC, anakart ve Mini PC pazarlama konusunda uzmanlaşmış 1999 yılında kurulan Çin merkezli yüksek teknoloji firmasıdır.2012 yılında HDF’nin ortalama üretimi 200 bin adet anakart ve aylık 10 bin adet bilgisayara ulaştı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Aidata",
+    "description": "Aidata1980 yılında kurulmuş olan Aidma Enterprises Co. Ltd. bünyesinde üretilen bilgisayar aksesuarları, bilgisayar masası, dizüstü soğutma pedi, diğer bilgisayar çevre birimleri ürünleri, plastik kırtasiye, ofis malzemeleri, okula dönüş ürünleri, ofis makineleri markasıdır.Aidma Enterprises Co. Ltd. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2024-06-08"
+  },
+  {
+    "company": "Maytag",
+    "description": "Maytag, 1893 Frederick Louis Maytag tarafından kurulan buzdolabı, çamaşır ve kurutma makineleri üreticisidir.Maytag 1986 yılında Magic Chef firmasını, 2001 yılında Amana firmalarını satın aldı.Maytag, 2006 yılında Amerikan Whirlpool firması ile birleşti.Maytag üretimlerini Amerika’da bulunan 14 fabrikada gerçekleştirmekte.Markaları:AdmiralAmanaBaucknectCaloricClevelandCrosleyDynastyFindlayGaffers & SattlerGladiatorGlenwoodHardwickHolidayInglisJadeJennAirKitchenAidLittonMagic ChefMenuMasterModern MaidNewtonNorgeSearcySunrayWilliston",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

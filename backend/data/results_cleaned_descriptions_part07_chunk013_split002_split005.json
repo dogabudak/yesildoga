@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kavo Parts",
+    "description": "Kavo Parts, 1986 yılında kurulmuş olan Kavo B.V. bünyesindeki amortisörler, filtreler, fren parçaları, direksiyon süspansiyon, debriyaj, rulman, tekerlek, bağlantı parçaları, motor yönetim sistemi, otomobil parçaları markasıdır.Kavo B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Kzubr",
+    "description": "Kzubr, 2000 yılında kurulmuş olan Yongkang Xulang Industry And Trade Co. Ltd. bünyesinde üretilen elektrikli el aletleri, el aletleri, pnömatik aletler, kaynak makineleri, su pompaları, jeneratörler, aksesuarlar markasıdır.Yongkang Xulang Industry And Trade Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;Anma3KzubrRoyce",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Goshawk Anten",
+    "description": "Goshawk, 2012 yılında Nathan Kundtz tarafından kurulmuş olan Kymeta Corporation bünyesindeki uydu iletişimi için meta malzeme tabanlı elektronik ışın oluşturan antenler ve terminaller markasıdır.Kymeta Corporation Amerika merkezlidir. Şirket Bill Gates ve Lux Capital dahil olmak üzere çeşitli yatırımcılardan fon sağlamıştır.Bünyesindeki markalar;Connected By KymetaGoshawkHawkKymetaMaking Mobile GlobalOspreyPeregrine",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Guzini",
+    "description": "Guzini, 1989 yılında Gündoğdu ailesi tarafından kurulmuş olan Guzini Deri ve Konfeksiyon Mamulleri San. İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen deri çanta, cüzdan, kemer markasıdır.Firma İzmir merkezlidir.Bünyesindeki markalar;GuziniMm Mustani",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "X2Power Battery",
+    "description": "X2Power Battery, 2000 yılında kurulmuş olan Batteries Plus LLC bünyesinde üretilen şarj edilebilir pil ve aküler markasıdırBatteries Plus LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Reward Saat",
+    "description": "Reward2001 yılında kurulmuş olan Shenzhen Jingqi Watch Industry Co. Ltd. bünyesinde üretilen saat markasıdır.Shenzhen Jingqi Watch Industry Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pınar Kido Süt",
+    "description": "Kido Süt1973 yılında kurulmuş olan Yaşar Holding A.Ş. bünyesindeki Pınar Süt Mamülleri San. A.Ş. tarafından üretilen kakao, çikolata, muz ve çilek püresi içerikli süt markasıdır.Firma İzmir merkezlidir. İzmir, Eskişehir ve Şanlıurfa’da süt fabrikalarına sahiptir.Pınar Sahibi Kim?",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Luxera Paris",
+    "description": "Luxéra Paris2016 yılında kurulmış olan Minovva Pharma Kozmetik San. Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri alkol, boya, paraben içermez ve hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Potenza Sport",
+    "description": "Potenza1931 yılında kurulmuş olan Bridgestone Corporation bünyesinde üretilen araç lastiği markasıdır.Bridgestone Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Mr. Oxy",
+    "description": "Mr. Oxy2017 yılında kurulmuş olan Sektör Kimya Deterjan San. ve Tic. A.Ş. bünyesinde üretilen çamaşır deterjanı, ahşap temizleyici, klozet bloğu, lavabo açıcı, mineralli temizlik kremi, mutfak deterjanı, oda ve çamaşır parfümleri, sıvı çamaşır deterjanı, sıvı bulaşık deterjanı, yüzey temizleyici, yumuşatıcı markasıdır.ISO 9001, ISO 14001, ISO 22000, OHSAS 18001, HELAL belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Konya 3. OSB’de bulunan 15 bin metrekarelik kapalı alandaki fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

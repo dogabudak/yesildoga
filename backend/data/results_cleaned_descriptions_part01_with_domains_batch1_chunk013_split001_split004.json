@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Bryman",
+    "description": "Bryman, 1980 yılında kurulan otomobil yedek parçaları markasıdır.Ürün yelpazesi içerisinde; süspansiyon, motor, direksiyon, şanzıman, soğutma sistemi, fren sistemi, A/C bileşenleri, kauçuk parçalar, elektrik bileşenler, filtre, debriyaj, yakıt sistemi ve bazı vücut parçaları ve aksesuarları içermektedir.Bryman, Birleşik Arap Emirlikleri merkezli bir firmadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": "2019-12-19"
+  },
+  {
+    "company": "Petronas",
+    "description": "Petronas (Petroliam Nasional Berhad), 1974 yılında kurulan Petrol, doğalgaz, petrokimyasallar şirketidir.Petronas, Formula 1’de daha önce Sauber sponsorluğunu üstlenirken 2010 yılından beri Mercedes’in ana sponsorlarından biridir.Petronas, Malezya Hükümeti’ne ait, Malezya’nın tüm petrol ve doğalgaz kaynaklarından sorumlu şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": "2020-01-06"
+  },
+  {
+    "company": "Luk",
+    "description": "1965 yılında kurulmuş olan LuK GmbH & Co. KG bünyesindeki otomatik şanzıman türbünü, kavrama, volan, rulman gibi otomotiv ve endüstri ürünleri markasıdır.LuK GmbH & Co. KG 1999 yılında Almanya merkezli Schaeffler Technologies AG & Co. KG tarafından satın alınmıştır. Schaeffler Group, Türkiye’de Schaeffler Turkey Endüstri ve Otomotiv Tic. Ltd. Şti. olarak faaliyet göstermektedir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2025-06-09"
+  },
+  {
+    "company": "Febi",
+    "description": "Febi, 1844 yılında Ferdinand Bilstein tarafından kurulan yedek parça markasıdır.Ferdinand Bilstein GmbH + Co. KG adlı üst marka febi, SWAG ve Blueprint adlı klasik markaları güçlü bir çatı altında bir araya getirmiştir. 2012 yılından beri febi ürün markası, bir aile şirketi olan bağımsız bilstein group’un bir parçasıdır.Ferdinand Bilstein otomobil, ağır vasıta, otobüs, römork ve vanlar (hafif ticari araçlar) için tüm marka ve modellerde profesyonel onarım için gereken tüm önemli parçaları sunmaktadır.Binek araçlar için ürün grupları: direksiyon ve süspansiyon, metal ve kauçuk parçaları, frenleme, elektronik elemanlar ve sensörler, elektrikli parçalar, klima ve ısıtma sistemi, motor parçaları, motor zamanlaması, motor soğutma, sıvılar, filtreler, tekerlek bağlama, sürüş sistemi, şasi ve İç mekan, özel takımlarAğır vasıtalar için ürün grupları: direksiyon ve süspansiyon, metal ve kauçuk parçaları, tekerlek sabitleme sistemleri, frenleme, pnömatik sistemler, motor parçaları, aktarma organları, debriyaj, egzoz sistemi, kayış gergisi, motor ısı yönetimi, klima ve ısıtma sistemi, elektronik elemanlar ve sensörler, elektrik, şasi ve kabin, filtreler, sıvılar ve yağlar, özel takımlarAlmanya merkezli Febi, yedek parçaları kendi üretim tesislerinde Made in Germany sloganı ile üretiyor.Ferdinand Bilstein ayrıca kendi şubeleri veya seçtiği ortakları(21 uluslararası alt kuruluş) ile 70’ten fazla ülkede temsil edilmekte ve ürünleri 150’den fazla ülkede bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Yves Rocher",
+    "description": "Yves Rocher1959 yılında Yves Rocher tarafından kurulan Groupe Rocher SAS bünyesindeki cilt bakımı, kozmetik ve koku markasıdır.Groupe Rocher SAS Fransa merkezlidir ve ürünlerini Fransa’da bulunan tesislerinde üretmektedir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar:ArbonneDr Pierre RicaudID parfumsKiotisPetit BateauSabonStanhomeYves Rocher",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-12-18"
+  }
+]

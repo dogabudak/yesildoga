@@ -1,0 +1,49 @@
+[
+  {
+    "company": "La Prairie",
+    "description": "La Prairie , 1954 yılında kurulan cilt bakım ürünleri markasıdır.La Prairie Group 1990 yılından beri Almanya merkezli Beiersdorf AG şirketi bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-03-24"
+  },
+  {
+    "company": "Phison",
+    "description": "Phison , 2000 yılında kurulan; USB flash sürücü, bellek kartı ve SSD Sürücü markasıdır.USB flash sürücüler, bellek kartları ve katı hal sürücüleri (SSD) gibi Flash tabanlı ürünlere entegre edilen yongalar üretmektedir.Phison Elektronik Şirketi Tayvan merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2019-06-01"
+  },
+  {
+    "company": "Siesta Mobilya",
+    "description": "Siesta Mobilya , 1978 yılında kurulan lşılplast Plastik Sanayi ve Tic. A.Ş. bünyesindeki mobilya markasıdır.Siesta Büyükçekmece’de 40 bin metrekare alana sahip olan tesislerinde üretimini sürdürmektedir. Siesta, 75 ülkede faaliyet gösterirken, üretimlerinin yüzde 80’ini ihraç ediyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bloody",
+    "description": "Bloody , 1987 yılında kurulan bilgisayar donanım ve elektronik şirketi A4 Tech bünyesindeki bilgisayar oyun faresi, kablolu/kablosuz kulaklık, oyun klavyesi, kablolu/kablosuz fare, kablolu/kablosuz klavye Combo seti markasıdır.Bloody Tayvan merkezli A4Tech Co, Ltd şirketi tarafından Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Felly Nova",
+    "description": "Felly Nova , 2014 yılında kurulan Prestige Kimya Kozmetik ve Temizlik Maddeleri Sanayi ve Tic. Ltd. Şti. bünyesinde üretimi gerçekleştirilen; matik deterjan, elde yıkama deterjanı, klorlu ağartıcı, oksijen bazlı ağartıcı, kir ve yağ çözücü, kireç önleyici, bulaşık makinesi deterjanı vs. sıvı temizlik maddeleri markasıdır.Prestige Kimya yerli sermayeli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

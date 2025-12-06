@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Airtouch Solar",
+    "description": "Airtouch Solar, 2016 yılında kurulmuş olan Airtouch Solar Ltd. bünyesindeki fotovoltaik kurulumlar için, susuz robotik PV panel temizleme çözümleri markasıdır.Airtouch Solar Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Green World Koku",
+    "description": "Green World, 1978 yılında kurulmuş olan Lider Kozmetik San. ve Tic. A.Ş. bünyesinde üretilen oda kokuları, dezenfektanlar, hava tazeleyici, temizleyiciler markasıdır.ISO 9001, TSE ve GMP ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Kocaeli’de bulunan tesisinde üretmektedir ve 90 ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr.Bei",
+    "description": "Dr.Bei Hangi Ülkenin Malı MarkasıdırDr.Bei, 2010 yılında kurulmuş olan Xiaomi Corporation bünyesinde üretilen elektrikli, şarjlı diş fırçaları, diş taşı temizleyiciler, taşınabilir ağız duşu, yedek parçalar markasıdır.Xiaomi Corporation Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Quadral",
+    "description": "Quadral, 1972 yılında kurulmuş olan Quadral Gmbh bünyesindeki hoparlörler, Hi-Fi bileşenleri markasıdır.Quadral Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Brownie Giyim",
+    "description": "Brownie, 2006 yılında kurulmuş olan Grupo Textil Brownie S.L. bünyesindeki kadınlar için bir gençlik moda markasıdır.Giysileri organik pamuk, geri dönüştürülmüş lifler ve diğer organik malzemeler kullanılarak üretilmektedir.Grupo Textil Brownie S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

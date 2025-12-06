@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Scythe",
+    "description": "Scythe, 2002 yılında kurulan Scythe Co. Ltd. bünyesindeki işlemci soğutucu, kasa fanı, bilgisayar aksesuarı, bilgisayar kasası, bilgisayar güç kaynağı, soğutma aksesuarları, oyun aksesuarları, giriş cihazı markasıdır.Scythe Co. Ltd. Japonya merkezlidir. Üretim ve kalite kontrol için Tayvan ve Çin’de tesislere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Pasta Veneta",
+    "description": "Pasta Veneta, Bim Birleşik Mağazalar A.Ş. adına Durum Gıda San. ve Tic. A.Ş. tarafından üretilen makarna markasıdır.Mersin merkezli üretici firma çabuk makarna, sade, family, tam buğday, gurme, glutensiz, irmik çeşitlerinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pauline",
+    "description": "Pauline, 1992 yılında kurulan Farmako Kozmetik ve San. Tic. A.Ş. bünyesindeki saç rengini açmaya yardımcı sprey markasıdır.Saçın rengini açar ve doğal bir sarışınlık sağlar. Boyalı saça uygulanmaz. Koruyucu madde içerir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hycell",
+    "description": "Hycell, 2014 yılında kurulan Hycell Gmbh bünyesinde üretilen şarj edilebilir piller, şarj cihazları, LED ışıklar markasıdır.Hycell Gmbh, Almanya merkezli Ansmann AG’ye ait bir şirkettir. Şirket; İngiltere, Fransa, İsveç, Çin ve Hong Kong’daki beş yan kuruluşu ile araştırma, geliştirme, üretim ve satış alanlarında faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Conax",
+    "description": "Conax, 2004 yılında kurulan Frt Su Arıtma San. Tic. Ltd. Şti. bünyesinde üretilen ev tipi, tezgah altı ve endüstriyel su arıtma cihazları ve sistemleri markasıdır.İstanbul merkezli firma ürünlerini İstanbul ve Manisa’da bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

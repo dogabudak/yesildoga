@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Bego Implant",
+    "description": "Bego Implant, 1890 yılında kurulan BEGO Bremer Goldschlagerei Wilhelm Herbst GmbH & Co. KG bünyesinde üretilen diş protezleri ve implantoloji ürünleri markasıdır.Diş laboratuvarı teknisyenlerine ve diş hekimlerine diş protezlerinin (değerli değerli olmayan alaşımlar, seramikler, implantlar, CAD / CAM) üretimi için malzeme, ekipman ve süreçler sunmaktadır.BEGO Bremer Goldschlagerei Wilhelm Herbst GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Odoo",
+    "description": "Odoo, 2005 yılında Fabien Pinckaers tarafından kurulan Odoo S.A. bünyesindeki e-ticaret, faturalama, muhasebe, üretim, depo, proje yönetimi ve envanter yönetimi gibi bir dizi işletme yönetimi yazılımı aracı markasıdır. Açık kaynaklı entegre iş uygulamaları paketidir.Odoo S.A. Belçika merkezlidir. 120’den fazla ülkede kurulan sertifikalı ortaklar ağı, çözümü yerel olarak dağıtır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Aci Worldwide",
+    "description": "Aci Worldwide, 1975 yılında James Cody, Dave Willadsen ve Dennis Gates tarafından kurulan ACI Worldwide Inc. bünyesindeki ödeme sistemleri markasıdır.Gerçek zamanlı elektronik ödemeleri kolaylaştırmaya odaklanan geniş bir yazılım yelpazesi geliştirmektedir. Şirketlerin dijital ödemeleri işlemesine ve yönetmesine, omni-ticaret ödemelerine güç sağlamasına, fatura ödemelerini sunmasına ve işlemesine, dolandırıcılık ve riski yönetmesine olanak tanıyan kritik öneme sahip gerçek zamanlı ödeme yazılım çözümlerini sunar.ACI Worldwide Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Acxiom",
+    "description": "Acxiom, 1969 yılında Charles D. Ward tarafından kurulan Acxiom Corporation bünyesindeki veritabanı pazarlama çözümleri markasıdır.Şirket, hedefli reklam kampanyaları için kullanılan müşteri ve işletme bilgilerini toplar, analiz eder ve satar.Acxiom Corporation 2018 yılında Amerika merkezli The Interpublic Group of Companies Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zoom Bisiklet",
+    "description": "Zoom, 1991 yılında kurulan Hl Corp Co. Ltd. bünyesinde üretilen bisiklet, bisiklet parçaları, spor fitness ve rehabilitasyon malzemeleri markasıdır.Hl Corp Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

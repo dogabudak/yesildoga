@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Imetec",
+    "description": "Imetec1973 yılında kurulmuş olan Tenacta Group Spa bünyesindeki küçük ev aletleri markasıdır.Tenacta Group SPA İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "All I Need",
+    "description": "All I Need2010 yılında kurulmuş olan All I Need Beverage Gmbh bünyesindeki içecekler markasıdır.All I Need Beverage Gmbh 2018 yılında İsviçre merkezli Capri Sun Group Holding AG tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Ant Bahar",
+    "description": "Ant Bahar1940 yılında kurulmuş olan Bahar Hindi Entegre San. ve Tic. A.Ş. bünyesinde üretilen pişmiş hindi eti konservesi markasıdır.Ürünleri koruyucu ve katkı maddesi, bpa içermezISO 9001, ISO 22000, TSE belgelerine sahiptir.Firma Antalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aypop",
+    "description": "AypopAY-POP Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen ambalajlı patlamış mısır ve mısır standı markasıdır.Patlamış mısır içeriği mısır, sıvı yağ ve kaya tuzundan oluşmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bağcı Zeytincilik",
+    "description": "Bağcı1986 yılında kurulmuş olan Bağcı Zeytincilik A.Ş. bünyesinde üretilen siyah, yeşil, dilimli zeytinler, zeytin ezmesi, zeytinyağı markasıdır.Firma İstanbul merkezlidir ve ürünlerini Bursa’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

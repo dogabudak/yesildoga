@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Perkon",
+    "description": "Perkon, 1997 yılında kurulan Personel Barkod Sistemleri Bilgisayar Yazılım Elektronik A.Ş. bünyesindeki barkod sistemleri, otomatik tanımlama ve veri toplama markasıdır.Üretim, lojistik, perakende, sağlık ve kamu alanlarında çok sayıda şirkete farklı modellerde barkod okuyucu (ccd, lazer, endüstriyel tip, radyo frekanslı kablosuz), windows tabanlı el terminali, etiket yazıcı (sabit ve portatif), personel devam kontrol sistemi, yemekhane kontrol sistemi, fiyat kontrol cihazı (kendi ürünü), barkod yazıcılı terazi, araçta muhasebe sistemi (kendi ürünü), rfid okuyucu, anten ve tag, slot okuyucu (kart uygulamaları) sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Newfavor",
+    "description": "Newfavor, 2014 yılında kurulan Özveri Kozmetik İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki parfüm, kozmetik ürünleri ve kolonya ürünleri markasıdır.Özveri Kozmetik, Adana merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Medix",
+    "description": "Medix, 2006 yılında kurulan Morelma Ltd. Şti. bünyesindeki aero nebulizatör, ateş ölçer, dijital derece, esnek uçlu dijital derece, temassız ateş ölçer, tansiyon ölçer, basic tansiyon ölçer, smart tansiyon ölçer, yara bakım ürünleri markasıdır.Bio eczane torbalarının patentli üreticisidir.İzmir Atatürk OSB’de 3 bin metrekarelik üretim tesisine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cornelsen",
+    "description": "Cornelsen, 1946 yılında Franz Cornelsen tarafından kurulan Cornelsen Verlag Gmbh bünyesindeki okul kitap yayıncılığı, eğitim, farklı medya türlerinde öğrenme ve öğretim materyalleri sunmaktadırCornelsen Verlag Gmbh Almanya merkezli Franz Cornelsen Education Group’un bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "GVS",
+    "description": "GVS, 1979 yılında kurulan GVS S.p.A. bünyesindeki sağlık, yaşam bilimleri, otomotiv, ev aletleri, güvenlik ve ticari ve endüstriyel uygulamalar için filtreler ve bileşenler markasıdır.Dünya çapında 14 üretim tesisinde filtre çözümleri sunmaktadır.GVS S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

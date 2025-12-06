@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Gabaset",
+    "description": "Gabaset1945 yılında temeli atılan Biofarma İlaç San. ve Tic. A.Ş. bünyesindeki ilaç markasıdır.Biofarma İlaç San. ve Tic. A.Ş. 2021 yılında İsviçreli bir yatırım şirketi tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2025-09-27"
+  },
+  {
+    "company": "Gisele Denis",
+    "description": "Gisele Denis1929 yılında kurulmuş olan De Ruy Perfumes S.A.U. bünyesinde üretilen güneş koruyucu, bronzlatıcı kozmetik ürünler markasıdır.ISO 9001, ISO 14001, ISO 22716, ISO 50001 belgelerine sahiptir.De Ruy Perfumes S.A.U. İspanya merkezlidir ve ürünlerini İspanya’da üretmektedir ve 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Anine Bing",
+    "description": "Anine Bing2012 yılında kurulmuş olan Anine Bing Corp. bünyesindeki kadın giyim markasıdır.İskandinav sadeliği ve Amerikan renk tarzlarından esinlenerek ürünlerini tasarlamaktadır.Anine Bing Corp. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Brofar",
+    "description": "Brofar1973 yılında temeli atılan As İlaç San. Tic. Ltd. Şti. bünyesinde üretilen fare ve sıçan ilaçları markasıdır.Firma İstanbul merkezlidir. Ürünlerini 13 bin metrekare açık alan içerisinde yer alan 3 bin metrekarelik kapalı alana sahip fabrikasında üretmektedir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Packet Burger",
+    "description": "Packet Burger2013 yılında kurulmuş olan Packetburger Gıda San. Tic. A.Ş. bünyesindeki restoran zinciri markasıdır.Firma Kocaeli merkezlidir ve 50’ye yakın şubeye sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

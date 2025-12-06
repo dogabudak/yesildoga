@@ -1,0 +1,44 @@
+[
+  {
+    "company": "KG International",
+    "description": "KG, 1968 yılında Kedar Gupta tarafından kurulan KG International FZCO bünyesindeki rulman markasıdır.Dünyada 5 kıtada ve 50 den fazla ülkede satılmaktadır.KG International FZCO Birleşik Arap Emirlikleri merkezlidir.Bünyesindeki markalar:FAGKBCNTNKGHIWINBONFIGLIOLI",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Hobby Caravan",
+    "description": "Hobby Caravan, 1967 yılında Harald Striewski tarafından kurulan Harald Striewski GmbH bünyesinde üretilen karavan markasıdır.Dünyanın en büyük karavan üreticisidir.Harald Striewski GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Okuma CNC",
+    "description": "Okuma, 1898 yılında Eiichi Okuma tarafından kurulan Okuma Corporation bünyesindeki CNC takım tezgahları markasıdır.Bilgisayar sayısal kontrolleri (CNC) ve işleme teknolojisinin geliştirilmesinde dünya lideridir. Okuma markalı ürünler otomotiv, havacılık ve savunma, inşaat ve tarım ekipmanları, petrol ve enerji, tıbbi, kalıp ve kalıp ve akışkan güç endüstrilerinde kullanılmaktadır.Okuma Corporation Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2020-05-08"
+  },
+  {
+    "company": "Paloxin",
+    "description": "Paloxin, Sunum Marka Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen diş bakımı ürünleri, kozmetik ürünleri, sabunlar, beyazlatma ve temizlik amaçlı maddeler, aşındırıcı ürünler, deri, vinil, metal ve ahşap için parlatma ve bakım ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Organicadent",
+    "description": "Organicadent, 2015 yılında kurulan Organica Natural Dış.Tic. Ltd. Şti. bünyesinde organik tarım ile elde edilen içerikler kullanılarak üretilen diş macunu markasıdır.Ürünleri İslami şartlara uygun olarak hazırlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

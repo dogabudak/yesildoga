@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Breville",
+    "description": "Breville, 1932 yılında Breville Group bünyesinde kurulan küçük ev aletleri markasıdır.Ürünleri arasında; kahve makinesi, gıda işlemcileri, ızgara, tost makinesi ve fırın gibi aletler bulunmaktadır.Avustralya merkezli Breville Group şirketinin, Birleşik Krallık’taki sahibi Amerikan Newell firmasıdır. Diğer ülkelerde ise Breville yerel ortaklıklarla çalışmaktadır.Bünyesindeki markalar:BervilleSage",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": "2020-05-21"
+  },
+  {
+    "company": "Touch Me",
+    "description": "Touch Me , 1997 yılında Mehmet Demir tarafından kurulan Depa Elektronik Sanayi ve Ticaret A.Ş. tarafından üretilen elektrikli ve elektriksiz küçük ev aletleri markasıdır.Yerli sermayeli şirket ürünlerin bir kısmını Çin’de bir kısmını Türkiye’de üretiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bari",
+    "description": "Bari, 2002 yılında kurulan; ev pişirme gurubu, ankastre ve küçük ev aletleri markasıdır.Bari , Mehmet Demir tarafından yerli sermaye ile kurulan Depa Elektronik Sanayi ve Ticaret A.Ş. tarafından üretilen markadır. Ürünlerin bir kısmı Çin’de bir kısmı Türkiye’de üretiliyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tassar",
+    "description": "Tassar , 1976 yılında kurulan; kristal, cam, porselen, seramik, metal ve ahşaptan oluşan mutfak ürünleri ve dekoratif ev eşyaları markasıdır.Yerli firmanın 15 bin metrekare kapalı alan üzerine kurulu üretim kompleksine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Telefox",
+    "description": "Telefox , 1972 yılında kurulan Can Holding bünyesinde bulunan Tectone firması altındaki; televizyon, uydu sistemleri, küçük ev aletleri ve soğutucu markasıdır.Tectone firması yüzde yüz yerli sermaye ile yönetiliyor. Ürünlerin tasarımları ve testlerini kendi tesislerinde gerçekleştiriyor, kalıp ve patentleriyle çok sayıda ürüne Türk Malı damgası vuruyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-03-19"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Lost Box",
+    "description": "“Lost Box“2007 yılında kurulmuş olan Real Optik Musa Tokluoğlu bünyesindeki gözlük ipi, gözlük bezi, gözlük kılıfı, gözlük standı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kokola",
+    "description": "“Kokola“1973 yılında kurulmuş olan PT. Mega Global Food Industry bünyesinde üretilen bisküvi ve gofret markasıdır.FSSC 22000, BRC ve Helal belgelerine sahiptir.PT. Mega Global Food Industry Endonezya merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "BRC"
+    ],
+    "parent": null,
+    "origin": "ID",
+    "updated_date": null
+  },
+  {
+    "company": "Liggo",
+    "description": "“Liggo“2015 yılında kurulmuş olan Okan Sport Toptan Tekstil ve Spor Malzemeleri San. Tic. Ltd. Şti. bünyesindeki antrenman çanakları, çantaları, çemberleri, hunileri, kaprileri, merdivenleri, setleri, şortları, tişörtü, yelekleri, çorap konç tozluk, fitness eldiveni, forma takımları, kaleci malzemeleri, lapa ellikler, mma eldivenleri, sporcu akseuarları, tekmelikler, voleybol dizlikleri, voleybol taytları, yağmurluklar, yüzme bonesi, yüzme gözlükler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Palladio",
+    "description": "“Palladio“1999 yılında kurulmuş olan Palladio Beauty Group bünyesindeki kozmetik ve cilt bakım ürünleri, saç, tırnak ve salon malzemeleri, tırnak bakım ürünleri markasıdır.Palladio Beauty Group Amerika merkezlidir ve ürünlerini 45’ten fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;PalladioProbelle",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tomzn",
+    "description": "“Tomzn“2002 yılında kurulmuş olan Yueqing Tongzheng Electric Co. Ltd. bünyesinde üretilen aşırı gerilim koruyucuları, akıllı ev cihazları, elektrik sayaçları, güç kaynakları, gerilim İzleme röleleri, sigortalar, minyatür devre kesici, kaçak akım devre kesici, şalter ayırıcı, devre kesici aksesuarı, enerji ölçerler, kontaktörler, spd, pv kombinasyon kutusu markasıdır.ISO 9001 belgesine sahiptir.Yueqing Tongzheng Electric Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

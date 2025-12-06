@@ -1,0 +1,44 @@
+[
+  {
+    "company": "LaVital",
+    "description": "LaVital, 1989 yılında kurulan Anadolu Akvaryum ve Pet Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen kedi ve köpek mamaları markasıdır.Anadolu Pet’in satışını gerçekleştirdiği ürün grupları arasında; kedi ve köpek maması, akvaryum ve malzemeleri, aksesuarlar veya oyuncaklar, balık ve kuş vb. yemler ve veteriner tıbbi ürünler yer almaktadır.LaVital ürünleri İtalya’da Effeffe Pet Food tarafından üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Moderna",
+    "description": "Moderna, 1932 yılında Gabriel Saelen tarafından kurulan Moderna Products NV bünyesinde üretilen evcil hayvanlar için plastik ürünler markasıdır.Moderna Products NV Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Tetra",
+    "description": "Tetra, 1950 yılında Ulrich Baensch tarafından kurulmuş olan Tetra Gmbh bünyesindeki akvaryum için ısıtıcı, filtre, hava motoru, ekipmanlar, balık yemleri, su bakım ürünleri markasıdır.Tetra Gmbh 2005 yılında, Amerika merkezli tüketici ürünleri grubu Spectrum Brands Inc. şirketi tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-01-26"
+  },
+  {
+    "company": "Ehiem",
+    "description": "Ehiem, 1949 yılında Gunther Eheim tarafından kurulan Eheim GmbH & Co KG bünyesindeki akvaryum ürünleri ve akvaryum aksesuarları markasıdır.Şirket çok çeşitli dış filtreler, iç filtreler, gölet filtreleri, su pompaları, akvaryum hava pompaları, filtre malzemeleri, difüzörler, hortumlar, otomatik besleyiciler ve diğer akvaryum aksesuarları üretmektedir.İç ve dış su filtresi, akvaryum balığı için besleyici, akvaryum ısıtıcı, bahçe havuzu için temizleyici çakıl taşı gibi aksesuarlar, özel üretim akvaryumları ile bilgisayar overclock işlemleri için sıvı soğutmalarda akvaryum pompalarını kullanmaktadır.Eheim GmbH & Co KG, Almanya merkezli Deizisau’nun tamamen sahip olduğu bir yan kuruluşudur. Ürünleri 60’tan fazla ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tropic Marin",
+    "description": "Tropic Marin, 1964 yılında kurulan Tropic Marin AG bünyesindeki akvaryum ürünleri markasıdır.Ürünleri arasında deniz tuzları, katkı maddeleri (mineraller, bakteriler, beslenme, besin kontrolü) ve akvaryumlar için analiz araçları yer almaktadır.Tropic Marin AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

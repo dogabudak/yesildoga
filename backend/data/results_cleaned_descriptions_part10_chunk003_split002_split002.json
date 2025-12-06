@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Goojitzu",
+    "description": "1985 yılında kurulmuş olan Moose Enterprise Pty. Ltd. bünyesindeki karakter figürleri, hayvan figürleri, erkek oyun setleri markasıdır.Moose Enterprise Pty. Ltd. Avustralya merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Itv Ctm",
+    "description": "Itversia Gestion SL bünyesindeki araç muayene istastyonları markasıdır.Itversia Gestion SL İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "MadeIn",
+    "description": "2017 yılında kurulmuş olan Boston Foundry Inc. bünyesindeki mutfak gereçleri markasıdır.Tencereler, tabaklar, bardaklar, bıçaklar, aksesuarlar sunmaktadır.Boston Foundry Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "IntraCross",
+    "description": "2000 yılında kurulmuş olan İntraline İlaç Sağlık Hizmetleri İthalat İhracat San. Tic. A.Ş. bünyesindeki eklem sağlığı ve takviye edici gıda markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alltion",
+    "description": "1995 yılında kurulmuş olan Alltion Co. Ltd. bünyesinde üretilen diş mikroskop, cerrahi aletler, tıbbi aletler, tam fonksiyonlu kamera markasıdır.Alltion Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

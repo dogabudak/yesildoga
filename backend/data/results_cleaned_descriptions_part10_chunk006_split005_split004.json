@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Emkotech",
+    "description": "1979 yılında kurulmuş olan Emko Emaye A.Ş. bünyesinde üretilen akıllı tahtalar, eğitim teknolojileri aksesuarları, hibrit sistemler markasıdır.Firma İstanbul merkezlidir ve ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sadık Eryılmaz",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nivgross",
+    "description": "2020 yılında kurulmuş olan Nivgross Toptan Market San. ve Tic. Ltd. Şti. bünyesindeki market markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avapow",
+    "description": "2023 yılında kurulmuş olan Shenzhen Jucaihui E-Commerce Co. Ltd. bünyesinde üretilen araç akü takviyeleri markasıdır.Shenzhen Jucaihui E-Commerce Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sewak-H",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

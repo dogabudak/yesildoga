@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kemove",
+    "description": "2015 yılında kurulan Shenzhen Kailifeiya Trading Co. Ltd. bünyesinde üretilen ledli mekanik klavyeler, oyuncu klavyeleri markasıdır.Shenzhen Kailifeiya Trading Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vijim",
+    "description": "2015 yılında kurulan Shenzhen Ulanzi Technology Co. Ltd. bünyesinde üretilen tripodlu ve kumandalı ring ışık seti markasıdır.Shenzhen Ulanzi Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Food Elite",
+    "description": "2014 yılında kurulmuş olan Promax Petfood Dış Tic. Ltd. Şti. bünyesinde üretilen kedi ve köpek kuru mamaları markasıdır.ISO 9001, ISO 22000, ISO 22716, ISO 14001 ve ISO 45001 belgelerine sahiptir.Firma Adana merkezlidir ve ürünlerini Kozan OSB’de 11 bin metrekarelik alana sahip üretim tesisinde üretmektedir ve 25’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;Beyers Türkiye",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Parsec",
+    "description": "2005 yılında kurulmuş olan Unity Software Inc. bünyesindeki video akışı yoluyla oyun oynamak için kullanılan bir uzak masaüstü uygulamasıdır.Uygulamayı kullanan bir kullanıcı, oyunu bir bilgisayarda çalıştırmasına, ancak başka bir cihaz üzerinden uzaktan oynatmasına izin vererek, bir internet bağlantısı üzerinden video oyunu görüntüleri yayınlayabilir.Unity Software Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bedirhan Kahve",
+    "description": "1965 yılında temeli atılan Bedirhan Kahve San. ve Tic. Ltd. Şti. bünyesindeki hazır kahve, filtre kahveler markasıdır.Firma Manisa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Vetements",
+    "description": "Vetements, 2014 yılında Demna Gvasalia tarafından kurulan Matchesfashion Limited bünyesinde üretilen giyim, pantolon, bluz, kravat, palto, takım elbise, ceket, etek, çanta, ayakkabı ve aksesuarlar markasıdır.Erkek ve kadın kıyafetleri tasarlayıp üreten Matchesfashion Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Hypergear",
+    "description": "Hypergear, 1991 yılında kurulan ContiTech AG bünyesinde üretilen esnek hortum, metalik olmayan hidrolik hortum markasıdır.ContiTech AG, Lastik endüstrisi dışındaki dünyanın en büyük kauçuk ve plastik ürün üreticilerinden biridir.ContiTech AG, 43 ülkede 202 konumda faaliyet gösteren Almanya merkezli Continental AG’nin bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Güneşoğlu",
+    "description": "Güneşoğlu Nerenin Malı MarkasıGüneşoğlu, 1964 yılında Aziz Üzeyir Güneş tarafından kurulan Güneş Süt Mamulleri Koll. Şti. bünyesinde üretilen ayran, beyaz peynir, kaşar peyniri, krem peynir, lor peyniri, tereyağı, yöresel peynirler, yoğurt, ev dışı toplu tüketim ürünleri markasıdır.ISO 9001, ISO 22000, Helal ve Tayyib belgelerine sahiptir.Ürünlerini Sakarya 3. OSB tesisinde üretmektedir.Yoğurt ihracatı ile Ortadoğu pazarına Irak ile giriş yaptı.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soundmagic",
+    "description": "Soundmagic, 2005 yılında Tony Xu tarafından kurulan K&S Technology Limited bünyesindeki kulaklık markasıdır.K&S Technology Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Nazar",
+    "description": "Nazar, 1996 yılında kurulan Saadet Gıda A.Ş. bünyesinde üretilen sakız markasıdır.Çilek aromalı, damla aromalı, nane aromalı, tropikal meyve aromalı, karpuz aromalı, şeftali aromalı, karışık aromalı, orman meyveleri aromalı, mandalina bergamot aromalı, çilek muz aromalı, mango portakal aromalı, çilek vanilya aromalı, böğürtlen limon aromalı, muz aromalı, tarçın aromalı, vişne aromalı, kavun aromalı, portakal aromalı şekersiz ve tatlandırıcılı sakızlar üretmektedir.İstanbul’da üretim yapan firma, ISO 9001, ISO 22000 ve Helalder Helal Belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

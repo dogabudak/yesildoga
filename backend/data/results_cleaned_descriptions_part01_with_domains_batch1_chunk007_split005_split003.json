@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Indomie",
+    "description": "Indomie, 1972 yılında kurulan Salim Group’a ait olan Indofood bünyesindeki gıda ürünleri markasıdır.Indomie markası Türkiye pazarına, uluslararası yatırımcıların iştiraki ve yüzde 100 yabancı sermaye ile yönetilen ADKOTURK tarafından girmiştir.Indomie, dünyanın 85 ülkesinde var olan Endonezya merkezli bir markadır. Türkiye üretim tesisileri Tekirdağ’dadır. Türkiye’deki ilk Noodle üretim fabrikasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ID",
+    "updated_date": "2020-04-14"
+  },
+  {
+    "company": "Daren",
+    "description": "Daren, 1997 yılında Oğuz Gıda A.Ş. bünyesindeki; karton kutu yüzde 100 meyve suyu, meyve nektarı, meyveli içecek ve meyve aromalı gazlı meşrubat (kola, portakal, gazoz) markasıdır. Türk firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kendor Ülkeye Ait Markadır",
+    "description": "Kendor, 1982 yılında kurulan; maden kırma, öğütme ve seperasyon alanında makine üretimi yapan bir markadır.Kendor Makine, ihtiyaca yönelik özel makine tasarım ve üretimi gerçekleştiren; Kazakistan, Özbekistan, Tacikistan, Suriye İran ve Peru gibi dünyanın bir çok ülkesinde iş yapan bir Türk markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Furla",
+    "description": "Furla, 1927 yılında Aldo ve Margherita Furlanetto tarafından kurulan Furla Spa bünyesindeki çanta, kemer, ayakkabı, saat ve aksesuar markasıdır.Ürünlerini 71 ülkeye ihraç etmektedir.Genel merkezi İtalya’da bulunan Furla’nın ABD, Fransa, Japonya, Çin ve Kore’de 5 yan kuruluşu bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2020-06-28"
+  },
+  {
+    "company": "Supermicro",
+    "description": "Supermicro, 1993 yılında kurulan bilgi teknolojileri şirketidir.Supermicro veri merkezi, bulut bilişim, kurumsal BT, big data, yüksek performanslı bilişim ve gömülü sistemler alanlarında uçtan uca yeşil bilişim çözümleri geliştiren ve sağlayan bir firmadır.İşlemlerini başlıca Amerika’daki genel merkezi ve Tayvan ile Hollanda’daki iştirakleri aracılığıyla gerçekleştiren bir Amerikan şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

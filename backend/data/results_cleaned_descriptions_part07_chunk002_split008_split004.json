@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ebac",
+    "description": "Ebac, 1972 yılında John Elliott MBE tarafından kurulan Ebac Group Ltd. bünyesinde üretilen endüstriyel ve evsel nem alma cihazları, su soğutucuları ve çamaşır makinesi markasıdır.Firma ayrıca su ve elektrik kullanımını en aza indirdiği kanıtlanmış çamaşır makineleri üretmektedir.Ebac Group Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Doluca",
+    "description": "Doluca, 1926 yılında Nihat Ahmet Kutman tarafından kurulan Doluca A.Ş. bünyesinde üretilen şarap markasıdır.İstanbul merkezli firma ürünlerini Tekirdağ’da 30 bin metrekaresi açık 22 bin metrekaresi kapalı olmak üzere toplam 52 bin metrekarelik alanda bulunan üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eurocam Monitor",
+    "description": "Eurocam, 2017 yılında kurulan GD Güvenlik Elektronik ve Bilişim Sistemleri San. Dış Tic. Ltd. Şti. bünyesinde ithal edilen monitör, ağ ve bağlantı ekipmanları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Silka Silgi",
+    "description": "Silka, 2017 yılında kurulan Silka Kırtasiye İmalat san. ve Tic. Ltd. Şti. bünyesindeki silgiler, kalemler, kalem tutma aparatları, boya çeşitleri markasıdır.CE, ISO 9001 EN-71-1-2-3 belgelerine sahiptir.İstanbul merkezli firma ürünlerini Arnavutköy’de bulunan 10 bin metrekarelik fabrikasında üretmektedir.Bünyesindeki markalar;KalySilgySilka",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mega Hafıza",
+    "description": "Mega Hafıza, 2000 yılında kurulan Mega Hafıza Eğitim Hizmetleri ve Gıda Ürünleri Ltd. Şti. bünyesindeki eğitim setleri, hizmetleri, yazılımları markasıdır.Şirketin eğitim setleri, kitaplar, yazılımlar dışında, sıvı balık yağ ve vitaminler gibi ürünleri bulunmaktadır.Firma Ankara merkezlidir.Bünyesindeki markalar;A.S.I.T.Akıl OyunlarıAkıl OyunuAkli GözAktif OkumaAmerıcan Memory InstıtuteAmerikan Hafıza EnstitüsüAnzanBeyin Gücünüzü KeşfedinBeyin HaritalarıBeyin HaritasiBeyinden Beyine SatışBeynin Satın Alma Sürecini KeşfedinBeyninizdeki Dehayı KeşfedinBeyninizdeki Kilidi AçınBilgimatikBio-Ritmik LargoBrainobicsÇocuk Zeka Ve HafızaDahi Çocuk MerkeziEyeqmapEyeqmap MapEyeqreaderFinger MathFingermathFingermatikFotografik Hafıza TeknikleriFotografik İsim SembolleriFotografikokumaGenç HafızaHafıza ÇivileriHafıza EğitimiHafıza MerkeziHafıza Teknikleriyle İngilizceI.Q. Gıda ÜrünleriIQ AkademiIQ AritmetikIQ MapIQ MatematikIQ Vitaminİsimler ve Yüzler İçin Hafıza GücüKavram HaritalarıMega AbaküsMega Aktif OkumaMega AritmetikMega BeyinMega BilinçaltıMega EğitimMega EnglishMega HafızaMega Hafıza KolejiMega Hafıza Mega EğitimMega HafizaMega Hızlı OkumaMega İngilizceMega MatematikMega Mental AritmetikMega ParagrafMega SorobanMega VitaminMega Vitamin MemomaxMegadıalogueMegamatikMegamin VitaminMega-O-MegaMegashopMegaspeechMegasuggestopedıaMegavita-MegaminMegawordsMegazekaMemomaxMemoriadMental AritmetikMental HaritaMental HaritalarMental MapMental MapsMinimaxMr MemoryNöro AritmetikParitmetikPhotographic MemoryPrep 2 GoPrep 2 TalkSmartbrainSorobanSoroban Mental AritmetikZeka MerkeziZeka Oyuncakları MerkeziZeka Oyunları MerkeziZhncllZihin HaritalarıZihin HaritasiZihinsel Matematik Ve Hafıza Teknikleri",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

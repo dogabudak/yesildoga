@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Inter Rao",
+    "description": "Inter Rao, 1997 yılında kurulan Inter RAO Group bünyesindeki enerji şirketidir.Azerbaycan, Beyaz Rusya, Çin, Finlandiya, Gürcistan, Kazakistan, Litvanya, Norveç, Letonya, Estonya, Polonya, Moğolistan’a elektrik tedarik etmektedir.Rusya merkezli Inter RAO Rusya’da önde gelen bir enerji ihracat ve ithalat operatörüdür.Elektrik ve ısı üretimi, elektrik tedariki, uluslararası enerji ticareti, mühendislik, tasarım ve elektrik altyapısının tasarımı ile ilgilenmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Levent Lostra",
+    "description": "Levent Lostra, 1975 yılında kurulan 3A Ayakkabı Yan San. İç ve Dış Tic Paz. LTD. ŞTİ. bünyesinde dünyaca ünlü markaların satış sonrası tamir ve bakım hizmetini sağlayan lostra hizmetidir.Ayakkabı, terlik, bot, çizme, chaps, çanta, cüzdan, kemer, bavul, mont, koltuk, deri ve deri ürünlerin tamir ve bakım hizmetini sağlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cleanlux",
+    "description": "Cleanlux, 2016 yılında kurulan Cleanlux Mis Doğa Organik Kuru Temizleme Ltd. Şti. bünyesindeki ekolojik temizleme hizmeti markasıdır.Cleanlux, Electrolux işbirliği ile yüzde 100 doğal ve çevreci bir temizleme hizmeti vermektedir. Su ve özel biyoçözünür deterjan kullanılarak Electrolux marka profesyonel makinelerde ürünler temizlenip ütülenmektedir.Bu sistemin kurucusu İsveç merkezli Electrolux Lagoon Advance Care Wet Cleaning’tir. Cleanlux Electrolux’ün Türkiye iş ortağıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Candy",
+    "description": "Candy, 1945 yılında Eden Fumagalli tarafından kurulan Candy Group S.p.A. bünyesindeki beyaz eşya markasıdır.Rusya, Çin ve Türkiye’deki tesisleriyle dünyada 3 coğrafi alana ayrılmıştır. Ayrıca İran’da üretim tesisleri işletmektedir.Candy Group S.p.A. Çinli ev aletleri üreticisi Haier iştirakidir.Candy grubu 2007 yılında Doruk Ev Gereçleri’ni satın alarak Türkiye pazarına girdi. Ürünlerinin bir kısmını Çin’de bir kısmını iste Türkiye’deki fabrikasında üretiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Neff",
+    "description": "Neff, 1967 yılında kurulan BSH Hausgerate bünyesindeki pişirici, buzdolabı, dondurucu, ocak, bulaşık makinesi markasıdır.BSH Hausgerate’nin Türkiye’deki iştiraki BSH Ev Aletleri Sanayi ve Ticaret A.Ş., 1992 yılından beri faaliyet göstermektedir.Almanya merkezli BSH ürünleri 48 ülkedeki 80 şirketiyle tüketicilere ulaştırılıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

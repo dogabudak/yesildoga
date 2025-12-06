@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Naxis Implant",
+    "description": "Naxis Implant, Naxis Medical Gmbh bünyesindeki her türlü diş ürünleri ve diş protezleri markasıdır.Diş protezi ve restorasyonunda kullanılmak üzere diş implantları, aletleri üretmektedir.Naxis Medical Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mesko Home",
+    "description": "Mesko Home, 1991 yılında kurulan Adler Sp. z o.o. bünyesinde üretilen ev aletleri, mutfak gereçleri, ses sistemleri, su ısıtıcısı markasıdır.Firma; su ısıtıcısı, ütü, karıştırıcı, meyve sıkacağı, ızgara, terazi, radyo, fırın, kahve makinesi, tost makinesi, kulaklık, Bluetooth hoparlör, kurutucu, traş makinesi, elektrikli süpürge ve diğer birçok ev aletinde uzmanlaşmıştır.Adler Sp. z o.o. Polonya merkezlidir. Ürünlerini 50 ülkeye pazarlamaktadır.Bünyesindeki markalar;Adler EuropeCamry PremiumMesko Home",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Emge Ölçüm Cihazları",
+    "description": "Emge, 1975 yılında kurulan Emge Elektro Mekanik Gereçler Endüstrisi A.Ş. bünyesinde üretilen analog ve dijital pano tipi ölçü aletleri, alçak gerilim akım trafosu ve emniyet gereçleri, LED’li aydınlatma, elektronik bağlantı elemanları markasıdır.AS9100, ISO 9001 ve TSE belgelerine sahiptir.Ankara merkezli firma ürünlerini 7 bin 300 metrekaresi kapalı, 10 bin metrekaresi açık alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Walterscheid",
+    "description": "Walterscheid, 1919 yılında kurulan Walterscheid Gmbh bünyesindeki pto tahrik milleri, ultra.artı sistemi, güç, traktör bağlantı sistemi, çekişler, yedek parça ve aksesuar, özel aletler, icvd redüktörler, cv milleri ve traktör tarım sistemleri markasıdır.Walterscheid Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Power Tv",
+    "description": "Power Tv, 2014 yılında Cem Hakko tarafından kurulan Power Radyo Reklam ve Yayıncılık A.Ş. bünyesindeki video klip yayınlayan müzik kanalıdır.Bünyesindeki radyo ve televizyonlar:Power DancePower Dance TVPower DeepPower EarthPower FMPower GoldPower GreecePower LovePower Love TVPower Plus TVPower Plus+Power PopPower R&B HiphopPower SmoothPower Smooth JazzPower TVPower XLPowerTürk AkustikPowerTürk Akustik TVPowerTürk DansPowerTürk En İyiler TVPowerTürk EniyilerPowerTürk FMPowerTürk RapPowerTürk SlowPowerTürk Slow TVPowerTürk TVPowerTürk TaptazePowerTürk Taptaze TVRadyo Fenomen",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

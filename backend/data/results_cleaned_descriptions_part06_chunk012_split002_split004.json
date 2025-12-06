@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Jako Spor Giyim",
+    "description": "Jako, 1989 yılında Rudi Sprugel tarafından kurulan Jako AG bünyesindeki spor giyim ürünleri, formalar, spor şortları, çoraplar, spor çantaları, spor malzemeleri markasıdır.Ürün yelpazesinin odak noktası futboldur.Jako AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Derminix",
+    "description": "Derminix, 2020 yılında kurulan Denizcan Kozmetik İthalat İhracat Ltd. Şti. bünyesindeki serumlar, cilt bakım ürünleri, vücut bakım ürünleri, bronzlaştırıcı güneş yağları, saç bakımı ürünleri markasıdır.Ürünleri Paraben ve SLS içermez. Hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nspa",
+    "description": "Nspa, 1933 yılında Gottlieb Duttweiler tarafından kurulan Mibelle Group Brands bünyesinde üretilen yaşlanmanın ilk belirtilerini hedef alan bir cilt bakım ürünleri markasıdır.Mibelle AG İsviçreli perakende grubu Migros’un bir şirketidir. 5 ülkede 9 üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Rohto",
+    "description": "Rohto, 1949 yılında Yasutami Yamada tarafından kurulan Rohto Pharmaceutical Co. Ltd. bünyesinde üretilen göz bakım ürünleri, göz damlası, ilaçlar, kozmetik ürünler, cilt bakım ürünleri, deodorantlar, şampuanlar markasıdır.Rohto Pharmaceutical Co. Ltd. Japonya merkezlidir. Japonya’da iki üretim tesisi ve ABD, İngiltere, Çin, Vietnam, Hong Kong ve Endonezya’da birer üretim tesisi bulunmaktadır. Ürünlerini 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Alessandro International",
+    "description": "Alessandro International, 1989 yılında kurulan Alessandro International Gmbh bünyesindeki tırnak cilası, el, cilt kozmetikleri markasıdır.Alessandro International Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

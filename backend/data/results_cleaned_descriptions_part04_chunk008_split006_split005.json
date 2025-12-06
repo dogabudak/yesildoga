@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Hilook",
+    "description": "Hilook, 2001 yılında kurulan Hangzhou Hikvision Digital Technology Co., Ltd. bünyesinde üretilen çok çeşitli temel güvenlik ihtiyaçları için canlı görüntüleme, video kaydı, uzaktan arama ve oynatma, dosya yedekleme, planlı depolama ve alarm yönetimi markasıdırHangzhou Hikvision Digital Technology Co., Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kobo",
+    "description": "Kobo, 2009 yılında Michael Serbinis tarafından kurulan Kobo Inc. bünyesindeki e-kitap, e-okuyucular, sesli kitaplar, tablet bilgisayarlar, okuma uygulamaları markasıdır.Kobo Inc. 2012 yılında Japonya merkezli Rakuten Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Craft and Arts",
+    "description": "Craft and Arts, 2004 yılında kurulan Umur Kırtasiye A.Ş. bünyesindeki hobi, sanat ürünleri, boyama ve dosyalamaya, yazı gereçleri, ofis aksesuarları markasıdır.Ürün yelpazesinde şekilli kesen delgeç, makas, kağıt üzerinde desen yapan ürünler, sünger baskıları, pastel, sulu ve parmak boyaları gibi ürünler yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cubo Boya",
+    "description": "Cubo Boya, 1994 yılında kurulan Başergün Boya ve Kimya İnş. San. Tic. A.Ş. bünyesinde üretilen boya ve yapı kimyasalları markasıdır.Antalya OSB 2. ve 3. kısımlarda bulunan tesislerinde ve Trabzon’da bulunan tesisinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Opticon",
+    "description": "Opticon, 1976 yılında kurulan otomatik kimlik barkod tarama, elektronik raf etiketleme ve dijital tabela markasıdır.1D ve 2D barkod tarama motorları, el tarayıcıları (kablolu ve kablosuz), mobil cihazlar, eşlik eden tarayıcılar (Bluetooth ve toplu) ve barkod veri toplama ve tarama için aksesuarlar üretmektedir.Ürünlerini ISO 9001 sertifikalı tesislerde tasarlar ve üretir.Hollanda merkezli Opticon, Optoelectronics Co. Ltd (Japonya), Opticon Sensors Europe BV (Hollanda) ve Opticon Inc.’den (Amerika) oluşan dünya çapında bir şirketler ailesidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

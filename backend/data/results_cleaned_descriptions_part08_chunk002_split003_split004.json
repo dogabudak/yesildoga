@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Weldaway",
+    "description": "Weldaway Deep Innovation For Welders, 2018 yılında kurulmuş olan Timark Makine San. ve Tic. A.Ş. bünyesinde üretilen kaynak pensesi, kaynak makinesi, kaynak malzemesi markasıdır.Firma Manisa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vip International Bant",
+    "description": "Vip International, 2018 yılında Mesut Ongun tarafından kurulmuş olan Vip International Medikal Kozmetik İç ve Dış Tic. Ltd. Şti. bünyesindeki medikal bantlar markasıdır.ISO 9001, ISO 10002, GMP, Helal Belgelerine sahiptir.Firma Mersin merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Madetoll",
+    "description": "Madetoll, 2016 yılında kurulmuş olan Cmb İlaç Gıda İnşaat Dış Tic. Ltd. Şti. bünyesindeki cilt krem ve losyon markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Howen Technologies",
+    "description": "Howen Technologies, 2008 yılında kurulmuş olan Howen Technologies Co. Ltd. bünyesinde üretilen araç güvenlik çözümü, cctv çözümü, proje yönetimi, mobil dvr, mobil dvr, filo sevk yönetimi çözümü, araç cctv, mobil veri terminali, filo uzaktan gerçek zamanlı izleme, endüstriyel 3g / lte wifi yönlendirici, filo yönetim sistemi, ai teknolojisi ve dms + adas markasıdır.Howen Technologies Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünleri 90’dan fazla ülkede kullanılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Muggle Bag",
+    "description": "Muggle Bag, 1986 yılında kurulmuş olan Şahin Kırtasiye Hırdavat Tic. Ltd. Şti. bünyesindeki çanta markasıdır.Firma İstanbul merkezlidir. Ürünlerini 23 ülkeye ihraç etmektedir.Bünyesindeki markalar;AihaoFrocxMbagMballMikroMuggle BagOnasPantherTiko",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

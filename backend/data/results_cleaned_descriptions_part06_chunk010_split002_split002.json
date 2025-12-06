@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Yeniun Tatlılık",
+    "description": "Yeniun Tatlılık Nerenin Malı MarkasıYeniun, 2004 yılında kurulan Kore Köse Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen irmik, irmik altı un, baklavalık un, kadayıflık un, lokmalık un, mısır unu, tatlılık un, tulumbalık un markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Gaziantep Merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Husky Beast",
+    "description": "Husky, 1997 yılında kurulan Husky CZ S.R.O. bünyesindeki dış mekan kıyafetleri, çadırlar, uyku tulumları, uyku paspasları, çantalar ve aksesuarlar markasıdır.Husky CZ S.R.O. Çek Cumhuriyeti merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Haval",
+    "description": "Haval, 2013 yılında kurulan Great Wall Motor Co. Ltd. bünyesinde üretilen spor araçlar markasıdır.Great Wall Motor Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 60’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;GwmHavalOraWey",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-09-21"
+  },
+  {
+    "company": "Fümer",
+    "description": "Fümer, 1988 yılında kurulan Özmer Pastacılık ve İçecek Ürünleri San. Paz. Turizm ve Dış Tic. A.Ş. bünyesinde üretilen kokteyl şurupları, çikolata kokteyl şurubu, meyve aromalı şuruplar, içecek ve pastacılık için çeşitli şuruplar markasıdır.TSE ISO EN 9000, ISO 9001, ISO 22000 belgelerine sahiptir.Firma Kocaeli merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yukon Advanced Optics",
+    "description": "Yukon Advanced Optics, 1994 yılında kurulan Uab Yukon Advanced Optics Worldwide bünyesindeki klasik ve kompakt dürbün, gece manzaraları, gece görüş dürbün, gece görüş gözlüğü, mesafe ölçer, fener için ir aydınlatma ve aksesuarlar markasıdır.Uab Yukon Advanced Optics Worldwide Litvanya merkezlidir. Ürünlerini Litvanya, Rusya, Çin ve Beyaz Rusya’da üretmekte ve 70’ten fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;PulsarYukon Advanced Optics",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LT",
+    "updated_date": null
+  }
+]

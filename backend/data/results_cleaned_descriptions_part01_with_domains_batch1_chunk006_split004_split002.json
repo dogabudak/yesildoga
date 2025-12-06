@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Lifan",
+    "description": "Lifan, 1992 yılında Yin Mingshan tarafından kurulan otomotiv şirketidir.Ürünleri arasında binek otomobil, mikrovan, motosikletler ve ticari kamyon bulunan Çin merkezli bir şirkettir. Ayrıca spor ayakkabı ve şarap üretimi de yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nimo",
+    "description": "Nimo1984 yılında kurulan Hünkar Ecza ve Medikal San. ve Tic. Ltd. Şti. bünyesindeki nebulizatör ürünleri markasıdır.Firma Denizli merkezlidir. Ürünlerini 35’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;Antı.MDorukEceGölgeHaitiJazzMerryNimoNimomedRosySwanZirve",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-07-13"
+  },
+  {
+    "company": "Bebedor",
+    "description": "Bebedor, 1984 yılında kurulan; bebek ihtiyaç ve bakım ürünlerinin üretilmesi, ithalatı, dağıtımı ve ihracatı üzerine çalışan Birlik Dış Ticaret A.Ş. bünyesindeki markadır.Bébé D’or markasına sahip Türk firması Birlik; biberondan göğüs pompasına, bebek arabasından bebek kozmetiğine birçok ürünü bünyesine katarak, ürün gamını genişletmekte ve 25 ülkeye dağıtım yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2018-10-04"
+  },
+  {
+    "company": "Bioderma Firmanın",
+    "description": "Bioderma, 1977 yılında eczacı olan Jean Noel Thorel tarafından kuruldu.Bioderma Fransa merkezli bir markadır.Laboratories Bioderma 90’dan fazla ülkede ürünleri satılıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Powertec Traş Fön Makinesi",
+    "description": "Powertec Traş Fön Makinesi Hangi ÜlkeninPowertec, 2007 yılında kurulan Beşir Saygılı Elektrikli Aletler Kuaför Mal. İml. San. ve Tic. Ltd. Şti. bünyesinde ithal edilen traş ve fön makinesi markasıdır.Ankara merkezli firma ürünlerini Çin merkezli Ningbo HomeBeauty Electrical Appliances Co. Ltd.’ye ürettirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-04-14"
+  }
+]

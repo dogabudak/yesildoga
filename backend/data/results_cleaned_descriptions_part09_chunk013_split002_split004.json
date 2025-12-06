@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Fortiche Production",
+    "description": "2009 yılında Jérôme Combe, Pascal Charrue ve Arnaud Delord tarafından kurulmuş olan Fortiche Production SAS bünyesindeki reklamlar, müzik videoları, video oyunları ve çeşitli dijital içerikler için 3D animasyon ve görsel efektler oluşturan animasyon stüdyosudur.Fortiche Production SAS Fransa merkezlidir. Çinli şirket Riot Games Inc. tarafından azınlık hisseleri satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Keff",
+    "description": "1958 yılında kurulmuş olan Sano ınternational Ltd. bünyesinde üretilen banyo ve duş bakım ürünleri markasıdır.Şirket çamaşır ürünleri, bulaşık yıkama sıvıları, dezenfektan, oda spreyi, tuvalet temizlik ürünleri ve böcek öldürücüler dahil olmak üzere çok çeşitli temizlik ve bakım ürünleri üretmektedir.ISO 14001 belgesine sahiptir.Sano ınternational Ltd. İsrail merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Moreno Silk",
+    "description": "2012 yılında kurulmuş olan Morenosilk Tekstil Tic. Ltd. Şti. bünyesindeki yün ipek ve pamuk ipek şallar, eşarplar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Macromax",
+    "description": "2022 yılında kurulmuş olan Ersofer Temizlik Tüketim Ürünleri San. Tic. Ltd. Şti. bünyesindeki temizlik bezleri, temizlik setleri, temizlik sistemleri, çöp torbası, elbise askısı, eldiven, mutfak yardımcıları, sünger ve ovma ürünleri, yedek mop, paspas, sap markasıdır.Firma İstanbul merkezlidir ve ürünlerini Adana’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Geomedi",
+    "description": "2013 yılında kurulmuş olan Geomedi Co. Ltd. bünyesinde üretilen dental CAD-CAM abutmentleri, implant protezleri markasıdır.ISO 13485, GMP belgelerine sahiptir.Geomedi Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

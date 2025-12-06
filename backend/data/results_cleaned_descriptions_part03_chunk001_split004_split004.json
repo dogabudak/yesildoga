@@ -1,0 +1,50 @@
+[
+  {
+    "company": "ECE",
+    "description": "ECE, 1965 yılında kurulan ECE Projektmanagement G.m.b.H. & Co. KG, bünyesindeki avm geliştirici, uygulayıcı, kiralayıcı ve işleticisidir. Otto ailesinin holding şirketi CURA Asset Management’a aittir.CURA Asset Management Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Olix",
+    "description": "Olix, 2012 yılında kurulan Telefonju Bilişim Hizmetleri Ltd. Şti. bünyesindeki telefon kılıfı, telefon şarj aleti, telefon bataryası, taşınabilir şarj cihazı, ekran koruyucu camlar ve telefon kulaklığı markasıdır.Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Corendon Airlines",
+    "description": "Corendon Airlines, 2005 yılında kurulan Turistik Hava Taşımacılık A.Ş. bünyesindeki hava yolu operatörü markasıdır.Corendon Airlines, ilk uçuşunu 12 Nisan 2005’te Eindhoven’dan İstanbul Sabiha Gökçen Havalimanı’na gerçekleştirmiştir. Corendon Airlines, 45 ülke ve 145 havaalanına uçan ve yılda yaklaşık 2,5 milyon yolcu taşıyan uluslararası bir havayolu şirketidir.Hollanda bayraklı 3 uçak ile Hollanda’dan Avrupa’nın birçok ülkesine uçuşlar düzenlemektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-04-27"
+  },
+  {
+    "company": "Kafkas Jewellery",
+    "description": "Kafkas Jewellery, 1950 yılında Fazıl Kırgız tarafından kurulan Kafkas Kuyumculuk Mücevherat Sanayi ve Tic. Ltd. Şti. bünyesindeki mücevher markasıdır.Kafkas, koleksiyonlarını İstanbul’da 5 mağazada sergilemektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Foxit Reader",
+    "description": "Foxit Reader, 2001 yılında Çinli Eugene Y. Xiong tarafından kurulan Foxit Software bünyesindeki PDF yazılım ürünleri markasıdır.Foxit hızlı, uygun fiyatlı ve güvenli PDF çözümleri için üç pazara hitap eder. Bunlar masaüstü yazılımları, mobil uygulamalar ve bulut hizmetleridir. Kullanıcıların herhangi bir cihazda belge oluşturmasına, işbirliği yapmasına, paylaşmasına ve kullanmasına olanak tanır.Foxit Software Amerika merkezlidir.Foxit ürünleri 200’den fazla ülkede kullanılmaktadır.Foxit Software Ürünleri:Foxit IFilterFoxit PDF Security SuiteFoxit PhantomPDFFoxit ReaderFoxit Redactor for OfficeFoxit SDKMobile Scanning SolutionsMobilePDFPDF CompressorPDF ToolkitRendition ServerUltraforms",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

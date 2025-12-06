@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Sakret",
+    "description": "“Sakret“1935 yılında kurulmuş olan Sakret Gmbh bünyesinde üretilen inşaat endüstrisi için yapı malzemeleri markasıdır.Sakret Gmbh Almanya merkezlidir. Marka için 20’den fazla Avrupa ülkesinde ve Orta Doğu’da lisanslar verilmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "1zpresso",
+    "description": "“1zpresso“2017 yılında kurulmuş olan 1zpresso Co. Ltd. bünyesinde üretilen kahve öğütücü, el değirmenleri markasıdır.1zpresso Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Lemkem",
+    "description": "“Lemkem“1985 yılında kurulmuş olan Lem-Kem Oy bünyesindeki güneş enerji sistemleri, elektrikli araç şarjı markasıdır.Lem-Kem Oy Finlandiya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Sougayilang",
+    "description": "“Sougayilang“2011 yılında kurulmuş olan Yiwu Gada Trade Co. Ltd. bünyesinde üretilen olta takımları, olta ipleri markasıdır.Yiwu Gada Trade Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Runva",
+    "description": "“Runva“1997 yılında kurulmuş olan Zhejiang Runva Mechanical & Electrical Co. Ltd. bünyesinde üretilen çeşitli vinçler markasıdır.ISO 9001 belgesine sahiptir.Zhejiang Runva Mechanical & Electrical Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

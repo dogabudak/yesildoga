@@ -1,0 +1,44 @@
+[
+  {
+    "company": "USRobotics",
+    "description": "USRobotics, 1976 yılında kurulan U.S. Robotics Corporation bünyesindeki Modem, kablolu ve kablosuz ağ, VoIP markasıdır.U.S. Robotics Corporation, Amerika merkezli UNICOM Global’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cisco",
+    "description": "Cisco, 1984 yılında Len Bosack ve Sandy Lerner tarafından kurulan Cisco Systems, Inc. bünyesindeki ağ teknolojileri ve yazılım markasıdır.Cisco, 1996 yılında Türkiye pazarına girdi.Amerika merkezli Cisco Systems, Inc. ürün ve hizmetlerini hem doğrudan hem de kanal ortakları aracılığıyla tüketicilere satıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mega Bloks",
+    "description": "Mega Bloks, 1967 yılında Victor ve Rita Bertrand tarafından kurulan Mega Brands Inc. bünyesindeki inşaat oyuncakları, mesaj panoları, aktivite kitleri, sanat malzemeleri, okul malzemeleri, yazma aletleri, ahşap ürünler ve bulmaca ürünleri markasıdır.Mega Brands Inc., 2014 yılında Amerika merkezli Mattel Inc. tarafından satın alındı ve Fisher-Price alt markası olarak satılmaktadır. Ürünler Çin’de üretilmektedir.Bünyesindeki markalar:Board DudesLocker DudesMega BloksMega ConstruxMega PuzzlesRose ArtWrite Dudes",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cabani",
+    "description": "Cabani, 1983 yılında kurulan Antrepo Mağazacılık Hizm. Turizm ve Dış Tic. A.Ş. bünyesindeki Ayakkabı, Aksesuar, Parfüm, Valiz, Çanta, Kemer markasıdır.7 bin 200 metrekarelik modern binasında 41 ülkeye ayakkabı ihracatı yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hammer Jack",
+    "description": "Hammer Jack, 1925 yılında kurulan Eren Otelcilik San. Tic. A.Ş. bünyesindeki su geçirmez, outdoor, erkek, kadın, çocuk ayakkabı ve botlar, tamamlayıcı aksesuarlar markasıdır. Şirketi 3 nesildir URGAN Ailesi yönetmektedir.15 mağaza ve 500’ün üzerinde satış noktası ile 20 bin metrekarelik modern 2 binasında üretim yapmaktadır. Üretiminin yüzde 40’ını 25 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

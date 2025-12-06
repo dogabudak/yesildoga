@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Peripage",
+    "description": "Peripage, 2017 yılında kurulan Xiamen Ilead Tek Co. Ltd. bünyesinde üretilen mini yazıcılar, gri tonlamalı fotoğraf yazıcıları ve mini etiket makineleri markasıdır.Termal yazıcı BPA içermez.Xiamen iLead Tek Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Strada",
+    "description": "Strada, 1988 yılında kurulan PT. Multistrada Arah Sarana Tbk. bünyesinde üretilen lastik markasıdır.PT. Multistrada Arah Sarana Tbk.’nin 2020 yılında yüzde 88 hissesi Fransa merkezli Compagnie Generale des Etablissements Michelin SCA tarafından satın alındı. Ürünlerini Endonezya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ID",
+    "updated_date": null
+  },
+  {
+    "company": "Infosys",
+    "description": "Infosys, 1981 yılında kurulan Infosys Limited bünyesinde finans, sigorta, üretim ve diğer alanlardaki şirketlere yazılım geliştirme, bakım ve bağımsız doğrulama hizmetleri markasıdır.Çok uluslu bir bilgi teknolojisi şirketi olan Infosys Limited, iş danışmanlığı, bilgi teknolojisi ve dış kaynak hizmetleri sunmaktadır.Infosys Limited Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Balton",
+    "description": "Balton, Balto Sp. z o. o. bünyesinde üretilen sağlık ürünleri, tıbbi cihazlar markasıdır.Tıbbi ekipman, tek kullanımlık ihtiyaçları için kardiyoloji, radyoloji, anestezi, diyaliz, cerrahi, jinekoloji, üroloji, fleboloji için tek kullanımlık tıbbi ekipman üretmektedir.Balto Sp. z o. o. Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir ve 80 ülkeye pazarlamaktadır.ISO 9001, ISO 13485 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Kroenert",
+    "description": "Kroenert, 1903 yılında kurulan Kroenert Gmbh & Co Kg bünyesindeki kaplama, baskı ve laminasyon sistemleri markasıdır.Kağıt, film ve folyoların işlenmesi için makine ve ekipmanların tasarımını ve üretimini yapmaktadır.Kroenert Gmbh & Co Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

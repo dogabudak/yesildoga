@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Exvega",
+    "description": "Exvega, 2020 yılında kurulmuş olan Tado Teknoloji Hizmetleri ve Tic. A.Ş. bünyesinde üretilen çalışma koltuğu, oyuncu koltuğu, oyuncu masası, aksesuarlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ekseption",
+    "description": "Ekseption, 2004 yılında Raphael Duerinck tarafından kurulmuş olan HB aesthetics bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri koruyucular, alkol, silikon, emülgatör vb. maddeler, hayvansal katkılar içermez. Alerjik olmayan ürünleri hayvanlar üzerinde test edilmemektedir. ISO 9001 ve GMP belgelerine sahiptir.HB aesthetics İspanya merkezlidir. Laboratuarları ve üretim tesisleri İspanya’da bulunmaktadır. Ürünlerini 45’ten fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;ekseptionFusion Meso",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Exocad",
+    "description": "Exocad, 2010 yılında kurulan Exocad Gmbh bünyesinde üretilen diş CAD / CAM yazılım sağlayıcısı, dental modelleme yazılımı, dijital diş hekimliği markasıdır.Exocad Gmbh 2020 yılında Amerika merkezli Align Technology Inc. tarafından satın alındı. Ürünleri 150 ülkede kullanılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Clauder",
+    "description": "Dr. Clauder, 1956 yılında kurulmuş olan IPH Group Gmbh & Co. KG bünyesinde üretilen evcil hayvanlar için yem , evcil hayvan malzemeleri markasıdır.IPH Group Gmbh & Co. KG Almanya merkezlidir.Bünyesindeki markalar;Best ChoiceDr.ClauderHakitoLitinaPrima Food",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rainbow Colors",
+    "description": "Rainbow Colors, 1972 yılında kurulmuş olan Tech Contactlens San. ve Tic. Ltd. Şti. bünyesinde üretilen kontaktlens markasıdır.Eğlence lensleri, şeffaf, renkli, toric, gp, renk körlüğü ve iris bozukluğu için özel boyama lensler üretmektedir.ISO 9001, ISO 13485 ve CE belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

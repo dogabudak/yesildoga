@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Dr. Medm",
+    "description": "Dr. Medm Hangi Ülkenin Malı MarkasıDr. Medm, 2012 yılında kurulmuş olan Dermal Co. Ltd. bünyesinde üretilen kozmetik ürünler markasıdır.Dermal Korea Co. Ltd. Güney Kore merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Lux Dafu",
+    "description": "Lux Dafu, 2020 yılında kurulmuş olan Yavuztürk Ticaret bünyesindeki derin kuyu su pompası dalgıç pompa, 5 metre eriyen ve yapışkan su geçirmeyen kauçuk band markasıdır.Firma Şanlıurfa merkezlidir.Bünyesindeki markalar;Hay-SuLux DafuYavuz Su",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Uvela",
+    "description": "Uvela, 2010 yılında kurulmuş olan Carex of Sweden AB bünyesindeki bebek şampuanı, kolonyası, masaj yağı, güneş koruyucu sprey, pişik kremi, saç dökülmesine karşı şampuan, çatlakları onarıcı losyon markasıdır.Carex of Sweden AB İsveç merkezlidir. Ürünlerini 35’e yakın ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Cola Turka",
+    "description": "Cola Turka, 1975 yılında kurulmuş olan Dydo Drinco Inc. bünyesindeki gazlı içecek markasıdır.Fruktoz-glikoz şurubu, tatlandırıcı (Sukraloz, Asesülfam-K) ve kafein içermektedir. Helal belgesine sahiptir.Dydo Drinco Inc. Japonya merkezli Dydo Group Holdings Inc. bünyesindedir ve Türkiye’de Dydo Drinco Turkey A.Ş. olarak faaliyet göstermektedir.Bünyesindeki markalar;ÇamlıcaİçimCola TurkaJoozyLinkMaltanaSakaSunny",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Novocrin",
+    "description": "Novocrin, 1992 yılında kurulmuş olan Farmako Kozmetik San. ve Tic. A.Ş. bünyesindeki saç bakım ürünleri, dökülen saçlar için ürünler, papatya özlü saç açıcı sprey markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

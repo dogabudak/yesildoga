@@ -1,0 +1,45 @@
+[
+  {
+    "company": "SentrySafe",
+    "description": "1930 yılında kurulmuş olan Sentry Group bünyesindeki değerli eşyalar için su geçirmez ve yanmaz kasalar markasıdır.Sentry Group Amerika merkezli Fortune Brands Home & Security Inc.’ in bir işletim birimi olan Master Lock Company’ye aittir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bonart",
+    "description": "2016 yılında kurulmuş olan Bonart Gıda San. ve Tic. A.Ş. bünyesinde üretilen çikolata ve şekerleme markasıdır.ISO 9001, Fssc 22000, Helal ve Koşer belgelerine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Huut",
+    "description": "2021 yılında kurulmuş olan Huut Inc. bünyesindeki sesli sosyal medya platformudur.Dünyanın her yerinden insanları sesle birbirine bağlayan ilk sosyal medyadır.Huut Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gooloo",
+    "description": "2014 yılında kurulmuş olan Shenzhen Gooloo Technology Co. Ltd. bünyesinde üretilen akü şarj cihazları, atlama marşları ve elektrik santralleri markasıdır.Shenzhen Gooloo Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sanitex",
+    "description": "1959 yılında Guerdat ailesi tarafından kurulmuş olan Sanitex SA bünyesinde üretilen cam ve metal şırıngalar, veterinerlik ve endüstriyel amaçlar için şırıngalar markasıdır.Sanitex SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

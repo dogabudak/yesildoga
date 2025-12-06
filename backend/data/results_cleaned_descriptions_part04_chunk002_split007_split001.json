@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Retta",
+    "description": "Retta, 1989 yılında temelleri atılan Retta Profesyonel El Aletleri A.Ş. bünyesinde üretilen profesyonel el aletleri markasıdır.İstanbul’da 4 bin metrekarelik kapalı alanda üretim yapmaktadır.Retta, 37 ülkede temsil edilen, farklı kıtalarda ortaklıkları bulunan bir markadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stooss",
+    "description": "Stooss, 1902 yılında kurulan Schmiedewerk Stooss AG bünyesindeki demir ve çelik dövme ürünleri markasıdır.ISO 9001, ISO 14001, ISO 18001 belgelerine sahiptir.Schmiedewerk Stooss AG Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Neoforza",
+    "description": "Neoforza, 1998 yılında kurulan Goldkey Technology Corporation bünyesindeki oyun belleği, dizüstü bilgisayar belleği, katı hal sürücüsü, usb flash sürücü, bellek kartı markasıdır.Goldkey Technology Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Invidyo",
+    "description": "Invidyo, 2015 yılında Ekin Dino, Özgür Deniz Önür ve Yağız Yaşaroğlu tarafından kurulan Mobilus Yazılım Bilgisayar İletişim San. Tic. Ltd. Şti. bünyesindeki akıllı wifi bebek kamerası markasıdır.Mobilus, INvidyo kameranın geliştiricisi ve HW tasarımcısıdır, Türkiye’de Türk mühendisleri tarafından geliştirilmektedir.Yüz tanıma özelliğine sahip olan cihaz, tanınmayan kişiler görüldüğünde ebeveyne uyarı gönderir. Mobil uygulaması iPhone, iPad ve Android cihazlarda kullanılabilir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jetway",
+    "description": "Jetway, 1986 yılında kurulan Jetway Computer Corp. bünyesinde üretilen endüstriyel anakart ve bilgisayar çevre birimleri markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.Jetway Computer Corp. Amerika merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

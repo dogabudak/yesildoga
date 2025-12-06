@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Mahmut Gedemenli",
+    "description": "Mahmut Gedemenli, 2010 yılında kurulmuş olan Mahmut Gedemenli – Gedemenli Biber Baharat bünyesindeki baharatlar markasıdır.ISO 22000, ISO 13001, Helal belgelerine sahiptir.Firma Kahramanmaraş merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13001",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bebem Natural",
+    "description": "Bebem Natural, 1937 yılında kurulmuş olan Hayat Kimya A.Ş. bünyesinde üretilen bebek bezleri, ıslak mendil markasıdır.Alkol, sabun ve parfüm içermez. Dermatolojik ve hipoalerjenik belgelerine sahiptir. Ürünleri doğal bambu ve pamuk özüne sahiptir.Firma İstanbul merkezlidir. Ürünlerini Kocaeli’de bulunan fabrikasında üretmektedir ve 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-29"
+  },
+  {
+    "company": "Abtira",
+    "description": "Abtira, 2018 yılında kurulmuş olan Anna Batyra Üçer (Abtira) bünyesindeki organik içerikli kozmetik ve kişisel bakım ürünleri markasıdır.Avrupa ve Türkiye’den tedarikçilerden temin edilen veya kendi hazırladığı yağlar, uçucu yağlar, sular, özler, vitaminler ve mineraller kullanılmaktadır.Ürünleri paraben, edta, silikon, petrol türevleri, sentetik boya veya koku içermez ve hayvanlar üzerinde test edilmemektedir. Geri dönüşümlü ambalajlarla sunulmaktadır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sopure",
+    "description": "Sopure, Meliha Reyhan tarafından kurulmuş olan Inpure Sağlık Ürünleri ve Kozmetik San. Tic. Ltd. Şti. bünyesinde üretilen güneş kremi, temizleyici balm, su bazlı temizleyici, nemlendirici krem markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Plastopil",
+    "description": "Plastopil, 1960 yılında kurulmuş olan Plastopil Ltd. bünyesinde üretilen plastik ambalaj ve kaplar markasıdır.Plastopil Ltd. İsrail merkezlidir. İsrail ve Hollanda’da üretim tesislerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

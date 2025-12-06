@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Milgo",
+    "description": "“Milgo“2021 yılında kurulmuş olan Keba Gıda San. ve Tic. A.Ş. bünyesindeki süt, sürülebilir taze peynir, tereyağı markasıdır.ISO 9001, ISO 22000, Helal ve Koşer belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Amegat",
+    "description": "“Amegat“2009 yılında kurulmuş olan Shenzhen Autral Technology Innovation Co. Ltd. bünyesindeki ev ve mutfak aletleri, tüketici elektroniği, sağlık ürünleri markasıdır.EN ISO 9001, UNI EN ISO 14001, ISO13485 ve ISO 45001 belgelerine sahiptir.Shenzhen Autral Technology Innovation Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001",
+      "ISO13485"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Evshop",
+    "description": "“Evshop“1994 yılında kurulmuş olan Evshop Alışveriş Merkezleri Tic. Ltd. Şti. bünyesindeki mağazalar ve çevrimiçi alışveriş sitesi markasıdır.İstanbul’da 11, Ankara’da 7 ve diğer illerde 12 mağaza ile hizmet vermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artımed",
+    "description": "“Artımed“2012 yılında kurulmuş olan Artımed Medikal San. ve Tic. Ltd. Şti. bünyesindeki İngiliz karbonatı, ateş ölçer, gebelik ve ovülasyon testleri, hastane ekipmanları, nebulizatör, sargı bezleri ve steril kompresler, tansiyon aletleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zingat",
+    "description": "“Zingat“2015 yılında kurulmuş olan Zingat Gayrimenkul Bilgi Sistemleri A.Ş. bünyesindeki çevrimiçi emlak platformu markasıdır.2024 yılında Doğan Şirketler Grubu Holding A.Ş.’nin dolaylı bağlı ortaklığı olan Glokal Dijital Hizmetler Paz. ve Tic. A.Ş. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

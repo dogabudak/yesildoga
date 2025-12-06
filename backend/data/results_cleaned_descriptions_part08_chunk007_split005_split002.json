@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Kitekat",
+    "description": "Kitekat, 1911 yılında Franklin Clarence Mars tarafından kurulmuş olan Mars Incorporated bünyesinde üretilen kedi mamaları markasıdır.Yapay katkı maddeleri, renklendirici ve koruyucu içermez.Mars Incorporated Amerika merkezlidir. Amerika ve çok sayıda ülkede üretim tesisleri bulunmaktadır. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oris Oto Radyatör",
+    "description": "Oris, 2008 yılında kurulmuş olan Oris Oto Radyatör A.Ş. bünyesinde üretilen alüminyum otomobil radyatörleri markasıdır.ISO 9001, ISO 16949, OHSAS 18001 belgelerine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini Kocaeli’de bulunan 10 bin metrekarelik kapalı alana sahip tesisinde üretmektedir ve çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 16949",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kendo Suni Yem",
+    "description": "Kendo, 1997 yılında kurulmuş olan Cengiz Balıkçılık Ürünleri Deniz Av ve Spor Malzemeleri Pazarlama San. ve Tic. Ltd. Şti. bünyesindeki suni balık yemleri, olta iğneleri, kılıf, çantalar, balıkçılık aksesuarları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Cengiz BalıkçılıkKendoPowerline",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Konazol",
+    "description": "Konazol, 1977 yılında kurulmuş olan Kurtsan İlaçları A.Ş. bünyesindeki medikal şampuan markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Any’Tizers",
+    "description": "Any’Tizers, 1935 yılında John W. Tyson tarafından kurulmuş olan Tyson Foods Inc. bünyesinde üretilen tavuk kanatları ve yüksek proteinli atıştırmalıklar markasıdır.Tyson Foods Inc. Amerika merkezlidir.Hissedarları:Donald J. Tyson (yüzde 11,2)Vanguard Group Inc. (yüzde 10,1)Blackrock Inc. (yüzde 6)Price T Rowe Associates Inc. (yüzde 3,8)State Street Corp. (yüzde 3,7)Wellington Management Group LLP (yüzde 2,7)Fmr LLC (yüzde 2,1)Charles Schwab Investment Management Inc. (yüzde 1,9)Geode Capital Management LLC (yüzde 1,7)Invesco Ltd. (yüzde 1,7) (yüzdeTyson Limited Partnership (yüzde 1,6)Pzena Investment Management LLC (yüzde 1,5)Northern Trust Corp. (yüzde 1,5)Victory Capital Management Inc. (yüzde 1,4)Bank Of New York Mellon Corp. (yüzde 1,2)Dimensional Fund Advisors LP (yüzde 1,2)Morgan Stanley (yüzde 1)Yacktman Asset Management LP (yüzde 0,86)John H. Tyson (yüzde 0,85)Amundi (yüzde 0,81)Leland E. Tollett (yüzde 0,62)Legal General Group PLC (yüzde 0,58)Goldman Sachs Group Inc. (yüzde 0,57)Capital Research Global Investors (yüzde 0,54)Royal London Asset Management Ltd. (yüzde 0,54)Bünyesindeki markalar;Any’TizersHolly FarmsTyson",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

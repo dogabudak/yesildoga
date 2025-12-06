@@ -1,0 +1,46 @@
+[
+  {
+    "company": "İnvictus",
+    "description": "İnvictus, 2016 yılında ilk kez Genius GmbH bünyesindeki süpürge markasıdır.Genius GmbH 1995 yılında Almanya’da kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Inca",
+    "description": "Inca, 1998 yılında kurulan Angen Bilişim San. Dış .Tic. Ltd. Şti. bünyesindeki network ürünler, multimedia, ev elektroniği ve ses sistemleri markasıdır.Ürünleri Çin’de bulunan 17 fabrikada üretilmekte ve 23 ülkeye ihraç edilmektedir.Bünyesindeki markalar;AsterixDarksharkIncaInca Always The Best QualityInca Always The Best Quality AstroInca Always The Best Quality CassaInca Always The Best Quality EnjoyInca Always The Best Quality RaschInca Always The Best Quality VeroInca NobleInca RespectIwill Make Things HappenPasifik BilgisayarShiny",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-11-26"
+  },
+  {
+    "company": "Genius",
+    "description": "Genius, 1983 yılında kurulan KYE Systems Corp. şirketi bünyesindeki; mouse, WebCam, hoparlör, kulaklık, dokunmatik kalem ve taşınabilir oyun cihazı markasıdır.KYE Systems Corp. şirketi Tayvan merkezlidir. Şirketin Tayvan, Amerika, Birleşik Krallık, Almanya ve Çin’de ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Motospeed",
+    "description": "Motospeed, 2001 yılında kurulan Mototech Teknoloji Grup Şirketinde, 2008 yılından beri üretilen; optik fare, klavye, USB HUB, USB Flash, kart okuyucu ve bellek ürünleri markasıdır.Çin merkezli firmanın resmi Türkiye distribütörü Ose Elektronik’tir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Palermo",
+    "description": "İtalya’nın Palermo futbol kulübünü 2002 yılında Maurizio Zamparini satın almıştı.Palermo 22,8 milyon avro borcunun ödenmesi karşılığında, 10 avroluk sembolik bir ücretle İngiltere merkezli Mepal Şirketine satıldı.Şirket ayrıca yeni stat ve antrenman tesisi yapımı için hazırlıklara başlayacak.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2019-05-20"
+  }
+]

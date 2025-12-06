@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Dexart",
+    "description": "1998 yılında kurulmuş olan İpek Gıda Dayanıklı Tüketim Malları Elektronik Eşya Tic. ve San. Ltd. Şti. bünyesinde ithal edilen çay makineleri ve su ısıtıcılar, fırın ve pişirme makineleri, ızgara ve tost makineleri, kahve makineleri, katı meyve sıkacakları, mutfak robotları ve doğrayıcılar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Crush Grind",
+    "description": "1991 yılında Ken Muff Lassen tarafından kurulmuş olan IDEAS Denmark A/S bünyesinde üretilen öğütücüler ve mutfak aletleri markasıdır.IDEAS Denmark A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Laifen",
+    "description": "2019 yılında kurulmuş olan Shuye Technology Co. Ltd. bünyesindeki ev cihazı, profesyonel saç kurutma makineleri, kablosuz saç kurutma makinesi, saç sakal kesme, tüy temizleme makineleri, saç fırçaları ve taraklar, elektrikli diş fırçası markasıdır.Shuye Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fairywill",
+    "description": "2016 yılında kurulmuş olan Zhuhai Boll Electronic Commerce Co. Ltd. bünyesindeki elektrikli diş fırçaları ve aksesuarlar markasıdır.Zhuhai Boll Electronic Commerce Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mickle",
+    "description": "1993 yılında kurulmuş olan Mert Elektronik Cihazlar San. ve Tic. Ltd. Şti. bünyesindeki ses sistemleri markasıdır.ISO 9001 ve CE belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

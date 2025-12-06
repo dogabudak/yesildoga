@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Severstal",
+    "description": "Severstal, 1993 yılında kurulan çelik üreticisi ve madencilik şirketidir. İş adamı Alexei Mordashov şirketin çoğunluk hisselerine sahiptir.Rusya’nın en büyük ikinci çelik üreticisidir.Severstal Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Winalite Love Moon Anion Ped",
+    "description": "Winalite Love Moon Anion, 1997 yılında Chen HuaiDe tarafından kurulan Winalite International bünyesinde doğal malzemelerden üretilen yüzde 100 pamuk ped markasıdır.Sigmacert Uluslararası Belgelendirme, Eğitim ve Test Hizmetleri Ltd. Şti. tarafından verilen helal belgesine sahiptir.Winalite International Hong Kong merkezlidir. Türkiye’de Winalite Tüketim Malları San ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Airiz",
+    "description": "AIRIZ, 1995 yılında Li Jinyuan tarafından kurulan Tiens, Inc. bünyesindeki ped markasıdır.TIENS Group, 190 ülkede faaliyet gösteren, gıda takviyeleri, sağlık cihazları, cilt bakımı ürünleri, günlük bakım ürünleri üreticisidir.Çin merkezli TIENS Group 110 ülke ve bölgede şubeye sahiptir ve pek çok ülkeden şirketlerle ortaklıklara sahiptir.Bünyesindeki markalar:AirizOrecareTiens",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "iCloud",
+    "description": "iCloud, 2011 yılında Apple Inc. tarafından üretilen bulut depolama ve bulut bilişim servisi markasıdır.Sistem, kullanıcıların e-postalarını, ilgili kişilerini, takvim etiketlerini, iWork belgelerini paylaşmalarına ve iOS veya MacBook aygıtlarını bulmalarına olanak tanır.Amerika merkezli Apple, 2016 yılında Google ile bazı iCloud hizmetleri için Google Cloud Platform’nu kullanmak üzere bir anlaşma imzaladı.ICloud’un verileri Apple’ın sunucularında şifrelenmiş olarak depolanır ancak Apple’ın ana anahtarı vardır ve Amerikan hükümeti isterse verilerin şifresini çözebilir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pearson",
+    "description": "Pearson, 1844 yılında Samuel Pearson tarafından inşaat şirketi olarak kurulan Pearson PLC bünyesindeki eğitim ve yayımcılık markasıdır.Dünyanın önde gelen eğitim markalarını bir araya getirerek her tür öğrenme şekli için, ihtiyaca göre eğitim çözümleri sağlamaktadır. Her yaştan kişilere özel basılı ve dijital yayınlar sunmaktadır.Dünya çapında 70 ülkede faaliyet göstermektedir.Pearson PLC İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

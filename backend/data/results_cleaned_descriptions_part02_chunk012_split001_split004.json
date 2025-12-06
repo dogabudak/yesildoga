@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Palma",
+    "description": "Palma, 2004 yılında kurulan Türktrust Bilgi, İletişim ve Bilişim Güvenliği Hizmetleri A.Ş. bünyesinde üretilen Açık Anahtarlı Altyapılarda (PKI) kullanılan akıllı kartların yönetimi için geliştirilmiş bir istemci yazılımıdır.Türktrust Bilgi, İletişim ve Bilişim Güvenliği Hizmetleri A.Ş., TSK Elele Vakfı’nın bir kuruluşu olarak 2004 yılında kurulmuştur.Türktrust, elektronik sertifika hizmet sağlayıcılığı ve bilişim güvenliği alanında geliştirdiği yazılımlarıyla elektronik imza, elektronik sertifika ve zaman damgası hizmetleri alanında faaliyet gösteren yerli bir kuruluştur.Elektronik İmza Yazılım Kütüphanesi, Akıllı Kart İle Web Üzerinde Kimlik Doğrulama, SSL Elektronik Sertifika Hizmetleri Yönetim Yazılımı, Güvenli Elektronik İmza Oluşturma ve Doğrulama Yazılımı, Zaman Damgası İstemci Yazılımı, Akıllı Kart Yönetim Yazılımı, E-Haciz Yazılımı, Mobil İmza Hizmet Sağlayıcı Yazılımı ürünlerine sahiptir.Türktrust bünyesindeki markalar:ARNICACASTANDIANTAPALMAPLATANSEKOYASPIRATILIA",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Daihan",
+    "description": "Daihan, 1980 yılında Shu, Chong Ku. tarafından kurulan DAIHAN Scientific Co., Ltd. bünyesindeki laboratuvar cihazları markasıdır.DAIHAN Scientific Co., Ltd. Güney Kore merkezlidir. Türkiye’de Daihan Scientific Laboratuvar Cihazları San. Tic. A. Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Gamma",
+    "description": "Gamma, 1971 yılında kurulan GAMMA Intergamma B.V. bünyesindeki kendin yap ürünleri, bahçe malzemeleri, donanım ürünleri perakende zinciridir.Gama mağazaları 2 bin ile 6 bin metrekare arasında değişen bir perakende alanına sahiptir. Hollanda ve Belçika’da 250 mağazaya sahiptir.Hollanda’da, 5 Hollandalı inşaat malzemeleri toptancısı ilk mağazayı açtığında Gamma kuruldu. 1979 yılında Gamma Belçika’da şemsiye şirket Intergamma içinde özerk bir varlık olarak kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Catfiller",
+    "description": "Catfiller markalı ürünler 2016 yılında Behlül Ahmet Küçükateş tarafından kurulan Ateş Dış Ticaret ve İnşaat Limited Şirketi bünyesinde Çin’den ithal edilmiştir.Merkezi İstanbul’da bulunan Ateş, inşaat yapı malzemeleri şirketlerinden biridir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2020-05-15"
+  },
+  {
+    "company": "Microlife",
+    "description": "Microlife, 1981 yılında kurulan Microlife Corporation bünyesindeki tansiyon monitörleri, dijital termometreler, astım monitörleri, isı terapisi yardımları, kan şekeri yönetim cihazları, ağırlık yönetim cihazları markasıdır.Microlife’ın tıbbi cihazları hastane kullanımı için onaylanmıştır ve en yüksek güvenlik düzeyini garanti eder.Şirket Bill ve Melinda Gates Vakfı ile düşük ve orta gelirli ülkelerde kullanılmak üzere tasarlanmış uygun maliyetli bir kan basıncı izleme cihazı (Microlife CRADLE VSA) geliştirmek için işbirliği yaptı.Microlife Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

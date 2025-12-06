@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Phanteks",
+    "description": "Phanteks, 2007 yılında kurulan Phanteks Company bünyesindeki bilgisayar fanı, bilgisayar kasası, işlemci soğutucu, bilgisayar su soğutma ve güç kaynağı markasıdır.Phanteks Company Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Eve Shop",
+    "description": "EVE Mağazacılık, 2015 yılında Turgut Aydın Holding tarafından kurulan kişisel bakım ve kozmetik ürünleri mağazası markasıdır.Firma mağaza kurulumundan 1,5 yıl sonra eveshop.com.tr adıyla kozmetik ve kişisel bakım sitesini açtı.Turgut Aydın Holding bünyesindeki markalar:A101Aydın ÖrmeEVE MağazacılıkEnglish HomeMemorialPizzaLazzaSaloon BurgerTAFF Yapı",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rival Bebek Arabası",
+    "description": "Rival Bebek Arabası Nerenin Malı MarkasıRival, 1993 yılında kurulan Ayyıldız Bisiklet Gıda ve Temizlik Ürünleri Paz. Tic. ve San. Ltd. Şti. bünyesinde üretilen bebek arabası, ana kucağı ve anadizi, çocuk bisikleti, beşik, hamak, salıncak markasıdır.Firma Sinop’ta bebek ve çocuk gereçleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cosmote",
+    "description": "Cosmote, 1998 yılında kurulan Cosmote Mobile Telecommunications A.E. bünyesindeki sabit, geniş bant ve cep telefonu operatörü markasıdır.OTE (Yunanistan Telekomünikasyon Örgütü)’nün yan kuruluşudur. OTE hisselerinin yüzde 40’ı 2008 yılında Almanya merkezli Deutsche Telekom tarafından satın alındı.Telekom Arnavutluk ve Telekom Romanya gibi iştirakleri aracılığıyla iki Güneydoğu Avrupa ülkesinde de iş operasyonları geliştirmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Agilent Technologies",
+    "description": "Agilent Technologies, 1999 yılında kurulan Agilent Technologies, Inc. bünyesindeki laboratuvar kullanımı için aletler, yazılımlar, hizmetler ve sarf malzemeleri markasıdır.Agilent Technologies, Inc. Amerika merkezlidir. Amerikan kamu ar-ge ve üretim şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

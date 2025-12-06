@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Photobucket",
+    "description": "Photobucket, 2003 yılında Alex Welch ve Darren Crystal tarafından kurulan Photobucket.com Inc. bünyesindeki fotoğraf barındırma ve video barındırma web sitesi, web hizmetleri paketi ve çevrimiçi topluluktur.Şirket, fotoğraflara göz atma ve paylaşma, yükleme, bağlantı, bilgi, video arama ve diğer hizmetleri sunar.Photobucket.com Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mobicool",
+    "description": "Mobicool, 1991 yılında kurulan Dometic Germany Gmbh bünyesinde üretilen soğutma ve ısıtma ekipmanları markasıdır.Firma karavan, yat, tekne, araba, kamyon ve deniz taşıtları için mobil soğutma, güç kaynağı sistemleri, aksesuarlar, otomotiv konfor ürünleri, araç klimaları, parçaları ve ekipmanları için ürünler sunmaktadır.Dometic Germany Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dometic",
+    "description": "Dometic, 2001 yılında kurulan Dometic Group AB bünyesinde üretilen karavan, tekne, kampçılar için buzdolabı ve diğer malzemeler markasıdır.Ürün yelpazesinde soğutma sistemleri, soba, kapı ve pencereler, mobil soğutma sistemleri, özel soğutma ve derin dondurucu cihazlar (kompresör teknolojisi) klima servis ekipmanları yer almaktadır.Dometic Group AB İsveç merkezlidir. Şirket İsveç, Avrupa, Amerika ve Çin’de 30’a yakın üretim ve montaj tesisine sahiptir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Blue Cat Audio",
+    "description": "Blue Cat Audio, Guillaume Jeulin tarafından kurulan Blue Cat Audio SARL bünyesindeki müzisyenler ve ses profesyonelleri için ses yazılımı markasıdır.Blue Cat Audio SARL Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Rosebella",
+    "description": "Rosebella, 2020 yılında kurulan Rosebella Kozmetik Üretim ve San. Tic. A.Ş. bünyesinde üretilen kozmetik ve kişisel bakım ürünleri markasıdır.Ürün yelpazesinde temizleme sütü, güllü el kremi, gül suyu, yüz bakım kremi yer almaktadır. Ürünlerinde cilde zararlı kozmetik bileşenler yer almaz.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

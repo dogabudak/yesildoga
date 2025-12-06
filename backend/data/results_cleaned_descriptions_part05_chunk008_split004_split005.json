@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Faith In Nature",
+    "description": "Faith In Nature, 1974 yılında Rivka Rose tarafından kurulan Faith In Nature Limited bünyesinde üretilen doğal saç bakım ürünleri, şampuan, saç kremi ve doğal saç maskesi markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Faith In Nature Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Licoplas",
+    "description": "Licoplas, 2013 yılında kurulan Sevimligül İnşaat San. ve Tic. Ltd. Şti. bünyesinde üretilen sıva markasıdır.İçeriğinde bulunan doğal elyaf, selüloz gibi katkılarla dekorasyon ve yalıtım malzemeleri üretmektedir.ISO 9001 belgesine sahiptir.Firma Balıkesir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Twingo Ayakkabı",
+    "description": "Twingo Ayakkabı Nerenin Malı MarkasıTwingo, 1986 yılında kurulan Gamas Ayakkabı San. Tic. Ltd. Şti. bünyesinde üretilen erkek, kadın ve çocuk spor ayakkabı markasıdır.İstanbul merkezli firma ürünlerini 7 bin metrekarelik kapalı alanda bulunan entegre tesisinde üretmektedir.Bünyesindeki markalar;LexosMarco CassaniTwingo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kallos Cosmetics",
+    "description": "Kallos Cosmetics, 1978 yılında Janos Kallos tarafından kurulan Kallos Cosmetics Kft. bünyesinde üretilen saç ve vücut bakım ürünleri, kozmetik ürünleri markasıdır.Kallos Cosmetics Kft. Macaristan merkezlidir. Ürünlerini 19 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HU",
+    "updated_date": null
+  },
+  {
+    "company": "Supex",
+    "description": "Supex, 2010 yılında kurulan Shenzhen Supex Technology Co. Ltd. bünyesinde üretilen lityum pil, kurşun asit pil akü ve şarj cihazları markasıdır.ISO 9001, CE, RoHS, UN38.3, IEC belgelerine sahiptir.Shenzhen Supex Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

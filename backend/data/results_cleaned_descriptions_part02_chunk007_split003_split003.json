@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Grendha",
+    "description": "Grendha, 1971 yılında Pedro ve Alexandre Grendene Bartelle kardeşler tarafından kurulan Plasticos Grendene Ltda bünyesindeki poliamid (naylon) ayakkabı markasıdır.Grendene bünyesinde ayakkabı, plastik sandalet ve terlik üretmektedir.Plasticos Grendene Ltda Brezilya merkezli üreticidir.Türkiye dağıtıcısı TERTEKS Tekstil İthalat İhracat ve Pazarlama A.Ş.’dir.Bünyesindeki markalar:MelissaIpamenaGrendhaRiderZaxyCartagoGrendene Kids",
+    "documents": [
+      "CE"
+    ],
+    "parent": "Grendene bünyesinde ayakkabı, plastik sandalet ve terlik üretmektedir.",
+    "origin": "BR",
+    "updated_date": "2019-10-02"
+  },
+  {
+    "company": "Gasgas",
+    "description": "Gasgas, 1985 yılında kurulan off-road ürünleri markasıdır. 2016 yılında Torrot Electric Europa S.A. tarafından satın alındı.GasGas ürünleri beş kıtada ve 50’den fazla ülkede mevcuttur.Torrot Electric Europa S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Beta Motor",
+    "description": "Beta Motor, 1904 yılında Enzo Bianchi ve Arrigo Tosi tarafından kurulan Betamotor S.p.A. bünyesindeki motosiklet markasıdır.Betamotor S.p.A. İtalya merkezlidir. 1960 yılında Beta, kendi motorlarını üretmeye başladı. 1972 yılından beri ürünlerini İtalya’da 116 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dorado",
+    "description": "Dorado, 2005 yılında kurulan Dorado Motorlu Araçlar Ltd. Şti. bünyesindeki, Motorsiklet, Yedek Parça, Aksesuar ve Giyim markasıdır.Türk markası ürünlerini uzak doğudan ithal etmektedir.Mak Motor – Dorado Motorcycles, Ankara Saray Mahallesi Keresteciler Sanayi Sitesinde faaliyet gösteriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "iRobot",
+    "description": "iRobot, 1990 yılında Rodney Brooks, Colin Angle ve Helen Greiner tarafından kurulan iRobot Corporation bünyesinde üretilen robotlu cihazlar markasıdır. Şirket ev içinde ve dışında tüketici robotları oluşturur.iRobot 8 milyondan fazla ev robotu satarken, 2012 itibariyle 5 binden fazla savunma ve güvenlik robotu konuşlandırdı.iRobot Corporation Amerika merkezli ileri teknoloji şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-11-08"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Soundlink Amplifikatör",
+    "description": "Soundlink, 2017 yılında kurulan Mercan Elektronik San. ve Tic. Ltd. Şti. bünyesindeki amplifikatörler, hoparlörler, montaj ekipmanları, rca kablolar, güç kabloları, hoparlör kabloları, sigortalar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AudiotecSoundlinkXentec",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dark Blue Enerji İçeceği",
+    "description": "Dark Blue, 2010 yılında kurulan Meridyen Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen enerji içeceği markasıdır.Şirket enerji içecekleri dışında gazlı içecekler, meyve suyu, aromalı içecekler, limonata, buzlu kahve ve buzlu çay çeşitleri üretmektedir.Firma Gaziantep merkezlidir. Ürünlerini Gaziantep’te üretmekte 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Forever Plus",
+    "description": "Forever Plus, Migros Tic. A.Ş. adına Teksan İç ve Dış Tic. San. ve Tic. Ltd. Şti. tarafından ithal edilen pil markasıdır.İzmir merkezli Teksan İç Ve Dış Ticaret Ltd. Şti. ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maxxair",
+    "description": "Maxxair, 1991 yılında kurulan Airxcel Inc. bünyessindeki karavan havalandırma çözümleri, rv fanları, havalandırma delikleri, fan kapakları ve dayanıklı yedek örtüler markasıdır.Airxcel Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tdps Jeneratör",
+    "description": "Tdps, 1999 yılında kurulan TD Power Systems Private Limited bünyesindeki turbo jeneratörler, hidro türbin jeneratörleri, dizel ve gaz motoru jeneratörleri, buhar türbini jeneratörleri, rüzgar türbini jeneratörleri, 4 kutuplu jeneratörler, özel uygulama jeneratörleri ve özel yapım yüksek gerilim jeneratörleri markasıdır.ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.TD Power Systems Private Limited Hindistan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

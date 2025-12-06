@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Kidslove",
+    "description": "Kidslove, 1989 yılında Red Box Toy Factory Ltd. bünyesinde üretilen oyuncak markasıdır.Red Box Toy Factory Ltd. Hong Kong merkezlidir. Ürünlerini Çin’de bulunan fabrikasında üretmekte ve 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Chronuts",
+    "description": "Chronuts, 2007 yılında kurulan Chronale Gida San. ve Tic. Ltd. Şti. bünyesinde üretilen fındık ve fındık ürünleri markasıdır.Ürünlerini 2 bin 700 metrekarelik alanda üretmektedir. ISO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alocado",
+    "description": "Alocado, 2003 yılında kurulan Spider Pharm Industries Ltd. bünyesindeki cilt bakımı için kozmetik kremler, kozmetik yağlar, vücut bakımı için kozmetik preparatlar markasıdır.Sedef hastalığının tedavisi için 14 üründen oluşan bir seriye sahiptir.Atopik tıbbi ürünler için doğal bir ikame olarak çeşitli cilt rahatsızlıklarının tedavisi için doğal aktif bileşenli (ölü deniz mineralleri dahil) Dermokozmetik ürünlerin üreticisi Spider Pharm Industries Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dok Ayçiçekyağı",
+    "description": "Dok Ayçiçekyağı Nerenin Malı MarkasıDok, 1995 yılında kurulan Unat Yağ Gıda San. ve Tic. A.Ş. bünyesinde üretilen ayçiçeği çekirdeği yağı, yemek pişirme ve kahvaltı için margarin, rafine bitkisel yağ markasıdır.Mersin 2. OSB’de 25 bin metrekarelik kapalı alan olmak üzere toplam 40 bin metrekarelik alanda üretim yapmakta ve ürünlerini 50’nin üzerinde ülkeye ihraç etmektedir.ISO 9001, ISO 22000, OHSAS 18001, Helal ve Kosher belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Amaranth",
+    "description": "Amaranth, 1985 yılında kurulan Amaranth Cosmetics Co. Ltd. bünyesinde üretilen kozmetik, cilt bakımı, deniz kollajeni markasıdır.Amaranth Cosmetics Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.ISO 9001 ve Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kelme",
+    "description": "Kelme, 1977 yılında Diego ve Jose Quiles tarafından kurulan New Millenium Sports, S.L. bünyesindeki spor giyim ürünleri markasıdır.New Millenium Sports, S.L. İspanya merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "WD-40",
+    "description": "WD-40, 1953 yılında kurulan WD-40 Company bünyesindeki pas çözücü, koruyucu, temizleyici, yağlayıcı çok amaçlı spreydir.Çok amaçlı spreyle çıkmayan etiketler sökülebiliyor, donmuş araç kapıları açılabiliyor, gıcırtı çıkaran cisimlerde sesi önlüyor, paslanmış parçalarda pas çözücü olarak kullanılabiliyor, otomobil fren diskleri, otomobil motor temizleme, Off-road, atv tutkunları için off-road sonrası yıkama-yağlama, paslanması muhtemel parçalar, Motorsiklet sahipleri için hareket eden parçaların her kısmına uygulanabilir.WD-40 Company Amerika merkezli bir şirkettir ve ürünleri 176 ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-10-25"
+  },
+  {
+    "company": "Niken Gt",
+    "description": "1955 yılında kurulmuş olan Yamaha Motor Co. Ltd. bünyesinde üretilen motosiklet markasıdır.Yamaha Motor Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2025-03-11"
+  },
+  {
+    "company": "Naturpy",
+    "description": "Naturpy, 2011 yılında kurulan Optinaturel İlaç Gıd. Med. San. Tic. Ltd. Şti. bünyesindeki anne bebek ürünleri, organik ve doğal ürünler, aktariye ve gıda ürünleri, glutensiz ürünler, diyabetik ürünler, kozmetik ve kişisel bakım ürünleri markasıdır.Şuruplar, arı ürünleri, kış çayları, bitkisel çaylar, bitkisel yağlar, organik şampuanlar, organik kremler, kahvaltılık ürünler, sporcu gıdaları ve birçok bitkisel ürün çeşitleri mevcuttur.Optinaturel İlaç & Gıda Sanayi bünyesinde bitki çayları, bebek çorbaları, bebek şampuanları, arı sütü ürünleri ve anne emzirme içecekleri, lohusa şerbeti şekeri vb. gibi ürünleri mevcuttur.Bünyesindeki markalar:NaturpyAtom ÇayıMilk TeaOrganikDoğal",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "iyzico",
+    "description": "2013 yılında kurulmuş olan iyzi Ödeme ve Elektronik Para Hizmetleri A.Ş. bünyesindeki sanal POS hizmeti ve yapay zeka tabanlı ödeme teknolojileri markasıdır.2019 yılında Güney Afrika merkezli Naspers Group Limited bünyesindeki MIH PayU B.V. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ZA",
+    "updated_date": "2025-01-29"
+  }
+]

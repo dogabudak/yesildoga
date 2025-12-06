@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sabbat",
+    "description": "Sabbat, 2016 yılında kurulan Shenzhen SABBAT Technology Development Co., Ltd. bünyesinde üretilen Bluetooth kulaklık markasıdır.Shenzhen SABBAT Technology Development Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Whizzer",
+    "description": "Whizzer, 2004 yılında kurulan Whizzer Inc. bünyesindeki bisiklet yedek parça, aksesuar markasıdır.Whizzer Inc. 2014 yılından beri bisiklet üretimine geçici ara verirken yedek parça, aksesuar sunmaya devam etmektedir.Whizzer Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "JLab Audio",
+    "description": "JLab Audio, 2005 yılında Josh Rosenfield ve Current: Win Cramer tarafından kurulan JLab Audio Company bünyesindeki kulak içi ve kulak üstü kulaklıkların yanı sıra kablosuz kulaklıkve Bluetooth hoparlörler markasıdır.2012 yılında Amerika merkezli özel sermaye grubu tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "MEE audio",
+    "description": "MEE audio, 2005 yılında Fang Bian tarafından kurulan HiFiMAN Electronics bünyesinde üretilen kulaklık markasıdır.Kulaklık, amplifikatör ve taşınabilir ses çalarlarda dahil olmak üzere ses ürünleri üreticisi HiFiMAN Electronics Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Quechua",
+    "description": "Quechua 1976 yılında kurulan Decathlon S.A. bünyesindeki doğa yürüyüş kamp ürünleri markasıdır.Decathlon çok sayıda farklı markanın spor malzemelerinin bir arada bulunduğu Fransa merkezli uluslararası mağaza zinciridir.Bünyesindeki markalar:AptoniaArtengoB’twinCaperlanDomyosFouganzaGeologiGeonauteInesisKalenjiKipstaNabaijiNewfeelOraoOxeloQuechuaSimondSolognacTribordWed’ze",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-06-09"
+  }
+]

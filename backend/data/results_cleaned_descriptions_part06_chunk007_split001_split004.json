@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Joss",
+    "description": "Joss, 2005 yılında kurulan Jossport Sarl bünyesinde üretilen giyim, ayakkabı ve aksesuarlar markasıdır.Şirket spor malzemeleri imalatında faaliyet göstermektedir.Jossport Sarl İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Durma",
+    "description": "Durma, 1956 yılında kurulan Durmazlar Makina San. ve Tic. A.Ş. bünyesinde üretilen sac işleme makineleri markasıdır.Abkant, panç presler, büküm merkezleri, giyotin, kombine makaslar, köşe kesme, lazer kesim, plazma kesim, profil büküm, silindir büküm makineleri, yükleme boşaltma sistemleri üretmektedir.Bursa merkezli firma ürünlerini toplam 150 bin metrekare kapalı alana sahip tesislerinde üretmekte ve 120 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Let’s Be Child Lc Oyuncak",
+    "description": "Let’s Be Child, 1996 yılında kurulan Enfal Oyuncak A.Ş. bünyesinde üretilen oyuncaklar markasıdır.Ürünleri BPA, ftalat, pvc vb. dış kaplamalar içermeyen oyuncaklar üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ümit Bisiklet",
+    "description": "Ümit Bisiklet, 1983 yılında kurulan Ümit Bisiklet San. ve Tic. A.Ş. bünyesinde üretilen dağ bisikletleri, trekking bisikletler, şehir bisikletleri ve bisiklet aksesuarları markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tranya",
+    "description": "Tranya, 2015 yılında kurulan Shenzhen Quanya Trading Co. Ltd. bünyesindeki kablosuz kulaklık ve akıllı saatler markasıdır.Shenzhen Quanya Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Wp Dental",
+    "description": "Wp Dental, 1994 yılında kurulan Willmann & Pein GmbH bünyesinde üretilen diş ürünleri markasıdır.Ürünlerin dağıtımı 80’den fazla ülkede gerçekleşir. Tüm ürünleri, DIN 13485:2003’e tabi olan sıkı kalite kontrollerine tabidir.Willmann & Pein GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Titiz",
+    "description": "Titiz, 1993 yılında kurulan Titiz Temizlik Kozmetik Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen çamasır suyu, tuz ruhu, bulaşık süngeri, temizlik bezi, bulaşık sıvısı, pamuk ve kireç çözücü markasıdır.Ürünlerini Tuzla kimya sanaycileri osb’de bulunan tesislerinde üretmektedir. ISO 9001 belgesine sahiptir.Bünyesindeki markalar:BgBerbakClean ShineGreen Islant TeaModalineNaturdaysPeriRoraxSponylineTitiz",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Briggs & Stratton",
+    "description": "Briggs & Stratton, 1908 yılında Stephen F. Briggs ve Harold M. Stratton tarafından kurulan Briggs & Stratton Corporation bünyesindeki hava soğutmalı benzinli motor markasıdır.Bu motorlar ağırlıklı olarak inşaat ve bahçe ekipmanları gibi taşınabilir jeneratörler, çim biçme makineleri, bahçe frezeleme, kar motosikletleri ve diğer benzinli cihazlarda bulunur.Briggs & Stratton Corporation Amerika merkezlidir. Ürünlerini ABD’de 13, Avustralya, Brezilya, Kanada, Çin, Meksika ve Hollanda’da bulunan 8 tesiste üretmektedir ve ürünleri 100’den fazla ülkede satılmaktadır.Bünyesindeki markalar:AllmandBilly GoatBrancoBriggs & StrattonFerrisMurraySimplicitySnapperVanguardVicta",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-11-13"
+  },
+  {
+    "company": "Busso",
+    "description": "Busso, 1960 yılında kurulan Buluş Elektronik San. Dış Tic. Ltd. Şti. bünyesindeki spor ekipmanları ve malzemeleri markasıdır.Kaykay ve paten malzemeleri, kaleci eldiveni, bar, basketbol aksesuarları, basketbol topu, boks darbe eldiveni, boks el bandajı, el yayı, masa tenis raketi, pilates bandı, yüzme bonesi, yüzme tahtası, yoga halkası gibi ürün yelpazesine sahiptir.Busso markalı ürünler antibakteriyel ve insan sağlığına zarar vermeyen materyaller kullanılarak Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fixplant",
+    "description": "Fixplant, 2009 yılında kurulan Fix Kozmetik San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen ipek fiberlerinden oluşan saç tozu, çanta ve tarak markasıdır.İnsan sağlığı ön planda tutularak doğal içerikle üretilen Fixplant, seyrek olan bölgelerde bulunan saç tellerine tutunarak saça doğal bir görünüm verip saçın dolgun görünmesini sağlar. Terleme, yağmur gibi durumlardan çok az etkilenerek akma durumu olmaz.Bünyesindeki markalar:FixPlantFixDeepFixWhiteFixBrow",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

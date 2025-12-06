@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Werz",
+    "description": "Werz, 1932 yılında kurulmuş olan Karl-Otto Werz Naturkornmühle GmbH & Co. KG bünyesinde üretilen bisküvi ve atıştırmalıklar, ekmek ve çörekler, kurabiyeler, pişirme malzemeleri, tatlandırıcı, un markasıdır.Ürünlerinde yapay katkı maddeleri kullanılmamaktadır.Karl-Otto Werz Naturkornmühle GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lucas Yedek Parçalar",
+    "description": "Lucas, 1915 yılında kurulmuş olan ZF Friedrichshafen AG bünyesindeki otomotiv yedek parçaları markasıdır.ZF Friedrichshafen AG Almanya merkezlidir. 32 ülkede 168 üretim tesisinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Parallels",
+    "description": "Parallels, 1999 yılında kurulmuş olan Parallels International Gmbh bünyesindeki platformlar arası uygulamalar, uzaktan uygulama, mac, android, windows, bulut bilişim, ios, sccm, euc, vdi, bulut ve kurumsal uygulamalar markasıdır.İşletmelerin ve bireylerin herhangi bir cihazda veya işletim sisteminde ihtiyaç duydukları uygulamalara ve dosyalara güvenli bir şekilde erişmelerini ve kullanmalarını sağlamaktadır. Sanal masaüstlerinin ve uygulamaların herhangi bir cihaza sorunsuz bir şekilde teslim edilmesini, Mac’te Windows çalıştırılmasını ve herhangi bir cihazdan bilgisayarlara ve Mac bilgisayarlara uzaktan erişilmesini sağlar.Parallels International Gmbh 2018 yılında Amerika merkezli KKR & Co. Inc.’in sahibi olduğu Cascade Parent Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dj Parts",
+    "description": "Dj Parts, 1983 yılında kurulmuş olan Fbk Manufacturing Sdn Bhd bünyesinde üretilen otomobil parçalar ve bağlantı parçaları araçlar için burulma çubukları, fren balataları, segmentleri, pabuçları, frenler, amortisörler, kara taşıtları için zincirler, süspansiyon yayları, tekerlek göbekleri markasıdır.Fbk Manufacturing Malaysia Sdn Bhd Malezya merkezlidir. 31 ülkede faaliyet göstermektedir.Bünyesindeki markalar;Dj PartsFbkP2Qsten",
+    "documents": [],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  },
+  {
+    "company": "Retevis",
+    "description": "Retevis, 2008 yılında kurulmuş olan H. Retevis Trade Co. Ltd. bünyesinde üretilen kişisel, ticari, amatör kullanıcılar için iki yönlü telsiz ve aksesuarlar markasıdır.FCC, IC, CE, ROHS, PSE, RCM, TELEC ve JATE belgelerine sahiptir.Hong Kong Retevis Trade Co. Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Somatoline",
+    "description": "1978 yılında kurulmuş olan Bolton Group S.r.l. bünyesinde üretilen cilt bakım ürünleri markasıdır.Bolton Group S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Equate",
+    "description": "1995 yılında kurulmuş olan Equate Petrochemical Company bünyesinde üretilen polietilen, etilen glikol, polipropilen, benzen, levhalar monomer, etilen, ağır aromatikler, paraksilen, olefinler, polimerler, aromatikler ve stirenler markasıdır.Equate Petrochemical Company Kuveyt merkezlidir. Ürünleri pek çok ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KW",
+    "updated_date": null
+  },
+  {
+    "company": "Aforce",
+    "description": "2008 yılında kurulmuş olan A101 Yeni Mağazacılık A.Ş. adına Teksan İç ve Dış Tic. Ltd. Şti. tarafından ithal edilen pil markasıdır.Ürünleri Çin’den ithal edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meteospasmyl",
+    "description": "1963 yılında kurulmuş olan Ali Raif İlaç A.Ş. bünyesindeki ilaç markasıdır.Firma İstanbul merkezlidir. Ürünlerini 10 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dolz",
+    "description": "1934 yılında kurulmuş olan Industrias Dolz S.A. bünyesinde üretilen otomotiv bileşenleri, soğutma parçaları, su pompasıIndustrias Dolz S.A. İspanya merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.ISO 9001, ISO / TS16949, ISO 14001 belgelerine sahiptir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

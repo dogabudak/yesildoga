@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Alipay",
+    "description": "Alipay, 2000 yılında kurulan Ant Group Co. Ltd. bünyesindeki mobil ve çevrimiçi ödeme platformudur.Şirket dijital ödeme hizmetleri sunmakta ve dijital finans teknolojisi platformları işletmektedir. Blockchain teknolojisini ve diğer hizmetleri kullanarak sınır ötesi havale hizmetleri sunmaktadır.Ant Group Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vastfafa",
+    "description": "Vastfafa, 2010 yılında kurulan Zhongshan Vastfafa Intelligent Technology Co. Ltd. bünyesinde üretilen dalgalanma koruyucusu, Master/Slave güç şeritleri, WİFİ Kontrol Soketi, USB şarjlı güç şeridi, Güç Uzatma Kablosu soketi, seyahat adaptörü, bebek beşiği ve sandalyesi, kablosuz şarj cihazı, usb şarj cihazı markasıdır.ISO 9001 belgesine sahiptir.Zhongshan Vastfafa Intelligent Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-12-04"
+  },
+  {
+    "company": "Xom Socket Systems",
+    "description": "Xom, 2015 yılında kurulan Erna Teknik Elektrik San. Tic. Ltd. Şti. bünyesindeki alüminyum kasa, metal kasa, bürotik blok prizler markasıdır.Ofis, ev, hastane, okul, otel vb. yerlerde enerji, veri, ses, görüntü vb. ihtiyaçlar için mobilya tasarımlarında kullanılan özel sistemler üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seldur",
+    "description": "Seldur, 1977 yılında kurulan Seldur Elektrik Tic. ve San. A.Ş. bünyesinde üretilen topraklı ve topraksız fiş, priz, anahtarlar, duy, ütü fişi, duy fiş, üçlü fiş, floresant soketi, glop dibi, tavan ve duvar duy, bronz duy, kasa, buat, elektrikli fırın, elektrikli ocak, su ısıtıcıları, rezistanslar, merdiven otomatiği zil, adaptör, grup priz, kablo, elektrik sobası markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "L3harris",
+    "description": "L3harris, 2019 yılında kurulan L3Harris Technologies Inc. bünyesindeki kritik görev ihtiyaçlarını karşılayan uçtan uca çözümler sunan çevik bir küresel havacılık ve savunma teknolojisi markasıdır.Şirket, uzay, hava, kara, deniz ve siber alanlarda gelişmiş savunma ve ticari teknolojiler sunmaktadır.L3Harris Technologies Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

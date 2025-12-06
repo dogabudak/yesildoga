@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Firmenich",
+    "description": "Firmenich, 1895 yılında kimyager Philippe Chuit ve Martin Naef tarafından kurulan Firmenich International SA bünyesindeki aroma ve parfüm markasıdır. Şirket tamamen Firmenich ailesine aittir.Dünya çapında gıda ve kozmetik üreticilerine aroma ve parfüm tedarik etmektedir.Firmenich International SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Kaweco",
+    "description": "Kaweco, 1883 yılında kurulan kalem, kalem tutucu, mürekkep markasıdır.1995 yılında H&M Gutberlet GmbH şirketi Kaweco’nun mülkiyetini aldı.H&M Gutberlet GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tsmart",
+    "description": "Tsmart, 2001 yılında kurulan UNI Teknoloji Ürünleri San ve Tic. Ltd .Şti. bünyesinde ithal edilen mobil aksesuar ürünleri markasıdır.Cep telefonu, tablet bilgisayar, seyahat şarj cihazı, araç şarjı, data kablosu, apple mfi ürünleri, akıllı ev priz sistemleri, taşınabilir şarj cihazları, kulaklık, u-flash disk, gps ve telefon özellikli akıllı saat, akıllı bileklik, bluetooth hoparlör, antilost ürünleri, araç içi holder ve tüm cep telefonları için kırılmaz cam ekran koruyucu ürünlerine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bang & Olufsen",
+    "description": "Bang & Olufsen, 1925 yılında Peter Bang ve Svend Olufsen tarafından kurulan Bang & Olufsen A/S bünyesindeki ses ürünleri, televizyon ve telefon markasıdır.Bang & Olufsen ürünleri ağırlıklı olarak 100’den fazla ülkede geniş ve bağımsız bir perakende ağı tarafından satılmaktadır.Bang & Olufsen A/S Danimarka merkezlidir.Büyük hissedarlar:Jian Hong Qi (yüzde 15)ATP Arbejdsmarkedets Till-gspension (yüzde 11,5)Nordea Yatırım Yönetimi (yüzde 6)Augustinus Fonden (yüzde 5,79)Bang ve Olufsen (kendi kendini kontrol) (yüzde 5,47)Furchfonden (yüzde 5,12)Invesco Danışmanları, (yüzde 4,63)New Jersey Yatırım Bölümü (yüzde 2,92)Nykredit Bank (Yatırım Yönetimi) (yüzde 2,62)Sadakat Yönetimi ve Araştırma (Hong Kong) (yüzde 2,28)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": "2023-02-13"
+  },
+  {
+    "company": "Gıpta",
+    "description": "1984 yılında kurulmuş olan Gıpta A.Ş. bünyesindeki kağıt ürünler, ofis malzemeleri, defter, okul kırtasiye ürünleri, promosyon, ambalaj ürünleri markasıdır.Hediye, mücevher kutuları, kağıt çanta, delgeç, zımba, fineliner, marker, versatil kalem, renkli boyalar, oyun hamurları gibi ürünler üretmektedir.ISO 9001, ISO 14001 ve TSE belgelerine sahiptir.Firma Ankara merkezlidir. Ankara Temelli bölgesinde 43 bin 220 metrekarelik alanda bulunan 23 bin 647 metrekarelik fabrikasında ve İstanbul’da 10 bin metrekarelik binasında üretim yapmaktadır. Ürünlerini 20’den fazla ülkeye ihraç etmektedir.Gıpta Nerenin Malı Markası :",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-04-06"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Marloe Watch",
+    "description": "Marloe Watch, 2015 yılında kurulan Marloe Watch Co. bünyesindeki mekanik kol saati markasıdır.Geleneksel saat yapımcılığı konusuna odaklanmıştır ve kurmalı mekanik saatler üretmeye devam etmektedir.Marloe Watch Company, İskoçya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Calculated Industries",
+    "description": "Calculated Industries, 1978 yılında kurulan Calculated Industries Inc. bünyesindeki profesyonel ticaret hesap makineleri ve dijital ölçüm araçları markasıdır.Firma gayrimenkul, finansal planlama, inşaat, mimarlık, iç ve tesis tasarımı, radyo ve televizyon yayıncılığı ve bordro muhasebesi uzmanları için sezgisel, sektöre özel hesap makineleri ve elektronik ölçüm araçları geliştirir.Calculated Industries Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Komcero",
+    "description": "Komcero, 1962 yılında kurulan Şahinler Ayakkabıcılık San. ve Tic. Ltd. Şti. bünyesinde üretilen ayakkabı markasıdır.Ayakkabı üretiminde kullanılan iç ve dış deriler ve tüm hammaddeler Azo-Fitalat gibi kanserojen madde içermemektedir.Firma ürünlerini 5 bin 200 metrekarelik kapalı alanda üretmekte ve 37 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ordro",
+    "description": "Ordro, 2010 yılında kurulan Shenzhen Pa.Times Technology Co. Ltd. bünyesinde üretilen bilgisayar çevre birimleri; kameralar, fotoğraf makineleri, ağ iletişim ekipmanları markasıdır.Shenzhen Pa.Times Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Phixi",
+    "description": "Phixi, 2013 yılında kurulan Mobilind Teknoloji ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen mobil aksesuarlar markasıdır.Ürünleri arasında şarj cihazlari, araç şarj cihazi, kulaklık, bluetooth kulaklık, taşinabilir şarj cihazi, araç içi aksesuarlar, kablo, hoparlör, çevirici ve dönüştürücü, koruma gibi ürünler yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

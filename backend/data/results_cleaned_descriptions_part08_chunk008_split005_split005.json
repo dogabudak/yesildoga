@@ -1,0 +1,60 @@
+[
+  {
+    "company": "Stetsom",
+    "description": "1989 yılında kurulmuş olan Stetsom Eletronica Ltda. bünyesinde üretilen araç ses amplifikatörleri ve hoparlör sistemleri markasıdır.Stetsom Eletronica Ltda. Brezilya merkezlidir ve ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Cosby Fun",
+    "description": "Cosby Fun, 2010 yılında kurulmuş olan Uçantay Gıda San. ve Tic. A.Ş. tarafından üretilen süt, kakao ve gevrekten oluşan yumurta biçimli atıştırmalık markasıdır.ISO 9001, ISO 22000, Helal ve Koşer belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Manisa OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lalin Reçel",
+    "description": "2021 yılında kurulmuş olan Platin Agro Gıda San. A.Ş. bünyesinde üretilen helva, reçel ve marmelat, tahin ve pekmez, tahinli ve kakaolu fındık kreması markasıdır.Organik reçelleri hiçbir koruyucu veya katkı maddesi şeker içermez.Firma Kilis merkezlidir ve ürünlerini 10 bin metrekarelik alanda bulunan tesisinde üretmektedir ve çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "3d Twister",
+    "description": "3d Twister Hangi Ülkenin Malı Markasıdır3d Twister1977 yılında kurulmuş olan Silverlit Toys Manufactory Ltd. bünyesinde üretilen oyuncak uzaktan kumandalı araba markasıdır.Silverlit Toys Manufactory Ltd. Hong Kong merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Vapur Kafe",
+    "description": "Vapur Kafe İstanbul Şehir Hatlarıİstanbul Büyükşehir Belediyesi iştiraki İstanbul Şehir Hatları Turizm San. ve Tic. A.Ş. bünyesindeki vapur kahve şubeleri markasıdır.Menüde; özel hazırlanmış çekirdekler, öğütülmüş kahveler, çay, tost, soğuk içecekler ve atıştırmalık paketli ürünler ile glutensiz ürünler yer almaktadır.ISO 9001, ISO 10002, ISO 14001, ISO 45001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

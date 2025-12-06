@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Cosme de Corte",
+    "description": "Cosme de Corte, 1946 yılında Kozaburo Kobayashi tarafından kurulan Kose Corporation bünyesindeki cilt bakım ürünleri, makyaj ve parfüm markasıdır.Kose Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Şahan Taş Fırın Un",
+    "description": "Şahan, 1997 yılında kurulan Tekbaş A.Ş. bünyesinde üretilen taş fırın un markasıdır.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Konya merkezli firma ürünlerini 40 bin metrekarelik açık alanda bulunan 20 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carvocal",
+    "description": "Carvocal, 2010 yılında kurulan Carvocal Elektronik Paz. İth. ve Tic. Ltd. Şti. bünyesindeki araç multimedya, ses sistemleri ve aksesuarları markasıdır.Firma İstanbul merkezlidir. İstanbul, İzmir ve Bursa’da mağazalara sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-02-29"
+  },
+  {
+    "company": "Breathe Right",
+    "description": "Breathe Right, 2014 yılında kurulan Foundation Consumer Healthcare LLC. bünyesindeki burun bandı markasıdır.Firma soğuk algınlığı ve alerjiler nedeniyle oluşan burun tıkanıklığı giderimi için ilaçların yanı sıra astım semptomları için tabletler sunmaktadır.Foundation Consumer Healthcare LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ekmekçioğlu Sincap",
+    "description": "Sincap, 1942 yılında Muharrem Ekmekçioğlu tarafından kurulan Ekmekçioğlu Gıda ve Kuruyemiş San. ve Tic. A.Ş. bünyesindeki antep fıstığı, ayçekirdeği, badem içi, leblebi, ceviz içi, fındık içi, kabak çekirdeği, yer fıstığı, kaju, karışık kuruyemiş, kavrulmuş mısır, sarı üzüm, siyah üzüm, soslu fıstık markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BoncukCeviksEkmekçiEkmekçilerEkmekçioğluEkmekçioğlu SincapEkmekçioğullarıGalaHouanitaHuanitaKendyLendyPinocchioPinokyoSincapSincap LebenskraftTopy",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

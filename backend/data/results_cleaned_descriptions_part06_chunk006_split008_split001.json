@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Ghost Bikes",
+    "description": "Ghost Bikes, 1993 yılında Uwe Kalliwoda ve Klaus Möhwald tarafından kurulan Ghost-Bikes Gmbh bünyesindeki bisiklet ve e-bisikletler markasıdır.Firma dağ, trekking, şehir, yol, çocuk bisikletleri üretmektedir.Ghost-Bikes Gmbh, Hollanda merkezli Accell Grup N.V. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Agristo",
+    "description": "Agristo, 1986 yılında kurulan Agristo NV bünyesinde üretilen dondurulmuş patates ürünleri ve türetilmiş patates ürünleri markasıdır.Agristo NV Belçika merkezlidir. İkisi Belçika’da, biri Hollanda’da olmak üzere üç üretim tesisine sahiptir. Ürünlerini 116 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Akgöl Peynir",
+    "description": "Akgöl Peynir Nerenin Malı MarkasıAkgöl, 1979 yılında kurulan Akgöl Sütçülük Gıda ve Paketleme San. Ltd. bünyesinde üretilen hellim peyniri, beyaz peynir, taze kaşar, lor ve delikli peynir markasıdır.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.KKTC merkezli firma ürünlerini Kıbrıs’ta bulunan tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "Northern Cyprus",
+    "updated_date": null
+  },
+  {
+    "company": "Adel Çikolata",
+    "description": "Adel Çikolata Nerenin Malı MarkasıAdel Çikolata, 1960 yılında kurulan Tatbey Çikolata Şekerleme Gıda San. ve Tic. A.Ş. bünyesinde üretilen çikolata, yumuşak, sert ve jöle şeker markasıdır.ISO 22000 ve Helal belgelerine sahiptir.Konya merkezli firma 20 bin metrekarelik üretim ve stoklama alanına sahiptir.Bünyesindeki markalar;Abu Delma Center Filled Fruit ChewsAdel CorlettaAdel ÇaylaAdel FondamelAdel Fondonice SpecialAdel FreelandAdel GardenAdel MaxcocoAdel NewworldAdel NitroAdel Silver Special Compound ChocolateAdel Sweet Of MilkAdel SweetlifeAdel VivaAdel VolettaAderellaBliss TruffleCandyfruitGoldbonJoyfruitMilkbonMurad GoldSanadelmaTatbey AdelTinybonTwistaTwitatWiwor",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alyan Çikolata",
+    "description": "Alyan Çikolata Nerenin Malı MarkasıAlyan, 2019 yılında kurulan Alyan Gıda Üretim İthalat Ihracat San. Tic. A.Ş. bünyesinde üretilen çikolata çeşitleri markasıdır.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma ürünlerini Sakarya’daki 45 bin metrekare açık, 12 bin metrekare kapalı alana sahip fabrikalarında üretmektedir.Bünyesindeki markalar;AlbeyAlyanAlyanlolitaAssoAycellBebBeyhudeBlackmanBrrCağlaCamelliaChoco BoyChocolate VolumeChocoverseConsCreamlandÇağlaÇokomaskotÇokopopDimi DimiGegHerkülHeyyo Space EggHeyyo TurtleJawsJoymaxKafigoKnockLambordLux Truffe TruffinoLux Truffles TruffinoMaxi ClassMemMindoMonteyerMontgardenNenNutcityNutcity PremiumOlimposOrkoParparaPokyPollyPoundPrivilageSefkarSürerSweetifyTaksimTaximToyotoyVolumeZerre",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

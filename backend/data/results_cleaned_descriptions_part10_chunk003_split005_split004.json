@@ -1,0 +1,46 @@
+[
+  {
+    "company": "9wishes",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Lamiderm",
+    "description": "1937 yılında kurulmuş olan Qualiphar NV bünyesindeki yanık kremi markasıdır.ISO 13485 ve GMP belgelerine sahiptir.Qualiphar NV Belçika merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Tawi",
+    "description": "2018 yılında kurulmuş olan Piab Group’a ait Tawi AB bünyesindeki vakumlu kaldırıcılar, vinç sistemleri, köprülü vinç ve vinçlerden mobil kaldırma ekipmanları markasıdır.Piab Group AB İsveç merkezlidir.Bünyesindeki markalar;AirbestAlum-a-LiftCovalIB Verfahrens- und AnlagentechnikJoulinKenosManut-LM",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Mille 885",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Makanai",
+    "description": "1978 yılında kurulmuş olan Ya-man Ltd. bünyesindeki güzellik ve cilt bakım ürünleri markasıdır.Ürünleri doğal türevli bileşenlerden üretilmektedir ve hayvanlar üzerinde test edilmemektedir.Ya-man Ltd. Japonya merkezlidir.Bünyesindeki markalar;MakanaiMineral AirMysé",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

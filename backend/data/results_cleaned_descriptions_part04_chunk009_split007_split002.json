@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Ideal Baby",
+    "description": "Ideal Baby, 2015 yılında kurulan Aden & Anais, Inc. bünyesindeki bebek kundaklama, bebek kıyafetleri, uyku tulumu, önlükler, battaniyeler, beşik çarşafları, kapüşonlu havlu seti ürünleri, oyuncaklar markasıdır.Aden & Anais, Inc. Amerika merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Evokids",
+    "description": "Evokids, 2007 yılında kurulan Berkon Yapı Tekstil Mobilya Tic. Ltd. Şti. bünyesindeki bebek ve çocuklar için güvenlik ürünleri, kauçuk sünger, kilitler, sabitleyiciler markasıdır.Firma ürünlerini doğrudan ithalatçısından veya üreticisinden tedarik etmektedir.Bünyesindeki markalar;Bebek ŞehriEvokids",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pinax",
+    "description": "Pinax, 1981 yılında Erdoğan Küçükkaya tarafından kurulan Özkaya Ticaret Ltd. Şti. bünyesindeki tüp lehim ve lehim pastası, hırdavat malzemeleri, posta kutusu ve ilan panosu, inşaat malzemeleri, bahçe el aletleri, kesici el aletler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "TVT Ateş Ölçer",
+    "description": "TVT Ateş Ölçer Hangi Ülkenin Malı MarkasıTVT, 2012 yılında kurulan Shen Zhen Rong Feng Technology Co. Ltd. bünyesinde üretilen dijital temassız ateş ölçer markasıdır.Firma kan basıncı monitörü, dijital ateş ölçer, kan şekeri ölçüm, glikoz ekranı, infared kulak ateş ölçer gibi elektronik tıbbi cihazlar üretmektedir.Shen Zhen Rong Feng Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vzn",
+    "description": "Vzn, Vizyontıp Sağlık Ürünleri İth. ve İhr. Ltd. Şti. tarafından ithal edilen anne ve bebek ürünleri, temassız ateş ölçerler, dijital tansiyon aleti, mekanik tansiyon aleti, medikal aksesuar ve yedek parçalar, medikal ürünler, ekg ürünleri ve aksesuarları, pet ürünleri markasıdır.ISO 13485 belgesine sahiptir. Ürünleri Çin’den ithal edilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

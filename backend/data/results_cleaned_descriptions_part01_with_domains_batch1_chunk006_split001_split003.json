@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Lite-On",
+    "description": "Lite-On Hangi Ülkenin MalıLite-on, 1975 yılında kurulan; bilgisayar, iletişim, tüketici elektroniği, otomotiv elektroniği, LED aydınlatma, bulut bilgi işlem, endüstriyel otomasyon ve Biyoteknoloji ve sağlık gibi geniş bir uygulama yelpazesi içinde kullanılan ürünler üreten Tayvan merkezli markadır.LITEON, optoelectronics, bilgi teknolojisi, depolama cihazları ve mobil cihazlar bileşenlerinin dünya çapındaki önde gelen sağlayıcısıdır.Son yıllarda LITE on, üretim odağı, bulut bilgi işlem, LED aydınlatma, otomotiv, biyoteknoloji ve endüstriyel otomasyon gibi IoT uygulamalarına doğru geçiş yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2020-01-01"
+  },
+  {
+    "company": "Türkiye İş Bankası",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-03-29"
+  },
+  {
+    "company": "Tampa",
+    "description": "Tampa 1960 yılında Kadri ve Tamer Albayrak tarafından temeli atılan Esmen kozmetik bünyesindeki temizlik kimyasalları, genel temizlik kimyasalları, gıda üreticileri için hijyen ürünleri ve havuz kimyasalları için üretilen Türk markasıdır.Firma Bünyesindeki markalar:TampaEsmenSelesEGALİA",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tex",
+    "description": "Tex 1994 yılında kurulan Aykim Temizlik Maddeleri Sanayi ve Ticaret Ltd. Şti. bünyesine ait bir markadır.Firma İstanbul’da yüzde 100 yerli sermaye ile hızlı tüketime yönelik temizlik ve hijyen ürünleri üretimi ve dağıtımı yapmak maksadıyla kurulmuştur.Aykim, Avrupa başta olmak üzere Asya ve Afrika’da yaklaşık otuz ülkeye kendi markaları ile ihracaat yapmaktadır.Firmaya ait markalar:TexAspirixLentoÖzcanBabylifeGreenerGlanexPexus",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2018-11-29"
+  },
+  {
+    "company": "Rama Margarin Yağ",
+    "description": "Rama, 1924 yılında ilk kez üretilen, Upfield B.V. bünyesindeki bitkisel sürülebilir yağ, margarin markasıdır.Ayçiçek lestini, aroma verici, koruyucu ve renklendirici içermektedir.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Upfield B.V. 2018 yılında Amerika merkezli küresel yatırım şirketi KKR & Co. Inc. tarafından satın alınmıştır. Türkiye’de Upfield İstanbul Gıda Üretim A.Ş. olarak faaliyet göstermektedir. Ürünlerini 95 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-03-22"
+  }
+]

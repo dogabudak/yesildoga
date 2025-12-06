@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Skil",
+    "description": "Skil, 1926 yılında Edmond Michel tarafından kurulan Skil Corporation bünyesindek elektrikli el aletleri ve aksesuarları markasıdır. 2016 yılında Chervon Ltd. tarafından satın alındı.Ürünleri arasında daire testere, akülü matkap, akülü vidalama, akülü mastik tabancaları, zımpara, açı öğütücüler, çekiçler, karıştırıcılar, jig testereler, lazerler ve ölçüm araçları, yönlendirici ve planers pistonlu, elektrikli testere, elektrikli tornavida, darbeli anahtar, taşlama makinesi, çit budama makinesi vardır.Chervon Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2020-08-12"
+  },
+  {
+    "company": "Denon",
+    "description": "Denon, Sound United, LLC. bünyesinde üretilen çok odalı ses, bluetooth, bluetooth hoparlör, ev sineması, av receiver, soundbar, yükselticiler, hi-fi komponentleri, amplifikatör, cd/sacd oynatıcısı, network player, turntable, kompakt sistem, ağ müzik sistemi, mini, kulaklıklar, music maniac, seyahat, kritik dinleme ürünleri markasıdır.Sound United, LLC. Amerika merkezlidir.Bünyesindeki markalar:DenonPolkMarantzDefinitive TechnologyHEOSBoston AcousticsClasse",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Musto",
+    "description": "Musto, 1964 yılında Keith Musto tarafından kurulan Musto Inc. bünyesindeki giyim markasıdır.Yelkenli giysiler, binicilik giyim, çekim giyim ve yaşam tarzı açık giyim ürünleri üretmektedir.2018 yılında Kanada merkezli perakendeci Canadian Tire Corporation, Limited tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Keenetic",
+    "description": "Keenetic, 2010 yılında kurulan Keenetic HQ bünyesindeki akıllı router, modem ürünleri markasıdır.Keenetic, ürünlerinde Keenetic OS ve bulut mimarisini kullanmaktadır.Keenetic HQ, Hong Kong merkezlidir. 2018 yılından itibaren Türkiye’de Keenetic İletişim Teknolojileri Bilişim Pazarlama ve Danışmanlık A.Ş. olarak faaliyet göstermeye başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Buffalo",
+    "description": "Buffalo, 1998 yılında kurulan Buffalo Americas, Inc. bünyesindeki depolama, ağ oluşturma ve teknolojileriyle ilgili diğer çözümler markasıdır.Ölçeklendirilebilen ağ ekli depolama (NAS) cihazları önceden test edilmiş sabit disklerle yüklenir.Buffalo Americas, Inc. Japonya merkezlidir ve Hollanda, İrlanda, ABD ve Tayvan’da ofisleri bulunmaktadır.Japonya’nın önde gelen bilgisayar çevre aygıtları üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2023-03-15"
+  }
+]

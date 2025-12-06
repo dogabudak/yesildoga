@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Tekir",
+    "description": "Tekir, 1999 yılında kurulan Tekir İçecekler Grubu tarafından üretilen doğal kaynak suyu, maden suyu ve gazoz markasıdır.ISO 9001, ISO 2200, TSE ve Helal Belgelerine sahiptir.Ürünlerini Niğde’de bulunan 2 tesisinde üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 2200",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-18"
+  },
+  {
+    "company": "Alps Electric",
+    "description": "Alps Electric, 1948 yılında kurulan Alps Electric Co., Ltd. bünyesindeki merkezi anahtar, potansiyometre, sensör, kodlayıcı ve dokunmatik yüzeyler olmak üzere elektronik cihazlar markasıdır.Araç ses sistemi üreticisi Alpine bünyesinde yer almaktadır.Amerika, Avrupa, Güneydoğu Asya, Kore, Çin ve Japonya’da Ar-Ge, üretim ve satış tesislerine sahiptir.Alps Electric Co., Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "HCS Kablo",
+    "description": "HCS, 2000 yılında kurulan Hcs Kablolama Sistemleri San. ve Tic. A.Ş. bünyesindeki kablolama ürünleri markasıdır.Kablolama sistemi UTP ve FTP bakır ürünler ile, fiber optik ürünleri kapsamaktadır.Hcs Kablolama, İngiltere merkezli Wilkins Kennedy firması tarafından kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Costa Coffee",
+    "description": "Costa Coffee, 1971 yılında Bruno ve Sergio Costa tarafından kurulan Costa Limited bünyesindeki kahve zinciri markasıdır.Kahve, çay, sandviç, tatlı atıştırmalıklar ve buzlu içecekler sunmaktadır. 31 ülkede 3 binin üzerinde mağazası bulunmaktadır.2019 yılında Amerika merkezli Coca-Cola Company’ye satıldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Candela",
+    "description": "Candela, 1970 yılında kurulan Candela Corporation bünyesindeki tıbbi estetik cihaz markasıdır.Şirketin teknolojileri, hekimlerin iyi huylu vasküler ve pigmentli lezyonlar, yara izleri, epilasyon, yüz yenileme, kırışıklık azaltma, kadın sağlığı tedavileri, dövme kaldırma, akne, bacak damarları, selülit ve vücut şekillendirme dahil olmak üzere tıbbi-estetik uygulamalar geniş bir yelpazede çözümler sunmasını sağlar.Candela Corporation 2017 yılında İngiltere merkezli Apax Partners LLP tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

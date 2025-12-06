@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Elele Baby",
+    "description": "Elele Baby2016 yılında kurulmuş olan Elele Dış Tic. A.Ş. bünyesindeki ana kucağı, bebek arabası, bebek bakım çantası, bebek banyo aksesuarları, mama sandalyesi, oto koltuğu, seyahat sistem bebek arabası, uyku tulumu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "HazerBaba",
+    "description": "HazerBaba1989 yılında kurulmuş olan Hazer Baba Gıda San. İç ve Dış Tic. Ltd. Şti. bünyesindeki çaylar ve kahveler, baklava, helva ve pişmaniyeler, kestane şekeri, kuruyemiş ve meyveler, lokumlar markasıdır.Ürünleri gluten ve jelatin içermez. ISO 9001, ISO 22000 belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Imannoor",
+    "description": "Imannoor2021 yılında kurulmuş olan Imannoor Tekstil ve Tic. A.Ş. bünyesindeki şal, eşarp, tesettür giyim ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fulsac",
+    "description": "Fulsac1945 yılında kurulmuş olan Biofarma İlaç San. ve Tic. A.Ş. bünyesindeki ilaç markasıdır.Biofarma İlaç San. ve Tic. A.Ş. çoğunluk hisselere sahip olan ve yönetim kurulu başkanı Heinz Gisler’e ait İsviçre merkezli bir yatırımcı grubu tarafından 2021 yılında satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Prozac",
+    "description": "Prozac1876 yılında Eli Lilly tarafından kurulmuş olan Eli Lilly and Company bünyesindeki ilaç markasıdır.Eli Lilly and Company Amerika merkezlidir. Türkiye’de Lilly İlaç Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

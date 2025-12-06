@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Antor Motor",
+    "description": "Antor, 1972 yılında kurulan Anadolu Motor Üretim ve Pazarlama A.Ş. bünyesinde üretilen tek silindirli dizel motor markasıdır.Ürünleri çapa makinesi, jeneratör, motopomp, iş makineleri, inşaat makineleri gibi birçok alanda kullanılmaktadır.Anadolu Grubu’nun otomotiv çatısı altında faaliyet gösteren Kocaeli’de üretim yapan firma ürünlerini 50’ye yakın ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kiprun",
+    "description": "Kiprun, 2019 yılında Decathlon S.A. bünyesinde ithal edilen ayakkabı, giyim ve aksesuarlar markasıdır.Ürünleri plastik ağırlıklı hammaddelerden üretilmektedir.Decathlon S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Eti Gong Pops",
+    "description": "Eti Gong Pops, 1962 yılında kurulan Eti Gıda A.Ş. bünyesinde üretilen baharat çeşnili mısır patlağı markasıdır.Palm yağı içermektedir.Firma Eskişehir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fremax",
+    "description": "Fremax, 1966 yılında kurulan Fras-Le SA bünyesinde üretilen binek otomobiller ve hafif kamyonlar için otomobil parçaları markasıdır.Fras-Le SA, fren balataları, debriyaj kaplamaları, ray ve metro pabuçları üretmektedir.ISO 9001, ISO TS 16949, ISO 14001 belgelerine sahiptir.Fras Le SA Brezilya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Levent Börek",
+    "description": "Levent Börek, Levent Tamtürk tarafından kurulan LB Börekçilik Gıda San. Tic. Ltd. Şti. bünyesinde üretilen börek, boyoz, mantı, kahvaltılıklar ve tatlılar markasıdır.Peynirli, pastırmalı, kıymalı, kavurmalı, ıspanaklı, çikolatalı börek çeşitleri sunmaktadır.ISO 9001, OHSAS 18001, Helal Gıda belgelerine sahiptir.Firma Adana’da üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

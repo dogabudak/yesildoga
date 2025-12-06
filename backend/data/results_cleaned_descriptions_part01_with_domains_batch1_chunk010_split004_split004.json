@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Saft",
+    "description": "Saft, 1918 yılında Victor Herold tarafından kurulan Saft Groupe S.A. bünyesindeki taşımacılık, sanayi ve savunma alanında kullanılan pillerin tasarımı, gelişimi ve üretiminde yer alan uluslararası bir şirkettir.Saft Groupe S.A. şirketi Fransa merkezli çok uluslu petrol şirketi Total SA’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Orion Pil Ülke",
+    "description": "Orion pil, 1995 yılında kurulan şarjlı pil (Ni-Cd/Ni-Mh/Li-Ion) markasıdır.Orion Çin merkezli Çin-Japon ortak girişiminde kurulan Japonya teknolojisi modern üretim makineleri ve test donanımları kullanan uzman bir üreticidir.IQC FQC gibi 30’dan fazla kalite kontrol altındadır.Pasifik Elektronik İthalat – İhracat San. ve Tic. Ltd. Şti. Orion pillerini ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2018-12-23"
+  },
+  {
+    "company": "Renata Pil",
+    "description": "Renata, 1952 yılında Kurt Zehntner tarafından kurulan Renata AG SA (Renata Batteries) firması bünyesindeki düğme pil markasıdır.Renata tarafından sunulan pil teknolojileri gümüş oksit (kol saatleri, hesap makineleri ve küçük elektronik oyuncaklar, vb.), çinko hava (işitme cihazları için), Lityum (şarj edilemez, primer) (bilgisayar pili yedekleme, vb.) ürünlerini içerir.Renata AG SA, 1998 yılında İsviçre merkezli Swatch Group tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Eurostar Akü",
+    "description": "Eurostar Akü, 1985 yılında kurulan Zafer Enerji Sistemleri Sanayi ve Dış Tic. Ltd. Şti. bünyesindeki akü markasıdır.Zafer Enerji Sistemleri yerli firmadır ve ürünlerini 15 ülkeye ihraç etmektedir.Eurostar kuru tip AGM teknoljisiyle dizayn edilmiştir. Genel kullanım alanları UPS ve acil durum aydnlatma sistemleridir.Bünyesindeki markalar:EurooneEurostarZaferplus",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eve",
+    "description": "Eve, 2001 yılında kurulan Huizhou EVE Energy bünyesindeki yüksek enerjili Lityum pil markasıdır.Ürünleri yaygın olarak akıllı metre, otomotiv, güvenlik ve veri iletişimi, ile akıllı ulaşım alanlarında kullanılmaktadır.Huizhou EVE Energy Co., Ltd Çin merkezli bir şirkettir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

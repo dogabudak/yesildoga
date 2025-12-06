@@ -1,0 +1,48 @@
+[
+  {
+    "company": "TRW Ülke",
+    "description": "TRW, 2002 yılında kurulan; fren sistemleri, direksiyon ve süspansiyon parçaları, ticari araç bileşenleri ve servis araçları yedek parçaları markasıdır. 2015 yılında ZF Friedrichshafen AG tarafından satın alınmıştır. ZF dünya genelinde en büyük otomobil parça tedarikçilerinden biridir.Almanya merkezli ZF, güç aktarma organları ve şasi teknolojilerinin yanı sıra aktif ve pasif güvenlik teknolojisinde de küresel liderdir. Bünyesinde her tip ZF şanzıman, diferansiyel, direksiyon üniteleri için yedek parça yer almaktadır.ZF’nin 40 ülkede 230 adet üretim tesisi bulunmaktadır.ZF Friedrichshafen, sahipleri yüzde 93,8 oranıda Zeppelin Vakfı ve yüzde 6,2 oranında Dr. Jürgen ve Irmgard Ulderup Stiftung.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "CATA Ev Aletleri",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Zara",
+    "description": "Zara, 1985 yılında Amancio Ortega ve Rosalía Mera tarafından kurulan hazır giyim markasıdır.Zara Inditex grubu bünyesindedir. Grubun en büyük şirketidir.Inditex, 1985 yılında; 8 ayrı ticari markayı tek çatı altında toplayıp yönetmek için kurulan, 86 ülkede 6 bin 104 mağazaya sahip dünyanın başlıca moda dağıtıcılarındandır.İspanya merkezli Inditex grubu; tekstil tasarımı, üretimi ve dağıtıcısı iş faaliyetleri yürüten 100’ün üzerinde yan şirketi bünyesinde barındırmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Balenciaga",
+    "description": "Balenciaga, 1956 yılında Cristobal Balenciaga tarafından kurulan Balenciaga S.A. bünyesindeki giyim, ayakkabı, deri ürünleri, mücevher ve aksesuarlar markasıdır.Balenciaga, 1963 yılında François Pinault tarafından kurulan Fransa merkezli Kering S.A. lüks giyim grubu bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Cien",
+    "description": "Cien, Schwarz Group bünyesindeki iskonto mağazalar zinciri Lidl adına üretilen cilt bakım ürünleri markasıdır.Schwarz Group’un sahibi Alman iş adamı Dieter Schwarz’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

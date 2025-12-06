@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Avengrass",
+    "description": "2017 yılında kurulmuş olan İntegral Group A.Ş. bünyesindeki spor ve peyzaj suni çimleri markasıdır.Futbol sahaları, basketbol sahaları, tenis kortları, hokey sahası, ragbi sahası, oyun alanları, bahçeler, teraslar, fuar alanları, özel ve ticari diğer alanlar için yapay çimler üretmektedir. İAAF Athletic, Fifa, ISO 9001, Ekoteks belgelerine sahiptir.Firma İstanbul merkezlidir ve Tekirdağ’da bulunan fabrikasında üretim yapmaktadır. İstanbul, New York, Londra, Moskova ve Doha’da ofisleri bulunmaktadır. 60 ülkede faaliyet göstermektedir.Bünyesindeki markalar;",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doğalım",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tutima",
+    "description": "1927 yılında kurulmuş olan Tutima Uhrenfabrik Gmbh bünyesindeki lüks saatler, pilot saatleri, yüksek hassasiyetli analog kronograflar markasıdır.Tutima Uhrenfabrik Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Gai Mattiolo",
+    "description": "1983 yılında kurulmuş olan Gai Mattiolo Holding S.A. büyesindeki moda, hazır giyim, aksesuar ve kokular markasıdır.Gai Mattiolo Holding S.A. İtalya merkezlidir ve çok sayıda ülkede mağazalara sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "La Prairie",
+    "description": "1954 yılında kurulmuş olan La Prairie Group AG bünyesindeki lüks yüz kremleri, yüz serumları, temizleyiciler ve tonerler, göz bakım ürünleri, fondöten markasıdır.La Prairie Group AG Almanya merkezli Beiersdorf Grubu’na aittir. Ürünleri İsviçre’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

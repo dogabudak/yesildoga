@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Happy Center",
+    "description": "Happy Center, 1996 yılında Nadir Altun tarafından kurulan Altun Gıda İhtiyaç Tüketim Maddeleri İnşaat Sanayi ve Ticaret A.Ş.’ye ait market zinciridir.Marmara Bölgesinde 135 Şubesi ile hizmet vermektedir.Happy Center marketlerin çoğunluğu İstanbul’da yer alırken ayrıca Bursa, Balıkesir, Çanakkale ve Kocaeli’de şubeleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-11-10"
+  },
+  {
+    "company": "Victor",
+    "description": "Victor, 1976 yılında kurulan İnselberg Bilişim Teknolojileri A.Ş.’ye ait telefon markasıdır.Bir diğer markası Victor Gaming Machine, ile bilgisayar, notebook ve tablet bilgisayar ürünleri satılmaktadır. Ürünleri Çin’de üretilmektedir.PRO2000 marka bilgisayarlar İnselberg A.Ş. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Alpella",
+    "description": "Alpella, 1995 yılında Ülker Bisküvi Sanayi A.Ş.’ye bağlı üretilen çikolata markasıdır.Ülker, 1944 yılında Sabri ve Asım Ülker tarafından kurulan Ülker Bisküvi Sanayi A.Ş. bünyesindeki; çikolata, diyet ürünler, bisküvi, gofret, bebek maması, mandıra ürünü ve kahvaltı gevreği markasıdır.Ülker’in sahibi ve kontrolü Ülker ailesine ait Yıldız Holding’dedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tata Arabası",
+    "description": "Tata, 1945 yılında Ratan Naval Tata tarafından kurulan Tata Motors Limited bünyesindeki araç markasıdır.Tata dünyanın en ucuz arabasını üretmiştir.Hindistan merkezli Tata Motors Limited Hindistan’ın Jamshedbur, Pune ve Lucknow şehirlerinde bulunan fabrikalarında ve Malezya, Mısır, Kenya, Güney Afrika Cumhuriyeti ile Bangladeş’te üretim yapmaktadır.Daewoo şirketinin ağır vasıta bölümünü ve Land Rover ile Jaguar markalarını bünyesine katmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Erkunt Traktör",
+    "description": "Erkunt Traktör Hangi Ülkenin Malı MarkasıErkunt Traktör, Erkunt Sanayi A.Ş. bünyesinde 2003 yılında kuruldu.Erkunt Traktör Sanayii A.Ş., Ankara Sincan OSB’de üretim yapmaktadır.Erkunt Traktör, 2017 yılında Hindistan merkezli Mahindra & Mahindra tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

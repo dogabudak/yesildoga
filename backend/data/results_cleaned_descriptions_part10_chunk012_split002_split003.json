@@ -1,0 +1,52 @@
+[
+  {
+    "company": "S-Works",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Noreana",
+    "description": "2019 yılında kurulmuş olan Fck Grup Ltd. Şti. bünyesindeki yüz serumları ve kremleri, vücut bakım ürünleri ve şampuanlar markasıdır.Ürünleri zararlı kimyasallar içermez.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Miteksa",
+    "description": "Miteksa Elektronik San. ve Tic. A.Ş. bünyesinde üretilen şarj cihazları, hızlı şarj cihazları, araç şarj cihazları, kablolar, data kabloları markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 15 bin metrekarelik fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Farberware",
+    "description": "1900 yılında kurulmuş olan Farberware LLC. bünyesindeki tencereler, fırın kapları, kek kalıpları markasıdır.Farberware LLC. 1997 yılında Hong Kong merkezli Meyer Manufacturing Co. Ltd. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Wolfrom Alpha",
+    "description": "2009 yılında kurulmuş olan WolframAlpha LLC bünyesindeki cevap motoru markasıdır.Kullanıcılar bir metin alanı aracılığıyla bir soru veya hesaplama isteği girer.WolframAlpha LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

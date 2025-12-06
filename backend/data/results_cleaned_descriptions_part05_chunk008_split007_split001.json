@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Apot.Care",
+    "description": "Apot.Care, 2009 yılında kurulan Apotcare SARL bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. Tamamı geri dönüştürülmüş kağıt ve geri dönüştürülebilir cam ambalaj kullanmaktadır.Apotcare SARL Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Petline Pet Food",
+    "description": "Petline Pet Food, 2009 yılında kurulan Karnaval Ambalaj ve Gıda Yem San. Ltd. Şti. bünyesindeki kedi veya köpek mamaları markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Millerknoll",
+    "description": "Millerknoll, 1923 yılında Dirk Jan DePree tarafından kurulan Herman Miller Inc. bünyesindeki mobilya ve ofis ekipmanları markasıdır.Herman Miller Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yalazboya",
+    "description": "Yalazboya, 1993 yılında kurulan Yalaz Boya Kimyasal ve Gıda Ürünleri İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen boya markasıdır.İzmir merkezli firma ISO 9001 ve ISO 14001 belgelerine sahiptir.Bünyesindeki markalar;Color MatchDila YalazEge’nin İncisi YalazHytech-ThermYalaz FrescoYalaz Plus+Yalaz Rengini Baştan YazYalaz RoyalYalazboya",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ProPerformance",
+    "description": "ProPerformance, 2010 yılında Arpacıoğlu Grup tarafından kurulan Smyrna Pet Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki kedi ve köpek besinleri markasıdır.Ürünleri koruyucu, renklendirici, lezzet artıcı katkı maddeleri ve alerjen madde içermez.İzmir merkezli firma 13 ülkeden temin ettiği ham maddeyi kullanarak ürünlerini çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;Pro PerformanceNature’s ProtectionAnimal WorldHypawPisi Pisi",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

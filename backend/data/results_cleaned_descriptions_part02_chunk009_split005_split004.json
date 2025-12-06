@@ -1,0 +1,46 @@
+[
+  {
+    "company": "İpek Pamuk",
+    "description": "İpek Pamuk, 1972 yılında kurulan İpek İdrofil Pamuk San. ve Tic. A.Ş. bünyesindeki kasarlı hidrofil pamuk, zigzag hidrofil pamuk, kozmetik amaçlı hidrofil pamuk ve non woven hidrofil pamuk markasıdır.İpek İdrofil Pamuk; temel ihtiyaç, kozmetik ve bebek temizliği gibi farklı alanlarda tüketicilere pamuk bazlı ürünler sunmaktadır.Bünyesindeki markalar:İpek Klasikİpek Organikİpelinaİpek Bebek",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Banat",
+    "description": "Banat, 1947 yılında Lütfü Banat tarafından kurulan Banat Firça ve Plastik San. A.Ş. bünyesindeki yetişkin ve çocuk diş fırçaları, saç fırçaları, fashion taraklar, b-cure, temizlik fırçaları, temizlik bezleri, süngerler ve ovma telleri, temizlik mop ve aparatları, cam ve yer silecekleri markasıdır.Banat Firça ve Plastik San. A.Ş. 1976 yılında Zühtü ŞENYUVA tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-02-04"
+  },
+  {
+    "company": "OFF Böcek İlacı",
+    "description": "OFF, 1886 yılında kurulan S.C. Johnson & Son bünyesindeki haşere kovucu ürünleri markasıdır.Amerika merkezli S. C. Johnson & Son şirketi mutfak, banyo, araç, bahçe için 50’den fazla ülkede bulunan fabrikalarıyla kimyasal ürünler üretmektedir ve ürünlerini 200’den fazla ülkede satmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Berrak",
+    "description": "Berrak, 1984 yılında kurulan Lila Group bünyesindeki Tuvalet Kağıdı, Kağıt Havlu ve Peçete gibi ürünlerin markasıdır.Lila Group, yüzde yüz yerli sermaye ile Çorlu’da 140 bin metrekarelik alanda temizlik kağıtları üretmektedir.Lila Kağıt dünyada yaklaşık 75 ülkeye yarı mamul ve mamul ihracatı yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aquafresh",
+    "description": "Aquafresh, 2000 yılında Glaxo Wellcome ve SmithKline Beecham firmasıyla kurulan GlaxoSmithKline (GSK) plc bünyesindeki diş macunu markasıdır.Türkiye’de 50 yıldan fazla bir süredir Glaxo Smith Kline İlaçları San. ve Tic. A.Ş olarak faaliyet göstermektedir.GlaxoSmithKline İngiltere merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

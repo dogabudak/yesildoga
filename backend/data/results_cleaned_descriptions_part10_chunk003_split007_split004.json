@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Pexus",
+    "description": "1994 yılında kurulmuş olan Aykim Temizlik Maddeleri San. ve Tic. Ltd. Şti. bünyesindeki saç şampuanları markasıdır.Firma İstanbul merkezlidir. Ürünlerini 30 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hello Nature",
+    "description": "1995 yılında kurulan Beliso Sp. z o.o. bünyesinde üretilen şampuan, nemlendirici, maske ve vücut bakımı ürünleri, losyon, yağ ve vücut yağları, duş jelleri ve sabun markasıdır.Beliso Sp. z o.o. Polonya merkezlidir ve ürünleri Polonya’da üretilmektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Oratape",
+    "description": "1808 yılında kurulan Orafol Europe Gmbh bünyesinde üretilen bant markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Almanya merkezli Orafol Europe Gmbh, Türkiye’de Orafol Türkiye A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Clean Maid",
+    "description": "2012 yılında kurulmuş olan Diamo Kozmetik San. ve Tic. A.Ş. bünyesindeki çamaşır temizleme ve bakım ürünleri, bulaşık yıkama, cam temizleyici, ev temizliği, fırın temizliği, halı yıkama, mobilya cilası, oda spreyi, sıvı çamaşır deterjanı, tuvalet temizliği, yüzey temizliği ürünleri markasıdır.ISO 9001, ISO 22716 belgelerine sahiptir.Firma İzmir merkezlidir. Ürünlerini 50’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evziz",
+    "description": "2013 yılında kurulmuş olan Hangzhou Ezviz Network Co. Ltd. bünyesindeki iot, wifi kameralar, güvenlik wifi kamera, açık kamera, kapalı kamera, alarm ve sensör, ev otomasyonu ve akıllı ev ürünleri markasıdır.Hangzhou Ezviz Network Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

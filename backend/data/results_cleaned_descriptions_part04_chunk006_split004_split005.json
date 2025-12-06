@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fallkniven",
+    "description": "Fallkniven, 1984 yılında Peter Hjortberger tarafından kurulan Fallkniven AB bünyesinde üretilen bıçak ve bıçakla ilgili dişli ve kalıp markasıdır.Fällkniven AB, İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Firman",
+    "description": "Firman, 1978 yılında kurulan Sumec Machinery & Electric Co. Ltd. bünyesinde üretilen makine ve elektrik ürünleri markasıdır.Güç makineleri, jeneratör, ev aletleri, elektronik ve elektrikli ürünler ve otomobil parçaları üretmektedir.SUMEC Machinery & Electric Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Multivac",
+    "description": "Multivac, 1961 yılında kurulan Multivac Sepp Haggenmüller SE & Co. KG bünyesindeki entegre ambalaj çözümleri markasıdır.Etiketleme ve ürünlerin kalite kontrolü ile işlenmesi için çözümlere de odaklanmaktadır.Multivac Sepp Haggenmüller SE & Co. KG Almanya merkezlidir. Ürün ve hizmetlerini 140’tan fazla ülkeye sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Jart+",
+    "description": "Dr. Jart+, 2004 yılında Lee Jin-wook tarafından kurulmuş olan Have & Be Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürün yelpazesinde nemlendiriciler, kauçuk yüz maskeleri ve BB kremleri bulunmaktadır.Have & Be Co. Ltd. 2019 yılında Amerika merkezli The Estée Lauder Companies Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-09-01"
+  },
+  {
+    "company": "Pura D’or",
+    "description": "Pura D’or, 2010 yılında kurulan Vital’s International Group bünyesindeki saç ve cilt bakım ürünleri markasıdır.Ürünlerinde organik özler ve performans odaklı yağlar, vitaminler, besinler ve antioksidanların bir karışımını kullanmaktadır.Ürünleri formaldehit, ftalat, gluten, hiçbir metalik alüminyum, klor, mineral yağ, ortak alerjen, paraben, propilen glikol, sentetik koku, sodyum lauril sülfat, toluen, triklosan, vazelin, yapay renklendirici içermemektedir.Vital’s International Group Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

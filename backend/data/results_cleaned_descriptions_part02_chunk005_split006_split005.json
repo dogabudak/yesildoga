@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Aviva",
+    "description": "Aviva, 2000 yılında Norwich Union ve CGU plc şirketlerinin birleşmesiyle kurulan Aviva plc. bünyesindeki çok uluslu sigorta markasıdır.16 ülkede faaliyet göstermektedir. Aviva plc. İngiltere merkezli bir şirkettir.2007 yılında Türkiye’de Hacı Ömer Sabancı Holding A.Ş. ile eşit ortaklık ilkesiyle kurulan AvivaSA kurulmuştur. Hisselerinin yüzde 20’lik bölümü Borsa İstanbul’da işlem görmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Aisino",
+    "description": "Aisino, 1994 yılında kurulan Aisino Corporation bünyesindeki BT markasıdır.Hizmetlerini finans, eğitim, gümrük, kamu güvenliği ve kentsel hizmetler de dahil olmak üzere daha geniş bir alana yaydı.Aisino Corporation Çin merkezlidir ve 53 iştiraki ile 60’tan fazla ülkede hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Embraer",
+    "description": "Embraer, 1969 yılında Ozires Silva tarafından kurulan Embraer S.A. bünyesindeki iş, ticari ve askeri uçaklar, uçak parçaları, hava ve zemin operasyonu için görev sistemleri markasıdır.Bünyesindeki markalar; EMB, ERJ, Legacy, Lineage, LR, PhenomEmbraer S.A. Brezilya merkezli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Barco",
+    "description": "Barco, 1934 yılında Lucien De Puydt tarafından kurulan Barco NV bünyesindeki dijital projeksiyon ve görüntüleme teknolojisi markasıdır.Şirket eğlence, kurumsal ve sağlık olmak üzere 3 temel pazara odaklanmıştır.Barco NV Belçika merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Vale",
+    "description": "Vale, 1942 yılında kurulan ve 1997 yılında özelleştirilen Vale S.A. bünyesindeki metal ve madencilik markasıdır.Dünyanın en büyük demir cevheri ve nikel üreticisi olmakla birlikte, manganez, ferro alaşımlar, bakır, boksit, potaş, kaolin ve kobalt üreticisidir.Vale S.A. Brezilya merkezli bir şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  }
+]

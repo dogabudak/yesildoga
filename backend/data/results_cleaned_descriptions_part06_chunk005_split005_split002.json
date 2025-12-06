@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Deler Demir",
+    "description": "Deler Demir, 1965 yılında kurulan Deler Demir Tic. ve San. Ltd. Şti. bünyesinde üretilen galvanizli, soğuk, boyalı, sıcak, asitli – hrp, trapez saclar markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Saray Alüminyum",
+    "description": "Saray Alüminyum, 1980 yılında kurulan Saray Döküm ve Madeni Aksam San. Turizm A.Ş. bünyesinde üretilen iç ve dış cephe çözümleri markasıdır.Profil, PVC profil ve alüminyum kompozit panel üretmektedir.ISO 9001, ISO 14001, ISO 50001, TSE belgelerine sahiptir.Ürünlerini İstanbul ve Tekirdağ’da bulunan toplam 90 bin metrekarelik kapalı alana sahip fabrikalarında üretmektedir ve ürünlerini 55 ülkeye ihraç etmektedir.Bünyesindeki markalar;Akdor WinAluboardAlufaceAlüminyuma Dair Her Şey SarayEce PlasGreenist Saraygrupİstanbul Ticaret SarayıSaraySaray RollSaraybondSaraydoorSaraypenSarplasTorri Pen",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Benev",
+    "description": "Benev, 2000 yılında kurulan Benev Company Inc. bünyesinde üretilen cilt bakım ürünleri markasıdır.Benev Company Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nstone",
+    "description": "Nstone, 2005 yılında kurulan Necipoğulları İnşaat Beton Taş Yapı Elemanları İnşaat Malzemeleri Taahhüt Gıda Maddeleri Kırtasiye Taşımacılık Dış Tic. San. ve Tic. Ltd. Şti. bünyesinde üretilen beton parke, bordür ve oluk gibi beton ürünleri markasıdır.Begonit, Patara, Truva gibi yüzlerce taş modeli sunmaktadır.Konya merkezli firma ürünlerini Konya’da bulunan fabrikalarında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Schönline",
+    "description": "Schönline Nerenin Malı MarkasıSchönline, 2007 yılında kurulan Altındağ Alüminyum Metal San. ve Tic. A.Ş. bünyesinde üretilen pvc pencere ve kapı sistemleri, pvc profil markasıdır.İstanbul merkezli firma ürünlerini İstanbul’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

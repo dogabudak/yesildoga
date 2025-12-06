@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Metin Helva ve Reçelleri",
+    "description": "Metin Helva ve Reçelleri Nerenin Malı MarkasıMetin Helva ve Reçelleri, 1970 yılında Metin Boztoprak tarafından kurulan Boztoprak Gıda San. ve Tic. A.Ş. bünyesinde üretilen helva ve reçel çeşitleri markasıdır.Ürünlerinde glikoz şurubu kullanılmamaktadır. HACCP ve ISO 9002 ve TSE belgelerine sahiptir.Reçel, Tahin, Kakao, Krema ve Pekmez gibi ürünlerini Afyon’da bulunan 15 bin metrekarelik açık, 7 bin 200 metrekarelik kapalı alanda üretmektedir. Ürünlerini Almanya, Belçika, ABD, Fransa, İngiltere, Danimarka, Norveç, Libya, Cezayir gibi ülkelere ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dylink",
+    "description": "Dylink, 2003 yılında kurulan Shenzhen Daya Computing Co. Ltd. bünyesinde üretilen splitter ürünleri (HDMI, DVI, SDI, vb.), Switch ürünleri ve genişletici ürünler markasıdır.Shenzhen Daya Computing Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hadim",
+    "description": "Hadim, 1999 yılında kurulan Hadim Alışveriş Merkezleri Tic. A.Ş. bünyesindeki alışveriş merkezleri markasıdır.Gıda ve perakende sektöründe faaliyet göstermektedir. ISO 9001 ve ISO 10002 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tatşen",
+    "description": "Tatşen, 1978 yılında kurulan Tatşen Paz. Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen helva, reçel, lokum, cezerye çeşitleri, şalgam, limon sosu, fındık kreması, konsantre meyve suyu ve akide şekeri markasıdır.ISO 9001 ve HACCP belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Acıbadem Hastanesi",
+    "description": "Acıbadem Hastanesi, 1991 yılında kurulan Acıbadem Sağlık Yatırımları Holding A.Ş. bünyesindeki sağlık grubudur.Acıbadem’in 4 ülkede toplam 21 hastane ve 16 kliniği bulunmaktadır.Singapur merkezli IHH Healthcare Berhad, Malezya hükümetinin yatırım fonu Khazanah, Japonya merkezli Mitsui&Co. Ltd. şirketi ve Aydınlar Ailesi ortaklığındadır.Ayrıca Dünya Bankası Grubu kuruluşu IFC, Bulgaristan’daki Acıbadem City Clinic’e yatırım yapmıştır.Acıbadem Üniversitesi, Acıbadem Sağlık ve Eğitim Vakfı kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

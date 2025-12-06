@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Coffee Bean Box",
+    "description": "Coffee Bean Box, 1976 yılında kurulmuş olan Kübaş Kütahya Bakkallar Tüketim Maddeleri Tic. ve San. A.Ş. bünyesindeki filtre kahve, espresso, kahve çeşitleri markasıdır.Firma Kütahya merkezlidir. 17 bin metrekarelik açık alanda bulunan 7 bin metrekarelik kapalı alanda üretim ve depolama yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hello Smile",
+    "description": "Hello Smile, 2005 yılında kurulmuş olan Prs Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen diş macunu, beyazlatma ürünleri markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 22716, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hamarat Un",
+    "description": "Hamarat, 1973 yılında kurulmuş olan Espa Eskişehir Gıda ve İhtiyaç Maddeleri Pazarlama İnşaat San. ve Tic. A.Ş. bünyesinde üretilen bakliyat ve un markasıdır.Firma Eskişehir merkezlidir.Bünyesindeki markalar;EspaHamaratHamarat EspaMaran",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pin Cool Lime",
+    "description": "Pin, 2019 yılında kurulmuş olan Pin Global Gıda San. ve Tic. A.Ş. bünyesindeki çay bazlı içecekler markasıdır.Renklendirici ve koruyucu katkı maddesi içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Martinez Guitars",
+    "description": "Martinez Guitars, 1976 yılında kurulmuş olan Martinez Guitars Co. Ltd. el yapımı klasik gitar müzik aletleri üretmektedir.Martinez Guitars Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Enuygun",
+    "description": "Enuygun2008 yılında kurulmuş olan Enuygun Com İnternetbilgi Hizmetleri Teknoloji ve Tic. A.Ş. bünyesindeki uçak ve otobüs bileti, otel, araç kiralama ve tatil gibi seyahat ürünleri karşılaştırma hizmetleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "GNC Pro Performance",
+    "description": "GNC Pro Performance1935 yılında kurulmuş olan GNC Holdings LLC bünyesindeki gıda takviyeleri markasıdır.GNC Holdings LLC Çin merkezli Harbin Pharmaceutical Group Co. Ltd. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dokio",
+    "description": "Dokio2007 yılında kurulmuş olan Jinhua Dokio Technology Co. Ltd. bünyesinde üretilen güneş paneli, güneş sistemi, solar şarj invertörü, solar şarj pili, solar şarj regülatörü, aksesuarlar markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Jinhua Dokio Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Doerkids",
+    "description": "Doerkids2020 yılında kurulmuş olan Yapan Çocuklar Eğitim Danışmanlık Hizmetleri San. ve Tic. Ltd. Şti. bünyesindeki bebek oyuncakları, kutu oyunları ve eğitici oyuncaklar, puzzle ve yapbozlar, zeka oyunları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Weisstechnik",
+    "description": "WeisstechnikWeiss Klimatechnik Gmbh bünyesinde üretilen çevre simülasyonu, ısıtma teknolojisi, iklimlendirme teknolojisi ve temiz hava ve muhafaza sistemleri ve çözümleri markasıdır.Weiss Klimatechnik Gmbh Almanya merkezlidir. Dünya çapında 15 ülkede 22 şirkete sahiptir.Bünyesindeki markalar;FitotronS!MpatiVötschtechnikVindurWeisstechnik",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

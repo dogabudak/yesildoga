@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Kate Somerville",
+    "description": "Kate Somerville, 2004 yılında kurulmuş olan Kate Somerville Skincare LLC. bünyesinde üretilen cilt bakım ürünleri markasıdır.Şirket nemlendiriciler, güneşten korunma, göz bakımı, cilt sıkılaştırıcı ve ışıltılı kişisel bakım ürünleri sunmaktadır.Kate Somerville Skincare LLC. 2015 yılında İngiltere merkezli Unilever tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Jurlique",
+    "description": "Jurlique, 2011 yılında Ulrike ve Jurgen Klein tarafından kurulmuş olan Jurlique Holistic Skin Care Inc. bünyesinde üretilen doğal temelli cilt bakım ürünleri ve güzellik ürünleri markasıdır.Jurlique Holistic Skin Care Inc. Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ümitköy",
+    "description": "Ümitköy, 2016 yılında kurulmuş olan Ümitköy Süt Hayvancılık Tarım Turizm İnşaat San. ve Tic. Ltd. bünyesinde üretilen gurme ve geleneksel lezzetler, kişisel bakım, siyah sarımsak ürünleri markasıdır.Firma Kastamonu merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lanvigator",
+    "description": "Lanvigator, 2011 yılında kurulmuş olan Shandong Haohua Tire Co. Ltd. bünyesinde üretilen TBR, LTR, A/T, H/T, M/T, VAN lastiği, PCR lastiği, kış lastiği markasıdır.ISO 9001 belgesine sahiptir.Shandong Haohua Tire Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tect 2way",
+    "description": "Tect 2way, 1914 yılında Tokumatsu Ishikawa tarafından kurulan Zebra Co. Ltd. bünyesinde üretilen uçlu kalem markasıdır.Şirketin kalem çeşitleri arasında tükenmez, fosforlu, versatil kalem ve jel roller gibi kalem çeşitleri yer almaktadır.Japonya merkezli şirket ürünlerini Japonya, Endonezya ve Çin de bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

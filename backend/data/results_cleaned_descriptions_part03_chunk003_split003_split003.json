@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Datalogic",
+    "description": "Datalogic, 1972 yılında Romano Volta tarafından kurulan Datalogic S.p.A. bünyesindeki endüstriyel otomasyon için barkod okuyucular ve ürünler markasıdır.Datalogic Group ürünleri, 30 ülkede dağıtılır ve İtalya, ABD, Brezilya, Slovakya, Macaristan ve Vietnam’da üretim ve onarım tesisleriyle faaliyet göstermektedir.Datalogic S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Biorga Hyseke",
+    "description": "Biorga Hyseke, 1949 yılında kurulan Bailleul Laboratories bünyesindeki karma veya yağlı ciltler için yüksek koruma faktörlü güneş koruyucu markasıdır.Biorga dermatolojik ürünleri hipoalerjeniktir, komedojen değildir, paraben, fenoksietanol, sabun ve boya maddesi, listelenen katkı maddelerini içermez.Biorga ürünleri 60’tan fazla ülkede dağıtılır",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2022-01-31"
+  },
+  {
+    "company": "Arima Communications",
+    "description": "Arima Communications, 1989 yılında kurulan Arima Group bünyesindeki güneş enerjisi, iletişim teknolojileri, optoelektronik, biyoteknoloji ürünleri markasıdır.ARIMA Group, sadece orijinal temel işletmelerinde değil, Opto-Electronics ve Yeşil Enerji’nin yeni alanlarında ki yatırım ölçeğini de güçlendirmektedir.Opto-Electronics için, Arima LED Renk Filtresi, LCD Ekran, Dokunmatik Panel, Lazer Diyot ve Görüntü Sensörü uygulamaları üzerinde, Yeşil Enerji ARIMA için III-V bileşik yüksek verimli Güneş Pili ve Uzay sistemi, karasal (HCPV) ve Nesnelerin İnterneti (IOT) uygulamaları üzerinde yoğunlaşmaktadır.En güncel teknolojilere ayak uydurmak için Tayvan ve Çin’de Ar-Ge merkezleri kurdu.Arima Group Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Doalinn",
+    "description": "Doalinn, 2019 yılında Barış Zafer Özgünay tarafından kurulan Orlife Global iç ve Dış Tic. Ltd. Şti. bünyesinde üretilen yüz maskeleri dışındaki cilt bakım ürünleri, cilt temizleyici ürünler ve bitki yağları markasıdır.Doalinn, el, yüz, cilt, saç ve vücut için doğal ve organik bitkisel yağ kozmetik ürünlerinin en saf halleriyle üretmektedir. Kaliteli hammaddeleri ithal edip üretim tesisinde nihai mamul haline getirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Trek",
+    "description": "Trek, 1975 yılında Richard Burke ve Bevel Hogg tarafından kurulan Trek Bicycle Corporation bünyesindeki bisiklet markasıdır.Avrupa, Asya, Güney Afrika gibi 90 ülkede dağıtıcı ve iştirakleri aracılığıyla pazarlanmaktadır.Trek Bicycle Corporation Amerika merkezlidir. Ürünlerinin çoğunluğu Tayvan ve Çin’de üretilmektedir.Bünyesindeki markalar:BCycleBontragerDreamBikesElectraMansion HillTrek BicycleTrek Factory RacingTrek Travel",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

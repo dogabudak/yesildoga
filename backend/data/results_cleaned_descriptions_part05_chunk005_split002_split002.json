@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Jawbone",
+    "description": "Jawbone, 1999 yılında Alexander Asseily ve Hosain Rahman tarafından kurulan Aliph Brands LLC bünyesindeki tüketici teknolojisi ve mobil ürünler markasıdır.Ses cihazları, taşınabilir kablosuz hoparlör, kulaklık, Bluetooth ve giyilebilir teknolojiyi geliştirir.Aliph Brands LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Konecranes",
+    "description": "Konecranes, 1994 yılında kurulan Konecranes Oyj bünyesindeki ağır ve standart kaldırma vinçleri markasıdır.Ürünleri, limanlar, intermodal terminaller, tersaneler ve dökme malzeme terminalleri, ağır yükleri taşıyan endüstriler için üretilmektedir.Konecranes Oyj Finlandiya merkezlidir ve ürünlerini Finlandiya’da üretmektedir. Konecranes servis iş bölümü 50 ülkede bakım ve modernizasyon hizmetleri sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Lineplus",
+    "description": "Lineplus, 1994 yılında kurulan Lineplus Corporation bünyesinde üretilen kırtasiye ve kozmetik kalem ürünleri markasıdır.ISO 22716 belgesine sahiptir.Lineplus Corporation Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Dickies",
+    "description": "Dickies, 1922 yılında C.N. Williamson ve E.E. Colonel Dickie tarafından kurulan Williamson-Dickie Mfg. Co. bünyesindeki giyim markasıdır.Otomotiv, otelcilik, inşaat ve medikal sektörlerine iş kıyafeti tasarlayan üreten şirkettir. Ürünleri 100’den fazla ülkeye pazarlanmaktadır.Williamson-Dickie Mfg. Co. 2017 yılında Amerika merkezli VF Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hüner Yağ",
+    "description": "Hüner, 2006 yılında Sunar şirketleri bünyesinde kurulan Elita Gıda San. ve Tic. A.Ş. bünyesinde üretilen ayçiçeği, mısır ve çiğ köfte yağları markasıdır.Adana merkezli firma mısır, ayçiçek, aspir ve omega-3 içerikli yağlar üretmektedir.ISO 9001, ISO 22000, ISO 14001, ISO 10002, ISO 27001, Helal, KOSHER ve TSE belgelerine sahiptir.Bünyesindeki markalar;ElitaSunarSunar Profesyonel",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

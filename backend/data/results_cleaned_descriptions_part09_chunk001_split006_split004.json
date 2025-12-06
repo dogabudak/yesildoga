@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Vetchy",
+    "description": "VetchyVetchy LLC bünyesindeki mayolar, tatil giysileri, aktif giyim ürünleri markasıdır.Vetchy LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ecoppia",
+    "description": "Ecoppia2013 yılında kurulmuş olan Ecoppia Scientific Ltd. bünyesindeki büyük ölçekli güneş enerjisi kurulumları için robotik güneş temizleme çözümleri markasıdır.Sabit eğimli kurulumlar ve tek eksenli izleyiciler için temizlik ekipmanları ve robotik çözümler dışında bakım, izleme ve analiz hizmetleri sunmaktadır.Ecoppia Scientific Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Artad",
+    "description": "Artad2015 yılında kurulmuş olan Artad Unlu Mamüller Gıda ve Taş. San. Tic. Ltd. Şti. bünyesinde üretilen yağlı gevrek, yaprak galeta ve kurabiye gibi unlu mamüller markasıdır.Firma Konya merkezlidir. 4. OSB’de 5 bin metrekaresi kapalı olmak üzere 15 bin metrekarelik alanda üretim yapmaktadır.Bünyesindeki markalar;GevrexTadal",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Triapharma",
+    "description": "Triapharma2017 yılında kurulmuş olan Triapharma İlaç San. Tic. A.Ş. bünyesindeki ilaç, vitamin, kolajen, gıda takviyesi, kozmetik markasıdır.ISO 9001, ISO 22000, GFSI, GMP, Organik ve Helal belgelerine sahiptir.Tohum Holding bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stichd",
+    "description": "Stichd1979 yılında kurulmuş olan Stichd BV bünyesindeki çorap, iç çamaşırları, mayo markasıdır.Stichd BV 2012 yılında Puma SE tarafından satın alınmıştır.Puma SE’nin çoğunluk hisseleri Fransa merkezli Groupe Artemis S.A ve Kering S.A.’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Herborner Pumpen",
+    "description": "1874 yılında kurulmuş olan Herborner Pumpentechnik GmbH & Co. KG bünyesinde üretilen pompa teknolojisi, yüzme havuzu ekipmanları, atık su teknolojisi, belediye tedarik ve bertaraf tesislerinin yürütülmesi ve bakımı markasıdır.Herborner Pumpentechnik GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Skupit",
+    "description": "2008 yılında kurulmuş olan Ural Elektronik ve Makine Sanayi Tic. Ltd. Şti. bünyesindeki ag parafudr, dış mekan aydınlatma, dimmer, iç mekan aydınlatma, iğneli duy, marine aydınlatma markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Armos",
+    "description": "2000 yılında kurulmuş olan Armos Su Armatürleri San. İç ve Dış Tic. Ltd. Şti. bünyesindeki armatürler, duş setleri, musluklar, tamamlayıcı ürünler, taharatmatik, ankastre duş sistemleri, plastik ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "MAM Baby",
+    "description": "1976 yılında kurulmuş olan Mam Babyartikel Gesmbh bünyesinde üretilen bebek ve ebeveynler için emzik ve biberon gibi bebek ürünleri markasıdır.Mam Babyartikel Gesmbh Avusturya merkezlidir. Macaristan, Tayland ve Avusturya’da üretim yapmaktadır ve ürünlerini 60 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Cergi",
+    "description": "1961 yılında kurulmuş olan Cergi Srl bünyesindeki özel çanta ve ambalaj çözümleri markasıdır.Ürünlerini fermuarlı, kancalı ve torbalı plastik torbalar, plastik, geleneksel, polietilen ve polipropilen ve yenilikçi plastik malzemelerden üretmektedir.Cergi Srl İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

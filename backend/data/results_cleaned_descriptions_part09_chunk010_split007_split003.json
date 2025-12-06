@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Any Morning",
+    "description": "“Anymorning“1999 yılında kurulan Biggbrands E-Ticaret Hizmetleri ve İhracat A.Ş. bünyesindeki cezve, elektrikli çay makineleri, filtre kahve makineleri, french press, kahve değirmeni ve öğütücüler, moka pot, mug, su ısıtıcı, Türk kahvesi makineleri, termos markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Labtive",
+    "description": "“Labtive“2012 yılında kurulmuş olan Macbiotech Co. Ltd. bünyesindeki kozmetik ve cilt bakım ürünleri markasıdır.Macbiotech Co. Ltd. Güney Kore merkezlidir.Bünyesindeki markalar;UniskinLabtive",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Condeli",
+    "description": "“Condeli“2012 yılında kurulmuş olan Condeli GmbH & Co KG bünyesinde üretilen soğutulmuş ve dondurulmuş makarnaya hazır yemekler ve lazanya markasıdır.Condeli GmbH & Co KG Avusturya merkezlidir. Ürünlerini 20’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Alcalene",
+    "description": "“Alcalene“1976 yılında kurulmuş olan Katsan Katgüt San. ve Tic. A.Ş. bünyesindeki sentetik, emilemeyen, monofilament, steril cerrahi sütür markasıdır.CE ve ISO 13485 belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fermit",
+    "description": "“Fermit“1908 yılında kurulmuş olan Fermit Gmbh bünyesindeki derz dolgu macunları, diş sızdırmazlık maddesi, dolgu macunları, yapıştırma için bağlantı teknikleri, iplik bileşikleri markasıdır.DIN ISO 9001 belgesine sahiptir.Fermit Gmbh Fransa merkezli Barthelemy SAS bünyesindedir. Ürünleri Almanya’da üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

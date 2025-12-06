@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Loxmax",
+    "description": "2014 yılında kurulmuş olan Polo Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen çamaşır leke çıkarıcı markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nataraj",
+    "description": "1958 yılında kurulmuş olan Hindustan Pencils Pvt. Ltd. bünyesinde üretilen yazı gereçleri ve kırtasiye ürünleri markasıdır.Ürün yelpazesinde kalemler, mekanik kalemler, tükenmez kalemler, renkli kalemler, boya kalemleri, silgiler, bileyiciler, cetveller yer almaktadır.Hindustan Pencils Pvt. Ltd. Hindistan merkezlidir. Ürünlerini Hindistan’da üretmektedir ve 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;ApsaraNataraj",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "TY Oyuncak",
+    "description": "2005 yılında kurulmuş olan Mega Hed. Eşya ve Oyuncak İml. İth. İhr. San. ve Ti̇c. Ltd. Şti̇. bünyesindeki çek bırak arabalar, oyuncak bebekler, peluş oyuncaklar, metal, model yapı oyuncakları ve aksesuarları, rc kumandalı oyuncaklar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ps 5",
+    "description": "Ps 51993 yılında kurulmuş olan Sony Interactive Entertainment Inc. bünyesindeki video oyun konsolları, ofis makineleri markasıdır.Sony Interactive Entertainment Inc. Japonya merkezli Sony Group Corporation’a ait bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Electreon",
+    "description": "1992 yılında kurulmuş olan Electreon Wireless Ltd. bünyesinde üretilen elektrikli tahrikli elektrikli araçlar için kablosuz şarj çözümleri markasıdır.Ticari ve binek elektrikli araçları sürüş sırasında kablosuz olarak şarj eden kablosuz elektrikli yol sistemleri geliştirir.Electreon Wireless Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

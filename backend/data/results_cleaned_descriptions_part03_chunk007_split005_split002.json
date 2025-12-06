@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Komelon",
+    "description": "Komelon, 1963 yılında kurulan Komelon Co. Ltd. bünyesinde üretilen kimyasal, makine, alet ve mühendislik markasıdır.Lastik ve çelik bant ölçüleri, seviye göstergeleri ve diğer takım ürünleri üretmektedir.Paslanmaz çelik bantlar, güç bantları, fiberglas, uzun çelik, manyetik bantlar, seviyeler, ölçüm tekerlekleri ürünlerine sahiptir.Komelon Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Mineaderm",
+    "description": "Mineaderm, 2012 yılında Aks Kozmetik Tarım Ürünleri Kimya Gıda Tem. Mad. İnş. San. İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen kişisel bakım, çeşitli cilt bakım ürünleri markasıdır.AKS laboratuvarlarında hazırlanan yoğun özellikli Mineaderm doğal ürünler; fito-beyaz skintone düzeltici kompleks, gelişmiş kurtarma kremi, koyu daire restoratif göz kremi, ileri savunma gençleştirici göz kremi, yenileme yoğun nemlendirici krem, gelişmiş akne kontrol kremi, yenileme anti streç işareti krem, anti selülit krem sıkma ve sıkılaştırıcı kompleks, canlandırıcı vücut masaj kremi, yoğun onarım kremi ayak ve topuk, kurtarma tedavisi şampuan, kurtarma tedavi saç serum, detoks şampuanı, fito kompleks şampuan, kurtarma tedavi kremi saç, temizleyici köpük, anti-shine ferahlatıcı tonik, saflık nemlendirici tonik, hassas arındırıcı süt, derin temizlik saflık jel gibi ürünlerden oluşmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bioplante",
+    "description": "Bioplante, 2006 yılında Medelek Ltd. Şti. bünyesinde ithal edilmeye başlanan organik içerikli saç bakımı, yüz bakımı, el bakımı, vücut bakımı, ağız bakımı ve çeşitli makyaj ürünleri markasıdır.Avusturya alplerinden gelen zengin minerallerle üretilen ürünlerin içeriklerinde, alkol, petrokimyasal maddeler, yapay tatlandırıcılar, SLS, SLES gibi maddeler bulunmamaktadır. Bioplante Belçikalı NaTrue sertifikasyon kuruluşu tarafından denetlenmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Töpfer",
+    "description": "Töpfer Hangi Ülkenin Malı MarkasıTöpfer, 1911 yılında Max Töpfer tarafından kurulan Töpfer GmbH bünyesinde üretilen organik mama ve cilt bakım ürünleri markasıdır.Töpfer markalı ürünler 25’ten fazla ülkede satılmaktadır. ISO 9001 belgesine sahiptir.Töpfer GmbH Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Greenmate",
+    "description": "Greenmate, 1994 yılında kurulan Telpa Telekominikasyon Tic. A.Ş. bünyesinde ithal edilen apple data kablosu, apple lightning usb data kablosu, araç çakmak şarjı, araç tutucular, bluetooth speaker, ekran koruyucu, micro usb data kablosu, mikrofonlu kulaklık, powerbank, siii arka kapak, seyahat şarjı, tablet şarjı markasıdır.Greenmate markalı ürünler Çin’de üretilmektedir.Telpa bünyesindeki markalar:BessDelgonE-TabGreenmateRephoneTastebuddyTelpaTelpacardTelpamobile",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

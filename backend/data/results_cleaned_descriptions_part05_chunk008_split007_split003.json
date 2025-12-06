@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Prominox",
+    "description": "Prominox, 1978 yılında Mohammed Aitri tarafından kurulan Prominox S.A. bünyesinde üretilen paslanmaz çelik ve özel alaşımlardan yapılmış ekipman, boru ve kazanlar markasıdır.Parçalar esas olarak sülfürik asitten yapılır, petrol arıtma ve madencilik alanında kullanılır.Prominox S.A. Fas merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Eurorepar",
+    "description": "Eurorepar, Eurorepar Auto S.A bünyesindeki araç yedek parça ve aksesuarları markasıdır.Bakım ve otomotiv onarımının tüm alanlarını kapsar; aküler ve bujiler, ampul ve silecekler, egzoz sistemi, filtreler, fren sistemi, hava filtreleri, karoseri parçaları, lastikler, motor parçaları, polen filtreleri, profesyonel bakım sıvıları, radyatörler, süspansiyon sistemi, servis ekipmanları, servis sarf malzemeleri, tel ürünleri, triger ve devir daim, yağ filtreleri, yakıt filtreleri gibi ürünler sunmaktadır.Eurorepar Auto S.A., Fransa merkezli Groupe Psa bünyesindedir. Ürünleri 50’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Bmo Nutrition",
+    "description": "Bmo Nutrition, BMO Nutrition LLC bünyesinde üretilen vitaminler, besin takviyeleri markasıdır.Saf kollajen peptidleri katkı maddeleri, tatlandırıcılar veya koruyucular içermez. Otla beslenen sığırlardan üretilir.BMO Nutrition LLC Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kingpak",
+    "description": "Kingpak, 1997 yılında kurulan Kingpak Technology Inc. yarı iletken, IC ambalaj, CMOS görüntü algılayıcı mikro ambalaj markasıdır.Tüketici ürünleri, giyilebilir ürünler, güvenlik izleme ve otomobille ilgili CIS ambalajlarının yanı sıra video test hizmetleri ile uğraşmaktadır. ISO 9001, ISO 14001 belgelerine sahiptir.Kingpak Technology Inc. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Votto",
+    "description": "Votto, 1980 yılında Hadi Özalp tarafından kurulan Martaş Otomotiv Yedek Parça Tic. ve San. A.Ş. bünyesindeki otomotiv yedek parçaları markasıdır.Votto tüm araç modelleri için şasi ve süspansiyon parçalarını sunmaktadır. Ürünlerini 33 ülkeye ihraç etmektedir. TS 16949, QS9000, ISO 9001 belgelerine sahiptir.Bünyesindeki markalar;GRATMGAVotto",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Refrey",
+    "description": "Refrey, C Gracia bünyesindeki dikiş makineleri, yedek parçaları ve aksesuarları markasıdır.C Gracia İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Mars Hydro",
+    "description": "Mars Hydro, 2009 yılında Yanwen Hu tarafından kurulan led ürünleri, bitki yetiştirme ledleri ve aksesuarları markasıdır.Kişisel ve ticari mahsul üretimi için aydınlatma çözümleri üretmektedir.Ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Son Dakika Haber",
+    "description": "Sondakika.com, 2015 yılında kurulmuş olan Melon Reklam Ltd. Şti. bünyesindeki haber sitesi markasıdır.Firma ayrıca haber sitelerine reklam satış, optimizasyon ve operasyon konularında ve Google ürünleri konusunda hizmet vermektedir. İstanbul merkezlidir.Bünyesindeki markalar;İrlandalı AnneKandillaKoala AnneMelonSondakika",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Case Construction Equipment",
+    "description": "Case Construction Equipment, 1842 yılında kurulmuş olan Case Construction Equipment Inc. bünyesindeki buldozerler, küçük lastik tekerlekli yükleyici, kazıcı yükleyiciler, mafsallı damperli kamyonlar, mini ekskavatör, mini yükleyiciler, mobil ekskavatör, paletli ekskavatörler, paletli mini yükleyici, tekerlekli yükleyiciler, teleskopik yükleyici markasıdır.Case Construction Equipment Inc. Hollanda merkezli Exor N.V. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Hulk Extreme",
+    "description": "Hulk, 2003 yılında kurulmuş olan Güvener Genel Endüstri Maddeleri İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen halı şampuanları, halı parfümleri, leke sökücüler, oto bakım ürünleri, ara mamul hammadde üretimi, endüstriyel ürünler markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Firma İzmir merkezlidir.Bünyesindeki markalar;AxisExa-Wash Oto Temizlik ÜrünleriFeldexG GüvenerG Orion35 Exlusive Carpet ShampooHulk ExcellenceHulk ExtremeHulkNotexstainremover",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

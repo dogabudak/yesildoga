@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Paycore",
+    "description": "Paycore, 2001 yılında kurulan Kartek Kart ve Bilişim Teknolojileri Tic. A.Ş. bünyesindeki ödeme teknolojileri markasıdır.Temassız kredi kartı, kol saati üzerinden ödeme, display kredi kartı, ulaşımda temassız kredi kartı uygulaması, ulusal mobil cüzdan ve mobil cihazlar üzerinden PIN’li ve PIN’siz ödeme kabulü gibi yazılım ihtiyaçlarını karşılamakta, 35’ten fazla ülkeye teknoloji pazarlamaktadır.Paycore’un Ar-Ge merkezi İTÜ ARI-3 Teknokent’tedir.2021 yılında özel sermaye yatırım fonu Hollanda merkezli Mediterra Capital, PayCore’un çoğunluk hissesini satın aldı.2010 yılında Ahmet Faralyalı ve Murat Erkurt’un kurduğu Hollanda merkezli Mediterra Capital BV’nin yatırımcıları arasında Avrupa İmar ve Kalkınma Bankası, Alman Kalkınma Bankası, Hollanda Kalkınma Bankası, Dünya Bankası gibi kurumlar yer alıyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2022-01-01"
+  },
+  {
+    "company": "Creme Solenne",
+    "description": "Creme Solenne, 2009 yılında kurulan Beray Kozmetik San. Ve Tic. Ltd. Şti. bünyesinde üretilen parfümsüz cilt bakım ve güzellik ürünleri markasıdır.Ürün yelpazesinde el, ayak, vücut, tırnak bakım ürünleri, spa manikür, spa pedikür, susuz manikür, susuz pedikür, vücut bakım yağları, peelingler yer almaktadır.ISO 9001, Helal Belgelerine sahiptir.Bünyesindeki markalar;Creme SolenneJuvenis",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eagina",
+    "description": "Eagina, 2007 yılında kurulan Arba Kimya Temizlik ve Kozmetik Ürünleri Ltd. Şti. bünyesinde üretilen oda kokusu, şampuan, duş jeli, sabun markasıdır.ISO 9001, ISO 22716 belgelerine sahiptir.Ürünlerini 45 ülkeye ihraç etmektedir.Bünyesindeki markalar;EaginaJoyceJoyceplus",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Palfinger",
+    "description": "Palfinger, 1932 yılında Richard Palfinger tarafından kurulan Palfinger AG bünyesinde üretilen hidrolik kaldırma, yükleme ve taşıma sistemleri markasıdır.Palfinger AG, Avusturya merkezlidir. Palfinger Group’un yüzde 56.6’sı Palfinger ailesine, yüzde 7.5’i Çin merkezli Sany Group Co., Ltd grubuna aittir.Palfinger Group, 32 ülkede 82 şirketten oluşuyor ve 34 üretim ve montaj tesisine sahiptir. 130’dan fazla ülkede satış ve servis merkezlerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Pielor",
+    "description": "Pielor, 2010 yılında kurulan BFF Kozmetik Temizlik Plastik Ürünleri ve Turizm San. Tic. A.Ş. bünyesinde üretilen saç, cilt, vücut ürünleri, güneş, bebek ürünleri ve parfüm markasıdır.Ürünlerini Tuzla Kimya Sanayicileri OSB’de üretmekte ve 100’den fazla ülkeye ihraç etmektedir.ISO 9001, ISO 22716, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

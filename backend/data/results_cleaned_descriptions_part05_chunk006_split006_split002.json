@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Fresh Therapies",
+    "description": "Fresh Therapies, 2020 yılında Nicola Dickinson tarafından kurulan Fresh Therapies Ltd. bünyesinde üretilen doğal yağ bazlı oje çıkarıcı markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. Tırnaklara zararlı maddeler izopropil, alkol, gliserin, Benzofenon 1, aseton, Bütil asetat, Toluen içermez.Fresh Therapies Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Kkt Kolbe",
+    "description": "Kkt Kolbe, KKT KOLBE Küchentechnik GmbH & Co. KG bünyesinde üretilen bulaşık makinesi, buzdolabı ve dondurucu, davlumbaz, fırın, ocak, ocaklı fırın markasıdır.KKT KOLBE Küchentechnik GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Badecanlar",
+    "description": "Badecanlar, Mudita Kozmetik Danışmanlık Müzik Prodüksiyon Tic. Ltd. Şti. bünyesinde üretilen kişisel bakım, kozmetik ve temizlik ürünleri markasıdır.Ürünlerini tek tek elde üretmektedir. Az işlem görmüş doğal hammaddelerle yapılan kavanozda kozmetik’tir ve hayvanlar üzerinde test edilmemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "USO",
+    "description": "USO, 2003 yılında kurulan Schanu Kozmetik San. Tic. Ltd. Şti. bünyesinde üretilen parfüm, kolonya, roll-on deodorant, oda spreyi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wuti",
+    "description": "Wuti, 2019 yılında kurulan Flavo Kozmetik Kimya San. A.Ş. bünyesinde üretilen cilt bakım ürünleri markasıdır.İSO 9001, İSO 10002, İSO 22000, İSO 31000, İSO 45001, GMP ve Helal belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "İSO 10002",
+      "İSO 22000",
+      "İSO 31000",
+      "İSO 45001",
+      "İSO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

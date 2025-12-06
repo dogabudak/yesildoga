@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Dermaclear",
+    "description": "Dermaclear, 2004 yılında kurulan Have & Be Co., Ltd. bünyesindeki makyaj ve kişisel bakım ürünleri markasıdır.Ürünlerini 9 ülkeye ihraç etmektedir.Have & Be Co., Ltd. Güney Kore merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Fendi",
+    "description": "Fendi, 1925 yılında Adele ve Edoardo Fendi tarafından kurulan Fendi S.r.l. bünyesindeki çanta, parfüm, gözlük ve kürk aksesuarları markasıdır.Fendi S.r.l. 2001 yılında LVMH bünyesine geçti.Dünyanın en büyük lüks tüketim malları üreticisi LVMH Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Sunshine",
+    "description": "Sunshine, 1906 yılında Will Keith Kellogg tarafından kurulan Kellogg Company bünyesindeki bisküvi markasıdır.Kellogg ürünleri 18 ülkede üretilirken, 180’den fazla ülkede satılmaktadır.Amerika merkezli şirketin Türkiye’de Kellogg Europe Treasury Services Ltd. kotrolüne ait Kellogg Med Gıda Ticaret Ltd. Şti. bünyesinde ürünleri satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Xilinx",
+    "description": "Xilinx, 1984 yılında Jim Barnett, Ross Freeman ve Bernie Vonderschmitt tarafından kurulan Xilinx, Inc. bünyesindeki tümleşik devreler; iletişim, tüketim, savunma, otomotiv ve diğer alanlarda pek çok uygulaması bulunan FPGA ve CPLD türünde aygıtların markasıdır.Xilinx, arabirim devreleri, düşük maliyetli devreler, ve yüksek başarımlı FPGA yongalarının yanı sıra PROM aygıtları gibi yan ürünler de üretmektedir.Xilinx, Inc. Amerika merkezli bir teknoloji şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Zeelandia",
+    "description": "Zeelandia, 1900 yılında H.J. Doeleman tarafından kurulan A.S. Zeelandia bünyesindeki ekmekçilik ve pastacılık ürünleri ile tava ayırıcı yağlar markasıdır.28 ülkede üretim yaparken 100’ün üzerinde ülkede faaliyet göstermektedir.A.S. Zeelandia Hollanda merkezli bir firmadır ve şirket sermayesinin yüzde 90’ı Hollanda, yüzde 10’u İngiltere merkezlidir.Türkiye pazarına girişi 2002 yılında Zeelandia Gıda San. Tic. A.Ş. olarak gerçekleşmiştir. 2003 yılında Hayrabolu’da tesis kurarak üretime başlayan firmanın, ürün yelpazesinde ekmekçilik, pastacılık ve tava ayırıcı yağlar olmak üzere 3 kategori bulundurmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

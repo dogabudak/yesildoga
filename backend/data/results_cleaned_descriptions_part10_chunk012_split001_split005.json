@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Solidline",
+    "description": "1993 yılında kurulmuş olan Ledlenser GmbH & Co. KG bünyesindeki taşınabilir LED aydınlatma çözümleri markasıdır.Ledlenser GmbH & Co. KG Almanya merkezlidir. Almanya’da tasarlanan ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Healcerion",
+    "description": "2012 yılında kurulmuş olan Healcerion Co. Ltd. bünyesindeki ultrason teşhis cihazları markasıdır.Healcerion Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Opmask",
+    "description": "2001 yılında kurulmuş olan Erenler Medikal San. Tic. Ltd. Şti. bünyesindeki medikal cihaz kağıtları ve video termal printer kağıtları, çiftli, yıkamalı enteral besl. torbası, ışık korumalı infüzyon pompa seti, şişe kapaklı enteral beslenme seti, enteral beslenme enjektörü, beslenme torbası, gravity enteral beslenme torbası, infüzyon pompa seti, perfüzör enjektörü markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Niko Zelezniki",
+    "description": "1946 yılında kurulmuş olan Niko d.o.o. bünyesinde üretilen dosyaları asmak için metal çubuklar, dosyalar için kol kemer mekanizmaları ve aksesuarları markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Niko d.o.o Slovenya merkezlidir. Ürünlerini birçok ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "SI",
+    "updated_date": null
+  },
+  {
+    "company": "Dbrand",
+    "description": "2011 yılında kurulmuş olan Dbrand Inc. bünyesindeki akıllı telefon, dizüstü bilgisayar, oyun konsolu ve diğer cihazlar için özelleştirilebilir vinil deriler, kasalar, ekran koruyucuları ve aksesuarlar markasıdır.Dbrand Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Ulutaş",
+    "description": "Ulutaş, 1980 yılında Orhan Ulutaş tarafından kurulan Ulutaş Mutfak Eşyaları İnşaat San. ve Tic. A.Ş. bünyesinde üretilen tencere setleri, tekli ürünler ve tavalar markasıdır.Iso 9001, Iso 14000 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Samde",
+    "description": "Samde, 2003 yılında kurulan Doğuş Kimya Temizlik Ürünleri İmalat ve Pazarlama bünyesinde üretilen köpük sabun markasıdır.TSEK, TSE, ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Bünyesindeki markalar:SamdeFBM",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ram Trucks",
+    "description": "Ram Trucks, 2010 yılında kurulan kamyon ve kamyonet markasıdır. Fiat Chrysler Automobiles N.V. (FCA)’nın yan kuruluşu olan FCA US bünyesindedir.FCA 2014 yılında Fiat S.p.A. ve Chrysler Group şirketlerinin birleşmesiyle kurulan İtalya ve Amerika ortaklığındaki otomotiv şirketidir. Şirketin ana ofisi Hollanda’da finans ofisi ise İngiltere’de yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Costume National Scents",
+    "description": "Costume National, 2000 yılında kurulan Beauty San S.P.A. bünyesinde üretilen parfüm markasıdır.Beauty San S.P.A. kozmetik ve parfüm ürünleri üreten İtalya merkezli bir şirkettir.Bünyesindeki markalar:Costume National ScentsTuttotondoJusbox Perfumes",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Lanaform",
+    "description": "Lanaform, 1975 yılında kurulan Lanaform SA bünyesinde üretilen tayt markasıdır.Yüzde 93 Polyamide ve yüzde 7’si Elastan malzemeden üretilen kumaşa eklenen Mikrokapsüllerin içerisinde; İspanya’da yetişen Aspir tohumu, Kuzey Denizi kıyılarında yetişen Balonlu Deniz Yosunu ve Tropikal Madagaskar ikliminde yetişen karanfil ağacı çiçekleri gibi bitkiler yer alır.Mikro kapsüller bölgesel yağ yakımına yardımcı olurken, Bio Seramik Kristaller cilde temas ettiğinde bölgesel ısıyı artırarak Selülit sorununu çözmeye çalışır.Firmanın ürün yelpazesinde zayıflama kumaşları, kan basıncı monitörü, zayıflama aletleri, termometreler, darbe oksimetreler, ölçekler, ışık terapisi, aroma difüzörler, hava temizleyiciler, nemlendiriciler, esansiyel yağlar, yastıklar, yatak takımları, fitness, masaj, yüz, manikür pedikür, biçme makineleri, jilet gibi ürünler yer almaktadır.Lanaform SA Belçika merkezlidir ve ürünlerini Belçika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

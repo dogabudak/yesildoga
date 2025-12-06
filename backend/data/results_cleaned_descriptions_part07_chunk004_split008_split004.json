@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Logmein",
+    "description": "Logmein, 2003 yılında kurulmuş olan LogMeIn Inc. bünyesindeki bulut tabanlı uzaktan çalışma araçları yazılımları markasıdır.Macaristan menşeli LogMeIn Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Akıllı Depo",
+    "description": "Akıllı Depo, 2016 yılında kurulmuş olan Doğançay Nakliyat Tic. A.Ş. bünyesindeki nakliye ve depolama çözümleri markasıdır.Arşiv depolama, depolama hazırlığı, eşya depolama, ofis eşyası depolama, mini akıllı depo, sigorta ve güvenlik, galeri hizmetleri vermektedir.Firma Ankara merkezlidir.Bünyesindeki markalar;Akıllı DepoAkilli Depo Taşınabilir Özel DeponuzDoğançay Akıllıdepo Self StorageDoğançay Akıllıdepo Taşınabilir Özel DeponuzDoğançay Ev&Ofis TaşımaDoğançay Evden Eve NakliyatEvex Ev & Ofis LojistiğiSmartbox Akıllı Deponuz Evinizin Sınırlarını KaldırınSmartdepo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Capcut",
+    "description": "Capcut, 2012 yılında kurulmuş olan Bytedance Ltd. bünyesindeki video düzenleyici ve oluşturucu uygulaması markasıdır.Video düzenleme, metin, çıkartmalar, filtreler, renkler ve müzik gibi temel özelliklere ek olarak, ana kare animasyonu, yumuşak ağır çekim efektleri, yakalama ve kırpma, resim içinde resim (PIP) dahil olmak üzere ücretsiz gelişmiş özellikler sunmaktadır.Bytedance Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Asepsystems",
+    "description": "Asepsystems, 1990 yılında kurulmuş olan Asepsystems S.r.l. bünyesinde üretilen gıda sanayisi tesis ve donanımları, meyve ve sebze işleme, kabuk soyma makineleri ve ocak ızgaraları markasıdır.Asepsystems S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Softpedia",
+    "description": "Softpedia, 2001 yılında kurulmuş olan SoftNews Net SRL bünyesindeki yazılım ve teknoloji haber sitesi markasıdır.Çeşitli indirilebilir yazılımları indeksler, inceler ve teknoloji ile bilim konularıyla ilgili haberleri raporlar.SoftNews Net SRL Romanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RO",
+    "updated_date": null
+  }
+]

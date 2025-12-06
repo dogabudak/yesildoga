@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Terraking",
+    "description": "Terraking, 1995 yılında kurulan Shandong Hongsheng Rubber Technology Co., Ltd. bünyesinde üretilen araç tekerlekleri için lastikler, otomobil lastikleri, lastikler için sivri, iç tüpler için onarım kıyafetleri, mopedler, tramvaylar, pnömatik lastikler markasıdır.Shandong Hongsheng Rubber Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nespresso",
+    "description": "Nespresso, 1986 yılında Eric Favre tarafından kurulan Nestlé Nespresso S.A., bünyesindeki kahve makinesi markasıdır.Nespresso yaklaşık 80 ülkede bulunmaktadır.Nestlé Nespresso S.A. İsviçre merkezli Nestlé S.A. bünyesindedir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Hertz",
+    "description": "Hertz, 1918 yılında John D. Hertz tarafından kurulan The Hertz Corporation bünyesindeki araç kiralama markasıdır.The Hertz Corporation dünya çapında 150 ülkede faaliyet göstermektedir.Amerika merkezli Hertz Global Holdings Inc’in yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Utax",
+    "description": "Utax, 1896 yılında kurulan TA Triumph-Adler GmbH bünyesindeki ofis malzemeleri markasıdır.2008 yılında fotokopi, baskı ve faks sistemleri üreticisi Kyocera Grubu tarafından, Almanya merkezli Triumph-Adler AG’nin hisseleri satın alındı.Kyocera Document Solutions Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Bosfor",
+    "description": "Bosfor, Ulaş Aksakal tarafından kurulan Bosfor End. Mutfak Mak. San.Tic. Ltd. Şti. bünyesinde üretilen et kıyma makinesi, patates soyma makinesi, sebze doğrama makinesi, et-humus makinesi, hamur yoğurma makinesi, hamur açma makinesi, öğütücü, soğan doğrama makinesi, ekmek dilimleme makinesi, planet mikser, spiral hamur yoğurma, soğutmalı et kıyma makinesi markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

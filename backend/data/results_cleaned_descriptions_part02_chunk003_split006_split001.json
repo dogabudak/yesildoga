@@ -1,0 +1,51 @@
+[
+  {
+    "company": "ASR",
+    "description": "ASR, 1981 yılında kurulan Alcan Ltd Şti. bünyesindeki Vida Tapası, Zemin Koruyucu Keçe, Tamir Macunu, Ses Stoperi, Hızlı Yapıştırıcı, Deniz Tutkalı, Kenar Bandı markasıdır.ALCAN Boya Hırdavat San. Tic. Ltd. Şti. yerli sermayeli şirkettir ve ürünlerini Türkiye’de üretmektedir. Ayrıca weiss markasına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "File Market",
+    "description": "FİLE mağazaları, 1995 yılında BİM Birleşik Mağazalar A.Ş. tarafından kurulan perakende zinciridir.Tüketicilerin gıda, kişisel bakım ve genel temizlik ihtiyaçlarına dönük ürünler satmaktadır. Mağazalarında 4 bine yakın farklı ürün bulunmaktadır ve et, şarküteri, taze sebze ve meyve, unlu mamuller ile kişisel bakım bölümleri yer almaktadır.Bünyesindeki markalar:DaycareActisoftHarrasBİM’in Ortaklık yapısı:Merkez Bereket Gıda Sanayi ve Ticaret A.Ş. (yüzde 14,78)Naspak Gıda Sanayi ve Ticaret A.Ş. (yüzde 10,51)Halka Kapalı (yüzde 3,19)Halka Açık (yüzde 71,52)",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Temsa",
+    "description": "Temsa 1968 yılında kurulan Temsa Global A.Ş. bünyesindeki otobüs, midibüs ve hafif kamyon markasıdır.Ürünlerini 70’e yakın ülkeye ihraç etmektedir.Temsa, 2020 yılından beri Sabancı Holding’in iştiraki Exsa Export Sanayi Mamulleri Satış ve Araştırma A.Ş. ile Hollanda merkezli PPF Group iştiraki PPF IndustryCo. B.V. (PPF) ortaklığına aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2021-07-30"
+  },
+  {
+    "company": "Hyster",
+    "description": "Hyster, 2012 yılında kurulan Hyster-Yale Group, Inc. iştiraki Hyster-Yale Materials Handling, Inc, bünyesindeki asansör kamyon ve depolama ekipmanları markasıdır.1970 yılında yarıyarıya Japon ortaklığında Japonya’da Sumitomo markası altında ve Hyster® ve Yale® markalı Asansör kamyonlar satılmaktadır. Bu ürünlerin üretim tesisleri Japonya, Filipinler ve Vietnam’dadır.Hyster-Yale Materials Handling, Inc. (yüzde 75) ve Zhejiang Maksimaleli forklift (yüzde 25) arasında kurulan ortak girişimle, standart kaldırma kamyonları SAMUK, Hyster ve Yale markalı isimlerle üretilmektedir. Çin Zhejiang Eyaletinde üretim tesisleri vardır.Hyster-Yale Group, Inc. Markaları:HysterYaleUTILEVNuveraBolzoni AuramoMeyer",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Golden Rose",
+    "description": "Golden Rose, 1983 yılında kurulan Erkul Kozmetik bünyesindeki kozmetik cilt bakım ürünleri markasıdır.Erkul Kozmetik toplamda 70 bin metrekarelik entegre üretim tesislerinde kozmetik, plastik ambalaj ve parfüm üretmektedir.Kozmetik ürünlerinin üretimi konusunda faaliyet gösteren yüzde yüz Türk sermayeli bir şirkettir.Oje üretiminde dünyanın 5 büyük üreticisinden biri olan Erkul Kozmetik, Avrupa, BDT ülkeleri, Balkanlar, Ortadoğu, Kuzey Afrika ve Amerika olmak üzere 5 Kıtada 90’dan fazla ülkeye ihracat yaparak başarısını sınır ötesine taşımıştır.ISO 22716:2007 Cosmetic-GMP, HELAL/HALAL (MS 1500:2009) ve ISO 9001:2008 sertifikalarına sahiptir.Erkul Kozmetik bünyesindeki markalar:Golden RoseClassicsMiss SeleneEmily",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

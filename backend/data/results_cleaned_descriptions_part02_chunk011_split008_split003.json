@@ -1,0 +1,47 @@
+[
+  {
+    "company": "4smarts",
+    "description": "4smarts, 2001 yılında kurulan 4smarts GmbH bünyesinde üretilen telefon kapakları, kılıfları, ikinci cam, sıvı cam, hibrid flex-cam, şarj cihazları, araba şarj cihazı, güç bankaları, mikro usb, yıldırım, usb type-c, vr gözlükler, kulaklıklar ve setler, gadgets, fotoğraf aksesuarları, ses ve video kabloları, araç tutucu, usb-c hub’ları, tutucu ve adaptör markasıdır.Almanya merkezli 4smarts GmbH, en yeni akıllı telefon aksesuarlarının OEM tedarikçisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "A&D Medical",
+    "description": "A&D Medical Hangi Ülkenin Malı MarkasıA&D Medical, 1977 yılında Hikaru Furukawa ve 13 mühendis tarafından kurulan A&D Company, Limited bünyesinde üretilen dijital kan basıncı monitörleri, ölçekler, ultrasonik nebülizörler ve yarı iletken üretim ekipmanları, elektron tabancaları için analogdan dijitale ve dijitalden analoga dönüştürücüler markasıdır.A&D, analogdan dijitale dönüştürme teknolojisiyle, hassas ölçüm ve kontrol teknolojisini kullanan araçlar sağlar.Japonya’da uluslararası merkezi ile çok uluslu ölçüm ve kontrol ekipmanları üreticisidir. Kore, Çin, Avrupa, İngiltere, Avustralya, Rusya, Hindistan, Kuzey ve Güney Amerika’da operasyon ve dağıtım merkezlerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Rosemix",
+    "description": "Rosemix, 2004 yılında kurulan Kutlu Kozmetik bünyesinde 2009 yılında üretilen Aloe-Vera Özlü Krem, Botanica Parfüm, Cilt Temizleme Köpüğü, Cilt Temizleme Toniği, Eşek Sütü Sabunu, E-Vitaminli Krem, El ve Vücut Losyonu, Gül Özlü Vazelin, Gül Suyu %100 Doğal Yağ Altı, Gliserinli Sabun, Kolonya, Lavanta Özlü Krem, Oda Spreyi, Oto Kokusu Gül, Sıvı Sabun, Salyangoz Özlü Krem markasıdır.Firma Isparta gülünü tanıtmak amacıyla kurulmuştur. Ürünleri dünyanın çeşitli ülkelerinde satılmaktadır.Kutlu Kozmetik tarafından üretilen ürünlerde kullanılan hammaddeler eco sertifikası ile üretilmektedir.Bünyesindeki markalar:ROSEMİXGÜLDESTE",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aaeon",
+    "description": "Aaeon, 1992 yılında kurulan otomasyon denetleyicileri ve yazılımları, Endüstriyel bilgisayarlar, Gömülü tek kartlı bilgisayarlar, Gömülü Denetleyiciler, tablet pc’ler, Ağ Aletleri, Panel bilgisayarlar markasıdır. 2011 yılında ASUS grubu bünyesine dahil oldu.AsusTek Computer Inc. Tayvan merkezlidir.Ürünlerinin çoğu Makine ve Fabrika Otomasyonu, Kimya, Medikal, Finans, Eğitim, Ulaşım gibi sektörlerde kullanılmaktadır. Ayrıca Dijital Tabela ve Kiosk uygulamaları son yıllarda artmıştır.AAEON dünya çapında çok çeşitli OEM/ODM endüstriyel diskler üretmekte ve pazarlamaktadır.ISO-9001, ISO-14001, TL9000, ISO 13485 sertifikalarına sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Abilia",
+    "description": "Abilia, Abilia Cosmetic Natural bünyesindeki doğal kozmetik ürünler markasıdır.Formülleri su, gliserin, silikon veya parafin ile seyreltilmemiştir. Yüksek konsantrasyonda aktif maddeler ve yüzde 100 doğal kokular sunar.Abilia Cosmetic Natural İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": "2021-12-14"
+  }
+]

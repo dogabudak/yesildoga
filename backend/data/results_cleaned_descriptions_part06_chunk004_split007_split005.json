@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Rocket Akü",
+    "description": "Rocket, 1952 yılında kurulan Sebang Global Battery Co. Ltd. bünyesinde üretilen akü markasıdır.ISO 9002, ISO 14001, ISO/TS 16949 belgelerine sahiptir.Sebang Global Battery Co. Ltd. Güney Kore merkezlidir. Ürünlerini 130’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Jagulep",
+    "description": "Jagulep, 2010 yılında Öznokta Ayakkabıcılık İnşaat Gıda San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen günlük ayakkabı ve spor ayakkabıları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BuzkashiJagulepLiger Ayakkabı",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vogue Eyewear",
+    "description": "Vogue Eyewear, 2018 yılında kurulan EssilorLuxottica S.A. bünyesindeki gözlük ve güneş gözlükleri markasıdır.EssilorLuxottica S.A.’nın çoğunluk hisseleri Lüksemburg merkezli Delfin S.a r.l.’ye aittir.Hissedarları:Del Vecchio Ailesi (yüzde 31,9)The Vanguard Group Inc. (yüzde 2,3)Capital Research & Management Co. (yüzde 1,9)Norges Bank Investment Management (yüzde 1,6)FCPE Groupe Essilor 5 et 7 ans (yüzde 0,91)Canada Pension Plan Investment Board (yüzde 0,87)MFS International Ltd. (yüzde 0,8)Comgest SA (yüzde 0,74)Fidelity Management & Research Co. LLC (yüzde 0,64)Union Investment Privatfonds Gmbh (yüzde 0,64)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": "2024-02-13"
+  },
+  {
+    "company": "Prometeon",
+    "description": "Prometeon, 2017 yılında kurulan Prometeon Tyre Group S.R.L. bünyesinde üretilen endüstriyel, kamyon, otobüs, tarım ve iş makinesi için lastik markasıdır.Prometeon Tyre Group S.R.L. İtalya merkezli Pirelli & C. S.p.A sanayi bölümünün bir parçasıdır ve Çin merkezli Aeolus sermayenin yüzde 10’una sahiptir.Ürünlerini Brezilya, Mısır, Türkiye’ ve Çin’de bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Maestro Massimo",
+    "description": "Maestro Massimo, 2019 yılında kurulan Officine Dolce Vita S.R.L. bünyesinde üretilen çikolatalar, fırında çikolata, atıştırmalıklar, hamurişi tatlılar, şekerlemeler markasıdır.Officine Dolce Vita S.R.L. İtalya merkezlidir ve ürünlerini 25 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

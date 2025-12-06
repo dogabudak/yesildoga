@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Solomon",
+    "description": "Solomon, 1863 yılında kurulan Bayer AG bünyesinde üretilen bitki koruma için böcek zehirleri markasıdır.Böceklerin sinir sistemine sodyum kanalı olarak etki eder. Yatak böcekleri ve tırtıllar için iyi ve etkili bir kontrol sunar.Bayer AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Senta Boya",
+    "description": "Senta, 2012 yılında kurulan Asent Boya ve Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen boya markasıdır.Kocaeli merkezli firma ürünlerini 20 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Micerium",
+    "description": "Micerium, 1977 yılında kurulan Micerium S.p.A. bünyesinde üretilen diş hekimliği için tıbbi cihazlar markasıdır.Firma implantoloji, ortodonti ve konservatif ve estetik ile ilgilenmektedir.Micerium S.p.A. İtalya merkezlidir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Ceymop",
+    "description": "Ceymop, 2014 yılında kurulan Cey Grup Temizlik İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen bez, mop, cam temizleme ürünleri, aparatlar, yersil ürünleri, fırça, sap, yer temizleme ürünleri, temizlik setleri, medikal ürünler, koku gidericiler, çöp torbaları, çöp kovaları. hijyen aparat ürünleri, krom aksesuarlar, konteyner ürünleri markasıdır.İstanbul merkezli firma ürünlerini İstanbul’da bulunan fabrikasında üretmektedir.Bünyesindeki markalar;CeyfixCeyhanlarCeymaskCeymopCeymop ProfessionalCeypedCeyplasCeystarEsmop",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kerr Herculite",
+    "description": "Kerr Herculite, 1891 yılında kurulan Kerr Corporation bünyesinde üretilen diş sarf malzemeleri markasıdır.Firma 2016 yılında Amerikan ve Alman şirketlerin ortaklığında kurulan Kavo Kerr bünyesine geçti.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

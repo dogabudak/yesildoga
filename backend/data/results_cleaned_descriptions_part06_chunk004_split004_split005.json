@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Icon Kask",
+    "description": "Icon, 2002 yılında LeMans Corporation bünyesinde üretilen kask, ceketler, yelekler, eldivenler, pantolon, ayakkabı, çantalar ve paketler, aksesuarlar markasıdır.LeMans Corporation Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Xknc",
+    "description": "Xknc, 2000 yılında kurulan Xian Kitamura Machine Works Co. Ltd. bünyesinde üretilen hassas CNC takım tezgahları ve otomasyon ekipmanları markasıdır.Xian Kitamura Machine Works Co. Ltd. Çin merkezlidir.Bünyesindeki markalar;NagashimaObotXknc",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wenzel",
+    "description": "Wenzel, 1968 yılında kurulan Wenzel Group Gmbh & Co. Kg bünyesinde üretilen koordinat ölçüm cihazları, ölçüm ve yazılım ölçmek için aletler markasıdır.Wenzel Group Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cinens Sinemaları",
+    "description": "Cinens, 2004 yılında Serkan Günay tarafından kurulan Cns Sinemacılık Film ve Alışveriş Merkezi İşletmeleri A.Ş. bünyesindeki sinema kompleksleri markasıdır.Her salonda görüş kolaylığı sağlayan gümüş perdeler ile hizmet vermektedir.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "North Sails",
+    "description": "North Sails, 1957 yılında Lowell North tarafından kurulan North Sails LLC bünyesinde üretilen yelken, yelken torbaları ve yelken giyim ürünleri markasıdır.Sadece rüzgar sörfü yelkenleri değil, yelkenlere giren malzemelerin çoğunu ve hatta bazı üretim ekipmanlarını tasarlar ve üretir. Dokuma dakronlar, naylon çoraplar ve laminatlar dahil olmak üzere hem yarış hem de seyir yelkenleri için yelken bezi üretir.North Sails LLC Amerika merkezlidir. 29 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

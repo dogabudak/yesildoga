@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Taç Kraker",
+    "description": "Taç, 1974 yılında Ülker Bisküvi San. A.Ş. tarafından üretilen tuzlu bisküvi markasıdır.Palm yağı ve glukoz şurubu içermektedir.Ülker Bisküvi San. A.Ş.’nin sahibi Yıldız Holding A.Ş.’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "First International Computer",
+    "description": "First International Computer, 1979 yılında Ming-J Chien tarafından kurulan First International Computer Inc. bünyesinde üretilen anakartlar, gömülü bilgi işlem sistemleri, grafik kartları, kişisel bilgisayarlar, dizüstü bilgisayarlar, bellekler ve cep telefonları markasıdır.First International Computer (FIC), Openmoko işletim sistemi için Neo 1973 adlı cihazlar üretti. Firma bazı yerlerde cep telefonu operatörüdür.First International Computer Inc. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Shred Optics",
+    "description": "Shred Optics, 2006 yılında kurulan Anomaly Action Sports S.r.l. bünyesindeki gözlük, güneş gözlüğü ve kask gibi koruma ürünleri markasıdır.Anomaly Action Sports S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Jinko Solar",
+    "description": "Jinko Solar, 2006 yılında kurulan JinkoSolar Holding Co. Ltd. bünyesinde üretilen güneş paneli markasıdır.JinkoSolar Holding Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini ABD dışında Türkiye dahil çok sayıda ülkeye pazarlamaktadır. 2021 Yılında, Uygur işçilerini üretim için zorla çalıştırdığı gerekçesiyle ABD ithalatı yasaklamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Zdrave",
+    "description": "1924 yılında kurulmuş olan Aroma Cosmetics AD bünyesinde üretilen cilt bakım ürünleri markasıdır.Sıvı parafin, koruyucu, koku verici, parfüm içerir. ISO 9001, ISO 22716 belgelerine sahiptir.Aroma Cosmetics AD Bulgaristan merkezlidir ve ürünlerini 70’ten fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;AsteraHomeopathicaHyaluron + Retinol",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": "2025-04-12"
+  }
+]

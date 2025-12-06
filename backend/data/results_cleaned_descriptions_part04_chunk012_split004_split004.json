@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Milkomak",
+    "description": "Milkomak, 1997 yılında kurulan Milkomak Gıda Endüstrisi Makinaları San. Tic. Ltd. Şti. bünyesindeki her kapasitede süt, meyve işleme ve meyve suyu, çikolata işleme vs. makine ekipman markasıdır.Firma endüstride anahtar teslimi projeden, işletme için gereken tek bir ekipmana kadar her türlü çözümü sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Greiner Ambalaj",
+    "description": "Greiner Ambalaj, 1868 yılında Carl Albert Greiner tarafından kurulan Greiner Packaging International Gmbh bünyesinde üretilen sert plastik ambalaj markasıdır.Greiner Packaging International Gmbh Avusturya merkezlidir. Dünya çapında 19 ülkede 30’dan fazla konumda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Actimel",
+    "description": "Actimel, 1967 yılında kurulan Compagnie Gervais Danone bünyesinde üretilen prebiyotik yoğurt tipli bir içecek markasıdır.Compagnie Gervais Danone Fransa merkezlidir. Danone, Türkiye pazarına 1997 yılında girdi. Grup Danone Türkiye olarak su, sütlü ürünler ve medikal beslenme pazarında faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Cottali",
+    "description": "Cottali, Cottali Srl bünyesindeki kapı aksesuarları, pencere aksesuarları, mobilya aksesuarları, perde aksesuarları markasıdır.Gravür, altın ve gümüş kaplama ile kulplar yapmaktadır.Cottali Srl İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir. Dünya çapında 50’den fazla yerde bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dierre",
+    "description": "Dierre, 1975 yılında Vincenzo De Robertis tarafından kurulan Dierre S.p.A. bünyesinde üretilen güvenlik kapıları, iç kapılar ve güvenlik kilitleri markasıdır.Güvenlik kapıları, yangın kapıları, geri çekilebilir kapılar için karşı çerçeveler, garaj kapıları ve kasalar için paneller, zırhlı kapı, yangın kapıları ve zırhlı pencereler üretmektedir.Dierre S.p.A. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

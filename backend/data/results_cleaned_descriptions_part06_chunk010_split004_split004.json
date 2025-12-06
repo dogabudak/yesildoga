@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cream Co.",
+    "description": "Cream Co., Cream Co Kozmetik A.Ş. bünyesindeki cilt bakım ürünleri markasıdır.Parfüm, paraben, sülfat, alkol ve sabun içermeyen cilt bakım çözümleri hayvanlara zarar vermeden üretilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Manna Pro",
+    "description": "Manna Pro, 1985 yılında kurulan Manna Pro Products LLC bünyesindeki buzağı, kanatlılar, at, keçi ve koyun, küçük hayvanlar, sığır, domuz ve daha fazlası için yemler, takviyeler ve ikramlar markasıdır.Manna Pro Products LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Epinox",
+    "description": "Epinox, Eyüboğlu İç ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen endüstriyel mutfak yardımcı aletleri ve ev tipi lüx hırdavat ürünler markasıdır.Firma ürünlerini Asya ülkelerinden ithal etmektedir.Bünyesindeki markalar;Apfel HausgerateEpinoxHazzarKriptonMarcaMarcatoMor MutfakYele",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Paşa Kuruyemiş",
+    "description": "Paşa, 2020 yılında kurulan Euronut Kuruyemiş Tic. A.Ş. bünyesindeki kuru meyve, kuruyemiş markasıdır.Ürünleri hiç bir koruyucu madde kullanılmadan üretilmektedir.Firma İstanbul merkezlidir.Bünyesindeki markalar;Cashew Land Premium QualityEuronutHeyecan Burada Başlıyor!Nl NusselandPaşaSalta NutTeo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Iml Swiss Dental",
+    "description": "Iml Swiss Dental, 2009 yılında kurulan Immediateload SA bünyesinde üretilen diş implant sistemleri, diş implantları ve diş aksesuarlarına yönelik cerrahi cihazlar markasıdır.Immediateload SA İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Dönerika",
+    "description": "Dönerika Nerenin Malı MarkasıDönerika, 2016 yılında Serçini Tur. San. Tic. Ltd. Şti. bünyesindeki yemek hizmetleri markasıdır.Döner alanında faaliyet göstermektedir.Firma Trabzon merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Metanet Un",
+    "description": "Metanet, 2008 yılında kurulmuş olan Metanet Bilişim Danışmanlık Mühendislik İnşaat Gıda Turizm San. ve Tic. Ltd. Şti. bünyesinde üretilen un, irmik ve kepek markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Salom",
+    "description": "Salom, 1972 yılında kurulmuş olan Xiamen Taihe Electronics Co. Ltd. bünyesinde üretilen adaptör, şarj cihazı, güç kaynağı ve güç bankası markasıdır.Dijital kameralar, tıbbi test cihazları, akıllı telefonlar, traş makineleri, taşınabilir wi-fi yönlendiricileri, telsizler, set üstü kutular, telefon konferans sistemleri, elektrikli süpürgeler, motorlu bisikletler gibi ürünlere güç sağlayan ürünleri bulunmaktadır.Xiamen Taihe Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pak-Heat",
+    "description": "Pak-Heat, 1919 yılında kurulmuş olan Kobayashi Pharmaceutical Co. Ltd. bünyesindeki kimyasal maddelerle dolu el tipi ısıtıcılar markasıdır.Kobayashi Pharmaceutical Co. Ltd. Japonya merkezlidir.Bünyesindeki markalar;Pak-HeatKobayashi",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Gneuss",
+    "description": "Gneuss, 1983 yılında kurulmuş olan Gneuss Kunststofftechnik Gmbh bünyesindeki ekstrüzyon teknolojisi, filtrasyon teknolojisi, polireaksiyon teknolojisi, ölçüm teknolojisi markasıdır.Makineler pelet, levha, boru ve elyaf imalatının yanı sıra bileşim, geri dönüşüm ve diğer birçok uygulamada kullanılmaktadır.Gneuss Kunststofftechnik Gmbh Almanya merkezlidir.Tam otomatik Döner Filtrasyon Sistemleri ve elek değiştiricileri sürekli, tam otomatik ve sabit basınçta çalışır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

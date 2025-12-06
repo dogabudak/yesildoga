@@ -1,0 +1,50 @@
+[
+  {
+    "company": "En+",
+    "description": "En+2002 yılında kurulmuş olan En+ Group bünyesindeki düşük karbonlu alüminyum ve bağımsız hidroelektrik markasıdır.En+ Group Rusya merkezlidir ve 12 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "ForaCare",
+    "description": "2009 yılında kurulmuş olan ForaCare Suisse AG bünyesindeki sağlık ürünleri markasıdır.Bağlantılı ve bağlantısız Evde Bakım Çözümleri paketi sunmaktadır.ForaCare Suisse AG İsviçre merkezlidir. 63 ülkede 250’den fazla ortağı bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Memoil",
+    "description": "2013 yılında kurulmuş olan Memoil Akaryakıt Dağıtım A.Ş. bünyesindeki benzin ve motorin sunan petrol istasyonları markasıdır.2015 yılında PowerWax markasını bünyesine almıştır.Firma Mersin merkezlidir.Bünyesindeki markalar;MegazMemoilMemoil EnergyMemoil EnerjiPower WaxPowerwax",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Capcom",
+    "description": "Capcom, 1979 yılında kurulmuş olan Capcom Co. Ltd. bünyesindeki elektronik oyun makineleri, video oyunları markasıdır.Video oyun endüstrisinin tüm alanlarında faaliyet göstermektedir.Capcom Co. Ltd. Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Liva Gaz Armatürleri",
+    "description": "Liva Gaz Armatürleri Hangi Ülkenin Malı Markası1999 yılında kurulmuş olan Liva Gaz Armatürleri San. Tic. A.Ş. bünyesinde üretilen endüstriyel mutfak sektörü için gaz ve su yedek parçaları markasıdır.Firma İstanbul merkezlidir. Ürünlerini 50’ye yakın ülkeye ihraç etmektedir.Bünyesindeki markalar;GastronizeL.V.ALivaLsa Su Armatürleri & FitingsLvaLva Gaz Armatürleri & Fittings",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

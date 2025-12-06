@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Bikon",
+    "description": "Naturawell1972 yılında kurulmuş olan Bikon-Technik Gmbh bünyesindeki baskı cıvataları, büzülme diskleri, flanş kaplinleri, kilitleme cıvataları, mil kaplinleri, kilitleme tertibatları markasıdır.Bikon-Technik Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Baştaş Hazır Beton",
+    "description": "Baştaş1967 yılında kurulmuş olan Baştaş Başkent Çimento San. ve Tic. A.Ş. bünyesinde üretilen çimento, hazır beton markasıdır.2010 yılında yapılan sermaye artırımı sonunda Fransa merkezli Parficim SA (Vicat SA. Grubu) hisseleri yüzde 87,9’a çıkmıştır. Türkiye pazarına 1991 yılında girmiştir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Fiscips",
+    "description": "FiscipsFiscips Gıda ve Pazarlama bünyesinde üretilen atıştırmalıklar markasıdır.Ürünleri katkı, koruyucu, trans yağ ve ilave şeker içermez.Firma Şanlıurfa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jaquet Droz",
+    "description": "Jaquet Droz1738 yılında kurulmuş olan Montres Jaquet Droz SA bünyesindeki saatler markasıdır.Montres Jaquet Droz SA, 2000 yılında İsviçre merkezli The Swatch Group AG tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Messido",
+    "description": "Messido2008 yılında kurulmuş olan Saykon Tekstil İnşaat ve Turizm Dış Tic. A.Ş. bünyesindeki bebek odası, kenar koruyucu, yastık kılıfı, çarşaf, bebek yelek, emzik askısı, emzirme önlüğü, emzirme minderi, pijama, uyku tulumu, yenidoğan İhtiyaçları, önlük, ağız mendili, bebek şapkası markasıdır.Ürünleri yüzde 100 pamuktan üretilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

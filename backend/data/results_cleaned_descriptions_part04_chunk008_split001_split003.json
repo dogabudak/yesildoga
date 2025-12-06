@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ravaber",
+    "description": "Ravaber, 1961 yılında kurulan Ravago Group bünyesindeki ısı yalıtımı, ses yalıtımı ve yangın güvenliğinde mineral taş yünü ürünleri markasıdır.Dünyada plastik ve yapı ürünleri üretimi yapan ve pazarlayan Ravago grup Belçika merkezlidir. Yaklaşık 40 ülkede faaliyet göstermektedir. Türkiye dahil 17 ülkede 55 şirketi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Miss Selfridge",
+    "description": "Miss Selfridge, 1966 yılında kurulan mağaza zinciridir.2021 yılında ASOS plc tarafından satın alındı.ASOS plc’nin yüzde 26,41 hissesi Danimarka merkezli Bestseller A/S’ye, yüzde 10,33 hissesi Amerika merkezli T. Rowe Price’ye yüzde 9,71 hissesi Capital Group’a, yüzde 5,9 hissesi Amerika merkezli Camelot Capital Partners LLC’ye aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Acqua Di Parma",
+    "description": "“Acqua Di Parma“1916 yılında Carlo Magnani tarafından kurulmuş olan Acqua Di Parma Srl bünyesindeki kokular, ev koku difüzörü, akıllı ev difüzörü, araba koku difüzörü, ev ve araba difüzör dolumu, banyo ve vücut ürünleri, cilt bakımı, el bakımı, küçük deri ürünler, kokulu mumlar, saç bakımı, sakal aksesuarları, tıraş ürünleri, şampuan, aksesuarlar markasıdır.Acqua Di Parma S. r.l. 2001 yılında Fransa merkezli LVMH Moet Hennessy Louis Vuitton SE tarafından satın alındı. Tüm ürün yelpazesi sadece İtalya’da üretilmektedir ve 40’tan fazla ülkede dağıtılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-12-11"
+  },
+  {
+    "company": "IC PLUS",
+    "description": "IC PLUS, 1997 yılında kurulan IC PLUS Corporation bünyesinde üretilen 10/100/1000 alıcı-verici, 10/100/1000 Ethernet anahtarı, 10/100/1000 medya dönüştürücü ve Ethernet üzerinden güç gibi ürünler markasıdır.Ethernet anahtar sistemine odaklanan IC PLUS yonga setleri, tüketici ve endüstriyel pazarı kapsayan çok çeşitli uygulamalarda kullanılmaktadır.IC PLUS Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Vom Feinsten",
+    "description": "Vom Feinsten, 1991 yılında kurulan Animonda Petcare Gmbh bünyesindeki hayvanlar için gıda maddeleri ve yemler, evcil hayvan maması markasıdır.Animonda Petcare Gmbh, Almanya merkezli Heristo AG şirketinin bir parçasıdır. Ürünlerini 35’ten fazla ülkede satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

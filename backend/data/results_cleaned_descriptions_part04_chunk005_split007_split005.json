@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tacklife",
+    "description": "Tacklife, 2015 yılında Aukey Technology Co Ltd. bünyesinde üretilen lazer seviyeleri (lazer ölçü, mezura, lazer seviyesi, manyetik torpido seviyesi), elektrik ve ağ (dijital multimetre, dijital kelepçe metre, güç dedektörü, tel tracker, gerilim kalemi), çevre test cihazları (kızılötesi termometre, ahşap nem ölçer, ses seviyesi), metre, nem ölçer, ışık ölçer, anemometre, ph test cihazı), elektrikli aletler (çekiçler, tornavidalar, döner araçları, gravür makineleri), el aletleri (çoklu pense), ev aletleri (ısı tabancası, püskürtme tabancası), otomotiv araçları (lastik basınç göstergesi) ürünleri markasıdır.Aukey Technology Co Ltd. Çin merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Keurig",
+    "description": "Keurig, 1998 yılında kurulan ev ve ticari kullanım için bir içecek demleme sistemi markasıdır.2014 yılında Keurig Green Mountain’ın ana markası oldu. 2016 yılında Keurig Green Mountain, Lüksemburg merkezli özel sermaye şirketi JAB Holding Company S.à r.l. tarafından satın alındı. Ürünleri Amerikan firması Keurig Dr Pepper tarafından üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Capresso",
+    "description": "Capresso, 1994 yılında kurulan JURA Inc. bünyesindeki kahve makinesi, espresso makinesi, öğütücü, elektrikli su ısıtıcısı, köpürtücü markasıdır.JURA Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vorwerk",
+    "description": "Vorwerk, 1883 yılında kurulan Vorwerk Deutschland Stiftung & Co. KG bünyesinde üretilen ev aletleri, hazır mutfak ve kozmetik ürünleri markasıdır.Vorwerk Deutschland Stiftung & Co. KG Almanya merkezlidir. Dünya çapında 70’den fazla ülkeye ürünleri pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kreafunk",
+    "description": "Kreafunk, 2011 yılında kurulan Kreafunk ApS bünyesinde üretilen bluetooth hoparlörler, dekoratif hoparlörler, kulaklıklar, aksesuarlar, şarj cihazları markasıdır.Kreafunk ApS, Danimarka merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

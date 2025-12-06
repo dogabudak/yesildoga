@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Supermax Uydu Alıcısı",
+    "description": "Supermax“2013 yılında kurulmuş olan Sistem Elektroteknik Uydu Dış Tic. San. Ltd. Şti. bünyesindeki uydu alıcısı, set üstü tv alcısı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Birsaş Süt",
+    "description": "Birsaş Süt Hangi Nerenin Malı MarkasıBirsaş2014 yılında kurulmuş olan Tat Gör Süt ve Süt Ürünleri Hayvancılık Tarım Gıda Petrol Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen pastörize süt, beyaz peynir, kaşar peyniri, yoğurt, ayran, lor peyniri, tereyağı, kaymak, dil peyniri ve örgü peynir markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Batman merkezlidir ve ürünlerini Batman’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fitpro",
+    "description": "Fitpro1990 yılında kurulmuş olan Fitness Professionals Ltd. bünyesindeki fitness profesyonelleri için eğitim ve öğretim, müzik, koreografi ve programlama, etkinlikler, ağ fırsatları ile fitness ve spor salonu ekipmanları markasıdır.Üyeler için etkileşimli bir çevrimiçi derginin yanı sıra düzenli bültenler ve sektörün önde gelen isimlerinin yer aldığı canlı bir blog ve podcast üretir.Fitness Professionals Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Ibucold",
+    "description": "Ibucold2010 yılında kurulmuş olan Pharmactive İlaç San. ve Tic. A.Ş. bünyesinde üretilen ilaçlar markasıdır.Sancak ailesi tarafndan kurulan Saya Grup bünyesindeki firma İstanbul merkezlidir. Ürünlerini Tekirdağ’da bulunan üretim tesisinde üretmektedir ve 25 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fieldpiece Instruments",
+    "description": "Fieldpiece Instruments1990 yılında kurulmuş olan Fieldpiece Instruments Inc. bünyesindeki HVACR endüstrisi için profesyonel aletler ve test araçları markasıdır.Multimetreler, teraziler, kaçak dedektörleri, aşırı ısınma ve aşırı soğutma sayaçları, veri kaydediciler, manometreler, megometreler, psikrometreler, vakum ölçerler, takometreler, termometreler, cep aletleri, kurtarma makineleri, vakum pompaları, HVAC, soğutma ve yanma analizi gibi bir ürün yelpazesine sahiptir.Fieldpiece Instruments Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

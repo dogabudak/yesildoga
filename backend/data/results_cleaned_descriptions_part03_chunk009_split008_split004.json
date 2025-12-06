@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Chaintech",
+    "description": "Chaintech, 1986 yılında kurulan Walton Chaintech Corporation bünyesindeki bilgisayar donanım ürünleri markasıdır.Ürün yelpazesinde ses kartı, modem ve bellek modülleri, grafik kartı ve anakart markasıdır.Walton Chaintech Corporation Tayvan merkezlidir. Firmanın Tayvan, Hong Kong, Çin, Avustralya, ABD, Fransa ve Rusya’da şubeleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Ayotte Drums",
+    "description": "Ayotte Drums, 1982 yılında kurulan Ayotte Drums Inc. bünyesindeki davul kitleri, davul çubukları markasıdır.Ayotte Drums Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "St. Dalfour",
+    "description": "St. Dalfour Hangi Ülkenin Malı MarkasıSt. Dalfour, 1995 yılında kurulan St Dalfour SAS bünyesinde üretilen narenciye, siyah kiraz, böğürtlen, frenk üzümü, kızılcık, yaban mersini, incir, şeftali armut, kumquat, erik, portakal, zencefil, ananas, mango, ahududu, çilek ve kuru form ve reçel kayısı markasıdır.St Dalfour SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Hozelock",
+    "description": "Hozelock, 1959 yılında kurulan Hozelock Limited bünyesinde üretilen bahçe pompası ve filtreleri, hortum, hortum ucu bağlantıları, musluk bağlantıları, musluk adaptörleri, suyu düz veya sprey şeklinde püskürten hortum uçları, su püskürtme tabancaları, bahçe sulama süzgeçleri, araç yıkama fırçaları, hortum sarma makaraları, tazyikli su püskürtücüler markasıdır.Ürünlerinin yüzde 75’inden fazlası İngiltere’de üretilirken kalan yüzde 25’i ise Fransa, Malezya, Tayvan ve Çin’de üretilmektedir.Hozelock Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Thuya",
+    "description": "Thuya, 1986 yılında kurulan Thuya S.L. bünyesinde üretilen kaş ve kirpikler ile el ve ayak bakım ürünleri markasıdır.Thuya S.L. İspanya merkezlidir ve ürünlerini İspanya’da üretmeıktedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

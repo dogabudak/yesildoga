@@ -1,0 +1,44 @@
+[
+  {
+    "company": "İzderma",
+    "description": "İzderma, İzderma İlaç Kozmetik Ürünleri Bilişim San. ve Tic. Ltd. Şti. bünyesindeki cilt bakım ürünleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ROX Beauty",
+    "description": "ROX Beauty, 1992 yılında kurulan Rox d.o.o. bünyesinde üretilen kozmetik ürünler ve güzellik cihazları markasıdır.Rox d.o.o. Hırvatistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HR",
+    "updated_date": null
+  },
+  {
+    "company": "Barulab Seoul",
+    "description": "Barulab, 2002 yılında kurulan BnK Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri zararlı kimyasallar içermemektedir ve hayvanlar üzerinde test edilmemektedir.BnK Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Giro",
+    "description": "Giro, 1985 yılında Jim Gentes tarafından kurulan Giro Sport Design bünyesinde üretilen bisiklet kaskları, kar ve MTB gözlükleri, bisiklet ve dağ bisikleti kıyafetleri ve ayakkabıları, bisiklet, kayak ve snowboard için yumuşak ürünler markasıdır.Giro Sport Design, 2016 yılında Amerika merkezli Vista Outdoor Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dörken",
+    "description": "Dörken, 1892 yılında Carl ve Ewald Dörken tarafından kurulan Ewald Dörken AG bünyesinde üretilen boya, kaplama, renklendirme ve korozyon koruma sistemleri, eğimli çatı ve cephe membranları, temel duvar koruma ve drenaj sistemleri markasıdır.Kompozit laminatlar, mikro katmanlı korozyon koruma sistemleri, yapılar, renkler ve macun sistemleri üretmektedir.Ewald Dörken AG Almanya merkezlidir.Bünyesindeki markalar;AmsBico TechnologyDeltaDelta AmsDelta TapeDeltadrainDeltafolDelta-Geo-DrainDelta-MksDelta-MsDelta-Multi-BandDelta-NpDelta-PentaxxDeltaplanDelta-ThermDörkenDörken Mks The Corrosion ExpertsLucite",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dobby’s Cloud Kitchen",
+    "description": "“Dobby’s“​2014 yılında kurulmuş olan Dobbys Gıda A.Ş. bünyesindeki restoranlar markasıdır.Üretimini yaptığı ürünler koruyucu madde veya katkı maddesi içermez.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rodrigo Tekstil",
+    "description": "“Rodrigo“1993 yılında kurulmuş olan Rodrigo Tekstil San. Tic. A.Ş. bünyesinde üretilen erkek giyim ürünleri, gömlek, tişört, pantolon markasıdır.Firma İstanbul merkezlidir.Hissedarları:Bekir Küçükdoğan (yüzde 42,4)Diğer (yüzde 57,6)",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wily Fish Wear Design",
+    "description": "“Wily Fish Wear Design“2011 yılında kurulmuş olan Limanağ Balıkçılık Malzemeleri San. ve Tic. Ltd. Şti. bünyesindeki balıkçı çanta ve kutuları, olta aksesuarları, olta kamışları, olta makineleri, olta misinaları, olta yedek parçaları, suni yemler markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;LimanağLimanfileWily Fish Wear Design",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maimi Kablo",
+    "description": "“Maimi“2012 yılında kurulmuş olan Shenzhen Maimi Technology Co. Ltd. bünyesinde üretilen şarj kablosu, şarj cihazı, güç bankası, tws kulakiçi, kulaklık markasıdır.Shenzhen Maimi Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tesla Batteries",
+    "description": "“Tesla“2015 yılında kurulmuş olan Tesla Batteries A.S. bünyesinde üretilen ityum, alkalin ve çinko-karbon piller ve şarj edilebilir NiMH akümülatörler markasıdır.EN ISO 9001 ve EN ISO 14001 belgelerine sahiptir.Tesla Batteries A.S. Çek Cumhuriyeti merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  }
+]

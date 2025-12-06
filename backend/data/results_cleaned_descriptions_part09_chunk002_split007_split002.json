@@ -1,0 +1,48 @@
+[
+  {
+    "company": "J.D. Gross",
+    "description": "J.D. Gross1930 yılında Josef Schwarz tarafından kurulan Lidl Stiftung & Co. KG bünyesindeki çikolata markasıdır.Lidl Stiftung & Co. KG, Almanya merkezli Schwarz Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Seha Lastik",
+    "description": "Seha Lastik1992 yılında kurulmuş olan Seha Mühendislik Müşavirlik Tic. ve Makina San. A.Ş. bünyesindeki binek araç lastikleri markasıdır.ISO 9001, ISO 1400, ISO 27001, OHSAS 18001, TSE belgelerine sahiptir.Firma Ankara merkezlidir ve ürünlerini 70’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 1400",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Shanshan",
+    "description": "Shanshan1999 yılında kurulmuş olan Shanghai Shanshan Technology Co. Ltd. bünyesinde üretilen lityum iyon pil anot malzemeleri markasıdır.Shanghai Shanshan Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pennzoil",
+    "description": "Pennzoil1907 yılında kurulmuş olan Shell International Petroleum Company Ltd. bünyesindeki otomobil, kamyon ve suv’lar için hava ve yağ filtreleri, tam sentetik motor yağı, yağlar, sıvılar ve yakıt markasıdır.Shell International Petroleum Company Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Sano Bruno’s",
+    "description": "Sano1965 yılında kurulmuş olan Sano-Bruno’s Enterprises Ltd. bünyesinde üretilen bebekler için mendil ve süngerler, losyon, krem, sabun, çocuk bezi, ambalaj filmi, ambalaj ürünleri, fırça, deterjan ve diğer ev eşyaları markasıdır.Şirket, kadın, erkek ve bebekler için çeşitli banyo malzemeleri ve kozmetik ürünler sunmaktadır.Sano-Bruno’s Enterprises Ltd. İsrail merkezlidir ve ürünlerini İsrail’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

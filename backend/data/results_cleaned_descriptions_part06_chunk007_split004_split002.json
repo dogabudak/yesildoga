@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Emborg",
+    "description": "Emborg, 1947 yılında Erik Emborg tarafından kurulan tereyağı, peynirler, pasta kreması, dondurulmuş gıdalar, deniz ürünleri, et ürünleri, meyveli tatlılar markasıdır.Sığır burgerler, kümes hayvanları ve konserve deniz ürünleri, tavuk franks ve dondurulmuş sebzeler markasıdır.2005 yılında Danimarka merkezli Uhrenholt A/S tarafından satın alındı. Ürünlerini 84 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Pharmactive",
+    "description": "Pharmactive, 2010 yılında kurulan Pharmactive İlaç San. ve Tic. A.Ş. bünyesinde üretilen ilaç markasıdır.Ürünlerini Çerkezköy’de bulunan 108 bin metrekarelik alanda üretmektedir.Pharmactive İlaç San. ve Tic. A.Ş. Sancak ailesi tarafndan kurulan Saya Grup bünyesindedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Typhoo",
+    "description": "Typhoo, 1903 yılında kurulan Typhoo Tea Limited bünyesinde üretilen hazır paketlenmiş çay markasıdır.Çayı dünyanın her yerinden gelmektedir.Typhoo Tea Limited’in çoğunluk hissesini 2021 yılında İngiltere merkezli Zetland Capital Partners LLP satın aldı.Bünyesindeki markalar;Typhoo TeaTyphoo DecafTyphoo StrongTyphoo Gold",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Kingsize Nutrition",
+    "description": "Kingsize Nutrition, 2012 yılında kurulan Dikey Vitamin Kozmetik ve Gıda Takviyeleri A.Ş. bünyesinde üretilen sporcu besinleri markasıdır.ISO 9001, ISO 140001, ISO 22000, GMP belgelerine sahiptir.Dikey Vitamin A.Ş.’ye 2021 yılında İsviçre merkezli Societe Des Produits Nestle S.A.’ya ait Nestlé Health Science tarafından hisselerinin bir bölümünü satın alarak ortak oldu.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2023-07-21"
+  },
+  {
+    "company": "Ovcos",
+    "description": "Ovcos, 1992 yılında kurulan Green Cos Co. Ltd. bünyesinde üretilen cilt bakımı, makyaj, vücut ve saç, evcil hayvan bakımı ürünleri markasıdır.ISO 22716, ISO 14001, ISO 9001 belgelerine sahiptir.Green Cos Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

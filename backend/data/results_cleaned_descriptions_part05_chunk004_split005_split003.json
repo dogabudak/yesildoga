@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Amanos",
+    "description": "Amanos, 2011 yılında kurulan Amanos Transformatör San. ve Tic. Ltd. Şti. bünyesindeki güç trafoları, dağıtım trafoları, hermetik trafolar, kuru tip trafolar, og akım ve gerilim trafoları, reaktör markasıdır.Ayrıca isteğe özel trafolar üretmektedir.Firma 3 bin metrekarelik alanda faaliyet göstermektedir. ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Toffifee",
+    "description": "Toffifee, 1903 yılında kurulan August Storck KG bünyesindeki karamel şeker markasıdır.Toffifee, nuga, karamel ve fındık içeren, üzeri çikolata düğmeli karamel kaplardır.August Storck KG Almanya merkezlidir. Almanya’da 3 üretim tesisine sahiptir. Ürünleri 90’ın üzerinde ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Metlox",
+    "description": "Metlox, 2019 yılında kurulan Metlox Kilit San. Tic. A.Ş. bünyesinde üretilen dış kapı ve iç kapı kilit sistemleri ve ekipmanları markasıdır.Anahtar, bilyalı barel veya silindir, cerman barel veya silindir, gömme kilit, kilit karşılığı, rulmanlı iç kapı oda kilidi, rulmanlı iç kapı wc kilidi, rulmanlı 3 milli silindirli dış kapı kilidi, rulmanlı silindirli dış kapı kilidi, sessiz kilitler, silindirler, tirajlı kilitler gibi ürünlere sahip firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ridex",
+    "description": "Ridex, 2008 yılında kurulan Ridex Gmbh bünyesindeki otomobil yedek parçaları markasıdır.Geniş bir ürün yelpazesine sahiptir yaklaşık 20 bin otomobil parçası ve aksesuarı sunmaktadır.Ridex Gmbh Almanya merkezlidir. Türkiye, Çin, Çek Cumhuriyeti, İtalya ve Tayvan’da üretim tesisleri bulunmaktadır.ISO 9001, ISO 14001, ISO/TS 16949 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Güler Anahtar",
+    "description": "Güler Anahtar Nerenin Malı MarkasıGüler Anahtar, 1987 yılında Mehmet Güler tarafından kurulan Güler Anahtar ve Kilit San. Koll. Şti. bünyesinde üretilen araç anahtarları, araç kumanda anahtarları, araç kumanda uçları, bilyalı anahtarlar, çekmece ve posta kutusu anahtarları, ev anahtarları, kollu ve otomatik anahtar kopyalama makinesi markasıdır.Bünyesindeki markalar;AnisApikoArmstrongEvergoodFabGülerGürGea Güler Elektronik AnahtarGea SilcaIlco OrionKeyline GKingfaSermakSilcaTricircleÜniversal",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Cistus",
+    "description": "“Cistus“Genveon İlaç San. ve Tic. A.Ş. bünyesindeki gıda takviyeleri pastil markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir. Firma Kocaeli’de 21 binlik kapalı alana sahip tesisinde üretim yapmaktadır ve 83 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Farba",
+    "description": "“Farba“1979 yılında kurulmuş olan Farba Otomotiv A.Ş. bünyesinde üretilen arka stop lambaları, farlar markasıdır.ISO 9001 belgesine sahiptir.Bayraktarlar Holding bünyesindeki firma Kocaeli merkezlidir. Ürünlerini 22 bin metrekarelik kapalı, 30 bin metrekarelik açık alanda bulunan tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nhiel Thermal",
+    "description": "“Nhiel Thermal“2022 yılında kurulmuş olan Nhiel Kozmetik ve Sağlık Ürünleri Ltd. Şti. bünyesindeki akne, gözenek kontrolü, nemlendirici kremler, serumlar markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Actiomedic",
+    "description": "“Actiomedic“1909 yılında Karl gram tarafından kurulan Gramm Medical Healthcare Gmbh bünyesindeki göz yıkama solüsyonları markasıdır.Gramm Medical Healthcare Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "G&H",
+    "description": "“G&H“1959 yılında kurulmuş olan Alticor Inc. bünyesindeki banyo ve vücut bakım ürünleri, güneş bakım ürünleri, bebek losyonu, bebek yıkama ve şampuanı, besleyici el kremi, besleyici vücut losyonu, deodorant, el dezenfektan, koruyucu el sabunu, roll – on markasıdır.Ürünleri hayvansal kaynaklı maddeler İçermez ve hayvanlar üzerinde test edilmemektedir.DeVos ve Van Andel ailelerine ait olan Alticor Inc. Amerika merkezlidir. Türkiye’de 1994 yılından beri faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

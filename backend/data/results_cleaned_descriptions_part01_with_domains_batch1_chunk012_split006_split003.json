@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Fissler Nere",
+    "description": "Fissler, 1845 yılında Carl Philipp Fissler tarafından kurulan Fissler GmbH bünyesindeki mutfak ürünleri markasıdır.Mutfak ekipmaları üretip, ürünlerini 80’den fazla ülkede pazarlamaktadır.Fissler GmbH Almanya merkezli bir şirkettir ve Alman yapımı tasarımlara sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Toshiba Markasının",
+    "description": "Toshiba firması daha önce Japonlarındı fakat iflas etmemek için bölüm bölüm farklı şirketlere satıldı.Toshiba Televizyon bölümü Çinli Hisense’ye satıldı.Toshiba beyaz eşya (bulaşık ve çamaşır makineleri) Çinli Midea’ya satıldı.Toshiba’nın çip birimi Bain Capital’e satıldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Posco",
+    "description": "Posco, 1968 yılında Park Tae-Joon tarafından kurulan çelik, yassı çelik ürünleri, uzun çelik ürünleri, tel ürünleri, plakalar markasıdır.Ham çelik üretimi pazar değeri bakımından dünyanın en büyük çelik üreticisidir.Posco, Güney Kore merkezli çelik üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Vince",
+    "description": "2008 yılında kurulmuş olan A101 Yeni Mağazacılık A.Ş. adına muhtelif firmalar tarafından üretilen çikolatalar markasıdır.Ürünleri Türkiye’de üretilmektedir ve palm yağı içermektedir.A101 Market Sahibi Kimdir?Vince Çikolata Kimin Hangi Ülkenin Malı :",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-04-02"
+  },
+  {
+    "company": "Centro Gofret Firmanın",
+    "description": "Centro çikolatalı gofret, Bim Birleşik Mağazalar A.Ş. adına Bifa Bisküvi tarafından üretilmektedir.Ürün soya ve palm yağı içermektedir.Bifa Bisküvi 1962 yılında kurulan bisküvi, çikolata, kek, gofret, kraker, şeker üretimi yapan bir şirkettir.Bifa Bisküvi ve Gıda San. Karaman’daki 94 bin 274 metrekare toplam alanıyla, 75 bin 548 metrekare kapalı alan üzerindeki tesislerinde üretim yapıyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

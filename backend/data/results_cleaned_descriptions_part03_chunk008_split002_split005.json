@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Mayadağ",
+    "description": "Mayadağ Nerenin Malı MarkasıMayadağ, 1973 yılında Engin Pak tarafından kurulan Pak Holding A.Ş. bünyesindeki Pak Gıda Üretim ve Pazarlama A.Ş. tarafından üretilen hamur mayası markasıdır.Fırın ve unlu mamüller için hazırlanan Mayadağ yaş hamur mayası doğal maya (saccharomyces cerevisiae) içermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Donella",
+    "description": "Donella, 1995 yılında kurulan Lara Tekstil San. Tic. Ltd. Şti. bünyesindeki pijama ve iç giyim ürünleri markasıdır.Ürünlerini 80’den fazla ülkeye ihraç etmektedir. ISO 9001 ve ISO 10002 belgelerine sahiptir.Bünyesindeki markalar:DONELLADONELLA MANLaraAlsanalsa",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mıtsuka",
+    "description": "Mıtsuka, 1974 yılında kurulan Finspor Dış Tic. Ltd. Şti. bünyesinde ithal edilen masa tenisi masası markasıdır.Finspor Türkiye çapında 15 mağazada 40’tan fazla markanın dağıtıcılığını yapmaktadır.Bünyesindeki markalar:AbdomenizerActionAdvance AAmfBioluxBrineCandyCollage & UniversityDepeDerbystarDolfin SwimgearDynamotion FitnessFantasticFinsporGalaMagnumMagnum ProfitnessMambo Body MassagerMaxconcept MaxcareMaxicamMd Muscle DynamicsMıtsukaNordictrackPowerfitPro FitnessProtechRip:60S Finder’sSari KanaryaSportsartStarkStrikerSuper GymThighciserValeoValeo VVarioluxVoitYork",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Niken",
+    "description": "1978 yılında kurulmuş olan Oto Erbaylar Ltd. Şti. bünyesindeki led far ampulü markasıdır.Firma İstanbul merkezlidir. Ürünlerini Yalova’daki 6 bin metrekarelik tesisinde üretmektedir ve 20’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar:",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-03-11"
+  },
+  {
+    "company": "Neffos",
+    "description": "Neffos, 1996 yılında kurulan TP-LINK Technologies Co., Ltd.’nin yan kuruluşu Neffos Limited bünyesinde üretilen akıllı telefon markasıdır.Dünyanın en büyük kablosuz ağ ürünleri sağlayıcısı TP-Link Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

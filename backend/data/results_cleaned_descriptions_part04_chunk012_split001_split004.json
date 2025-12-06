@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Linda Farrow",
+    "description": "Linda Farrow, 1970 yılında kurulan Linda Farrow Group bünyesindeki lüks gözlük markası markasıdır.Lüks gözlük, tasarımcı güneş gözlüğü, premium optik gözlük, yuvarlak, kelebek, pilot, büyük boy ve kedi göz güneş gözlüğü, titanyum, 24 ayar altın, deri ve hayvan derileri işlemeli gözlükler üretmektedir.Linda Farrow Group İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Havaianas",
+    "description": "Havaianas, 1907 yılında Robert Fraser tarafından kurulan Alpargatas S.A. bünyesindeki terlik markasıdır.Pirinç sapından yapılan Japon sandaletlerinden esinlenerek mavi, siyah, kahverengi ve pembe olmak üzere dört renkte üretilmektedir.Alpargatas S.A. Brezilya merkezlidir.Bünyesindeki markalar;Alpargatas TextilHavaianasMedia NaranjaRueda",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Balatlı",
+    "description": "Balatlı, 1961 yılında kurulan İlkerler Balatlı A.Ş. bünyesindeki elektrikli el aletleri markasıdır.Depo içi istifleme, hırdavat ve tarım konularında faaliyet göstermektedir. Dünyanın 45 ülkesinden mal ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-03-26"
+  },
+  {
+    "company": "Biostore",
+    "description": "Biostore, 1997 yılında Ayhan Ercan tarafından kurulan Ecem Group bünyesindeki aktariye ve baharat, organik gıdalar, organik cilt bakım ürünleri ve kişisel bakım ve sağlık ürünleri markasıdır.GMP ve ISO 9001 standartlarına göre üretim yapmaktadır.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dates n Choco",
+    "description": "Dates n Choco, Alyan Gıda Üretim İthalat Ihracat San. Tic. A.Ş. bünyesinde üretilen çikolata markasıdır.Ürünlerini Sakarya’da 45 bin metrekaresi açık, 12 bin metrekare kapalı alanda üretmektedir. ISO 9001, ISO 22000, ve helal belgelerine sahiptir.Bünyesindeki markalar:AlbeyAlyanAlyan Dates N ChocoAlyan Dates N ChocolateAlyan Food Production Co.Alyan HeyyoAlyan HoopiaAlyan KidopiaAlyanlolitaAlyan MillyAlyan MinminAlyan MinmonAlyan Most Probably The Sweetest Sweet ın The WorldAlyan Since 1876Alyan The BestAlyan Very Sweet Of YouAlyan YotiAssoAycellBeyhudeBlackmanCağlaCamelliaChoco BoyChocolate VolumeConsCreamlandÇağlaÇağla CamelliaÇağla ChocobearÇağla ChocobisflyÇağla ChocofishÇağla ChocoflyÇağla ChocotrainÇağla ComplexÇağla ÇoktatÇağla DobloÇağla EuropaÇağla FoxÇağla GülistanÇağla ImzaÇağla LoveÇağla MaksÇağla MaranÇağla NapoliteÇağla Nut BarÇağla Nut BarÇağla NuttyÇağla OnlyÇağla PoundÇağla PrestigeÇağla RedbarÇağla SortieÇağla SümbülÇağla SweetbearÇağlaÇağla TılsımÇağla ToyotoyÇağla TruffinoÇağla Unique CandyÇağla ViperÇağla VolumeÇağla YumakÇağla ZooÇokomaskotÇokopopDimi DimiHerkülJawsJoymaxKafigoKnockLambordLux Truffe TruffinoLux Truffles TruffinoMaxi ClassMindoMonteyerMontgardenNutcityNutcity PremiumNutcityOlimposOlimpos GongOlimpos PyramidsOlimpos TwinOrkoParparaPokyPoky CrackPoundPrivilageRedbarSefkarSürerSweetifyTaksimTaximToyotoyVolumeVolume A Chocolate CeremonyVolume All In OneVolume ExtreemVolume ExtremeVolume FingerVolume HoopVolume MousseVolume Puffies Milk Cream CakeVolume The Master Chef Of CakeVolume WaffleZerre",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

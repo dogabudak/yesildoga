@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Carmex",
+    "description": "Carmex, 1937 yılında kurulan Carma Laboratories Inc. bünyesinde üretilen kişisel bakım, dudak bakımı, peeling ürünleri, dudak parlatıcıları, maskeler markasıdır.Carma Laboratories Inc. Amerika merkezlidir ve ürünleri Amerika’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-12-03"
+  },
+  {
+    "company": "Vbeaute",
+    "description": "Vbeaute, 2011 yılında Julie Macklowe taafından kurulan kozmetik ve cilt bakım ürünleri markasıdır.Ürün yelpazesinde peptid bazlı yaşlanma karşıtı yüz ve göz serumları, nemlendiriciler, göz kremi, güneş kremi ve yüz temizleyici ve eksfoliyatörü bulunmaktadır.Tüm ürünleri İsviçre’de formüle edilmiştir, parfüm ve paraben içermez.Vbeaute Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Freebird Airlines",
+    "description": "Freebird, 2000 yılında Mekin Gözen ve Mete Bozyiğit tarafından kurulan Gözen Holding bünyesindeki yolcu veya kargo taşımacılığı, bakım ve eğitim kuruluşu markasıdır.ISO 9001, IOSA belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wickers",
+    "description": "Wickers, 2005 yılında kurulan Özgen Ayakkabı San. Tic. Ltd. Şti. bünyesinde üretilen bay, bayan, çocuk spor ayakkabıları ve casual ayakkabı markasıdır.Ürünlerini yurt dışına ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kudelski",
+    "description": "Kudelski, 1951 yılında kurulan Kudelski SA bünyesinde dijital ve interaktif içeriklerin teslimi için donanım ve yazılım dijital güvenlik ve yakınsak medya sistemleri markasdır.Teknolojileri, yayın, geniş bant ve mobil dağıtım ağları ndaki dijital televizyon ve etkileşimli uygulamalar için içerik sahipleri ve hizmet sağlayıcılar tarafından dijital medyanın paraya çevrilmesi için erişim kontrolü ve dijital hak yönetimi gerektiren hizmetlerde ve uygulamalarda kullanılır.Kudelski Grubu İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

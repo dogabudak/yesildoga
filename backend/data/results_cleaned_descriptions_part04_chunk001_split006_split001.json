@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Blue Bottle Coffee",
+    "description": "Blue Bottle Coffee, 2002 yılında W. James Freeman tarafından kurulan Blue Bottle Coffee, Inc. bünyesinde üretilen kahve kavurma makinesi ve perakende markasıdır.Blue Bottle’ın çoğunluk hissesini 2017 yılında İsviçre merkezli dünyanın en büyük yiyecek ve içecek şirketi Nestle S.A. satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Microtech Gefell Ülke",
+    "description": "Microtech Gefell, 1928 yılında Georg Neumann ve Erich Rickmann tarafından kurulan Microtech Gefell GmbH bünyesindeki kondansatör mikrofon markasıdır.Microtech Gefell GmbH Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-10-25"
+  },
+  {
+    "company": "PCB Piezotronics",
+    "description": "PCB Piezotronics, 1967 yılında Robert W. Lally ve James F. Lally tarafından kurulan PCB Piezotronics, Inc. bünyesindeki piezoelektrik sensörler, basınç sensörleri, titreşim sensörleri, kuvvet sensörleri, darbe çekiçleri, sinyal klimaları, hızlandırıcılar markasıdır.PCB Group, Inc. 2016 yılında Amerika merkezli MTS Systems Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jif Peanut Butter",
+    "description": "Jif Peanut Butter, 1897 yılında Jerome Monroe Smucker tarafından kurulan The J. M. Smucker Company bünyesinde üretilen bir fıstık ezmesi markasıdır.The J. M. Smucker Company Amerika merkezlidir.Bünyesindeki markalar:9LivesBick’sCriscoDunkin’ DonutsFive RosesFolgersHungry JackJifKibbles’n BitsLaura Scudder’sMartha WhiteMeow MixMilk-BoneR.W. Knudsen FamilyRobin HoodSahale SnacksSanta Cruz OrganicShirriffSmucker’struRoots",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Copart",
+    "description": "Copart, 1982 yılında Willis Johnson tarafından kurulan Copart, Inc. bünyesindeki çevrimiçi araç açık artırma ve yeniden pazarlama hizmetleri markasıdır.Copart, Inc. Amerika merkezlidir. Amerika, Kanada ve İngiltere dışında Almanya, İrlanda, Brezilya, İspanya, Birleşik Arap Emirlikleri ve Finlandiya’da faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

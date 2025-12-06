@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Öncü",
+    "description": "Öncü, 2013 yılında Kozlu Ailesi tarafından kurulan Acemoğlu Gıda Sanayi ve Ticaret Limited Şirketi bünyesindeki ev tipi biber salçası, pet, teneke ve cam ambalajlarda acı-tatlı biber salçası ve domates salçası, nar aromalı sos, çiğ köfte seti, pul biber markasıdır.Öncü’nün Gaziantep, İzmir, Manisa ve Balıkesir’de fabrikaları bulunmaktadır. Ürünlerini 20’den fazla ülkeye ihraç etmektedir.Firmanın Helal sertifikası bulumaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kerrygold",
+    "description": "Kerrygold, 1962 yılında kurulan Ornua Foods bünyesindeki tereyağı markasıdır.Piyasalar, Afrika, Asya, Almanya, İrlanda, İngiltere, Avrupa, Orta Doğu ve ABD’deki üretim tesisleri ve pazar içi satış ve pazarlama ekipleri tarafından sunulmaktadır.Ornua Foods İrlanda merkezli bir şirkettir.Ornua Foods bünyesindeki markalar:KerrygoldDublinerPilgrims ChoiceFortoAvantageBEO",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Kınık Maden Suyu",
+    "description": "Hangi ÜlkeninKınık, 1972 yılında M. Rauf Arıç tarafından kurulan Kınık Maden Suları A.Ş. bünyesinde üretilen sade maden suyu, meyve aromalı maden suyu, limonata ve gazoz markasıdır.ISO 9001 ve ISO 22000 belgelerine sahiptir.Firma Bursa merkezlidir. Bursa’da 27 bin metrekarelik açık ve 9 bin 500 metrekarelik kapalı alanda üretim yapmaktadır ve ürünlerini pek çok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-30"
+  },
+  {
+    "company": "Ergül Mobilya",
+    "description": "Ergül, 1989 yılında kurulan Ergül Mobilya Ev Tekstili İnşaat San. ve Tic. A.Ş. bünyesindeki kanepe, çekyat, koltuk takımı, oturma grubu, yatak, baza, başlık ve ev tekstili ve modüler mobilya markasıdır.Kayseri’de 50 bin metrekarelik kapalı alanda üretim yapmaktadır.Üretimde kanserojen etkisi bulunmayan E1 normunda ürün kullanılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Steyr",
+    "description": "Steyr, 1864 yılında kurulan Steyr Landmaschinentechnik AG bünyesindeki traktör markasıdır.Steyr Landmaschinentechnik AG, 1996 yılında CNH Industrial N.V. tarafından satın alındı.CNH Industrial N. V., Birleşik Krallık merkezlidir. Çoğunluk hisseleri İtalyan Agnelli ailesi tarafından kontrol edilen yatırım şirketi Exor’a ait olan bir çok uluslu şirkettir.CNH Industrial N.V. hisse dağılımı:Exor NV (yüzde 27.1) HollandaBpce-Harris Associates LP (yüzde 8.94) FransaHotchkis & Wiley Capital Management LLC (yüzde 2.31) AmerikaAmundi Asset Management US, Inc. (yüzde 2.08) AmerikaThe Vanguard Group, Inc. (yüzde 1.76) AmerikaAcadian Asset Management LLC (yüzde 1.55) AmerikaBanca d’Italia (yüzde 1.43) İtalyaSchroder Investment Management Ltd. (yüzde 1.23) (İngiltere)Fiduciary Trust Company of Canada (yüzde 1.16) (Kanada)Arrowstreet Capital LP (yüzde 1.02) Amerika",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-12-31"
+  }
+]

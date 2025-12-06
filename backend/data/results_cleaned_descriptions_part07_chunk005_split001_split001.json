@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Rausch",
+    "description": "Rausch, 1890 yılında kurulmuş olan Rausch AG bünyesinde üretilen bitkisel saç ve vücut bakım ürünleri, gıda takviyesi, bitkisel, hijyen, temizlik ürünleri markasıdır.Rausch AG Kreuzlingen İsviçre merkezlidir. Ürünlerini birçok ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Lebenlang",
+    "description": "Lebenlang, Lebenlang Gmbh bünyesindeki bıçak seti, barbekü ızgara, biçak, buharlı temizleyici, çubuk blender, dijital masa ızgarası, elektrikli masa ızgarası, elektrikli meyve sıkacağı, iyonik saç kurutma makinesi, led elektrikli su ısıtıcısı, paslanmaz çelik elektrikli su ısıtıcısı, portakal sikacaklari, süt köpürtücü, su ısıtıcısı markasıdır.Lebenlang Gmbh Almanya merkezlidir ve 10’dan fazla ülkede mevcuttur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Harken",
+    "description": "Harken, 1967 Peter Harken ve Olaf Harken tarafından kurulan Harken Inc. bünyesindeki tekneler için bağlantı parçaları ve aksesuarları markasıdır.ISO 9001 belgesine sahiptir.Harken Inc. Amerika merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sanmar",
+    "description": "1976 yılında kurulmuş olan Sanmar A.Ş. bünyesinde üretilen akülü elektrikli römorkörler, asd römorkörler, geleneksel römorkörler, lng yakıtlı römorkörler, traktör römorkörleri markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-09-07"
+  },
+  {
+    "company": "Smart Güneş Teknolojileri",
+    "description": "Smart Güneş Teknolojileri, 2014 yılında kurulmuş olan Smart Güneş Enerjisi Teknolojileri Arge Üretim San. ve Tic. A.Ş. bünyesinde üretilen güneş enerjisi çözümleri markasıdır.Firma İstanbul merkezlidir. Gebze’de 23 bin 500 metrekarelik üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

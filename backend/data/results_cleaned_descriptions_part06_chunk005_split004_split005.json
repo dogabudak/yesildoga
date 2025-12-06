@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Haosung Technology",
+    "description": "Haosung Technology, 2005 yılında kurulan Haosung Technology Co. Ltd. bünyesinde üretilen tablet bilgisayar ve dijital ürünler markasıdır.Shenzhen Haosung Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Penextra",
+    "description": "Penextra, 1955 yılında yılında İdris Hatipoğlu tarafından kurulan Hatipoğlu grubu bünyesindeki Europen Endüstri İnşaat San. ve Tic. A.Ş. tarafından üretilen pvc profil, pvc hazır kapı-pencere pvc doğrama markasıdır.Firma Eskişehir merkezlidir.Bünyesindeki markalar;EuropenEurotechPenextra",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "GTN",
+    "description": "GTN, 1986 yılında kurulan GTN Pres Döküm Su Armatürleri Metal Kaplama San. ve Tic. Ltd. Şti. bünyesinde üretilen musluk ve batarya markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zoe Karssen",
+    "description": "Zoe Karssen, 2010 yılında Zoe ve Quince Karssen tarafından kurulan Fashion Invest ZK B.V. bünyesindeki moda markasıdır.Günlük hazır giyim, tişört, spor takımlar, ayakkabılar gibi ürün yelpazesine sahiptir.Fashion Invest ZK B.V. Hollanda merkezlidir. Ürünlerini Hollanda’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Uniquer",
+    "description": "Uniquer, 1982 yılında kurulan Ziya Mağazacılık Deri ve Tekstil San. Tic. A.Ş. bünyesindeki ayakkabı ve aksesuarlar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;MenguruUniquerZiya",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

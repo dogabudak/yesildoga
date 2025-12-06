@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Baby Einstein",
+    "description": "Baby Einstein, 1996 yılında Julie Aigner-Clark tarafından kurulan BABY EINSTEIN LLC bünyesindeki bebek eğitici oyuncakları markasıdır.Bebekler ve çocuklar için etkileşimli ev video programları, CD’ler, kitaplar, flash kartlar, oyuncaklar ve bebek teçhizatı dahil olmak üzere bir multimedya ürünleri serisidir. Videolar, dört yaşın altındaki bebekleri ve küçük çocukları, Johann Sebastian Bach, Ludwig van Beethoven, Wolfgang Amadeus Mozart gibi besteciler tarafından yazılan yeniden düzenlenmiş klasik müziğin eşlik ettiği günlük eşyalar, hayvanlar ve oyuncaklar gibi basit kalıpları, kukla gösterilerini ve tanıdık nesneleri gösteriyor.BABY EINSTEIN LLC, 2013 yılında Amerika merkezli Ryan Gunnigle’nin sahibi olduğu Kids II Inc. tarafından satın alındı. Kids II Inc.’in Çin’de üretim fabrikası bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-08-10"
+  },
+  {
+    "company": "Ybobk Home",
+    "description": "Ybobk Home, 2006 yılında kurulan Shenzhen Yibo Technology Co. Ltd. bünyesinde üretilen yemek kutuları, gıda depolama ve organizasyon setleri, sofra takımı setleri, banyo fırçaları ve tutucular, gıda koruma kapları, taraklar markasıdır.Ürünleri BPA içermemektedir.Shenzhen Yibo Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Twinmos",
+    "description": "Twinmos, 1998 yılında William Chen tarafından kurulan TwinMOS Technologies Inc. bünyesinde üretilen dram, hafıza kartları, katı hal sürücüleri, taşınabilir medya oynatıcılar, usb flash sürücüler markasıdır.ISO 9001 belgesine sahiptir.TwinMOS Technologies Inc. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmekte, 45 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Runtech",
+    "description": "Runtech, 2019 yılında kurulan Runtech Spor Teknolojileri Tic. Ltd. Şti. bünyesindeki katlanabilir dikey kondisyon bisikleti, katlanabilir koşu bandı, koşu bandı ses İzolasyon minderi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baby Merc",
+    "description": "Baby Merc, 2002 yılında kurulan P.P.U.H Przemko bünyesinde üretilen bebek arabası, ana kucağı markasıdır.P.P.U.H Przemko Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

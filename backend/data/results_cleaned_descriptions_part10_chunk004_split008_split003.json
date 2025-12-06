@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Purles",
+    "description": "Proconcept Labs Sp. z o.o. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri paraben, sls, sles, mineral yağ, gdo, gluten içermez ve hayvanlar üzerinde test edilmemektedir.Proconcept Labs Sp. z o.o. Polonya merkezlidir. Ürünlerin yüzde 80’i Fransa’da, yüzde 20’si İspanya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Dinçsu",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Laban Pen",
+    "description": "1981 yılında Charles Hu, John Hu tarafından kurulmuş olan The Thong Yeong Corporation bünyesindeki kalemler, uçlar, doldurma sistemleri ve aksesuarlar markasıdır.The Thong Yeong Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Troika",
+    "description": "1992 yılında kurulmuş olan Troika Germany Gmbh bünyesindeki çantalar, anahtarlıklar, kalemler, promosyon ürünleri, standlar ve aksesuarlar markasıdır.Troika Germany Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Syloon",
+    "description": "2004 yılında kurulmuş olan Ningbo Syloon Import & Export Co. Ltd. bünyesindeki çanta ve kılıflar, kağıt ve defterler, kalemler, ofis malzemeleri, sanat ve el sanatları ürünleri, termoslar ve kupalar markasıdır.Ningbo Syloon Import & Export Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

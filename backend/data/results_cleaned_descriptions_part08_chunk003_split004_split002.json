@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Byphasse",
+    "description": "Byphasse, 1996 yılında Didier Petitot tarafından kurulmuş olan Dober S.L. bünyesindeki saç, yüz, vücut, bakım ürünleri, el kremleri, ıslak mendil markasıdır.Dober Import-Export S.L. İspanya merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Cafissimo",
+    "description": "Cafissimo, 1949 yılında kurulmuş olan Tchibo Holding AG bünyesinde üretilen kapsül makinesi, elektrikli süt köpürtücüsü markasıdır.Tchibo Holding AG Almanya merkezlidir. Türkiye pazarına 2005 yılında girmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "CellFusionC",
+    "description": "CellFusionC, 2001 yılında kurulmuş olan CMS LAB. bünyesinde üretilen cilt bakım ürünleri markasıdır.CMS LAB. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Saramonic",
+    "description": "Saramonic, 2006 yılında kurulmuş olan Shenzhen Dsqn Investment Co. Ltd. bünyesindeki taşınabilir medya oynatıcılar, ses kayıt cihazları, kaset çalarlar, teyp kayıt cihazları, ses kayıt taşıyıcıları, megafonlar, mikrofonlar, ses iletim cihazları, ses reprodüksiyon cihazları, kulaklıklar, taşınabilir medya oynatıcıları markasıdır.Shenzhen Dsqn Investment Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bioman",
+    "description": "Bioman, 2013 yılında kurulmuş olan Biobeka Steril Kimya San. ve Tic. Ltd. Şti. bünyesindeki alkol bazlı yüzey temizleme, alkol bazlı el ve cilt dezenfektanı markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BaycoBayco BioBayco HexaBayco KlarBayco TaraBayco ToroBiobeka BekacleanBiomanEcotab Suda Çözünen Temizlik TabletleriTarapad",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

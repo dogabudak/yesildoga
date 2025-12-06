@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Ibercable",
+    "description": "Ibercable, 1946 yılında kurulan Ibercable SL bünyesinde üretilen alçak gerilim elektrik kablosu markasıdır.Alçak gerilim elektrik iletkenlerinin üretiminde uzmanlaşmıştır. ISO 9001 belgesine sahiptir.Ibercable SL İspanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Ktools Hayatı Kolaylaştırır",
+    "description": "Ktools, 2014 yılında Deka Grup bünyesinde kurulan Key Teknoloji ve İletişim Hizmetleri A.Ş. tarafından ithal edilen cep telefonu aksesuarları, yeni nesil teknoloji ürünleri ve elektronik ürünler markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;KeyKey TeknolojiKeystoreKtecKtools Hayatı KolaylaştırırSmart K",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wynn’s",
+    "description": "Wynn’s, 1939 yılında kurulan Wynn’s B.V.B.A. bünyesindeki otomotiv katkı maddeleri, yakıt katkı maddeleri, yağ katkı maddeleri, radyatör katkı maddeleri, yakıt, yağ ve soğutma sıvıları markasıdır.Siyah egzoz dumanı, tıkanmış enjektörler, tıkalı kurum filtresi, yüksek egzoz emisyonları, düşük motor performansı, aşırı yakıt tüketimi, sızıntılar ve kötü kokular gibi yaygın sorunlar için katkı maddeleri sunmaktadır.Wynn’s Belgium B.V.B.A. Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Isvea",
+    "description": "Isvea, 1962 yılında Angelucci ailesi tarafından kurulan banyo ürünleri markasıdır.Isvea, 2013 yılında Ece Holding A.Ş. tarafından İtalya’daki bayi ağıyla satın alınmıştır. ECE Holding, dört lokasyonda toplam 7 üretim tesisi ile 345 bin metrekare açık alan 92 bin metrekarelik kapalı alanda üretim yapan bir sanayi grubudur. Ürünlerini 44 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Landi Renzo",
+    "description": "Landi Renzo, 1954 yılında kurulan Landi Renzo S.p.A. bünyesindeki LPG ve CNG oto gaz bileşenleri ve araç sistemleri markasıdır.Doğal gaz, biyometan ve hidrojen sürdürülebilir mobilite ve altyapı sektöründe uzmandır. ISO 9001, ISO 14001, IATF 16949, ISO 45001 belgelerine sahiptir.Landi Renzo S.p.A. İtalya merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

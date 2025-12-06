@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Küchen Pratic",
+    "description": "Küchen Pratic, 2015 yılında kurulan Teif Bilişim Sanal Mağazacılık ve Elektronik Tic. tarafından ithal edilen ev tipi elektrikli vakum makinesi markasıdır.Firma 8 bin metrekarelik alanda ürünlerini tutmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Veeco",
+    "description": "Veeco, 1945 yılında Frank Raible ve Al Nerken tarafından kurulan Veeco Instruments Inc. bünyesindeki elektronik ekipmanlar markasıdır.Işık yayan diyotlar, güneş pilleri ve sabit diskler gibi yarı iletken ürünlerin üretmektedir.Veeco Instruments Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Taiho",
+    "description": "Taiho, 1944 yılında kurulan Taiho Kogyo Co., Ltd. bünyesinde üretilen otomobil parçaları markasıdır.Metal burçlar gibi rulmanların yanı sıra döküm, conta ve lehim ürünleri de dahil olmak üzere diğer otomobil bileşenlerini üretmektedir.Taiho Kogyo Co., Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Gemsa Boya",
+    "description": "Gemsa Boya, 1997 yılında kurulan Gemsa Boya Ambalaj Malz. İnşaat Taahhüt Üretim Paz. İth. İhr. San. ve Tic. Ltd. Şti. bünyesindeki iç cephe, dış cephe, endüstriyel boya markasıdır.Ürünlerini Adana OSB’de bulunan 12 bin 400 metrekarelik alanda üretmektedir. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Attargani Since 1941",
+    "description": "Attargani Since 1941, Asil Av San. ve Tic. Ltd. Şti. bünyesinde üretilen kuru bakliyat, zeytin, zeytin ezmeleri, süt, süt ürünleri, bitkisel yağ, kurutulmuş, konservelenmiş, dondurulmuş, pişirilmiş, tütsülenmiş, salamura edilmiş her türlü meyve ve sebzeler, salçalar, kuru yemişler, fındık ve fıstık ezmeleri, tahin markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

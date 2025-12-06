@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Drunk Elephant",
+    "description": "Drunk Elephant, 2012 yılında kurulmuş olan Shiseido A. Corporation bünyesinde üretilen cilt, vücut, saç bakım ürünleri markasıdır.Ürünleri uçucu yağlar, kuruyan alkoller, silikonlar, kimyasallar güneş kremleri, kokular, boyalar, SLS içermez.Shiseido Americas Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Karmen Halı",
+    "description": "Karmen Halı, 2001 yılında kurulmuş olan Karmen Halı Teks. San. ve Tic. Ltd. Şti. bünyesinde üretilen halı markasıdır.TS-EN ISO 9001 belgesine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini 30 bin metrekarelik alanda üretmekte ve 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yelkenpol Su Depoları",
+    "description": "Yelkenpol Su Depoları Nerenin Malı MarkasıYelkenpol, 2008 yılında kurulmuş olan Yelkenci İnşaat Malzemeleri İmalat ve Paz. San. Tic. Ltd. Şti. bünyesinde üretilen polietilen plastik su deposu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ioto",
+    "description": "Ioto, 1954 yılında Jozef Papo tarafından kurulmuş olan İntermobil Otomotiv Mümessillik ve Tic. A.Ş. bünyesindeki amortisör, aks kafası, aks mili ve komple aks, ateşleme bobini, bijon somun saplama, buji kablosu, fren balatası, fren pabucu, fren diski, fren kampanası, silindir kapağı, fren ana merkez, silindiri (hidrolik ürünler) debriyaj alt merkez, üst merkez (hidrolik ürünler) porya ve tekerlek rulmanları, direksiyon pompası, komple direksiyon mili, cam açma düğmeleri, tel aksamı, takım conta, zincir seti, ön takım ve süspansiyon markasıdır2009 yılında Almanya merkezli Hella Kgaa Hueck & Co. şirketin yüzde 50 hissedarı olmuştur.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Thull",
+    "description": "Thull, 2004 yılında kurulmuş olan Trium Elektronik Bilgi İşlem San. ve Dış Tic. Ltd. Şti. bünyesindeki anakart, bellek, ekran kartı, flash bellek, monitör, katı hal sürücüsü markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ArcalisAtelier De RoseBalettiEnviaGiardini TeiraGo CleverGomobileHi-LevelHi-Level Memory ModuleHilfeMia ConceptMinigoNextagN-JoyN-TechRosanteSec MemorySolarmaxTechnostopTeknoparçaTeknostopThullThull GamingVolar",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

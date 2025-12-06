@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sunplus",
+    "description": "Sunplus, 1990 yılında kurulan Sunplus Technology Co, Ltd. bünyesinde üretilen optik oynatıcı,ev eğlence ses ürünleri, araç bilgi ve gelişmiş sürüş yardım sistemi (ADAS) gibi multimedya ve otomotiv uygulamaları için önde gelen bir çip markasıdır.Sunplus Technology Co, Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Avid Technology",
+    "description": "Avid Technology, 1987 yılında Bill Warner tarafından kurulan Avid Technology, Inc. bünyesinde üretilen teknoloji ve multimedya markasıdır.Ses ve video alanında uzmanlaşmıştır; özellikle, dijital doğrusal olmayan düzenleme (NLE) sistemleri, video düzenleme yazılımı, ses düzenleme yazılımı, müzik gösterim yazılımı, yönetim ve dağıtım hizmetleri sağlamaktadır.Avid Technology, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Microchip Technology",
+    "description": "Microchip Technology, 1987 yılında kurulan Microchip Technology Inc. bünyesindeki mikrodenetleyici, karışık sinyal, analog ve Flash-IP entegre devreleri markasıdır.Ürünleri arasında mikrodenetleyiciler (PIC, dsPIC, AVR ve SAM), Seri EEPROM cihazları, Seri SRAM cihazları, gömülü güvenlik cihazları, radyo frekansı (RF) cihazları, termal, güç ve pil yönetimi analog cihazlarının yanı sıra lineer, arayüz ve kablosuz çözümler bulunmaktadır.Microchip Technology Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Methode Electronics",
+    "description": "Methode Electronics, 1946 yılında William J. McGinley tarafından kurulan Methode Electronics, Inc. bünyesindeki Kullanıcı Arayüzleri, LED Aydınlatma, Sensörler ve Şasi ve Powertrain sinyal/güç dağıtım çözümleri markasıdır.Methode Electronics, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Stmicroelectronics",
+    "description": "Stmicroelectronics, 1972 yılında SGS Microelettronica ve Thomson’un yarı iletken kolu Thomson Semiconducteurs şirketlerinin birleşmesiyle kurulan STMicroelectronics N.V. bünyesinde üretilen elektronik ve yarı iletken ürünler markasıdır.Avrupa’nın en büyük yarı iletken yonga üreticisidir.STMicroelectronics şirketin genel merkezi İsviçre’de yer alırken,STMicroelectronics N.V. adıyla Hollanda’da kurulmuştur.Fransız-İtalyan ortaklığındaki STMicroelectronics N.V. holding şirketi Hollanda merkezlidir ve genel merkezi İsviçre’de yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

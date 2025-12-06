@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Gimsa Marketler",
+    "description": "Gimsa, 1991 yılında kurulan Gimsa İnşaat San. Tic. Turizm İthalat İhracat Ltd. Şti. bünyesindeki perakende markasıdır.Şirketin iş kolu, bir dizi konserve gıda ve kuru malların perakende satışını içermektedir ve Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alldocube",
+    "description": "Alldocube, 2004 yılında kurulan ShenZhen Alldocube Technology Co. Ltd. bünyesinde üretilen tablet bilgisayar, müzik ve video çalar, e-kitap ve diğer teknoloji araçları markasıdır.ShenZhen Alldocube Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Uğurlu Pişmaniye",
+    "description": "Uğurlu Pişmaniye Nerenin Malı MarkasıUğurlu, 1978 yılında Kemal Düzenli tarafından kurulan My Uğurlu Pişmaniye Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen pişmaniye, saray helvası, çekme helva, çikolata kaplamalı ürünler, geleneksel lokumlar markasıdır.Ürünlerini Kastamonu Seydiler O.S.B.de 5 bin metrekarelik açık, 3 bin metrekarelik kapalı alana sahip tesisinde üretmekte ve yüzde 40’ını ihraç etmektedir.ISO 9001, ISO 22000 ve Helal Gıda belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Saaz",
+    "description": "Saaz, 2007 yılında Muhammed Zakir Khan tarafından kurulan Pakon Tarım Ürünleri ve Gıda Maddeleri İthalat ve İhracat Ltd. Şti. bünyesindeki bakliyat susam ve yem markasıdır.Türkiye’den Kırmızı Mercimek, Yeşil Mercimek, Nohut, Beyaz Fasulye ve Bulgur ürünleri dışında pek çok ülkeden diğer ürünleri ithal etmektedir.Barbunya (Arjantin, Etiyopya)Fasulye (Arjantin, Mısır, Etiyopya, Madagaskar)Nohut (Hindistan, Arjantin, Avustralya, Kanada, Etiyopya, Rusya, Meksika, Ukrayna)Patlamış Mısır (Etiyopya)Soya Fasulyesi (Arjantin)Bezelye (Avustralya, Kanada, Ukrayna)Mercimek (Kanada, Avustralya, Etiyopya)Acı Bakla (Etiyopya, Mısır)Pirinç (Pakistan, Mısır)Susam (Hindistan, Mısır, Etiyopya, Sudan, Nijerya, Somali, Paraguay, Mozambik)Baharat çeşitleri (Etiyopya, Hindistan, Madagascar, Sri Lanka, Tanzania, Ukrayna)Susam (Etiyopya, Mısır, Sudan, Hindistan, Nijerya, Somali, Paraguay, Mozambik)Böğrülce (Madagaskar, Meksika)Buğday ve yem (Hindistan, Rusya, Pakistan, Ukrayna)Karanfil (Madagaskar)Aspir, Çilban Tohumu, Nijer Tohumu (Etiyopya)Arpa, Ayçiçek Tohumu, Kişniş Tohumu, Lin Tohumu, Sorgum, Yulaf (Ukrayna)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tazedo",
+    "description": "Tazedo, 2018 yılında kurulan Turkaz Gıda San. A.Ş. bünyesinde üretilen mantı, börek, köfte, atıştırmalıklar markasıdır.Mantı, köfte, börek, tatlı çeşitleri gibi ürünleri soya, koruyucu ve katkı maddesi içermeyen yüzde 100 doğal ürünlerdir.Et içerikli ürünlerinde yüzde yüz dana eti kullanılmaktadır.Üretimi İstanbul Sultanbeyli’de yer alan üretim tesisinde gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

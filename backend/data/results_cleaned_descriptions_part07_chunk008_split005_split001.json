@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Laboratoire Ducastel",
+    "description": "Laboratoire Ducastel, 1969 yılında kurulmuş olan Ales Groupe SA bünyesinde üretilen kişisel bakım ürünleri markasıdır.Paraben, mineral yağ, silikon, hayvansal kökenli maddeler ve fetosipetanol içermezAles Groupe SA Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Alimak",
+    "description": "Alimak, 1948 yılında kurulmuş olan Alimak Group AB bünyesindeki endüstriyel asansörler markasıdır.Kremayer ve pinyon ve çekiş teknolojileri üzerine inşa edilmiş kalıcı ve geçici asansörler, inşaat asansörleri ve çalışma platformları sağlıyor.Alimak Group AB İsveç merkezlidir. 8 ülkede 11 üretim ve montaj tesisine sahiptir.Bünyesindeki markalar;AlimakAlimak ServiceAvantiCoxGomylManntech",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Milkten",
+    "description": "Milkten, A101 Yeni Mağazacılık A.Ş. adına Danone Tikveşli Gıda ve İçecek San. ve Tic. A.Ş. tarafından üretilen çilekli süt, çocuk sütü, kakaolu süt, krem peynir, muz aromalı puding, muzlu süt markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dermofuture",
+    "description": "Dermofuture, Tenex Sp. z o.o. bünyesinde üretilen güzellik aksesuarları, yüz ve vücut bakımı, saç bakımı ve şekillendirme için kozmetik ürünler markasıdır.Tenex Sp. z o.o. Polonya merkezlidir. Ürünleri 30’dan fazla ülkede mevcuttur.Bünyesindeki markalar;DermofutureSkinaboutYolyn",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Lazkızı",
+    "description": "Lazkızı, 2022 yılında kurulmuş olan Simar Sarıyer İndirim Marketleri Gıda ve Kağıtçılık San. Tic. A.Ş. bünyesindeki peynir ve tereyağı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

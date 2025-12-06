@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bearking",
+    "description": "Bearking, 1998 yılında kurulmuş olan Cixi Oushi Fishing Tackle Co. Ltd. bünyesinde üretilen balıkçılık ürünleri markasıdır.OHSAS 18001, ISO 14001Cixi Oushi Fishing Tackle Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Autel Robotics",
+    "description": "Autel Robotics, 2014 yılında kurulmuş olan Autel Robotics Co. Ltd. bünyesinde üretilen drone, quadcopter ve İHA markasıdır.Autel Robotics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Delaval",
+    "description": "Delaval, 1883 yılında kurulmuş olan DeLaval International AB bünyesinde üretilen süt ve tarım makineleri markasıdır.DeLaval International AB İsviçre merkezli Tetra Laval group S. A.’nın bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Zyrone Dynamics",
+    "description": "Zyrone Dynamics, 2018 yılında kurulmuş olan Zyrone Dynamics Havacılık Danışmanlık ve Arge San. Tic. A.Ş. bünyesinde üretilen konvansiyonel rotorlu hava araçları, değişken hacimli hava araçları markasıdır.2021 yılında Hindistan merkezli DCM Shriram Industries şirketin yüzde 30 hissesini satın almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Akt Asmin Mobilya",
+    "description": "Akt Asmin, 2010 yılında kurulmuş olan AKT Asmin Mobilya San. Tic. Ltd. Şti. bünyesinde üretilen mobilya markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

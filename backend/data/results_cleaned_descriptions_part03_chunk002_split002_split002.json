@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Telamor",
+    "description": "Telamor, 2010 yılında Ahsen Tekstil Tic. ve San. Ltd. Şti. bünyesinde üretilen perdelik tül, perdelik kumaş, döşemelik kumaş, duvar kağıdı, aksesuar markasıdır.Ahsen Tekstil’in kurucuları tekstil sektöründeki çalışmalarına; 1974 yılında, İstanbul’da başlarken, 1984 yılında Ahsen Tekstil faaliyete geçmiştir. Firma üretimini Bursa’daki iki ayrı tesisinde gerçekleştirmektedir.Bünyesindeki markalar:TelamorNenisPlain",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "OneDrive",
+    "description": "OneDrive, 2007 yılında Microsoft bünyesinde kurulan dosya depolama hizmeti, bulut bilişim, bulut depolama markasıdır.OneDrive, kişisel dosyaları tek bir yerde saklaya ve bunlara İnternet’e bağlı olan herhangi bir cihazdan erişmeye imkan sağlar.Microsoft Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Duralex",
+    "description": "Duralex, 1945 yılında Saint-Gobain Şirketler Grubu bünyesinde kurulan temperli cam ve masa üstü ürünleri markasıdır.Saint-Gobain, Fransa merkezli şirket grubudur. Ürünlerini 67 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Kappahl",
+    "description": "Kappahl, 1953 yılında Per-Olof Ahl tarafından kurulan Kappahl AB bünyesindeki iç çamaşırı, dış giyim ve aksesuarları markasıdır.1999 yılına kadar KappAhl dünyada çevre sertifikası alan ilk moda perakendecisidir.İsveç, Norveç, Finlandiya ve Polonya’da yaklaşık 400 mağazası bulunmaktadır. Bangladeş, Hindistan, Çin, Türkiye ve Litvanya’da ise üretim tesisleri vardır.Kappahl AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Kym Kablo",
+    "description": "Kym Kablo, 1996 yılında kurulan Kym Kablo A.Ş. bünyesindeki her türlü alçak gerilim enerji kabloları, XLPE ve Halojensiz kablolar markasıdır.Ürünlerini İstanbul’da, bulunan 5 bin 600 metrekarelik kapalı alanda üretmektedir. TSE ve ISO 9001, OHSAS 18001, ISO 14001 belgelerine sahiptir.Ürünlerini Avrupa, Orta Doğu, Afrika ve Orta Asya ülkelerine ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

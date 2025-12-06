@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Huntsman",
+    "description": "Huntsman, 1970 yılında Jon M. Huntsman tarafından kurulan Huntsman International LLC bünyesindeki kimyasal ürünlerin çokuluslu üreticisi ve pazarlamacısıdır.Huntsman; BMW, GE, Chevron, Procter & Gamble ve Unilever gibi firmalar için çeşitli poliüretanlar, performans ürünleri ve yapıştırıcılar üretmektedir.Huntsman International LLC Amerika merkezli kimya şirketidir.Huntsman, 2012 yılında Türkiye’de faaliyet gösteren EMA Kimya Sistemleri San. ve Tic. A.Ş’yi satın almıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Balparmak Balkovan",
+    "description": "1980 yılında baharat satış ve dağıtımı işi için Özen Altıparmak, Sabri Altıparmak ve Özgür Altıparmak tarafından kurulan Altıparmak Pazarlama Kollektif Şti. sonra bal paketleme ve satışına başladı.Altıparmak Gıda San. ve Tic. A. Ş. bünyesindeki Balparmak Kovan markası, 1989 yılında Türkiye’nin en çok satılan bal markası oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coşkun Et",
+    "description": "Coşkun Et, 1975 yılında Kemal Coşkun ve Selahattin Coşkun tarafından kurulan Coşkun Et ve Mamulleri Koll. Şti. bünyesindeki et mamulleri markasıdır.Coşkun, İstanbul ve Afyonkarahisar’da 5 bin büyükbaş hayvan kapasiteli doğal besi çiftliklerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pfaff",
+    "description": "Pfaff, 1862 yılında Georg Michael Pfaff tarafından kurulan endüstriyel dikiş ekipmanları ve ev dikiş makinesi markasıdır.Pfaff, Shang Gong Group Co, Ltd tarafından satın alınmıştır. ShangGong Grubu Çin merkezlidir. Çin, Almanya, Çek Cumhuriyeti ve Romanya’da 10 üretim tesisi bulunmaktadır.Bünyesindeki markalar:Dürkopp AdlerPFAFF IndustrialKSLShanggongButterfly",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-12-06"
+  },
+  {
+    "company": "MC Jamper",
+    "description": "Marco Jamper, 2009 yılında kurulan Eroğlular Spor Ayakkabıcılık San. Tic. Ltd. Şti. bünyesinde üretilen kadın, erken, çocuk ayakkabıları markasıdır.İstanbul merkezli firma ürünlerini 10 bin metrekarelik kapalı alana sahip tesislerinde üretmektedir.Bünyesindeki markalar:Marco JamperLigolAirlessCnayderFuman",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-25"
+  }
+]

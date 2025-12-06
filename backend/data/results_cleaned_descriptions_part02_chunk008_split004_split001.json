@@ -1,0 +1,44 @@
+[
+  {
+    "company": "YAZAKI",
+    "description": "YAZAKI, 1929 yılında Sadami Yazaki tarafından kurulan Yazaki Corporation bünyesindeki araç kablo donanımı markasıdır.Elektrikli kablo donanım sisteminde üretim gerçekleştirmektedir. Dünyanın en büyük otomotiv kablo donanımı malzeme ve parçaları imalatçısı ve tedarikçisidir. Otomotiv sektöründe 44 ülkede 462 üretim tesisi ve satış merkezi vardır.Japonya merkezli Yazaki, Türkiye’de Mudanya fabrikasi YAZAKI Wiring Technologies Türkiye Elektrik Sistemleri Sanayi ve Tic. Ltd. Şti. ile faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Nutymax Ülke",
+    "description": "Nutymax, 1989 yılında Çoban Ailesi tarafından kurulan Şölen Çikolata Gıda Sanayi A.Ş. bünyesindeki gofret markasıdır.Şölen; Biscolata, Ozmo, Milango, Boombastic, Luppo, Lokkum, Nutymax gibi markalarıyla uluslararası pazarlarda başarılar yakalayan çikolata, çikolatalı ürünler, bisküvi, kraker, kek, şeker ve lokum üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "DD Audio",
+    "description": "DD Audio, 1986 yılında kurulan Rezonans, Inc bünyesindeki ses elektroniği Subwoofer, Hoparlörler markasıdır.Resonance, Inc. ev, profesyonel ve mobil elektronik pazarı için ses ürünleri tasarlayıp üreten Amerika merkezli şirkettir.Neredeyse tüm ürünleri Amerika’da el yapımı olarak hazırlanır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oribe",
+    "description": "Oribe, 1948 yılında tüccar Hans Erich Dotter tarafından kurulan tam organik saç bakım ürünleri markasıdır. 1989 yılında ise kimya ve kozmetik şirketi Kao Corporation tarafından satın alındı.1887 yılında kurulan Japonya merkezli Kao Group, vücut losyonları, cilt ve saç bakım ürünleri üretmekteedir.Oribe Şampuan Amerika’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "4Moms",
+    "description": "Moms, 2005 yılında Rob Daley ve Henry Thorne tarafından kurulan Thorley Industries LLC bünyesindeki bebek teçhizatları markasıdır.4moms markalı ürünler dünya çapında 50’den fazla ülkeye satılıyor.Thorley Industries LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

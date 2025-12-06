@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Zumbul",
+    "description": "Zumbul, 2014 yılında kurulan Zumbul Elektrik Elektronik Eğlence ve Spor Aletleri İç ve Dış Tic. Ltd. Şti. bünyesindeki satranç takımı markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cobas",
+    "description": "Cobas, 1896 yılında kurulan F. Hoffmann-La Roche AG bünyesinde üretilen klinik kimya test ürünleri, immünokimya test ürünleri, laboratuvar otomasyonu ve yazılım çözümleri markasıdır.Düşük hacimli test laboratuvarlarından yüksek hacimli test laboratuvarlarına kadar, analiz sistemleri üretir.F. Hoffmann-La Roche AG İsviçre merkezlidir. 1958 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Baby Brezza",
+    "description": "Baby Brezza, 2012 yılında kurulan Baby Brezza Enteprises LLC bünyesinde üretilen akıllı biberon ısıtıcısı, bebek şişeleri için anında ısıtıcı, bebek maması hazırlayıcı blender, otomatik bebek maması dağıtıcısı ve şişe üreticisi markasıdır.Baby Brezza Enteprises LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Microplane",
+    "description": "Microplane, 1966 yılında kurulan Grace Manufacturing Inc. bünyesinde üretilen bıçaklar, rendeler, mutfak aletleri markasıdır.Grace Manufacturing Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Moneta",
+    "description": "Moneta, 1970 yılında kurulan Alluflon S.P.A. bünyesinde üretilen tencereler markasıdır.Yapışmaz ve seramik kaplamalarda çeşitli tasarım, stil ve kaplamalara sahip geniş bir tencere yelpazesi sunmaktadır. Yüzde yüz geri dönüştürülmüş malzemeler kullanılarak RECY, GEA ve EDEN serileri tasarlanmıştır.ISO 9001, ISO 14001 belgelerine sahiptir.Alluflon S.P.A. İtalya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

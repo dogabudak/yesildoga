@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Valamis",
+    "description": "Valamis, 2003 yılında kurulan Valamis Group Oy bünyesindeki teknoloji ve dijital öğrenme ile işgücü geliştirme çözümleri markasıdır.Valamis Group Oy Finlandiya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Meopta",
+    "description": "Meopta, 1933 yılında Alois Benes, Alois Mazurek tarafından kurulan Meopta optika, s.r.o. bünyesindeki optik cihazlar markasıdır.Ürün yelpazesinde mercek ve kondansatör, büyütücü, kompozit lens, dürbün, tüfek dürbünleri, kamera ve slayt projektörleri içermektedir.Meopta optika, s.r.o. Çek Cumhuriyeti merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Funtoro",
+    "description": "Funtoro, 2008 yılında Micro-Star International (MSI) grubunun bir yan kuruluşu olarak kurulan ticari araçlar ve mekanlar için telematik ve bilgi-eğlence çözümleri markasıdır.Ticari dijital reklam çözümleri, ağırlama çözümleri, bulut yönetimi platformu, demiryolu bilgi-eğlence çözümleri, filo yönetimi hizmetleri, gezi çözümleri, bilgi-eğlence çözümleri, mod teknolojisi, stadyum ve arena çözümleri, telematik çözümleri sağlamaktadır.Funtoro Tayvan merkezlidir. Funtoro markasıyla 38’den fazla ülkede ticari araçlarda, demiryollarında, stadyumlarda ve diğer kuruluşlarda faaliyet gösteren 1 milyondan fazla Terminal olduğu tahmin edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Binco Lucci",
+    "description": "Binco Lucci, 2016 yılında Şenol Bal tarafından kurulan Esm Triko Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen kazak, hırka ve süveter markasıdır.Ürünlerini İstanbul’da bulunan 2 bin metrekarelik fabrikasında üretmekte ve Fransa, İngiltere, Hollanda, Almanya, Yunanistan, Macaristan, Polonya gibi ülkelere ihraç etmektedir.Bünyesindeki markalar:ESM VİSİONBİANCO LUCCİ",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zeneger",
+    "description": "Zeneger, 2003 yılında kurulan ACAR Dayanıklı Tüketim Malları Tekstil Kuyumculuk San. ve Tic. Ltd. Şti. bünyesindeki elektrikli ev aletleri markasıdır.Ürünleri 19 ülkede satılmaktadır.Ürünleri Türkiye’de yüzde yüz yerli üretim olarak üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

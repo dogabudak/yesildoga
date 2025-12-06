@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Far Elektrik",
+    "description": "Far Elektrik, 1999 yılında kurulan Far Elektrik Teknolojileri San. ve Tic. A.Ş. bünyesinde üretilen grup prizler, elektrik aksesuarları, aydınlatma armatürleri, kablo kanalları, kauçuk fiş priz ve sigorta kutuları markasıdır.ISO 9001 belgesine sahiptir. Ürünlerini 45’e yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Andali",
+    "description": "Andali, 2006 yılında kurulan Lishui Andali Storage Battery Separator Co., Ltd. bünyesinde üretilen pil ve akü markasıdır.Lishui Andali Storage Battery Separator Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Trinette",
+    "description": "Trinette, 2018 yılında kurulan Otan Kimya Kozmetik San. Tic. Ltd. Şti. bünyesindeki profesyonel güzellik ve kuaför ürünleri, ekipmanları, saç bakım ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ak Sigorta",
+    "description": "Ak Sigorta, 1961 yılında kurulan Aksigorta A.Ş. bünyesindeki araç, konut, iş yeri ve sağlık sigortası markasıdır.Aksigorta A.Ş.’nin hisseleri yüzde 31’er oranlarında H.Ö. Sabancı Holding ile Belçika merkezli Aegas InsuranceInternational N.V. ortaklığına aittir.Akbank şubeleriyle Türkiye’nin her yerinde sigorta hizmeti sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Quick Sigorta",
+    "description": "Quick Sigorta, 2017 yılında kurulan Quick Sigorta A.Ş. bünyesindeki kasko, zorunlu trafik sigortası, konut sigortası, ferdi kaza sigortası, seyahat sigortası ve zorunlu deprem sigortası markasıdır.Bir Maher Holding A.Ş. iştiraki olan Quick Sigorta A.Ş. sermayesinin tamamı ödenmiş yüzde 100 yerli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

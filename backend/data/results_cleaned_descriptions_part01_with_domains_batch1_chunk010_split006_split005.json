@@ -1,0 +1,44 @@
+[
+  {
+    "company": "IMZ Ural",
+    "description": "IMZ Ural, 1941 yılında kurulan sepetli ve ağır kapasiteli motosiklet markasıdır.IMZ-Ural, Sovyet hükümeti tarafından kurulan Rusya merkezli bir üreticidir. Sovyetler Birliği’nin dağılmasının ardından şirket özelleştirildi.IMZ Ural, dünyada, sepetli ve ağır kapasiteli motosiklet üreten sınırlı sayıdaki markalar içindeki tek Rusya markası.Ürünleri; Avustralya, İngiltere, Amerika, Fransa, Hollanda, Belçika, İspanya, Yunanistan, Norveç, Finlandiya, İsveç, Almanya, Mısır, İran, Güney Afrika, Brezilya, Uruguay, Paraguay gibi sayısız ülkeye satılıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Leoni",
+    "description": "1917 yılında kurulmuş olan Leoni AG bünyesindeki kablolar, elektrik kabloları, kablolama sistemleri ve akıllı ürünler markasıdır.Leoni AG Almanya merkezlidir ve 30’dan fazla ülkede faaliyet göstermektedir. 2000 yılından beri Türkiye’de; Leoni Kablo ve Teknolojileri San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir ve Bursa’da 10 bin metrekarelik bir fabrikaya sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2025-07-14"
+  },
+  {
+    "company": "Tacx",
+    "description": "Tacx, 1957 yılında kurulan antrenman spor aletleri markasıdır. Ayrıca tamir anahtarları ve akıllı ürünleri bulunmaktadır.Dünyanın en iyi antrenman aletleri markası Tacx, Hollanda merkezli firmadır. Sporcular Tacx marka trainer kullanarak ısınırlar.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Leisure",
+    "description": "Leisure, 1850’li yıllardan beri faaliyette olan beyaz eşya markasıdır.2002 yılında İngiltere’nin, gazlı veya elektrikli kuzineler ile ankastre ürünler markası Leisure’yi, Arçelik satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Astonish",
+    "description": "Astonish; kireç sökücü, döşeme temizleyici, jant parlatıcı, sprey cila, inşaat kimyasalları, oto kuaför malzemeleri cilalı şampuan, kireç sökücü ve halı temizleyici ürünleri markasıdır.İngiltere merkezli Astonish temizlik grubu, ürünlerini İngiltere’de bulunan üretim tesislerinde üretmektedir.Hiçbir ürününü hayvanlar üzerinde test etmemekte ve ürünlerinde herhangi bir hayvansal içerik kullanmamaktadır. Ayrıca Astonish, temizlik ürünlerinin doğada yok olmasına ve çevreye zarar vermemesine dikkat etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

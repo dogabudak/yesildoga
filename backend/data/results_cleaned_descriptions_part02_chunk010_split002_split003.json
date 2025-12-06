@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Riken",
+    "description": "Riken, 1917 yılında kurulan lastik firmasıdır. Riken Lastikleri, 1992 yılında Michelin tarafından satın alınmıştır.Riken markasıyla binek otomobil, kamyonet ve kamyon pazarları için çeşitli lastikler üretmektedir.Michelin Okamoto Tire Corporation Fransa merkezlidir ve 170’den fazla ülkede birçok lastik pazarlarına ürün satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "My Little Pony",
+    "description": "My Little Pony, 1923 yılında kurulan Hasbro, Inc. bünyesindeki, Bonnie Zacherle tarafından oluşturulan karakterlerden oluşan oyuncaklar ve çizgi film serileridir.Dünyanın en büyük üçüncü oyun firması Hasbro, oyuncak sektörüne ilk girişi 1940 yılındaki doktor ve hemşire kitleri ile gerçekleşmiştir. Ürünlerini dünyada 100’den fazla ülkede pazarlayan Amerika merkezli firma ürünlerinin çoğunu Doğu Asya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kemal Tanca",
+    "description": "Kemal Tanca, 1950 yılında Kemal Tanca tarafından kurulan Tamer Tanca Mağazacılık San. ve Tic A.Ş. bünyesindeki kadın, erkek, çocuk, çanta, deri giyim ve aksesuar markasıdır.160 mağazaya sahip Kemal Tanca; ürünlerinin yüzde 90’ını yurt içinde üretirken, dünyaca ünlü İtalyan, Fransız ve İspanyol markaların tasarımlarına da yer veriyor.Kemal Tanca 2019 yılında konkordato ilan etmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Semperit Lastik MASTER-GRIP 2",
+    "description": "Semperit MASTER-GRIP 2 Hangi Ülkenin Malı MarkasıdırSemperit, 1906 yılında kurulan araç lastiği markasıdır. 1984 yılında Semperit Reifen AG şirketi, Avusturya merkezli Semperit AG’den ayrılarak 1985 yılında Continental Grubu bünyesine katıldı.Continental, 1871 yılında Continental-Caoutchouc-und Gutta-Percha Compagnie şirketi olarak kurulan Almanya merkezli otomotiv tedarikçisidir. Continental Lastik Bölümü, dünya çapında 24 üretim ve geliştirme tesisine sahiptir. Çin’de fabrikası bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-01-25"
+  },
+  {
+    "company": "Roadstone",
+    "description": "Roadstone 1958 yılından beri binek araç, suv, ticari araç lastikleri üretmektedir. Nexen Tire Corporation bünyesindedir. Ürünlerini 100’den fazla ülkede satmaktadır.Roadstone Güney Kore merkezlidir. Çin ve Kore’de üretim fabrikaları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hills Bros. Cappuccino",
+    "description": "Hills Bros. Cappuccino, 1973 yılında kurulmuş olan Segafredo Zanetti S. P. A. bünyesindeki Cappuccino kahvenin dondurularak kurutulmuş çeşitleri markasıdır.Vanilyalı şekerleme beyaz çikolata ve karamel seçeneklerine sahiptir ayrıca şekersiz, kafeinsiz ve yağsız ürünler sunmaktadır.Segafredo Zanetti S. P. A. İtalya merkezli Massimo Zanetti Beverage Group holding şirketine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Gouda’s Glorie",
+    "description": "Gouda’s Glorie, 1925 yılında kurulmuş olan Remia C.V bünyesinde üretilen mayonez, domates ketçabı ve özel soslar markasıdır.Remia C.V. Hollanda merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Kosmodisk",
+    "description": "Kosmodisk, 1991 yılında ilk kez üretilen, Top Shop International SA bünyesindeki masaj aletleri, masaj cihazları, spor ürünleri markasıdır.Top Shop International SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "PiCK UP!",
+    "description": "Pick Up!, 1889 yılında kurulmuş olan Bahlsen Gmbh & Co. KG bünyesinde üretilen kremalı fındık veya çikolata ve süt kreması dolgulu bisküvi markasıdır.Buğday unu, şeker, kakao yağı, hurma yağı, çikolata likörü, süt, glikoz şurubu, doğal ve yapay tatlar, sodyum asit pirofosfat, lesitin (ayçiçeği, kanola), buğday nişastası, öğütülmüş fındık, sitrik asit, hindistancevizi yağı içermektedir.Koşer belgesine sahiptir.Almanya merkezli Bahlsen Gmbh & Co. KG ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "To-Fi-Ta",
+    "description": "To-Fi-Ta, 2003 yılında kurulmuş olan Maksimum Ev İhtiyaç Maddeleri Pazarlama San. ve Tic. Ltd. Şti. bünyesindeki çöp torbaları, ahşap ürünler, gıda ambalaj ürünleri, kürdan ve çöp şiş ürünleri, kişisel bakım ürünleri, kullan at ürünleri, mum ürünleri, mutfak ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

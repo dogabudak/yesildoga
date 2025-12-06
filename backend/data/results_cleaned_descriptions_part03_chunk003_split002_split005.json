@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Tindy Candy",
+    "description": "Tindy Candy, BİM Birleşik Mağazalar A.Ş. adına Beyazpınar Şeker ve Şeker Mamülleri Gıda San. Tic. Ltd. Şti. tarafından üretilen şekerleme ürünleri markasıdır.Ultra işlenmiş aşırı şekerli ürünleri nişasta bazlı tatlandırıcı ve aroma verici içermektedir.Beyazpınar Şeker ve Şeker Mamülleri 1987 yılında kuruldu. ISO 22000 belgesine sahip üreticinin ürünleri yaklaşık 50 ülkeye ihraç edilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Werther’s",
+    "description": "Werther’s, 1903 yılında August Storck tarafından kurulan August Storck KG bünyesindeki şekerleme markasıdır.Dünya çapında 100’den fazla ülkede ürünleri satılmaktadır.Ultra işlenmiş aşırı şekerli, çok fazla doymuş yağ içeren üründe nişasta bazlı tatlandırıcı, glikoz şurubu, aroma verici ve palm yağı içermektedir.August Storck KG Almanya merkezlidir.Bünyesindeki markalar:MerciToffifeeNimm2KnoppersMambaBendicks",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kayın Doğal Mineralli Su",
+    "description": "Kayın, 2009 yılında kurulan Kartane Su Gıda Madencilik İnşaat Turizm Sanayi ve Ticaret Limited Şirketi tarafından üretilen doğal mineralli su markasıdır. Mescier Şirketler grubu bünyesindedir.KARABÜK’e bağlı ESKİPAZAR ilçesinde 9 bin metrekaresi kapalı olmak üzere 40 bin metrekarelik alanda kurulan tesiste ürünlerini üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coco Flamingo",
+    "description": "Coco Flamingo, Inecto bünyesinde üretilen hindistan cevizi yağı içerikli bakım ürünü markasıdır.Tüm ürünleri yüzde 100 vegan dostu ve doğal maddelerden üretilirken hayvanlar üzerinde test edilmemektedir.Coco Flamingo, İngiltere merkezli JZ International Group’un şemsiyesi altında yer alır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Enermax",
+    "description": "Enermax, 1990 yılında kurulan Enermax Technology Corporation bünyesinde üretilen güç kaynakları, PC durumlarda, soğutma fanları, işlemci soğutucular ve diğer çevre birimleri markasıdır.Önde gelen üreticilerden biri olan Enermax’ın Almanya, Fransa, ABD, Japonya ve Çin’de yan kuruluşları ve çok sayıda iştiraki bulunmaktadır.Enermax Technology Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

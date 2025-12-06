@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Aynes",
+    "description": "Aynes, 1993 yılında kurulan Aynes Gıda ve Tic. A.Ş. bünyesinde üretilen süt, ayran, peynir, yoğurt, tereyağ, krema, kaymak markasıdır.Firma Denizli merkezlidir. Ürünlerini 155 bin metrekaresi açık ve 34 bin metrekaresi kapalı alanda bulunan tesislerinde üretmekte ve 24 ülkeye ihraç etmektedir.2022 yılında Tarım ve Köyişleri Bakanlığının kuruluşu Tarım Kredi Kooperatifleri tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-09-29"
+  },
+  {
+    "company": "Köksan Pet",
+    "description": "Köksan Pet, 1968 yılında Asım Kökoğlu tarafından kurulan Köksan Pet ve Plastik Ambalaj San. ve Tic. A.Ş. bünyesindeki pet şişe ve kavanoz, pet preform, pe kapak, pet levha ve pet resin markasıdır.Toplam 300 bin metrekarelik alanda üretim yapmaktadır.Su ile gazlı ve gazsız her türlü içecek, meyve suyu sektörlerine, bitkisel sıvı yağ, salça, turşu, sirke, şalgam, limon suyu, konsantre sıvı üreticilerine üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ravago",
+    "description": "Ravago, 1961 yılında Raf Van Gorp tarafından kurulan Ravago Grup bünyesindeki plastik, kauçuk ve kimyasallar markasıdır.Ravago farklı ülkelerde 30 fabrika ile 200’den fazla şirketi sayesinde satış, dağıtım ve geri dönüşüm konusunda 50 ülkede faaliyet göstermektedir.Türkiye’deki ilk plastik yatırımını, 1998 yılında Resinex – BMY AŞ’yi kurarak, hammadde dağıtım alanında gerçekleştiren Belçika merkezli petrokimya şirketi Ravago, Türkiye’de Eastchem, Enplast ve Ravago Kimya’nın 2013 yılında birleşmesi ile oluşan Ravago Petrokimya Üretim A.Ş olarak faaliyet gösteriyor.Bünyesindeki markalar:EnplastEastchemRavago KimyaMahalo SilikonTekpolEnsoftEnflexSconablendEzpreneRavamidEnylonSicoklarSicoterEnflenScolefinSconaporMonocellEurocellEvopurEvopolEvoflexRavathane",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Estuz",
+    "description": "Estuz, 1982 yılında Bahattin Özdemir tarafından kurulan Estuz A.Ş. bünyesinde üretilen gıda, tekstil, metalurji, kişisel bakım, kimya gibi alanlarda kullanılan tüm tuz çeşitleri markasıdır.Estuz, 3 ayrı bölge ve 3 ayrı tesiste üretim yapan ve üretim kapasitesiyle Türkiye’nin en büyük mamul tuz üreticilerinden biridir.15 ülkeye tuz ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Splunk",
+    "description": "Splunk, 2003 yılında Michael Baum, Rob Das ve Erik Swan tarafından kurulan Splunk Inc. bünyesindeki web arayüzlü yazılım ve analiz markasıdır.Grafikler, raporlar, uyarılar, panolar ve görselleştiriciler ve bir depodaki gerçek zamanlı verileri yakalar. İşletmeler için veri kalıpları tanımlanarak ölçümler sağlar.Amerika merkezli Splunk, Avrupa, Orta Doğu, Afrika, Asya ve Avustralya’da bölgesel operasyonlarla faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

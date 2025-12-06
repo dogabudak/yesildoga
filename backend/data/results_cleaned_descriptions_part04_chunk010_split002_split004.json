@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Nyfors",
+    "description": "Nyfors, 1987 yılında Uwe Böttcher tarafından kurulan Nyfors Teknologi AB bünyesinde üretilen fiber uç yüzeyinin sıyırma ve hazırlama, test etme ve analiz etme ve kontrol ürünleri de dahil olmak üzere fiber optik füzyon bağlantısında kullanılan ekipmanlar markasıdır.Nyfors ürünleri, uluslararası olarak çok çeşitli endüstriyel sektörlerdeki müşterilere, kamu ve özel araştırma kurumlarına satılmaktadır.Nyfors Teknologi AB, İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Almawin",
+    "description": "Almawin, 1993 yılında Rudolf ve Verena Bund tarafından kurulan Almawin Reinigungskonzentrate Gmbh bünyesinde üretilen sıvı ve toz deterjanlar, sabun, temizlik ürünleri markasıdır.Sentetik kokular ve koruyucular içermeyen bitki ve mineral bazlı ürünleri biyolojik olarak parçalanabilir. Hemen hemen tüm PE ve PET şişeler %100 altplastikten yapılmıştır.Almawin Reinigungskonzentrate Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Alpedo",
+    "description": "Alpedo Gıda San. ve Tic. A.Ş. bünyesinde üretilen dondurmalar, tatlılar, yöresel ürünler markasıdır.Ürünleri katkı ve koruyucu madde içermez.Firma Kahramanmaraş merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-05-11"
+  },
+  {
+    "company": "Kale Termos",
+    "description": "Kale Termos, Kale Termos San. ve Tic. A.Ş. bünyesinde üretilen plastik mutfak gereçleri, saklama kapları ve kaseler markasıdır.Ürünleri arasında plastik piknik termos, musluklu termos, oto termos, medikal termos, soğutucu kutular, meyve presleri ve diğer küçük ev aletleri yer almaktadır. ISO 9001, ISO 14001, ISO 22000, ISO 45001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Staples",
+    "description": "Staples, 1986 yılında Leo Kahn ve Thomas G. Stemberg tarafından kurulan Staples Inc. bünyesindeki ofis perakende markasıdır.Staples ayrıca bazı yerlerde kopyalama ve yazdırma hizmeti sunmaktadır. Öncelikle perakende kanalları ve B2B odaklı teslimat operasyonları aracılığıyla ofis malzemeleri ve ilgili ürünlerin satışında yer almaktadır.2017 yılında Amerika merkezli yatırım şirketi Sycamore Partners tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

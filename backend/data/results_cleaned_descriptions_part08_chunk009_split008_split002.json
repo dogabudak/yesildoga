@@ -1,0 +1,61 @@
+[
+  {
+    "company": "Diorcook",
+    "description": "2020 yılında kurulmuş olan Diorcook Mutfak Gereçleri San. ve Tic. Ltd. Şti. bünyesinde üretilen yanmaz, yapışmaz tencere ve tava markasıdır.Firma Kahramanmaraş merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yuanxing",
+    "description": "1996 yılında kurulmuş olan Sichuan Yuanxing Rubber Co. Ltd. bünyesinde üretilen lastik markasıdır.Şirket motosiklet lastikleri, elektrikli bisiklet lastikleri, arazi aracı lastikleri ve diğer ürünler üretmektedir.Sichuan Yuanxing Rubber Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gürsüt",
+    "description": "Gürsüt Hangi Ülkenin Malı MarkasıGürsüt1982 yılında kurulmuş olan Gürsüt Besicilik Gıda San. ve Tic. A.Ş. bünyesinde üretilen peynir, yoğurt markasıdır.ISO 14001, ISO 45001, Koşer, Helal belgelerine sahiptir.Firma İzmir merkezlidir ve 10 bin metrekarelik alanda ürünlerini üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 45001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oithox Plus",
+    "description": "2011 yılında kurulmuş olan Oithox Kimya Gıda San. ve Tic. A.Ş. bünyesindeki insektisit, haşere yokedici markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 45000, GMP belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Viralife Organik",
+    "description": "2006 yılında kurulmuş olan Miralife Doğal Ürünler Gıda Pazarlama San. Tic. Ltd. Şti. bünyesinde üretilen helva, tahin ve pekmez, bitki çayı ve aktar ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

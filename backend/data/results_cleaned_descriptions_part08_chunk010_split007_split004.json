@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Masterflex",
+    "description": "Masterflex1987 yılında kurulan Masterflex SE bünyesinde üretilen hortumlar, plastikler, enjeksiyon kalıplama, pnömatik, ısıtmalı hortumlar ve HVAC markasıdır.ISO 9001 ve ISO 13485 belgelerine sahiptir.Masterflex SE Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Austınberg",
+    "description": "Austınberg2019 yılında kurulmuş olan Dnr Lens Optik San. ve Tic. Ltd. Şti. bünyesindeki optik, gözlük, lens markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-02-24"
+  },
+  {
+    "company": "Falcom",
+    "description": "FalcomNoise Blackout, 1869 yılında kurulan GN Store Nord A/S bünyesindeki kulaklıklar, kontrol üniteleri, uzaktan kumandalar markasıdır.Zorlu ortamlarda optimum algılamaya ihtiyaç duyan kolluk kuvvetleri ve güvenlik personeli için entegre duyusal alım ve iletişim çözümleri sunmaktadır.GN Store Nord A/S Danimarka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": "2024-02-24"
+  },
+  {
+    "company": "Christian Laurent",
+    "description": "Christian Laurent1983 yılında kurulmuş olan Eveline Cosmetics S.A. sp.k. bünyesindeki cilt nemlendirici ve kırışıklık karşıtı krem markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Polonya merkezli Eveline Cosmetics S.A. sp.k. ürünlerini 70’in üzerinde ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": "2024-02-24"
+  },
+  {
+    "company": "Pet’s Family",
+    "description": "Pet’s Family1993 yılında kurulan Pet Garden İth. İhr. San. Tic. Ltd. Şti. bünyesindeki köpek maması, vitaminleri ve bakım ürünleri, balık yemleri, su kimyası ve bakımı, kedi maması, vitaminler, ve kumu, hamster, tavşan, kaplumbağa yemleri, kuş, yem, yemlik, kraker, suluk ve bakım ürünleri, yemlik ve suluklar, sağlık ve bakım ürünleri markasıdır.Ankara merkezli firma ürünlerini Ankara OSB’de bulunan 8 bin metrekarelik toplam alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-02-24"
+  }
+]

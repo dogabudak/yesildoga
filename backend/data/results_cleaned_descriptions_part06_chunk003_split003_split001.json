@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Heammer",
+    "description": "Heammer, 2008 yılında Holger Bohne ve Jeroen Opdam tarafından kurulan Haemmer Germany Gmbh bünyesindeki kol saatleri markasıdır.Haemmer Germany Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "GC Tooth Mousse",
+    "description": "GC Tooth Mousse, 1921 yılında kurulan GC Corporation bünyesinde üretilen flörürsüz diş bakım ürünleri markasıdır.Biyolojik olarak kullanılabilir kalsiyum ve fosfat içermekte ve şeker içermemektedir.GC Corporation Japonya merkezlidir. Ürünleri 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Pattex",
+    "description": "Pattex, 1956 yılında Henkel AG ve Co. KGaA bünyesinde üretilen çok amaçlı, sprey ve sıcak tutkal, özel yapıştırıcı, 2 bileşenli yapıştırıcı, alçı ve cephe akrilat, doğal taş özel silikon, duş ve banyo sıhhi silikon, duvar ve tavan için akrilik, epoksi reçine, express silikon, halı ve pvc yapıştırıcı, haus ve bau silikon, kalıp engelleyici aktif silikon, kontak yapıştırıcılar, mutfak silikonu, nem durdurma cihazı, nem giderici ürünler, ofen ve kamin silikon, pencere ve cam silikonu, pu köpük, renkli harç silikon, tamir tutkalı ve bant, universal reparatur silikon, universal silikon, yapıştırıcılar markasıdır.Henkel AG ve Co. KGaA Almanya merkezlidir. 1963 yılından beri Türkiye’de Türk Henkel Kimya San. ve Tic. A.Ş. olarak faaliyet göstermektedir ve Tuzla’da üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mepsan",
+    "description": "Mepsan, 1992 yılında kurulan Mepsan Petrol Cihazları A.Ş. bünyesinde üretilen dispenserler, dalgıç pompa, smartelbow, yazar kasa ve ödeme sistemleri, endüstriyel ürünler, petrol cihazları, akaryakıt ekipmanları, otomasyon sistemleri markasıdır.Konya merkezli firma ürünlerini 3. OSB’de bulunan 45 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tp Electric",
+    "description": "Tp Electric, 1989 yılında kurulan Tp Elektrik Malzemeleri San. ve Tic. A.Ş. bünyesinde üretilen endüstriyel tip elektrik malzemeleri markasıdır.İzmir merkezli firma 50’den fazla ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

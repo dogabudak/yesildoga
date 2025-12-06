@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Diamante",
+    "description": "Polchem, 2007 yılında kurulan Aypol Solvent ve Kimya San. Tic. A.Ş. bünyesinde üretilen poliüretan son kat boyalar, poliüretan lake boyalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kajal",
+    "description": "1962 yılında kurulmuş olan Atomizer Kozmetik Tur. ve Yapı San. Tic. A.Ş. bünyesindeki makyaj ürünleri markasıdır.ISO 9001, ISO 22716, SEDEX ve HELAL belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carico",
+    "description": "1967 yılında kurulmuş olan Carico International LLC bünyesindeki tencere, gıda saklama ürünleri, su arıtma sistemleri, meyve sıkacağı, hava temizleyici, yatak, çatal bıçak takımları, sofra takımı markasıdır.Carico International LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sveston",
+    "description": "1978 yılında kurulmuş olan Modern Time Middle East LLC bünyesindeki lüks saatler markasıdır.Modern Time Middle East LLC BAE merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Fcsy Fly Catcher",
+    "description": "1911 yılında kurulmuş olan Aeroxon Insect Control Gmbh bünyesinde üretilen sinek yakalayıcı markasıdır.Reçine, yağ gibi maddelerden üretilmektedir.Aeroxon Insect Control Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

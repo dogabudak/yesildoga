@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Beauty Blender",
+    "description": "Beauty Blender, 2003 yılında Rea Ann Silva tarafından kurulan Rea.deeming Beauty Inc. bünyesindeki makyaj ürünleri, temizleyiciler, fırçalar ve aksesuarları markasıdır.Rea.deeming Beauty Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Anne Nature",
+    "description": "Anne Nature, 2016 yılında Skaidrite Dzene tarafından kurulan Anne Export SIA bünyesindeki organik cilt bakım ürünleri markasıdır.Ürünleri organik bitki yağları, organik katı bitki yağları, organik biyo etken bitki özleri, organik çiçek suyu, doğal emülsiyonlaştırıcılar ve aktif nemlendirici maddeler içermektedir.Sentetik boya ve aromalar, paraben, silikon, peg, gmo, sls ve sles, mineral yağı, parafin, domuz ve başka hayvan maddesi içermez.Ecocert belgesine sahiptir.Anne Export SIA Letonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LV",
+    "updated_date": null
+  },
+  {
+    "company": "Roca Bathrooms",
+    "description": "Roca, 1917 kurulan Roca Sanitario S.A. bünyesindeki sıhhi tesisat ürünleri markasıdır.Roca, sıhhi tesisat, dökme demir, emaye çelik, akrilik küvet, duş teknesi, küvet, musluk, banyo mobilyaları, aksesuarlar ve banyo ekranları dahil olmak üzere banyolar için çok çeşitli elemanlar üretmektedir. Ayrıca mutfak için lavabo ve musluklar, iç ve dış mekanlar için taşlar ve seramik karolar üretmektedir.Roca Sanitario S.A. İspanya merkezlidir, 18 ülkede 78 üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Xtrike Me",
+    "description": "Xtrike Me, 2015 yılında kurulan Shenzhen Xtrike-me Trade Co. Ltd. bünyesinde üretilen bilgisayar ve mobil aksesuar ürünleri, klavye, fare, kulaklık, hoparlör, oyun çantası, oyun pedi, BT ses, araba aksesuarları markasıdır.Shenzhen Xtrike-me Trade Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alpina Testere",
+    "description": "Alpina, 1960 yılında Stiga S.P.A. bünyesinde üretilen bahçeler için biçme, kırpma, kesme, temizleme, toprak ve zemin bakımı ürünleri ve aksesuarları markasıdır.Ürün yelpazesinde çim biçme makinesi, çim traktörü, elektrikli testereler, çalı tırpanları, çit kesme makineleri, düzelticiler, körükler, kazıyıcılar, parçalayıcılar bulunmaktadır.Stiga S.P.A. İtalya merkezlidir. Ürünlerini İtalya, Slovakya ve Çin’de bulunan tesislerinde üretmekte ve 70’ten fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;AlpinaAtcoCastelgardenMountfieldStiga",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

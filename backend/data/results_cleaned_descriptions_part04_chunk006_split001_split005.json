@@ -1,0 +1,48 @@
+[
+  {
+    "company": "KakaoTalk Messenger",
+    "description": "KakaoTalk Messenger, 2010 yılında kurulan Kakao Corporation bünyesinde üretilen mobil anlık mesajlaşma uygulaması markasıdır.Ücretsiz metin ve ücretsiz arama özelliklerine bir mobil anlık mesajlaşma uygulamasıdır. Uygulamanın 15 dil desteği bulunmaktadır.Kakao Corporation Güney Kore merkezlidir ve ülkenin büyük bir çoğunluğu bu uygulamayı kullanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Hylamide",
+    "description": "Hylamide, 2015 yılında Brandon Truaxe tarafından kurulan Deciem The Abnormal Beauty Company tarafından üretilen cilt, saç, vücut bakım ürünleri ve makyaj ürünleri markasıdır.Her ürün, bir serum, astar veya güçlendirici sıvı olsun, hemen hemen her cilt tipine ve tonuna hitap edecek şekilde tasarlanmıştır.Deciem The Abnormal Beauty Company Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Celia",
+    "description": "Celia, 2010 yılında kurulan Dax Cosmetics bünyesindeki kozmetik ürünler markasıdır.Dax Cosmetics, yüz ve vücut bakım ürünleri, güneş koruyucu preparatlarının üretimi ve satışı konusunda uzmanlaşmıştır ve ayrıca makyaj ürünleri bulunmaktadır. 2014 yılında, Rohto Pharmaceuticals Group’un bir parçası oldu.Rohto Pharmaceuticals Group Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "MySupplement",
+    "description": "MySupplement, 1996 yılında kurulan Farmatek İç ve Dış Tic. Ltd. Şti. bünyesindeki besin takviyesi markasıdır.Ürünlerin hammaddesi yurt dışından alınarak üretim Türkiye’de yapılmaktadır. Sadece Hollanda’da protein bar ürünleri ve Almanya’da protein ekmekleri üretilmektedir.MySupplement yüzde 100 Türk markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bridgefy",
+    "description": "Bridgefy, 2014 yılında Jorge Rios tarafından kurulan Bridgefy Inc. bünyesinde üretilen mesajlaşma uygulamasıdır.Uygulama, Internet olmadan Bluetooth kullanarak çalışabildiği için farklı ülkelerdeki protestolar sırasında popülerlik kazandı ancak, şifreleme hiç kullanmadığından, herkes uygulama aracılığıyla gönderilen tüm bilgileri izinsiz bir şekilde yakalayabilir, okuyabilir ve değiştirebilir.Bridgefy, mobil uygulamalar için ağ oluşturma teknolojisi geliştirmeye adanmış Amerika merkezli bir yazılım şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

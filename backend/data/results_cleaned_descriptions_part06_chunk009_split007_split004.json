@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Ege Safkar",
+    "description": "Ege Safkar, 1988 yılında kurulan Safkar Ege Soğutmacılık Klima Soğuk Hava Tes. İhr. İth. A.Ş. bünyesinde üretilen araç üstü klima ve kapalı kasa soğutucusu markasıdır.IRIS- ISO/TS 22163, ISO 9001, IATF 16949, ISO 14001, ISO 45001, ASELSAN belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Radwag",
+    "description": "Radwag, 1984 yılında kurulan Radwag Wagi Elektroniczne Witold Lewandowski ul. bünyesinde üretilen nem analiz cihazı, elektronik terazi, hassas terazi, tartı markasıdır.ISO 9001 belgesine sahiptir.Radwag Wagi Elektroniczne Witold Lewandowski ul. Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "PCE Instruments",
+    "description": "PCE Instruments Ülkenin MarkasıdırPCE Instruments, 1999 yılında kurulan PCE Holding Gmbh bünyesinde üretilen test ekipmanları, laboratuar ekipmanları, kontrol ve tartım ekipmanları markasıdır.Ürün yelpazesinde çevresel testler, nem analizörleri, video kontrol makineleri, endüstriyel kameralar, laboratuvar/endüstriyel ölçekler ve teraziler ve sensör ekipmanları gibi ürünler yer almaktadır.PCE Holding Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Eec Electronics",
+    "description": "Eec Electronics, 1982 yılında kurulan Elektronik Cihazlar San. ve Tic. A.Ş. bünyesindeki acil aydınlatma ürünleri, acil yönlendirme armatürleri, besleme ve akü şarj üniteleri, elektronik aydınlatma ürünleri, led teknolojisi ile ilgili ürünler markasıdır.NEMKO, TÜV-Rheinland, ENEC-24, EAC ve TSE belgelerine sahiptir.İstanbul merkezli firma ürünlerini 25’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kewpie Mayonez",
+    "description": "Kewpie, 1919 yılında Toichiro Nakashima tarafından kurulan Kewpie Corporation bünyesindeki mayonez, çeşni, soslar, bebek maması, makarnalar markasıdır.Kewpie Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

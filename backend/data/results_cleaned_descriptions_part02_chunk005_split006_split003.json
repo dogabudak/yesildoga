@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Megger",
+    "description": "Megger, 1895 yılında Sydney Evershed ve Ernest Vignoles tarafından kurulan Megger Group Limited bünyesindeki elektronik test cihazları ve ölçüm aletleri markasıdır.Kablo arıza yeri tespiti, koruyucu röle testi ve güç kalite testleri, bakım alanlarında test çözümleri sunmaktadır.Ürünleri yedi temel uygulama alanına ayrılır: kablo testi, koruma röleleri ve sistemleri, devre kesiciler, transformatör testi, alçak gerilim tesisatları, genel elektrik testleri, motor ve jeneratör testi.Megger Grup Limited Merkezimiz İngiltere merkezlidir. Almanya, ABD, İngiltere ve İsveç’te çeşitli yerlerde üretim sahaları bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2020-02-10"
+  },
+  {
+    "company": "Tatung",
+    "description": "Tatung, 1918 yılında Shang-Zhi Lin tarafından kurulan Tatung Company bünyesindeki Bilgisayar donanımı, Elektronik ve Ev aletleri markasıdır.Tatung Company Tayvan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Hengfeng Bank Ülkenindir",
+    "description": "Hengfeng Bank, 2003 yılında kurulan bankadır.Hengfeng Bank Co., Ltd. 2019 yılında battı.Mali tablolarını açıklayamayan Çin merkezli bankayı, Çin devleti kurtarmak için harekete geçti.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Intersport",
+    "description": "Intersport, 1968 yılında kurulan Intersport GmbH bünyesindeki dünyanın en büyük spor perakendecisidir.Giyim, ayakkabı, spor ve aksesuarlar satmaktadır.Intersport 44 ülkede 5 binden fazla mağazasıyla hizmet vermektedir.Intersport GmbH İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Advantech",
+    "description": "Advantech, 1983 yılında kurulan Advantech Co. Ltd, bünyesindeki endüstriyel bilgisayar markasıdır.Dünyanın en büyük endüstriyel bilgisayar üreticisidir. Akıllı Şehir ve IoT sistemlerine odaklanarak ürün ve çözümler geliştirmektedir.Advantech Co. Ltd, Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

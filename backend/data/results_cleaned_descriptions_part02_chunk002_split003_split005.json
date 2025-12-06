@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Landsail",
+    "description": "Landsail, 2008 yılında kurulan Sentaida Group Co. Ltd. iştiraki Sentury Tire bünyesindeki araç lastiği markasıdır.Spor, sıfır araç, ticari minibüs ve uçak lastikleri üretmektedir.Sentaida Group Co. Ltd. Çin merkezlidir ve lastik üretim yeri, Çin’dir.Bünyesindeki markalar:DelinteLandsailPanteraGroundSpeed",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Roomba Ülke",
+    "description": "Roomba, 1990 yılında Rodney Brooks, Colin Angle ve Helen Greiner tarafından kurulan iRobot Corporation bünyesinde 2002 yılında, dünyada ilk kez, ev için üretilen robotik otonom süpürge markasıdır.Daire biçiminde altında dönen fırçalarla otonom süpüren şarj edilebilen cihazlardır.iRobot Corporation Amerika merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-09-06"
+  },
+  {
+    "company": "Amcor Flexibles",
+    "description": "Amcor Flexibles, 1972 yılında kurulmuş olan ve 2010 yılında yeni ünvanla Amcor Flexibles İstanbul Ambalaj San. ve Tic. A.Ş. olarak faaliyet gösteren şirket bünyesinde üretilen baskılı ambalaj malzemeleri markasıdır.Türkiye’de faaliyet gösteren şirket 2010 yılında İngiltere menşeli Amcor PLC tarafından satın alınmıştır. Ürünlerini 43 ülkeye pazarlamaktadır.Hissedarlar:SSgA Funds Management Inc. (yüzde 6,76)The Vanguard Group Inc. (yüzde 3,47)BlackRock Fund Advisors (yüzde 2,22)Geode Capital Management LLC (yüzde 2,01)Charles Schwab Investment Management Inc. (yüzde 1,86)Invesco Capital Management LLC (yüzde 1,56)Federated Equity Management Company of Pennsylvania (yüzde 1,20)Polaris Capital Management LLC (yüzde 1,07)ProShare Advisors LLC (yüzde 0,86)Dimensional Fund Advisors LP (yüzde 0,76)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2023-01-15"
+  },
+  {
+    "company": "STR8 Parfüm",
+    "description": "STR8, 1928 yılında kurulan Sarantis S. A. bünyesindeki parfüm markasıdır.Marka ağırlıklı olarak Parfüm Koleksiyonu ile ilgili olmasına rağmen, çeşitli tüketici ihtiyaçlarını kapsayan geniş bir ürün yelpazesine sahiptir.Sarantis S. A. Yunanistan merkezli bir şirkettir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar:AfrosoAstridAvaB·UΒiotenC·ThruCamelCarrotenDiplomatDomiElmiplantElodeFilovitFinoGrosikHewaIndulonaJan NiezbednyKolastynaLuksjaMelochi ZhizniNovaxNoxzemaOrzenePeoPolipakPp ProfessionalProsarPyroxSaharaSanitasSanitas ProfessionalStr8TezaTopstarTub.O.Flo",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": "2022-09-14"
+  },
+  {
+    "company": "Ball Beverage",
+    "description": "Ball, 1880 yılında Ball kardeşler tarafından kurulan Ball Corporation bünyesindeki içecek, gıda ve kişisel bakım ürünleri ambalajlarının yanında uzay teknolojileri ürünleri markasıdır.Türkiye’de Ball Beverage Turkey Paketleme San. ve Tic. A.Ş. olarak hizmet vermektedir.Ball Corporation, Amerika merkezli şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

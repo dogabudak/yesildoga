@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Bh Fitness",
+    "description": "Bh Fitness, 1909 yılında kurulan Exercycle S.L. bünyesindeki spor malzemeleri markasıdır.ISO 9001 belgesine sahiptir.Exercycle S.L. İspanya merkezlidir. Ürünlerini 65 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Goodwell",
+    "description": "Goodwell, 2008 yılında kurulan Obshestvo S Ogranichennoy Otvetstvennostyu Sitronic Hi Tech bünyesindeki çamaşır makinesi, aspiratör, bulaşık makinesi, buzdolabı, dondurucu, fırın, gaz sobaları, küçük ev aletleri, kahve makinesi, mikrodalga, mutfak lavaboları, mutfak muslukları, ocaküstü, su soğutucu markasıdır.Obshestvo S Ogranichennoy Otvetstvennostyu Sitronic Hi Tech Özbekistan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "UZ",
+    "updated_date": "2025-01-26"
+  },
+  {
+    "company": "Coresatin",
+    "description": "Coresatin, 2013 yılında kurulan Corena Therapeutics Gmbh bünyesindeki hijyen ve cilt bakımı ürünleri markasıdır.Ürün grubu, bakım ile uygun cilt antisepsisi olarak özel topikal ürünlerden oluşur.Corena Therapeutics Gmbh İsviçre merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Biolomix",
+    "description": "Biolomix, Dongguan Huoke Meishi Trading Co. Ltd. bünyesinde üretilen mutfak ve ev aletleri markasıdır.Ürün yelpazesinde karıştırıcı, öğütücü, sıkacak, kahve makineleri ve diğer akıllı aletler yer alır.Dongguan Huoke Meishi Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Chusei",
+    "description": "Chusei, 2005 yılında kurulan Chusei Digital Technology Co. Ltd. bünyesinde üretilen ev aletleri, dondurucu, çamaşır makinesi, fırın, kamera, projektör, set üstü kutular, fan, elektrikli su ısıtıcısı, elektrikli süpürge, hoparlörler, bilgisayar çevre birimleri markasıdır.Chusei Digital Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Zetina",
+    "description": "Zetina, 1950 yılında kurulan Özdiyar Dış Tic. Ltd. Şti. bünyesindeki dikiş makinesi ve aksesuarları markasıdır.İstanbul merkezli firma Türkiye geneline yayılmış olan bayileri ve servis ağıyla hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Atılganet",
+    "description": "Atılganet Damakta Tadımız Var, 1992 yılında kurulan Atılgan Et Gıda İhtiyaç Maddeleri San. ve Tic. A.Ş. bünyesinde üretilen et ve et ürünleri markasıdır.ISO 9001, ISO 140001, ISO 22000, OHSAS 180001 belgelerine sahiptir.Kocaeli ve Kırklareli’de bulunan iki modern besi üretim tesisinde toplam 55 bin metrekarelik alanda kendi hayvanlarını yetiştiren firmanın toptan ve perakende mağaza satış zincirleri bulunmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Accessory Genie",
+    "description": "Accessory Genie, 2004 yılında kurulan Bright Ideas Inc. dijital kamera, dizüstü bilgisayar, video kamera ve elektronik aksesuarları markasıdır.Piller, şarj cihazları ve AC adaptörleri sağlamaktadır.Bright Ideas Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Asfora",
+    "description": "Asfora, 1984 yılında kurulan Asfora Gıda İnşaat Petrol Ürünleri Tekstil Kimya San. Tic. Ltd. Şti. bünyesindeki marketler zinciridir.Tamamı yerli sermayeli Konya merkezli firmanın 15 mağazası bulunmaktadır.Gıda, temizlik, zücaciye, şarküteri ve unlu mamulleri gruplarında yer alan ürünleri sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zoje",
+    "description": "Zoje, 1994 yılında kurulan Zoje Sewing Machine Co. Ltd. bünyesinde üretilen endüstriyel dikiş makineleri markasıdır.Zoje Sewing Machine Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

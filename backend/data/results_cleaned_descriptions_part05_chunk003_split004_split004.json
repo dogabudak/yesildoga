@@ -1,0 +1,48 @@
+[
+  {
+    "company": "We Love The Planet",
+    "description": "We Love The Planet, 2016 yılında kurulan We Love The Planet NV bünyesinde üretilen deodorant, dudak balsamı, el bakım ürünleri, güneş koruyucusu, kişisel bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.We Love The Planet NV Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Journey Giyim",
+    "description": "Journey, 1996 yılında kurulan Doksanaltı Tekstil A.Ş. bünyesindeki elbise, etek, gömlek, hırka, pantolon, bluz, ceket, sweatshirt, trençkot, tulum, çanta markasıdır.Ankara merkezli firma tüm ürünlerini Türkiye’de üretmektedir.Journey markasıyla çok sayıda firma farklı ürünler satmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "World Dermic",
+    "description": "World Dermic, 1980 yılında Alejandro Avendano tarafından kurulan Amdermik S. L. bünyesinde üretilen kozmetik ürünler markasıdır.Amdermik S.L. İspanya merkezlidir. Ürünleri 40’tan fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Ayosnet",
+    "description": "Ayosnet, 2020 yılında kurulan Ayosnet Sağlıklı Yaşam Ürünleri San. Tic. Ltd. Şti. bünyesinde üretilen gıda takviyeleri,kozmetik ürünleri, kişisel bakım ürünleri ve beslenme ürünleri markasıdır.Adana merkezli firma ISO 9001, ISO 22000, ISO 140001 ve Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Şahtaş",
+    "description": "Şahtaş Nerenin Malı MarkasıŞahtaş, 2016 yılında kurulan Şahtaş Seramik ve Toprak A.Ş. bünyesinde üretilen el yapımı ve doğal malzemeler ile tuğla, kiremit, kaplama tuğlası, terracotta yer karoları, restorasyon tuğla ve karoları markasıdır.Tüm ürünlerni doğal kilden, el yapımı olarak üretmektedir ve ürünleri boya içermemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

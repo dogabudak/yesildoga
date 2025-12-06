@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Togo",
+    "description": "Togo, 1937 yılında kurulmuş olan Togo Ayakkabı Ltd. Şti. bünyesindeki ayakkabı, bot ve çizme, sandalet ve terlik, çanta ve cüzdan, valiz, giyim, bakım ürünleri, aksesuarları ve mağazaları markasıdır.2016 yılında markanın tüm hakları Ahmet Akkuş tarafından satın alınmıştır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Highcon",
+    "description": "Highcon, 2009 yılında kurulmuş olan Highcon Systems Ltd. bünyesindeki dijital kesme ve katlama makineleri markasıdır.Ürün yelpazesi ambalajlardan, tanıtım ürünlerine, tebrik kartları, pazarlama teminatları, teşhir ürünleri ve etiketlere kadar çok sayıda pazarda geniş bir uygulama yelpazesi için dijital sonlandırma çözümleriyle katlanabilir karton ve oluklu mukavva dönüştürücüler, yazıcılar ve ticari sonlandırıcılar sunmaktadır.Highcon Systems Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Dxn",
+    "description": "Dxn, 1993 yılında Datuk Lim Siow Jin tarafından kurulmuş olan DXN Holdings Bhd. bünyesinde üretilen sağlık ve gıda takviyeleri, yiyecek ve içecekler, kişisel bakım ve kozmetik, su arıtma sistemi markasıdır.DXN Holdings Bhd. Malezya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": null
+  },
+  {
+    "company": "Edwol",
+    "description": "Edwol, 2019 yılında kurulmuş olan Edalı Bijuteri Aksesuar ve Kozmetik San. Tic. Ltd. Şti. bünyesindeki kozmetikler, hijyen ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arleva",
+    "description": "Arleva, 2017 yılında kurulan Arleva Kozmetik A.Ş. bünyesinde yer alan kozmetik ürünler markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ArlevaFlorria",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

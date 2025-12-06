@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Kiehl’s Rare Earth",
+    "description": "Kiehl’s Rare Earth1851 yılında piyasaya sürülen cilt gözenek temizleme maskesi markasıdır.L’oréal Group tarafından üretilmektedir. Grubun başlıca hissedarlarından biri olan Fransız Françoise Bettencourt Meyers yüzde 33 hisseye sahipken, İsviçre merkezli Nestle’nin yüzde 23,29 oranında hissesi vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Loyal Care",
+    "description": "LoyalCare2020 yılında Arpacıoğlu Grup tarafından kurulmuş olan Arimpex İç ve Dış Tic. A.Ş. bünyesindeki bebek şampuanları, doğal kişisel hijyen ürünleri markasıdır.Sls, sles içermez, no tears formülü içerir.Firma İstanbul merkezlidir.Bünyesindeki markalar;ArinbowArlinLoyal CareLoyal CleanTherlickToo TooTwo Foot",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Formica Laminate",
+    "description": "Formica1913 yılında kurulmuş olan Formica Group bünyesinde üretilen yüzey kaplama çözümleri, yüksek basınçlı laminat markasıdır.Formica Group, 2019 yılında Hollanda merkezli Broadview Holding B.V. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Winex Sabun",
+    "description": "Winex2018 yılında Aslankaya Kimya ve Sağlık Ürünleri San. A.Ş. bünyesinde üretilen katı, poşet sabun ve ıslak mendil markasıdır.ISO 9001, ISO 14001, ISO 45001, Helal, Koşer belgelerine sahiptir.Firma Gaziantep merkezlidir ve ürünlerini Gaziantep 5. OSB’de bulunan fabrikasında üretmektedir.Bünyesindeki markalar;Al DiwanBenim Sabunum Evissa Beauty SoapCildiniz Hayat BulsunEvilaEvissaGücü DoğallığındaNexyRojexSivTemizliğin Saf HaliWinexWinexlife",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Logi",
+    "description": "Logi1981 yılında kurulmuş olan Logitech International S.A. bünyesindeki klavye, mouse, kulaklık, direksiyon, usb alıcı, dönüştürücü adaptör, ethernet adaptörü, hepsi bir arada USB-C bağlantı istasyonu markasıdır.Logitech International S.A. İsviçre merkezlidir. Ürünlerini geri dönüştürülmüş plastikler kullanarak Asya’da üretmektedir.Hissedarları:Logitech International S.A. (yüzde 5,09)Acadian Asset Management LLC (yüzde 2,7)Arrowstreet Capital LP (yüzde 1,38)Credit Suisse International (yüzde 3,22)Pictet Asset Management Holding SA (yüzde 1,65)UBS Asset Management Switzerland AG (yüzde 3)Vanguard Fiduciary Trust Co. (yüzde 3,55)Vontobel Asset Management AG (yüzde 3,05)VV Vermögensverwaltung AG (yüzde 2,13)Zürcher Kantonalbank (yüzde 1,63)",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

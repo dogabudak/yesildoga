@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Alkansan Plastik",
+    "description": "Alkansan2000 yılında kurulmuş olan Alkansan Plastik İnşaat San. ve Tic. Ltd. Şti. bünyesinde üretilen komidin, tabure, çamaşır sepeti, leğen, hamurluk, çöp kovası, tabaklık, badya, muhtelif ürünler, plastik ev eşyaları markasıdır.Firma İstanbul merkezlidir. Ürünlerini İstanbul’da 2 bin 500 metrekarelik kapalı alana sahip fabrikasında üretmektedir ve 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soyalan",
+    "description": "Soyalan2007 yılında kurulmuş olan Soyalan Kozmetik Temizlik Mad. Ambalaj Plastik Gıda Tarım Ürünleri İnşaat San. ve Tic. Ltd. Şti. bünyesindeki gıda maddeleri ambalajı, temizlik gereçleri, ambalajlı kürdan, naftalin ve lavabo açıcı, plastik ve muayene eldiveni, çöp torbası, pamuklu çubuk, ahşap mutfak gereçleri, doğal banyo lifi ve küçük ev ihtiyaç maddeleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Microbiome",
+    "description": "Microbiome2017 yılında kurulmuş olan Microbiome İlaç Medikal Kimya Gıda Kozmetik İthalat İhracat Ltd. Şti. bünyesindeki multivitamin ve mineral, bağışıklık koruyucu ve destekleyici, probiyotik, prebiyotik, kas-kemik ve eklem sağlığı destekleyicileri gibi takviye edici gıdalar markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ruck Havalandırma Cihazları",
+    "description": "Ruck1992 yılında kurulmuş olan Ruck Ventilatoren Gmbh bünyesinde üretilen çapraz akışlı fanlar, çatı fanları, aksiyel fanlar, duman ekstresi fanları, endüstriyel havalandırma teknolojisi için fanlar, entegre ısı üretimi ve soğutmalı klima santralleri, klima santralleri, klima ve havalandırma kontrolü, mutfak havalandırma cihazları, radyal fanlar, su ısıtmalı klima santralleri markasıdır.Ruck Ventilatoren Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Sezersan Ambalaj",
+    "description": "Sezersan Ambalaj1978 yılında kurulmuş olan Sezersan A.Ş. bünyesindeki ambalaj markasıdır.Şirket çay ve kahve, şeker ve çikolata, bakliyat, bisküvi ve kek, dondurulmuş gıda ve dondurma, kozmetik ve temizlik, kuruyemiş ve cips, toz içecek ve toz gıda ambalajları üretmektedir.ISO 9001, ISO 22000 belgelerine sahiptir.2010 yılında AŞCI ailesi şirketleri bünyesine katılan firma Konya merkezlidir ve ürünlerini 20 bin metrekarelik alana sahip fabrikasında üretmektedir ve 35’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

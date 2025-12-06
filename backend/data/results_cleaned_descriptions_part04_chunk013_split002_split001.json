@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Nuttime",
+    "description": "Nuttime, 1952 yılında kurulan Elvan Gıda San. ve Tic. A.Ş. bünyesinde üretilen krem çikolata markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Takii",
+    "description": "Takii, 1895 yılında kurulan Takii & Co. Ltd. bünyesindeki salatalık, patlıcan, acı biber, kavun, kabak, tatlı biber, domates ve karpuz gibi meyve mahsulleri ve yapraklı mahsul tohumları gibi çeşitli sebze tohumları markasıdır.Takii & Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Puffix Baby",
+    "description": "Puffix Baby, 1995 yılında kurulan Aslanbaba Çocuk Bezi Ltd. Şti. bünyesinde üretilen çocuk bezi, hasta bezi, hijyenik kadın bağı, ıslak havlu gibi temizlik ürünleri markasıdır.ISO 9001 belgesine sahiptir.Bünyesindeki markalar;ElseDağ UltraStill MedicalProActiveBaby StillPuffix Baby",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bale Parfüm",
+    "description": "Bale Parfüm Nerenin Malı MarkasıBale, 1976 yılında kurulan Bale Kozmetik Kimya San. Tic. Ltd. Şti. bünyesinde üretilen kozmetik ürünler, parfümler, esanslar markasıdır.Ürünleri arasında açık parfüm, oda parfümü, kolonya bulunmaktadır. Firma Gaziantep merkezlidir.Bünyesindeki markalar;BaleDivaxGolden Zeugma",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Romeron Parfüm",
+    "description": "Romeron Parfüm Nerenin Malı MarkasıRomeron, 2011 yılında kurulan Romeron Kozmetik Kimya San. Tic. Ltd. Şti. bünyesinde üretilen parfüm, koku markasıdır.Iso 14001 belgesine sahiptir. Bursa merkezli firma ürünlerini 4 kıtada yer alan çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "RedOne",
+    "description": "RedOne, 1996 yılından itibaren üretim faaliyetlerini sürdüren Kırmızıgül Kozmetikürken bünyesinde faaliyet göstermektedir.Parfüm alanında lider firmaların arasında yer almaktadır. Bununla birlikte üretimleri Türkiye’de gerçekleştirilen zengin ürün yelpazesi ve güçlü ekonomik yapısı sayesinde dünyanın dört bir yanına ihracat yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Juicy Fruit",
+    "description": "Juicy Fruit, 1891 yılında William Wrigley, Jr. tarafından kurulan, dünyanın en büyük merkezli sakız üretim şirketi bünyesindeki markadır. Şirketin sahibi Amerikan Mars firmasıdır.Amerikan Silahlı Kuvvetleri’nin şifresi ile Amerikan askerlerini desteklemek ve korumak için Wrigley Spearmint, Doublemint ve Juicy Fruit markalarını oluşturdu ve silahlı kuvvetlere sakız sağladı.Dünyada 150’den fazla ülkede satış yapıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Eli Lilly",
+    "description": "Eli Lilly and Company, 1876 yılında Eli Lilly tarafından kuruldu.Lilly, çocuk felci aşısı ve insülini kitlesel olarak üreten ilk şirkettir.Lilly ürünleri, diyabet, depresyon, şizofreni, endokrinoloji, dikkat eksikliği, hiperaktivite bozukluğu, kanser, erektil disfonksiyon ve diğer birçok hastalığın tedavisinde kullanılmaktadır.Amerikan merkezli şirketin 18 ülkede ofisi bulunurken yaklaşık 125 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rational",
+    "description": "Rational, 1976 kurulan RATIONAL AG bünyesindeki buharlı kombi markasıdır.Dünyada yüzde 54 pazar payına sahip olan Rational yüzde 100 Alman malıdır. Cihazlarında 57 dil bulunmaktadır.Bütün Rational cihazları Bavyera’daki Landsbergam Lech tesislerinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Wawel Çikolata",
+    "description": "Wawel Çikolata Hangi ÜlkeninWawel, 1898 yılında Adam Piasecki tarafından kurulan Wawel Sa bünyesinde üretilen birçok çeşit çikolata, gofret, çikolata, şekerleme ve atıştırmalık ürünleri markasıdır.Polonya merkezli Wawel Sa şirketinin 2007 yılından beri hisselerinin yüzde 52,12’si İsviçreli Hosta International şirketine aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2020-10-18"
+  }
+]

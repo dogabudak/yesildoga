@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Cafe Nero",
+    "description": "Cafe Nero, 1997 yılında kurulan Caffe Nero Group Ltd. bünyesindeki espresso bazlı kahveler, frappé latte, çay, tuzlu ve tatlı ürünler markasıdır.Firmanın çok sayıda ülkede şubeleri bulunmaktadır.Caffe Nero Group Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Biotek",
+    "description": "Biotek, 2001 yılında kurulan Biotek Tohumculuk Tarım Ürünleri Sanayi ve Tic. Ltd. Şti. bünyesinde üretilen sebze tarla ve yem bitkileri tohumları markasıdır.İki ziraat mühendisi ortaklığında Konya’da kurulan ISO 9001 belgesine sahip firmadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Küçük Çiftlik Tohumculuk",
+    "description": "Küçük Çiftlik Tohumculuk, 1982 yılında kurulan Küçük Çiftlik Tohumculuk ve Tarım Ürünleri Ürt. Paz. San. Tic. Ltd. Şti. bünyesindeki tohum markasıdır.110 çeşit sebze tohumu üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fo",
+    "description": "Fo, 1988 yılında kurulan ÖZMER Pastacılık ve İçecek Ürünleri Sanayi Pazarlama Turizm ve Dış Ticaret A.Ş. bünyesinde üretilen dondurma ve pastacılık ürünleri, soslar ve şuruplar markasıdır.Ürünlerini 80’den fazla ülkeye ihraç etmektedir. ISO 9001 ve FSSC 22000 belgelerine sahiptir.Bünyesindeki markalar:COREFOLİMPOREPOFÜMER",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Karpedo",
+    "description": "Karpedo, 2005 yılında kurulan Karpedo Dondurma Gıda Tarim Tekstil Kuyumculuk İnşaat Sanayi ve Ticaret Ltd.Şti. bünyesinde üretilen Kahramanmaraş dondurma markasıdır.AB standartlarına sahip entegre tesisinde Kahramanmaraş dondurmasının yanında 17 çeşit meyveli dondurma da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

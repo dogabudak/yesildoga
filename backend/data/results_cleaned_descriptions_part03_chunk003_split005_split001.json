@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Astonish",
+    "description": "Astonish, Howard Moss tarafından kurulan The London Oil Refining Company Ltd. bünyesinde 1984 yılında üretilen temizlik ürünleri markasıdır.Krem temizleyici, cam ve fayans temizleyici, ocak ve fırın temizleyicileri dahil olmak üzere çeşitli mutfak temizleyicileri üretmektedir.Hayvan dostu ev temizlik ürünleri, hayvanlar veya kullanılmış hayvan maddeleri üzerinde test edilmemektedir.The London Oil Refining Company Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Janome",
+    "description": "Janome, 1921 yılında Yosaku Ose tarafından kurulan Janome Sewing Machine Co., Ltd. bünyesindeki ev tipi dikiş makinesi ve yedek parçaları markasıdır.Janome; mekanik, elektronik ve bilgisayarlı ev tipi dikiş makineleri üretmektedir.Janome Sewing Machine Co., Ltd. Japonya merkezlidir. Japonya, Tayvan ve Tayland fabrikaları vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2020-04-13"
+  },
+  {
+    "company": "Bauclick",
+    "description": "Bauclick, 1982 yılında kurulan Yıldız Entegre Ağaç Sanayi ve Tic. A.Ş. bünyesindeki mdf, mdflam, sunta, boyalı sunta, suntalam, mdf profile, laminat parke, mdf kapı, mdf süpürgelik, boyalı mdf, mdf boy kapak, kapı paneli, emprenye edilmiş dekor kağıdı,yonga levha, melamin kaplı yonga levha ve tutkal markasıdır.Toplam bir milyon 832 bin metrekarelik alan içerisinde bulunan tesisleriyle üretim yapmaktadır. Türkiye dışında Romanya, Slovenya ve Amerika’da tesisleri bulunuyor.Afganistan, Arnavutluk, Azerbaycan, Bulgaristan, Danimarka, Fildişi Sahili, Gürcistan, Irak, İran, İsrail, KKTC, Kosova, Makedonya, Özbekistan, Romanya, Rusya, Türkmenistan, Ukrayna, Umman, Yunanistan, Birleşik Arap Emirlikleri, Sudan, Kenya, Cezayir, Mısır, Tunus, Fas, Kazakistan, Pakistan, İtalya, İspanya, Nijerya, Lübnan, Suriye, Libya, Avustralya, Moldovya, Almanya, İsviçre, Fransa, İsveç ve Bosna-Hersek’e ürünlerini ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baydöner",
+    "description": "Baydöner, 2006 yılında Apaz Group bünyesinde kurulan restoran zinciridir.Türkiye, Azerbaycan, KKTC ve Irak’ta 120’nin üzerinde şubesi ile hizmet veriyor.Apaz Group bünyesindeki markalar:BaydönerBursa İshakbeyPide by Pide",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İpelina",
+    "description": "İpelina, 1972 yılında kurulan İpek İdrofil Pamuk San. ve Tic. A.Ş. bünyesindeki pamuk, oje ve makyaj temizleme markasıdır.İpek İdrofil, tüketicilere temel ihtiyaç, kozmetik ve bebek temizliği gibi farklı alanlarda pamuk bazlı ürünler sunmakta ve özel etiket ürünler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

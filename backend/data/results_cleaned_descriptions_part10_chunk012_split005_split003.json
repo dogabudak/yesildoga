@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bestview",
+    "description": "2003 yılında kurulmuş olan Shenzhen Bestview Electronic Co. Ltd. bünyesinde üretilen kameralı monitörler ve aksesuarlar markasıdır.Shenzhen Bestview Electronic Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Celluver",
+    "description": "2018 yılında kurulmuş olan Mensmakeme Co. Ltd. bünyesinde üretilen parfüm, saç bakımı, vücut bakımı ve el bakımı ürünleri markasıdır.Mensmakeme Co. Ltd. Güney Kore merkezlidir. Ürünlerini Kore’de üretmektedir ve 10’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Almisan",
+    "description": "1963 yılında kurulmuş olan Asam Betriebs-Gmbh bünyesindeki yüz ve vücut bakımı, saç bakımı ve dekoratif kozmetikler markasıdır.Asam Betriebs-Gmbh Almanya merkezli BHI Beauty & Health Investment Group Management Gmbh çatısı altındadır. Ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Monteil Paris",
+    "description": "1985 yılında kurulmuş olan Wilde Cosmetics Gmbh bünyesinde üretilen kozmetik ürünler markasıdır.Wilde Cosmetics Gmbh Almanya merkezlidir. Ürünlerinin büyük bir kısmı Almanya ve Avusturya’daki kendi üretim tesislerinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dolorex",
+    "description": "1912 yılında kurulmuş olan Abdi İbrahim İlaç San. A.Ş. bünyesinde üretilen ağrı kesici ilacı markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

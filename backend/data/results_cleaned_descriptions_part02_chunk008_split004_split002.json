@@ -1,0 +1,44 @@
+[
+  {
+    "company": "TECO",
+    "description": "TECO (Turkish Energy COmpany), 2009 yılında Yalçınkaya Ailesi tarafından kurulan TECO Petrolcülük A.Ş. bünyesindeki Petrol Ürünleri, Pazarlama ve İthalat-İhracat, Akaryakıt Depolama ve istasyon markasıdır.TECO Petrolcülük A.Ş. yüzde 100 yerli sermayeli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coola",
+    "description": "Coola, 2004 yılında kurulan Coola LLC. bünyesindeki cilt bakımı ürünleri markasıdır.Cilt bakımı ve güneş ürünlerini sunmaktadır.Coola LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "DG Vision",
+    "description": "DG Vision, 2010 yılında kurulan Dg Vizyon Radyatör ve Metal Ürünleri Geliştirme Sanayi Dış Tic. Ltd. Şti. bünyesindeki Alüminyum Radyatör, Alüminyum Havlupan, Dijital Katalog markasıdır.DG Vision markalı ürünler Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "G.Skill",
+    "description": "“Gskill“1989 yılında kurulan G.Skill International Enterprise Co. Ltd. bünyesindeki bilgisayar belleği, katı hal sürücüsü, flash bellek, mekanik oyun klavyesi ve lazer oyun faresi markasıdır.Çeşitli üst düzey bilgisayar ürünleri ve RAM ürünleriyle bilinmektedir.G.Skill International Enterprise Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2024-10-06"
+  },
+  {
+    "company": "Lezita",
+    "description": "Lezita, 2006 yılında Abalıoğlu Grubu bünyesinde kurulan piliç eti ve ileri işlenmiş et ve balık markasıdır.1969’dan bu yana hizmet veren Abalıoğlu Grubu ürünlerini 30’dan fazla ülkeye ihraç etmektedir.Türkiye’nin ilk özel sektör yem kuruluşudur.Abalıoğlu gıda alanında piliç eti, şarküteri, pratik ürünler ve yumurta üretimiyle, tarım ve hayvancılık alanında büyükbaş, küçükbaş, kanatlı ve balık yemi, organik gübre üretimiyle ve endüstriyel yağda soya yağı üretimi ve hammadde ithalatı yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

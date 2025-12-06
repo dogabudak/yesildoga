@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Pressan",
+    "description": "1979 yılında kurulan Pressan Hidrolik Pres San. Tic. Ltd. Şti. bünyesinde üretilen atölye presleri, broş presler, c tip presler, hurda presleri, kauçuk presler, plaka presleri, sıvama presleri, özel presler markasıdır.Firma Konya merkezlidir. 2 bin 500 metrekarelik kapalı alana sahip fabrikasında üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Efegil Glassware",
+    "description": "1984 yılında kurulmuş olan Newefe Ev Gereçleri Gıda ve İhtiyaç Maddeleri Dış Tic. San. Ltd. Şti. bünyesindeki işlenmiş cam eşyalar, çay bardağı, dekoratif tabak ve kase, sürahi, servis tabağı, sosluk, yağdanlık markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Traeumeland",
+    "description": "Traumeland Gmbh bünyesindeki bebekler için şilte, uyku tulumu, tuva evi, paspas, yastık ve emzirme örtüsü, tekstil ürünleri markasıdır.Traumeland Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Epitomee",
+    "description": "2005 yılında kurulmuş olan Epitomee Medical Ltd. bünyesinde üretilen yutulabilir terapötik cihazlar markasıdır.Diyabeti önlemeyi ve aşırı kilo ve obezite eşhastalıklarını ele almayı amaçlayan ilaçsız kendi kendine uygulanan kapsülleri geliştirmektedir.Epitomee Medical Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Kordsa",
+    "description": "1973 yılında Sabancı Holding’in bir iştiraki olarak kurulan Kordsa Teknik Tekstil A.Ş. bünyesindeki lastik takviye teknolojileri, kompozit teknolojileri, inşaat takviyesi, bileşik markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Kocaeli merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

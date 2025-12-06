@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Umicore",
+    "description": "Umicore, 1989 yılında madencilik ve eritme sektörlerinde dört şirketin birleşmesiyle kurulan Umicore N.V. bünyesindeki çok uluslu bir malzeme teknolojisi markasıdır.Umicore, değerli metallerin arıtma ve geri dönüştürülmesini gerçekleştirmektedir.Umicore N.V. Belçika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Sera",
+    "description": "Sera, 1993 yılında kurulan Polinas Plastik San. ve Tic. A.Ş. bünyesindeki PVC streç film, Alüminyum folyo, yağlı pişirme kağıdı, mikro dalga pişirme torbası, fırın torbası, buzdolabı poşetleri, çöp poşetleri ve akıllı folyo markasıdır.Polinas Plastik geniş ürün yelpazesi ve üretim kapasitesi ile Türkiye’deki en büyük streç film üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-06-10"
+  },
+  {
+    "company": "Rem Power",
+    "description": "2008 yılında kurulmuş olan Rheinland Elektro Maschinen Group D.O.O. bünyesindeki yüksek basınçlı temizleyici, elektrikli süpürge, temizleyiciler ve süpürücüler, kompresör ve pnömatik alet, ahşap işleme makinesi, su pompası, kaynak makinesi, çim biçme makinesi ve düzeltici, kar atıcı, iş makineleri, jeneratör, ev aletleri ve araçları markasıdır.Rheinland Elektro Maschinen Group D.O.O. Makedonya merkezlidir. Şirketin dünya çapında 22 fabrikası ile ortakları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "MK",
+    "updated_date": "2025-02-01"
+  },
+  {
+    "company": "Komono",
+    "description": "Komono, 2009 yılında Anton Janssens ve Raf Maes tarafından kurulan Komono Bvba bünyesindeki güneş gözlüğü markasıdır.Seyahat, sanat, fotoğraf ve dış mekânlardan ilham alınarak tasarlanan retro fütüristik tasarımlı gözlükler üretmektedir.Komono Bvba Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Metalline Priz",
+    "description": "Metalline, 2010 yılında kurulan Metalline A.Ş bünyesinde üretilen masa üstü priz sistemleri markasıdır.Metalline, 4 bin 500 metrekarelik kapalı alanda bulunan bin 500 metrekarelik alanda üretim yapmaktadır.Alttan Takmalı, Bas-Çek, Dağıtıcı, Dönmeli, Fırçalı Kapak Sistemleri, Fırçalı Priz Sistemleri, Gömme, Kapaklı, Motorlu, Sıva Üstü, Tezgah Üstü, Toplantı Priz Sistemleri, Masaüstü, Toplantı Masası Priz Sistemi, Mutfak, Priz Kutuları, Masaüstü Priz Kutuları, Özel İmalat Priz Üretimi yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

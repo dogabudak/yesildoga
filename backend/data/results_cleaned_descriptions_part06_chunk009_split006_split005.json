@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Venni",
+    "description": "Venni, 2007 yılında kurulan İzmiryıldız Orman Ürünleri San. Tic. Ltd. Şti. bünyesindeki akrilik panel, pvc high gloss panel ve süper mat pvc panel markasıdır.Firma İzmir merkezlidir ve ürünlerini 42 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dailytech",
+    "description": "Dailytech, 2020 yılında kurulan Güner Kök Gms İnternet Hizmetleri bünyesinde ithal edilen televizyon ses ve görüntü sistemleri, bilgisayar, tablet ve telefon aksesuarları, ev bahçe ve dekorasyon ürünleri, fotoğraf, kamera ürünleri, kozmetik ve kişisel bakım ürünleri, sağlık ölçüm takip cihazı, hırdavat yapı malzemeleri, küçük ev aletleri, stüdyo ekipmanları, monitör askı aparatı, oyun konsolları, led ışıklar, laptop soğutucular markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Betron",
+    "description": "Betron, 2011 yılında kurulan Betron Ltd. bünyesindeki hoparlörler, kablosuz hoparlörler, kulaklıklar, ses, görüntü ve güç aksesuarları, cep telefonu aksesuarları, hdmi kabloları ve anahtarları, yedek parçalar markasıdır.Betron Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Divanev",
+    "description": "Divanev, 1976 yılında kurulan Yataş Yatak ve Yorgan San. Tic. A.Ş. bünyesindeki mobilya, yatak, halı, ev tekstili markasıdır.2018 yılında Yataş Grup tarafından satın alınan markanın ürünleri Türkiye’de üretilmekte ve 50 ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hopewind",
+    "description": "Hopewind, 2020 yılında kurulan Hopewind Electric Co. Ltd. bünyesinde üretilen rüzgar enerjisi dönüştürücü, fotovoltaik üretim invertörü ve endüstri sürücüsü(değişken frekans sürücüsü), güneş invertörü, güneş depolama sistemi, pv güneş sistemi, pv invertör, enerji depolama invertörü markasıdır.Bölgesel elektrik şebekeleri, rüzgar enerjisi, fotovoltaik, petrokimya, kömür, çelik, petrol sahaları ve demiryolu taşımacılığı gibi çeşitli alanlarda ve endüstrilerde yaygın olarak kullanılan ürünler sunmaktadır.Hopewind Electric Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

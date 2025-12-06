@@ -1,0 +1,49 @@
+[
+  {
+    "company": "İmaj Pudra",
+    "description": "İmaj Pudra Nerenin Malı Markasıİmaj, 1982 yılında kurulan Ukip Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen antibakteriyel ürünler, bebek, erkek, kadın ve saç bakım ürünleri markasıdır.ISO 9001 belgesine sahiptir.Saç ve cilt kozmetiği üreten firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jazwares",
+    "description": "Jazwares LLC 1997 yılında kurulan her yaştan, bebekler, çocuklar, yetişkinler için oyuncaklar, aksiyon figürleri, müzik aletleri, koleksiyonlar, kostümler sunan oyuncak ve tüketici ürünleri şirketidir.Ürünleri 100’den fazla ülkede satılmaktadır.Amerika merkezli Alleghany Capital Corporation’un bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dvl Tırnak Ürünleri",
+    "description": "Dvl, 2000 yılında Şaban Sarıgüney tarafından kurulan Develi Bijuteri Parfümeri Hırdavat Tic. Ltd. Şti. bünyesindeki tırnak ürünleri, makyaj, plaj, abiye, bayan çanta ve kozmetik aksesuarları markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sigma Klima",
+    "description": "Sigma, 2000 yılında Hacı Ömer Sabancı Holding A.Ş. bünyesinde kurulan Teknosa İç ve Dış Tic. A.Ş.’ye ait duvar tipi klimalar, multi klimalar, profesyonel seri klimalar, vrf, buzdolapları, ısı pompaları markasıdır.Ürünleri Çin merkezli Gree Electric Appliances Inc. tarafından üretilmektedir.Teknosa İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sky Watcher",
+    "description": "Sky-Watcher, 1999 yılında Dazhong Shen tarafından kurulan Synta Technology Corporation bünyesindeki teleskop, dürbün ve optik bileşenler markasıdır.Şirket amatör astronomik pazara yönelik teleskoplar ve göz mercekleri gibi astronomik ekipmanlar dağıtmaktadır.Synta Technology Corporation Tayvan merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

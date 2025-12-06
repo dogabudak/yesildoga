@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kersia",
+    "description": "Kersia, 1938 yılında kurulan Kersia Group bünyesindeki gıda, içecek ve tarım pazarlarında hijyen ve dezenfeksiyon alanlarında biyogüvenlik çözümleri markasıdır.Gıda tedarik zincirinin her aşamasında hayvanlarda ve insanlarda hastalıkları veya kontaminasyonu önlemek için katma değerli ürünler ve çözümler sunmaktadır. Ayrıca sağlık sektörüne çözümler sunmaktadır.Kersia Group Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Soilmec",
+    "description": "Soilmec, 1957 yılında Davide Trevisani tarafından kurulan Trevi grubuna ait Soilmec S.p.A. bünyesindeki sondaj ekipmanları, kasalı delik kazıkları, yeraltı alanında özel makine ve ekipmanları markasıdır.Trevi Group İtalya merkezlidir ve 40’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Arrighi",
+    "description": "Arrighi, 1930 yılında Renato Arrighi tarafından kurulan Index Food Sp. z o.o. bünyesinde üretilen makarna markasıdır.Index Food Sp. z o.o. Polonya merkezlidir.Bünyesindeki markalar;ArrighiBaciBalconiCadburyDaimDe CeccoDeliciusLimmiLoackerMonte CurianoOliwyPeruginaPontiSunquickTuc",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Caprice",
+    "description": "Caprice, 1977 yılında kurulan Capital Rice Co. Ltd. bünyesinde üretilen pirinç markasıdır.Şirketin faaliyet alanı, taze, dondurulmuş veya kurutulmuş et ve balıkların perakende satışını içerir.Capital Rice Co. Ltd.’nin merkezi Tayland’da bulunmaktadır.Bünyesindeki markalar;BetterCapriceFortune TownGolden CartGreat HarvestMother NaturePearl SiamTaitaiWhite Flower",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  },
+  {
+    "company": "Climbolic",
+    "description": "Climbolic, 2006 yılında kurulan Climbolic Tekstil San. ve Tic. A.Ş. bünyesindeki doğa sporları kıyafetleri, spor giyim ve ayakkabı markasıdır.Firma Outdoor giyim üzerine yoğunlaşmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

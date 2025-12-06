@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Falım Sakız",
+    "description": "Falım, 1996 yılında sakız pazarına giren Mondelez International bünyesindeki sakız markasıdır.Amerika merkezli Mondelez dünyanın yaklaşık 180 ülkesinde kendi ürünlerini üretip satıyor. Firmanın Avrupa İş Birimi, sakız ve şeker kategorilerinde lider olan birçok markanın da üretimini gerçekleştiriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rival de Loop",
+    "description": "Rival de Loop, Rossman mağazalarına özel olarak üretilen kozmetik ürünleri markasıdır.Rival de Loop markalı ürünler hayvanlar üzerinde test edilmez. SLS ve paraben içermez.Rival de Loop markalı ürünler Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Billur Tuz",
+    "description": "Billur Tuz, 1967 yılında lastik işiyle uğraşan TATKO 1927 tarafından kurulan; rafine sofra tuzu, rafine ve yıkama sanayi tuzu, sağlık tuzu ve doğal sofrada öğütme tuzları markasıdır.Türkiye’de üretim yapan ilk rafine tuz fabrikası İzmir’de faaliyet göstermektedir.Alp Yalman, Tatko şirketi ile Billur Tuz’un en büyük ortağıdır ve Kuyaş ile Perahya’nın yüzde 30’ar hissesi bulunmaktadır.Billur Tuz, ham tuz ihtiyacını, Türkiye’nin en büyük deniz tuzlası olan Çamaltı Tuzla’sından karşılamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doğa Evi",
+    "description": "Doğa Evi, 1993 yılında kurulan Mask Group bünyesindeki katkısız ve doğal ürünler markasıdır.Mask Group; perakende sektörüne satış, dağıtım ve pazarlama alanlarında hizmet veren bir kadro tarafından kurulmuş ve yönetilmektedir.Ülkenin en büyük gıda ithalatçılarının dağıtıcılığını ve Türkiye’nin yöresel ürünlerini tüketicilere ulaştırmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-10-01"
+  },
+  {
+    "company": "Scott Bisiklet",
+    "description": "Scott, 1963 yılında kurulan Efor & Öz Efor bünyesindeki dağ, şehir, yol, katlanabilir ve çocuk bisikletleri markasıdır.Efor & Öz Efor bisiklet, bisiklet yedek parça ve bisiklet aksesuarları toptan ve perakende satışı yapan yerli sermayeli firmadır. Scott markalı ürünler Tayvan’da üretiliyor ve montajı Türkiye’de yapılıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

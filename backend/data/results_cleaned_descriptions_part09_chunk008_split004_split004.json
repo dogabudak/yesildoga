@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ookla",
+    "description": "“Ookla“2006 yılında kurulmuş olan Ookla LLC bünyesindeki teknoloji, eğlence, alışveriş, sağlık, siber güvenlik markasıdır.Ookla LLC Amerika merkezli Ziff Davis LLC’nin nir bölümüdür.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Beilian",
+    "description": "“Beilian“2011 yılında kurulmuş olan Cixi Beilian Electrical Appliance Co. Ltd. bünyesinde üretilen hava temizleyicileri, nemlendiriciler, hava fritözleri ve temiz hava tıbbi ürünleri markasıdır.ISO 9001 belgesine sahiptir.Cixi Beilian Electrical Appliance Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ctechi",
+    "description": "“Ctechi“2005 yılında kurulmuş olan Shenzhen Ctechi Technology Co. Ltd. bünyesinde üretilen şarj edilebilir piller, akü aksesuarları, birincil pil, güneş enerjisi depolama, güneş paneli, kuru pil, lityum pil takımı, markalı batarya, taşınabilir güç istasyonu markasıdır.Shenzhen Ctechi Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Generali Sigorta",
+    "description": "“Generali Sigorta“1989 yılında kurulmuş olan Generali Sigorta A.Ş. bünyesindeki sigortacılık hizmetleri markasıdır.Türkiye’nin ilk sigorta firmasıdır.Firma İstanbul merkezlidir. 2024 yılında Kiler Holding ve Grup şirketi Ekol Girişim çoğunluk hisselerini satın almıştır.Hissedarları:Arex Yatırım Holding A.Ş. (yüzde 48) ve Arex Sigorta A.Ş. (yüzde 1)Kiler Holding A.Ş. (yüzde 42) ve ona ait Ekol Girişim Sermayesi Yatırım Ortaklığı (yüzde 9)",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Marandmore",
+    "description": "“Marandmore“2020 yılında kurulmuş olan Mar and More İç Mimarlık ve Dekorasyon Hizmetleri San. ve Tic. Ltd. Şti. bünyesindeki mobilyalar, aydınlatmalar ve iç mekan aksesuarları markasıdır.Firma İstanbul merkezlidir ve ürünlerini 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

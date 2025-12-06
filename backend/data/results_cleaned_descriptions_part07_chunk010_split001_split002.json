@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hürlimann",
+    "description": "Hürlimann, 1929 yılında Hans Hürlimann tarafından kurulmuş olan traktör markasıdır.Hürlimann, 1977 yılında İtalya merkezli SDF S.p.A. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Silk Blue Home",
+    "description": "Silk & Blue Home, Yeni Mağazacılık A.Ş. adına çeşitli firmalar tarafından üretilen çocuk iç giyim, çocuk giyim, bebek giyim, erkek iç giyim, erkek giyim, kadın iç giyim, kadın giyim ürünleri markasıdır.Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-25"
+  },
+  {
+    "company": "Delafaille",
+    "description": "Delafaille, 1999 yılında kurulmuş olan Delafaille Chocolatier N.V. bünyesinde üretilen çikolata, kaplanmış pralinlerin, deniz kabukları ve kakao tozlu yer mantarları markasıdır.Koşer belgesine sahiptir.Delafaille Chocolatier N.V. Belçika merkezlidir ve ürünlerini Belçika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Legea",
+    "description": "Legea, 1993 yılında Luigi Franco, Elena ve Giovanni Acanfora tarafından kurulmuş olan Legea S.p.A. bünyesindeki spor giyim, spor aksesuarları, ayakkabı markasıdır.Legea S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Baver Ayakkabı",
+    "description": "Baver Ayakkabı Nerenin Malı MarkasıBaver, 1995 yılında kurulmuş olan Baver Ayakkabı Tic. Ltd. Şti. bünyesinde üretilen kadın ayakkabıları markasıdır.Firma İstanbul merkezlidir ve ürünlerini birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;BaverMarcabelli",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

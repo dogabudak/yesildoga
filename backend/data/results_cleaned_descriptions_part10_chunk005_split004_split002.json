@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Zhibo",
+    "description": "2006 yılında kurulmuş olan Beijing Hairan Import & Export Trading Co. Ltd. bünyesinde üretilen olta ürünleri markasıdır.Beijing Hairan Import & Export Trading Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Böhme Çikolata",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Halzey",
+    "description": "2023 yılında kurulmuş olan Halzey Bebek Petshop Ev Tekstil Ürünleri San. Tic. Ltd. Şti. bünyesindeki bebek giyim eşyası ve aksesuarları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kümaş",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Essimo",
+    "description": "2000 yılında Patrick Van Kalken tarafından kurulmuş olan Essimo B.V. bünyesindeki dövüş sanatları giyim ürünleri markasıdır.Essimo B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

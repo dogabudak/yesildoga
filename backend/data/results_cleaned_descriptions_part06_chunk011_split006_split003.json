@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Pegasus Dikiş Makinesi",
+    "description": "Pegasus, 1914 yılında kurulan Pegasus Sewing Machine Mfg Co. Ltd. bünyesinde üretilen endüstriyel dikiş ve overlok makineleri, otomobil parçaları markasıdır.Şirketin özel yağ sızdırmazlık teknolojisi, makinenin yağının kumaşlara dökülme riski olmadan serbestçe akmasını sağlar.Pegasus Sewing Machine Mfg Co. Ltd. Japonya merkezlidir.Bünyesindeki markalar;KannuiM 700MpPegasus",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2022-10-12"
+  },
+  {
+    "company": "Kiton Knt",
+    "description": "KNT, 1968 yılında kurulan Ciro Paone S.P.A. bünyesindeki erkek ve kadın kıyafetleri markasıdır.Kiton New Textures’ın kısaltması olan KNT, Mariano ve Walter De Matteis tarafından üretilen kent giyim koleksiyonudur.Ciro Paone S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Sabic",
+    "description": "Sabic, 1976 yılında kurulan Saudi Basic Industries Corporation bünyesinde üretilen kimyasallar ve ara ürünler, endüstriyel polimerler, gübreler ve metaller markasıdır.Saudi Basic Industries Corporation Suudi Arabistan merkezlidir ve yüzde 70 hissesi Saudi Aramco’ya aittir, geri kalan hisseler ise halka açıktır. 50’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SA",
+    "updated_date": null
+  },
+  {
+    "company": "Ubnt Kablosuz Ekipmanlar",
+    "description": "Ubnt, 2005 yılında Robert Pera tarafından kurulan Ubiquiti Inc. bünyesindeki geniş bant kablosuz ekipman, yani hücresel ve sabit ağ ve iletişim uygulamaları için telekomünikasyon baz istasyonu ekipmanı, kullanıcıları kablosuz ağlara bağlamak için iletişim yazılımı, kablosuz erişim noktası (WAP) cihazları, kablosuz radyo iletimi için cihazlar, endüstriyel kablosuz noktadan çok noktaya radyo, kablosuz vericiler ve alıcılar markasıdır.Ubiquiti Inc. Amerika merkezlidir.Bünyesindeki markalar;AirmaxMfiMportMpowerMsensorUbiquitiUbiquiti NetworksUbntUnifi",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gürpaş",
+    "description": "Gürpaş, 1982 yılında kurulan Gürpaş Kırtasiye Matbaacılık Plastik San. Tic. Ltd. Şti. bünyesindeki ajanda, takvim, defter fihrist, plastik mamüller, matbuu evrak ve kağıt ürünleri markasıdır.İstanbul merkezli firma Hadımköy’de 5 bin metrekarelik tesisiyle hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

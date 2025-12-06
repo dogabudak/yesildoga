@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Randox",
+    "description": "Randox, 1982 yılında kurulan Randox Laboratories Ltd. bünyesindeki klinik araştırma ve moleküler laboratuvarlar, gıda testleri, adli toksikoloji, veteriner laboratuvarları ve yaşam birimleri için yenilikçi tespit çözümleri markasıdır.Et, deniz mahsülleri, süt, tahıl, yem, bal ve şarap endüstrileri için antibiyotik kalıntı analizleri sunmaktadır.Randox Laboratories, 145 ülkeden oluşan bir dağıtım ağıyla laboratuvar tıbbı için tanısal reaktifler ve ekipmanlar geliştiren, üreten ve pazarlayan İngiltere merkezli bir şirkettir.2017 yılında adli toksikoloji için kullanılan Randox Test Hizmetleri’nde veri tahrifatı iddiaları üzerine çalışanları hakkında dava açıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Glo Skin Beauty",
+    "description": "Glo Skin Beauty, 1997 yılında kurulan Caleel + Hayden LLC bünyesindeki profesyonel cilt bakımı ve mineral makyaj ürünleri markasıdır.Caleel + Hayden LLC Amerika merkezli bir şirkettir ve ürünlerini İngiltere merkezli Leceur Ltd. üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mustang",
+    "description": "Mustang, 1986 yılında kurulan Merve Optik Sanayi ve Tic. A.Ş bünyesindeki gözlük markasıdır.Merve Optik, gözlük, dürbün, optik aletler ve bilimsel optik elemanlar üretmektedir.2015 yılında Merve Optik A.Ş.’nin yüzde 65 hissesi Essilor International S.A. tarafından satın alındı.Fransa menşeli Essilor International S.A. ile İtalya menşeli Luxottica Group PIVA birleşerek 2017 yılında EssilorLuxottica SA’yı kurdu. EssilorLuxottica SA’nın çoğunluk hisseleri Lüksemburg merkezli Delfin S.a r.l.’ye aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": "2021-11-22"
+  },
+  {
+    "company": "Mesoestetic",
+    "description": "Mesoestetic, 1984 yılında kurulan Mesoestetic Pharma Group bünyesindeki kozmetik ürünler markasıdır.Mesoestetic Pharma Group, ilaç, tıbbi cihazlar, kozmesötikler olmak üzere üç iş alanında faaliyet gösteren İspanya merkezli çok uluslu bir şirkettir. Ürünleri 60’tan fazla ülkede mevcuttur.ISO 13485, ISO 9001 ve ISO 22716 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Recaro",
+    "description": "Recaro, 1906 yılında Wilhelm Reutter tarafından kurulan Recaro Holding Gmbh bünyesindeki araç koltukları markasıdır.Recaro Holding, Recaro Grubu’nun ana şirketi olarak, Recaro markasının ve bağımsız olarak faaliyet gösteren recaro uçak koltuklarının sahibidir ve bünyesinde Recaro eGaming’de (Oyun Koltukları) bulunmaktadır.Recaro Holding, Recaro Grubu’nun bir holding şirketi olarak görev yapmaktadır ve strateji, finans, insan ve hukuki kaynakların yanı sıra inovasyonun tasarımı, markası, iletişimi ve yönetimini kapsamaktadır.2011 yılında Recaro, otomotiv koltuk bölümünü Amerikalı otomotiv tedarikçisi Johnson Controls’e sattı. Satın alma Johnson Controls, otomotiv sektöründe RECARO markasının lisans sahibi olarak, otomobil ve ticari araçlar için Recaro koltuk pazara özel, sınırsız hakkı verir.RECARO Automotive Seating, global şirket Raven Acquisition, LLC’nin bir iş birimidir ve RECARO Holding’den RECARO markasını lisanslamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

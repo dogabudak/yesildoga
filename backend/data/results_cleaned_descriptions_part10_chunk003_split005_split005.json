@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Starcke",
+    "description": "1829 yılında kurulmuş olan Starcke GmbH & Co. KG bünyesinde üretilen çeşitli aşındırıcı ve zımpara ürünleri markasıdır.Starcke GmbH & Co. KG Almanya merkezlidir. Türkiye’de Starcke Vsm Vitex Zimpara Teknolojisi San. ve Dış Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Pearl Ex Powdered Pigments",
+    "description": "1980 yılında Katz ailesi tarafından kurulmuş olan Rupert, Gibbon & Spider Inc. bünyesindeki sanat malzemeleri markasıdır.Rupert, Gibbon & Spider Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Isover",
+    "description": "1978 yılında kurulmuş olan Compagnie de Saint-Gobain S.A. bünyesindeki yalıtım ürünleri markasıdır.Bina ve ekipmanlar için mineral yün ürünü, cam yünü, taş yünü gibi çözümler sunmaktadır.Compagnie de Saint-Gobain S.A. Fransa merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Mead",
+    "description": "1903 yılında kurulmuş olan ACCO Brands Corporation bünyesindeki defterler, bağlayıcı ve dolgu kağıdı, planlayıcılar ve takvimler, dosyalama, aksesuarlar markasıdır.ACCO Brands Corporation Amerika merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;AT-A-GLANCEDay RunnerDay-Timer",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Montana Cans",
+    "description": "1946 yılında kurulmuş olan European Aerosols Gmbh bünyesinde üretilen sprey boya, teknik aerosoller ve macunlar, boya aksesuarları markasıdır.European Aerosols Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

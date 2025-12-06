@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Wittur",
+    "description": "Wittur, 1968 yılında kurulmuş olan Wittur Holding Gmbh bünyesinde üretilen asansör kapıları, asansör motorları, güvenlik bileşenleri, sürüş sepetleri, kabinleri, mil aksesuarları, komple asansör sistemleri markasıdır.Wittur Holding Gmbh’nin çoğunluk hisseleri 2015 yılında Amerika merkezli Bain Capital LP. tarafından satın alındı. 2019 yılında ise Kanada merkezli PSP Investments yüzde 32 hisse satın aldı.1993 yılından beri Türkiye’de Wittur Asansör San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Iata",
+    "description": "Iata, 1945 yılında kurulmuş olan International Air Transport Association bünyesindeki hava yolu taşımacılığı standartları markasıdır.Hava yolu taşımacılığında yolcu ve kargo standartlarını belirler. Üyelik başvurusu için hava yolu şirketinin en az 2 yıl faaliyet göstermiş olması gerekir.International Air Transport Association Kanada merkezlidir. 140 ülkeden yaklaşık 300 üyesi bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": "2024-02-24"
+  },
+  {
+    "company": "Trio Bant",
+    "description": "Trio, 2006 yılında kurulmuş olan Triat Endüstriyel İzolasyon ve Kimyasal Ürünler Tic. Ltd. Şti. bünyesinde üretilen tek, çift taraflı yapışkanlı bantlar, yüksek ısıya dayanıklı maskeleme bantları, epdm bantlar, metal çemberleme bantları, elektrik bantları ve yapışkanlı süngerler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "S.V.D Perre",
+    "description": "S.V.D Perre, 2020 yılında kurulmuş olan Hhd Kozmetik ve İlaç Hayriye Acıkaya bünyesindeki tüy dökücü kremler, el kremi, ayak bakım ürünleri, vücut losyon ve kremleri, nasır ve mantar ürünleri, masaj yağları, tüy sarartıcılar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Puresh",
+    "description": "Puresh, 2010 yılında kurulmuş olan Daeduck Lab Co. Ltd. bünyesinde üretilen cilt bakımı ve vücut hijyeni ürünleri markasıdır.Ürünleri silikon bileşikleri, Petrol türevli malzemeler, POE ilave Yüzey Aktif Maddeler, Akrilat Polimer, Sentetik Koruyucular (Paraben), Sentetik Renklendirici (Katran Renklendirici), GDO, SLS, SLES, ALS, ALES içermez. Gimdes Helal belgesine sahiptir.Daeduck Lab Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Desto",
+    "description": "Desto, Bim Birleşik Mağazalar A.Ş. adına Sudesan Temizlik Ürünleri A.Ş. tarafından üretilen bulaşık deterjanı markasıdır.Firma ISO 9001, ISO 14001, OHSAS 18001, ISO 22716 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bytech Boya",
+    "description": "Bytech Boya, 2010 yılında kurulan Bytech Boya ve Yapı Kim. San. Tic. Ltd. Şti. bünyesinde üretilen boya ve yapı kimyasalları markasıdır.Ahşap desenli boya, astarlar, iç ve dış cephe, dekoratif, epoksi, tenis kort boya ve kaplamaları, desenli asfalt boyası, efekt uygulamaları, ısı yalıtım, macunlar, poliüretan spor zemin kaplaması, renklendirme, sanayi grubu, su, yangın izolasyon gibi ürünler sunmaktadır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SR Döner",
+    "description": "SR Döner, 2013 yılında kurulan Sr İhtiyaç Maddeleri Gıda San. ve Tic. A.Ş. bünyesindeki et ve tavuk marinasyonları, çıtır tavuk, hamburger çeşitleri, özel üretim sosları sunan restoranlar markasıdır.Türkiye’de 30’a yakın nokta da hizmet vermektedir.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nexx Helmets",
+    "description": "Nexx Helmets, 2001 yılında kurulan Nexxpro S.A. bünyesinde üretilen motosiklet kaskları markasıdır.Her türlü kask (Full, Jet ve modüler) üretmektedir. ISO 9001 belgesine sahiptir.Nexxpro S.A. Portekiz merkezlidir. Ürünlerini Portekizde üretmekte ve 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": null
+  },
+  {
+    "company": "Organik Bahçe",
+    "description": "Organik Bahçe Nerenin Malı MarkasıOrganik Bahçe, 1987 yılında kurulan Öcal Gündoğdu Organik Tarım Hayvancılık Gıda San. ve Tic. A.Ş. bünyesinde üretilen organik glutensiz çorbalar, unlar, ürünler, organik bebek ürünleri, organik bağışıklık destek ürünleri, organik ruşeym markasıdır.Manisa merkezli firma Turgutlu ve Kemalpaşa’da organik araziler üzerinde organik sebze ve meyve üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

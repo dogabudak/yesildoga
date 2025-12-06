@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Mette Auto Parts",
+    "description": "Mette Auto Parts, 1964 yılında kurulmuş olan Kama Otomotiv İthalat İmalat ve Tic. Ltd. Şti. bünyesinde üretilen hava, yağ, mazot ve polen filtreleri, radyatör markasıdır.ISO 9001 ve ISO/TS 16949 belgelerine sahiptir.Firma Ankara merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-26"
+  },
+  {
+    "company": "Kudo Kudo",
+    "description": "Kudo Kudo Fried Chicken, 2016 yılında kurulmuş olan Kudo Restaurant Gıda San. ve Dış Tic. Ltd. Şti. bünyesindeki fast food restoranları zinciridir.Firma İstanbul merkezlidir. Türkiye, Libya, Katar ve Irak’ta 50’den fazla noktada faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biophot",
+    "description": "Biophot, 1917 yılında kurulmuş olan Nikon Corporation bünyesindeki mikroskop markasıdır.Nikon Corporation Japonya merkezlidir. Şirketin çoğunluk hisseleri Japonya’daki bankalara aittir. Japonya, Tayland, Endonezya, Tayvan ve Çin’de üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Winia",
+    "description": "Winia, 1999 yılında kurulmuş olan Winia Mando Incorporated bünyesindeki buzdolabı, klima ve yıkayıcı, nemlendirici, iyonik su temizleyici, hava dengeleyici, hava temizleyici, elektrikli radyatör, gazlı ısıtıcı, yağ yakan ısıtıcı, nemlendirme makinesi, yiyecek için soğuk saklama konteynerleri markasıdır.Winia Mando Incorporated Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Erma",
+    "description": "Erma, 1978 yılında kurulmuş olan Kısık Balık Malzemeleri ve İnşaat San. Tic. A.Ş. bünyesindeki balıkçı kovası, ağ, mat gölgelikli, olta kaşığı, olta kamışı, olta makinesi, tüy, şemsiyeli gölgelik markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AlbastarErma FishingBandoKrokodilRodexSamurai",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

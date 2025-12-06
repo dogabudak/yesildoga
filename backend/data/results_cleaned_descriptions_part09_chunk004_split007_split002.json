@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Minela Care",
+    "description": "Minela Care2023 yılında kurulmuş olan Elsaco Dış Tic. A.Ş. bünyesinde ithal edilen cilt bakım ürünleri, organik mineral güneş koruyucu, el, yüz ve vücut koruma ürünleri markasıdır.Paraben, alkol, parfüm, sentetik, peg, edta, SLS içermez. Hayvanlar üzerinde test edilmemektedir.İstanbul merkezli firma ürünlerini Avustralya’dan ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Thermoform",
+    "description": "Thermoform1996 yılında kurulmuş olan Hazal Tekstil Giyim San. ve Tic. Ltd. Şti. bünyesindeki termal içlik, termal aksesuar ve termal çorap markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Borucam",
+    "description": "Borucam1992 yılında kurulmuş olan Borucam Laboratuvar Malzemeleri San. ve Tic. Ltd. Şti. bünyesindeki laboratuvar malzemeleri markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ING Bank",
+    "description": "ING Bank1991 yılında kurulmuş olan ING Bank N.V. bünyesindeki bankacılık ve finans hizmetleri markasıdır.ING Bank N.V. Hollanda merkezli ING Groep N.V. bünyesindedir.Hissedarları:ING Groep N.V. (yüzde 5,3)Artisan Partners LP (yüzde 3,3)Norges Bank Investment Management (yüzde 2,9)Capital Research & Management Co. (yüzde 1,7)Barings Ltd. (yüzde 0,71)MFS International Singapore Pte Ltd. (yüzde 0,66)Eleva Capital LLP (yüzde 0,48)Nordea Investment Management AB (yüzde 0,34)Amundi Asset Management SA (yüzde 0,32)Goldman Sachs Asset Management BV (yüzde 0,18)",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Motortec",
+    "description": "Motortec2004 yılında kurulmuş olan Denge Ticaret Pazarlama Otomotiv Ltd. Şti. bünyesinde ithal edilen araç yedek parçaları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;DngIntergomMotortecMototecSkypartTritonVimercati",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Vanward",
+    "description": "1993 yılında kurulmuş olan Guangdong Vanward New Electric Co. Ltd. bünyesinde üretilen gaz su ısıtıcılar, gaz kazanları, elektrikli su ısıtıcılar, ısı pompaları, elektrik şömineleri, fırınlar, ocaklar ve küçük ev aletleri ve gazlı dış mekan ürünleri markasıdır.Guangdong Vanward New Electric Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Luminae",
+    "description": "Luminae İnşaat Giyim Kozmetik Danışmanlık San. ve Tic. Ltd. Şti. bünyesindeki akne, gözenek kontrolü, ayak bakım ürünleri, ayak kremi, cilt serumu, dudak bakımı, dudak kremi ve peelingi, el kremi, göz anti-aging bakımı, göz kremi, göz serumu, güneş krem ve losyonları, gece kremleri, köpük, kapatıcı, leke gidericiler, nemlendirici kremler, saç dökülmesine karşı ürünler, saç serum ve yağı, serumlar, vücut kremleri, yüz güneş kremi, yüz kremi, yüz peelingi, yüz temizleyicileri markasıdır.Firma Bingöl merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ekleristan",
+    "description": "2020 yılında kurulmuş olan Cevizden Gıda San. ve Tic. Ltd. Şti. bünyesindeki ekler, makaron, sütlü tatlılar, pastalar, dondurmalar markasıdır.Firma Bursa merkezlidir. Ürünlerini Bursa’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hince",
+    "description": "2019 yılında kurulmuş olan Vivawave Co. Ltd. bünyesindeki makyaj ürünleri markasıdır.Vivawave Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Bitufa Flexobit",
+    "description": "1979 yılında kurulmuş olan Bitufa Waterproofing BV bünyesinde üretilen akıllı su yalıtımı çözümleri, yeraltı su geçirmez ve bitümlü membranlar, inşaat malzemeleri markasıdır.ISO 9001 belgesine sahiptir.Bitufa Waterproofing BV Hollanda merkezlidir. Ürünlerini 20’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

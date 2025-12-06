@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Benton",
+    "description": "Benton, 2011 yılında kurulan Benton Inc. bünyesinde üretilen kozmetik ürünlerin markasıdır.Ürünlerinde yapay koruyucu ve cildi tahriş edebilecek içerikler kullanmaktadan kaçınan Benton, Ecocert onaylı ham maddeleri tercih erken, hayvanlar üzerinde test yapmamaktadır. Ürünlerini, 40’tan fazla ülkeye pazarlamaktadır.Benton Inc. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Bold&Goodly",
+    "description": "Bold&Goodly, Boldandgoodly Temizlik Maddeleri Kozmetik Aksesuar Gıda ve Hediyelik Eşya Üretim Paz. İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen kozmetik markasıdır.Doğal, organik, çevreci, atık karşıtı, hayvansever, vegan, cruelty-free, kimyasal karşıtı bir markadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nillkin",
+    "description": "Nillkin, 2009 yılında kurulan Nillkin Technology Co. Ltd. bünyesinde üretilen telefon kılıfı, ekran koruyucu, kablosuz şarj cihazı, hoparlör, araç şarj cihazı markasıdır.Shenzhen Nillkin Technology Co. ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Akakce.com",
+    "description": "Akakce.com, 2000 yılında Koray Karataş ve Taner Şahin tarafından kurulan Akakçe Bilgi Teknolojileri San. ve Tic. A.Ş. bünyesindeki fiyat arama motoru ve alışveriş rehberi markasıdır. Tüketiciler için ücretsiz bir bilgi servisidir.2013 yılında Japonya merkezli Beenos grubu hisselerinin yüzde 20’sini aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Nuga Bant",
+    "description": "Nuga Bant, 2012 yılında kurulan Nuga Bant Baskılı Ürünler San. Tic. A.Ş. bünyesinde üretilen koli bandı ve baskılı koli bandı markasıdır.Baskılı ve baskısız koli bandı ürünlerini İstanbul Kartal’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

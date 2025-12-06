@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Avis",
+    "description": "Avis, 1946 yılında Warren Avis tarafından kurulan Avis Budget Group, Inc. bünyesindeki araç kiralama markasıdır.Dünyada 180 ülkede araç kiralama çözümleri sunan Amerikan merkezli şirkettir.Türkiye pazarına 1974 yılında giren Türkiye’nin ilk araç kiralama markası Avis, Otokoç Otomotiv’in çatısı altında faaliyet gösteriyor. Otokoç Otomotiv Avis markası ile Türkiye dışında, Yunanistan, Azerbaycan, Kazakistan ve Irak’ta hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mudo",
+    "description": "Mudo, 1964 yılında Mustafa Taviloğlu ve Doğan Gürün tarafından kurulan hazır giyim ve dekorasyon perakendeciliği sektöründe hizmet veren mağazalar zinciridir.Türk markası Mudo, 1967 yılında Türkiye’de ilk baskılı tişört satışını gerçekleştirmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Scrikss",
+    "description": "Scrikss, 1963 yılında Hayati V. Rodrik, Yako Yahya, Albert Mitrani, Tegolgos Yardimci,İshak ve Yusuf Ender kardeşler ile Sevi kardeşler tarafından kurulmuş olan Scrikss Kalem Kırtasiye ve Ofis Malzemeleri San. A.Ş. bünyesindeki yazı gereçleri ve deri ürünler markasıdır.Fransa merkezli yazı gereçleri şirketi olan Waterman, 1974 yılında Scrikss’e katıldı. Francine Gomez, Jif Waterman dolma kalemlerinin isim haklarını Scrikss’e verdi.2007 yılında tekstil endüstrisinden OskarTrading Grubu, Scrikss hisselerinin yüzde 50’sini satın almıştır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-12-27"
+  },
+  {
+    "company": "Pelikan",
+    "description": "“Pelikan“1838 yılında kurulmuş olan Pelikan; Vertriebsgesellschaft mbH & Co. KG bünyesindeki yazma, boyama, el sanatları, ofis, okul çantası, çantalar ve yazı gereçleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Pelikan; Vertriebsgesellschaft mbH & Co. KG Almanya merkezlidir.Hissedarları:Urusharta Jamaah Sdn. Bhd. (yüzde 25,8)Hooi Keat Loo (yüzde 18,3)Ikhlas Capital Singapore Pte Ltd. (yüzde 9)PBS Office Supplies Holding Sdn. Bhd. (yüzde 5,5)Hoon Hin Seow (yüzde 3)Jing Jeong Tan (yüzde 1,7)Ma Yu Chua (yüzde 1,7)Ray Men Chua (yüzde 1,3)Poo Seng Teh (yüzde 1,1)Koon Seng Yong (yüzde 1,8)Bünyesindeki markalar;GehaHerlitzPelikanSusy Card",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2024-11-13"
+  },
+  {
+    "company": "Sunny Lastiği",
+    "description": "Sunny lastik markası Wanli Tire Corporation Limited şirketi bünyesindeki lastik markasıdır.Türk elektronik markası Sunny ile bir alakası yoktur.Çinli Wanli Tire Corporation Limited lastik şirketi bünyesindeki markalar:APTANYMILEVERSUNNYWanlitire",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

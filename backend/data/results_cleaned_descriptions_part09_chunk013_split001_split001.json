@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bahne Accessories",
+    "description": "Bahne1965 yılında kurulmuş olan Bahne Sorensen A/S bünyesindeki moda kıyafetleri ve aksesuarları, el sanatları ve küçük ev aletleri markasıdır.Bahne Sorensen A/S Danimarka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Electro-Harmonix",
+    "description": "Electro-Harmonix1968 yılında Mike Matthews tarafından kurulmuş olan New Sensor Corporation bünyesindeki efekt pedalları, amplifikatörler, akustik gitarlar markasıdır.New Sensor Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dawreek Tech",
+    "description": "Dawreek1994 yılında kurulmuş olan Seyitoğlu Hırdavat İnşaat Nakliye Petrol Tekstil Ltd. Şti. bünyesinde ithal edilen akülü vidalama, kırıcı, şarjlı dekupaj, şarjli ağaç kesme, bağ makası, benzinli tırpan çapa aparatı, boya tabancası, daire testere, darbeli vidalama, dekupaj ve somun sıkma seti, devirli spral dwe, havalı kumlama tabanacası, havalı somun sıkma, lazer terazi markasıdır.ISO 9001, ISO 18001 belgelerine sahiptir.Firma Mersin merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Louise Motto",
+    "description": "2020 yılında kurulmuş olan Seepace Dış Tic. Danışmanlık Ltd. Şti. bünyesindeki deri çanta, metal kartlık ve metal cüzdan markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aqrovest",
+    "description": "Aqrovest2000 yılında kurulmuş olan Agrarco MMC bünyesinde üretilen fındık, fındık ezmesi markasıdır.Şirket üretiminde doğal veya işlenmiş fındık ve taze meyveler sunmaktadır.Agrarco MMC Azerbaycan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  }
+]

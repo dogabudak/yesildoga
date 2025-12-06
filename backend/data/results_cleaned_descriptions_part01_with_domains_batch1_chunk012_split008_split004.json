@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Baby&Me",
+    "description": "Baby&Me Hangi Ülkenin Malı MarkasıdırBaby&Me, Ebebek Mağazacılık A.Ş. adına muhtelif firmalar tarafından üretilen Bebek Bezi ve Bebek Bakım Ürünleri markasıdır.Ürünleri koruyucu, paraben, sülfat içermez.Halil Erdoğmuş tarafından kurulan Ebebek Mağazacılık A.Ş., bünyesine ait ebebek.com bebek ürünleri alışverişi konusunda Türkiye’nin ilk çevrimiçi mağazasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-02-16"
+  },
+  {
+    "company": "Biomagic",
+    "description": "Biomagic, 1976 yılında kurulan Alliance Kozmetik San. ve Tic. A.Ş. bünyesindeki saç boyası ve saç bakım ürünleri markasıdır.Firma, hem yerli hem de dış pazarda oldukça geniş bir bayi ağına sahiptir.Bünyesindeki markalar:BiomagicDaniela ColorEscuela ColorLeoniMimozaSarah ParkerSilky ColorationTheodora",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-05-25"
+  },
+  {
+    "company": "Disney Frozen",
+    "description": "Disney Frozen, Hasbro bünyesindeki çok uluslu bir Amerikan oyuncak markasıdır.Ürünlerinin çoğunluğu Doğu Asya’da üretilmektedir.Şirket, Disney gibi stratejik lisans ortaklıklarına sahiptir.Amerikan merkezli Hasbro, 1999 yılında üç Türk’ün kurduğu İntertoy’un tüm hisselerini alarak Türkiye’de faaliyete geçti.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Naviforce",
+    "description": "Naviforce, 2013 yılında kurulan Guangzhou Xiangyu Watches Co. Ltd. bünyesindeki saat markasıdır.Naviforce markalı saatler Avrupa, Amerika, Orta Doğu, Güneydoğu Asya, Afrika, Güney Amerika ve Rusya gibi ülke ve bölgelerde satılmaktadır.Guangzhou Xiangyu Watches Co. Ltd. Çin merkezli bir şirkettir ürünlerini 20 bin metrekarelik alanda Çin’de üretmektedir.Naviforce markalı saatler Türkiye’de Chrono Saatçilik İthalat ve İhracat Elektronik Tic. Ltd. Şti. tarafıdan ithal edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Das Exquisite",
+    "description": "Das Exquisite, Rossmann tarafından üretilen çikolata markasıdır.Dirk Rossmann Mağ. Tic. Ltd. Şti. tarafından ithal edilmektedir ve sadece Rossmann mağazalarında satılmaktadır.Das Exquisite markalı çikolatalar Polonya’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

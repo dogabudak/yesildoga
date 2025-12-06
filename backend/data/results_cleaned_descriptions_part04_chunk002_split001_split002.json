@@ -1,0 +1,52 @@
+[
+  {
+    "company": "2the Max",
+    "description": "2the Max, 1984 yılında kurulan JDR Digital Technologies Limited bünyesindeki anakartlar, ekran kartları, güç kaynakları, çevre birimleri, şarj cihazı ve gözetleme cihazları markasıdır.JDR Digital Technologies Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Thermo Ad",
+    "description": "Thermo Ad, 1978 yılında Hüseyin Düşünsel tarafından kurulan Metal Teknik Döküm San. ve Tic. Ltd. Şti. bünyesindeki mutfak eşyaları markasıdır.Ürünlerinde özel granit kaplama boyaları kullanılırken PFOA(Teflon) içermeyen yapışmaz kaplama teknolojileri kullanıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kimi",
+    "description": "Kimi, 2015 yılında kurulan Canada Green Gate Corporation bünyesindeki her türlü sabun (güzellik , tuvalet , çamaşır vb.) markasıdır.Ürün yelpazesi şampuan, bebek bezi, sabun, bulaşık yıkama sıvısı, sıvı sabun, duş jeli, ıslak mendil, kişisel bakım ürünleri, evde bakım ürünleri içermektedir. ISO 9001 belgesine sahiptir.Canada Green Gate Corporation Kanada merkezlidir. Fabrikaları Türkiye ve Endonezya’da bulunmaktadır. Türkiye’de Canada Green Gate Kozmetik Ürünleri San. ve Tic. A.Ş. olarak faaliyet göstermektedir.Bünyesindeki markalar:BossbabyClinicoFirstchoiceGaboKimiLexyNovaPridoRoyalbabyRoyalladySafewashShampoolexySilkoPure",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Pawpaw",
+    "description": "Pawpaw, 2017 yılında kurulan Hermos Gıda Ltd. Şti. bünyesinde kedi ve köpekler için üretilen kuru mama markasıdır.Ürünlerini Manisa’da 13 bin 500 metrekarelik alanda kurulu olan fabrikasında üretmektedir.ISO 9001, ISO 14001, ISO 22000 belgelerine sahiptir. Hermos Gıda, ürünlerini 20’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar:KlickerBenefitMysticMyfoodHermosPawpaw",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-03-07"
+  },
+  {
+    "company": "Greenworks Tools",
+    "description": "Greenworks Tools, 2001 yılında kurulan Hongkong Sun Rise Trading Ltd. bünyesinde üretilen zincirli testere, elektrikli çit makası, çim biçme makinesi, motorlu yaprak üfleyici, motorlu kültivatör, motorlu çim ve bahçe malaları, motorlu çimen veya ot kesme makinesi, motorlu çim ve bahçe çapası, dış mekan kullanımı için elektrikli süpürge, basınçlı yıkama makinesi markasıdır.Şirketin iş hattı endüstriyel makine ve ekipmanların toptan dağıtımını içerir.Hongkong Sun Rise Trading Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

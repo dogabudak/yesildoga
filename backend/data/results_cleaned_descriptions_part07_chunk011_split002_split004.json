@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Kenzy",
+    "description": "Kenzy, 1972 yılında kurulmuş olan Alpak Gıda Baharat ve Ambalaj San. Tic. Ltd. Şti. bünyesinde üretilen mayonez, ketçap markasıdır.ISO 22000 , ISO 9000, HELAL belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;CheffinGoldKenzyŞirintat",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "AVG Technologies",
+    "description": "AVG Technologies, 1991 yılında kurulmuş olan dijital güvenlik yazılımı markasıdır.AVG Technologies, 2021 yılından beri Amerika merkezli Nortonlifelock Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Salti",
+    "description": "Salti, 2002 yılında kurulmuş olan Med-Mar Sağ. Hiz. Gıda İnş Tur. Tuz İşl. Nakl. ve Elek. Ür. San. Tic. A.Ş. bünyesinde üretilen sofra tuzu, su yumuşatıcı markasıdır.Firma Ankara merkezlidir. Çankırı bölgesi kaya tuzu yataklarından elde edilen kaya tuzunu toplam 72 bin metrekarelik alanda bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tire Süt Kooperatifi",
+    "description": "Tire Süt Kooperatifi Nerenin Malı MarkasıTire Süt Kooperatifi, 1967 yılında kurulmuş olan Sınırlı Sorumlu Tire Süt Müstahsilleri Tarımsal Kalkınma Kooperatifi bünyesindeki ayran, çeçil peyniri, çikolatalı dondurma, incir-cevizli dondurma, karadutlu dondurma, kaşar peyniri, kaymaklı yoğurt, lor peyniri, organik kaşar peyniri, organik sadeyağ, organik süt, organik tereyağı, organik yoğurt, pastörize poşet süt, pastörize süt, pastörize tereyağı , sade dondurma, sadeyağ, süzme yoğurt, tava yoğurt, tereyağı, tulum peyniri ve et ürünleri markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.İzmir merkezlidir ve 2 binden fazla süt üreticisinin birlikteliğine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Faro Technologies",
+    "description": "Faro Technologies, 1981 yılında kurulmuş olan Faro Technologies Inc. bünyesindeki taşınabilir ölçüm kolları, lazer izleyiciler, 3D lazer tarayıcılar, taşınabilir metroloji çözümleri ve CAM2 yazılımı markasıdır.Faro Technologies Inc. Amerika merkezlidir. Türkiye dahil 25 ülkede ofisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

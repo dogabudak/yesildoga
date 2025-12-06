@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Network Giyim",
+    "description": "Network, 1971 yılında kurulmuş olan Beymen Perakende ve Tekstil Yatırımları A.Ş. bünyesindeki hazır giyim markasıdır.Mağazalar, internet sitesi ve uygulaması ile faaliyet göstermektedir.Beymen Perakende ve Tekstil Yatırımları A.Ş. 2019 yılından beri Katar merkezli Mayhoola for Investments LLC’ye aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": "2024-03-06"
+  },
+  {
+    "company": "Home Store",
+    "description": "Home Store, 1986 yılında Levent Penso tarafından kurulan ev, dekorasyon ve hazır giyim mağazasıdır.2013 yılında Adnan Top ve Serdar Top’un sahibi olduğu Ersa Tekstil tarafından satın alındı. Home Store 21 mağaza ile hizmet vermektedir.Ersa Tekstil Avrupa ve Amerika’nın tanınmış markalarına üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Westlake",
+    "description": "Westlake, 1958 yılında kurulan Zhongce Rubber Group Co., Ltd. (ZC Rubber) bünyesindeki Binek, SUV ve Kamyonetler, Kamyonlar ve Otobüsler, Off The Road araçları ve tarım araçları lastiği markasıdır.Avrupa, Amerika, Brezilya ve Tayland’da iştirakleri bulunmaktadır.ZC Rubber Çin merkezli şirkettir. Çin’in 1 numaralı lastik üreticisidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mitsuba",
+    "description": "Mitsuba, 1946 yılında kurulan Mitsuba Electric Mfg. Co., Ltd. bünyesindeki motor, kontrol ve mekanizma ürünleri markasıdır.Temel ürünleri 4 tekerlekli araçlar için elektrik bileşenleridir. Beceri ve teknolojiler de motosiklet bileşenleri, hemşirelik bakım ekipmanları ve araba aksesuarları uygulanır.2016 yılında Mitsuba Teklas Turkey Otomotiv A.Ş. iştiraki kurulmuştur.Mitsuba Electric Mfg. Co., Ltd. Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Agent Provocateur",
+    "description": "Agent Provocateur, 1994 yılında Joe Corre ve Serena Rees tarafından kurulan Agent Provocateur ltd. bünyesindeki kadın iç giyim ürünleri mağazasıdır.Agent Provocateur ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

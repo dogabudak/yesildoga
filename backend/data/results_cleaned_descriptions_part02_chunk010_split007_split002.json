@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Jysk",
+    "description": "Jysk, 1979 yılında Lars Larsen tarafından kurulan Jysk A/S bünyesindeki şilte, mobilya ve iç dekor gibi ev eşyaları satan bir perakende zinciridir.Jysk’nin 50 ülkede 3 bine yakın mağazası bulunmaktadır.Jysk A/S Danimarka merkezlidir ve uluslararası faaliyet gösteren en büyük Danimarkalı perakendecidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Sonova",
+    "description": "Sonova, 1947 yılında kurulan Sonova Holding AG bünyesindeki işitme cihazları markasıdır.Sonova ağırlıklı olarak işitme cihazları, koklear implantlar ve işitme cihazlarıyla uyumlu kablosuz iletişim cihazları geliştirir ve pazarlar. Sonova Grubu ve markaları satışlarda küresel işitme cihazı pazarının yüzde 24’ünü elinde tutmaktadır. Dünyanın en büyük tedarikçilerinden biridir.Sonova Holding AG İsviçre merkezlidir. İsviçre, Çin ve Vietnam’da üretim tesislerine sahiptir. Ürünleri 90’dan fazla ülkede satılmaktadır.Bünyesindeki markalar:PhonakUnitronHansatonAdvanced BionicsAudioNova Group",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Teknosacell",
+    "description": "Teknosacell, 2015 yılında TeknoSA şirketi adına TT Mobil İletişim Hizmetleri A.Ş. tarafından sunulan GSM markasıdır.TeknoSA İç ve Dış Ticaret A.Ş., Hacı Ömer Sabancı Holding A.Ş. bünyesindeki bir teknoloji perakende zinciridir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Ekunsan",
+    "description": "Ekunsan, 1986 yılında Hamdi Saltık tarafından kurulan Ekunsan Un San. Tic. Ltd. Şti. bünyesindeki buğday unu markasıdır.Ekunsan Un Sanayi, 15 bin metrekaresi kapalı alan olmak üzere 20 bin metrekarelik alanda kurulmuştur.Anadolu Uluslararası Helal Belgesi, ISO 22000 ve 9001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "CNet",
+    "description": "CNet, 1987 yılında kurulan CNet Technology bünyesindeki 3g yönlendiriciler, wi-fi yönlendirici, wi-fi tekrarlayıcı, wi-fi adaptörleri, dış mekan yönlendirici ve erişim noktaları, ağ anahtarı, adsl modem yönlendiriciler markasıdır.CNet Technology Amerika merkezli ağ ekipmanları üreten bir şirkettir.CNet’in Türkiye dağıtıcısı, Next&NextStar firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

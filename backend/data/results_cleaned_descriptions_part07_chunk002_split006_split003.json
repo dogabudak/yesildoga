@@ -1,0 +1,48 @@
+[
+  {
+    "company": "All Sun",
+    "description": "All Sun, 1993 yılında kurulan Zhangzhou Eastern Technology Group bünyesinde üretilen dijital multimetreler, metal dedektörleri, ultrasonik ölçüler, kızılötesi test cihazları markasıdır.Zhangzhou Eastern Technology Group Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ernest Borel",
+    "description": "Ernest Borel, 1856 yılında Jules Borel tarafından kurulan Ernest Borel S.A. bünyesindeki saat markasıdır.Erkekler ve kadınlar için geleneksel tarzda otomatik ve kuvars hareketli kol saatleri üretmektedir. Ürün yelpazesinin çoğu elbise saatleri ve gündelik saatlerdir.Ernest Borel S.A. 2018 yılında Hong Kong merkezli Citychamp Watch & Jewellery Group Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Newarc Armatür",
+    "description": "Newarc Armatür Nerenin Malı MarkasıNewarc, 2014 yılında kurulan Newarc Armatür San. Tic. A.Ş. bünyesinde üretilen armatürler, banyo aksesuarları, duş sistemleri, vitrifiyeler markasıdır.ISO 9001, ISO 14001, ISO 45001, OHSAS 18001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Udwells",
+    "description": "Udwells, 2008 yılında kurulan Haining Youdiweiya Trading Co. Ltd. bünyesinde üretilen bitki yetiştirme kabinleri, saksılar, havalandırma ürünleri, karbon filtreler, su pompası, LED aydınlatma markasıdır.Haining Youdiweiya Trading Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kingpost",
+    "description": "Kingpost, 1988 yılında kurulan Başak Yapi Mühendislik Müteahhitlik Makina San. ve Tic. Ltd. Şti. bünyesindeki klimalar, ev tipi, havuz tipi ve endüstriyel tip nem alma cihazları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

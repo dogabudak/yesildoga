@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Zomei",
+    "description": "Zomei, 2007 yılında kurulan Xuzhou Zomei Photographic Equipment Co. Ltd. bünyesinde üretilen kamera filtreleri, su geçirmez ürün ve diğer kamera aksesuarları markasıdır.Xuzhou Zomei Photographic Equipment Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "FromSoftware",
+    "description": "FromSoftware, 1986 yılında kurulan FromSoftware Inc. bünyesindeki video oyunu geliştiricisidir.Video oyunlarının planlanması, geliştirilmesi ve dağıtımı, internet içeriğinin planlanması ve geliştirilmesi gibi iş tanımına sahiptir.FromSoftware Inc. Japonya merkezli Kadokawa Corporation bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Hololive",
+    "description": "Hololive, 2017 yılında kurulan Visual Live 3D LLC bünyesindeki elektronik verileri gerçek dünya ortamlarıyla bütünleştirmek için mobil cihazlarda kullanılmak üzere indirilebilir artırılmış gerçeklik yazılımı, hologram aparatı; sahip olduğu sanal gerçeklik gözlükleri markasıdır.Firma, tasarım, mühendislik ve inşaat şirketleri için Microsoft HoloLens, Android ve iOS’ta kullanımı kolay ve kullanıma hazır artırılmış gerçeklik yazılımı sunmaktadır.Visual Live 3D LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Despada",
+    "description": "Despada, 2012 yılında Doğan Optik San. ve Tic. Ltd. Şti. bünyesinde üretilen gözlük markasıdır.Doğan Optik lisans hakkına sahip olduğu birçok uluslararası marka ile dağıtım haklarına sahip olduğu prestijli dünya markaları da bünyesinde bulunduran, 1997 yılında kurulan İstanbul merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artemis Halı",
+    "description": "Artemis Halı Nerenin Malı MarkasıArtemis Halı, 2012 yılında Acme Holding’in bir iştiraki olarak kurulan Artemis Halı A.Ş. bünyesinde üretilen halı markasıdır.Koleksiyonlarında doğal elyaflardan yapılan, yıkanmış ve ütülenmiş ürün grupları yer alırken son teknolijik dokuma tekniği ile halıdaki tozlanmayı yüzde 74’e varan oranda azaltıyor.ISO 9001, ISO 1002, ISO 14001, OHSAS 18001 belgelerine sahiptir.Ürünlerini 25 bin metrekaresi kapalı, 11 bin metrekaresi açık olmak üzere toplam 36 bin metrekarelik alanda üretmekte ve çok sayıda ülkeye ihraç etmektedir.Holding bünyesindeki markalar;Armis YatakArtemis HalıDoğu Taşıt Araç Muayene İstasyonlarıEtrofil İplik",
+    "documents": [
+      "ISO",
+      "ISO 1002",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "company": "St Michel",
+    "description": "St Michel, 1905 yılında kurulan St Michel Holding bünyesinde üretilen bisküvi, kek pasta markasıdır.Ürünleri hurma yağı içermemektedir ve gezen tavuk yumurtaları kullanılmaktadır.St Michel Holding Fransa merkezlidir. Ürünlerini Fransa’da bulunan 8 üretim tesisinde üretmekte ve 100 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Cupido Çikolata",
+    "description": "Cupido, 1956 yılında kurulan Hamlet NV bünyesinde üretilen şekerleme, kakao ve çikolata markasıdır.Aşırı şekerli ürünleri soya ve aroma verici içerir.Yer mantarı ve pralin dolgulu figür seçenekleri, çıtır çikolata parçacıkları, eriyen çikolata ve çikolata figürinlerinden oluşan bir ürün yelpazesine sahiptir.Hamlet NV Belçika merkezlidir. Bütün ürünleri yüzde 100 Belçika çikolatasından üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Align",
+    "description": "Align, 1997 yılında Zia Chishti, Kelsey Wirth tarafından kurulan Align Technology Inc. bünyesindeki ortodonti hizalayıcı tedavisi için dijital 3 boyutlu tarayıcıların ve plastik raylar markasıdır.Align Technology Inc. Amerika merkezlidir. Ürünlerini Meksika, İsrail ve Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gripmax",
+    "description": "Gripmax, 2010 yılında kurulan Qingdao Grip Tyre Co. Ltd. bünyesinde üretilen lastik markasıdır.Şirket kimyasallar, boyalar ve çözücüler ve diğer çeşitli lastikleri üretmektedir.Qingdao Grip Tyre Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;GripmaxUnigrip",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Lollo Caffe",
+    "description": "Lollo Caffe, 2002 yılında kurulan Dical s.r.l. bünyesinde üretilen kahve kapsülleri markasıdır.Klasiklere ek olarak, fındıklı ve çikolatalı seçenekler sunuyor.Dical s.r.l. İtalya merkezlidir ve ürünleri İtalya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

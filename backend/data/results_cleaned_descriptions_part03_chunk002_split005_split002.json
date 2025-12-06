@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ottino",
+    "description": "Ottino, 1830 yılında kurulan Ottino S.r.l. bünyesindeki deri eşyalar, eşarplar, şemsiye ve diğer aksesuarlar markasıdır.Ottino S.r.l., İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Beyerdynamic",
+    "description": "beyerdynamic, 1924 yılında elektrik mühendisi Eugen Beyer tarafından kurulan beyerdynamic GmbH & Co. KG bünyesinde üretilen ses sistemleri, mikrofon ve kulaklık markasıdır.beyerdynamic GmbH & Co. KG halen bir aile şirketidir. Şirketin kurucusunun üç torunu, iki kızı ve bir torunu hisselerin yüzde 100’ünü elinde tutmaktadır. beyerdynamic GmbH & Co. KG Almanya merkezlidir ve üretimini Almanya’da yapmaktadır.ABD, Hindistan ve Singapur’daki şubeler, beyerdynamic’in önemli uluslararası pazarlara doğrudan erişimini sağlamakta. 100’den fazla ülkede bir iş ortağı ağı aracılığıyla temsil edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-09-02"
+  },
+  {
+    "company": "DPA Microphones",
+    "description": "DPA Microphones, 1992 yılında Morten Stove ve Ole Brosted Sorensen tarafından kurulan DPA Microphones A/S bünyesindeki mikrofon, kafa bandı mikrofonu, av mikrofonları, minyatür mikrofonlar markasıdır.DPA Microphones ürünleri Danimarka’da üretilmektedir. Şirketi sahibi Amerikan yatırım şirketi Riverside Company’dir.DPA ürünlerini Danimarka, ABD ve Hong Kong’daki kendi satış ofislerinin yanı sıra dünya çapında lisanslı dağıtım ağı aracılığıyla satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "LEAM",
+    "description": "LEAM, 1950 yılında kurulan LEAM S.r.l bünyesindeki kadın ve erkekler için lüks giyim ve aksesuarları markasıdır.LEAM mağazaları lüks ve moda dünyasıyla ilgili her türlü ihtiyacı karşılıyor.Leam S.r.l İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Biltema",
+    "description": "Biltema, 1963 yılında Sten Ake Lindholm tarafından kurulan Biltema BV bünyesindeki bahçe malzemeleri, elektrik malzemeleri, araba parçaları, araçlar, ev donanımı markası, perakende mağazası zinciridir.Araba, inşaat, eğlence, ev, tekne, araçlar, teknoloji ve kimyasallar olmak üzere 8 alanda ürünleri yer alır.İsveç merkezli şirket Hollandalı bir özel şirket aracılığıyla Hollanda’da kayıtlı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

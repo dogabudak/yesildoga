@@ -1,0 +1,59 @@
+[
+  {
+    "company": "Weiman",
+    "description": "Weiman, 1941 yılında kurulan Weiman Products LLC. bünyesinde üretilen yüzey temizlik ürünleri markasıdır.Şirket paslanmak çelik, mobilya, banyo, cam, deri, elektronik, mücevher, zemin ve özel ürünler için temizleyiciler sunmaktadır.Weiman Products LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sprayway",
+    "description": "Sprayway, 1974 yılında kurulan Sprayway Ltd. bünyesindeki giyim ürünleri, ceket, pantolon, kazak, ayakkabı, tişört markasıdır.Sprayway Ltd.’nin ana şirketi İngiltere merkezli Outdoor & Sports Company Limited’dir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Grüntek",
+    "description": "Grüntek, 1998 yılında kurulan S&R Industriewerkzeuge Gmbh bünyesindeki bahçe ve ağaç makasları, el testereleri, çim makası ve bahçe aletleri markasıdır.S&R Industriewerkzeuge Gmbh Almanya merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lvguang",
+    "description": "Lvguang, 2001 yılında kurulan Zhejiang Lvguang Electric Appliance Industrial Co. Ltd. bünyesinde üretilen Ni-Mh pil, şarj edilebilir lambalar, led el fenerleri markasıdır.ISO 9001 belgesine sahiptir.Zhejiang Lvguang Electric Appliance Industrial Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Arnespack",
+    "description": "Arnespack, 2008 yılında kurulan Arnes Ambalaj San. Tic. A.Ş. bünyesinde üretilen kağıt bardak, çorba kasesi, yemek kapları, patlamış mısır kutusu, otomat bardağı, öğle yemeği kutusuı ve çift cidarlı bardaklar, tüketici ambalaj ürünleri markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 22000, ISO 27001, ISO 45001, BRC, FSC belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

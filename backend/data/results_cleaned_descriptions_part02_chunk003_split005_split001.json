@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kremini",
+    "description": "Kremini, 2009 yılında Danimarka’lı sakız üreticisi Gumlink ile Yıldız Holding’in (Ülker Grubu) yarı yarıya ortaklığıyla kurulan Continental Confectionery Company (CCC) bünyesindeki şekerleme ürünleri markasıdır.Türkiye, Danimarka, Fransa ve Almanya’da ürünleri satılmaktadır.Ürünlerinde glukoz şurubu bulunmaktadır.Continental Confectionery Company Gıda San Tic. A.Ş. bünyesindeki markalar:Ülker BonbonÜlker KreminiÜlker NanelimÜlker OneoÜlker ToffeÜlker YıldızÜlker Yupo",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Codegen",
+    "description": "Codegen, 1985 yılında kurulan Codegen Technology Co.,Ltd bünyesindeki bilgisayar kasası, güç kaynağı ünitesi, PSU, ATX bilgisayar, klavye, mouse, hoparlör, LCD Monitör markasıdır.Çin merkezli Codegen ürünlerini Çin’de üretmektedir ve ürünleri 40 üzerinde ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Lancel",
+    "description": "Lancel, 1876 yılında Angèle ve Alphonse Lancel tarafından kurulan; çanta, bavul, küçük deri eşyalar ve aksesuarlar markasıdır.1997 yılında Lancel markası Güney Afrikalı işadamı tarafından İsviçre’de kurulan Richemont şirketi tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Brioni",
+    "description": "Brioni, 1945 yılında Nazareno Fonticoli ve Gaetano Savini tarafından kurulan Brioni S.p.A. bünyesindeki erkek hazır giyim, deri ürünleri, ayakkabılar, gözlük ve koku markasıdır.2012 yılında Brioni, 1963 yılında François Pinault tarafından kurulan Fransa merkezli Kering S.A. lüks giyim grubu tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Rolls-Royce",
+    "description": "Rolls Royce, 1904 yılında kurulan Rolls-Royce Motor Cars Limited bünyesindeki Süper Lüks Motorlu araba markasıdır.Firma iflas ettikten sonra 2003 yılında yeniden üretime başladı.Rolls-Royce Motor Cars Limited İngiltere merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

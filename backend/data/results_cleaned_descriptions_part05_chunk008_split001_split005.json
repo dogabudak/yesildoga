@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Furutech",
+    "description": "Furutech, 1988 yılında kurulan Furutech Co. Ltd. bünyesinde üretilen kablolar ve konektörler, Hi-Fi aksesuarları markasıdır.OCC tek kristal oksijensiz bakırdan yapılmış bir dizi A/V kablosu ve diğer sinyal aktarım parçaları üretmektedir.Furutech Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Torus Power",
+    "description": "Torus Power, Torus Power Inc. bünyesinde el yapımı olarak üretilen ses ve görüntü cihazları markasıdır.İzolasyon transformatörleri, tüm ses ve görüntü sistemlerinin performansını önemli ölçüde artıran temiz güç kaynağıdır.Torus Power Inc. Kanada merkezlidir ve ürünlerini Kanada’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Farfi",
+    "description": "Farfi, Shenzhen Yinlibo Industrial Co. Ltd. bünyesindeki bilgisayar ürünleri, ev elektroniği, eşyaları, mutfak ürünleri, giyim, ayakkabı, hoparlör kabinleri, kozmetik kişisel bakım, kulaklıklar, navigasyon cihazları, oyuncaklar, şarj cihazları, saat, gözlük, aksesuar, spor outdoor, takı, mücevher, video kameralar markasıdır.Shenzhen Yinlibo Industrial Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alpet",
+    "description": "Alpet, 2001 yılında Altınbaş Holding tarafından kurulan Altınbaş Petrol ve Tic. A.Ş. bünyesindeki akaryakıt markasıdır.Kocaeli, İzmir, Mersin, Kırıkkale, ve Samsun’da dolum tesisleri, Antalya Akdeniz Akaryakıt Terminalinde ortaklığı bulunmaktadır.Türkiye genelinde toplam 400 istasyonu bulunuyor.ISO 9001, ISO 14001 ve ISO 45001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Walkingpad",
+    "description": "Walkingpad, 2015 yılında kurulan Kingsmith Technology Co. Ltd. bünyesinde üretilen yürüme bandı markasıdır.Akıllı bir fitness yazılımı ve donanım kuruluşudurKingsmith Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

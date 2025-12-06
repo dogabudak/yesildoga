@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Tiara’s",
+    "description": "Tiara’s, 2012 yılında kurulan TCM Özsoy Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen güzellik malzemeleri, sağlık bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.İzmir merkezli firma ürünlerini İzmir Atatürk OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Creamol",
+    "description": "Creamol, 2005 yılında kurulan Laber Organik Kozmetik A.Ş. bünyesinde üretilen dezenfektanlar, anti bakteriyel ıslak mendil ve tek kullanımlık ürünler ile dezenfektan standları markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Cosmos Organic, Biocide, ISO 14001, GMP belgelerine sahiptir.Firma İzmir merkezlidir. Ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lightyear 0",
+    "description": "Lightyear 0, 2019 yılında kurulan Atlas Technologies B.V. bünyesinde üretilen uzun menzilli güneş enerjili elektrikli otomobil markasıdır.Araç, dört tekerlekten çekişlidir. Beş yetişkin ve bagaj kapasitelidir.Atlas Technologies B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Vatan Kablo",
+    "description": "Vatan Kablo, 1975 yılında kurulan Vatan Kablo Metal Endüstri ve Tic. A.Ş. bünyesinde üretilen kablolar markasıdır.ISO 9001, ISO 14001, ISO 45001, BASEC, VDE, NF, GOST-R TSE, HAR belgelerine sahiptir.İstanbul merkezli firma ürünlerini Tekirdağ’da bulunan toplam 150 bin metrekarelik alanda bulunan tesislerinde üretmektedir. Ürünlerini 4 kıtaya ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zuzii",
+    "description": "Zuzii, 2009 yılında Alex ve Ryan Campbell tarafından kurulan Zuzii LLC bünyesinde el yapımı üretilen ayakkabı, sandalet markasıdır.Ürünlerin hammaddelerini sadece İtalya ve Almanya’daki tedarikçilerinden temin etmektedir.Zuzii LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

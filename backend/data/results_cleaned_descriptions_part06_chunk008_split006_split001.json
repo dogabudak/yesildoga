@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Allesgo",
+    "description": "Allesgo, 2016 yılında kurulan İpsizcambaz Elektronik ve Bilişim Hizmetleri A.Ş. bünyesindeki online pazar yeri markasıdır.Allesgo.com, alışveriş yazılımı ülke içindeki ticareti hızlandırarak satıcıların daha fazla tüketiciye, alıcıların da daha fazla ürüne ulaşmasını amaçlıyor.Firma Ankara’da bulunan Hacettepe Teknokent yerleşkesinde faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Storopack",
+    "description": "Storopack, 1959 yılında kurulan Storopack GmbH & Co. KG bünyesinde üretilen koruyucu ambalajlar, karton ambalaj, kağıt yastık, hava yastığı, köpük yastık ve ambalaj yongaları markasıdır.Ürünlerini genleşmiş köpükten (EPS, EPP ve Neopor) üretmektedir.Ürün yelpazesi, koruyucu ambalajlar ile müşterinin paketleme süreçlerine entegrasyonunu da içerir.Storopack Deutschland GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mucit Panda",
+    "description": "Mucit Panda, 2015 yılında kurulan Mucit Beyinler Elektronik Hizmetleri Ticaret A.Ş. bünyesindeki 0-8 yaş arası çocuklar için 25 markaya ait eğitici oyuncaklar ve akıl oyunlarını bir arada sunan bir e-ticaret markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evoss İmplant",
+    "description": "Evoss İmplant Nerenin Malı MarkasıEvoss İmplant, 2014 yılında kurulan Sc Medikal Ürünler San. ve Tic. Ltd. Şti. bünyesindeki diş implantları ve yedek parçaları markasıdır.Evoss İmplantları, kardeş şirket olan Umutsan Dişçilik ve El Aletleri San. Tic. Ltd. Şti. tesislerinde üretilmektedir.ISO 9001, ISO 13485 belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Plantoys",
+    "description": "Plantoys, 1981 yılında kurulan Plantoys Inc. bünyesinde üretilen kauçuk ağacı oyuncakları markasıdır.Koruyucusuz kauçuk ağacı ve formaldehit olmayan yapıştırıcıların yanı sıra geri dönüştürülebilir ambalajlar ve su bazlı mürekkepler kullanır.Plantoys Inc. Tayland merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": null
+  }
+]

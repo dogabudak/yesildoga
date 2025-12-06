@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Aleutia",
+    "description": "Aleutia, 2006 yılında Mike Rosenberg tarafından kurulan Aleutia Computers Ltd. özel bir bilgisayar üreticisidir. Ürün yelpazesi düşük güçte masaüstü ve sunucu bilgisayarlardan oluşur.Aleutia Computers Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "AMAX",
+    "description": "AMAX Engineering Corporation, 1979 yılında kurulan uygulama-özel bulut, veri merkezi, derin öğrenme, açık mimari platformlar, HPC ve OEM çözümleri konusunda uzmanlaşan özel bir teknoloji şirketidir.Ürünleri; sunucu aletleri, Yazılım tanımlı ağ, Doğrudan bağlı depolama, Ağa bağlı depolama.AMAX Engineering Corporation, Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hepsi Emlak",
+    "description": "Hepsi Emlak, 2006 yılında Doğan Şirketler Grubu Holding A.Ş. çatısı altında olan Glokal Dijital Hizmetler Paz. ve Tic. A.Ş. bünyesinde Hürriyet Emlak adıyla faaliyet gösterirken, 2021 yılında marka isim değişikliğine gidildi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-12-01"
+  },
+  {
+    "company": "SKS",
+    "description": "SKS, 1921 yılında Karl-Scheffer Klute tarafından kurulan SKS metaplast Scheffer-Klute GmbH bünyesindeki; pompa, çanta, alyan anahtarı, çamurluk, matara, matara tutucu ve birçok bisiklet aksesuarı markasıdır.KS metaplast Scheffer-Klute GmbH Almanya merkezli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Adese",
+    "description": "Adese, 1991 yılında İttifak Holding bünyesindeki gayrimenkul markasıdır.2021 yılında market zincirini devrederek sektörden çıktı.Gayrimenkul alanında hizmet veriyor. Adese Gayrimenkul’ün yüzde 89,84’ü halka açık durumda.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-06-10"
+  }
+]

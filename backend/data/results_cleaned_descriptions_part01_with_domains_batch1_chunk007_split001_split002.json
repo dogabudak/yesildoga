@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Baseus Ülke",
+    "description": "Baseus, 2009 yılında Bay He Shiyou tarafından kurulan Shenzhen Shishang Chuangzhan Technologies Co. Ltd. şirketi bünyesindeki dijital aksesuar markasıdır.Çinli firma; cep telefonu kılıfı, araç tutucusu, araç şarj cihazı, veri kablosu, şarj cihazı, powerbank taşınabilir şarj aleti, hoparlör ve kulaklık gibi aksesuarlar üretmektedir.Shenzhen Shishang Chuangzhan Technologies Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-10-22"
+  },
+  {
+    "company": "UC-Logic",
+    "description": "UC-Logic Hangi Ülkenin MalıUC-Logic, 1996 yılında kurulan UC Logic Technology Corp. bünyesindeki çizim tabletleri, sketchpads, el yazısı giriş cihazları, kalem tabletler, tablet klavyeler markasıdır.UC-Logic, son yıllarda dijital çizim tabletleri ve kalem giriş teknolojisine odaklanmıştır. 50’den fazla patent ile ve üçüncü taraf işletmeler için birçok ürün üretti. 2015 yılında UC-Logic ailesi altında Artisul adıyla ilk kalem tablet markasını oluşturdu.UC Logic Technology Corp. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2020-04-13"
+  },
+  {
+    "company": "Ofis Gıda Ülke",
+    "description": "Ofis Gıda, 1993 yılında kurulan Berbak Gıda bünyesindeki pirinç ve bakliyat markasıdır.Berbak Gıda, Ofis markalı pirinç ve bakliyat ürünleri Türkiye üretimlerinden oluşmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yunus",
+    "description": "Yunus, 1983 yılında Durukan Gıda adıyla kurulan günümüzde Agro Gıda Sanayi ve Nakliyat A.Ş. bünyesinde bulunan bir markadır.Çevreye zararlı olan hiçbir atık üretmeyen Türkiye’deki tesislerinde üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-04-23"
+  },
+  {
+    "company": "Uber",
+    "description": "Uber, 2009 yılında Amerikalı İşadamı Travis Cordell Kalanick ve Garrett Camp tarafından kurulan, noktadan noktaya sürüş, taksi, gıda teslimi, elektrikli bisiklet paylaşımı ve ulaştırma ağı şirketidir.Amerikan şirketi Uber; mobil uygulaması geliştirir, pazarlar ve işletir. Platformlarına Web siteleri ve mobil uygulamaları üzerinden ulaşılabilir.Türkiye’ye gelen turistlerin çoğu Uber kullanıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

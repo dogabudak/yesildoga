@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Nsr Paper",
+    "description": "Nsr Paper, 1963 yılında kurulan Şahinler Mukavva ve Kağıt Ürünleri San. Tic. A.Ş. bünyesindeki geri dönüştürülmüş kağıtlar, fotokopi kağıtları markasıdır.Firma İstanbul merkezlidir. Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Toptul",
+    "description": "Toptul, 1981 yılında kurulan Rotar Machinery Industrial Co. Ltd. bünyesinde üretilen çok çeşitli el aletleri, takımlar, takım setleri markasıdır.ISO 9002 belgesine sahiptir.Rotar Machinery Industrial Co. Ltd. Tayvan merkezlidir. Ürünlerini Tayvan’da bulunan toplam 31 bin 500 metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Usag",
+    "description": "Usag, 1926 yılında kurulan Usag Utensilerie S.P.A. bünyesinde üretilen el aletleri, pens, keski, yankeski, özel çekiçler, marangoz çekici, balyoz, tokmak, kargaburun, kurbağacık anahtarı, emniyet pensi, tornavidalar, takım muhafaza kapları, mekanikçi çekiçleri, pergel, ahşap saplı tornavida, mafsal lokma anahtar, rekor anahtarı, bits uçlar markasıdır.Usag Utensilerie S.P.A. 2010 yılında Amerika merkezli Stanley Black & Decker Inc.’in bir parçası olan Stanley Black & Decker Italia Srl tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "ITC Profesyonel Ses",
+    "description": "ITC, 1993 yılında kurulan Guangzhou Baolun Electronic Co. Ltd. bünyesinde üretilen görsel-işitsel ve aydınlatma ürünleri markasıdır.Guangzhou Baolun Electronic Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Adama",
+    "description": "Adama, 1945 yılında kurulan Adama Agan Ltd. bünyesinde üretilen bitki koruma kimyasalları markasıdır.Yabani otlar, böcekler ve hastalıklarla mücadele için çözümler üreten şirket, herbisitler, akarsitler ve bitki büyüme düzenleyicileri gibi ürünlerin yanı sıra özel aroma kimyasalları sunmaktadır.Adama Agan Ltd. 2020 yılında Çin merkezli China National Chemical Corporation bünyesindeki Syngenta AG tarafından satın alınmıştır.Bünyesindeki markalar;AdamaAfalonAgilArrodim SüperBelvedere ForteBrevısBromotrilCamınadorCazadoCinderClodinaganCloudColtraneCottonexDavaiDaybreakEdaptisFeinzinFirstpointFuegoGaliganGlyphoganGoltixHacedorHekotrilHighcardKarmexLegacyLegatoLennsLinurexMadurezMerkavaNıkıtaPendiganPostscriptPyxıdesRacerSaltusSonavioSunbrightTrek-PTriflurexTriflurex-LWiperZoomer",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2024-10-11"
+  }
+]

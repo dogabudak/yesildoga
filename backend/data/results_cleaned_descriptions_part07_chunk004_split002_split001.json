@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Argiles Bisbal",
+    "description": "Argiles Bisbal, 1998 yılında kurulmuş olan Argiles Bisbal S.L. bünyesindeki sanatsal, geleneksel ve endüstriyel kullanım için çömlekçilik kili markasıdır.Argiles Bisbal S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Vigor Makas",
+    "description": "Vigor, 1996 yılında kurulmuş olan Kısmet Lüks Hırdavat Kırtasiye Kozmetik Proteknik Ürünler San. Tic. Ltd. Şti. bünyesinde ithal edilen asma kilit, elektrik bandı, makas, tırnak makası markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ArsenalBella HouseDark KeyFcsy Fly Catcher Sinek YapışkanıFixpointFp.FixpointGalaxyHair Eagle’sHenna HappyHenna LavidaHenna ValsK SmartKaiboKlh Eagle’sKlh Smart BatteryKlh SmartlampKlh SoftledKs Rio BatteryKsmartLa’VidaNew LavidaRio BatteryRio Heavy DutyRio PowerSmart Eagle’sSmart SportSmartcellSoftlampSoftledStarcellStarlampStartrapThorTripodVigor",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Allen&Heath",
+    "description": "Allen&Heath, 1969 yılında kurulan Allen & Heath Ltd. bünyesindeki ses karıştırma konsolları markasıdır.Konserler, tiyatrolar ve ibadethaneler gibi canlı ses için ses miks konsolları tasarlar ve üretir.Allen & Heath Ltd. 2013 yılında İngiltere merkezli Electra Private Equity PLC tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Dahlih",
+    "description": "Dahlih, 1960 yılında kurulmuş olan Dahlih Machinery Industry Co. Ltd. bünyesinde üretilen cnc yatay, dikey, köprü tipi, multitask işleme merkezi takım tezgahı markasıdır.ISO 9001 ve CE belgelerine sahiptir.Dahlih Machinery Industry Co. Ltd. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Caveo",
+    "description": "Caveo, 1977 yılında kurulmuş olan EKA Transformatör Elektrik İnş. Turz. İth. İhr. Ltd. Şti. bünyesinde üretilen elektrik malzemeleri markasıdır.ISO 9001 ve CE belgelerine sahiptir.Firma Ankara merkezlidir. Ürünlerini 4 bin metrekarelik alana sahip fabrikasında üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

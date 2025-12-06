@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Zoya",
+    "description": "Zoya, 1986 yılında Zoya ve Michael Reyzis tarafından kurulan Art of Beauty Inc. bünyesindeki oje, el ve tırnak bakım ürünleri markasıdır.Tolüen, formaldehit ve dibutil ftalat gibi toksik maddeden arınmış içeriklerle üretilmektedir.Art of Beauty Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bottega Giotti",
+    "description": "Bottega Giotti, 1950 yılında kurulan Bottega Giotti SRL bünyesindeki kadın ve erkekler için el yapımı deri çanta, aksesuar, cüzdan, kemer, deri palto ve ceket markasıdır.Bottega Giotti SRL İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Alden Shoe",
+    "description": "Alden Shoe, 1884 yılında Charles H. Alden tarafından kurulan Alden Shoe Company bünyesinde üretilen ayakkabı markasıdır.El dikişli deri ayakkabılar üretmektedir.Alden Shoe Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Flexform",
+    "description": "Flexform, 1959 yılında kurulan Flexofrm Spa bünyesindeki kanepe, seksiyonel kanepe, koltuk, masa ve sandalye, sedir ve tamamlayıcı ürünler markasıdır.Flexofrm Spa İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Maton",
+    "description": "Maton, 1946 yılında Bill ve Reg May tarafından kurulan Maton Musical Instruments Company bünyesindeki elektrikli ve akustik gitarlar, ukuleleler ve gitar manyetikleri markasıdır.Maton Musical Instruments Company Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  }
+]

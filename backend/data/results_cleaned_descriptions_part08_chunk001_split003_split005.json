@@ -1,0 +1,47 @@
+[
+  {
+    "company": "FHBS Laser",
+    "description": "FHBS Laser, 2004 yılında kurulmuş olan Foshan Huibaisheng Laser Technology Co. Ltd. bünyesinde üretilen fiber lazer kesim makinesi, kaynak makinesi, temizleme makinesi markasıdır.Foshan Huibaisheng Laser Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Demircizade",
+    "description": "Demircizade, 2015 yılında kurulmuş olan Demircizade Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen fındık, fındık ezmesi, krokant, pirinç fındık markasıdır.Firma Giresun merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Göksen Helva",
+    "description": "Göksen Helva Nerenin Malı MarkasıGöksen, 1955 yılında kurulmuş olan Değirmenci Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen helva, reçel, tahin, pekmez ve kakaolu fındık kreması markasıdır.Firma Gaziantep merkezlidir. Ürünlerini 10 bin metrekarelik alanda bulunan 8 bin 500 metrekarelik kapalı alana sahip tesislerinde üretmektedir ve 23 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Berkiz Kuruyemiş",
+    "description": "Berkiz Kuruyemiş, 2010 yılında Muammer Çaputçu tarafından kurulmuş olan Berkiz Gıda San. ve Tic. Ltd. Şti. bünyesindeki leblebi, antepfıstığı, badem, fındık, yerfıstığı, kabakçekirdeği, ayçekirdeği, soslu mısır, kaju ceviz, ceviz markasıdır.BRC, Koşer ve Helal belgelerine sahiptir.Firma Denizli merkezlidir. Ürünlerini Denizli OSB’de 5 bin 300 metrekarelik alanda bulunan 2 bin 100 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [
+      "BRC",
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Monari Giyim",
+    "description": "Monari, 1986 yılında kurulmuş olan Monari Gmbh bünyesindeki kadın giyim ürünleri perakende markasıdır.Şirket, üst, elbise, etek, gömlek, kot pantolon, hırka ve ceketlerin yanı sıra diğer aksesuarları da sunmaktadır.Monari Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

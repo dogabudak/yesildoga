@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Oticon",
+    "description": "Oticon, 1904 yılında Hans Demant tarafından kurulan işitme cihazları markasıdır.Dünya genelinde 100’den fazla ülkede işitme çözümleri sunuyor ve ürünleri, 24 ülkedeki satış ofisleri ile dünya çapında 80 bağımsız dağıtıcısı tarafından satılıyor.Oticon, Amerika merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Hattat Traktör",
+    "description": "Hattat Traktör, 1998 yılında Hattat Grubu tarafından kurulan Hattat Traktör San. ve Tic. A.Ş. bünyesinde üretilen traktör, şanzıman, diferansiyel, arka aks, 4WD ön aks, hidrolik kaldırıcı komple ünitesi, hidrolik pompa, hidrolik valfler, hidrolik fren merkez silindiri ve diğer tüm hidrolik donanımlar markasıdır.Tekirdağ merkezli firma ürünlerini Çerkezköy tesislerinde üretme ve 80’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-08-11"
+  },
+  {
+    "company": "Ziehl Abegg",
+    "description": "Ziehl Abegg, 1910 yılında Emil Ziehl tarafından kurulan Ziehl-Abegg Automotive GmbH & Co. KG bünyesinde üretilen fanlar ve sürücüler markasıdır.16 üretim tesisi, 29 bağlı şirket, 111 satış merkezine sahiptir.Ziehl-Abegg Automotive GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-10-29"
+  },
+  {
+    "company": "Hiremco",
+    "description": "Hiremco, 1972 yılında kurulan Merih Video İşletmeleri Ltd. Şti. bünyesindeki ortak anten sistemleri, CCTV Sistemleri, tuşlu telefon, Video stüdyoları, uydu anten (60-700 cm), Analog ve Dijital Uydu alıcıları, LNB, DISEQC, bilgisayarlar için RAM, Ethernet Kartı, Cep Telefonu ve UPS ürünleri markasıdır. Firma, her türlü elektronik cihazı üretilebiliyor, montaj ve testlerini yapabiliyor.Merih Video fabrikası İstanbul, Ömerli’de bulunmaktadır ve Türkiye’nin 1 numaralı OEM Dijital uydu alıcısı üreticisidir. Yurtiçi ve yurtdışında (Güney Kore, Çin, Amerika, Kanada, Almanya, Hollanda ve İsviçre gibi) çok sayıda ortağa sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Radisson Hotels",
+    "description": "Radisson Hotels, 1909 yılında kurulan Radisson Hotel Group bünyesindeki oteller zinciridir.Radisson Hotel Group, 8 farklı otel markasının bünyesinde bulunduğu dünyanın en büyük otel gruplarından biridir.Radisson Hotel Group 2016 yılında Çin merkezli HNA Group tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

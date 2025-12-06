@@ -1,0 +1,44 @@
+[
+  {
+    "company": "GOME Electrical Appliances",
+    "description": "GOME Electrical Appliances, 1987 yılında Wong Kwong Yu tarafından kurulan Gome Electrical Appliances Holding bünyesinde üretilen elektrikli ev aletleri markasıdır.Gome Electrical Appliances Holding Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Carl Bennet",
+    "description": "Carl Bennet, 1989 yılında Carl Bennet tarafından kurulan Carl Bennet AB iştirakleri aracılığıyla medikal teknoloji, sanayi ve ticaret, baskı ve paketleme, e-ticaret, bilgi teknolojisi ve ormancılık sektörlerinde faaliyet göstermektedir.Carl Bennet AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Sport 2000",
+    "description": "Sport 2000, 1966 yılında kurulan Sport 2000 SAS bünyesindeki spor malzemeleri, giyim ve aksesuar markasıdır.Firmanın Avrupa ve Güney Amerika’da mağazaları vardır. Tenis, golf, kayak, futbol, basketbol, vb. farklı spor alanlarında üretim veya ithalat yapmaktadır.Sport 2000 SAS Fransa merkezlidir.Bünyesindeki markalar:Sport 2000SDM",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Arrival",
+    "description": "Arrival, 2015 yılında Denis Sverdlov tarafından kurulan Arrival Ltd. bünyesindeki elektrikli araçlar markasıdır.Firma virüs salgınına karşı tasarlanan yeni bir yolcu otobüsü ürettiğini açıkladı.Arrival Ltd. İngiltere bir teknoloji şirketidir.Firmanın İngiltere dışında Amerika, Almanya, İsrail, Rusya ve Hollanda’da şubeleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Caparo Vehicle Technologies",
+    "description": "Caparo Vehicle Technologies, 1968 yılında Lord Swraj Paul tarafından kurulan Caparo plc bünyesindeki spor otomobili markasıdır.Caparo Vehicle Technologies otomotiv, motor sporları ve havacılık pazarlarına ileri teknoloji geliştirme, malzeme mühendisliği ve tasarım hizmetleri sağlayan bir İngiliz şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

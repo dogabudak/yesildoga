@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Infineon",
+    "description": "Infineon Technologies, 1999 yılında kurulan Infineon Technologies AG bünyesindeki Mikrodenetleyicileri, iletişim ICS, güç elektroniği, ESD koruma diyotları markasıdır.Infineon Technologies AG Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tatonka",
+    "description": "Tatonka, 2009 yılında Tatonka Gmbh Qualitatsausrüstung Für Freizeitaktive bünyesinde kurulan çanta, çadır, ayakkabı markasıdır.Tatonka Gmbh Qualitatsausrüstung Für Freizeitaktive Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Q&Q",
+    "description": "Q&Q, 1976 yılında kurulan Citizen Watch Co. Ltd. bünyesindeki saat markasıdır.Saat dışında hesap makinesi, yazıcı, seramik parçalar, akıcı kristal ve hareket sensörleri üretmektedir.Citizen Watch Co. Ltd. Japonya merkezlidir.Ürünlerini 120’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2022-03-02"
+  },
+  {
+    "company": "Bisse",
+    "description": "Bisse, 1976 yılında kurulan Bisse Tekstil Ürünleri Sanayi ve Ticaret Limited Şirketi bünyesindeki giyim, elbise, ceket, pantolon, tişört, triko, mont, kaban, pardösü ve ayakkabı markasıdır. Ürünlerini İstanbul’daki fabrikasında üretmektedir. Bisse’nin sahibi Mustafa Kefeli’dir.1995 yılında George W. Bush’un desteği ile Amerika’da Bisse’nin mağazası açıldı.2000 yılında Bisse için Sakıp Sabancı reklam filmlerinde oynadı.2010 yılında Belçika’nın Brüksel şehrinde mağaza açtı.2019 yılında ise yeni alt markası Bisse Sport Line piyasaya sunuldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flint Ülke",
+    "description": "Flint, 2004 yılında dört grubun birleşmesiyle kurulan Flint Ink Corporation bünyesinde kurulan baskı mürekkepleri, dijital baskı presler, battaniyeler, basın odası kimyası, Flekso plakaları, sarf malzemeleri ve renklendiriciler markasıdır.Flint Group Lüksemburg merkezlidir ve 40 ülkede ürünleri satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  }
+]

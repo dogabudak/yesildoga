@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sofitel",
+    "description": "Sofitel, 1964 yılında kurulan Sofitel Hotels & Resorts bünyesindeki lüks oteller markasıdır.Sofitel Hotels & Resorts, 1980 yılından beri Fransa merkezli Accor S.A.’ya aittir.Bünyesindeki markalar:25 HoursAdagioAngsanaArt SeriesBanyan Tree Hôtels and ResortsBreakfreeDelanoFRHIGrand MercurehotelF1Hydeibisibis Stylesibis budgetJo&JoeMama ShelterMantisMantraMercureMGalleryMondrianMövenpickNovotelonefinestayOrient ExpressPeppersPullmanRafflesRixosSLSSO/SofitelSofitel LegendSwissôtelThe House of OriginalsThe SebelTribe",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Elle & Vire",
+    "description": "Elle & Vire, 1945 yılında kurulan Savencia Group bünyesindeki gıda ürünleri markasıdır.Krem, tereyağı, hazır soslar, peynir ve yoğurt gibi ürünler üretmektedir. Dünya çapında 120’den fazla ülkede ürün farklılaşması, ürün yeniliği veya ambalajlama ve uluslararası gelişme yoluyla bir değerlendirme stratejisi uygular.Savencia Group Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Lewitt",
+    "description": "Lewitt, 2008 yılında kurulan Lewitt Gmbh bünyesindeki kayıt ve canlı performans için profesyonel mikrofonlar markasıdır.Dünyanın dört bir yanındaki ses profesyonelleriyle yakın temasları sayesinde, mikrofon gönderilmeden önce test edilebilir ve geliştirilebilir.Lewitt Gmbh Avusturya merkezlidir ve ürünlerini Avusturya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Nanacoco",
+    "description": "Nanacoco, 2014 yılında kurulan Nanacoco Co. Limited bünyesindeki oje, dudak ürünleri, göz ürünleri, yüz rengi ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir ve hayvansal yan ürünler içermemektedir.Nanacoco Co. Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Rizline",
+    "description": "Rizline, 1992 yılında kurulan Elif Otomotiv İnşaat Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen 3D Bagaj Havuzu ve 3D Havuzlu oto paspas markasıdır.Kocaeli’de bulunan üretim tesisinde ürettiği ürünleri ihraç etmektedir. Firmanın ürün yelpazesinde oto aksesuar, oto müzik sistemleri, tuning, cam filmi, mugen cam rüzgarlığı gibi ürünler yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

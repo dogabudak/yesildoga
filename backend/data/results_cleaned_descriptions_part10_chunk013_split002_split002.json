@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Aecothick",
+    "description": "2003 yılında kurulmuş olan Ae Chemie Inc. bünyesinde üretilen doğal bir kıvamlaştırıcı, emülsiyonlaştırıcı ve stabilizatör markasıdır.Ae Chemie Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Automatex",
+    "description": "Automatex Inc. bünyesindeki kesme, dikiş, katlama, çok işletme üretim hatları gibi tekstil üretimi için otomatik makineler markasıdır.Automatex Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Heusch",
+    "description": "1850 yılında Severin Heusch tarafından kurulmuş olan Heusch GmbH & Co. KG bünyesinde üretilen tekstil, deri ve kürk endüstrisi için bıçaklar markasıdır.Heusch GmbH & Co. KG Almanya merkezlidir ve ürünleri 50’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nwow",
+    "description": "2013 yılında kurulmuş olan Nwow Technology Co. Ltd. bünyesinde üretilen elektrikli araçlar markasıdır.Nwow Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Oskar",
+    "description": "2000 yılında kurulmuş olan İstanbul Kilit San. ve Tic. A.Ş. bünyesinde üretilen endüstriyel kilit, menteşe ve aksesuarlar markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

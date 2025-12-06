@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Zoovital",
+    "description": "Zoovital, 2018 yılında kurulan Zoovital Veteriner Ürünleri İthalat İhracat San. Tic. Ltd. Şti. bünyesindeki evcil hayvanlar için vitaminler ve mamalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hiposan",
+    "description": "Hiposan, 2006 yılında kurulmuş olan Hiposan Petrol Gıda Hidrolik Makina San. ve Tic. Ltd. Şti. bünyesindeki hidrolik damper pompaları, pto, valfler, ara bağlantı ekipmanları, flanşlar, adaptörler, damper düğmeleri, soketler ve kardan milleri markasıdır.ISO 9001 belgesine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Armelit Hijyen",
+    "description": "Armelit, 1977 yılında kurulmuş olan Sınai Kimya Kimyevi Maddeler San. ve Tic. A.Ş. bünyesindeki haşere kontrolü, kovucu, biyosit, böcek yokedici, ev ve kişisel hijyen ve profesyonel hijyen markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "YKK",
+    "description": "YKK, 1934 yılında kurulmuş olan YKK Corporation bünyesindeki fermuarlar, kanca ve halka bağlantı elemanları, plastik tokalar ve kavramlar, dokuma ve çıtçıtlar ve düğmeler gibi sabitleme ürünleri markasıdır.YKK Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Fritel",
+    "description": "Fritel, 1997 yılında kurulmuş olan Van Ratingen NV bünyesindeki fritöz, waffle makinesi, fondü, ızgara, blender, kıyıcı, narenciye presi, elektrikli bıçak, ekmek yapma makinesi markasıdır.Van Ratingen NV Belçika merkezlidir.Bünyesindeki markalar;FritelMulch",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "DryTürk",
+    "description": "DryTürk, 1984 yılında Ruşen Makine San. Tic. Ltd. Şti. bünyesinde kurulan kuru temizleme markasıdır.Türkiye’nin ilk ve tek yerli kuru temizleme makineleri üreticisidir.Ürünlerini bin 400 metrekarelik alanda üretmektedir. ISO9000, ISO14000 ve CE sertifikalarına sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO14000",
+      "ISO9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Playland",
+    "description": "Playland, 1992 yılında kurulan Playland Oyuncak San. ve Tic. A.Ş. bünyesindeki oyuncak ve oyun araçları markasıdır.Playland, markalı ve lisanslı ithal ürünlerle birlikte kendi ürünlerini de, marka ve endüstriyel tasarım yetki belgesiyle üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İlhan Esen",
+    "description": "İlhan Esen, 1974 yılında kurulan İlhan Esen Ayakkabı Deri ve Deri Mamülleri Tic. San. Ltd. Şti. bünyesindeki bayan ayakkabı markasıdır.Bir aile şirketi olan İlhan Esen tarafından imal edilen bütün ayakkabılar gerçek deriden el işçiliğiyle üretilmektedir.Ürünlerinin büyük bir kısmı Avrupa, Amerika, BAE, Kuzey Afrika ve Kanada’ya ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ali Raif İlaç Sanayi",
+    "description": "Ali Raif İlaç Sanayi A.Ş. (Aris), 1963 yılından beri ilaç sanayinde faaliyet göstermektedir.Türkiye genelindeki 10 bölge ofisi, İkitelli OSB’deki modern üretim tesisleri ile faaliyetlerini sürdürmektedir.Özbekistan, Gürcistan, Azerbaycan ve Moldova gibi ülkelere ürünlerini ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-12-07"
+  },
+  {
+    "company": "Stroline",
+    "description": "Stroline, 2005 yılında kurulan Özkar İnşaatçılık A.Ş. bünyesindeki Yapı Kimyasalları ve Boya markasıdır.Oluklu çatı malzemeleri ısı yalıtımı için eps strafor, dış cephe ve iç cephe süsleme ürünleri, yapı kimyasalları ve iç, dış cephe, tavan boyası ve astar ürünleri üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Secom",
+    "description": "Secom, 1989 yılında kurulan Secom Iluminacion S.L. bünyesinde üretilen aydınlatma sistemleri markasıdır.Şirket, farklı tipte armatürler ve ışık kaynakları ile LED teknolojisine odaklamaktadır.Secom Iluminacion S.L. İspanya merkezlidir ve ürünlerini İspanya’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Eufy",
+    "description": "Eufy, 2011 yılında Steven Yang tarafından kurulan Anker Innovations bünyesinde üretilen akıllı ev cihazları, Lazer güdümlü robotik elektrikli süpürgeler markasıdır.Şirket, çok sayıda markasıyla telefon şarj cihazları, güç bankası, kulaklık, hoparlörler, şarj kabloları, ekran koruyucu ve diğer bilgisayar ve mobil çevre birimleri üretmektedir.Eufy, Çinli Anker Innovations bünyesindeki akıllı ev tüketici elektroniği markalarındandır. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Xcen",
+    "description": "Xcen, 2006 yılında Varnamo Belysning AB’nin bir kolu olarak kurulan Xcen AB bünyesinde üretilen kamusal ortamlar için armatürler ve iç aydınlatma markasıdır.Özellikle, iç mekanın LED aydınlatması ile ortak alanların tavanlarındaki aydınlatma armatürlerine odaklanmaktadır.Varnamo Belysning AB İsveç merkezlidir ve ürünlerini İsveç’te bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Yabano",
+    "description": "Yabano, Yabano Technology Corp. Ltd. bünyesinde üretilen mutfak aletleri markasıdır.Ürün yelpazesi kahve makinesi, el blenderi, sandviç makinesi, tost makinesi, su ısıtıcısı ve diğer aletler yer almaktadır.Yabano Technology Corp. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Power-Xtra",
+    "description": "Power-Xtra, 2011 yılında kurulan Birikim Pilleri Batarya San. ve Tic. Ltd. Şti. tarafından ithal edilen pil, batarya ve akü markasıdır.Lityum pil, şarj edilebilir pil, elektrikli bisiklet aküsü, işitme cihaz pili, nikel kadmiyum, nikel metal hidrit, lityum iyon ve lityum polimer kimyalarında bir ürün yelpazesine sahiptir.Ürünlerini Çin’den ithal etmektedir.Bünyesindeki markalar;Birikim PilleriBpm Battery SolutionsEco-XtraPilburadaPower-XtraSafe-Xtra",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

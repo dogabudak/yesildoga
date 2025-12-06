@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Porima",
+    "description": "2018 yılında kurulmuş olan Porima Polimer Teknolojileri A.Ş. bünyesindeki filamentler, 3d yazıcılar, aksesuarlar markasıdır.Firma Yalova merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "EnYakıt",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Riversong",
+    "description": "2015 yılında kurulmuş olan Riversong Technology Co. Ltd. bünyesinde üretilen akıllı saatler, ses cihazları, şarj aksesuarları ve akıllı TV’ler markasıdır.Riversong Technology Co. Ltd. Hong Kong merkezlidir. Ürünlerini 60’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Scosche",
+    "description": "1980 yılında kurulmuş olan Scosche Industries Inc. bünyesindeki tüketici elektronik aksesuarları, araç ses aksesuarları, tüketici teknolojisi aksesuarları, mobil cihaz aksesuarları, cep telefonu aksesuarları ve tablet aksesuarları markasıdır.Scosche Industries Inc. Amerika merkezlidir ve ürünleri 50’den fazla ülkeye pazarlanmaktadır..Bünyesindeki markalar;Accessories for LifeBaseLynxBoomBarsBoomBottleBoomCanDriven By SoundEFXEFX & DesignFlyTunesHD & DesignHDGripMagicGripMagicMountMagicMount BaseMagicMount FrescheMagicPlateMagicRingOptimized for OutdoorsRhythm SyncRhythm+Rhythm24S DesignScoscheScosche PowerUpScosche RhythmScosche Rhythm+Scosche Rhythm24StrikeLineThe Necessary AccessoryThudBudsWhere Do You Take Your Music?",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Raşitoğlu",
+    "description": "",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 15593",
+      "ISO 22000",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

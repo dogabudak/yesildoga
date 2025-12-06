@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Koseco",
+    "description": "Koseco, 1951 yılında kurulan Koseco Co.,Ltd. bünyesindeki mouse pad telefon, eller serbest kiti, kulaklık, pil şarj cihazı, ses kabloları için çoklu konektör markasıdır.Koseco Co.,Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Cerwin Vega",
+    "description": "Cerwin Vega, 1894 yılında Orville Gibson tarafından kurulan Gibson Brands, Inc. bünyesindeki hoparlör, amfi, mixer, ev ve profesyonel ses sistemleri ve müzik aletleri markasıdır.Gibson tasarımları ES-175, ES-335, Flying V, Explorer, Firebird, SGs ve Les Paul modelleri elektrik gitar ve L-00, J-45 ve Akustik SJ-200 modellerine sahiptir.Gibson Brands, Inc. Amerika merkezlidir.Bünyesindeki markalar;BaldwinCakewalkCerwin-VegaChickeringDobroEpiphoneHamiltonKRK SystemsKramerMaestroSlingerlandStantonSteinbergerTASCAMTEACTobiasValley ArtsWurlitzer",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Moulinex",
+    "description": "Moulinex, 1857 yılında kurulan SEB SA bünyesinde üretilen küçük elektrikli ev aletleri markasıdır.Moulinex, 2001 yılında iflas kararı aldıktan sonra Groupe SEB tarafından satın alındı.Fransa şirketi Groupe SEB, ürünlerini Fransa ve Çin’de bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Pilippo",
+    "description": "Pilippo, 2003 yılında kurulan EMA Elektronik San. ve Tic. Ltd. Şti. bünyesindeki araç içi ses ve görüntü sistemleri ile elektronik ev aletleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gardenjoy",
+    "description": "Gardenjoy, 1989 yılında kurulan Sbm Silkar Bahçe Malzemeleri A.Ş. bünyesindeki motorlu testere, tırpan, sırt atomizörleri, pülverizatörler, motopomp, çim biçme traktörleri, elektrikli tirpan, havalandırma, çit budama öğütme makineleri markasıdır.Ürünlerini Çin’den ithal etmektedir.Sbm Silkar Bahçe Malzemeleri A.Ş. Silkar Holding’e bağlı bir kuruluştur. Silkar Holding A.Ş., zirai ve endüstriyel ekipman, otomotiv yedek parça, doğal granit ve mermer, su ve kanalizasyon pompaları, turistik otel ve tatil köyleri inşaatı ve işletmesi ile turizm ve sigorta acentalığı gibi geniş bir yelpazede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

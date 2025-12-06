@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kerasus Armatür",
+    "description": "Kerasus Armatür Nerenin Malı MarkasıKerasus, 1982 yılında kurulan Keremoğlu Su Armatürleri San. ve Tic. Ltd. Şti. bünyesinde üretilen su armatürleri ve yedek parçaları markasıdır.TSE belgelerine sahiptir.İstanbul merkezli firma ürünlerini 15 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cambu",
+    "description": "Cambu, 2009 yılında kurulan Ckc Cam San. ve Tic. Ltd. Şti. bünyesinde üretilen borosilikat cam ürünleri, züccaciye, mutfak araç gereçleri, ev gereçleri markasıdır.İstanbul merkezli firma ürünlerini İstanbul’da bulunan fabrikasında üretmektedir.Bünyesindeki markalar;CambuCkc CamMy BottleVoss",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Exep",
+    "description": "Exep, 1992 yılında kurulan Motorfan Elektrik San. ve Tic. Ltd. Şti. bünyesinde üretilen ankastre setleri, aspiratör markasıdır.Firma İstanbul merkezlidir. Ürünlerini 45 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "KSB Itur",
+    "description": "KSB Itur, 1999 yılında kurulan Ksb Itur S.A. bünyesinde üretilen pompa ve kompresör markasıdır.Soğutma suyu, tuzlu su, sintine suyu ve balast suyu, yangından korunma ve iklimlendirme gibi farklı uygulamalara uygun geniş bir pompa yelpazesine sahiptir.Ksb Itur Spain S.A. İspanya merkezlidir. Şu anda toplam 33 üretim tesisi işletmekte ve 100’den fazla ülkede iştirakleri ve temsilcileri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Celebre",
+    "description": "Celebre, 1995 yılında kurulan Elif Kozmetik Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen ıslak mendil, köpek temizleme mendili markasıdır.ISO 9001, ISO 14001, ISO 22716, ISO 45001 belgelerine sahiptir.İzmir merkezli firma ürünlerini 6 bin 600 metrekarelik kapalı alanda üretmekte ve 67 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

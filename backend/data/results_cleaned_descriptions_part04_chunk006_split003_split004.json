@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Park Tool",
+    "description": "Park Tool, 1963 yılında Howard C. Hawkins ve Art Engstrom tarafından kurulan Park Tool Company bünyesinde üretilen bisiklet araçları ve parçaları ile el aletleri markasıdır.Ürünleri genellikle tasarımlarına mavi renk ekler.Park Tool Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sailorpen",
+    "description": "Sailorpen, 1911 yılında Kyugora Sakata tarafından kurulan The Sailor Pen Company bünyesinde üretilen dolmakalem, tükenmez kalem, dolmakalem mürekkebi markasıdır.The Sailor Pen Company Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Parker Pen",
+    "description": "Parker Pen, 1888 yılında George Safford Parker tarafından kurulan Parker Pen Inc. bünyesindeki lüks kalem markasıdır.Ayrıca mürekkep ve kartuş gibi aksesuarlar da mevcuttur.Parker Pen Inc., 2000 yılında Amerika merkezli Newell Brands Inc. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-01-27"
+  },
+  {
+    "company": "Aurora",
+    "description": "Aurora, 1919 yılında Isaia Levi tarafından kurulan Aurora Srl bünyesinde üretilen yazı araçları, dolmak kalem, kağıt ve deri ürünleri markasıdır.Ürünlerini 50’den fazla ülkeye pazarlamaktadır.Aurora Srl İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Forever Living Products",
+    "description": "Forever Living Products, 1978 yılında Carl Jensen ve Rex Maughan tarafından kurulan Forever Living Products International, Inc. bünyesinde üretilen aloe vera ve arı bazlı ürünler, kozmetikler, diyet takviyeleri ve kişisel bakım ürünleri markasıdır.Forever Living Products International, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-07-29"
+  }
+]

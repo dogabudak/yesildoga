@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Arjowiggins Creative Papers",
+    "description": "Arjowiggins Creative Papers, 2001 yılında Sequana Capital Group iştiraki kağıt, ambalaj ve etiket markasıdır.Ürün yelpazesi, pürüzsüz ve dokulu beyazlardan metalik kaplamalara ve renkli tahtalara kadar yüzde 25 ila yüzde 100 oranında tüketici sonrası atıklar sunan yüzden fazla geri dönüştürülmüş seçenek sunar. Avrupa’da 28 fabrikası bulunmaktadır.Sequana Capital Group Fransa merkezli finans şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Performance Power",
+    "description": "Performance Power, Kingfisher International Products Limited bünyesindeki el aletleri ve elektrikli aletler markasıdır.Ürünlerini Çin’de ürettirmektedir.Avrupa’nın en büyük ev geliştirme perakendecisi Kingfisher International Products Limited İngiltere merkezlidir.Türkiye’de Performance Power ürünleri, Koçtaş Yapı Marketleri Tic. A.Ş. tarafından satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2021-03-24"
+  },
+  {
+    "company": "Tibaldi",
+    "description": "Tibaldi, 1916 yılında Giuseppe Tibaldi tarafından kurulan Tibaldi S.r.l. bünyesindeki yazı aletleri markasıdır.Tibaldi kalem koleksiyonları, sokak stili trendlerini moda ölçütleriyle harmanlayarak arşivlerden ikonik parçaların güçlü bir kısa listesini oluşturuyor.Tibaldi S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bally",
+    "description": "Bally, 1851 yılında kurulan Bally Schuhfabriken AG bünyesinde üretilen yapıştırıcı, boya, vernik, lak, ayak giysileri için temizleme ve cilalama maddeleri, ayakkabı ve deri işleme sanayii için makine ve takım tezgahları, madeni para veya fiş atılarak çalıştırılan otomatlar, süs eşyalar, kıymetli taşlar, saatler, çantalar, deri kılıflar, bavul ve seyahat çantaları, post ve köse, şemsiye, güneş şemsiyes ve baston, kamçı, koşum takımı ve eyer takımı, tuvalet malzemesi çantası, halat, sicim, ağ, çadır, tente, yelken, çuval, dolgu malzemeleri, bükülmüş elyaf, iplik, dokuma eşyası, yatak ve masa örtüsü ve diğer tekstil eşyalar, çizme ve bot, ayakkabı ve terlikler dahil giyim eşyaları, kemer, tabanlar, topuklar, ayakkabı içine sokulan parçalar, kama şeklinde küçük parçalar, ayakkabıların topuk kısmına konulan mafsallar ve diğer ayakkabı parçaları, danteller ve örgüler, şeritler, potin bağları, suni çiçekler markasıdır.Bally Schuhfabriken AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Make Up Factory",
+    "description": "Make Up Factory, 2005 yılında kurulan ICB innovative cosmetic brands GmbH bünyesindeki makyaj ürünleri markasıdır.Ürün yelpazesinde fondöten, kapatıcı, toz, kamuflaj, allık, bronzlaşma, göz farı, maskara, liner, göz kaşı, kirpik, göz makyaj temizleyici, dudak çubukları, dudak parlatıcısı, dudak astarı, dudak bakımı, sünger ve toz puflar, bileyiciler, fırçalar gibi ürünler yer almaktadır.ICB innovative cosmetic brands GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

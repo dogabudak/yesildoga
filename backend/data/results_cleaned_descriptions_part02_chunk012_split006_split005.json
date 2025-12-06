@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Micuna",
+    "description": "Micuna, 1971 yılında Francisco Garcia Moreno şirketinin vakfı tarafından kurulan Micuna S.L.U bünyesindeki çocuk mobilyası, karyola, küvet, mobilya, dekorasyon, tekstil markasıdır.Şirketin ana faaliyeti ahşap beşik üretimidir. Çocuklar için beşik ve mobilya üretiminde dördüncü Avrupa şirketidir.Micuna S.L.U İspanya merkezlidir.Bünyesindeki markalar:MICUNABABYMODELNUMMIESRETONO AZUL",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Estel",
+    "description": "Estel, 1937 yılında Alfredo Stella tarafından kurulan Estel Group S.R.L. bünyesindeki mobilya markasıdır.Ürün çeşitleri mutfaktan, yatak odasına, gardıroplara kadar geniş bir yelpazededir.ISO 9001, ISO 14001, OHSAS 18001, FSC, LEED belgelerine sahiptir.Estel Group S.R.L. İtalya merkezli bir şirkettir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Software Ülke",
+    "description": "Software, 1969 yılında Peter Schnell ve Peter Page tarafından kurulan Software AG Group bünyesindeki kurumsal yazılım şirketidir.Avrupa’nın yedinci büyük yazılım satıcısıdır.Software AG Group Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Magrabi Optical",
+    "description": "Magrabi Optical, 1927 yılında göz doktoru Dr. Amin El-Maghraby tarafından kurulan optik zinciridir.İlk Magrabi Optical mağazası 1981 yılında Suudi Arabistan’da açıldı. 2013 yılından beri Türkiye’de hizmet vermektedir.Magrabi Optical, Suudi Arabistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SA",
+    "updated_date": null
+  },
+  {
+    "company": "Mapa",
+    "description": "Mapa, 1969 yılında kurulan Mapa Giyim San. ve Tic. Ltd. Şti. bünyesindeki butik markasıdır.Kadınlar için ürünlerini global tedarikçilerle çalışarak, İstanbul atölyelerinde butik olarak üretiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

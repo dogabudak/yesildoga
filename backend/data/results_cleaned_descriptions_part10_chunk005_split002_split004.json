@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Gengigel",
+    "description": "IBF Next Gmbh bünyesinde üretilen jel, hidrojel, sprey ve sıvı ağız gargaraları, diş macunları markasıdır.IBF Next Gmbh İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Moony Baby",
+    "description": "1993 yılında kurulmuş olan Ayyıldız Bisiklet Gıda ve Tem. Ürn. Paz. Tic. ve San. Ltd. Şti. bünyesinde üretilen bebek arabası markasıdır.Firma Sinop merkezlidir. Ürünlerini Sinop OSB’de bulunan 5 bin metrekaresi kapalı 33 bin metrekaresi açık alana sahip tesisinde üretmektedir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Flexiva Havalandırma Sistemleri",
+    "description": "1998 yılında kurulmuş olan IŞIL Mühendislik A.Ş. bünyesinde üretilen esnek hava kanalları markasıdır.TS EN ISO 9001, TS EN 13180 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Pendik’te bulunan 12 bin metrekarelik kapalı alana sahip tesislerinde üretilmektedir ve 50’ye yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sismak",
+    "description": "1980 yılında kurulmuş olan Sismak Otomotiv San. ve Tic. A.Ş. bünyesinde üretilen direksiyon kutusu markasıdır.ISO TS 16949 ve ISO 9001 belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bonfes",
+    "description": "Bonfes Gıda San. ve Tic. A.Ş. bünyesinde üretilen dondurulmuş piliç döner markasıdır.Firma Antalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

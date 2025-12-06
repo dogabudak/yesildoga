@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ruggerini",
+    "description": "Ruggerini, 1933 yılında kurulan Ruggerini Motori S.p.a. bünyesindeki dizel motor markasıdır.1999 yılında Kohler Co. bünyesindeki Lombardini Group tarafından satın alındı.Kohler Co. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nsk Rulman",
+    "description": "Nsk, 1916 yılında Takehiko Yamaguchi ve Takahashi Korekiyo tarafından kurulan Nsk Ltd. bünyesinde üretilen rulman markasıdır.Şirket, endüstriyel makine rulmanları, hassas makine ve parçalar ve otomotiv rulmanları ve bileşenleri üretmektedir.Nsk Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Signal Messenger",
+    "description": "Signal Messenger, 2018 yılında Moxie Marlinspike ve Brian Acton tarafından kurulan Signal Messenger LLC. bünyesinde üretilen ücretsiz ve açık kaynaklı mobil yazılım markasıdır.Signal Messenger LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-11-30"
+  },
+  {
+    "company": "Asimato",
+    "description": "Asimato, 2012 yılında Yücelen Otomotiv İnş. Mak. San. ve Tic. Ltd. Şti. bünyesinde kurulan akülü çekici, forklift, garaj vinçleri, hareketli makaslı yük platformu, istif makinesi, kazıcı, personel yükseltici, sabitlenmiş makaslı yük platformu, transpalet, vinç, yük taşıma aracı, yükleyici paket ve varil taşıma arabaları, varil çevirme makinesi markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fukar",
+    "description": "Fukar, 1978 yılında kurulan Fukar Kollektif Şirketi bünyesinde üretilen hırdavat ürünleri ve yağlama araçları markasıdır.Gres pompası, metal takım çantası, el yağdanlığı, gres pompası ucu ve hortumu, itmeli gres ve ince yağ pompası, testere kolları ve takım arabası çeşitlerini 2 bin 500 metrekarelik alanda üretmektedir. Ürünlerinin yüzde 30’unu ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

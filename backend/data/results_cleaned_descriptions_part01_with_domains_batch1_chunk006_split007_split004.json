@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Garnier",
+    "description": "Garnier, 1904 yılında Alfred Amour Garnier tarafından oluşturulan cilt bakımı, saç boyası, güneş bakımı ve deodorant ürünlerini markasıdır.Garnier 1965 yılında Fransa merkezli kozmetik şirketi L’Oreal Gurubu tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2023-10-31"
+  },
+  {
+    "company": "Groupama Şirketi",
+    "description": "Groupama, 1986 yılında AMA Samda, SORAVIE ve SOREMA şirketlerinin birleşmesiyle kuruldu.Fransa merkezli sigorta ve emeklilik şirketidir.Türkiye pazarına Başak Sigorta, Başak Emeklilik, Güven Sigorta ve Güven Hayat şirketlerini satın alarak girmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2019-04-01"
+  },
+  {
+    "company": "Valspar",
+    "description": "Valspar, 1806 yılında Samuel Tuck, Lawson ve Henry Valentine tarafından kurulan boya ve boya kimyasalları markasıdır.Amerikan merkezli Valspar, dünyanın en büyük boya ve kaplama ürünleri üreticileri arasındadır.Türkiye’de Valspar Turkey Boya Sanayi AŞ. olarak faaliyet göstermektedir.Bünyesinde ki markalar:Barn and FenceCabot StainDe BeerDevine ColorHouse of KolorLICOctoralPlasti-KoteValsparValspar Industrial Mix",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wee Baby",
+    "description": "Wee Baby, 1986 yılında kurulan Burda Bebek Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen annelere özel ürünler, emzikler ve diş kaşıyıcıları, biberon, bakım ürünleri ve aksesuarları markasıdır.TSE, ISO 9001, Sedex ve BRC HCP belgelerine sahiptir.Türkiye’de yerli olarak ürettiği ürünleriyle bebek ve annelerin ihtiyaçlarını karşılayan bir Türk markasıdır.Ürünleri Avrupa ve Amerika başta olmak üzere 30’un üzerinde ülkeye ihraç etmektedir.Bünyesindeki markalar:Akıllı Tercihler Mutlu Bebekler…Anne Bebek AkademisiAnnelerin Tercihi Wee BabyBaby KiweeBebsiBurda BabyBurda BebekBurda WeeHerşeyim Wee BabyKiweeNatural SensePittUykucuWeeWee BabyWee CareWee KidWee MomWee TherapyWeebaby",
+    "documents": [
+      "BRC",
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-05-22"
+  },
+  {
+    "company": "GoldCare",
+    "description": "GoldCare, 1990 yılında Gold Kimya A.Ş. bünyesinde üretilen ayakkabı bakım ürünleri markasıdır.GoldCare ile Gold ve Venüs markaları da Gold Kimya A.Ş.’nin tescilli markalarıdır.GoldCare ürünleri su bazlı olduğu için çevreye ve insan sağlığına zararlı hammadde içermiyor.Yüksek kaliteli GoldCare ürünleri dünya çapında 40’tan fazla ülkeye dağıtılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

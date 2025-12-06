@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Simonswerk",
+    "description": "Simonswerk, 1999 yılında kurulan Simonswerk Gmbh bünyesinde üretilen ticari bina kapıları ve konut kapıları için kapı menteşeleri ve menteşe sistemleri markasıdır.Simonswerk Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Orepa",
+    "description": "Orepa, 1984 yılında kurulan Bulvar Tarım Ürünleri Ltd. Şti bünyesinde üretilen gıda katkı maddesi, gıda kimyasalları, endüstriyel yağ markasıdır.Konya merkezli firma ayçiçeği lesitin, ayçiçek yağları, bitkisel yağlar, endüstriyel yağ, etil vanilin, gıda katkı maddesi, gıda kimyasalları, gliserin, guar sakızı, jelatin, kakao tozu, kakao yağı, kalsiyum karbonat, kızartma yağı, lesitin, metil vanilin, modifiye nişasta, nişasta, pamuk yağı, patates nişastası, pektin, peynir altı suyu tozu, renklendiriciler, sitrik asit monohidrat, sitrik asit susuz, sodyum bikarbonat, sorbitol, soya fasulyesi lesitin, süt tozu üretmektedir.Bünyesindeki markalar;BulvarKağnıcıoğluOrepa",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "AGB",
+    "description": "AGB, 1947 yılında kurulan Alban Giacomo Spa bünyesinde üretilen kapı, pencere ve panjurlar için donanım sistemleri markasıdır.Ürün yelpazesi, pencere ve kapılar için donanım ürünlerini içermektedir.Alban Giacomo Spa İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bakkalbaşıoğlu",
+    "description": "Bakkalbaşıoğlu, 1958 yılında kurulan Bakkalbaşıoğlu Süt Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen peynir, yoğurt, tereyağı, krema, kaymak, ayran, pastörize günlük süt, süt tozu ve peynir altı suyu tozu markasıdır.Niğde OSB’de 7 bin metrekarelik kapalı toplam 9 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ganik",
+    "description": "Ganik, 1953 yılında kurulan Ganik Şekerleme Gida San. Tic. Ltd. Şti. bünyesinde üretilen keçi sütü reçeli, şeker ilavesiz reçeller, reçeller, organik marmelatlar, şeker ilavesiz marmelatlar, marmelatlar, kako fındık kreması, tahin, pekmezler, lokumlar markasıdır.Çorum OSB’de 10 bin metrekaresi kapalı, 30 bin metrekaresi açık alana sahip tesisinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

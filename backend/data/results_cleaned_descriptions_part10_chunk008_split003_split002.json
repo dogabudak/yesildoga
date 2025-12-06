@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Chengshan Tires",
+    "description": "1976 yılında kurulan Prinx Chengshan Tire Company Ltd. bünyesinde üretilen lastikler markasıdır.Prinx Chengshan Tire Company Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Unigrip",
+    "description": "2010 yılında kurulmuş olan Qingdao Grip Tyre Co. Ltd. bünyesinde üretilen lastik markasıdır.Qingdao Grip Tyre Co. Ltd. Çin merkezlidir. Tüm ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nucleoss",
+    "description": "2004 yılında kurulmuş olan Şanlılar Tıbbi Cihazlar Medikal Kimya San. Tic. Ltd. Şti. bünyesinde üretilen dental implant markasıdır.Ürünleri saf titanyumdan üretilmektedir. ISO 13485 ve CE belgelerine sahiptir.Firma İzmir merkezlidir. Ürünlerini bir çok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Scubapro",
+    "description": "1970 yılında kurulmuş olan Johnson Outdoors Inc. bünyesindeki dalış kıyafetleri, dalış bilgisayarları, bcd, regülatör bulucular markasıdır.Johnson Outdoors Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "GEBE",
+    "description": "1983 yılında kurulmuş olan IKA Gmbh bünyesindeki kömür fırçaları, fırça tutucular, burçlar, iğne yatakları ve yedek parçaları markasıdır.IKA Gmbh Almanya merkezlidir. Ürünlerini 70’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

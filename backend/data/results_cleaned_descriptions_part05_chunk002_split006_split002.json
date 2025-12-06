@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Except",
+    "description": "Except, 2007 yılında kurulan C.r.e.a Kozmetik Çözümleri San. ve Tic. Ltd. Şti. bünyesinde üretilen kozmetik ürünler markasıdır.İzmir merkezli firma 10 bin metrekarelik açık ve 3 bin 500 metrekarelik kapalı alanda bulunan tesisinde aerosol bazlı ürünler parfüm, deodorant, oda spreyi, traş köpüğü, saç spreyi ve köpüğü, el ve vücut köpüğü gibi ürünlerini üretmekte ve çok sayıda ülkeye ihraç etmektedir.ISO 9001 belgesine sahiptir.Bünyesindeki markalar;AirlineBody-XBruceCarthaCrea Cosmetic SolutionsCrea Kozmetik ÇözümleriCreasmartDippsyExceptGicosHair KozzHair TabuuHemaraJanelleLépiaMa BoyMa GirlMeenaMishaNavigaPiaQ-BicQ-Bic WhitediamondQ-XtraRosettaShaynaShayna Smart CollectıonSimply TheraphySmartSmart CollectıonSmartcreaSmartizmiStrassVenenoWhitedropWhoops",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arma",
+    "description": "Arma, 1982 yılında kurulan Arma Polimer Reçine San. Tic. Ltd. Şti. bünyesinde üretilen yapı kimyasalları, tekstil ve deri kimyasalları, matbaa ve ambalaj kimyasalları, ağaç kimyasalları çözümleri markasıdır.Tuzla Kimyacılar OSB’de ürettiği ürünlerini 26’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Qlik",
+    "description": "Qlik, 1993 yılında kurulan QlikTech International AB bünyesindeki bulut tabanlı yazılımlar markasıdır.QlikTech International AB 2016 yılında, özel sermaye şirketi Amerika merkezli Thoma Bravo’ya satıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Leaders",
+    "description": "Leaders, 2004 yılında kurulan Leaders Cosmetics Co. Ltd. bünyesinde üretilen cilt bakımı, kozmetik, yüz maskesi ürünleri markasıdır.Leaders Cosmetics Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Alfa",
+    "description": "Alfa, 1998 yılında kurulan Alfa Matbaacılık Kağıtcılık Ambalaj San. ve Tic. Ltd. Şti. bünyesindeki her türlü endüstriyel ambalaj markasıdır.Üretimini 8 bin metrekarelik alanda yapmaktadır. ISO 9001 , ISO 22000, ISO45001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "ISO45001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

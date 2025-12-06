@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Luba Baby",
+    "description": "2019 yılında kurulmuş olan Luba Baby Sağlık Ürünleri Ltd. Şti. bünyesindeki ıslak mendil markasıdır.Firma Gaziantep merkezlidir. Ürünlerini Gaziantep 3. OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SK Hand Tools",
+    "description": "1900 yılında kurulmuş olan SK Hand Tools Corporation bünyesindeki anahtarlar, mandal, tornavida, alet kutuları ve hava aletleri gibi araçlar markasıdır.SK Hand Tools Corporation 2021 yılında Çin merkezli Hangzhou Greatstar Industrial Co. Ltd. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cellairis",
+    "description": "2000 yılında kurulmuş olan Global Cellular Inc. bünyesindeki mobil cihazlar, aksesuarlar, hizmetler ve özel çözümler markasıdır.Global Cellular Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rent Go",
+    "description": "2015 yılında kurulmuş olan M.N.B Oto Kiralama ve Nakliyat Tic. A.Ş. bünyesindeki araç kiralama hizmetleri markasıdır.Tunalar Şirketler Topluluğu bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Talay Logistic",
+    "description": "2014 yılında kurulmuş olan Talay Logistic A.Ş. bünyesindeki nakliye hizmetleri, lojistiğin her alanında hizmet veren markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

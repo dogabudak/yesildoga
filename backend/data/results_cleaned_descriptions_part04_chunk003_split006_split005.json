@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Aritzia",
+    "description": "Aritzia, 1984 yılında Brian Hill tarafından kurulan Aritzia Inc. bünyesindeki kadın giyim ve aksesuarlar markasıdır.Aritzia Inc. Kanada merkezlidir. Amerika ve Kanada’da mağaza ve butiklere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "1000 Hour",
+    "description": "1000 Hour, 1987 yılında kurulan Chemcorp International Inc. bünyesindeki saç, tırnak ve güzellik ürünleri markasıdır.Ürünlerini 15’ten fazla ülkeye ihraç etmektedir.Chemcorp International Inc. Avustralya markasıdır. Malezya, İrlanda, Türkiye ve Vietnam’da da mevcuttur.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Monsanto",
+    "description": "Monsanto, 1901 yılında John Francis Queeny tarafından kurulan Monsanto Company bünyesindeki tarım ve sebze tohumları, bitki biyoteknoloji özellikleri, bitki koruma kimyasalları markasıdır.Monsanto, 1970’lerde glifosat bazlı bir herbisit olan Roundup’u geliştirdi ve genetiği değiştirilmiş ürünlerin önemli bir üreticisi oldu.Monsanto, Amerikan tarımsal kimya ve tarımsal biyoteknoloji şirketi olarak kurulurken 2018 yılında Almanya merkezli Bayer AG tarafından ürün bilimi bölümünün bir parçası olarak satın alındı. Monsanto adı artık kullanılmıyor ancak Monsanto’nun önceki ürün markaları korundu. Türkiye’de 1997 yılından beri faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Asgrow",
+    "description": "Asgrow, 1927 yılında kurulan tohum markasıdır.Ayçiçeği, mısır, yonca, kanola, soya fasulyesi çeşitlerinden oluşuyor.Monsanto’yu 2018 yılında Almanya merkezli Bayer AG satın alınca Asgrow, Bayer Crop Science’ın bir markası oldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Livepro",
+    "description": "Livepro, 2005 yılında kurulan Nantong Liveup Sports Co., Ltd. bünyesinde üretilen fitness, rehabilitasyon ve spor ürünleri markasıdır.Nantong Liveup Sports Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

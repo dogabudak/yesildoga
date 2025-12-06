@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Powerbass",
+    "description": "Powerbass, 2001 yılında kurulan PowerBass Inc. bünyesindeki ses ürünleri markasıdır.Otomobil, deniz ve powersports uygulamaları için hoparlörler, amplifikatörler ve aksesuarlar üretmektedir.PowerBass USA Inc. Amerika merkezlidir. Amerika dışında üretim tesislerine sahip dikey olarak entegre bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-02-17"
+  },
+  {
+    "company": "RCF",
+    "description": "RCF, 1949 yılında kurulan RCF SpA. bünyesindeki profesyonel ses araçları, hoparlörler, müzik ekipmanları, mikserler, evac ses, DSP ve özel çözümler markasıdır.RCF, etkinlikler ve konserler, kayıt, halka açık konuşma, yayın ve Hi-Fi/taşınabilir ses ürünleri sunmaktadır.RCF SpA. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Rofin",
+    "description": "Rofin, 1975 yılında kurulan Rofin-Sinar Technologies Inc. bünyesindeki endüstriyel malzeme işleme için lazer kaynakları ve lazer tabanlı çözümler markasıdır.CO2 lazerler, fiber lazerler, katı hal, diyot ve çeşitli q-switch lazerleri de dahil olmak üzere çok çeşitli lazer kaynaklarına sahiptir.Rofin-Sinar Technologies Inc. 2016 yılında Amerika merkezli Coherent Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Siematic",
+    "description": "Siematic, 1929 yılında August Siekmann tarafından kurulan SieMatic Möbelwerke Gmbh & Co. KG bünyesindeki dolap, tezgah, iç organizasyon sistemleri ve aksesuarları, mutfak mobilyaları markasıdır.SieMatic Möbelwerke Gmbh & Co. KG Almanya merkezlidir. Ürünlerini dünya çapında 60’tan fazla ülkeye sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Walden Guitars",
+    "description": "Walden Guitars, KHS Musical Instruments Co., Ltd bünyesinde üretilen müzik aletleri markasıdır.Walden, çelik telli ve klasik gitarların yanı sıra Bariton gitarları üretmektedir.KHS Musical Instruments Co., Ltd Tayvan merkezlidir.Bünyesindeki markalar:Altus FlutesHercules StandsJupiter Band InstrumentsLanikai UkulelesMajestic Concert PercussionMapex DrumsRoss Mallet InstrumentsWalden Guitars",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

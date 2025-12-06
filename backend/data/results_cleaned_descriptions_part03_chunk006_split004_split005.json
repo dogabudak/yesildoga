@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Isabelle Dupont",
+    "description": "Isabelle Dupont, 2006 yılında kurulan Giz Kozmetik Kimya Sanayi ve Pazarlama Ltd. Şti. bünyesindeki kişisel bakım ve kozmetik ürünleri markasıdır.Giz Kozmetik, İstanbul Trakya Serbest Bölge’de bulunan 4 bin 500 metrekarelik üretim tesislerinde üretim yapmaktadır.Ürünlerini 100’e yakın ülkeye ihraç etmektedir. ISO 9001, ISO 22716 ve GMP belgelerine sahiptir.Bünyesindeki markalar:Beauté De LorenaCouleursDermadhoseDermyneDhoseGiz CosmeticsGizenneGizzèneGlambeeHannah SandersIsabelle DupontLaboratoires GizLea L’Esthetique AbsolueLeaintLena J.S.CoLorena BeautyLovely & SmartMatteo ZengaMr. PeritOchraOhso!Ovo LevelPeritSebumeSensofreshSilken’sSunvitalXavier DupontXdhose",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-04-28"
+  },
+  {
+    "company": "Maserati",
+    "description": "Maserati, 1914 yılında Alfieri Maserati tarafından kurulan lüks otomobil markasıdır.Maserati, 2021 yılında FCA ve PSA birleşmesiyle kurulan Stellantis N.V. bünyesindedir.Hollanda merkezli Stellantis N.V.’nin yüzde 14,40 hissesi Hollanda merkezli Exor N.V.’ye, yüzde 7,19’u Fransız Peugeot ailesine, yüzde 6,18’i Fransa merkezli Bpifrance’ye, yüzde 4,5’i Çin merkezli Dongfeng Motor Corporation’a ve yüzde 2,52 hissesi Amerika merkezli BlackRock Inc.’e aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-03-20"
+  },
+  {
+    "company": "Sany",
+    "description": "Sany, 1989 yılında Liang Wengen, Tang Xiuguo, Mao Zhongwu, Yuan Jinhua tarafından kurulan Sany Heavy Industry Co., Ltd. bünyesinde üretilen ağır ekipman markasıdır.Dünyanın en büyük altıncı ağır ekipman üreticisidir.Avustralya, Beyaz Rusya, Brezilya, Kanada, Almanya, Hindistan, Endonezya, Kazakistan, Rusya, Ukrayna ve Amerika’da üretim tesisleri vardır.Sany Heavy Industry Co., Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cowshed",
+    "description": "Cowshed, 1999 yılında kurulan Cowshed Products Limited bünyesinde üretilen vücut losyonu markasıdır.Banyo ve ev ürünleri organik uçucu yağlar kullanılarak hazırlanır. Paraben, petrokimyasallar ve sülfat, yapay koku veya renk içermez ve vejetaryenler için uygundur.Cowshed Products Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bebeten",
+    "description": "Bebeten, 1974 yılında kurulan Birleşik İlaç San. ve Tic. A.Ş. bünyesinde üretilen bebek ve çocuk talk pudrası markasıdır.Ürünlerin plastik ambalaj ve kapaklarını da kendi bünyesinde üretmektedir.ISO 22716, ISO 9001, ISO 45001 ve HELAL belgelerine sahiptir.Firma diğer firmalara fason üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

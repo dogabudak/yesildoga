@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Graham Audio",
+    "description": "“Graham Audio“2011 yılında Paul Graham tarafından kurulmuş olan Graham Audio Limited bünyesindeki hoparlör markasıdır.Graham Audio Limited İngiltere merkezlidir.Bünyesindeki markalar;Accustic ArtsArtesania AudioEclipse TDGraham AudioMoonriver Audio",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Nusurface Implant",
+    "description": "“Nusurface“2004 yılında kurulmuş olan Active Implants LLC bünyesindeki ortopedik implant çözümleri markasıdır.Diz protezi ve travma kırığı onarım ameliyatları için ortopedik implantlar geliştiren ve pazarlayan bir tıbbi cihaz şirketidir.Active Implants LLC Amerika merkezlidir. Hollanda’da ek bir tesisi, İsrail’de bir araştırma tesisi vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Beelink TV Kutusu",
+    "description": "“Beelink“2010 yılında kurulmuş olan Shenzhen AZW Technology Co. Ltd. bünyesinde üretilen mini bilgisayar ve televizyon kutusu markasıdır.Shenzhen AZW Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Flix",
+    "description": "“Flix“2011 yılında kurulmuş olan Flix SE bünyesindeki seyahat çözümleri markasıdır.Uzun mesafeli otobüs ve tren pazarına hitap etmektedir.Flix SE Almanya merkezlidir. 40’tan fazla ülkede faaliyet göstermektedir.Bünyesindeki markalar;FlixFlixBusFlixTrainGreyhoundKamil Koç",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "G-Class",
+    "description": "“G-Class“1995 yılında kurulan Nobel Ayakkabı Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen spor ayakkabılar markasıdır.Firma İstanbul merkezlidir. Ürünlerini 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

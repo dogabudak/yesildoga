@@ -1,0 +1,64 @@
+[
+  {
+    "company": "Kızılay Maden Suyu",
+    "description": "Kızılay, 1926 yılından beri üretilen ve Kızılay İçecek A.Ş. bünyesinde yer alan mineralli su markasıdır.Kızılay maden suyu Afyon ve Erzincan’dan çıkarılmaktadır.Almanya, Avusturya, Belçika, Hollanda, Fransa, İngiltere, İsviçre, Danimarka, İsveç, Katar, Cibuti, Fildişi, KKTC, Türkmenistan, Kanada, İran, Kırgızistan, Kazakistan, Filistin, Afganistan, Kosova, Suudi Arabistan, Yunanistan, Avusturalya, Çin, Güney Afrika Olmak Üzere 26 ülkeye ihraç edilmektedir.TÜV Rheinland, ISO 22000 Gıda Güvenliği Yönetim Sistemi, ISO 9001 Kalite Yönetim Sistemi, ISO 14001 Çevre Yönetim Sistemi, OHSAS 18001 İş Sağlığı ve Güvenliği Yönetim Sistemi ve Halel 22:2013 sertifikalarına sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-02-07"
+  },
+  {
+    "company": "Sarıkız Maden Suyu",
+    "description": "Sarıkız, 1974 yılında kurulan doğal mineralli maden suyu, meyve aromalı maden suyu, gazlı içecekler markasıdır.Manisa Alaşehir Belediyesi’ne ait olan marka ve üretim tesisi 10 yıllık ihale ile firmalara kiralanmaktadır. Alasu Gıda San. ve Tic. Ltd. Şti. tarafından işletilmektedir.ISO 9001, ISO 14001, ISO 22000, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-29"
+  },
+  {
+    "company": "Kent Boringer",
+    "description": "Kent Boringer1995 yılında kurulmuş olan Soyyiğit Gıda San. ve Tic. A.Ş. bünyesinde üretilen toz gıda ürünleri, toz içecekler, sıvı yağ, pastacılık ürünleri, çorba, bulyon, çeşni, un ve nişasta, kek un karışımları, tatlı karışımları, kahve markasıdır.Firma İstanbul merkezlidir. Toplam 100 bin metrekarelik İstanbul, Tekirdağ ve Edirne’de entegre üretim tesislerinde üretim yapmaktadır. Ürünlerini 140’a yakın ülkeye ihraç etmektedir.Bünyesindeki markalar:ArbianAs KentAysanAysan ProfesyonelBoehringerBoehrınger Fresher’sBoringerCafe BoringerCoffee BoringerEdirne GrossFafittaFreshxGold BoringerKentKent BoringerKent KahvesiKent PatisserieKent QuickKentcafeKentcafe BoringerKentle BoringerKıvılcımKnt BoringerKont BoringerLekentSoyyiğitSoy-Yiğit YemTrixTrix KüpTuzotu KentViyolaYiğitYiğit Altınyaprak",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-08-04"
+  },
+  {
+    "company": "Tukaş",
+    "description": "“Tukaş“1962 yılında kurulmuş olan Tukaş Gıda San. ve Tic. A.Ş. bünyesinde üretilen salça ve domates ürünleri, konserve, turşu, reçel, ketçap, mayonez, acı biber sosu ve kahvaltılık sos ve dondurulmuş gıda markasıdır.TSE EN-ISO 22000, FSSC 22000, IFS, BRC, Helal ve Koşer belgelerine sahiptir.Firma İzmir merkezlidir. Torbalı, Manyas ve Akhisar fabrikalarında üretim yapmaktadır.Hissedarları:Adra Holding A.Ş. (yüzde 40)Deniz Portföy Cco Hisse Senedİ Serbest Özel Fon (yüzde 12,59)Cem Okullu (yüzde 5,78)Diğer (yüzde 41,63)",
+    "documents": [
+      "BRC",
+      "CE",
+      "IFS",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-10-02"
+  },
+  {
+    "company": "Eker",
+    "description": "Eker, 1977 yılında Altan Eker ve Aykut Kutay tarafından kurulan Eker Süt Ürünleri Gıda San. ve Ticaret A.Ş. bünyesindeki ayran, yoğurt, sütlü tatlılar,meyveli süzme yoğurt beyaz peynir, kaşar peyniri, kaymak, tereyağı, kefir, pastörize süt ve UHT süt markasıdır.Eker Süt Ürünleri Gıda San. ve Ticaret A.Ş., 2006 yılında Fransız Andros grubu ile yarı yarıya oranda bir ortaklık gerçekleştirmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

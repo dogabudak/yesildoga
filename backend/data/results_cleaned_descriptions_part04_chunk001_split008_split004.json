@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Tropic Skincare",
+    "description": "Tropic Skincare, 2011 yılında Susie Ma tarafından kurulan Tropic Skincare Limited bünyesinde üretilen cilt bakımı, kozmetik, makyaj, vücut bakımı, saç bakımı, güneş bakımı, bronzlaşma serumları ve erkekler için tasarlanmış ürünler markasıdır.Vegan ürünler üreten Tropic Skincare Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Sevil Terlik",
+    "description": "Sevil Terlik, 2004 yılında kurulan Sevil Terlik San. Trd. Ltd. bünyesinde üretilen kaymaz terlik, açık terlik, anne terlik, erkek terlik, kız terlik, kapalı terlik, çocuk terliği markasıdır.Gaziantep’te üretilen ürünler Avrupa, Orta Doğu, Afrika ve Orta Asya’ya ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Emiland",
+    "description": "Emiland, 1991 yılında Hikmet Huseynov tarafından kurulan moda evi markasıdır.Takım elbise üreterek faaliyetlerine başlayan Emiland, bir süre sonra gömlek üretmeye başladı.Emiland Azerbaycan merkezlidir. Azerbaycan’da bulunan fabrikalarında tekstil ve aksesuar ürünleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Embawood",
+    "description": "Embawood, 1996 yılında Elşad Abbasov tarafından kurulan mobilya ürünleri markasıdır.ISO 9001 belgesine sahiptir.Embawood şirketi Azerbaycan merkezlidir ve 10 ülkede faaliyet göstermektedir.Azerbaycan, Kazakistan, Gürcistan ve Ukrayna’da 20’nin üzerinde mağazası bulunmaktadır.Bünyesindeki markalar:EmbapanelEmbawoodIdeal DizaynMadeyra",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Wissotzky Tea",
+    "description": "Wissotzky Tea, 1849 yılında kurulan Wissotzky Tea Ltd. bünyesindeki çay markasıdır.ISO 9001, ISO 22000, ISO 14001 belgelerine sahiptir.Wissotzky Tea Ltd. İsrail merkezlidir.Sanayi bölgesinde bulunan İsrail’in en büyük çay yapma tesisi, yerel pazar ve dünya çapında ihracat için tasarlanmıştır. Toplamda, 200’den fazla farklı ürün üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

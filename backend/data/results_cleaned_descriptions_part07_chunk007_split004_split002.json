@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mancera Parfums",
+    "description": "Mancera, 2008 yılında kurulmuş olan World Branding Mark S.A. bünyesindeki parfüm markasıdır.World Branding Mark S.A. İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Living Proof",
+    "description": "Living Proof, 2005 yılında kurulmuş olan Living Proof Inc. bünyesinde üretilen şampuan, kuru şampuan, nemlendirici, saç şekillendirme, bukle arttırıcılar, kabarma önleyici, saç jeli, saç köpüğü, saç kremi, saç maskeleri, saç spreyi, saç yağı gibi saç bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Living Proof Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kilian Paris",
+    "description": "Kilian, 1946 yılında kurulmuş olan The Estée Lauder Companies Inc. bünyesinde üretilen parfüm markasıdır.The Estée Lauder Companies Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vilhelm Parfumerie",
+    "description": "Vilhelm Parfumerie, 2018 yılında kurulmuş olan C.P.C. Creative Perfume Company Holding SA bünyesindeki parfüm markasıdır.C.P.C. Creative Perfume Company Holding SA İsviçre merkezlidir.Bünyesindeki markalar;125th & BloomA Lilac A DayBasil WallpaperBlack CitrusCheeky CharlesChicago HighDarling NikkiDear PollyDirty VelvetDo Not DisturbDon’t Tell JasmineFleur BurlesqueLondon FunkMango SkinModest MimosaMoon CarnivalMorning ChessOpus KorePoets Of BerlinPurple FigRoom ServiceSmoke ShowThe Oud AffairVilhelm ParfumerieVilhelm Parfumerie Moscow GraffitiVilhelm Parfumerie Stockholm 1978",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Hanmatek Kaynak Aleti",
+    "description": "Hanmatek, Shenzhen Hanma Precision Technology Co. Ltd. bünyesinde üretilen enstrümantasyon, ölçme, haritalama, elektrikli el aletleri ve kaynak aletleri markasıdır.Shenzhen Hanma Precision Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

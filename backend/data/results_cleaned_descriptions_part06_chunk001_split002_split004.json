@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Modeka Kask",
+    "description": "Modeka, 1980 yılında kurulan Modeka International Gmbh bünyesindeki motosiklet giyim ürünleri markasıdır.Ürün yelpazesinde deri veya tekstil ceketler, kıyafetler, deri veya tekstil pantolonlar, kask, ayakkabı, eldiven ve aksesuarlar yer almaktadır.Modeka International Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fuji Air Freshener",
+    "description": "Fuji Air Freshener, 1978 yılında Musa Uğurlu tarafından kurulan Yeşil Ilgaz Kozmetik Ltd. Şti. bünyesindeki oda kokuları markasıdır.ISO 9001, ISO 14001, SGS, SASO belgelerine sahiptir.İstanbul merkezli firma ürünlerini 45 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fidan",
+    "description": "Fidan, 1929 yılında kurulan Emek Yağ San. A.Ş. bünyesinde üretilen ayçiçek ve mısır yağı markasıdır.ISO 9001, TSE, Helal ve Koşer belgelerine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Feeller",
+    "description": "Feeller, 1985 yılında kurulan Fair Friend Ent. Co. Ltd. bünyesinde üretilen cnc torna, torna tezgahları, delme ve kılavuz çekme merkezi, dikey cnc torna tezgahları, dikey işleme merkezi, yatay işleme merkezi, cnc yatak tipi üniversal freze makinesi, cnc sıkıcı ve freze makinesi markasıdır.Fair Friend Ent. Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Thermopro",
+    "description": "Thermopro, 2014 yılında kurulan Thermopro Inc. bünyesinde üretilen dijital termometreler markasıdır.Ürün yelpazesinde termometre, higrometre, dijital termometre, et termometreler yer almaktadır.Thermopro Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

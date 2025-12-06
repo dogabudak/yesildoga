@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Otat",
+    "description": "Otat, 1998 yılında kurulan Otat Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen yoğurt, ayran, beyaz peynir, kaşar peynir, kaymaklı peynir, tereyağı ve dondurma markasıdır.ISO 9001, ISO 22000 ve HACCP belgelerine sahiptir.Samsun merkezli firma 8 bin metrekarelik kapalı alanda üretim yapmaktadır.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "DLF",
+    "description": "DLF, 1988 yılında kurulan DLF Seeds A/S bünyesindeki şeker ve yem pancarı tohumu, tohum ve patatesler ve diğer tohum mahsulleri markasıdır.DLF Seeds A/S Danimarka merkezlidir ve 20’den fazla ülkede faaliyet göstermekte ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Adress Fındık",
+    "description": "Adress Fındık, 2014 yılında Bahri Odabaş tarafından kurulan Bahri Doğal ve Gıda Üretim Paz. bünyesinde üretilen yer fıstığı ezmesi, antep fıstığı ezmesi, fındık ezmesi, gıda ve şekerleme markasıdır.Fıdık ezmesi yüzde yüz fındıktan, fıstık ezmesi yüzde yüz çifte kavrulmuş yer fıstığından üretilir. Kocaeli’de üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pürnur",
+    "description": "Pürnur, 2007 yılında kurulan MPM Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen bitkisel yağlar, yağlı tohumlar, tahıl ürünleri, ve yem hammaddeleri markasıdır.MPM Gıda, bu ürünlerin temini için Avrupa, Balkanlar, Ukrayna, Rusya, Çin, Arjantin ve ABD’den tedarikçilerle işbirliği yapmaktadır.Firma yem hammaddeleri, yem enzimleri ve destekleyici ürünler, yağlı tohumlar, tarımsal emtialar ve ürünler, tahıl ürünleri, süt sektörüne yönelik ürünler, kuruyemiş sektörüne yönelik ürünler, gıda hammaddeleri, ekmek sektörüne yönelik ürünler, çikolata, bisküvi sektörüne yönelik ürünler, bitkisel yağlar sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Altis",
+    "description": "Altis, 2009 yılında kurulan Spor Dünyası Dış. Tic. A.Ş. bünyesindeki pilates ve denge topları, ağırlık eldiveni ve bileklik, pilates ve yoga ekipmanları, spor aletleri markasıdır.Firma İstanbul merkezlidir ve Türkiye’nin her şehrinde bayiliklere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

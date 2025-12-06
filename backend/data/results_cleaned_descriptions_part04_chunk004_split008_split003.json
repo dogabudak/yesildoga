@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Milani Cosmetics",
+    "description": "Milani Cosmetics, 2002 yılında Ralph Bijou ve Laurie Minc tarafından kurulan New Milani Group LLC bünyesindeki kozmetik ürünleri dudaklar, gözler, yüz ve fırçalar markasıdır.Şirket, fondöten, vurgulama, kontur, ayar spreyleri, toz, yüz yağı, allık, kapatıcı, bronzlaştırıcı, ruj, dudak parlatıcısı ve gömlekleri, maskara, yüz ve göz fırçaları, tırnak boyaları ve diğer ürünleri sunmaktadır.New Milani Group LLC Amerika merkezlidir. Ürünleri dünya çapında 75 ülkede mevcuttur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Opalescence",
+    "description": "Opalescence, 1990 yılında Dan Fischer tarafından kurulan Ultradent Products, Inc. bünyesindeki diş beyazlatma ürünleri markasıdır.Ultradent Products, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "OPI",
+    "description": "OPI, 1989 yılında kurulan Wella Operations US LLC, bünyesindeki tırnak cilası, tırnak tedavileri ve diğer profesyonel salon ürünleri markasıdır.Tırnak tedavileri, finisaj ürünleri, losyonlar, manikür ve pedikür ürünleri, dosyalar, aletler ve akrilikler dahil olmak üzere profesyonel ürün yelpazesi sunmaktadır.Wella Operations US LLC Amerika merkezlidir. Ürünleri 100’den fazla ülkede mevcuttur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sacha Cosmetics",
+    "description": "Sacha Cosmetics, 1979 yılında Kama Maharaj tarafından kurulan Sacha Cosmetics Ltd. bünyesindeki makyaj markasıdır.Ürün yelpazesi açık, orta ve koyu tenlerde eşit derecede zarif görünen çok çeşitli yüksek performanslı ürünlerden oluşmaktadır.Sacha Cosmetics Ltd. Trinidad ve Tobago merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Phonex",
+    "description": "Phonex, 1992 yılında kurulan Barem Bilgisayar Hizmetleri Tic. Ltd. Şti. bünyesindeki bilgisayar çevre birimleri ve sarf malzemeleri markasıdır.Bilgisayar sarf malzemeleri ve bilgisayar toptan dağıtıcılığı yapan firmanın 400 metrekaresi depo, 200 metrekaresi teknik servis olmak üzere toplam bin metrekarelik bir alanda İstanbul’da faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

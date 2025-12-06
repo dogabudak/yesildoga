@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Reward Watch",
+    "description": "Reward Watch, 2001 yılında kurulmuş olan Shenzhen Jingqi Watch Industrial Co. Ltd. bünyesinde üretilen mekanik saatler, bayan kol saatleri, çok fonksiyonlu saatler markasıdır.Shenzhen Jingqi Watch Industrial Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Stevig",
+    "description": "Stevig, 2018 yılında kurulmuş olan Digithome Elektronik Ticaret Ltd. Şti. bünyesindeki 18/10 paslanmaz çelik tencereler, döner bıçaklı soyacak, granit döküm waffle tavası, mutfak bıçakları, ocak üstü el tost makinesi, paslanmaz çelik termos bardak markasıdır.Firma Çorum merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Xytronic",
+    "description": "Xytronic, 1980 yılında kurulmuş olan Xytronic Industries Ltd. bünyesinde üretilen lehimleme istasyonu, lehim uçları ve aksesuarları, sökme istasyonları, sıcak hava istasyonları ve aksesuarları markasıdır.Ürün yelpazesinde lehimleme, sökme istasyonları, smd lehimleme, sökme, sıcak hava yeniden işleme istasyonları, duman çıkarma ekipmanları, havyalar, endüstriyel aletler, pcb video inceleme sistemleri, smd ve bga yeniden işleme sistemleri, bga reball kitleri ve sıvı dağıtıcılar bulunur.Xytronic Industries Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Beybolat",
+    "description": "Beybolat, 1962 yılında kurulmuş olan Beybolat Tarım Makineleri Tic. ve San. A.Ş. bünyesinde üretilen çapa makineleri, çok amaçlı motorlar, jeneratörler, motorlu tırpanlar, sırt ve portatif pülverizatörler, su motorları, testereler, toprak burgu makineleri, zeytin makineleri, aksesuarlar markasıdır.ISO 9001, TSE belgelerine sahiptir.Firma Mersin merkezlidir ve ürünlerini 7 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "KRK Gıda",
+    "description": "KRK Gıda, 1993 yılında kurulmuş olan Karakaş Boya Baharat Kimyevi Maddeler San. ve Tic. Ltd. Şti. bünyesindeki bitkisel ürün, baharat, gıda katkı maddesi, aroma, gıda renklendirici, tabii reçineler, bitkisel macunlar, bitkisel yağlar, bitki suları, çaylar, kurutulmuş sebze ve meyveler, ari ürünleri, ekstraktlar, bitki özlü sabun ve şampuanlar, bitki özlü kremler, paket kına, kına kimyevi maddeler, toz boyalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

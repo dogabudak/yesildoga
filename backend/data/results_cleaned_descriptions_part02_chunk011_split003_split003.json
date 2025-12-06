@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Nania",
+    "description": "Nania, 1994 yılında Yves Nania tarafından kurulan Team Tex, grubunun çocuk oto koltukları markasıdır.Nania markalı ürünler dünya çapında 50’den fazla ülkede satılmaktadır.Team Tex Fransa merkezlidir ve ürünleri Avrupa’da 16 bin metrekarelik bir alanda üretilerek test edilir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Chubb",
+    "description": "Chubb, 1985 yılında kurulan Chubb European Group Ltd. bünyesinde faaliyet gösteren sabit kıymet ve sorumluluk sigortası markasıdır.Chubb, 54 ülkede faaliyet göstermektedir.Chubb European Group Ltd. İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Transneft",
+    "description": "Transneft, 1993 yılında kurulan Transneft JSC bünyesindeki petrol ve doğalgaz boru hattı taşımacılığı markasıdır.Dünyanın en büyük petrol boru hattı şirketidir. Transneft JSC, 70 binden fazla kilometre boru hattı işletmektedir.Transneft JSC Rusya merkezlidir ve Rusya devletine aittir. BDT ülkelerinden gelen ham hidrokarbona ek olarak, Rusya’da üretilen petrol ve petrol ürünlerinin yaklaşık yüzde 90’ını taşır.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Biosensors",
+    "description": "Biosensors, 1990 yılında kurulan Biosensors International Group Ltd. bünyesindeki tıbbi cihazlar markasıdır.Kardiyoloji prosedürleri ve yoğun bakımda kullanılmak üzere ürün geliştiren, üreten ve lisans veren bir tıbbi cihaz şirketidir.Şirketin genel merkezi, ana üretim tesislerinin ve Ar-Ge merkezlerinin barındırıldığı Singapur’da bulunmaktadır.Avrupa merkezi ise İsviçre’dedir. İsviçre ofisi aynı zamanda BioMatrix’in yasal üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "ALi",
+    "description": "ALi, 1987 yılında kurulan ALi Corporation bünyesindeki gömülü sistemlerin entegre devrelerinin tasarımcısı ve üreticisi ve eski bir kişisel bilgisayar entegre devre üreticisi markasıdır.Merkezi Tayvan’da bulunan şirket, Acer grubunun bir yan kuruluşudur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

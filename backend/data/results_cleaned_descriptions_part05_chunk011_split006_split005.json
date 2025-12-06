@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Lemberg Battery",
+    "description": "Lemberg Battery, 2014 yılında kurulan Lemberg LLC bünyesindeki akü, şarj edilebilir pil markasıdır.Firma kullanılmış pillerin geri dönüşümünü yapmaktadır.Lemberg LLC Ukrayna merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Berga Batterien",
+    "description": "Berga Batterien, 1927 yılında kurulan Clarios Germany Gmbh & Co. KG. akü, şarj edilebilir pil markasıdır.Clarios Germany Gmbh & Co. KG. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Amerikan Metropolitan Üniversitesi",
+    "description": "Amerikan Metropolitan Üniversitesi Hangi ÜlkeninAmerikan Metropolitan Üniversitesi, 2015 yılında kurulan uzaktan eğitim üzerine uzmanlaşan, lisans tamamlama, lisans, yüksek lisans ve doktora programlarına sahip özel bir üniversitedir.Makedonya merkezli üniversite 2016 yılında Türkiye ve Amerika’da faaliyetlerine başlayarak; psikoloji, iç mimarlık, endüstri mühendisliği, mekatronik mühendisliği, bilgisayar, yazılım mühendisliği gibi birçok alanda sınav ve yaş şartı aramadan uzaktan eğitim hizmeti vermektedir.Faaliyet gösterdiği ülkelerde her ülkenin kendi dilinde eğitim vererek yabancı dil sorununu ortadan kaldırmıştır. Türkiye şubesi İstanbul Ticaret Odasına kayıtlıdır. ISO 9001 belgesine sahiptir.Dünya çapında 100 binin üzerinde mezunu bulunmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "MK",
+    "updated_date": "2023-04-05"
+  },
+  {
+    "company": "ISTA Akü",
+    "description": "ISTA Akü Hangi Ülkenin Malı MarkasıdırISTA, 1995 yılında kurulan PrJSC ISTA-Centr bünyesinde üretilen kurşun-asit akümülatör markasıdır.ISO 14001, ISO/TS 16949 belgelerine sahiptir.PrJSC ISTA-Centr Ukrayna merkezlidir. Ürünlerini Ukrayna’da üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Rent Go",
+    "description": "Rent Go, 2007 yılında Tunalar Şirketler Topluluğu bünyesinde kurulan araç kiralama markasıdır.Filosundaki 0 kilometre ve genç araçlarla müşterilerine Günlük Araç ve Filo araç kiralama hizmeti sunmaktadır.Tamamı yerli sermayelidir. Birçok ilde havalimanlarında ofisleri ve şehir ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

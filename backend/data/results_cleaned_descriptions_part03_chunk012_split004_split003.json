@@ -1,0 +1,50 @@
+[
+  {
+    "company": "JCDecaux",
+    "description": "JCDecaux, 1964 yılında Jean-Claude Decaux tarafından kurulan JCDecaux SA bünyesindeki görüntü ve reklam ekipmanları markasıdır.Sokak mobilyaları, billboardlar, havaalanı ve ulaşım reklam, açık hava reklam hizmetleri vermektedir.JCDecaux SA, dünya çapında 75’ten fazla ülkede bulunan Fransa merkezli gruptur.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Sitronics",
+    "description": "Sitronics, 1997 yılında kurulan, OJSC JFSC Sistema tarafından kontrol edilen cep telefonu ve bilgisayar çipleri ve akıllı kartlar gibi mikroelektronik ürünler markasıdır.OJSC JFSC Sistema 1993 yılında Vladimir Yevtushenkov tarafından kurulan Rusya merkezli telekomünikasyon, bankacılık, emlak, perakende, medya, turizm, uzay teknolojisi, tıbbi hizmetler, biyoteknoloji alanlarında faaliyet gösteren şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Çardak Meyve Suyu",
+    "description": "Çardak Meyve Suyu Nerenin Malı MarkasıÇardak, 1960 yılında kurulan Çardak Konsantre Meyve Suları Ltd. Şti. tarafından üretilen konsatre içecekler, gazlı içecek, sos, sirke suyu, elma sirkesi, nar ekşisi, limonata markasıdır.Meyve Suyu Konsantre halinde yüzde 8 meyve suyu konsantre içerir.Bünyesindeki markalar:ÇardaksanÇardakÇarıldak",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-21"
+  },
+  {
+    "company": "Acuvue",
+    "description": "Acuvue, 1959 yılında kurulmuş olan ve 1981 yılında Johnson & Johnson Vision Care Inc. tarafından satın alınan lens markasıdır.Johnson & Johnson Vision Care Inc. Amerika merkezlidir. İrlanda ve Amerika’da üretim tesislerine sahiptir. Türkiye’de Johnson & Johnson Sıhhi Malzeme San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-05-25"
+  },
+  {
+    "company": "Lebedyansky",
+    "description": "Lebedyansky, 1967 yılında kurulan Lebedyansky JSC bünyesinde üretilen meyve suyu, bebek maması, sebze suyu ve alkolsüz içecekler markasıdır.Doğu Avrupa’nın en büyük, dünyanın altıncı büyük meyve suyu üreticisidir.2008 yılında Lebedyansky JSC şirketinin yüzde 75,5’ini Amerika merkezli PepsiCo satın alarak şirketin en büyük hissedarı oldu. Lebedyansky’nin Rusya’da iki büyük üretim tesisi vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

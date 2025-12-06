@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Drako Motors",
+    "description": "2013 yılında Dean Drako tarafından kurulmuş olan Drako Motors Inc. bünyesinde üretilen lüks spor otomobili markasıdır.Drako Motors Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yoton",
+    "description": "2021 yılında kurulan Shenzhen Baoyoufa Trading Co. Ltd. bünyesinde üretilen ev projektörü, optik oynatıcı, müzik çalar, bebek monitörü markasıdır.Shenzhen Baoyoufa Trading Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Iwhite",
+    "description": "1987 yılında kurulmuş olan Karo Pharma Group bünyesinde üretilen diş beyazlatma ürünleri markasıdır.Karo Pharma Group 2019 yılında İsveç merkezli EQT AB tarafından satın alınmıştır. Ürünlerini 90 ülkeye pazarlamaktadır.Bünyesindeki markalar;AllevoAlpha FoodsApobaseAsanBetavivoBronkylBurinexCCSCentylClinomynCortimykDecubalDosettE45FluxFootnerFungoralIbuxIndy BeautyiWhiteKaleoridLactocareLamisilLaxabonLithionitLocobaseMabsMildisonMollipectMulti-GynMulti-MamNailnerNitroglycerin InfvNozoilNutravitaopnolParacetParaflexParalgin fortePevarylpilfoodPilokarpinPoxClinProbecidProctPropylessPyriseptRemescarSatin NaturelSelexidSolvezinkStop 24Theo-DurVerruxinViruseptinWartie/Wortie",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Machenike",
+    "description": "2014 yılında kurulmuş olan Guangzhou Mantaoshu Trading Co. Ltd. bünyesinde üretilen espor malzemeleri, mekanik klavyeler, fareler ve aksesuarlar markasıdır.Guangzhou Mantaoshu Trading Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Petkit",
+    "description": "2013 yılında kurulmuş olan Petkit Network Technology Co. Ltd. bünyesindeki evcil hayvan ürünü, donanım, uygulamalar, otomatik kedi çöp kutusu, otomatik evcil hayvan besleyici, evcil hayvan kamerası, kedi, akıllı evcil hayvan ve akıllı kedi çeşmesi markasıdır.Petkit Network Technology Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 30 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

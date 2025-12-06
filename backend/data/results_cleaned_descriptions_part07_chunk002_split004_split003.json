@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Jack N’Jill",
+    "description": "Jack N’Jill, 1997 yılında Justin Bernhaut tarafından kurulan Jack & Jill Operations Pty Ltd. bünyesindeki diş macunu, bitki bazlı diş fırçaları, doğal banyo ürünleri markasıdır.Diş fırçası yelpazesi, mısırdan yapılmış tutamaklara ve ambalajlara sahiptir.Jack & Jill Operations Pty Ltd. Avustralya merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Asa Dental",
+    "description": "Asa Dental, 1964 yılında kurulan Asa Dental S.P.A. bünyesindeki diş aletleri, artikülatörler, yüz yayı, cımbız, teşhis araçları, konservatif ve cerrahi, el aletleri ve kesme ekipmanları, tükürük ejektörleri ve yüksek hassasiyetli enstrümantasyon markasıdır.Asa Dental S.P.A. İtalya merkezlidir ve ürünlerini 170’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Senwero",
+    "description": "Senwero, 2011 yılında kurulan Wenzhou Xinxu Light Industry Co. Ltd. bünyesinde üretilen telefon tutucu, çakmak, araba küllük, masa telefon tutucu markasıdır.Wenzhou Xinxu Light Industry Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Genveon",
+    "description": "Genveon, 2007 yılında Alp Karaağaç tarafından temelleri atılan Genveon İlaç San. ve Tic. A.Ş. bünyesindeki jenerik ürün ve OTC ürünler markasıdır.Nöroloji, psikiyatri, KBB, aile hekimi, dahiliye, pediatri, fizik tedavi, ortopedi, cerrahi, göğüs hastalıkları ve kadın doğum alanlarına yönelik üretim gerçekleştirmektedir. Ürünlerinin bir kısmı fason olarak üretilen ürünler oluşmaktadır.İstanbul merkezli firma ürünlerini Kocaeli’deki üretim tesisinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cutpower",
+    "description": "Cutpower, 2006 yılında kurulan Cut Power AG bünyesindeki elektromobilite, mobilite dönüşümü, şarj altyapısı, gayrimenkul sektöründe enerji verimliliği, şarj altyapısı, yeni mobilite uygulamaları, enerji verimliliği, hizmet olarak şarj etme ve yüksek güç şarjı markasıdır.Şirket, yakıt tüketimi önlemleriyle üretilen enerjinin ticari olarak kullanılması, ilgili enerji ve enerji ile ilgili hizmetler de dahil olmak üzere yerel enerji arzının konumundan kaçınılması gibi keşif, üretim, dağıtım, finansman sağlamaktadır.Cut Power AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

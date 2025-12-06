@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Toybox",
+    "description": "Toybox, 1996 yılında kurulan TOYBOX Gıda Pazarlama San. ve Tic. Ltd. Şti. bünyesindeki Sakızlı, Çikolatalı, Gofretli ve Şekerlemeli ürünler markasıdır.İstanbul Silivri’de bulunan fabrikasında oyuncak ve atıştırmalık ürünler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Milli Piyango",
+    "description": "Milli Piyango, 1939 yılında çıkarılan kanunla Milli Piyango İdaresi Genel Müdürlüğü bünyesinde kurulmuştur.2017 yılında Türkiye Varlık Fonu’na devredilmiş ve özelleştirilmesi için İngiliz danışmanlık firması Ernst&Young’a yetki verilerek davet usülü yapılan ihaleyi Demirören Holding A.Ş. ve İtalya merkezli Sisal S.p.A ortaklığı kazanmıştır.Milli Piyango 2030 yılına kadar Sisal ve Şans Ortak Girişimi tarafından işletilecektir.Milli Piyango İdaresi; piyango dışında, hemen­kazan, sayısal loto, şans topu, on numara ile her türlü eşya piyangosu şans oyunları ve müşterek bahis benzeri oyunları düzenleme ve denetimine sahiptir. Ayrıca uluslararası kuruluşlarda Türkiye’yi temsil etmek ve bunlarla ortaklıklara girip işbirliği yapma yetkisine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2023-01-11"
+  },
+  {
+    "company": "Firefox",
+    "description": "Firefox2005 yılında Mozilla Vakfı tarafından kurulmuş olan Mozilla Corporation bünyesindeki tarayıcı, internet, yazılım, mobil, web uygulamaları, işletim sistemi, kimlik, android, veri bilimi ve açık kaynak yazılımları markasıdır.Firefox tarayıcısı, kullanıcıları risklere karşı uyaran, şifreleri koruyan ve güvenli bir VPN sağlayan bir ürün ailesine dönüşmüştür.Mozilla Corporation Amerika merkezlidir.Bünyesindeki markalar;FirefoxMozillaThunderbird",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-07-02"
+  },
+  {
+    "company": "Minoris",
+    "description": "Minoris, 2012 yılında kurulan Minoris Organik Kimya Ltd. Şti. bünyesindeki bebek ürünleri markasıdır.Minoris Baby ürünleri Türkiye’nin ilk ve tek Organik, Antialerjik, Ultimate Konsantre, temiz içerikli ürünleridir.Deterjan ve kozmetik ürünleri 2 ayrı tesisinde üretiliyor ve anlaşmalı üniversite labaratuvarlarında ürünleri geliştiriliyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bill Matik",
+    "description": "Bill Matik, BİM A. Ş. adına Alışan Grup bünyesindeki Alışan Lojistik A.Ş. tarafından üretilen toz çamaşır deterjanı markasıdır.Alışan, 1985 yılında M. Ertuğrul Alışan tarafından kurulmuştur.Sigorta ve Aracılık Hizmetleri, Granül Lojistik Hizmetleri, Gümrüklü/Gümrüksüz Depolama Hizmetleri, İnşaat ve Taahhüt, Bilgi Teknolojileri, Gayrimenkul, Uluslararası Taşımacılık gibi konularda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

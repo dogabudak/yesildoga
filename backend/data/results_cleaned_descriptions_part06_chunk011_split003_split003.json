@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Roff Çorap",
+    "description": "Roff, 1985 yılında kurulan Kopuzlar Giyim Tekstil Turizm İnş. Gıda San. Tic. Ltd. Şti. bünyesinde üretilen yazlık ve kışlık çoraplar, boxer markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ayvansaray Susam",
+    "description": "Ayvansaray, 1991 yılında kurulan Ayvansaray Gıda San. ve Tic. Ltd. Şti. bünyesindeki susam, çörek otu, üzüm pekmezi, incir pekmezi, anason, ayçekirdeği içi, hindistan cevizi, keten tohumu, tahin markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Encore Software",
+    "description": "Encore Software, 2008 yılında WD Encore Software LLC bünyesindeki yazılım geliştirme şirketidir.Başlıca markaları arasında Broderbund’s The Print Shop and PrintMaster, HOYLE, MumboJumbo, Viva Media, GameMill Entertainment ve Punch! Software yer alıyor.Encore Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Solive",
+    "description": "Solive, 1992 yılında kurulan Solaksubaşı Otomotiv Gıda İnş. San. ve Tic. Ltd. Şti. bünyesinde üretilen zeytin, zeytinyağı, zeytin ezmesi ve dilimli zeytin, sabun ve kremler, turşu ve konserveler, reçeller markasıdır.Ürünlerinde katkı maddesi veya sağlığa zararlı hiçbir madde kullanılmamaktadır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Microstrategy",
+    "description": "Microstrategy, 1989 yılında kurulan MicroStrategy Incorporated bünyesindeki iş zekası (BI), mobil yazılım ve bulut tabanlı hizmetler markasıdır.MicroStrategy Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

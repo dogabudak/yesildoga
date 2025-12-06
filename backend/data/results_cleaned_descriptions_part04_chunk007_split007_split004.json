@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Busuu",
+    "description": "Busuu, 2008 yılında Bernhard Niesner ve Adrian Hilti tarafından kurulan Busuu Ltd. bünyesindeki dil öğrenimi için kurulan bir sosyal ağ uygulamasıdır.Busuu dil öğreniminde dünyanın en büyük sosyal ağıdır. İnternet sitesi ve mobil uygulama üzerinden dünya çapında 100 milyondan fazla öğrenciye 12 dil kursu sağlar. Dil becerilerini dünyanın her yerinde ana dilini konuşan kişilerle doğrudan pratik yapma imkanı sunar.Busuu Ltd. İspanya merkezli Busuu Online S.L. bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Ykm",
+    "description": "Ykm (Yeni Karamürsel) 1950 yılında kurulan; giyim, ayakkabı, çanta, iç giyim, küçük ev aletleri, dekorasyon ürünleri, kozmetik, kişisel bakım ürünleri satılan mağazaların markasıdır.2012 yılında Boyner Holding, YKM’nin yüzde 63 hissesini satın aldı.Boyner Holding A.Ş.’nin yüzde 42,8’i Boyner Ailesine, yüzde 42,68’i Katarlı Mayhoola for Investments LLC yatırım şirketine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "QA",
+    "updated_date": null
+  },
+  {
+    "company": "Moka Pot",
+    "description": "Moka Pot, 1933 yılında Alfonso Bialetti tarafından kurulan Bialetti Insuatrie S.p.A bünyesinde üretilen moka express, tencere, mutfak gereçleri markasıdır.Moka Pot aluminyumdan üretilmektedir.Bialetti Insuatrie S.p.A. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Rekrow",
+    "description": "Rekrow, 1986 yılında kurulan Rekrow Industrial Inc. bünyesinde üretilen bütan gazlı gaz ocağı ve kaynak makinesi gibi ürünler markasıdır.Mikro meşale (bütan gazı), ısıtma şişirme meşalesi, havya kiti, mikro brülör ve soba, stant ve tutucu, gaz tutkal tabancası, mikro meşale ve havya için aksesuar üretmektedir.Gaz aletleri uzun bir süre Bütan gazına karşı daha dayanıklı ve sert olan yüzde 100 metal yakıt deposundan yapılmaktadır. ISO 9001 belgesine sahiptir.Rekrow Industrial Inc. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Hario",
+    "description": "Hario, 1921 yılında kurulan Hario Co.,Ltd. bünyesinde üretilen ısıya dayanıklı cam ürünleri, kahve demleme, çay demleme ekipmanları, mutfak gereçleri, ısıya dayanıklı pişirme ekipmanları markasıdır.Hario Co.,Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Knecht",
+    "description": "1920 yılında kurulmuş olan Mahle Filtersysteme Gmbh bünyesinde üretilen yağ filtresi markasıdır.Mahle Filtersysteme Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Handy",
+    "description": "2017 yılında kurulmuş olan PLS İç ve Dış Tic. A.Ş. bünyesinde üretilen mutfak bıçakları, kasap bıçakları, şef bıçakları, pastacı bıçakları ve bıçak setleri markasıdır.Firma İstanbul merkezlidir. Bursa’da 3 bin 400 metrekarelik kapalı alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bercks",
+    "description": "2005 yılında kurulmuş olan Hegeli Ortopedik Ürünler San. ve Tic. Ltd. Şti. bünyesinde üretilen ortopedik ürünler markasıdır.ISO 9001, ISO 13485 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 40’tan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aerogen",
+    "description": "1997 yılında kurulmuş olan Aerogen Ltd. bünyesindeki tıbbi cihazlar, nebülizatör, mekanik ventilasyon, hortum seti, usb denetleyici markasıdır.Aerogen Ltd. İrlanda merkezlidir ve ürünlerini 75’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Barnangen",
+    "description": "1873 yılında Johan Wilhelm Holmström tarafından piyasaya sürülen güzellik markasıdır.Henkel Norden AB bünyesinde üretilmektedir.Henkel Norden AB Almanya merkezli Henkel AG & Co. KGaA bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Yostand",
+    "description": "Yostand, 2007 yılında kurulan Shenzhen Esorun Technology Co. Ltd. bünyesinde üretilen güç bankası, kablosuz şarj cihazı, kablosuz güç bankası ve kablosuz araç montajı markasıdır.ISO 9001 belgesine sahiptir.Shenzhen Esorun Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nabeel",
+    "description": "Nabeel, 1969 yılında Asghar Adam Ali tarafından kurulan Nabeel Perfume Industries FZE bünyesinde üretilen kadın ve erkek parfümleri markasıdır.ISO 9001 ve GMP belgelerine sahiptir.Nabeel Perfume Industries FZE, BAE merkezlidir. Ürünlerini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Uni T",
+    "description": "Uni T, 1988 yılında kurulan Uni-Trend Technology Co. Ltd. bünyesinde üretilen test ve ölçüm çözümleri markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.Uni-Trend Technology Co. Ltd. Çin merkezlidir. Çin’de üretilen ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Eveline Cosmetics",
+    "description": "Eveline Cosmetics, 1983 yılında kurulan Beauty Brands Concept Sp. z o.o. bünyesinde üretilen kozmetik ve makyaj ürünleri markasıdır.Makyaj, yüz, vücut ve saç bakım ürünleri üretmektedir. Ürünleri hayvanlar üzerinde test edilmemektedir.Beauty Brands Concept Sp. z o.o. Polonya merkezlidir. Polonya’da ürettiği ürünleri 70 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Keune",
+    "description": "Keune, 1922 yılında Jan Keune tarafından kurulan Keune Haircosmetics Manufacturing BV bünyesindeki profesyonel saç ürünleri markasıdır.Keune Haircosmetics Manufacturing BV Hollanda merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

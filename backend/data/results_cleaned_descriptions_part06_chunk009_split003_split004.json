@@ -1,0 +1,44 @@
+[
+  {
+    "company": "New Bright",
+    "description": "New Bright, 1955 yılında kurulan New Bright Industrial Co. Ltd. bünyesindeki radyo kontrollü araçlar, oyuncak kamyonlar markasıdır.New Bright Industrial Co. Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Narbaharat",
+    "description": "Narbaharat, 2019 yılında Özgür Güney Gümüş tarafından kurulan Nar Baharat Gıda Ürünleri Sanayi ve Tic. A.Ş. bünyesinde üretilen baharatlar ve hazır çorba markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Snazaroo",
+    "description": "Snazaroo, 1992 yılında kurulan Colart Group bünyesinde üretilen su bazlı, kokusuz, kolay çıkan yüz ve vücut boyaları markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Colart Group, İsveç merkezli Lindéngruppen AB’nin tamamına sahip olduğu İngiltere’deki bağımsız bir yan kuruluşudur. Şirketin İngiltere, Fransa ve Çin’de 10 üretim tesisi bulunmaktadır. Ürünlerini 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Calcor",
+    "description": "Calcor1999 yılında kurulmuş olan Reckitt Benckiser Group plc bünyesinde üretilen çaydanlık temizleyici kireç çözücü markasıdır.Reckitt Benckiser Group plc İngiltere merkezlidir. Türkiye’de Reckitt Benckiser A.Ş. olarak faaliyet göstermektedir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2024-07-17"
+  },
+  {
+    "company": "Evas",
+    "description": "Evas, 1963 yılında kurulan Evas Ev Aletleri San. A.Ş. bünyesinde üretilen LPG tüp markasıdır.SHV Energy bünyesinde yer alan İpragaz’ın grup şirketlerinden Evas Ev Aletleri San. A.Ş. 3 tesisinde toplam 478 farklı tüp üretmekte ve 81 ülkeye ihraç etmektedir.SHV Energy Hollanda merkezli SHV Holdings N.V. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

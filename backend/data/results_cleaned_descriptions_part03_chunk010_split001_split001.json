@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Naren",
+    "description": "Naren, 2014 yılında kurulan Akman Tarımsal Ürünler Gıda San. Tic. A.Ş. bünyesinde üretilen meyve suyu markasıdır.Ürünlerinde şeker, tatlandırıcı, ilave su, yapay katkı maddeleri kullanılmaz.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Blue Cap",
+    "description": "Blue Cap, 1994 yılında kurulan Catalysis, S.L. bünyesinde üretilen kozmetik ve gıda takviyesi ürünleri markasıdır.Catalysis, S.L. 80’den fazla ülkede faaliyet gösteren İspanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Verway",
+    "description": "Verway, Verway World S.L.U. adına Delia Cosmetics Sp. Z.o.o tarafından üretilen cilt bakımı ürünleri markasıdır.Verway World S.L.U. İspanya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Manhattan Coffee",
+    "description": "Manhattan Coffee, 1999 yılında Hüseyin Aymutlu tarafından kurulan Happy Moon’s Grup bünyesinde 2018 yılında faaliyete başlayan kahve dükkanı markasıdır.Dünyanın ender bölgelerinde yetişen kahve çekirdeklerinden üretilen kahve içeceklerini sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Filtrap",
+    "description": "Filtrap, 1990 yılında kurulan Dual Kimya San. ve Tic. Ltd. bünyesindeki haşere ürünleri, fare ürünleri, yapışkan tuzak markasıdır.Hammadde ve mamul ihtiyacını karşılamak için Avrupalı üreticilerle anlaşmalar yapmıştır.Ürünlerini Arnavutluk, Suriye, Irak, Libya, Makedonya, Cezayir, Fas ve Tunus gibi ülkelere ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

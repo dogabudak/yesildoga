@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Ksb",
+    "description": "Ksb 1871 yılında Johannes Klein tarafından kurulan pompa, vana ve sistemlerinin önde gelen tedarikçilerinden biridir. Endüstriyel tesislerden şehir su şebekelerine, binalardan arıtma tesislerine, enerji santrallerine hizmet vermektedir.Almanya merkezli KSB Grubu Türkiye’de KSB Pompa Armatür San. ve Tic. A.Ş. olarak hizmet vermektedir.Ankara’da bulunan 14 bin metrekare açık, 7 bin metrekare kapalı alana sahip fabrikası ile yatay norm tip, çok kademeli, inline tip ve hidrofor üretimi yapmaktadır.KSB, bina hizmetleri, sanayi, enerji sektörü ve madencilik sektörleri için pompa, vana ve sistemler konusunda uzman olurken, bütün endüstri tesislerinde su ve atıksu transferini sağlayan komple hidrolik sistemler üretmekte ve geliştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Gibbs",
+    "description": "Gibbs markası 2004 yılında Evyap bünyesi altında yer almaya başlayan tıraşa hazırlık ürünleri ve tıraş markasıdır.Türk markası Gibbs 2009 yılında Rusya pazarına girdi. Hassas ve normal ciltler için geliştirilen Allantoin ve E vitamini içeren formülü ile tıraş sonrası ciltte oluşan tahrişi engeler.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "7DAYS",
+    "description": "7DAYS Hangi Ülkenin Malı Markası7DAYS, 1973 yılında kurulan Chipita S.A. bünyesinde üretilen kruvasan markasıdır.Kruvasan vb. hamur işi ürünleri, ekmek tabanlı fırınlanmış atıştırmalıklar ve tuzlu yiyecekler üreten ve pazarlayan Chipita S.A. Yunanistan merkezlidir. Firmanın 3 kıtada 19 fabrikası bulunmakta ve ürünerini 66 ülkeye pazarlamaktadır. Türkiye’de 1996 yılından faaliyet göstermektedir.Bünyesindeki markalar:7DAYSBorsetoChipicaoFinetiMini StrudelMoltoPaninoPizzetiSpin SpanTsipers",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": "2021-06-30"
+  },
+  {
+    "company": "Banetti",
+    "description": "“Benetti“1997 yılında kurulmuş olan Acarsan Makarna Un Gıda İnşaat San. ve Tic. A.Ş. bünyesinde üretilen makarna, irmik, noodle, mac & cheese ve un markasıdır.Makarna, yüzde 100 durum buğdayından elde edilen mamül irmikten üretilir.ISO 9001, ISO 22000, ISO 14001, OHSAS18001, Helal, Koşer, TSE, BRC, IFS belgelerine sahiptir.Firma Gaziantep merkezlidir ve ürünlerini pek çok ülkeye ihraç etmektedir.",
+    "documents": [
+      "BRC",
+      "CE",
+      "IFS",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-12-03"
+  },
+  {
+    "company": "Hermes Çanta",
+    "description": "Hermes 1837 yılında Thierry Hermes tarafından kuruldu. Deri, aksesuar, parfümeri, lüks eşya ve hazır giyim üretimleri yapan, lüks aksesuarlardan, deri parçalara hazır giyimden parfümlere kadar birçok sektörde adını duyuran Hermes, moda dünyasında lüks, prestijli ve ayrıcalıklı olarak tanımlanan bir Fransız firmasıdır.1992 yılında ilk deri çantaları üretmeye başladı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2019-05-21"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Hemington",
+    "description": "Hemington, 2008 yılında kurulan Nova Fashion Group bünyesindeki erkek giyim markasıdır.Hemington markalı ürünler, geniş renk yelpazesine sahip, yün, kaşmir, ipek ve pamuk gibi doğal iplikler seçilerek üretilir, el emeği ile işlenir ve rafine aksesuarlarla süslenir.Nova bünyesindeki markalar:KNITSSHemingtonMila by Nova",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Magnimore",
+    "description": "Magnimore, 2011 yılında Aytekin Pahsa tarafından kurulan TAB İlaç ve Sağlık Ürünleri San. Tic. Ltd. Şti. bünyesindeki magnezyum içeren takviye edici gıda markasıdır.Türkiye’de üretilirken gıdanın ana bileşeninin menşe ülkesi Belçika ve Almanya’dır.Üretimi kardeş firma Vefa İlaç San. ve Tic. Ltd. Şti. yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-01-06"
+  },
+  {
+    "company": "Libero",
+    "description": "Libero, 1929 yılında Ivar Kreuger tarafından kurulan Svenska Cellulosa AB (SCA) bünyesindeki bebek bezi markasıdır.SCA, önde gelen küresel hijyen ve orman ürünleri şirketidir. Sürdürülebilir kişisel bakım, doku ve orman ürünleri geliştiren ve üreten İsveç merkezli gruptur.Bünyesindeki markalar:TENATorkLiberoLibresseLotusNosotrasSabaTempoVinda",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Kifidis",
+    "description": ",“Kifidis“1919 yılında Tanaş Kifidis tarafından kurulan Kifidis Ortopedi San. ve Turizm Tic. A.Ş. bünyesindeki anatomik ve ortopedik terlik, ayakkabı, bot, sandalet, tabanlık, çanta ve aksesuarlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-09-06"
+  },
+  {
+    "company": "Brenntag",
+    "description": "1874 yılında Philipp Mühsam tarafından kurulmuş olan Brenntag SE bünyesindeki gıda, polimer, kauçuk, kişisel bakım, su ve çevre kimyasalları, kozmetik ve yapı kimyasalları dağıtıcısıdır.Brenntag SE Almanya merkezlidir. Dünya çapında 70’ten fazla ülkede faaliyet göstermektedir. 2005 yılından beri Türkiye’de Brenntag Kimya Tic. Ltd. Şti. olarak faaliyet göstermektedir.Hissedarları:Kühne Holding AG (yüzde 15)Artisan Partners Asset Management Inc. (yüzde 10)Flossbach von Storch AG (yüzde 5,7)BlackRock Inc. (yüzde 4,7)Wellington Management Group LLP (yüzde 4,5)",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2025-02-10"
+  }
+]

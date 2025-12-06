@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Leuchtturm",
+    "description": "Leuchtturm, 1917 yılında kurulan Leuchtturm Gruppe Gmbh & Co. KG bünyesinde üretilen el yapımı fotoğraf albümleri, defterler ve kutular, el yapımı takvimler ve deri ürünleri markasıdır.Leuchtturm Gruppe Gmbh & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rovectin",
+    "description": "Rovectin, Second Formula Inc. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürün yelpazesinde temizleyiciler, kremler, losyonlar ve yağlar yer almaktadır.Second Formula Inc. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Bogutti Sweet World",
+    "description": "Bogutti Sweet World, 2012 yılında kurulan Bogutti sp. z o.o. bünyesinde üretilen bisküvi ve çikolata markasıdır.İtalyan dolgulu kurabiyeler, Amerikan kurabiyeleri ve ilave şekersiz kurabiyeler konusunda uzmanlaşmıştır. Helal ve koşer belgelerine sahiptir.Bogutti sp. z o.o. Polonya merkezlidir. Ürünlerini 35’ten fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Choco GuttiChocoFitCookies in American StyleFreeLa GustosaNextTweett",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Momo Tires",
+    "description": "Momo Tires, 1964 yılında Gianpiero Moretti tarafından kurulan Momo Srl. bünyesinde üretilen otomobil ve motosikletler için alaşım jantlar ve aksesuarlar markasıdır.Ürün yelpazesinde alaşım jantlar, direksiyon simitleri, koltuklar, vites çubukları gibi otomobiller için aksesuar ve parçalar, yarış kıyafetleri, eldivenler, ayakkabılar, giyim ürünleri yer almaktadır.Momo Srl. 2011 yılında Amerika merkezli Grupo Cisneros tarafından satın alındı. İtalya’da üretim yapan firmanın ürünleri 60 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pidosan",
+    "description": "Pidosan, 1993 yılında kurulan Pidosan Plastik Doğrama ve İnşaat San. A.Ş. bünyesindeki pvc kapı – pencere ve tüm pvc sistemleri imalatı, alüminyum doğrama ve cephe sistemleri imalatı, panjur sistemleri, çelik kapı, yangın kapısı, ahşap kompozit iç mekan kapıları markasıdır.Ürünlerini Ankara’da toplam 62 bin metrekarelik kapalı alana sahip fabrikalarında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

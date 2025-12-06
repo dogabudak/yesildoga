@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ensco",
+    "description": "Ensco, 1969 yılında Paul W. Broome tarafından kurulan Ensco Inc. bünyesindeki savunma, güvenlik, ulaştırma ve havacılık endüstrileri için mühendislik, bilim ve ileri teknoloji ekipmanı sağlayıcısıdır.Demiryolu teknolojisi, ulusal güvenlik, aviyonik ve havacılık olmak üzere dört bölüm işletmektedir.Ensco Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Auria Solar",
+    "description": "Auria Solar, 2007 yılında kurulan Auria Solar Co. Ltd. bünyesindeki mikromorflu ince film silikonlu güneş fotovoltaik modülleri, alçak gerilim modüller markasıdır.Auria Solar Co. Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Apex Ev Aletleri",
+    "description": "Apex, 2012 yılında kurulan Apex Uluslararası Tic. Ltd. Şti. bünyesindeki blender ve blender setleri, doğrayıcı, el mikseri, fırın, ızgara, kıyma ve salça makineleri, katmer sacı, kek kalıbı, kahve makinesi, meyve sıkacağı, su arıtıcı, ocak, radyan soba, su ısıtıcı, tavalar, tencereler, tost makinesi, tandır veya ekmek makineleri, süpürge markasıdır.İstanbul merkezli firma ürünlerini 10’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artego",
+    "description": "Artego, 1999 yılında kurulan Uniholding s.r.l. bünyesinde üretilen kuaförler için profesyonel ürünler markasıdır.Ürün yelpazesinde sabunlar, parfümeri, uçucu yağlar, kozmetikler, saç losyonları, saç şampuanları, saç boyaları, saç rengi giderici preparatlar, saç bakım ürünleri, saç feragat losyonları, saç şekillendirme preparatları, saç kremleri gibi kişisel bakım ürünleri yer almaktadır.Uniholding s.r.l. İtalya merkezlidir. Ürünlerini 20’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Mona Lisa Boya",
+    "description": "Mona Lisa, 1955 yılında M. Seyfettin Südor tarafından kurulan Südor Kırtasiye San. ve Tic. A.Ş. bünyesindeki akrilik boya, sanatsal malzemeler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

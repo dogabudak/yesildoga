@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Vitamix",
+    "description": "Vitamix, 1921 yılında William G. “Papa” Barnard tarafından kurulan Vita-Mix Corporation bünyesindeki mikser markasıdır.Barnard ailesi tarafından işletilmektedir.Vita-Mix Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Brabantia",
+    "description": "Brabantia, 1919 yılında kurulan Brabantia N.V. bünyesindeki Çöp kutuları, ütü masası, çamaşır sepetleri ve askıları, Gıda saklama kutuları, Gıda hazırlama gereçleri markasıdır.Tüm ürünler el yapımıdır ve Hollanda, Belçika, İngiltere, Almanya ve Amerika’da üretim tesisleri bulunmaktadır.Brabantia N.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Ziploc",
+    "description": "Ziploc, 1968 yılında ilk kez üretilen fermuarlı saklama çantası ve kapları markasıdır. S. C. Johnson & Son şirketi bünyesindedir.Çok amaçlı kullanım için sandviç torbalar, dondurucu torbalar, bükülmeyen n’loc kaplar, gıda dışı depolama için plastik çantalar üretmektedir. Ziploc çanta yüzde 35 daha az plastik kullanılarak yapılır.S. C. Johnson & Son Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Blackmagic Design",
+    "description": "Blackmagic Design, 2001 yılında Grant Petty tarafından kurulan Blackmagic Design Pty. Ltd. bünyesindeki profesyonel video kameralar, disk kaydediciler ve veri depolama, görüntü yakalama ve oynatıcılar, cintel tarayıcı, yayın çeviricileri, video ve ses monitörleri, test cihazları, yönlendirici ve dağıtıcılar, atem canlı prodüksyon switcher’leri, davinci resolve ve fusion yazılımı, ultimatte, video format dönüştürücüsü, multiview, yayın ve kodlama markasıdır.Blackmagic Design Pty. Ltd. Avustralya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": "2022-03-29"
+  },
+  {
+    "company": "Canyon Bicycles",
+    "description": "Canyon Bicycles, 2002 yılında kurulan Canyon Bicycles GmbH bünyesindeki yarış bisikleti, dağ bisikleti ve triatlon bisiklet markasıdır.Canyon, dünyanın en kaliteli yol, dağ ve şehir bisikletlerinin önde gelen perakendesidir. Ürünlerini Almanya’da tasarlamaktadır. 2016 yılında azınlık hisselerini Amerikalı özel sermaye şirketi TSG Consumer Partners satın almıştır.Canyon Bicycles GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

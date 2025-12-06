@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Giochi Preziosi",
+    "description": "Giochi Preziosi, 1978 yılında Enrico Preziosi tarafından kurulan Gruppo Giochi Preziosi S.p.A. bünyesindeki oyuncaklar markasıdır.Gruppo Giochi Preziosi S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Wunder Filter",
+    "description": "Wunder Filter, 2001 yılında kurulan Wunder Filtre A.Ş. bünyesindeki araç hava, polen, yağ ve yakıt filtresi markasıdır.Otomotiv yan sanayi sektöründe filtre üretmektedir. Yağ ve yakıt filtreleri yurt dışı tesislerinde üretilmektedir. Ürünlerini çok sayıda ülkeye ihraç etmektedir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evy Layd",
+    "description": "Evy Layd, 1927 yılında Mehmet Rıfat Evyap tarafından kurulan Evyap Sabun Yağ Gliserin San. ve Tic. A.Ş. bünyesinde üretilen ped markasıdır.Sabun ve kişisel bakım ürünlerini Türkiye, Malezya ve Mısır’da bulunan tesislerinde üretmektedir vr 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aurender",
+    "description": "Aurender, 2011 yılında Harry Lee tarafından kurulan Aurender Inc. ses sistemleri markasıdır.Yüksek performanslı,müzik sunucuları ve ses çalarlar üretmektedir.Aurender Inc. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Musclepharm",
+    "description": "Musclepharm, 2006 yılında Brad Pyatt tarafından kurulan Musclepharm Corporation bünyesindeki gıda ve vücut geliştirme takviyesi markasıdır.MusclePharm Corporation Amerika merkezlidir. Ürünlerini 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

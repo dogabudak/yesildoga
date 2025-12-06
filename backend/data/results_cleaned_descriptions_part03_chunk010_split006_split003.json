@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Fanuc",
+    "description": "Fanuc, 1958 yılında Seiuemon Inaba tarafından kurulan Fanuc Corporation bünyesindeki robotik ve CNC ekipmanları üreticisidir.Fanuc dünyanın en büyük endüstriyel robot üreticilerinden biridir.Fanuc Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Homag",
+    "description": "Homag, 1960 yılında kurulan Homag Group AG bünyesindeki mobilya endüstrisi için ahşap işleme makineleri ve ekipmanları markasııdır.Homag Grubu, 100’den fazla ülkede faaliyet göstermektedir ve 14 üretim tesisine sahiptir.Homag Group AG Almanya merkezlidir. HOMAG Grubu, 2014’ten beri Dürr Group’un çoğunluk hisselerinin sahibidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cedevita",
+    "description": "Cedevita, 1969 yılında kurulan Cedevita d.o.o. bünyesinde üretilen çaylar, hazır içecekler, diyetetik ürünleri ve vitamin içeceği markasıdır.Cedevita 2001 yılında Hırvatistan merkezli Atlantic Grupa d.d.’nin bir parçası olmuştur.Ürünleri 40’tan fazla ülkeye ihraç edilmektedir. ISO 9001 ve 14001, HACCP, FSSC 22000 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "HR",
+    "updated_date": "2020-07-26"
+  },
+  {
+    "company": "Pasha Bank",
+    "description": "Pasha Bank, 1987 yılında kurulan Pasha Yatırım Bankası A.Ş. bünyesindeki kurumsal ve yatırım bankacılığı markasıdır.Pasha Yatırım Bankası A.Ş. 2015 yılında Azerbaycan merkezli Pasha Bank OJSC tarafından satın alındı.Bankanın ortaklık yapısı yüzde 50,96 Pasha Bank OJSC, yüzde 49 Pasha Holding LLC şeklindedir.Pasha Bank, Türkiye, Azerbaycan ve Gürcistan’ta faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Rabitabank",
+    "description": "Rabitabank, 1993 yılında kurulan Rabitabank OJSC bünyesindeki ekonominin çeşitli alanlarını kapsayan banka markasıdır.Rabitabank OJSC Azerbaycan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  }
+]

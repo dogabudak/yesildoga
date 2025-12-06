@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Lezzo",
+    "description": "Lezzo, 1976 yılında Özdemir Ali Yarar tarafından kurulan Lezzo Gıda Pazarlama A.Ş. bünyesinde üretilen meyve aromalı turistik çay, drink, et suyu, çorba, salep, puding, kahve, çeşni, salata sosu markasıdır.ISO 9001 ve Haccp kurallarına uygun olarak üretim yapmaktadır. Ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Akcoat",
+    "description": "Akcoat, 1979 yılında kurulan Akcoat İleri Kimyasal Kaplama Malzemeleri San. ve Tic. A.Ş. bünyesinde üretilen emaye, seramik, yapışmaz dekoratif kaplamalar, pigment ve cam ürünleri markasıdır.Akcoat A.Ş., Akkök Holding şirketler grubu çatısı altında yer almaktadır. Türkiye ve İspanya’da fabrikası bulunmaktadır. Ürünlerini 60 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aprilla",
+    "description": "Aprilla, 2015 yılında kurulan Bmva Elektronik San. ve Tic. A.Ş. bünyesindeki baskül, cilt, el ve ayak bakım, epilatör, erkek bakım setleri, ev gerçleri, saç şekillendirici, saç kesme, saç kurutma, tıraş ürünleri markasıdır.Aprilla markalı ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "RMK",
+    "description": "RMK, 1996 yılında kurulan E’quipe, Ltd. bünyesindeki makyaj ürünleri markasıdır.Tüm cilt tiplerine uygun mevsimlik koleksiyonlar, göz farı, yanak renkleri ve rujlar, kokular, doğal yenilebilir malzemeler, teknolojik olarak gelişmiş temeller ve cilt bakımı ürünleri sunmaktadır.E’quipe, Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Nubebe",
+    "description": "Nubebe, 1962 kurulan Nu Bebe Ayakkabı Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen bebek patikleri, sandalet, bot, çizme, panduf, spor ayakkabısı, ilk adım ayakkabısı, ortopedik ayakkabı, anatomik ayakkabı markasıdır.Ayakkabılar makine destekli el işçiliğiyle üretilmektedir. Üretiminin büyük çoğunluğunu Avrupa ve diğer ülkelere ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

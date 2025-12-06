@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Purdey",
+    "description": "Purdey 1893 yılında Alfred Dunhill tarafından kurulan lüks giyim ve aksesuarları markasıdır.Purdey markası Güney Afrikalı işadamı tarafından İsviçre’de kurulan Richemont şirketine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Antat",
+    "description": "ANTAT, 1960 yılında kurulan Tatlısumaklar Gıda ve İhtiyaç Maddeleri San. Tic. A.Ş. bünyesinde üretilen çikolata, bileşik çikolata, sert şeker, yumuşak şeker, jöle şeker, krem çikolata, çikolata, hediyelik çikolata, bisküvi, kraker, kek, gofret, marshmallow markasıdır.Ürünleri 58 ülkeye ihraç edilmektedir.Marka tescil belgelerine ISO 22000, ISO 9001, belgelerine sahiptir.Bünyesindeki markalar:ChotatTwilaAntat",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İsmar",
+    "description": "Türkiye’nin ilk yerel sermayeli organize perakende mağazaları İsmar Marketler A.Ş. 2003 yılında Akyürek Holding bünyesine katılmıştır.İsmar Marketler zinciri isim hakkı mahkeme kararıyla 2019 yılında icradan açıkartırma yoluyla satışa çıkarıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Snowy Ulu Kardeşler",
+    "description": "1997 yılında Ramazan, Şaban ve Mustafa Ulu tarafından kurulmuş olan Ulu Kardeşler Gıda San. ve Dış Tic. Ltd. Şti. bünyesindeki gıda perakendesi markasıdır.Firma İstanbul merkezlidir. İstanbul’da 25 şubeye sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-09-16"
+  },
+  {
+    "company": "Bianca",
+    "description": "Bianca, 1999 yılında kurulan Orkim Ortaklar Boya San. ve Paz. A.Ş. bünyesinde üretilen boya markasıdır.Sentetik ve emülsiyon bina ve endüstriyel boyalar üretilmektedir.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;ArtisticoArtistico CreativoArtistico FogliaArtistico LineaBiancaBianca BoyaBiancaclubBianca EspinaBianca ImportBianca Kalitenin RengiBianca Keyfini SürBianca LotusBianca MarmorinoBianca MiraBianca NirvanaBianca SaluteBianca SerenaBianca StellaBianca ValsBianca VistaBiancoHomelifeKeyfini SürMadreperlaMarmorinoMaximoMaximo BiancaTermicoVerlutoZegman Lasure",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-09-26"
+  }
+]

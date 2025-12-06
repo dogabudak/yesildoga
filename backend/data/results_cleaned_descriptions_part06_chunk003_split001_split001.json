@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Tito Esans",
+    "description": "Tito, 2008 yılında kurulan Smart Kimya Tic. Dan. Ltd. Şti. bünyesinde üretilen gıda bileşenleri ve kimyasallar, kişisel bakım ürünleri, mumlar, hayvan yemi, hobi malzemeleri markasıdır.ISO 9001 ve ISO 10002 belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-13"
+  },
+  {
+    "company": "MVMT Watches",
+    "description": "MVMT Watches, 2013 yılında Jake Kassan ve Kramer LaPlante tarafından kurulan MVMT Watches Inc. bünyesinde üretilen kuvars saatler, güneş gözlüğü aksesuarları markasıdır.MVMT Watches Inc. 2018 yılında Amerika merkezli Movado Group Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Busch & Müller",
+    "description": "Busch & Müller, 1925 yılında Willy Müller ve August Busch tarafından kurulan Busch & Müller KG bünyesindeki bisiklet aydınlatma ürünleri, bisiklet aksesuarları markasıdır.Ürün yelpazesinde reflektörler, arka lambalar, bisiklet farları, dinamolar, dikiz aynaları, zincir koruyucular, çocuk bisikletleri için yan destek tekerlekleri ve diğer iki tekerlekli aksesuarlar yer almaktadır.Busch & Müller KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Vcare",
+    "description": "Vcare, 2003 yılında kurulan Shenzhen Patrol Hawk Technology Co. Ltd. bünyesinde üretilen kablosuz akıllı güvenlik sistemleri, alarm izleme sistemleri, izinsiz giriş alarmları, pilli, elektrikli video kameralar, bina kontrol yazılımı markasıdır.Shenzhen Patrol Hawk Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hanımeller Kurabiye",
+    "description": "Hanımeller Kurabiye Nerenin Malı MarkasıHanımeller, Yıldız Holding A.Ş. bünyesindeki Ülker Bisküvi San. A.Ş. tarafından üretilen kurabiye markasıdır.Soya lestini ve palm yağı içermektedir.İstanbul merkezli firma Türkiye’de 25 fabrikada üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

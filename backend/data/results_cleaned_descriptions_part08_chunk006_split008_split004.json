@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Jungheinrich",
+    "description": "Jungheinrich, 1953 yılında kurulmuş olan Jungheinrich AG bünyesinde üretilen forklift markasıdır.Jungheinrich AG Almanya merkezlidir ve ürünlerini 40 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cassy",
+    "description": "Cassy, 1994 yılında kurulmuş olan Anı Bisküvi Gıda San. ve Tic. A.Ş. bünyesinde üretilen kakaolu kek markasıdır.ISO 9001, ISO 22000, ISO 27001, TSE ve Helal belgelerine sahiptir.Firma Karaman merkezlidir. Ürünlerini 65 bin metrekare açık ve 115 bin metrekare kapalı alanda bulunan fabrikasında üretmektedir ve 90 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Llivekit",
+    "description": "Llivekit, 2021 yılında kurulmuş olan Wo Wo Technology Co. Ltd. bünyesinde üretilen Hava fritözleri, elektrikli fritözler markasıdır.Wo Wo Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "SER Mekatronik",
+    "description": "SER Mekatronik, 2008 yılında kurulmuş olan SER Mekatronik San. ve Tic. Ltd. Şti. bünyesindeki tekstil finisaj makineleri, şardon makinesi, ram makinesi, kumaş tıraş makinesi, fırça makinesi, elmas zımpara makinesi ve sanfor makinesi markasıdır.Firma Tekirdağ merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baoli",
+    "description": "Baoli, 2006 yılında kurulmuş olan Kion Group AG bünyesinde üretilen forklift ve depo malzemeleri markasıdır.Almanya merkezli Kion Group AG’nin yüzde 46,5 hissesi Çin merkezli Weichai Power Co. Ltd.’ye aittir.Baoli 80 ülkenin üzerinde kapsamlı bir satış ve servis hizmeti sunmaktadır.Hissedarları:Weichai Power Co. Ltd. (yüzde 46,5)Norges Bank Investment Management (yüzde 1,89)The Vanguard Group Inc. (yüzde 1,88)T. Rowe Price Associates Inc. (yüzde 1,71)Allianz Global Investors GmbH (yüzde 1,1)Dimensional Fund Advisors LP (yüzde 1)Swedbank Robur Fonder AB (yüzde 0,9)Amundi Asset Management SA (yüzde 0,82)Nordea Investment Management AB (yüzde 0,77)Columbia Management Investment Advisers LLC (yüzde 0,77)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

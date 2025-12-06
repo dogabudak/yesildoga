@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fabo",
+    "description": "Fabo, 2003 yılında kurulan Fabo Global Tic. Ltd. Şti. bünyesinde üretilen kırma eleme ve beton santralleri markasıdır.Ürünlerini İzmir’de bulunan toplam 16 bin metrekarelik alanda üretmekte ve 85 ülkeye taş kırma eleme yıkama ve beton santrali ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maress",
+    "description": "Maress, Maress Elektrikli Cihazlar San. Tic. Ltd. Şti. bünyesinde üretilen elektrikli ev aletleri markasıdır.Ürünlerini 10 bin metrekarelik alanda üretmekte ve 20 den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nagaraku",
+    "description": "Nagaraku, Shanghai Xijian Ltd. bünyesindeki makyaj ürünleri markasıdır.Shanghai Xijian Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pupa Milano",
+    "description": "Pupa Milano, 1976 yılında kurulan Micys Company S.p.A. bünyesinde üretilen makyaj ve cilt bakım ürünleri markasıdır.Şirketin iş kolu parfüm, kozmetik ve diğer tuvalet preparatlarının üretimini içerir.Micys Company S.p.A. İtalya merkezlidir ve ürünlerini 70 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Roesia Rose Cosmetics",
+    "description": "Roesia RoseBildirimlerinizi önemsiyoruz. Sürekli güncellenen sitemizde eklenmesini istediğiniz, aratıp da bulamadığınız marka veya markaları bizlere iletebilirsiniz.2010 yılında kurulmuş olan Ferhat Bayhan İthalat İhracat bünyesinde ithal edilen güzellik ve bakım ürünleri markasıdır.Firma Mardin merkezlidir.Bünyesindeki markalar;AilyAnyladyAnylady EyeshadowMilai CosmeticsRoesia RoseRoesia Rose CosmeticsS.F.R Color TmTailaimei",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-02-19"
+  }
+]

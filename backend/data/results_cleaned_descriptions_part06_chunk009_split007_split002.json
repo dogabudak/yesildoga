@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Dentac",
+    "description": "Dentac, 2001 yılında kurulan Öncü Dental Tıbbi Malz. San. ve Dış Tic. A.Ş. bünyesindeki profesyonel diş hekimliği cihazları ve sarf ürünleri markasıdır.Ürün yelpazesinde önlükler, t-endo, t-mask, t-protective, t-tools, yüz koruyucular yer almaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Megafood",
+    "description": "Megafood, 2008 yılında kurulan Foodstate Inc. bünyesinde üretilen vitaminler ve takviyeler, multivitaminler, mineraller, doğum öncesi ve doğum sonrası, kadın sağlığı, erkek sağlığı ürünleri markasıdır.Foodstate Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.Bünyesindeki markalar;MegaFoodInnate Response",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tunturi",
+    "description": "Tunturi, 1922 yılında kurulan Tunturi Oy Ltd. bünyesindeki bisiklet ve egzersiz aletleri markasıdır.Tunturi fitness ürünleri dünya çapında 40’tan fazla ülkede satılmaktadır.Tunturi Oy Ltd. 2003 yılında Hollanda merkezli Accell Grup N.V. bünyesine geçti.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Rastaş Kapak",
+    "description": "Rastaş Kapak Nerenin Malı MarkasıRastaş, 1985 yılında kurulan Rastaş Ambalaj Kapak Makine San. ve Tic. Ltd. Şti. bünyesinde üretilen kavanoz kapakları markasıdır.Kendine ait matbaasıyle her renk ve baskıda çalışmalar yapmaktadır.Adana merkezli firma ürünlerini 5 bin ve 12 bin metrekarelik alanlarda üretmektedir. Üretiminin yüzde 20’sini 25 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Philco",
+    "description": "Philco, 1892 yılında kurulan küçük ev aletleri, çamaşır makinesi, kurutma makinesi, buzdolabı, dondurucu, geniş ve dar bulaşık makineleri, fırın, mikrodalga fırınlar, ocak, davlumbaz markasıdır.ISO 9000 belgesine sahiptir.1986 yılında İsveç merkezli çok uluslu Electrolux Home Products Inc. tarafından satın alındı.Sadece Kuzey Amerika’da, Philco markası Philips’e aittir. Diğer pazarlarda Electrolux’e aittir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

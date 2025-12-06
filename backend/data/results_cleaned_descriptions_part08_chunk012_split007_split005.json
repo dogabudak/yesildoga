@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Kotaku",
+    "description": "Kotaku2004 yılında kurulmuş olan G/O Media Inc. bünyesindeki oyun incelemeleri, haberler, ipuçları markasıdır.Ayrıca anime, TV ve filmler gibi popüler kültür konuları hakkında da sık sık yazılar hazırlanmaktadır.G/O Media Inc. Amerika merkezlidir.Bünyesindeki markalar;GizmodoJalopnikKotakuThe OnionQuartzThe RootThe Inventory",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tatkat",
+    "description": "Tatkat1994 yılında kurulmuş olan Özpak Gıda San. ve Tic. A.Ş. bünyesinde üretilen çorba, hazır yemek, kabartma tozu, vanilin, kakao, puding, un, pudra şekeri, mısır ve buğday nişastası markasıdır.ISO 9001 belgesine sahiptir.Firma Kayseri merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Freedo",
+    "description": "Freedo2008 yılında kurulmuş olan A101 Yeni Mağazacılık A.Ş. adına Sanset Gıda Turizm San. ve Tic. A.Ş. tarafından üretilenÜrünleri glikoz şurubu, kıvam artırıcı, arove verici, palm yağı içermektedir.Üretici firma Kırklareli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Battalbey",
+    "description": "Battalbey2003 yılında kurulmuş olan Battalbey Çiğköfte-Sait Aybak bünyesinde üretilen çiğ köfte, lavaş, ekşi sos, lokum markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 22000, ISO 45001, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elixir Memory",
+    "description": "Elixir1995 yılında kurulmuş olan Nanya Technology Corporation bünyesindeki dinamik rasgele erişimli bellek yongaları ve modülleri markasıdır.Şirketin ürünleri öncelikle bilgisayar, telekomünikasyon ve tüketici ürünlerinde uygulanmaktadır. Ayrıca yarı iletken ürünleri ve ilgili aksesuarları dağıtır.Nanya Technology Corporation Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

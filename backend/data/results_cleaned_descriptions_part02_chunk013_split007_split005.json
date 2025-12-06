@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Emma",
+    "description": "Emma, 1931 yılında kurulan Emma Safety Footwear bünyesindeki ayakkabı markasıdır.Endüstri için el yapımı güvenlik ayakkabısı üretmektedir. Ürün yelpazesini emniyet ayakkabıları, (yarı) ortopedik güvenlik ayakkabıları ve çorap, ayak tabanı ve bağcık gibi çeşitli aksesuarlar oluşturmaktadır.Emma Safety Footwear Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Neoplast",
+    "description": "Neoplast, 2011 yılında kurulan Neoplast Grup Boru ve Platik San. Tic. Ltd. Şti. bünyesindeki koruge boru, çelik takviyeli koruge boru, spiral sarimli koruge boru, plastik borular, kompozit ürünler, ctp, jeotermal, plastic pipe, hdpe/yype, altyapı/inşaat, boru makineleri, extrusion markasıdır.Kırşehir OSB’de üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cummins",
+    "description": "Cummins, 1919 yılında Clessie Lyle Cummins tarafından kurulan Cummins Inc., bünyesindeki dizel motor, filtrasyon ve elektrik jeneratörü markasıdır.Cummins Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "De Cecco",
+    "description": "De Cecco, 1886 yılında Filippo De Cecco tarafından kurulan F.lli De Cecco di Filippo S.p.A bünyesindeki kurutulmuş makarna, un ve diğer ilgili gıda ürünleri markasıdır.De Cecco, 2013 itibariyle dünyanın en büyük üçüncü makarna üreticisidir.De Cecco üreten bir İtalyan şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Vanderlande",
+    "description": "Vanderlande, 1949 yılında Eddie van der Lande tarafından kurulan Vanderlande Industries B.V. bünyesindeki malzeme taşıma ve lojistik otomasyon markasıdır.Dünyanın en büyük beşinci malzeme işleme sistemleri tedarikçisidir. Vanderlande havaalanları için bagaj taşıma sistemleri yapar. Dünyanın en büyük 25 havaalanlarının 17’si de dahil olmak üzere, dünyadaki 600’den fazla havaalanı Vanderlande’nin bagaj taşıma sistemlerini kullanmaktadır.Vanderlande Hollanda, Belçika, Almanya, Fransa, İspanya, İngiltere, Kanada, Çin, Hindistan, Güney Afrikave Amerika Birleşik Devletleriek üretim ve servis yerleri vardır.2016 yılında Japonya merkezli Toyota Industries, Vanderlande Corp.’u satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

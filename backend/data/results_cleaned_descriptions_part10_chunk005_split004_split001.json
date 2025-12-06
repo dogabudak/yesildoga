@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bfn Express",
+    "description": "2018 yılında kurulmuş olan Bfn Uluslararası Kargo ve Lojistik Ltd. Şti. bünyesindeki deniz yolu, hava yolu, kara yolu taşımacılığı, kargo ve lojistik hizmetleri gümrükleme hizmetleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ülkea",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "5.11 Tactical",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nard",
+    "description": "2014 yılında kurulmuş olan Breathe B International Co. Ltd. bünyesindeki şampuanlar, duş jelleri, el kremi, güneş krem ve losyonları, köpük, maskeler, saç dökülmesine karşı ürünler, saç kremleri, saç maskeleri, bakım krem, losyon ve spreyleri, vücut losyon ve kremleri markasıdır.Breathe B International Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Rollingsoft",
+    "description": "1919 yılında temeli atılan Gabor Shoes AG bünyesinde üretilen spor ayakkabı markasıdır.Taban çoklu katmanlardan oluşur ve yastıklı topuk yumuşak bir yürüyüş sağlar.Gabor Shoes AG Almanya merkezlidir. Almanya’da tasarlanan ürünleri Portekiz ve Slovakya’daki kendi fabrikalarında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2025-08-12"
+  }
+]

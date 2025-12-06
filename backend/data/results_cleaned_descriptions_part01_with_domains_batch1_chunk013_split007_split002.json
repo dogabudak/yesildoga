@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Leitz",
+    "description": "Leitz, 1871 yılında Louis Leitz tarafından kurulan ofis malzemeleri markasıdır.2016 yılında ACCO Group tarafından satın alınarak şirketin adın Leitz ACCO Brands GmbH & Co KG olarak değiştirildi.ACCO Group Amerika merkezli ofis ürünleri üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Morfose",
+    "description": "“Morfose“2016 yılında kurulmuş olan Morfose Kişisel Bakım ve Kozmetik Ürünleri San. Tic. A.Ş. bünyesindeki kişisel bakım ve kozmetik ürünleri markasıdır.ISO 9001, ISO 22716, ISO 27001, Helal belgelerine sahiptir.Sora Grup şirketi olan Morfose İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22716",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-09-13"
+  },
+  {
+    "company": "FIA Dünya Ralli Şampiyonası",
+    "description": "FIA Dünya Ralli Şampiyonası Kimin Hangi ÜlkeninFIA Dünya Ralli Şampiyonası ticari hakları 2014 yılından beri WRC Promoter GmbH şirketine aittir. WRC Promoter GmbH, Red Bull Media House ve KW 25’in ortak şirketidir.WRC Promoter, yayın formatları, TV içeriği ve küresel medya ve sponsorluk haklarının pazarlama dahil olmak üzere FIA Dünya Ralli Şampiyonası’nın tüm ticari haklarından sorumludur.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Benjamin",
+    "description": "Benjamin, Katre Dijital Dayanıklı Tüketim Malları Bilgisayar Elektrik Elektronik İthalat İhracat San. ve Tic. Ltd. Şti.’ye ait markadır.Elektrikli ev aletleri grubunda, Hatay’da bulunan Öncü Elektrik Elektronik Ltd. Şti. tarafından üretilmektedir.Benjamin markalı çok sayıda firmanın çok sayıda farklı ürünü bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rocky Rice",
+    "description": "Rocky Rice, 2001 yılında kurulan Benlian Foods d.o.o. bünyesindeki sağlıklı glutensiz gıda ürünleri markasıdır.Firmanın asıl amacı sağlıklı ve hafif atıştırmalıklar üretmektir.Benlian Foods d.o.o. Sırbistan merkezli gıda üreticisi ve dağıtıcısıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RS",
+    "updated_date": "2022-03-24"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "company": "Temel",
+    "description": "Temel, 1993 yılında kurulmuş olan Temel Gıda ve Toprak Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen çekirdeksiz kuru üzüm markasıdır.ISO 9001, IFS ve BRC belgelerine sahiptir.Firma Manisa merkezlidir. Ürübleri 40’tan fazla ülkeye ihraç edilmektedir.",
+    "documents": [
+      "BRC",
+      "IFS",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Carnus Şampuan",
+    "description": "Carnus Şampuan Nerenin Malı MarkasıCarnus, 2013 yılında kurulmuş olan Dinamo Kozmetik ve Tekstil Dış Tic. A.Ş. bünyesinde üretilen bar-sıvı sabun, duş jeli, şampuan, kolonya, cilt bakım kremi, mendil, losyon, antibakteriyel sıvı sabun, medikal maske, antibakteriyel jel markasıdır.GMP, BRC, ISO 9001 belgelerine sahiptir.Firma Kocaeli merkezlidir. Kocaeli, Antalya ve ABD’de üretim yapmaktadır.Bünyesindeki markalar;AssisiCarnusPufypathsRubarro",
+    "documents": [
+      "BRC",
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Safa Tarım",
+    "description": "Safa Tarım, 1974 yılında kurulmuş olan Safa Tarım A.Ş. bünyesindeki tarım ilaçları markasıdır.Böcek, mantar, ot ilacı ve bitki gelişim düzenleyicilerden oluşan bir ürün yelpazesine sahiptir.Firma Konya merkezlidir. Ürünlerini 15 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tatlog",
+    "description": "Tatlog, 2012 yılında kurulmuş olan Tatlog Lojistik Hizmetleri A.Ş. bünyesindeki lojistik hizmetleri markasıdır.Gümrüklü ve gümrüksüz depolama ile birlikte kara, deniz ve hava taşımacılığı alanlarında hizmet vermektedir.ISO 9001, ISO 22000 belgelerine sahiptir.Memişoğlu Grup bünyesindeki firma Mersin merkezlidir. Tesisi 30 bin metrekare kapalı, 15 bin metrekare açık alana sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yanton",
+    "description": "Yanton, 2009 yılında kurulmuş olan Quanzhou Yanton Electronics Co. Ltd. bünyesinde üretilen telsiz, kablosuz iletişim ekipmanları, radyolar, tekrarlayıcı markasıdır.ISO 9001 belgesine sahiptir.Quanzhou Yanton Electronics Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 58’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

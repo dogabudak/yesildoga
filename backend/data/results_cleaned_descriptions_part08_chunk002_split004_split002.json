@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Billas",
+    "description": "Billas, 1976 yılında kurulmuş olan Billas Lastik ve Kaucuk San. A.Ş. bünyesinde üretilen bisiklet, motosiklet, scooter ve implement, tarım lastikleri, kaplama ve soğuk sırt kauçuğu ile birlikte konveyör bant markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.İzmir merkezli firma Bilecik 1. OSB’de 93 bin metrekarelik alanda bulunan fabrikasında üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Orjene Organics",
+    "description": "Orjene Organics, 2007 yılında kurulmuş olan The Hain Celestial Group Inc. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri paraben, SLS içermez ve hayvanlar üzerinde test edilmezThe Hain Celestial Group Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Malva",
+    "description": "Malva, 2011 yılında kurulmuş olan Malva Kozmetik Petr. Gıda Turizm İnş. İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen oje, ruj, maskara, far, allık, pudra, fondöten ve lipgloss markasıdır.ISO 9001, ISO 22716, GMP, Helal belgelerine sahiptir.Firma Kocaeli merkezlidir. Ürünlerini Gebze Plastikçiler OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çfç Çiftçiler",
+    "description": "Çfç Çiftçiler Nerenin Malı MarkasıÇfç Çiftçiler, 1989 yılında kurulmuş olan Çiftçiler Dayanıklı Tüketim Malları Mobilya Gıda ve İhtiyaç Maddeleri Pazarlama Tic. ve San. Ltd. Şti. bünyesindeki çift cidarlı bardak, porselen yemek takımı, akrilik banyo setleri, bambu kapaklı porselen baharat takımları, borosilikat ürünler,, cam çaydanlık, cezveler, kavanoz, yağlıklar, desenli fincan ve nescafe setleri, kahvaltı takımları, kahvaltılık, lüks ayaklı meyvelik, kahve fincanları, metal sunum serisi, lüks vazolar, metal çöp kovaları ve wc fırçalıklar, metal mutfak grubu, mumluklar, pişirme grubu, plastik banyo ürünleri, porselen baharat takımları, banyo setleri, kahvaltı takımları, kupalar, seri, sunumluklar, yağlık, sürahiler, seramik ürünler, ikon kahvaltılık çerezlik, baharat takımları, yerli lüks porselen fincan takımları markasıdır.Firma Erzurum merkezlidir.Bünyesindeki markalar;ÇfçÇfç”Çiftçiler”ÇiftçilerBuenosFincan Aşkı “Mutluluğa Bi Kahve”",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-03"
+  },
+  {
+    "company": "Cosme de Corte",
+    "description": "Cosme de Corte, 1946 yılında kurulmuş olan Kose Corporation bünyesinde üretilen cilt bakım ürünleri markasıdır.Kosé Corporation Japonya merkezlidir ve ürünlerini Japonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

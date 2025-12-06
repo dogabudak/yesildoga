@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Taft Saç Şekillendirici",
+    "description": "Taft1876 yılında kurulmuş olan Henkel Ag & Co. Kgaa bünyesinde üretilen saç şekillendirme ürünleri markasıdır.Henkel Ag & Co. Kgaa Almanya merkezlidir. Türkiye’de Türk Henkel Kimya San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tıkla Gelsin",
+    "description": "TıklaGelsinAta Express Elektronik İletişim Tanıtım Pazarlama Dağıtım San. ve Tic. A.Ş. bünyesindeki mobil paket servis uygulaması markasıdır.Uygulama üzerinden Burger King, Popeyes, Arby’s, Sbarro, Usta Dönerci, Usta Pideci ve Subway restoranlarının tüm ürünleri sipariş verilebilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-09-28"
+  },
+  {
+    "company": "Wexta",
+    "description": "Wexta2016 yılında kurulmuş olan STL Teknoloji Ltd. Şti. bünyesindeki valizler, bavullar, çantalar, koruyucu yüz maskesi markasıdır.Firma İstanbul merkezlidir. Ürünlerini 20 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "34 Kilit",
+    "description": "Kilit1999 yılında kurulmuş olan Doğan Kilit ve Madeni Eşya San. ve Tic. A.Ş. bünyesinde üretilen kilit markasıdır.Firma İstanbul merkezlidir ve ürünlerini 42 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cosmolive",
+    "description": "Cosmolive2019 yılında kurulmuş olan Cosmolive Kozmetik San. ve Tic. A.Ş. bünyesindeki doğal içerikli kozmetik ürünler markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

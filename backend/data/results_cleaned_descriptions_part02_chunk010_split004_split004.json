@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Renesola",
+    "description": "Renesola, 2005 yılında kurulan ReneSola Ltd. bünyesindeki güneş proje geliştiricisi ve operatörü markasıdır.Güneş Enerjisi, güneş enerjisi, PV, güneş PV, dağıtılmış üretim, toplum güneş, güneş geliştirme, güneş finansmanı, Yenilenebilir Enerji ve Enerji Depolama Sistemleri üretmektedir.ReneSola Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wuling Motors",
+    "description": "Wuling Motors, 2007 yılında kurulan Liuzhou Wuling Automobile Industry Co, Ltd. bünyesindeki motorlar, özel amaçlı araçlar, mini elektrikli arabalar, kamyon ve otobüs ve otomobil parçaları markasıdır.Liuzhou Wuling Automobile Industry Co, Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Littelfuse",
+    "description": "Littelfuse, 1927 yılında Edward V. Sundt tarafından kurulan Littelfuse, Inc. bünyesindeki yarı iletken, koruma röleleri, sensör, sigorta, gaz boşaltma tüpleri, varistorlar, thyristor, ESD bastırıcılar markasıdır.Şirket öncelikle devre koruma ürünleri üretmekle birlikte çeşitli elektronik anahtarlar ve otomotiv sensörleri de üretmektedir.Littelfuse, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tempe",
+    "description": "Tempe, 1989 yılında kurulan Tempe S.A. bünyesindeki ayakkabı ve aksesuarları markasıdır. Inditex Grubu’nun şirketidir.Tempe, moda sektörünün ana iş gruplarından Inditex Grubu’nun ayakkabı ve aksesuar koleksiyonlarını tasarlayıp üreterek dünya çapında dağıtmaktadır. Fiziksel mağazası yoktur.Merkezi, Avrupa’nın ana ayakkabı üretim merkezlerinden biri olan İspanya’da bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Meetme",
+    "description": "Meetme, 2005 yılında Geoff, David ve Catherine Cook tarafından kurulan The Meet Group, Inc. bünyesindeki sosyal ağ servisidir.Her ay milyonlarca kullanıcının mobil uygulamalar ve hizmetler portföyünden topluluk bulmasını amaçlar.Uygulamaları iPhone, iPad ve Android’de birden fazla dilde kullanılabilir. Bu uygulamalar aracılığıyla kullanıcılar canlı video akışı yapabilir, hediye gönderebilir, sohbet edebilir ve fotoğraf paylaşabilir. Meet Group, uygulama içi satın alımlardan, aboneliklerden ve reklamlardan gelir elde eden Amerika merkezli bir şirkettir.Bünyesindeki markalar:MeetMeLovooSkoutTaggedGROWLr",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

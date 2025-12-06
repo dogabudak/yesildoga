@@ -1,0 +1,44 @@
+[
+  {
+    "company": "TL Elektronic",
+    "description": "TL Elektronic, 1995 yılında kurulan TL Elektronic Inc. bünyesinde üretilen uçak aletleri ve yerleşik sistemler markasıdır.Aviyonik, Cam kokpit, Elektronik Uçuş Aleti Sistemi üretmektedir.TL Elektronic Inc. 1995 yılında kurulmuş ve Çek Cumhuriyeti’nde Prag’ın 100 km doğusunda yer alan Hradec Králové Havaalanı’nda bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Quax",
+    "description": "Quax, 1990 yılında kurulan Quax NV bünyesindeki bebek ve çocuk mobilyaları markasıdır.Kumaşlar ve yumuşak oyuncaklar, mobilya koleksiyonun yumuşak tonları ile uyum sağlayan modaya uygun renklerde tasarlanmıştır.Quax NV Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Aeropostale",
+    "description": "Aeropostale, 1987 yılında kurulan Aero OpCo LLC. bünyesindeki gündelik giyim ve aksesuarların çok kanallı perakende markasıdır.Aéropostale’nin uluslararası alanda 800’e yakın mağazası bulunmaktadır.Aero OpCo LLC genç kadınlara ve erkeklere hizmet veren Amerika merkezli özel bir günlük giyim ve aksesuar perakendecisidir. Ürünlerini çok sayılda ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-09-25"
+  },
+  {
+    "company": "Supersmile",
+    "description": "Supersmile, 1987 yılında Irwin Smigel tarafından kurulan diş fırçası, diş macunu ve tam ağız bakım ürünleri markasıdır.Profesyonel beyazlatıcı diş macunu doğal dişlerin yanı sıra diş restorasyonlarını güvenli bir şekilde beyazlatmak, temizlemeyi amaçlıyor.Supersmile Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Watco",
+    "description": "Watco, 1927 yılında kurulan Watco UK Ltd. bünyesinde üretilen zemin kaplama ve onarım ürünleri markasıdır.Ahşap bakımı ve kereste tedavileri, beton yüzeyler için toz geçirmezlik ve sızdırmazlık, beton zemin boya ürünleri üretmektedir.Watco UK Ltd. İngiltere merkezlidir. Ürünleri dünya çapında pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

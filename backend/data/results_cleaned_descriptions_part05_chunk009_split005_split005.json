@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Tonello The Inspiring Company",
+    "description": "Tonello, 1981 yılında kurulan Tonello Srl bünyesinde üretilen tekstil yıkama makineleri, boyama makineleri, numune alma makineleri markasıdır.Tonello Srl İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Kookai",
+    "description": "Kookai, 1983 yılında Rob Cromb ve Danielle Vagner tarafından kurulan Kookai SAS bünyesindeki giyim markasıdır.Ürün yelpazesinde ceket, deri ürünler, elbiseler, etek, gömlek, kazak ve yelekler, kot, pantolon, tişört gibi ürünler yer almaktadır.Avustralya menşeli Kookai SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Shanda Games",
+    "description": "Shanda Games, 1999 yılında Shanda Interactive Entertainment Limited bünyesinde kuruldu.Çevrimiçi oyun yayıncısı ve operatörü Shengqu Games 2009 yılında Çin merkezli Zhejiang Century Huatong bünyesine geçti.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Deka Lash",
+    "description": "Deka Lash, 2011 yılında Jennifer Blair tarafından kurulan DL IP Holdings LLC bünyesindeki güzellik bakım hizmetleri, kirpikler, kozmetik kaş bakım hizmetleri markasıdır.Kirpikler için özel olarak formüle edilmiş bir ürün grubu ve hizmetleri vardır.DL IP Holdings LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tropical Smoothie Cafe",
+    "description": "Tropical Smoothie Cafe, 1997 yılında Eric Jenrich, Delora Jenrich, David Walker tarafından kurulan Tropical Smoothie Cafe LLC bünyesindeki restoranlar markasıdır.Ürün yelpazesinde sandviç, salata, ekmek, sos, içecekler ve smoothies yer almaktadır.Tropical Smoothie Cafe LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Raijintek",
+    "description": "Raijintek, 2013 yılında kurulan Raijintek Co. Ltd. bünyesindeki kasa, soğutma, güç kaynakları ve aksesuarları markasıdır.Akıllı telefon ve tablet bilgisayarlar için aksesuarlar sunmaktadır.Raijintek Co. Ltd. Tayvan merkezlidir ve ürünleri Almanya’da tasarlanıp Tayvan’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Celluon",
+    "description": "Celluon, Celluon, Inc. bünyesinde üretilen mobil giriş ve lazer projeksiyon teknolojileri markasıdır.3D elektronik Algılama Teknolojisi (EPT) ve lazer tabanlı pico projektörlerini kullanan projeksiyon klavyesi modülünün ve nihai ürünlerin araştırma, geliştirme ve üretimine büyük ölçüde katılmaktadır.Celluon, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vivitek",
+    "description": "Vivitek, 1971 yılında kurulan Delta Electronics, Inc. bünyesindeki görsel ekran ve sunum ürünleri markasıdır.Projeksiyon çözümleri, dijital tabela, dokunmatik ekranlar, LED video duvarları ve kablosuz ürünlerle geniş bir yelpaze sunmaktadır. Vivitek’in dijital projeksiyon ve ekran ürünleri serisi, eğitim, iş, ev sineması ve büyük mekan için pazar taleplerini karşılamak için en son yenilikleri ve teknolojileri içermektedir.Delta Electronics, Inc. Tayvan merkezlidir, üretim tesisleri Çin’de bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Satechi",
+    "description": "Satechi, 2005 yılında kurulan Sariana LLC bünyesindeki teknoloji ürünleri ve aksesuarları markasıdır.Ürünleri arasında ses cihazları (bluetooth hoparlör, fm verici, bluetooth kulaklık), kumandalar (multimedya uzaktan kumanda, sunum uzaktan kumandası), akıllı telefon aksesuarları (akıllı telefon kılıfı, akıllı telefon kabı veya tutucu, pil şarj cihazı), ofis aksesuarları (masa lambası, masa organizatörleri), bilgisayar aksesuarları (usb 2.0 ve 3.0 hub, tablet bağlar / tutucular, kablosuz klavye, aşırı gerilim koruyucuları, ağ bağdaştırıcıları), kamera ekipmanları (uzaktan panjurlar, yanıp söner / işıklar, pil kulpları, lens davlumbaz) yer almaktadır.Tip-C ürünlerini tasarlayan ve taşıyan ilk tüketici elektroniği firmasıdır.Sariana LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Misa",
+    "description": "Misa, 2006 yılında kurulan Misa Kozmetik Ürünleri bünyesinde üretilen şampuan, bitkisel yağlar, güneş ürünleri, jel, krem, losyon, vazelin markasıdır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Artmex",
+    "description": "Artmex, 2010 yılında kurulan Guangzhou Ekai Electronic Technology Co., Ltd. bünyesinde üretilen makyaj cihazı markasıdır.Artmex markalı cihazlar ISO 9001 belgesine sahiptir.Guangzhou Ekai Electronic Technology Co., Ltd. Çin merkezli bir şirkettir ve ürünleri Çin’de bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Soins Organic",
+    "description": "Soins Organic, 2017 yılında Özge Özel tarafından kurulan Özge Özel Güzellik Hizmetleri Ltd. Şti. bünyesindeki cilt ürünleri, erkek ürünleri, makyaj, organik ürünler, saç ve yüz ürünleri markasıdır.Soins Organic markalı ürünler, esansiyel yağlar ve besleyici elementler ile zenginleştirilmiştir.Etko COSMOS Organik Kozmetik belgesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Garage Organics",
+    "description": "Garage Organics, 2015 yılında Ahmet Çoban tarafından kurulan Garage Organik Kozmetik ve Kimyevi Mad. Ürün. San. ve Tic. Ltd. Şti. bünyesinde üretilen saç bakım ürünleri markasıdır.Etko Cosmos Organic ve helal belgelerine sahiptir.Organik tarım kaynaklı bitkilerin, soğuk pres özleri ve yağları laboratuvar ortamında saç ve vücut için bir araya getirmektedir. Ürünlerinde sağlığa zararlı kimyasallar yer almamakta.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vorcom",
+    "description": "Vorcom2018 yılında kurulmuş olan Asya Pasifik Teknoloji İthalat İhracat Dış Tic. Ltd. Şti. bünyesinde ithal edilen tablet, usb flash bellek, tablet aksesuarları markasıdır.Firma İstanbul merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-10"
+  },
+  {
+    "company": "Zowie",
+    "description": "“Zowie“2008 yılında BenQ Corporation bünyesinde üretilen profesyonel esports ekipmanları; ekran, mouse, mouse pad, klavye, ses sistemi ve aksesuarları markasıdır.Benq Corporation Tayvan merkezlidir. Tayvan, Çin, Malezya, Meksika ve Brezilya’da üretim tesisleri bulunmaktadır.. 2004 yılından beri Türkiye pazarında yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2024-11-20"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Motorex",
+    "description": "Motorex, 1917 yılında Arnold Bucher, Fritz Jenzer tarafından kurulmuş olan Bucher AG Langenthal bünyesindeki yağlar, deri bakım ürünleri, zemin bakım ürünleri, ev temizleyicileri, temizlik ürünleri markasıdır.Şirketin faaliyet alanı kimyasal müstahzarların üretimini içermektedir.Bucher AG Langenthal İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Asrın Plastik",
+    "description": "Asrın Plastik Nerenin Malı MarkasıAsrın Plastik, 1972 yılında kurulmuş olan Asrın Plastik ve Kalıp San. ve Tic. A.Ş. bünyesinde üretilen organizerler, çekmece ve kutular, avadanlıklar, ayakkabı kutuları, ilk yardım çantaları, mutfak ve banyo, tabureler, takım çantaları, tekerlekli takım çantaları markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 12 bin 500 metrekaresi kapalı toplam 15 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Winnerwell",
+    "description": "Winnerwell, Winnerwell Outdoors Pty. Ltd. bünyesinde üretilen kamp sobaları, dış ortam sobaları, ateş çukurları, şofben ve aksesuarlar markasıdır.Odun sobaları ve aksesuarları 304 paslanmaz çelikten sahada dayanacak şekilde üretilmektedir.Winnerwell Outdoors Pty. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Anadolu Strong",
+    "description": "Anadolu Strong, Dünyamarketim Sanal Paz. San. ve Tic. Ltd. Şti. bünyesindeki elektrikli el aletleri, hırdavat ürünleri, yapı market ve bahçe ürünleri, el aletleri, otomobil ve motosiklet ürünleri, taşlama ve polisaj makineleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Buler Watches",
+    "description": "Buler Watches, 1991 yılında kurulmuş olan Free Town Watch Products Ltd. bünyesindeki saat markasıdır.Free Town Watch Products Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

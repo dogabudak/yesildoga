@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Sheer Cover",
+    "description": "Sheer Cover, 1988 yılında Bill Guthy ve Greg Renker tarafından kurulan Guthy-Renker LLC bünyesindeki cilt bakım ürünleri markasıdır.Ürünleri paraben ve koku içermemektedir. Hassas ciltlere uygundur.Guthy-Renker LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alagözler Kuruyemiş",
+    "description": "Alagözler Gıda Kuruyemiş, 1970 yılında kurulan Alagözler Gıda San. Tic. Ltd. Şti. bünyesindeki kuruyemiş, kuru meyveler, antep fıstığı ve fındık üzerine tamamen naturel ürünler markasıdır.Antep fıstığı, kuru meyveler, kuruyemişler, lokum ve draje, pastacılık ürünleri, toptan kuruyemiş, yöresel ürünler satışı yapmaktadır.ISO 22000, ISO 14001, ISO 45001 ve Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lowrance",
+    "description": "2006 yılında Simrad Yachting ve Lowrance Electronics’in birleşmesiyle kurulan Navico Holding AS bünyesindeki hassas balık bulucular, sonar, canlı sonar, grafik çiziciler, trolling motorları, radar, sensör, otopilotlar markasıdır.Navico Holding AS 2021 yılında Amerika merkezli Brunswick Corporation tarafından satın alınmıştır.Bünyesindeki markalar;AncorAttwoodB&GBepBlue Sea SystemsC-Map",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-12-23"
+  },
+  {
+    "company": "Master Builders Solutions",
+    "description": "Master Builders Solutions, MBCC Groups bünyesindeki inşaat için gelişmiş kimyasal çözümler markasıdır.Beton, çimento katkı maddeleri, kimyasal çözümler, sızdırmazlık ürünleri, onarım ve koruma çözümleri, performans harçları, performans zemin kaplama çözümleri su yalıtımı için kalıcı çözümler içeren ürünler sunmaktadır.Amerika merkezli Lone Star Funds’a ait olan MBCC Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "2 Rance",
+    "description": "Rance, 1795 yılında Jeanne Sandra Rance tarafından kurulan Rancé & C srl bünyesindeki parfüm markasıdır.Kadınlar ve erkekler için narenciye aromatik bir kokudur.Rancé & C srl İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

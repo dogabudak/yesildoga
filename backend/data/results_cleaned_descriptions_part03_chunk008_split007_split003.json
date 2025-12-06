@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Greentom",
+    "description": "Greentom, 2013 yılında kurulan Greentom Operations B.V. bünyesindeki geri dönüştürülebilen malzemelerden üretilen bebek arabası markasıdır.Ürünleri BPA, Ftalat veya PVC ve paraben içermemektedir.Greentom Operations B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Bitaksi",
+    "description": "Bitaksi, 2013 yılında kurulan Bitaksi Mobil Teknoloji A.Ş. bünyesindeki taksi çağırma uygulaması markasıdır.Akıllı telefon üzerinden çağırılan taksi en yakın noktadan kullanıcıya ulaşmaktadır. Uygulama üzerinden gidilecek yerin ücreti öğrenilebilir. Herhangi bir ekstra ücret alınmaz sadece taksimetre ücreti ödenir. Harita üzerinden anlık olarak gelen taksi ve şoför bilgileri görüntülenebilir. Yolculuk bitince sürücüye yorum yapılarak puan verilebilir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yoskine",
+    "description": "Yoskine, 2010 yılında kurulan Dax Cosmetics bünyesindeki kozmetik ürünler markasıdır.Dax Cosmetics 2014 yılında, Yasutami Yamada tarafından kurulan kozmetik ve ilaç şirketi olan Rohto Pharmaceuticals Group’un bir parçası oldu.Rohto Pharmaceuticals Group 150 ülkede faaliyet gösteren Japonya merkezli bir şirkettir.Bünyesindeki markalar:CASHMERECELIADAX MENDAX SUNHADA LABOPERFECTAYOSKINE",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Massimo Ricco",
+    "description": "Massimo Ricco, Sns Dış Ticaret Ltd.Şti. tarafından ithal edilen bebek arabası markasıdır.Massimo Ricco markalı ürünler The Seller Goodbaby Child Products Co,Ltd tarafından Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Amoi",
+    "description": "Amoi, 1997 yılında kurulan Amoi Technology Co, Ltd. bünyesindeki mobil iletişim cihazlar markasıdır.Cep telefonu ve LCD televizyonlar da dahil olmak üzere çok çeşitli tüketici elektroniği ürünleri üretmektedir. Ayrıca INQ Phone ile birlikte 3 Skypephone cep telefonu üretmektedir.Amoi Technology Co, Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

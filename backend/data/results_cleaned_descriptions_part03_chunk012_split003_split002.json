@@ -1,0 +1,51 @@
+[
+  {
+    "company": "PNS Pendik Nişasta",
+    "description": "PNS Pendik Nişasta, 1993 yılında Cargill(Cerester) ve Ülker ortaklığında kurulan PNS Pendik Nişasta Sanayi A.Ş. bünyesinde üretilen mısır nişastası, glikoz ve fruktoz şurubu, mısır özü, mısır glüteni ve mısır kepeği markasıdır.Pendik-Kurtköy OSB’de üretim yapmaktadır.ISO 9001, ISO 22000, ISO 14001, ISO 27001 belgelerine sahiptir.Cargill Inc. Amerika merkezlidir. Ülker Bisküvi Sanayi A.Ş.’nin sahibi ve kontrolü Ülker ailesine ait Yıldız Holding’dedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hook",
+    "description": "Hook, 2000 yılında Merttuğ ailesi tarafından kurulan Merttuğ Plastik Elektronik San. ve Tic. Ltd. Şti. bünyesinde üretilen şofben, hoparlör, ısıtıcı ayağı, ısıtıcı, lcd askı aparatı, tost makinelsi, uydu ve anten, vantilatör markasıdır.Merttuğ Plastik Elektronik yüzde 100 Türk Sermayesi ile kurulmuştur ve ürünleri yüzde 100 Türk Malıdır.Bünyesindeki markalar:HookRexona",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lanner Electronics",
+    "description": "Lanner Electronics, 1986 yılında kurulan Lanner Electronics, Inc. bünyesindeki ağ aletleri, endüstriyel bilgisayarlar, gömülü bilgisayarlar, araç bilgisayarları, anakartlar ve ilgili aksesuarlar markasıdır.Lanner Electronics’in ana ürünleri ağ cihazı platformları, sağlam gömülü bilgisayarlar ve telekomünikasyon taşıyıcı sınıfı platformlardır.Lanner Electronics Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Holle",
+    "description": "Holle, 1933 yılında Holle Demeter tarafından kurulan organik bebek maması, bebek sütü, bebekler için tahıl bazlı yulaf lapası, bebek sütü lapası, meyve, sebze ve etten yapılan bebek maması, bebekler için rusks, bebekler için bitki çayları, bebekler için bar ve bisküviler markasıdır.İsviçre merkezli Udo Fischer ve Almanya merkezli Holle baby food AG bünyesindeki markanın ürünleri İsviçre ve Almanya’da bulunan üretim tesislerinde üretilmektedir. Holle markalı ürünler 40’tan fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Microtek",
+    "description": "Microtek, 1980 yılında kurulan Microtek International Inc. bünyesinde üretilen tarayıcı, dijital görüntüleme, tıbbi görüntüleme, LCD’ler markasıdır.Ürünleri arasında otomotiv için bilgi-eğlence sistemleri, otomotiv navigasyon sistemi, sürücü video kaydedici, araç kayıt kamerası, bağlı araç çözümleri, akıllı saat, giyilebilir bilgisayar yer almaktadır.Microtek International Inc. Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

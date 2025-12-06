@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Halitosil",
+    "description": "Halitosil, 2009 yılında kurulan İlhami Kotan İmk Farma Satış ve Pazarlama bünyesinde üretilen ağız bakım gargarası, ağız kokusu giderici gargara, dil yıkama jeli gibi ağız bakım ürünleri markasıdır.Dil jeli; alkol, tatlandırıcı, koruyucular, SLS ve deterjan içermez.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Üstatlım",
+    "description": "Üstatlım Nerenin Malı MarkasıÜstatlım, 2015 yılında kurulan Tatlim Süt Ürünleri İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen şekerpare, ekler pasta, ekmek kadayıfı, kazandibi, profiterol, revani, sütlaç, supangle markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;ÜstatlımHaydar Efendi ÇiftliğiKokobombaTatlımbombaTatlımsüt",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aftoral",
+    "description": "Aftoral, 2005 yılında kurulan Abfen Farma San. ve Tic. Ltd. Şti. bünyesinde üretilen kulak, burun, boğaz ürünleri, çocuk sağlığı ürünleri, takviye edici gıdalar, probiyotikler, kadın sağlığı ürünleri markasıdır.ISO 13485, ISO 22000 belgelerine sahiptir.Ankara merkezli firma ürünlerini Başkent OSB’de bulunan fabrikasında üretmektedir.Bünyesindeki markalar;Abfen A Sınıfı YıkamaAbfen Burun YıkamaAbfen Farma VAbfen Nazal IrigasyonAbfen Nazal YıkamaAbfen Sınus RınseAftoralAlenistaAnkiraBaby DropsBactiflorBakfenBiotaflorBorigynoCastellaniDes-TeamDost BakterilerFarusFidelisFinexKorudermLarge Volume Nasal IrrigationLavagynoMenofenMenuraMoti EntMotiflorMürfenNakfeniaNasoclearNasogynoNasonemNasorinseNasovakNasowashNazalnem Burun DamlasıNemgynoOksiborOksibuşonOrekaPastifenPastofenPastplusPeroksiborProbiofenProbiyofenSambufenSınus RınseTeradermaTerapasTerapeksTerapexTintus FormulaVetamamVetanistaVeterifenYüksek Hacimli Nazal YıkamaZenobabyZenodermaZonpas",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Torq Nutrition",
+    "description": "Torq Nutrition, 1990 yılında kurulan Allergo İlaç A.Ş. bünyesindeki sporcu gıdası ve gıda takviyesi markasıdır.Helal belgeli ham maddeler kullanılarak üretilmektedir ve ISO 9001, ISO 14001, ISO 22716, ISO 45001 belgelerine sahiptir.Allergo İlaç Dış Tic. A.Ş., Almanya merkezli Allergopharma GmbH & Co. KG’nin Türkiye dağıtıcısıdır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fixodent",
+    "description": "Fixodent, The Procter & Gamble Company bünyesinde üretilen protez yapıştırıcı ürünleri markasıdır.Protez yapıştırıcı kremi, protezin ve diş etlerinin bir bütün haline gelmesini sağlayan bir tabaka oluşturur. Sert gıda parçacıklarının protezin altına girmesini önlemeye yardımcı olan bir koruma contası oluşturur. Nefesi altı saate kadar taze tutan anti-bakteriyel etki ile ağız kokusunu giderir.The Procter & Gamble Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

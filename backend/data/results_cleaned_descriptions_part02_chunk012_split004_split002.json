@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Speedy Cover",
+    "description": "Speedy Cover, 1976 yılında kurulan Ri.Plast srl bünyesindeki okul ve ofis eşyaları markasıdır.Kitap kapağı, rulo, paket, aksesuar, okul seti, kağıt, klasör, evrak çantası, cilt, hediye çantası gibi ürünlere sahiptir.İsviçre, Fransa, İrlanda, Türkiye, Malta, Kıbrıs, Yunanistan, Portekiz, Hollanda, Belçika, Danimarka, Norveç, Birleşik Krallık, Finlandiya, Estonya, Slovenya, Sırbistan, Honduras gibi ülkelere ürünlerini ihraç etmektedir.Kitap ve ders defter kapları; PP, PVC ya da PE gibi çeşitli plastik malzemelerden üretilmektedir.Ri.Plast srl İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.Bünyesindeki markalar:MyDeskMyGiftMySchoolPaperDreamRiplastSpeedyCover",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Donas",
+    "description": "Donas, 1997 yılında kurulan Donas Otomotiv İnşaat Tah. Konfeksiyon İthalat İhracat Döner Fırıncılık Gıda Maddeleri San. Tic. Ltd. Şti. bünyesindeki Tavuk ve Et Dürüm ürünleri ve hizmetleri markasıdır.Ürünlerinde hiçbir koruyucu ve katkı maddesi kullanılmamaktadır. Kalan artıklar malzemelere karıştırılmamaktadır. 22 şehirde şubeleriyle hizmet vermektedir.King Cert Helal Sertifikası, ISO 9001:2008, ISO 22000:2005 ve OHSAS 18001:2007 sertifikalarına sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alpine",
+    "description": "Alpine, 1967 yılında Alps Electric Co., Ltd. bünyesinde kurulan araç içi ses ürünleri ve araç içi bilgi ve iletişim ürünleri markasıdır.Başlıca ürünleri arasında potansiyometre, sensör, çözücü ve dokunmatik yüzeyler gibi elektronik cihazlar yer almaktadır.Alps Electric Co., Ltd. , yüksek performanslı mobil elektronik sektöründe lider ve mobil multimedya konusunda uzmanlaşmış tek üreticidir. Japonya merkezli bir elektronik şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Anritsu",
+    "description": "Anritsu, 1895 yılında kurulan Anritsu Corporation bünyesindeki ölçüm aletleri, mikrodalga, rf ve optik ürünler, tartım makineleri, metal dedektörleri, x-ray kontrol sistemleri markasıdır.Anritsu Corporation, telekomünikasyon elektronik ekipman pazarında yer alan Japonya merkezli çokuluslu bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Dalgakıran",
+    "description": "Dalgakıran Nerenin Malı MarkasıDalgakıran, 1965 yılında kurulan Dalgakıran Makine San. Tic. ve A.Ş. bünyesindeki kompresör, makine markasıdır.İstanbul’da bulunan 3 fabrikasında üretim yapmaktadır. Üretiminin yüzde 70’ini 130’dan fazla ülkeye ihraç etmektedir.Vidalı, pistonlu, turbo kompresörler, basınçlı hava kurutucular, basınçlı hava filtreleri ürünleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

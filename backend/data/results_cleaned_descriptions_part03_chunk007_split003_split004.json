@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Durable",
+    "description": "Durable, 1920 yılında kurulan DURABLE Hunke & Jochheim GmbH & Co. KG bünyesinde üretilen sıkıştırmalı dosya, sunum ünitesi, duraframe mıknatıslı çerçeve, renkli ofis ürünleri, kartvizitlik, isimlik markasıdır.ISO 9001 belgesine sahiptir.Durable markalı ürünlerin büyük bir kısmı Almanya’daki üretim tesislerinde üretilirken, bir kısmı Polonya’da üretilmektedir. DURABLE Hunke & Jochheim GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Arofol",
+    "description": "Arofol, 1896 yılında Hubert Kurz ve Carl Eger tarafından kurulan VP Group bünyesinde üretilen hava kabarcıklı zarflar markasıdır.Arofol markalı ürünler yüzde 100 geri dönüşümlü kağıttan üretilmektedir. ISO 9001, ISO 14001 belgelerine sahiptir.VP Group Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dingling",
+    "description": "Dingling, 1989 yılında kurulan Koç Kozmetik Paz. San. ve Dış Tic. Ltd. Şti. bünyesindeki profesyonel kişisel bakım ürünleri markasıdır.Dingling markalı profesyonel saç kesme makinesi, fön makinesi ve saç şekillendirici ürünleri Çin’de üretilmektedir.Bünyesindeki markalar:AndaChaobaConanDinglingErtem-XGold StilJelitaOystarPro-SharpProfessional DınglıngProkaiProluxPromacPromaxProstillSilver FoxWave",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Xolo",
+    "description": "Xolo, 2014 yılında kurulan Ertuğrul Elektronik ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen mekanik el aletleri, elektronik ve çeşitli ürünler markasıdır.Çin’den ithal ettiği ürün sınıfları yapı market, hırdavat, oto aksesuar, bilgisayar bileşenleri, kişisel bakım ürünlerinden oluşmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nielsen Media Research",
+    "description": "AGB Nielsen, 1923 yılında Arthur Nielsen tarafından kurulan Nielsen Holdings plc bünyesindeki küresel bir ölçüm ve veri analitiği markasıdır.Televizyon, radyo ve gazete dahil çeşitli medya mecralanı takip eder.Carlyle Group, AlpInvest Partners, Blackstone Group, Hellman & Friedman, Kohlberg Kravis Roberts (KKR) ve Thomas H. Lee olmak üzere altı özel sermaye şirketine aittir.Nielsen Global Media ve Nielsen Global Connect olmak üzere iki iş birimine ayrılmıştır. Nielsen televizyon rating ölçümleri 1950 yılından beri sürmektedir.İnternet ve dijital medyayı Nielsen//NetRatings, blogları ise Nielsen BuzzMetrics takip etmektedir.Amerika merkezli Nielsen 100’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

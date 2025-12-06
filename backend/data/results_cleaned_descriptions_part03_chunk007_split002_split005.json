@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Gimcat",
+    "description": "Gimcat, 1855 yılında Heinrich von Gimborn tarafından kurulan H Von Gimborn Gmbh bünyesinde üretilen kedi macunları ve tablet atıştırmalıkları markasıdır.Ürünleri 40’tan fazla ülkede satılmaktadır. Ana pazarlar Almanya, Hollanda ve İtalya’dır.2016 yılında Hong Konglu Hillhouse Capital Group tarafından satın alınan H Von Gimborn Gmbh ürünlerini Almanya’da üretmektedir.Bünyesindeki markalar:Biokat’sGimCatGimDog",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Gplus",
+    "description": "Gplus, 1940 yılında kurulan Touqin Enterprise Co., Ltd. bünyesinde üretilen ev aletleri, mobil cihazlar, sağlık ve güzellik ürünleri markasıdır.İki yönlü akıllı dil çeviri makinesi, Anti-sivrisinek temizleme makinesi, Bluetooth Şarkı Makinesi, Bluetooth korna, Darbeli zımba, Elektrikli diş fırçası, Elektrikli diş fırçası, Hava temizleme makinesi, Kablosuz şarjlı el süpürgesi, Masaj tabancası, NEM ALMA Cihazı, USB Fan gibi ürünler ve aksesuarlar üretmektedir.Touqin Enterprise Co., Ltd. Tayvan merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Hoco",
+    "description": "Hoco, 2009 yılındak urulan Hoco Technology Co., Ltd. bünyesinde üretilen şarj cihazları, akıllı saat aksesuarları, araç şarj cihazı, ekran koruma cam folyo, güç bankası, giyilebilir aletler, kablolar, kulaklık, hoparlör, mobil, saat ve tablet tutucular, tablet ve telefon kılıfları markasıdır.Şirketin çekirdek markası olan, Hoco dünyada 50’den fazla ülkede acentelerini geliştirmiştir ve ürün yelpazesi cep telefonu filmi, şarj cihazı, güç bankası, ses ürünleri, video ürünleri, araca monte edilen cihazlar, küçük ev mobilyaları, akıllı ev ürünleri, açık hava ve spor ürünleri, bilgisayarlar, havalı çantalar, çocuk eğitim ürünleri vb. gibi genişlemiştir.Hoco Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nova Color",
+    "description": "Nova Color, 1948 yılında kurulan Karslıoğlu Kırtasiye San. ve Tic. A.Ş. bünyesinde üretilen akrilik boyalar, burgulu kalem, crayon boyalar, ebru boyaları, eva ve keçeler, grapon kağıtları, guaj boyalar, hobi ve aksesuar serisi, keçeli kalemler, kumaş boyaları, kuru boyalar, oyun hamurları, parmak boyaları, pastel boyalar, ponpon ve şöniller, pp matara, slime oyun jeli, sprey boyalar, su bazlı cam boyaları, suluboyalar, tebeşirler, toz sim ve pullar, yüz boyası, yağlı boyalar, yapıştırıcılar, yardımcı ürünler, çalışma önlükleri markasıdır.İstanbul’da genel merkezi bulunan Karslıoğlu Kırtasiye ürünlerini 2 fabrikasında üretmektedir.Karslıoğlu Kırtasiye bünyesindeki markalar:Nova ColorBrons",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bio Vitals",
+    "description": "Bio Vitals, 2010 yılında Altan Arifoğlu tarafından kurulan Alfazen Kozmetik Gıda San. Tic. Ltd. Şti. bünyesinde üretilen aromatik yağlar, bitki ve baharatlar, cilt bakımı, çaylar, gıda takviyeleri, kişisel bakım ürünleri, kremler, kumaş boyası, pekmezler, sıvı ekstraktlar, saç bakımı, sabun çeşitleri, tuzlar markasıdır.İSO 9001, GMP, HACCP ve Helal belgelerine sahiptir.",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 9001",
+      "İSO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

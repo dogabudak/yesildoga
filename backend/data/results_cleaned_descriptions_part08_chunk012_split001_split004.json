@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Valler",
+    "description": "Valler1995 yılında kurulmuş olan Pan Müzik Elektronik Bilg. Rek. Yay. San. Tic. Ltd. Şti. bünyesindeki klasik gitar, piyano markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;MidixPanmusic Music Electronic ComputerRodeoTakstarValler",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wadeo",
+    "description": "Wadeo2019 yılında kurulmuş olan Guangzhou Mambate Supply Chain Management Co. Ltd. bünyesinde üretilen elektronik ürünler, ev, bahçe ve aletleri, güzellik ve sağlık, giyim, ayakkabı ve takı, otomotiv ürünleri, oyuncaklar ve oyunlar, spor ve açık hava ürünleri markasıdır.Guangzhou Mambate Supply Chain Management Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kopiko Brown Coffee",
+    "description": "KopikoElite Gold Ltd. bünyesindeki kahve karışımı markasıdır.Elite Gold Ltd. İngiltere merkezlidir.Bünyesindeki markalar;AstorAyam MerakBakmi MewahBeng-BengBetterCal CheeseChoki ChokiCoffee JoyCool Time Coconut WaterDanisaEnergenFres MintGentle GenGilus MixJae JaeJam O JamKalpaKis MintKopikoKopiko 78Kopiko Lucky DayMalkistMie OvenMigelasQGuavaRomaRoma ArdenRoma MalkistRoma WafelloRoyal ChoiceSlai O’laiSuperstarSusu Steril Tujuh KurmaTamarinTeh Pucuk HarumTora Cafe IcedTorabikaWonder WheatZuperrr Keju",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Erkenek Su",
+    "description": "Erkenek Su2012 yılında kurulmuş olan Barajgrup Su İçecek Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen ambalajlı içme suyu markasıdır.Firma Malatya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dongqiao",
+    "description": "Dongqiao2007 yılında kurulmuş olan Zhejiang Dongqiao Machinery Co. Ltd. bünyesinde üretilen elektrikli budama makası ve bahçe aletleri markasıdır.Zhejiang Dongqiao Machinery Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

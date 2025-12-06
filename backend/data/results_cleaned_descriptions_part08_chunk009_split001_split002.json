@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Vitex Kozmetik",
+    "description": "2019 yılında kurulmuş olan Jv Belita Ltd. bünyesinde üretilen kişisel bakım ürünleri, kozmetikler, saç bakım ürünleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Jv Belita Ltd. Belarus merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BY",
+    "updated_date": "2025-03-16"
+  },
+  {
+    "company": "D’alba",
+    "description": "D’alba2016 yılında kurulmuş olan Bmonument Co. Ltd. bünyesinde üretilen güzellik ve kişisel bakım ürünleri markasıdır.Ürünleri sentetik koruyucular, yapay renklendiriciler, sentetik yapay kokular içermemektedir.Bmonument Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Takara Tomy",
+    "description": "2006 yılında kurulmuş olan Tomy Company Ltd. bünyesindeki oyuncaklar, video oyunları, çocuk ürünleri ve hazır giyim markasıdır.Tomy Company Ltd. Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Coldmer",
+    "description": "2017 yılında kurulmuş olan BMT Teknoloji ve Proses Geliştirme Ltd. Şti. bünyesinde üretilen doğal deniz suyu spreyi markasıdır.Alüminyum tüp içinde itici gaz içermeyen özel poşetle sunulmaktadır.Firma Kocaeli merkezlidir. Doğal olarak temin edilen deniz suyuna herhangi bir katkı veya kimyasal madde eklenmeden steril ortamda çeşitli aşamalardan geçirilerek üretim yapılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Secret Deodorant",
+    "description": "1837 yılında kurulmuş olan Procter & Gamble (P&G) bünyesinde üretilen kadınlar için terlemeyi önleyici deodorant markasıdır.Secret markası altında satılan 55’ten fazla farklı terlemeyi önleyici deodorant ürünü bulunmaktadır.Procter & Gamble (P&G) Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

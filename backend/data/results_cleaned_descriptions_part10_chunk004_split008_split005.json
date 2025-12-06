@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Finetoo",
+    "description": "2018 yılında kurulmuş olan Yiwu Chugan E-Commerce Co. Ltd. bünyesinde üretilen dikişsiz kadın rahat iç çamaşırları markasıdır.Yiwu Chugan E-Commerce Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nezih Kitap Kırtasiye",
+    "description": "1970 yılında kurulmuş olan Nezih Kitap Kırtasiye San. ve Tic. A.Ş. bünyesindeki kitap, kırtasiye ve oyuncak ürünleri mağazlarıdır.Firma İstanbul merkezlidir. İstanbul ve Ankara’da 30’dan fazla mağazaya sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cennetoğlu Tekstil",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gurvita",
+    "description": "2021 yılında kurulmuş olan İyileştiren Mamuller Gıda San. ve Tic. A.Ş. bünyesindeki balık suyu, bebek püresi, işkembe çorbaları, ilik yağı, ilikli kemik suyu, kelle paça çorbası, kemik suyuna çorbalar, kolajen kürü, organik sirkeler, paça çorbası, tavuk suyu markasıdır.ISO 9001, ISO 14001, ISO 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Claw’s",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

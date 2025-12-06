@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Leroy Somer",
+    "description": "Leroy-Somer, 1919 yılında kurulan elektrik motorları, değişken hız sürücüleri, dişli redüktörleri, şanzıman, frenleme, alternatörler, güç üretimi, rüzgar jeneratörleri, elektrikli araç motorizasyonu, özelleştirilmiş çözümler markasıdır.Leroy-Somer elektromekanik ve elektronik tahrik sistemlerinde ve endüstriyel alternatörlerde dünya lideridir.2012 yılında Japonya merkezli Nidec tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Yazar",
+    "description": "Yazar, 1987 yılında kurulan Yazar Gıda San. Tic. Ltd. Şti. bünyesindeki pirinç ve bakliyat çeşitleri markasıdır.Ürün yelpazesinde pirinç ve bakliyat dışında, un, irmik, nişasta çeşitleri, toz şeker, küp şeker, kuru siyah çay ve zeytin yer almaktadır. Ürünlerinin bir kısmını çeşitli ülkelerden ithal etmektedir.Firma Ankara merkezlidir.Bünyesindeki markalar;OrtiYazar",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-02-29"
+  },
+  {
+    "company": "Rado",
+    "description": "Rado, 1917 yılında Schlup Co by Fritz, Ernst ve Werner Schlup tarafından kurulan Rado Watch Co. Ltd bünyesindeki saat markasıdır.Rado markası malzeme bilimi alanındaki araştırmaları ile tanınır. Dünyanın en büyük saat şirketidir ve saat üretimi için çok çeşitli saatler ve bileşenler üretmektedir. Toplam 160 fabrika ile, şirket iştiraki ETA altında rakiplerine ürün tedarik etmektedir.1983 yılında The Swatch Group tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Acciai",
+    "description": "Acciai, 1884 yılında kurulan Acciai Speciali Terni S.p.A. bünyesindeki paslanmaz çelik yassı ürünler markasıdır.Avrupa’nın en önemli entegre çevrim çelik sahalarından biridir.Acciai Speciali Terni S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Caro Baby",
+    "description": "Caro Baby, 2005 yılında kurulan Caro Baby Children Products Co., Ltd bünyesindeki bebek arabası, bebek araba koltuğu, bebek oyun parkı, bebek sandalyesi, akülü araba, elektrikli oyuncak araba, çocuk bisikleti, üç tekerlekli çocuk bisikleti markasıdır.Caro Baby ürünleri 30’dan fazla ülke ve bölgede satılmaktadır. CE, SGS, EN1888, EN716, AS / ZS belgelerine sahiptir.Caro Baby Children Products Co., Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

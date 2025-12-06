@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kango",
+    "description": "1985 yılında kurulan Techtronic Industries Co. Ltd. bünyesindeki el aletleri ve aksesuarları markasıdır.Techtronic Industries Co. Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Articolo",
+    "description": "2008 yılında kurulan Hedef Tüketim Ürünleri San. ve Dış Tic. A.Ş. bünyesindeki el aletleri, dekoratif mandallar, defter markasıdır.Firma İstanbul merkezlidir. Ürünlerini Asya ve Avrupa’nın çeşitli ülkelerinden tedarik etmektedir. Çin’in bir çok bölgesinde irtibat ofisi, Fas’da ise depolama tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artenino",
+    "description": "2021 yılında kurulmuş olan Artenino Hobi Yayıncılık Tic. Ltd. Şti. bünyesindeki boyama, çocuk kitapları, hikaye, roman, edebiyat, kurgu kitapları, kutu oyunları, puzzle, okul öncesi eğitim setleri, İngilizce kitaplar, oyuncak, kırtasiye ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rakle Glass",
+    "description": "1997 yılında kurulmuş olan Rapsodi Dekor San. A.Ş. bünyesinde üretilen bardak, sürahi, vazo, mum ve tabak, fonksiyonel ve dekoratif cam ürünleri markasıdır.Firma İstanbul merkezlidir. Çatalca Şubaşı’nda 10 bin metrekarelik kapalı alana sahip üretim tesisi, 4 farklı noktada toplam 15 bin metrekarelik depo alanına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Momcozy",
+    "description": "2017 yılında kurulmuş olan Root Technology Ltd. bünyesindeki elektrikli göğüs pompası, emzirme sütyenleri, biberonlar, bebek monitörleri gibi bir dizi emzirme ürünü markasıdır.Root Technology Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

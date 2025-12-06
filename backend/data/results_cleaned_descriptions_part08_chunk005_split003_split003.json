@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Ecowell",
+    "description": "Ecowell, 2009 yılında kurulmuş olan Ekokimya Kimyevi Ürünler San. ve Tic. A.Ş. bünyesinde üretilen organik yüz bakım, organik vücut bakım, organik saç bakım, organik bebek bakım ürünleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir. Ürünleri hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fertile",
+    "description": "Fertile, Fertile Rh Grup Gıda San. Ltd. Şti. bünyesinde üretilen marmelat, reçel, tropikal meyve reçelleri markasıdır.Ürünleri glukoz ve fruktoz şurubu, GDO, koruyucu ve ilave şeker içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Invisalign",
+    "description": "Invisalign, 1997 yılında kurulmuş olan Align Technology Inc. bünyesindeki diş hizalama, düzleştirme çözümleri, ağız içi tarama, dijital diş hekimliği markasıdır.Align Technology Inc. Amerika merkezlidir. Dünya çapında 120’den fazla pazarda doktorlar tarafından kullanılmaktadır.Bünyesindeki markalar;ClincheckInvisalignInvisalign TeenIteroSmartforceSmarttrackVivera",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yemeneli",
+    "description": "Yemeneli, Şok Marketler Tic. A.Ş. adına Beyda Gıda Ürünleri San. ve Tic. A.Ş. tarafından üretilen Türk kahvesi markasıdır.Kahve çekirdekleri Brezilya’dan ithal edilmektedir.Şok Marketler hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 41,22)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-12-14"
+  },
+  {
+    "company": "Augmentin",
+    "description": "Augmentin, 1873 yılında kurulmuş olan Glaxosmithkline Plc bünyesinde üretilen antibiyotik markasıdır.Glaxosmithkline Plc İngiltere merkezlidir. 1959 yılından beri Türkiye’de GlaxoSmithKline İlaçları San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2025-04-14"
+  }
+]

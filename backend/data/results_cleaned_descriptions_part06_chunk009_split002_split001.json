@@ -1,0 +1,54 @@
+[
+  {
+    "company": "ÇH Halat",
+    "description": "ÇH Halat Nerenin Malı MarkasıÇH, 1962 yılında kurulan Çelik Halat ve Tel San. A.Ş. bünyesinde üretilen çelik halat, galvanizli çelik tel, oto lastik teli, yaylık çelik tel, beton teli markasıdır.ISO 9001, ISO 14001, TS ISO 45001 belgelerine sahiptir.Ürünlerini Kocaeli’de üretmekte ve 50’den fazla ülkeye ihraç etmektedir. Çelik Halat ve Tel San. A.Ş. bir Doğan Şirketler Grubu Holding A.Ş. kuruluşudur.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tridonic",
+    "description": "Tridonic, 1956 yılında kurulan Tridonic GmbH & Co KG bünyesinde üretilen LED ışıklar, kontrol sürücüleri ve anahtarlar markasıdır.Çeşitli ışık kaynakları, aydınlatma yönetim sistemleri ve LED çözümleri için kontrol cihazları geliştirir.Tridonic GmbH & Co KG Avusturya merkezli Zumtobel Group iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Carway",
+    "description": "Carway, 2010 yılında kurulan BLC Teknoloji Ürünleri Tic. Ltd. Şti. bünyesinde ithal edilen araç teypleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Thecus",
+    "description": "Thecus, 2004 yılında kurulan Thecus Technology Corporation bünyesinde üretilen ağa bağlı depolama (NAS), doğrudan bağlı depolama (DAS) ve ağ video kaydedicileri (NVR) gibi ağa bağlı depolama ürünleri markasıdır.İşletmeler için donanım ve yazılım veri depolama çözümleri geliştirir. Şirketin ürünleri arasında ultra yüksek performanslı sunucu, USB’li ekstra hızlı depolama, dijital multimedya bulunmaktadır.Thecus Technology Corporation Tayvan merkezlidir. Amerika, Hollanda ve Çin’deki üç şubesi de dahil olmak üzere dünya çapında dört yerde faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Silver Ayakkabı Boyası",
+    "description": "Silver Ayakkabı Boyası Nerenin Malı MarkasıSilver, 1992 yılında kurulan Çığır Kimya San. ve Tic. A.Ş. bünyesinde üretilen ayakkabı boyası ve deri bakım ürünleri markasıdır.ISO 9001, ISO 14001, ISO 18001, IS0 27001, IFS ve BSCI belgelerine sahiptir.İstanbul merkezli firma ürünlerini 65 ülkeye ihraç etmektedir.Bünyesindeki markalar;Çığır SilverDezentaxGreen HouseLüksorLuxorNadeNew SilverNew Silver Ayakkabı DostuOleraPalilaPruelPumaSılver CleanSilverSilver InsectSilver Shoe Care ProductsSilver Walk With ConfidenceSkin Guard OrSpartTildaVega",
+    "documents": [
+      "CE",
+      "IFS",
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

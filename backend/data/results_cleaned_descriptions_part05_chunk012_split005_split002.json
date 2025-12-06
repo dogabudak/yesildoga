@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Polystron",
+    "description": "Polystron, 1876 yılında kurulan Arakawa Chemical Industries Ltd. bünyesinde üretilen kağıt üretimi için boyutlandırma preparatları, kağıt güçlendirici maddeler, yüzey aktif kimyasal maddeler, kağıt yapımı için kimyasallar markasıdır.Kağıt yapımı kimyasalları, baskı mürekkebi reçineleri, yapışkan reçineler ve elektronik malzemeler için ara malzemelerin üretimini yapmaktadır.Arakawa Chemical Industries Ltd. Japonya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Badger Balm",
+    "description": "Badger Balm, 1995 yılında kurulan W.S. Badger Company bünyesinde üretilen organik cilt bakım ürünleri markasıdır.W.S. Badger Company Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Catrice Cosmetics",
+    "description": "Catrice Cosmetics, 2001 yılında Christina Oster-Daum ve Javier Gonzalez tarafından kurulan Cosnova Gmbh bünyesinde üretilen kozmetik, makyaj ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Cosnova Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Creightons",
+    "description": "Creightons, 1954 yılında kurulan Creightons Plc bünyesindeki cilt bakımı, saç bakımı ve sağlık ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir ve hayvansal katkılar içermemektedir.Creightons Plc İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Kadolin",
+    "description": "Kadolin, 1982 yılında Nusret Selen tarafından kurulan Dermadolin Kozmetik Üretim ve Paz. A.Ş. bünyesinde üretilen kepeğe karşı saç bakım şampuanı markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BebedolinCeradolinDermadolinKadolinMadepantolMadeselenMadolinMinidolinPirdolinSebostasSedolinSelenSeranemSerozaÜlkü Selen Kadolin",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

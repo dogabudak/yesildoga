@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Ality",
+    "description": "Ality, 2005 yılında William Wong tarafından kurulan AlityPC bünyesinde üretilen dijital fotoğraf çerçeveleri ve yüksek teknoloji yaşam tarzı küçük aletler markasıdır.AlityPC Hong Kong merkezli bir teknoloji şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Oses Çiğ Köfte",
+    "description": "Oses, 1993 yılında Osman Yaşar tarafından kurulan Oses Grup Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen etsiz çiğ köfte markasıdır.Türkiye genelinde 600’e yakın şubesi bulunmaktadır.Türkiye, Almanya ve Çin’de çiğ köfte fabrikası bulunmaktadır. ISO 9001 ve 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "A. Lange & Söhne",
+    "description": "A. Lange & Söhne, 1845 yılında Ferdinand Adolph Lange tarafından kurulan Lange Uhren GmbH bünyesinde üretilen lüks saat markasıdır.Lange Uhren GmbH, 2000 yılında İsviçre merkezli Richemont Group’un bir yan kuruluşu olmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2021-03-07"
+  },
+  {
+    "company": "Tatlıses Gıda",
+    "description": "Tatlıses, 1993 yılında İbrahim Tatlı tarafından kurulan Tatlıses Prodüksiyon Reklam ve Gösteri Hizmetleri Gıda San. ve Tic. A. Ş.’ye bağlı olarak 2010 yılında kurulan Tatlıses Gıda bünyesinde üretilen çiğ köfte, içli köfte, lahmacun, pide, tatlı, künefe, isot, acı sos, lavaş, şalgam suyu, nar ekşili sos, urfa pizza markasıdır.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "C. Bechstein",
+    "description": "C. Bechstein Hangi Ülkenin Malı MarkasıdırC. Bechstein, 1853 yılında Carl Bechstein tarafından kurulan C. Bechstein Pianoforte AG bünyesinde üretilen piyano markasıdır.C. Bechstein Pianoforte AG Almanya merkezlidir.Bünyesindeki markalar:C. BechsteinHoffmannZimmermann",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Yiğit Yağ",
+    "description": "Yiğit Yağ, 1995 yılında kurulan Soyyiğit Gıda San. ve Tic. A.Ş. bünyesindeki bitkisel yemeklik karışım sıvı yağ markasıdır.İstanbul, Tekirdağ ve Edirne’de entegre üretim tesislerinde, ayçiçek, kanola, mısır, aspir, keten, ketencik tohumları işleyerek hamyağ üretmekte ve 120 ülkeye ihraç etmektedir.Bünyesindeki markalar:ArbianAysanBoehringerBoringerCafe BoringerCoffee BoringerFafittaGold BoringerKıvılcımKentKent BoringerKent QuickKentcafeKentcafe BoringerKnt BoringerKont BoringerSoy-Yiğit YemSoyyiğitSoyyiğit GroupTrixTrix KüpYiğitYiğit Altınyaprak",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SMA Solar Technology",
+    "description": "SMA Solar Technology, 1981 yılında kurulan SMA Solar Technology AG bünyesinde üretilen güneş enerjisi sistemleri için invertörler markasıdır.21 ülkede faaliyet gösteren SMA Solar Technology AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Trendix",
+    "description": "Trendix, 1988 yılında kurulan Umur Kırtasiye San. ve Tic. A.Ş. bünyesinde üretilen çanta, kalem çantası ve beslenme çantası ve matara markasıdır.Dudullu OSB, Gebze OSB ve Çerkezköy’de bulunan 130 bin metrekarelik tesislerinde üretim yapmaktadır.ISO 9001, ISO 14001 belgelerine sahiptir.Bünyesindeki markalar;ArtworkCraft and ArtsMynoteNotixTrendixUmix",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Asimeto",
+    "description": "Asimeto, 1960 yılında kurulan Sowa Tool & Machine Co. Ltd. bünyesindeki test cihazları ve optik ekipmanlar, göstergeler, veri toplama araçları, mikrometreler, kumpas markasıdır.Sowa Tool & Machine Co. Ltd. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Schollershammer",
+    "description": "Schollershammer, 1784 yılında kurulan Heinrich August Schoeller Söhne GmbH & Co KG bünyesinde üretilen kağıt markasıdır.Oluklu taban kağıdı ve oluklu mukavva üreticisidir.Heinrich August Schoeller Söhne GmbH & Co KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Nutrafix",
+    "description": "Nutrafix, 1997 yılında kurulmuş olan Sapona Ltd. bünyesinde üretilen şampuan ve saç kremleri, saç bakım ürünleri ürünleri markasıdır.Sapona Ltd. İngiltere merkezlidir.Bünyesindeki markalar;NutrafixVitabrava",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Apagard",
+    "description": "Apagard, 1974 yılında kurulmuş olan Sangi Co. Ltd. bünyesinde üretilen diş macunları ve sıvı diş bakım ürünleri markasıdır.Sangi Co. Ltd. Japonya merkezlidir ve ürünlerini Japonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Solvex Şampuan",
+    "description": "Solvex, 1995 yılında kurulmuş olan Cosmetics Products Ltd. bünyesindeki saç renklendiricileri ve saç bakım ürünleri markasıdır.GMP ISO 22716 belgesine sahiptir.Cosmetics Products Ltd. Bulgaristan merkezlidir ve ürünlerini 60’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;EleaElea ArtistoMiss MagicMm BeautyRose De BulgariaSolvex",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Geltat",
+    "description": "Geltat, 2002 yılında kurulmuş olan Geltat Süper Market Tic. ve San. Ltd. Şti. bünyesindeki süpermarket zincirleri markasıdır.Firma Sakarya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "I.Safe Mobile",
+    "description": "I.Safe Mobile, 2011 yılında kurulmuş olan i.safe Mobile Gmbh bünyesindeki kendinden emniyetli akıllı telefonlar, cep telefonları ve tabletler markasıdır.Kimya, ilaç, petrol işleme ve diğer zorlu endüstriler için patlamaya dayanıklı iletişim cihazları geliştirir ve pazarlar.i.safe Mobile Gmbh Almanya merkezlidir ve ürünlerini 72 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

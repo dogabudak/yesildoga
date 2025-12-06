@@ -1,0 +1,50 @@
+[
+  {
+    "company": "The Grossery Gang",
+    "description": "The Grossery Gang, 1985 yılında kurulan Moose Enterprise Pty Ltd. bünyesindeki oyuncak markasıdır. Şirket 2000 yılında Manny Stul tarafından satın alınmıştır.Moose Enterprise Pty Ltd. Avustralya merkezlidir, ürünlerini 100 ülkeye pazarlamaktadır.Bünyesindeki markalar:BeadosBetty SpaghettyBoom Blast StixCutie CarsDisney Crossy RoadElectronic GamesFur Babies WorldGlitzi GlobesHappy PlacesHyper TossLittle Live PetsMighty BeanzMineez Despicable MeMoose GamesMy Fairy GardenOoniesPikmi PopsPoppitQixelsReally Rad RobotsShopkins Happy PlacesThe Grossery GangThe ZelfsTrash PackTwozies",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": "2022-03-25"
+  },
+  {
+    "company": "Banco Santander",
+    "description": "Banco Santander, 1857 yılında kurulan, Avrupa’nın en büyük 5. bankasıdır. Çok uluslu ticari banka ve finansal hizmetler şirketidir.Bankayı bünyesinde bulunduran Grupo Santander S.A, İspanya merkezlidir. Başta Avrupa, Kuzey Amerika, Güney Amerika ve Asya’da olmak üzere yaklaşık 50 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Santander Takımı",
+    "description": "Racing Santander, 1913 yılında kuruldu.Real Racing Club de Santander, maçlarını Estadio El Sardinero’da oynayan yeşil, siyah ve beyaz renklere sahip bir futbol kulübüdür.İspanya’da kurulan kulüp, La Liga’da mücadele etmektedir. 2011-2012 sezonunda ligi son sırada bitirerek bir alt lige düşmüştür. İspanya 2. Lig B’de mücadele etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2019-05-20"
+  },
+  {
+    "company": "Landini",
+    "description": "Landini, Morra Ailesi’ne ait Argo Group’a bağlı şirketlerden biri olan 1980 yılında kurulan Argo Tractors bünyesindeki traktör markasıdır.İtalya merkezli Argo Tractors, İtalya’da yer alan 5 tesisinde üretim yapmaktadır. Yıllık 22 bin birimi aşan traktör üretim kapasitesine sahiptir.2012 yılından beri Landini traktörlerin Türkiye distribütörlüğü Anadolu Motor tarafından yürütülürken, 2017’deki ortaklık anlaşmasına istinaden traktör satış ve üretim faaliyetleri Anadolu Landini şirketine devredilmiştir.Anadolu Landini, Globe serisinin 50-80 beygir gücü arasındaki 4 farklı modelini sadece Türkiye’de, Şekerpınar tesisinde üreterek, hem yurt içi hem de yurt dışı pazarlarda satışa sunmaktadır.Argo Tractors Bünyesindeki Markalar:LandiniMcCormickValpadanaS.E.P.Pegoraro",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Manitowoc",
+    "description": "Manitowoc, 1902 yılında kurulan The Manitowoc Company Inc. bünyesindeki mobil teleskopik vinçler, kule vinçler, kafes bom paletli vinçler, ve boom kamyon altında grove, endüstriyel, ulusal crane potain, shuttlelift ve endüstriyel vinç markasıdır.The Manitowoc Company Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-06-29"
+  }
+]

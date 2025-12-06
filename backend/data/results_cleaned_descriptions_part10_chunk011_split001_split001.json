@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Wellcam",
+    "description": "1975 yılında kurulmuş olan Atomsan Elektronik San. Tic. Ltd. Şti. bünyesindeki kamera güvenlik sistemleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sasame",
+    "description": "1945 yılında kurulmuş olan Sasame Hooks Ltd. bünyesinde üretilen sportif balıkçılık ürünleri markasıdır.Sasame Hooks Ltd. Japonya merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;JunglegymRyugiSasame DomesticSasame ExportShoutYaiba-X",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Purixima",
+    "description": "1978 yılında kurulmuş olan Uzman Kozmetik Kimya San. ve Tic. A.Ş. bünyesinde üretilen saç spreyi markasıdır.ISO 14001 belgesine sahiptir.Firma Kocaeli merkezlidir ve ürünlerini 5 bin 500 metrekaresi kapalı 4 bin metrekaresi açık alanda bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Balody",
+    "description": "1999 yılında kurulmuş olan Linkgo Toys Industrial Co. Ltd. bünyesinde üretilen oyuncaklar markasıdır.Linkgo Toys Industrial Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Göreme Melamin",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

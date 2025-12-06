@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Avşar Emaye",
+    "description": "Avşar Emaye Nerenin Malı MarkasıAvşar Emaye, 1982 yılında kurulan Avşar Emaye Sanayi ve Ticaret A.Ş. bünyesinde üretilen emaye kaplama mutfak gereçleri markasıdır.Ürünlerini 25 bin metrekarelik kapalı alanda üretmektedir ve 41 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Upland",
+    "description": "Upland, 1987 yılında kurulan Tianjin Golden Wheel X-Development Bicycle Co., Ltd. bünyesinde üretilen bisiklet, bisiklet borusu, kalıplar, aksesuarlar, çatallar, bisiklet veya motosikletler için eyer, bisikletler için fren markasıdır.Tianjin Golden Wheel X-Development Bicycle Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mita Kalıp",
+    "description": "Mita Kalıp Nerenin Malı MarkasıMita, 1967 yılında kurulan Mita Kalıp Ve Döküm Sanayii A.Ş. tarafından üretilen otomotiv ve diğer ana sanayi firmaları için parça ve komponent markasıdır.Ürünlerini 21 bin metrekarelik kapalı alanda üretmektedir. Her türlü metal ve plastik enjeksiyon kalıplarının konstrüksiyonunu ve imalatını gerçekleştirmektedir. ISO 9001, ISO/TS 16949, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tantitoni",
+    "description": "Tantitoni, 1993 yılında kurulan İnter Mutfak Eşyaları Tic. A.Ş. bünyesinde ithal edilen mutfak ve sofra eşyaları markasıdır.2006 yılında kurulan Tantitoni markasının 21 mağaza (2’si online), 3 bayi mağaza noktasıyla hizmet vermektedir.Ürünlerinin bir kısmını Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-09-17"
+  },
+  {
+    "company": "Eeose",
+    "description": "Eeose, 2011 yılında kurulan Eose Laboratuvarları San. Ltd. Şti.bünyesindeki kaş ve kirpik serumu, sakal serumu, saç dökülmesine karşı serum ve şampuanlar, cilt bakım ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

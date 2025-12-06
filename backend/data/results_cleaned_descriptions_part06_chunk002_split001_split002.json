@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Doch Power Hoparlör",
+    "description": "Doch Power, 2010 yılında kurulan Sed Elektronik Hasan Kopmaz bünyesindeki oto yedek parça aksesuarları, hoparlör, multimedia, navigasyon ve görüntü sistemleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Contitech",
+    "description": "Contitech, 1871 yılında kurulan Continental AG bünyesinde üretilen kauçuk, plastik, metal ve kumaştan mamul ürünler, sistemler ve akıllı bileşenler markasıdır.Continental AG Almanya merkezlidir. Türkiye’de Contitech Lastik San. ve Tic. A.Ş. faaliyet göstermektedir ve Bursa’da hava süspansiyon sistemleri ve titreşim elemanları üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Polar Saat",
+    "description": "Polar, 1977 yılında kurulan Polar Electro Oy bünyesindeki tüketici elektroniği, nabız monitörleri ve gps saatleri, mobil uygulamalar, antrenman web servisleri, grup antrenman çözümleri, oem teknolojileri ve giyilebilir spor sensörleri markasıdır.Polar Electro Oy Finlandiya merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Özlem Yem",
+    "description": "Özlem Yem Nerenin Malı MarkasıÖzlem Yem, 1980 yılında kurulan Özlem Tarım Ürünleri A.Ş. bünyesinde üretilen hayvan yemleri markasıdır.ISO 9001 belgesine sahiptir.Manisa merkezli firma büyükbaş, küçükbaş, kanatlı, evcil hayvan grubu yemleri, performans yemleri, yem katkıları üretmektedir.Bünyesindeki markalar;Özlem SütÖzlem YemÖzlem YumurtaPakiş YemVerimix",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stöckli Plastik Ürünler",
+    "description": "Stöckli, 1874 yılında kurulan A. & J. Stöckli AG bünyesinde üretilen plastik sulama kapları, ev aletleri ve plastik ürünler üretmektedir.ISO 14000 belgesine sahiptir.A. & J. Stöckli AG İsviçre merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14000"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Rio Santo",
+    "description": "Rio Santo, 1981 yılında Hasan Türek tarafından kurulan Yonca Gıda Sanayi A.Ş. bünyesindeki domates ürünleri, konserve çeşitleri, lezzetlendirici yemeklik yağlar, sos ürün seti markasıdır.Manisa OSB’de sebze ve meyveleri modern makinelerle işleyerek tüketiciyle buluşturmaktadır.Bünyesindeki markalar:YONCARIO SANTO",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Özfen",
+    "description": "Özfen, 1971 yılında kurulan Özfen Makina Sanayii & Dış Ticaret A.Ş. bünyesindeki beton santralleri, beton santrali mikseri, yaş beton geri dönüşüm, eleme makineleri, kum eleme ve yıkama tesisi, dere malzemesi eleme ve yıkama tesisi, stabilize dağ malzemesi eleme tesisi, kum yıkama ve susuzlandırma ünitesi, kum yıkama ayırma helezonu, parçalayıcı mikser, kömür eleme tesisi, kömür paketleme tesisi, mekanik stabilizasyon ünitesi, filtre pres ünitesi, su işleme plenti, konveyörler, kovalı kum ayırma makinesi markasıdır.Geleneksel olarak Özfen; kum, çakıl, kömür konusunda ve inşaat sektöründe faaliyet gösteren firmalar için üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kadooğlu Yağ",
+    "description": "Kadooğlu Yağ, 2007 yılında Kadooğlu Holding tarafından kurulan Kadooğlu Yağ San. ve Tic. A.Ş. bünyesinde üretilen ayçiçek, mısır, pamuk ve zeytin yağı markasıdır.Ürünlerini 35’ten fazla ülkeye ihraç etmektedir.Bünyesindeki markalar:AzimeBizceBrintoMayraMutfakların Şefi",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Laleli",
+    "description": "Laleli, 1976 yılında Dr. Yahya Laleli tarafından kurulan Düzen Biyolojik Bilimler Ar-Ge ve Üretim A.Ş. bünyesinde üretilen zeytinyağı markasıdır.Kontrollü organik tarım uygulamaları ile tüm ürünlerini, Edremit Körfezi’nin Taylıeli Köyü’nde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Atışeri",
+    "description": "Atışeri, 1998 yılında kurulan Atışeri Gıda İmalat bünyesinde üretilen keçiboynuzu ürünleri markasıdır.İlk keçiboynuzu nektarı ve keçiboynuzu özünü üreten firmadır. Ayrıca ilk kez soğukpres keçiboynuzu demlemesi üreten firmadır. Tıbbi ve aromatik bitkilerin drog halde ihracatını da gerçekleştirmektedir.HACCP, TS EN ISO 22000, ISO 9001, ISO 14001 belgelerine sahiptir.Bünyesindeki markalar:Atışeri MersinDr.Carob",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

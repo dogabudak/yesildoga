@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Cucute",
+    "description": "1887 yılında kurulmuş olan Kao Corporation bünyesinde üretilen bulaşık yıkama sıvısı markasıdır.Kao Corporation Japonya merkezlidir ve ürünlerini Japonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Augustinus Bader",
+    "description": "2016 yılında kurulmuş olan ASC Regenity Ltd. bünyesinde üretilen cilt ve saç bakım ürünleri markasıdır.ASC Regenity Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Sırdaş",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sparrow",
+    "description": "1944 yılında kurulan Sert SAS bünyesindeki şamandıra tüpleri, çubuklar, makaralar, çizgiler, yemler ve aksesuarlar markasıdır.Sert SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Martin Audio",
+    "description": "1971 yılında kurulmuş olan Martin Audio Ltd. bünyesindeki canlı ses takviyesi, ses mühendisliği ve kurulum ses sistemleri markasıdır.Martin Audio Ltd. İngiltere merkezli Focusrite plc bünyesindedir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

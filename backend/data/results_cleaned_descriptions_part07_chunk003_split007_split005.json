@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Marunaka",
+    "description": "Marunaka, 1934 yılında Nakataro Mochizuki tarafından kurulmuş olan Marunaka Tekkosho Inc. Co. Ltd. bünyesinde üretilen ağaç işleme makineleri, taşlama ve kalibrasyon makineleri ve boyuna kontrplak makineleri markasıdır.Marunaka Tekkosho Inc. Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Kitekat",
+    "description": "Kitekat, 1911 yılında Franklin Mars tarafından kurulmuş olan Mars Incorporated bünyesinde üretilen kediler için kuru mama markasıdır.Kedilerin aktif bir yaşam için formda ve sağlıklı kalmasına yardımcı olan temel besinler ve vitaminler içeren kedi maması sağlar.Mars Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Xrancer",
+    "description": "Xrancer, 2022 yılında kurulmuş olan Güngör Xrancer Ofis Mobilyaları Gıda Turizm Dış Tic. ve İnşaat San. Tic. Ltd. Şti. bünyesinde üretilen oyuncu koltukları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ariens",
+    "description": "Ariens, 1933 yılında kurulmuş olan Ariens Company bünyesindeki çim biçme ve kar temizleme ekipmanları markasıdır.Ariens Company Amerika merkezlidir. Tüm makinelerinin motoru Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-07-06"
+  },
+  {
+    "company": "Wifi54",
+    "description": "Wifi54, 2015 yılında kurulmuş olan Saknet Bilişim Telekomünikasyon San.Tic. Ltd. Şti. bünyesindeki kablosuz internet erişimi, haberleşme hizmetleri markasıdır.Kurmuş olduğu Air Fiber teknolojisiyle internet altyapısına gerek duymadan telefon hattı zorunluluğu olmadan hizmet vermektedir.Firma Sakarya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

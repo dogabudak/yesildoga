@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Fatsecret",
+    "description": "2006 yılında Lenny Moses ve Rodney Moses tarafından kurulmuş olan Secret Industries Pty. Ltd. bünyesindeki sağlıklı beslenme, diyet ve kilo verme, kalori sayma, gıda ve beslenme veritabanı markasıdır.Kişilerin kilo verme hedefine ulaşmasına, doğru beslenme bilgilerini bulmasına ve küresel sağlık uygulamalarına güç vermelesine yardımcı olan mobil uygulama, web sitesi ve apı’dir.Secret Industries Pty. Ltd. Avustralya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "Soundraw",
+    "description": "2020 yılında Daigo Kusunoki tarafında kurulmuş olan Soundraw Inc. bünyesindeki AI müzik üretimi ve kompozisyon hizmeti markasıdır.İçerik oluşturucular ve sanatçılar için tasarlanmış son teknoloji ürünü bir yapay zeka müzik kompozisyon aracıdır. Telifsiz şarkılar üretmektedir.Soundraw Inc. Japonya merkezlidir.",
+    "documents": [
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Freigeist",
+    "description": "2013 yılında kurulmuş olan Eschenbach Optik Gmbh bünyesinde üretilen birinci sınıf erkek gözlükleri markasıdır.Eschenbach Optik Gmbh Almanya merkezlidir.Bünyesindeki markalar;BrendelFinelineFreigeistHumphrey’sInspecsJos EschenbachMarc O’polo",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "KLS Martin",
+    "description": "1896 yılında kurulmuş olan KLS Martin SE & Co. KG bünyesindeki implant sistemleri, elektrocerrahi üniteleri, cerrahi lazer sistemleri, sterilizasyon kapları, ameliyat lambaları ve cerrahi aletler markasıdır.KLS Martin SE & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dmetec",
+    "description": "1983 yılında kurulmuş olan Dmetec Co. Ltd. bünyesinde üretilen diş ultrasonik piezo cerrahisi, diş ultrasonik piezo ölçekleyici, LED kürleme ışığı, hava jeti parlatıcı ve UV dezenfektanı markasıdır.ISO 9001, ISO 13485, CE belgelerine sahiptir.Dmetec Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

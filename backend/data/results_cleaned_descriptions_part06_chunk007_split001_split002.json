@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Norton Clipper",
+    "description": "Norton Clipper, Compagnie de Saint-Gobain S.A. bünyesinde üretilen tungsten karbür (TCT), delik testere, gönye testere, dekupaj testere, duvar, beton, kiremit testereleri ve tilki kuyruğu testere ucu gibi ahşap ve kompozit ürünler için malzemeler markasıdır.Compagnie de Saint-Gobain S.A. Fransa merkezlidir. Dünya çapında 61 üretim tesisine sahiptir ve 79 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Class Petrol",
+    "description": "Class, 2015 yılında kurulan Naifoğlu Holding A.Ş. bünyesindeki petrol istasyonları, akaryakıt ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;ClassClass AutogasClass OtogazClassgasClassgazClassoilFocusgasFocusgazPovergasPovergaz",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-07"
+  },
+  {
+    "company": "Ovadan Pirinç",
+    "description": "Ovadan, A101 Yeni Mağazacılık A.Ş. tarafından ithal edilen ve çeşitli firmalara ürettirilen pirinç markasıdır.İthal ürünleri Çin, Tayland gibi ülkelerden gelmektedir.A101 Yeni Mağazacılık A.Ş. İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-03"
+  },
+  {
+    "company": "Chick-fil-A",
+    "description": "Chick-fil-A, 1946 yılında S. Truett Cathy tarafından kurulan Chick-fil-A Inc. bünyesindeki restoran zinciri markasıdır.Sandviçler, tavuk yemekleri sunmaktadır.Chick-fil-A Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dairy Queen",
+    "description": "Dairy Queen, 1940 yılında kurulan International Dairy Queen Inc. bünyesindeki dondurma ve restoran zinciri markasıdır.International Dairy Queen Inc. 1998 yılında Amerika merkezli Berkshire Hathaway Inc. tarafından satın alındı. 25’ten fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

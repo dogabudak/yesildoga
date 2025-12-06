@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Nüd",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "GardenMix",
+    "description": "1993 yılında kurulmuş olan Pet Garden İth. İhr. San. Tic. Ltd. Şti. bünyesindeki akvaryum, kuş, kedi, köpek, kemirgen ve sürüngenler yemleri, kedi kumu markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Agromar Brand Seeds",
+    "description": "1993 yılında kurulmuş olan Agromar Marmara Tarım Ürünleri San. ve Tic. A.Ş. bünyesindeki tohum markasıdır.Firma Bursa merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Casappa",
+    "description": "1952 yılında Roberto Casappa tarafından kurulmuş olan Casappa S.p.A. bünyesindeki hidrolik pompalar ve motorlar markasıdır.Casappa S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Berarma",
+    "description": "1970 yılında kurulmuş olan Berarma SRL bünyesindeki pompalar, c04 mini güç paketleri, vanalar, gmp motor pompası ünitesi markasıdır.Berarma SRL İtalya merkezlidir ve ürünleri İtalya’da üretilmektedir.",
+    "documents": [
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

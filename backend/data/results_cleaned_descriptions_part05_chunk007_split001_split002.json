@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Montecore",
+    "description": "Montecore, 2006 yılında kurulan Montecore S.r.l. bünyesindeki dış giyim ürünleri markasıdır.Ürün yelpazesinde ceket, paltolar yer almaktadır.Montecore S.r.l. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Flora & Curl",
+    "description": "Flora & Curl, 2016 yılında kurulan Flora & Curl Ltd. bünyesindeki bitki destekli saç bakım ürünleri markasıdır.Ürünlerini doğrudan bitkilerden soğuk presle elde edilen yüzde 100 bitki bazlı kokular ve renkler kullanarak üretmektedir.Ürünleri paraben, silikon, sülfat, ftalat, sentetik koku ve renk, mineral yağ içermez ve hayvanlar üzerinde test edilmemektedir.Flora & Curl Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Barrels And Oil",
+    "description": "Barrels And Oil2001 yılında kurulmuş olan Hüşyar Tekstil Paz. İth. İhr. San. Tic. Ltd. Şti. bünyesindeki dış, üst giyim ve alt giyim ürünleri, ceket, mont, tunik, etek, tayt, pantolon, trençkot, elbise, sweatshirt, hazır giyim ürünleri ile mağazaları markasıdır.Ülke genelinde 20’den fazla perakende mağazasına sahiptir.Firma İstanbul merkezlidir. Ürünlerini 10 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-03"
+  },
+  {
+    "company": "Chocovia",
+    "description": "Chocovia, 1991 yılında kurulan Beşler Kuruyemiş ve Gıda Maddeleri İmalat Pazarlama A.Ş. bünyesinde üretilen çikolatalar ve çikolata drajeler markasıdır.2007 yılında Korkmazlar Gıda ve Taşımacılık San. ve Tic. A.Ş. ile birleşmiştir.Firma tüm kuruyemiş ve kuru meyvelerini 8 bin 200 metrekaresi kapalı, 22 bin metrekaresi açık alanda bulunan fabrikasında, katkısız üretmektedir. ISO 9001, ISO 22000, ISO 140001 ve Helal Gıda belgelerine sahip firma ürünlerini 30 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Leven",
+    "description": "Leven, 1996 yılında kurulan J&A Information Inc. bünyesinde üretilen bellek modülleri, ssd markasıdır.Firma tüm ürünleri için 36 ay garanti vermektedir.J&A Information Inc. Tayvan merkezlidir. Ürünlerini Tayvan ve Çin’de bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

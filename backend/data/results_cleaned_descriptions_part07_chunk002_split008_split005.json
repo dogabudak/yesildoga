@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Zanco",
+    "description": "Zanco, 2012 yılında kurulan Zini Mobiles Ltd. bünyesinde üretilen dünyanın en küçük cep telefonu markasıdır.Tiny t2 modeli 6 cm boyuta ev 31 g ağırlığa sahip minyatür bir telefondur. 2,4 cm ekranı ve kamera özelliklerinin yanı sıra, cihaz oyun, takvim ve müzik gibi işlevlere de sahiptir. 3G cep telefonu, 32 GB’a kadar SD kart kullanan Bluetooth bağlantısı ve yerleşik depolama ile birlikte gelir. Cihaz 7 gün bekleme süresine sahip 500mAh polimer pil ile çalışır.Zini Mobiles Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Popcap Games",
+    "description": "Popcap Games, 2000 yılında kurulan Popcap Games Inc. bünyesinde üretilen video oyunları markasıdır.Popcap Games Inc. 2011 yılında Amerika merkezli Electronic Arts Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Radex Monitör",
+    "description": "Radex, 2008 yılında kurulan Kazan Bilgisayar Elektrik Elektronik Tic. San. Ltd. Şti. bünyesinde ithal edilen led monitör, bilgisayar parçaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tianqiu Tianqia",
+    "description": "Tianqiu, 1994 yılında kurulan Guangzhou Tianqiu Enterprise Co. Ltd. bünyesinde üretilen her türlü pil, düğme pil, lityum düğme pil, şarj edilebilir pil markasıdır.ISO 9001 belgesine sahiptir.Guangzhou Tianqiu Enterprise Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pafilya By Truva",
+    "description": "Pafilya, 2011 yılında kurulan Truva Seramik ve Kozmetik Tem. Paz. Nak. San. Tic. Ltd. Şti. bünyesinde üretilen ıslak havlu, ıslak mendil, limon kolonya, sıvı sabun, şampuan, bebek bezi, duş jeli, oda kokusu, deterjanlar, genel temizleyiciler markasıdır.Antalya merkezli firma ürünlerini 8 bin metrekaresi kapalı olmak üzere 12 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-03-01"
+  }
+]

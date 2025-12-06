@@ -9,7 +9,9 @@
       "Bash(grep:*)",
       "Bash(find:*)",
       "Bash(ls:*)",
-      "Bash(source:*)"
+      "Bash(source:*)",
+      "Bash(mkdir:*)",
+      "Bash(pip install:*)"
     ],
     "deny": []
   }

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Forever 21",
+    "description": "Forever 21, 1984 yılında Do Won Chang ve Jin Sook Chang tarafından kurulan Forever 21 Inc. bünyesindeki giyim ve aksesuarlar markasıdır.Giysilerinin yüzde 60’ından fazlası Çin’de üretilmektedir.Forever 21 Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Everlane",
+    "description": "Everlane, 2010 yılında Michael Preysman ve Jesse Farmer tarafından kurulan kadın ve erkek ayakkabı, giyim, çanta, aksesuar markasıdır.Öncelikle çevrimiçi satış yapan bir giyim perakendecisidir.Everlane Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pny Elite",
+    "description": "Pny Elite, 1985 yılında kurulan PNY Technologies Asia Pacific Limited bünyesindeki grafik kartları, bellekler, katı hal sürücüleri, flash bellek kartları, usb flash sürücüler markasıdır.Çevre dostu malzemelerden üretilen ve soya bazlı mürekkep kullanılarak basılan çevre dostu ürün ambalajı ile PNY, küresel etkilerine odaklanmıştır. Yeni üretim tesisi, güç gereksinimlerinin yüzde 30’undan fazlasını üreten güneş panelleri içermektedir.PNY Technologies Asia Pacific Limited Tayvan merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Team Bellek",
+    "description": "Team, 1997 yılında kurulan Team Group Inc. bünyesinde üretilen bellek modüllerini, bellek kartlarını, USB flash sürücüleri, katı hal sürücülerini, çevresel serileri, mobil aksesuarları ve endüstriyel uygulamaları markasıdır.Team Group Inc. Tayvan merkezlidir. ISO9001 ve ISO14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO14001",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Athleta",
+    "description": "Athleta, 1998 yılında Scott Kerslake tarafından kurulan Athleta Inc. bünyesindeki giyim ve ayakkabı markasıdır.Yüzme, koşu, yürüyüş, yoga, kayak, tenis, bisiklet, golf ve diğer sporlar için ürünler üretmektedir.Athleta Inc. 2009 yılında Amerika merkezli The Gap Inc. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kempinski Hotels",
+    "description": "Kempinski1986 yılında kurulmuş olan Kempinski Hotels S.A. bünyesindeki lüks otel grubu markasıdır.Kempinski Hotels S.A. İsviçre merkezlidir. Şirkette Bahreyn şeyhleri hisselerin çoğunluğuna sahiptir. 30 ülkede 100’e yakın beş yıldızlı otel işletmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "T-Mobile",
+    "description": "T-Mobile1995 yılında kurulmuş olan Deutsche Telekom AG bünyesindeki mobil telekomünikasyon ürün ve hizmetleri markasıdır.Marka 1999 yılında Almanya merkezli Deutsche Telekom AG tarafından satın alınmıştır.Hissedarları:Almanya Hükümeti (yüzde 30,4)Softbank Group Corp. (yüzde 4,5)Amundi Asset Management SA (yüzde 0,27)Deutsche Telekom Ag (yüzde 0,15)State Street Global Advisors Ltd. (yüzde 0,12)Sjunde AP-fonden (yüzde 0,08)Eurizon Capital SGR SpA (yüzde 0,08)CAPFI DELEN Asset Management NV (yüzde 0,08)DJE Kapital AG (yüzde 0,06)Ag2r La Mondiale Gestion D’Actifs Sa (yüzde 0,06)",
+    "documents": [
+      "IFS",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rcf Art 945",
+    "description": "Rcf1949 yılında kurulmuş olan Rcf S.P.A. bünyesinde üretilen profesyonel ses sistemleri, hoparlörler markasıdır.Rcf S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Collavita Collagen",
+    "description": "Collavita Collagen2020 yılında kurulmuş olan Turmali BV bünyesindeki kolajene dayalı gıda takviyeleri markasıdır.HACCP, ISO 9001 ve FSSC 22000 belgelerine sahiptir.Turmali BV Belçika merkezlidir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Round Lab",
+    "description": "Round Lab2017 yılında kurulmuş olan Seorin Company Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Seorin Company Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

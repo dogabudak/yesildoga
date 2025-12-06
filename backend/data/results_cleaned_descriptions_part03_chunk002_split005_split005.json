@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bluemint",
+    "description": "Bluemint, 2013 yılında Doğu Türkmen tarafından kurulan Bluemint Mağazacılık A.Ş. bünyesindeki plaj giyim ürünleri markasıdır.Mayo, şort, erkek giyim, keten gömlek, havlu, aksesuar gibi ürünlere sahiptir.Bluemint, Londra merkezlidir. Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Tymbark",
+    "description": "Tymbark, 1936 yılında kurulan Tymbark S.A. bünyesinde üretilen meyve suyu markasıdır.Ürünlerini yaklaşık 30 ülkeye ihraç etmektedir. Geniş ürün yelpazesi, yüzde 100 meyve ve sebze sularından oluşur.Markaya özel içecekler, karakteristik bir şapkaya sahip cam şişelerde paketlenirken, kapağı veya altında yazıt vardır.1999 yılında Polonya merkezli Maspex Group tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Storck",
+    "description": "Storck, 1903 yılında August Storck tarafından kurulan August Storck KG bünyesindeki çikolata ve şekerleme ürünleri markasıdır.Storck, 100’den fazla ülkede markaları tarafından temsil edilmektedir.August Storck KG Almanya merkezlidir. Almanya’da 3 üretim tesisi ve idari lokasyonu ve 21 uluslararası yan kuruluşuna sahiptir.Bünyesindeki markalar:BendicksColourfulKnoppersMambaRIESENToffifeeWerther’s Originalmercinimm2",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Emergen-C",
+    "description": "Emergen-C, 1978 yılında Alacer Corp. bünyesinde üretilen toz içecek karışımı vitamin takviyesi markasıdır. 2012 yılında Pfizer tarafından satın alındı.Alacer 1972 yılında C vitamini içeren vitamin takviyeleri üzerine özel bir şirket olarak kurulmuştur.Pfizer Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "FTE automotive",
+    "description": "FTE automotive, 1943 yılında kurulan FTE automotive GmbH bünyesindeki otomotiv endüstrisi için motor ve fren sistemi uygulamaları markasıdır.Otomotiv endüstrisi için tahrikli fren ve fren sistemi uygulamaları sektöründe uzmanlaşmıştır. Şirket çok sayıda hidrolik fren ve debriyaj bileşenleri üretmektedir.2016 yılında Fransa merkezli otomotiv tedarikçisi Valeo S.A. tarafından satın alınmıştır. Valeo’nun Almanya’da 5 üretim 6 Arge merkezi vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Wisent",
+    "description": "Wisent, 1982 yılında DEMP B.V. tarafından üretilen takım çantası, takım tezgahları, el matkabı, titreşimli zımpara ve bant aşındırıcı, çift kaplamalı öğütücüler, jeneratörler, açı öğütücüler, kompresörler, iki tepsili taşlama makineleri, kaynak araçları, testere, çekiç, tornavida vb. araçlar markasıdır.DEMP B.V. atölye, ev ve bahçeyle ilgili her türlü ihtiyaç malzemesi satışı ve alışveriş mağazaları bulunan İsviçreli perakende satış şirketi Bauhaus bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Sofamel",
+    "description": "Sofamel, 1995 yılında kurulan Sofamel S.L.U. bünyesinde üretilen elektrik bağlantı malzemesi, güvenlik ve elektrik koruma malzemesi markasıdır.1,5 mm2 kesitinden bin mm2 kesitine kadar bakır, alüminyum, ve bimatel malzemeler üretmektedir.Sofamel S.L.U İspanya merkezlidir ve ürünlerini İspanya’da üretmektedir.UNE-EN ISO 9001:2015, R+D+i, UNE 166002:2006 belgelerine sahip firma ürünlerini 50 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Jyins",
+    "description": "Jyins, 1993 yılında kurulan Yueqing Jyins Electric Technology Co.,Ltd. bünyesinde üretilen güç adaptörü, analog metre, dijital sayaç, çok fonksiyonlu sayaç, AC ve DC metre setleri markasıdır.Çok sayıda metre, akıllı sıcaklık kontrol ölçerler, anahtarlama güç kaynakları, reaktif güç kompansatörleri ve vericiler, çevirici, güneş sistemi, güneş şarj ve boşaltma denetleyicisi, DC / DC dönüştürücü, pil, araç acil elektrik kaynağı, şarj cihazı gibi ürün çeşitliliğine sahiptir.Ürünleri ISO9001, CE belgelerine ve patlamaya dayanıklı belgelendirmeye sahiptir.Yueqing Jyins Electric Technology Co.,Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Euronews Kanalı",
+    "description": "\"Euronews Nerenin Kanalı\"\nEuronews Nerenin KanalıEuronews, 1993 yılında kurulan Euronews SA bünyesindeki haber kanalıdır.2022 yılında Euronews SA hisselerinin yüzde 88’i Portekiz merkezli Alpac Capital tarafından satın alınmıştır. Geri kalan yüzde 12 hisse Avrupa kamu yayıncıları ve 3 bölgesel topluluğun mülkiyetindedir.Bünyesindeki markalar;AfricanewsEuronews",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PT",
+    "updated_date": "2023-10-11"
+  },
+  {
+    "company": "Airwheel",
+    "description": "Airwheel, 2004 yılında kurulan Airwheel Holding Limited bünyesinde 2013 yılında kurulan Airwheel Technology tarafından üretilen akıllı kişisel taşıyıcı ürünleri markasıdır.Çin, Amerika ve Belçika gibi ülkelerde Ar-Ge, pazarlama, üretim ve lojistik merkezleri bulunmaktadır.Airwheel akıllı scooter ve kaykaylar 168 ülkede satılmaktadır.CE, RoHS, UN38.3 ve MSDS Sertifikalarına sahiptir.Airwheel Holding Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

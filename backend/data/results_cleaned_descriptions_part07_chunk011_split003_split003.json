@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mo Sound",
+    "description": "Mo Sound, Audio Tuning Vertriebs Gmbh bünyesindeki hoparlörler, akustik nokta kaynağı markasıdır.Audio Tuning Vertriebs Gmbh Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Asgon",
+    "description": "Asgon, 1984 yılında kurulmuş olan As İlaç San. Tic. Ltd. Şti. bünyesinde üretilen böcek ve sinek ilaçları markasıdır.Firma İstanbul merkezlidir. Ürünlerini 13 bin metrekaresi açık, 3 bin metrekaresi kapalı olan kendi fabrikasında üretmektedir ve bir çok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "CCleaner",
+    "description": "CCleaner, 2004 yılında kurulmuş olan Piriform Software Ltd. bünyesinde üretilen bilgisayarlar, mobil cihazlar, bulut ve karmaşık kurumsal ağlarda çalışan yazılım araçları markasıdır.Piriform Software Ltd. Amerika merkezli Broadcom Inc.’e ait olan Nortonlifelock Inc. bünyesindedir.Bünyesindeki markalar;CCleanerDefragglerRecuvaSpeccy",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sinkov",
+    "description": "Sinkov, 1997 yılında kurulmuş olan Netpa Tüketim Ürünleri Paz. ve Tic. Ltd. Şti. bünyesinde üretilen su bazlı ve alkol bazlı sinek kovucu losyonlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Amenduni",
+    "description": "Amenduni, 1905 yılında Michele Amenduni tarafından kurulmuş olan Amenduni Nicola S.p.a. bünyesinde üretilen paslanmaz çelik avakado ve zeytinyağı çıkarma makineleri markasıdır.Amenduni Nicola S.p.a. İtalya merkezlidir ve ürünlerini İtalya’da bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

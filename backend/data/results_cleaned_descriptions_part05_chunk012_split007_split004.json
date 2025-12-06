@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Mic Mac",
+    "description": "Mic Mac, 1972 yılında Ronald C. Vermont tarafından kurulan Cofradex ApS bünyesinde üretilen saf organik akçaağaç şurubu ve diğer ürünler markasıdır.IFS, BRC ve Koşer belgelerine sahiptir.Cofradex ApS Danimarka merkezlidir ve ürünlerini Danimarka’da üretmektedir.",
+    "documents": [
+      "BRC",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Hochwald",
+    "description": "Hochwald, 1932 yılında kurulan Hochwald Foods Gmbh bünyesindeki buharlaştırılmış ve yoğunlaştırılmış süt, uzun ömürlü süt, uzun ömürlü krema, aromalı sütlü içecekler veya buzlu kahve, peynir ve süt tozu markasıdır.Hochwald Foods Gmbh Almanya merkezlidir. Ürünleri dünya çapında 100’den fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;BarenmarkeBonnyElinasGlückskleeHochwaldLünebestMana",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Silverette",
+    "description": "Silverette, 1970 yılında Luigi Sevignani tarafından kurulan Tecnologia Ospedaliera srl bünyesindeki gümüş göğüs ucu koruyucu kapak markasıdır.Tecnologia Ospedaliera srl İtalya merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Sealmaster",
+    "description": "Sealmaster, 1969 yılında kurulan Thorworks Industries Inc. bünyesindeki kaldırım macunları, sızdırmazlık katkı maddeleri, beton ürünleri, çatlak dolgu maddeleri, tamir ürünleri, trafik boyaları, toz bastırıcılar ve malzemeler, parça ve aletler markasıdır.Thorworks Industries Inc. Amerika merkezlidir ve 60’ın üzerinde ülkede üretim ve dağıtım varlığına sahiptir. Avustralya, Kanada, Çin ve Meksika’da lisanslı üretim yapmaktadır.Ürünleri ve malzemeleri, franchise sistemi aracılığıyla, lisanslı üreticiler veya dağıtıcılar aracılığıyla ve doğrudan Thorworks’ün global lojistik sistemi aracılığıyla dağıtılır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lionelo",
+    "description": "Lionelo, BrandLine Group sp. z o.o. bünyesindeki bebek koltuğu, bebek arabası, bebek karyolası, çocuk bahçesi, bebek sandalyeleri, bebek taşıyıcıları markasıdır.BrandLine Group sp. z o.o. Polonya merkezlidir. Ürünleri 20 ülkeye pazarlanmaktadır.Bünyesindeki markalar;LioneloOvermaxZeegma",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

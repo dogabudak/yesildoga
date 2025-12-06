@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Esemka",
+    "description": "2007 yılında kurulmuş olan PT Solo Manufaktur Kreasi bünyesindeki otomobiller, ticari araçlar, motorlar markasıdır.PT Solo Manufaktur Kreasi Endonezya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ID",
+    "updated_date": null
+  },
+  {
+    "company": "Noon Goons",
+    "description": "1997 yılında Kurt Namore tarafından kurulmuş olan Elden LLC bünyesindeki erkek giyim, aksesuar ve ayakkabı markasıdır.Elden LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Xstorm",
+    "description": "2016 yılında kurulmuş olan Shenzhen Yunshuzi Technology Co. Ltd. bünyesindeki otomatik led, Otomatik led far, otomatik led sinyal ışığı, araba ışığı, H7 led far markasıdır.Firma ağırlıklı olarak Led ışık çubukları, Led çalışma ışığı, Led sürüş ışığı, Led far ve yüzlerce türe kadar diğer Led ürünleri üretmektedir.Shenzhen Yunshuzi Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dulano",
+    "description": "1930 yılında kurulmuş olan Lidl Stiftung & Co. KG bünyesindeki et ve salam, sucuk ürünleri markasıdır.Lidl Stiftung & Co. KG Dieter Schwarz’ın sahibi olduğu Almanya merkezli Schwarz Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Colorful Standard",
+    "description": "2017 yılında Sal Deleuran tarafından kurulmuş olan RTG Sales ApS bünyesindeki kadın ve erkekler için hazır giyim markasıdır.Şirket, tümü çevre dostu boyalar ve tamamı organik pamuklu giysiler, bitki bazlı güneş gözlükleri ve tamamı geri dönüştürülmüş merinos yünü aksesuarları dahil olmak üzere bir dizi ürün sunmaktadır.Giysiler Portekiz’de organik pamuktan üretiliyor ve bazı modellerde İtalya’dan Woolmark sertifikalı yün kullanılıyor.RTG Sales ApS Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Tozo",
+    "description": "Tozo, 2015 yılında kurulan Tozo Inc. bünyesindeki kulaklıklar, güç bankaları, şarj dinamosu, ekran koruyucular, saatler, kablosuz ses, akıllı iot, sanal gerçeklik ve dijital aksesuarları markasıdır.Tozo Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Shein",
+    "description": "Shein, 2012 yılında kurulan Roadget Business Pte. Ltd. bünyesindeki hızlı moda perakende markasıdır.Kadın giyim, kozmetik, ayakkabı, cüzdan, çanta ve mücevher ürünleri sunmaktadır.Roadget Business Pte. Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Rapture Olta",
+    "description": "Rapture, 1986 yılında Roberto Trabucco tarafından kurulan Trabucco International S.R.L. bünyesindeki olta takımları, yapay yemler, balık bulucular, çubuklar, makaralar, yapay ve yardımcı ekipmanlar ve aksesuarları markasıdır.Trabucco International S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Miky",
+    "description": "Miky, 1954 yılında kurulan Viky Koll. Şti Adnan Rıdvanlar ve ortakları bünyesinde üretilen kundura boyaları, süet, nubuk, deri boyası, kundura cilaları, yüz verniği, son kat parlatıcısı, kenar verniği, freze mumu, ökçe boyası, kalıp ayırıcı wax, muşamba ve mozail cilası, metal parlatıcı vikaul markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Honor Choice",
+    "description": "Honor Choice, 2013 yılında kurulan Honor Device Co. Ltd. bünyesinde üretilen robot süpürge, kablosuz elektrikli süpürge, kulaklık, kamera, akıllı diş fırçası markasıdır.Honor Device Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Linkedin",
+    "description": "Linkedin, 2013 yılında Reid Hoffman tarafından kurulan Linkedin Corporation bünyesindeki iş ve istihdam odaklı sosyal medya platformudur.Web siteleri ve mobil uygulamalar aracılığıyla çalışan platform profesyonel ağlar için kullanılır ve iş arayanların özgeçmişlerini ve işverenlerin iş ilanlarına göndermelerine izin verir.2016 yılında Amerika merkezli Microsoft Corporation’a ait bir yan kuruluş olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Baidu",
+    "description": "Baidu, 2000 yılında Robin Li ve Eric Xu tarafından kurulan Baidu, Inc. bünyesindeki internet arama motoru markasıdır.Baidu, Inc. internet ile ilgili hizmetler ve ürünler ile yapay zeka konusunda uzmanlaşmış bir Çin merkezli çok uluslu teknoloji şirketidir.Dünyanın en büyük yapay zeka ve internet şirketlerinden biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cheetah Mobile",
+    "description": "Cheetah Mobile, 2009 yılında Chen Rui tarafından kurulan Cheetah Mobile Inc. bünyesindeki mobil uygulamalar markasıdır.Şirket, Yahoo’nun arama ve yerel reklam platformlarını kendi uygulamalarına dahil etti.Kingsoft ve Tencent, Cheetah Mobile’ın en büyük yatırımcılarıdır. Cheetah Mobile Inc. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Wish",
+    "description": "Wish, 2010 yılında Piotr Szulczewski ve Sheng Zhang tarafından kurulan ContextLogic Inc. bünyesindeki satıcılar ve alıcılar arasındaki işlemleri kolaylaştıran bir çevrimiçi e-ticaret platformudur.Wish, ödemeleri işlemek için ödeme servis sağlayıcılarıyla çalışır ve ürünleri kendileri stoklamaz veya iadeleri yönetmez.ContextLogic Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Duolingo",
+    "description": "Duolingo, 2012 yılında Luis von Ahn tarafından kurulan Duolingo, Inc. bünyesindeki dil öğrenme web sitesi ve mobil uygulama ile bir dijital dil yeterlilik değerlendirme sınavıdır.Ücret karşılığında premium hizmet sunarken, uygulama ve web sitesine ücretsiz olarak erişilebilmektedir.Dil öğrenme web sitesi ve uygulaması 38 dilde 98 farklı dil kursu sunmuştur.Duolingo, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

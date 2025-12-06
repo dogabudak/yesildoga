@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Sandora",
+    "description": "Sandora, 1995 yılında kurulan Sandora LLC bünyesinde üretilen meyve suyu markasıdır.2007 yılında Sandora LLC, Amerika merkezli PepsiCo Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "M-Acoustic",
+    "description": "M-Acoustic, 2004 yılında kurulan Promet Oto Müzik Sistemleri Tic. Ltd. Şti. bünyesindeki araç hoparlörleri, subwoofer, amplifier, aksesuarlar markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AdstechArtesuonoCrunchDatasatHifonicsMacousticM-AcousticPliniusStegStroker Technology",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Scanspeak",
+    "description": "Scanspeak, 1970 yılında kurulan Scan-Speak A/S bünyesindeki hoparlör, subwoofer, sesin iletimi veya çoğaltılması için aparatlar, hoparlör bileşenleri, dönüştürücüler, sürücüler markasıdır.Scan-Speak A/S Danimarka merkezlidir. Ürünleri 35’ten fazla ülkeye dağıtılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Komo",
+    "description": "Komo, 1985 yılında kurulan Wolfgang Mock Gmbh bünyesinde üretilen tahıl öğütme değirmenleri markasıdır.Taş değirmenleri tahıl, bakliyat ve baharatlar, farklı yiyecekleri unlara ve tozlara dönüştürür.Wolfgang Mock Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Detay Kahve",
+    "description": "Detay, Detay Gıda San. ve Tic. A.Ş. bünyesindeki ince öğütülmüş Türk kahvesi, filtre kahve, espresso, kapuçino ve çok çeşitli pratik hazır dem kahveler markasıdır.ISO 9001, ISO 14001, ISO 18001, ISO 22000 belgelerine sahiptir.Altınmarka grubu bünyesindeki İstanbul merkezli firma ürünlerini 6 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

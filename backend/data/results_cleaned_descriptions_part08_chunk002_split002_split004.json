@@ -1,0 +1,46 @@
+[
+  {
+    "company": "ACE Telecom",
+    "description": "ACE Telecom, 1997 yılında kurulmuş olan ACE Telecom Kft. bünyesindeki internet hizmetleri, veri iletim hizmetleri, VoIP, sanallaştırma, bulut bilişim, sunucu barındırma-kiralama, web barındırma, alan adı kaydı, internet, IP telefon hizmetleri markasıdır.ACE Telecom Kft. Macaristan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HU",
+    "updated_date": "2023-09-21"
+  },
+  {
+    "company": "TIM Telekom",
+    "description": "TIM, 1994 yılında kurulmuş olan TIM S.p.A. bünyesindeki sabit ve mobil telekomünikasyon, internet ve bilişim teknolojileri markasıdır.TIM S.p.A. İtalya merkezlidir. Ayrıca Brezilya’da bir yan kuruluşu vardır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2023-09-18"
+  },
+  {
+    "company": "Peripera",
+    "description": "Peripera, 1993 yılında kurulmuş olan Clio Cosmetics Co. Ltd. bünyesinde üretilen makyaj ürünleri markasıdır.Clio Cosmetics Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Esun 3D Printing",
+    "description": "Esun 3D Printing Hangi Ülkenin Malı MarkasıEsun, 2007 yılında kurulmuş olan Shenzhen Esun Industrial Co. Ltd. bünyesinde üretilen 3D baskı, 3D biyopolimer malzeme, çok çeşitli filamentler, reçineler, filament kurutucu markasıdır.Shenzhen Esun Industrial Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Trash",
+    "description": "Trash, Trash d.o.o. bünyesindeki giyim ürünleri markasıdır.Ürün yelpazesinde tişört, şapka, maske, kapüşonlu, kolye, küpe, bot, taktik yelek, sırt çantası, sandalet, pantolon, bileklik, yamalar ve mouse pad yer almaktadır.Trash d.o.o. Slovenya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SI",
+    "updated_date": null
+  }
+]

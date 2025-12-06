@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Dr.Comfort",
+    "description": "Dr.Comfort Hangi Ülkenin Malı MarkasıDr.Comfort, 2010 yılında kurulmuş olan Sevinçler Sağlık Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen hasta bezleri markasıdır.ISO 9001, ISO 13485, GMP belgelerine sahiptir.Firma Gaziantep merkezlidir ve ürünlerini 3. OSB’de bulunan 20 bin metrekarelik tesisinde üreterek 70’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rcon",
+    "description": "Rcon, 2018 yılında kurulmuş olan Rcs Elektronik Kontrol Sistemleri San. ve Tic. A.Ş. bünyesindeki kablolu, kablosuz oda termostatları, akım koruma ürünleri markasıdır.Firma İzmir merkezlidir.Bünyesindeki markalar;BrawnRconRcon Heating Thermostat",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "By Henna",
+    "description": "By Henna, 2020 yılında kurulmuş olan Henna Gıda San. ve Tic. A.Ş. bünyesinde üretilen zeytin, natural katkısız zeytinyağı markasıdır.Firma İstanbul merkezlidir ve ürünlerini Balıkesir’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tees",
+    "description": "Tees, 1973 yılında kurulmuş olan Tees Teknik Elektrik Elektronik San. ve Tic. Ltd. Şti. bünyesindeki okul proje kitleri, robotik kodlama laboratuvarları, dedektörler, elektronik deney ve oyun setleri, kodlama, ilave set modülleri, okula hazırlık, ilkokul-ortaokul bilgi setleri, hobi kitleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Prevost Car",
+    "description": "Prevost Car, 1924 yılında kurulmuş olan şehirlerarası tur otobüsleri markasıdır.2004 yılında AB Volvo tarafından satın alınmıştır.AB Volvo’nun yüzde 8,9 oranındaki hissesi İsveç merkezli AB Industrivarden’e, yüzde 8,2 oranındaki hissesi ise Çin merkezli Geely’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

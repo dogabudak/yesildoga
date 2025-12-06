@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Orient Star",
+    "description": "Orient Star, 1881 yılında kurulmuş olan Seiko Epson Kabushiki Kaisha bünyesinde üretilen kol saatleri ve saatler ile parçalar ve aksesuarlar markasıdır.Seiko Epson Kabushiki Kaisha, Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Columbia Sprey",
+    "description": "Columbia Sprey, 1990 yılında kurulmuş olan Rüzgar Kimya Kozmetik Ltd. Şti. bünyesinde üretilen temizleyici, markasıdır.ISO 9001 belgesine sahip firma Tekirdağ merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seguro Sigorta",
+    "description": "Seguro Sigorta, 2019 yılında kurulmuş olan Seguro Risk Yönetimi Sigorta Aracılık Hizmetleri A.Ş. bünyesinde faaliyet gösteren sigorta acentesi markasıdır.Hayat sigortaları branşı dışında tüm branşlarda hizmet vermektedir.Ankara merkezlidir. 2012 yılında şirketin tüm hisselerini Atila Eroğlu satın almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dondurmacci",
+    "description": "Dondurmacci, 2010 yılında kurulmuş olan Mino Gıda Tic. ve San. Ltd. Şti. bünyesinde üretilen dondurma ve sorbeler, doğal ürünler, tatlılar markasıdır.Ürünlerini günlük manda ve inek sütü, mevsimlik taze meyveler kullanarak tamamen doğal girdilerle üretmektedir.ISO 22000, TSE belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gmsp Engine Valves",
+    "description": "Gmsp Engine Valves, 1973 yılında kurulmuş olan Güneş Motor Supapları Tic. ve San. A.Ş. bünyesinde üretilen benzinli ve dizel araçlar için supap markasıdır.ISO 9001 belgesine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

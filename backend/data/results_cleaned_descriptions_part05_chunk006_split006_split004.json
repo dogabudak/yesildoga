@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Boya Microphones",
+    "description": "Boya Microphones, 2007 yılında kurulan Shenzhen Jiayz Photo Industrial. Ltd. bünyesinde üretilen kondenser mikrofonlar markasıdır.Firma DSLR kameralar, video kameralar, ses kaydediciler vb için mikrofonlar üretmektedir.Shenzhen Jiayz Photo Industrial. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Paul Smith",
+    "description": "Paul Smith, Paul Smith Group Holdings Limited bünyesindeki hazır giyim ürünleri, ayakkabı, cüzdan, çanta, kemer, şapka, takı, saat, ceket, kot pantolon, gömlek, şort, mayo, takım elbise gibi ürünler markasıdır.Şirket, iştirakleri aracılığıyla hazır giyim ürünleri sağlamaktadır.Paul Smith Group Holdings Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Sunfull Tires",
+    "description": "Sunfull Tires, Shandong Hengfeng Rubber & Plastic Co. Ltd. bünyesinde üretilen araç lastiği markasıdır.ISO 9001 ve TS 16949 belgelerine sahiptir.Shandong Hengfeng Rubber & Plastic Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Casual Cadillac Bebek Koltuğu",
+    "description": "Casual Cadillac, 2007 yılında kurulan Vatan Çocuk Gereçleri İmalat San. ve Tic. Ltd. Şti. bünyesinde üretilen bebek ve çocuk otomobil koltuğu, bebek arabası markasıdır.Ürünlerini Tekirdağ Çerkezköy’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vita1000",
+    "description": "Vita1000 Hangi Ülkenin Malı MarkasıVita1000, 2001 yılında kurulan Azgranata MMC bünyesinde üretilen meyve suları markasıdır.ISO 9001, ISO 22000 ve Kosher belgelerine sahiptir.Azgranata MMC Azerbaycan merkezlidir ve ürünlerini kendine ait tarım alanlarından topladığı ürünlerden üretmektedir.Bünyesindeki markalar;LeyliMoreNarshVita1000",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  }
+]

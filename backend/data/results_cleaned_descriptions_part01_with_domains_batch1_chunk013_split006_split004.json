@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sheaffer",
+    "description": "Sheaffer, 1907 yılında Walter A. Sheaffer tarafından kurulan kalem markasıdır.Sheaffer; dolma, tükenmez, roller, versatil (kurşun) ve kaligrafi kalemleri olarak farklı ihtiyaçlar için kalemler üretmektedir.2015 yılında Amerikan kalem devi Cross tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Buick Ülke",
+    "description": "Buick, 1899 yılında David Dunbar Buick tarafından kurulan otomobil markasıdır.General Motors bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nickelodeon Kanalı",
+    "description": "Nickelodeon, 1977 yılında açılan televizyon kanalıdır.Kanalın sahibi Viacom International şirketidir.Amerikan merkezli Viacom bünyesindeki Nickelodeon kardeş kanalları:Nick at NiteNick Jr.NicktoonsTeenNickNickMusicTV Land",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-12-18"
+  },
+  {
+    "company": "Agfa",
+    "description": "Agfa, 1964 yılında kurulan Agfa Gevaert N.V. bünyesindeki fotoğraf ürünleri markasıdır.Agfa; grafik, sağlık ve özel ürünler olmak üzere üç iş grubu halinde düzenlenmiştir.Belçika merkezli Agfa, 40 ülkede satış kuruluşlarına sahiptir. Agfa’nın en büyük üretim ve araştırma merkezleri; Belçika, Amerika, Kanada, Almanya, Fransa, İtalya ve Çin’de yer alır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Bauer",
+    "description": "Bauer, 1790 yılında Sebastian Bauer tarafından kurulan BAUER Maschinen GmbH bünyesindeki İş Makineleri markasıdır.BAUER Maschinen Fore Kazık; Diyafram Duvar Makinası ve gerekli olan tüm araç ve gereçleri üretmektedir.70 Ülkede yaklaşık 110 ortaklıkları bulunmaktadır.Almanya merkezli Bauer, 2008 yılında Türkiye’de EMİROĞLU Makina bünyesinde BAUER Casings Makina 1.O.S.B. Sincan da kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Midea",
+    "description": "Midea, 1968 yılında He Xiangjian tarafından kurulan Midea grubu bünyesindeki elektrikli ev aletleri markasıdır.Midea grubun ana eşyaları elektrikli ev aletleri, Klima, buzdolabı, çamaşır makinesi, mikrodalga fırın, fan, bulaşık makinesi, indüksiyon Ocak, pirinç Ocak, elektrikli düdüklü tencere, su dağıtıcısı, su ısıtıcı, hava enerji sıcak su makinesi, elektrikli süpürge, ısıtıcı, elektrikli su ısıtıcısı, fırın, su arıtma donanımları, temizleyici hava, Nemlendiriciler, dezenfeksiyon dolapları, aydınlatma ve diğer Klima kompresörleri, buzdolabı kompresörleri, motorlar, magnetron tüpler, transformatörler ve diğer ev aletleri.Midea Çin merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Helen Harper",
+    "description": "Helen Harper, 1979 yılında kurulan Ontex Group NV bünyesindeki tek kullanımlık bebek bezi markasıdır.2000 yılından beri Türkiye’de Ontex Tüketim Ürünleri San. ve Tic. A.Ş. olarak faaliyet göstermektedir.Ontex Group NV Belçika merkezlidir. Çoğunluk hisseleri Belçika merkezli Groupe Bruxelles Lambert SA (yüzde 19,98) ile İngiltere merkezli ENA Investment Capital Llp (yüzde 15,07)’ye aittir.Ontex Hakkında Bilgi ve Hissedarları",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2023-11-21"
+  },
+  {
+    "company": "GMC Batarya",
+    "description": "GMC, 2000 yılında kurulan GENÇ BİLİŞİM bünyesindeki cep telefonu aksesuarları markasıdır.Ürün yelpazesi; Kılıf ve Kapak, Batarya, Şarj Cihazı, Powerbank, Kulaklık, Veri Kablosu, Ekran Koruyucular ve Teknik Malzemelerden oluşmaktadır.GENÇ BİLİŞİM bünyesinde GMC ve MAXPOİNT markaları yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pil Ülkeye Aittir",
+    "description": "Burada pil marka sahiplerinin hangi ülkelere ait oldukları belirtilmiştir. Belirtilen pil markaları, ürünlerini Çin gibi farklı ülkelerde üretebilmektedir.Türkiye:TigerCFLSyroxTTECSunixİtalyanoJaponya:FujitsuToshibaPanasonicJapanAlmanya:AnsmannHong Kong:GPAvecATCPeakPowerAmerika:DuracellVARTAEnergizerWestinghouseÇin:CamelionDejiWeweGomaxTinkoOrionİngiltere:Kodakİsviçre:Renata",
+    "documents": [
+      "CE"
+    ],
+    "parent": "Hangi Pil Markası Hangi Ülkeye Aittir :",
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Sunix",
+    "description": "Sunix, 2008 yılında kurulan Mobista Telekom Elektronik İç ve Dış Tic. Ltd. Şti. bünyesindeki Ekran Koruyucu, Şarj Aleti, Usb Kablo, Araç Tutucu, Kılıf ve Kapak, Kulaklık, Powerbank ve Speaker markasıdır.Türkiye’de kurulan Sunix ürünleri 10’dan fazla ülkeye ihraç ediliyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Channellock",
+    "description": "1886 yılında George Dearment tarafından kurulmuş olan Channellock Inc. bünyesindeki el araçları ve otomotiv aksesuarları markasıdır.Channellock Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dormer Tools",
+    "description": "1993 yılında Sandvik AB tarafından satın alınan çelik kesme araçları markasıdır.Sandvik AB İsveç merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Pek Food",
+    "description": "2012 yılında kurulmuş olan Özsoy Unlu Mamüller Gıda San. ve Tic. A.Ş. bünyesindeki hazır dondurulmuş pizza, börek, mantı, lahmacun, milföy, patates markasıdır.Ürünleri suni koruyucu yada katkı maddesi içermemektedir.ISO 9001, FSSC 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Veryfit",
+    "description": "2012 yılında kurulmuş olan Shenzhen Do Intelligent Technology Co. Ltd. bünyesindeki kalp atış hızı monitörü Akıllı bileklik, akıllı bant, adım pedometresi, akıllı giyilebilir cihazlar markasıdır.ISO 9001 belgesine sahiptir.Shenzhen Do Intelligent Technology Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 30’dan fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Baproy",
+    "description": "2019 yılında kurulan Yenidünya Endüstriyel Tedarik – Batuhan Yenidünya bünyesindeki endüstriyel temizlik ürünleri, kağıt havlu, çöp torbası, dezenfektan, dispenserler markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Tomcar",
+    "description": "Tomcar, 1967 yılında kurulan Tomcar Ltd. bünyesinde üretilen arazi aracı markasıdır.Dünya çapında çatışma bölgelerinde çok sayıda askeri kuvvete hizmet vermektedir.Tomcar Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Yöre",
+    "description": "Yöre Nerenin Malı MarkasıYöre, 1995 yılında kurulan Yöre Şirketler Grubu bünyesinde 2010 yılında kurulan Peyba Gıda Üretim ve Paz. A.Ş. tarafından üretilen zeytin, peynir, acuka, biber, salata, turşu, kahvaltılık ambalajlı ürünler markasıdır.Yöre Şirketler Grubu, Kocaeli ve Çanakkale’de iki adet süt ve süt ürünleri üretim tesislerine, Bursa’da zeytin ve turşu grubu için kendi üretim tesislerine sahiptir. ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Bünyesindeki markalar;ÜnlüŞahPeyşahSoseroYöreYeşil Akçaabat",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Adama Agricultural Solutions",
+    "description": "Adama Agricultural Solutions, 1945 yılında kurulan Adama Ltd. bünyesindeki bitki koruma (herbisitler, böcek öldürücüler, mantar öldürücüler, bitki büyüme düzenleyicileri, tohum tedavileri), gıda katkı maddeleri, diyet takviyeleri, aroma ürünleri markasıdır.Adama Ltd. İsviçre merkezli Syngenta Group bünyesindedir ve ürünlerini İsrail’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "İmamoğlu",
+    "description": "İmamoğlu, 1925 yılında Osman ve Mehmet İmamoğlu tarafından kurulan İmamoğlu Sucukları bünyesinde üretilen sucuk, pastırma, kavurma, salam, sosis, köfte, füme dil, çemen, mantı markasıdır.Kayseri’de et ve et ürünleri imalat tesisi, fabrika satış mağazası ve besi çiftliği bulunmaktadır. ISO 9000 ve ISO 22000 belgelerine sahiptir.Bünyesindeki markalar;İmamoğluNimNazetSunet",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Raymarine",
+    "description": "Raymarine, 1978 yılında kurulan FLIR Systems, Inc. bünyesindeki deniz elektroniği, radar, iletişim, navigasyon cihazları, aletler, sonar, otopilotlar, termal görüntüleme, uydu tv (deniz), yazılım ve deniz navigasyon sistemleri markasıdır.Eğlence amaçlı tekne ve hafif ticari deniz pazarları için en kapsamlı elektronik ekipman yelpazesine sahiptir. Ürün serileri radar, otopilotlar, GPS, aletler, balık bulucular, iletişim ve entegre sistemleri içerir.FLIR Systems, Inc. Amerika merkezlidir ve 60’tan fazla ülkede geliştirme merkezleri ile satış ofislerine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

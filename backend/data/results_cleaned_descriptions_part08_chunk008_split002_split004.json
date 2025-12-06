@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Paycell",
+    "description": "Paycell, 2000 yılında Turkcell Ödeme ve Elektronik Para Hizmetleri A.Ş. bünyesinde kurulmuş olan ödeme çözümleri markasıdır.Firma İstanbul merkezlidir.Ortaklık Yapısı:Turkcell Finansman A.Ş. (yüzde 90,9)Turkcell İletişim Hizmetleri A.Ş. (yüzde 9)Turkcell Satış ve Dijital İş Servisleri A.Ş. (yüzde 0,0279)Superonline İletişim Hizmetleri A.Ş. (yüzde 0,0279)Global Bilgi Paz. Dan. Ve Çağrı Servisi Hizmetleri A.Ş. (yüzde 0,0279)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pervin Tereyağı",
+    "description": "Pervin, 1995 yılında kurulmuş olan , BİM Birleşik Mağazalar A.Ş. adına çeşitli üreticiler tarafından üretilen tereyağı markasıdır.Ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arbekla",
+    "description": "Arbekla, 1962 yılında kurulmuş olan Gül Pres Döküm San. A.Ş. bünyesindeki duş setleri ve tamamlayıcı ürünler markasıdır.Şirket pirinç hammaddeden pres baskı ve döküm olarak, çeşitli su ve gaz vanaları, radyatör valf ve rakorları, banyo ve mutfak armatür ve musluklar üretmektedir.ISO 9001, ISO 10002 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 12 bin metrekarelik tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Payfix",
+    "description": "Payfix, 2018 yılında kurulmuş olan Payfix Elektronik Para ve Ödeme Hizmetleri A.Ş. bünyesindeki ödeme platformu markasıdır.Firma İstanbul merkezlidir.2025 yılında TCMB kararı ile tüm faaliyet izinleri durdurulmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-03-27"
+  },
+  {
+    "company": "9wishes",
+    "description": "9wishes Hangi Ülkenin Malı Markası9wishes, 2013 yılında kurulmuş olan 9wishes Co. Ltd. bünyesinde üretilen nemlendiriciler, cilt serumu ve yağlar, yüz bakım ürünleri, güneş kremleri ve sıvıları markasıdır.9wishes Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

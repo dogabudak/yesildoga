@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Emerica",
+    "description": "1887 yılında kurulmuş olan Nidecker SA bünyesindeki ayakkabı, giyim ve aksesuarlar markasıdır.Nidecker SA Belçika merkezlidir.Bünyesindeki markalar;És",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Dymatize",
+    "description": "1994 yılında kurulmuş olan Dymatize Enterprises LLC. bünyesindeki gıda ve fitness takviyeleri markasıdır.Dymatize Enterprises LLC. Amerika merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cremorlab",
+    "description": "Samwhan Corporation bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri hipoalerjenik bileşenlerden oluşmaktadır.Samwhan Corporation Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Briviga",
+    "description": "2008 Ningbo Eastpower Electronics Co. Ltd. bünyesinde üretilen bisiklet parçaları ve aksesuarları, bisiklet ışıkları markasıdır.Ningbo Eastpower Electronics Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "DamPaste",
+    "description": "2007 yılında kurulmuş olan Marinsu İzolasyon San. Tic. Ltd. Şti. bünyesinde üretilen titreşim sönümleyici macunu markasıdır.Yat ve mega yatlar, römorkör tekneleri, askeri gemiler, hizmet tekneleri ticari gemiler demiryolu sistemleri ve yüzeylerde oluşan mekanik kaynaklı gürültüyü önlemek için kullanılır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

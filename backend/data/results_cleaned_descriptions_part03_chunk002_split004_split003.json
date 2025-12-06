@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Çobanoğlu",
+    "description": "Çobanoğlu, 1947 yılında kurulan Çobanoğulları Gıda Tic. Ltd. Şti. bünyesinde üretilen beyaz peynir, dil peyniri, eski kaşar, kaşar peyniri, koyun peyniri, köy peyniri, krem peynir, lor peynir, örgü peynir, süzme yoğurt, tam yağlı beyaz peynir, tel peynir, tereyağı, dilimli kaşar markasıdır.Ürünlerini Uşak’ta bulunan 5 bin metrekarelik kapalı, 3 bin 600 metrekarelik açık alanda üretmektedir. TSE ve ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Umca",
+    "description": "Umca, 1865 yılında kurulan Almanya merkezli Dr. Willmar Schwabe GmbH & Co. KG tarafından lisanslanarak üretilmektedir.Abdi İbrahim İlaç San. ve Tic. A.Ş. tarafından ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Brave Browser",
+    "description": "Brave Browser, 2019 yılında Brendan Eich ve Brian Bondy tarafından kurulan Brave Software Inc bünyesinde geliştirilen açık kaynak kodlur, reklam ve zararlı yazılımları engelleyen internet tarayıcısıdır.Brave, JavaScript’in mucidi ve Mozilla’nın kurucularından biri de dahil olmak üzere, web’in performans odaklı öncülerinden oluşan bir ekip tarafından oluşturulmuştur.2019 itibariyle, Brave Windows için piyasaya sürüldü, macOS, Linux, Android, ve iOS sürümleri ve kendi ortağı DuckDuckGo dahil olmak üzere beş arama motoru bulunuyor.Brave Software Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Powerstar Fön Makinesi",
+    "description": "Powerstar“1995 yılında kurulmuş olan Arsim tarafından üretilen fön makinesi, saç maşası ve düzleştirici markasıdır.Fön makinesi Jonson Motor içermektedir.Firma İstanbul merkezlidir. Ürünlerini Azerbaycan, Gürcistan ve Kosova’ya ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-12-17"
+  },
+  {
+    "company": "Protex",
+    "description": "Protex, 2009 yılında kurulan Turkuvaz Plastik ve Temizlik Ürünleri Sanayi Ticaret A.Ş. tarafından BİM A.Ş. adına 2016 yılından itibaren üretilen kağıt veya karton malzemeden mamul ambalajlama ve sarma malzemeleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

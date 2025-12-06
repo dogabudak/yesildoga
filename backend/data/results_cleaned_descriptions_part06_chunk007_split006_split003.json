@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Babyforce",
+    "description": "Babyforce, 1996 yılında kurulan Civil Mağazacılık A.Ş. bünyesindeki bebek arabaları markasıdır.Firmanın reyonlarında 14 yaşına kadar tüm tekstil, beslenme gereçleri ve taşıma grupları yer almakta.Firma Kocaeli merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Castleblack",
+    "description": "Castleblack, 1979 yılında kurulan Sarıkaya Ayakkabı ve Taban San. bünyesinde üretilen günlük ayakkabı markasıdır.Ayrıca Termo taban ve Poliüretan taban üretimi yapmaktadır.Denizli merkezli firma ürünlerini Denizli OSB’de 3 bin metrekaresi kapalı 2 bin metrekaresi açık toplam 5 bin metrekarelik alanda üretmekte ve 19 ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wofacutan",
+    "description": "Wofacutan, 1993 yılında kurulan Kesla Hygiene AG bünyesinde üretilen bulaşık deterjanı, cilt bakım ürünleri, el dezenfeksiyonu, saç yıkama, tıbbi temizleyicler, yüzey dezenfeksiyonu markasıdır.Kesla şirketler grubu, veterinerlik, gıda ve tıbbi alan için kapsamlı bir dizi hijyen ürününün yanı sıra profesyonel uygulama için cihazlar üreticisidir.Kesla Hygiene AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ssn Sports Style Nutrition",
+    "description": "Ssn Sports Style Nutrition, 2015 yılında kurulan Rekk Sporcu Gıdaları San. ve Tic. Ltd. Şti. bünyesinde üretilen sporcu gıdası markasıdır.ISO 9001, ISO 14001, ISO 22000, GMP, HACCP, Helal belgelerine sahiptir.Ürünleri domuz yağı veya domuz katkıları, soya proteini de dahil olmak üzere herhangi bir bitkisel protein içermemektedir. Kullanılan karbonhidrat çeşidi, Alman menşeli izomaltülozdur.Eskişehir merkezli firma ürünlerini Türkiye’de üretmektedir.Bünyesindeki markalar;AminoflameBest Plus NutritionBigbangBpn Best Plus NutritionBpn Eco BetaBpn Eco TacticalCarniflameCommand QuadroCommand SpreadGymkongHellfireHydro100Molotov Coctail PreworkoutMorınga OleıferaOnyx Nutrition MechanicOnyxnutritionReekonyxnutritionRefuelSsn Sports Style NutritionSsn Süper FoodSsn Whey BuilderThermo Bcaa KickWhey BuilderWhey MarketWm Wheymarket",
+    "documents": [
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rani",
+    "description": "Rani, 2012 yılında Aujan Industries ile The Coca-Cola Company ortaklığında kurulan Aujan Coca-Cola Beverages Company bünyesinde üretilen meyve suları markasıdır.Aujan Coca-Cola Beverages Company 15 ülkede yetkili üretici ve dağıtıcıdır. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.Aujan Industries Suudi Arabistan merkezli, The Coca-Cola Company Amerika merkezlidir.Bünyesindeki markalar;BarbicanRaniRR",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

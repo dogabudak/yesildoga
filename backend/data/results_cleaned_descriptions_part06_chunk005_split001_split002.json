@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Agriflex",
+    "description": "Agriflex, 1975 yılında kurulan Agriflex S. r. l. bünyesinde tasarlanan gıda endüstrisi için hammaddelerin depolanması, taşınması, dozajı ve otomasyonu için sistemler markasıdır.Gıda endüstrisi için hammaddelerin katı ve sıvı halde, makro ve mikro bileşenler için depolanması, taşınması, dozlanması ve otomasyonu, mikro bileşenlerin taşınması, basınç veya vakumda taşıma sistemleri, üretim reçetelerinin taşınması için elektronik dozaj, her üretimin elleçlenmesi ve kontrolü için yazılımlar, sıvı maya üretimi için makine ve sistemler de mevcuttur.Agriflex S. r. l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Rongpeng",
+    "description": "Rongpeng, 1998 yılında kurulan Zhejiang Rongpeng Air Tools Co. Ltd. bünyesinde üretilen püskürtme tabancası, havasız boya püskürtücü, darbe anahtarı, pnömatik aletler, havalı zımpara makinesi gibi hava aletleri markasıdır.Zhejiang Rongpeng Air Tools Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ligne St Barth",
+    "description": "Ligne St Barth, 1983 yılında kurulan Ligne St Barth SAS bünyesinde üretilen cilt bakımı, banyo kozmetik ürünleri ve parfümleri markasıdır.Ligne St Barth SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tern Bicycles",
+    "description": "Tern Bicycles, 2011 yılında Florence Shen ve Joshua Hon tarafından kurulan Mobility Holdings Ltd. bünyesinde üretilen katlanır bisikletler, elektrikli bisikletler ve bisiklet aksesuarları markasıdır.Mobility Holdings Ltd. Tayvan merkezlidir. Ürünlerini Tayvan’da üretmektedir ve 65 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Kaindl",
+    "description": "Kaindl, 1897 yılında kurulan M. Kaindl Gmbh bünyesinde üretilen ahşap esaslı paneller, laminat ve gerçek ahşap döşemeler, dekoratif levha, tezgah ve pencere pervazları markasıdır.M. Kaindl Gmbh Avusturya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Vontar TV Kutusu",
+    "description": "Vontar, 2012 yılında kurulmuş olan Shenzhen Yojia Technology Co. Ltd. bünyesinde üretilen set üstü televizyon kutusu, uzaktan kumanda, projektör, aksesuarlar markasıdır.Shenzhen Yojia Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Biowoow",
+    "description": "Biowoow, 2022 yılında kurulmuş olan Okkaz İnvestment Yatırım Gıda San. Tic. A.Ş. bünyesindeki organik gıdalar markasıdır.Ürünleri GDO ve zararlı katkı maddeleri içermemektedir.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-29"
+  },
+  {
+    "company": "Astel Kern",
+    "description": "Astel Kern, 1999 yılında kurulmuş olan Dreamus Company bünyesindeki medya oynatıcılar, optik çalarlar, kulaklıklar ve ev sineması ürünleri markasıdır.Dreamus Company Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Durabook",
+    "description": "Durabook, 2000 yılında kurulmuş olan Twinhead International Corporation bünyesindeki dizüstü bilgisayarlar, tabletler markasıdır.Twinhead International Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Stepica",
+    "description": "Stepica, 2020 yılında kurulmuş olan Mk Ayakkabıcılık İthalat İhracat Tic. San. Ltd. Şti. bünyesindeki ayakkabı markasıdır.Firma Osmaniye merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

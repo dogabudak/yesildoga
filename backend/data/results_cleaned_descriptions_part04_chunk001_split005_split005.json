@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Apollo Vredestein",
+    "description": "Apollo Vredestein, 1929 yılında kurulan Apollo Vredestein B.V. bünyesindeki araba, tarımsal ve endüstriyel uygulamalar ve bisikletler için lastik markasıdır.Apollo Vredestein B.V. 2009 yılında Hindistan merkezli Apollo Tyres Limited bünyesine geçmiştir. Ürünlerini Hollanda’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Ascom",
+    "description": "Ascom, 1987 yılında kurulan Ascom Holding AG bünyesindeki kablosuz yerinde iletişime odaklanan bir telekomünikasyon markasıdır.Şirketin 18 ülkede yan kuruluşları bulunmaktadır.Ascom Holding AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Corbion",
+    "description": "Corbion, 1919 yılında kurulan Corbion N.V. bünyesindeki biyomadde bazlı gıdalar, organik asitlerden elde edilen kimyasallar ve gıda, kimya ve ilaç endüstrileri için laktik asit bazlı çözümler markasıdır.Corbion N.V. Hollanda merkezli bir gıda ve biyokimya şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Cuckoo Electronics",
+    "description": "Cuckoo Electronics, 1978 yılında kurulan Cuckoo Electronics Co., Ltd. bünyesindeki düdüklü tencereler, su arıtma cihazları, hava temizleyiciler markasıdır.Cuckoo Electronics Co., Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Dallmayr",
+    "description": "Dallmayr, 1700 yılında kurulan Alois Dallmayr KG bünyesindeki kahve markasıdır.Alois Dallmayr KG; Kahve ve Çay, Gastronomi, Ofis ve otomat, Parti ve ikramlık lezzetler olmak üzere dört bölüme ayrılmıştır.Alois Dallmayr KG Almanya merkezlidir ve kurulduğundan beri aynı aile tarafından yönetilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

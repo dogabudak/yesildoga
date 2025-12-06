@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Dr.Beckmann",
+    "description": "Dr.Beckmann, 1934 yılında kurulan delta pronatura Dr. Krauss & Dr. Beckmann KG bünyesindeki leke çıkarıcı, çamaşır bakımı ve ev temizleyicileri markasıdır.Artık plastik ürün kaplarını, tamamı geri dönüştürülmüş ev plastiğinden üretmektedir.delta pronatura Dr. Krauss & Dr. Beckmann KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2022-03-23"
+  },
+  {
+    "company": "Entem",
+    "description": "Entem, 1977 yılında kurulan Endüstriyel Tem. Mad. San. ve Tic. Ltd. Şti. bünyesinde üretilen endüstriyel temizlik maddeleri markasıdır.Çamaşır, mutfak, gıda temizliği, genel temizlik, kişisel temizlik ürünleri, özel amaçlı ürünler ve metal kimyasalları bölümlerinde üretim yapmaktadır.Deterjan, kireç önleyici, yağ çözücü, yüzey temizlik maddeleri, halı şampuanları, antisept sıvı el yıkama maddeleri, dezenfekte edici temizleme sıvıları, kauçuk ve hamurunun yapışmasını önleyici metal kimyasalları ve çeşitli kimyevi maddelerin üretimini gerçekleştirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Prohijyen",
+    "description": "Prohijyen, 2017 yılında kurulan Sektör Kimya Deterjan San. ve Tic. A.Ş. bünyesinde üretilen çamaşır hijyeni ürünleri, genel temizlik, bina dışı hijyen ürünleri, gıda hijyeni ürünleri, mutfak hijyeni ürünleri, kişisel temizlik ürünleri markasıdır.Ürünlerini Konya 3. OSB’de bulunan 15 bin metrekarelik kapalı alana sahip fabrikasında üretmektedir. ISO 9001, ISO 14001, ISO 22000, TQA-HELAL belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Weider Gold Whey",
+    "description": "Weider Gold Whey, Joe Weider tarafından kurulan Weider Nutrition International Inc. bünyesinde üretilen protein tozu markasıdır.Firma protein tozları ve karbonhidrat kombinasyonlu ürünler, tablet, toz veya sıvı formunda amino asit içerikli ürünler, yağ yakıcı ürünler, protein ve enerji barları, içime hazır proteinler üretmektedir.Weider Nutrition International Inc. Amerika merkezlidir ve ürünleri 42 ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Safir Tuz",
+    "description": "Safir Tuz, 1985 yılında kurulan Safir Tuz Gıda Maden Paz. Nakliyat İnş. İth. İhr. San. Tic. A.Ş. bünyesinde üretilen kaya tuzu markasıdır.Kaya tuzu mağarasından köstebekle çıkarılan tam tuzu 41 bin 450 metrekarelik tesisinde rafine edip üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

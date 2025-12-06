@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Makbul",
+    "description": "Makbul, 2012 yılında kurulan Makbul Gıda Sanayi ve Ticaret Limited Şirketi bünyesindeki kuruyemiş, bakliyat, baharat, kuru meyve, şekerleme, kahve ve çay, harnup özü, nar özü, karadut özü, tahin, üzüm pekmezi, tahin helvası, nar ekşisi markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Netapp",
+    "description": "Netapp, 1992 yılında David Hitz, James Lau ve Michael Malcolm tarafından kurulan NetApp, Inc. bünyesindeki ağ depolama, bulut bilgi işlem, depolama verimliliği, bilgi yönetimi, veri depolama ve karma bulut markasıdır.Firma dijital dönüşümü hızlandırmak için bulut ve şirket içi ortamlarda uygulamaların ve verilerin yönetimini kolaylaştıran çok çeşitli karma bulut veri hizmetleri sunuyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "MST Makine",
+    "description": "MST, 2003 yılında Sanko Holding’in iş makinesi sektöründe faaliyet gösteren kuruluşu MST İş ve Tarım Makinaları San. ve Tic. A.Ş. olarak kurulan kazıcı yükleyici, teleskopik yükleyici ve ekskavatör ürünleri markasıdır.MST İş ve Tarım Makinaları San. ve Tic. A.Ş. ağırlıklı olarak iş makinesi, Teleskobik Forklift (Telehandler) ve Mini Ekskavatör olarak üç alanda yoğunlaşmış ve hedeflerini bu gruplarda belirlemiştir.Gaziantep’te 500 bin metrekarelik açık alanda, toplam 42 bin metrekare kapalı alanlı, tesislerinde MST markası ile kazıcı yükleyici, teleskopik yükleyici ve ekskavatör üretimi yapmaktadır. Türkiye’nin ilk ve tek yerli üreticisi konumundadır. Ürünleri 35’ten fazla ülkeye ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pi Kule Vinç",
+    "description": "Pi Kule Vinç, 1972 yılında kurulan Pi Makina Otomotiv İnş. Mak. Paz. İhr. İth. San ve Tic. Ltd. Şti. bünyesindeki kule vinçleri markasıdır.Pi Makina ağır sanayi tesisleri, Ankara’da 200 bin metrekarelik açık, 50 bin metrekarelik kapalı alanda üretim yapmaktadır. ISO 9001 Kalite Sistem Belgesine sahiptir. Yılda ortalama bin adet Türk malı iş ve inşaat makinesi üretme kapasitesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Erbauer",
+    "description": "Erbauer, Kingfisher International Products Limited bünyesindeki el aletleri markasıdır.1982 yılında kurulan Kingfisher plc bünyesinde ev aletleri, ev mobilyaları, donanım, bahçe malzemeleri ve bitkiler gibi ev geliştirme ürünleri üretmektedir.Türkiye’de Erbauer ürünleri sadece, İngiltere merkezli Kingfisher plc’nin yüzde 50 oranında hisselerine sahip olduğu Koçtaş’ta satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Poelsan",
+    "description": "Poelsan, 1970 yılında Yaşar Dağdelen tarafından kurulan Poelsan Plastik San. ve Tic. A.Ş. bünyesindeki mekanik ekleme parçaları, vana ve vana kutuları, damla sulama ek parçaları, priz kolye, polietilen kangal boru bağlantı adaptörleri markasıdır.Ürünlerini yaklaşık 68 bin metrekarelik alanda üretmektedir ve 75 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Craghoppers",
+    "description": "Craghoppers, 1965 yılında kurulmuş olan Craghoppers Ltd. bünyesindeki dış mekan ve seyahat giyim, ayakkabı ve aksesuarları markasıdır.Böcek önleyici ve güneşten koruyucu teknolojiye sahip, dış mekan ekipmanları sunmaktadır.Craghoppers Ltd. 1995 yılında İngiltere merkezli Regatta Ltd. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2023-02-09"
+  },
+  {
+    "company": "United Outdoor",
+    "description": "United Outdoor, 2000 yılında kurulan United Industrial Ltd. bünyesinde üretilen dış giyim ürünleri ve aksesuarları markasıdır.Ürünlerinde geri dönüştürülmüş kumaşlar kullanır. Hayvansal ürün kullanmaz ve hayvanlar üzerinde test edilmez.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Altuna",
+    "description": "Altuna, 1879 yılında kurulan Altuna Hnos. S.A bünyesindeki profesyonel, bahçe ve endüstriyel, budamanın tüm ihtiyaçlarına cevap veren makaslar markasıdır.ISO 9001 belgesine sahiptir.Altuna Hnos. S.A İspanya merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Minerals Technologies",
+    "description": "Minerals Technologies, Minerals Technologies Inc. bünyesindeki özel mineral, mineral bazlı ve sentetik mineral ürünleri ve ilgili sistem ve hizmetler markasıdır.Mtı, kağıt, dökümhane, çelik, çevre, enerji, polimer ve tüketici ürünleri endüstrilerine hizmet vermektedir.Mineral Technologies Inc., Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

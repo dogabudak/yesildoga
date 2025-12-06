@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Wetox",
+    "description": "Wetox, 2001 yılında kurulan Winkel Endüstri Ürün. San. ve Tic. A.Ş. bünyesinde üretilen her türlü paslanmaz kaynak temizliği için jel formlu temizleyici markasıdır.Endüstriyel tanklar, mutfak, tesisat, makine vb. alanlarda, paslanmaz kaynak bulunan her yerde kullanılmaktadır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bioniq Repair-Toothpaste",
+    "description": "Bioniq Repair-Toothpaste, 1905 yılında kurulan Dr. Wolff Group GmbH & Co. KG bünyesinde üretilen onarıcı diş macunu markasıdır.Fırçalama sırasında mikroskobik olarak küçük kusurlar kapatılır ve emaye yüzeyi onarılır.Almanya merkezli Dr. Wolff Group GmbH & Co. KG ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Azar Sajjad Firması",
+    "description": "Azar Sajjad Co. hurma, kuruyemiş ve kuru meyveler üreten bir şirkettir.Firma İran’ın Doğu Azerbaycan Eyaleti’nde bulunan Tebriz şehrinde yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  },
+  {
+    "company": "HF Sinclair",
+    "description": "HF Sinclair, 1947 yılında kurulan HF Sinclair Corporation bünyesinde üretilen benzin, dizel yakıt, jet yakıtı, yağlayıcılar, asfalt markasıdır.Benzin, dizel yakıt, jet yakıtı, yenilenebilir dizel, özel yağ ürünleri, özel kimyasallar ve özel ve modifiye asfalt gibi ürünler üretmektedir.HF Sinclair Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pluie de Chocolat",
+    "description": "Pluie de Chocolat, 2019 yılında kurulan Pldc Çikolata Gıda ve Tic. Ltd. Şti. bünyesindeki çikolata markasıdır.Şeker oranı düşüktür. Çikolatalarda kullanılan fındık Ordu’dan, portakal dilim ve kabuklar Mersin’den temin edilmektedir.Firma ürünlerini İsviçre merkezli Callebaut’un drop damla çikolatalarını alarak katkısız, el yapımı özel ürünlerini Sapanca’daki tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Princess",
+    "description": "Princess, 1994 yılında kurulan Smartwares B.V. bünyesindeki ev aletleri markasıdır.Ürün yelpazesinde su ısıtıcılar, elektrikli süpürge, aerofryer, çoklu ocaklar, fırın tepsileri, ızgara setleri, peynir fondüleri ve waffle gibi pişirme ürünleri gibi ürünler yer almaktadır.Smartwares B.V. Hollanda merkezlidir. Ürünlerini 63’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Zero Scooter",
+    "description": "Zero, 2018 yılında kurulan Rev Rides LLC bünyesindeki elektrikli scooter, e-bisiklet ve tek tekerlekli bisikletler markasıdır.Ayrıca elektrikli scooter, bisikletler ve tek tekerlekli bisikletler için tüm parça ve aksesuarlarını sunmaktadır.Rev Rides LLC Amerika merkezlidir.Bünyesindeki markalar;GotwayKingsongRev RidesSegwayVsettZero",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Exquisit",
+    "description": "Exquisit, 1989 yılında kurulan ev aletleri markasıdır.Ek olarak, catering amaçlı geniş bir cihaz yelpazesine sahiptir.Exquisit, 1994 yılından beri Hollanda merkezli Domest Import – Export B.V. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Kaabo Scooters",
+    "description": "Kaabo Scooters, 2013 yılında kurulan Ningbo Kaabo Technology Co. Ltd. bünyesinde üretilen elektrikli scooter, elektrikli tek tekerlekli bisikletler ve elektrikli denge bisikletleri ve aksesuarları markasıdır.Ningbo Kaabo Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Logodent",
+    "description": "Logodent, 1978 yılında kurulan Logocos Naturkosmetik Gmbh & Co. Kg bünyesinde üretilen 0-6 yaş çocuklar için diş macunu, doğal beyazlatıcı naneli diş macunu, günlük bakım diş macunu, hassas diş ve diş etleri için diş macunu, mineralli diş macunu, plak önleyici tuzlu diş macunu markasıdır.Diş Macunları ve jeller flörür, glüten içermemektedir. Ürünleri bitki bazlı ve doğal malzemelerden üretilmektedir.Logocos Naturkosmetik Gmbh & Co. Kg 2018 yılında Loreal Group tarafından satın alındı. Loreal Group başlıca hissedarları yüzde 33 hisse ile Fransız Françoise Bettencourt Meyers ile yüzde 23,29 hisse ile İsviçre merkezli Nestle’dir. Firma ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

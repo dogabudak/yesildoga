@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Neauvia",
+    "description": "Neauvia, 2012 yılında kurulmuş olan Matex Lab SA. bünyesindeki estetik dolgu maddeleri, cihazlar, estetik kozmesötikler markasıdır.Matex Lab SA. İsviçre merkezlidir. İsviçre, Fransa, İspanya, Polonya, Almanya, İngiltere ve ABD’de üretim tesisleri ve yan kuruluşları bulunmaktadır. Ürünleri 80’den fazla ülkede dağıtılmaktadır.Bünyesindeki markalar;LasermeNeauviaSxt Smart Xross-Linking Technology",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Zaragoza Parfüm",
+    "description": "Zaragoza, Titanium Group Dış Tic. Ltd. Şti. bünyesinde üretilen parfüm markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Cb Classic BeautyChâteau De La Coste FranceDiyar AlkhaleejDr.ActiveGentO OdourOdourRitej Of NobelZaragoza",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kaft Giyim",
+    "description": "Kaft Giyim, 2008 yılında kurulmuş olan Kaft Tasarım Tekstil San. ve Tic. A.Ş. bünyesindeki tişörtler, tasarım kapşonlu, çanta, çorap, şort, atlet, bere, ceket, pantolon, sweatshirt markasıdır.Firma İstanbul merkezlidir. Ürünlerini 84 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Phira",
+    "description": "Phira, 1963 yılında Enrique Lastra tarafından kurulmuş olan Phira Componentes De Automocion S.A. bünyesinde üretilen otomobil gövdeleri için tampon ve plastik parçaları markasıdır.ISO 9001 belgesine sahiptir.Phira Componentes De Automocion S.A. İspanya merkezlidir ve ürünleri 50’den fazla ülkeye pazarlanmaktadır. Türkiye’de Phıra Turkey Yedek Parça İç ve Dış Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "INA",
+    "description": "INA, 1982 yılında kurulmuş olan Schaeffler AG bünyesinde üretilen doğrusal yönlendirme sistemleri, hassas bileşenler, kaymalı yataklar, makaralı rulmanlar, motor bileşenleri markasıdır.Schaeffler AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

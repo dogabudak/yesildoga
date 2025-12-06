@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tor Web Browser",
+    "description": "Tor, 2006 yılında Roger Dingledine ve Nick Mathewson tarafından kurulan The Tor Project, Inc. bünyesinde üretilen web tarayıcı markasıdır.Tor web tarayıcısı şifreli bir şekilde internete erişmeye olanak sağlayan ücretsiz ve açık kaynaklı bir yazılımdır.The Tor Project, Inc. kâr amacı gütmeyen Amerika merkezli bir kuruluştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mihoyo",
+    "description": "Mihoyo, 2012 yılında Cai Haoyu, Liu Wei, Luo Yuhao tarafından kurulan Mihoyo Co., Ltd. bünyesindeki video oyun ve animasyon markasıdır.2014 yılından beri sadece mobil platformda çalışan anime odaklı oyunlar yayınladılar.Mihoyo Co., Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Lowell",
+    "description": "Lowell, 1969 yılında kurulan Lowell Corporation bünyesinde üretilen yüksek hat ve boru hattı kurulum ve onarımı için kullanılan cırcır anahtarları ve diğer el aletleri markasıdır.Lowell, ayrıca Otomotiv gövde ve çerçeve onarım endüstrisi için taşınabilir hidrolik üniteler ve onarım kelepçeleri üretmektedir.Lowell Corporation, Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Matco",
+    "description": "Matco, 1946 yılında kurulan Matco Tools, Inc. bünyesindeki anahtarlar, tornavidalar, sensörler ve özel aletler markasıdır.Üretim tesisinde kendi alet kutularını üretmektedir. Birçok hava aletinin, elektrikli aletlerin, el aletlerinin ve teşhis aletlerinin üretimini yapar. Tüm el aletleri için ömür boyu garanti taşırlarMatco Tools, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tungaloy",
+    "description": "1934 yılında kurulmuş olan Tungaloy Corporation bünyesinde üretilen metal kesme aletleri, endüstriyel ürünler markasıdır.Tungaloy Corporation, Amerika merkezli Berkshire Hathaway Inc.’e ait IMC International Metalworking Companies B.V. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-12-22"
+  }
+]

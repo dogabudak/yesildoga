@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Jaguar Dikiş Makinesi",
+    "description": "Jaguar, 1949 yılında kurulmuş olan Maruzen Sewing Machine Co. Ltd. bünyesinde üretilen dikiş makineleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Maruzen Sewing Machine Co. Ltd. Japonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Wantdo",
+    "description": "Wantdo, 2016 yılında kurulmuş olan Zheng He Cross-border Limited bünyesindeki ceketler, kazak ve kapüşonlular, mayo, pantolon, yağmurluk, yelekler markasıdır.Zheng He Cross-border Limited Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Gweike",
+    "description": "Gweike, 2004 yılında kurulan Jinan G. Weike Science & Technology Co. Ltd. bünyesindeki fiber kesme makinesi, co2 lazer kesim makinesi, lazer markalama makinesi, cnc router, titreşimli bıçak makinesi markasıdır.ISO 9001 belgesine sahiptir.Jinan G. Weike Science & Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 180 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bella Maison",
+    "description": "Bella Maison, 2016 yılında kurulmuş olan Tan Invest Dış Tic. A.Ş. bünyesindeki her türlü ev tekstili ve ev dekorasyonu ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artelon",
+    "description": "Artelon, 2004 yılında kurulmuş olan Artelon Endüstriyel Tasarım Ltd. Şti. bünyesinde üretilen askı aparatları markasıdır.Televizyon, monitör ve projeksiyon cihazları için sabit ve hareketli duvar, masaüstü ve tavan askı aparatları üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

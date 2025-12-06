@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Kingcamp",
+    "description": "Kingcamp, 2002 yılında kurulan KingCamp Outdoor Products Co. Ltd. bünyesinde üretilen kamp mobilyaları, çadırlar ve barınaklar, uyku ekipmanları, kamp mutfağı, tencere, yemek takımı, soğutucu, yemek masaları, paketler, aksesuar, evcil hayvan eşyaları markasıdır.KingCamp Outdoor Products Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 42 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Brema",
+    "description": "Brema, 1985 yılında kurulan Brema Group S.P.A. bünyesindeki buz yapma makinesi ve profesyonel buz makineleriISO 9001 ve ISO 45001 belgelerine sahiptir.Brema Group S.P.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "ZD Soft",
+    "description": "ZD Soft, 2005 yılında kurulan Shenzhen ZD Soft Co. Ltd. bünyesinde üretilen gecikmesiz ekran kaydı, hızlı ekran işaretlemesi, kolay video sonrası düzenleme ve canlı yayın için yüksek performanslı ekran kayıt yazılımı markasıdır.Yazılım ürünleri BT yöneticileri, uzmanlar, eğitmenler, programcılar, öğretmenler, öğrenciler, PC oyuncuları, YouTubers vb. tarafından yaygın olarak kullanılmaktadır.Shenzhen ZD Soft Co. Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-11-19"
+  },
+  {
+    "company": "American Crew",
+    "description": "American Crew, 1996 yılında kurulan Beautyge Brands Usa Inc. bünyesindeki saç, vücut, tıraş, kolonya ve cilt bakımı ürünleri markasıdır.Şirket saç boyası, krem, jel, köpük, şampuan, saç kremi ve diğer kozmetikler gibi ürünler sunmanın yanı sıra saç bakım hizmetleri de sunmaktadır.Beautyge Brands Usa Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Young Chang",
+    "description": "Young Chang, 1956 yılında Jai-Young Kim, Jai-Chang Kim ve Jai-Sup Kim tarafından kurulan Young Chang Co. Ltd. bünyesindeki piyanolar, yaylı çalgılar ve üflemeli çalgılar markasıdır.Şirket, dünyanın en büyük ve en otomatik piyano üreticilerinden biridir.2004 yılında iflas eden şirketi Güney Kore merkezli HDC Hyundai Development Company satın alarak HDC Young Chang olarak yeniden adlandırdı. Ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Kalkhoff",
+    "description": "Kalkhoff, 1919 yılında Heinrich Kalkhoff tarafından kurulan Derby Cycle Werke Gmbh bünyesindeki bisiklet markasıdır.Kalkhoff, 1989 yılında Derby Cycle AG tarafından satın alındı. Kalkhoff bisikletlerinin üretimi, Almanya’nın Cloppenburg kentindeki Derby Cycle fabrikasında yapılmaktadır.Bünyesindeki markalar:FocusKalkhoffRaleighRixeUnivega",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Patisse",
+    "description": "Patisse, 1989 yılında kurulan Patisse Nederland B.V. bünyesindeki kek kalıbı, pastacılık malzemeleri ve pişirme aksesuarları markasıdır.Patisse, 50’den fazla ülkede satış kanalları ile dünya çapında faaliyet gösteren bir üretici haline geldi.Patisse Nederland B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Muddyfox",
+    "description": "Muddyfox, dağ bisikleti, yol, hibrit ve BMX bisikletleri, bisiklet parçaları, pompa, kask, güneş gözlüğü, koruyucu ekipman ve aksesuarlar markasıdır.2009 yılında İngiltere merkezli Mike Ashley tarafından kurulan Sports Direct International Plc tarafından satın alınmıştır. Ürünlerini İngiltere’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Clubhouse",
+    "description": "Clubhouse, 2020 yılında Paul Davison ve Rohan Seth tarafından kurulan Alpha Exploration Co., Inc. bünyesindeki sesli sohbet içeren sosyal ağ markasıdır.Uygulama şimdilik sadece davetiyeyle kullanılabiliyor. Alpha Exploration Co., Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fyxation",
+    "description": "Fyxation, 2009 yılında Nick ve Ben Ginster tarafından kurulan Fyxation Bicycle Co. bünyesinde üretilen bisiklet, parça ve aksesuarlar markasıdır.Fyxation Bicycle Co. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

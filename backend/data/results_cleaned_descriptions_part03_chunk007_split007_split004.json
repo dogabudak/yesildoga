@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Gyeon Quartz",
+    "description": "Gyeon Quartz, 2012 yılında kurulan otomotiv ürünleri (bakım, boya, cam, deri, jant, kumaş, ppf, trim) markasıdır.Gyeon Quartz markalı ürünler 80 ülkede satılmaktadır.Gyeon Quartz Singapur merkezlidir ve ürünlerini Güney Kore’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Elari",
+    "description": "Elari, 2012 yılında kurulan Elari Tech Ltd. bünyesindeki çocuklar için akıllı saatler ve aksesuarlar markasıdır.SIM ve ebeveyn kontrol uygulamasına sahip ilk çocuk GPS saatli telefonu üretmiştir.Elari Tech Ltd. İsrail merkezlidir ve ürünleri 20’den fazla ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": "2023-10-23"
+  },
+  {
+    "company": "Alpinist",
+    "description": "Alpinist, 1994 Nunatak Teknik Tekstil ve Dış Tic. A.Ş. bünyesinde üretilen kamp ürünleri ve giyim ürünleri markasıdır.Ürünlerini Türkiye’de üretmektedir.Ürün yelpazesinde kaz tüyü ve sentetik dolgulu uyku tulumu, su geçirmez ve soluyabilir kıyafet, çok yönlü eldiven, başlık, çadır ve termal içlik, termos, gözlük gibi ürünler yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Angeleye",
+    "description": "Angeleye, 2008 yılında Angel Xue tarafından kurulan Angeleye Ltd bünyesindeki bayanlar için elbise, etek, pantolon, şort, triko, palto, ceket ürünleri markasıdır.Ürünleri Çin ve Hindistan’da üretilmektedir.Angeleye Ltd İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Evolite",
+    "description": "Evolite, 1993 yılında kurulan Bahriyeli Doğa Sporları San. Tic. Ltd. Şti. bünyesindeki ayakkabı ve bot, giysi, çanta, spor outdoor, kamp ve seyahat, tüfekler dürbünleri, tulum seti, kemer, fener, sırt çantası, cep sobası, düdük pusula termometre, pusula markasıdır.Almanya, Belçika, Fransa, İngiltere, İsviçre, İspanya, İtalya, ABD, Çin, Kore ve Tayvan’dan ithalat yapmaktadır. Uyku tulumu, Polar mont, Can yeleği, Silah kılıfı, Sırt çantası, Tozluk, Yelek gibi Outdoor malzemelerini üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Tiger Balm",
+    "description": "Tiger Balm1969 yılında kurulmuş olan Haw Par Corporation Limited bünyesindeki topikal analjezik markasıdır.Haw Par Corporation Limited Singapur merkezlidir ve ürünleri 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Motech",
+    "description": "Motech2015 yılında kurulmuş olan ACS Enerji ve Teknoloji Ltd. bünyesinde üretilen jel akü markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma İzmir merkezlidir. İzmir’de 12 bin metrekarelik alanda bulunan fabrikasında üretim yapmaktadır ve ürünlerini bir çok ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Adreno Gpu",
+    "description": "Adreno1985 yılında kurulmuş olan Qualcomm Inc. bünyesinde tasarlanan grafik işlem birimi markasıdır.Genellikle mobil cihazların performansını artırmak için Android tabanlı cihazlarda kullanılır.Qualcomm Inc. Amerika merkezlidir.Hissedarları:Vanguard Group Inc. (yüzde 9,9)Blackrock Inc. (yüzde 8,4)State Street Corp. (yüzde 4,5)Price T Rowe Associates Inc. (yüzde 2,2)Geode Capital Management LLC (yüzde 2,1)Morgan Stanley (yüzde 1,9)Irwin M, Jacobs (yüzde 1,6)Alliancebernstein LP (yüzde 1,5)Bank Of America Corp. (yüzde 1,2)Ameriprise Financial Inc. (yüzde 1,1)Northern Trust Corp. (yüzde 1)Wellington Management Group LLP (yüzde 1)Bank Of New York Mellon Corp. (yüzde 0,93)Amundi (yüzde 0,91)Fmr LLC (yüzde 0,87)Legal General Group PLC (yüzde 0,87)Invesco Ltd. (yüzde 0,85)Deutsche Bank Ag (yüzde 0,78)Franklin Resources Inc. (yüzde 0,73)Aristotle Capital Management LLC (yüzde 0,68)Matrix Capital Management Company LP (yüzde 0,62)Fil Ltd. (yüzde 0,61)Ubs Group Ag (yüzde 0,60)Charles Schwab Investment Management Inc. (yüzde 0,58)Barclays PLC (yüzde 0,57)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ankara Sodamatik",
+    "description": "Ankara Sodamatik1989 yılında kurulmuş olan Petekkaya Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen sodamatik markasıdır.Kireç önleyici ve beyazlatıcı özelliğe sahiptir.ISO 9001 belgesine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sörmaş",
+    "description": "Sörmaş1976 yılında kurulmuş olan Sörmaş Söğüt Refrakter Malzemeleri A.Ş. bünyesindeki refrakter markasıdır.Şirket alumina-SiC, alumina-SiC-karbon, alumina-magnezia-karbon, andaluzit, dövme, izole, korund, krom-korund, kromit, magnezit, magnezit-krom, magnezya-karbon tuğlalar ile örgü harçları ve dökme, püskürtme monolitik malzemeleri, pişmiş şamot, spinel ve reçine bağlı alumina-karbon, yüksek alumina üretmektedir.Sörmaş’ın yüzde 85’ini 2021 yılında Avusturya merkezli RHI Magnesita N.V. satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": "2024-11-28"
+  }
+]

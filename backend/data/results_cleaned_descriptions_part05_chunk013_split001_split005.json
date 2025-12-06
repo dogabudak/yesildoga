@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hydro Flask",
+    "description": "Hydro Flask, 2009 yılında Travis Rosbach ve Cindy Weber tarafından kurulan Kaz Europe Sarl bünyesinde üretilen su şişeleri şarap bardakları, yiyecek kavanozları, bez çantalar, soğutucu çantalar ve diğer yalıtımlı kaplar markasıdır.Kaz Europe Sarl, 2016 yılında Amerika merkezli Helen of Troy Limited tarafından satın alındı. Ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Asobu",
+    "description": "Asobu, 1997 yılında kurulan Ad n Art Inc. bünyesindeki şişeler, soğutucular ve diğer içecek gereçleri, ofis malzemeleri, kırtasiye ve hediyelik eşya markasıdır.BPA içermeyen Tritan şişeleri sunmaktadır.Ad n Art Inc. Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Leibniz",
+    "description": "Leibniz, 1889 yılında kurulan Bahlsen Gmbh & Co. KG bünyesinde üretilen bisküvi, pasta, şekerlemeler, ve çerez markasıdır.Firma bisküvi, gofret, kek, mevsimlik ürünler, bisküvi bazlı atıştırmalıklar, tatlı atıştırmalıklar, organik meyve ve fındık barları sunmaktadır.Almanya merkezli Bahlsen Gmbh & Co. KG ürünlerini 80 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Annaburger",
+    "description": "Annaburger, 1991 yılında kurulan Annaburger Nutzfahrzeug Gmbh bünyesinde üretilen tarımsal taşımacılık araçları markasıdır.Firma, mahsullerin taşınması ve her türlü organik gübrenin yayılması için araç teknolojisi üretmektedir. Ayrıca kamyon teknolojisi için geniş bir ürün ve çözüm yelpazesi sunmaktadır.Annaburger Nutzfahrzeug Gmbh Almanya merkezlidir. Ürünlerini 20 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Glad",
+    "description": "Glad, 1963 yılında kurulan The Glad Products Company bünyesinde üretilen plastik torbalar, çöp torbası, gıda koruma, plastik gıda saklama kapları markasıdır.Torbaları daha az plastik kullanılarak üretilmektedir.The Glad Products Company, 1998 yılında kurulan Amerika merkezli The Clorox Company tarafından satın alındı. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

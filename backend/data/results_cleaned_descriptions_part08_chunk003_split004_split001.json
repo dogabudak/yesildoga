@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Peddon",
+    "description": "Peddon, 2020 yılında Reyhan Miray Reyhan tarafından kurulmuş olan RM Tekstil A.Ş. bünyesindeki kadın iç giyim markasıdır.Ürünleri ped yerine geçen organik kumaştan üretilen, yıkanabilme özelliği taşıyan, sıvı ve leke geçirmeyen özelliğe sahiptir.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pellinn Paris",
+    "description": "Pellinn Paris, 1992 yılında kurulmuş olan Doğuş Spa Kozmetik Estetik Medikal Cihazlar İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki bay bayan parfüm markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Pellinn ParisWise Man Paris",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Queen Helene",
+    "description": "Queen Helene 1993 yılında Irwin D. Simon tarafından kurulmuş olan The Hain Celestial Group Inc. bünyesinde üretilen kişisel bakım ürünleri markasıdır.Ürünler paraben, SLS ve zararlı kimyasallar içermez, yüzde 70 organik içeriğe sahiptir. Hayvanlar üzerinde test edilmemektedir ve yüzde yüz vejetaryen ve vegan ürünlerdir. Geri dönüştürülebilir ambalajlar kullanarak paketlenir.The Hain Celestial Group Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Majoni",
+    "description": "Majoni, 1952 yılında kurulmuş olan Majoni Plastics B.V. bünyesinde üretilen çamurluklar ve şamandıralar, eğlence parkları, hayvan oyuncakları, çocuk oyuncakları, teknik ekipman ve bahçecilik için ürünler markasıdır.Majoni Plastics B.V. Hollanda merkezlidir. Ürünlerini Hollanda’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Technicqll",
+    "description": "Technicqll, 2022 yılında kurulmuş olan Technicqll sp z o.o. bünyesinde üretilen epoksi yapıştırıcılar, çabuk yapıştırıcılar, özel yapıştırıcılar, anaerobik yapıştırıcılar ve sızdırmazlık maddeleri, solvent yapıştırıcılar, silikonlar ve dolgu macunları, yağlayıcılar ve nüfuz ediciler, kimyasal maddeler, yapışkan bantlar markasıdır.Technicqll sp z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

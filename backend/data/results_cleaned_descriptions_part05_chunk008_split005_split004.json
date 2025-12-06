@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Dymo",
+    "description": "Dymo, 1958 yılında Rudolph Hurwich tarafından kurulan Dymo Corporation bünyesinde üretilen el tipi etiket yazıcıları, el tipi kabartma bant etiket makineleri, termal transfer baskı bandı, kabartma bant etiket üreticileri, iletişim yönetimi yazılımı ve kartvizit tarama çözümleri, posta ve gönderi ölçekleri markasıdır.Dymo Corporation 2005 yılında Amerika merkezli Newell Brands’ın bir yan kuruluşu oldu.Bünyesindeki markalar;ColorPop!LabelManagerLabelWriterLetraTagRhinoXTL",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kargomsende",
+    "description": "Kargomsende, 2020 yılında Turkuvaz Medya Grubu kuruluşu olan Turkuvaz Dağıtım Pazarlama A.Ş. bünyesinde kurulan dijital yeni nesil dağıtım hizmeti markasıdır.81 ilde tahmini varış zamanı, haritadan canlı takip ve kapıdan kolay iade hizmeti veren dağıtım şirketi, 1.350 araçlık filosuyla, 25 binden fazla satış noktasına çözüm sunuyor.Paletleme sistemi ile elleçlemeyi minimize ederken, kurduğu tam otomatik operasyon merkezi ile yüz binde 3 seviyede bir hasar ve kayıp oranına sahip. Alıcıların iade için şubeye gitme zorunluluğu yok. İadeler kapıdan alınıp satıcı firmalara teslim edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stargil",
+    "description": "Stargil, 1958 yılında kurulan Birleşik Firça Sanayi ve Tic. A.Ş. bünyesinde üretilen her türlü boya fırçaları, boya ruloları ve boya aksesuarları markasıdır.Boya fırçası üreticileri için de yarı mamüller üretmektedir.İstanbul merkezli firma boya fırçalarının tüm parçalarını 6 bin 600 metrekarelik kapalı alanda üretmektedir. Ürünlerinin yüzde 80’ini 57’den fazla ülkeye ihraç etmektedir.ISO 9001 belgesine shiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fasson",
+    "description": "Fasson, 1990 yılında kurulan Avery Dennison Corporation bünyesinde üretilen etiket malzemeleri, basınca duyarlı yapışkanlı etiketler, giyim marka etiketleri, etiketler, biletler, özel yapışkan bantlar, RFID kakmalar, tıbbi bantlar, sensörler, yara pansumanları markasıdır.Avery Dennison Corporation Amerika merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Stora Enso",
+    "description": "Stora Enso, 1998 yılında iki şirketin birleşmesiyle kurulan Stora Enso Oyj bünyesindeki ambalaj malzemeleri, biyomalzemeler, ahşap ürünler ve çok çeşitli kağıt-karton ürünleri markasıdır.Kağıt hamuru, kağıt ve diğer orman ürünleri üretmektedir.Stora Enso Oyj Finlandiya merkezlidir. Şirketin yüzde 10,2 hissesi İsveç merkezli Foundation Asset Management AB’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Raliss",
+    "description": "Raliss, Hairton / Joykozmetik A.Ş. bünyesinde üretilen krem, şampuan, saç boyası ve saç bakım ürünleri, sıvı sabun, duş jeli gibi kozmetik ürünler markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lonmax",
+    "description": "Lonmax, 2001 yılında kurulan Lonmax Chemical Co. Ltd. bünyesinde üretilen gıda ve ilaç katkı maddeleri markasıdır.Glikoz, sorbitol, farmasötik kimyasallar ve mannitol üretmektedir.Lonmax Chemical Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Alerjika",
+    "description": "Alerjika, Burhan ve Sema Pişkin tarafından kurulan Fargen Sağlık Hiz. Tic. Ltd. Şti. bünyesinde üretilen bebek bakım ürünleri markasıdır.Firma dermokozmetik, medikal sağlık, gıda takviyeleri ve kişisel bakım alanlarında bay-bayan cilt bakım ürünleri, bebek bakım ürünleri, kişisel bakım ürünleri, saç bakım ürünleri, anti-aging ürünler, güneş koruyucu ürünler, jinekolojik bakım ürünleri, cinsel sağlık ürünleri, cilt yanığı ürünleri, dermatolojik ürün gamı, burun spreyleri, sivrisinek kovucu krem ve spreyler, antiseptik losyonlar, yara bakım ürünleri üretmektedir.Ürünlerini 25’ten fazla ülkeye ihraç etmektedir.GMP , ISO 9001 ve ISO 13485 belgelerine sahiptir.Bünyesindeki markalar;AlerjikkaAyna-SunBaybitBebexolBittoxBiyokurCelastilDeo-CureDepixDr-SennaEndodermFemadexGynoxKas-FlexNew-DermOkoseptSenna-LabStopsore-Aft",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evar",
+    "description": "Evar, 2009 yılında kurulan Evar Kozmetik San. Tic. Ltd. Şti. bünyesinde üretilen çamaşır suyu, ıslak mendil, şampuan, banyo, mutfak, yüzey temizleyiciler, bebek bezi, bulaşık deterjanı, bulaşık süngeri, bulaşık teli, deterjan, katı sabun, kişisel bakım ürünü, kireç önleyici, kulak çubuğu, mekanik temizleme tozu, mineralli krem temizleyici, sıvı sabun, sabun, temizlik ürünleri, bezleri, kağıtları, toz deterjan, yağ sökücüler, yumuşatıcılar markasıdır.Ürünlerini 10’dan fazla ülkeye ihraç etmektedir.ISO 9001, ISO 10002, ISO 14001, ISO 22716, ISO 45001 belgelerine sahiptir.Bünyesindeki markalar;BeatubiEcoluxFirst BabyHooshSachSilk",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arayıcılar",
+    "description": "Arayıcılar, 1963 yılında Ahmet ve Ömer Arayıcı tarafından kurulan Arayıcılar Plastik Kimya San. ve Tic. A.Ş. bünyesinde üretilen fenolik reçine, bakalit pres tozu, çiçek köpüğü ve izolasyon köpüğü markasıdır.Kocaeli’de üretim yapan firma ürünlerini İran, Suriye ve Cezayir gibi birçok ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Carmelos",
+    "description": "Carmelos, 2019 yılında kurulmuş olan Sti Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen saç şampuanı, saç maskesi, saç parfümü, toz açıcı, keratin sütü markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;CamelosLycheeVue",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Winart",
+    "description": "Winart, 1976 yılında kurulmuş olan Yamaçlar Dekorasyon ve Metal Aksesuar San. Tic. Ltd. Şti. bünyesinde üretilen perde direkleri, perde çubukları, dönüş ve aksesuarları markasıdır.Firma İstanbul merkezlidir ve ürünlerini 25 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çoklar Altın ve Pırlanta",
+    "description": "Çoklar Altın ve Pırlanta Nerenin Malı MarkasıÇoklar, 1995 yılında kurulmuş olan Çoklar Kuyumculuk San. ve Tic. Ltd. Şti. bünyesindeki kuyumculuk ürünleri markasıdır.Firma Sakarya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Erde Yavuz Boya",
+    "description": "Erde, 1994 yılında kurulmuş olan Erde Boya San. ve Paz. Ltd. Şti. bünyesinde üretilen inşaat ve sanayi boyaları, çeşitli astarlar, vernikler markasıdır.ISO 9001 belgesine sahiptir.Firma Manisa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "HJC Helmets",
+    "description": "HJC, 1971 yılında kurulmuş olan Hjc Europe S.A.R.L bünyesindeki motosiklet ve bisiklet kullanıcıları için kasklar markasıdır.Hjc Europe S.A.R.L Fransa merkezlidir. Ürünlerini 65’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

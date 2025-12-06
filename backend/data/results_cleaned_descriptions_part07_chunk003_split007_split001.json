@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Roscamat",
+    "description": "Roscamat, 1987 yılında kurulmuş olan Tecnospiro Machine Tool SL bünyesinde üretilen pnömatik makineler, elektrikli makineler ve aksesuarlar markasıdır.Tecnospiro Machine Tool SL İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Baymax Gözlük",
+    "description": "Baymax Gözlük Nerenin Malı MarkasıBaymax, 2012 yılında kurulan Baymax Kişisel Koruyucu Donanımları Üretim San. Tic. A.Ş. bünyesinde üretilen koruyucu gözlük, kaynak maskesi ve koruyucu şapka markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Laserpair",
+    "description": "Laserpair, 2009 yılında kurulmuş olan Laserpair Co. Ltd. bünyesinde üretilen lazer güvenlik gözlükleri, ipl güvenlik gözlükleri, lazer güvenlik penceresi, sodyum ışık gözlükleri markasıdır.ISO 9001 belgesine sahiptir.Laserpair Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Yeswelder",
+    "description": "Yeswelder, 2018 yılında kurulmuş olan Weldmart Inc. bünyesindeki kaynakçılar ve kesiciler, hepsi bir arada kaynak makinesi ve kesici, kaynak kaskları ve gözlükleri, kaynak tabancaları ve meşaleler, kaynak aksesuarları, kaynak koruması markasıdır.Weldmart Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dirinler",
+    "description": "Dirinler, 1952 yılında kurulmuş olan Dirinler Makina San. ve Tic. A.Ş. bünyesinde üretilen C Tipi Hidrolik Presler, H Tipi Hidrolik Presler, CNC Torna, CNC Portal Freze, Sütunlu ve Masa Tipi Matkap markasıdır.İzmir merkezli firma ürünlerini 12 bin metrekaresi kapalı toplam 24 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

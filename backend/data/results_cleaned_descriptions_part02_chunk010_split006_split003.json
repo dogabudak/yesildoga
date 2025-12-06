@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Palfinger",
+    "description": "Palfinger, 1932 yılında Richard Palfinger tarafından kurulan Palfinger AG bünyesindeki özellikle vinçler için hidrolik kaldırma, yükleme ve taşıma sistemleri markasıdır.PALFINGER Group, 130’dan fazla ülkede 39 üretim ve montaj tesisi ile faaliyet göstermektedir.Avusturya merkezli Palfinger Group’un yaklaşık yüzde 59’u Palfinger ailesine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Lukas",
+    "description": "Lukas, 1992 yılında kurulan Lukas Holland bünyesinde üretilen süt sistemleri ve tarım makineleri markasıdır.Sağım makineleri, sağım sistemleri, püskürtücüler, gübre dağıtıcıları ve diğer bazı tarım cihazlarını üretmektedir. Ürünlerini 35’ten fazla ülkeye ihraç etmektedir. ISO ve CE belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bizim Toptan Market",
+    "description": "Bizim Toptan, 2001 yılında Yıldız Holding A.Ş. tarafından kurulan Bizim Toptan Satış Mağazaları A.Ş. bünyesindeki; gıda, alkolsüz içecek, tütün mamulleri, temizlik, kişisel bakım, kağıt ürünleri gibi ana ürünlerin toptan satışını yapan toptancıdır.Ülke genelinde yaklaşık 4 bin 700 marka ve özgün marka çeşitleriyle toptan satış gerçekleştirmektedir.Yıldız Holding A.Ş. Ülker ailesine aittir.Bünyesindeki markalar:Altın HasatBeslerBizz CafeHalkNaturaOnaSeladyVanesa",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-10-15"
+  },
+  {
+    "company": "Strabag",
+    "description": "Strabag, 1835 yılında kurulan STRABAG SE bünyesindeki inşaat firmasıdır.Avrupa’nın en büyük inşaat şirketlerinden biridir.STRABAG SE Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Sistema",
+    "description": "Sistema, 1993 yılında Vladimir Yevtuşenkov tarafından kurulan OJSC JFSC Sistema bünyesindeki Telekomünikasyon, Bankacılık, Emlak, Perakende, Medya, Turizm, Uzay Teknolojisi, Tıbbi Hizmetler ve Biyoteknoloji markasıdır.OJSC JFSC Sistema Rusya merkezli bir şirketler topluluğudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

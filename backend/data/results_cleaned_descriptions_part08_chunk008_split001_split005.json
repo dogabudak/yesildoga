@@ -1,0 +1,60 @@
+[
+  {
+    "company": "Hmbrgr",
+    "description": "Hmbrgr Homemade Burgers, 2016 yılında kurulmuş olan Saver Gıda A.Ş. bünyesindeki restoran zincirleri markasıdır.Restoranlarda müşteriler, burgerlerin malzemelerini, soslarını ve büyüklüklerini kendileri belirler. Ürünlerinde katkı maddesi, koruyucu madde, lezzet artırıcı gibi kimyasallar kullanılmamaktadır. Kendi üretimi olan patatesleri palm yağı kullanmadan kızartmalık patates haline getirmektedir.ISO 22000 ve Helal belgelerine sahiptir.Firma Ankara merkezlidir.Bünyesindeki markalar;Anne BurgeriBitavaHmbrgr Homemade Burgers",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Diamo Cosmetic",
+    "description": "Diamo Cosmetic, 2012 yılında kurulmuş olan Diamo Kozmetik San. İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen kişisel bakım ürünleri markasıdır.ISO 9001, ISO 22716 belgelerine sahiptir.Firma İzmir merkezlidir ve ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nemdil",
+    "description": "Nemdil, 2003 yılında kurulmuş olan Fulya Kozmetik Islak Mendil İmalat ve Pazarlama Ltd. Şti. bünyesindeki ıslak mendil. bebe ıslak mendil markasıdır.ISO 9001, ISO 22716, GMP belgelerine sahiptir.Firma İstanbul merkezlidir. 13 bin metrekarelik kapalı alanda üretim yapmaktadır ve ürünlerini 70’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elbebek",
+    "description": "Elbebek, 2001 yılında kurulmuş olan Özbey Hijyenik Ürünleri San. ve Tic. A.Ş. bünyesinde üretileni bebek bezi markasıdır.ISO 9001, ISO 17025, ISO 10002, OHSAS 18001 belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini Karaman’da bulunan 70 bin metrekarelik alanda üretmektedir ve çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 17025",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Evve Baklava",
+    "description": "Evve, 2005 yılında kurulmuş olan Favori Gıda A.Ş. bünyesinde üretilen kuru baklava ve unlu mamuller markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;City BakerEkmek DünyasıEkmexEvveGün IşığıMixunMyfreshNimetYazdanYiyim",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

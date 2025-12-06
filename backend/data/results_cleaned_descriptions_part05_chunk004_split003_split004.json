@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Kirei Lifting",
+    "description": "Kirei Lifting, 2010 yılında kurulan Dax Cosmetics Sp. z o.o. bünyesindeki kozmetik ürünler markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir. Satışlarının bir kısmı dünya çapında hayvan kurtarma kuruluşlarına ve kutsal alanlara bağışlanmaktadır.Dax Cosmetics Sp. z o.o. 2014 yılından beri Japonya merkezli Rohto Pharmaceuticals Group’un bir parçasıdır. 150 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Msa Safety",
+    "description": "Msa Safety, 1914 yılında kurulan MSA Safety Inc. bünyesindeki işçilerin korunmasına yardımcı olan gelişmiş güvenlik ürünleri markasıdır.Ürün yelpazesi, endüstriyel filtre tipi gaz maskeleri, gaz maskesi, itfaiye tarafından kullanılan solunum cihazı, termal kamera, itfaiyeci kask, kurşun geçirmez yelek, askeri haberleşme sistemleri, koruma ürünleri ve güvenlik ürünleri markasıdır.MSA Safety Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Atiker",
+    "description": "Atiker, 1970 yılında kurulan Ömer Atiker Makine Metal İnş. ve Yakıt Sist. İth. İhr. A.Ş. bünyesindeki sıralı otogaz sistemleri markasıdır.Konya merkezli firma 55 bin metrekaelik kapalı alanda üretim yapmaktadır. Ürettiği ürünlerin yüzde 60’ını 40’tan fazla ülkeye ihraç etmektedir.Mensubu olduğu Atiker Şirketler Grubu; otogaz sistemleri, savunma sanayii, inşaat ve mimarlık, kaynak robotları, endüstriyel mutfak, yazılım ve bilişim gibi alanlarda faaliyet göstermektedir.ISO 9001, ISO 14001, ISO 1800, ISO 10002, ISO 50001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 1800",
+      "ISO 50001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mondottica",
+    "description": "Mondottica, 2002 yılında Michael Jardine tarafından kurulan Mondottica Limited bünyesindeki optik ve aksesuarları markasıdır.Gözlük, güneş gözlüğü, lens gibi ürünleri ve markaların tasarımını ve dağıtımını yapmaktadr.Mondottica Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Lectra",
+    "description": "Lectra, 1973 yılında John ve Bernard Etcheparre tarafından kurulan Lectra SA bünyesindeki moda, otomotiv, mobilya endüstrileri için deri veya tekstilin otomatik kesilmesi için yazılım ve sistemler markasıdır.Fransa merkezli Lectra SA, çok çeşitli pazarlara yazılım, donanım, danışmanlık ve ilgili hizmetler geliştirmektedir. Lectra’nın dünyada 34 iştiraki bulunmaktadır ve 100’den fazla ülkede müşterilerine hizmet vermektedir.Lectra SA Ortakları:Daniel Harari (İsrail) (yüzde 14,7)Kabouter Management LLC (Amerika) (yüzde 9,07)Kempen Capital Management NV (Hollanda) (yüzde 5,65)Brown Capital Management LLC (Amerika) (yüzde 5,36)Artisan Partners LP (Amerika) (yüzde 4,49)Allianz Global Investors GmbH (Fransa) (yüzde 4,42)Fidelity Management & Research Co. LLC (Amerika) (yüzde 3,34)Threadneedle Asset Management Ltd. (İngiltere) (yüzde 2,21)Groupama Asset Management SA (Fransa) (yüzde 1,89)BMO Asset Managers Ltd. (İngiltere) (yüzde 1,87)Bünyesindeki markalar;AlysBrioDiaminoFocusFocusquantumFormarisKaledoKubixLectraLectra LLectra SystemesMikalisModarisOptiplanProgressUpstyleVectorVersalisVirga",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2021-09-17"
+  }
+]

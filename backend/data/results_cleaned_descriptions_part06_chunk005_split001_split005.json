@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Latrax",
+    "description": "Latrax, 1974 yılında Traxxas LP’nin sahibi Jenkins ailesi tarafından kurulan radyo kontrollü model araçlar markasıdır.100+mph elektrikli süper otomobillerden motorla çalışan, nitro yakan canavar kamyonlara kadar ödüllü modelleri ile dünyanın önde gelen hobi kalitesinde radyo kontrol araçları üreticisidir.Traxxas LP Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Candyking",
+    "description": "Candyking, 1862 yılında Bernard, Christopher ve Nutin Cloetta tarafından kurulan Cloetta Sverıge AB bünyesinde üretilen şekerlemeler markasıdır.Cloetta Sverıge AB İsveç merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Cera Di Cupra",
+    "description": "Cera Di Cupra, 1957 yılında piyasaya sürülen, Farmaceutici Dott. Ciccarelli s.p.a. bünyesinde üretilen kadınlar için kozmetik, cilt bakım ürünleri markasıdır.Farmaceutici Dott. Ciccarelli s.p.a. İtalya merkezlidir ve 60 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Mevsim Turşu",
+    "description": "Mevsim, 1981 yılında Tevfik Kiraz tarafından kurulan Kirazlar Fermantasyon San. ve Tic. Ltd. Şti. bünyesinde üretilen turşular markasıdır.Sebzelerini sözleşmeli tarım yaptığı çiftçilerden sağlamaktadır.ISO 9001 ve ISO 22000 belgelerine sahiptir.İzmir merkezli firma ürünlerini 5 bin metrekaresi kapalı 13 bin metrekaresi açık alanda kurulu tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Generac",
+    "description": "Generac, 1959 yılında Robert Kern tarafından kurulan Generac Power Systems Inc. bünyesinde üretilen jeneratörler, yedek güç ürünleri markasıdır.Taşınabilir, konut, ticari ve endüstriyel jeneratörler de dahil olmak üzere geniş bir güç ürünleri yelpazesine sahiptir.Generac Power Systems Inc. Amerika merkezlidir ve ürünlerini Amerika’da bulunan tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Evvahe",
+    "description": "Evvahe, 2020 yılında kurulan Evvahe Doğal Kozmetik Gıda Tekstil İmalat İthalat ve İhracat San. ve Tic. Ltd. Şti. bünyesindeki doğal bitkisel ürünler markasıdır.Helal belgesine sahip firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Levoit",
+    "description": "Levoit, 2016 yılında kurulan Vesync Co. Ltd. bünyesinde üretilen hepa hava temizleyici, ultrasonik hibrit nemlendirici, ultrasonik üstten dolgulu nemlendirici ve difüzör, akülü çubuk vakum markasıdır.Şirket hava kalitesi, sağlık izleme, mutfak, aydınlatma ve çıkış sistemlerini birbirine bağlayan akıllı ev platformu geliştirmektedir.Vesync Co. Ltd. Çin merkezlidir ve ürünlerini 8 ülkeye pazarlamaktadır.Bünyesindeki markalar;EtekcityCosoriLevoit",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2023-06-27"
+  },
+  {
+    "company": "Lezzcafe",
+    "description": "Lezzcafe, Yıldız Holding’e ait Ülker Bisküvi San. A.Ş.’nin 2’si 1 arada, 3’ü 1 arada, cappuccino, fındıklı, gold, kahve kreması, klasik toz kahve içecekleri markasıdır.Lezzcafe marka toz kahve içecekleri, İstanbul Silivri’de faaliyet gösteren Atademir Gıda San. ve Tic. A.Ş. tarafından üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Caploonba",
+    "description": "Caploonba, 1983 yılında kurulan Orpak A.Ş. bünyesindeki bebek, çocuk ve genç odası mobilyaları markasıdır.Ürünlerinin tamamını E1 Standartlarına uygun malzemeler ile üretmektedir.İzmir merkezli firma ürünlerini 25 bin metrekaresi kapalı toplam 40 bin metrekarelik arazide bulunan tesisinde üretmekte ve 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gustoterra",
+    "description": "Gustoterra, 2013 yılında kurulan Akil Gıda Tic. A.Ş. bünyesinde üretilen bulyon, çorba, kabartma tozu, şeker vanilin, puding, krem şanti markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma Gaziantep merkezlidir.Bünyesindeki markalar;Coffee MakGustocoffeeGustoterraMakMak Coffee",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-06-29"
+  }
+]

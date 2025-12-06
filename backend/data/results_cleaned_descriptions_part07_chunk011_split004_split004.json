@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Noxes",
+    "description": "Noxes, 1992 yılında kurulmuş olan Ergün Kimya Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen sabunlar, bulaşık deterjanları markasıdır.Firma Gaziantep merkezlidir. Ürünlerini Gaziantep 5. OSB’de bulunan 18 bin 500 metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Linn Young",
+    "description": "Linn Young, 2003 yılında kurulmuş olan Coscentra B.V. bünyesinde üretilen parfüm markasıdır.Coscentra B.V. Hollanda merkezlidir. Ürünlerini Hollanda’da üretmektedir ve 45 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Red Cocome",
+    "description": "Red Cocome, 2004 yılında kurulmuş olan Guangzhou Cocome Cosmetics Co. Ltd. bünyesinde üretilen tırnak jelleri markasıdır.Guangzhou Cocome Cosmetics Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "FC Barcelona Parfümü",
+    "description": "FC Barcelona Fragrances, 1979 yılında kurulmuş olan Air-Val International S.A. adına Grafiques Argent S.A. tarafından üretilen parfüm markasıdır.Air-Val International S.A. İspanya merkezlidir. Ürünleri İspanya’da üretilmektedir ve 90’dan fazla ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Good and Health",
+    "description": "Cosmozone Survival, 1998 yılında kurulmuş olan Mert Kozmetik Kimya Gıda Ambalaj San. Tic. Ltd. Şti. bünyesinde üretilen ayak bakım kremi, diş macunu, el bakım kremi, güneş yağı, i̇ntim likit, kil maskesi, onarıcı göz kremi, onarıcı gece kremi, ozonlu doğal sabun, ozonlu yoğun bakım mendili, ozonlu zeytinyağı, pişik kremi, saç bakım şampuanı, vücut bakım şampuanı, vücut bakım losyonu, yüz yıkama jeli, yaşlanma karşıtı ozonlu krem markasıdır.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

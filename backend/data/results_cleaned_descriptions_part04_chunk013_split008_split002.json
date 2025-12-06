@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Banacune",
+    "description": "Banacune, Henkel Ag & Co. Kgaa’ya ait olan Schwarzkopf bünyesindeki saç ürünleri markasıdır.Hans Schwarzkopf & Henkel GmbH Almanya merkezlidir. Türkiye’de Tuzla fabrikasında üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Taff Şampuan",
+    "description": "Taff Şampuan Hangi Ülkenin Malı MarkasıdırTaff, Greetingtail Co. Ltd. bünyesinde üretilen doğal köpek şampuanı markasıdır.Ürünleri zararlı temizlik maddeleri içermez. Paraben, sülfat, trietanolamin, yapay renkler ve koku içermez. Taze tip-çay ağacı, limon otu, güneş ağacı suyu ve biberiye gibi doğal antibakteriyel maddeler cildi çeşitli zararlı maddelerden yıkar ve korur.Greetingtail Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Xilence",
+    "description": "Xilence, 1996 yılında kurulan Xilence Technology Co, Ltd. bünyesinde üretilen güç kaynakları (Psu’lar), fanlar, kasalar ve CPU, GPU ve sabit diskler için soğutucular, bilgisayar muhafazaları gibi masaüstü bilgisayarlar için bileşen ve aksesuarlar ile dizüstü bilgisayar şarj cihazları ve dizüstü bilgisayar soğutucuları markasıdır.Xilence Technology Co, Ltd. Tayvan merkezlidir. Üretim tesisi Çin’dedir ve Çin, Almanya ile Amerika’da şubeleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Silence",
+    "description": "Silence, 2009 yılında kurulan Scutum Logistics, S.L. bünyesinde üretilen elektrikli motosiklet, elektrikli scooter markasıdır.Scutum Logistics, S.L. İspanya merkezlidir ve ürünlerini İspanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Nutruit",
+    "description": "Nutruit, Nutruit Süpergıda San. A.Ş. bünyesindeki zeytin ürünleri ve taze meyveler markasıdır.Dondurarak kurutma ve fermantasyon ile paketlenmiş sağlıklı atıştırmalıklar üretmektedir.Yerel üreticilerden alınan meyve ve sebzeler, hiç bir işleme tabi tutulmadan, zararlı içerik ve koruyucular kullanılmadan işlenir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

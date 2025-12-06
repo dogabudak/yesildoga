@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Cosrx",
+    "description": "Cosrx, 2002 yılında Jun Sanghun tarafından kurulan Cosrx Inc. bünyesindeki kozmetik, makyaj, güzellik maskeleri, kozmetik amaçlı losyonlar, güneş kremi, makyaj giderme preparatları, özel kişisel hijyen amaçlı temizleyiciler markasıdır.Cosrx Güney Kore merkezlidir. Cosrx, formüllerini doğal ve cilt için zararlı yan etkileri olmayan içeriklerle Güney Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Cosval",
+    "description": "Cosval, 1973 yılında Sergio Bärlocher tarafından kurulan Cosval S.p.A bünyesinde üretilen cilt bakım ürünleri, lüks ürünler ve ev parfümü markasıdır.Cosval S.p.A İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir. İsviçreli Bärlocher ailesine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Laken",
+    "description": "Laken, 1912 yılında Productos Deportivos S.A. bünyesindeki matara ve suluk, mama saklama kapları markasıdır.Ürünlerini alüminyum, paslanmaz çelik ve plastikten üretmektedir. Ürünleri BPA, ftalat veya kurşun gibi zararlı maddeler içermez.ISO 9001 ve ISO14001 belgelerine sahiptir. Ürünleri 50’den fazla ülkeye ihraç edilmektedir.Productos Deportivos S.A. İspanya merkezlidir ve ürünlerini İspanya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "ISO14001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Allmug",
+    "description": "Allmug, 1975 yılında kurulan Türmak Makina San. ve Tic. A.Ş. bünyesinde üretilen termos ve mug ürünleri markasıdır.Firma kendi üretimleri dışında uzakdoğu’dan çeşitli ürünler ithal etmektedir.Bünyesindeki markalar:AllmugTime One",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Contigo",
+    "description": "Contigo, 1999 yılında Newell Brands Inc. bünyesinde üretilen termos, mug, tritan su şişesi, suluk, shaker, seyahat kupası çocuk bardağı markasıdır.Ürünleri BPA içermemektedir.Newell Brands Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-10-01"
+  }
+]

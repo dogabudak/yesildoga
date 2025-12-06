@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Ivoclar Vivadent",
+    "description": "Ivoclar Vivadent, 1923 yılında kurulan Ivoclar Vivadent AG bünyesinde üretilen, diş hekimleri ve diş teknisyenleri için diş hekimliği uygulamaları markasıdır.Ivoclar Vivadent AG Lihtenştayn merkezlidir. Üretim tesisleri Lihtenştayn, Avusturya, İtalya, İsveç, ABD ve Filipinler’de bulunmaktadır ve dünya çapında 47 iştiraki ve şubesi bulunmaktadır. Ürünlerini 130 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LI",
+    "updated_date": "2022-07-21"
+  },
+  {
+    "company": "Bisse",
+    "description": "Bisse, 1976 yılında kurulan Bisse Tekstil Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki gömlek, takım elbise, ceket, pantolon, tişört, triko, mont, kaban, pardösü ve ayakkabı markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;B76 Bisse Sport LineBisseBisse HeritageBisse SilverElbisseEmilio BoscoFelisLuigi Albino La",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Systemair",
+    "description": "Systemair, 1974 yılında Gerald Engström tarafından kurulan Systemair AB bünyesindeki havalandırma ürünleri, fanlar, hava dağıtım ekipmanları, hava perdeleri, ısıtma ve soğutma ürünleri markasıdır.Systemair AB İsveç merkezlidir. Türkiye dahil 51 ülkede faaliyet gösteren firma 27 fabrikada üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Vitapan",
+    "description": "Vitapan, 1924 yılında kurulan VITA Zahnfabrik H. Rauter GmbH & Co. KG bünyesinde üretilen protez dişler veya kaplama malzemeleri, pres seramikleri, diş malzemeleri markasıdır.VITA Zahnfabrik H. Rauter GmbH & Co. KG Almanya merkezlidir ve ürünleri 150’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Flir Systems",
+    "description": "Flir Systems, 1960 yılında kurulan Teledyne Technologies Inc. bünyesindeki termal görüntüleme, kızılötesi markasıdır.Termal görüntüleme kameraları ve sensörlerinin tasarımı ve üretimini yapmaktadır.Teledyne Technologies Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

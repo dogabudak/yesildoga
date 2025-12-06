@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Talanx",
+    "description": "Talanx, 1996 yılında kurulan Talanx AG bünyesindeki sigorta grubudur.Talanx 150’den fazla ülkede faaliyet göstermektedir.Talanx AG’nin yüzde 79 oranındaki hisseleri Almanya merkezli HDI Sigorta’ya aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Van Gogh",
+    "description": "Van Gogh, 1899 yılında Marten Talens tarafından kurulan Royal Talens bünyesindeki yağlı boya, akrilik boya, pastel, suluboya markasıdır.Royal Talens; ressam boyası, malzemeleri ve hobi boyası alanında uzmanlaşmış bir şirkettir. Geçmişte dolma kalem mürekkebi, daktilo kurdeleleri, karbon kağıdı ve diğer ofis malzemelerini de üretti.Royal Talens 1991 yılında Japonya merkezli çeşitli kırtasiye ürünleri üreten Sakura Color Products Corporation tarafından satın alındı. Ürünlerini Hollanda’da üretmektedir.Royal Talens Bünyesindeki markalar:AmsterdamBruynzeelCobraRembrandtSakuraSchjerningStrathmoreTalensTalens Art CreationVan Gogh",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Babolat",
+    "description": "Babolat, 1875 yılında Pierre Babolat tarafından kurulan Babolat SA bünyesindeki raketler, tenis aksesuarları ve ayakkabı markasıdır.Ayakkabı ve kar ayakkabısı ürünlerini Asya’da fason olarak yaptırmaktadır. Raketleri karbon lifinden üretilmektedir.Babolat, dünya çapında ün salmış, daha çok tenis, badminton ve squash ürünleriyle adını duyurmuş, Fransa merkezli bir spor ekipmanı şirketidir.Babolat 100’den fazla ülkede, 20 bin spor malzemesi satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Masomo",
+    "description": "Masomo, 2012 yılında İbrahim Akman tarafından kurulan İZMO Bilişim bünyesinde üretilen Kafa Topu’nun yapımcısıdır.Ünlü maç spikeri Ercan Taner tarafından Türkçe seslendirilen Kafa Topu oyunu dünyada milyonlarca kullanıcıya ulaştı.2015 yılında kurulan Masomo; akıllı telefon ve tabletler için mobil oyunlar üretmektedir. İzmir, İstanbul ve Londra’da ofisleri vardır.Masomo, Çinli Tencent’e bağlı olan Miniclip tarafından 2019 yılında satın alındı. Miniclip, ücretsiz indirilip oynanabilen oyun firmalarından biridir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Brandy’s",
+    "description": "Brandy’s, 1989 yılında faaliyete başlayan Çiçek İç Giyim Tic. ve San. A.Ş. bünyesinde 2013 yılında kurulan lüks moda perakende mağaza ve markasıdır.Brandy’s premimum seviyesinde hazır giyim ve aksesuar ürünleri içerir.Çiçek Grup; dünyaca ünlü markaların münhasır haklarını alarak Türkiye’de perakende mağazalarında satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

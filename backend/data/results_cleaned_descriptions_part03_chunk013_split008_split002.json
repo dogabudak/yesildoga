@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vanguard International Semiconductor",
+    "description": "Vanguard International Semiconductor, 1994 yılında Morris Chang tarafından kurulan Vanguard International Semiconductor Corporation bünyesindeki özel IC döküm hizmet sağlayıcısı markasıdır.Mikroelektromekanik sistemlerin (MEMS) yanı sıra analog/karışık sinyal yongaları üretmektedir.Vanguard International Semiconductor Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Esco Technologies",
+    "description": "Esco Technologies, 1990 yılında kurulan Esco Technologies Inc. bünyesindeki mühendislik ürünleri ve çözümleri markasıdır.Şirket elektrik, gaz ve su hizmetleri için özel amaçlı iletişim sistemleri sağlamaktadır. Gelişmiş ölçüm uygulamalarını destekleyen yazılımlar sunar ayrıca dünyanın dört bir yanından havacılık, uzay ve proses pazarlarına mühendislik filtreleme ürünleri sunmaktadır.Esco Technologies Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "MagnaChip Semiconductor",
+    "description": "MagnaChip Semiconductor, 2003 yılında kurulan MagnaChip Semiconductor Ltd. bünyesindeki yarı iletken ürünler markasıdır.MagnaChip Semiconductor, cep telefonları, dijital televizyonlar, düz panel ekranlar, dizüstü bilgisayarlar ve cep telefonları gibi tüketici elektroniği uygulamaları için analog ve karışık sinyalli yarı iletken ürünler üreten ve dünya çapında faaliyet gösteren Koreli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "ON Semiconductor",
+    "description": "ON Semiconductor, 1999 yılında kurulan ON Semiconductor Corporation bünyesindeki yarı iletken markasıdır.Ürünleri arasında otomotiv, iletişim, bilgi işlem, tüketici, endüstriyel, LED aydınlatma, tıbbi, askeri veya havacılık ve güç uygulamaları için güç ve sinyal yönetimi, mantık, ayrık lık ve özel cihazlar yer almaktadır.Amerika, Avrupa ve Asya Pasifik bölgelerinde üretim tesisleri, satış şubeleri ve tasarım merkezlerinden oluşan bir ağa sahiptir.ON Semiconductor Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Omnivision Technologies",
+    "description": "Omnivision Technologies, 1990 yılında kurulan OmniVision Technologies, Inc. bünyesindeki görüntü sensörü teknolojileri markasıdır.OmniVision Technologies Inc. cep telefonları, dizüstü bilgisayarlar, netbook’lar ve web kameraları, güvenlik ve gözetim kameraları, eğlence, otomotiv ve tıbbi görüntüleme sistemlerinde kullanılmak üzere gelişmiş dijital görüntüleme teknolojileri ve ürünleri tasarlayan ve geliştiren Çin’e ait bir şirkettir.ABD, Batı Avrupa ve Asya’da dünya çapında 5 tasarım merkezi ve Çin’de bir test tesisine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Geratherm",
+    "description": "Geratherm, 1990 yılında kurulan Geratherm Medical AG bünyesinde üretilen ateş ölçer ve kan basıncı monitörleri gibi tıbbi ölçüm cihazları markasıdır.Geratherm Medical, sağlık teşhis, tıbbi ısınma sistemleri, kardiyo/inme ve solunum iş bölümleri ile uluslararası düzeyde uyumlu bir tıbbi teknoloji şirketidir.Geratherm Medical AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rk Royal Kludge",
+    "description": "Rk Royal Kludge, 2016 yılında kurulan Ltc Networking Limited bünyesinde üretilen kulaklık, klavye, fare, mikrofon, ses çubuğu markasıdır.Ltc Networking Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Dr Barbara Sturm",
+    "description": "Dr Barbara Sturm, 2014 yılında kurulan Barbara Sturm Molecular Cosmetics Gmbh bünyesinde üretilen cilt bakım ürünleri markasıdır.Yoğun hidrasyon damlalarından süper şarjlı serumlara ve lüks yüz kremlerine kadar, cilt bakım ürünleri üretmektedir. Ürünleri sentetik kokular, sert koruyucular ve mineral yağlar içermez.Barbara Sturm Molecular Cosmetics Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Berloni",
+    "description": "Berloni, 1960 yılında Antonio ve Marcello Berloni tarafından kurulan Berloni Group s.r.l. bünyesinde üretilen modüler mutfak mobilyaları markasıdır.Berloni Group s.r.l. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dermacol",
+    "description": "Dermacol, 1966 yılında Olga Knoblochova tarafından kurulan Dermacol, a. s. bünyesinde üretilen kişisel bakım, makyaj ürünleri markasıdır.Tüm cilt tipleri için bakım kozmetikleri, makyaj çıkarıcılar, vücut bakım ürünleri ve kozmetikler üretmektedir. Ürünleri 70’ten fazla ülkede satılmaktadır.Dermacol, a. s. Çek Cumhuriyeti merkezlidir ve ürünlerini Çek Cumhuriyeti’nde bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  }
+]

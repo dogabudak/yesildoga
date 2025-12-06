@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ecotools",
+    "description": "Ecotools, 2007 yılında kurulan Paris Presents Inc. bünyesindeki makyaj fırçaları, karıştırıcılar, kristal yüz silindirleri, çeşitli pratik banyo fırçaları ve aksesuarları markasıdır.Kozmetik ve banyo aksesuarları, saç şekillendirme ve diğer bitişik kategoriler sunmaktadır.Ürünleri geri dönüştürülmüş ve yenilenebilir malzemelerden üretilmektedir ve hayvanlar üzerinde test edilmemektedir.Güzellik ürünleri ve kişisel bakım aksesuarları üreticisi Paris Presents Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Chef’s Choice",
+    "description": "Chef’s Choice, 2015 yılında kurulan Atlaspet Pet Ürünleri Pazarlama ve Tic. A.Ş. bünyesinde üretilen kedi ve köpek yaş mama markasıdır.Ürünleri şeker, suni tatlandırıcılar, renklendiriciler ve koruyucular içermemektedir.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "More For You",
+    "description": "More For You, 2006 yılında kurulan Kraft Kağıt San. ve Tic. Ltd. Şti. bünyesinde üretilen profesyonel kuaför ve güzellik salonu ürünleri markasıdır.Ürün yelpazesinde tek kullanımlık havlu, sir ağda çeşitleri bezi ve yağı, profesyonel kuaför makasları ve cımbızları, sedye örtüsü, boya naylonu, berber boyun bandı ve diğer salon ürünleri yer almaktadır.Gaziantep merkezli firma ürünlerini 40 ülkeye ihraç etmektedir.Bünyesindeki markalar;CamkızıInnaMedi For YouMore 4uMore For YouNeckyTraş Fabrikası",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Royalist",
+    "description": "Royalist, 1994 yılında kurulan Royalist İthalat İhracat Ltd. Şti. bünyesindeki kedi, köpek ve kuşlar için kuru mama, konserve mama, ödül maması, şampuan, köpek külodu, süt tozu markasıdır.Deri ve bez tasma ürünleri üreten firma bahçe zincirleri ve fason olarak yaptırılan diğer saraciye malzemeleri ile binlerce çeşit evcil hayvan malzemeleri ithal etmektedir.Firma ürünlerini 16 ülkeye ihraç etmektedir.Bünyesindeki markalar;Best BuddyBest FriendMugueRoyalistRoyalist Aqua",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Personna",
+    "description": "Personna, 1917 yılında kurulan Personna Tıraş Ürünleri ve Kozmetik San. Tic. A.Ş. bünyesinde üretilen kişisel bakım ürünleri markasıdır.Personna Tıraş Ürünleri ve Kozmetik A.Ş., Zaza Grubu’nun kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

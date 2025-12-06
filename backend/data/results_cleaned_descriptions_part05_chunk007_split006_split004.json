@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Powergum",
+    "description": "Powergum, 2013 yılında kurulan Progum Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen jöle dolgulu sakız markasıdır.Ürünlerini Tekirdağ’da bulunan fabrikasında üretmektedir.Bünyesindeki markalar;KangoPowergumSafariTurboYou&Me",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bema Tools",
+    "description": "Bema Tools, 2007 yılında kurulan Bema El Aletleri San. ve Tic. Şti. bünyesinde üretilen el aletleri, takım tezgahı uçları, testere ağızları, mengeneler, kıskaçlar, sıkıştırma anahtarları vb. ürünler markasıdır.Ürünlerini Gaziantep’te bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arcona",
+    "description": "Arcona, 1989 yılında kurulan Arcona Inc. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Arcona Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Balenciaga",
+    "description": "Balenciaga, 1919 yılında Cristóbal Balenciaga tarafından kurulan Balenciaga S.A. lüks moda ürünleri markasıdır.Ayakkabı da dahil olmak üzere hazır giyim ve aksesuar, lüks (deri ürünleri, mücevherler) tasarlar ve dağıtır.Balenciaga S.A. Fransa merkezli Kering S.A.’ya aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Matsui",
+    "description": "Matsui, 1912 yılında Miichiro Matsui tarafından kurulan Matsui Mfg.Co. Ltd. bünyesinde üretilen plastik işleme ekipman ve sistemlerinin (kalıplama-proses sıcaklık kontrolörleri, konveyörler, mikserler, kırıcılar, geri dönüşüm cihazları vb.) ürünler markasıdır.Matsui Mfg.Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

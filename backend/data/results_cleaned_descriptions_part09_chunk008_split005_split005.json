@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Depomaxx",
+    "description": "“Depomaxx“2015 yılında kurulmuş olan Depomax Mağazacılık A.Ş. bünyesindeki indirimli mağazalar zinciri markasıdır.Turgut Aydın Holding bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Goldella",
+    "description": "“Goldella“Kayserilioğulları Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen kakaolu fındık kreması markasıdır.Haccp 22000, TSE, ISO 9000 ve Kosher belgelerine sahiptir.Firma Ankara merkezlidir. Ürünlerini Ankara’da bulunan fabrikasında üretmektedir ve 30 ülkeye ihraç etmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cicaronic",
+    "description": "“Cicaronic“2008 yılında kurulmuş olan SD Biotechnologies Co. Ltd. bünyesindeki cilt bakım ürünleri markasıdır.SD Biotechnologies Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Shibowavy Jolvena",
+    "description": "“Shibowavy Jolvena“1997 yılında kurulmuş olan Öz Piramit Bilgisayar İletişim Elektronik Makina İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki saç şekillendirme cihazları, epilatörler markasıdır.Firma Diyarbakır merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Betires Home",
+    "description": "“Betires Home“2002 yılında kurulmuş olan Erem Tekstil San. Tic. Ltd. Şti. bünyesindeki lüks örgü battaniyeler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

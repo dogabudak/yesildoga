@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Netfactor",
+    "description": "“Netfactor“2007 yılında kurulmuş olan Netfactor Telekominikasyon ve Teknoloji Hiz. San. Tic. A.Ş. bünyesindeki sunucu kiralama ve bulut teknolojileri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Daiichi",
+    "description": "“Daiichi“2002 yılında kurulmuş olan Daiichi Elektronik San. ve Tic. A.Ş. bünyesinde üretilen araç içi multimedya sistemleri, hoparlör, direksiyon simidi ve geri görüş kameraları markasıdır.ISO 9001, ISO 14001, ISO 27001, IATF 16949 belgelerine sahiptir.Doğan Holding A.Ş. iştiraki olan firmanın merkezi İstanbul’dadır. Türkiye, İtalya, ABD, Fransa, Çin, Özbekistan ve Hindistan’da iş geliştirme temsilciliği, üretim tesisi ve AR-GE merkezi bulunmaktdır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gripwell",
+    "description": "“Gripwell“1987 yılında kurulmuş olan Gripwell Fastening & Engineering Pte Ltd. bünyesindeki sabitleme ve montaj çözümleri markasıdır.Ürün yelpazesi sabitleme çözümleri, kurulum araçları ve sistemleri, tasarlanmış erişim donanımı, mobilya ve mimari donanım, hareket tasarımı ve konum kontrolü, paslanmaz çelik 316 çözümleri içermektedir.Gripwell Fastening & Engineering Pte Ltd. Singapur merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Dejond",
+    "description": "“Dejond“1901 yılında kurulmuş olan Dejond NV bünyesindeki demir dışı metaller, özel yapım metaller, yapı sistemleri, özel biçilmiş saclar, yeşil çatılar için alüminyum aksesuarlar, özel yapı profilleri, delikli ve dekoratif saclar markasıdır.Dejond NV Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Boso Max",
+    "description": "“Boso Max“1889 yılında kurulmuş olan Bosch + Sohn Gmbh U. Co. Kg. bünyesindeki tansiyon aletleri, ısıtma yastıkları, termometreler markasıdır.Bosch + Sohn Gmbh U. Co. Kg. İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

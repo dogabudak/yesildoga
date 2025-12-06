@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Arthur Andersen",
+    "description": "Arthur Andersen, 1913 yılında kurulan vergi ve danışmanlık şirketi, Enron skandalından sonra 2002 yılında kapandı. 2005 yılında aklandı ve sonrasında yeniden faaliyete geçti.Amerikan merkezli Andersen, 1963-1975 yılları arasında Türkiye’deki faaliyetlerini Londra ofisi aracılığıyla sürdürdü. Türkiye’de ilk yerleşik ofis ise 1975 yılında açıldı. Skandal sonrası kapanan firma Türkiye’de 2012 yılından itibaren tekrar faaliyete başladı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ernst&Young",
+    "description": "Ernst & Young kısaca EY, ilk kez 1849 yılında Harding & Pullein olarak kuruldu. 1989 yılında şirketlerin birleşmesiyle Ernst & Young oluşturuldu.İngiltere merkezli EY, dünya çapında yaklaşık olarak 140 ülkede faaliyet gösteren uluslararası bir denetim ve danışmanlık hizmetleri firmasıdır.Ernst & Young, 1983 yılından beri Türkiye’de vergi, bağımsız denetim, kurumsal finans ve muhasebe alanlarında hizmet vermektedir. İstanbul’da genel merkezi, Ankara, İzmir ve Bursa’da ofisleri bulunmaktadır. Arthur Andersen firmasının Enron skandalı sonucunda iflas etmesinin ardından, Türkiye’deki Arthur Andersen şirketleri Ernst & Young şirketleri ile 2002 yılı içerisinde birleşme yoluna gitmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "GoDaddy Ülke",
+    "description": "GoDaddy, 1997 yılında Bob Parsons tarafından kurulan internet alan adı kayıt ve web barındırma şirketidir. Ayrıca sunucu, SSL sertifikası, web tasarımı gibi hizmetler vermektedir.Amerikan merkezli GoDaddy 2015 yılında Türkçe desteği ile Türkiye pazarına girdi.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hostgator Ülke",
+    "description": "Hostgator, 2002 yılında Brent Oxley tarafından kurulan web sitesi barındırma hizmeti, VPS ve Dedicated sunucu paketleri sağlayan şirkettir.Amerikan merkezli HostGator 200’den fazla ülkede müşterilerine hizmet vermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hikvision",
+    "description": "Hikvision, 2001 yılında kurulan Hangzhou Hikvision Digital Technology Co., Ltd. bünyesindeki güvenlik ve alarm sistemleri markasıdır.Çin’de 30’dan fazla şubesi ve 16 ülkede yurtdışı bölgesel iştirakleri ve tüm dünyada 30 binden fazla olan iş ortakları ile birlikte, çalışmaktadır.Hikvision Digital Technology Co., Ltd. hisseleri:Chinese Central Government (yüzde 41,55)Gong Hongjia and related parties (yüzde 17,09)Hu Yangzhon and related parties (yüzde 7,07)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-08-14"
+  }
+]

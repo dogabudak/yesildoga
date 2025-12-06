@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sunline Ülke",
+    "description": "Sunline, 1977 yılında kurulan Sunline Co., Ltd. bünyesindeki olta üreticisidir.Balıkçılık konusunda her türlü malzemeyi üretmektedir. Bu malzemeler naylon, florokarbon, ultra yüksek molekül ağırlıklı polietilen, polyester (polietilen tereftalat) ve metal içerir.Japonya merkezli Sunline Co., Ltd., ürünlerini 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Nektar Therapeutics",
+    "description": "Nektar Therapeutics, 1990 yılında kurulan biyofarmasötik markasıdır.Şirket, maddelerin kimyasal yapısını değiştirmek için çeşitli teknolojileri uygulayarak yeni ilaç geliştirmektedir. Birçok ilaç firmasının teknoloji tedarikçisidir.Nektar Therapeutics Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bath and Body Works",
+    "description": "Bath and Body Works, 1990 yılında kurulan Bath & Body Works Direct, Inc. bünyesinde üretilen kozmetik ürünler markasıdır.Bath & Body Works Direct, Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Medop",
+    "description": "Medop, 2017 yılında kurulan MEDOP, S.A. bünyesindeki kişisel koruyucu donanım malzemeleri markasıdır.MEDOP, S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Nexteer",
+    "description": "Nexteer, 2009 yılında kurulan Nexteer Automotive bünyesindeki hidrolik ve elektrikli hidrolik direksiyon sistemleri, yarı miller markasıdır.Nexteer Automotive otomotiv parçaları tedarikçisidir ve sahibi Çin merkezli Pacific Century Motors’dur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

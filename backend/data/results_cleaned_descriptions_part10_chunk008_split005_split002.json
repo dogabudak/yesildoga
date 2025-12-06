@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aisens",
+    "description": "2017 yılında kurulmuş olan Aisens Europe S.L. bünyesindeki ses ve video ekipmanı için bağlantı çözümleri ve montaj sistemleri markasıdır.Aisens Europe S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Prendio",
+    "description": "Nanning Qituo Clothing Co. Ltd. bünyesinde üretilen ceket, önlük şort, yelek, triatlon vb. bisiklet giyim ürünleri markasıdır.Nanning Qituo Clothing Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Taldor",
+    "description": "1986 yılında kurulmuş olan Taldor Computer Systems 1986 Ltd. bünyesindeki bilgisayar sistemleri hizmetleri markasıdır.Şirket, müşteri ilişkileri yönetimi, dış kaynak kullanımı, sistem entegrasyonu, uygulama geliştirme, iletişim ve veri güvenliği, sivil ve askeri istihbarat, coğrafi bilgi sistemleri, iş süreci dış kaynak kullanımı ve komuta kontrol sistemleri hizmetleri sunmaktadır.Taldor Computer Systems 1986 Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Chimi",
+    "description": "2016 yılında kurulmuş olan Chimi AB bünyesindeki güneş gözlüğü ve aksesuarlar markasıdır.Chimi AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Tusipan",
+    "description": "2009 yılında kurulmuş olan Denizpharma İlaç San. ve Tic. Ltd. Şti. bünyesindeki bitkisel şurup markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

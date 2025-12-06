@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Xipin",
+    "description": "Xipin, 2010 yılında kurulan XIPIN/Besky Electronics Technology Limited bünyesinde üretilen 3C dijital aksesuarlar, güç bankası, şarj cihazı, kablolar, kablolu kulaklık, bluetooth kulaklık, mobil ünite ve diğer aksesuarlar markasıdır.XIPIN/Besky Electronics Technology Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 150’den fazla ülkeye pazarlamaktadır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Lululemon Athletica",
+    "description": "Lululemon Athletica, 1998 yılında Chip Wilson tarafından kurulan Lululemon Athletica Inc. bünyesindeki tişört, gömlek, pantolon, şort, etek, elbise, sweatshirt, sporcular için ısınma pantolonu, büstiyer, iç giyim ürünleri, çorap, ceket, palto, şapka, ayakkabı ve sandalet markasıdır.Lululemon Athletica Inc. Kanada merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Salesforce",
+    "description": "Salesforce, 1999 yılında kurulan Salesforce.Com Inc. bünyesindeki bulut bilişim markasıdır.Her büyüklükte ve sektördeki şirketler için bulut, mobil, sosyal, iot ve yapay zeka teknolojilerini kullanarak müşterilerine yönelik uygulamalar sunar ayrıca firma ve ortakların yeni uygulamalar geliştirebileceği bir yazılım platformu sağlamaktadır.Salesforce.Com Inc. Amerika merkezlidir. Dünya çapında 36 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Simes El Aletleri",
+    "description": "Simes, 1990 yılında kurulan Grupodesa Fasteners S.A.U bünyesindeki profesyonel çivi, zımba, tel ve yapıştırma ürünleri, el aletleri markasıdır.Şirketin ana faaliyeti, ankraj aletleri, bağlantı ve montaj sistemleri, çiviler, vidalar, kaynak ekipmanları ve ağırlıklı olarak inşaatta kullanılan kimyasal malzemelerdir.Grupodesa Fasteners S.A.U İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Lizard Skins",
+    "description": "Lizard Skins, 1993 yılında kurulan Lizard Skins LLC bünyesindeki spor malzemeleri aksesuarları markasıdır.Ürünlerini 70 ülkeye pazarlamaktadır.Lizard Skins LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

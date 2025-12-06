@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Gumstix",
+    "description": "Gumstix, 2003 yılında kurulan Gumstix, Inc. bünyesindeki Gumstix Overo ve Verdex pro modül bilgisayarlar ve aksesuarlarla birlikte bir dizi G/Ç genişletme kartı gibi eksiksiz bilgisayar sistemleri markasıdır.Gumstix Inc. çok uluslu bir Amerikan şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Datel",
+    "description": "Datel, 1980 yılında kurulan Datel Group büyesindeki elektronik ve oyun konsolu çevre birimleri markasıdır.Datel Group İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Avery Dennison Buttoneer",
+    "description": "Avery Dennison Buttoneer, 1935 yılında kurulan Avery Dennison Inc. bünyesindeki çok çeşitli endüstriler ve uygulamalar için küresel bir plastik bağlantı sistemleri markasıdır.Avery Dennison, çok çeşitli etiketleme ve fonksiyonel malzemelerin tasarımı ve üretimi ile ilgili bir malzeme bilimi şirketidir.Avery Dennison Inc. Amerika merkezlidir ve 50’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Triangle",
+    "description": "Triangle, 1969 yılında kurulan S.Oliver Bernd Freier Gmbh & Co. Kg bünyesindeki giyim ürünleri markasıdır.Ürün yelpazesinde erkek ve kadınlar için giyim, mücevher, ayakkabı, çanta ve diğer aksesuarlar da dahil olmak üzere çeşitli ürünler yer almaktadır.S.Oliver Bernd Freier Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Biowera Natural Care",
+    "description": "Biowera Natural Care, 2015 yılında kurulan Birleşik Aroma bünyesindeki bitkisel cilt bakımı, vücut bakımı, saç bakımı, renkli bakım, doğal sabunlar, bitkiler, çaylar, bitkisel takviyeler markasıdır.Öğretim üyesi kurucular tarafından laboratuvar ortamında yüzde 100 bitkisel içeriğe sahip yüksek saf, organik ve doğal hammaddelerle ürünler üretilmektedir. Helal belgesine sahiptir. Ürünleri GDO, Paraben vb. hiçbir madde içermemektedir ve seyreltilmemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

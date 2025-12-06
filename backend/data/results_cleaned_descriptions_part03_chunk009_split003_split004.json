@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Venexia",
+    "description": "Venexia, 2003 yılında kurulan Natura Gıda Sanayi ve Ticaret A.Ş. tarafından üretilen dondurma markasıdır.Natura Gıda’nın çoğunluk hissesi Ice Cream Investment BV’ye aittir.yüzde 18,75 hissesi MKS Marmara Entegre Kimya San. A.Ş. ve yüzde 15,38 hissesi Yıldız Holding A.Ş.’ye aittir.Turkven Sermaye Şirketi Hangi Ülkenin Malı",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Bolulu Hasan Usta",
+    "description": "Bolulu Hasan Usta, 1982 yılında Hasan Nazmi Gürgönül tarafından kurulan Bolulu Hasan Usta Süt Tatlıları Gıda ve İnşaat Turizm San. Tic. Ltd. Şti. bünyesinde üretilen tatlı, börek, dondurma, çikolata markasıdır.Türkiye’nin ilk tatlı fabrikasını 1997 yılında İzmir Atatürk OSB’de kurdu.Türkiye’de 100’den fazla şubesiyle faaliyet göstermektedir. Yurt dışında Dubai, Abu Dabi, Katar, Kuveyt, Bahreyn ve Kıbrıs’ta şubeleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vlora",
+    "description": "Vlora, 2013 yılında kurulan Vlora Kozmetik bünyesinde üretilen saç şampuanı, saç kremi, saç serumu, yüz maskesi, saç maskesi, saç bakım yağı, doğal sabun, yüz ve vücut kremleri markasıdır.Ürünlerini GMP belgeli tesisinde üretmekte ve çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nevmix",
+    "description": "Nevmix, 2016 yılında kurulan Nevmix Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen oto bakım ve temizlik, ev ve endüstriyel temizlik ürünleri markasıdır.Ürünlerinde kostik, güçlü asitler ve ağır solventlerin kullanılmaması hedeflenmektedir.İSO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "İSO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Telegram",
+    "description": "Telegram, 2013 yılında Pavel Durov tarafından kurulan Telegram Group Inc. bünyesindeki anlık mesajlaşma ve arama uygulaması markasıdır.Telegram Group Inc. Birleşik Krallık’a bağlı İngiliz Virjin Adaları merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

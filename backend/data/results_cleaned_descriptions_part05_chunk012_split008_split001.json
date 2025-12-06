@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Neoss",
+    "description": "Neoss, 2000 yılında Neil Meredith ve Fredrik Engman tarafından kurulan Neoss Limited bünyesindeki dental implant markasıdır.Şirket, aşamalı cerrahi, acil yerleştirme, ultra temiz yüzey ve acil ve erken yükleme için implantlar sunmaktadır.Neoss Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Cecotec",
+    "description": "Cecotec, 1995 yılında kurulan Cecotec Innovaciones SL bünyesindeki küçük elektrikli ev aletleri, robot elektrikli süpürgeler, gıda işlemcileri, fritözler, mutfak gereçleri, fitness ve programlanabilir ocaklar markasıdır.Cecotec Innovaciones SL İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Arealer",
+    "description": "Arealer, 2004 yılında kurulan Shenzhen Tomtop Technology Co. Ltd. bünyesinde üretilen usb flash bellek, alarm izleme sistemleri, ses ve video alıcıları, bebek monitörleri, ssd, dizüstü bilgisayar ve kamera için çantalar, masaj aleti, sıcak ve soğuk terapiler, ayak, boyun ve sırt masaj aletleri markasıdır.Shenzhen Tomtop Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "The Newlab.",
+    "description": "The Newlab., 2018 yılında kurulan Cosmopublic İç ve Dış Tic. A.Ş. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri Paraben, Sls ve hayvansal katkı içermemektedir. GMP belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avantronics",
+    "description": "Avantronics, 2005 yılında kurulan Avantronics Limited bünyesinde üretilen mobil aksesuar ve bilgisayar çevre birimleri markasıdır.Mobil veri kabloları, mobil tutucular, bataryalar, mobil şarj cihazları, Bluetooth ürünleri, iPod, iPhone, iPad, akıllı telefonlar ve tabletler için kılıflar, ekran koruyucular ve aksesuarlar, taşınabilir hoparlörler, kulaklık, kablolar, güç ürünleri ve diğer birçok mobil aksesuarları tedarik etmektedir.Shenzhen Avantronics Limited Hong Kong merkezlidir. Ürünlerini 22 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

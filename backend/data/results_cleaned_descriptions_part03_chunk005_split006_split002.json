@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Schwarzmueller",
+    "description": "Schwarzmueller, 1870 yılında kurulan Wilhelm Schwarzmüller GmbH bünyesindeki ticari araç tedarikçisidir.Avrupa’nın en büyük tam hizmet sağlayıcılarından biridir. Ağırlıklı olarak Orta, Doğu ve Güneydoğu Avrupa’da olmak üzere 21 ülkede faaliyet göstermektedir.Schwarzmueller Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Li & Fung",
+    "description": "Li & Fung, 1906 yılında kurulan Li & Fung Grubu bünyesindeki ticaret grubudur.Li & Fung büyük miktarlarda ve zamana duyarlı ürünler konusunda uzmanlaşmıştır. Giyim ticareti işin büyük bir kısmını oluşturuyor. Buna ek olarak, moda aksesuarları, mobilyalar, hediyelik eşyalar, el yapımı ürünler, oyuncaklar ve spor malzemeleri, ticari eşyalar ve seyahat malzemeleri gibi sert malların da ticareti yapılmaktadır.Şirket, ürün tasarımı ve geliştirmeden kalite güvencesine, navlun taşımacılığına ve diğerlerine kadar, sadece teslimata ek olarak eksiksiz bir katma değerli hizmet paketi sunan bir ülkeler arası tedarik zinciri yöneticisidir.Li & Fung’un 40’tan fazla üretim ülkesinde 66 ofisi bulunmaktadır. Şirketin yüzde 47’lik ticari malları Çin’nden satın alınıyor.Li & Fung Grubu, Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Polen Un",
+    "description": "Polen Un, 1997 yılında kurulan Polen Un ve Gıda Katkı Mad. San. ve Tic. A.Ş. bünyesinde üretilen un geliştirici, ekmekçilik ve pastacılık ürünleri markasıdır.Ürünlerini 60’tan fazla ülkeye ulaştırmaktadır.Çorlu Avrupa Serbet Bölgesi ve Çorlu Türkgücü tesislerinde, toplam 26 bin metrekare kapalı alanda 800’den fazla ürün çeşitliliğinde BRC standartlarına ve ilkelerine uygun olarak faaliyetlerini sürdürmektedir.",
+    "documents": [
+      "BRC"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kerry",
+    "description": "Kerry, 1972 yılında kurulan Kerry Inc. bünyesindeki gıda katkı maddeleri, yem ve yem katkıları markasıdır.Dünya çapında 140’tan fazla ülkede müşterilerine 15 binden fazla gıda, gıda maddesi ve aroma ürünü tedarik etmektedir.İrlanda merkezli Kerry, 25 ülkede 100’den fazla üretim tesisinde aroma ve gıda katkılarıyla, gıda endüstrisindeki bir çok üreticinin tedarikçisidir.Bünyesindeki markalar:Big TrainCharlevilleCheestringsDaVinci GourmetDairygoldDennyFire & SmokeGolden DiptIsland OasisLow LowMattessonsOregon ChaiRichmondWall’sYollies",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Solina",
+    "description": "Solina, 2012 yılında kurulan Solina Group bünyesindeki işlenmiş et ürünlerine yönelik baharat karışımları ve fonksiyonel karışımlar markasıdır.18 üretim merkezi ve 14 Ar-Ge merkezi ile 75 ülkede 18 bin müşteriye hizmet vermektedir.Fransa merkezli Solina Group, 2010 yılında Türkiye pazarına girdi. Helal Gıda üretimi sadece Kemalpaşa OSB’de yapılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

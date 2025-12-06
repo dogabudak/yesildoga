@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Plextor",
+    "description": "Plextor, 1918 yılında kurulan Plextor LLC bünyesindeki katı hal sürücüler, dijital depolama, veri depolama, bilgisayar ve masaüstü bilgisayar markasıdır.SATA, mSATA dahil olmak üzere geniş bir ürün yelpazesi sunuyoruz. PCI Express ve M. 2/NGFF SSD’ler.Plextor LLC, Japonya’daki Shinano Kenshi’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Dr Hauschka",
+    "description": "Dr Hauschka, 1935 yılında Elisabeth Sigmund ve Rudolf Hauschka tarafından kurulan Wala Heilmittel Gmbh bünyesindeki doğal cilt bakımı ürünleri markasıdır.Ürünlerinin üretiminde kullanılmak üzere 150’den fazla değişik medikal bitki yetiştirilmektedir.Wala Heilmittel Gmbh Almanya merkezlidir. Ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Çokoprens",
+    "description": "Çokoprens Nerenin Malı MarkasıÇokoprens, 1978 yılında Ülker Bisküvi San. A.Ş. bünyesinde üretilen çikolatalı bisküvi markasıdır.İçerisinde emülgatör (soya lesitini), aroma vericiler, nişasta bazlı tatlandırıcı, invert şeker şurubu(glikoz-fruktoz), gluten yer almaktadır.Ülker Çokoprens 35 ülkeye ihraç edilmektedir. Başta Suudi Arabistan olmak üzere Yemen, Almanya, Amerika ve Ortadoğu ülkelerinde satılmaktadır.Ülker markasının sahibi Ülker ailesine ait Yıldız Holding’dir. Yıldız Holding, Ülker Bisküvi’de sermayenin yüzde 30’una denk gelen hisseyi İngiltere merkezli, Yıldız Holding’in yüzde 100 iştiraki Pladis Foods Limited’e aktarmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Öncüller",
+    "description": "Öncüller, 1975 yılında kurulan Nesil Gıda İmalat San. ve Tic. Ltd. Şti. bünyesinde üretilen katıkısız ve doğal püre, marmelat ürünleri markasıdır.Şekerli ve şekersiz kuşburnu marmelatı ve kızılcık marmelatı, aseptik kutular içerisinde ve cam ambalajlar içerisinde doğallığına müdahale etmeden paketlenerek üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Naturilies",
+    "description": "Naturilies, 1957 yılında kurulan Hunca San. A.Ş. bünyesinde üretilen çay ağacı yağı kremi, yüz, saç, vücut ve bebek sabunu markasıdırÜrünlerini Tekirdağ’da 22 dönüm arazi üzerinde kurulan tesislerinde üretmektedir.ISO 9001, GMP ve Helal belgelerine sahiptir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

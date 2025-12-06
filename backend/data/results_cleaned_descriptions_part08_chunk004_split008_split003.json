@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Our Generation",
+    "description": "Our Generation, 1897 yılında kurulmuş olan Maison Battat Inc. bünyesindeki oyuncak bebekler ve aksesuarları markasıdır.Maison Battat Inc. Kanada merkezlidir. Ürünlerini Çin’de üretmektedir ve 70 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Lio Zeytin",
+    "description": "Lio, Şok Marketler Tic. A.Ş. adına Yiğit Zeytincilik Gıda Tar. Taş. İnş. ve Malz. Tur. İth. İhr. San. ve Tic. Ltd. Şti. bünyesinde üretilen zeytin markasıdır.Ürünleri Türkiye’de üretilmektedir.Şok Marketler hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 41,22)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-12-14"
+  },
+  {
+    "company": "Nutri Feline",
+    "description": "Nutri Feline, 1997 yılında kurulmuş olan Sarmat Evcil Hayvan ve Ürünleri San. ve Tic. A.Ş. bünyesinde ithal edilen evcil hayvanlar için kuru mama ve konserveler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Badem Pınarı Doğal Kaynak Suyu",
+    "description": "Badem Pınarı, Noche Madencilik Gıda Turizm İnşaat Tic. ve San. A.Ş. bünyesinde üretilen doğal kaynak suyu markasıdır.Bademler Şirketler Grubu bünyesindeki firma Ankara merkezlidir ve ürünlerini Kırşehir’deki fabrikasında üretmektedir ve 17 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Öküz Burger",
+    "description": "Öküz Burger, 2014 yılında şirket birleşmesiyle kurulmuş olan Inception Global Gıda A.Ş. bünyesindeki hamburger zinciri markasıdır.Müşterilerine menü alımlarında sınırsız içecek sunmaktadır.Firma Ankara merkezlidir. Türkiye’nin pek çok şehrinde ve Amerika ile Irak’ta toplam 50’nin üzerinde şubelere sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Lovense",
+    "description": "Lovense2019 yılında kurulmuş olan Hytto Pte. Ltd. bünyesindeki yetişkinler için yapay aletler, masaj ürünleri, şarj kabloları markasıdır.Hytto Pte. Ltd. Singapur merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  },
+  {
+    "company": "Alas Ev Tekstil",
+    "description": "Alas2000 yılında kurulmuş olan Alas Ev Tekstil Ltd. Şti. bünyesindeki ev tekstil ürünleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini İstanbul’da bulunan 6 bin metrekarelik fabrikasında üretmektedir ve 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Skip Deterjan",
+    "description": "Skip2020 yılında iki şirketin birleşmesiyle kurulmuş olan Unilever PLC bünyesinde üretilen çamaşır tozu, çamaşır deterjanları markasıdır.Unilever PLC İngiltere merkezlidir. Türkiye’de Unilever San. ve Tic. Türk A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tempo Candy",
+    "description": "Tempo Candy1976 yılında kurulmuş olan Tempo Şekerleme San. ve Tic. Ltd. Şti. bünyesinde üretilen kuru atıştırmalıklar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Robi Havlu",
+    "description": "Robi1996 yılında kurulmuş olan Yöntem Gıda İhtiyaç Maddeleri Nakliye ve Kağıtçılık Üretim Paz. ve Tic. Ltd. Şti. bünyesinde üretilen içten çekmeli jumbo ve mini tuvalet kağıdı, dispenser havlu markasıdır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Firma Kocaeli merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Valeo",
+    "description": "Valeo, 1923 yılında kurulan Valeo S.A. bünyesindeki otomobil yedek parçaları markasıdır.Ürün yelpazesi binek otomobiller, hafif ticari araçlar, ağır vasıtalar, otobüsler ve yolcu otobüslerini kapsamaktadır.Valeo S.A. Fransa merkezli bir şirkettir. 29 ülkede faaliyet göstermektedir. Valeo’nun Bursa’da birer Ar-Ge ve tasarım merkezi ile 3 üretim tesisi, İstanbul’da ise dağıtım platformu bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2023-01-09"
+  },
+  {
+    "company": "Longchamp Paris",
+    "description": "1948 yılında kurulan Groupe Longchamp bünyesindeki lüks deri eşyalar ve çanta markasıdır.Groupe Longchamp Fransa merkezlidir ve ürünlerini 80 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2024-07-09"
+  },
+  {
+    "company": "Yalçın Dorse",
+    "description": "Yalçın Dorse, 1977 yılında Yalçın Şentürk tarafından kurulan Yalçın Dorse Damper San. ve Tic. Ltd. Şti. bünyesindedir. Yalçın Dorse 2 akstan 10 aksa varan, esnek üretim programına sahip özel araç üreticisidir.Firmamız üretiminin yüzde 60’ını 4 kıtada 40 ülkeye ihraç etmektedir.Ürünlerinde bağımsız hidrolik, salınır hidrolik, hidrolik dengeleyici, hava, makas ve tandem gibi bir çok süspansiyon sistemlerini uygulamaktadır.8 bin 200 metrekarelik kapalı alanda üretim yapıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Onduline",
+    "description": "Onduline, 1944 yılında kurulan Onduline Group bünyesindeki, çatı kaplama ve su yalıtımı markasıdır.Hafif çatı kaplama ve kiremit altı levhalarında dünyanın ilk üreticisidir.Onduline, 9 ülkede 11 fabrikasıya (Fransa, Türkiye, Rusya, İspanya, Polonya, Malezya, Brezilya ve Amerika) ürettiği ürünleri 43 ülkede satılıyor.Fransa merkezli Onduline, 1994 yılında Türkiye’de yüzde 100 Fransa sermayeli Onduline Avrasya A.Ş.’yi kurdu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2020-10-27"
+  },
+  {
+    "company": "Perçem",
+    "description": "Perçem, 1974 yılında kurulan Biokozmetik Ltd. Şti. bünyesinde üretilen şampuan ve saç kremi, saç spreyi ve köpüğü, oksidan krem, limon kolonyası, traş kolonyası, after shave balsam, aseton, sir ağda, el ve cilt bakım kremi markasıdır.Tamamı Türk sermayesinden oluşan Bio kozmetik, Perçem markalı ürünlerini modern üretim tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

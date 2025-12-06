@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ferragamo",
+    "description": "Ferragamo, 1997 yılında kurulan Ferragamo Parfums Spa bünyesinde üretilen parfüm markasıdır.Ferragamo Parfums Spa. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Embryolisse",
+    "description": "Embryolisse, 1950 yılında kurulan Groupement Des Laboratoires Francais/Soras bünyesinde üretilen yüz ve vücut bakım ürünleri markasıdır.Embriyolisse ürünleri çiçek ve meyvelerden üretilen bitki kökenli aktif maddelere dayanmaktadır. Paraben içermez.Groupement Des Laboratoires Fransa merkezlidir ve ürünlerini Fransa’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2023-07-04"
+  },
+  {
+    "company": "Zenix",
+    "description": "Zenix, 1958 yılında Arc International Group bünyesinde üretilen ev eşyaları veya mutfak gereçleri ve kaplar, işlenmemiş veya yarı çalışan cam, cam, porselen ve toprak diğer sınıflarda yer almayan yani cam kutuları, şamdanlar, içme gemileri, içme bardakları, gözlük, cam kutular, şişeler, opaline cam, porselen eşya, toprak eşya, porselen, terra-cotta veya cam sanat eserleri, porselen veya cam heykelcikleri, şişeler, parfüm atomizers, parfüm buharlaştırıcılar, markasıdır.Arc International Group’un Fransa, Amerika, İspanya ve Çin’de üretim tesisleri bulunmaktadır. Şirket hisselerinin yüzde 80’i Amerikalı Peaked Hill Partners ile yüzde 20 hissesi Durand ailesine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Soundcraft",
+    "description": "Soundcraft, 1973 yılında kurulan Harman International Industries Ltd. bünyesindeki ses miksaj konsolları, dijital ses, analog miksaj konsolları, dijital miksaj konsolu ve dijital yılanlar markasıdır.Harman International Industries Ltd. 2016 yılında Güney Kore merkezli Samsung Electronics Co. Ltd. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2022-04-07"
+  },
+  {
+    "company": "Ledlenser",
+    "description": "Ledlenser1993 yılında kurulmuş olan Ledlenser GmbH & Co. KG bünyesindeki fener, el feneri, kafa ışığı, çalışma lambası, güç bankası, LED aydınlatma ürünleri ve aksesuarlar markasıdır.Ledlenser GmbH & Co. KG Almanya merkezlidir. Ürünleri Almanya’da tasarlanmakta ve Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2024-09-15"
+  }
+]

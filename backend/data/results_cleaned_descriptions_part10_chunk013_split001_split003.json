@@ -1,0 +1,51 @@
+[
+  {
+    "company": "BGG",
+    "description": "2000 yılında Scott Alden tarafından kurulmuş olan BoardGameGeek LLC. bünyesindeki oyun severler için masa ve kart oyunları, incelemeleri sunan oyun veritabanıdır.BoardGameGeek LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Celleanser",
+    "description": "Celinger Co. Ltd. bünyesinde üretilen cilt, vücut bakım ürünleri ve kokular markasıdır.Celinger Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Buzil",
+    "description": "1907 yılında kurulmuş olan Buzil-Werk Wagner GmbH & Co. Kg bünyesinde üretilen temizleme kimyasalları markasıdır.ISO 9001, ISO 14001, ISO 45001 Helal belgelerine sahiptir.Buzil-Werk Wagner GmbH & Co. Kg Almanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Baleno",
+    "description": "2005 yılında kurulmuş olan Baleno Orman Ürünleri, Mobilya, Koltuk, Mobilya Malzemeleri, Nalburiye Tic. ve San. Ltd. Şti. bünesinde üretilen ağaç bazlı panel mdf, yonga levha, laminat parke, kapı paneli markasıdır.Bursa merkezli firma Alim Grup bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aylina",
+    "description": "2022 yılında kurulmuş olan Aylina Gıda Lojistik İç ve Dış San. Tic. Ltd. Şti. bünyesinde üretilen kakaolu bisküvi, cips kaplı çikolata, şeker kaplamalı kakaolu draje markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

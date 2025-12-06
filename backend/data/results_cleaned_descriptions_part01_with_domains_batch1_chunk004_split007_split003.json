@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Diadermine",
+    "description": "Diadermine 1904 yılından beri faaliyet gösteren cilt bakım ürünleri markasıdır.Cilt bakım ürünleri ile günlük bakım kremi ve temizleyici ürünleri ECARF ‏(Avrupa Alerji Araştırma Vakfı) tarafından onaylandığı için hassas cilde sahip kişiler tarafından kullanılabilir.Diadermine markası Alman kimya devi Henkel’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Avtotor Ülke",
+    "description": "Avtotor markası 1996 yılında kuruldu. Otomobil üreticileri için modeller üretir ve kurulumunu yapar. Önceden boyalı gövdelerin, alt montajını, teker ve lastik gibi parçaların montajını yapar.Avtotor Rusya merkezli bir markadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Schaub Lorenz",
+    "description": "Schaub Lorenz, Carl Lorenz ve Georg von Schaub’ın elektronik şirketlerinin 1955 yılında birleştirilmesiyle kuruldu.Birçok elektronik ürün üreten Schaub Lorenz, Türkiye’de siyah beyaz televizyonlarıyla tanınan bir Alman markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dettol",
+    "description": "Dettol, 1936 yılında, ilk kez bir cerrahi işlemde cildin temizleme ve dezenfeksiyonu için kullanıldı. Reckitt Benckiser tarafından üretilen hijyen ürünleri markasıdır.Reckitt Benckiser (rb), merkezi İngiltere ve Galler olan, ev ve kişisel bakım ürünleri üreten çok uluslu bir firmadır. Ürünleri dünyanın 30’dan fazla ülkesinde üretiliyor ve 100’den fazla ülkede satılıyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "SenSun",
+    "description": "SenSun 1970 yılında İzmir’de üretilmeye başlanan gazoz markasıdır.Sensun markası Amerikan merkezli Coca Cola’ya aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-06-09"
+  }
+]

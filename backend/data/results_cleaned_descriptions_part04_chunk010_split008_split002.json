@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Chilwee",
+    "description": "Chilwee, 1998 yılında kurulan Chaowei Power Co., Ltd. bünyesinde üretilen motive pil ve kurşun-asit batarya, Lityum-İyon batarya markasıdır.Elektrikli bisikletler, elektrikli motosikletler, elektrikli araçlar ve piller için mühürlü kurşun asit piller ve lityum-iyon piller tedarik etmektedir. ISO 9001 belgesine sahiptir.Chaowei Power Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Smith’s Edgesport",
+    "description": "Smith’s Edgesport 1886 yılında kurulan Smith’s Consumer Products, Inc. bünyesinde üretilen bıçak bileme makineleri, spor bıçakları markasıdır.Bıçak ve makas bileme ürünleri ile spor, kamp, balıkçılık ve genişletilmiş ev artı manuel ve elektrikli ev eşyaları için kullanılabilir.Smith’s Consumer Products, Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jennair",
+    "description": "Jennair, 1893 yılında Frederick Maytag tarafından kurulan Maytag Incorporation bünyesinde üretilen endüstriyel fanlar, mikrodalga fırınlar, buzdolapları, bulaşık makineleri ve küçük ev aletleri markasıdır.2006 yılında Maytag Incorporation, Amerika merkezli Whirlpool Corporation ile birleşti. Ürünlerini Amerika’da 14 fabrikada üretmektedir.Bünyesindeki markalar;AdmiralAmanaCaloricDynastyGaffers & SattlerGlenwoodHardwickHolidayInglisJadeJenn-AirLittonMagic ChefMenu MasterModern MaidNorgeSunray",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lazika",
+    "description": "Lazika, 2019 yılında kurulan Lazika Gıda San. Turizm ve Tic. Ltd. Şti. bünyesinde el yapımı olarak üretilen çay, siyah çay, el yapımı yeşil çay, el yapımı beyaz çay, yayla çaylı siyah çay, bergamutlu siyah çay, çaylı çikolata markasıdır.Firma doğal ve el yapımı çaylar üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alveon",
+    "description": "Alveon, 1975 yılında kurulan Şahbaz Isı San. Tic. A.Ş. bünyesinde üretilen soğutucular, ısıtıcılar, küçük ev aletleri markasıdır.Firma Kayseri OSB’de 33 bin metrekarelik açık, 10 bin metrekarelik kapalı alanda yayık makinesi, alüminyum radyatör, panel radyatör,havlupan ve elektrikli yağlı radyatör imalatı yapmaktadır.Bünyesindeki markalar;AlveonBrunetta Aluminium RadiatorErgSis ŞahbazSuite",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

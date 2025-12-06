@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Okito Giyim",
+    "description": "Okito, 2014 yılında kurulmuş olan Okito Brand LLC bünyesindeki tişört, şapka, pantolon, ceket, sweatşört, kazak, palto gibi giyim ürünleri markasıdır.Okito Brand LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Maisons du Monde",
+    "description": "Maisons du Monde, 1996 yılında kurulmuş olan Maisons du Monde SAS bünyesindeki mobilya ve ev dekorasyonu markasıdır.Maisons du Monde SAS Fransa merkezlidir.Hissedarları:Teleios Capital Partners GmbH (yüzde 27,4)Majorelle Investments SARL (yüzde 25,3)Maisons du Monde S.A. (yüzde 6,77)FIAM LLC (yüzde 4,57)Fidelity Management & Research Co. LLC (yüzde 4,44)The Vanguard Group, Inc. (yüzde 2,89)Norges Bank Investment Management (yüzde 2,56)Dimensional Fund Advisors LP (yüzde 1,69)S.W. Mitchell Capital LLP (yüzde 1,36)BlackRock Fund Advisors (yüzde 1,09)",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Camile Bloch",
+    "description": "Camile Bloch, 1929 yılında kurulmuş olan Chocolats Camille Bloch SA bünyesinde üretilen çikolata markasıdır.Fasulyeden bara çikolata spesiyaliteleri üretmektedir. Kakao çekirdekleri, fındıkları ve bademleri kızartıp kendi çikolatasını üretmektedir.Chocolats Camille Bloch SA İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Garofalo",
+    "description": "Garofalo, 1920 yılında kurulmuş olan Pastificio Lucio Garofalo S.p.A. bünyesinde üretilen glutensiz makarna, makarnalık buğday irmikli makarna, organik tam makarnalık buğday irmiği markasıdır.Pastificio Lucio Garofalo S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Hastens",
+    "description": "Hastens, 1852 yılında Pehr Adolf Janson tarafından kurulmuş olan Hastens Sangar AB bünyesindeki yataklar, yatak takımları, nevresim, yastık ve yaşam tarzı aksesuarları markasıdır.Hastens Sangar AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

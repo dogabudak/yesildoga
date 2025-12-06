@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Adva",
+    "description": "Adva, 1994 yılında Brian Protiva tarafından kurulan ADVA Optical Networking SE bünyesindeki veri, depolama, ses ve video hizmetleri için ağ donanımı sağlayan bir telekomünikasyon markasıdır.ADVA Optical Networking SE Almanya merkezlidir ve üretim tesisi Almanya’da kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Milangaz",
+    "description": "Milangaz1960 yılında kurulmuş olan Likitgaz Dağıtım ve Endüstri A.Ş. bünyesindeki lpg markasıdır.2020 yılında OYAK Akaryakıt ve LPG Yatırım A.Ş. tarafından satın alınmıştır.Firma İstanbul merkezlidir. Hatay’da tüp imalat fabrikasına sahiptir.Bünyesindeki markalar;GüneşgazLikidgazMilangazMilgazMutfakgazÖzgazVillagaz",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-02"
+  },
+  {
+    "company": "Lee",
+    "description": "Lee, 1889 yılında Henry David Lee tarafından kurulan kot pantolon markasıdır. 2019 yılında uluslararası giyim markalarını bünyesinde bulunduran VF Corporation bünyesine geçmiştir.VF Corporation Amerika merkezlidir.Bünyesindeki markalar:20X7 for all MankindBulwark Protective ApparelChef DesignsChicEagle CreekEastpakElla MossHorace SmallJanSportKipling BrandLee JeanslucyMajestic AthleticNapapijriNauticaRed KapReef sandalsRock & RepublicRustlersSmartWoolSplendidThe Force (Horace Small)The North FaceTimberlandVansWrangler",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-11-27"
+  },
+  {
+    "company": "Isopure",
+    "description": "Isopure, 1984 yılında kuruldu. Dünyanın en büyük besin takviyeleri üreticisi Glanbia tarafından satın alınmıştır.Isopure yüzde 100 Whey Protein izolesi kullanarak en saf protein tozunu üretir.Toz ve sıvı formda ürünler üreten Glanbia; spor beslenmesi, peynir, süt ürünleri, süt ürünleri içermeyen malzemeler ile vitamin ve mineral premiksleri alanında 32 ülkede faaliyet gösteren İrlandalı küresel beslenme grubudur.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Arzen",
+    "description": "Arzen, 1985 yılında Mustafa Berber tarafından kurulan Arzen Kozmetik bünyesindeki bitkisel yağ ve sular ile otel ve spa kozmetiği markasıdır.Ürünleri 13 ülkeye ihraç etmektedir. ISO 9001 ve GMP belgelerine sahiptir.Birçok kozmetik firması için fason üretimler yapmaktadır.Bünyesindeki markalar:ArzenAyschaItırayNazar Spa",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

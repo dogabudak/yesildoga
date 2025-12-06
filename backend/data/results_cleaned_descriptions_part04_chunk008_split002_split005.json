@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Delma",
+    "description": "Delma, 1924 yılında Adolf ve Albert Gilomen tarafından kurulan Delma Watch Ltd. bünyesinde üretilen saat markasıdır.Delma Watch Ltd. İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Alsterhaus",
+    "description": "Alsterhaus, 1912 yılında kurulan mağaza markasıdır. Müşterilerine moda, güzellik, yaşam tarzı, yiyecek ve içeceklerde yeni ve orijinal ürünler sunmaktadır.Alsterhaus, Avusturyalı Signa Holding ve Taylandlı Central Group’un ortak olduğu Kadewe Group Gmbh bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "ÇÇS",
+    "description": "ÇÇS, 1984 yılında İrfan ve Asip Çavuşoğlu tarafından kurulan Çavuşoğlu Çanta San. ve Tic. Ltd. Şti. bünyesindeki çanta ve valiz markasıdır.Firma okul sırt çantası, kadın ve evrak çantası üretirken ayrıca çanta ithal etmektedir. Valiz fabrikasına sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dolap",
+    "description": "Dolap, 2009 yılında kurulan DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş. bünyesindeki ikinci el kıyafetlerin satıldığı platformdur.2016 yılında kurulan Dolap, 2018 yılında DSM Grup bünyesine katıldı.2018 yılında DSM Grup Danışmanlık İletişim ve Satış Tic. A.Ş.’nin tek kontrolü Çin merkezli Alibaba.com Singapore E-Commerce Private Limited oldu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "VDL Bus & Coach",
+    "description": "VDL Bus & Coach, 2005 yılında VDL Bus Groep’in bir devamı olarak kurulan otobüs ve tur arabaları üreticisidir.Şirket kullanılmış otobüslerin ticaretinde aktiftir.Belçika ve Hollanda’da üretim tesislerine sahiptir. VDL Bus Groep Hollanda merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

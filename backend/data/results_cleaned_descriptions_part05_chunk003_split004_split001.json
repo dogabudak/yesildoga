@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Sirrac For You",
+    "description": "Sirrac For You, 1975 yılında kurulan Sirrac Aydınlatma Elektrik Müşavirlik Mühendislik İnşaat San. ve Tic. Ltd. Şti. bünyesindeki aydınlatma ürünleri markasıdır.Firma Konya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pellini",
+    "description": "Pellini, 1922 yılında kurulan Pellini Caffe S.p.a. bünyesindeki kahve markasıdır.Arabica kahvesi kullanmaktadır. Koşer ve ISO sertifikalarına sahiptir.Pellini Caffe S.p.a. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir. Dünya çapında 30 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Vackerlite Aydınlatma",
+    "description": "Vackerlite Aydınlatma, 2017 yılında kurulan Vackerlite Aydınlatma San. Tic. Ltd. Şti. bünyesindeki led, projektör, led aydınlatma, etanj, spot, ray spot markasıdır.Firma İstanbul merkezlidir. LED aydınlatma için entegre bir tesiste üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Propalm",
+    "description": "Propalm, 1987 yılında kurulan Propalm Industrial Co. Ltd. bünyesinde üretilen bisiklet, spor malzemeleri, motorlu bisiklet ve el aletleri için sap ürünleri markasıdır.Propalm Industrial Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Modüled",
+    "description": "Modüled, 2007 yılında kurulan Modüled Elektronik İnş. San. Tic. A.Ş. bünyesindeki LED’li aydınlatma armatürleri markasıdır.Ürün yelpazesinde led, solar, güneş enerjili aydınlatma, led’li sokak, park bahçe armatürleri, sokak armatürü, projektör, led projektör, wallwasher, park, bahçe aydınlatma, led lamba, led ampul yer almaktadır.Ankara merkezli firma ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

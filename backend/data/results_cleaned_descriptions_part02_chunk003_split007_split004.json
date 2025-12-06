@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Setra",
+    "description": "Setra, Daimler AG grubuna ait 1995 yılında kurulan EvoBus GmbH bünyesindeki otobüs markasıdır.EvoBus, Almanya’nın en büyük otobüs fabrikasına sahiptir. Türkiye’de lisanslı otobüsler de üretilmektedir.Daimler AG Alman otomobil endüstrisinde ileri gelen şirketlerden birisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "İkarus",
+    "description": "İkarus, 1895 yılında kuruldu. İkarus 2006 yılında Muszertechnika-Holding Zrt bünyesine geçen otobüs markasıdır.Muszertechnika-Holding Zrt Macaristan merkezli bir şirkettir.İkarus markalı otobüsler Macaristan’ın çeşitli yerlerinde fabrikalarda üretilmektedir. Elektrikli otobüsler ise Çin ortaklığında üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HU",
+    "updated_date": "2019-12-21"
+  },
+  {
+    "company": "M.P Ayakkabı",
+    "description": "M.P Ayakkabı Hangi Ülkenin Malı MarkasıM.P, 1987 yılında Kazım Sağın tarafından kurulan Pames Ayakkabıcılık İth. İhr. San. ve Tic. A.Ş. bünyesinde üretilen ayakkabı markasıdır.Firma İstanbul merkezlidir. Ürünlerini 44 bin metrekarelik fabrikasında üretmektedir ve birçok ülkeye ihraç etmektedir.Bünyesindeki markalar:ArowArow KidsDiscDiwoFlycatHatunyLa GearM.P ClubM.P. OneMasculinMpMp StylePassportPotisSmashUs 77",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-20"
+  },
+  {
+    "company": "Arora",
+    "description": "Day.Tük. Mal. San. ve Tic. Ltd. olarak faaliyet göstermeye başladı.Scooter, Motosiklet, Elektrikli Bisiklet ve Atv’lerin metal aksamları ve şasilerinin üretimi robotik makinelerle gerçekleştirilmektedir.Aynı zamanda üretim hattı bulunmaktadır. Aylık üretim kapasitesi 5 bin adet motosiklet, elektrikli bisiklet ve ATV’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arar",
+    "description": "Arar, 1973 yılında Arif Tenikeci tarafından kurulan Arar Makina San. Tic. A.Ş. bünyesine ait un, irmik, mısır değirmeni makineleri markasıdır.Arar Makina Çorum OSB’de 3 bin 500 metrekare kapalı 20 bin metrekare açık alana sahip tesislerinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Necklife",
+    "description": "Necklife, 2003 yılında kurulan Almet Metroloji İç ve Dış Tic. Ltd. Şti. bünyesinde ithal edilen dijital, mekanik teraziler, baskül markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;A AlmetLavionNeckNecklifePakturkPropackPropakSs Wock",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fimi",
+    "description": "Fimi, 2014 yılında kurulan Fimi Technology Ltd. bünyesinde üretilen drone ve aksiyon kameraları markasıdır.Kablosuz bağlantı, mekatronik tasarım, gimbals ve görüntü sabitleme sistemi, bilgisayar görüşü ve diğer alanlar dahil olmak üzere drone endüstrisindeki tüm sistem için yüzlerce patente sahiptir.Fimi Technology Ltd. Çin merkezli Xiaomi Corporation bünyesindedir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "THK",
+    "description": "THK, 1971 yılında kurulan THK Co. Ltd. bünyesinde üretilen makine parçaları markasıdır.Şirketin amiral gemisi ürünü, doğrusal hareket kılavuz rayı olarak adlandırılan çıkarılabilir parçalara ve vidaya giden raydır. Bu parçalar mekanik ve otomobil parçaları imalatında ve diğer uygulamalarda kullanılır. Ayrıca büyük binalarda sismik izolasyon aparatında kullanılırlar.THK Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Jianshe",
+    "description": "Jianshe, 1889 yılında kurulan Chongqing Jianshe Motorcycle Co. Ltd. bünyesinde üretilen motorsikletler, mopetler, bisikletler, skuter tipi motosikletler markasıdır.Şirket, klima kompresörlerinin, motosikletlerinin ve parçalarının geliştirilmesi, üretimi ve satışı konusunda yüzde yüz iştiraki ve 5 özsermaye ortak girişimine sahiptir.Chongqing Jianshe Motorcycle Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Crazy Decoy",
+    "description": "Crazy Decoy, 2014 yılında kurulan ATEF Outdoor ve Av Malzemeleri San. Tic. Ltd. Şti. bünyesinde ithal edilen kanatlı (motorlu) ve kanatsız mühre markasıdır.Firma Kahramanmaraş merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

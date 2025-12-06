@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Fuda Matik",
+    "description": "Fuda, 2014 yılında kurulan Polo Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen deterjan, çamaşır bakım ürünleri, sıvı çamaşır deterjanı, yumuşatıcı, elde yıkama toz deterjan markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Konya merkezlidir.Bünyesindeki markalar;EmoolFudaLoxmaxPhiscos",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wearlink+",
+    "description": "Wearlink+, 1977 yılında Seppo Saynajakangas tarafından kurulan Polar Electro Oy bünyesindeki akıllı bileklikler ve aksesuarları markasıdır.Polar Electro Oy Finlandiya merkezlidir. Firma ürünlerini Finlandiya’da üretmekte ve 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  },
+  {
+    "company": "Profuse High Quality Lipo Battery",
+    "description": "Profuse, 2011 yılında kurulan İnfotek Elektronik San. ve Tic. Ltd. Şti. bünyesindeki fanlar, şerit led, güneş pili, li-ion şarjlı pil, mbot pili, lipo batarya-pil markasıdır.Firma İstanbul merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Xeno Energy",
+    "description": "Xeno, 1991 yılında kurulan Xenoenergy Co. Ltd. bünyesinde üretilen 3.6 V lityum tiyonil klorür piller markasıdır.DIN EN ISO 9001 belgesine sahiptir. Üstün voltaj davranışı, sıcaklık kapsamı, en düşük deşarj ve dayanıklılığa sahiptir.Xenoenergy Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Enersys",
+    "description": "Enersys, 1986 yılında kurulan Enersys Energy Products Inc. bünyesindeki batarya ürünleri, yedek güç, havacılık ve savunma bataryaları, şarj cihazları, elektronik güç ekipmanları, çok çeşitli pil aksesuarları, DC güç ürünleri markasıdır.Enersys Energy Products Inc. Amerika merkezlidir.Bünyesindeki markalar;AlphaCyclonDatasafeGenesisHawkerOdysseyPowersafe",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

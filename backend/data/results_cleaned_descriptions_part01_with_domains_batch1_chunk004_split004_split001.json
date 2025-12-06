@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Xerox",
+    "description": "Xerox 1906 yılında Joseph C. Wilson tarafından The Haloid Photographic Company adıyla kurulan ve bir müddet sonra adını Haloid Xerox olarak değiştiren ve 1961 yılında adını bir kez daha değiştirerek günümüzdeki Xerox Corporation yapan bir teknoloji şirketidir.Xerox markasının; fotokopi, tarayıcı, yazıcı ve projektör gibi donanımları ön plana çıkarken aynı zamanda özel yazılımlar da üreten bir Amerikan firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Calvin Klein",
+    "description": "Calvin Klein, 1968 yılında Calvin Klein tarafından kurulmuş olan kot pantolon, iç giyim, parfüm, saat markasıdır.Calvin Klein 2002 yılında Amerika merkezli Phillips-Van Heusen Corporation tarafından satın alındı.Bünyesindeki markalar;Calvin KleinOlgaTommy HilfigerTrue & CoWarners",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-07-06"
+  },
+  {
+    "company": "DuckDuckGo",
+    "description": "DuckDuckGo, 2008 yılında Gabriel Weinberg tarafından kurulan kişisel gizliliğe önem veren bir arama motorudur.Kullanıcıların IP adreslerini kaydetmemektedir. Amerika’da kurulan DuckDuckGo Perl dilinde programlanmıştır ve FreeBSD üzerinde çalışmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2018-08-12"
+  },
+  {
+    "company": "Massey Ferguson",
+    "description": "Massey Ferguson, 1847 yılında Daniel Massey tarafından basit tarım aletleri tamir atölyesi olarak kurulan, 1953 yılında Massey-Harris ortaklığı ile Ferguson Limited’in birleşmesiyle genişleyen tarım alet ve makinaları üreticisidir.Markanın MF 5600, MF 6600, MF 7600 ve MF 8700 modelleri Fransa’da, MF 2600 modeli Türkiye’de diğer modeller ise Brezilya’da üretilmektedir.1990 yılında kurulan Amerikan şirketi AGCO Corperation’a ait bir markadır. AGCO, müşterilerine traktör, biçerdöver, balya makineleri, kimyasallama makineleri, yem makineleri, toprak işleme makineleri, diğer ekipmanlar ve parça ürünlerini sunmaktadır.Bünyesindeki markalar:ChallengerFendtGSIMassey FergusonValtraFellaFuseGleanerSunflowerWhite PlantersAGCO PartsAGCO PowerAGCO ProtectionAGCO Trader",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-05-21"
+  },
+  {
+    "company": "Bonibon Markanın Firmanın",
+    "description": "Bonibon Türkiye’nin ilk şeker kaplı kakaolu drajesidir. 2012 yılında Milka markasının altında Milka çikolatası içeren ilk drajesi oldu.Milka Amerikan merkezli Mondelez International şirketi tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2018-08-23"
+  }
+]

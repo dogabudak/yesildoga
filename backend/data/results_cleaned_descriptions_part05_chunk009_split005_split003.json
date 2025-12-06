@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cubic Fun Toys",
+    "description": "Cubic Fun Toys, 1995 yılında kurulan Cubicfun Toys Industrial Co. Ltd. 3 boyutlu bulmaca, kendin yap oyuncakları, eğitici oyuncaklar markasıdır.Cubicfun Toys Industrial Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. 80’den fazla ülkede küresel bir varlığa sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gorewear",
+    "description": "Gorewear, 1958 yılında Bill Gore tarafından kurulan W. L. Gore & Associates Inc. bünyesindeki bisiklet kıyafetleri, endüstriyel giyim, ayakkabı ve spor giyim ürünleri markasıdır.Su geçirmez, nefes alabilen Gore-Tex genişletilmiş PTFE kumaşların geliştiricisi olarak bilinir.W. L. Gore & Associates Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mona",
+    "description": "Mona, 1969 yılında kurulan K – Mail Order Gmbh & Co. KG bünyesindeki kadın giyim, ayakkabı, iç giyim ve aksesuar markasıdır.Moda kıyafetlerini çevrimiçi olarak satmaktadır. Şirket, kadın ve erkek giyim, takı, ayakkabı, çanta, spor moda aksesuarları, ev mobilyası ve tekstil ürünleri ve diğer ilgili ürünler de dahil olmak üzere ürünler sunmaktadır.K – Mail Order Gmbh & Co. KG Almanya merkezlidir.Bünyesindeki markalar;A.C. HarrisonAmy VermontApotheke Wellsana Weil Ihre Gesundheit Zahlt!Basically YouBb BabistaBlue MoonBoston ParkByCabrioletCarlaCasamaxxCome OnCondorContinaDi MarcoDiemerElene ExclusivEmotions By Amy VermontEyck FreimuthFascinataFaszinataFemme SevenFly AwayG GregoryGraciaGranat-FitGreen WalkingHappy SizeHerdmeisterJuliettaKim KaraKomplimente Dress To Impress!Kristina KirnLa MiaLaura KentLbLiva LoopM. CollectionMae & MathildaMarco GiordaniMeyerMeyer ModeMiamodaMicrocomfortMonetteMooshausNaturlauferPaolaRebecca Von LengfeldRivageRoger KentRoman BergerRoyanaSignora MSimoneStil2goStilagoStromeyerStudioTactTaschenherzThermonaTop HomeUniversumUno Due TreVamosVamossVanacromVerona Di MarcoWebschatzWeissbachWellsanaWellsana-ApothekeWolkenstundenZ Zipups",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Cuppone",
+    "description": "Cuppone, 1963 yılında Lorenzo, Luigi ve Paolo Cuppone tarafından kurulan Cuppone F.lli S.r.l. bünyesinde üretilen elektrikli, gazlı hamur pizza pişirme fırınları ve ekipmanları, fırınlar için aksesuarlar ve yedek parçaları markasıdır.Pizza, fırıncılık ve pasta yapımı için kalıplama makineleri, sıcak pizza, spiral karıştırıcılar, yuvarlayıcılar gibi ürünler üretmektedir.Cuppone F.lli S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Gamma Piu",
+    "description": "Gamma Piu, 1988 yılında kurulan Gamma Piu S.r.l bünyesindeki profesyonel saç kurutma makineleri, saç düzleştiriciler ve profesyonel fön makineleri, Saç Maşası, Saç kurutma makinesi aksesuarları, Profesyonel düzleştiriciler markasıdır.Gamma Piu S.r.l İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

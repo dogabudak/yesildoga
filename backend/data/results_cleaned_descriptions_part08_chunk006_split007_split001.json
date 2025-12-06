@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ervalinn",
+    "description": "Ervalinn, 2017 yılında kurulmuş olan Beka Pharma İlaç ve Kozm. Paz. San. Tic. Ltd. Şti. bünyesindeki anti aging serum, el ve yüz bakım kremi, göz çevresi serumu, kaş ve kirpik bakım serumu, kantaron merhemi, katı şampuan, nemlendirici dudak balsamı, roll-on, tırnak balsamı, vücut spreyi gibi kozmetik ürünler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rosecity",
+    "description": "Rosecity, 2009 yılında kurulmuş olan Zeki Erdoğan-Rosecity Kozmetik bünyesinde üretilen kozmetik ve cilt bakım ürünleri, kolonya markasıdır.Ürünleri yüzde 100 doğal gül ve lavanta içeriklidir.Firma Isparta merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maxx Wheels Oyuncak",
+    "description": "Maxx Wheels, 1985 yılında Cem Sunman tarafından kurulmuş olan Sunman Sanayi Mamulleri İthalat ve İhracat Tic. A.Ş. bünyesindeki model arabalar, oyun setleri, oyuncak araç, oyuncak helikopter ve uçaklar, oyuncak kamyon ve iş makineleri, oyuncak otobüs ve minibüsler, takı, moda tasarım seti, uzaktan kumandalı araçlar, yarış pisti markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Free Cat Mama",
+    "description": "Free Cat, Şok Marketler Tic. A.Ş. bünyesindeki kuru kedi mamaları markasıdır.Ürünleri doğal koruyucular ve antioksidanlar içermektedir.Ürünleri Türkiye’de üretilmektedir.Şok Marketler hissedarları:Turkish Retail Investments B.V. (yüzde 24,27) (Hollanda)Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş. (yüzde 23,66)European Bank For Reconsrtruction And Development (yüzde 5,72) (İngiltere)İstanbul Portföy Yıldız Serbest Özel Fon (yüzde 5,13)Diğer (yüzde 41,22)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-12-14"
+  },
+  {
+    "company": "Laudatio",
+    "description": "Laudatio, 1972 yılında kurulmuş olan Dirk Rossmann Gmbh bünyesindeki kahve, kahve kreması markasıdır.Dirk Rossmann Gmbh’nin yüzde 60 hissesi Rossmann Ailesine, yüzde 40 hissesi ise Hong Kong merkezli Hutchison Whampoa Limited bünyesindeki AS Watson Group’a aittir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

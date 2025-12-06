@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Starnut",
+    "description": "Starnut, 1975 yılında Ahmet Güven tarafından kurulan Fıstıkçı Gıda Pazarlama Tic. ve İmalat Ltd. Şti. bünyesinde üretilen antep fıstığı olmak üzere badem, ceviz, ve diğer endüstriyel kuruyemişler markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cettua",
+    "description": "Cettua, 1998 yılında kurulan Kovas Co. Ltd. bünyesinde üretilen güzellik maskeleri, kozmetik, yüz güzellik maskeleri markasıdır.Firma ek olarak, makyaj çıkarıcı havlu, salatalık pedleri ve yüz maskeleri vb. önceden nemlendirilmiş veya işlenmiş havlu, ped ve maske tipi ürünler üretmektedir.Kovas Co. Ltd. Güney Kore merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Sustenium",
+    "description": "Sustenium, İ.E. Ulagay A.Ş. bünyesindeki vitamin ve mineral takviyeleri markasıdır.Ürün glukoz şurubu ve jelatin içermez.2001 yılında İ.E. Ulagay A.Ş. hisselerinin büyük çoğunluğu İtalya merkezli Menarini Group tarafından satın alındı.Topkapı’daki üretim tesisinde Türkiye’de sunulan ürünlerin yüzde 97’sinin üretimini yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bittol",
+    "description": "Bittol, 2008 yılında kurulan Taha Kimya Kozmetik ve Tüketim Ürünleri San. Paz. Ltd. Şti. bünyesinde üretilen ıslak mendil, dezenfektan gibi ürünler markasıdır.Firma Gaziantep’te 25 bin metrekarelik 1. Sanayi Bölgesindeki fabrikasında ıslak mendil üretimektedir. Ayrıca plastik ürünleri yine Gaziantep’teki bir diğer fabrikasında üretmektedir. Üretiminin yüzde 80’ini çok sayıda ülkeye ihraç etmektedir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dreame Vacuum",
+    "description": "Dreame Vacuum, 2015 yılında Yu Hao tarafından kurulan Dreame Trading Co. Ltd. bünyesinde üretilen akıllı ev temizlik cihazları markasıdır.Dreame, kablosuz elektrikli süpürgeler, süpürme robotları üretmektedir.Dreame Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

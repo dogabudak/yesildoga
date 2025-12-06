@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Carglass",
+    "description": "Carglass, 1979 yılında kurulan D’Ieteren’in bir yan kuruluşu olan Belron Group’a ait olan araç cam, tamir ve değişim hizmetleri markasıdır.Türkiye geneline yayılmış 11 şube, 227 bayi ile hizmet vermektedir.Belçika merkezli D’Ieteren’in yan kuruluşu olan Belron Group S.A. bünyesindedir. Belron, 35’ten fazla ülkede faaliyet göstermektedir.Bünyesindeki markalar:AutoglassCarglassSafelite Autoglass",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "TRW",
+    "description": "TRW, 2012 yılında kurulan TRW Automotive Holdings Corp. bünyesindeki otomotiv yedek parçaları markasıdır.TRW; fren, direksiyon ve süspansiyon gibi ürünlerin tedarikçiliğini yapıyor.2014 yılında Almanya merkezli ZF Group tarafından satın alınan Amerika merkezli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nilfisk",
+    "description": "Nilfisk, 1906 yılında Peder Andersen Fisker ve Hans Marius Nielsen tarafından kurulan Nilfisk Holding A/S bünyesinde üretilen mobil basınçlı yıkama makineleri, temizlik ekipmanları ve tam temizleme sistemleri markasıdır.Çeşitli ülkelerde üretim tesisleri bulunan Nilfisk Holding A/S Danimarka merkezli profesyonel temizlik ekipmanları tedarikçisidir. Ürünleri 100’den fazla ülkede pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Carisa",
+    "description": "Carisa, 2003 yılında kurulan Radiart Isı Sistemleri Ltd. Şti. bünyesinde üretilen ısıtma üniteleri, havlupan, radyatör ve dekoratif aksesuarları markasıdır.Çelik, alüminyum ve paslanmaz çelik olarak radyatör ve aksesuar üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yonca",
+    "description": "Yonca, 1993 yılında kurulan Yonca Lines Ev Gereçleri ve Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen mutfak eşyaları markasıdır.304 (18/10) kalite çelik ve yanmaz-yapışmaz mutfak eşyaları üretmektedir.Ürünlerini Kahramanmaraş’ta 20 bin metrekarelik kapalı alanda üretmektedir.TSE ve ISO 9001 belgelerine sahiptir.Bünyesindeki markalar:A Dan Z YeAl GhandourAl HagaAl OmaraaAldenteAlkhomasyaAyperiEl HamamHamada El ZamekLanseLazurdeLinesLines ÇırağanLovexOscarOscar DistributionRaymondReyhanTebaYoncaYonca DilanYonca Lines",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

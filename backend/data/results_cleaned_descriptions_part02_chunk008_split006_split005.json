@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Tatseli Nevzat",
+    "description": "Tatseli ve Nevzat, 2014 yılında kurulan Tatseli Tatlıcılık San. Tic. A.Ş. bünyesindeki Kadayıf, Kemalpaşa, Peynir Tatlısı, Şekerpare, Baklavalık Yufka, Kalbura Bastı, Şambaba, Revani, Kurabiye, Güllaç, Helva, Erişte, Mantı, Tarhana, Yağlı Gevrek markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Twister Jeans",
+    "description": "Twister, 1995 yılında kurulan HVS Giyim San. Tic. A.Ş. bünyesindeki gömlek, etek, ceket, pantolon, tişört, mont, şort, kemer, bileklik, boxer, şapka markasıdır.Twister Jeans 40 ülkede marka tescili almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Badamlı",
+    "description": "Badamlı Hangi Ülkenin Malı MarkasıBadamlı, 1947 yılında kurulan MMC Gemiqaya Holding bünyesindeki maden suyu markasıdır.MMC Gemiqaya Holding Azerbaycan merkezlidir.Nahçıvan’ın, Badamlı köyünde bulunan maden suyu kaynağından üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Hamelin",
+    "description": "Hamelin, 1864 yılında kurulan Hamelin group bünyesindeki defterler, not defterleri, çizim pedleri, çizim kağıdı, günlükler, ciltler, dosyalar, klasörler, ayırıcılar, cepler, masa lambaları, cetveller markasıdır.Hamelin group Fransa merkezlidir. 9 ülkede 15 tesiste üretim yapmaktadır.Hamelin group bünyesindeki markalar:OXFORDELBAUNILUX",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Şitoğlu",
+    "description": "Şitoğlu, 1996 yılında kurulan Şitoğlu Gıda bünyesinde yüzde yüz doğal olarak üretilen Pekmez, Reçel, Tahin, Helva, Sos markasıdır.Ürünlerini Malatya’da 20 bin metrekarelik kapalı alanda üretmektedir. Migros, Bim, Şok ve Carrefour gibi zincirlerine özel etiket seçenekleri sunmaktadır.Şitoğlu, ISO, FSSC ve Helal gibi kalite sertifikalarına sahiptir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Somat",
+    "description": "Somat, 1962 yılında Henkel AG tarafından üretilen bulaşık makineleri için deterjanlar ve katkı maddeleri markasıdır.Henkel AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Forest Balm",
+    "description": "Forest Balm, 1930 yılında iki şirketin birleşmesiyle kurulan Unilever PLC bünyesindeki ağız hijyen ürünleri, doğal diş beyazlatma ve bakımı markasıdır.Unilever PLC İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Cleanline",
+    "description": "Cleanline, 1940 yılında kurulan Bunzl PLC group bünyesindeki temizlik ürünleri markasıdır.İşyeri ve endüstriyel, banyo, mutfak gibi alanları kapsayan temizlik ürünleri sunmaktadır.Ana müşteri pazarları arasında market, yemek servisi, temizlik ve güvenlik bulunmaktadır.Bunzl PLC group İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Croft & Barrow",
+    "description": "Croft & Barrow, KIN Inc. bünyesindeki kazak, elbise gömlek, çorap, ceket, mont, spor ceket, şort, kemer, kravat, pijama, bornoz, elbise gibi ürünler markasıdır.KIN Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Clevertouch",
+    "description": "Clevertouch, 1985 yılında kurulan Boxlight Corporation bünyesindeki eğitim kurumları ve işletmeler için etkileşimli teknoloji çözümleri sağlayıcısıdır.Şirket, etkileşimli ekranlar, işbirliği yazılımı, destekleyici aksesuarlar, profesyonel hizmetler, ses ve kampüs iletişim çözümleri dahil olmak üzere entegre çözüm paketini geliştirir. 32 dilde hizmet vermektedir.Boxlight Corporation Amerika merkezlidir. Ürünlerini 72 ülkeye pazarlamaktadır.Bünyesindeki markalar;ClevertouchMimio",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

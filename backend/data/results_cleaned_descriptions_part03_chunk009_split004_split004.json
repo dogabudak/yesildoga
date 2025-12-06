@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Evidea",
+    "description": "Evidea, 2008 yılında kurulan Evidea Mağazacılık A.Ş. bünyesindeki e-ticaret sitesi ve mağazalar zinciri markasıdır.Ürün yelpazesinde mutfak, ev tekstili, banyo, ev dekorasyon, tamamlayıcı mobilya, aydınlatma, banyo, elektrikli ev aletleri, ev yaşam ürünleri yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Modoko",
+    "description": "Modoko, 1969 yılında kurulan S.S. İstanbul Anadolu Yakası Doğrama ve Mobilyacilar Sistesi İşletme Kooperatifi bünyesindeki halı, perde, duvar kağıdı, mobilya aksesuarları, aydınlatma, bahçe mobilya ve aksesuarları markasıdır.150 bin metrekarelik alanda 350 mağazaya sahiptir. Ürünlerini yurt dışına ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Stop",
+    "description": "Dr. Stop, 2019 yılında kurulan Gold İlaç San. ve Tic. A.Ş. bünyesindeki cilt bakım ürünleri, jel kolonya markasıdır.Firma ISO 9001, ISO 22716 ve Helal belgelerine sahiptir.Bünyesindeki markalar:AnticorjelBorkemDr. StopProzerPiton JelRussian Glare",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meselli",
+    "description": "Meselli, 1923 yılında kurulan Erdoğan Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen kolonya, parfümeri ve esans markasıdır.Firma Isparta’da kendi içerikleriyle alkolsüz ürünler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Skullcandy",
+    "description": "Skullcandy, 2003 yılında Rick Alden ve Cris Williams tarafından kurulan Skullcandy Inc. bünyesindeki kulaklık, hoparlör, ses ekipmanları, kablosuz ses cihazları, müzikçalar, ses aksesuarları markasıdır.Skullcandy Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-08-10"
+  }
+]

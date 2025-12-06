@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Petburger",
+    "description": "2019 yılında kurulmuş olan Petburger Hayvancılık Yemcilik San. Tic. Ltd. Şti. bünyesindeki doğal çiğ köpek maması markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Güven Su",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Snake Eye Tactical",
+    "description": "1982 yılında kurulan Master Cutlery Inc. bünyesinde üretilen katlanır bıçaklar, yaylı yardımcı bıçaklar markasıdır.Master Cutlery Inc. Amerika merkezlidir. Ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vikos",
+    "description": "1990 yılında kurulmuş olan Epirotic Bottling Industry S.A. bünyesinde üretilen şişelenmiş su, doğal maden suyu, doğal mineralli içecekler, meşrubat ve buzlu çay markasıdır.Epirotic Bottling Industry S.A. Yunanistan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Be White",
+    "description": "1988 yılında kurulmuş olan Be Ceuticals SA bünyesindeki kozmetik ürünler markasıdır.ISO 13485 belgesine sahiptir.Be Ceuticals SA İsviçre merkezlidir ve ürünleri İsviçre’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dağlı Kestane Şekeri",
+    "description": "Dağlı Kestane Şekeri, 1975 yılında Selahattin Dağlı tarafından kurulan S. Dağlı Gıda Şekerleme San. Tic. Ltd. Şirketi bünyesinde üretilen şekerleme markasıdır.Bursa’da üretim yapan firma ürünlerinde glikoz şurubu kullanmıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sanus",
+    "description": "Sanus Foot, 2016 yılında kurulan Mostracı Ayakkabı Sanayi A.Ş. bünyesindeki ayakkabı iç tabanı markasıdır.Visco malzemeden üretilen hafızalı ayakkabı iç tabanı, alüminyum kalıplara enjeksiyon makinesi ile eklenen özel formülün kumaş ile birleşmesiyle oluşmaktadır. Üretilen iç taban, ayağın birebir şeklini alarak ayak tabanında oluşan basıncın azaltılmasını sağlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Redoxon",
+    "description": "Redoxon, Bayer Türk Kimya San. Ltd. Şti. bünyesinde üretilen takviye edici gıda ürünleri markasıdır.C, D vitamini ve çinko bağışıklık sisteminin normal fonksiyonunu destekler.Bayer Türk Kimya San. Ltd. Şti. 1954 yılından beri Türkiye’de faaliyet gösteren Almanya merkezli Bayer AG iştirakidir.Türkiye’de ürettiği ürünleri 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Buff",
+    "description": "Buff, Buff Asia Pacific bünyesindeki cep telefonu ekranı koruyucu markasıdır.Özel katmanlar, oluşan darbelerin veya çiziklerin etkilerini emerek cihazı korur.Buff Asia Pacific Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Pure Line",
+    "description": "Pure Line, Unilever firmasına ait olan 10 farklı çeşide sahip olan duş jeli markasıdır.Unilever PLC. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-26"
+  }
+]

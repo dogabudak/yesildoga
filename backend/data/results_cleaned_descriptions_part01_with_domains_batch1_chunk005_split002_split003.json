@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Lindt",
+    "description": "Chocoladefabriken Lindt & Sprungli AG, kısaca Lindt 1845 yılında Sprüngli ailesi tarafından kurulan çikolata ve şekerleme markasıdır.Lindt & Sprüngli İsviçre, Kilchberg’de; Almanya, Aachen’da; Fransa, Oloron-Sainte-Marie’de; İtalya, Induno Olona’da; Avusturya, Gloggnitz’de ve ABD, Stratham’da olmak üzere 6 fabrikaya sahip olan bir İsviçre şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Saba Tv",
+    "description": "Saba, 1989 yılında Mehmet Atmaca tarafından kurulan Ma Elektronik A.Ş. bünyesinde üretilen 4K, Ultra HD, Smart TV led televizyonlar markasıdır.Ürünlerini İstanbul’da üretmektedir.Bünyesindeki markalar;NordmendeOnvoSabaÇok sayıda yerli ve yabancı firmanın Saba markasıyla ürünleri bulunmaktadır, firmaları ayırt etmek için logolarına dikkat edilmelidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-07-15"
+  },
+  {
+    "company": "Perfetti Van Melle",
+    "description": "Perfetti Van Melle 2001 yılında Perfetti S.p.A. ve Van Melle BV şirketlerinin birleşmesiyle kurulan şekerleme, sakız üretimi ve dağıtımı yapan özel bir şirkettir.Dünya çapında 150’den fazla ülkede ürünleri satılmaktadır ve dünyanın en büyük üçüncü, başlıca Asya pazarlarında ise birinci şekerleme grubudur.İtalyan şirket Perfetti Van Melle, Rusya, Sri Lanka, Bangladeş, İspanya, Hindistan, Vietnam ve Çin’de yeni üretim birimleri kurarak Avrupa ve Asya’daki faaliyetlerini genişletmiştir.Türkiye’de ise 1988 yılında önce şirket ardından fabrikası kuruldu.Bünyesindeki Markalar:AirHeadsAlpenliebeBig BabolBrooklynCenter FreshCentre ShockChlormintChupa ChupsFilly FollyFriskFruittellaGoliaHappydentKleneMellerMentosSmintVigorsolVivident",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Mühle",
+    "description": "Mühle Hangi Ülkenin Malı MarkasıdırMühle 1945 yılında Hans-Jürgen Müller tarafından kurulan Hans-Jürgen Müller GmbH & Co şirketine ait bir tıraş ve erkek bakım ürünleri üreten markadır. Hjm markası MÜHLE’nin bir alt markasıdır. Alman firmayı üçüncü nesil aile yönetmektedir.Mühle ürünleri, dünyada Avrupa, Amerika, Çin ve Rusya’da satılmaktadır.Türkiye’de ise Bon İthalat İhracat Sanayi ve Tic. Ltd. Şti Mühle ürünlerinin resmi Türkiye temsilciliğini 2016 yılından beri yapıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Reuters Haber Ajansı",
+    "description": "“Reuters“1851 yılında kurulmuş olan haber ve bilgi ajansıdır.2008 yılından beri iki şirketin birleşmesiyle kurulan Kanada merkezli Thomson Reuters Corp. bünyesindedir ve 100’den fazla ülkede faaliyet göstermektedir.Hissedarları:Royal Bank Of Canada (yüzde 2,5)Fmr LLC (yüzde 1,5)Vanguard Group Inc. (yüzde 1,1)Bank Of Montreal (yüzde 1)Fil Ltd. (yüzde 0,95)Td Asset Management Inc. (yüzde 0,91)Jarislowsky Fraser Ltd. (yüzde 0,8)Mackenzie Financial Corp. (yüzde 0,79)Fiera Capital Corp. (yüzde 0,59)Connor Clark Lunn Investment Management Ltd. (yüzde 0,52)Manufacturers Life Insurance Company The (yüzde 0,47)Morgan Stanley (yüzde 0,42)Goldman Sachs Group Inc. (yüzde 0,34)Jpmorgan Chase Co. (yüzde 0,32)Clearbridge Investments LLC (yüzde 0,32)1832 Asset Management LP (yüzde 0,32)Cibc World Market Inc. (yüzde 0,29)Legal General Group PLC (yüzde 0,27)Citadel Advisors LLC (yüzde 0,27)Wcm Investment Management LLC (yüzde 0,24)Bank Of America Corp. (yüzde 0,20)Norges Bank (yüzde 0,19)Blackrock Inc. (yüzde 0,19)Cibc Asset Management Inc. (yüzde 0,17)Bank Of Nova Scotia (yüzde 0,17)Bünyesindeki markalar:ReutersSweet & MaxwellWest",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-08-21"
+  }
+]

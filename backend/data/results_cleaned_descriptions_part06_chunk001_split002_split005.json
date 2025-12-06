@@ -1,0 +1,44 @@
+[
+  {
+    "company": "SolidWorks",
+    "description": "SolidWorks, 1995 yılında Dassault Systemes S.A. bünyesinde üretilen katı modelleme bilgisayar destekli tasarım (CAD) ve bilgisayar destekli mühendislik (CAE) uygulamasıdır.Dassault Systemes S.A., Fransa merkezli Groupe Industriel Marcel Dassault SAS çatısı altındadır.Bünyesindeki markalar;3d Via3dexciteBioviaCatiaDelmiaEnoviaExaleadGeoviaNetvibesSimuliaSolidworks",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Optima Express",
+    "description": "Optima Express, 1982 yılında Renate Menoni Sverko tarafından kurulan Optima Tours Gmbh bünyesindeki kuşetli oto tren hizmeti markasıdır.Batı ve Orta Avrupa’dan Türkiye’ye araba ve motor ile gitmek için tren seferleri düzenlemektedir.Optima Tours Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Scivation Xtend",
+    "description": "Scivation Xtend, 2004 yılında kurulan Scivation Inc. bünyesindeki diyet ve gıda takviyesi markasıdır.Dopingle mücadele laboratuvarı (LGC) tarafından yapılan testlerle üretilen her partinin yasaklı maddelerden arındırılmış olarak test edildiğini ve sıkı bir izleme sürecine tabi tutulduğunu gösteren belgeye sahiptir.Scivation Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rimowa",
+    "description": "Rimowa, 1898 yılında Paul Morszeck tarafından kurulan Rimowa Gmbh bünyesindeki polikarbonat bavul, ultra hafif ve dayanıklı bavul, alüminyum bavul, seyahat aksesuarları markasıdır.Rimowa Gmbh Almanya merkezlidir. 2016 yılında şirketin yüzde 80 hissesi Fransa ve Katar ortaklara ait LVMH Moet Hennessy – Louis Vuitton SE tarafından satın alındı. Ürünlerini Almanya, Çek Cumhuriyeti, Kanada ve Brezilya’da bulunan kendi üretim tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Eclipse Sakız",
+    "description": "Eclipse, 1891 yılında William Wrigley, Jr. tarafından kurulan Wm. Wrigley Jr. Company bünyesindeki sakız markasıdır.Wm. Wrigley Jr. Company, 2008 yılında Amerika merkezli Mars Incorporated tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

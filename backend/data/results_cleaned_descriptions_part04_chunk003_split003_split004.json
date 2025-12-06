@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Merle Norman Cosmetics",
+    "description": "Merle Norman Cosmetics, 1931 yılında Merle Norman ve J.B. Nethercutt tarafından kurulan Merle Norman Cosmetics Inc. bünyesindeki kozmetik, cilt bakımı, kişisel bakım, koku markasıdır.Şirket 2020 yılında salgın nedeniyle el dezenfektanı üretti.Ürünleri hayvanlar üzerinde test edilmemektedir.Merle Norman Cosmetics Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ronda",
+    "description": "Ronda, 1967 yılında kurulan Ronda S.p.a. bünyesindeki bar mobilyaları ve catering tesisleri için paslanmaz çelik bileşenler markasıdır.Bar ve restoran endüstrisi için paslanmaz çelik bileşenler üretmektedir. ISO 9001 belgesine sahiptir.Ronda S.p.a. İtalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Lino Müzik Aletleri",
+    "description": "Lino, 1995 yılında kurulan Karadeniz Kırtasiye Paz. ve Tic. Ltd. Şti. bünyesinde ithal edilen okul öncesi ürünler ve müzik aletleri markasıdır.Ürün yelpazesinde saz, org, piyano, davul, müzik kutular ile kağıt, karton (mukavva) kağıt, karton veya plastik malzemeden mamül ambalajlama ve sarma malzemeleri, kutular, koliler, kesekağıdı, kağıt torbalar, matbaa ve ciltleme malzemeleri, basılı evraklar, yazı kağıtları, yazım, çizim, resim ve sanatçılar için malzemeler, büro makineleri, büro malzemeleri, eğitim ve öğretim malzemeleri, matbaa ürünü oyunlar, badana ve boya işleri için fırçalar ve rulolar gibi ürünler yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bruno Yapıştırıcı",
+    "description": "Bruno, 1993 yılında kurulan Kurtkaya Endüstri Mamülleri Tic. Ltd. Şti. bünyesindeki yapıştırıcı ürünlerin ve muhtelif kırtasiye ürünlerin markasıdır.Bruno markalı ürünlerin imalatı ve ithalatı gerçekleştirilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Shofu",
+    "description": "Shofu, 1922 yılında kurulan Shofu Inc. bünyesinde üretilen diş porselenleri, dolgu kompozitleri, simanları, restoratifleri için döner tesviye aletleri, kompozit dişler ve küçük ekipmanlar markasıdır.ISO 13485 belgesine sahiptir.Shofu Inc. Japonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

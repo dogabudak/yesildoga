@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Pepsodent",
+    "description": "Pepsodent, 1915 yılında piyasaya sürülen nane aromalı diş macunu markasıdır.1944 yılında İngiltere merkezli Unilever PLC bünyesine dahil oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "1 Burger",
+    "description": "1 Burger, 2018 yılında kurulan Bir Yiyecek İşletmeleri A.Ş. bünyesinde üretilen hamburger markasıdır.İstanbul merkezli firmanın İstanbul’da 4 şubesi bulunmaktadır.Bünyesindeki markalar;Quadro CoffeeBir Burger1Döner",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İsos Enerji",
+    "description": "İsos Enerji, 2015 yılında kurulan İsos Enerji Mühendislik Ltd. Şti. bünyesindeki güneş enerjisi sistemleri markasıdır.İzmir merkezli firma güneş panelleri, aküler, inverterler, şarj kontrol cihazları, şebekeye bağlı sistemler (on-grid), şebekeden bağımsız sistemler (off-grid), tarımsal sulama sistemleri, on grid hybrid güneş enerjisi sistemleri gibi ürünler sunmaktadır.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cafe İtaliano",
+    "description": "Cafe İtaliano, 2019 yılında kurulan Cafital Restoran İşletmecilik A.Ş. bünyesindeki restoran markasıdır.Pizza, makarna gibi yiyeceklerin olduğu İtalyan mutfağına ait ürünler sunmaktadır.Firmanın İstanbul’da 4 şubesi bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ulchem",
+    "description": "Ulchem, 2019 yılında kurulan Ulya Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen silikon sprey, silikonsuz kalıp ayırıcı sprey, çok amaçlı sprey, solvent ürünler markasıdır.İnsan sağlığına az zarar veren ve doğa dostu ürünler üretmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

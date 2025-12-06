@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Chrysa",
+    "description": "Chrysa, 1998 yılında kurulan yabancı sermayeli Chrysamed Kimya Sanayi ve Dış Ticaret Limited Şirketi bünyesindeki Böcek İlaçları markasıdır.Çevre ve Halk Sağlığı İlaçları, Veteriner İlaçları, tarım alanında kullanılan Zirai İlaç, Kimyevi ve Organik Gübreler, Böcek türüne göre gruplanmış konsantre, jel, vücut spreyleri, rodentisitler, aerosol ürünler ve kullanıma hazır tüketici ürünleri üretmektedir.Avusturya sermayeli şirketin İzmir’de 14 bin 300 metrekare kapalı alana sahip Torbalı tesislerinde ürünler üretilirken ayrıca Chrysa Emülgatörü ile fason üretim yapılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Actelion",
+    "description": "Actelion, 1997 yılında Jean-Paul Clozel, Martine Clozel, Walter Fischli, André J. Müller ve Thomas Widmann tarafından kurulan Actelion Pharmaceuticals Ltd. bünyesindeki ilaç ve biyoteknoloji markasıdır.Amerika, Kanada, Brezilya, Avustralya, Japonya, İsviçre ve birçok AB ülkesi de dahil olmak üzere dünya çapında 29 iştirake sahiptir.Türkiye’de Actelion İlaç Tic. Ltd. Şti.olarak faaliyet göstermektedir.2018 yılında Amerika merkezli Johnson & Johnson tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-01-27"
+  },
+  {
+    "company": "SKF",
+    "description": "SKF, 1907 yılında Sven Wingqvist tarafından kurulan AB SKF bünyesindeki Rulmanlar, Doğrusal hareket ürünleri, Mühür, Yağlama sistemleri, Bakım ürünleri, Durum Izleme ve Yağ markasıdır.AB SKF şirketinin sahibi İsveç merkezli Foundation Asset Management AB fonudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Motolux",
+    "description": "Motolux, 2015 yılında kurulan Simmoto Otomotiv Sanayi ve Ticaret Ltd. Şti. bünyesindeki elektrikli bisiklet, elektrikli scooter ve elektrikli 3 tekerlekli araçlar ve motorsiklet markasıdır.Ürünlerini Adana’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Elekta Yazılım Ülke",
+    "description": "Elekta Yazılım Hangi Ülke MarkasıElekta, 1972 yılında Lars ve Laurent Leksell tarafından kurulan Elekta AB bünyesindeki brakiterapi, nöroşirürji, radyasyon tedavisi, stereotaktik radyocerrahi, veteriner radyasyon tedavisi, yaşam bilimleri ürünleri ve onkoloji yazılımı markasıdır.Elekta AB İsveç merkezlidir. 120’den fazla ülkede küresel bir varlığı vardır.Bünyesindeki markalar;ElektaLeksell Gamma KnifeLeksell",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": "2023-10-27"
+  }
+]

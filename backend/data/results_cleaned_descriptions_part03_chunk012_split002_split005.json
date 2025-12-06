@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Reer",
+    "description": "Reer, 1922 yılında Robert Reer tarafından kurulan Reer GmbH bünyesinde üretilen bebek güvenliği ürünleri markasıdır.Bebek maması ısıtıcısı, bebek monitörü veya değişen masa ısıtıcısı, bebek koruyucu ürünler gibi ürünler üretmektedir.Reer GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Rem Mini SD",
+    "description": "Rem, 1994 yılında kurulan REM Dış Tic ve Paz. San. Ltd. Şti. tarafından ithal edilen hafıza kartları markasıdır.Rem markalı sd kartlar Tayvan’dan ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çukurova Yalıtım 4×4",
+    "description": "Çukurova Yalıtım, 2007 yılında kurulan Çukurova Yalıtım A.Ş. bünyesinde üretilen plastik ve yalıtım malzemeleri markasıdır.Ürünlerini Adapazarı 3. OSB’de üretmektedir.Çukurova Yalıtım A.Ş. 1992 yılında kurulan Yapı Teknik Grubu Şirketidir. Yapı Teknik Grubu üç üretim tesisinde üretim yapmaktadır.Ürünlerini Türk Cumhuriyetleri, Orta Doğu, Kuzey Afrika, Balkan ve Avrupa ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aksel",
+    "description": "Aksel, 1988 yılında kurulan Aksel Mutfak Eşyaları San. ve Tic. Ltd. Şti. tarafından üretilen çaydanlık, cezve, tencere ve tava ve elektrikli ev aletleri markasıdır.Ürünleri arasında; tencere, set tencereler, natural granit, çeyiz setleri, düdüklü tencereler, çaydanlık, semaver, elektirikli çaydanlıklar, cezve takımı, çay makinesi, granit setler, granit tencereler, omlet güveç seti, seramik ürünler ve özel üretim ürünler yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aldente",
+    "description": "Aldente, 1993 yılında kurulan Yonca Lines Ev Gereçleri ve Tekstil San. Tic. Ltd. Şti. bünyesinde üretilen granit tencereler, çelik tencere ve çelik çaydanlık markasıdır.Üretimini Kahramanmaraş’ta 20 bin metrekarelik kapalı alanda 304 kalite çelik ve yanmaz-yapışmaz malzemeden yapmaktadır. ISO 9001 belgesine sahiptir.Bünyesindeki markalar:AldenteAyperiLinesLovexOscarYonca",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

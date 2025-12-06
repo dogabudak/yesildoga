@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Radyospor",
+    "description": "Radyospor, 2005 yılında kurulan Türkiye’nin ilk spor radyosudur.Sadettin Saran’ın sahibi olduğu Saran Holding bünyesinde kurulan Radyospor, 32 ilde, uydu ve internet üzerinden yayın yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Dentsply",
+    "description": "Dentsply, 2016 yılında Dentsply International ve Sirona Dental Systems şirketlerinin birleşmesiyle kurulan Dentsply Sirona Inc. bünyesinde üretilen profesyonel diş hekimliği ürünleri markasıdır.Dünyanın en büyük profesyonel diş ürünleri ve teknolojileri üreticisi olan Amerika merkezli Dentsply Sirona, 120’den fazla ülkede satış kanalları ile tüm dünyada 40’dan fazla ülkede ticari faaliyetlerini sürdürmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-05-02"
+  },
+  {
+    "company": "Alman Implant Markaları",
+    "description": "Ağızdaki eksik dişlerin yerine, çene içerisine yerleştirilen çoğunlukla vida şeklindeki yapay bir diş kökü olan İmplant üretimini çok sayıda ülke gerçekleştirmektedir.Bego ImplantSky-BredentZimmer Dental ImplantXıve- Ankylos (Friadent-Dentsply)",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "İsrail Implant Markaları",
+    "description": "İsrail Malı Implant Markalarıİsrail Malı Implant Markaları:AB ImplantADIN Dental ImplantAlpha Bio ImplantCortex Dental ImplantsHi-TechimplantsMIS Implants Technologies",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Case IH Traktör",
+    "description": "Case IH Traktör Hangi Ülkenin MalıCase IH, 1985 yılında kurulan traktör, biçerdöver, yem ekipmanları, saman araçları, tohum ve tarım ekipmanları, püskürtücü markasıdır.Firma çok sayıda ülkede üretim tesisine sahiptir.CNH Industrial N. V., Birleşik Krallık merkezlidir. Çoğunluk hisseleri İtalyan Agnelli ailesi tarafından kontrol edilen yatırım şirketi Exor’a ait olan bir çok uluslu şirkettir.CNH Industrial N.V. hisse dağılımı:Exor NV (yüzde 27.1) HollandaBpce-Harris Associates LP (yüzde 8.94) FransaHotchkis & Wiley Capital Management LLC (yüzde 2.31) AmerikaAmundi Asset Management US, Inc. (yüzde 2.08) AmerikaThe Vanguard Group, Inc. (yüzde 1.76) AmerikaAcadian Asset Management LLC (yüzde 1.55) AmerikaBanca d’Italia (yüzde 1.43) İtalyaSchroder Investment Management Ltd. (yüzde 1.23) (İngiltere)Fiduciary Trust Company of Canada (yüzde 1.16) (Kanada)Arrowstreet Capital LP (yüzde 1.02) Amerika",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-12-31"
+  }
+]

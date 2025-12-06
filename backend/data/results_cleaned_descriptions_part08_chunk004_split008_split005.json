@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Usual Rakor",
+    "description": "Usual, 1998 yılında Kurtis Lin tarafından kurulmuş olan Usual Industrial Co. Ltd. bünyesinde üretilen pirinç rakor, pex boru rakoru, geçmeli rakorlar, nokta rakorları, özel rakorlar markasıdır.Usual Industrial Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Mest Kolonya",
+    "description": "Mest, 2007 yılında kurulmuş olan Çimen Kozmetik San. Tic. A.Ş. bünyesinde üretilen kolonya markasıdır.Şirket araba spreyi, kolonya, parfümler, kamış difüzörü, oda spreyi, kokulu poşetler üretmektedir. İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.Bünyesindeki markalar;ÇimenFei FeiGeloxI MayJestMe Myself & IMestNayasaromasShake Smell",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cofetta",
+    "description": "Cofetta “Hot Powder Drinks”, Sunum Marka Gıda San. Tic. Ltd. Şti. bünyesindeki çözülebilir kahveler, Türk kahvesi, cappuccino, filtre kahve, kahve kreması, dibek kahve markasıdır.Helal belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ATG Eldiven",
+    "description": "Atg, 1992 yılında John Taylor, Howard Goth ve Fazal Abdeen tarafından kurulmuş olan Atg Ceylon Pvt. Ltd. bünyesinde üretilen iş güvenlik, endüstriyel güvenlik eldivenleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Atg Ceylon Pvt. Ltd. Srilanka merkezlidir. Ürünlerini 35’ten fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;Ad-AptAirtechAtgDuratechErgotechGriptechHandcare By AtgMaxichemMaxicutMaxidexMaxidryMaxiflexMaxiflex EliteMaxifoamMaxigardMaxithermNbr LiteNovatrilVirosan",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "Sri Lanka",
+    "updated_date": null
+  },
+  {
+    "company": "Igora",
+    "description": "Igora, 1876 yılında kurulmuş olan Henkel AG & Co. KGaA bünyesinde üretilen saç bakım ürünleri, kozmetikler markasıdır.Henkel AG & Co. KGaA Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

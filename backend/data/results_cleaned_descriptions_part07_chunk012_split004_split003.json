@@ -1,0 +1,50 @@
+[
+  {
+    "company": "İba Valresa",
+    "description": "İba Valresa, 2005 yılında İba Kimya A.Ş. ve Valresa S.A. ortaklığında kurulmuş olan İba.Valresa A.Ş. bünyesinde üretilen ahşap ve sanayi boya ve vernikleri markasıdır.ISO 9001 belgesine sahiptir.Valresa S.A. İspanya merkezlidir. Firma Ankara merkezlidir ve ürünlerini 32 bin metrekarelik alanda bulunan tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Marfedo",
+    "description": "Marfedo, 1999 yılında kurulmuş olan Marfedo Dondurma Süt ve Süt Ürünleri Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen Maraş dondurması markasıdır.Ürünleri glikoz şurubu içermez ve helal belgesine sahiptir.Firma Kahramanmaraş merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dolphinday",
+    "description": "Dolphinday, 2001 yılında kurulmuş olan Gülerbay A.Ş. bünyesinde üretilen inşaat grubu boyaları markasıdır.Firma Van merkezlidir ve ürünklerini Van OSB’de bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Miskos",
+    "description": "Miskos, 1994 yılında kurulmuş olan Miskos Helva Gıda Tekstil İnşaat San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen çekme helva, çikolata kaplı, dondurma külahı, gofret, kağıt helva, krokan ve ezmeler, pişmaniye markasıdır.İstanbul merkezli firma ürünlerini Kastamonu’da bulunan 10 bin metrekarelik üretim tesisinde üretmektedir.Bünyesindeki markalar;AldediMiskosMiskos Helva&ŞekerlemeTatosmanlı Osmanlıdan Gelen Tat !Yeni Süper Lezzet Miskos",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Voda Life Doğal Kaynak Suyu",
+    "description": "Voda Life, 2017 yılında kurulmuş olan Yaşaroğlu Su Gıda Orman Ürünleri Ambalaj Malzemeleri Depolama San. ve Tic. A.Ş. bünyesindeki doğal kaynak suyu markasıdır.ISO 9001, ISO 22000, ISO 45001 belgelerine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

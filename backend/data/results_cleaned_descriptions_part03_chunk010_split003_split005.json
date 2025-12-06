@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hunkemöller",
+    "description": "Hunkemöller Hangi Ülkenin Malı MarkasıHunkemöller, 1886 yılında kurulan Hunkemöller International B.V. bünyesindeki kadın iç giyim markasıdır.Sütyen, iç çamaşırı, gecelik, mayo ve plaj ürünleri, çorap, spor giyim gibi çok çeşitli ürünler tasarlayıp üretmektedir.Hunkemöller International B.V. Hollanda merkezlidir. Almanya, Hollanda, Belçika, İspanya, Fransa, Danimarka, Avusturya ve İsveç’in dahil olduğu 21 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Nissin Kogyo",
+    "description": "Nissin Kogyo, 1953 yılında kurulan Nissin Kogyo Co, Ltd. bünyesinde üretilen 2 ve 4 tekerlekli araçlar için fren sistemleri, alüminyum ürünleri gibi otomotiv parçaları markasıdır.Honda Motor Company, Nissin Kogyo Co, Ltd. şirketinin toplam hisselerinin yüzde 34,6’sına sahip olarak en büyük hissedardır.Nissin Kogyo Co, Ltd. Japonya merkezlidir. Üretim tesisleri Japonya, Gürcistan, ABD, Meksika, Brezilya, Hindistan, Tayland, Vietnam ve Çin’de yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Georg Fischer",
+    "description": "Georg Fischer, 1802 yılında kurulan Georg Fischer Ltd. bünyesindeki su arıtma, sıhhi tesisat ve ısıtma teknolojisi, binek araç uygulaması, kamyon uygulaması, döküm işlemleri, yüksek hassasiyetli üretim, bilgi ve iletişim teknolojisi, elektronik bileşenler, otomasyon çözümleri, lazer tekstüre makineleri markasıdır.Georg Fischer (GF) Boru Sistemleri, Döküm Çözümleri ve İşleme Çözümleri olmak üzere üç bölümden oluşmaktadır.Georg Fischer Ltd. İsviçre merkezlidir ve 33 ülkede 56 üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Mellanox Technologies",
+    "description": "Mellanox Technologies, 1999 yılında kurulan Mellanox Technologies Ltd. bünyesindeki InfiniBand ve Ethernet teknolojisine dayalı bilgisayar ağ ürünleri markasıdır.Mellanox, şirketin veri merkezi, bulut bilgi işlem ve bilgisayar veri depolama sektörleri için adaptörler, anahtarlar, yazılımlar, kablolar tasarlar ve uygular.2019 yılında İsrail merkezli Mellanox Technologies Ltd.’yi Amerika merkezli Nvidia Corporation satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2020-09-16"
+  },
+  {
+    "company": "Cliven",
+    "description": "Cliven, 1958 yılında kurulan Laboratori di Chimica Applicata S.r.l. bünyesinde üretilen kozmetik, makyaj ve kişisel bakım ürünleri markasıdır.Laboratori di Chimica Applicata S.r.l. İtalya merkezlidir ve ürünlerini İtalya’da 30 bin metrekarelik alanda bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

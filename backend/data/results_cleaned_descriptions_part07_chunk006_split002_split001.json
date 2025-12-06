@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aruba",
+    "description": "Aruba, 2015 yılında kurulan Hewlett Packard Enterprise Development LP bünyesindeki ağ donanım teknolojileri, radyo frekansı yazılımı, güvenli kablosuz veri sağlamada kullanılmak üzere veri güvenliği uygulama yazılımı markasıdır.Hewlett Packard Enterprise Development LP Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Chemical Guys",
+    "description": "Chemical Guys, Smart Inc. bünyesindeki oto bakım kimyasalları, oto yıkama aksesuarları, parlatıcı pedler ve makineler, araç bakım ürünleri, araç içi temizleyiciler, mendiller, mikrofiber havlu ve aplikatörler, koku gidericiler, parlatıcılar, dolgu macunları, leke çıkarıcılar markasıdır.Smart Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-03-08"
+  },
+  {
+    "company": "Heynut",
+    "description": "Heynut, Hayrettin Görgel tarafından kurulan fıstık ezmeleri, yer fıstığı yağı markasıdır.Ürünleri ilave şeker ve katkı maddesi içermemektedir. Sade, Şekerli, şekersiz, çikolatalı, ballı, hurmalı fıstık ezmeleri sunmaktadır.Firma Bolu merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Virbac",
+    "description": "Virbac, 1968 yılında Pierre-Richard Dick tarafından kurulmuş olan Virbac S.A. bünyesinde üretilen hayvan mamaları, hayvan sağlığı ürünleri markasıdır.Virbac S.A. Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Switchon",
+    "description": "Switchon, 1984 yılında kurulmuş olan Kaufland Warenhandel Gmbh & Co KG bünyesindeki usb kabloları, su ısıtıcısı, kahve makinesi, el süpürgesi, tost makinesi, blender, yumurta pişirici, ekmek kızartma makinesi, doğrayıcı, saç kesme makinesi, pil, şarj edilebilir pil markasıdır.Kaufland Warenhandel Gmbh & Co KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

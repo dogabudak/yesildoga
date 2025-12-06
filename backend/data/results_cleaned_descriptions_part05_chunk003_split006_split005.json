@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Qwant",
+    "description": "Qwant, 2013 yılında kurulan Qwant S.A.S. bünyesindeki internet arama motoru markasıdır.Arama motorunun geliştirilmesi ve dizinlemesi Bing tarafından desteklenmiştir.Bing’e ait reklam ağı kullanılarak gelir elde edilmeye başlamıştır.Qwant S.A.S. Fransa merkezlidir. Çocuklara yönelik sürümü Fransa Eğitim Bakanlığı işbirliği ile geliştirilmiştir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Alunni Caffé",
+    "description": "Alunni Caffé, 2010 yılında kurulan Dacatè S.r.l. bünyesinde üretilen kahve markasıdır.Kahve hammaddesini Guatemala, Kolombiya, Brezilya, Kenya, Jamaika ve Arap ülkelerinden temin etmektedir.ISO 9001, Helal ve Organik belgelerine sahiptir.Dacatè S.r.l. İtalya merkezlidir ve ürünlerini 20’ye yakın ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Vagheggi",
+    "description": "Vagheggi, 1975 yılında kurulan Vagheggi Spa bünyesinde üretilen kozmetik ürünler markasıdır.Vagheggi Spa İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Biologique Recherche",
+    "description": "Biologique Recherche, 1979 yılında Yvan ve Josette Allouche tarafından kurulan B.R. SAS bünyesindeki cilt bakım ürünleri markasıdır.B.R. SAS Fransa merkezlidir. Ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Emek Kolonya",
+    "description": "Emek, 1929 yılında kurulan Emek Yağ San. A.Ş. bünyesinde üretilen ayçiçek yağı, mısır yağı, zeytinyağı, ev dışı tüketim ürünleri, sabunlar ve kolonyalar markasıdır.Bursa merkezli firma ISO 9001, TSE, Helal ve Koşer belgelerine sahiptir.Bünyesindeki markalar;AlberelloBuketEmayEmekEmek 1929EmilFidanHarmanMinaPalminaPergeSavaTemizkalpliemekTrilia",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

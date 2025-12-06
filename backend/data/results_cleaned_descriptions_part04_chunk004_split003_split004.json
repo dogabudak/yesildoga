@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Meyer Sound",
+    "description": "Meyer Sound, 1979 yılında John ve Helen Meyer tarafından kurulan Meyer Sound Laboratories, Incorporate bünyesindeki hoparlörler, dijital ses sistemleri, ses analiz araçları markasıdır.Konser ve eğlence mekanları, ibadethaneler, sinemalar, restoranlar, üniversiteler, şirket ofisleri ve müzeler gibi yerlerde ürünleri kullanılmaktadır.Meyer Sound Laboratories, Incorporate Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Herbaderm",
+    "description": "Herbaderm, 2004 yılında Kenan Alpay tarafından kurulan Alpaya Doğal ve Kozmetik Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen saç ve cilt bakım ürünleri markasıdır.Ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bade Natural",
+    "description": "Bade Natural, 2016 yılında kurulan Dem Group Bilişim San. ve Tic. A.Ş. bünyesindeki doğal cilt, vücut, saç bakımı ve aromaterapi ürünleri markasıdır.Ürünleri yüzde 100 doğal ve katkısızdır. Paraben, SLS ve SLES, alkol, formaldehid, sülfat, alüminyum, mineral yağlar, petrol türevi zararlı hammaddeler ve genetik olarak modifiye edilmiş hammaddeler içermemektedir ve hayvanlar üzerinde test edilmemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yabancı Zannedilen Yerli Ürünler",
+    "description": "Yabancı Zannedilen Yerli Malı Ürünler404ActivexBingoCasperColinsCollezioneDalinEnglish HomeFarmasiGeneral MobileGolden RoseGreyderHuncaKanzL’era FrescaLC WaikikiLTBLoftMadame CocoMadoMolfixMolpedNacarNevaOxxoPastavillaPastelPatosPernigottiQuantumSchaferSleppySunnySuperfreshTudorsUrban CareVimYuMaTu",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2021-05-14"
+  },
+  {
+    "company": "DS Automobiles",
+    "description": "DS Automobiles, 2021 yılında Groupe PSA ile Fiat Chrysler Automobiles birleşmesiyle kurulan Stellantis N.V. bünyesindeki lüks araçlar, elektrikli ve hibrit araçlar markasıdır.Stellantis N.V. Hollanda merkezlidir. DS Automobiles markalı ürünler Fransa’da üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-04-27"
+  }
+]

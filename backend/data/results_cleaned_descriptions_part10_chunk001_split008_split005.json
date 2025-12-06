@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dermoday",
+    "description": "2011 yılında kurulmuş olan Eroda Kozmetik Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt, saç, vücut, ağız bakımı ürünleri, el temizleme ve losyonu, göz ve ten makyaji, parfüm, doğal yağlar markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fenix",
+    "description": "2017 yılında kurulmuş olan Ömer Yerli Leylioğlu Kırtasiye bünyesindeki parmak boyası markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lamzu",
+    "description": "1991 yılında kurulmuş olan Zodic Technology Limited bünyesindeki oyun fareleri, oyun klavyeleri, fare altlığı, fare aksesuarları, dongle markasıdır.Zodic Technology Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "SoMuch Aseton",
+    "description": "1988 yılında kurulmuş olan Hayat Alfa Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen aseton markasıdır.ISO 9001, ISO 22716 belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Joroburo",
+    "description": "2013 yılında kurulmuş olan Yangquan Boru Trading Co. Ltd. bünyesindeki banyo ürünleri, elektrikli süpürgeler ve zemin bakımı, etkinlik ve parti malzemeleri, ev aydınlatma ve tavan vantilatörleri, ev dekor ürünleri, ev temizlik malzemeleri , evde depolama ve organizasyon, mutfak malzemeleri, yatak takımları, evcil hayvan aletleri markasıdır.Yangquan Boru Trading Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

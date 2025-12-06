@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Suzico",
+    "description": "Suzico, 1989 Şükür Ticaret Dayanıklı Tüketim Malları ve Paz. Tic. bünyesindeki şehir bisikletleri, dağ bisikletleri, çocuk bisikletleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;FirstclassMy BabySuzico",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Deepmax",
+    "description": "Deepmax, 1978 yılında kurulmuş olan Saff Kimya San. Tic. İthalat İhracat Ltd. Şti. bünyesinde üretilen çamaşır suyu, çok amaçlı temizleyici, araç bakım ürünleri, bulaşık deterjanı, el dezenfektanı, endüstriyel ürünler, halı ve yün şampuanı, kumaş ve ortam kokuları, pas ve kireç çözücü, saç bakım şampuanı, sabun, tuz ruhu, yüzey temizleyici, yumuşatıcı markasıdır.ISO 9001, ISO 14001, ISO 22716, ISO 45001 belgelerine sahiptir.Firma Van merkezlidir.Bünyesindeki markalar;DeepmaxMavimexSaffsylYoushine",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Easyfishoil",
+    "description": "Easyfishoil, 2013 yılında kurulmuş olan EasyVit Sağlık Ürünleri San. A.Ş. bünyesindeki balık yağı markasıdır.Ürünleri Norveç’te üretilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Troy Kart",
+    "description": "Troy, 2015 yılında Bankalararası Kart Merkezi A.Ş. tarafından kurulan ve işletilen bir kartlı sistemdir.Kredi kartı, banka kartı ve ön ödemeli kart verme ve ağ işleme dahil olmak üzere finansal hizmetler sunmaktadır.2017 yılında Amerika merkezli Discover Financial Services ile yapılan karşılıklı anlaşma ile TROY logolu kartlar yurtdışında Discover ve Diner’s Club kart kabul eden işlemlerde de geçerlidir.Diners Club International, doğrudan bir bankacılık ve ödeme hizmetleri şirketi olan Discover Financial Services’ın bir iştirakidir.Bankalararası Kart Merkezi A.Ş.’nin hisseleri yerli ve yabancı bankalara aittir. Çoğunluk hisseleri yine yerli ve yabancı bankaların hisselerine sahip olduğu Türkiye Cumhuriyet Merkez Bankası’na aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "C’Lopıa Beauty",
+    "description": "C’Lopıa Beauty2023 yılında kurulmuş olan Rnz Kozmetik A.Ş. bünyesindeki cilt bakım ürünleri, saç bakım ürünleri, takviye edici gıda markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-17"
+  }
+]

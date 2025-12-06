@@ -1,0 +1,44 @@
+[
+  {
+    "company": "X-Lite",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Valletta",
+    "description": "2013 yılında kurulmuş olan Vip Trend İnternet Teknolojisi Tic. Ltd. Şti. bünyesindeki mutfak gereçleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rawbite",
+    "description": "2009 yılında kurulmuş olan Rawbite Aps bünyesinde üretilen çeşitli organik meyve ve fındık çubukları ve atıştırmalıkları markasıdır.Ürünleri gluten ve şeker içermez.Rawbite Aps Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Ceraware",
+    "description": "1917 yılında temeli atılan Gürses Şirketler Grubu bünyesindeki çamaşırlık ve kurutmalık, mop, tencere, tava setleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "The Prouvee-Organics",
+    "description": "2018 yılında kurulmuş olan The Prouvee Reponses Kişisel Bakım Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri, yüz güneş koruyucuları, kişisel bakım ürünleri markasıdır.Ürünleri paraben, boya içermez ve bitkisel içeriklidir.​Firma Sakarya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

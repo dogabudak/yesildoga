@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Ceba",
+    "description": "Ceba, 1998 yılında kurulmuş olan Ceba International Logistics GmbH & Co. KG bünyesindeki lojisitik markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001 belgelerine sahiptir.Ceba International Logistics GmbH & Co. KG Almanya merkezlidir. 2018 yılından beri Türkiye’de Ceba Lojistik Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ecus",
+    "description": "Ecus, 1973 yılında kurulmuş olan Colchones Europa S.L.u. bünyesinde üretilen şilte, kanepe, baza, döşemeli şilte ve yastıklar markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir.Colchones Europa S.L.u. İspanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Bambina",
+    "description": "Bambina, 2011 yılında kurulmuş olan Bambina Tekstil Ürünleri Konfeksiyon San. ve Tic. Şti. bünyesindeki medikal, okul giyim, iş elbiseleri ve ekipmanları markasıdır.Firma Sakarya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ichimura",
+    "description": "Ichimura, 2006 yılında kurulmuş olan Shenzhen Kunqi Xinhua Technology Co. Ltd. bünyesindeki endüstriyel kimyasallar, lehim kimyasalları, lehim akışları, endüstriyel amaçlı yapıştırıcılar markasıdır.Shenzhen Kunqi Xinhua Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Flava",
+    "description": "Flava, 2016 yılında kurulmuş olan Proteinocean Gıda A.Ş. bünyesindeki vitaminler, mineraller, kolajen, l-karnitin, amino asit, glukozamin, omega 3 ve balık yağları, beta glukan markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;Body SupremeFlavaFlava ZmaGamer BoostGamer HackProtein Ocean Pump Stim FreeProteinoceanRelentlessSlim Shake",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

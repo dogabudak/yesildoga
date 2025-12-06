@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vandini",
+    "description": "Vandini, 1951 yılında Eugen Mann ve Hans Schröder tarafından kurulan Mann & Schröder Gmbh bünyesinde üretilen cilt bakım ürünleri markasıdır.Firma ayrıca zemin cilası, tuvalet temizleyicileri, çok amaçlı temizleyiciler ve dezenfektanlar üretmektedir.Mann & Schröder Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Karfix",
+    "description": "Karfix, 2013 yılında kurulan Karçim Yapı Kimyasalları San. Tic. Ltd. Şti. bünyesinde üretilen fayans seramik yapıştırıcıları, derz dolguları, çimento bazlı harçlar, hazır sıvalar ve astarları, su yalıtım harç ve likit ürünleri, ısı yalıtım mantolama harçları markasıdır.Firma ürünlerini Bursa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bitchute",
+    "description": "Bitchute, 2017 yılında Ray Vahey tarafından kurulan Bit Chute Limited bünyesindeki video barındırma hizmetidir.Diğer video paylaşım sitelerinde yasaklanan çok sayıda içeriğe izin vermektedir.Bit Chute Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Nonolive",
+    "description": "Nonolive, 2018 yılında kurulan Douyu Limited bünyesindeki interaktif video tabanlı eğlence platformu markasıdır.Yayıncılar, yeteneklerini sergilediklerinde eşit oranda izlenme hakkı kazanmaktadır. Kullanıcılar satın aldıkları sanal parayı destekledikleri yayıncılara gönderebiliyor. Bu paralar yayıncıların hesabında toplandıktan sonra nakit paraya çevrilebiliyor. Yayıncılar ayrıca sponsor veya reklamlardan gelir elde etmek için uğraşmasına gerek kalmıyor.Douyu Hongkong Limited Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Tugayhan",
+    "description": "Tugayhan, 2014 yılında kurulan Tugayhan Makine Metal San. Tic. Ltd. Şti. bünyesindeki fiber lazer kesim makineleri markasıdır.Antalya merkezli firma küçük ve orta ölçekli işletmeler için kompakt makineler üretmektedir.ISO-9001 belgesine sahiptir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hurom",
+    "description": "Hurom, 1974 yılında Youngki Kim tarfından kurulan Hurom America Inc. bünyesindeki mutfak aletleri markasıdır.Hurom America Inc. Amerika merkezlidir. Güney Kore’deki karargahı tarafından desteklenmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bauknecht",
+    "description": "Bauknecht, 1919 yılında Gottlob Bauknecht tarafından kurulan Bauknecht Hausgerate GmbH bünyesinde üretilen ev aletleri markasıdır.Bauknecht Hausgerate GmbH, 1989 yılında Amerika merkezli Whirlpool Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dayun",
+    "description": "Dayun, 2004 yılında Dayun Group’un bir parçası olarak kurulan Dayun Motor bünyesinde üretilen kamyon, kamyonet, motosiklet ve motor markasıdır.Dayun Automibile Co.ltd. ürünlerini üç üretim tesisinde üretmektedir.Dayun Group Çin merkezlidir ve ürünlerinin tamamını Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Yokogawa Electric",
+    "description": "Yokogawa Electric, 1915 yılında kurulan Yokogawa Electric Corporation bünyesinde üretilen endüstriyel otomasyon, proses kontrolü, test ve ölçüm ürünleri ve mühendislik hizmetleri markasıdır.Yokogawa’nın 18 üretim tesisi, 92 şirketten oluşan küresel ağı 59 ülkeyi kapsamaktadır.Yokogawa Electric Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Radiant Opto Electronics",
+    "description": "Radiant Opto Electronics, 2002 yılında kurulan Radiant Opto Electronics Suzhou Co. Ltd. bünyesinde üretilen ışık kılavuz plakası(LGP), arka ışık modülü, film LCD monitörler de dahil olmak üzere LCD monitör opto-elektronik bileşenler markasıdır.ISO 9001, 1401, 14064 ve OHSAS 18001 belgelerine sahiptir.Radiant Opto Electronics Suzhou Co. Ltd. Tayvan merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Kvyol",
+    "description": "Kvyol, 2019 yılında kurulan Vantop Techology Co. Limited bünyesindeki hava temizleyici markasıdır.Firma temizlik robotları, evde sağlık araçları ve akıllı cihazlar üretmektedir.Vantop Techology Co. Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Haem Energy Power System Solutions",
+    "description": "Haem Energy, 2016 yılında kurulan HAEM Enerji Elektrik Elektronik Mühendislik Danışmanlık İnşaat Taahhüt İç ve Dış Tic. San. Ltd. Şti. bünyesinde ithal edilen akıllı robot süpürge markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Luss",
+    "description": "Luss, 2015 yılında kurulan Sedin Seramik İnşaat Taahhüt ve Kozmetik A.Ş. bünyesinde üretilen şampuanlar, cilt bakım ürünleri markasıdır.Ürünleri parafin ve slikon içermemektedir.İstanbul merkezli firmanın ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Altıntop Çıtır",
+    "description": "Altıntop, 1995 yılında kurulan Altıntop Kuruyemiş Gıda San. Tic. A.Ş. bünyesindeki kuruyemiş ve Türk kahvesi markasıdır.ISO 22000, FSSC 22000 belgelerine sahiptir.Firma Denizli merkezlidir. 25 bin metrekarelik açık, 9 bin metrekarelik kapalı alanda bulunan fabrikasında üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Supra Cables",
+    "description": "Supra Cables, 1976 yılında kurulan Jenvıng Technology AB bünyesindeki çok çeşitli kablolar markasıdır.Ürün yelpazesinde müzik ekipmanları ara bağlantıları, ses, video bağlayıcılar, konektörler ve adaptörler, hdmi-hdmi, hdmi-dvi, dvi-dvi, displayport, bobin üzerindeki kablolar, halojensiz ve alev geciktirici, hdmi-mini hdmi, hdmi optik gibi kablolar yer almaktadır.Jenvıng Technology AB İsveç merkezlidir ve ürünleri İsveç’te üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Alalin",
+    "description": "Alalin2020 yılında kurulmuş olan Arde Kimya Gıda San. Tic. Ltd. Şti. bünyesindeki pamuklu çubuk, sıvı deterjan, sıvı sabun markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Perfecta",
+    "description": "Perfecta2010 yılında kurulmuş olan Dax Cosmetics bünyesindeki kozmetik ürünler markasıdır.ISO 9001, ISO 22716 belgelerine sahiptir.Dax Cosmetics 2014 yılında Japonya merkezli Rohto Pharmaceuticals Group’un bir parçası olmuştur. Ürünleri 30’dan fazla ülkede mevcuttur.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Burst",
+    "description": "Burst1985 yılında kurulmuş olan Patriot Memory Inc. bünyesindeki bellek kartları, katı hal sürücüleri, kulaklık, oyun klavye, fare ve aksesuarlar markasıdır.Patriot Memory Inc. Amerika merkezlidir. Amerika ve Tayvan’da bulunan tesislerinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fabrika Sport",
+    "description": "Fabrika Sport2000 yılında kurulmuş olan Boyner Büyük Mağazacılık A.Ş. bünyesindeki şort, atlet, eşofman altı, mont, mont kaban, sütyen, sweatshirt, tayt, tişört gibi giyim ürünleri markasıdır.Boyner Ailesine ait olan Boyner Holding A.Ş. bünyesindeki firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "The Crow Be Cheerful & Live Your Life",
+    "description": "The Crow2016 yılında kurulmuş olan Pileks Giyim Aksesuar Tekstil ve Kozmetik Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki tişört, gömlek, triko, sweatshirt, polar, mont, rüzgarlık, peluş, yelek, pantolonlar, sweatpants, parfümler, boxer, çanta, çorap, kemer markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;The Crow Be Cheerful & Live Your LifeThe Walk",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

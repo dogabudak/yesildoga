@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Corteco",
+    "description": "Corteco, 1887 yılında kurulan Freudenberg Group bünyesindeki markadır.Yedek parça sağlayan firmanın bazı ürünleri; subap keçesi, conta ve motor kitleri, şasi, fren hortumları, hava filtreleri vb.Almanya merkezli şirket kurulduğundan beri pazar lideri ve dünya çapında 50’den fazla ülkede şubeleri bulunuyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Stoller",
+    "description": "Stoller, 1970 yılında Jerry Stoller tarafından kurulan tarım sektörü markasıdır.Amerikan merkezli Stoller Grubunun 16 ülkede fabrikaları bulunmaktadır.Stoller, Türkiye faaliyetlerine 2014 yılında İzotar A.Ş.’yi satın alarak doğrudan Stoller Türkiye markasıyla başlamıştır.Firma İzmir’de bulunan merkez binasında sahip olduğu laboratuvar, depo, üretim vb. olanakları ile faaliyetine devam etmektedir.Stoller ürün portföyü yanı sıra firma; alanlarında uluslararası bilinirliğe sahip Humintech (Almanya) ve Acadian (Kanada) firmalarının Türkiye temsilcisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hacıoğlu Restoran",
+    "description": "Hacıoğlu, 1965 yılında Hacıoğlu ailesi tarafından kurulan Hacıoğlu Restoran Ltd. Şti. bünyesindeki restoran zinciridir.Ürün yelpazesi lahmacun, peymacun, piliç döner, et döner, soslu kanat, lezzet topu, patates kızartması, salata, burma kadayıf, fırın sütlaç, dondurmalı kadayıf, dondurma seçenekleri, poğaça, börek ve su böreği, ayran ve meşrubatlardan oluşmaktadır.İstanbul merkezli, tamamı yerli sermayeli olan firmanın 11 şehirde 80’e yakın restoranı bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-03-15"
+  },
+  {
+    "company": "Moncler Ülke",
+    "description": "Moncler, 1952 yılında Rene Ramillon ve Andre Vincent tarafından kurulan Moncler S.P.A. bünyesindeki lüks moda markasıdır.Moncler, giyim ve aksesuar konusunda uzmanlaşmış bir tekstil şirketidir.2003 yılında iflas eden firmayı Remo Ruffini satın aldı.Büyük hissedarlarDouble R S.R.L. (Yüzde 19.9) İtalyaMorgan Stanley Investment Management Company (Yüzde 11.5) AmerikaCapital Research And Management Company (Yüzde 4.8) AmerikaBlackrock Inc. (Yüzde 4.2) AmerikaInvesco Limited (Yüzde 2.8) AmerikaRivetex S.R.L. (Yüzde 2.8)) İtalyaHazine Hisseleri (Yüzde 1.5)) İtalyaPiyasa (Yüzde 52.5)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-08-03"
+  },
+  {
+    "company": "Energy Battery",
+    "description": "Energy Battery, 1978 yılında Teoman Sunkar ve Mehmet Reşat Birmiş tarafından kurulan Esan Akü bünyesindeki markadır. 2010 yılında Esan Akümülatör ve Malzemeleri San. Tic. A.Ş. kuruldu.Esan ile başlayan markalaşma süreci; Energy, Vega ve Pure Energy ile sürdü.1999 yılında Şişli Ayazağa’da 5 bin 500 metrekare kapalı alana sahip modern tesislerinde tüm üretim ve yönetim faaliyetlerine başladı. 2008 yılında tam kapalı akü üretimine başladı.Avrupa, Asya ve Afrika kıtalarında 40’a aşkın ülkeye üretiminin yüzde 60’ını ihraç eden Esan Akü, dış pazara 1997 yılında açıldı.2011 yılında Kanada ve Amerika’dan ithal ettiği Expanded Metal Teknolojisi yatırımını tamamlayan Esan Akü, yılda 1 milyon 200 bin üretim kapasitesine ulaştı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

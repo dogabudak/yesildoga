@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bisico Dental",
+    "description": "Bisico, 1970 yılında Horst Ludwigs tarafından kurulan aile işletmesi Bielefelder Dentalsilicone GmbH & Co. KG, şirketi bünyesindeki diş ürünleri markasıdır.Ürün yelpazesinde Polivinil siloksan tabanı malzemeleri, geçici restorasyon ürünleri, modern diş dolguları malzemeleri ve modern ağartma malzemeleri yer alıyor.Bielefelder Dentalsilicone GmbH & Co. KG, Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Proplan",
+    "description": "Nestle Proplan, 2001 yılında kurulan kedi ve köpek maması markasıdır.İçerik olarak protein kaynağı olan gerçek tavuk eti, somon eti gibi içerikleri birincil olarak ihtiva etmektedir.Proplan, Amerikan merkezli Nestle Purina PetCare bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Relance",
+    "description": "Relance, 1908 yılında kurulan BALZANO LLC şirketi tarafından, Silver Star adlı Hong Kong’lu firmaya ürettirilen mutfak ürünleri ve tavaları markasıdır.Balzano LLC. 100 yıldan fazla bir süredir alüminyum tencereler konusunda faaliyet göstermektedir.BALZANO LLC İtalya merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Spring",
+    "description": "Spring, 1946 yılında Arthur ve Hermann Spring tarafından kurulan Spring International GmbH bünyesindeki pişirme ürünleri markasıdır.Marka lüks yemek ve masa kültürünü dünya çapında şekillendirmiştir.Spring International GmbH İsviçre merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Royal Canin",
+    "description": "Royal Canin, 1967 yılında Veteriner Hekim Jean Cathary tarafından kurulan evcil hayvan mamaları markasıdır.Markayı 2001 yılında Mars şirketi satın aldı.Fransa, İspanya, Birleşik Krallık, Amerika, Kanada, Almanya, Arjantin, Brezilya, Güney Afrika Cumhuriyeti gibi ülkelerde fabrikaları olan Royal Canin, 120 üzerinde ülkeye ürünlerini satıyor.Mars Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

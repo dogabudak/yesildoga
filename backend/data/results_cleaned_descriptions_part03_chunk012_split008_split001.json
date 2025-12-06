@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Yaay Sosyal Medya",
+    "description": "Yaay Sosyal Medya, 2018 yılında Türk Telekom Grup’un %100 iştiraki olarak kurulan TT Ventures A. Ş. bünyesinde üretilen yerli sosyal medya uygulaması markasıdır.Uygulamayla gündem ve haber takibi, rozet alma, paylaşımlar ve aksiyonlarla puan toplama, beğenmeme butonu, 280 karakter gibi farklı özelliklere sahip.Kullanıcıya verilen rozetler etkileşim türlerine göre oluşan puanla Tekno, Genç, Spor, Mizah, Haber, Magazin, Siyaset, Çocuk, Dizi, Müzik, Emlak, Oto vb alanlardadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Metaltex",
+    "description": "Metaltex, 1945 yılında Egidio Morandi tarafından kurulan Metaltex SA bünyesinde üretilen telden yapılmış ev ürünleri, süzgeç, çırpıcı, mutfak ve ev için çok sayıda küçük mutfak eşyaları markasıdır.Çin’de bir üretim yapmaktadır.ISO 9001 belgesine sahiptir.Metaltex SA İsviçre şirketidir. Türkiye’de Metaltex Ev Gereçleri İthalat Dağıtım Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Weleda",
+    "description": "Weleda, 1921 yılında Ita Wegman ve Rudolf Steiner tarafından kurulan Weleda AG bünyesindeki güzellik ürünleri markasıdır.Ürünlerinde doğal hammaddeler kullanılmaktadır ve hiçbir ürünü hayvanlar üzerinde test edilmemektedir.Weleda AG İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2021-01-14"
+  },
+  {
+    "company": "Gedore",
+    "description": "Gedore, 1919 yılında kurulan Gedore Werkzeugfabrik GmbH & Co. KG bünyesinde üretilen el aletleri markasıdır.Şirketin Almanya, Brezilya, İngiltere, Avusturya ve Güney Afrika’da üretim tesisleri bulunmaktadır ve ürünlerini 70’ten fazla ülkeye pazarlamaktadır.Gedore Werkzeugfabrik GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "DTNo.1",
+    "description": "DTNo.1 Hangi Ülkenin Malı MarkasıdırDTNo.1, 2008 yılında kurulan Xinkeying Digital Co, Ltd. bünyesinde üretilen akıllı giyilebilir ürünler markasıdır.ISO 9001 ve ISO 14001 belgelerine sahiptir. Ürünleri 20’den fazla ülkeye pazarlanmaktadır.Xinkeying Digital Co, Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

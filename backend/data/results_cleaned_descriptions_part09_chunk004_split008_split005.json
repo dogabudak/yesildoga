@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ayakland",
+    "description": "Ayakland2001 yılında kurulmuş olan Ayakland Elektronik Mağazacılık ve Tic. Ltd. Şti. bünyesindeki çevrimiçi ayakkabı mağazası markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "T-Mobile Us",
+    "description": "T-Mobile Us1994 yılında kurulmuş olan T-Mobile US Inc. bünyesindeki cep telefonu, kablosuz geniş bant markasıdır.T-Mobile US Inc. Almanya merkezli Deutsche Telekom AG bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Gzt",
+    "description": "Gzt2012 yılında kurulmuş olan Piri Medya A.Ş. bünyesindeki her türlü içeriğin yer aldığı haber platformu markasıdır.İstanbul merkezli Piri Medya A.Ş. dijital yayıncılık alanında hizmet veren Albayrak Grubu şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Igor",
+    "description": "Igor1974 yılında kurulmuş olan Industrias Plasticas Igor S.L. bünyesinde üretilen ayakkabı, bot, sandalet, terlik, cüzdan ve aksesuarlar markasıdır.Pvc ve sentetik karışım sandaletler kanserojen madde içermeyen hammaddeden üretilmektedir.Industrias Plasticas Igor S.L. İspanya merkezlidir ve ürünlerini İspanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Kromasharp",
+    "description": "Kromasharp1987 yılında kurulmuş olan Procter Gamble Tüketim Malları San. A.Ş. bünyesinde üretilen traş bıçağı markasıdır.Amerika merkezli Procter & Gamble Co. bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

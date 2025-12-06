@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Gence",
+    "description": "Gence, 1986 yılında kurulan otomobil üreticisidir.Azerbaycan merkezli Gence Otomobil Fabrikası 2004 yılında yeniden imalata başlayıp otomobil üretip satmıştır.2008 yılında ise fabrikada yaklaşık 600 otomobil ve traktör üretildi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Karper",
+    "description": "Karper, 1865 yılında Jules Bel tarafından kurulan Bel Group bünyesine ait bir peynir markasıdır.Bel Group, Dünya çapında 27 peynir üretim tesisi ve 31 ofisi ile 120’den fazla ülkede varlık gösteren bir Fransız şirkettir.Türkiye pazarına 2007 yılında giren Bel Group, ürünlerini Tekirdağ tesislerinde üretmekte ve pazarlamaktadır.Bel Group’un bünyesindeki markalar:La Vache qui ritMini BabybelKiriLeerdammerBoursinKarper (Türkiye)Piknik (Türkiye)Apericube (Fransa ve Japonya)Régal Picon (Afrika ve Orta Doğu)Shotska (Ukrayna)Maredsous (Belçika)",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Bahçıvan Gıda",
+    "description": "Bahçıvan Gıda, 1956 yılında Azerbaycanlı Mecit Bahçıvan tarafından kuruldu.Türk markası Bahçıvan ürünleri, süt üretim çiftliklerinde hijyenik şekilde sağılan sütler en kısa sürede soğutulur. Ön kontrollerden geçirildikten sonra tankerler vasıtasıyla üretim tesisinize soğuk zincir kırılmayacak şekilde taşınır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "HeidelbergCement Ülke",
+    "description": "HeidelbergCement AG, 1874 yılında Johann Philipp Schifferdecker tarafından kurulan yapı malzemeleri ve çimento üreten çok uluslu şirkettir.Alman şirket çok sayıda şirketi bünyesine kattı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Scrikss",
+    "description": "Scrikss, 1939 yılında kurulan tükenmezkalem, dolmakalem, mekanik kurşunkalem, roller, çanta, cüzdan, kartlık, pasaportluk, ajanda, jotter, anahtarlık, kalemlik, kalem kılıfları, masa takımları, kol düğmeleri, multifonksiyon kalemler, iphone ve ipad özel kalemleri, standlar, ambalajlı ürünler, notelook serileri, ofis ürünleri markasıdır.Scrikss markasının tüm haklarını elinde tutan Mowe S.A. 1963 yılında, tüm haklarını, Scrikss Kalem Kırtasiye ve Ofis Malzemeleri A.Ş.’ye devretti. İstanbul merkezli firma yazı gereçleri ve aksesuarları üretmekte ve ürünlerini 52 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-11-30"
+  }
+]

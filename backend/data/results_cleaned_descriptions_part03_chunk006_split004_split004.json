@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Fantasia Boya Kalemi",
+    "description": "Fantasia, 1982 yılında kurulan Tetaş İç ve Dış Ticaret A.Ş. bünyesinde ithal edilen boya kalemi markasıdır.Firma ayrıca modelhane ve kesimhane makine ve ekipmanları, tetra cad bilgisayarlı kalıp hazırlama sistemi, flekso baskı makinesi, konfeksiyon etiketleri, pastal altı kağıtları, kağıt dilimleme, etiket kumaşı kesimi, poşet ve telli dosya, vakum naylonu üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Colorbank Boya Kalemi",
+    "description": "Colorbank, 2003 yılında kurulan Timon Toplu Tüketim San. ve Tic. A.Ş. tarafından ithal edilen boyama araç gereçleri markasıdır.Colorbank markalı ürünler Çin’den ithal edilmektedir.Firmanın ürün yelpazesinde; kağıt ve kağıt ürünleri, öğrenci araç ve gereçleri, okul öncesi ve anaokulu malzemeleri, ofis masaüstü ve dosyalama ürünleri, ofis tüketim ürünleri ve sarf malzemeler, hesap makinesi, yazı tahtası, pano ve toplantı sunum ürünleri, yazı gereçleri, yazı aksesuarları, boya ve çizim gereçleri, promosyon ürünler, lisanslı kırtasiye ürünleri yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Adieu",
+    "description": "Adieu, A101 Yeni Mağazacılık A.Ş. adına Pereja İleri Kimya San. A.Ş. tarafından üretilen kolonya markasıdır.Kolonya içerisinde Alkol Denat, Aqua, Parfüm, Heksil Cinnamal, Butilfenil Metilpropional, Benzil Salisilat, Linalool, Limonen, Citronellol, Hidroksisiteral gibi içerikler yer alır.Pereja üretimini Edirne OSB’de yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Allesta",
+    "description": "Allesta, 2015 yılında kurulan Fin Kimya Uluslararası Ltd. Şti. bünyesinde üretilen kolonya markasıdır.Kolonya içeriğinde Alcohol De, Aqua ve Parfum yer almaktadır.Fin Kimya Uluslararası Ltd. Şti. araç kimyasalları, madeni yağlar, kozmetik ve dermokozmetik ürünler üretmektedir. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Essen Organik",
+    "description": "Essen Organik, 2019 yılında kurulan Essen Organik Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen salça ve soslar, baharat, çay ve kahveler,tahin, pekmez, reçel ve tatlılar, bakliyat ve kuru gıdalar, zeytin ve zeytin yağı markasıdır.Üretimini yaptığı tüm organik ürünlerin hammaddelerini de sözleşmeli ekim yaparak kontrol etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

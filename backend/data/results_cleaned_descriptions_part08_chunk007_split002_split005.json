@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Schitec",
+    "description": "Schitec, 2009 yılında kurulmuş olan Shenzhen Shenchuang High tech Electronics Co. Ltd. bünyesinde üretilen seyahat şarj cihazları, araç şarj cihazları, USB kabloları ve diğer cep telefonu ile ilgili aksesuarlar markasıdır.Shenzhen Shenchuang High tech Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tazem",
+    "description": "Tazem, 1995 yılında kurulmuş olan BİM Birleşik Mağazalar A.Ş. adına çeşitli üreticiler tarafından üretilen piliç ızgara tava, piliç bonfile, tavuk gibi et ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Holimax",
+    "description": "Holimax, 2021 yılında Crm Turizm A.Ş. bünyesinde kurulmuş olan tatil planları için fiyatlar, indirim ve kampanyalar, ödeme seçenekleri sunan tatil rezervasyon hizmetleri markasıdır.Firma Antalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cacazi",
+    "description": "Cacazi, 2021 yılında kurulmuş olan Electrima Teknoloji San. ve Tic. Ltd. Şti. bünyesindeki alıcılı kablosuz uzaktan kumandalı led kapı zili markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Knorr-Bremse",
+    "description": "Knorr-Bremse, 1905 yılında kurulmuş olan Knorr-Bremse AG bünyesinde üretilen fren sistemleri, akıllı kapı sistemleri, kontrol bileşenleri, raylı araçlar için klima sistemleri, burulma titreşim sönümleyicileri ve ticari araçlar için şanzıman kontrol sistemleri markasıdır.Knorr-Bremse AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

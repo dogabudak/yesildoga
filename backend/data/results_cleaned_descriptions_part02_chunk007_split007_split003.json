@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Abdullah Efendi",
+    "description": "Abdullah Efendi, BİM Birleşik Mağazalar A.Ş adına çeşitli firmalar tarafından fason olarak üretilen kuru kahve ile kahve makineleri markasıdır.BİM (Birleşik Mağazalar), Türkiye’de faaliyetlerine 1995 yılında 21 mağazayla başlamıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-09-19"
+  },
+  {
+    "company": "Pino",
+    "description": "Pino, 1976 yılında kurulan Pino Kozmetik bünyesindeki parfüm ve kozmetik ürünleri markasıdır.Pino Kozmetik Ankara’nın muhtelif yerlerinde 16 kozmetik mağazasıyla faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ardell",
+    "description": "Ardell, 1971 yılında Arnold ve Sydell Miller tarafından kurulan Ardell Lashes & Beauty bünyesindeki takma kirpik ve kaş, ruj, gözkalemleri, paletler markasıdır.Ardell sterilize edilmiş insan saçından kirpik üretiyor.Ardell Lashes & Beauty Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Merit Plastik",
+    "description": "Merit Plastik, 2012 yılında kurulan Merit Plastik Kauçuk İnş. San. ve Tic. Aş. bünyesinde üretilen yumuşak PVC, termoplastik elastomer, termoplastik vulkanizat ve termoplastik kauçuk granül hammadde markasıdır.Ürünlerini İzmir’deki 8 bin 300 metrekarelik açık ve 4 bin 500 metrekarelik kapalı alana sahip fabrikasında üretmektedir.2014 yılında İtalya merkezli API SpA ile ortaklık kurmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Trump Towers AVM",
+    "description": "Trump Towers AVM, gayrimenkul geliştirme ve işletme şirketlerinden Ortadoğu Otomotiv Ticaret A.Ş.’ye aittir.Ortadoğu Otomotiv Ticaret A.Ş.’nin hisseleri Doğan Holding’e aittir.İstanbul’da 269 bin metrekarelik alan üzerinde 39 ve 37 katlı iki kuleden oluşan Trump AVM’nin 9 bin metrekarelik bir katı sadece çocuklara özel olarak tasarlandı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

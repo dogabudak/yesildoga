@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Deliveroo",
+    "description": "2013 yılında kurulmuş olan Roofoods Ltd. bünyesindeki çevrimiçi gıda dağıtım platformu markasıdır.40’tan fazla ülkede faaliyet göstermektedir.Roofoods Ltd. 2025 yılında Amerika merkezli Doordash Inc. tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Poolmate",
+    "description": "Shenzhen Chasing-Innovation Technology Co. Ltd. bünyesinde üretilen havuz temizleyici robotlar, yenilenmiş robotlar, aksesuarlar markasıdır.Shenzhen Chasing-Innovation Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Lovekini",
+    "description": "2016 yılında kurulmuş olan Lovekini Plaj Giyim ve Aksesuarları Testil İmalat İthalat İhracat ve Satış San. ve Tic. Ltd. Şti. bünyesindeki mayo, bikini, tunik, plaj çantası, clutch ve plaj havlu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cooktek",
+    "description": "1994 yılında kurulmuş olan ticari mutfaklar ve restoranlar için indüksiyon ısınma, yemek pişirme ve ısıtmalı dağıtım sistemleri markasıdır.Markayı 2004 yılında Amerika merkezli Middleby Corporation tarafından satın alınmıştır.Bünyesindeki markalar;AnetsAPW WyottBakers PrideBeechBKIBlodgettBloomfieldBritanniaCarter HoffmannCelfrostConcordiaCookTekCrownCTXDesmonDoyonEswoodEVO AmericaFirexFriFriFollettGigaGlobeGoldsteinHolmanHounoIMCJadeJoeTapJosperLab2FabLangLincatMagic Kitch’nMarket ForgeMarsalMarvel ScientificMiddleby MarshallNiecoNuVuPerfect FryPitcoQualservSouthbendSS BrewtechStarSveba DahlenTaylor CompanyToastmasterTurbochefU-Line CommercialUltrafryerVarimixerWellsWunder-Bar",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Stilmax",
+    "description": "2001 yılında kurulmuş olan HSC Arıtım San. ve Tic. A.Ş. bünyesindeki endüstriyel su arıtma cihazı ekipmanları markasıdır.ISO 9001, ISO 22000, ISO 27001 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünleri 30’a yakın ülkeye ihraç edilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

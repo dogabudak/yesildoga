@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Lawton",
+    "description": "1947 yılında kurulmuş olan Lawton Medizintechnik GmbH & Co. KG bünyesinde üretilmiş tıbbi cihazlar markasıdır.2022 yılında faaliyetlerini durduran Lawton Medizintechnik GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Vulkano",
+    "description": "2013 yılında kurulmuş olan Zococity SL bünyesinde üretilen hoparlörler, subwoofer, aksesuarlar markasıdır.Zococity SL İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Bambala",
+    "description": "2019 yılında kurulmuş olan Hande Erguner İnce – Bambala Ticaret bünyesinde üretilen atıştırmalıklar, dondurularak kurutulmuş ürünler, köpek ödül kurabiyesi, kuru çorba harçları markasıdır.Bebek ve çocuklar için temiz içerikli ürünler üretmektedir. Ürünleri sofra şekeri, tuz ve koruyucu içermez.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Asobu",
+    "description": "1990 yılında kurulmuş olan Ad-N-Art Inc. bünyesindeki şişeler, yiyecek kapları, termos, kupa, aksesuarlar markasıdır.Ad-N-Art Inc. Kanada merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ayca Süt",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

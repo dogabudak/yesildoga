@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Funky Chairs",
+    "description": "2007 yılında kurulmuş olan Pirana Bilişim Teknolojileri Reklam Av ve Kamp Malzemeleri Tic. Ltd. Şti. bünyesinde üretilen katlanabliir kamp sandalyeleri markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Keepway",
+    "description": "2002 yılında kurulmuş olan Kaifeng Machinery Co. Ltd. bünyesinde üretilen takım tezgahları markasıdır.Kaifeng Machinery Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Haruharu Wonder",
+    "description": "2003 yılında Jae Jeong tarafından kurulmuş olan DFS Company Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri bitkisel içeriklidir ve hayvanlar üzerinde test edilmemektedir.DFS Company Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Gumitamin",
+    "description": "2022 yılında kurulmuş olan Next Food Gıda A.Ş. bünyesindeki çiğnenebilir form takviye edici gıda markasıdır.Glikoz şurubu, sığır jelatini içerir, gluten içermez.GMP ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Helikon Tex",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sikkens",
+    "description": "Sikkens, 1792 yılında, kurucu Wiert Willem Skens tarafından kurulan boya markasıdır.Sikkens dünyanın en büyük küresel boya ve kaplama şirketi olan AkzoNobel grubunun bir parçasını oluşturur.Merkezi, Hollanda olan AkzoNobel ürünlerini 80’den fazla ülkede satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Scooter",
+    "description": "Scooter, 1993 yılında kurulan Macro Ayakkabı ve Otelcilik San. ve Tic. A.Ş. bünyesindeki ayakkabı markasıdır.Su geçirmeyen ve ayağın nefes almasına olanak sağlayan Watertight teknolojisini kullanmaktadır.Macro Ayakkabı, Fikret Şerafettinoğlu’na aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Turtle Wax Ülke",
+    "description": "Turtle Wax, 1941 yılında Ben Hirsch tarafından kurulan Turtle Wax Inc. bünyesindeki otomobil temizlik bakım ürünleri markasıdır.Amerikan merkezli Turtle Wax şirketinin İngiltete’deki tesisleri uluslararası üretim ve dağıtım merkezini oluşturmaktadır.Ürünleri 60’tan fazla ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rexel Ülke",
+    "description": "Rexel, 1992 yılında ACCO Brands tarafından satın alındı. Rexel iş makineleri, kırtasiye ve ofis malzemeleri; kağıt İmha Makineleri, zımbalar, delgeçler markasıdır.ACCO Brands Corporation Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Marob",
+    "description": "Marob, 1860 yılında kurulan Marietti Coltelleria S.R.L. bünyesinde üretilen bıçaklar, çatal bıçak takımı, çırpma mikseri, pizza kesici, fırça, kepçe, patates soyucu, mini rende, süzgeç, yumurta sarisi ayırıcı, mutfak gereçleri, kahve makineleri, makaslar, tırnak makası, törpü, cımbız markasıdır.Marietti Coltelleria S.R.L. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.Bünyesindeki markalar;MariettiMarobWonder",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2021-11-22"
+  }
+]

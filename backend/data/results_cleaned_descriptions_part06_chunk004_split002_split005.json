@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Balin",
+    "description": "Balin, 2012 yılında Detay Gıda San. ve Tic. A.Ş. tarafından satın alınan çikolata, gofret, şekerleme markasıdır.ISO 9001, ISO 14001, ISO 18001, ISO 22000 belgelerine sahiptir.Detay Gıda San. ve Tic. A.Ş. Altınmarka grubu bünyesindedir. İstanbul merkezli firma ürünlerini İstanbul ve Tekirdağ’da bulunan fabrikalarında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sobsan",
+    "description": "Sobsan, 2000 yılında kurulan Remzi-S MMC bünyesinde üretilen boya ürünleri, yapıştırıcılar, vernikler, astarlar, iç ve cephe boyaları, endüstriyel boyalar, fayans-seramik yapıştırıcılar, su bazlı boyalar, dekoratif boyalar, gemi boyaları, tamir ve inşaat aletleri markasıdır.ISO 9001, ISO 45001 belgelerine sahiptir.Remzi-S MMC Azerbaycan merkezlidir ve ürünlerini Azerbaycan’da bulunan tesislerinde üretmektedir. Ürünlerini BDT ve Orta Asya ülkeleri ile Orta Doğu ülkelerine ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Germencik Organik",
+    "description": "Germencik Organik, 2020 yılında kurulan Oleogustus Gıda Ltd. Şti. bünyesindeki kuru gıdalar, hurma, cennet hurması, gün kurusu kayısı, kestane, kuruyemiş, incir çekirdeği, sarı kantaron, kekik, çörek otu, ardıç, lavanta, saf gül suyu, kozalak şurubu, incir kürü, zeytin yaprağı çayı markasıdır.Oleogustus Gıda Ltd. Şti. Aydın merkezlidir ve Aydın’ın dağlarından seçilmiş doğal ürünler sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "MST Machine Sazi Tabriz",
+    "description": "MST Machine Sazi Tabriz, 1967 yılında kurulan Machine Sazi Tabriz Co. bünyesinde üretilen torna tezgahları, freze tezgahları, delme makineleri, işleme merkezleri, taşlama makineleri, alet kutuları markasıdır.Machine Sazi Tabriz Co. İran’da Doğu Azerbaycan Eyaleti’nin yönetim merkezi olan Tebriz merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  },
+  {
+    "company": "Farmand",
+    "description": "Farmand, 1994 yılında kurulan Parand Chocolate Co. bünyesinde üretilen çikolata, jöle ve toz içecek, kakao kreması, draje, gofret, bisküvi, şekerleme markasıdır.Saf kakao yağı kullanarak ürünlerini sunmaktadır.Parand Chocolate Co. İran merkezlidir. Ürünlerini İran’da 70 bin metrekarelik alanda bulunan tesislerinde üretmekte ve 14’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  }
+]

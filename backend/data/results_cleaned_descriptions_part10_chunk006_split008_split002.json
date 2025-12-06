@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Uni-Jet",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Gustavsberg",
+    "description": "Villeroy & Boch Group bünyesindeki banyo koleksiyonları, banyo lavabosu, banyo mobilyaları, duş başlıkları, küvet, musluklar, tuvalet markasıdır.Villeroy & Boch Group Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "7LS",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cocoavia",
+    "description": "1911 yılında kurulmuş olan Mars Incorporation bünyesindeki kakao gıda takviyesi markasıdır.Mars Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jesus Jeans",
+    "description": "1994 yılında kurulmuş olan BasicNet S.p.A. bünyesindeki kot pantolon markasıdır.BasicNet S.p.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

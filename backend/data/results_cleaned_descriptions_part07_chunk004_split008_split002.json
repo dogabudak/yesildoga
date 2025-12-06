@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Tonkinos",
+    "description": "Tonkinos, 1984 yılında Niyazi Önen tarafından kurulan Dardanel Önentaş Gıda San. A.Ş. bünyesindeki ton balığı markasıdır.Balıkları Hint, Atlantik ve Pasifik okyanuslarından seçilmektedir.Firma Çanakkale merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gaynor Minden",
+    "description": "Gaynor Minden, 1992 yılında John Minden ve Eliza Gaynor Minden tarafından kurulan Gaynor Minden Inc. bünyesindeki ayakkabı, giyim, aksesuarlar markasıdır.Bale dansçıları için ayakkabı ve giyim konusunda uzmanlaşmıştır ve ürün yelpazesini yıllar içinde diğer dans türlerine uygun teknik terlikler, mayolar, taytlar, ısınmalar, aksesuarlar, tutuş ve eğitim yardımlarını içerecek şekilde genişletmiştir.Gaynor Minden Inc. Amerika merkezlidir ve ürünlerini 80 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ovelio",
+    "description": "Ovelio, Ove Gıda San. ve Tic. A.Ş. bünyesinde üretilen zeytinyağı, zeytin, balzamik sirke ve akdeniz gurme gıda ürünleri markasıdır.Ürün yelpazesi tüm zeytinyağı türleri, balzamik sirke, yeşil ve siyah zeytinler, deniz tuzları, baharatlar, orijinal bal ve salamura sebzelerinden oluşmaktadır. Ürünleri yüzde yüz Doğaldır.ISO 9001, ISO 22000, HELAL ve KOŞER belgelerine sahiptir.Firma İzmir merkezlidir ve Aydın’da bulunan fabrikasında ürettiği ürünlerini 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Öz Diyarbakır Seyahat",
+    "description": "Öz Diyarbakır Seyahat, 2012 yılında kurulmuş olan Öz Diyarbakır Seyahat Tic. Ltd. Şti. bünyesinde şehirler arası tarifeli kara yolu yolcu taşımacılığı hizmeti markasıdır.Firma Diyarbakır merkezlidir. Türkiye’nin 7 bölgesine seferler düzenlemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baykar Tekstil",
+    "description": "Baykar, 1984 yılında kurulmuş olan Baykar Tekstil San. ve Tic. A.Ş. bünyesinde üretilen eşofman, iç giyim ve pijama ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

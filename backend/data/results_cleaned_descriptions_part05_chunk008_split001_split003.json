@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Calico",
+    "description": "Calico, 2007 yılında kurulan Kaliko Tekstil Turizm San. ve Tic. Ltd. Şti. bünyesinde üretilen organik bez oyuncaklar, bebek giysileri, ev tekstil ürünleri, günlük ve spor dış giysiler markasıdır.Ürünlerini Hollanda, Almanya, İngiltere, İsrail, İsveç ve İspanya gibi ülkelere ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kativa",
+    "description": "Kativa, 1996 yılında kurulan Starbrands Group bünyesinde üretilen saç bakım ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Starbrands Group Amerika merkezlidir. Dünyada 60’tan fazla ülkede varlığı olan bir şirkettir.Bünyesindeki markalar;BMTHappy AnneKativaNexStereo",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Burçelik",
+    "description": "Burçelik, 1968 yılında kurulan Burçelik Bursa Çelik Döküm San. A.Ş. bünyesinde üretilen döküm, makina ve endüstriyel vana markasıdır.Çelik döküm dışında sabit ve mobil taş kırma ve eleme tesisleri, kelebek ve küresel vana ve özel makineleri üretmektedir.Firma Bursa merkezlidir ürünlerini Nilüfer OSB’de bulunan 29 bin metrekarelik alandaki 20 bin 50 metrekarelik kapalı alanda üretmektedir.ISO 9000, BUREAU VERITAS Atölye, TSE, API, CE PED 2014/68EU, PCT TH 02 , Lloyd’s Register ve TÜV belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Truth Social",
+    "description": "Truth Social, 2021 yılında Trump Media & Technology Group bünyesinde kurulan sosyal medya platformudur. Bu platformu diğerlerinden ayıran en önemli özellik çok sayıda platformu bir araya toplaması ve politik ideolojiye karşı ayrımcılık yapmadan açık, özgür ve dürüst bir küresel sohbeti teşvik eden sosyal medya platformu olmasıdır.Truth Social, AGPLv3 lisansı altında yayımlanan ücretsiz ve açık kaynaklı bir yazılım olan Mastodon’a dayanmaktadır.Trump Media & Technology Group Amerika merkezlidir sahibi ABD eski başkanı Donald John Trump’dır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bellavista Collection",
+    "description": "Bellavista Collection, 1984 yılında Attilio ve Fabrizio Zanni tarafından kurulan Casa Zeta S.r.l. bünyesindeki mobilya, tablo, ev dekorasyonu ürünleri markasıdır.Ürünlerinin tümü el yapımıdır.Casa Zeta S.r.l. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

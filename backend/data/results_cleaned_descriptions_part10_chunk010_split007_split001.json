@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Vantex",
+    "description": "1938 yılında kurulmuş olan Cheminova A/S bünyesinde üretilen bitki koruma ilacı markasıdır.Cheminova A/S Amerika merkezli FMC Corporation’ın bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Syinix",
+    "description": "2006 yılında kurulmuş olan Transsion Holdings Co. Ltd. bünyesinde üretilen ev aletleri markasıdır.Ürün yelpazesinde akıllı televizyon, klima, buzdolabı, çamaşır makinesi, mikrodalga fırın vb. ürünler yer almaktadır.Transsion Holdings Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Traulsen",
+    "description": "1995 yılında kurulmuş olan ITW Food Equipment Group LLC bünyesindeki ticari soğutma ürünleri markasıdır.ITW Food Equipment Group LLC Amerika merkezli Illinois Tool Works’ün bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Autotek",
+    "description": "2001 yılında kurulan Maxxsonics Inc. bünyesindeki mobil, hoparlör, yükselteç, subwoofer ve aksesuarlar markasıdır.Maxxsonics Usa Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Velvice",
+    "description": "2025 yılında kurulmuş olan Velvice Teknoloji ve Tic. Ltd. Şti. bünyesindeki saç şekillendirme çözümleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Pasta Lusso",
+    "description": "Pasta Lusso, 1972 yılında kurulan Mutlu Makarnacılık San. ve Tic. A.Ş. bünyesinde üretilen makarna, un ve irmik markasıdır.Makarna Fabrikaları toplam 21 bin metrekarelik alanda, irmik fabrikası ise toplam 16 bin metrekarelik kapalı alanda faaliyet göstermektedir. Ürünlerini 100’ün üzerinde ülkeye ihraç etmektedir.ISO 9001, ISO 22000, FSSC 22000, HELAL ve BRC belgelerine sahiptir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hasköy Bakliyat",
+    "description": "Hasköy Bakliyat Nerenin Malı MarkasıHasköy, 2016 yılında kurulan Hasköy Tarım Gıda Ambalaj ve Hayvancılık San. Tic. Ltd Şti. bünyesinde üretilen irmik, buğday, bulgur, fasulye, mısır, mercimek, nişasta, nohut ve pirinç çeşitleri markasıdır.Firma ürünlerini Konya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Winforce",
+    "description": "Winforce, 2007 yılında kurulan Winforce AG bünyesinde üretilen protein tozu, toz, jeller, güçlendiriciler veya içme şişeleri şeklinde izotonik içecekler markasıdır.Firma sporcular için spor aktivitelerinde ihtiyaç duyduğu spor ürünlerini hatta vegan ürünleri bile sunmaktadır.Winforce AG İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Mystic",
+    "description": "Mystic, 2017 yılında kurulan Hermos Gıda Ltd. Şti. bünyesinde kedi ve köpekler için üretilen kuru mama markasıdır.Türkiye’nin ilk tahılsız mamasıdır ve protein ihtiyacının yüzde 90’ını hayvansal protein ile karşılamaktadır.Ürünlerini Manisa OSB’de 13 bin 500 metrekarelik alanda bulunan fabrikasında üretmekte ve 20’den fazla ülkeye ihraç etmektedir.ISO 9001, ISO 14001, ISO 22000, BRC belgelerine sahiptir.Bünyesindeki markalar;BenefitCuddyKlickerMyfoodMysticPawpaw",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Haustek",
+    "description": "Haustek, 2005 yılında kurulan Haustek Elektrikli Aletler San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen far infrared cam plazma ısıtıcılar markasıdır.Ürünlerini Türkiye’de üreten firmanın Çin ve Avusturalya’da iki bölge ofisi bulunmaktadır.Bünyesindeki markalar;BurghaubContigoHaustekHaustek Alles WarmLotusgrillMangrill",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

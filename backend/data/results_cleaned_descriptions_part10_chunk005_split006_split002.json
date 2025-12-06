@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Adabella Pizza",
+    "description": "2022 yılında kurulmuş olan Adabella Pizza San. ve Tic. Ltd. Şti. bünyesindeki pizza şubeleri markasıdır.Pizza dışında burger, çıtır tavuk, atıştırmalıklar, tatlı ve içecekler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Akaso",
+    "description": "2013 yılında kurulmuş olan Shenzhen Sena Electronic Technology Co. Ltd. bünyesinde üretilen aksiyon kameraları, IP kameraları, bebek monitörleri, çizgi kameralar, fitness izleyicileri, projektörler, video kapı zilleri markasıdır.Shenzhen Sena Electronic Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir. Ürünlerini 20’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Akella",
+    "description": "1978 yılında kurulan Akanlar Çikolata İçecek Gıda San. Ltd. Şti. bünyesinde üretilen fındık aromalı kakaolu krem çikolata, kakaolu fındık kreması markasıdır.ISO 9001, ISO 22000, ISO 45001 ve Helal belgelerine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini 3. OSB’de üretmektedir ve 40’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Merci",
+    "description": "1903 yılında kurulan August Storck KG bünyesinde üretilen tablet çikolatalar markasıdır.Karışık, sütlü, bitter, gevrek badem gibi çeşitlere sahiptir.August Storck KG Almanya merkezlidir ve ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "HXSJ",
+    "description": "2013 yılında kurulmuş olan Shenzhen Xinshijie Industrial Co. Ltd. bünyesinde üretilen fare, mekanik klavye, membran klavye, klavye ve fare kombinasyonu seti, kamera ve mikrofon markasıdır.Shenzhen Xinshijie Industrial Co. Ltd. Çin merkezlidir ve tüm ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

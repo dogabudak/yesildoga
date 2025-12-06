@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Best Clump",
+    "description": "Best Clump, 1995 yılında kurulmuş olan Ünye Madencilik San. ve Tic. Ltd. Şti. bünyesinde üretilen kedi kumu markasıdır.ISO 9001, ISO 22000, ISO 22716 belgelerine sahiptir.Firma Ordu merkezlidir ve ürünlerini çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;Best ClumpBiokittyCat ExpertKittymax",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Petlovers",
+    "description": "Petlovers, 1986 yılında kurulan United Petfood Producers NV. bünyesindeki evcil hayvan mamaları ve aksesuarları markasıdır.Firma kuru ve ıslak evcil hayvan maması, bisküvi ve atıştırmalıklar ile özel markalı ürünlerin üreticisidir.United Petfood Producers NV. Belçika merkezlidir ve ürünlerini 95’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Yama Lokma",
+    "description": "Yama, 1987 yılında kurulmuş olan Mitacan Dış Tic. ve Otomotiv A.Ş. bünyesindeki profesyonel havalı el aletleri, balanserler, hortumlar, metal rekorlar şartlandırıcılar ve aksessuarları, havalı cr-mo lokma ve lokma takımları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mercy Mama",
+    "description": "Mercy, 2008 yılında kurulmuş olan Lider Petfood Yem San. ve Tic. A.Ş. bünyesinde üretilen evcil hayvan mamaları markasıdır.ISO 9001, ISO 22000, GMP belgelerine sahiptir.Firma İzmir merkezlidir. Ürünlerini 20 bin metrekaresi kapalı toplam 40 bin metrekarelik alanda bulunan fabrikalarında üretmektedir ve 65’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Barebones",
+    "description": "Barebones, 2012 yılında kurulmuş olan Barebones Systems LLC bünyesindeki bahçecilik, yemek pişirme, kamp yapma ürünleri, el feneri ve aydınlatma ürünleri, depolama ve taşıma ürünleri, kamp malzemeleri markasıdır.Barebones Systems LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

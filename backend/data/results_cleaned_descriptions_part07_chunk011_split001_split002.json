@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Pol’s",
+    "description": "Pol’s, 2017 yılında kurulmuş olan Pols Erm Tarım A.Ş. bünyesinde üretilen atıştırmalıklar, dondurulmuş ürünler, kahvaltı ürünleri, sürülebilir ürünler markasıdır.Ürünleri gdo, gluten, renklendirici, tatlandırıcı, koruyucu ve ilave şeker içermez.Firma Karaman merkezlidir. Ürünlerini 4 bin metrekarelik kapalı tesisinde üretmektedir.Bünyesindeki markalar;FreezefreshPol’sPol’s Freeze DrıedPol’s Freeze DryPol’s Freeze FreshPol’sgourmetPol’sgurmePol’slife",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wakol",
+    "description": "Wakol, 1949 yılında kurulmuş olan Ardex Gmbh bünyesinde üretilen yapıştırıcılar, döşeme malzemeleri, sızdırmazlık bileşikleri, köpük yapıştırıcılar markasıdır.Ardex Gmbh Almanya merkezlidir. 2006 yılından beri Türkiye’de faaliyet göstermektedir ve Tuzla Deri OSB’de bulunan tesisinde üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Adatepe İçecek",
+    "description": "Adatepe İçecek Nerenin Malı MarkasıAdatepe, 2000 yılında kurulmuş olan Hacılütoğulları Gıda Oto. San. Tic. Ltd. Şti. bünyesinde üretilen meyve suları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AdatepeAdatepezadeExxen Energy DrinkMinisosiNefisYörük Ana",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Madame Beauty",
+    "description": "Madame Beauty Reflect Your Beauty, 2018 yılında kurulmuş olan Naturaturko Kimya Kozmetik Turizm Tekstil Gıda İthalat İhracat ve Sanayi Limited Şirketi bünyesinde üretilen kişisel bakım ürünleri ve sabun markasıdır.Firma Antalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Topesel",
+    "description": "Topesel, 2008 yılında kurulmuş olan Tuopinsaier Technology Co. Ltd. bünyesinde üretilen USB flash sürücü, microsd kart, taşınabilir SSD, USB hub ve kablo, ev aletleri, hızlı şarj cihazı markasıdır.Tuopinsaier Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

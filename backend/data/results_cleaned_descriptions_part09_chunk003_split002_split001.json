@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Abrias",
+    "description": "Abrias1996 yılında kurulmuş olan Evriva Endüstriyel Kimya ve Kozmetik Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen çok amaçlı temizleyiciler, oto yıkama şampuanları, halı yıkama şampuanları markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kenvue",
+    "description": "Kenvue2022 yılında kurulmuş olan Kenvue Inc. bünyesindeki tüketici sağlığı markasıdır.Gelir açısından dünyanın en büyük saf tüketici sağlığı şirketidir.Kenvue Inc. Amerika merkezlidir.Bünyesindeki markalar;AveenoBand-AidBenadrylBenylinClean & ClearImodiumJohnson’s BabyListerineLubridermMotrinMylantaNeosporinNeutrogenaPepcidRogaineSudafedTrosydTylenolVisineZyrtec",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Redefine Meat",
+    "description": "Redefine Meat2018 yılında kurulmuş olan Redefine Meat Ltd. bünyesinde üretilen bitki bazlı et markasıdır.Ürünler bitki bazlıdır, GDO’suz bileşenlerle yapılır ve herhangi bir hayvansal bileşen veya yan ürün içermez.Redefine Meat Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Cycle Mobility",
+    "description": "Cycle2018 yılında kurulmuş olan Cycle Mobility Holding Gmbh bünyesindeki elektrikli bisiklet kiralama hizmetleri markasıdır.Elektrikli bisikletler için sadece teslimat üyelik hizmeti sunarlar. E-bisikletleri ve e-kargo bisikletleri, son mil teslimatı için kullanılmaktadır.Cycle Mobility Holding Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ovion",
+    "description": "Ovion1973 yılında kurulmuş olan Ovion Teknoloji San. Tic. A. Ş. bünyesinde üretilen mobil cep telefonu ve taşınabilir teknolojileri markasıdır. Ürünlerini 100’den fazla ülkeye ihraç etmektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

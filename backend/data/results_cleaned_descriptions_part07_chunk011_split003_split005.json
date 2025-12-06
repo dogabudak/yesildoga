@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Boco Yağ",
+    "description": "Boco Yağ Nerenin Malı MarkasıBoco, 2017 yılında kurulmuş olan Koperatiff Ofis Kafe Ajans Hizmetleri Ltd. Şti. bünyesinde üretilen cilt bakım ürünleri, yağlar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pukka",
+    "description": "Pukka, 2021 yılında kurulan Ekaterra B.V. bünyesindeki bitki çayı ve takviyesi markasıdır.Ekaterra B.V., İngiltere menşeli özel sermaye ve yatırım danışmanlığı şirketi CVC Capital Partners SICAV-FIS S.A.’ya aittir. 100’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Melvita",
+    "description": "Melvita, 1976 yılında Olivier Baussan tarafından kurulan The L’occitane Group bünyesindeki vücut, yüz ve ev ürünleri perakende markasıdır.Ürün içerikleri doğaya ve biyoçeşitliliğe zarar vermeden üretilir ve geri dönüştürülebilir ambalajlar kullanmaktadır.The L’occitane Group Lüksemburg merkezlidir. Şirketin yüzde 75 hissesi Avusturyalı iş adamı Reinold Geiger’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Securiturk",
+    "description": "Securiturk, 2006 yılında kurulmuş olan Securiturk Elektronik Güvenlik Sistemleri A.Ş. bünyesindeki elektronik güvenlik sistemleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "YEC Yedek Parçalar",
+    "description": "YEC Yedek Parçalar Hangi Ülkenin Malı MarkasıYEC, 1946 yılında kurulmuş olan Yamaguchi Electric Industry Co. Ltd. bünyesinde üretilen elektrikli araba ve motosiklet için kapak, bobinler, çeşitli anahtarlar ve diğer parçalar markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Yamaguchi Electric Industry Co. Ltd. Japonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

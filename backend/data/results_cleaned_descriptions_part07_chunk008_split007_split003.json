@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Dizayn Pack",
+    "description": "Dizayn Pack, Dpack Baskı ve Ambalaj Teknolojileri A.Ş. bünyesinde üretilen aseptik ambalaj malzemesi, esnek ambalaj malzemesi, gıda dolum, karton ambalaj markasıdır.ISO 9001, ISO 22000, FSSC 22000 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Türkiye’de üretmektedir ve 24 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Titan Medical",
+    "description": "Titan Medical, Titan Medical Inc. bünyesindeki robotik cerrahi, genel cerrahi ve 3 boyutlu yüksek çözünürlüklü görselleştirme markasıdır.Firma tek erişimli cerrahide uygulama için robotik destekli teknolojiler geliştirmeye odaklanmıştır.Titan Medical Inc. Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Mirel Süt Ürünleri",
+    "description": "Mirel Süt Ürünleri Nerenin Malı MarkasıMirel, Mirel Süt Ürünleri A.Ş. bünyesinde üretilen krema, peynir altı suyu tozu, süt tozu, sadeyağ markasıdır.TS EN ISO 9001, FSSC 22000 ISO/TS 22002-1, HELAL ve KOSHER belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini Konya Ereğli OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ekso",
+    "description": "Ekso, 2004 yılında kurulmuş olan Ekso Süt ve Gıda Mamülleri Tic. A.Ş. bünyesinde üretilen peyniraltı suyu tozu, süt tozu, yağsız süt tozu markasıdır.Firma Antalya merkezlidir. Ürünlerini Antalya OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Walkway",
+    "description": "Walkway, 1999 yılında temelleri atılan İs-Ka Ayakkabıcılık San. Tic. Ltd. Şti. bünyesindeki ayakkabı, çeşitli spor giyim, fitness ekipmanları ve spor malzemeleri markasıdır.Firma Elazığ merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

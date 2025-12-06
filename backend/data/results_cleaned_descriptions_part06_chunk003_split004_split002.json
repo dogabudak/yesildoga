@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kappa Moto",
+    "description": "Kappa, 1978 yılında Giuseppe Visenzi tarafından kurulan Givi SPA bünyesinde üretilen motosiklet aksesuarları ve malzemeleri markasıdır.Givi SPA İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.Bünyesindeki markalar;KappaGivi",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Turnitin",
+    "description": "Turnitin, 1998 yılında Advance Publications’ın bir yan kuruluşu olarak kurulan Turnitin LLC bünyesindeki internet tabanlı bir intihal tespit hizmeti markasıdır.Şirket, lisanslarını üniversite ve liselere satar ve yazılım bir hizmet olarak web sitesini kullanarak, gönderilen belgeleri kendi veri tabanına ve diğer web sitelerinin içeriğine karşı intihal tespit etmek amacıyla kontrol eder.Turnitin LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kertil Çam",
+    "description": "Kertil Çam, 1962 yılında kurulan Kertilçam Kimya Kozmetik Gıda ve Tic. Ltd. Şti. bünyesinde üretilen limon, beyaz zambak, tütün, çam çiçeği, ceviz çiçeği, kekik, akasya kolonyaları markasıdır.Ürün yelpazesinde kolonya dışında oda parfümü, bambu oda kokusu, yüzey temizleyici, doğal sabun gibi ürünler yer almaktadır.Firma Balıkesir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Repertoire",
+    "description": "Repertoire, 2011 yılında İlhan Tanacı tarafından kurulan Deha Mağazacılık Ev Tekstil Ürünleri San. ve Tic. A.Ş. bünyesindeki kozmetik, renkli mum, oda parfümleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Normande",
+    "description": "Normande, Nk Global LLC bünyesindeki elektrikli mutfak aletleri, sebze ve meyve sıkma makineleri, çamaşır, bulaşık yıkama makineleri markasıdır.Nk Global LLC İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

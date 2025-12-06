@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Mag-Feed",
+    "description": "Mag-Feed, 1922 yılında kurulmuş olan A.B. Carter Inc. bünyesindeki iplik endüstrisi için ürün ve çözümler markasıdır.Temel ürünler arasında çelik ve naylon gezginler, halkalar, bobinler, bantlar ve kayışlar, hava ekleme ve düğümleme ekipmanları, laboratuvar test ekipmanları ve halı endüstrisi için paslanmaz çelik kayışlar, karşı bantlar, baskı ruloları ve diğer aksesuarlar bulunur.A.B. Carter Inc. Amerika merkezlidir. Ürünleri 44 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Accotex",
+    "description": "Accotex, Saurer Intelligent Technology AG bünyesinde üretilen elastomer komponentler, manşonlar, dokuma makineleri, merdaneler ve borular markasıdır.Saurer Intelligent Technology AG 2021 yılında İsviçre merkezli Rieter Holding AG tarafından satın alındı.Bünyesindeki markalar;AccotexDaytex",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Monavit",
+    "description": "Monavit, 1997 yılında kurulmuş olan Öz Ata Plastik Kalıp İnşaat İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki musluk ve armatürler, duş sistemleri, engelli ekipmanları, doğrusal drenajlar, aksesuarlar markasıdır.ISO 9001, ISO 10002 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Brevini",
+    "description": "Brevini, 1960 yılında kurulmuş olan Dana Incorporated bünyesindeki redüktörler, dişli tahrikler, planet tahrikler, şanzımanlar, dişli motorlar, hidrolik bileşenler ve elektronik bileşenler markasıdır.Dana Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ms Hydraulic",
+    "description": "Ms Hydraulic, 1963 yılında kurulmuş olan M+S Hydraulic Plc. bünyesinde üretilen hidrolik yörünge motorları, direksiyon üniteleri, frenler ve aksesuarları markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Hydraulic Plc. Bulgaristan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  }
+]

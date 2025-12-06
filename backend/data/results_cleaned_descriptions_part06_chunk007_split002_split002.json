@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Entes",
+    "description": "Entes, 1980 yılında kurulan Entes Elektronik Cihazlar İmalat ve Tic. A.Ş. bünyesinde üretilen çeşitli elektronik koruma ve kontrol röleleri ile ölçü aletleri markasıdır.ISO 9001, ISO 14000 belgelerine sahiptir. AR-GE bölümü tarafından devamlı geliştirilen ve tasarlanan ürünleri, otomasyon yöntemi ve S.M.D. teknolojisiyle üretilmektedir. Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vodafone Türkiye",
+    "description": "Vodafone, 1982 yılında kurulan Vodafone Group Plc bünyesindeki mobil, sabit telekomünikasyon ve teknoloji hizmetleri markasıdır.Dünya’nın 30 ülkesinde GSM operatörlüğü yapmaktadır.Vodafone, Türkiye pazarına 2005 yılında, TMSF’den Telsim’in Türkiye ve KKTC operasyonlarını satın alarak Vodafone Telekomünikasyon A.Ş. olarak girdi.Vodafone Group Plc İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Farplas",
+    "description": "Farplas, 1968 yılında kurulan Farplas Otomotiv A.Ş. bünyesinde üretilen binek ve ticari araç üreticileri için iç tavan sistemleri, iç ve dış cephe kaplamaları, aydınlatma ve aksesuarları markasıdır.Kocaeli merkezli firma Türkiye, Kore, Fransa, Romanya ve Tayland’da 7 üretim tesise sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fox Tv Türkiye",
+    "description": "Fox Tv Türkiye Kimin Hangi ÜlkeninFox Tv, 1986 yılında kurulmuş olan Fox Media LLC bünyesindeki televizyon kanalıdır.Fox Media LLC, 2019 yılında Amerika merkezli The Walt Disney Company tarafından satın alınmıştır. 2024 yılında kanalın adı Now Tv olarak değiştirilmiştir.Türkiye’deki Medya Grupları Devleri Sahipleri Listesi",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-02-25"
+  },
+  {
+    "company": "Batavus",
+    "description": "Batavus, 1904 yılında kurulan Batavus BV bünyesinde üretilen bisiklet ve ilgili bileşenler, mopedler ve motosikletler markasıdır.Marka 1999 yılında Hollanda merkezli Accell Group N.V. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Yun",
+    "description": "Yun, Yun N.V. bünyesinde üretilen cilt bakım ürünleri markasıdır.Cilt florasını onaran, canlı bakterilere dayanan krem ve spreyler geliştirir, ek olarak, cilt florasını koruyan ve güçlendiren yumuşak bileşenlerden oluşan sabunlar ve kremler geliştirir.Yun N.V. Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Paugge",
+    "description": "Paugge, 2007 yılında kurulan Entepe Teknoloji ve Tic. A.Ş. bünyesindeki displayport çevirici kablolar ve adaptörler, hdmi kablolar, usb-c görüntü kabloları ve adaptörleri, dijital kol saatleri, aksesuarlar markasıdır.Paugge markalı ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lion Club Energy Drink",
+    "description": "Lion Club, 1996 yılında kurulan Coşku Gıda Tekstil Elektronik ve Turizm Hizmetleri Ltd. Şti. bünyesindeki enerji içeceği markasıdır.Kafein, Glukoronolakton, Vitamin B2 / Riboflavin, Inositol, Taurin, Vitamin B5 / Pantotenik Asit içermektedir.Red Lion adıyla 1993 yılında Avusturya’da üretilen markanın tüm haklarını İstanbul merkezli firma 2006 yılında satın almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Erborian",
+    "description": "Erborian, 1976 yılında Olivier Baussan tarafından kurulan L’Occitane International S.A. bünyesindeki cilt bakım ürünleri markasıdır.Ürünlerini Fransa, Brezilya ve Güney Kore’de üretmekte ve 90’dan fazla ülkeye pazarlamaktadır.L’Occitane International S.A. Lüksemburg merkezlidir. Şirketin yüzde 75 hissesi Avusturyalı iş adamı Reinold Geiger’e aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "İnterpen",
+    "description": "İnterpen Nerenin Malı Markasıİnterpen, 1993 yılında kurulan Pidosan Plastik Doğrama ve İnşaat San. A.Ş. bünyesinde üretilen pvc kapı pencere markasıdır.Tamamı yerli sermayeli olan firma ürünlerini Ankara 1. OSB’de bulunan 20 bin metrekarelik alanda bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

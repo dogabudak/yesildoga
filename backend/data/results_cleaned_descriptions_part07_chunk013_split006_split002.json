@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Ulmair",
+    "description": "Ulmair, 2020 yılında kurulmuş olan Ulmair Gmbh & Co. KG bünyesinde üretilen hava temizleyicisi markasıdır.Ulmair Gmbh & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Naklet Nakliye",
+    "description": "Naklet, 1970 yılında kurulmuş olan Naklet Nakliyat ve Tic. Ltd. Şti. bünyesindeki karayolu taşımacılığı, uluslararası taşımacılık, yurtiçi karayolu taşımacılığı, depolama ve dağıtım hizmetleri, ağır ve gabari dışı proje taşımacılığı, tehlikeli atık taşıma hizmetleri markasıdır.ISO 9001 belgesine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Avofarm",
+    "description": "Avofarm, 2015 yılında kurulmuş olan Be4 Gıda Ürünleri İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki avokado yağı, makedamya yağı, hindistan cevizi yağı markasıdır.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bio Butter",
+    "description": "Bio Butter, 2018 yılında kurulmuş olan Göksoy Kozmetik İç Dış Tic. San. ve Paz. Ltd. Şti. bünyesindeki saç bakım yağı markasıdır.Firma Adana merkezlidir.Bünyesindeki markalar;Bio ButterBio Hair KeratinBio Keratin",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Usbepower",
+    "description": "Usbepower, 2005 yılında kurulmuş olan Shenzhen Microtest Co. Ltd. bünyesinde üretilen tüketici elektroniği ve bilgisayar, tablet, mobil aksesuarları markasıdır.Shenzhen Microtest Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

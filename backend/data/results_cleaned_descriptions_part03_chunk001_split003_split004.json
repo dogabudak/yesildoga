@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Stikbot",
+    "description": "Stikbot, ZING Toys tarafından üretilen fantastik oyuncaklar markasıdır.Zing Toys, Hong Kong merkezlidir.Bünyesindeki markalar:Air HunterzAir HuntressAir StormBlast BoxEverydayplayFiretekGlove A BubblesHyperstrikeKlaskgameLegendsOzwestStikbotWetheadYulutoysZing AirZing Blast OffZombie Slayerz",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Zomlings",
+    "description": "Zomlings, 1996 yılında Magic Box Int. Toys, S.L.U bünyesinde üretilen koleksiyonlar, oyun, oyuncak ve heykelcik markasıdır.Magic Box Int, Premier League, LFP, WWE, Simpsonlar, National Geographic, Universal Pictures, Disney, Spice Girls ve Pokemon gibi firmalarla bazı lisans ortaklığı yapmıştır.Magic Box Int. Toys, S.L.U İspanya merkezlidir.Bünyesindeki markalar:MojipopsSuperzingsZomlingsStarmonsters",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Clicformers",
+    "description": "Clicformers, 2001 yılında kurulan Clics NV bünyesindeki blok ve manyetik yapı oyuncak markasıdır.Clicformers ile 4 yaşından itibaren çocuklar için oyuncak yapılar inşa edilebilir. ABS plastikten üretilen bloklarla geometrik şekiller sağlanır.Clics NV Belçika merkezlidir ve ürünlerini Belçika’da üretmektedir.Clicformers ürünleri 40’tan fazla ülkede satılmaktadır.Bünyesindeki markalar:CLICFORMERSMAGFORMERSSTEMSTICK-OTILEBLOX",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2020-06-24"
+  },
+  {
+    "company": "Ritmüller",
+    "description": "Ritmüller, 1956 yılında kurulan Pearl River Piyano Grubu bünyesindeki piyano markasıdır.Dünyanın en büyük piyano üreticisidir. Ürünlerini 80’den fazla ülkeye ihraç etmektedir.2016 yılında Alman piyano üreticisi Wilhelm Schimmel hisselerinin yüzde 90’ını aldı ve Ritmüller üretimini bu fabrikaya aktardı.Pearl River Piyano Grubu Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nsup",
+    "description": "Nsup, 2015 yılında Sezag Ailesi tarafından kurulan Sezag Gıda Takviyeleri İlaç Kozmetik Tic. Ltd. Şti. bünyesindeki takviye edici gıdalar ve dermokozmetik ürünler markasıdır.GMP, ISO 22000, ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Luxell",
+    "description": "Luxell, 1972 yılında kurulan; pişirici, ısıtıcı, elektrikli ısıtıcı, mini ve tam boy fırın, tost makinası, barbekü ve su ısıtıcısı gibi çeşitli ev aletlerini bünyesinde barındıran Kumtel AŞ. markasıdır.Yerli sermayeli firma olan Kumtel AŞ. ürünlerini Kayseri OSB’de üretmektedir ve yüzde 70’ini 5 kıtada 105 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Majestik",
+    "description": "Majestik, 1991 yılında Ayhan, Ömer ve Sümer Canavar kardeşler tarafından kurulan Canavar Tekstil bünyesindeki 1994 yılında ortaya çıkan perdelik sektörü markasıdır.Yüzde yüz yerli sermayeli Canavar Tekstil üretimlerini 8 bin 200 metrekarelik alanda yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bose",
+    "description": "Bose, 1964 yılında Dr. Amar G. Bose tarafından kurulan ses sistemleri markasıdır.Ev ses sistemleri ve hoparlör, gürültü önleyici kulaklık, profesyonel ses sistemleri ve otomobil ses sistemleri üretmektedir.Hindistan asıllı Amerikalı Bose aynı zamanda ses alanındaki öncü teknik dahilerden biridir.Amerikan merkezli Bose Corporation’ın Türkiye dağıtıcısı Modern Elektronik.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Twix Markanın",
+    "description": "Twix, 1972 yılında kurulan Kumtel Dayanıklı Tüketim Malları Plastik San. ve Tic. A.Ş. bünyesinde üretilen ankastre ürünleri, mini fırın, tost makinesi ve elektrikli ısıtıcı markasıdır.Kumtel ürünleri Kayseri OSB’de üretilmektedir.Firma ürünlerinin yüzde 70’ini 5 kıtada 105 ülkeye ihraç etmektedir.Firmanın Amerikan merkezli Twix çikolata ile bir alakası yoktur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biskiato",
+    "description": "Twitto, 1996 yılında kurulan Şimşek Bisküvi A.Ş. bünyesindeki bisküvi markasıdır.Bisküvi ve çikolata üreticilerinden olan Şimşek Bisküvi, unlu ve şekerli gıda üretiminde son teknoloji ile üretim,14 yılda 1000 kişiye istihdam sağlarken, üçyılda Karaman’ın ihracat şampiyonu olan yerli sermayeli firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

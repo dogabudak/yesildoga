@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Nuance Communications",
+    "description": "Nuance Communications, 1992 yılında kurulan Nuance Communications Inc. bünyesindeki konuşma tanıma ve yapay zeka yazılımı teknolojisi markasıdır.Nuance Communications Inc. 2022 yılında Amerika merkezli Microsoft Inc. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Metzeler",
+    "description": "Metzeler, 1892 yılında Robert Friedrich Metzeler tarafından kurulan motosiklet lastiği markasıdır.1986 yılında Pirelli & C. spa tarafından satın alındı.Pirelli & C. S.p.A’nın yüzde 37’lik çoğunluk hisseleri Çin devletine aittir. Şirketin yüzde 14,1 hissesi Marco Tronchetti Provera’ya, yüzde 9,02 hissesi Çin merkezli Silk Road Fund Co. Ltd.’ye aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Owncloud",
+    "description": "Owncloud, 2011 yılında kurulan Owncloud Gmbh bünyesindeki açık kaynaklı dosya barındırma, paylaşma hizmeti markasıdır.Dosyalara her yerden ve herhangi bir cihazdan erişmelerini ve düzenlemelerini sağlayan açık kaynaklı dijital işbirliği yazılımı geliştirir.Owncloud Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nutreco",
+    "description": "Nutreco, 1994 yılında kurulan Nutreco N.V. bünyesindeki hayvan besleme, balık yemi ve işlenmiş et ürünleri markasıdır.Nutreco N.V. Hollandalı yatırım şirketi SHV Holdings’e aittir. 30’dan fazla ülkede yaklaşık 100 üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Hualong",
+    "description": "Hualong, 1993 yılında kurulan Shanghai Hualong Test Instruments Co. Ltd. bünyesinde üretilen test cihazları markasıdır.ISO 9001 belgesine sahiptir.Shanghai Hualong Test Instruments Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 130’dan fazla ülkeye satmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

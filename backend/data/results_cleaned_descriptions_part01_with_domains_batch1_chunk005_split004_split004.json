@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Hotiç",
+    "description": "Hotiç ayakkabı markası 1938 yılında Salih Hotiç tarafından kuruldu. Yurtiçi ve yurtdışında 162 mağazası bulunan HOTİÇ ayakkabı ve aksesuar üretiyor.Türkiye’nin yerli ve milli ayakkabı markası Hotiç döviz krizi nedeniyle konkordato ilan etti.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "L’era Fresca",
+    "description": "L’era Fresca yüzde 100 doğal içeriğe sahip olan ve formulü İtalya’dan getirilen gelato tarzı dondurma ve günlük süt markasıdır.Toksözgrup bünyesindeki Sanset Gıda Ürünleri Sanayi Ticaret A.Ş. tarafından üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-06-19"
+  },
+  {
+    "company": "Timex Ülke",
+    "description": "Timex, 1854 yılında kurulan Timex Group bünyesinde üretilen duvar ve masa saatleri, cep ve kol saatleri, kol saati kayışları ve bandları markasıdır.Timex Group USA Inc. Amerika merkezlidir. Dünya çapında satılan Timex saatlerinin yüzde 80’inden fazlası Filipinler’de bulunan fabrikasında üretilmektedir.Bünyesindeki markalar;FerragamoGCGuessNauticaTed BakerTimexVersaceVersus",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-03-17"
+  },
+  {
+    "company": "Valtra Markanın",
+    "description": "Valtra 1951 yılında kurulan traktör markasıdır. Marka 2004 yılında AGCO Corporation tarafından satın alınmıştır.Hattat Tarım Aletleri firması Türkiye distribütörlüğünü yapmaktadır.Amerikan merkezli AGCO Corporation bünyesinde yer alan markalar:AGCO PartsAGCO PowerAGCO ProtectionAGCO TraderChallengerFellaFendtFuseGleanerGSIMassey FergusonSunflowerValtraWhite Planters",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Teno",
+    "description": "Teno, 1987 yılında kurulmuş olan Hayat Kimya San. A.Ş. bünyesinde üretilen temizlik kağıtları markasıdır.Firma İstanbul merkezlidir. Ürünlerini 60’tan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;FamiliaFocusPapiaTeno",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-04-12"
+  }
+]

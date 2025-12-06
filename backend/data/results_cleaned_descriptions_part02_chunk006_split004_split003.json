@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bade Natural",
+    "description": "Bade Natural, 2016 yılında kurulan DEM Group Bilişim San. ve Tic. A.Ş. bünyesindeki doğal, boyasız ve kimyasal barındırmayan cilt bakım ürünleri markasıdır.Bitki tohumları ya da kabuklarından soğuk sıkım yöntemi ile üretilmiş sabit yağları ve bitkilerin yaprak, kabuk, çiçek, kök gibi kısımlarından buhar distilasyonu ile elde edilmiş uçucu yağları kullanır.Paraben, alkol, formaldehid, sülfat, alüminyum, mineral yağlar, petrol türevi hammaddeler içermez. Kanserojenik, mutajenik ve üreme için toksik olabilecek hiçbir madde kullanılmamaktadır. Sentetik koku, sentetik boya, zararlı koruyucu, SLS ve SLES içermez. Genetiği bozulmuş hiçbir hammadde içermez.Ürünleri hayvanlar üzerinde test edilmez.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Anika",
+    "description": "Anika, Özkar Elektronik San. ve Tic. Ltd. Şti. bünyesindeki elektrikli küçük ev aletleri markasıdır.Özkar Elektronik San. ve Tic. Ltd. Şti. gıda hazırlama pişirme ve kızartma, içecek hazırlama, ütü, kişisel bakım ve diğer ev aletleri kategorilerinde 100’den fazla ürün çeşidine sahiptir. Küçük ev aletleri ithalatını ve imalatını yapmaktadır.Özkar Elektronik bünyesindeki markalar:FavioEnweyAnikaDökümsan",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Prada",
+    "description": "Prada, 1913 yılında Mario Prada tarafından kurulan Prada S.p.A. bünyesindeki giyim, kozmetik, moda aksesuarları, takı, parfüm, alkollü içkiler ve şaraplar, cep telefonu ve saatler markasıdır.Deri çanta, seyahat aksesuarları, ayakkabı, hazır giyim, parfüm ve diğer moda aksesuarları konusunda uzmanlaşmış İtalyan lüks moda evidir.Bünyesindeki markalar:Miu MiuChurch’sCar ShoePasticceria MarchesiLuna RossaFondazione Prada",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Noble Energy",
+    "description": "Noble Energy, 1932 yılında kurulan Noble Energy, Inc. bünyesindeki Petrol, Doğalgaz ve Doğal gaz sıvıları markasıdır.Noble Energy Inc. 2020 yılında Amerika merkezli Chevron Corp. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-08-01"
+  },
+  {
+    "company": "Montague",
+    "description": "Montague, 1987 yılında David Montague tarafından kurulan Montague Corporation bünyesindeki bisiklet markasıdır.Tüm bisikletlerinde Montegue mühendisleri tarafından geliştirilen ve bisikletlerin katlanması için FIT (Folding Integrated Technology) adı verilen patentli bir sistem kullanılıyor. Bisiklet boyu katlanınca yaklaşık olarak 90×90 cm ebatında bir paket haline geliyor. Kadroları 7005 alüminyum alaşımdan üretiliyor ve sınırsız garantili.Montague Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

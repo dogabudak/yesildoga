@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Pomelac",
+    "description": "“Pomelac“1995 yılında kurulmuş olan Pomelac Sp. z o.o. bünyesindeki tarımsal sistemler ve ekipmanlar markasıdır.Meralar için elektrikli çit elemanlarının üretimi ve dağıtımını yapmaktadır.Pomelac Sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Hummto",
+    "description": "“Hummto“2001 yılında kurulmuş olan Humtto Outdoor Products Co. Ltd. bünyesindeki yürüyüş ayakkabıları, botlar, sandaletler ve sırt çantaları, giyim, aksesuarlar markasıdır.Humtto Outdoor Products Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Oplusalsace Protection",
+    "description": "“Oplusalsace Protection“2020 yılında kurulmuş olan Oplus Alsace Protectıon Medikal Teknoloji ve Elekt. Sağlık Gıda Teks. Mak. Nak. San. ve Tic. Ltd. Şti. bünyesindeki maskeler markasıdır.Firma Bursa merkezlidir.Bünyesindeki markalar;Europe ProtectionGalerie Innovation TechnologiqueOlogramOplusalsace Protection",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Baby Pattini",
+    "description": "“Baby Pattini“2018 yılında kurulmuş olan Devran Bebek Malzemeleri Tekstil Ayakkabı San. Tic. Ltd. Şti. bünyesindeki bebek çocuk oyun ve gereçleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Coshare",
+    "description": "“Coshare“2022 yılında kurulmuş olan Shenzhen Coshare Innovation Technology Co. Ltd. bünyesindeki saç kurutma fön makinesi markasıdır.Shenzhen Coshare Innovation Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

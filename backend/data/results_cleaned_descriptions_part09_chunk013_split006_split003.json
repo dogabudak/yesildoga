@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Nextage",
+    "description": "2017 yılında kurulmuş olan Nextage Therapeutics Ltd. bünyesinde üretilen ilaç ve tıbbi cihazlar markasıdır.Nextage Therapeutics Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Kuromi",
+    "description": "1960 yılında Shintaro Tsuji tarafından kurulmuş olan Sanrio Co. Ltd. bünyesindeki giyim, çantalar, ev eşyaları, oyuncaklar, ayakkabı ve aksesuarlar markasıdır.Sanrio Co. Ltd. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Classdojo",
+    "description": "2011 yılında kurulmuş olan Classdojo Inc. bünyesindeki eğitim teknolojisi markasıdır.İlkokul öğretmenlerini, öğrencilerini ve ailelerini, okul gününden fotoğraflar ve videolar için bir yayın ve 35’ten fazla dile çevrilebilen mesajlaşma gibi iletişim özellikleri aracılığıyla birbirine bağlar. Ayrıca öğretmenlerin öğrencilerin becerileri hakkında geri bildirimleri not etmelerini sağlar ve öğrenciler için bir portföy oluşturur, böylece aileler öğretmenlerle görüşme dışındaki okul etkinliklerinden haberdar olabilirler.ABD’de okulların yüzde 95’inde kullanılmaktadır.Classdojo Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Smartcaps",
+    "description": "2017 yılında kurulmuş olan FW İlaç A.Ş. bünyesindeki vitaminler, destekleyici besinler, mineraller, amino asit, omega 3 ve balık yağları, vücut yağları, glukozamin, bitkisel yağlar, antioksidan, probiyotik markasıdır.Sentetik renklendirici, yapay tatlandırıcı veya koruyucu, hayvansal gıda veya madde içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Boccia",
+    "description": "1994 yılında kurulmuş olan Universal Watch Co. Inc. bünyesindeki saatler, mücevher markasıdır.Saf titanyum ürünleri nikel veya diğer metalleri içermez. Hipoalerjeniktir ve metal alerjisi olanlar saf titanyum takılar takabilirler.Universal Watch Co. Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

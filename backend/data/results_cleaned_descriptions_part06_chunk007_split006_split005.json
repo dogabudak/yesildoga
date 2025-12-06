@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Hanımdan",
+    "description": "Hanımdan, A101 Yeni Mağazacılık A.Ş. adına çeşitli firmalara ürettirilen ambalajlı klasik sütlü tatlılar ve pastalar markasıdır.Katkı maddesi içermeyen ürünler helal belgelidir.Üretici firmalar ürünleri Türkiye’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-03-26"
+  },
+  {
+    "company": "Drivetec Parçalar",
+    "description": "Drivetec, 1998 yılında kurulan The Parts Alliance Limited bünyesindeki otomobil parçaları, gövde parçaları, şasi, lastik, antifriz ve soğutucu, araba aküleri, fren parçaları, motor yağları, bakım ürünleri, ekran yıkama konsantresi, direksiyon ve süspansiyon, tekerlek yatakları, silecek lastikleri gibi otomotiv ürünleri markasıdır.The Parts Alliance Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Nec Ateş Ölçer",
+    "description": "Nec, 1975 yılında kurulan Kale Elektronik Dış Tic. A.Ş. bünyesindeki tansiyon aleti, ateş ölçer, nebülizatör, bebek kamerası markasıdır.Firma Türkiye genelinde 500’den fazla servis ağına sahiptir.İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Swiss Military",
+    "description": "Swiss Military, 1981 yılında kurulan Chrono AG bünyesinde üretilen kol saatleri markasıdır.Bir saatin ilk tasarımından bitmiş ürüne kadar tüm üretim adımları, kendi merkezinde yürütülür ve izlenir.Chrono AG İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Babysoft",
+    "description": "Babysoft, 2008 yılında kurulan PDS Sağlık ve Gıda Ekipmanları San. ve Tic. Ltd. Şti. bünyesinde üretilen biberonlar, emzikler, tabaklar ve kaşıklar, diş kaşıyıcılar, çıngıraklar, biberon temizleme fırçaları, makaslar, fırça ve taraklar, burun aspiratörü, pudra, pamuklu çubuk, sünger, silikon göğüs koruyucu, biberonlu göğüs pompası, göğüs pompası, göğüs pedi markasıdır.Ürünleri Bisfernol A içermeyen malzemelerden üretilmektedir.TS EN ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;BabysoftPdsSoftbowl",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

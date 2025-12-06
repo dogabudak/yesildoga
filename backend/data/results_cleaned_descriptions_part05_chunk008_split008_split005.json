@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Flexbook",
+    "description": "Flexbook, 1960 yılında Theodoros Chasapakis tarafından kurulan The Writing Fields Α.Ε bünyesinde üretilen defter, günlük markasıdır.Defter ve günlükleri, icat ettiği dayanıklı ve esnek ciltleme teknolojisi ile üretmektedir.The Writing Fields Α.Ε Yunanistan merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Magic Dose",
+    "description": "Magic Dose, 1999 yılında kurulan Falkon Otomotiv Dış Tic. Ltd. Şti. bünyesinde üretilen oda ve oto kokuları markasıdır.Oto bakım ürünleri, oda kokuları, kozmetik ve temizlik ürünleri ikinci grup şirketi olan Arden Kozmetik San. Tic. Ltd. Şti. tarafından 6 bin metrekarelik alanda üretilmektedir.Firma İstanbul merkezlidir.Bünyesindeki markalar;AutokitMagİc Dose",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pulmoll",
+    "description": "Pulmoll, 1946 yılında kurulan Kalfany Süße Werbung GmbH & Co. KG bünyesinde üretilen pastil markasıdır.Şekerli ve Stevia ile tatlandırılmış pastillerdir ve meyve türleri, meyve suyu konsantresi içerir.Kalfany Süße Werbung GmbH & Co. KG Almanya merkezlidir ve ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Netum",
+    "description": "Netum, 2011 yılında kurulan Guangzhou Netum Electronic Technology Co. Ltd. bünyesinde üretilen barkod tarayıcı, termal yazıcı, nakliye etiket yazıcısı, taşınabilir etiket yazıcısı, termal makbuz yazıcısı, pda ve veri toplayıcı, belge kameraları, aksesuarlar markasıdır.Guangzhou Netum Electronic Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Xprinter",
+    "description": "Xprinter, 2006 yılında kurulan Zhuhai Poskey Technology Co. Ltd. bünyesinde üretilen pos yazıcısı, etiket yazıcısı, mobil yazıcı, nokta vuruşlu yazıcı, kiosk yazıcı markasıdır.Zhuhai Poskey Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 80’den fazla ülkeye pazarlamaktadır.CE, FCC, RoHS, CCC, ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

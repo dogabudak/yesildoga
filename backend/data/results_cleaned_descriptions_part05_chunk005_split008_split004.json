@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Elele Baby",
+    "description": "Elele Baby, 2016 yılında kurulan Elele Dış Tic. A.Ş. bünyesindeki travel sistem bebek arabası, oyun parkı, park yatak, oto koltuğu, kabin tipi bebek arabası, anne bebek bakım çantası, bebek beslenme, banyo, bakım, güvenlik ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nibosi",
+    "description": "Nibosi, 2012 yılında kurulan South America Watch Co. Ltd. bünyesinde üretilen saat, kol saatleri, saat kayışları, saat torbaları, metal veya deri veya plastikten yapılmış saat kayışları, saat zincirleri, saatler için kutular, saat olarak kullanılmak üzere kronograflar, bilezikler, mücevherler, mücevher kutuları markasıdır.South America Watch Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bushman",
+    "description": "Bushman, 2011 yılında kurulan Dürbün Dünyası bünyesindeki teleskop ve dürbünler markasıdır.Gece görüş dürbünü, dürbün kamera, profesyonel dürbün, kırmızı nokta dürbün gibi ürünlere sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;BushmanDürbün DünyasıNorıncoTento",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-05-22"
+  },
+  {
+    "company": "Childhome",
+    "description": "Childhome, Childhome BV bünyesindeki bebek ve çocuk mobilya ürünleri markasıdır.Ürünleri 70’ten fazla ülkede mevcuttur.Childhome Bv, 2021 yılında Fransa merkezli Beaba SAS tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Comenda",
+    "description": "Comenda, 1963 yılında kurulan Ali Group S.R.L. bünyesindeki bulaşık makineleri, önden yüklemeli bulaşık makineleri, bulaşık makinesinin parçaları olan bulaşık makinesi rafları, bulaşık sepetleri, çatal bıçak takımı, cam ürünler markasıdır.Ali Group S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

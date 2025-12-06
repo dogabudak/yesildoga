@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Özsüt",
+    "description": "Özsüt Nerenin Malı MarkasıÖzsüt, 1938 yılında Urlulu ailesi tarafından kurulan STP Gıda San. ve Tic. A.Ş. bünyesinde üretilen kazandibi, muhallebi, ekmek kadayıfı, peynir tatlısı, aşure, kurabiye, sütlü tatlılar, dondurma ve kuplar, kahve, çikolata, dondurmalı tatlılar, özel ve klasik pastalar markasıdır.Ürünlerinde hiçbir koruyucu katkı maddesi yoktur.İzmir merkezli firma ürünlerini İzmir’de bulunan 10 bin metrekarelik fabrikasında üretmektedir. Azerbeycan ve Türkiye’de 180’in üzerinde bayisi bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-05-28"
+  },
+  {
+    "company": "CMS Jant",
+    "description": "CMS Jant, 1980 yılında Tonguç Ösen tarafından kurulan CMS Jant ve Makina San. A.Ş. bünyesinde üretilen jant markasıdır.İzmir’de bulunan üç fabrikasında üretim yapmaktadır. TSE ve TÜV, ISO TS 16949 belgelerine sahiptir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sinovac Aşısı",
+    "description": "Sinovac, 1999 yılında Yin Weidong tarafından kurulan Sinovac Biotech Ltd. bünyesinde üretilen biyofarmasötik markasıdır.Bulaşıcı hastalıklara karşı koruma sağlayan aşıların arge, üretim ve ticarileştirilmesine odaklanan Sinovac Biotech Ltd., Çin merkezlidir ve ürünlerini Çin’de üretmektedir.CoronaVac adı verilen geleneksel aşı üretim yöntemiyle, canlı virüsün laboratuvar ortamında üretilip inaktif hale getirilmesiyle geliştirilen bir aşıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Maersk Line",
+    "description": "Maersk Line, 1904 yılında kurulan A.P. Moller – Maersk A/S bünyesinde faaliyet gösteren okyanus ve iç yük taşımacılığı ve tedarik zinciri yönetimi ile liman işletmesi hizmetleri markasıdır.A.P. Moller – Maersk A/S Danimarka merkezlidir. 125’ten fazla ülkede ofisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Evkur",
+    "description": "Evkur, 1972 yılında Hasan Kan tarafından kurulan Evkur Alışveriş Merkezleri Tic. A.Ş. bünyesindeki perakende mağazalar markasıdır.Mağazalarında yabancı ve yerli; beyaz eşya, elektrikli ev aletleri, cep telefonu, bilgisayar, elektronik, ısıtma-soğutma, spor aletleri, çelik, zücaciye, porselen, ev tekstili, halı, mobilya, kozmetik ve iç giyim ana gruplarından oluşan ürünleri sunmaktadır.Türkiye’de 42 şehirde toplam 88 mağazasıyla faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

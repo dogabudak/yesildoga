@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Servona",
+    "description": "Servona, 1949 yılında Alfred Kuhn tarafından kurulmuş olan Orbisana Healthcare Gmbh bünyesinde üretilen kimyasal-farmasötik vee tıbbi ürünler markasıdır.Orbisana Healthcare Gmbh Almanya merkezlidir. 1998 yılından beri şirketin çoğunluk hissedarı Almanya merkezli Droege Group AG’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Quickwax",
+    "description": "Quickwax, 2000 yılında kurulmuş olan Quick Wax Kimya Üretim Dış Tic. Ltd. Şti. bünyesinde üretilen oto ve halı yıkama ürünleri markasıdır.Firma Bursa merkezlidir. Ürünlerini 36 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dvx Eyewear",
+    "description": "Dvx Eyewear, 1987 yılında kurulmuş olan Wiley X Inc. bünyesindeki güneş gözlükleri, koruyucu gözlükler markasıdır.ISO 9001 belgesine sahiptir.Wiley X Inc. Amerika merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Shazel",
+    "description": "Shazel, 2015 yılında kurulmuş olan Neon San. ve Gıda A.Ş. bünyesindeki kahve ve çay, sıcak ve soğuk içecekler markasıdır.Firma Hatay merkezlidir. Ürünlerini Hatay OSB’de bulunan 6 bin metrekaresi kapalı toplam 10 bin 500 metrekarelik alanda bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-24"
+  },
+  {
+    "company": "Kasan Hassas Ölçü Aletleri",
+    "description": "Kasan, 1990 yılında kurulmuş olan Kasan Hassas Ölçü Aletleri San. ve Tic. Ltd. Şti. bünyesinde üretilen gönye, kumpas, metre, hassas ölçü aletleri markasıdır.ISO 9001, ISO 14001, ISO 27001, ISO 45001 belgelerine sahiptir.Firma İzmir merkezlidir ve ürünlerinin yüzde 85’ini ihraç etmektedir.Bünyesindeki markalar;Full ControlKasan Hassas Ölçü Aletleri",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

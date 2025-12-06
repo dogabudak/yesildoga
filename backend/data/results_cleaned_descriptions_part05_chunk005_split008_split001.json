@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Berry Global",
+    "description": "Berry Global, 1967 yılında kurulan Berry Global Group Inc. bünyesinde üretilen plastik ambalaj ürünleri markasıdır.Şirketin sağlık, hijyen ve uzmanlık alanları, tüketici ambalajı ve mühendislik malzemeleri olmak üzere üç ana bölümü vardır.Termoform, enjeksiyon kalıplama, sıkıştırma kalıplama, şişirme, dökme film, şişirilmiş film, sert ve esnek dekorasyon, laminat borular, ekstrüde borular, bant takvimleme, paket tasarımı, plastik ambalaj üretmektedir.Berry Global Group Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gormiti",
+    "description": "Gormiti, 1978 yılında kurulan Gruppo Giochi Preziosi S.p.A. bünyesindeki çizgi diziden uyarlanan oyuncak figürleri markasıdır.Gruppo Giochi 2009 yılından beri Türkiye pazarında yer almaktadır.Gruppo Giochi Preziosi S.p.A. İtalya merkezlidir ve ürünlerini Çin’de ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Neo Toys",
+    "description": "Neo Toys, 2011 yılında kurulan Risus Bilişim Yayıncılık ve Tic. Ltd. Şti. bünyesindeki oyuncak markasıdır.Ürün yelpazesinde oyuncaklar ve oyunlar, eğitici ve bilimsel oyuncaklar ve oyunlar, mini rc oyuncaklar, fırçasız motorlu elektrikli kaykaylar, aktivite oyuncakları, diy kitleri yer almaktadır.Firma oyuncak ithalatı, sanal mağazacılık, basılı yayıncılık alanlarında hizmet vermektedir.Bünyesindeki markalar;4D MasterNeoWild ScienceMucit Kafası",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Circle Toys",
+    "description": "Circle Toys minik eller, büyük keşifler, 1993 yılında kurulan Hira Dış Tic. ve Elektronik San. Ltd. Şti. bünyesindeki ahşap oyun ve oyuncaklar markasıdır.Ürünlerinin bir kısmını ithal etmektedir. Türkiye’de üretilen ürünler ise ISO9001, ISO14001 ve OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO14001",
+      "ISO9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Trefl",
+    "description": "Trefl, 1985 yılında kurulan Trefl S.A bünyesindeki oyuncaklar, oyunlar ve kartlar, bulmaca markasıdır.Yapboz bulmacalar, masa oyunları, oyun kartları ve eğitim bilimleri setlerinin üreticisi ve dağıtıcısıdır.Trefl S.A Polonya merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

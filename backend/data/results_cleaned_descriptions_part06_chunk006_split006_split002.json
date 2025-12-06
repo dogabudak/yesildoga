@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Aerus",
+    "description": "Aerus, 1924 yılında Gustaf Sahlin tarafından kurulan Aerus LLC bünyesinde üretilen hava ve yüzey temizleyicileri, su filtrasyon ve arıtma sistemleri ve elektrikli süpürgeler markasıdır.Aerus LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Türk Nippon Sigorta",
+    "description": "Türk Nippon Sigorta, 1991 yılında Türkiye Kalkınma Bankası ve Nippon Fire & Marine tarafından kurulan Türk Nippon Sigorta A.Ş. bünyesindeki sigortacılık hizmetleri markasıdır.Yerli ve yabancılar için sağlık sigortaları, işyeri ve yangın, ferdi kaza, kasko, konut, trafik, zorunlu deprem(DASK) hizmetleri vermektedir.Türk Nippon Sigorta A.Ş.’nin çoğunluk hissesi 2008 yılında İsrail merkezli Harel Insurance Investments and Financial Services Ltd. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Voicevale",
+    "description": "Voicevale, 1981 yılında kurulan Voicevale Ltd. bünyesindeki kuruyemiş, kuru meyve, tohum ve kahve markasıdır.Voicevale Ltd. İngiltere merkezlidir. Bolivya, Çin, Gürcistan, Filipinler, Tayland, Vietnam ve Türkiye’de fabrikalara sahiptir.2012 yılından beri Türkiye’de Voicevale Tarım Ürünleri İç ve Dış Tic. A.Ş. olarak faaliyet göstermektedir. Faaliyetlerini Badem, ceviz, kaju, Brezilya cevizi ve tohumların yanı sıra süper gıdalar ve kahve ürünlerinde de sürdürmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Miraphone",
+    "description": "Miraphone, 1946 yılında kurulan Miraphone EG bünyesinde üretilen pirinç müzik aletleri ve aksesuarları markasıdır.Şirketin iş kolu piyano, org ve diğer müzik aletlerinin üretimini içerir.Miraphone EG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lakhani",
+    "description": "Lakhani, 1986 yılında kurulan Lakhani Footwear Pvt. Ltd. bünyesinde üretilen spor ayakkabıları, deri ayakkabılar, plaj terlikleri, eva terlikleri markasıdır.Firma, farklı markalar altında çok çeşitli spor ayakkabıları, açık hava ayakkabıları, kanvas ayakkabılar, sandaletler ve terlikler sunmaktadır.Lakhani Footwear Pvt. Ltd. Hindistan merkezlidir ve ürünlerini Hindistan’da bulunan fabrikasında üretmektedir.Bünyesindeki markalar;ClassicCoolakGood TimeHawaiLakStyleLakhani SportsMadam LizaPogo KidzRed LabelSailorToninoTouch ShoesXylo",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

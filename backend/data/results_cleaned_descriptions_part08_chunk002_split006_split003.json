@@ -1,0 +1,49 @@
+[
+  {
+    "company": "R&B",
+    "description": "R&B Hangi Ülkenin Malı MarkasıdırR&B, 1983 yılında kurulmuş olan Woosin Cosmetics Co. Ltd. bünyesinde üretilen profesyonel güzellik, kuaför ürünleri ve ekipmanları, bebek bakım ürünleri, temizlik ve hijyen ürünleri, kişisel bakım ürünleri, saç bakım ürünleri markasıdır.ISO 9001, ISO 14001, ISO 22716 belgelerine sahiptir.Woosin Cosmetics Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir:",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Renz",
+    "description": "Renz, 1908 yılında kurulmuş olan Renz Gmbh bünyesinde üretilen delme, ciltleme ve laminasyon sistemleri, sarf malzemeleri, plastik spiraller, plastik taraklar, ciltleme aksesuarları markasıdır.Renz Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Goldpower",
+    "description": "Goldpower, 1995 yılında kurulmuş olan Shenzhen Gold Power Tech Co. Ltd. bünyesinde üretilen DC anahtarlama güç kaynağı, anahtarlama modu güç kaynağı, anahtarlama güç kaynağı, dc güç kaynağı, DC güç sistemi, özelleştirilmiş güç kaynağı, telekom güç kaynağı markasıdır.Shenzhen Gold Power Tech Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Zenker",
+    "description": "Zenker, 1919 yılında Alexander Fackelmann tarafından kurulmuş olan Fackelmann GmbH & Co KG bünyesinde emaye, yapışmaz kaplamalı çelik sac ve kalay gibi çeşitli malzemelerden üretilen kek, pasta, kurabiye ve birçok tatlı için kalıp, pişirme kabı markasıdır.Fackelmann GmbH & Co KG Almanya merkezlidir ve ürünlerini Almanya’da bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Jaywis",
+    "description": "Jaywis, 2012 yılında kurulmuş olan DKC Grup A.Ş. bünyesinde üretilen ceviz ezmesi ve krokantlı ceviz kreması, iç ceviz, ceviz yağı, ceviz ezmesi ve kakaolu ceviz markasıdır.Firma Ordu merkezlidir ve ürünlerini Fatsa OSB’de bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

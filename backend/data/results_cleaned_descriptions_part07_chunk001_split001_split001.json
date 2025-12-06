@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Imou",
+    "description": "Imou, 2013 yılında kurulan Hangzhou Huacheng Network Technology Co. Ltd. bünyesinde üretilen güvenlik kameraları, görüntülü kapı zilleri, robotlu elektrikli süpürgeler, kablosuz güvenlik sistemi ve aksesuarlar markasıdır.IoT kullanıcılarına Imou Bulutunu, akıllı cihazları ve akıllı teknolojileri kapsayan “3’ü 1 arada” bir iş sistemi ile hizmet vermektedir.Hangzhou Huacheng Network Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sardes Sos",
+    "description": "Sardes, 1996 yılında kurulan Sardes Gıda San. ve Tarım Ürünleri Tic. İthalat İhracat Ltd. Şti. bünyesinde üretilen biber çeşitleri, ızgara edilmiş sebzeler, yağda ürünler, sos, salata ve Bruschetta çeşitleri, yaprak sarma, kapari ve organik pek çok ürün çeşidi markasıdır.Kosher, IFS, BRC belgelerine sahiptir.Manisa merkezli firma Salihli OSB’de toplam 12 bin 400 metrekarelik kapalı üretim alanına sahiptir. Üretiminin yüzde 95’ini ihraç etmektedir.",
+    "documents": [
+      "BRC",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Endoart",
+    "description": "Endoart, 1994 yılında kurulan İnci Dental Tıbbi Malz. San. ve Tic. Ltd. Şti. bünyesinde üretilen diş hekimlerinin kullandığı dental sarf malzemeler markasıdır.ISO 9001, ISO 13485 ve CE belgelerine sahiptir.İstanbul merkezli firma ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cipram",
+    "description": "Cipram, 1915 yılında kurulan H. Lundbeck A/S bünyesinde üretilen beyin hastalıkları ilaçları markasıdır.Psikiyatri ve nöroloji gibi iki ana dalda faaliyet göstermektedir.H. Lundbeck A/S Danimarka merkezlidir. Ürünlerini Danimarka, Fransa ve İtalya’da bulunan üretim tesislerinde üretmekte ve 100’den fazla ülkeye pazarlamaktadır. Lundbeck Vakfı tarafından yönetilen firma Türkiye’de 2000 yılından beri Lundbeck İlaç Tic. Ltd. Şti. olarak faaliyet göstermektedir.Bünyesindeki markalar;AbrisegaAcaciemAccordAcrescentAffaniqAglefaAglifaAlder BiopharmaceuticalsAlniresAlzvirAmzeriAndomilAnxamilAptreegBemzeftBolsiroBolzamriBriluminBrintellixBrintineBrioptaBrycabeCelexaCelinexCentury Of The MindCermylaCipralexCipralexaCipramCipramilCitapramCitolClegrefClestigaClinicoachClinihubClopixolClopixol-AcuphaseCnsforumCuraxDepretioxDiamestraDifcysevDresquEfystionEnclarisEntactEntactivEntactorEntactosEpzeetaEvedremEzactrisFluanxolFonkseraForveskaFusistroFypreptGerespectIqualsaItrusdiItuidyJinlefaJovitecKembalanKrelysisLasatoLexaproLulzadoLundbeckLundeynaLytrombaLyxproMavleegMenitacNuoptyNuzalmaObrilvaOserigPanxitPlystivoPresavePretrivePrilectProgress In MindProlectPurestisRapsovyRecaptraRepifuzeResactResolentResplendorRevespraRevizontRexulti VortioxetineRezelecRezelexRinalbaRondelsaSeganiteSelincroSelornisSensovisSentecSerdolectSerlectSeropramSipralexSipralexaSipramSitolSpralzaStar BrightStepalzoStepsolaSunreltTalbrepTalraoTargilyseTebreosTenamilThincThinc-ItTrintellixTruhancisUdiiftriVanteptiVespectVolansisVolexaVortellixVortideppVortilexVortineVortiocyrVortiosonVortioxVusertiVyeptiWenconaZentactivZenvelopZeptalzaZeptigraZibreozZyepti",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "RYN Door",
+    "description": "RYN Door, Ie Işık Elektronik Bilişim Haberleşme ve Müh. Hizm. Tar. İth. İhr. Tic. Ltd. Şti. bünyesinde üretilen fotoselli kapı, 90 derece otomatik kapı, otomatik kepenk, giyotin sistemleri, kayar kapılar markasıdır.Firma Niğde merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

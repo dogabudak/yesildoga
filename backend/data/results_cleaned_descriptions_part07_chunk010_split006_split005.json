@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Edossa Parfüm",
+    "description": "Edossa Parfüm Nerenin Malı MarkasıEdossa, 2021 yılında kurulmuş olan Edossa Kozmetik İhr. İth. San. ve Tic. Ltd. Şti. bünyesinde üretilen parfüm, ev ve ortam kokulandırma ürünleri ve kozmetik ürünleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gimborn",
+    "description": "Gimborn, 1855 yılında kurulmuş olan H Von Gimborn Gmbh bünyesinde üretilen evcil hayvan konserveleri, tüy toplama ürünleri, pedler markasıdır.2016 yılında Hong Kong merkezli Hillhouse Capital Group tarafından satın alınan H Von Gimborn Gmbh ürünlerini Almanya’da üretmektedir ve 40’tan fazla ülkede satılmaktadır.Bünyesindeki markalar;Bianco AttractingBiokat’sGimGim CatGim DogGimbiGimbornGimcatGimdogGimpetNatural SolutionsTgos",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": "2024-03-19"
+  },
+  {
+    "company": "Agranela",
+    "description": "Agranela, 2003 yılında kurulmuş olan Agranela d.o.o. bünyesinde üretilen kurutulmuş meyveler markasıdır.ISO 9001, HACCP ve Koşer belgelerine sahiptir.Agranela d.o.o. Sırbistan merkezlidir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "RS",
+    "updated_date": null
+  },
+  {
+    "company": "Alfamod",
+    "description": "Alfamod, 2022 yılında kurulmuş olan Alfamod Ayakkabı San. ve Tic. Ltd. Şti. bünyesinde üretilen kadın ayakkabıları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;AlfaboardAlfamodAlfatexAlphamod",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Chaco",
+    "description": "Chaco, 1883 yılında G. A. Krause ve Fredrick Hirth tarafından kurulmuş olan Wolverine World Wide Inc. bünyesindeki ayakkabı, bot, sandalet markasıdır.Wolverine World Wide Inc. Amerika merkezlidir ve ürünlerini yaklaşık 200 ülke ve bölgeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

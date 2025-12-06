@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Navyboot",
+    "description": "Navyboot, 1907 yılında kurulan Magazine Zum Globus AG bünyesindeki giyim, ayakkabı, çanta ve aksesuarlar markasıdır.Magazine Zum Globus AG, 2020 yılında Avusturyalı Signa Holding ve Taylandlı Central Group’un ortak olduğu KaDeWe Group tarafından satın alındı.Magazine Zum Globus AG İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Coredy",
+    "description": "Coredy, 2011 yılında kurulan Coredy Tech Inc. bünyesindeki ev temizliği için 3’ü 1 arada çok fonksiyonlu vakumlama, temizlik ve ıslak veya kuru temizleme robotu markasıdır.Coredy Tech Inc. Amerika merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Proscenic",
+    "description": "Proscenic, 1993 yılında kurulan Shenzhen Proscenic Technology Co., Ltd. bünyesinde üretilen ev aletleri markasıdır.Proscenic, robot elektrikli süpürge, kablosuz elektrik süpürgesi, hava fritöz, nemlendirici, su ipi vb. 20’den fazla ürün geliştirmeye yatırım yapmaktadır.ISO 9001 ve ISO 140001 belgelerine sahiptir. Dünya çapında 60’tan fazla ülke ve bölgede mevcuttur.Shenzhen Proscenic Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Swiss Charger",
+    "description": "Swiss Charger, 1979 yılında kurulan Ayyıldız Elektrikli Ev Eşyaları İmalat ve Paz. A.Ş. bünyesindeki araç içi şarj aletleri, araç içi tutucular, araç aksesuarları, bluetooth araç kitleri, ses ve görüntü araçları, şarj, taşınabilir sarj markasıdır.Swiss Charger markalı ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Faberlic",
+    "description": "Faberlic, 1997 yılında Alexey Nechaev tarafından kurulan JSC Faberlic bünyesindeki güzellik, kozmetik ve kişisel bakım ürünleri markasıdır.Ürün yelpazesinde cilt ve saç bakımı, özel Fransız parfümleri, dekoratif kozmetikler, ev ve sağlık ürünleri, iç çamaşırı ve tayt, moda kıyafetleri gibi ürünler yer almaktadır.JSC Faberlic Rusya merkezlidir. Faberlic, Rusya’nın en büyük kozmetik işletmeleri arasındadır. Faberlic temsilcilikleri dünya çapında 25 ülkede açıldı, ürünlerini 40 ülkede pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

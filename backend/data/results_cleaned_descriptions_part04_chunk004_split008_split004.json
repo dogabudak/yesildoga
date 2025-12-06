@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Grey Technology",
+    "description": "Grey Technology, 2001 yılında Nick Grey tarafından kurulan Grey Technology Ltd. bünyesindeki elektrikli süpürge, zemin süpürücü, çim düzeltici ve elektrikli bisiklet gibi kablosuz ev ve bahçe aletleri markasıdır.Grey Technology Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "The Makeup Shack",
+    "description": "The Makeup Shack, 2013 yılında kurulan The Makeup Shack, Inc. bünyesindeki makyaj ürünleri markasıdır.The Makeup Shack, Inc. Amerika merkezlidir.Bünyesindeki markalar;Ace BeauteBeautyblenderCinema SecretsDUOEly MayaItalia DeluxeLUSRCMATatti LashesThe Makeup ShackTMS DealsViolet VossZ-Palette",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alcad",
+    "description": "Alcad, 1988 yılında kurulan ALCAD Electronics S.L. bünyesindeki ses ve görüntü, telekomünikasyon ürünleri markasıdır.Multiswitch, yükseltici, bölücü ve priz ürünleri 45’ten fazla ülkede pazarlanmaktadır.ALCAD Electronics S.L. İspanya merkezlidir. Ürünlerini 16 bin metrekarelik kapalı alana sahip fabrikasında üretmektedir.Dünya genelinde Türkiye, Fransa, Çek Cumhuriyeti, Dubai ve İspanya ile birlikte 5 ülkede kendi şubesi bulunmaktadır.2007 yılından beri Türkiye’de ALCAD Elektronik A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "FG Wilson",
+    "description": "FG Wilson, 1966 yılında Fred Wilson tarafından kurulan FG Wilson Engineering Ltd. bünyesinde üretilen jeneratör markasıdır.FG Wilson Engineering Ltd 2000 yılında Caterpillar Inc.’in tamamen sahip olduğu bir yan kuruluşu oldu. Caterpillar Inc. Amerika merkezlidir.Ürünlerini Kuzey İrlanda, Çin, Brezilya ve Hindistan’da bulunan tesislerine üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Blendsmart",
+    "description": "Blendsmart, 2011 yılında Steve ve Lori Machiorlette tarafından kurulan Worth Beauty Products, L.L.C. bünyesindeki güzellik, kozmetik ve kişisel bakım ürünleri markasıdır.Makyaj fırçaları, kozmetik araçları üretmektedir.Worth Beauty Products, L.L.C. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

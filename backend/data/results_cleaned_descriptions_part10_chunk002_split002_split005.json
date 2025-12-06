@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Lucide Lighting",
+    "description": "1992 yılında Ward Mertens tarafından kurulmuş olan Lucide NV bünyesindeki iç ve dış aydınlatma ürünleri sarkıt armatürler, masa lambaları markasıdır.Lucide NV Belçika merkezlidir. Ürünlerini 70’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Wasgij",
+    "description": "1974 yılında kurulmuş olan Jumbo Grup B. V. bünyesindeki bulmaca oyunları, puzzle markasıdır.Şirket bulmacalar, masa oyunları, eğitici oyunlar ve oyuncaklar üretmektedir.Jumbo Grup B. V. Hollanda merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Rancilio",
+    "description": "1927 yılında kurulmuş olan Rancilio Group S.p.A bünyesindeki geleneksel kahve makineleri, tam otomatik kahve makineleri, anında dozlayıcı öğütücüler ve elektronik dozlayıcı öğütücüler markasıdır.Rancilio Group S.p.A İtalya merkezlidir. Ürünlerini 115’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "InStat Sport",
+    "description": "2007 yılında kurulmuş olan futbol, basketbol, buz hokeyi ve hentbol alanlarında performans analizi hizmetleri sağlayıcısıdır.Performans değerlendirmesi, oyunu anlama ve yetenekleri tanımlama sağlar.2022 yılında Amerika merkezli Agile Sports Technologies Inc.’in ürün ve hizmeti olan Hudl tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ruike Knives",
+    "description": "1998 yılında kurulmuş olan Ruike Outdoor Tools Manufacturing Co. Ltd. bünyesinde üretilen sabit bıçak, katlanır cep bıçakları, çok fonksiyonlu bıçaklar markasıdır.Ruike Outdoor Tools Manufacturing Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

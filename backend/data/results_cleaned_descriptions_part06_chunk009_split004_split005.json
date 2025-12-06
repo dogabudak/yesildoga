@@ -1,0 +1,36 @@
+[
+  {
+    "company": "Allcall",
+    "description": "Allcall, 2005 yılında kurulan Shenzhen All Call Technology Co. Ltd. bünyesinde üretilen akıllı telefon markasıdır.Shenzhen All Call Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 200’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Physicians Formula",
+    "description": "Physicians Formula, 1937 yılında Frank Crandall tarafından kurulan Physicians Formula Cosmetics Inc. bünyesinde üretilen cilt bakım ve kozmetik ürünleri markasıdır.Physicians Formula Cosmetics Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aigner",
+    "description": "Aigner, 1965 yılında Etienne Aigner tarafından kurulan Etienne Aigner Inc. bünyesindeki çantalar, kemerler, deri ürünler, deri kaplı çakmaklar, tirbuşonlar, tavla kutuları, aksesuarlar markasıdır.1980’li yıllarda saat, mücevher ve gözlük lisansları vererek ürün yelpazesini genişletirken, 1990 yılında kadın giyim ve erkek giyim koleksiyonu için de lisanslar verildi.Etienne Aigner Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dallmer",
+    "description": "Dallmer, 1996 yılında kurulan Dallmer Ltd. bünyesindeki doğal taş duş tekneleri için drenajlar, duş altlıkları, duş kanal sistemleri, tasarım kapak plakalar, yer sifonları, yer sifonları için yangın yalıtımıDallmer Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

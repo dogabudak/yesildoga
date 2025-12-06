@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Zeroid",
+    "description": "Zeroid, 2000 yılında kurulan Neopharm Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Ürünleri bitki bazlıdır ve çevre dostu ambalajlıdır.Neopharm Co. Ltd. Güney Kore merkezlidir. Ürünlerini Kore ve Çin’de bulunan üretim tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Miluni",
+    "description": "Miluni, 1920 yılında kurulmuş olan Erişler Gıda San. ve Tic. A.Ş. bünyesindeki özel karışım unlar ve tamamlayıcı ürünler markasıdır.Ürünlerinde MSG gibi hiçbir katkı maddesi, yapay katkılar, boyalar, renklendiriciler yer almaz.ISO 9001, OHSAS 18001 Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Epiphone",
+    "description": "Epiphone, 1894 yılında kurulmuş olan Gibson Brands Inc. bünyesinde üretilen gitar ve aksesuarları markasıdır.Gibson Brands Inc. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Soehnle",
+    "description": "Soehnle, 1959 yılında kurulmuş olan Leifheit AG bünyesinde üretilen banyo ve mutfak terazisi, tansiyon ölçer, hava arıtma cihazı markasıdır.Leifheit AG, Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tenaya Sports",
+    "description": "Tenaya, 1997 yılında kurulmuş olan Tenaya Sports S.L. bünyesindeki tırmanma ayakkabıları, kaya ayakkabıları, ayakkabı yaklaşımı, kıyafetler, sandaletler markasıdır.Tenaya Sports S.L. İspanya merkezlidir. Ürünlerini 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

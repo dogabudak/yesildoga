@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Jeros Smarter Solutions",
+    "description": "Jeros Smarter Solutions, Jeros A/S bünyesindeki yıkama aparatı, endüstriyel çamaşır makineleri, kurutma tesisleri içeren çamaşır makineleri, plastik ve metal kutular için çamaşır makineleri, çatal bıçak takımı için çamaşır makineleri, mutfak eşyaları için çamaşır makineleri, plastik ve metal tepsiler için çamaşır makineleri, endüstriyel robot çamaşır makineleri, tepsi temizleyiciler markasıdırJeros A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Neodent Implant",
+    "description": "Neodent, 1954 yılında Reinhard Straumann tarafından kurulan Straumann Holding AG bünyesindeki diş implantlar, dayanaklar, hassas tutucu, cerrahi aletler ve seti, dijital ürünler markasıdır.Straumann Holding AG İsviçre merkezlidir. Türkiye’de Neodent İmplant Üretim A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Ömer Adil",
+    "description": "Ömer Adil, 1945 yılında Hamdi ve Ömer Adil Dalan tarafından kurulan Ömer Adil Dalan Gıda ve Temizlik Endüstri A.Ş. bünyesinde üretilen temizlik, sabun ve kişisel bakım ürünleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pears",
+    "description": "Pears, 1807 Andrew Pears tarafından üretilen el, yüz ve vücut sabunları markasıdır.Pears, 1917 yılında Unilever tarafından satın alındı.Unilever PLC İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Mehmet Aydın Sabunları",
+    "description": "Mehmet Aydın, 1999 yılında Mehmet Aydın tarafından kurulan Mehmet Aydın Temizlik Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen ambalajlı yüzde 100 doğal sabunlar markasıdır.Ürün yelpazesinde defne sabunu, bıttım sabunu, bitkisel sabunlar, defne özlü şampuan, defne özlü sıvı sabun, defne özlü duş jeli, doğal sabun, hatay sabunu, halep sabunu, katı sabun yer almaktadır.Hatay merkezli firma ürünlerini Antakya OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

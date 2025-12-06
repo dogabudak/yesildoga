@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Total Tools",
+    "description": "Total Tools, 2018 yılında kurulan Total Inc. bünyesinde üretilen ölçme araçları, bahçe aletleri, el aletleri, elektrikli el aletleri, elektrikli el aletleri aksesuarları, güvenlik ürünleri, hava araçları, jeneratörler, küçük inşaat ekipmanları, kaynak makineleri, lamba serisi ve soket serisi, su pompaları, tezgah aletleri markasıdır.Total Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tronzadoras MG",
+    "description": "Tronzadoras MG, 1972 yılında kurulan Tronzadoras MG S.A. bünyesinde üretilen alüminyum ve demir kesme ve işleme makineleri markasıdır.Testere kesme makineleri, CNC makineleri kullanılarak üretilmektedir. ISO 9001 belgesine sahiptir.Tronzadoras MG S.A. İspanya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Virutex",
+    "description": "Virutex, 1962 yılında kurulan Virutex S.A. bünyesindeki akülü aletler, düz öğütücüler, düzelticiler ve yönlendiriciler, el planya makineleri, el yapıştırıcıları, elektrikli süpürgeler, fırça zımparaları, ısı tabancaları, kapılar için makineler, kenar bantları, laminat kesiciler, panel sabitleyici, parke endüstrisi için makineler, profesyonel aksesuarlar, testereler, zımpara, gönye masa testere combo, katı yüzey araçları markasıdır.Virutex S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Bueno Ayakkabı",
+    "description": "Bueno Ayakkabı, 1993 yılında kurulan Bueno Ayakkabı ve Deri Ürünleri Tic. Ltd. Şti. bünyesinde üretilen deri ayakkabı, bot, sandalet, terlik, çanta ve aksesuar ürünleri markasıdır.İstanbul merkezli firma ürünlerini 47 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Weeten",
+    "description": "Weeten, 2014 yılında kurulan Furkan Grup Itriyat San. Tic. Ltd. Şti. bünyesinde üretilen tüy dökücü ürünler, ağdalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

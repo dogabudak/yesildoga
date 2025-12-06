@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Bref",
+    "description": "Bref, 1968 yılında ilk kez üretildi. Bref Henkel bünyesindeki temizlik ürünleri markasıdır.Bref tuvalet bakımı, banyo ve mutfak temizleyicileri 2006 yılında Türkiye pazarına girdi.Alman Henkel AG & Company 1876 yılında Fritz Henkel tarafından kuruldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Shiseido",
+    "description": "Shiseido, 1872 yılında kurulan kişisel bakım ürünleri üreticisidir.Shiseido markalı cilt Bakımı, makyaj, güneş koruma ve koku ürünleri 88 ülke ve bölgede satılıyor.Japonya merkezli şirket Shiseido Japonya’nın en büyük ve dünyanın 5. büyük kozmetik şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Schogetten",
+    "description": "Schogetten, ilk kez 1962 yılında Ludwig Schokolade GmbH & Co. KG bünyesinde üretilen çikolata markasıdır.Ludwig Schokolade GmbH Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fa",
+    "description": "Fa, 1876 yılında kurulan Henkel bünyesindeki kişisel bakım markasıdır.Henkel dünya çapında Çamaşır ve Ev Bakımı, Beauty Care ve Yapıştırıcı Teknolojileri olmak üzere üç iş biriminde lider markalar ve teknolojilerle faaliyet gösteren bir Alman şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Logitech",
+    "description": "Logitech, 1981 yılında Daniel Borel, Pierluigi Zappacosta ve Giacomo Marini tarafından kurulan Logitech International S.A. bünyesindeki bilgisayar çevre birimleri ve yazılım ürünleri markasıdır.Kablosuz kızılötesi mouse, baş parmak ile kontrol edilen trackball, lazer mouse vb. ürünlere sahiptir.Logitech International S.A. İsviçre merkezlidir. Ürünlerinin yarısı Çin’de üretilirken geri kalanı Asya’daki sözleşmeli üreticilere ürettirilmektedir.Bünyesindeki markalar;ASTRO GamingBlue MicrophonesJaybirdLogitechLogitech GStreamlabsUltimate Ears",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2021-07-22"
+  }
+]

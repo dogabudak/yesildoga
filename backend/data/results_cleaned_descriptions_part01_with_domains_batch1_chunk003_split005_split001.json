@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Aeg",
+    "description": "AEG, 1883 yılında Emil Rathenau tarafından kurulan elektronik ürün markasıdır. AEG daha önce Telefunken AG ile birleşti, Electrolux tarafından satın alındı.Ev cihazları ve profesyonel cihazlar satan, dünyanın ikinci büyük ev aletleri üreticisi Electrolux İsveç merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Ursus Traktör Nere",
+    "description": "Ursus Traktör Nere MalıUrsus markası, bir asırdan fazla bir süredir tarım makinelerı ve araçları üzerine faaliyet gösteren bir Traktör firmasıdır.Dünya’nın çeşitli ülkeleri için traktör üretimi ve satışını gerçekleştiren Ursus, Polonya’nın en eski tarım makineleri ve araçları üzerine kurulmuş fabrikasıdır.2014 yılından itibaren Türkiye’de faaliyete başlayan firma Ursus Traktör San. ve Tic. A.Ş. adıyla hizmet vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": "2018-11-27"
+  },
+  {
+    "company": "Gett",
+    "description": "Gett uygulaması sayesinde müşteriler, web sitesinden ya da GPS tabanlı akıllı telefon uygulamasını kullanarak bir taksi veya kurye siparişi alabiliyor. Uygulama ilk önce 2010 yılında İsrail şirketi gettaxi tarafından oluşturuldu. Kısa bir süre önce sadece Gett olmak üzere yeniden marka haline getirildi.Gett Şu anda Amerika Birleşik Devletleri, Birleşik Krallık, Rusya ve İsrail genelinde 100’den fazla şehirde faaliyet göstermektedir ve 20 binden fazla sürücüye sahiptir.2017 yılında Gett, 200 milyon dolar karşılığında Amerikalı rakibi Juno’yu satın almıştı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Dupont",
+    "description": "DuPont markası 1802 yılında barut üretmek için kuruldu. Kevlar, lycra, teflon, zodiac, freon gibi polimerleri ve kimyasal gazları kimya endüstrisine kazandıran kimya şirketidir.DuPont 1999’da biyolojiyi kimyaya ekledi. Çeşitli sektörlere ve 90’dan fazla ülkeye yayıldı.Pazar odaklı yenilikleri; her yıl, tarım, gıda, elektronik ve iletişim, emniyet ve korunma, yapı ve inşaat, nakliye ve konfeksiyon dahil çeşitli pazarlara hizmet veren binlerce yeni ürün ve patent uygulamasını piyasaya sürmektedir.DuPont Amerikan kamu kuruluşudur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2019-05-07"
+  },
+  {
+    "company": "A Spor Tv",
+    "description": "A Spor Tv, Kalyon Grubu’na ait Turkuvaz Medya Grubu’nun tek hissedarı olan Zirve Holding’in sahibi Ömer Faruk Kalyoncu’ya ait bir spor kanalıdır.Kanal 18 Eylül 2014 tarihinde yayına başladı. Türkiye Kupası, Serie A ve Primeira Liga maçlarının yanında TRT ile birlikte Süper Lig maçlarının özetlerini yayınlamaktadır.Türkiye’nin yayıncılık tarihindeki ilk şifresiz HD yayın yapan spor kanalı olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  }
+]

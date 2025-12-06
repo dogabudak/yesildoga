@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Beta Tools",
+    "description": "Beta Tools, 1923 yılında kurulan Beta Utensili S.P.A. bünyesindeki profesyonel el aletleri markasıdır.Ürün yelpazesinde atölye ekipmanları, konteynerler, prizler ve aksesuarlar, tork anahtarları ve çarpanları, tornavidalar, erkek uçlu anahtarlar ve uçlar, pense, çekiç ve keskiler, delme ve diş açma aletleri, ölçme ve işaretleme araçları, kesme ve genel bakım aletleri, paslanmaz çelik aletler, sıhhi tesisat araçları, elektronik ve mikromekanik, elektrikli aletler, pnömatik aletler, tel halat aksesuarları, güvenlik ayakkabıları, tulum gibi ürünler yer almaktadır.ISO 9001 belgesine sahiptir.Beta Utensili S.P.A. İtalya merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Roberto Bravo",
+    "description": "Roberto Bravo, 1997 yılında Motif Kuyumculuk San. ve Tic. A.Ş. tarafından satın alınan pırlanta, altın, gümüş mücevherler markasıdır.Firma İstanbul merkezlidir. Koleksiyonları İtalya ve Türkiye’de tasarlanıp, üretilmekte 50 ülkeye ihraç edilmektedir.Bünyesindeki markalar;61 MotifBarbados CollectionBeedanceEndorphineFeya KoleksiyonuHaydanKumkuatMotifNine 3 FivePriyankaRb Roberto BravoRoberto BravoRoberto Bravo RbSıradışı Mücevher GünleriTutto",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yupoong",
+    "description": "Yupoong, 1972 yılında kurulan Yupoong Co. Ltd. bünyesindeki şapkalar markasıdır.Firma flexfit, sahada takılan ve ayarlanabilir şapkalar üretmektedir.Yupoong Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Parle Bisküvi",
+    "description": "Parle Bisküvi Hangi Ülkenin Malı MarkasıParle, 1929 yılında kurulan Parle Products Private Limited bünyesinde üretilen bisküviler markasıdır.Ürünleri glikoz içermektedir.Parle Products Private Limited Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Bonsen",
+    "description": "Bonsen, 2005 yılında kurulan Bonsen Electronics Ltd. bünyesinde üretilen kağıt öğütücü ve küçük mutfak aletleri markasıdır.Ürün yelpazesinde kağıt öğütücü, ev aletleri, süt köpürtücü, kahve makinesi, meyve sıkacağı ve karıştırıcılar, ızgara ve hava fritöz, ekmek kızartma makinesi, su ısıtıcısı, vakumlama makinesi, küçük mutfak aletleri gibi ürünler yer almaktadır.ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Bonsen Electronics Ltd. Çin merkezlidir. Ürünlerini Çin ve Vietnam’da bulunan fabrikalarında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

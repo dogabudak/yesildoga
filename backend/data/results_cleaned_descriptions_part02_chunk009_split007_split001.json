@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Alrosa",
+    "description": "Alrosa,1992 yılında kurulan Alrosa PJSC, bünyesindeki elmas araştırmaları, madenciliği markasıdır.Rusya’daki elmas üretiminin yüzde 95’ini, dünyadaki elmas madenciliğinin yüzde 28’ini gerçekleştirmektedir.Alrosa PJSC Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Dentsu",
+    "description": "Dentsu, 1901 yılında kurulan Dentsu Inc. bünyesindeki uluslararası reklam ve halkla ilişkiler markasıdır.Dentsu dünya çapında gelirleri açısından dünyanın beşinci büyük reklam ajansı ağıdır. 145 ülkede faaliyet göstermektedir.Dentsu Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Tractor Supply",
+    "description": "Tractor Supply, 1938 yılında kurulan Tractor Supply Company bünyesindeki Giyim, Ayakkabı, Evcil Hayvan Malzemeleri, Römorklar ve Aksesuarlar, Çim ve Bahçe Malzemeleri, Propan ve Isıtma Malzemeleri, Kaynak Malzemeleri, Çim Biçme Makineleri ve Güç Jeneratörleri gibi ürünlerin markasıdır.Tractor Supply Company, Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Leo Dalgıç Pompa",
+    "description": "Leo Dalgıç Pompa Hangi Ülkenin Malı Markası1995 yılında kurulan Zhejiang LEO Co., Ltd. şirketi bünyesindeki pornpa ve pompa sistemleri markasıdır.Zhejiang LEO her seriden pompanın tasarım, üretim ve satışını yapan uluslar arası ileri teknoloji kuruluşudur. Ürünleri 140’den fazla ülke ve bölgeye ihraç edilmektedir.Zhejiang LEO Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Meray Kuruyemiş",
+    "description": "Meray Kuruyemiş, 1978 yılında Mehmet Kılıç tarafından kurulan Meray Kuruyemiş Ltd. Şti. bünyesindeki kuruyemiş markasıdır.1999 yılında Almanya’da Fresh Nuts GmbH şirketini kurdu.Almanya ve Gaziantep’de üretim tesisleri bulunurken Polonya ve Belarus’ta ofisleri ile bulunmaktadır.HACCP, ISO 9001:2000, ISO 14001:2004, ISO 22000:2005, OHSAS 18001:2004 kalite standart belgelerine sahiptir.Ürünlerini 50’ye yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

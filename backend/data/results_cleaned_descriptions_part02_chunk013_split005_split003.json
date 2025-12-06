@@ -1,0 +1,44 @@
+[
+  {
+    "company": "AngioDynamics",
+    "description": "AngioDynamics, 1988 yılında kurulan AngioDynamics, Inc. bünyesindeki tıbbi cihazlar markasıdır.AngioDynamics, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Elta Ada",
+    "description": "Elta Ada, 2004 yılında kurulan Elta Elektrik Taah. İnş. Tic. Ltd. Şti. bünyesindeki organik süt, yoğurt, peynir, tereyağı, zeytinyağı, bal, kırmızı et markasıdır.Ürünerini Gökçeada’da kurulan 3 bin 100 dekar arazide organik sertifikalı olarak üretmektedir. Çiftliğinde organik yem bitkileri (yonca, mısır, fiğ, arpa ve buğday) yetiştiriyor, inek, keçi ve koyunların tüm kaba yem ihtiyacını sağlıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cachet",
+    "description": "Cachet, 1987 yılında Fons Maex tarafından kurulan Kim’s Chocolates N.V. bünyesindeki çikolata markasıdır.Kim’s Chocolates yüzde 100 saf kakao yağı ya da başka bitkisel yağlar kullanır. Hidrojene yağ eklenmez ve genetiği değiştirilmiş ajanlar kullanılmaz. Ürünleri aşırı şekerlidir.2003 yılında Almanya merkezli Windel Group tarafından satın alındı.Belçika çikolataları konusunda uzmanlaşmıştır ve Belçika’da üretim yapmaktadır. Üretiminin yüzde 95’inden fazlasını ihraç etmektedir. Üretim tesisi güneş panellerinden enerji üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fuga",
+    "description": "Fuga, 1991 yılında kurulan Artek Mobilya İç Mimarlik Tasarım ve Uygulama San. Ltd. Şti. bünyesindeki mobilya markasıdır.Loft, Lav, Lins, Miro, İnka ve Merlin Koleksiyonlarında kullanılan doğal malzemelerle doğal ürünler sunmaktadır. Yüzde yüz Türk sermayesiyle, tamamı Türkiye’de üretilmektedir.Türkiye, Libya, Azerbaycan, Irak, KKTC, ABD, Macaristan, İsrail, İsviçre, Suudi Arabistan, Çin, Hindistan’da mağazaları ile perakende satış yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sergio Tacchini",
+    "description": "Sergio Tacchini, 1966 yılında kurulan Sergio Tacchini Operations, Inc bünyesindeki spor giyim markasıdır.2013 yılından beri Wintex Italia Srl tarafından yönetilmektedir.Wintex Italia Srl İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2021-05-04"
+  }
+]

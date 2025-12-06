@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Theodent",
+    "description": "Theodent, 2007 yılında Arman Sadeghpour, Tetsuo Nakamoto’ ve Joseph Fuselier tarafından kurulan Theodent, LLC bünyesinde üretilen ağız bakım ürünleri markasıdır.Florürsüz kakaolu diş macunu üretmektedir.Theodent, LLC Amerika merkezlidir. Ürünlerini Kanada, Birleşik Krallık, Rusya, Çek Cumhuriyeti, Hong Kong, Çin, Birleşik Arap Emirlikleri, Irak, Güney Afrika gibi ülkelere pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Merba Kurabiye",
+    "description": "Merba, 1920 yılında kurulan Merba B.V bünyesinde üretilen kurabiye markasıdır.Ürünlerini 50 bin metrekarelik fabrikasında üretmektedir.Merba B.V Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Sturdy",
+    "description": "Sturdy, 1992 yılında kurulan Sturdy Industrial Co., Ltd., bünyesinde üretilen buharlı otoklav sterilizatör, ameliyat masası, çalışma lambası, ems ürünleri el parçası temizleyici, ultrasonik temizleyici, emme ünitesi, ktüs alet, genel plastik ürünleri markasıdır.ISO 13485 belgesine sahiptir.Sturdy Industrial Co., Ltd. Tayvan merkezli Apex Medical grubunun bir üyesidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Artel",
+    "description": "Artel, Konstantinidis Grigoris Artel bünyesindeki fırın, pasta ve hamur açma makineleri ve mikser markasıdır.Ürünlerini bin metrekarelik fabrikasında üretmektedir.Konstantinidis Grigoris Artel Yunanistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Deko",
+    "description": "Deko, 2004 yılında kurulan Deko Srl bünyesindeki boya ve tencere ürünleri markasıdır.Deko markalı ürünler 4 bin 400 metrekarelik alanda bulunan üretim tesisinde üretilmektedir.Deko Srl, 2018 yılında İtalya merkezli yatırım şirketi Equilybra Capital Partners SPA tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

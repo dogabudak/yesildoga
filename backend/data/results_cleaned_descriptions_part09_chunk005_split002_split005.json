@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Anocin",
+    "description": "Anocin2009 yılında kurulmuş olan Anocin Labs Kozmetik Kimya İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen vitamin ve gıda takviyeleri, cilt serumları, güneş kremleri, saç bakımı ürünleri markasıdır.Firma Ankara merkezlidir. Ürünleri Türkiye, Almanya, Hollanda ve Amerika’da ki partner üretim tesislerinde üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Momordica",
+    "description": "Momordica2019 yılında kurulmuş olan İpekyolu Bitkisel Ürünler Paz. A.Ş. bünyesindeki gıda takviyesi ve kozmetik ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vitisfera",
+    "description": "Vitisfera2022 yılında kurulmuş olan Vitisfera Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen gıda takviyeleri markasıdır.Ürünleri yüzde yüz bitkisel içeriklidir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bidmatic.io",
+    "description": "Bidmatic2021 yılında kurulmuş olan Bidmatic Inc. bünyesindeki yayıncı merkezli para kazanma çözümleri markasıdır.Yapay zeka güdümlü veri analizini kullanarak yayıncı iş ortaklarına performansa odaklı para kazanma stratejileri sunmaktadır.Bidmatic Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bromelain Forte",
+    "description": "Bromelain Forte2021 yılında kurulmuş olan Business Sağlık İlaç Medya Ltd. Şti. bünyesindeki vitamin takviyesi markasıdır.ISO 9001, ISO 22000, ISO 22716 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

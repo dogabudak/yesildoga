@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Funna Mamma",
+    "description": "Funna Mamma, 1977 yılında Emine ve Yekta Kölemenoğlu tarafından kurulan Neta Nakış Tekstil ve Makina San. Tic. A.Ş. bünyesinde üretilen hamile ve lohusa iç giyim ürünleri markasıdır.Ferda ve Banu Kölemenoğlu kardeşler tarafından yönetilen firmada Funna Mamma markasıyla ten rengi, beyaz ve siyah olmak üzere üç renkte emzirme sütyeni, hamile sütyeni, hamile ve lohusa külodu, emzirme atleti ve hamile atleti üretmektedir.Bünyesindeki markalar:FunnaFunna MammaFunnababyFunnababy Sweet Little Thingsİlk AdımLolybon",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rockrider",
+    "description": "Rockrider, 1976 yılında kurulan Decathlon Group’un bünyesindeki B’Twin’in dağ bisikleti alt markasıdır.Btwin Asya ve Avrupa’da birçok üretici tarafından üretilmektedir.Türkiye’de 2010 yılından beri faaliyet gösteren Decathlon Group, Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Pretty Love",
+    "description": "Pretty Love, 2011 yılında kurulan Liaoyang Baile Health Care Product Co,. Ltd bünyesinde üretilen cinsel ürünler markasıdır.Liaoyang Baile Health Care Product Co,. Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar:PrettyloveBaileCrazybull",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ikra",
+    "description": "Ikra, 1977 yılında Reinhard H. Jachmann tarafından kurulan Ikra GmbH bünyesindeki kablosuz, elektrikli ve benzinli bahçe aletleri markasıdır.Ürün yelpazesinde çim biçme makinesi, sap parçalama, çim düzeltici, kesiciler, yaprak üfleyiciler, elektrikli yaprak süpürgesi, zemin yontma, bahçe helikopterleri, kar üfleyiciler, çit kesiciler, çalı makası, teleskopik çit kesiciler, testereler gibi ürünler yer almaktadır.ISO-9001 belgesine sahiptir.Ikra GmbH Almanya merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mörtel Meister",
+    "description": "Mörtel Meister Nerenin MalıMörtel Meister, 2005 yılında kurulan Kotan Bau Yapı San. ve Tic. A.Ş. bünyesinde üretilen şap makinesi, kara sıva makinesi, sıva makinesi, perdah makinesi, beton makinesi, beton pompası ve aksesuarları markasıdır.ISO 9001 belgesine sahiptir.Beton Pompası, Şap, Sıva, perdah ve beton makinelerini 14 bin metrekarelik fabrikasında üreten Kotan Bau Yapı, ürünlerini Avrupa, Afrika, Orta Doğu ve Orta Asya ülkelerine ihraç etmektedir.Bünyesindeki markalar:Kotan BauMörtel Meister",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-10-24"
+  }
+]

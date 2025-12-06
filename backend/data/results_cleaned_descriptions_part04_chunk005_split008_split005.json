@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Zadig Voltaire",
+    "description": "Zadig & Voltaire, 1997 yılında Thierry Gillier tarafından kurulan ZV F. SAS bünyesinde üretilen hazır giyim markasıdır.Kadın ve erkek giyim ürünleri üreten firmanın ürün yelpazesinde; gömlek, terlik, elbise, örme giysiler, ceket, blazer, üst, pantolon ve şortların yanı sıra saat, şapka, kemer, güneş gözlükleri, eşarp, ayakkabı, çanta, cüzdan, aksesuarlar ve kokular yer almaktadır.ZV France SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2022-09-17"
+  },
+  {
+    "company": "Archman",
+    "description": "Archman, 1968 yılında kurulan Archman S.R.L. bünyesindeki profesyonel budama makası, budama makası, testereler, budama makası, bahçe aletleri markasıdır.Ürünleri Avrupa’daki çeşitli üreticiler tarafından üretilmektedir.Archman S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bravilor Bonamat",
+    "description": "Bravilor Bonamat, 1948 yılında A.J.M. Verheijen tarafından kurulan Bravilor Bonamat BV bünyesindeki kahve makineleri, sıcak su sistemleri, filtre kahve makineleri, espresso makineleri ve sıcak su dağıtıcıları markasıdır.Bravilor Bonamat BV Hollanda merkezlidir. Dünya çapında 100’den fazla ülkede yetkili satıcılara sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Sekisui Chemical",
+    "description": "Sekisui Chemical, 1947 yılında kurulan Sekisui Chemical Company, Limited bünyesinde üretilen kimyasal, tıbbi, plastik markasıdır.Şirket, farklı işlerle uğraşan çok sayıda yan kuruluşa sahiptir.Sekisui Chemical Company Limited Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Koyo",
+    "description": "Koyo, 2006 yılında iki şirketin birleşmesiyle kurulan JTEKT Corporation bünyesindeki direksiyon sistemleri, aktarma sistemi bileşenleri, takım tezgahları, ev aksesuarları, ball ve rulman yatakları markasıdır.JTEKT Corporation Japonya merkezli Toyota Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Morgans Pomade",
+    "description": "Morgans Pomade, 1873 yılında kurulan Morgan’s Pomade Company Ltd. bünyesinde üretilen saç ve güzellik ürünleri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Morgan’s Pomade Company Ltd. İngiltere merkezlidir ve 50’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Zencool",
+    "description": "Zencool, 2018 yılında kurulan İnTech Pazarlama İthalat İhracat San. Tic. Ltd. Şti. bünyesindeki vantilatör markasıdır.Firma Manisa merkezlidir.Bünyesindeki markalar;HeatinHeatartThermocoreZencool",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Walker Tape",
+    "description": "Walker Tape, 1985 yılında kurulan Walker Tape Co. bünyesindeki saç değiştirme ürünleri, saç kaynak ürünleri ve saç uzatma bandı ve golf kavrama bandı ile aksesuarları markasıdır.Uzun tutma bantları ve sıvı yapıştırıcılarıyla ünlüdür.Walker Tape Co. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Santeco",
+    "description": "Santeco, 1996 yılında kurulan Zhejiang Haers Vacuum Containers Co. Ltd. bünyesinde üretilen ev eşyaları, bardaklar, termoslar markasıdır.Şirketin ana ürünleri arasında kupalar, termoslar, yalıtım kutuları, güveç kapları ve diğer paslanmaz ve paslanmaz çelik olmayan vakum yalıtım kapları bulunmaktadır.Zhejiang Haers Vacuum Containers Co. Ltd. Çin merkezlidir. Alüminyum ve polipropilenden ürünler İsviçre’de, paslanmaz çelik ve camdan ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mara Kozmetik",
+    "description": "Mara, 2010 yılında kurulan Mara Kozmetik ve İlaç San. Dış Tic. Ltd. Şti. bünyesindeki makyaj, güneş bakım, vücut bakım ürünleri markasıdır.ISO 22716, Amfori BSCI belgelerine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;ImmerLipbombMaraMara KozmetikMara ShopMiaminaWemara",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-31"
+  }
+]

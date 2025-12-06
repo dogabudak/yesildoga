@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hada Labo",
+    "description": "Hada Labo, 2004 yılında Rohto Pharmaceutical Co., Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Hada Labo 2004 yılından itibaren gereksiz katkı maddeleri olan renklendirici, koku ve mineral yağ gibi katkıları kaldırdı. 2005 yılında, marka ambalajlarını camdan plastik şişelere değiştirdi ve ürünlerini dolum poşeti çeşitlemelerinde sunmaya başladı. Tüm ambalajları bitki kaynaklı malzemelerden üretmeye başladı.Rohto Pharmaceutical Co., Ltd. Japonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Julep",
+    "description": "Julep, 2007 yılında Jane Park tarafından kurulan Julep Beauty Inc. bünyesindeki oje, kozmetik, güzellik ürünleri markasıdır.Julep Beauty Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hefei Guoxuan",
+    "description": "Hefei Guoxuan, 2006 yılında kurulan Hefei Guoxuan High-tech power energy Co., Ltd. bünyesindeki elektrikli araç bataryası markasıdır.Guaxuan orta seviye üreticilerden biridir.2020 yılında yüzde 20 hissesi Volkswagen AG tarafından satın alındı.Hefei Guoxuan High-tech power energy Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "CATL",
+    "description": "CATL, 2011 yılında kurulan Contemporary Amperex Technology Co. Limited bünyesinde üretilen elektrikli araçlar ve enerji depolama sistemleri için lityum-iyon pil markasıdır.Contemporary Amperex Technology Co. Limited Çin merkezlidir ve Çin’de üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ben.x",
+    "description": "Ben.x Nerenin Malı MarkasıBen.x, 1997 yılında Mercan Optik İthalat İhracat San. ve Tic. Ltd. bünyesinde üretilen gözlük markasıdır.Firma Türk malı gözlük çerçeveleri, değişebilir renkli ve desenli çerçeve sapları üretmektedir.Mercan Optik bünyesindeki markalar:ben.xrococo",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

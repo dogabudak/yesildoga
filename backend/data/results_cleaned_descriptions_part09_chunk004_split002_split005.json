@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Siweida",
+    "description": "Siweida2003 yılında kurulmuş olan Beijing Hairan Import & Export Trading Co. Ltd. bünyesinde üretilen olta ürünleri markasıdır.Beijing Hairan Import & Export Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;River SportsSiweidaZhibo",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Zanker",
+    "description": "Zanker1919 yılında kurulmuş olan Electrolux Hausgerate Gmbh bünyesindeki ev aletleri, bulaşık makinesi, davlumbaz, ankastre fırın ve ocaklar, mikrodalga cihazları, buzdolabı, dondurucu, yedek parça ve aksesuarlar markasıdır.Electrolux Hausgerate Gmbh İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Celain",
+    "description": "Celain1986 yılında kurulmuş olan Celain Electronics Co. Ltd. bünyesinde üretilen araç bağlantı kablosu, dağıtıcı kutusu, dahili kablo demeti, endüstriyel ağ kablosu, endüstriyel ekipman bağlantı kablosu, endüstriyel ekipman d-sub kablosu, endüstriyel ekipman yuvarlak su geçirmez kablo, endüstriyel kamera ieee1394 veri kablosu, endüstriyel kontrol scsi kablosu, endüstriyel usb kabloları, fiber optik serisi, havacılık su geçirmez kablo, iç kablo demeti, io kablosu, kamera bağlantısı hs kablosu, optik fiber serisi, sahne aydınlatma kabloları, ses kabloları, ses kulaklık kablosu, tıbbi ekipman bağlantı kablosu, yüksek frekanslı görüş kablosu markasıdır.ISO 9001 belgesine sahiptir.Celain Electronics Co. Ltd. Tayvan merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Swident",
+    "description": "Swident2017 yılında kurulmuş olan Atkinz Group Ltd. bünyesinde üretilen diş macunu markasıdır.Altın diş macunu ve inci tozu diş macunu gibi diş macunu ürünleri üretmektedir.Atkinz Group Ltd. İngiltere merkezlidir ve ürünleri İsviçre’de üretilmektedir.Bünyesindeki markalar;EuromobileLa Secret LondonRomanSwident",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bubblicious",
+    "description": "Bubblicious2012 yılında kurulan Mondelez International Inc. bünyesinde üretilen sakız markasıdır.Ürünleri mısır şurubu, yapay tatlandırıcılar ve yapay renklendiriciler içermektedir.Mondelez International Inc. Amerika merkezlidir ve ürünlerini 150’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

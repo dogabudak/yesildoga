@@ -1,0 +1,50 @@
+[
+  {
+    "company": "İncehesap",
+    "description": "İncehesap, 1999 yılında kurulan incehesap Sanal Mağazacılık Tic. A.Ş. bünyesindeki teknoloji ürünleri e-ticaret sitesi markasıdır.İşlemci, anakart, cep telefonu, chia ürünleri, ekran kartı, hazır sistemler, led tv, monitör, notebook, oyuncu kulaklık gibi kategorilerde ürünler sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Casamorati 1888",
+    "description": "Casamorati 1888, Sergio Momo tarafından kurulan Xerjoff Group S. p. A. bünyesinde üretilen parfüm markasıdır.Baskın baharat kokuları içermektedir.Xerjoff Group S.p.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "BBcos",
+    "description": "BBcos, 1999 yılında kurulan LAB37 Srl bünyesinde üretilen kozmetik ve saç bakım ürünleri markasıdır.Ürünlerini 30 ülkeye pazarlamaktadır.LAB37 Srl İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Ekomini",
+    "description": "Ekomini, 2012 yılında Anadolu Grubu tarafından kurulan hızlı market markasıdır.Marketçilik alanında bayilik sistemiyle çalışmaktadır.Gıda, atıştırmalık, süt ve şarküteri ürünleri, tüm içecek çeşitleri, temizlik ve kişisel bakım ürünleri sunmaktadır.Türk holdingi olan Anadolu Grubu’nun yüzde 68’i Yazıcılar Holding’e, yüzde 32’si Özilhan Sınai Yatırım’a aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doduco",
+    "description": "Doduco, 1922 yılında Eugen Dürrwachter tarafından kurulan Doduco Holding Gmbh bünyesindeki kontak malzemeleri ve yarı mamul kontaklar, bimetal şeritler, hassas damgalama parçaları ve elektromekanik montajlar markasıdır.Almanya merkezli Doduco Holding Gmbh bir elektrik kontağı üreticisidir. Ürünlerini Almanya, İspanya, Romanya ve Çin’deki üretim noktalarında üretmektedir.ISO 9001, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

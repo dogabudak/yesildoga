@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Radioshack",
+    "description": "Radioshack, 1921 yılında kurulan RadioShack Corporation bünyesindeki tüketici elektroniği markasıdır.E-ticaret elektronik perakendecisine dönüştürülmesi planlanıyor.RadioShack Corporation, 2020 yılında Amerika merkezli Retail Ecommerce Ventures LLC tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Webaslan",
+    "description": "Webaslan, 1998 yılında Çarmıklı Şirketler Grubu bünyesinde kurulan Maksimum İletişim Hizmetleri A.Ş.’ye ait Galatasaray hakkında futbol haberleri, diğer sporlar, tarihçe diğer içeriklerin yer aldığı internet sitesidir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wijas",
+    "description": "Wijas, 1971 yılında kurulan Wijas S. J. bünyesinde üretilen ev aletleri, şofben, su ısıtıcıları markasıdır.Wijas S. J. Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Monacor",
+    "description": "Monacor, 1965 yılında Günter Schilling tarafından kurulan Monacor International Gmbh & Co. KG bünyesinde ithal edilen güvenlik kameraları, hoparlörler, ses mikserleri, amplifikatörler ve eşleşen aksesuarlar markasıdır.Monacor International Gmbh & Co. KG Almanya merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ninobio",
+    "description": "Ninobio, 2018 yılında Okan Ünlü tarafından kurulan Ninova Biyoteknoloji ve Laboratuvar Ürünleri Tic. Ltd. Şti. bünyesinde üretilen bitki özlü bulaşık tableti markasıdır.Ürünleri fosfor, klor, amonyak, sles, sls, paraben içermemektedir.İstanbul merkezli firma ürünlerini Türkiye’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-09-20"
+  }
+]

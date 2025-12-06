@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Bitossi",
+    "description": "Bitossi Home 2007 yılında kuruldu. Genç tasarımcılarla birlikte, renkli sofra takımları ve mutfak aksesuarları koleksiyonları oluşturmak için işbirliği yaptı.Markanın güçlü yanı seramik malzemeyi, camı, ahşabı ve yeni malzemeleri bir araya getirebilen fikirler için sürekli bir arayış içerisinde olmasıdır.Bitossi Home İtalya merkezli bir firmadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Tele 1",
+    "description": "Tele1, Kültür Türk adıyla yayın hayatına başlayan kanalın 9 Ocak 2017’de değişmesiyle oluşturulan haber kanalıdır. Kanalın sahibi ABC Radyo,Televizyon ve Dijital Yayıncılık A.Ş.’dir.Kanalın genel merkezi İstanbul’dadır.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Elite Naturel Ülke",
+    "description": "Elite Naturel, 1998 yılında kurulan Elite Naturel Organik Gıda San. ve Tic. A.Ş. bünyesindeki meyve suyu markasıdır.Elite Naturel ve Elite Naturel Organik meyve suları, meyvelerin çekirdekleri ile birlikte sıkılmasından elde edilmektedir. Konsantreden sulandırılarak elde edilmediği için meyvenin öz suyunu ve aromasını içerir. Cam ambalajlı ve alüminyum kapaklı olarak hazırlanır.Ürünleri hormon ve kimyasal tarım ilacı kullanmayan 5 binden fazla çiftçiden alınan meyvelerden üretilir.Brc, Usda, Jas, Eu, Gimdes, Vegan, Shel, Nissert belgelerine sahiptir.Ortaklık yapısı:Ahmet Yaşar Eşmekaya (yüzde 38,89)Çağri Eşmekaya (yüzde 38,89)Diğer (yüzde 22.22)",
+    "documents": [
+      "BRC",
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-08-27"
+  },
+  {
+    "company": "Star Tv Gruba Kime",
+    "description": "Star TV, ilk önce 1 Mart 1989 yılında Lihtenştayn’da Magic Box Incorporated AG adlı şirket tarafından Türkiye’nin ilk özel televizyon kanalı olarak, Star 1 adıyla kuruldu ve bir kaç kez el değiştirdikten sonra 2002 yılında adı Star TV oldu.Doğuş Yayın Grubu bünyesine 2011 yılında katılan Star TV ulusal bir televizyon kanalıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2020-03-24"
+  },
+  {
+    "company": "Standard Poor’s Kurucusu Kim",
+    "description": "\"Standard Poor’s Kurucusu Kim\"\nUluslararası kredi derecelendirme kuruluşu Standard & Poor’s (S&P), Amerika, New York merkezlidir.1860 yılında Henry Varnum Poor tarafından kurulurken 1941 yılında şirketleşmiştir.Ülkelere borç vermek isteyen yatırımcılar S&P’nin verdiği / vereceği derecelendirme puanlarıyla önerilen faizleri değerlendirmeye alır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

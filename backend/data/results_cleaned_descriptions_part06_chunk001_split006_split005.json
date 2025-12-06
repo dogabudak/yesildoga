@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Lezzethane",
+    "description": "Lezzethane, BİM Birleşik Mağazalar A.Ş. adına Özsoy Unlu Mamuller Gıda San. ve Tic. A.Ş. tarafından üretilmektedir.Ürünleri hidrojenize margarin, gluten içermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aborn",
+    "description": "Aborn, 1992 yılında kurulan Aborn Automotive Sensor Co. Ltd. bünyesinde üretilen voltaj regülatörleri, sensörler, ateşleme modülleri, kontrolörler, redresörler, step motorlar, anahtarlar, motor elektrik parçaları, gövde elektrik parçaları, kondansatörler, röleler, flaşörler markasıdır.Zhejiang Aborn Automotive Sensor Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Denman",
+    "description": "Denman, 1972 yılında kurulan Denman International Ltd. bünyesinde üretilen saç fırçaları markasıdır.Şirket fırçalar, taraklar, parfümler, aksesuarlar ve diğer tuvalet müstahzarları sunmaktadır.Denman International Ltd. İngiltere merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;CombyDeanDenmanFreeflowPashanaJackPro-TipProEdgeRobboThermoThermoceramic",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Torku Yağ",
+    "description": "Torku Yağ Nerenin Malı MarkasıTorku Yağ, 1952 yılında kurulan Konya Şeker San. ve Tic. A.Ş. bünyesinde üretilen ayçiçek yağı markasıdır.ISO 9001, ISO 14001, Helal belgelerine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Trakyağ",
+    "description": "Trakyağ, 1966 yılında Babaeski, Edirne ve Lüleburgaz Yağlı Tohumlar Tarım Satış Kooperatifleri’nin biraraya gelerek kurdukları Trakya Birlik bünyesindeki rafine ayçiçek yağı ve bitkisel margarin markadır.Edirne merkezlidir ve ürünlerini entegre tesislerinde bulunan yağ fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Tarık Ediz",
+    "description": "Tarık Ediz, 1986 yılında kurulan Kadir Tarık Ediz Tekstil Sanayi ve Ticaret A. Ş. bünyesindeki elbise markasıdır.Tarık Ediz 5 kıtada 95’in üzerinde ülkede faaliyet göstermektedir.Tarık Ediz Türkiye’nin önde gelen abiye elbise üreticilerinden biridir. Firma 5 bin metrekarelik üretim alanında faaliyet göstermektedir. Tarık Ediz Markası 50’ye yakın ülkede tescill edilmiştir.Tarık Ediz Haut Couture ve gelinlik markası Tarık Ediz White’ın tasarımına 2014 yılı itibariyle başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Topshop",
+    "description": "Topshop, 1964 yılında Peter Robinson tarafından kurulan giyim, ayakkabı, moda, makyaj ve aksesuar gibi çok uluslu perakendecidir. Arcadia Group’un bir parçasıdır.2021 yılında iflas eden Arcadia Group, İngiltere merkezli Asos Plc tarafından satın alındı. (Satın alma gruba ait mağazaları kapsamıyor)Asos, Arcadia Group’a bağlı markaları bünyesine kattıYakın tarihte kurulan İngiliz çevrimiçi moda ve kozmetik perakendecisi Asos, koronavirüs salgını nedeniyle zarara uğrayarak iflas eden Arcadia Group’a bağlıBünyesindeki markalar;HIITMiss SelfridgeTopShopTopman",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2021-04-27"
+  },
+  {
+    "company": "Kaiser Ne",
+    "description": "Kaiser, Wilhelm Ferdinand Kaiser tarafından kurulan kek kalıpları, kelepçeli kek kalıpları, muffin kalıpları, kağıt muffin kalıpları, kurabiye kalıpları markasıdır.Kaiser ürünlerini 50’den fazla ülkede satmaktadır. Kalıpları yapışmayan özel bir seramik madde ile kaplanır.Kaiser kalıplar Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Valspar",
+    "description": "Valspar, 1806 yılında Samuel Tuck, Lawson Valentine, Henry Valentine tarafından kurulan The Valspar Corporation bünyesindeki boya ve boya kimyasalları markasıdır.Amerika merkezli The Valspar Corporation markaları:Barn and FenceCabot StainDe BeerDevine ColorHouse of KolorLICOctoralPlasti-KoteValsparValspar Industrial Mix",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Accenture Ülke",
+    "description": "Accenture, 1989 yılında kurulan Accenture PLC, bünyesindeki Strateji, danışmanlık, dijital, teknoloji ve operasyon hizmetleri markasıdır.Accenture İrlanda merkezli bir şirkettir.2017 yılında Apple Inc. ile iOS iş çözümleri oluşturmak için Accenture ile bir ortaklık kurmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  }
+]

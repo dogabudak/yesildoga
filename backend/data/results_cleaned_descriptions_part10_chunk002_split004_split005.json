@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Lambretta",
+    "description": "1947 yılında kurulmuş olan Lambretta Company bünyesindeki scooter, motosiklet, bisiklet ve lüks giyim, saat, gözlük, mücevher ve parfüm markasıdır.Lambretta İsviçre merkezli Innocenti SA’nın bir parçasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Sahure Hanım",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Unadam Lavaş",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rutube",
+    "description": "2006 yılında kurulmuş olan Ruforum OOO bünyesindeki video paylaşım sitesidir.Üretilen videoları yayınlar, dağıtır ve kullanıcılara arkadaşlarının izlediği kişiselleştirilmiş bir video listesi sağlayan sosyal ağlardan klipler toplar.Ruforum OOO Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Mixim",
+    "description": "2009 yılında kurulmuş olan Name Gıda San. ve Tic. A.Ş. bünyesinde üretilen kakaolu fındık kremalı yemeye hazır unlu mamuller markasıdır.ISO 9001, TSE, Helal belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini Nevşehir’de bulunan fabrikasında üretmektedir.Bünyesindeki markalar;",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

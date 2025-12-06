@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Esprique",
+    "description": "Esprique, 1946 yılında Kozaburo Kobayashi tarafından kurulmuş olan Kose Corporation bünyesindeki kapatıcı, yüz pudrası, yüz sisi, makyaj ürünleri markasıdır.Kosé Corporation Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Airsoft Kulak Tıkacı",
+    "description": "Airsoft, 1906 yılında Mark C. Honeywell tarafından kurulmuş olan Honeywell International Inc. bünyesinde üretilen kulaklık tıkaçları markasıdır.Ürünleri tarım, inşaat, yangın, ormancılık, kolluk kuvvetleri, hafif imalat, ulaşım, kamu hizmetleri, kaynak gibi sektörlerde gürültüyü azaltmak için kullanılmaktadır.Honeywell International Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wapps",
+    "description": "Wapps, 1989 yılında kurulmuş olan Şölen Çikolata Gıda San. ve Tic. A.Ş. bünyesinde üretilen lokumlu çikolata, çikolata kaplı kekler, çikolata kaplı bisküviler markasıdır.Firma Gaziantep merkezlidir. Ürünlerini Gaziantep’te üretmekte ve 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cosmelan",
+    "description": "Cosmelan, 1985 yılında kurulmuş olan Mesoestetic E-Commerce S.L. bünyesinde üretilen kozmetik cilt bakım ürünleri markasıdır.Mesoestetic E-Commerce S.L. İspanya merkezlidir. Ürünlerini 90 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Soehnle",
+    "description": "Soehnle, 1959 yılında kurulmuş olan Leifheit AG bünyesinde üretilen terazi, mutfak terazileri, oda havası, kan basıncı ölçüm cihazları markasıdır.Leifheit AG, Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

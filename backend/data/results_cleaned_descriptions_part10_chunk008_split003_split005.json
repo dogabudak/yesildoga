@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bayerntaler",
+    "description": "1926 yılında kurulan Zott SE & Co. KG bünyesinde üretilen peynir, süt ürünleri markasıdır.Ürünleri ülke dışından yem içermeyen ve sadece GDO’suz yemle beslenen ineklerin sütünden üretilmektedir.Zott SE & Co. KG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hifonics",
+    "description": "2001 yılında kurulan Maxxsonics Inc. bünyesindeki araç ses çözümleri markasıdır.Araçlar için güçlü Subwoofer, amplifikatörler, hoparlörler sunmaktadır.Maxxsonics Usa Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Croxilex",
+    "description": "1903 yılında kurulmuş olan İ.E. Ulagay İlaç San. Türk A.Ş. bünyesinde üretilen ilaç markasıdır.İ.E. Ulagay İlaç San. Türk A.Ş.’nin yüzde 88 hissesi 2001 yılında İtalya merkezli Menarini Group tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Laplaya",
+    "description": "1953 yılında kurulmuş olan Ezetil Gmbh bünyesindeki matara, termos markasıdır.Ezetil Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Ralila",
+    "description": "Ralila Gıda ve Tarım Ürünleri San. Tic. Ltd. Şti. bünyesindeki organik sirke, ekstrat, meyve suyu ve yağ çeşitleri markasıdır.Firma Düzce merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

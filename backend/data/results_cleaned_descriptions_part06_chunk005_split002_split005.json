@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Wolf Oil",
+    "description": "Wolf Oil, 1955 yılında kurulan Wolf Oil Corporation N.V. bünyesindeki endüstriyel yağlar ve gresler, yağlayıcılar, motor yağı, soğutma sıvıları, şanzıman sıvıları, fren sıvıları markasıdır.Wolf Oil Corporation N.V. Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Cloos Qineo",
+    "description": "Cloos Qineo, 1919 yılında kurulan CLOOS Robotic Welding Inc. bünyesindeki kaynak makineleri, otomatik kaynak ve kesme, kaynak robotları, robot mekaniği, denetleyici, robot pozisyonerleri, iş parçası konumlandırıcıları, kompakt hücreler, kompakt sistemler, sensör sistemleri markasıdır.DIN EN ISO 9001 belgesine sahiptir.CLOOS Robotic Welding Inc., Almanya merkezli Carl Cloos Schweisstechnik Gmbh’nin bir yan kuruluşudur.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Epsolar",
+    "description": "Epsolar, 2007 yılında kurulan Beijing Epsolar Technology Co. Ltd. bünyesinde üretilen şebeke dışı güneş sistemi, solar şarj regülatörü, invertör, solar aydınlatma sistemi, solar saf sinüs dalga invertör, hibrit invertör şarj cihazı, solar şarj regülatörü, şebekeden bağımsız invertör, LED sürücü ve özel güç üniteleri markasıdır.ISO 9001, CGC-SOLAR, CE, ROSH, FCC belgesine sahiptir.Beijing Epsolar Technology Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmekte ve 120 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Constanta Kesme Makinesi",
+    "description": "Constanta, 1984 yılında kurulan Albert Kerbl Gmbh bünyesindeki hayvan kürklerini (sığır eti, at, koyun vb.) kesmek için elektrikli makineler, el aletleri, hayvanlar için makaslar markasıdır.Albert Kerbl Gmbh Almanya merkezlidir.Bünyesindeki markalar;BuddexClipsterConstantaCovallieroEquilasticEuro GuardFixclipFlix-BoxHkKerblKeronMaxi PetMistboyRheintechnikTechnobaseVetlastic",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Huvitz Optik",
+    "description": "Huvitz Optik, 1998 yılında kurulan Huvitz Co. Ltd. bünyesindeki mercek, optometrik ekipmanlar, mikroskoplar, oftalmik ve optik, huvitz 3d ati, 3d yazıcı markasıdır.Dünyanın oftalmik optik pazarına öncülük eden bir şirkettir.Huvitz Co. Ltd. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

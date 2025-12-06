@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Sweetwell",
+    "description": "2011 yılında kurulmuş olan Kardel Gıda Pazarlama Ltd. Şti. bünyesinde üretilen stevialı tatlandırıcılar markasıdır.Firma İstanbul merkezlidir. Ürünlerini 10’dan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;FibrelleMore&More",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seduna",
+    "description": "2014 yılında kurulmuş olan Seduna Mobilya San. Tic. Ltd. Şti. bünyesindeki çalışma sandalyesi ve koltuk, bilgisayar koltuğu, kırlent ve kırlent kılıfı, kanepe ve berjer, minderler, oyun ve aktivite masası, oyuncu koltuğu, oyuncu masası, puf modelleri, sandalye minderi, sandalyeler, tabure, yönetici koltukları markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Faro",
+    "description": "1981 yılında kurulmuş olan Faro Technologies Inc. bünyesindeki taşınabilir ölçüm kolları, lazer izleyicileri, 3d lazer tarayıcılar, taşınabilir metroloji çözümleri ve cam2 yazılımı markasıdır.Faro Technologies Inc. Amerika merkezlidir. Türkiye dahil 25 ülkede ofislere sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Delouis",
+    "description": "1797 yılında kurulmuş olan Charbonneaux-Brabant S.A bünyesinde üretilen hardal, mayonez, sos, salata sosu ve sirke markasıdır.Ürün gruplarının yüzde 80’i katkı maddesi içermez, koruyucu veya koyulaştırıcı içermez.Charbonneaux-Brabant S.A Fransa merkezlidir. Ürünlerini 90 ülkeye pazarlamaktadır.Bünyesindeki markalar;Antichi ColliBeauforCaroffClovisCrown’sDelouisGiovanna PavarottiLa Cuisine d’Autrefois",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Weigert",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

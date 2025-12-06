@@ -1,0 +1,50 @@
+[
+  {
+    "company": "XFX",
+    "description": "XFX, 1989 yılında kurulan XFX Inc. bünyesinde üretilen video kartları, anakart ve güç kaynağı markasıdır.XFX, Pine Technology Holdings Limited’in bir bölümüdür. Fabrikaları Çin’de bulunmaktadır.Pine Technology Holdings Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Simmtronics",
+    "description": "Simmtronics, 1994 yılında kurulan Simmtronics Infotech Pvt. Ltd. bünyesindeki bellek markasıdır.Hafıza kartları, flash sürücüler, masaüstü ve laptop ram ürünlerine sahiptir. Şirket tarafından sunulan ürün karması, pazarlanan çeşitli bilgisayar üreticileri tarafından kullanılan her türlü bellek modülüne hizmet vermektedir. ISO 9001 belgesine sahiptir.Simmtronics Infotech Pvt. Ltd. Hindistan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Dometic",
+    "description": "Dometic, 1923 yılında kurulan Dometic Group AB bünyesindeki araç, karavan ve kamyonlar için klima, buzdolapları, koltuklar, havalandırma, gaz sobaları, gaz dedektörleri, gemiler için klima sistemleri, jeneratörler, kazan, soğutma kutuları, minibarlar ve konut dolapları, mobil soğutma, mutfak aletleri, lavabolar, pencere ve kapılar markasıdır.Dometic Group AB İsveç merkezlidir. Çin, Belçika, Almanya, Macaristan, İtalya, Slovakya, İspanya, İsveç, Amerika’da üretim tesisileri bulunmaktadır.Ortaklık yapısı:Incentive AS 8,03NN Group N.V. 6,911832 Asset Management 6,29Swedbank Robur Funds 5,75Nordea Funds 5,36Alecta Tjanstepension 5,03Didner & Gerge Funds 4,73First Swedish National Pension Fund 4,67Fourth Swedish National Pension Fund 4,33Vanguard 3,52ODIN Funds 3,09Norges Bank 2,56SEB Funds 2,25Handelsbanken Funds 2,12Lansförsakringar Funds 1,91",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": "2023-03-11"
+  },
+  {
+    "company": "Dataram",
+    "description": "Dataram, 1967 yılında kurulan Dataram Corporation bünyesindeki DRAM bellek, depolama optimizasyon ürünleri, bilgisayar veri depolama, yazılım ürünleri markasıdır.Ürünleri arasında bellek ve depolama ve masaüstü bilgisayarlar, dizüstü bilgisayarlar, iş istasyonları ve sunucular için ilgili teknik ürünler ve hizmetler bulunmaktadır.Dataram Corporation Amerika merkezlidir ve Amerika’da üretim yapmaktadır. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "GeIL",
+    "description": "GeIL, 1993 yılında Jeff Hsieh tarafından kurulan Golden Emperor International Ltd. bünyesindeki RAM, Flash hafıza markasıdır.Dünya çapında 50 ülkede dağıtımı gerçekleştirilmektedir.Golden Emperor International Ltd. Tayvan merkezli bir bilgisayar donanım bileşenleri üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Blephaclean",
+    "description": "1994 yılında kurulmuş olan Laboratoires Thea bünyesindeki göz mendilleri markasıdır.Laboratoires Thea Fransa merkezlidir ve ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Allpremed",
+    "description": "1998 yılında kurulmuş olan Neubourg Skin Care Gmbh bünyesindeki cilt köpükleri ve kremler markasıdır.Neubourg Skin Care Gmbh İsveç merkezli Avia Pharma AB bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Batoca",
+    "description": "2010 yılında kurulmuş olan Ningbo Wb Auto Accessories Co. Ltd. bünyesinde üretilen araç parlatıcı, tampon, parlatma makinesi, parlatma bezleri, cilalama süngeri markasıdır.Ningbo Wb Auto Accessories Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Börfh",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Esptiger",
+    "description": "Ganzhou Jinghu Technology Co. Ltd. bünyesinde üretilen fare altlıkları, patenler, tutma bandı, kol kılıfları markasıdır.Ganzhou Jinghu Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

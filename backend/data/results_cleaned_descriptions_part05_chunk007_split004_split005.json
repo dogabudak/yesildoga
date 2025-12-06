@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Eastman",
+    "description": "Eastman, 2000 yılında kurulan Eastman Auto and Power Ltd. bünyesindeki lastik ve tüpler, yedek parçalar, motosikletler ve aküler markasıdır.Eastman Auto and Power Ltd. Hindistan merkezlidir. Ürünlerini 62 ülkeye pazarlamaktadır.Bünyesindeki markalar;AddoEastmanJRSJapstonKiyoshiNasokiPraxisRaybar",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Manli",
+    "description": "Manli, 1996 yılında kurulan Manli Technology Group Ltd. ekran kartları ve diğer çevre birimleri/bileşenleri markasıdır.ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.Manli Technology Group Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Karlie",
+    "description": "Karlie, 1976 yılında kurulan Karlie Gmbh bünyesinde üretilen evcil hayvanlar için yiyecek, giyecek, bakım, dinlenme yerleri, kafesler, akvaryumlar, oyuncaklar, çeşitli malzemeler ve aksesuarlar markasıdır.Karlie Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmekte, 70 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Eastland",
+    "description": "Eastland, 1955 yılında Jonas B. Klein, Bertram Wolfson ve Louis Fishman tarafından kurulan Eastland Shoe Corp. bünyesinde üretilen kadın, erkek ve çocuk ayakkabıları markasıdır.Eastland Shoe Corp. Amerika merkezlidir. Ürünleri Amerika’da el yapımı olarak geleneksel bir biçimde üretilir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Strunal",
+    "description": "Strunal, 1922 yılında kurulan Strunal Schönbach s. r. o. bünyesinde üretilen geleneksel yaylı çalgılar markasıdır.Keman, viyola, violoncellos, kontrbaslar, yay, klasik gitar gibi ürünler üretilmektedir.Strunal Schönbach s. r. o. Çek Cumhuriyeti merkezlidir. Ürünlerini çok sayıda ülkeye pazarlamaktadır.2020 yılında şirket iflas ilan etti.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Minth",
+    "description": "Minth, 1997 yılında kurulan Minth Group Ltd. bünyesindeki otomobil sarf malzemeleri markasıdır.Minth Group Çin’de 30’dan fazla üretim tesisi kurmuştur. Ayrıca ABD, Tayland ve Meksika’da üretim tesisleri kurulmuştur.Minth’in üretim tesisleri prosesler ekstrüzyon, ko-ekstrüzyon, rulo şekillendirme, bükme, damgalama, enjeksiyon, yüzey işleme (plastik ve metal boyama dahil), kaplama, kromlama gibi üretim hatlarına sahiptir.Minth Group Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pangang",
+    "description": "Pangang, 1993 yılında kurulan Pangang Group Vanadium Titanium and Resources Co., Ltd. bünyesindeki demir, çelik ve vanadyum ürünleri markasıdır.Pangang Group Çin merkezli Panzhihua Iron and Steel Group bünyesindedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Makelsan",
+    "description": "Makelsan, 1976 yılında kurulan Makelsan Makine Kimya Elektrik Sanayi ve Tic. A.Ş. bünyesindeki Kesintisiz Güç Kaynakları, Voltaj regülatörleri, Sızdırmaz Kurşun Asit Piller, İnvertörler, DC Sistemleri, Dönüştürücü, Modüler Ups, Transformatörler, Datacenter, Enerji Depolama ürünleri markasıdır.Makelsan ürün yelpazesi Statik ve Dinamik Kesintisiz Güç Kaynakları, Servo ve Statik Voltaj Regülatörlerinden Yenilenebilir Enerji Ürünleri, DC Güç Kaynağı, Telekom Ekipmanları, Akü Şarj Cihazları, İnverterler ve Datacenter Çözümlerine kadar çeşitlilik gösterir.Yüzde yüz yerli sermayeli bir üretici olarak ürünlerini İstanbul’da bulunan 25 bin metrekarelik fabrikada üretmektedir. Altı kıtada bulunan 80’den fazla ülkeye ihracat gerçekleştirmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Orgaz",
+    "description": "Orgaz, Orgaz & Ortaklar Kamp Ekipmanları ve Ev Aletleri San.Tic. Ltd. Şti. bünyesindeki alçak ve yüksek basınç regülatörleri, valfler, ocaklar, brülörler, fenerler, tüp emniyet valfleri, ısıtıcılar, ocaklar, fırınlar, fırınlar, barbekü, kaynak meşale, kamp ekipmanları, hortumlar, hortum kelepçeleri gibi LPG ekipmanı ve küçük elektrikli ev aletleri markasıdır.Türkiye’de üretilen Orgaz ürünleri, TSE, CE Belgeleri CERTY GAS, Pi tarafından TÜV SÜD belgelerine sahiptir.Ürünlerini 74 ülkeye ihraç etmektedir.Bünyesindeki markalar:ORGAZGASPOWERORCAMPCAMPINGMANORGORHOMESCHANAL",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Luminex",
+    "description": "Luminex, 1995 yılında kurulan Luminex Corporation bünyesindeki yaşam bilimleri uygulamaları ile tescilli biyolojik test teknolojileri geliştiren, üreten ve pazarlayan bir biyoteknoloji markasıdır.Luminex, klinik tanı, farmasötik ilaç keşfi, biyomedikal araştırmalar, genomik ve proteomik araştırmalar ve gıda güvenliği gibi çeşitli pazarlarda uygulanabilir geniş bir çözüm yelpazesi sunmaktadır.Luminex Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

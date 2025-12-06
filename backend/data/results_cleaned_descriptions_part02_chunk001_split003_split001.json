@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kido",
+    "description": "Pınar Kido, 1973 yılında Yaşar Holding A.Ş. bünyesinde kurulan, Pınar Süt’ten gelen çocuklar için üretilen Pınar Kido’nun, çilek, muz püreli ve kakaolu süt çeşitleri ile puding ve peynirler markasıdır.Pınar Süt’ün yüzde 61,41’i Yaşar Holding A.Ş.’ye ait, yüzde 37,95 hisseleri ise borsada işlem görmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Propipe",
+    "description": "Propipe, 1977 yılında kurulan Uzunoğlu Plastik Sanayi ve Ticaret Limited Şirketi bünyesindeki çeşitli bahçe hortumları markasıdır.İstanbul Sancaktepe ve Yalova’daki fabrikalarında üretim yapmaktadır. Ürünleri yüzde 100 yerli üründür.Uzunoğlu plastik markaları:UplastPROpipeRONEX",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Visconti",
+    "description": "Visconti, 1988 yılında Dante Del Vecchio ve Luigi Poli kurulan Visconti Srl bünyesindeki lüks kalem, saat ve aksesuarlar markasıdır.Türkiye dağıtıcısı 2015 yılından itibaren Elvisa A. Ş.’dir.Visconti Srl. İtalya merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Aloe Panten",
+    "description": "Aloe Panten, 100’den fazla ülkede, faaliyet gösteren bir sağlık şirketi olan Bausch & Lomb bünyesindeki besleyici krem markasıdır.Amerikan merkezli Valeant International Grubunun, tamamına sahip olduğu bir bağlı kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Benzamycin",
+    "description": "Benzamycin, içerisinde benzoil peroksit ve eritromisin adlı etkin maddeleri içeren, cilt üzerine uygulanmak üzere hazırlanan jel kıvamında bir üründür.Valeant Pharmaceuticals International Inc. tarafından Kanada’da üretilmektedir.Türkiye’de Farma-Tek İlaç San. ve Tic. A.Ş. tarafından ithal edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

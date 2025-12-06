@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Amos",
+    "description": "Amos, 1984 yılında kurulan Amos Corporation Co., Ltd. bünyesindeki boya kalemi, yapıştırıcı ve cam dekorasyonu markasıdır.Ürünleri 80 ülkede satılmaktadır. Çin ve Güney Kore’de 2 fabrikasında üretim yapmaktadır.Amos Corporation Co., Ltd. Güney Kore merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Zebra Kalem",
+    "description": "Zebra, 1897 yılında kurulan Zebra Co., Ltd. bünyesindeki yazı gereçleri markasıdır.Tükenmez, fosforlu, versatil kalem ve jel roller gibi birçok kalem çeşidinden yazı gereçleri ürün yelpazesine sahiptir.Zebra Co., Ltd. Japonya merkezlidir. Ürünlerini Japonya, Endonezya ve Çin’deki üretim tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Lufian",
+    "description": "Lufian, 2005 yılında M. Emin Gümüştepe ve Nuray Gümüştepe kardeşler tarafından kurulan Lufian Mağazacılık Hizmetleri A.Ş. bünyesindeki erkek rahat giyim, ayakkabı ve aksesuarları markasıdır.Ürünlerini fason üretim yaptırarak üretmektedir. Vietnam’da ürettirilen mont grubu hariç tüm ürünlerini Türkiye’de fason ürettiriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kent Gıda",
+    "description": "Kent1927 yılında temelleri atılan Kent Gıda Maddeleri San. ve Tic. A.Ş. bünyesindeki şeker ve şekerleme markasıdır.Kent Gıda Maddeleri San. ve Tic. A.Ş. Amerika merkezli Mondelez International Holdings LLC bünyesindedir. Türkiye’de Kocaeli’de üretim yapan firma dünyanın yaklaşık 180 ülkesinde kendi ürünlerini üretip satmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-03-03"
+  },
+  {
+    "company": "Tat Gıda",
+    "description": "Tat Gıda Sahibi Kim Kimin MarkasıTat, 1967 yılında kurulmuş olan Tat Gıda San. A.Ş. bünyesinde üretilen salça, konserve, domatesli ürünler, ketçap, mayonez, hardal, haşlanmış ürünler, hazır yemekler, sos ve harç, reçel, turşu, meyve suyu, sebze suyu, sebze ve meyve suyu markasıdır.ISO 9002 ve Helal belgelerine sahiptir.Tat Gıda San. A.Ş. paylarının yüzde 49,04’ü ile ve bazı intifa senetleri 2024 yılında Memişoğlu Tarım Ürünleri Tic. Ltd. Şti. tarafından satın alınmıştır. Ürünlerini 40 ülkeye ihraç etmektedir.Bünyesindeki markalar;AkasyaHummus TatKolay MutfakMukaşerMy PastaPratik MutfakTatTat AgroTat AtıştırmalıkTat BakliyatTat Bakliyat EviTat Geleneksel LezzetlerTat Halim Aşı ÇorbasıTat Kenger ÇorbasıTat LifeTat MixTat PetTat Plant BasedTat PratikTat SuperfoodsTat TaneTat TanemTat Temel GıdalarTat VeggieTat YemTatlifeTatlogVeyVeycanVeyssVeytat",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-09"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Wechip",
+    "description": "Wechip, 2012 yılında kurulan Shenzhen Joinwe Electronic Co., Ltd. bünyesinde üretilen televizyon kutusu, mini bilgisayar, mini projektör, joystick veya kablosuz denetleyici, vr 3d gözlük, uydu alıcısı, android tablet ve uydu bulucu markasıdır.Shenzhen Joinwe Electronic Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hawaiian Tropic",
+    "description": "Hawaiian Tropic, 2008 yılında kurulan Edgewell Personal Care LLC bünyesindeki güneş bakım ürünleri markasıdır.Şirketin iş kolu parfüm, kişisel bakım, kozmetik ve diğer tuvalet preparatlarının üretimini içerir.Edgewell Personal Care LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Strial",
+    "description": "Strial, 1935 yılında kurulan araç lastiği markasıdır.Strial, 2007 yılında Compagnie Generale des Etablissements Michelin SCA bünyesine geçmiştir.Fransa merkezli Michelin, 170’ten fazla ülkede faaliyet göstermektedir. Ürünlerini 17 ülkede 60’tan fazla üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Lydsto",
+    "description": "Lydsto, 2005 yılında kurulan Guangdong Yimu Technology Co. Ltd. bünyesinde üretilen ev temizlik robotları markasıdır.Firma güç elektroniği ve kontrol paneli ürünleri, akıllı ev ürünleri arge üretim ve satışıyla faaliyet göstermektedir.Guangdong Yimu Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünleri 30’dan fazla ülke ve bölgeye ihraç edilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-11-28"
+  },
+  {
+    "company": "Canson",
+    "description": "Canson, 1557 yılında Jacques Montgolfier tarafından kurulan güzel sanatlar kağıdı, okul çizim kağıtları, fotoğraf kağıtları ve ilgili ürünler markasıdır.2016 yılında İtalya merkezli F.I.L.A. Group S.p.A. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

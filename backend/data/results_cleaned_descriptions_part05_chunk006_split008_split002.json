@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Winkel Yapıştırıcı",
+    "description": "Winkel, 2001 yılında kurulan Winkel Endüstri Ürün. San. ve Tic. A.Ş. bünyesinde üretilen yapıştırıcılar, yağlayıcılar, temizleyiciler, anaerobik ürünler, araç bakim ürünleri, araç kaporta grubu, boyalar, elastik sızdırmazlık ürünleri, katkı ve sistem temizleyiciler, metal kaplama, koruma ve yüzey işlem ürünleri markasıdır.Bünyesindeki markalar;WetoxWincutWinkelWinkel ProWinolWinpox",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polygreen",
+    "description": "Polygreen, 1983 yılında kurulan Kai-Jian Enterprise Co. Ltd. bünyesinde üretilen akıllı tansiyon ölçerler markasıdır.Ürün yelpazesinde ateş ölçer, nebulizatörler, tansiyon ölçer, kan şekeri ölçüm sistemi ürünleri yer almaktadır.Kai-Jian Enterprise Co. Ltd. Tayvan merkezlidir. Ürünlerini Tayvan, Çin ve Vietnam’da bulunan fabrikalarında üretmektedir. ISO 9001, ISO 9002, ISO 13485 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 9001",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Winston Battery",
+    "description": "Winston Battery, 1988 yılında kurulan Winston Battery Ltd. bünyesinde üretilen Lityum demir fosfat pilleri markasıdır.Ürünleri elektrikli otomobiller, scooter vb. ürünlerde kullanılmaktadır.Winston Battery Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Valence Technology",
+    "description": "Valence Technology, 1989 yılında Lev Dawson tarafından kurulan Valence Technology Inc. bünyesinde üretilen lityum iyon pil markasıdır.Lityum demir fosfat katot malzemesinin yanı sıra lityum iyon pil modülleri ve paketleri üretmektedir. Ürünleri elektrikli araçlar ve otomobil, scooter, motosiklet gibi plug-in hibrit elektrikli araçlar, otobüs, kamyonet ve kamyon gibi ticari araçlarda kullanılmaktadır. Valans aküleri ayrıca tekerlekli sandalyeler, sağlık arabaları, robotik, denizcilik, demiryolu ve uzaktan güç, kesintisiz güç kaynağı gibi sabit uygulamalarda da kullanılır.Valence Technology Inc. 2020 yılında Çin merkezli Lithion Battery Inc. tarafından satın alındı. Ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Rockstar Energy Drink",
+    "description": "Rockstar Energy Drink, 2001 yılında kurulan Rockstar Inc. bünyesindeki enerji içeceği markasıdır.Ürün 20’den fazla lezzette üretilmektedir. Çocuklar, hamile kadınlar veya kafeine duyarlı olanlar için kullanımı önerilmez.2020 yılında Amerika merkezli Pepsi Energy Co. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

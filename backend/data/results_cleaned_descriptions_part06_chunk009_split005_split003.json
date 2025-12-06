@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Reusch",
+    "description": "Reusch, 1934 yılında Karl Reusch tarafından kurulan Reusch International SpA – AG bünyesinde üretilen futbol ve kış sporları için spor ekipmanları, teknik giyim markasıdır.Kaleci eldivenleri ve kış sporları eldivenleri konusunda uzmanlaşmış, dünyanın önde gelen geleneksel eldiven markalarından biridir.Reusch International SpA – AG İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Nagares",
+    "description": "Nagares, 1971 yılında kurulan Nagares S.A. bünyesinde üretilen ürün ve hizmet sağlayıcı taşıtlar – mekanik komponentler ve yedek parçaları, motorlu araç elektrik ve elektronik donanımları markasıdır.Çeşitli ürünler için otomotiv sektörü de dahil olmak üzere kontrol üniteleri ve güç elektroniği elektrik yardımcı elemanları ve ısı yönetimi sistemleri gibi güç dönüştürücüleri için e-mobilite çözümleri sunmaktadır.Nagares S.A. dünyadaki hemen hemen her otomobil üreticisinin tedarikçisidir. Esas olarak otomobil için elektronik sistemlerin üretimine odaklanmış İspanya merkezli bir sanayi grubudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Carlaverde",
+    "description": "Carlaverde, 1996 yılında kurulan Seray Ayakkabı ve Terlik San. Tic. Ltd. Şti. bünyesinde üretilen PVC tabanlı, poliüretan tabanlı terlik ve sandalet markasıdır.Fabrikasında taban üretiminin yanı sıra üretime ciddi anlamda katkı sağlayan saya dikimi, serigrafi, frekans, aksesuar, lazerli kesim ve desenlendirme, bilgisayarlı kesim ve modelleme gibi birimler mevcuttur.Firma Balıkesir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Regatta",
+    "description": "Regatta, 1981 yılında Lionel Black tarafından kurulan Regatta Ltd. bünyesindeki su geçirmez ve hava alabilen ceketler, paltolar, pantolonlar, ayakkabılar ve kamp malzemeleri gibi dış giyim ürünleri markasıdır.Regatta Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Kronen",
+    "description": "Kronen, 1978 yılında kurulan Kronen Gmbh bünyesinde üretilen otel ve restoran ekipmanları ve aksesuarları markasıdır.Ürün yelpazesinde meyve sebze dilimleyici, lahana kesme makineleri, kesme makineleri, bant kesme makineleri, ızgara kesme makineleri, meyve sebze yıkama makineleri, karıştırma makineleri, konveyör ve tartım bantları, paketleme makineleri, sıkma kurutucular ve sulama sistemleri, sebze soyma makineleri, soyma veya kesme makineleri için tablolar, dezenfeksiyon makineleri gibi ürünler yerl almaktadır.ISO 9001 belgesine sahiptir.Kronen Gmbh Almanya merkezlidir. Ürünlerini 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

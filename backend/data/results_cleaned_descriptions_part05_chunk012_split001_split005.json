@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Dori Alimentos",
+    "description": "Dori Alimentos, 1967 yılında kurulan Dori Alimentos Ltda. bünyesinde üretilen şekerleme jöle, yer fıstığı ve şekerleme ürünleri markasıdır.Dori Alimentos Ltda. Brezilya merkezlidir. Ürünleri 50’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Fiamm",
+    "description": "Fiamm, 1936 yılında Giacomo Pellizzari tarafından kurulan Fiamm Energy Technology S.p.A. bünyesinde üretilen otomobil, motosiklet, kamyon, mikro hibrit araçlar ve elektrikli tahrikli araçlar için akü, otomotiv parçaları markasıdır.Fiamm Energy Technology S.p.A. 2020 yılında Japonya merkezli Showa Denko K.K. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Bravo Matik",
+    "description": "Bravo Matik, 1997 yılında kurulan Can-Ser Ltd. bünyesinde üretilen temizlik ürünleri, deterjan markasıdır.ISO 9001 belgesine sahiptir.Can-Ser Ltd. KKTC merkezlidir ve ürünlerini KKTC’de 12 bin metrekarelik açık ve 3 bin 500 metrekarelik kapalı alanda üretmektedir.Bünyesindeki markalar;CloraMaxPeroxSatinSaveTemizlerVelvet",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "Northern Cyprus",
+    "updated_date": null
+  },
+  {
+    "company": "Lexani Tire",
+    "description": "Lexani Tire, 1996 yılında Frank Hodges tarafından kurulan The Lexani Wheel Company bünyesindeki araç lastiği markasıdır.Öncelikle lüks araç pazarına yönelik jant ve ızgaralar yapmaya başlayan firma 2006 yılından beri lastik üretmektedir.The Lexani Wheel Company Amerika merkezlidir ve ürünlerini Güney Kore’de bulunan tesislerinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Autopart",
+    "description": "Autopart, 1982 yılında kurulan Autopart SA bünyesinde üretilen otomobil aküleri, marş aküleri markasıdır.Her türlü otomobil, traktör ve tarım makinelerinin yanı sıra tekneler veya kamp minibüsleri için aküler üretmektedir.Autopart SA Polonya merkezlidir ve ürünleri 50’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

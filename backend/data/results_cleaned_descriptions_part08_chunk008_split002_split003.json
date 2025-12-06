@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Sec Electric Machinery",
+    "description": "Sec Electric Machinery, 2003 yılında kurulmuş olan Sec Electric Machinery Co. Ltd. bünyesinde üretilen ac motor, dc motor, senkron motor, jeneratör, elektrik ünitesi markasıdır.ISO 9001, ISO 14001 ve ISO 45001 belgelerine sahiptir.Sec Electric Machinery Co. Ltd. Çin devletine ait bir holding şirketidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Klimatör",
+    "description": "Klimatör, 1974 yılında kurulmuş olan Minisan Otomotiv Makina San. ve Tic. A.Ş. bünyesinde üretilen hava soğutucular markasıdır.Kayseri merkezli firma ürünlerini 85 bin metrekarelik alanda üretmektedir ve bir çok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cosmegram",
+    "description": "Cosmegram, 2008 yılında kurulmuş olan Rc Kozmetik İnteraktif San. ve Tic. Ltd. Şti. bünyesinde üretilen makyaj ürünleri markasıdır.ISO 9001, ISO 14001, ISO 22716, ISO 45001, GMP belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Picsart",
+    "description": "Picsart, 2011 yılında kurulmuş olan Picsart Inc. bünyesinde üretilen video ve fotoğrafları düzenlemek için mobil uygulamalar ve bir dizi web tarayıcısı aracı markasıdır.Picsart Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Lifebuoy",
+    "description": "Lifebuoy, 1930 yılında şirketlerinin birleşmesiyle kurulmuş olan Unilever PLC bünyesinde üretilen hijyen sabunu, vücut yıkama, sıvı el yıkama ve el dezenfektanı markasıdır.Unilever PLC İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

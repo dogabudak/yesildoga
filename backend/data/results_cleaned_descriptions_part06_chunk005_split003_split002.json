@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Menards",
+    "description": "Menards, 1960 yılında John Menard Jr. tarafından kurulan Menard Inc. bünyesindeki perakende markasıdır.Yapı malzemeleri, aletler, donanım, bahçe malzemeleri, elektrik malzemeleri, tavan vantilatörleri, aydınlatma armatürleri, dolaplar, ev aletleri, kapılar, pencereler, boya, ahşap leke, duvarkağıdı, sıhhi tesisat malzemeleri sunmaktadır.Menard Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Agassize",
+    "description": "Agassize, 1832 yılında Auguste Agassiz tarafından kurulan Compagnie des Montres Longines Francillon S.A. bünyesindeki saat markasıdır.Compagnie des Montres Longines Francillon S.A. 1980 yılında İsviçre merkezli The Swatch Group SA bünyesinde dahil oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Fordson Dexta",
+    "description": "Fordson Dexta, 1964 yılına kadar Ford Motor Company Ltd. tarafından üretilen traktör ve kamyon markasıdır.1964’ten sonra Fordson ismi düştü ve tüm Ford traktörleri hem İngiltere’de hem de ABD’de Fords olarak etiketlendi.Ford Motor Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ombra Tools",
+    "description": "Ombra, 1983 yılında kurulan Easen Hardware Corporation bünyesinde üretilen el aletleri veya el aletleri aksesuarları (bits adaptörü, uzatma kablosu), lokma anahtar setleri, havalı el aletleri, somun, şırınga, gres ve diğer şeyler markasıdır.ISO 9001 belgesine sahiptir.Easen Hardware Corporation Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Milrem Robotics",
+    "description": "Milrem Robotics, 2013 yılında Kuldar Vaarsi tarafından kurulan Milrem AS bünyesinde üretilen robotik araç markasıdır.ISO 9001, ISO 14001 ve AQAP belgelerine sahiptir.Milrem AS Estonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "EE",
+    "updated_date": null
+  }
+]

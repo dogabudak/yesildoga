@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Acme Drinktec",
+    "description": "Acme Drinktec, 2017 yılında kurulmuş olan Acme Drinktec Solutions LLP bünyesindeki PET ambalaj çözümleri markasıdır.PET, PP, PC, TRITAN ve pek çok malzemeden yapılmış kapların imalatına yönelik tek aşamalı ISBM makineleri AOKI, SIPA ve ASB için kalıpların üreticisi ve tedarikçisidir.Acme Drinktec Solutions LLP Hindistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Romiloy",
+    "description": "Romiloy, 1991 yılında kurulmuş olan Romira Gmbh bünyesindeki ABS, akrilonitril-stiren-akrilat, polikarbonat, poliamid ve polibütilen-tereftalat karışımları markasıdır.Romira Gmbh Almanya merkezlidir.Bünyesindeki markalar;LuranylRomiloyRomitronRotec",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Skin Sense",
+    "description": "1991 yılında Angela Padgett tarafından kurulmuş olan Skin Sense Inc. bünyesindeki yüz cilt bakımı ve vücut bakımı ürünleri markasıdır.Skin Sense Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-02-09"
+  },
+  {
+    "company": "Autoking",
+    "description": "Autoking, 2000 yılında kurulmuş olan Beken Otomotiv San. ve Tic. A.Ş bünyesindeki oto bakım ve onarım markasıdır.ISO 9001, TSE belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hoito",
+    "description": "Hoito, 2022 yılında kurulmuş olan Hoito Kozmetik San. ve Tic. A.Ş. bünyesindeki güneş koruyucu kremler, saç bakımı, serumlar, temizleme jelleri, tonikler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

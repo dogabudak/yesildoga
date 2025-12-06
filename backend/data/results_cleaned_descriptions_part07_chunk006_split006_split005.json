@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Heybeli Zeytin",
+    "description": "Heybeli, 2019 yılında kurulmuş olan Ritim Koçluk Eğitim Danışmanlık İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen doğal zeytinyağı, sızma zeytinyağı, soğuk sıkım zeytinyağı, siyah zeytin, kuru incir markasıdır.Firma Ankara merkezlidir. Ürünlerini Manisa’dan temin etmektedir.Bünyesindeki markalar;HeybeliOlentia",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Como Tomo",
+    "description": "Como Tomo, 2009 yılında kurulmuş olan Comotomo Inc. bünyesindeki biberon, diş kaşıyıcı, yedek biberon ucu gibi bebek besleme ve diş çıkarma ürünleri markasıdır.Ürünleri BPA içermez.Comotomo Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hastel Yufka",
+    "description": "Hastel, 1972 yılında kurulmuş olan Hastel Gıda San. Tic. Ltd. Şti. bünyesinde üretilen dökme kurabiyeler, dondurulmuş ürünler, erişte, gurme kurabiyeler, hazır kek, kadayıf, lavaş, mantı, şambaba, tarhana, tatlı kurabiyeler, tuzlu kurabiyeler, yağlı gevrek, yufka markasıdır.ISO 9000, ISO 22000 ve Helal belgelerine sahiptir.Firma Burdur merkezlidir. Ürünlerini OSB’de 30 bin metrekarelik alanda bulunan 15 bin metrekarelik kapalı alanda üretmektedir ve çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wex Tuvalet Kağıdı",
+    "description": "Wex Tuvalet Kağıdı Nerenin Malı MarkasıWex, 2007 yılında kurulmuş olan Özdamarlar Wex Kağıt San. ve Tic. A.Ş. bünyesinde üretilen kağıt havlu, kağıt peçete, tuvalet kağıdı markasıdır.Firma Kayseri merkezlidir.Bünyesindeki markalar;AksoftRoyalWex",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Costco",
+    "description": "Costco, 1997 yılında kurulmuş olan Costco Wholesale Corporation bünyesindeki perakende markasıdır.Costco Wholesale Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

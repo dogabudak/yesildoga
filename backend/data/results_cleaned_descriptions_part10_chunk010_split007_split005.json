@@ -1,0 +1,48 @@
+[
+  {
+    "company": "V. Mueller",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kargom Kolay",
+    "description": "2014 yılında kurulmuş olan DRN Lojistik A.Ş. bünyesindeki uluslararası evrak ve paket taşımacılığı, yurtdışı kargo gönderimi markasıdır.Firma İstanbul merkezlidir. 200’den fazla ülkeye kargo gönderimi yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bemtat",
+    "description": "1942 yılında temelleri atılan MÇ Organik Gıda Ltd. Şti. bünyesindeki organik un, makarna ve tahıl ürünleri markasıdır.ISO 9001, ISO 2000 belgelerine sahiptir.Firma Tekirdağ merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 2000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Basic4android",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Choco Figure",
+    "description": "2016 yılında kurulmuş olan Milat Çikolata Şekerleme San. ve Tic. Ltd. Şti. bünyesinde üretilen bisküvi, çikolata, kek, cips ve şekerleme markasıdır.Firma İstanbul merkezlidir. Ürünlerini 15 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

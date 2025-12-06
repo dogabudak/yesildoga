@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Vidal Golosinas",
+    "description": "Vidal Golosinas, 1963 yılında kurulan Vidal Golosinas S.A. bünyesindeki meyan kökü ürünleri, sakızlı şeker gibi şekerleme ürünleri markasıdır.Dolgulu jöleli tatlılar, merkez dolgulu sakızlar, pektin dolgulu tatlı köpük, gazlı dolgulu sakız ve şeker kaplı meyan kökü üretir.Vidal Golosinas S.A. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Andritz",
+    "description": "Andritz, 1852 yılında Josef Körösi tarafından kurulan Andrıtz AG bünyesindeki çeşitli endüstriler için tesis, ekipman, sistem ve hizmetler markasıdır.Hidroelektrik santralleri için anahtar teslimi ekipman, kağıt hamuru ve kağıt üretimi ve yem ve biyoyakıtüretimi; çelik üretimi için tesisler; endüstriyel ayırma teknolojileri sunmaktadır.Andrıtz AG Avusturya merkezlidir. Dünya çapında 40’tan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Pancontrol Pan Volttester",
+    "description": "Pancontrol Pan Volttester, 1949 yılında kurulan Dipl. Ing. Ernst Krystufek Gmbh & Co. Kg. bünyesindeki volt test cihazı, voltaj dedektörü, ölçüm teknolojisi ve akışkan teknolojisi ürünleri markasıdır.ISO 9001 belgesine sahiptir.Dipl. Ing. Ernst Krystufek Gmbh & Co Kg Avusturya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Başak Şeker",
+    "description": "Başak, 1995 yılında kurulan İshakoğlu Gıda Nak. San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen toz, pudra ve küp şeker markasıdır.ISO 9001 ve ISO 22000 belgelerine sahiptir.Firma ürünlerini Kocaeli’de bulunan 12 bin metrekarelik alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "General Electric",
+    "description": "General Electric, 1892 yılında Thomson-Houston Electric Company ve Edison General Electric Company’nin bir kısmının birleşmesiyle kurulan General Electric Company bünyesindeki havacılık, elektrik, finans, aydınlatma, tıbbi ekipman, görüntüleme ekipmanları, motorlar, plastikler, lokomotifler, silikonlar, aletler markasıdır.Hissedarları:Actionnaires Barclays (yüzde 4,1) İngiltere merkezliState Street Corporation (yüzde 3) ABD merkezliFidelity Investments (yüzde 2,8) ABD merkezliAXA (yüzde 2) Fransa merkezliThe Capital Group Companies (yüzde 1,9) ABD merkezliNorthern Trust Corp. (yüzde 1,5) ABD merkezliDeutsche Bank (yüzde 1,3) Almanya merkezliJPMorgan Chase (yüzde 1,3) ABD merkezliMellon Financial Corp. (yüzde 1,3) ABD merkezliTIAA-CREF (yüzde 1) ABD merkezli",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

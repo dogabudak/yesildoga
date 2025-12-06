@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Macbook",
+    "description": "Macbook, 2005 yılında Apple Inc. tarafından tasarlanan dizüstü bilgisayar markasıdır.Kendi işletim sistemi olan Macintosh’u kullanmaktadır.Apple Inc. Amerika merkezlidir. Ürünlerini Tayvan’da ürettirmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Şaşal Su",
+    "description": "Şaşal Su Nerenin Malı MarkasıPınar Şaşal Su, 1984 yılında kurulan Pinar Su ve İçecek San. ve Tic. A.Ş. bünyesinde üretilen ambalajda şişelenmiş doğal kaynak suyu markasıdır.1927 yılında Durmuş Yaşar tarafından kurulan Yaşar Holding A.Ş. bünyesinde olan şirket İzmir merkezlidir ve ürünlerini 20 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sophos",
+    "description": "Sophos, 1985 yılında Jan Hruska ve Peter Lammer tarafından kurulan Sophos Group plc bünyesindeki güvenlik yazılım ve donanım markasıdır.İletişim uçnoktası, şifreleme, ağ güvenliği, e-posta güvenliği, mobil güvenlik ve birleşik tehdit yönetimi için ürünler geliştirirSophos Group plc 2020 yılında Amerika merkezli özel sermaye şirketi Thoma Bravo LP tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Superga",
+    "description": "Superga, 1911 yılında Walter Martiny tarafından kurulan Superga SpA bünyesindeki ayakkabı, çanta ve spor giyim markasıdır.Şirket, erkek gömlek, pantolon, ceket ve mayoları, kadın gömlek, pantolon, etek, elbise, ceket ve mayoları, güneş gözlükler ve spor ayakkabıları pazarlamaktadır.Superga SpA, 2007 yılında İtalya merkezli BasicNet S.p.A. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Easterner",
+    "description": "Easterner, 1980 yılında kurulan Easterner Enterprise Co. Ltd. bünyesinde üretilen navigasyon ışıkları, yakıt hatları, kürekler, koltuklar, vinçler, römork lambaları vb. motorlu tekneler ve römorklar için aksesuarlar markasıdır.Easterner Enterprise Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

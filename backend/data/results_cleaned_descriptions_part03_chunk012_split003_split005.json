@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fudela",
+    "description": "Fudela, 1985 yılında kurulan Gençler Çanta Dericilik Sanayi ve Dış Ticaret Limited Şirketi bünyesindeki promosyon okul, evrak, sırt, spor, seyahat, bayan çantası markasıdır.Ürünleri 10’dan fazla ülkede pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meanwell",
+    "description": "Meanwell, 1982 yılında kurulan MEAN WELL Enterprises Co., Ltd. bünyesindeki güç kaynağı markasıdır.MEAN WELL Enterprises Co., Ltd. Tayvan merkezlidir. Ürünlerini Çin’de bulunan üretim tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Victron",
+    "description": "Victron, 1975 yılında kurulmuş olan Victron Energy B.V. bünyesindeki invertör veya şarj cihazları, invertörler, pil şarj cihazları, güneş şarj kontrolörleri, piller, güneş panelleri, dc-dc dönüştürücüler, pil monitörleri, diyot ve fet bölücüler, transfer anahtarları, akü izolatörleri ve kombinleyiciler markasıdır.Firma otomotiv, endüstriyel, denizcilik, mobilite, şebeke dışı/güneş ve telekom pazarları için invertörler, şarj cihazları ve ilgili güç dönüşüm ürünleri tasarlar ve satar.Victron Energy B.V. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-02-17"
+  },
+  {
+    "company": "Kyungshin Cable",
+    "description": "Kyungshin, 1974 yılında kurulan Kyungshin Cable Co., Ltd bünyesinde üretilen tel, kablo, otomotiv tel markasıdır.Kyungshin Cable, dünya çapında 3 kıtada 8 üretim tesisinde ürünler üretmektedir.Kyungshin Cable, Güney Kore merkezli Kyungshin Group’un bir iştiraki ve Kore otomotiv kablo pazarında en büyük tel ve kablo üreticilerinden biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Mutsan Mupa",
+    "description": "Mutsan, 1974 yılında Hakan Büyüközkan tarafından kurulan Mutsan Sanayi ve Ticaret Elektrikli Ev Aletleri Isı Malzemeleri Üretim ve Pazarlama bünyesinde üretilen elektrikli ısıtıcı, fırın, ocak, ızgara ve barbekü markasıdır.Mutsan Sanayi İstanbul merkezli üretici ve dağıtıcı elektrikli ev aletleri firmasıdır. Ürünlerini Ortadoğu ülkelerine ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

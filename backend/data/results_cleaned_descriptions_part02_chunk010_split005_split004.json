@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Charter Club",
+    "description": "Charter Club, 2004 yılında kurulan Macys Merchandising Group Inc. bünyesindeki giyim markasıdır.Şirket, Macy’s ve Bloomingdale’s adlarının altında yaklaşık 680 mağaza ve Bloomingdale’s The Outlet, Bluemercury ve Macy’s Backstage dahil olmak üzere yaklaşık 190 özel mağaza işletmektedir.Macy’s, Inc. Amerika merkezlidir ülkenin önde gelen perakendecilerinden biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wellcare",
+    "description": "Wellcare, 2012 yılında kurulan İlko İlaç Sanayi ve Ticaret A.Ş. bünyesindeki gıda takviyesi markasıdır.Wellcare İlko tüketici sağlığı markasıdır.Ecz. Mustafa Öncel tarafından 1997 yılında kurulan Selçuklu Holding’in bünyesinde faaliyet gösteren İLKO İlaç San. ve Tic. A.Ş. tarafından 2016 yılından beri üretiliyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mehtap",
+    "description": "Mehtap, 1997 yılında Ecz. Mustafa Öncel tarafından kurulan Selçuklu Holding bünyesinde yer alan Mehtap Mutfak Eşyaları Sanayi ve Ticaret A. Ş.’ye ait mutfak ürünleri markasıdır.Mehtap, 1960 yılında DuPont Teflon’un Türkiye’de lisanslı ilk kullanıcısıolarak Türkiye’de ilk kez Teflon kaplı ürünlerin üretimine başlamıştır.Mehtap markalı ürünler 60’ın üzerinde ülkeye ihraç edilmektedir.Bünyesindeki markalar:AlaraCeranaCopper & StoneCopper StoneEminenceHer Işin Kolayı Var 1960tan BeriMehtapMehtap GranitMehtap SmsMehtap StoneMehtap TitaniumMeposMulti CoatedMulti MicronStoneTavaturka",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-08-24"
+  },
+  {
+    "company": "Blackview",
+    "description": "Blackview, 2013 yılında Xu Ming tarafından kurulan Doke Electronic Co., Ltd. bünyesindeki akıllı telefon markasıdır.Blackview markalı ürünler Rusya, Ukrayna, İtalya, İspanya, İngiltere, Fransa, Almanya, Çek Cumhuriyeti, Yunanistan, Cezayir, Singapur, Malezya, Filipinler, Laos gibi 60 ülkede satılıyor.Doke Electronic Co., Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Toys “R” Us",
+    "description": "Toys “R” Us, 2019 yılında kurulan Tru Kids, Inc. oyuncak giyim, bebek ürünleri, video oyunları markasıdır.Tru Kids, daha önce iflas eden şirketin Toys “R” Us ve Babies “R” Us markalarını yeniden canlandırmayı planladı.Tru Kids, Inc. Amerika merkezlidir.Bünyesindeki markalar:Toys “R” UsKids “R” UsBabies “R” Us",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

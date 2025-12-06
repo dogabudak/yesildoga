@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Pierre Renoir Saat",
+    "description": "Pierre Renoir, 1972 yılında kurulan Durakoğlu Saat Tic. San. Ltd. Şti. bünyesindeki duvar ve kol saati gereçleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ritar Akü",
+    "description": "Ritar Akü Hangi Ülkenin Malı MarkasıRitar, 2002 yılında kurulan Ritar International Group bünyesinde üretilen kurşun asit piller, opzv katı hal kurşun piller ve lityum piller, güç kaynağı, adaptör, şarj cihazı ve led sürücü, cep telefonu kapak camı, dokunmatik ekran alt tabaka camı, tablet bilgisayar, müzik video çalar, kamera için lens markasıdır.ISO 9001 belgesine sahiptir.Ritar International Group Çin merkezlidir ve ürünleri 100’den fazla ülke ve bölgeye ihraç edilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Verve Sulama Araçları",
+    "description": "Verve, 1982 yılında kurulan Kingfisher International Products Limited bünyesindeki döner fıskiye yağmurlama sistemi, duvara monte hortum ve makara seti, elektronik bahçe sulama zamanlayıcısı, exc. nozzle tabanca set pirinç gövde, gül başlıklı prinç sulama tabancası, fonksiyonlu sulama başlığı, nozzle sulama tabancası, pilli bahçe sulama zamanlayıcı, saplamalı metal fıskiye, spiral hortum, sprey bahçe sulama tabancası, tekerlekli boş hortum arabası, vanalı çift çıkışlı musluk hortum bağlantısı gibi sulama araçları markasıdır.Kingfisher International Products Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Al-Ko",
+    "description": "Al-Ko Hangi Ülkenin Malı MarkasıAl-Ko, 1931 yılında Alois Kober tarafından kurulan AL-KO SE bünyesinde üretilen bahçe aletleri, çok çeşitli çim biçme makineleri, fırça kesiciler, akıllı bahçe cihazları markasıdır.AL-KO SE Almanya merkezlidir. Almanya merkezli yatırım şirketi Primepulse SE’nin bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Klorak",
+    "description": "Klorak, 1960 yılında kurulan Klorak Kimya ve Temizlik Ürünleri San. Tic. A.Ş. bünyesinde üretilen çamaşır ve temizleme suyu, çamaşır suyu temizlik ürünleri markasıdır.ISO 9001, ISO 14001 ve OHSAS 18001, TSE belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Sodsan",
+    "description": "“Sodsan“1974 yılında kurulmuş olan Sodsan A.Ş. bünyesindeki otomotiv iç döşeme ve trim parçalar markasıdır.Standart kapı iç döşemeleri, tavan döşemeleri, güneş siperlikleri, bagaj aksamı üretmektedir.ISO 9001 belgesine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bibus",
+    "description": "“Bibus“1947 yılında kurulmuş olan BIBUS Holding AG bünyesindeki pnömatik, mekanik, güç aktarma organları, elektrik mühendisliği, elektronik ve otomasyon ürünlerini markasıdır.ISO 9001 belgesine sahiptir.BIBUS Holding AG İsviçre merkezlidir. Ürünlerini 30 ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Beto",
+    "description": "“Beto“1988 yılında kurulmuş olan Beto Eng. & Mktg. Co. Ltd. bünyesinde üretilen bisiklet aksesuarları ve ev fitness ekipmanları markasıdır.Beto Eng. & Mktg. Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Arbel",
+    "description": "“Arbel“1980 yılında kurulmuş olan Arbel A.Ş. bünyesinde üretilen paketli kırmızı, yeşil mercimek, nohut, sarı iç bezelye, fasulye, bulgur, makarna, irmik, durum buğdayı ve buğday unu markasıdır.ISO 9001, FSSC 22000, HACCP, BRC, IFS, Helal ve Koşer belgelerine sahiptir.Arbel A.Ş. 2009 yılında Kanada merkezli AGT Food and Ingredients Inc. tarafından satın alınmıştır.Bünyesindeki markalar;ArbellaCLICCoronaDurumPastavillaTamamVeggi",
+    "documents": [
+      "BRC",
+      "HACCP",
+      "IFS",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Jobble",
+    "description": "“Jobble“2016 yılında kurulmuş olan Jobble Inc. bünyesindeki esnek iş fırsatları sunan bir platformdur.Genellikle geçici ya da yarı zamanlı iş arayan kişiler ile bu işlere eleman arayan işverenleri bir araya getirir.Jobble Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

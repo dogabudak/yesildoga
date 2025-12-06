@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Wavemaster",
+    "description": "Wavemaster, 1996 yılında kurulan Hightech Media Components GmbH & Co. KG bünyesindeki ses ürünleri markasıdır.Hightech Media Components GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Imalent",
+    "description": "Imalent, 2010 yılında kurulan Shenzhen Guangtong Mobile Lighting Technology Co. Ltd. bünyesinde üretilen profesyonel dış aydınlatma araçları, akıllı dokunmatik ekran serisi, akıllı mikro bilgisayar kademesiz karartma ekran serisi, ışık dokunmatik karartma serisi markasıdır.Shenzhen Guangtong Mobile Lighting Technology Co. Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bisalt",
+    "description": "Bisalt, 2010 yılında kurulan Kartuz Gıda ve San. Tic. Ltd. Şti. bünyesinde üretilen himalaya tuzu, kaya tuzu ve deniz tuzları markasıdır.Ürünleri tamamen katkısızdır, rafine edilmemiştir ve hiçbir kimyasal katkı maddesi içermemektedir.Helal22 belgesine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hamarat",
+    "description": "Hamarat, 2001 yılında kurulan Temkom Elektronik A.Ş. bünyesindeki çok fonksiyonlu otomatik dikiş makinesi, mini dikiş makineleri markasıdır.Firma ayrıca bilgisayar ve mobil oyun donanım ve aksesuarları, bilgisayar sarf malzemleri, ve oyuncu ekipmanları ürünleri ithal etmektedir.Temkom Elektronik A.Ş. Ankara merkezlidir.Bünyesindeki markalar;HamaratRushTrilogic",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-14"
+  },
+  {
+    "company": "La Sommeliere",
+    "description": "La Sommeliere, 1995 yılında kurulan La Sommeliere Internationale bünyesinde üretilen soğutucu dolaplar markasıdır.Şarap şişeleri ve çeşitli ürünler için soğutucu dolaplar üretmektedir.La Sommeliere Internationale Fransa merkezlidir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

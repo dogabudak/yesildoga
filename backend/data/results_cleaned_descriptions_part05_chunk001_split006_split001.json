@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Poyraz",
+    "description": "Poyraz, Poyrazcan Gıda Tarım Turizm İnşaat San. ve Tic. Ltd. Şti. bünyesinde üretilen zeytinyağı markasıdır.Ambalajlı zeytinyağı ürünlerini 16’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Compugroup Medical",
+    "description": "Compugroup Medical, 1987 yılında kurulan CompuGroup Medical SE & Co. KGaA bünyesindeki sağlık yazılımı markasıdır.Tıbbi ofislerde, eczanelerde, tıbbi laboratuvarlarda ve hastanelerde tıbbi ve organizasyonel faaliyetleri desteklemek için uygulama yazılımı üretir.Compugroup Medical se & Co. KGaA (CGM) Almanya merkezlidir. 56 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Şevsan Un",
+    "description": "Şevsan Un Nerenin Malı MarkasıŞevsan Un, 1995 yılında kurulan Şevsan Gida San. ve Tic. A.Ş. bünyesinde üretilen un markasıdır.Ankara merkezli firma ürünlerini 17 bin metrekarelik alanda bulunan 8 bin 500 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Winfun",
+    "description": "Winfun, 2004 yılında kurulan Winfat Industrial Company Limited bünyesinde üretilen oyuncaklar, eğitici oyuncaklar, müzikal oyuncaklar, konuşan oyuncaklar, interaktif konuşan oyuncaklar; oyunlar, elektronik el oyunları ve oyuncakları, bebek oyuncakları, çoklu aktivite çocuk oyuncakları markasıdır.Bebekler, okul öncesi çocuklar, erkekler ve kızlar için tasarlanan çok çeşitli oyuncaklar üretmektedir.Winfat Industrial Company Limited Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Cümbüş",
+    "description": "Cümbüş Nerenin Malı MarkasıCümbüş, 1978 yılında Ali Tatlısumak tarafından kurulan Tatlısumak Şekerleme San. ve Tic. Ltd. Şti. bünyesinde üretilen krema dolgulu kokolin markasıdır.Firma kokolin, yumuşak, sert ve jöle şekerler ve çikolata ürünlerini Konya OSB’de 20 bin metrekarelik alanda üretmekte ve 40’a yakın ülkeye ihraç etmektedir.Bünyesindeki markalar;AllbonBir Tatlı GülümsemeCoco MescoCriptonCümbüşDidellaİclalLavistaLavistamaxMelliMinicikMugelloPartnerQatraRavandaSelminaŞorayŞoraylivaŞoraypointŞorayprinsisTatlısumak TayfTatlisumakTofacciTofelliTülvemVogsWanettiWocciWommeWossi",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

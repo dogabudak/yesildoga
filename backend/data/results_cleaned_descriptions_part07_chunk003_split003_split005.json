@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cleanic",
+    "description": "Cleanic, 1990 yılında kurulan Harper Hygienics S.A. bünyesinde üretilen kozmetik ve kişisel hijyen ürünleri markasıdır.Şirketin ana ürünleri arasında pamuklu pedler ve tomurcuklar, ıslak mendiller yer almaktadır.Harper Hygienics S.A. Polonya merkezlidir.Bünyesindeki markalar;CleanicKindiiPresto",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Hantek",
+    "description": "Hantek, 1999 yılında kurulan Qingdao Hantek Electronic Co. Ltd. bünyesinde üretilen dalga jeneratör, mantık analizörü, elde taşınabilir osiloskop, frekans analizörü, multimetre, elde taşınabilir çok işlevli ölçüm enstrüman, taşınabilir osiloskop, programlanabilir güç kaynağı, genel enstrüman ürünleri markasıdır.ISO 9001, ISO 14001 belgelerine sahiptir.Qingdao Hantek Electronic Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Werka",
+    "description": "Werka, 1950 yılında Henri Finzi tarafından kurulan Werka AG bünyesindeki açı ölçerler, derinlik kumpasları, gönyeler, kılavuzlar, kaynakçı kumpasları, kesici takımlar, komparatörler, kumpaslar, manyetik ayaklar, mastarlar, mihengirler, mikrometreler, salgı saatleri, sertlik ölçmeler, özel aletler, diğer ölçüm cihazları markasıdır.Werka AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Freucamp",
+    "description": "Freucamp, 2020 yılında kurulan Fermil Mobil Sistemleri A.Ş. bünyesindeki kasetli tuvaletler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Öztürkbay",
+    "description": "Öztürkbay Nerenin Malı MarkasıÖztürkbay, 1944 yılında kurulan Öztürkbay Makine San. ve Tic. Ltd. Şti. bünyesinde üretilen kahve değirmenleri, kahve kavurma makineleri, kahve taşıma sistemleri, silolar, baca gazı temizleyicileri, taş ayırıcılar, kuruyemiş kavurma makineleri, baharat öğütücüleri, pudra şekeri değirmenleri markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

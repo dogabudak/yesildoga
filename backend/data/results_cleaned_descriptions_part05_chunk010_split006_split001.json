@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Pizza Mizza",
+    "description": "Pizza Mizza, 2000 yılında Elmar Hasanzade tarafından kurulan Pizza Mizza MMC bünyesindeki pizza restoran zinciri markasıdır.Pizza dışında karışık menüler, salatalar, makarnalar, çorbalar, soslar tatlılar ve içecekler sunmaktadır.Pizza Mizza MMC Azerbaycan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "VBT Yazılım",
+    "description": "VBT Yazılım, 1993 yılında kurulan VBT Yazılım A.Ş. bünyesindeki e-dönüşüm uygulamaları, enerji ve altyapı uygulamaları, kamu uygulamaları, ticari uygulamalar, uygulama modernizasyonu ile dış kaynak, eğitim, danışmanlık ve modernizasyon hizmetleri markasıdır.Uluslararası alanda destek veren bir teknoloji şirketidir. ISO 45001, ISO 27001, ISO 9001, ISO 20000, ISO 22301 belgelerine sahiptir.Hisse dağılımı şu şekildedir;Birol Başaran (yüzde 46.93)İpek Başaran (yüzde 7.69)Tayfun Yurdagül (yüzde 3.08)Osman Çaylı (yüzde 2.31)Mümin Sürer (yüzde 2.31)Zahide Koçyiğit (yüzde 2.31)Ünal Kırıkçı (yüzde 1.54)Kadir Aydoğan (yüzde 1.54)Metin Faruk Tufan (yüzde 1.54)",
+    "documents": [
+      "ISO",
+      "ISO 20000",
+      "ISO 22301",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zendium Professional",
+    "description": "Zendium, 1964 yılında piyasaya sürülen ve Unilever PLC bünyesindeki diş macunu, ağız bakım ürünleri markasıdır.SLS içermemektedir. Amilogluk ozidaz, aroma, cl77891, çinko glukonat, disodyum fosfat, gliseril, glukoz oksidaz, hidrate silika, karajenan, kolostrum, ksantan sakızı, laktoferrin, laktoperoksidaz, lizozim, potasyum tiyosiyanat, sitrik asit, sodyum benzoat, sodyum florür, sorbitol, stearat 30, su içermektedir.Türkiye pazarına 1973 yılında giriş yapan Unilever PLC İngiltere merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-25"
+  },
+  {
+    "company": "Medeco",
+    "description": "Medeco, 1968 yılında kurulan güvenlik, emniyet ve kontrol için kilit ve kilitleme sistemleri markasıdır.Ürün yelpazesi mekanik kilitler, silindirler ve anahtar boşlukları, sürgü, jant ve gömme silindirler, anahtar düğmesi / kolu, lfic (geniş format değiştirilebilir çekirdek silindirler), sfic (küçük format değiştirilebilir çekirdek silindirler), asma kilit, uluslararası silindirler, cam kilitleri, dolap kilitleri, otomat ekipmanları kilitleri, park ekipmanları kilitleri içermektedir.1998 yılında, İsveç merkezli Assa Abloy Group tarafından satın alınarak bir yan kuruluşu oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Hubbell",
+    "description": "Hubbell, 1888 yılında Harvey Hubbell tarafından kurulan Hubbell Incorporated bünyesindeki konut dışı ve konut inşaatı, endüstriyel ve kamu hizmetleri uygulamaları için elektrikli ve elektronik ürünler markasıdır.Hubbell Incorporated, Amerika merkezlidir. Hubbell’in üretim tesisleri Amerika, Kanada, İsviçre, Porto Riko, Meksika, Çin, İtalya, Birleşik Krallık, Brezilya ve Avustralya’da bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

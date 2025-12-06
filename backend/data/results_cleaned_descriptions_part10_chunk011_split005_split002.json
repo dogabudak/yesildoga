@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Tamlas",
+    "description": "1993 yılında kurulmuş olan Tamlas Oto Las. Mlz. San. ve Tic. Ltd. Şti. bünyesinde üretilen ütü masası, kurutmalık markasıdır.Firma Kayseri merkezlidir. Ürünlerini 7 bin metrekarelik kapalı alana sahip tesisinde üretmektedir ve 40’a yakın ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kamingo",
+    "description": "2022 yılında kurulmuş olan Shenzhen Lufei Intelligent Technology Co. Ltd. bünyesindeki e-bisiklet dönüştürücüsü markasıdır.Shenzhen Lufei Intelligent Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mien",
+    "description": "2017 yılında kurulmuş olan Şen Kardeşler Züccaciye Hed. Eşya San. ve Tic. Ltd. Şti. bünyesindeki akasyalar, baharatlıklar, bambular, beyaz seri porselen, borasilikatlar, cam kahvaltılıklar, cam kutular, emaye, ev gereçleri, hasırlar, kupalar, porselen fincanlar, sıvı sabunluklar, sunumluklar, yemek takımı markasıdır.Firma İstanbul merkezlidir bazı ürünleri Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Serve",
+    "description": "2001 yılında kurulmuş olan Kemerburgaz Ofis ve Okul Gereçleri San. Tic. A.Ş. bünyesindeki kırtasiye ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kechy",
+    "description": "2010 yılında kurulmuş olan Kechy Gıda A.Ş. bünyesinde üretilen keçi sütlü kurutulmuş dondurmalar markasıdır.Ürünleri katkı maddei ve gluten içermez.ISO 9001, Helal belgelerine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

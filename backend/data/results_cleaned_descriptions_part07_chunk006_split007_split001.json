@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Jwell",
+    "description": "Jwell, 1997 yılında kurulmuş olan Shanghai Jwell Screw & Barrel Co. Ltd. bünyesinde üretilen tekstil endüstrisi için makine ve ekipmanlar markasıdır.Çeşitli plastik boru ekstrüzyon makineleri üretmektedir. ISO 9001 belgesine sahiptir.Shanghai Jwell Screw & Barrel Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dhs Tenis Topu",
+    "description": "Dhs, 1983 yılında kurulmuş olan Altunay Ayakkabı Konf. Taş. Gıda San. ve Tic. Ltd. Şti. bünyesindeki tenis topları markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kujju",
+    "description": "Kujju, 1996 yılında kurulan Civil Mağazacılık A.Ş. bünyesindeki bebek giyim, bebek odası, beslenme, banyo sağlık, bebek bezi ve ıslak mendil, prematüre, araç ve gereç, ev ve yaşam ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Neubau Eyewear",
+    "description": "Neubau Eyewear, 1964 yılında kurulmuş olan Silhouette International Schmied AG bünyesindeki güneş gözlükleri ve reçeteli gözlükler markasıdır.El yapımı ürünlerinde biyo bazlı malzeme kullanmaktadır.Silhouette International Schmied AG Avusturya merkezlidir.Bünyesindeki markalar;Evil EyeNeubau EyewearSilhouette",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Oris Çeki Demiri",
+    "description": "Oris Çeki Demiri Hangi Ülkenin Malı MarkasıdırOris, 1955 yılında kurulmuş olan ACPS Automotive Gmbh bünyesinde üretilen araçlar için sabit veya çıkarılabilir çekme çubukları, bisiklet taşıyıcıları markasıdır.ACPS Automotive Gmbh Almanya merkezlidir. Ürünlerini Avrupa, Amerika ve Meksika da üretip satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Dermoness",
+    "description": "1993 yılında kurulmuş olan Tutku Dış Ticaret ve Koz. San. Ltd. Şti. bünyesinde üretilen tırnak bakım, el bakım kremleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Plastlife Mutfak Gereçleri",
+    "description": "2021 yılında kurulmuş olan Karalı Plastik San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen plastik mutfak gereçleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;Karalı PlastikPlastlife",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nell Pro",
+    "description": "2022 yılında kurulmuş olan Yenile Teknoloji A.Ş. bünyesindeki elektrikli küçük ev aletleri, air fryer, el blenderı, tost makinesi, mutfak robotu, çay makinesi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Martin Craft",
+    "description": "1968 yılında kurulmuş olan Culha Hırdavatçılık Tic. A.Ş. bünyesindeki bahçe makasları markasıdır.Firma İstanbul merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bounty Hunter",
+    "description": "1931 yılında kurulmuş olan First Texas Products LP bünyesindeki metal dedektörler markasıdır.First Texas Products LP, Amerika merkezlidir ve ürünleri Amerika’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Avery Berkel",
+    "description": "Avery Berkel, 1993 yılında kurulan 2007 yılında ise Illinois Tool Works Inc. tarafından satın alınan tartım makinelerinin markasıdır.Illinois Tool Works Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Pakdolum",
+    "description": "Pakdolum, 1998 yılında Metin Şirin tarafından kurulan Pak Dolum Ambalaj Mak. San. Tic. Ltd. Şti. bünyesindeki dolum, etiketleme ve ambalaj makineleri markasıdır.Gıda, içecekler, süt endüstrisi, proses gıda endüstrisi, endüstriyel üretim sektörü gibi geniş üretim alanları için çözümler üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ecos",
+    "description": "Ecos, 2008 yılında kurulan Ecos Elek. Kod. Mak. Paz. San. ve Dış. Tic. Ltd. Şti. bünyesindeki inkjet kodlama makinesi markasıdır.Endüstriyel inkjet kodlama makinesi, termal inkjet kodlama makinesi, inkjet sarf malzemeleri ve inkjet servis ve yedek parçalar sağlar.Endüstriyel kodlama sektöründe hizmet veren firma, inkjet kodlama sistemleri alanında profesyonel çözümler sunmakta.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Çukurova Makina",
+    "description": "Çukurova Makina, 1968 yılında kurulan Çukurova Makina İmalat ve Tic. A.Ş. bünyesinde üretilen toprak taşıma ve sanayi makineleri markasıdır. Çukurova Holding’in grup şirketlerindendir.Seçkin ürünleri arasında; forklift kamyonları, kazıcı yükleyiciler, tekerlek yükleyiciler ve ekskavatörler yer almaktadır. Türkiye’deki ilk yerli forklift üretimini gerçekleştirmiştir.Ürünlerini Tarsus’ta bulunan 109 bin 710 metrekarelik alanda yer alan 14 bin 444 metrekare kapalı alanda üretmektedir.Ürünleri Avrupa, Afrika, Ortadoğu, Bağımsız Devlet Topluğu başta olmak üzere dünyanın bir çok noktasına ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alfemo",
+    "description": "Alfemo, 1997 yılında kurulan Yatpa Dayanıklı Tüketim Malları San. ve Tic. A.Ş. bünyesindeki yatak odası, yemek odası, genç odası, oturma odası mobilya ürünleri ve aksesuarları, ev tekstili ve yatak markasıdır.Ürünlerini 200 bin metrekarelik alanda bulunan 60 bin metrekarelik kapalı alanda tamamen otomasyona dayalı olarak üretmektedir.Amerika merkezli Walt Disney lisansıyla Mickey Mouse, Cars, Winnie The Pooth ve Princess karakterlerini genç odalarında kullanmaktadır.Alfemo 60’tan fazla ülkede mağaza ve satış noktalarıyla faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

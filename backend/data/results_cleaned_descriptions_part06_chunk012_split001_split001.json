@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Tecnoplas",
+    "description": "Tecnoplas, 1997 yılında kurulan Tecnoplas Plastik Yapı El. San. ve Tic. A.Ş. bünyesinde üretilen pvc pencere sistemleri markasıdır.ISO 9001, ISO 14001 ve TSE belgelerine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini 40 bin metrekaresi kapalı toplam 50 bin metrekarelik alanda üretmektedir ve 11 ülkeye ihraç etmektedir.Bünyesindeki markalar;BestlineBlocktechForawinStarwinWhiteTech",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hightek",
+    "description": "Hightek, 2010 yılında kurulan Kentoled Teknoloji Elektronik Aydınlatma İth. İhr.San.ve Tic. Ltd. Şti. bünyesinde üretilen led ve aydınlatma sistemleri markasıdır.İstanbul merkezli firma ürünlerini 10 bin metrekarelik üretim tesislerinde Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Steve Madden",
+    "description": "Steve Madden, 1990 yılında kurulan Steven Madden Ltd. bünyesindeki ayakkabı ve moda aksesuarları markasıdır.Firma ürünlerini Amerika, Kanada, Meksika, Avrupa, Güney Afrika ve diğer bazı uluslararası pazarlarda mağazalar, toplu satıcılar, indirimli perakendeciler, ayakkabı zincirleri, çevrimiçi perakendeciler, ulusal zincirler, özel perakendeciler ve bağımsız mağazalar aracılığıyla dağıtır.Steven Madden Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alves Kablo",
+    "description": "Alves Kablo, 2014 yılında kurulan Alves Kablo A.Ş. bünyesinde üretilen kablo markasıdır.ISO 9001, ISO 14001, ISO 45001, TSE begelerine sahiptir.Firma Ankara merkezlidir. Tüm hammaddeleri kendi fabrikalarında üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Helko",
+    "description": "Helko, 1844 yılında kurulan Helko-Werk Gmbh bünyesinde üretilen baltalar ve ormancılık aletleri markasıdır.Üretim sürecinde, balta kafaları ısıtılmadan önce bir yağ banyosunda sertleştirilir ve küçük çatlaklardan kaçınmak için ılık yağda soğutulur.Helko-Werk Gmbh Almanya merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

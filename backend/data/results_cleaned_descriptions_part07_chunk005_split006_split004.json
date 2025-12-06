@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Lampa Accessories",
+    "description": "Lampa, 1980 yılında kurulmuş olan Lampa S.P.A bünyesindeki araba, kamyon, motosiklet, bisiklet aksesuarları, mobil aksesuarlar markasıdır.Şirketin iş kolu, motorlu taşıt parçaları ve aksesuarlarının imalatını içermektedir.Lampa S.P.A İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "La Colors",
+    "description": "La Colors, 1985 yılında kurulmuş olan Beauty 21 Cosmetics Inc. bünyesinde üretilen makyaj ve kozmetik markasıdır.Şirket yüz, gözler, dudaklar, tırnaklar ve görünüşler için ürünler sunmaktadır. Ürünleri hayvanlar üzerinde test edilmemektedir.Beauty 21 Cosmetics Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Debby Experience Your Identity",
+    "description": "Debby, 1903 yılında Fratelli Bonetti tarafından kurulmuş olan Deborah Group SRL bünyesinde üretilen kozmetikler, makyaj malzemeleriFirma kişisel bakım ürünleri, ilaç ve sağlık ürünleri imalatı yapmaktadır.Deborah Group SRL 2018 yılında İtalya merkezli Sodalis Group tarafından satın alındı. Ürünlerini 40 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Joystar Kamp Malzemeleri",
+    "description": "Joystar, 2000 yılında kurulmuş olan D-Market Elektronik Hizmetler ve Tic. A.Ş. tarafından ithal edilen kamp malzemeleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini uzakdoğu ülkelerinden ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "NOGA – Simply Sophisticated",
+    "description": "Noga, 1980 yılında kurulmuş olan Noga Engineering & Technology Ltd. bünyesindeki çapak alma sistemleri, tutma sistemleri, kesme sıvısı aplikatörleri markasıdır.Noga Engineering & Technology Ltd. İsrail merkezlidir ve ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

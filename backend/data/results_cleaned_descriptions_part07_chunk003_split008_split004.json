@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Ivanky",
+    "description": "Ivanky, 2015 yılında kurulmuş olan Shenzhen Yi Fan Technology Ltd. bünyesinde üretilen displayport kablosu, hdmi kablosu, ses kablosu, usb-c, video bağdaştırıcısı, video kablosu, video, ses, bilgisayar ve diğer elektronik ürünleri markasıdır.Shenzhen Yi Fan Technology Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Swiss One Safety",
+    "description": "Swiss One Safety, 2000 yılında Jean-Pierre Passaquay tarafından kurulmuş olan Swissone Safety SA bünyesinde üretilen güvenlik gözlükleri, yüz kalkanları ve aksesuarları markasıdır.İnşaat, sanayi, tıp ve sağlık, eğitim, acil servisler ve askeri pazarlara koruyucu gözlükler üretmektedir.Swissone Safety SA, 2016 yılında İngiltere merkezli JSP Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Remolent",
+    "description": "Remolent, 2013 yılında kurulmuş olan ARE İlaç Medikal İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen çatlak karşıtı cilt bakım kremi, ardıç katran yağı içerikli sabun, argan yağlı saç kremi, collagen, dış genital bölge temizleme köpüğü, göğüs ucu bakım kremi, güneş kremi, takviye edici gıda markasıdır.Ürünleri SLS, Sülfat ve renklendirici içermemektedir.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kabeldirekt",
+    "description": "Kabeldirekt, 2010 yılında kurulmuş olan Idel Versandhandel Gmbh bünyesindeki kablolar, HDMI kablo, Ethernet ürünleri, Ses kabloları, TV ve video kabloları, USB ve bilgisayar kabloları markasıdır.Idel Versandhandel Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Alfheim",
+    "description": "Alfheim, 2003 yılında kurulmuş olan SNS Gıda Kozmetik Tic. ve San. Ltd. Şti. bünyesinde üretilen uçucu ve sabit yağlar, yüz maskeleri, bitki çayları, sabunlar, doğal aromaterapi ürünleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini 6 bin metrekaresi kapalı olmak üzere 11 bin metrekarelik alanda üretmektedir.Bünyesindeki markalar;AlfheimArtfulArtıstıcAweAwe CemreAwe LaboratoriesAwecemre CholesAwecemre DoğaAwecemre LatentAwecemre Life FormAwecemre Maksima SistolAwecemre Natural ShopFlamoriHeidi & HouseInforceMysimyacıNivalisNivalis Multi-TherapyRoschelSauntyStrıkıng ForceSupreme Natural SelectionWishway",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

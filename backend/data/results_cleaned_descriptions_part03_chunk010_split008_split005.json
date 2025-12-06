@@ -1,0 +1,47 @@
+[
+  {
+    "company": "FGİ",
+    "description": "FGİ, 1997 yılında kurulan Fgi Kapı ve Yükleme Teknolojileri A.Ş. bünyesindeki kapı ve yükleme teknolojileri markasıdır.ISO 9001 belgesine sahiptir.Fabrika kapısı, yükleme rampaları, seksiyonel kapı, garaj kapısı, endüstriyel kapı çeşitlerine sahiptir.Fgi Kapı ve Yükleme Teknolojileri A.Ş. 2002 yılında Japonya merkezli Sanwa Holdings Corporation bünyesindeki Novoferm GmbH tarafından satın alındı.Sakarya’daki tesisi Novoferm şirketinin Türkiye’deki yerel üretim merkezidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Hörmann",
+    "description": "Hörmann, 1935 yılında August Hörmann tarafından kurulan Hörmann KG bünyesindeki kapı, garaj kapısı ve çerçeveleri, endüstriyel kapı sistemleri markasıdır.Şirketin Avrupa, Kuzey Amerika ve Asya’da 38 üretim tesisi bulunmaktadır ve dünyanın 4. büyük kapı üreticisidir. 50’den fazla ülkede faaliyet göstermektedir.Hörmann KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Halalles",
+    "description": "Halalles, 2015 yılında kurulan Wbb Turizm ve Dış Ticaret A.Ş. bünyesinde üretilen kişisel bakım ürünleri markasıdır.Organik ve vegan içerikli ürünleri hayvanlar üzerinde test edilmemektedir. Sülfat, sls, sles, silikon, alkol, paraben, parfüm, tuz, içermemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "System Professional",
+    "description": "System Professional, 1880 yılında kurulan Wella AG bünyesinde üretilen şampuan markasıdır.Wella AG, 2015 yılında Coty Inc. tarafından satın alındı. System Professional markalı ürünler Almanya’da üretilmektedir.Coty Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Saklı Cennet",
+    "description": "Saklı Cennet, 2002 yılında TEMA Vakfı ve A. Nihat Gökyiğit tarafından kurulan ANG Vakfı desteği ile kurulan Temari Gıda San. ve Tic. A.Ş. bünyesindeki bal, zeytinyağı, süt ve süt ürünleri markasıdır.Ürünlerin büyük çoğunluğu şirketin kendi özel arazilerinde yetiştiriliyor.Bünyesindeki markalar:TEMASAKLI CENNET",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

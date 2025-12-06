@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Betto Yedek Parçaları",
+    "description": "Betto, 2019 yılında kurulan Betto İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen araç ve ekipman yedek parçaları markasıdır.Firma İzmir merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Consan Conta",
+    "description": "Consan, 1969 yılında kurulan Mercan Conta ve Otomotiv Yan San. İmalat İhracat ve Paz. Tic. Ltd. Şti. bünyesinde üretilen araçlar için uyumlu conta ve sızdırmazlık elemanları markasıdır.ISO 9001, ISO/TS 16949 belgelerine sahiptir.İstanbul merkezli firma ürünlerini İstanbul’da bulunan fabrikasında üretmekte ve 62’den fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;ConsanPrestige Gasket",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Depigmenta",
+    "description": "Depigmenta, 2008 yılında kurulan Akatich AG bünyesinde üretilen güneş bakımı, dudak bakımı, cilt sağlığı, eklem sağlığı, tamamlayıcı ve bütünleştirici tıp, saç bakımı, hamilelik bakımı ürünleri markasıdır.Akatich AG İsviçre merkezlidir ve firma dünya çapında pazarlanan dermokozmetik ürünler geliştirmekte ve üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Amtra Akvaryum Aksesuarları",
+    "description": "Amtra, 1986 yılında Aquarium Glaser bünyesinde kurulan akvaryum balık yemi ve su arıtma ürünleri markasıdır.Tanklar, akvaryumlar ve teknolojik olarak gelişmiş aksesuarlar üretmektedir.Almanya merkezli Aquarium Glaser Gmbh 2010 yılında İtalya merkezli Croci Spa ile birleşti. Almanya, İtalya ve Çin’de toplam üç şirketten oluşmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Aquawe",
+    "description": "Aquawe, 1977 yılında kurulan Tisert Evcil Hayvan ve Akvaryum Ürünleri İth. İhr. San. Dış. Tic. Ltd. Şti. bünyesindeki filtre zeolit, aktif karbon, seramik halka, havataşları, balık yavrulukları, filtrelemede kullanılan elyaf ve süngerler ve kaplumbağa bahçeleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalarAquaweBeaksChuckMioOniks",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

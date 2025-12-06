@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ar Mantı",
+    "description": "Ar MantıArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2016 yılında kurulmuş olan Armebi Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen dondurulmuş gıdalar markasıdır.Ürünleri gdo, katkı maddesi ve zararlı kimyasallar içermemektedir. ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kalado",
+    "description": "KaladoArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2021 yılında kurulmuş olan Kalado LLC bünyesinde üretilen hava temizleyici, elektrikli süpürge, wi-fi otomatik besleyici markasıdır.Kalado LLC Amerika merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Magic Mixies",
+    "description": "Magic MixiesArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1985 yılında kurulmuş olan Moose Creative Management Pty. Ltd. bünyesindeki eğitici oyuncaklar, evcilik ve mutfak setleri oyuncakları, karakter figürü, kumaş ve peluş oyuncaklar, oyun setleri, oyuncak bebek, peluş oyuncak markasıdır.Moose Creative Management Pty. Ltd. Avustralya merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AU",
+    "updated_date": null
+  },
+  {
+    "company": "RadiPure",
+    "description": "RadiPureArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.Cargill, 1865 yılında William Wallace Cargill tarafından kurulmuş olan Cargill Incorporated bünyesinde üretilen bezelye proteini markasıdır.Emülsifiye edici, viskozlaştırıcı ve jelleştirici özelliklerinin yanı sıra, bezelye proteinini süt ve süt ürünleri alternatifleri, atıştırmalıklar, fırıncılık, bitki bazlı et alternatifleri vejetaryen gıdalar için tercih edilmektedir.Cargill Incorporated Amerika merkezlidir. Türkiye’de 1986 yılından beri Cargill Tarım ve Gıda San. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "M.P Club",
+    "description": "M.P ClubArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1987 yılında kurulmuş olan Pames Ayakkabıcılık İth. İhr. San. ve Tic. A.Ş. bünyesinde üretilen erkek günlük ayakkabı, kadın sneakers markasıdır.Firma İstanbul merkezlidir. Ürünlerini 44 bin metrekarelik fabrikasında üretmektedir ve birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Hypo",
+    "description": "Hypo, 1963 yılında kurulan Koruma Temizlik A.Ş. bünyesinde üretilen çamaşır suyu markasıdır.Ürünlerini Kocaeli, Hatay ve Denizli’de bulunan tesislerinde üretmektedir.Bünyesindeki markalar:HyperHypoKİGİMissMr. PointSoda PlusTuz Ruhu",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Güldal",
+    "description": "Güldal, Bim Birleşik Mağazalar A.Ş. adına Koruma Temizlik A.Ş. tarafından üretilen çamaşır suyu markasıdır.Klor bazlı ağarıcı, sodyum hidroksit içerir.Gıdalardan uzakta kilitli tutulmalıdır. El, yüz, vücut ve gıda maddeleri temizliğinde asla kullanılmaz. Ürünü kullanırken eldiven ve göz koruyucu kullanılmalıdır ve solunmamalıdır. Farklı temizlik ürünleri içine karıştırılmamalı onlarla kullanılmamalıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-06"
+  },
+  {
+    "company": "Advance",
+    "description": "Advance, 2016 yılında kurulan Affinity Petcare, S.A. bünyesinde üretilen köpek ve kedi mamaları, veteriner diyetleri markasıdır.Dünya çapındaki 5 fabrikası 50’den fazla ülkeye ürün tedarik etmektedir.Affinity Petcare, S.A. İspanya merkezlidir.Bünyesindeki markalar:AdvanceBrekkiesLibraTrainerUltima",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Limoya",
+    "description": "Limoya, 2011 yılında kurulan Kalıcı Sanal Mağazacılık Tekstil San. Tic. Ltd. bünyesindeki kişiye özel üretim ayakkabı ve butik ayakkabı tasarımlarını bir arada toplayan bir e-ticaret platformu markasıdır.Sitede ayakkabı, günlük ayakkabı, dolgu topuk, bot, topuklu, platform, botie, sandalet modelleri yer almaktadır.Platformda yer alan markalar, bayilerden temin edilirken bazı markalar limoya’nın özgün markaları da olabilir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gruma",
+    "description": "Gruma, 1949 yılında Roberto González Barrera tarafından kurulan Gruma, S.A.B. de C.V. bünyesinde üretilen mısır unu, ekmeği, mısır cipsi, yassı ekmekler markasıdır.Dünyanın en büyük mısır unu ve tortilla üreticisidir.Dünya genelinde 112 ülkede yatırımları olan 79 üretim tesisi ile Meksika’nın en büyük firmalarından Meksika merkezli Gruma Grup 2011 yılında Türkiye’de Semolina’yı bünyesine katarak Türkiye pazarına girdi.Bünyesindeki markalar:MASECAMISSIONAZTECASEMOLINA",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MX",
+    "updated_date": "2021-02-01"
+  }
+]

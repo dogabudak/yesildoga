@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Kaida Olta",
+    "description": "KAIDA, profesyonel olta takımı ürünleri ve balık avlama ürünleri markasıdır. Balıkçılar için ürünler sağlamaktadır.Rusya merkezli firma ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": "2018-10-20"
+  },
+  {
+    "company": "ZKW",
+    "description": "ZKW, 1938 yılında kurulan ZKW Holding GmbH bünyesinde üretilen aydınlatma sistemleri, otomobil farları markasıdır. Otomobil, kamyon ve iki tekerlekli özel araçlar için aydınlatma sistemleri geliştirir ve üretir.ZKW, 2015 yılından beri Opel Astra K modeli için LED matris farını üretmektedir.Şirket Avusturya merkezlidir. 2018 yılında Güney Koreli LG Electronics (yüzde 70) ve holding şirketi LG Corp (yüzde 30) tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2020-04-21"
+  },
+  {
+    "company": "Steinel",
+    "description": "Steinel, enerji tasarrufu sağlayan ürünler üretir. Türkiye’nin enerji tasarrufuna büyük katkı sağlamakta ve yoğun talep görmektedir.Merkezi Almanya’dadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2018-06-21"
+  },
+  {
+    "company": "Altus",
+    "description": "Altus, 1998 yılında Arçelik A.Ş. bünyesinde üretilen beyaz eşya, ankastre cihazlar, elektrikli süpürge, klima, su ısıtıcısı ve küçük ev aletleri markasıdır.Ürünlerini Türkiye, Romanya ve Rusya’da yer alan 14 üretim tesisinde üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-09-20"
+  },
+  {
+    "company": "Indola",
+    "description": "Indola, 1876 yılında kurulmuş olan Henkel AG & Co. KGaA bünyesinde üretilen saç boyası, saç bakım ürünleri markasıdır.Henkel AG & Co. KGaA Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-09-07"
+  }
+]

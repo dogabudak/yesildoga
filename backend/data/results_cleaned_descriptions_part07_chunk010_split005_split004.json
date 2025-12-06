@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Phyto Specific",
+    "description": "Phyto Specific, 1969 yılında Patrick Ales tarafından kurulmuş olan Ales Groupe SA bünyesinde üretilen saç bakım ürünleri markasıdır.Ales Groupe SA Fransa merkezlidir ve tüm araştırma tesisleri ile laboratuvarları Fransa’da, bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Unlum",
+    "description": "Unlum, 2015 yılında kurulmuş olan Başak Gıda Dağıtım Paz. San. ve Tic. A.Ş. tarafından BİM A.Ş. için üretilen yufka ürünleri, gözleme, katmer, baklava börek yufka markasıdır.Başak Gıda, Bim ve File gibi zincir marketlere unlu mamüller, donuk ve yarı donuk ürünler üretmek amacıyla iştirak firması olarak kurulmuştur ve İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "TVS Tava",
+    "description": "TVS, 1968 yılında kurulmuş olan TVS Spa bünyesinde üretilen PFTE bazlı yapışmaz kaplamalar, BPA olmadan pfoa’sız formüle edilmiştir. Su bazlıdır, Nikel ve diğer ağır metalleri içermez. Ürünlerinde kullandığı alüminyum %100 geri dönüştürülebilir.ISO 9001 belgesine sahiptir.TVS Spa İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Tecnum",
+    "description": "Tecnum, 2009 yılında Santek Endüstri ve Yapı Malzemeleri Isıtma Soğutma Sistemleri İnşaat San. ve Tic. Ltd. Şti. bünyesindeki ithal elektrikli el aletleri ve aksesuarları, kompresör, boya karıştırıcı mikser, duvar zımparalama, akülü vidalama, matkap, vantuzlu ve ayarlanabilir panç ve yerli gönye kesme, tas menteşe yuva açma makinesi, kaynak makinesi ve akü şarj cihazları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;DwtrobustGiantGraboRbt RobustechRıkenSmarter ToolsSnt SantekTecnum",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "GGS Solingen",
+    "description": "GGS Solingen, 1989 yılında kurulmuş olan GGS-Bestecke & Kochtöpfe e. K. bünyesindeki çatal bıçak takımı, bıçaklar, pişirme kapları markasıdır.Çatal bıçak takımı çeşitleri 18/10 krom-Nikel-paslanmaz çelikten imal edilmiştir.GGS-Bestecke & Kochtöpfe e. K. Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

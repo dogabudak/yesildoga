@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Türkoğlu Vana",
+    "description": "Türkoğlu, 1978 yılında kurulan Şensoylar Klape Tes. Malz. San. ve Tic. Ltd. Şti. bünyesindeki inşaat malzemeleri markasıdır.Su sayacı, vana, su ve gaz esnek hortumu, tesisat ve bağlantı parçaları, yangın ekipmanları ve özel ürünleri üretmektedir.ISO 9001, IS0 14001, OHSAS 18001, CE işaretli, MID, ISO-AB direktifleri, GOST, EN ve TSE belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polmix",
+    "description": "Polmix, Polsan Plastik San. Dış Tic. Ltd. Şti. bünyesinde üretilen çöp torbası markasıdır.Çöp poşeti, geri dönüşümlü plastik malzemeler başta olmak üzere, birçok sektöre uygun çöp poşetleri ve plastik hammadde üretimi yapmaktadır.Endüstriyel, hastane, Ev dışı tüketim ve perakende sektörlerine özel ürünler imal etmektedir.TS EN13592+A, ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lifetech",
+    "description": "Lifetech, 1992 yılında kurulan Form Mühendislik Tic. Ltd. Şti. bünyesinde 2010 yılında üretilmeye başlanan su arıtma sistemleri markasıdır.Form Mühendislik; su arıtma, ısıtıcı kablo ve güneş enerjisi pazarında hizmet vermektedir.Tayvan menşeili Comtech firmasının Türkiye temsilcisidir.Bünyesindeki markalar:PuretechLifetechOveon",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Huchez",
+    "description": "Huchez, 1960 yılında kurulan Huchez Treuils S.A.S. bünyesindeki mekanik veya motorlu vinçlerin markasıdır.Vinçler, tüm bağlamlarda ve endüstri, havacılık endüstrisi, inşaat, denizcilik ve nehir taşımacılığı, gösteri-iş sanayi gibi tüm sektörlerin kaldırma veya çekiş sorunlarına cevap vermek üzere tasarlanarak üretilmektedir.Huchez Treuils S.A.S. Fransa merkezlidir ve ürünlerinin komple tasarım ve imalatını Fransa’da gerçekleştirmektedir.ISO 9001: 2008 ve CE belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Cartotecnica Olimpia",
+    "description": "Cartotecnica Olimpia, Luciano Masconi tarafından kurulan Cartotecnica Olimpia srl. bünyesinde üretilen gerilmiş ve çift ince karton kutular ve kasalar, alüminyum ve plastik rulo için kutulara kesme bıçağı uygulaması, alüminyum gıda kapları için kapaklar, çeşitli frezelemeler, blister, skinpack gibi ambalajlama ürünleri markasıdır.Cartotecnica Olimpia srl. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

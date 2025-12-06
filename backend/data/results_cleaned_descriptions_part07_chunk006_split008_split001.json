@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Prodht",
+    "description": "Prodht, 2007 yılında kurulmuş olan Deha Teknik El Alet. San. Hırd. San. ve Tic. bünyesindeki hava kompresörleri, hava hortumu markasıdır.TSE TS81, TS3794,TS2725 ve TS3315 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Drinkwell",
+    "description": "Drinkwell, 1996 yılında kurulmuş olan Veterinary Ventures Inc. bünyesindeki, kedi ve köpekler için su kapları markasıdır.Su pınarı su akışını ayarlayan ayar düğmesi ile otomatik olarak suyu dolduran ek su tankına sahiptir.Veterinary Ventures Inc. 2010 yılında Amerika merkezli Radio Systems Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aydi",
+    "description": "Aydi, 1999 yılında kurulmuş olan Avm Alışveriş Merkezleri Ayakkabı Tic. Ltd. Şti. bünyesindeki ayakkabı markasıdır.Türkiyenin pek çok noktasında Ayakkabı İndirim Marketleri ile hizmet vermektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hansen & Jacob",
+    "description": "Hansen & Jacob, 2006 yılında Hansen & Jacob AB bünyesinde kurulmuş olan erkek giyim markasıdır.Ürünleri iyi dikilmiş ceketlerden sıkıntılı kotlara kadar çeşitlilik göstermektedir.Hansen & Jacob AB İsveç merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Tassay",
+    "description": "Tassay, 2002 yılında kurulmuş olan Postnoff i Ko LLC bünyesinde üretilen doğal mineralli içme suyu, maden suyu, soğuk çay markasıdır.Su kaynağı Güney Kazakistan bölgesindeki Batı Tian Shan’ın eteklerindeki ekolojik açıdan temiz bir bölgede doğanın herhangi bir etkisinden güvenli bir şekilde gizlenmiş derin yeraltı suyu deposudur.Postnoff i Ko LLC Rusya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  }
+]

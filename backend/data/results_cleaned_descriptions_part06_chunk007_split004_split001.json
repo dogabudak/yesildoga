@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Junarose",
+    "description": "Junarose, 1975 yılında Troels Holch Povlsen tarafından kurulan Bestseller A/S’nin yatırım holding şirketi Heartland A/S bünyesindeki kadın kıyafetleri markasıdır.Bestseller A/S Danimarka merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Ideal Orkide Yağ",
+    "description": "Ideal Orkide, 1978 yılında kurulan Küçükbay Yağ ve Deterjan San. A.Ş. bünyesinde üretilen bitkisel margarin yağı markasıdır.Firma yemeklik sıvı yağ üretiminin yanı sıra 2003 yılından beri margarin üretimi yapmaktadır. İzmir merkezlidir ve ürünlerini İzmir’de bulunan fabrikalarında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İspak Ambalaj",
+    "description": "İspak Ambalaj Nerenin Malı Markasıİspak Ambalaj, 1974 yılında kurulan İspak Esnek Ambalaj San. A.Ş. bünyesinde üretilen esnek ambalajlar, endüstriyel ambalajlar, tütün mamul ambalajları markasıdır.Her türlü işlenmiş gıda, şekerleme, çikolata, süt ve süt ürünleri, ilaç, kozmetik, sigara, içecek, beyaz eşya, izolasyon ürünleri için ambalaj çözümleri ve ürünleri üretmektedir.ISO 9001, ISO 22000, OHSAS 18001, ISO 14001, ISO 27001 belgelerine sahiptir.İstanbul merkezli firma Kibar Grubu’na aittir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ombia Sun",
+    "description": "Ombia Sun, 2001 yılında kurulan Emil Kiessling Gmbh bünyesinde üretilen kozmetik ürünler markasıdır.Firma şampuan, saç boyası ve saç spreyleri, güneş koruyucu losyon, vücut temizliği, yüz, el ve ayak bakım kremleri ile doğal güzellik ürünleri üretmektedir.Emil Kiessling Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kav Kibrit",
+    "description": "Kav, 1997 yılında Koç Holding A.Ş.’nin bir iştiraki olan Kav Orman San. A.Ş. ile Swedish Match AB ortaklığında kurulan kibrit, tek kullanımlık çakmak markasıdır.Kibridin dumanı zararlı beyaz fosfor vb. maddeler içermez.İsveç merkezli Sweden Match AB’nin iştiraki Swedish Match Kav Kibrit ve Çakmak Endüstri A.Ş. 2000 yılında tüm hisseleri almıştır.Bursa’da üretim yapan firma 2006 yılında Türkiye’de üretimi sonlandırdı.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

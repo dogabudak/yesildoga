@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Gray Tools",
+    "description": "Gray Tools, 1912 yılında Alex Gray tarafından kurulan Gray Tools Inc. bünyesinde üretilen profesyonel el aletleri, özel araçlar markasıdır.Gray Tools Inc. Kanada merkezlidir ve Kanada’nın en büyük profesyonel alet üretim şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Brüel",
+    "description": "Brüel, 1942 yılında kurulan Brüel & Kjaer A/S bünyesindeki mühendislik ve elektronik markasıdır.Brüel & Kjaer A/S dünyanın en büyük ses ve titreşim ölçüm ekipmanları, sistemleri ve çözümleri üreticisi ve tedarikçisidir.2000 yılında bölünen Brüel & Kjaer A/S İngiltere merkezli Spectris plc tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "JZ Microphones",
+    "description": "JZ Microphones, 2007 yılında Juris Zarins tarafından kurulan JZ Microphones SIA bünyesindeki profesyonel mikrofonlar ve kayıt aksesuarları markasıdır.Patentli kapsül teknolojisi, hassas elektronik ve yenilikçi endüstriyel tasarım ürünler üretmektedir.JZ Microphones SIA Letonya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LV",
+    "updated_date": "2022-02-04"
+  },
+  {
+    "company": "Stax",
+    "description": "Stax, 1938 yılında kurulan Stax Ltd. bünyesindeki üst düzey ses ekipmanları markasıdır.1995 yılında iflas eden şirket 2011 yılında Çinli hoparlör üreticisi Edifier tarafından satın alınarak yeniden faaliyete başladı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "V-Moda",
+    "description": "V-Moda, 2004 yılında Val Kolton tarafından kurulan V-Moda LLC bünyesindeki kulaklıklar, taşınabilir amplifikatörler, koruyucu kulak tıkaçları ve aksesuarları markasıdır.V-Moda LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

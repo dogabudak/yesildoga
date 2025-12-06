@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kale Kilit",
+    "description": "Kale Kilit, 1953 yılında Sadık Özgür tarafından kurulan Kale Kilit ve Kalıp San. A.Ş. bünyesinde üretilen silindir, varil, emniyet kilidi, çelik kapı kilidi, vida, emniyet mandalı ve ataşman markasıdır. Kale Endüstri Holding’in kuruluşudur.Ürünlerini 35 bin metrekarelik kapalı alanda üretmekte ve 75 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ezga",
+    "description": "Ezga, 1989 yılında temeli atında Tim Kozmetik Sabun Otel Malzemeleri San. ve Tic. Ltd. Şti. bünyesinde üretilen sabun markasıdır.Ürünleri kimyasal koruyucular, petrol bileşenleri, lauryl sulfate, sentetik yapay renklendiriciler ve hayvansal bileşenler içermemektedir. Tamamen bitkisel üretimdir.İstanbul’da bin 150 metrekarelik alanda bulunan fabrikasında üretim yapmaktadır.Bünyesindeki markalar;Docteur Renaud ParisDr.EaEgeriaEgza-sEzgaGiardino FioritoNaturaleNeasSbncuTim CosmeticsZantis",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arual",
+    "description": "Arual, 1949 yılında Luis Martinez Clemente tarafından kurulan Productos de cosmética profesional S.L bünyesinde üretilen kozmetik ürünler markasıdır.Productos de cosmética profesional S.L İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Babyhome",
+    "description": "Babyhome, 2005 yılında kurulan Babynow S.L. bebek taşıma ve pusetler, mobilya, dekorasyon ve tekstil ürünleri markasıdır.Plastik içerikli ürünleri BPA içermemektedir.Babynow S.L. İspanya merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Sunsky",
+    "description": "Sunsky, 2014 yılında kurulan Sunsky Technology Limited bünyesinde üretilen dijital ürünler, oyun aksesuarları, bilgisayar çevre birimleri ve cep telefonu aksesuarları, moda ürünleri, dış mekan ürünleri markasıdır.Sunsky Technology Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

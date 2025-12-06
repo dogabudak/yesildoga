@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Hopfrög",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Frymaster",
+    "description": "1935 yılında kurulmuş olan Frymaster LLC bünyesinde üretilen açık kap fritözleri, tüp fritözleri, hazır yiyecekleri taze ve sıcak tutan istasyonlar markasıdır.ISO 9001 belgesine sahiptir.Frymaster LLC Amerika merkezli Welbilt Inc.’e aittir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oggia",
+    "description": "2023 yılında kurulmuş olan Oggia Oyuncak ve Çocuk Gereçleri Ltd. Şti. bünyesindeki bebek arabası, mama sandalyeleri, manyetik oyuncaklar, mop set, oyun matları, su topu markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Houseran",
+    "description": "2022 yılında kurulmuş olan Tianjin Houseran Technology Co. Ltd. bünyesinde üretilen pense, çekiç, tornavida, yan keski, tel kesici, el aletleri markasıdır.Tianjin Houseran Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Feihsu",
+    "description": "2022 yılında kurulmuş olan Beijing Feishu Technology Co. Ltd. bünyesindeki gelişmiş bir kurumsal işbirliği ve yönetim platformudur.Kuruluşları ve bireyleri daha verimli hale getirmek için anında iletişim, takvim oluşturma, sesli ve görüntülü konferans, bulut belgeleri, bulut diskleri, çalışma ve diğer işlevleri entegre eder.Beijing Feishu Technology Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

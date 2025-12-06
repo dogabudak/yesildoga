@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Dermalex",
+    "description": "Dermalex, 2006 yılında kurulan Omega Pharma Innovation & Development NV bünyesindeki sabunlar, kozmetik ürünler, saç losyonu, dermatolojik ve sıhhi ürünler, ilaçlı cilt bakım ürünleri, cilt hastalıklarının tedavisi için ürünler markasıdır.Omega Pharma Innovation & Development NV Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Lotus Biscoff",
+    "description": "Lotus Biscoff, 1932 yılında kurulan Lotus Bakeries Group bünyesindeki karamelize bisküviler, kek spesiyalleri ve gofretler, zencefilli kurabiye, sağlıklı atıştırmalıklar, bütün yiyecekler ve bebek atıştırmalıkları markasıdır.Lotus Bakeries Group Belçika merkezlidir. Belçika, Hollanda, Fransa, İsveç, Güney Afrika ve ABD’de üretim tesislerine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Pflueger",
+    "description": "Pflueger, 1957 yılında kurulan Pure Fishing Inc. bünyesindeki olta takımları, yemler, çubuklar, makaralar, taraklar ve oltalar markasıdır.Pure Fishing Inc. Amerika merkezlidir ve 19 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Teching",
+    "description": "Teching, 2014 yılında kurulan Teching Culture Development Co. Ltd. bünyesindeki metal model oluşturma kitleri markasıdır.Teknik tasarımlı ürünler, hassas mekanik yapıya sahip yüksek kaliteli metalden yapılmıştır. Parçalar 50 parçadan 1000 parçaya kadardır, böylece yetişkinler ve çocuklar inşa etmek ve ondan öğrenmek için neye ihtiyaç duyduklarını seçebilirler.Teching Culture Development Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Akat Gardi",
+    "description": "Akat Gardi, 1969 yılında kurulan Akatlar Kozmetik San. Dış Tic. Ltd. Şti. bünyesinde üretilen kolonya markasıdır.ISO 9001 belgesine sahiptir.İstanbul merkezli firma ürünlerini İstanbul’da bulunan 25 bin metrekarelik fabrikalarında üretmektedir ve çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;AkatAkat 2000Akat FashionAkat GanjiAkat GardiAkat KiddyAkat MilleniumArianeBouquetCool MoreFieryFreedomFrenzyHarvestKissMaitresseMy ColorNiskPerspektifSüper TurboSouvenirThe S",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Chef",
+    "description": "Chef, 1999 yılında kurulan Agromak Makine İmalat San. ve Tic. A.Ş. bünyesindeki çapalama makineleri, özel maksatlı römorklar, her çeşit bahçe ekipmanları markasıdır.Ürünlerinin bir kısmını ithal etmektedir.Bünyesindeki markalar;ChefFentoxHobimakHobisanMaestroTechnosTekfenTurboYaprak",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Erato Audio",
+    "description": "Erato Audio, 2015 yılında kurulan Erato Wireless Audio Technology LTD. bünyesindeki kablosuz kulaklık markasıdır.Erato Audio, gerçek kablosuz sese yönelik olarak akustik ayrıntı ve anlaşılırlıktan çevreleyen ses deneyimlerine uzanan yeni bir standart belirlemektedir.Erato Wireless Audio Technology LTD Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "King Tiger",
+    "description": "King Tiger, 2005 yılında Seha Endüstri tarafından üretilen tarımsal budama, dal makasları ve endüstriyel makaslar markasıdır.Makaslarda kullanılan her bir malzeme özel üretimdir. Örslü ve by-pass sistem çalışan makasları Türkiye’de üretmektedir.Bünyesindeki markalar;King TigerKral Kaplan",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Moovit",
+    "description": ",“Moovit“2012 yılında Nir Erez, Roy Bick ve Yaron Evron tarafından kurulmuş olan Moovit App Global Ltd. bünyesindeki toplu taşımada gezinmek için akıllı telefonlar ve tarayıcılar için uygulama markasıdır.Otobüs, troleybüs, tramvay, tren, metro, feribot ve teknelerin yanı sıra paylaşılan bisiklet ve scooterlar ve diğer mikromobilite bileşenleri de dahil olmak üzere çoklu ulaşım modlarında gerçek zamanlı toplu taşıma bilgileri sunmaktadır.2022 yılında Moovit App Global Ltd. İsrail merkezli Mobileye Global Inc. tarafından satın alınmıştır. Web, iOS ve Android üzerinde kullanılabilen uygulama 100’den fazla ülkede 45 dilde mevcuttur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": "2024-09-05"
+  },
+  {
+    "company": "Miss Arap Sabunu",
+    "description": "Miss Arap Sabunu, 1963 yılında kurulan Koruma Temizlik A.Ş. bünyesinde üretilen temizlik ürünleri markasıdır.Zeytinyağı özleri içeren ürün, hiçbir koruyucu içermemektedir.Kocaeli, Hatay ve Denizli’de bulunan tesislerinde üretim yapmaktadır. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

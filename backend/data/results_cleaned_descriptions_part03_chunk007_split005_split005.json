@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Cafe Salvador",
+    "description": "Cafe Salvador, 1996 yılında kurulan Mepol Gıda Pazarlama Turizm San. ve Tic. Ltd. Şti. bünyesinde 2002 yılından itibaren üretilen instant kahve ve kahve ürünleri markasıdır.ürünleri glikoz şurubu içermektedir. ISO 9001 ve ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Viita",
+    "description": "Viita, 2016 yılında kurulan VIITA Concept A.Ş. bünyesindeki giyilebilir akıllı saatler markasıdır.Kayseri Erciyes Teknopark’ta hazırlanan Viita OS isimli yerli işletim sistemine sahip saatler Çin’de üretilmektedir.Sağlığı yönetmek için tasarlanan Viita markalı saatler, stres seviyesini belirler ve aynı zamanda kişiselleştirilmiş antreman önerileri sunar.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Watchx",
+    "description": "Watchx, 2017 yılında Mustafa Tülü ve Enes Çaldır tarafından kurulan Argex Araştırma ve Geliştirme San. ve Tic. Ltd. Şti. bünyesinde üretilen yeniden programlanabilir yerli akıllı saat markasıdır.Usb kablosuyla bilgisayara takılabilen watchX, Arduino veya Scratch (çocuklar için geliştirilen platform), programlama arayüzü ile bir mühendis gibi kodlama bilgisi gerektirmeden, sürükle bırak lego mantığıyla kolayca programlanabilmektedir.Bu akıllı saat (kodlama kiti) çeşitli yeteneklerle donatılabilir. Herhangi bir odanın aydınlatmasını Bluetooth ile kontrol edebilir veya buzdolabı kapağının günde kaç kez açıldığını sayabilir.Normal bir kullanım için ses seviyesi en düşüğe ayarlanır ve günde bir dakika tipik kullanımda kullanılırsa ortalama 1 yıl 3 aya kadar pil kullanım süresi sunabiliyor.Gaziantep Teknopark’ta Mustafa Tülü, Enes Çaldır, Ömer Özlü ve Gökhan Selamet tarafından geliştirilen watchX 45 ülkeye satıldı.Bünyesindeki markalar:ArgexWatchx",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Orbea",
+    "description": "Orbea, 1840 yılında Juan Manuel, Mateo ve Casimiro Orbea tarafından kurulan Orbea, S. Coop. bünyesinde üretilen bisiklet ve bisiklet parçaları markasıdır.1969 yılında çalışanları kooperatif kurarak Orbea’yı Orbea ailesinden satın almıştır.Orbea, S. Coop. İspanya merkezlidir. Ürünlerini İspanya, Portekiz ve Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Penguen Termos",
+    "description": "Penguen, 2003 yılında Aziz Oturakçı tarafından kurulan Penguen İthalat İhracat bünyesinde ithal edilen çaydanlık çeşitleri, bambu veya plastik doğrama panosu, granit tencere ve tava çeşitleri, kıyma ve erişte makinaları, kek veya kurabiye kalıbı çeşitleri, makas çeşitleri, meyve pres çeşitleri, rende çeşitleri, süzgeç çeşitleri, satır veya masat veya bıçak ve bıçak seti, silikon ve çelik küçük ev aletleri, sinek cız makinaları, termos çeşitleri markasıdır.Şanlıurfa’da faaliyet gösteren Penguen İthalat İhracat ürünlerini Çin’den ithal etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

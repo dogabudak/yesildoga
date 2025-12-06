@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Mikro",
+    "description": "Mikro, 1986 yılında kurulan Şahin Kırtasiye Hırdavat Tic. Ltd. Şti. bünyesindeki defter, çanta, silgi, kurşun kalem ucu, kalemtraş, tükenmez kalem, versatil çeşitleri vb. markasıdır.Mikro markalı ürünler Türkiye’de üretilmekte ve 15 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Colorsmash",
+    "description": "Colorsmash, 2011 yılında kurulan Healthy Dyeit LLC bünyesindeki saç ürünleri markasıdır.Formülleri paraben ve gluten içermez.Healthy Dyeit LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dari",
+    "description": "Dari, 1995 yılında kurulan Dari Couspate SA bünyesinde üretilen gıda ürünleri markasıdır.ISO 22000 ve BRC Food belgelerine sahiptir. Ürünleri 45’ten fazla ülkeye pazarlanmaktadır.Dari Couspate SA, Fas merkezlidir ve ürünlerini Fas’ta bulunan iki tesisinde üretmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Cover Your Gray",
+    "description": "Cover Your Gray, 1979 yıında kurulan Fisk Industries Inc. bünyesindeki makyaj ürünleri markasıdır.Fisk Industries Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cricket Lighters",
+    "description": "Cricket Lighters, 1961 yılında kurulan Swedish Match Lighters B.V. bünyesindeki çakmak markasıdır.Ürünlerini 140 ülkeye pazarlamaktadır.Swedish Match Lighters B.V. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2022-03-24"
+  }
+]

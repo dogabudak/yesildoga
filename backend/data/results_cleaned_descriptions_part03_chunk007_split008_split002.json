@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Kalecik Un",
+    "description": "Kalecik Un, 1980 yılında Hasan Hüseyin ve Seyit Mehmet Uyanık tarafından kurulan Kalecik Şirketler Grubu bünyesinde üretilen un, irmik ve nişasta markasıdır.Hammadde olarak Anadolu buğdayı ile ithal edilen nitelikli buğdaylar kullanılmaktadır.Kalecik un 7 bin metrekarelik fabrikasında un ve irmik üretimi ile nişasta paketlemesi yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Onat Alçı",
+    "description": "Onat Alçı Nerenin Malı MarkasıOnat Alçı, 2008 yılında Ali Rıza Onat tarafından kurulan Onpo Madencilik İnşaat Sanayi ve Ticaret A.Ş. bünyesinde üretilen profiller, toz alçı, alçı plaka, brüt beton astar markasıdır.Onpo Madencilik, yapı malzemeleri sektöründe faaliyet gösteren yüzde yüz yerli sermayeli ARO Şirketler Grubu’na bağlıdır.Onat Alçı’nın üretim tesisleri Ankara’da bulunmaktadır. ISO 9001, ISO 45001 ve ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mastech",
+    "description": "Mastech, 1960 yılında Prem Prakash Kwatra tarafından kurulan Metroq Metro Electronic Products bünyesindeki multimetreler (dijital ve analog), çevre test ekipmanları (işık, hava, ses, sıcaklık, nem), osiloskoplar (cro &dso), fonksiyon jeneratörleri ve osilatörler, ic programcıları ve test cihazları, güç kaynakları, frekans sayaçları ve çeşitli diğer aletler markasıdır.Dijital multimetre, pens ampermetre, temaslı ve infrared termometre, toprak direnci ve izolasyon test cihazları, devre, kablo ve elektrik test cihazları, dijital ses ve ışık şiddeti ölçerler, lazer mesafe ölçerleri, gaz dedektörü, çevresel ölçümler yapan cihazlar gibi ürün çeşitliliğine sahiptir.Metroq Hindistan merkezlidir. Mastech markalı ürünler Çin’de üretilmektedir.Bünyesindeki markalar:MastechMax GoldMetroQOwonSoldron",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Sem",
+    "description": "Sem, 1996 yılında kurulan Sem A.Ş. bünyesinde üretilen küçük ev aletleri, ani su ısıtıcısı, tost makineleri ve kişisel bakım ürünleriKayseri OSB’de ütü, içecek hazırlama, şofben, gıda hazırlama, kişisel bakım, blender, tost makinesi, pişirme ve kızartma makineleri, süpürge üretmektedir. Türkiye’de ilk kez mutfak veya musluk tipi ani su ısıtıcısını üretmiştir.Ürünlerini 20’den fazla ülkede satmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Meguiars",
+    "description": "Meguiars, 1901 yılında Frank Meguiar tarafından kurulan Meguiar’s Inc. bünyesindeki otomobil şampuanı, pasta, cila, çizik giderici, wax, boya koruma, seramik kaplama markasıdır.Meguiar’s ürün yelpazesi dünyada 100’den fazla ülkede ev, otomobil, tekne, tren, uçak ve daha birçok değişik sektörde pazarlanan 300’den fazla çizik çıkarıcı pasta, cila, wax, koruyucu ve temizleyiciye sahiptir.Meguiar’s Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

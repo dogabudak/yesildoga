@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Ünido",
+    "description": "Ünido, Bursa Uludağ Üniversitesi tarafından üretilen sade ve çikolatalı dondurma markasıdır.Dondurma içeriği Bursa Uludağ Üniversitesi Ziraat Fakültesindeki saanen keçilerinden elde edilen sütten, salep ve pancar şekerinden oluşuyor. Probiyotik ve prebiyotik içeriklidir.Dondurmalar, üniversite ürünlerinin satıldığı marketlerde satılıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "D&P Perfumum",
+    "description": "D&P Perfumum Nerenin Malı MarkasıD&P Perfumum, 1999 yılında kurulan D&P Parfümüm İth. İhr. San. ve Tic. A.Ş. bünyesinde üretilen parfüm markasıdır.ISO 9001 belgesine sahiptir. Ürünleri hayvanlar üzerinde test edilmemektedir.Parfüm, deodorant, araç ve ortam kokulandırma gibi ürünler üreten yüzde yüz Türk sermayeli Ankara merkezli bir şirkettir. Ürünlerini 40’tan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;Black PointD&P PerfumumDark PointSame",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "W Motors",
+    "description": "W Motors, 2012 yılında Ralph Debbas tarafından kurulan W Motors Automotive Group Holding Limited bünyesinde üretilen lüks spor otomobili markasıdır.2016 yılında Çin merkezli kardeş şirket Iconiq Motors ile stratejik bir ittifak kurdu.W Motors Automotive Group Holding Limited BAE merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Maono",
+    "description": "Maono, 2014 yılında kurulan Shenzhen Maono Technology Co. Ltd. bünyesinde üretilen mikrofon, ses arabirimi, kulaklık, hoparlör ve aksesuarlar markasıdır.Shenzhen Maono Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Smk Helmets",
+    "description": "Smk Helmets, 1983 yılında kurulan Studds Accessories Limited bünyesinde üretilen motosiklet ve bisiklet kaskları markasıdır.Şirket kasklar, motosiklet aksesuarları ve kişisel koruyucu ekipmanlar sunmaktadır.Studds Accessories Limited Hindistan merkezlidir. Ürünlerini Hindistan’da üretmekte ve 50’den fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;DaytonaSmkStudds",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Cafe Buzdolabı",
+    "description": "CafeArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1905 yılında kurulmuş olan GE Appliances bünyesindeki buzdolabı, yemek pişirme ürünleri, bulaşık makineleri, küçük ev aletleri markasıdır.GE Appliances 2016 yılında Çin merkezli Qingdao Haier Co. ve Amerika merkezli KKR & Co. Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Çağla Truffino",
+    "description": "Çağla TruffinoArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.2019 yılında kurulmuş olan Alyan Gıda Üretim İthalat Ihracat San. Tic. A.Ş. bünyesinde üretilen kremalı dolgulu çikolatalar, karışık çikolatalar markasıdır.ISO 9001, ISO 22000, ve helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Sakarya’da 45 bin metrekarelik açık alan, 12 bin metrekarelik kapalı alana sahip fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soflens",
+    "description": "SoflensArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1853 yılında kurulan Bausch + Lomb Corporation bünyesindeki günlük tek kullanımlık kontakt lensler markasıdır.Bausch + Lomb Corporation ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fazilet Takvim",
+    "description": "FaziletArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1970 yılında kurulmuş olan Fazilet Neşriyat ve Tic. A.Ş. bünyesinde üretilen takvim, duvar, masa, cep takvimleri, çocuk takvimi markasıdır.Ürünleri Türkçe, İngilizce, Almanca, Hollandaca, Arnavutça, Azerbaycanca, Kazakça, Kırgızca dillerinde üretilmektedir.Firma İstanbul merkezlidir. Takvimleri Türkiye dışında yaklaşık 88 ülkeye hitap etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jun Kaung",
+    "description": "Jun KaungArama motorlarında arayıp bulamadığınız tüm markaları bulabilirsiniz.1985 yılında kurulmuş olan Jun Kaung Industries Co. Ltd. bünyesindeki iş güvenlik seti, kesici makaslar, tesisat malzemeleri, vinç ve vinç aksesuarları, çekme halatı, bagaj kablosu, aparat ve aksesuarlar markasıdır.Jun Kaung Industries Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

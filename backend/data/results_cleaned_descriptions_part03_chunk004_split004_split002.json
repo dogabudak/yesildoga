@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kaya Çiftliği",
+    "description": "Kaya Çiftliği, 1980 yılında kurulan Kaya Kardeşler Gıda – Süt Ürünleri San. ve Tic. A.Ş bünyesinde üretilen süt ürünleri markasıdır.Edirne’de 10 bin metrekarelik kapalı alanda üretim yapmaktadır. ISO 9001, ISO 22000 ve UKS Helal Gıda belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Monin",
+    "description": "Monin, 1912 yılında kurulan Monin Incorporated bünyesinde üretilen kahve şurubu ve kokteyl sosları markasıdır.Şirket dünya çapında 140 ülkede faaliyet göstermektedir.Monin Incorporated Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Emart",
+    "description": "Emart, 1998 yılında kurulan Emart Makine ve Servis Ekipmanları San. Tic. Ltd. Şti. bünyesindeki mısır patlatma makinesi, pamuk şeker makinesi, simit arabası, bardakta mısır, kuruyemiş ısıtıcısı, haşlama mısır, köz mısır, dondurma arabası, ısıtma kabinleri, yiyecek içecek arabaları, tasarım arabalar, mobil arabalar markasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Polidol",
+    "description": "Polidol, 1990 yılında kurulan ASM Endüstriyel Ürünler Ltd. Şti. bünyesindeki yapıştırıcı, dolgu ve yapışkan bant markasıdır.ASM Endüstriyel Ürünler Ltd. Şti., temizlik, inşaat, ahşap, dekorasyon, marin ve kendin yap sektörlerinde kullanılan özel kimyasallar tedarikçisidir.Bünyesindeki markalar:DuşsilMaxilPolidolPolisil",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Epicool",
+    "description": "Epicool, 2015 yılında kurulan Kozay Kozmetik San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen beyazlatma ve temizlik amaçlı maddeler, diş bakımı ürünleri, aşındırıcı ürünler, deri, vinil, metal ve ahşap için parlatma ve bakım ürünleri markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Gardol",
+    "description": "Gardol1977 yılında kurulmuş olan Demp B.V. bünyesindeki bahçe makası, budama makasları, kök sökücü, fide sökücü, viyol, dikim aletleri, çiftli çapa, bahçe tırmıkları, kürekler, benzinli çim havalandırma makinesi, elektrikli ağaç testeresi gibi bahçe ürünleri markasıdır.Demp B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Bioreal Agrano",
+    "description": "Bioreal1996 yılında kurulmuş olan Agrano GmbH & Co. KG bünyesinde üretilen organik kabartma tozu, organik kuru maya, organik maya gevreği, organik yaş maya markasıdır.Agrano GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nostromo Energy",
+    "description": "Nostromo Energy2017 yılında kurulmuş olan Nostromo Energy Ltd. bünyesindeki sayaç arkası enerji depolama çözümleri markasıdır.Şirket, ticari ve endüstriyel binalara enerji depolama teknolojisi sağlayarak bunları büyük ölçekli megawatt saat enerji kaynaklarına dönüştürmektedir.Nostromo Energy Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Magnewo Daily",
+    "description": "Magnewo2004 yılında kurulmuş olan Anti Naturel Besin ve Bitkisel Destek Ürünleri San. Tic. A.Ş. bünyesindeki vitamin takviyeleri markasıdır.Ürünlerinde kullanılan tüm hammaddeler Avrupa, Amerika ve Kanada menşeli tedarikçilerden temin edilmektedir.ISO 9001 ve ISO 22000 belgelerine sahiptir.Firma Ankara merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Glissade",
+    "description": "Glissade2012 yılında kurulmuş olan Sport & Fashion Management Pte. Ltd. bünyesindeki dış giyim ürünleri, termal iç çamaşırları markasıdır.Sport & Fashion Management Pte. Ltd. Singapur merkezlidir.Bünyesindeki markalar;CyclotechD DemixDemixDentonForsioGlissadeGsdJossN NordwayNdwNordwayNorthland ProfessionalOutventureRe:ActionReactionSport MasterSternT TorneoTermitTorneo",
+    "documents": [],
+    "parent": null,
+    "origin": "SG",
+    "updated_date": null
+  }
+]

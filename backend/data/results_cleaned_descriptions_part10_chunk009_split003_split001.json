@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Amacrox",
+    "description": "2003 yılında kurulmuş olan Amacrox Technology Inc. bünyesindeki bilgisayar, sunucu, ağ donanımı ve endüstriyel uygulamalar ev çeşitli elektronik cihazlar için güç kaynağı üniteleri ve ilgili aksesuarları, AC adaptör, DC-DC dönüştürücü, pil şarj cihazı ve güç bankası markasıdır.Amacrox Technology Inc. Tayvan merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Sladus",
+    "description": "2010 yılında kurulmuş olan Sladus Produce OOO bünyesinde üretilen şekerlemeler markasıdır.Sladus Produce OOO Özbekistan merkezlidir ve ürünlerini 20’ye yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "UZ",
+    "updated_date": null
+  },
+  {
+    "company": "Mexmix",
+    "description": "2019 yılında kurulmuş olan Nurefşan Bisküvi Çikolata Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen atıştırmalıklar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Children’s Dimetapp",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Belibuy",
+    "description": "Ganzhou Puliang Technology Co. Ltd. bünyesinde üretilen süpürge markasıdır.Ganzhou Puliang Technology Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

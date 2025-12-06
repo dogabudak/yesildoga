@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Alape",
+    "description": "Alape, 1896 yılında Adolf Lamprecht tarafından kurulan Alape Gmbh bünyesindeki lavabo, çelik, ayna, aksesuar ve mobilya markasıdır.Alape Gmbh, Almanya merkezli Dornbracht şirketinin bir yan kuruluşudur. Ürünlerini Almanya’da üretmektedir. Ürünlerini 125’ten fazla yere pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Anern",
+    "description": "Anern, 2009 yılında kurulan Anern Industry Group Limited bünyesinde üretilen güneş enerjisi uygulaması ve led aydınlatma ürünleri markasıdır.LED sokak lambası, LED iç ve dış mekan ışıkları, LED ticari ışıklar üretmektedir.Anern Industry Group Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir ve 200’den fazla ülke ve bölgeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kara Sevda Ay Çekirdeği",
+    "description": "Kara Sevda, 2018 yılında kurulan Gold Harvest Kuruyemiş Gıda ve Tar. Ürünl. San. ve Tic. A.Ş. bünyesindeki kuruyemiş markasıdır.Eskişehir’de 5 bin metrekarelik alanda bulunan tesisinde kuruyemiş ve kuru meyve üretmektedir.Bünyesindeki markalar;Biri Beni DurdursunBu Başka Bir ŞeyGoldenpopsGold HarvestKara BelaKara SevdaMaster BarMaster BitesMaster CrunchMaster FarmMaster FunMasternutMasternut InternationalMaster PiecesMasterpopsMaster PotatoMutluluk Dudaktan Okunur",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kuu Yobook",
+    "description": "Kuu, 2019 yılında kurulan Shenzhen Youdisi E-Commerce Co. Ltd. bünyesinde üretilen dizüstü bilgisayarlar, mini konsollar, 2’si 1 arada dizüstü bilgisayarlar ve diğer elektronik ürünler markasıdır.Shenzhen Youdisi E-Commerce Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Hunter Fan",
+    "description": "Hunter Fan, 1886 yılında kurulan Hunter Fan Company bünyesindeki tavan vantilatörü markasıdır.Tavan vantilatörleri; serinletme, hava sirkülasyonunu kontrol etme gibi geniş ürün yelpazesine sahiptir.Hunter Fan Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

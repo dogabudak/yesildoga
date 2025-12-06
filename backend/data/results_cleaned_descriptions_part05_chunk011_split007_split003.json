@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mediatec",
+    "description": "Mediatec, Mediatec Gmbh bünyesindeki kamera, ses donanımı, stabilizasyon sistemleri, depolama ortamı, aksesuarlar markasıdır.Etkinlik ve televizyon yapımları için teknik çözümlerle çalışan Avrupa’nın en büyük şirketlerinden biridir.Mediatec Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Wesse Watches",
+    "description": "“Wesse“2000 yılında kurulmuş olan Hop Shing Watch Products Company Limited bünyesinde üretilen kol saatleri markasıdır.Saatler, çizilmelere karşı kristal mineral cam içeren tam paslanmaz çelik kasada üretilmektedir.Hop Shing Watch Products Company Limited Hong Kong merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": "2024-12-06"
+  },
+  {
+    "company": "Renogy",
+    "description": "Renogy, 2010 yılında Yi Li tarafından kurulan Renogy Suzhou Corp. Ltd. bünyesindeki güneş panelleri, kitler, şarj kontrolörleri ve kablolar gibi çeşitli güneş bileşenleri, güneş montaj malzemeleri ve LED aydınlatma çözümleri markasıdır.Kullanıcıların şebekeden bağımsız güneş enerjisi sistemlerini kurmaları için gerekli tüm bileşenleri sağlamaktadır.Renogy Suzhou Corp. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Iris Ohyama",
+    "description": "Iris Ohyama, 1971 yılında kurulan Iris Ohyama Inc. bünyesindeki mobilya, züccaciye, bahçe aksesuarları, ofis ürünleri ve evcil hayvan malzemeleri markasıdır.Iris Ohyama Inc. Japonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Hills Top",
+    "description": "Hills Top, 2011 yılında kurulan Gözmer Gözlük San. ve Tic. Ltd. Şti. bünyesinde üretilen optik gözlükler, güneş gözlükleri, lensler ve bunların kutuları, kılıfları, parçaları ve aksesuarları markasıdır.İstanbul merkezli firma ürünlerini antibakteriyel ve antialerjik İsviçre TR 90 hammaddesinden Türkiye’de üretmektedir. Bpa, Bisfenol vb hiçbir katkı maddesi içermemektedir.Bünyesindeki markalar;AsreAsre Exclusive EyewearCrownDehillsEye CrownFenniHills EyewearHills TopHills Top EyewearImpianaImpiana EyewearP PiccoPulsarRamaniRonexSummitTack EyewearTaggatiTommy Hill’s",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

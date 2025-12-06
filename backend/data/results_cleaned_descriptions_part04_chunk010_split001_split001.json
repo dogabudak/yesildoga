@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Expeditors",
+    "description": "Expeditors, 1979 yılında kurulan Expeditors International Inc. bünyesindeki lojistik ve nakliye hizmetleri markasıdır.Expeditors, lojistik sektörüne özgü bir ücretlendirme yapısına sahiptir. Dünya çapında faaliyet göstermektedir.Expeditors International of Washington, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Yunmai",
+    "description": "Yunmai, 2002 yılında kurulan Shenzhen Yunmai Technology Co., Ltd. bünyesindeki özel zaman kayıt cihazları olarak kullanmak için saatler, bilgisayar işletim yazılımı, uygulama ve veritabanı entegrasyonu için bilgisayar yazılımları, elektrik sayaçları, elektronik gösterge panoları, floresan ekranlar, ölçüm cetvelleri, ölçekler, ölçme makineleri ve aletleri, test ağırlıkları, video ekranları, elektrikli araç ve gereçler markasıdır.Shenzhen Yunmai Technology Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Mercedes Benz Ülkeye Ait Araba",
+    "description": "Mercedes-Benz, 1926 yılında Karl Benz’in şirketi Benz & Cie. ve Gottlieb Daimler’in şirketi Daimler Motoren Gesellschaft’in birleşmesi sonucu kurulan Daimler AG bünyesindeki otomotiv ve motor markasıdır.Daimler AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Abena",
+    "description": "Abena, 1953 yılında kurulan Abena A/S bünyesindeki bebek bezi, koruyucu, yatak koruma, yara bakımı ve kompresyon tedavisi, cilt bakımı ve bodycare, kadın hijyen, temizlik ürünleri markasıdır.Abena A/S Danimarka merkezlidir. Dünya çapında 80’den fazla ülkede faaliyet göstermektedir. Danimarka, İsveç ve Fransa’da kendi üretim tesisleri ve dünyanın dört bir yanından kaynak ürünleri var.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Panalpina",
+    "description": "Panalpina, 1976 yılında kurulan DSV Panalpina A/S bünyesinde karayolu, hava, deniz ve trenle dünya çapında ulaşım hizmetleri sunan nakliye ve lojistik hizmetleri markasıdır.DSV Panalpina A/S Danimarka merkezlidir. Danimarka’da ve 80’den fazla ülkede ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

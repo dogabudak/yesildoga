@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sight Diagnostics",
+    "description": "Sight Diagnostics, 2011 yılında kurulmuş olan Sight Diagnostics Ltd. bünyesindeki otomatik mikroskopi cihazı, dijital floresan mikroskobu ve bilgisayarlı görme algoritmaları markasıdır.Sight Diagnostics Ltd. İsrail merkezlidir. İlk ürünü 24 ülkede sıtma tespiti için bir milyon testte kullanılmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Moog Yedek Şasi",
+    "description": "Moog, 1899 yılında kurulmuş olan Federal-Mogul Products Us LLC bünyesinde üretilen ağır hizmet u-mafsalları, ek hd şasi parçaları, hizalama ürünleri, rot uçları ve sürükleme bağlantıları markasıdır.Ağır hizmet tipi şasi parçaları, direksiyon ve süspansiyon sorunlarını çözer ve kolaylıkla monte edilebilirler.Federal-Mogul Products Us LLC 2018 yılında Amerika merkezli Tenneco Inc. tarafından satın alınmıştır. 30’dan fazla ülkede üretim tesislerine sahiptir. 1969 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Adeland",
+    "description": "Adeland, 1969 yılında kurulmuş olan Adel Kalemcilik Tic. ve San. A.Ş. bünyesindeki oyuncaklar markasıdır.Firma Kocaeli merkezlidir. 35 bin metrekarelik alanda bulunan tesisinde kurşun kalem, boya ve kopya kalemi, tükenmez, sıvı mürekkepli kalemler, markör, keçeli kalem, pastel boya, suluboya, silgi, kalemtıraş, parmak boyası, oyun hamuru ve guaj boya üretmektedir.Hissedarları:AG Anadolu Grubu Holding A.Ş. (yüzde 56,89)Faber-Castell Aktiengesellschaft (yüzde 15,40)",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Besco Ozon",
+    "description": "Besco, 2009 yılında kurulmuş olan Besco Su Teknolojileri ve Danışmanlık Hizmetleri Turizm İnşaat Bilgisayar San. Tic. Ltd. Şti. bünyesindeki hava iyonlaştırıcılar, nemlendiriciler ve kurutucular markasıdır.Firma Antalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tytocare",
+    "description": "Tytocare, 2011 yılında kurulmuş olan Tytocare Ltd. bünyesindeki mobil sağlık platformu ve tıbbi sağlık bakım cihazları markasıdır.Şirket, fizik muayene bilgilerinin kaydedilmesi ve uzaktan iletilmesi için elde taşınan elektronik cihazlar tasarlamakta ve üretmektedir. Kalbi, akciğerleri, cildi, boğazı, kulakları ve vücut ısısını incelemek için modüler bir muayene aracı içerir.Tytocare Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

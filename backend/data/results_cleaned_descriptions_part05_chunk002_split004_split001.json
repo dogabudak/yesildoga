@@ -1,0 +1,47 @@
+[
+  {
+    "company": "İsma Bisiklet",
+    "description": "İsma Bike, 2010 yılında kurulan Synergy Group bünyesindeki bisiklet ve tekerlekli sandalye markasıdır.Ürün yelpazesinde trekking, şehir, dağ bisikleti, e-bisiklet, çocuk, katlanır, yol veya klasik bisikletler bulunmaktadır.Üretimde kullanılan parçalar Japonya, Tayvan, Malezya ve Almanya’dan tedarik edilmektedir. Azerbaycan’da bulunan 2 bin 200 metrekarelik alanda üretim yapmaktadır. Synergy Group Azerbaycan’ın en büyük özel yatırım şirketlerinden biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Suntour",
+    "description": "Suntour, 1912 yılında kurulan SR Suntour Inc. bünyesinde üretilen bisiklet parçaları markasıdır.Ürünlerini Tayvan, Çin ve Vietnam’da bulunan tesislerinde üertmektedir.SR Suntour Inc. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Etam",
+    "description": "Etam, 1916 yılında Max Lindemann tarafından kurulan Groupe Etam bünyesindeki iç çamaşırı, hazır giyim ürünleri markasıdır.Ürün yelpazesi, çalışan kadınlara yöneliktir.Groupe Etam Fransa merkezlidir. 55 ülkede faaliyet göstermektedir.Bünyesindeki markalar;EtamLivyMaison Cent Vingt-TroisUndizYsé",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Saloon Sıvı Sabun",
+    "description": "Saloon, 1945 yılında kurulan Sultanlar Grup bünyesindeki Tibet İth. İhr. ve Kozmetik San. A.Ş. tarafından üretilen sıvı sabun markasıdır.Ürünlerini İstanbul’da 80 bin metrekarelik kapalı alanda üretmekte ve 55 ülkeye ihraç etmektedir.Tamamı yerli sermayeli olan Sultanlar Holding, gıda, bebek maması, temizlik, kozmetik, dağıtım, makine, inşaat, plastik, led aydınlatma gibi alanlarda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stahl",
+    "description": "Stahl, 1876 yılında kurulan R. Stahl AG bünyesinde üretilen patlayıcı gaz ve tozların bulunduğu ortamlar için elektrik malzemeleri markasıdır.Otomasyon devreleri, elektrik tesisatı ve aydınlatma için kendinden emniyetlidir.R. Stahl AG Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2023-10-17"
+  }
+]

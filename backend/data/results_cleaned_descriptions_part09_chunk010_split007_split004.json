@@ -1,0 +1,63 @@
+[
+  {
+    "company": "Spident Dolgu",
+    "description": "“Spident“1997 yılında kurulan Spident Co. Ltd. bünyesinde üretilen geçici dolgu malzemeleri, restoratif malzemeler, endodontik malzemeler, baskı malzemeleri gibi çeşitli diş malzemeleri markasıdır.CE, ISO 9001, ISO 13485Spident Co. Ltd. Güney Kore merkezlidir ve ürünlerini 80’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Organik Gurmem",
+    "description": "“Organik Gurmem OG“2015 yılında kurulmuş olan Ecoloni Gıda ve Ekolojik Ürünler San. ve Tic. A.Ş. bünyesindeki bakliyat, kahvaltılık, un, soslar markasıdır.Ürünleri katkı maddesi ve GDO içermez.Firma Sakarya merkezlidir. Manisa’da fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Paky",
+    "description": "“Paky“2001 yılında kurulan Sebat Kimya San. İç ve Dış Tic. A.Ş. bünyesinde üretilen temizlik ürünleri markasıdır.Ürünleri solvent içermez.ISO 9001, ISO 14001, ISO 22716 ve OHSAS 18001 belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Xupai",
+    "description": "“Xupai“1995 yılında kurulmuş olan Xupai Power Co. Ltd. bünyesinde üretilen akü, kurşun asit akü, 12v akü, elektrikli bisiklet aküsü, güç pilleri, lityum pil, şarjlı piller ve UPS pilleri markasıdır.ISO 9001, ISO 14001, UL ve CE belgelerine sahiptir.Xupai Power Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Nicefeel",
+    "description": "“Nicefeel“2012 yılında kurulmuş olan Fly Cat Electrical Co. Ltd. bünyesinde üretilen ağız sulandırıcı, diş duşu ağız bakım ürünleri, burun sulandırıcı, kişisel bakım ürünleri markasıdır.ISO 9001, ISO 13485 belgelerine sahiptir.Fly Cat Electrical Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve bir çok ülkeye pazarlanmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

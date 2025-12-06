@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Şen Piliç",
+    "description": "Şenpiliç, 1978 yılında Haşim Gürdamar ve 5 arkadaşı tarafından kurulan Şenpiliç Gıda San. A.Ş. bünyesinde üretilen piliç eti markasıdır.ISO 9001, ISO 14001, FSSC 22000, ISO 45001 ve TSE Helal belgelerine sahiptir.Kesimhanelerinin tümü Helal belgesine sahiptir ve piliçler İslami usullere uygun olarak kesilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-07-26"
+  },
+  {
+    "company": "Oxy-Guard",
+    "description": "Oxy-Guard, 1987 yılında Clariant bünyesinde kurulan, paket gıdaların tazeliği için kullanılan oksijen emici markasıdır.Oksijen Emiciler, paketlenmiş gıdaların raf ömrünün uzatılmasına yardımcı oluyor.Clariant, 1886 yılında İsviçre’de kurulan kimya şirketi Sandoz’dan ayrılarak 1995 yılında faaliyetlerine başladı.Clariant 53 ülkede 110 şirketle faaliyet gösteriyor.Clariant, 1995 yılından beri Türkiye pazarında ve Kocaeli, Balıkesir, Gaziantep, Ordu’da 4 üretim tesisine sahip.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Luttoon",
+    "description": "Luttoon, 1996 yılında kurulan Emre Ayakkabıcılık İnşaat Tekstil Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen deri ayakkabı, mes, bot, çizme, postal, terlik markasıdır.Kendi üretim tesislerinde Termo, PVC ve Poliüretan spor ayakkabılar üretilmektedir. Sultangazi’de 2 bin metrekare kapalı alana sahip modern tesislerde üretim yapılmaktadır.Luttoon yüzde 100 Türk malıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lipton Ice Tea",
+    "description": "Lipton Ice Tea, 1993 yılında piyasaya sürülen soğuk çay markasıdır.Ürün yelpazesinde, limon, şeftali, mango, yeşil çay, limon light, şeftali light, çilek ve kavun, şeftali ve kayısı, portakal ve greyfurt, siyah çay ve bergamot gibi tatlar yer almaktadır.Lipton Ice Tea, Amerika merkezli Pepsico Inc. ile İngiltere merkezli Unilever PLC. ortaklığına aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-03-23"
+  },
+  {
+    "company": "Sorel",
+    "description": "Sorel, 1962 yılında kurulan keçi, yün, deri malzemelerden üretilen ayakkabı ve terlik markasıdır.Paul Lamfrom tarafından kurulan Columbia Sportswear Company bünyesindedir.Columbia Sportswear Company Amerikan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

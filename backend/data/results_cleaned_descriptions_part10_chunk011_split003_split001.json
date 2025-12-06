@@ -1,0 +1,46 @@
+[
+  {
+    "company": "SU-POR",
+    "description": "",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "QuadraNet",
+    "description": "2001 yılında kurulmuş olan QuadraNet Enterprises LLC. bünyesindeki altyapı hizmetleri markasıdır.Karmaşık ağ tasarımı, güvenlik, DDOS koruması, bulut barındırma yönetilen bir altyapı hizmetleri sağlayıcısıdır.QuadraNet Enterprises LLC. Amerika merkezlidir. Amerika’da 10 veri merkezine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Truphatek",
+    "description": "1978 yılında kurulmuş olan Truphatek International Ltd. bünyesindeki acil tıbbi cihazlar, anestezik ekipmanları, cerrahi aletler markasıdır.Truphatek International Ltd. İsrail merkezlidir ve ürünlerini İsrail’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Ultravak",
+    "description": "2022 yılında kurulmuş olan Almo Teknoloji Mak. Müh. San. ve Tic. Ltd. Şti. bünyesinde üretilen paketleme makineleri,Firma Sakarya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aymet",
+    "description": "1980 yılında kurulmuş olan Aymet Makina ve Reziztans San. ve Tic. Ltd. Şti. bünyesindeki rezistans makineleri ve çeşitli rezistans ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

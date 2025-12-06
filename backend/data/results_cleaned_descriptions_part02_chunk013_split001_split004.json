@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Novo Nordisk",
+    "description": "Novo Nordisk, 1923 yılında Hans Christian Hagedorn, August Krogh, Marie Krogh, August Kongsted tarafından kurulan Novo Nordisk A/S bünyesindeki diyabet tedavisi, obezite, hemofili tedavisi, büyüme hormonu tedavisi ve hormon replasman tedavisi ürünleri markasıdır.Novo Nordisk, Danimarka merkezli 80 ülkede faaliyet gösteren, 8 ülkede üretim tesisleri bulunan, 170’ten fazla ülkede ürünleri pazarlanan bir sağlık firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Karakuş Oyuncak",
+    "description": "Karakuş, 2000 yılında kurulan Kartoy – Karakuş Oyuncak Pazarlama Gıda ve San. Tic. Ltd. Şti. bünyesindeki oyuncak ürünlerin markasıdır.Ürünlerinin bir kısmı ithal bir kısmı ise Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Orvital",
+    "description": "Orvital, 2009 yılında kurulan Orvital Organik Gıda Ürünleri ve Danışmanlık San. Tic. Ltd. Şti. bünyesindeki organik et ve tavuk markasıdır.Tüm Orvital ürünleri, uluslararası sertifikasyon kuruluşu Ecocert ve Gimdes Helal ve Tayyib belgelerine sahiptir.Kırmızı et, Tavuk Eti, Yumurta, Süt, Şarküteri, Köfte, Bakliyat, Makarna, Et Suyu, Yumurta Tozu gibi ürünlere sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İstiklal Yolu",
+    "description": "İstiklal Yolu, 1964 yılında kurulan TOKALI GIDA San. Tic. Ltd. Şti. bünyesinde üretilen siyez unu markasıdır.Yaklaşık 10 bin yıl önce yetiştirilmeye başlanmış olan bu nadide tahıl, günümüz buğdaylarının atasıdır. Siyez yapısıyla genetik olarak en basit buğday çeşididir.Genetiği bozulmamıştır ve Glisemik İndeks değeri düşüktür. Folik asit, B1, B2, B6, B12 vitamini içerir.Yüksek miktarda mineral ve selüloz sayesinde kabızlığı engeller ve bağırsak kanserini önler. Kolestrol içermez.Az miktarda Gluten içerir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wefood",
+    "description": "Wefood, 2013 yılında Onur Kuş tarafından kurulan Doğavera Gıda ve Tic. Ltd. Şti. bünyesindeki süper tahıllar, glütensiz unlar, süper tozlar, ham, çiğ ve vegan besinler, organik gıda takviyeleri ve detoks gibi ürünlerin markasıdır.Ürünleri, yüzde 100 katkısız, koruyucusuz ve GDO’suzdur.Ürün ambalajlarının üzerinde ürünü hangi ülkeden, hangi tarladan tedarik edildiği ve ilgili yetki ve uzmanlık sertifikalarını paylaşmaktadır. Tüm ürünleri menşei ülkesinden sezonunda hasat edilip, tüm sertifikasyonları tamamlanarak satışa çıkarılır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

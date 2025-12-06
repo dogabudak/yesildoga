@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Wenyi",
+    "description": "Wenyi, 2009 yılında kurulan Shantou Chenghai Wenyi Toys Co. bünyesinde üretilen plastik oyuncak markasıdır.Ürünleri arasında sürtünme Araba, RC Araba, Oyuncak Benzin İstasyonu, Maske, Otopark Garaj Oyuncak, Sürtünme Güç, Şehir Sanitasyon Serisi, Mühendislik Serisi, F1 Serisi, Radyo Kontrol, Oyuncak Seti, Motor Şehir Arabası Park Serisi, Titrek Kulesi Oyun Serisi, Tekerlek Parça Araba İstasyonu, Çizgi Dizi Kahraman Serisi gibi ürünler yer almaktadır.Shantou Chenghai Wenyi Toys Co. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Vivienne Westwood",
+    "description": "Vivienne Westwood, 1971 yılında kurulan Vivienne Westwood Ltd. bünyesindeki lüks ürünler ve mücevherat markasıdır.Giyim, deri ürünler, mücevherler ve bir dizi diğer aksesuar, koku ve ev eşyaları üretmektedir.Vivienne Westwood Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Dewelli",
+    "description": "Dewelli, 1983 yılında kurulan Çağrı Makina San. Tic. Ltd. Şti. bünyesinde üretilen tekstil makinesi, programlanabilir bilgisayar kontrollü veya el ile kumanda edilebilen denim ve parça boyama, ağartma makinesi, yıkama makinesi, otomatik çamaşır yıkama makinesi, taş yıkama makinesi, kurutma makinesi, sıkma makinesi ve ütü makinesi markasıdır.ISO 9001, CE, HYB ve TSE belgelerine sahiptir. Türkiye dışında, 5 kıtada 25 ülkede hizmet vermektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bonny Silver",
+    "description": "Bonny Silver, 2010 yılında Bs Sağlık ve Tekstil Ürünleri Ltd. Şti. bünyesinde üretilen modal, pamuk ve bambu ipliklerinden üretilen çorap markasıdır.Saf gümüş ipliğinden tekstil ürünleri üretmektedir. Gümüş iplik, ısı iletkenliği sayesinde vücuttan çıkan ısı enerjisini yüzde 95 oranında yansıtarak, ayağın ısı dengesini korumasına yarımcı olmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Cancan",
+    "description": "Cancan, 1960 yılında Salih Özüuğurlu tarafından kurulan Cancan Meyve Presleri San. ve Tic. Ltd. Şti. bünyesinde üretilen meyve presleri, otomatik portakal sıkma makineleri, otomatik nar sıkma makineleri, ananas soyma makineleri, ön yıkama duşları, geri toplamalı ön yıkama duşları, kazan yıkama makineleri, konserve açacakları, patates dilimleme makineleri, konserve açacağı, elektrikli konserve açacağı markasıdır.Ürünlerini Sakarya’da bulunan 3 bin 200 metrekarelik üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

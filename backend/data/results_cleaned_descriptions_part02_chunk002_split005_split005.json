@@ -1,0 +1,48 @@
+[
+  {
+    "company": "DataStation",
+    "description": "DataStation, 2004 yılında kurulan TrekStor GmbH & Co. KG bünyesindeki mikrodisk markasıdır.DataStation markasını bünyesinde barındıran TrekStor GmbH şirketini 2009 yılında Hong Kong merkezli Telefield International Holdings Limited satın aldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Şıpsevdi Sakız",
+    "description": "Şıpsevdi, 2012 yılında adını Mondelez International olarak değiştiren çok uluslu atıştırmalık yiyecek üreticisi bünyesindeki sakız markasıdır.Dünyanın yaklaşık 180 ülkesinde kendi ürünlerini üretip satan Amerika merkezli Mondelez firmasının Avrupa iş birimi, sakız ve şeker kategorilerinde lider olan birçok markanın da üretimini gerçekleştiriyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hawk",
+    "description": "Hawk, 1986 yılında kurulan Merve Optik San. ve Tic. A.Ş. bünyesindeki gözlük markasıdır.Üretimini İtalya, Güney Kore ve Fransa’da gerçekleştirmektedir.2015 yılında Essilor International S.A., Merve Optik San. ve Tic. A.Ş.’nin yüzde 65 hissesini satın aldı.2017 yılında Fransa menşeli Essilor International S.A., İtalya menşeli Luxottica Group PIVA ile birleşerek EssilorLuxottica SA’yı oluşturdu. EssilorLuxottica SA’nın çoğunluk hisseleri Lüksemburg merkezli Delfin S.a r.l.’ye aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": "2021-11-22"
+  },
+  {
+    "company": "Exsus",
+    "description": "Exsus, 1998 yılında kurulan Kozmetik Dünyası Kozmetik Ürünleri San. ve Tic. A. Ş. bünyesindeki parfüm ve kişisel bakım ürünleri markasıdır.Exsus Parfümleri, gelişmiş ülkelerin ve AB’nin kompozisyon uçanyağı imalinde uyguladığı International Fragrance Association adlı kuruluşun tavsiyelerine uygun hammaddeler ve limitlerde üretilmiştir.Kullandığı tüm hammeddeler tamamen doğal çiçek ve baharat özlerinden yapılmıştır. Ürünlerinde hiçbir şekilde sentetik hammaddeler bulunmamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Corexyl Diş Macunu",
+    "description": "Corexyl, 2005 yılında kurulan SPC Kozmetik Yazılım San. ve Tic. Ltd. Şti. bünyesindeki diş macunu markasıdır.SPC Kozmetik, 1980 yılında kimyasal hammadde ticareti için Ahmet ÇELEBİ tarafından Ahsan Kimya adıyla kuruldu.İstanbul Beykoz Zerzevatçı Köyündeki bin 200 metrekarelik kapalı alanda üretimine devam etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

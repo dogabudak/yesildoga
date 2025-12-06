@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Stella Mccartney",
+    "description": "2001 yılında kurulmuş olan Stella Mccartney Ltd. bünyesindeki moda, hazır giyim, ayakkabı, çanta, koku, gözlük ve aksesuarlar markasıdır.Stella Mccartney Ltd. İngiltere merkezlidir. Ürünleri 70’ten fazla ülkede mağazalar yoluyla satılmaktadır ve çevrimiçi olarak 100 ülkeye gönderim yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Stella Mccartney",
+    "description": "1942 yılında temeli atılan Agco Corporation bünyesindeki dizel motor, dizel jeneratör, dizel pompa, avrupa ve arazi motorları, güç jeneratörleri ve pompaları, dişli ve şanzıman bileşenleri markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Agco Corporation Amerika merkezlidir. Finlandiya, Brezilya, Çin ve Arjantin’de fabrikalara sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "TC Electronic",
+    "description": "1976 yılında kurulmuş olan gitar ve kayıt ürünleri, bas amplifikasyonu, bilgisayar ses arayüzleri, ses eklenti yazılımı, canlı ses ekolayzırları, stüdyo ve post prodüksiyon ekipmanları, stüdyo efekt işlemcileri markasıdır.2015 yılında BAE merkezli Music Tribe HQ FZE tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Kremi",
+    "description": "2023 yılında kurulmuş olan Kremi Kozmetik A.Ş. bünyesinde üretilen cilt bakım seti, dudak bakımı, dudak kremi ve peelingi, tonik, vücut kremleri, yüz güneş kremi, yüz kremi, yüz temizleyicileri markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ekomak",
+    "description": "1992 yılında kurulmuş olan Ekomak Endüstriyel Kompresör ve Makina San. Tic. A.Ş. bünyesinde üretilen hava ve nitrojen boosterları, kurutucu ve filtreler, pistonlu kompresörler, vidalı kompresörler, yağsız kompresörler markasıdır.ISO 9001, ISO 14001, ISO 45001, CE, ISO 3834, ISO 1217, EAC, UKR Sepro ve Marine belgelerine sahiptir.Şirket İsveç merkezli Atlas Copco AB bünyesindedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 1217",
+      "ISO 14001",
+      "ISO 3834",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

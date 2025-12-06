@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Roccat",
+    "description": "Roccat, 1975 yılında Robert Hoke ve Roy Smith tarafından kurulan Turtle Beach Corporation bünyesindeki klavye, fare, kulaklık, mousepad, aksesuarlar markasıdır.Turtle Beach’in yolculuğu Octave Electronics adında analog müzik synthesizerları, bilgisayar ses kartları vb müzik ve sesle ilgili ürünler üreten küçük bir şirket olarak başladı.Turtle Beach Corporation Amerika merkezlidir.Bünyesindeki markalar:Turtle BeachRoccat",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Oruçoğlu Yağları",
+    "description": "Sahibi KimOruçoğlu Yağları, 1968 yılında Oruçoğlu Ailesi tarafından kurulan Oruçoğlu Yağ Sanayi ve Ticaret A.Ş. bünyesindeki ayçiçek yağı, mısır yağı, kanola yağı, omega 3 yağı, omega 3 yağı, susam yağı, fındık yağı, asit yağ, yağlı perlit, yağsız küspe markasıdır.2016 yılında Hakan Bahçeci’nin sahibi olduğu Birleşik Arap Emirlikleri merkezli Hakan Agro Group tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Agent Provocateur",
+    "description": "Agent Provocateur, 1994 yılında Joe Corre ve Serena Rees tarafından kurulan Agent Provocateur ltd. bünyesindeki moda, tasarım, iç çamaşırı, gecelik, mayo, sutyen, çorap, külot, giyim, aksesuarlar markasıdır.Şirketin 13 ülkede mağazaları bulunmaktadır.Agent Provocateur ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Channellock",
+    "description": "Channellock, 1886 yılında George B. DeArment tarafından kurulan Channellock Inc. bünyesindeki el aletleri markasıdır.Çeşitli el aletleri üretiminde dünya lideri olan Channellock, Inc. DeArment ailesinin beşinci nesli tarafından işletilmektedir.Channellock Inc. Amerika merkezlidir ve ürünleri 45 ülkeye ihraç edilir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ceta Form",
+    "description": "Ceta Form, 1975 yılında kurulan Ceta Form El Aletleri San. ve Tic. A.Ş. bünyesinde üretilen el aletleri markasıdır.İstanbul’da bulunan fabrikasında el aletleri ve servis ekipmanları geliştirir ve üretiriz. Ürün yelpazesi yaklaşık 4 bin kalemdir. Yaklaşık 45 ülkede dağıtıcısı ve İngiltere’de kendine ait satış ofisi bulunmaktadır.ISO 9001:2015_TURKAK, ISO 9001:2008_DAkkS, VDE – ECS/CIG, VDE EN60900-2012, VDE EN60900-2012, TS ISO 5743, TS ISO 2380-1, TS 59-5 ISO 8764-1 belgelerine sahiptir.Özellikle Avrupa’da, firmalara fason üretim yapmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 2380",
+      "ISO 5743",
+      "ISO 8764",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "ATEN International",
+    "description": "ATEN International, 1979 yılında Shang-Chung Chen tarafından kurulan ATEN International Co., Ltd. bünyesinde üretilen KVM anahtarları, görsel-işitsel anahtarlar ve matrisler, akıllı güç dağıtım üniteleri, bilgi teknolojisi yönetim sistemleri ve arayüz adaptörleri markasıdır.ATEN International Co., Ltd. Tayvan merkezli çok uluslu bağlantı ve erişim yönetimi donanımı üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "MyPhone",
+    "description": "MyPhone, 1993 yılında kurulan Solid Digital Group’a ait MySolid Technologies and Devices Corporation bünyesindeki akıllı telefon ve tablet markasıdır.MyPhone markalı ürünler Çin’de üretilmektedir.Solid Digital Group Filipinler merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PH",
+    "updated_date": null
+  },
+  {
+    "company": "Cherry Mobile",
+    "description": "Cherry Mobile, 2009 yılında Maynard Ngu tarafından kurulan Cosmic Technologies bünyesindeki cep telefonu ve elektronik markasıdır.Ürünleri Çin’de üretilmektedir.Cosmic Technologies Filipinler merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PH",
+    "updated_date": null
+  },
+  {
+    "company": "Idapt",
+    "description": "Idapt, 2006 yılında kurulan Inoitulos Sl bünyesindeki cep telefonu aksesuarları, hoparlörler, kılıflar, şarj cihazları markasıdır.Inoitulos Sl. İspanya merkezlidir. Şirketin ABD ve Hong Kong’da şubeleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Vsun",
+    "description": "Vsun, 2011 yılında Zhang Xueying tarafından kurulan Shenzhen Vsun Communication Technology Co. Ltd tarafından üretilen akıllı telefon markasıdır.Shenzhen Vsun Communication Technology Co. Ltd Çin merkezlidir ve ürünlerini Çin’de birden fazla bulunan tesislerinde üretmektedir.Suudi Arabistan, Bahreyn, Katar, Kuveyt, Umman, Mısır, Türkiye, Afganistan, Ürdün, Kenya, Nijerya gibi ülkelere ürünlerini ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

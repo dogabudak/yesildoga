@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Pagoda",
+    "description": "1995 yılında kurulmuş olan The P. L. Luba Co. bünyesindeki mücevher markasıdır.The P. L. Luba Co. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hot Beauty",
+    "description": "2011 yılında kurulmuş olan Guangzhou Hot Beauty Hair Products Co. Ltd. bünyesinde üretilen saç pensesi, peruklar, saç ürünleri markasıdır.ISO 9001, OHSAS 18001 belgelerine sahiptir.Guangzhou Hot Beauty Hair Products Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Aeonmed",
+    "description": "2000 yılında kurulmuş olan Beijing Aeonmed Co. Ltd. bünyesinde üretilen anestezi makinesi, ameliyat masası, ameliyat lambaları, hasta monitörü, tıbbi tavan askısı, tedarik kirişi, bölgesel gaz tedarik sistemi, acil ve yoğun bakım ünitesi markasıdır.Beijing Aeonmed Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Arielli",
+    "description": "1995 yılında kurulmuş olan Magnum D Ltd. bünyesindeki buzdolabı ve derin dondurucu, bulaşık makinesi, klima, televizyon, fırın, mikrodalga fırın, elektrikli süpürge, çamaşır makineleri ve kurutucular, yemek pişirme, ev aletleri, kahve makineleri markasıdır.Magnum D Ltd. Bulgaristan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Endorfy",
+    "description": "2022 yılında kurulmuş olan Cooling Sp. z o.o. bünyesindeki atx güç kaynakları, atx kasalar, ekran askıları, fanlar, fare altlıkları, fareler, hava soğutma, klavye aksesuarları, klavye, kulaklık, masalar, mikrofon, oyun koltuğu, psu aksesuarları , sıvı soğutma, ses aksesuarları, soğutma aksesuarları, zemin pedleri markasıdır.Cooling Sp. z o.o. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  }
+]

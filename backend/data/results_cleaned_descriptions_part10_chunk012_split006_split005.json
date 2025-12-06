@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Coteks",
+    "description": "2023 yılında kurulmuş olan Story Kimya Temizlik Ürünleri Tic. Ltd. Şti. bünyesinde üretilen deterjan temizlik ürünleri markasıdır.Firma Gaziantep merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yongheng",
+    "description": "1993 yılında kurulmuş olan Yohe Group Co. Ltd. bünyesinde üretilen ölçü bantları, metreler markasıdır.Yohe Group Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 50’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Baby life",
+    "description": "1994 yılında kurulmuş olan Aykim Sanayi Kimyasalları San. ve Tic. A.Ş. bünyesinde üretilen kağıt ürünleri, ıslak mendiller markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Argan Premium",
+    "description": "1995 yılında kurulmuş olan Beliso Sp. z o.o. bünyesinde üretilen saç ve vücut kozmetikleri markasıdır.Argan yağı içeren Argan Premium, saç ve vücut için bir dizi güçlendirici ve nemlendirici kozmetiktir.Beliso Sp. z o.o. Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Onyfix",
+    "description": "1998 yılında kurulmuş olan Neubourg Skin Care Gmbh bünyesindeki tırnak düzeltme sistemi markasıdır.Yumuşak ve sert iki şekillendirici tokasıyla tırnak düzeltme sistemi, neredeyse tüm kıvrık ve batık ayak tırnaklarının tamamen ağrısız tedavisi için kullanılan bir üründür.Neubourg Skin Care Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

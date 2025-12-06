@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Aimtech",
+    "description": "Aimtech, 2013 yılında kurulan Aimtech Elektronik Tasarım Üretim San. Tic. Ltd. Şti. bünyesinde üretilen cephe tipi led ekran sistemleri, dekoratif aydınlatma armatürleri ve dmx512 tabanlı kontrol sistemleri markasıdır.ODTÜ Teknokent’te üretim yapmaktadır. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bontrager",
+    "description": "Bontrager, 1980 yılında Keith Bontrager tarafından kurulan bisiklet aksesuarları ve giysileri markasıdır.Formalar, şortlar, ceketler, yol bisikleti ayakkabıları, MTB ayakkabıları, kasklar ve eldiven, çorap ve koruyucu başlık gibi aksesuarlar üretmektedir.Bontrager, 1995 yılında Amerika merkezli Trek Bicycle Corporation tarafından devralındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fiberli",
+    "description": "Fiberli, 1991 yılında kurulan Psl Elektronik San. ve Tic. A.Ş. bünyesineki ç ve dış mekân aydınlatma ürünleri markasıdır.Antalya merkezli firma ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ucb",
+    "description": "Ucb (Union Chimique Belge), 1928 yılında Emmanuel Janssen tarafından kurulan Ucb Biopharma Srl bünyesindeki biyofarmasötikler markasıdır.Ucb Biopharma Srl Belçika merkezlidir. Türkiye’de 1990 yılından beri UCB Pharma Türkiye olarak faaliyet gösterirken 40’tan fazla ülkede operasyonları vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Leonardo",
+    "description": "Leonardo, 1948 yılında kurulan Leonardo S.p.A. bünyesindeki helikopter, uçak, hava yapıları, elektronik, siber güvenlik ürünleri markasıdır.Leonardo S.p.A. İtalya merkezlidir. İtalya Ekonomi ve Maliye Bakanlığı yüzde 30,2 ile şirketin en büyük hissedarıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

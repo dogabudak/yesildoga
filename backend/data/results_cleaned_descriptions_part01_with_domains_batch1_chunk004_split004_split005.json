@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Merida",
+    "description": "Merida 1988 yılında Ike Tseng tarafından kuruldu. Almanya Ar-Ge Merkezinde geliştirilen tasarımlar Tayvan merkez fabrika ile paylaşılarak bisiklet üretimi sağlanır.Dünyanın en büyük bisiklet üreticisi olan Tayvanlı şirketin; Tayvan ve Almanya’da birer Çin’de 3 olmak üzere beş fabrikasında bisiklet üretim yapılmaktadır.Türkiye distribütörlüğü Aslı Bisiklet üstlenmektedir.Specialized markasının da yüzde 49 hisseleri Merida’ya aittir ve Specialized’ın karbon bisikletlerinin üretimini yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": "2018-08-06"
+  },
+  {
+    "company": "Maggi",
+    "description": "Maggi 1886 yılında Julius Maggi ilk kez hazır çorbayı üretti. Dünyanın en büyük hazır çorba ve sos üreticisi şirketlerinden biridir.İsviçreli Nestle tarafından 1947 yılında satın alınmıştır.Türkiye’nin ilk bulyon markası ETSU’yu 1989 yılında satın alan Nestle, Maggi’yi Türkiye piyasasına sokmuştur.Maggi 150’den fazla ülkede satış yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Mondial",
+    "description": "Mondial 2004 yılında Uğur Şirketler Grubu bünyesindeki Uğur Motorlu Araçlar A.Ş.’de oluşturulan bir Türk motosiklet markasıdır.Aydın’ın Nazilli şehrinde 44 bin 500 metrekare alanda kurulu fabrikasında yıllık 192 bin motosiklet üretebiliyor. Ayrıca 40 bin çeşit toplamda 8 milyon adet yedek parça stoğu bulunan deposu ile sektöründe lider konumdadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jacobs Kahve",
+    "description": "Jacobs, 1895 yılında kahve, çay, kakao, çikolata ve bisküvi satışı için Johann Jacobs tarafından mağaza olarak kuruldu. Resmi bir ticari marka olarak 1913 yılında kaydedildi ve Türkiye pazarına 1995 yılında girdi.Jacobs, 2019 yılında Peet’s Coffee ve Jacobs Douwe Egberts’in birleşmesiyle kurulan Hollanda merkezli JDE Peet’s NV bünyesindedir.JDE Peet’s NV’nin yüzde 60,5 hissesi Reimann ailesinin kontrolündeki Lüksemburg merkezli JAB Holding Company S.à r.l. bünyesindeki Acorn Holdings’e ait olup, yüzde 22,9 hissesi Amerika merkezli Mondelez International Inc.’e aittir.Amerika merkezli Jacobs Engineering Group Inc. ile bir alakası yoktur. Markaları ayırt etmek için logoya dikkat edilmelidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2021-09-19"
+  },
+  {
+    "company": "Barum Lastik Ne",
+    "description": "Barum, 1948 yılında üç lastik şirketinin birleşmesiyle kurulan Barum s.r.o. bünyesinde üretilen araç lastiği markasıdır.1993 yılında Continental Grubu tarafından satın alınarak, Continental Barum s.r.o. adıyla faaliyet göstermeye başladı.Continental Grup Almanya merkezlidir. ISO 9001, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-11-03"
+  }
+]

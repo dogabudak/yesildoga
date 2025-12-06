@@ -1,0 +1,49 @@
+[
+  {
+    "company": "İpara",
+    "description": "2012 yılında kurulan Aypara Ödeme Kuruluşu A.Ş. bünyesindeki ödeme kuruluşu markasıdır.Firma İstanbul merkezlidir.2025 yılında TCMB kararı ile tüm faaliyet izinleri durdurulmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-03-27"
+  },
+  {
+    "company": "Shimano",
+    "description": "Shimano, 1921 yılında kurulan Shimano, Inc. bünyesindeki Bisiklet bileşenleri, Olta takımı ve Kürek ekipmanları markasıdır.Shimano ana üretim tesisleri Çin, Malezya ve Singapur’da bulunmaktadır.Shimano, Inc. Japonya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Mamsel",
+    "description": "Mamsel, 1991 yılında Dr. Hacı Ahmet Keleşoğlu’nun kurduğu Selçuk Ecza Holding’in bir yan firması olarak kurulan Mamsel İlaç A.Ş. bünyesindeki Probiyotik, Tıbbi Çaylar, Burun Damlası, Kozmetik ve Biyosidal Ürünler markasıdır.Mamsel 2015 yılında faaliyete başlayan üretim tesisinde ISO 22716, ISO 13485 ve Sağlık Bakanlığı GMP gerekliliklerine uygun olarak Biyosidal, Kozmetik ve ilaç üretimi yapmaktadır.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aramark",
+    "description": "Aramark, 1936 yılında Davre Davidson tarafından kurulan Aramark Corporation bünyesindeki hizmet sağlayıcısıdır.Aramark, 20 ülkede faaliyet göstermektedir.Aramark Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Durum Gıda",
+    "description": "Durum Gıda, Arbel Grubu bünyesinde kurulmuştur. Türkiye’de makarna ve irmik sektörü üreticilerinden olan şirket, Mersin’de faaliyet gösteren tesislerinde üretim gerçekleştirmektedir.Arbel Grubu Kanada merkezli AGT Food and Ingredients Inc.’e aittir.2007 yılında kurulan AGT Food and Ingredients Inc., Kanada, Amerika, Türkiye ve Avustralya’da tesislerinin bulunduğu bölgelerdeki üreticilerden bakliyat ve özellikli diğer ürünleri satın alıp işleyerek 85 ülkeye satışını yapmaktadır.AGT Food and Ingredients Inc. tesislerinde; kırılmış kırmızı mercimek, futbol tipi tümtane kırmızı mercimek, yeşil mercimek, nohut, bezelye, fasulye ve kuş yemi gibi özel nitelikli ürünler işlenerek tüketime hazırlanmaktadır. AGT Food and Ingredients Inc. işletmeleri Kanada’da ana marka Saskcan Pulse Trading’de dahil olmak üzere Batı Kanada Bölgesinde yer almaktadır.Mersin’de 100 dönüm arazi üzerine kurulu tesislerde kırmızı, yeşil mercimek, nohut, fasulye, bulgur üretimi ile bakliyat temizleme, kabuktan ayırma, eleme, kırma, elektronik renk ayırımı ve boylama işlemleri yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

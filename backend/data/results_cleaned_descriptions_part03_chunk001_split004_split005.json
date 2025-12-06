@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Qnet",
+    "description": "Qnet, 1998 yılında Vijay Eswaran tarafından kurulan Qnet Ltd, bünyesindeki çok düzeyli pazarlama (MLM) markasıdır.Şirketin ürünleri enerji dahil, kilo yönetimi, beslenme, kişisel bakım, evde bakım ve moda aksesuarları e-ticaret platformu.Hong Kong merkezli bir şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Qlx",
+    "description": "Qlx, 1925 yılında Sidney N. Shure tarafından kurulan Shure Incorporated bünyesindeki profesyonel ses elektroniği ürünleri markasıdır.Mikrofon, kulaklık, kablosuz sistemler, radyo mikrofon sistemleri, konferanslar için ses ekipmanları, karıştırma konsolları, dijital ses işleme araçları tüketici ve profesyonel ses aksesuarları üretmektedir.Shure Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kaff Grup",
+    "description": "Kaff Grup, 2016 yılında kurulan Kaff Grup Bilgi Teknolojileri A.Ş. bünyesinde bilgi teknolojileri, fotokopi ve yazıcı, kamera ve geçiş kontrol, videowall, projeksiyon sistemleri, etiket yazıcılar, sarf malzeme ve teknik servis hizmetleri sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tom ve Jerry Çizgi Filmi",
+    "description": "Tom ve Jerry; Amerikalı animatör, yönetmen, yapımcı, ses aktörü, karikatür sanatçısı William Hanna ve Amerikalı çizgi film yapımcısı, animatör, senarist Joseph Barbera tarafından 1940 yılında oluşturulan animasyon serilerinin adıdır. Sonraki yıllarda çekilen çizgi filmlerin yazarları değişmiştir.Ev kedisi Tom ile ev faresi Jerry arasında geçen şiddetli ve komik mücadeleleri anlatır.Tom ve Jerry’nin hakları Amerika merkezli Warner Bros. International, Enterprises. şirketine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kimbo",
+    "description": "Kimbo Espresso Italiano, 1963 yılında Francesco, Gerardo ve Elio Rubino tarafından kurulan Kimbo S.p.A. bünyesindeki kahve içeceği markasıdır.Firma kurulduğunda Cafe do Brasil ismini, kahvelerin ekildiği egzotik bölgeleri andıran yer adlarından alarak değiştirdi.Kimbo S.p.A İtalya merkezlidir. Ürünlerini İtalya’da 40 bin metrekarelik fabrikasında üretmektedir.Şirketin dört markası var:KimboKoseCaffè KaralisLa Tazza d’oro",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

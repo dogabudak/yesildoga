@@ -1,0 +1,61 @@
+[
+  {
+    "company": "Damga Bakliyat",
+    "description": "1981 yılında kurulmuş olan Örsoğlu Tur. Tic. ve San. Ltd. Şti. bünyesinde üretilen bakliyat ve küp şeker markasıdır.ISO 9001, HACCP belgelerine sahiptir.Firma Antalya merkezlidir.",
+    "documents": [
+      "CE",
+      "HACCP",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Melissa & Doug",
+    "description": "Melissa & Doug1988 yılında kurulmuş olan Melissa & Doug LLC bünyesinde üretilen çocuk oyuncakları, ahşap yapbozlar, el sanatları ürünleri, peluş oyuncaklar ve diğer eğitici oyuncaklar markasıdır.Melissa & Doug LLC 2017 yılında Amerika merkezli AEA Investors LP tarafından satın alınmıştır. Ürünlerini ABD, Çin ve Hindistan’da bulunan fabrikalarında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Atlantik Halı",
+    "description": "1987 yılında kurulmuş olan Atlantik İplik ve Halı San. Tic. A.Ş. bünyesinde üretilen halı markasıdır.ISO 9001 belgesine sahiptir.Firma Gaziantep merkezlidir. Ürünlerini 45 bin metrekarelik kapalı ve 5 bin metrekarelik açık alana sahip tesisinde üretmektedir ve 50 ülkeye ihraç etmektedir.Bünyesindeki markalar;Amella CarpetAtlanta CarpetsAtlantikAtlantikzeroAtlantisDanteDespada CarpetDespada HomeIstanbul Yolu Halı EviIstanbul Yolu Halı PazarıMahlasQuinShopatlantikShopatlantikhaliTitanic RugTufty TrendyÜsküpZerosense",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rodus",
+    "description": "1995 yılında kurulmuş olan Tipkimsan Tıbbi ve Kimyasal Ürünler San. ve Tic. Ltd. Şti. bünyesindeki medikal ürünler, cerrahi aletler markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;RodusTıpKimSan",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kataljin",
+    "description": "1948 yılında kurulmuş olan Şanlı İlaç San. A.Ş. bünyesinde üretilen buharlaşan merhem markasıdır.Mentol, kafur, ökaliptol, küçük Hindistan cevizi yağı, sedir ağacı yaprağı yağı, terebentin yağı ve timol içermektedir.ISO 9001, ISO 13485, GMP belgelerine sahiptir.Firma Izmir merkezlidir. Ürünlerini İzmir’de bulunan tesisinde üretmektedir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

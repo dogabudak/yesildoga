@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Moliendo Finest Coffee",
+    "description": "Moliendo Finest Coffee, 2015 yılında kurulan Kahvesan Gıda San. ve Tic. A.Ş. bünyesinde üretilen yeşil çekirdek, kavrulmuş, çekirdek veya öğütülmüş kahve markasıdır.Moliendo Finest Coffee, Latin Amerika, Afrika ve Asya bölgelerinden seçilen kahve çekirdeklerinden 70 farklı yöresel çeşit olarak İstanbul’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Galaxy",
+    "description": "Galaxy, 1994 yılında kurulan Galaxy Microsystems Ltd. bünyesindeki ekran kartı, anakart, ssd, bellek, oyun aksesuarları markasıdır.Galaxy, piyasadaki en popüler OEM markalı grafik kart ürünlerinin perde arkası tasarımcısı ve üreticisi olarak ün yapmıştır.Galaxy Microsystems Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Gloway",
+    "description": "Gloway, 2002 yılında kurulan Gloway International (HK) Co, Limited bünyesinde üretilen bellek modülleri markasıdır.Ürünlerini Amerika ve Hong Kong başta olmak üzere pek çok ülkeye ihraç etmektedir.Bilgisayar bellek cihazları üreticisi Gloway International (HK) Co, Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "AiCare",
+    "description": "AiCare, 2016 yılında kurulan AiCare Corp. bünyesindeki giyilebilir sağlık ürünleri, dijital ürün tıbbi ürünler markasıdır.AiCare Corp. ürünleri Çin’de üretilmektedir.AiCare Corp. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wiss+",
+    "description": "Wiss+, 1997 yılında kurulan Netpa Tüketim Ürünleri Paz. ve Tic. Ltd. Şti. bünyesindeki güneş ve kozmetik ürünleri markasıdır.Netpa Tüketim, ürünlerinde en yüksek standartlara sahip hammaddeleri kullanmaktadır.ISO 13485 belgesine sahiptir. Ürünlerini 20’nin üzerinde ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

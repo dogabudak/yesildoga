@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Eyecryl",
+    "description": "1999 yılında kurulmuş olan Biotech Healthcare Holding Gmbh bünyesindeki katlanabilir göz içi lensi markasıdır.Biotech Healthcare Holding Gmbh İsviçre merkezlidir. Ürünlerini 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Atilla Çelebi Özgül",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Health Joy",
+    "description": "2001 yılında kurulmuş olan Changzhou Hengjie Medical Devices Co. Ltd. bünyesinde üretilen kırıklar için çeşitli iç sabitleme cihazları, implantlar steril olmayan kemik plakaları ve vidaları markasıdır.ISO 9001, ISO 13485, CE belgelerine sahiptir.Changzhou Hengjie Medical Devices Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Rockport",
+    "description": "1971 yılında piyasaya sürülen kadın ve erkek ayakkabıları markasıdır.ABG Rockport LLC altında üretim yapmaktadır.Marka 2023 yılında Amerika merkezli Authentic Brands Group LLC tarafından satın alınmıştır.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Baoer",
+    "description": "1988 yılında kurulmuş olan Shanghai Qiangu Stationery Co. Ltd. bünyesinde üretilen dolma kalem, tükenmez kalem, roller kalem, jel kalem, lüks kalemler, kalem kutusu markasıdır.Shanghai Qiangu Stationery Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

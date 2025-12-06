@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Bubbles and Butter",
+    "description": "Bubbles and Butter, 2017 yılında kurulan Bubbles and Butters Shoppe, LLC bünyesindeki el yapımı, küçük parti lüks cilt bakımı markasıdır.Ürünlerinde paraben, sülfat, GDO içermez, bitkilerden üretilir. Saf esansiyel ve aromatik yağlar kullanır.Bubbles and Butters Shoppe, LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kocaşaban Sucukları",
+    "description": "Kocaşaban Sucukları, 2015 yılında kurulan Hacı Mehmet Oğulları Et ve Et Ürünleri Gıda Tarım Hayv. San. Tic. Ltd. Şti. bünyesinde üretilen sucuk ve pastırma markasıdır.Çiftliği ve tesislerinde üretim yapmaktadır. Tesislerindeki tüm işlemler islami koşullara göre yapılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vanicream",
+    "description": "Vanicream, 1974 yılında Conrad Thompson ve Ed Mansfield tarafından kurulan Pharmaceutical Specialties, Inc. bünyesindeki cilt bakım ürünleri markasıdır.Cilt kremi, losyon, güneş kremleri, temizleme çubuğu, dudak koruyucu ve tıraş kremi; şeffaf şampuan, saç kremi, saç spreyleri, saç jeli ve sıvı temizleyici; vaniply merhem, vitec e vitamini losyonu ve robathol banyo yağı ürünlerine sahiptir.Ürünlerinde paraben, formaldehit gibi zararlı kimyasallar kullanılmamaktadır.Pharmaceutical Specialties, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Huntaş Un",
+    "description": "Huntaş Un, 1992 yılında kurulan Hayrabolu Un San. ve Tic. A.Ş. bünyesinde üretilen un markasıdır.Ürünlerini Tekirdağ’da bulunan 8 bin 167 metrekare açık alan, 5 bin 320 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Johnson Fulmine",
+    "description": "Johnson Fulmine, 1964 yılında Picozzi Mario ve Sozzi Angela tarafından kurulan Johnson Elettrodomestici Srl. bünyesindeki dolaplar, saç kurutma makinesi, mutfak ürünleri, saç bakımı ürünleri, kişisel bakım ürünleri, böcek kovucu ürünleri, aydınlatma, otel hattı, temizlik, ısıtma, ütüleme, havalandırma, scooters markasıdır.Johnson Elettrodomestici Srl. 30 ülkede faaliyet gösteren İtalya merkezli şirket ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

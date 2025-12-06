@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Outdo",
+    "description": "“Outdo“1997 yılında kurulmuş olan Zhangzhou Huawei Power Supply Technology Co. Ltd. bünyesinde üretilen akü markasıdır.Zhangzhou Huawei Power Supply Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Tesla Battery",
+    "description": "“Tesla Battery“2017 yılında kurulmuş olan Tesla Akü Alım Satım San. Tic. Ltd. Şti. bünyesindeki kuru tip akü, ups akü, solar jel akü, deep cycle jel akü, traksiyoner akü, marin jel akü markasıdır.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fruida",
+    "description": "1986 yılında kurulmuş olan Welcos Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Welcos Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": "2025-02-07"
+  },
+  {
+    "company": "Miskets",
+    "description": "“Miskets“2007 yılında kurulmuş olan Pakel Çikolata Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen çikolata, gofret, şekerleme, bisküvi, dondurularak kurutulmuş ürünler, leblebi markasıdır.ISO 22000, Helal ve BRC belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 10 bin metrekarelik alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sardıcı",
+    "description": "“Sardıcı“2020 yılında kurulmuş olan Sardıcı Su Armatürleri San. Tic. Ltd. Şti. bünyesindeki duş sistemleri, musluklar markasıdır.Mutfak, banyo ve lavabo için geniş bir batarya ürünleri sunmaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

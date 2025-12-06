@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Vredestein",
+    "description": "Vredestein, 1929 yılında kurulan Apollo Vredestein B.V. bünyesindeki otomobil lastikleri markasıdır.Ürünleri arasında; yaz lastikleri, kış lastikleri, dört mevsim lastikleri, premium stil, klasik, hafif kamyon lastikleri yer almaktadır.Apollo Vredestein B.V. 2009 yılında Hindistan merkezli Apollo Tyres Limited tarafından satın alındı. Şirket ürünlerini Hollanda’da üretmektedir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Lenston",
+    "description": "Lenston, 2008 yılında kurulan Lenston Rubber Technology Co. Ltd. bünyesinde üretilen lastik markasıdır.Lenston Rubber Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dürümle",
+    "description": "Dürümle, 2017 yılında kurulan Dürümle Gıda San. ve Tic. A.Ş. bünyesindeki restoran zinciridir.Merkezi ve üretim tesisiyle Ankara’da yer alan firma 15 şehirde 50’den fazla şube ile faaliyet göstermektedir.Dürümle 2021 yılında özel sermaye fonlarından Mediterra Capital ile ortaklık kurdu.2010 yılında Ahmet Faralyalı ve Murat Erkurt’un kurduğu Hollanda merkezli Mediterra Capital BV’nin yatırımcıları arasında Avrupa İmar ve Kalkınma Bankası, Alman Kalkınma Bankası, Hollanda Kalkınma Bankası, Dünya Bankası gibi kurumlar yer alıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Grenlander",
+    "description": "Grenlander, Zodo Tire Co. Ltd. bünyesinde üretilen otomobil, minibüs ve 4×4 araçlar için lastik markasıdır.Zodo Tire Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;FronwayGrenlanderIlinkSailwin",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Concordia Textiles",
+    "description": "Concordia Textiles, 1925 yılında kurulan Concordia Textiles NV bünyesindeki iş kıyafeti, moda ve tekstil ürünleri markasıdır.Tamamen dikey entegre bir tekstil üreticisi olarak, boyutlandırma ve çözgü ışınlamasından dokuma, boyama, baskı, terbiye, kaplama ve laminasyon kumaşlarına kadar tüm üretim akışını kontrol etmektedir.ISO 9001, ISO 14001 belgelerine sahiptir.Concordia Textiles NV Belçika merkezlidir. Ürünlerini Belçika, Çin ve Bangladeş’te üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

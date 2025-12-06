@@ -1,0 +1,45 @@
+[
+  {
+    "company": "FSD Audio",
+    "description": "2018 yılında kurulmuş olan Guangzhou Ftd Audio Electronics Limited bünyesinde üretilen subwoofer, hoparlörler, amplifikatör, mikrofon markasıdır.Guangzhou Ftd Audio Electronics Limited Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Akalp",
+    "description": "2012 yılında kurulmuş olan Akalp Süt ve Süt Ürünleri Tarım Hayvancılık Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen yoğurt, peynir çeşitleri, dondurma, yöresel ürünler, donuk ürünler markasıdır.Yem, keçi ve inek sütü üretmektedir. Ürünleri katkı koruyucu içermez.Firma Kahramanmaraş merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Apollo Power",
+    "description": "2014 yılında kurulmuş olan Apollo Power Ltd. bünyesinde üretilen fotovoltaik güneş sistemleri, kamyonlar, otobüsler için apollo şarj cihazı, güneş teneği, güneş kaldırımı, yüzen güneş markasıdır.Apollo Power Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Hugo Locks",
+    "description": "Ff Group Tool Industries s.a bünyesinde üretilen silindirler, kilitler, asma kilitler markasıdır.ISO 9001 belgesine sahiptir.Ff Group Tool Industries s.a Yunanistan menşelidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "GR",
+    "updated_date": null
+  },
+  {
+    "company": "Esprico",
+    "description": "1872 yılında kurulmuş olan Engelhard Arzneimittel Gmbh & Co. KG bünyesindeki omega3 besin takviyesi markasıdır.Engelhard Arzneimittel Gmbh & CO. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

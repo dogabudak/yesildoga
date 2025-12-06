@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Silverstone",
+    "description": "Silverstone, 2003 yılında SilverStone Technology Co., Ltd. bünyesinde kurulan bilgisayar ürünleri ve ev eğlence ürünleri markasıdır.SilverStone Technology Co., Ltd. Tayvan merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "High Power",
+    "description": "High Power, 1991 yılında kurulan High Power Electronic Co.,Ltd şirketi bünyesindeki; bilgisayar kasası güç kaynakları markasıdır.High Power Electronic Co.,Ltd Çin merkezli üretim yapan bir şirkettir. 2008 yılından beri Türkiye pazarında yer almaktadır. Türkiye’de model sayısı en çok olan güç kaynağı üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Seasonic",
+    "description": "Seasonic, 1975 yılında kurulan Sea Sonic Electronics Co., Ltd bünyesindeki bilgisayar güç kaynakları markasıdır.Sea Sonic Electronics Co., Ltd. şirketi Tayvan merkezlidir ve ürünlerini Çin’de üretmektedir. Ayrıca Amerika ve Hollanda’da iştirakleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Evomere",
+    "description": "Evomere, Natura House’ın laboratuvar ve üretim tesislerinde üretilen anne ve bebek doğal cilt bakımına yönelik ürünlerin markasıdır.Evomere, yüzde 100 doğal kökenli bileşenlerle fomüle edilmiştir.İtalyan firmanın Torino’daki üretim tesislerinden 60 ülkeye dağıtım kanalı bulunmaktadır. Türkiye’de Montero Gıda San. Tic. A. Ş. 2014 yılında Toksöz Grup bünyesinde faaliyet göstermeye başlamıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Klorane Bebe",
+    "description": "Klorane Bebe , 1967 yılında Pierre Fabre tarafından kurulan Pierre Fabre Laboratuvarları bünyesindeki; pişik bakım kremi, yatıştırıcı krem, vücut ve saç şampuanı, banyo jeli, temizleme mendili, masaj jeli, güneş koruyucu ürünler, bakım spreyi, temizleme losyonu markasıdır.Pierre Fabre Laboratuvarları Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2019-04-30"
+  }
+]

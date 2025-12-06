@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Teekanne",
+    "description": "Teekanne, 1882 yılında kurulmuş olan Teekanne Gmbh & Co. Kg bünyesindeki paketlenmiş çay karışımları, çay makinesi ve kapsülleri markasıdır.Teekanne Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Stk Makina",
+    "description": "Stk Makina, 1981 yılında kurulmuş olan Stk Makina Gıda Makinaları İmalat San. Tic. Ltd. Şti. bünyesinde üretilen beyaz peynir ünitesi, dolum ve paketleme, dondurma ünitesi, hellim peynir üretim hattı, kaşar peyniri ünitesi, krem peyniri üretim hattı, lor peyniri ünitesi, mozarella ünitesi, paslanmaz süt ve buhar tesisatları, süt standardizasyon ünitesi, süt toplama, tereyağı ve kaymak, yardımcı üniteler, yoğurt ve ayran üniteleri markasıdır.Ayrıca üretim tesisleri için anahtar teslim kurulum yapmaktadır.Firma Sakarya merkezlidir ve ürünlerini 85’in üzerinde ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kinder Riegel",
+    "description": "Kinder Riegel, Ferrero Group bünyesinde üretilen şekerleme ve çikolata çubukları markasıdır.Ürünleri tam yağlı süt tozu, soya lesitini, hurma yağı içermektedir.İtalya menşeli Ferrero Group Lüksemburg merkezlidir. Dünya çapında 50’den fazla ülke ve bölgede faaliyet göstermektedir. Ürünlerini 170’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "LU",
+    "updated_date": null
+  },
+  {
+    "company": "Gemmove",
+    "description": "Gemmove, K-Boeun Pharmaceutical Co. Ltd. bünyesinde üretilen diş macunu, diş fırçası, sabun, gıda takviyeleri, vitaminler, kolajenler, fırça, iyonlaştırıcı markasıdır.K-Boeun Pharmaceutical Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "360 Cüzdan Sakız",
+    "description": "360 Vivident Xylit, 2001 yılında kurulmuş olan Perfetti Van Melle Group B.V. bünyesindeki tatlandırıcılı sakız markasıdır.Perfetti Van Melle Group B.V. Hollanda merkezlidir. Ürünlerini 150’den fazla ülkeye pazarlamaktadır. Türkiye pazarına 1991 yılında giriş yapmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

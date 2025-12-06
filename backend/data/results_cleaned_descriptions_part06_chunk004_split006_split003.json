@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Agm Glory",
+    "description": "Agm Glory, 2008 yılında kurulan AGM Mobile Limited bünyesinde üretilen su geçirmeyen cep telefonu markasıdır.AGM Mobile Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "SenSen",
+    "description": "SenSen, 1985 yılında kurulan Zhejiang Sensen Auto Part Co. Ltd. bünyesinde üretilen otomobil parçaları, amortisör ve aksesuarları, blokları, gaz, anahtarları markasıdır.ISO 9002, ISO 9001 ve ISO/TS16949 belgelerine sahiptir.Zhejiang Sensen Auto Part Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Netstal",
+    "description": "Netstal, 1975 yılında kurulmuş olan Netstal Maschinen AG bünyesinde üretilen plastik enjeksiyon kalıplama makineleri ve sistem çözümleri markasıdır.Ürün yelpazesi plastik ve plastik eriyiklerini işlemek için makineler, plastikleştirme üniteleri, plastikleştirme vidaları, geri akış kilitleri, kumandalar, geri akış düzenleme valfleri, PET preformlan üretimi için makineler ve makine sistemleri, bu makinelerin ve makine sistemlerinin parçalan, Enjeksiyon kalıp makinelerinde kullanılmak için elektrikli ve bilgisayarlı kontroller, kumandalar yer almaktadır.Netstal Maschinen AG 2024 yılında Almanya merkezli Krones AG tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2025-04-28"
+  },
+  {
+    "company": "Tecalit",
+    "description": "Tecalit, 1984 yılında Peter Guidolin tarafından kurulan Tecalit S. r. l. bünyesinde üretilen gıda endüstrisi için makineler markasıdır.Tecalit S. r. l. İtalya merkezlidir ve 50’den fazla ülkede varlığa sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Mophie",
+    "description": "Mophie, 2005 yılında kurulan Zagg Inc. bünyesindeki cep telefonları, dijital ses ve görüntü oynatıcıları, el bilgisayarları, tablet bilgisayarlar, kişisel dijital yardımcılar, elektronik ajandalar, elektronik not defterleri ve kameraları gibi mobil elektronik cihazlar için taşıyıcı ve koruyucu kılıflar markasıdır.Zagg Inc. Amerika merkezlidir.Bünyesindeki markalar;BravenGear4HALOiFrogzmophie",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

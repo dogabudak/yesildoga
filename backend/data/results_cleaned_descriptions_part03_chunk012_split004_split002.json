@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Rohde & Schwarz",
+    "description": "Rohde & Schwarz, 1933 yılında Lothar Rohde ve Hermann Schwarz tarafından kurulan Rohde & Schwarz GmbH & Co KG bünyesindeki elektronik test cihazları, yayın ve medya, siber güvenlik, radyoizleme ve radyolokasyon ve radyoiletişim ürünleri markasıdır.Rohde & Schwarz GmbH & Co KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mennekes",
+    "description": "Mennekes, 1935 yılında Aloys Mennekes tarafından kurulan Mennekes Elektrotechnik GmbH & Co. KG bünyesindeki endüstriyel fiş ve konektör markasıdır.Mennekes Elektrotechnik GmbH & Co. KG Almanya merkezlidir. Almanya ve Çin’de fabrikaları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "VTech",
+    "description": "VTech, 1978 yılında Wong Chi-Yun ve Stephen Leung tarafından kurulan VTech Holdings Ltd. bünyesindeki konut telefonları, eğitici oyuncaklar, elektronik üretim hizmetleri, küçük ölçekli iş telefonları, otel telefonları, kablosuz kulaklıklar, entegre erişim cihazı, bebek monitörleri markasıdır.VTech Holdings Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Tom Lee Music",
+    "description": "Tom Lee, 1953 yılında Thomas Lee tarafından kurulan Tom Lee Music bünyesindeki müzik aletleri ve aksesuarları markasıdır.Piyano, gitar, amplifikatör, perküsyon, elektronik klavye, müzik yayınları, profesyonel ve kişisel ses ürünleri de dahil olmak üzere geniş ürün yelpazesi sunmaktadır.ISO 9001 belgesine sahiptir.Tom Lee Music Hong Kong merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Oxbow",
+    "description": "Oxbow, 1985 yılında Fabrice Valery ve Isabelle Cachot tarafından kurulan Oxbow Surfwear Company bünyesindeki giyim ve spor malzemeleri markasıdır.Oxbow 2005 yılında Fransa merkezli Groupe Lafuma’nın bir iştiraki oldu. Groupe Lafuma’nın yüzde 60’ı 2014 yılında İsviçreli grup Calida bünyesine geçti.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

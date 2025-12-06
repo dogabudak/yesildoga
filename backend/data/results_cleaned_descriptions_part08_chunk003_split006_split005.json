@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Çapamarka",
+    "description": "Çapamarka Nerenin Malı MarkasıÇapamarka, 2003 yılında kurulmuş olan Aymar Yağ ve Gıda San. A.Ş. bünyesinde üretilen bebek maması, hazır çorbalar, şekerli vanilin, galeta unu, kabartma tozu, kakao, kakaolu pasta kreması, karbonat, krem şanti, mısır unu, maya, nişasta, pirinç unu, pudra şekeri, toz çikolatalı sos, vanilinli pasta kreması, toz tatlılar, puding markasıdır.Firma İstanbul merkezlidir. Ürünlerini Tekirdağ’da 15 bin metrekaresi kapalı, toplam 100 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kaltun Su",
+    "description": "Kaltun Su, 1996 yılında kurulmuş olan Sabuncular Tarım Hayvancılık Gıda San. Tic. A.Ş. bünyesinde üretilen ambalajlı kaynak suyu markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Kaltun Grup bünyesindeki firma Aydın’da 15 bin 239 metrekarelik arazi üzerinde bulunan 10 bin metrekaresi kapalı fabrikasında üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vitaliva",
+    "description": "Vitaliva, 2022 yılında kurulmuş olan Fleming İlaç Sağlık Kozmetik San. ve Tic. Ltd. Şti. bünyesindeki besin takviyeleri ve vitaminler, kozmetik kişisel bakım, sağlık, kişisel bakım, sporcu besinleri ve suplementer markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;FlemingVitalivaVitaliva VitaminsVitalivacollegenZincmaxZincomax",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Schogetten",
+    "description": "Schogetten, 1962 yılında kurulmuş olan Ludwig Schokolade GmbH & Co. KG bünyesinde üretilen çikolata markasıdır.Ludwig Schokolade GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Newvit",
+    "description": "Newvit, 2008 yılında kurulmuş olan RC Farma İlaç Kimya San. ve Tic. Ltd. Şti. bünyesindeki vitaminler, omega 3 ve balık yağı, bitkisel ürünler, mineraller, sindirim probiyotik markasıdır.Ürünlerinde zararlı kimyasallar kullanılmamaktadır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

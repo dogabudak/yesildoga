@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Levidor",
+    "description": "Levidor, 1996 yılında kurulan Tuğbay Tekstil bünyesindeki eşarp markasıdır. firması olarak faaliyetlerine başladı.Levidor Eşarp koleksiyonu yüzde 100 tivil ipek ile üretilmektedir.Bursa’da 10 bin metrekarelik alanda kurulan dokuma fabrikası ve 10 bin metrekarelik kullanım alanına sahip boyahane tesislerinde, eşarbın iplikten son tüketiciye gidene kadar bütün süreçlerini kendi bünyesinde yüzde 100 yerli üretimle yapmaktadır.Bünyesindeki markalar:Levid’orBonjelaFiveReyyan İpekMirandaPoloistNurmina",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-11-03"
+  },
+  {
+    "company": "Hogan",
+    "description": "Hogan, 1920 yılında Filippo Della Valle tarafından kurulan lüks ayakkabı ve deri ürünleri üreticisi Tod’s S.p.A. bünyesindeki ayakkabı ve deri ürünleri markasıdır.Hogan markasıyla 1986 yılında kadın, erkek ve çocuklar için ayakkabı koleksiyonları üretilmeye başlandı.Tod’s S.p.A. İtalya merkezli bir firmadır.Tod’s S.p.A. bünyesindeki markalar:Tod’sHoganFayRoger Vivier",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Franck Muller",
+    "description": "Franck Muller, 1992 yılında Franck Muller tarafından kurulan The Franck Muller group bünyesindeki saat markasıdır.Sınırlı sayıda saat üretimiyle özel müşterilerine hizmet vermektedir.The Franck Muller group İsviçre merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Deji",
+    "description": "Deji, 2013 yılında Mucize Batarya Teknolojileri San. Tic. A.Ş. bünyesinde üretilen batarya markasıdır.Deji bataryaları uluslararası test kuruluşu TüvRheinland tarafından test edilerek belgelendirilmekte.Deji ürünleri Çin’den ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Federal",
+    "description": "Federal, 1989 yılında kurulan Federal Şirketler Grubu bünyesindeki elektrik malzemeleri, mermer, aydınlatma, doğalgaz ürünleri markasıdır.Önde gelen Alçak Gerilim şalt Cihazları üreticileri arasında yer alan Federal’in 25 bin metrekaresi kapalı alan olmak üzere toplam 40 bin metrekarelik Türkiye’de üretim tesisi bulunuyor. 3 binden fazla çeşit ürün üreten firmanın ürün yelpazesinin yüzde 95’ini Türkiye’de üretiyor.Federal Şirketler Grubu yüzde yüz yerli sermayeli şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-09-05"
+  }
+]

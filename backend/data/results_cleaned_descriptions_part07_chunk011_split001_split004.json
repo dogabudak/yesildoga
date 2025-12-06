@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Witsound Technologies",
+    "description": "Witsound Technologies, 2021 yılında kurulmuş olan Witsound Technologies S.L. bünyesinde film dublajı, dizi dublajı, animasyon dublajı, video oyunu dublajı, sesli kitaplar için geliştirilen ses çözümleri yazılımı markasıdır.Witsound Technologies S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Aclas",
+    "description": "Aclas, 1982 yılında kurulmuş olan Xiamen Pinnacle Electrical Co. Ltd. bünyesinde üretilen yazarkasa, dokunmatik ekranlı POS, elektronik terazi, yazıcılar, barkod tarayıcılar, çevre birimleri ve kablosuz restoran çözümleri markasıdır.ISO 9001 belgesine sahiptir.Xiamen Pinnacle Electrical Co. Ltd. Tayvan merkezlidir. Ürünlerini Çin’de üretmektedir ve 100’den fazla ülke ve bölgeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Banbey",
+    "description": "Banbey, 2008 yılında kurulmuş olan Bannan Dış Ticaret Çimento ve Gıda Ürünleri Ltd. Şti. bünyesinde üretilen tavuk ürünleri markasıdır.Şirket bütün tavuk ve tavuk parçaları, tavuk öğle yemeği eti ve kırmızı et konularında faaliyet göstermektedir. Mersin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artronic",
+    "description": "Artronic, 1995 yılında kurulmuş olan Artronic Elektronik A.Ş. bünyesindeki kesintisiz güç kaynağı, endüstriyel güç çözümleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini 55 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Oddie Çikolata",
+    "description": "Oddie, 1977 yılında temelleri atılan Niyazi Ayaz Çikolata Şekerleme Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen çikolata, çikolatalı gofret topları, karamel kaplı çikolata markasıdır.ISO 22000, HACCP belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini 14 bin metrekaresi kapalı 20 bin metrekaresi açık olan tesisinde üretmektedir ve birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;CihanCimonFlickerMustangOddie",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

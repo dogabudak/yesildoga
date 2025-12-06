@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tinge",
+    "description": "Tinge, 2017 yılında kurulan Hew Pharma BV bünyesindeki günlük-gece, vücut bakım ürünleri, yüz, vücut ve saç temizliği, yaşlanma karşıtı yüz ve göz çevresi bakım ürünleri markasıdır.Hew Pharma BV Belçika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Intaleo",
+    "description": "Intaleo, 2007 yılında kurulan Intaleo LLC bünyesinde üretilen temperli cam, tüketici elektroniği aksesuarları markasıdır.Ürünlerini cam ekran koruyucu fabrikasında üretmektedir.Intaleo Ukraine LLC Ukrayna merkezlidir ve ürünlerini Ukrayna’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Unifi",
+    "description": "Unifi, 2003 yılında kurulan Ubiquiti Inc. bünyesindeki işletim sistemi konsolları, çoklu kimlik doğrulama yöntemleri, kapı ve zemin güvenliği, kamera güvenliği, telefon sistemi, kablosuz veri iletişimi ve kablolu ürünler markasıdır.UniFi Denetleyici yazılımı, düşük gecikme süresi ve yüksek çalışma süresi performansı gerektiren yüksek yoğunluklu istemci dağıtımları için ideal olan güçlü, kurumsal bir kablosuz yazılım motorudur.Ubiquiti Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wiami Home Technology",
+    "description": "Wiami Home Technology, 2020 yılında kurulan Wiami Elektronik İç ve Dış Tic. Ltd. Şti. bünyesindeki akıllı temizlik robotu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Femilyane",
+    "description": "Femilyane, 1949 yılında kurulan SA Laboratoires Bailleul bünyesinde üretilen anti-streç işareti balsamı, yatıştırıcı nemlendirici sıvı markasıdır.Kadınlarda hamilelik, doğum sonrası, menopoz vb. destek için ilaçlar, gıda takviyeleri ve dermo-kozmetikler sunmaktadır.SA Laboratoires Bailleul İsviçre merkezlidir. Ürünleri 56 ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

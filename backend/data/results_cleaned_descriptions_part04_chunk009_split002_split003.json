@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Riposella",
+    "description": "Riposella, 1992 yılında kurulan Pavi Group S.R.L. bünyesinde üretilen erkek, kadın ve çocuklar için terlik, sandalet, ayakkabı markasıdır.Pavi Group S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Roberto Ley",
+    "description": "Roberto Ley, 1951 yılında kurulan Fratelli Regaly, S.L. bünyesindeki ayakkabı markasıdır.Fratelli Regaly, S.L. İspanya merkezlidir ve ürünlerini İspanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Suntat",
+    "description": "Suntat, 1986 yılında Halil, Mustafa, Muharrem, Ali ve Kadir Baklan tarafından kurulan BLG Kardesler Lebensmittel-Handelsgesellschaft mbH bünyesindeki perakende markasıdır.Ürünleri arasında et ve süt ürünleri, bakliyat, baharat, kuruyemiş, zeytin, turşu, hazır yemekler, konserve, sos ve salça, unlu mamüller, içecekler, lokum ve helva, hazır çorba, reçel, çay ve kahve yer almaktadır.BLG Kardesler Lebensmittel-Handelsgesellschaft mbH Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Damasko",
+    "description": "Damasko, 1994 yılında Konrad Damasko tarafından kurulan Damasko Gmbh bünyesinde üretilen saat markasıdır.Pilot saati üretimine ağırlık vermektedir.Damasko Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Perlina Çocuk Ayakkabısı",
+    "description": "Perlina, 1971 yılında kurulan Perlina Uğur Ayakkabı Deri San. ve Tic. Ltd. Şti. bünyesinde üretilen tamamen deri, ortopedik ve anatomik çocuk ayakkabıları markasıdır.Ürünlerini Rusya, Ukrayna, Gürcistan, Yunanistan, Romanya, Bulgaristan, Makedonya, Beyaz Rusya, Birleşik Arap Emirlikleri, Azerbaycan, Kazakistan gibi ülkelere ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

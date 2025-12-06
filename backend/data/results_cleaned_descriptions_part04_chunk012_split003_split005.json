@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Sarten",
+    "description": "Sarten, 1972 yılında kurulan Sarten Ambalaj San. ve Tic. A.Ş. bünyesinde üretilen sert metal ve plastik ambalajlar, kavanoz kapakları ve kolay açılır kapaklar markasıdır.Madeni yağ, zirai ilaç, boya, ketçap, süt ürünleri, temizlik malzemeleri ve kozmetik sektörleri için plastik ambalajda PET, PE ve PP hammaddelerden üretim yapmaktadır. ISO 9000, ISO 22000, ISO 14001 belgelerine sahiptir.Türkiye’de toplam 15 fabrikaya sahiptir. 2015 yılında hisselerinin yüzde 15’ini Japonya merkezli Mitsui’ye devrederek ortaklık anlaşması imzaladı.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Villeroy & Boch",
+    "description": "1748 yılında kurulmuş olan Villeroy & Boch AG bünyesindeki banyo çözümleri markasıdır.Villeroy & Boch AG Almanya merkezlidir ve ürünleri 125’ten fazla ülkeye pazarlanmaktadır.Bünyesindeki markalar;AlföldiArmitage ShanksGustavsbergIdeal StandardLikeMondialNahm SanitarywarePorcherSanipaSignatureSvensk KvaliteVatetteVivo",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2025-02-19"
+  },
+  {
+    "company": "Polisport",
+    "description": "Polisport, 2013 yılında kurulan Polisport Kimya İmalat İnşaat ve İnşaat Malzemeleri San. Tic. A.Ş. bünyesinde üretilen epoksi poliüretan ve akrilik yapı kimyasalları markasıdır.İzmir’de boya ve cila malzemeleri üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Yazole",
+    "description": "Yazole, 2010 yılında kurulan Shantou Yazole Trading Co., Ltd. bünyesinde üretilen saatler, kuvars saatler ve akıllı elektronik ürünler markasıdır.Shantou Yazole Trading Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cassidi",
+    "description": "Cassidi, 1993 yılında kurulan Dan Cassidi Ltd. bünyesindeki bayan giyim, moda aksesuarları markasıdır.Dan Cassidi Ltd. bayan modasında uzmanlaşmış bir İsrail giyim şirketidir. İsrail ve Bulgaristan’da 35 mağaza zincirine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

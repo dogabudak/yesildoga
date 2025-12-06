@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Mondaine",
+    "description": "Mondaine, 1944 yılında Hans Hilfiker tarafından kurulan Mondaine Watch Ltd. bünyesinde üretilen saat markasıdır.Mondaine Watch Ltd. İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2021-05-04"
+  },
+  {
+    "company": "Nektom",
+    "description": "Nektom, 2019 yılında kurulan Firsple Limited bünyesinde üretilen saat ve aksesuarlar markasıdır.Firsple Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ovalette",
+    "description": "Ovalette, 1988 yılında Abdullah Topçuol tarafından kurulan Katsan Gıda San. ve Tic. Ltd. Şti. bünyesindeki beyaz ekler sosu, cheese kek tozu, çikolatalı dolgu, çilekli dekoratif jöle, elma parçacıklı dolgu, frambuazlı dekoratif jöle, incirli dolgu, kabartma tozu, kahverengi ekler sosu, kakao tozu, karamelli dolgu, kivili dekoratif jöle, krem karamel tozu, krem patiseri tozu, krem şanti tozu, limon parçacıklı dolgu, limonlu dekoratif jöle, limonlu dolgu, muzlu dekoratif jöle, pandispanya tozu, pasta katkı maddesi, portakal parçacıklı dolgu, portakallı dekoratif jöle, portakallı dolgu, profiterol sosu, siyah ekler sosu, sütlü karamelli pasta kreması toffee, şarlot tozu, şeker hamuru, şekerli vanilin, vanilyalı dolgu, vişneli dekoratif jöle, vişneli dolgu markasıdır.Katsan Gıda, ISO 9001 ve HELAL belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pierre Kunz",
+    "description": "Pierre Kunz, 1992 yılında Franck Muller tarafından kurulan The Franck Muller group bünyesindeki lüks saat markasıdır.The Franck Muller group İsviçre merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Movado",
+    "description": "Movado, 1887 yılında Achille Ditishheim tarafından kurulan Movado Group, Inc. bünyesindeki lüks ve moda saat markasıdır.Movado Group, Inc. kendi marları dışında Ferrari, Coach, Hugo Boss, Lacoste, Juicy Couture ve Tommy Hilfiger markalı saatleri tasarlar, üretir ve dağıtır.Movado Group, Inc. Amerika merkezlidir.Bünyesindeki markalar;MovadoEbelConcordESQ",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

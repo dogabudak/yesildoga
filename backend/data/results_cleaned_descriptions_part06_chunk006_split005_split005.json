@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Thorlabs",
+    "description": "Thorlabs, 1989 yılında kurulan Thorlabs Gmbh bünyesinde üretilen optik koherens tomografi ve foto-akustik analiz cihazları, ışığın üretilmesi, taşınması ve ölçülmesi için bileşenler, modüller ve ekipmanlar markasıdır.Thorlabs Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fastned",
+    "description": "Fastned, 2012 yılında kurulan Fastned B.V. bünyesindeki elektrikli araçlar için halka açık şarj istasyonu ağları markasıdır.Fastned B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Invensense",
+    "description": "Invensense, 2003 yılında kurulan InvenSense Inc. bünyesinde üretilen hareket sensörleri markasıdır.InvenSense Inc. 2016 yılında Japonya merkezli TDK Corporation tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Faster Biyo Güvenlik Kabini",
+    "description": "Faster, 1984 yılında kurulan Faster Srl bünyesinde üretilen biyolojik güvenlik dolapları, sitotoksik ilaç güvenlik dolapları, dikey ve yatay laminer akış gibi laboratuvar laminer hava akımı dolapları, devridaim duman dolapları, izolatörler, endüstriyel laminer hava akımı sistemleri markasıdır.Faster Srl İtalya merkezli Dasit Group S.p.A.’nın bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Mossimo",
+    "description": "Mossimo, 1986 yılında Mossimo Giannulli tarafından kurulan Mossimo Inc. bünyesindeki kot pantolon, ceket, çorap, iç çamaşırı ve aksesuar gibi genç giyim ürünleri markasıdır.Mossimo Inc. 2006 yılında Amerika merkezli Iconix Brand Group tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

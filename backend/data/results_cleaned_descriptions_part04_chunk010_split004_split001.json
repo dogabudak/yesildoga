@@ -1,0 +1,46 @@
+[
+  {
+    "company": "WorldGas",
+    "description": "WorldGas, 2004 yılında SHV Energy’nin bir kuruluşu olarak kurulan LPG gaz markasıdır.WorldGas 2012 yılından beri Hollanda merkezli SHV Holdings N.V.’nin diğer iştiraki olan İpragaz A.Ş. çatısı altında faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Megagear",
+    "description": "Megagear, 2012 yılında kurulan Mega West Enterprise Inc. bünyesindeki tüketici elektroniği, kameralar, akıllı telefonlar, tabletler ve koruyucu aksesuarlar ile diğer taşınabilir cihazlar için aksesuar markasıdır.Mega West Enterprise Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Nacific",
+    "description": "Nacific, 2018 yılında Kim Hyung Min tarafından kurulan Abillkorea Co. Ltd. bünyesindeki kozmetik, lavanta yağı, dudak parlatıcısı, rujlar, maskara, kozmetik amaçlı maske paketi, parfümler, şampuanlar, kozmetik sabunlar markasıdır.Abillkorea Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Ryzen",
+    "description": "Ryzen, 1969 yılında Jerry Sanders tarafından kurulan Advanced Micro Devices, Inc. bünyesinde üretilen işlemciler, dijital oluşturucular, VR kılavuzları markasıdır.Advanced Micro Devices, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cecilia de Rafael",
+    "description": "Cecilia de rafael, 1976 yılında kurulan Cdr Hosiery Spain, S.L. bünyesindeki askı ve askı kayışları, tayt, çoraplar, iç ve dış giyim markasıdır.Her yaştan erkek ve kız çocukları için tayt ve mayolar ile çocuklar için külotlu çorap, mayo ve dikişsiz iç çamaşırı üretmektedir.Cdr Hosiery Spain, S.L. İspanya merkezlidir.Bünyesindeki markalar;Cecilia de RafaelSamburu",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

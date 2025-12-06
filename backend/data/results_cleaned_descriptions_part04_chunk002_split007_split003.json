@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Recaro",
+    "description": "Recaro, 1906 yılında Wilhelm Reutter tarafından kurulan RECARO GmbH & Co. KG bünyesindeki araç koltukları markasıdır.Otomotiv koltuğu dışından çocuk koltuğu ve bebek arabası üretmektedir.RECARO GmbH & Co. KG Almanya merkezlidir. Polonya, Güney Afrika, ABD ve Çin’de üretim tesisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "No. 4711",
+    "description": "No. 4711, 1845 yılında Michael Maurer ve Andreas August Wirtz tarafından kurulan Maurer & Wirtz Gmbh & Co. KG bünyesindeki deterjanlar, sabun ürünleri, parfümler ve kozmetik ürünler markasıdır.Dünya çapında 135 ülkede faaliyet göstermektedir.1990 yılından beri Maurer & Wirtz Gmbh & Co. KG, Almanya merkezli Dalli-Werke GmbH & Co. KG’nin bir yan kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lindocat",
+    "description": "Lindocat, 1996 yılında kurulan Laviosa Chimica Mineraria S.p.A. bünyesindeki kediler, kemirgenler ve kuşlar için yatak, temizleme mendilleri ve emici paspaslar ile kedi kumu markasıdır.Şirketin iş hattı metalik olmayan mineral ürünlerin imalatı içerir.Laviosa Chimica Mineraria S.p.A. İtalya merkezlidir. Ürünlerini İtalya’da üretmektedir ve ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Kocamaz",
+    "description": "Kocamaz, 1978 yılında kurulan Kocamaz Makina San. A.Ş. tarafından üretilen yem ve zeytinyağı makineleri markasıdır.Üretim yatırımları ile ürün yelpazesini 3 farklı sektöre hitap edecek şekilde genişletmiştir.Firma 3’er bin metrekarelik açık ve kapalı alana sahip üretim tesisinde zeytinyağı, tarım, hayvancılık ve mobilya sektörlerine olmak üzere proseslere özel, çeşitli üretim avantajlarına sahip makine ve anahtar teslim projeler üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nivona",
+    "description": "Nivona, 2005 yılında Peter Wildner, Thomas Meier ve Hans Errmann tarafından kurulan Nivona Apparate GmbH bünyesinde üretilen kahve makineleri markasıdır.Nivona Apparate GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

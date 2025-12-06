@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Zoobles",
+    "description": "Zoobles, 1994 yılında kurulan Spin Master Ltd. bünyesindeki figür oyuncaklar, 5 yaş ve üstü kız çocuk oyuncakları markasıdır.Firma oyunca, eğlence ve dijital oyunlar sunmaktadır.Spin Master Inc. Kanada merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Trim Makas",
+    "description": "Trim, 2011 yılında şirket birleşmeleriyle kurulan W.E. Bassett Co. bünyesindeki tırnak makası, kişisel bakım ürünleri markasıdır.Firmanın ürün yelpazesinde 100′den fazla kişisel bakım ürünleri yer almaktadır.W.E. Bassett Co. Amerika merkezlidir. Ürünlerini Çin’de üretmektedir ve 60 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Promani Tools For The Pro’s",
+    "description": "Promani, 1992 yılında kurulan Repline Dış Tic. Ltd. Şti. bünyesindeki ayak ve el tırnak makası, ayna, cımbız, manikür kalemi, takma tırnak kitleri, kalemtraş, kirpik kıvırıcı, makas, pens, siyah nokta, sivilce aparatı, ayak topuk törpüsü, tırnak yapıştırıcı markasıdır.Firma Ankara merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wildlebend",
+    "description": "Wildlebend, 2017 yılında kurulan Yasin Özgüç Pazarlama İnşaat San. Tic. Ltd. Şti. tarafından ithal edilen tüketici ürünleri markasıdır.Firma Şanlıurfa merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Farg Süpürge",
+    "description": "Farg, 2021 yılında kurulan Epanin Elektronik San. Tic. Ltd. Şti. bünyesindeki elektrikli küçük ev aletleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

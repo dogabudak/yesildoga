@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Gaomon",
+    "description": "Gaomon, 2011 yılında kurulan Gaomon Technology Corporation bünyesindeki sayısallaştırıcı, grafik tablet, kalem ekranı ve animasyon dijital ürünleri markasıdır.Ana ürün serisi, USB kalem tableti, kablosuz kalem tableti, imza pedi, kalem Tablet monitörü ve LED izleme kartını içerir.Gaomon Technology Corporation, animasyon ürünleri ve el yazısı giriş sayısallaştırıcı ürünleri gibi çekirdek teknolojiyi bağımsız olarak araştırmak ve geliştirmek için faaliyet gösteren Çin merkezli yüksek teknoloji kuruluşudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cantire",
+    "description": "Cantire, 2017 yılında kurulan S.S. Tire Organik Gıda Ürünleri Tüketim Kooperatifi bünyesinde üretilen un, bakliyat, makarna, salça, tahin, pekmez markasıdırİzmir’de kurulan firma organik üretim yapmaktadır ve tarlalarında hiçbir ilaç GDO ve katkı maddesi kullanmamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Acepen",
+    "description": "Acepen, 2015 yılında kurulan Acepen Technology Co. Ltd. bünyesinde üretilen dijital el yazısı tanıma, dijital ekran sistemi, dijital schoolbag çözümleri ve dijital arayüz çözümleri markasıdır.Tasarım, bankacılık ve finans, dijital eğitim, tıbbi ve diğer hizmet endüstrisinde, tablet bilgisayarlar, cep telefonları ve diğer tüketici elektroniği ürünlerinde kullanılmaktadır.Acepen Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "TOGG",
+    "description": "TOGG, 2018 yılında kurulan Türkiye’nin Otomobili Girişim Grubu A.Ş.’ye ait otomobil markasıdır.Türkiye’nin Otomobili Girişim Grubu A.Ş. hissedarlarıAnadolu Grubu (yüzde 19)BMC (yüzde 19)Kök Grubu (yüzde 19)Turkcell (yüzde 19)Zorlu Holding (yüzde 19)TOBB (yüzde 5)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Bellanut",
+    "description": "Bellanut, 2016 yılında Gökhan Şahin tarafından kurulan Trust Gıda Ltd. Şti. bünyesinde üretilen fıstık ezmesi markasıdır.Doğal katkısız sıfır şeker sıfır tuz sadece yüzde 100 fıstıktan üretilen ürünlerinde tuz, şeker, tatlandırıcı ve koruyucu yoktur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

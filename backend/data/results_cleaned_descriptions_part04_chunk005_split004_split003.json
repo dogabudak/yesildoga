@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Tanita",
+    "description": "Tanita, 1944 yılında kurulan Tanita Corp. bünyesinde üretilen hassas terazi, vücut yağ monitörü markasıdır.ISO 9001 belgesine sahiptir.Tanita Corp. Japonya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Agromec",
+    "description": "Agromec, 1985 yılında Osman Özal tarafından kurulan Kemal Zirai Alet İş Mak. San. İç ve Dış Tic. Ltd. Şti. bünyesindeki makine yedek parça ve aksesuar markasıdır.Orman ve Bahçe makineleri alanında faaliyet göstermektedir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Isabelle Lancray Paris",
+    "description": "Isabelle Lancray, 1986 yılında Manfred ve Anita Rimpler tarafından kurulan Dr. Rimpler Gmbh bünyesindeki kozmetik ürünler markasıdır.Kozmetik ürünleri, doğal ve tıbbi bileşenlerden oluşmaktadır. Ürünleri 40’tan fazla ülkede satılmaktadır.Dr. Rimpler Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Real Techniques",
+    "description": "Real Techniques, 1947 yılında kurulan Paris Presents Incorporated bünyesindeki makyaj ürünleri markasıdır.Geri dönüşümlü, yenilenebilir bambu malzemelerden makyaj fırçaları ve saç fırçaları üretmektedir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.Paris Presents Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cussons Baby",
+    "description": "“Cussons Baby“Cussons Baby, 1879 yılında kurulmuş olan PZ Cussons plc. bünyesindeki bebek ürünleri, krem, şampuan, ıslak mendil, losyon, kalıp sabun, şampuan markasıdır.PZ Cussons plc İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2024-09-18"
+  }
+]

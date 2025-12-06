@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Widex",
+    "description": "Widex, 1956 yılında Topholm ve Westermann aileleri tarafından kurulan işitme cihazları markasıdır.2019 yılında İsveçli özel sermaye şirketi EQT Group’a ait Singapur merkezli Sivantos ile Danimarka merkezli Widex A/S’nin birleşmesiyle kurulan WS Audiology şirketinin bir parçası olmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Pulex",
+    "description": "Pulex, 2000 yılında kurulan Pozitif End. Mak. ve Tem. Sis. San. Tic. Ltd. Şti. bünyesindeki temizlik malzemeleri, jilet, temizlik setleri, çöp toplama aparatları markasıdır.Firma IPC PULEX markalı cam ve zemin temizlik aparatlarını İtalya’dan, UNGER markalı cam ve zemin temizlik aparatlarını Almanya’dan ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Freshmaker",
+    "description": "Freshmaker, 2003 yılında kurulan ​​Fulya Kozmetik Islak Mendil İmalat ve Pazarlama Ltd. Şti. bünyesindeki ıslak mendil, bebek bezi ve kulak çubuğu markasıdır.Firma ürünlerini 13 bin metrekarelik kapalı alanda üretmekte ve ürünleri 74 ülkede tüketilmektedir. ISO 9001, GMP- ISO 22716 ve Reach belgelerine sahiptir.Bünyesindeki markalar:FreshmakerFreshrunyLiolaLolamioNemdil",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Velte",
+    "description": "Velte, 1994 yılında kurulan Şenses Kırtasiye ve Büro Malzemeleri San. ve Tic. Ltd. Şti. bünyesindeki klasör markasıdır.Şenses Kırtasiye’nin ürün yelpazesi 35 markayı aşkındır.Şirket büro malzemeleri, kırtasiye, kağıt ve bilgisayar ürünlerinin satışını, pazarlamasını ve dağıtımını yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Florex",
+    "description": "Florex, 2015 yılında kurulan Tesla Plastik ve Ambalaj San. Dış Tic. A.Ş. bünyesinde üretilen çöp torbası, palet streç film, medikal atık torbaları, endüstriyel atık torbaları markasıdır.Tesla Plastik ürünlerini 7 bin 500 metrekarelik kapalı alanda üretmektedir. Ürettiği çöp torbalarını 12 ülkeye ihraç etmektedir. TSE, TSEK, ÇEVKO, ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

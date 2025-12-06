@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Coco Bite",
+    "description": "2006 yılında kurulmuş olan Antat Gıda A.Ş. bünyesinde üretilen hindistan cevizli, kokolin kaplı çikolatalar markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini 6 bin metrekaresi kapalı toplam 20 bin metrekareslik alanda bulunan fabrikasında üretmektedir ve 100’e yakın ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dupray",
+    "description": "2008 yılında kurulmuş olan Dupray Inc. bünyesindeki buhar temizleyicileri, hava temizleyicileri, kıyafetler, spot temizleyiciler, aksesuarlar markasıdır.Dupray Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Dafron",
+    "description": "2010 yılında kurulmuş olan Prosport Spor Ürünleri ve Promosyon San. Tic. Ltd. Şti. bünyesindeki spor ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gloryfy",
+    "description": "2002 yılında kurulmuş olan Iq Brand, Design & Production Gmbh bünyesinde üretilen spor güneş gözlüğü, güneş gözlüğü, optik, yedek lensler, aksesuarlar markasıdır.Iq Brand, Design & Production Gmbh Avusturya merkezlidir ve ürünleri Avusturya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Aztron Sport",
+    "description": "Aztron Sports Co. Ltd. bünyesinde üretilen spor ürünleri markasıdır.Aztron Sports Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

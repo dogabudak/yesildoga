@@ -1,0 +1,53 @@
+[
+  {
+    "company": "La Costena",
+    "description": "La Costena, 1923 yılında Vicente Lopez Recines tarafından kurulan Conservas La Costeña S.A.B. de C.V. bünyesinde üretilen konserve ürünler markasıdır.Ürünleri arasında biber, fasulye, ketçap, sebze, mayonez, çorba ve diğer gıdalar yer almaktadır.Conservas La Costeña S.A.B. de C.V. Meksika merkezlidir. Meksikada üretim yapmaktadır ve ürünlerini 40 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MX",
+    "updated_date": null
+  },
+  {
+    "company": "Ardasan Peynir",
+    "description": "Ardasan, 2004 yılında kurulan Arda Gıda İmalat Tic. Ltd. Şti. bünyesinde üretilen füme et, sosis, sucuk, salam, jambon, kavurma, peyni ve köfteler markasıdır.Ürünlerini Balkan yöresine has usullerde geleneksel yöntemler kullanarak islami koşullara uygun şekilde üretmektedir.ISO 9001, ISO 22000 ve Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bürger",
+    "description": "Bürger Hangi Ülkenin Malı MarkasıBürger, 1934 yılında Richard Bürger tarafından kurulan Bürger GmbH & Co. KG bünyesinde üretilen önceden hazırlanmış soğutulmuş hamur ve et, soğutulmuş gıdalar markasıdır.Bürger GmbH & Co. KG Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dermasuction",
+    "description": "Dermasuction, 2017 yılında kurulan Davinci CSJ LLC bünyesindeki elektrikli siyah nokta temizleme aracı markasıdır.Davinci CSJ LLC Amerika merkezlidir. Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Welldone Şofben",
+    "description": "Welldone Şofben Nerenin Malı MarkasıWelldone, 1999 yılında kurulan Selen Elektrik Ltd. Şti. bünyesinde üretilen priz blok sistemleri ve elektrikli mini şofbenler markasıdır.TS EN ISO 9001 belgesine sahiptir.İstanbul merkezli firma ürünlerini İstanbul İmes Sanayi Sitesi’nde bulunan fabrikasında üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

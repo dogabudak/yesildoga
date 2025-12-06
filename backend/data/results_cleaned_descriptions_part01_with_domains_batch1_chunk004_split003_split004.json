@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Tat Gıda",
+    "description": "Tat, 1967 yılında kurulmuş olan Tat Gıda San. A.Ş. bünyesinde üretilen salça, konserve, domatesli ürünler, ketçap, mayonez, hardal, haşlanmış ürünler, hazır yemekler, sos ve harç, reçel, turşu, meyve suyu, sebze suyu, sebze ve meyve suyu markasıdır.ISO 9002 ve Helal belgelerine sahiptir.Tat Gıda San. A.Ş. paylarının yüzde 49,04’ü ile ve bazı intifa senetleri 2024 yılında Memişoğlu Tarım Ürünleri Tic. Ltd. Şti. tarafından satın alınmıştır. Ürünlerini 40 ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-01-09"
+  },
+  {
+    "company": "Volta Motor",
+    "description": "Volta Motor, Düzce Gümüşova Organize Sanayi Bölgesinde bulunan modern entegre tesisinde Bisiklet, Elektrikli Bisiklet, Elektrikli Motosiklet, Üç Tekerlekli Motosiklet, Golf Aracı ve Teknopet üretimi gerçekleştiren bir Türk firmasıdır. Türkiye’de en çok satılan elektrikli araç markalarından biridir. Dünya’nın çeşitli ülkelerinde satış temsilcileri edinmiştir.Alternatiflerine oranla daha verimli, daha çevreci ve daha yüksek performanslı araçlar üreten Volta Motor, bu araçları tüketicisine daha uygun fiyatla sunuyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Maxi Cosi",
+    "description": "Maxi Cosi1987 yılında kurulmuş olan Dorel Industries Inc. bünyesindeki çocuk ürünleri markasıdır.Dorel Industries Inc. Kanada merkezlidir. Dünyada 25 ülkede tesislere sahiptir.Bünyesindeki markalar:Bébé ConfortBaby ArtMaxi-CosiQuinnySafety 1stTiny Love",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": "2024-10-23"
+  },
+  {
+    "company": "Check Point Yazılım",
+    "description": "Check Point Yazılım Teknolojileri Ltd, 1993 yılında kurulan; ağ güvenliği, Endpoint güvenlik, mobil güvenlik, veri güvenliği ve güvenlik yönetimi de dahil olmak üzere BT güvenliği için yazılım ve kombine donanım ve yazılım ürünleri sağlayan çok uluslu bir İsrail şirketidir. Şirketin kurucuları İsrail ordusu eski komutanlarıdır.En bilinen yazılımı 2004 yılında satın alınan ZoneAlarm adlı güvenlik programıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Visomat Ülke",
+    "description": "Visomat markası 1890 yılında kimyager Wilhelm Uebe tarafından kurulan UEBE Medical GmbH şirketine aittir.Firma medikal cihazlar üretmektedir.Alman firması Uebe bünyesindeki markalar şunlar;Domothermcyclotestvisocorvisomat",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

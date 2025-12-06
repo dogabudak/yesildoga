@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Shopier",
+    "description": "Shopier, 2016 yılında kurulmuş olan Değer Teknoloji A.Ş. bünyesindeki ödemelere aracılık eden ödeme teknolojileri markasıdır.Sosyal medya, pazaryeri ve internet sitesi üzerinden kredi kartı ödemesinin kullanılmasını sağlayan bir sistemdir. Aylık sabit ücret ile üyelik ücreti almayan firma sadece satış başına komisyon almaktadır.Sabancı Holding’e bağlı Inovent firması ortaklığındadır. Ayrıca TÜBİTAK, Teknoloji ve Yenilik Destek Programı tarafından maddi olarak desteklemektedir. Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tosbiq",
+    "description": "Tosbiq, 2010 yılında kurulmuş olan Adalı Çelik San. ve Tic. Ltd. Şti. bünyesinde üretilen çekme karavan markasıdır.Firma Sakarya merkezlidir. Ürünlerini 4 bin 500 metrekarelik kapalı alanda bulunan tesisinde üretmektedir.Bünyesindeki markalar;AdallyF YapıTosbiq",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "B Bertolini",
+    "description": "Bertolini, 1992 yılında kurulmuş olan Emak S. p. A. bünyesindeki bahçecilik, tarım, ormancılık ve endüstriyel uygulamalar için makineler, bileşen ve aksesuarlar markasıdır.Ürün yelpazesi değişen yoğunluk, güç ve frekanstaki işler için zincirli testereler, çalı tırpanları, çim biçme makineleri, bahçe traktörleri, çit biçme makineleri, döner yeke makineleri, döner kültivatörler, kesme çubuğu biçme makineleri, taşıyıcılar içermektedir.ISO 9001 ve ISO 14001 belgelerine sahiptir.Emak S. p. A. İtalya merkezlidir.Bünyesindeki markalar;BertoliniEfcoEmakNibbiOleo-Mac",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bbs Wheels",
+    "description": "Bbs, 1970 yılında Heinrich Baumgartner, Klaus Brand tarafından kurulmuş olan BBS Kraftfahrzeugtechnik AG bünyesinde üretilen alaşım jantlar markasıdır.BBS Kraftfahrzeugtechnik AG, 2021 yılında Almanya merkezli KW Automotive Gmbh tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bag-A-Nut",
+    "description": "Bag-A-Nut, 1989 yılında kurulmuş olan Bag-A-Nut LLC. bünyesinde üretilen biçerdöver markasıdır.Şirketin iş kolu, tarım makineleri ve ekipmanlarının üretimini içerir.Bag-A-Nut LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

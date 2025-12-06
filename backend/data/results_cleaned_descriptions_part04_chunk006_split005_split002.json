@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Hatuny",
+    "description": "Hatuny, 1987 yılında Kazım Sağın tarafından kurulan Pames Ayakkabıcılık İth. İhr. San. ve Tic. A.Ş. bünyesinde üretilen kadın ayakkabısı markasıdır.Ürünlerini Esenyurt’ta bulunan 44 bin metrekarelik fabrikasında üretmektedir ve ürünlerini AB ülkeleri ile Rusya, Bosna Hersek ve Çin gibi ülkelere ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Woods Equipment",
+    "description": "Woods Equipment, 1946 yılında kurulan Wood Brothers Manufacturing Co. bünyesindeki çekişler, çim biçme makineleri, işleme, ahşap ve fırça, kesici, ekici, ekskavatör, öğütücü, kar üfleyici, sert döner kesiciler markasıdır.Tarım, peyzaj, çim ve inşaat için ahşap ekipman ve traktör ekleri üretmektedir.Wood Brothers Manufacturing Co. 2011 yılında Amerika merkezli Blount International Company bünyesine katıldı. Ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bormioli Luigi",
+    "description": "Bormioli Luigi, 1825 yılında Luigi Bormioli tarafından kurulan Bormioli Luigi S.p.A. bünyesinde üretilen kadeh, bardak, sürahi, içecek şişeleri, parfüm şişeleri, cilt bakım kavanozları, cilt bakım şişeleri, cam dekorasyon, lüks ambalaj markasıdır.Ayrıca kristal camdan sofra takımları üretmektedir.Bormioli Luigi S.p.A. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Impragnol",
+    "description": "Impragnol, 1856 yılında kurulan Brauns-Heitmann Gmbh & Co. Kg bünyesindeki temizlik maddeleri, dezenfektanlar markasıdır.Ürün yelpazesi sprey, deterjan ve yıkama emprenye ürünleri içerir.Brauns-Heitmann Gmbh & Co. Kg Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Jhirmack",
+    "description": "Jhirmack, 1975 yılında kurulan Inspired Beauty Brands, Inc. bünyesinde yer alan saç bakımı ürünleri markasıdır.Inspired Beauty Brands, Inc. Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

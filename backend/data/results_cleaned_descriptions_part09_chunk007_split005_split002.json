@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Wetown",
+    "description": "“Wetown“1986 yılında kurulmuş olan Wetown Electric Group Co. Ltd. bünyesinde üretilen piller, elektrikli araçlar için şarj istasyonları, yüksek ve alçak gerilim otobüs sistemleri, şalt cihazları ve enerji depolama çözümleri markasıdır.Wetown Electric Group Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Koline",
+    "description": ",“Koline“2013 yılında kurulmuş olan Kozmik Isı Cihazları San. ve Tic. Ltd. Şti. bünyesinde üretilen buzdolabı markasıdır.TS EN ISO 9001 belgesine sahiptir.Firma Eskişehir merkezlidir. Ürünlerini Eskişehir OSB’de toplam 40 bin metrekarelik kapalı alanda bulunan tesisinde üretmektedir.Bünyesindeki markalar;EscookEscoolKolıneKozmik",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Acronis",
+    "description": ",“Acronis“2003 yılında Serg Bell tarafından kurulmuş olan Acronis International Gmbh bünyesindeki sabit disk bölümleme ve önyükleyici yazılımı, kurtarma ve veri koruma çözümleri, yedekleme, siber güvenlik ve uç nokta yönetimi entegrasyonuna sahip bulut yazılımı markasıdır.Acronis International Gmbh İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Biyopak",
+    "description": ",“Biyopak“2022 yılında Onur Karaca tarafından kurulmuş olan Biyopak Ambalaj San. Tic. Ltd. Şti. bünyesinde üretilen paketleme, koli, karton kutu ve ambalaj çözümleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Xvive",
+    "description": ",“Xvive“2006 yılında kurulmuş olan Shenzhen Fzone Technology Co. Ltd. bünyesinde üretilen efekt pedalları, güç kaynakları, kablosuz sistemler, kulak içi monitörler, optokuplörler, çipler, aksesuarlar markasıdır.Shenzhen Fzone Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

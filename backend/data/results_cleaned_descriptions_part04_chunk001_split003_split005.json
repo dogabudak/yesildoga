@@ -1,0 +1,52 @@
+[
+  {
+    "company": "OXY Yek",
+    "description": "OXY, 2017 yılında kurulan Sektör Kimya Deterjan San. ve Tic. A.Ş. bünyesinde üretilen genel temizlik, çamaşır hijyeni, mutfak hijyeni ve kişisel hijyen ürünleri markasıdır.İstanbul merkezli firma ürünlerini Konya 3. OSB’de bulunan 15 bin metrekarelik kapalı alandaki fabrikasında üretmektedir.ISO 14001, ISO 9001, ISO 22000, OHSAS 18001, TQA-HELAL belgelerine sahiptir.Bünyesindeki markalar:DebyDr LoryMr. OxyOxyProhijyen",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Powercase",
+    "description": "Powercase, 2007 yılında kurulan Powercase Ltd. bünyesinde üretilen bilgisayar şasi ve bilgisayar güç kaynağı, Mini 3D yazıcı markasıdır.Standart ATX, EMI ile mikro, ince mikro, SFF kasa, mini ITX, mini bilgisayar kasaları gibi ürünler üretmektedir.Powercase Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Pierburg",
+    "description": "Pierburg, 1986 yılında Rheinmetall AG bünyesine geçen otomotiv sektöründe hava temini ve kirliliğin azaltılması için bileşenler, soğutucu, yağ, sirkülasyon ve vakum pompaları markasıdır.Rheinmetall AG, elektrik pompası sistemleri ve aktüatörler, akıllı Termal yönetim bileşenleri üreten Almanya merkezli bir şirkettir.Avrupa, Kuzey ve Güney Amerika, Japonya, Hindistan ve Çin’de üretim tesislerine sahiptir.Bünyesindeki markalar:KolbenschmidtMotorservicePierburg",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lindo",
+    "description": "Lindo, 1979 yılında kurulan Lindo Systems Inc bünyesinde üretilen optimizasyon modelleme için yazılım araçları markasıdır.Şirketin iş hattı bilgisayar programlama hizmetleri sağlamayı içerir.Lindo Systems Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Fairchild Semiconductor",
+    "description": "Fairchild Semiconductor, 1957 yılında Sherman Fairchild ve Arthur Rock tarafından kurulan Fairchild Semiconductor International, Inc. bünyesindeki entegre devreler, sinyal işlemcileri, motor kontrolörleri, alan etkisi transistörleri markasıdır.Fairchild Semiconductor International, Inc. Amerika merkezli ON Semiconductor Corporation bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

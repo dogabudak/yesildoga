@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Wolfram Alpha",
+    "description": "Wolfram Alpha, 2009 yılında Stephen Wolfram tarafından kurulmuş olan WolframAlpha LLC bünyesinde geliştirilen bir cevap motorudur. Dışarıdan kaynaklı verilerden gelen yanıtları hesaplayarak olgusal sorgulara yanıt verir.WolframAlpha LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Samsoe Samsoe",
+    "description": "Samsoe Samsoe, 1993 yılında kurulmuş olan Samsoe & Samsoe Holding A/S bünyesindeki erkek ve kadınlar için çağdaş kıyafet, ayakkabı ve aksesuarlar markasıdır.Samsoe & Samsoe Holding A/S Danimarka merkezlidir. 40’tan fazla mağazaya sahiptir ve ürünleri 31 ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Goodway CNC",
+    "description": "Goodway, 1975 yılında kurulmuş olan Goodway Machine Corp. bünyesinde üretilen torna tezgahları, makine presleri, freze makineleri, delme makineleri, öğütme makineleri, testere makineleri, sondaj makineleri, makine merkezleri, torna merkezleri, öğütme/vida yuvası delme merkezleri markasıdır.Goodway Machine Corp. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Ailisi",
+    "description": "Ailisi, 2008 yılında kurulmuş olan Cixi Nais Electirc Co. Ltd. bünyesinde üretilen saç kurutma makineleri, tıraş makineleri, kaş tıraş makineleri, elektrikli epilatörler ve burun saç kesme makineleri markasıdır.Cixi Nais Electirc Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Titania",
+    "description": "Titania, 1945 yılında Friedel-A. Kotte Senior tarafından kurulmuş olan Titania Fabrik Gmbh bünyesinde üretilen kişisel bakım ürünleri ve kozmetik markasıdır.Titania Fabrik Gmbh Almanya merkezlidir. Ürünlerini Almanya’da üretmekte ve 120’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

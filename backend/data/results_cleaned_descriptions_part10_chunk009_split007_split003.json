@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Glasurit",
+    "description": "1888 yılında kurulmuş olan BASF Coatings Gmbh bünyesinde üretilen birinci sınıf boyalar, araç yenileme çözümleri markasıdır.BASF Coatings Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bayram",
+    "description": "1982 yılında kurulmuş olan Bayram Süt Mamülleri Meşrubat San. ve Tic. Ltd. Şti. bünyesinde üretilen ayran, kaşar peyniri, kolot peyniri, telli peynir, tereyağı, yoğurt markasıdır.TSE, ISO 9002, ISO 22000 belgelerine sahiptir.Firma Trabzon merkezlidir. Ürünlerini 5 bin metrekaresi kapalı, 13 bin metrekarelik alanda kurulu tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9002"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Le Fleurier",
+    "description": "1904 yılında kurulmuş olan St Hubert SASU bünyesinde üretilen tereyağı ve bitkisel yağ karışımı markasıdır.Soya lestini, tatlandırıcı, koruyucu, asitlik düzenleyici, renklendirici içermektedir.St Hubert SASU Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Çıt Kırıldım",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Würzen",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

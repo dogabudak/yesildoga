@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Saybolt",
+    "description": "Saybolt, 1936 yılında kuruldu. Türkiye’de 2007 yılına kadar Saybolt Gözetim ve Laboratuvar Hizmetleri A.Ş. olarak faaliyet gösterdi. 2007 yılında hisselerinin tamamını Amerika firması Corelab satın aldı.Corelab 50 ülkede faaliyet gösteriyor. Türkiye’de İzmit, Samsun, Trabzon, Antalya, Mersin ve Kırklareli’nde şubeleri bulunuyor. Firmalara gözetim ve kalite kontrol hizmeti veriyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Aveva",
+    "description": "Aveva, 1967 yılında kurulan AVEVA Group plc, şirketi bünyeindeki bilgi teknolojisi ve yazılım şirketidir.AVEVA Group plc, İngiltere merkezlidir ve Mühendis, Tedarik, İnşaat, Varlık Performansı, Monitör ve Kontrol, Plan ve Zamanlama, İşlet ve Optimize Edin, Destek, Eğitim ve Hizmetler gibi konularda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Thule",
+    "description": "Thule, 1942 yılında Erik Thulin tarafından kurulan Thule Group AB bünyesindeki araç üzerinde her tip ekipman taşıma çözümleri, römorklar, karavan malzemeleri, kar zincirleri, seyahat çantaları markasıdır.Firma, 1979’da Thulin ailesi tarafından halka açık Eldon şirketine satıldı.Thule Group AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Lonza Üleknin",
+    "description": "Lonza, 1897 yılında kurulan Lonza Group bünyesindeki biyofarmasötikler, organik ve ince kimyasallar, kimyasal sentez ekipmanları, kimyasalların ve ilgili ürünlerin özel imalatı markasıdır.Lonza Group, Merkezi İsviçre’de bulunan ve Avrupa, Kuzey Amerika ve Güney Asya’da büyük tesisleri bulunan çokuluslu, kimyasal ve biyoteknoloji şirketidir.Lonza çeşitli ilaç şirketleri ile biyolojik üretim yapmaktadır. Lonza, biyobenzerleri geliştirmek ve üretmek için 2009 yılında İsrailli Teva ile bir ortaklık yaptı. 2010 yılında, İngiliz glaxoSmithKline ile bir anlaşma yaptı. Lonza ve Sanofi, 2017 yılında biyolojik üretim için yeni bir tesis inşa eden ortaklıklarını başlattı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Inficon",
+    "description": "Inficon, 2000 yılında kurulan INFICON Holding AG bünyesindeki kaçak dedektörleri, hvac/r için servis araçları, otomotiv servis araçları, kimyasal algılama ve İzleme (gcms/gc/fid), kuvars monitör kristalleri, İnce film İfadesi, denetleyiciler ve monitörler, elektron işın silah kontrolü, artık gaz analizörleri, kütle spektrometreleri, gaz konsantrasyon monitörü, rf algılama teknolojisi, fabguard yazılımı, vakumlu yemler, vakum bileşenleri, vakum ölçer kontrol cihazları ve aksesuarları, geniş menzilli vakum ölçerler, yüksek hassas vakum göstergeleri, leybold vakum uyumlu vericiler markasıdır.Inficon İsviçre merkezlidir. Yarı iletken ve vakum kaplama için aletlerin, sensör teknolojisinin ve proses kontrol yazılımının geliştirilmesi, üretimi ve tedariki ile ilgilidir. Sanayi. Soğutma, klima, otomotiv endüstrisi ve zehirli kimyasalların analizi ve tanımlanması nda gaz kaçağı tespiti için aletler tedarik ederler.Ürünlerini Çin, Avrupa ve Amerika’daki tesislerinde üretmektedir. Inficon’un Çin, Finlandiya, Fransa, Almanya, Hindistan, İtalya, Japonya, Kore, Lihtenştayn, Singapur, İsveç, İsviçre, Tayvan, Birleşik Krallık ve Amerika Birleşik Devletleri’nde yan kuruluşları bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

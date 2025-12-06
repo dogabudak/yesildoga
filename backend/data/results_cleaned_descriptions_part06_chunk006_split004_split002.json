@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Allen-Bradley",
+    "description": "Allen-Bradley, 1903 yılında Stanton Allen ve Lynde Bradley tarafından kurulan fabrika otomasyon ekipmanı hattı markasıdır.Özellikle programlanabilir mantık denetleyicileri (PLC), insan-makine arayüzleri, sensörler, güvenlik sistemleri, yazılım, sürücüler ve sürücü sistemleri, iletkenler, motor kontrol merkezleri ve sistemleri gibi ürünler üretir.1985 yılında Amerika merkezli Rockwell Automation Inc. tarafından satın alındı. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "SKK Tencere",
+    "description": "SKK, 1985 yılında Dieter Schnitzler tarafından kurulan Skk Küchen- Und Gasgerate Gmbh bünyesinde üretilen mutfak için pişirme kapları markasıdır.el döküm pişirme kaplarının önde gelen üreticilerinden biridir.Skk Küchen- Und Gasgerate Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir. Üretiminin yüzde 80’ini diğer ülkelere pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Red Chief Ayakkabı",
+    "description": "Red Chief, 1995 yılında Manoj Gyanchandani tarafından kurulan Leayan Global Pvt. Ltd. bünyesinde üretilen ayakkabı ve aksesuarlar markasıdır.Leayan Global Pvt. Ltd. Hindistan merkezlidir. Hindistan’da kendi tabakhanesi ve iki üretim tesisi ile deri ve ayakkabı üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Kekspir",
+    "description": "Kekspir, A101 Yeni Mağazacılık A.Ş. adına Şimşek Bisküvi ve Gıda San. A.Ş. tarafından üretilen bisküvi, waffle ve kekler markasıdır.Glikoz şurubu ve palm yağı içermektedir.Şimşek Bisküvi ve Gıda San. A.Ş. Karaman merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Shiro Helmets",
+    "description": "Shiro Helmets, 1996 yılında Juan Tomas Rojo tarafından kurulan Shiro Helmets S.A. bünyesinde üretilen tam yüz, jet ve modüler kasklar ve aksesuarlar markasıdır.Shiro Helmets S.A. İspanya merkezlidir. Ürünlerini Asya ülkelerinde üretmektedir ve 14’ten fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Panerai",
+    "description": "Panerai, 1860 yılında Giovanni Panerai tarafından kurulan L’Orologeria G. Panerai & C. bünyesindeki lüks saat markasıdır.Panerai, dünya çapında yetkili bayiler ve şirkete ait mağazalar aracılığıyla saatler tasarlar, üretir ve pazarlar.L’Orologeria G. Panerai & C. şirketinin sahibi İsviçre merkezli Richemont firmasıdır. İsviçre’nin Neuchatel kentinde saatler üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Leo Marciano",
+    "description": "Leo Marciano Paris, 1966 yılında aynı adı taşıyan tasarımcı Leo Marciano tarafından kurulan Leo Marciano SA bünyesindeki lüks moda evi markasıdır.Ev, hazır giyim ve couture’un yanı sıra deri ürünleri, ayakkabılar ve moda aksesuarları tasarlamaktadır.Leo Marciano SA Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tomshoo",
+    "description": "Tomshoo, Tomshoo Inc. bünyesinde üretilen kamp uyku tulumları, sırt çantaları, çanta, çadır ve barınak ışıkları ve fenerler, kamp mobilyaları markasıdır.Tomshoo Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Crayola",
+    "description": "Crayola, 1903 yılında kurulan Crayola, LLC bünyesindeki boya kalemleri, tebeşir, akrilik, suluboya, fırçalar, renkli kalemler, işaretleyiciler, modelleme kil ürünleri markasıdır.Crayola, LLC 1984 yılında Amerika merkezli Hallmark Cards’ın yüzde yüz iştiraki oldu.Bünyesindeki markalar:CrayolaSilly PuttyPortfolio Series",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Simkar Plastik",
+    "description": "Simkar Plastik, Şimşek Kardeşler İnş. Hayv. Orm. ve Tarım Ürn. İth. İhr. San. Tic. Ltd. Şti. bünyesinde üretilen damla sulama boru ve ek parçaları, yağmurlama sulama boru ve ek parçaları, polietilen basınçlı içme suyu boruları ve polietilen alçak yoğunluklu kangal boruları markasıdır.ISO 9001, ISO 14001 ve OHSAS 18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

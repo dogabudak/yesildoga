@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Signet Giyim",
+    "description": "Signet, 2022 yılında kurulmuş olan Mühür Tekstil İç ve Dış Tic. Ltd. Şti. bünyesinde üretilen kadın giyim ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vi’avior",
+    "description": "Viavior2022 yılında kurulmuş olan Beautymap Kozmetik Tic. A.Ş. bünyesindeki antiaging ve antioksidanlar, güneş ürünleri, leke ürünleri, nemlendiriciler, serumlar, setler, temizleme ürünleri, vücut ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-08-01"
+  },
+  {
+    "company": "Westmark London",
+    "description": "Westmark London, 2018 yılında Fatih Özhamaratlı tarafından kurulmuş olan Westmark Retail Ltd. bünyesindeki sokak giyim ürünleri markasıdır.Tişört, Sweatshirt ve kapüşonlu, iç çamaşırlar, organik pamuklu ürünler sunmaktadır.Westmark Retail Ltd. İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Fenwick Fishing",
+    "description": "Fenwick Fishing, 1937 yılında kurulmuş olan Pure Fishing Inc. bünyesinde üretilen olta takımı, yem ve makaralar markasıdır.Pure Fishing Inc. 2018 yılında Amerika merkezli yatırım şirketi Sycamore Partners tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Arrow Fastener",
+    "description": "Arrow Fastener, 1929 yılında Morris Abrams tarafından kurulmuş olan Arrow Fastener Company LLC bünyesindeki araçlar, bağlantı elemanları, aksesuarlar, zımba, çivi, perçin, yapıştırıcı markasıdır.Arrow Fastener Company LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

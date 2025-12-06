@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Krones",
+    "description": "Krones, 1951 yılında Herman Kronseder tarafından kurulan Krones AG bünyesinde üretilen şişeleme, konserve ve diğer ambalajlar için makine ve üretim hatları markasıdır.Makineleri ve hatları şişe, teneke kutu ve özel olarak şekillendirilmiş şişeleri işler.Krones AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Urtekram",
+    "description": "Urtekram, 1972 yılında kurulan Midsona Group bünyesindeki organik gıda ürünleri ve güzellik ürünleri markasıdır.Organik veya bitki bazlı gıda, sağlıklı gıda ve tüketici sağlığı ürünleri sunmaktadır ve ayrıca laktoz veya glutene duyarlı olanlar için geniş bir ürün yelpazesine sahiptir.Midsona Group Danimarka merkezlidir ve ürünlerini Danimarka’da üretmektedir.Midsona Group bünyesindeki markalar:CelnatDavertEskimo-3FriggsHappy BioHeliosKung MarkattaNaturdietUrtekramVegetalia",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Swissdent",
+    "description": "Swissdent, 2006 yılında Vaclav Velkoborsky tarafından kurulan Swissdent Cosmetics AG bünyesindeki diş macunu markasıdır.Diş macunları, ağız gargaraları ve diş fırçaları gibi çeşitli diş bakım ürünleri geliştirmektedir.Swissdent Cosmetics AG İsviçre merkezli uluslararası bir şirkettir ve tüm ürünler İsviçre yapımıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Support Line",
+    "description": "Support Line, 2005 yılında kurulan Ersamed Medikal ve Ortopedi San. Tic. Ltd. Şti. bünyesinde üretilen ortopedik malzemeler markasıdır.Ürünleri arasında boyunluklar, kol ve omuz askıları, dirseklikler yer alır. Tüm tekstil yan ürünlerini kendi bünyesinde imal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Superdrug",
+    "description": "Superdrug, 1964 yılında kurulan Superdrug Stores plc bünyesindeki kozmetik, koku, tuvalet malzemeleri, bebek, sağlık, saç, cilt, elektrik, erkek ve fotoğraf ürünleri markasıdır.Superdrug Stores plc, çok uluslu Watson (A.S. Watson), CK Hutchison Holdings Limited’e aittir.Hong Kong merkezli firma dünyanın en büyük sağlık ve güzellik ürünleri perakendecisidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Robogil",
+    "description": "Robogil, Robogil Dayanıklı Tüketim Malları Güvenlik Sistemleri Hediyelik Eşya Tekstil San. ve Tic. Ltd. Şti. tarafından Çin’den ithal edilen Türkçe konuşan robot süpürge ve paspas markasıdır.Yurtdışından ithal edilerek Robogil markası adı altında satılan tüm Akıllı Robotlar, TSE Uyumluluk Belgesi’ne sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Moose Knuckles",
+    "description": "Moose Knuckles, 1921 yılında kurulan Moose International Inc., bünyesindeki dış giyim markasıdır.Ceketler, aksesuarlar ve üstler üretmektedir.Moose International Inc. Kanada merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Zilli",
+    "description": "Zilli, 1965 yılında Alain Schimel tarafından kurulan Etablissements Zilli SAS bünyesindeki erkek giyim ve aksesuar markasıdır.Palto, ceket, gömlek, tişört, pantolon ve kot pantolon ile ayakkabı, kart tutucu, güneş gözlüğü, eşarp, kap ve mayo üretmektedir.Etablissements Zilli SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2021-02-22"
+  },
+  {
+    "company": "Vilmorin",
+    "description": "Vilmorin, 2016 yılında Vilmorin SA ve Mikado Kyowa Seed Co. Ltd’nin birleşmesiyle kurulan Vilmorin-Mikado bünyesindeki tohum markasıdır.Kökleri 1743 yılına uzanan Vilmorin, Türkiye’de 1986 yılından beri alt kuruluşu Vilmorin Anadolu Tohumculuk olarak faaliyet göstermektedir.Vilmorin-Mikado Fransa ve Japonya ortaklığında kurulan 12 ülkede ofisleri olan küresel bir şirkettir. Sebze sektöründe geniş bir ürün yelpazesi sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Derhy",
+    "description": "Derhy, 1969 yılında kurulan Groupe René Derhy bünyesindeki elbiseler, üstleri, etekler, kazak, triko, palto, tişört, kadın ve çocuklar için aksesuarlar markasıdır.Groupe René Derhy Fransa merkezli hazır giyim markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

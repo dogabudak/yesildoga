@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Moonton",
+    "description": "Moonton2014 yılında kurulmuş olan Shanghai Moonton Technology Co. Ltd. bünyesindeki mobil espor turnuvaları markasıdır.Mobil çok oyunculu çevrimiçi savaş arenası MOBA oyunu Mobile Legends: Bang Bang en çok bilinen oyunudur.Shanghai Moonton Technology Co. Ltd. 2021 yılında Çin merkezli ByteDance Ltd. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Elenor",
+    "description": "Elenor1989 yılında kurulmuş olan Seba Kimya San. ve Tic. A.Ş. bünyesinde üretilen koku giderici, oda ve çamaşır spreyi, sıvı el sabunu markasıdır.Firma İstanbul merkezlidir. Ürünlerini Tuzla Kimya San. Osb.’de üretmektedir ve birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Power Prox",
+    "description": "Power ProxDavıs Chry Kimya Temizlik İnşaat Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen toz deterjanlar, sıvı çamaşır yumuşatıcı markasıdır.ISO 9001, ISO 14001, ISO 45001 belgelerine sahiptir.Firma Diyarbakır merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Masterpass",
+    "description": "Masterpass1968 yılında kurulmuş olan Mastercard Inc.’e ait olan Mastercard Europe SA bünyesindeki dijital ödeme ve kart saklama altyapı çözümü markasıdır.İnternet veya uygulama üzerinden kart bilgileri, alışveriş yapılan işyeri ile paylaşılmadan ödemeyi gerçekleştirmeyi sağlar.Mastercard Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "San Marco Nutrition",
+    "description": "San Marco2019 yılında kurulmuş olan Sanmark İlaç Gıda ve Makina San. Tic. A.Ş. bünyesinde üretilen protein tozu, kreatin, sporcu besinleri markasıdır.ISO 9001, ISO 22000, OHSAS 18001 ve GMP belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

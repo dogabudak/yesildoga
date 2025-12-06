@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Guess",
+    "description": "Guess, 1981 yılında Georges Marciano, Maurice Marciano, Paul Marciano, Armand Marciano tarafından kurulan Guess, Inc. bünyesindeki erkek ve kadın giyim, saat, takı, parfüm, moda aksesuarları markasıdır.Şirketin Amerika ve Kanada’da mağazalarının çoğunluğu yer almaktadır ve bir çok ülkede faaliyet göstermektedir.Guess, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "İshakol Boya",
+    "description": "İshakol Boya, 1923 yılında Süleyman İshakoğlu tarafından kurulan İshakol Boya Sanayi A.Ş. bünyesinde üretilen su ve solvent bazlı dekoratif inşaat boyaları markasıdır.Yüzde 100 milli sermayeye sahip aile firması olan İshakol Boya, ürünlerini Türkiye’de üretmektedir.TÜV Thüringen tarafından periyodik olarak denetlenen faaliyetleri; ISO 9001, ISO 14001 ve OHSAS 18001 belgerine uygun yürütülmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Netsuite",
+    "description": "Netsuite, 1998 yılında kurulan NetSuite Inc. bünyesindeki iş finansmanı, operasyon ve müşteri ilişkilerini yönetmek için yazılım ve hizmetler sağlayan bir bulut bilgi işlem şirketi markasıdır.Yazılım ve hizmetleri, ERP, CRM, PSA ve e-ticaret modülleri ile küçük ve orta ölçekli işletmeler için özel olarak tasarlanmıştır.2016 yılında NetSuite Inc. Amerika merkezli çokuluslu bilgisayar teknolojisi şirketi Oracle Corporation tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Quinny",
+    "description": "Quinny, 1987 yılında Dorel Co Ltd ve Leo Schwartz ve Ridgewood Industries arasındaki birleşme sonucunda kurulan Dorel Industries bünyesindeki bebek arabası ve puset markasıdır.Dorel Industries Inc. tüm dünyada 25 ülkede tesislere sahiptir.Dorel Industries Inc. Kanada merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "NetSpeed",
+    "description": "NetSpeed, Netspeed İnternet A.Ş. bünyesindeki elektronik haberleşme işletmecisidir.Bireysel ve Kurumsal müşterilerine Fiber internet ve ADSL hizmetleri sağlamakta olan yüzde 100 Türk sermayeli bir şirkettir.Taahhütsüz, limitsiz, kotasız internet ve eve kadar kurulum hizmeti vermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-11-09"
+  }
+]

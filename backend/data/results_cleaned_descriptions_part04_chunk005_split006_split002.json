@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Taipad",
+    "description": "Taipad, 1996 yılında kurulan Inception Technology Corporation bünyesinde üretilen tablet bilgisayar markasıdır.Inception Technology Corporation Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Hakii",
+    "description": "Hakii, 2017 yılında kurulan Guangzhou Havit Technology Company Limited bünyesindeki ses ürünleri markasıdır.Bilgisayar aksesuarları, akıllı telefon aksesuarları, ses ürünleri, sarf malzemeleri, oyun serisi üreticisi Guangzhou Havit Technology Company Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Supercombinata",
+    "description": "Supercombinata, 1997 yılında kurulan Elsa SRL bünyesindeki otomatik taşınabilir hat delme ve döner kaynak makinesi markasıdır.Portatif çok fonksiyonlu hat Delme Tezgahları Supercombinata serisi, onarım ve bakım sektörünün artan taleplerine çözüm için üretilmektedir.Elsa SRL İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Yalin Led Light",
+    "description": "Yalin Led Light, 2016 yılında kurulan Yalin Industry Company Ltd. bünyesinde üretilen dekoratif ışık ürünleri, LED ürünleri markasıdır.Ürünleri arasında LED esnek ışık şeridi, LED ampul, LED duvar lambası, spot LED ışık, Yüksek Güç LED tavan ışık, yer altı LED ışık, gömülü LED Işık, LED sualtı ışık, kapalı LED ışık, açık LED ışık, enerji tasarruflu lamba ürünleri yer alır.Yalin Industry Company Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dalla Corte",
+    "description": "Dalla Corte, 1947 yılında kurulan Dalla Corte S.R.L. bünyesindeki orijinal çoklu kazan teknolojisini kullanan espresso makinesi markasıdır.Dalla Corte S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

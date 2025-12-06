@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Lutart",
+    "description": "Lutart, Teknik Büro Gereçleri Tic. ve San. Ltd. Şti. bünyesindeki teknik çizim gereçleri, kalem ve yazı gereçleri, kırtasiye, büro, eğitim ve öğretim malzemeleri, boya işleri için fırçalar ve rulolar markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;KembsLutartLutek",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İpek Değirmen",
+    "description": "İpek Değirmen, 1975 yılında kurulan Ramazan Ateş İpek Un Değirmeni bünyesinde üretilen tam buğday unu, tahıl unu, bakliyat unu, baharat unu, glutensiz unlar, kuruyemiş markasıdır.Ürünlerini geleneksel yöntemlerle katkı maddesi kullanmadan taş değirmenlerde öğütmektedir.Firma Aksaray merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mairdi",
+    "description": "Mairdi, 2009 yılında kurulan Xiamen Mairdi Electronic Technology Co. Ltd. bünyesinde üretilen mikrofonlu kulaklık, çağrı merkezi kulaklığı, kablosuz ofis kulaklığı, eğitim için kulaklık, ses ve video ürünü, enc gürültü engelleme, aksesuarlarXiamen Mairdi Electronic Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 120 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kalender Çay",
+    "description": "Kalender Çay, 1989 yılında kurulan Kalender Çay San. ve Tic. Ltd. Şti. bünyesinde üretilen kuru çay markasıdır.ISO 9001, OHSAS 18001, ISO 14001, ISO 22000 belgelerine sahiptir.Firma Rize merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Valtech",
+    "description": "Valtech, 2005 yılında kurulan Valtech Cardio Ltd. bünyesinde üretilen tıbbi cihazlar markasıdır.Atan bir kalbe ince ayar yapılmasını sağlayan açık kalp cerrahisi için onarım ürünleri geliştirmektedir.Valtech Cardio Ltd. İsrail merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

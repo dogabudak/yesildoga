@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Clinic Pyroo",
+    "description": "Clinic Pyroo, 2007 yılında kurulmuş olan Zed Kozmetik Kuaför Malzemeleri San. Tic. Ltd. Şti. bünyesindeki kozmetik ve parfüm markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;Clinic PyrooDr.Biontech ClinicN-Deez HairOplexi Clinic Hair",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Peymar",
+    "description": "Peymar, 2005 yılında kurulmuş olan Peymar Gıda Turizm Akaryakıt Nakliye İnş. San. ve Tic. Ltd. Şti. bünyesinde üretilen Ezine inek peyniri, Ezine keçi peyniri, Ezine koyun peyniri, Trakya eski kaşar peyniri, taze kaşar peyniri, tulum peynir markasıdır.Helal belgesine sahiptir.Firma Çanakkale merkezlidir. Ürünlerini 3 bin metrekaresi kapalı olmak üzere 15 bin metrekarelik arazide bulunan tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tencel",
+    "description": "Tencel, 1938 yılında kurulmuş olan Lenzing AG bünyesindeki tekstil elyafları, modal selülozik elyaflar, akrilik elyaflar, dokunmamış kumaşlar, kağıt hamuru, termoplastikler, PTFE markasıdır.Lenzing AG Avusturya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Classi",
+    "description": "Classi, 1996 yılında kurulmuş olan Sedir Mobilya ve Orman Ürünleri San. ve Tic. Ltd. Şti. bünyesindeki koltuk takımları, televizyon üniteleri, bahçe-balkon mobilyaları markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Duracarb",
+    "description": "Duracarb, 1952 yılında kurulmuş olan IMC INTL Metamworking Co. bünyesinde üretilen tüm metal kesme uygulamalarını kapsayan çok çeşitli karbür uçlar, karbür frezeler ve kesici takımlar markasıdır.IMC INTL Metamworking Co. İsrail merkezlidir. Şirketin dünya çapında 65 ülkede yaklaşık 130 fabrikası ve temsilcisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  }
+]

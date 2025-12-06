@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Skyplanx",
+    "description": "Skyplanx, 1995 yılında kurulmuş olan Bredent Gmbh & Co. KG bünyesindeki implant yazılımı markasıdır.Bredent Gmbh & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Skywei",
+    "description": "Skywei, Dongguan Ruitong Technology Service Co. Ltd. bünyesinde üretilen tırnak cilası, tırnak ürünleri markasıdır.Dongguan Ruitong Technology Service Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Martin Lion L’atelier Parfumerie",
+    "description": "Martin Lion L’atelier Parfumerie, 2001 yılında kurulmuş olan Nucos Kozmetik Kimya San. ve Tic. Ltd. Şti. bünyesinde üretilen parfüm markasıdır.ISO 9001, ISO 22716 belgelerine sahiptir.Firma İstanbul merkezlidir ve ürünlerini dünyanın pek çok ülkesine ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lenze",
+    "description": "Lenze, 1947 yılında kurulmuş olan Lenze Operations Gmbh bünyesindeki mekatronik çözümler, makine otomasyonu için donanım ve yazılım içeren güçlü sistemler ve makine ve tesis mühendisliği için dijital hizmetler markasıdır.Lenze Operations Gmbh Almanya merkezlidir ve 45 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Marjin",
+    "description": "Marjin, 2011 yılında kurulmuş olan Marjin Deri Ürünleri San. Tic. Ltd. Şti. bünyesindeki ayakkabı, spor ayakkabı, terlik, sandalet ve çanta markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

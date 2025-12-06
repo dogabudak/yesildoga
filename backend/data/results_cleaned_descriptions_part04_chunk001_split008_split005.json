@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Balabit",
+    "description": "Balabit, 2000 yılında 6 kişi tarafından kurulan Balabit SA bünyesindeki dijital güvenlik yazılımı markasıdır.Balabit, işletmelerin imtiyazlı hesaplarla ilişkili veri ihlali riskini azaltmalarına yardımcı olan BT güvenlik sistemleri ve ilgili hizmetlerin geliştirilmesinde uzmanlaşmış bir güvenlik firmasıydı. 2018 yılında Amerika merkezli kimlik ve erişim yönetimi çözümleri sağlayıcısı One Identity LLC tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "EaseUS RecExperts",
+    "description": "EaseUS RecExperts, 2004 yılında kurulan Chengdu Yiwo Tech Development Co., Ltd. bünyesinde üretilen, webcam kaydetme, ekran kaydetme, oyun kaydetme, ses kaydetme yazılımı markasıdır.EaseUS, veri yedekleme, veri kurtarma ve disk yönetimi alanlarında veri güvenliğine odaklanmaktadır.Chengdu Yiwo Tech Development Co., Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Manz",
+    "description": "Manz, 1987 yılında Dieter Manz tarafından kurulan Manz AG bünyesinde üretilen; müşteriye özel gelişmeleri ve bireysel sistem çözümleri oluşturmak için birbirine bağlanabilen standart makineler ve modüller markasıdır.İş faaliyetleri güneş, elektronik, enerji depolama, sözleşmeli üretim ve hizmet sektörlerindedir. Otomasyon, lazer işlemleri, ölçüm teknolojisi, ıslak kimyasal süreçler, roll-to-roll süreçleri alanlarında yetkinliği vardır.Makine Mühendisliği şirketi Manz AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Simple Skincare",
+    "description": "Simple Skincare, 1960 yılında kurulan Simple Health & Beauty Group Limited bünyesindeki cilt bakım ürünleri markasıdır.Simple Health & Beauty Group Limited 2010 yılında İngiltere merkezli Unilever PLC. tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-26"
+  },
+  {
+    "company": "SCA",
+    "description": "SCA, 1929 yılında Ivar Kreuger tarafından kurulan SCA Group bünyesinde üretilen hijyen ve ormancılık ürünleri markasıdır.SCA’nın işinin özü ormandır. Ambalaj ve baskı, kağıt hamuru, ahşap ürünleri, yenilenebilir enerji, orman sahipleri için hizmetler ve verimli ulaşım çözümleri için kağıt sunmaktadır.SCA Group İsveç merkezlidir.Büyük hissedarlar listesi;AMF Fonder (yüzde 11)Industrivärden (yüzde 10,8)Norges Bank Investment Management (yüzde 6,67)Swedbank Robur Fonder (yüzde 5,52)AFA Sjukförsäkringsaktiebolag (yüzde 4,18)Alecta Pension Insurance (yüzde 3,26)Fidelity Management & Research (yüzde 2,95)The Vanguard Group (yüzde 2,74)Schroder Investment Management (yüzde 2,67)SEB Investment Management (yüzde 2,41)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  }
+]

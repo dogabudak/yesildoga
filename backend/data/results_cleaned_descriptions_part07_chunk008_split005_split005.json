@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Rotorcraft",
+    "description": "Rotorcraft, 2012 yılında kurulmuş olan House Of Brands B.V. bünyesindeki saat markasıdır.House Of Brands B.V. Hollanda merkezlidir.Bünyesindeki markalar;22 UndergroundAeromeisterFuroreRotorcraft",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Kirmasti",
+    "description": "Kirmasti, Kirmasti Peynirleri A.Ş. bünyesinde üretilen klasik beyaz peynir, taze kaşar peyniri, taze lor peyniri, taze tost peyniri, krem peynir markasıdır.Firma Bursa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Paul Hewitt",
+    "description": "Paul Hewitt, 2009 yılında kurulmuş olan Paul Hewitt Gmbh bünyesindeki mücevher, bilezikler, oymalar, saatler, aksesuarlar markasıdır.Paul Hewitt Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Okomesan",
+    "description": "Okomesan, Italpo Enterprise s.r.l. bünyesinde üretilen suşi pirinci markasıdır.Italpo Enterprise s.r.l. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Waffcone",
+    "description": "Waffcone, 2009 yılında Turkcone Gıda San. Turizm ve Dış Tic. A.Ş. bünyesinde kurulan kornet, kornet kase, kornet bisküvi markasıdırÜrünleri doğal ve katkısızdır. ISO 22000 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

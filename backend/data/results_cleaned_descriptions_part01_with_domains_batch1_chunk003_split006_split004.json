@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Shiseido",
+    "description": "Shiseido 1872 yılında kurulan cilt bakımı, makyaj, vücut, saç ve parfüm ürünleri olmak üzere çok geniş ürün yelpazesine sahip olan bir markadır. Tüm dünyaya yayılmış büyük bir şirkettir ve kozmetik sektöründe dünyanın dördüncü büyük grubudur.Japonya’nın en büyük kozmetik şirketi olan Japon şirkettir.Grup bünyesinde Shiseido markasının yanısıra Clé de Peau Beauté, Jean Paul Gaultier parfumes, Issey Miyake Parfums, Narciso Rodriguez parfums, Déclore, Carita ve Nars gibi uluslararası dev kozmetik markalarını barındırır.Shiseido medikal grup ve kozmetiğin dışında; Banyo ürünleri (duş şampuanı, sabun), sağlık ürünleri (rafine prinç, besin destek içeceği, diete yardımcı tablet, vitamin kapsülü vs.), güzellik salonları, yiyecek, restaurant, butik gibi birçok alanda faaliyet göstermektir.",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2019-08-10"
+  },
+  {
+    "company": "Calve",
+    "description": "Calve1897 yılında piyasaya sürülen ketçap, mayonez, hardal ve soslar markasıdır.1986 yılında Türkiye pazarına giriş yapmıştır. Unilever Plc bünyesinde üretilmektedir.Unilever Plc İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2024-03-20"
+  },
+  {
+    "company": "Volta Şarjlı Çin",
+    "description": "Volta Motor, kuruluş yıllarında gerçekleştirilen birçok ödüllü ARGE projesinin ticarileştirilmesi sonucunda ürettiği ürünler beğenilerek Türkiye’nin en çok satılan elektrikli araç markalarından biri haline gelmiştir. Düzce’de 4 bin 587 metrekare kapalı alanda üretimini gerçekleştirmektedir. Gümüşova Organize Sanayi Bölgesinde bulunan modern entegre üretim tesisinde bölgenin en kapsamlı elektrikli araç üretimini yapmaktadır.Dünya’nın çeşitli ülkelerinde satış temsilcileri edinmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Whirlpool Ülke",
+    "description": "Whirlpool Corporation dünyanın en önemli beyaz eşya üreticilerindendir.Bünyesinde: Whirlpool, Indesit, Hotpoint, KitchenAid, Maytag, Consul, Brastemp, Amana, Bauknecht ve Jenn-Air markaları olmak üzere 13 farklı markayı 170’ten fazla ülke pazarına sunuyor.Türkiye pazarına Manisa’da üretim yapan Indesit Company’i satın alarak giren Amerikalı Whirlpool Corporation, Türkiye’de ana markası Hotpoint ve Indesit markalarıyla beyaz eşya, küçük ev aletleri ve klima sektöründe faaliyet gösteriyor.Fabrikalarda üretilen ürünler başta İngiltere ve İtalya olmak üzere 89 ülkeye ihraç ediliyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2018-07-17"
+  },
+  {
+    "company": "Elle Ayakkabı Ne Ülke",
+    "description": "Elle Ayakkabı Hangi Ülkenin Ne Ülke MalıELLE, 1977 yılında Fehim Akar ve Hasan Acar ortaklığında İstanbul Gedikpaşa’da bir atölyede üretime başlayan marka, Hadımköy’de 6 bin metrekarelik Fabrikası’nda üretim yapıyor.Firma Türk Kadını’nı dünya modasıyla buluşturma misyonuyla kuruldu. Kadınları babet, mokasen ve postalla tanıştırdı. Zaman içinde, diz üstü çizme, troklu ve çivili modeller de ürün gamına eklendi.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-09-20"
+  }
+]

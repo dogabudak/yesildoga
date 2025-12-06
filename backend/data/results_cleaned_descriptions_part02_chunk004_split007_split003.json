@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Maersk Oil",
+    "description": "Maersk Oil, 1962 yılında kurulan petrol ve gaz şirketidir. 2017 yılında petrol şirketi TOTAL tarafından satın alındı.Total 1924 yılında Ernest Mercier tarafından kurulan, Fransa merkezli petrol, gaz arama ve üretimi, doğal gaz ve LNG ticareti ve taşımacılığı, petrol arıtımı, kimyasallar, güneş enerjisi markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Franke Ankastre",
+    "description": "Franke, 1911 yılında kurulan Franke Holding AG bünyesindeki Ankastre Mutfak Ürünleri (Eviye, Armatür, Ocak, Fırın, Mikrodalga Fırın, Davlumbaz, Bulaşık Makinesi, Çamaşır Makinesi, Buzdolabı, Çöp Öğütücü,), Solid Surface Akrilik Yüzeyler, Stone by Lapitec, Frame Klima ve Paslanmaz Çelik Banyo Malzemeleri markasıdır.Franke Holding AG İsviçre merkezli bir şirkettir.Türkiye pazarına 1999 yılında Franke Mutfak ve Banyo Sistemleri San. ve Tic. A.Ş. olarak girmiştir ve Kocaeli ile Manisa’da üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Phantom Traktör",
+    "description": "Phantom, 1990 yılında kurulan AGCO Corperation bünyesindeki Massey Ferguson markasına ait traktör serisidir.AGCO traktör, biçerdöver, balya makineleri, kimyasallama makineleri, yem makineleri, toprak işleme makineleri, diğer ekipmanlar ve parça ürünlerini, Fransa, Türkiye ve Brezilya’da üretmektedir.AGCO Corperation Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Benelli Motor",
+    "description": "Benelli, 1911 yılında kurulan motosiklet, scooter ve parçaları, elektrikli bisiklet, çim biçme makinesi, golf arabası, jeneratör, pompa ve bahçe ekipmanları markasıdır. 1998 yılında İtalyan şirketi Benelli’nin çoğunluk hissesini Çin grubu Keeway QianJiang Motor Company satın aldı.Benelli, motosiklet alanında üretim kapasitesi açısından Çin de en büyük pazara sahip Qjian Jiang grubu ile birlikte çalışmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2019-09-06"
+  },
+  {
+    "company": "Zade",
+    "description": "Zade, 1888 yılında kurulan Helvacızade A. Ş. bünyesindeki Ayçiçek Yağı, Kanola Yağı, Mısır Yağı, Zeytin Yağı, Soya Yağı, Pamuk Çekirdeği Yağı, Fındık Yağı, Fıstık Yağı, Üzüm çekirdeği yağı, Nar çekirdeği yağı, Kabak Çekirdeği yağı, Keten Tohumu yağı, Haşhaş Yağı, Susam Yağı, Aspir Yağı, Çörekotu yağı markasıdır.Zade Vital markası ile, 23 çeşit soğuk pres ve 16 çeşit organik soğuk pres olmak üzere 170’den fazla form seçeneğini sunmaktadır.Ayçiçek, Mısır, Hamyağlar gibi hammaddeleri Amerika, Almanya, Brezilya, Rusya ve Ukrayna gibi ülkelerden ithal etmektedir.Firma 102 bin metrekare açık 50 bin metrekare kapalı alanda üretim gerçekleştirmektedir.Danimarka, Almanya, İsveç, Belçika, Azerbaycan, Kazakistan, Türkmenistan, Tacikistan, Gürcistan ve Suudi Arabistan gibi bir çok ülkeye ürünlerini ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-09-11"
+  }
+]

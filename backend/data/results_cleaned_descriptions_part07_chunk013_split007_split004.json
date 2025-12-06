@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Cashmere Moon",
+    "description": "Cashmere Moon, 2021 yılında kurulmuş olan Cashmere Moon LLC. bünyesindeki vücut bakım ürünleri markasıdır.Ürünleri boya ve ftalat gibi zararlı bileşenler içermez ve hayvanlar üzerinde test edilmemektedir. Cam, kağıt ve geri dönüştürülebilir plastik kullanılarak ambalajlanmaktadır.Cashmere Moon LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Löffler",
+    "description": "Löffler Hangi Ülkenin Malı MarkasıLöffler, 1973 yılında kurulmuş olan Information About Loeffler Gmbh bünyesinde üretilen ceket ve yelekler, pantolon, forma, iç çamaşırı, tişört ve pololar, kazak ve kapüşonlular, yarış takımları, aksesuarlar, bisiklet, dış mekan, koşu, kayak kıyafetleri markasıdır.Information About Loeffler Gmbh Avusturya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Chime",
+    "description": "Chime, 2013 yılında kurulmuş olan Chime Capital LLC bünyesindeki banka kartına sahip bir çevrimiçi bankacılık hesabıdır ve isteğe bağlı bir tasarruf hesabı sunar.Visa kredi kartlarının kabul edildiği her yerde kullanılabilir.Chime Capital LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "AFH-Antriebstechnik",
+    "description": "AFH-Antriebstechnik, 1949 yılında kurulmuş olan AFH Production GmbH & Co. KG. bünyesinde üretilen tel işleme teknolojisinde kullanılan dokuma çekme kayışları, tahrik kayışları ve işleme kayışları markasıdır.AFH Production GmbH & Co. KG. Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Shineworld",
+    "description": "Shineworld, 2004 yılında kurulmuş olan Shanghai Shineworld Group Co. Ltd. bünyesinde üretilen ekstrüzyon makinesi, kablo üretim ekipmanları, kablo hammaddeleri, paketleme makineleri, mekanik aksesuarlar ve bileşenler markasıdır.Shanghai Shineworld Group Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

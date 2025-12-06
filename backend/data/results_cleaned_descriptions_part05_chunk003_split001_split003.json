@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aerovironment",
+    "description": "Aerovironment, 1971 yılında kurulan AeroVironment Inc. bünyesinde üretilen insansız hava araçları markasıdır.AeroVironment Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gerkens",
+    "description": "Gerkens, 1865 yılında kurulan Cargill Incorporated bünyesinde üretilen kakao tozuyla yapılmış pasta, kek ve çörek gibi fırın ürünleri markasıdır.Cargill Incorporated Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Unguisan",
+    "description": "Unguisan, 1953 yılında kurulan Greppmayr GmbH bünyesinde üretilen tırnak bakım ürünleri markasıdır.Greppmayr GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Hahne",
+    "description": "Hahne, 1848 yılında kurulan C. Hahne Mühlenwerke GmbH & Co. KG bünyesinde üretilen mısır gevreği, doldurulmuş tahıllar, tahıl gevreği, gevrek müsli, çok gevreği, tahıl çubukları, müsli, tatlı tahıllar markasıdır.C. Hahne Mühlenwerke GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Gluten",
+    "description": "Dr. Gluten Nerenin Malı MarkasıDr. Gluten, 2011 yılında kurulan Optinaturel İlaç Gıd. Med. San. Tic. Ltd. Şti. bünyesinde üretilen glutensiz kek unu, yulaf ezmesi, pirinç, plavlık bulgur, mısır unu, mısır nişastası, mısır irmiği, lavaş unu, köftelik bulgur, kinoa unu, çıtır yumurtalı sütlü çikolata, un karışımı markasıdır.Ankara merkezli firma organik ürünler, glutensiz ürünler, atom çayı, sporcu gıdaları, fıstık ezmesi, emziren anne çayı, bebek mamaları ve çorbaları üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-08-08"
+  }
+]

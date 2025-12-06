@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Stilea",
+    "description": "Stilea, 2010 yılında TCT Elektronik AŞ. bünyesinde bulunan İtalyan ve Alman ortak tasarımı mutfak aletleri markasıdır.Stilea markalı ürünler Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Severin Ülke",
+    "description": "Severin, 1892 yılında Anton Severin tarafından kurulan elektrikli ev aletleri markasıdır.80’den fazla ülkede faaliyet gösteren Alman şirketin Almanya ve Çin’de üretim tesisleri bulunmaktadır.Ürün portföyü kahve makinesi, elektrikli su ısıtıcısı, tost makinesi, yumurta pişirme cihazı, Barbekü ve Raclette ızgara, mikser, elektrikli süpürge, saç ve vücut bakımı ürünleri dahil olmak üzere 200’den fazla elektrikli aletleri içerir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Doğan Online",
+    "description": "Doğan Online Sahibi Kim Kimin MalıDoğan Online (DOL), 1999 yılında Hanzade Doğan Boyner tarafından kurulan bir internet firmasıdır. Bünyesinde Hepsiburada gibi siteler yer almaktadır. Web portalları, sosyal ağlar ve e-ticaret sitelerine kadar birçok alanda hizmet sunmaktadır.Doğan Online, Doğan Holding’e aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": "2018-10-19"
+  },
+  {
+    "company": "Hero Baby",
+    "description": "Hero, 1886 yılında Gustav Henckell ve Gustav Zeiler tarafından kurulan Hero AG bünyesinde üretilen bebek ve çocuk maması, çocuk sütü, reçeller, sağlıklı atıştırmalıklar, bisküviler markasıdır.Hero AG İsviçre merkezlidir. 30’dan fazla ülkede faaliyet göstermektedir.Bünyesindeki markalar;AdaptaBeech-NutCeralinoEasycapFruit KissFruta VivaGalactinaHeroHero BabyHero Baby BebeHero Baby BoutiqueHero Baby ButikHero Baby İyi GecelerHero Baby İyi UykularHero Baby JuniorHero Baby Kahvaltı SaatiHero Baby LactumHero Baby Swiss BrandHero Baby Tatlı RüyalarHero Baby Uyumadan ÖnceHero BüyümeHero HayatHero KidsHero KitoHero Muesly",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2023-01-08"
+  },
+  {
+    "company": "Rosetta Stone Ülke",
+    "description": "Rosetta Stone, 1992 yılında kurulan bilgisayar destekli lisan öğrenme yazılımı markasıdır.Çok sayıda dili öğretmektedir. Amerikan merkezli Rosetta Stone Inc. tarafından üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Koeninseg",
+    "description": "Koeninseg, 1994 yılında Christian von Koenigsegg tarafından kurulmuş olan Koenigsegg Automotive AB bünyesindeki özel yapım spor ve hiper otomobiller, otomobil parçaları ve diğer hizmetler markasıdır.Koenigsegg Automotive AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Medcem",
+    "description": "Medcem, 2015 yılında kurulmuş olan Medcem Madencilik ve Yapı Malz. San. ve Tic. A.Ş. bünyesinde üretilen çimento, klinker, hazır beton ve çimento katkı malzemeleri markasıdır.Eren Holding grup şirketi Mersin merkezlidir ve ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "d.i.p",
+    "description": "d.i.p Nerenin Malı MarkasıDip, 2016 yılında kurulmuş olan Ayderin Makine İthalat İhracat San. ve Tic. Ltd. Şti. bünyesinde üretilen iş ayakkabıları markasıdır.ISO 20345 belgesine sahiptir.Firma İstanbul merkezlidir.Bünyesindeki markalar;D.I.POver GuardStout",
+    "documents": [
+      "ISO",
+      "ISO 20345"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Clinomyn Diş Macunu",
+    "description": "Clinomyn, 1987 yılında kurulmuş olan Trimb Healthcare AB bünyesinde üretilen diş macunu markasıdır.Trimb Healthcare AB, 2019 yılında İsveç merkezli EQT Partners AB tarafından satın alınmıştır. Ürünlerini 90’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": "2023-10-31"
+  },
+  {
+    "company": "Erkenek Işık Su",
+    "description": "Erkenek Işık Su, 2012 yılında kurulmuş olan Baraj Grup Su İçecek Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen şişelenmiş içme suyu markasıdır.Firma Malatya’da dolum yapmaktadır ve çevre illerde bayileri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

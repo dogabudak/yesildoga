@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Concor",
+    "description": "2005 yılında kurulmuş olan Daiichi Sankyo Co. Ltd.’ye ait Daiichi Sankyo İlaç Tic. Ltd. Şti. bünyesindeki ilaç markasıdır.Daiichi Sankyo Co. Ltd. Japonya merkezlidir. 20’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Valliant Türkiye",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Oloure Beauty",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Magnimore Plus",
+    "description": "2011 yılında kurulmuş olan TAB İlaç San. A.Ş. bünyesindeki gıda takviyeleri markasıdır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Conrad Hotels & Resorts",
+    "description": "1919 yılında Conrad Hilton tarafından kurulmuş olan Hilton Worldwide Holdings Inc. bünyesindeki lüks oteller zinciri markasıdır.Hilton Worldwide Holdings Inc. Amerika merkezlidir.Hissedarları:Vanguard Group Inc. (yüzde 10,4)Ct Opi Cayman Corp. Ltd. (yüzde 9,5)Hlt A23 Holdco LLC (yüzde 9,3)Blackrock Inc. (yüzde 8,4)Hna Tourism Group Co. Ltd. (yüzde 6,8)Fmr LLC (yüzde 4,6)Principal Financial Group Inc. (yüzde 4,3)State Street Corp. (yüzde 4)Jpmorgan Chase Co. (yüzde 3,2)Capital International Investors (yüzde 3)Blackstone Holdings III LP (yüzde 2,9)Bank Of America Corp. (yüzde 2,7)Geode Capital Management LLC (yüzde 2,4)T Rowe Price Investment Management Inc. (yüzde 2,4)Pershing Square Capital Management LP (yüzde 2,2)Hlt Holdco LLC (yüzde 2,2)Blackstone Holdings I LP (yüzde 2,1)Massachusetts Financial Services Co. (yüzde 1,8)Franklin Resources Inc. (yüzde 1,8)Capital Research Global Investors (yüzde 1,7)Price T Rowe Associates Inc. (yüzde 1,6)Jennison Associates LLC (yüzde 1,4)Arrowstreet Capital Limited Partnership (yüzde 1,3)Capital World Investors (yüzde 1,2)Bma V LLC (yüzde 1,1)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

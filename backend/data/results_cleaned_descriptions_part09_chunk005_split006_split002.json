@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Teckwrap Film",
+    "description": "Teckwrap2012 yılında kurulmuş olan Guangzhou Eagle Decoration Material Co. Ltd. bünyesinde üretilen araba vinil filmi, ısı transferi vinil, ev dekorasyon filmi ve ilgili uygulama araçları markasıdır.Guangzhou Eagle Decoration Material Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Arpenaz",
+    "description": "Arpenaz1976 yılında kurulan Decathlon S.A. bünyesindeki kamp çadırları markasıdır.Türkiye pazarına 2009 yılında giren Decathlon S.A. Fransa merkezlidir ve 70 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tecnocell Pil",
+    "description": "Croque2015 yılında kurulmuş olan Wico Industrial Co. Ltd. bünyesinde üretilen piller, nikel metal hidrit piller, nikel kadmiyum piller markasıdır.Wico Industrial Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ada Gazozu",
+    "description": "Ada Gazozu1958 yılında temeli atılan Dimes Gıda San. ve Tic. A.Ş. adına Kristal Kola ve Meşrubat San. Tic. A.Ş. tarafından üretilen aromalı gazlı içecekler markasıdır.Ürünleri koruyucu ve aroma vericiler içermektedir.Üretici firma Balıkesir, Sakarya ve Kırıkkale’deki tesislerinde üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Predator Energy",
+    "description": "Predator2002 yılında kurulmuş olan Energy Beverages LLC bünyesinde üretilen enerji içeceği markasııdr.Yüksek oranda şeker içermektedir.Energy Beverages LLC Amerika merkezli Monster Energy Co.’nun yan kuruluşudur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

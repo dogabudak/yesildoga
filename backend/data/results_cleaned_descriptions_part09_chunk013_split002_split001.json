@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Alfani",
+    "description": "1966 yılında kurulmuş olan Macy’s Ip Holdings LLC bünyesindeki giyim ve aksesuarlar markasıdır.Kazak yünü ve ince merinos yünü Avustralya ve İtalya’dan ithal edilirken, pamuk Güney Amerika’dan toplanır. İpek ise Hindistan ve Çin’deki fabrikalarda dokunmaktadır.Macy’s Ip Holdings LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tom Ford Parfüm",
+    "description": "",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Jing Yi",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "London Fog",
+    "description": "1923 yılında Israel Myers tarafından kurulmuş olan London FOG Industries Inc. bünyesindeki trençkot, yağmurluk, ceket, parka, el çantası ve şemsiyeler markasıdır.London FOG Industries Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Airbuds",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

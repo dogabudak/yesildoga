@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Fame Kitchen",
+    "description": "Fame Kitchen, 1991 yılında kurulan Ün Mutfak ve Ev Eşyaları Tic. San. Ltd. Şti. bünyesindeki süzgeç, tel ürün, bıçak, çay ve kahve potları, silikon ürünler, mutfak ürünleri, plastik mutfak gereçleri, rende, bambu ürünler, soyucu, değirmen, kek kalıpları, baharat takımları, fincan takımları, kupa ve bardaklar, çakmak, sıvı sabunluk ve banyo ürünleri, banyo setleri, elbise askısı, hediyelik eşya, kozmetik, temizlik grubu ürünleri markasıdır.Ürünlerinin bir kısmını üretirken bir kısmını ise Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rome Kıyma Makinesi",
+    "description": "Rome, 1977 yılında kurulan Rome Ltd. bünyesindeki kıyma makinesi markasıdır.Rome tüm kıyma makinesi ihtiyaçlarını öğütücü parçaları veya yedek OEM parçalarını tedarik etmektedir.Rome Ltd. Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Euroser",
+    "description": "Euroser, 1993 yılında Sarıbaşlar Seramik San. ve Tic. Ltd. Şti. bünyesinde üretilen lavabo, klozet, rezervuar gibi seramik vitrifiye ürünleri markasıdır.Sarıbaşlar Seramik yıllık 750 bin parça üretim kapasitesine sahip fabrikasında ürünlerini üretmektedir.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Top Stars",
+    "description": "Top Stars, BİM Birleşik Mağazalar A.Ş. adına, Detay Gıda San. ve Tic. A.Ş. tarafından üretilen çikolata kaplı draje markasıdır.Ultra işlenmiş üründür, gluten ve aroma vericiler içerir. Üründe soya kullanılmıştır.Detay Gıda San. ve Tic. A.Ş. sahibi Altınmarka grubudur.1995 yılında kurulan BİM Birleşik Mağazalar A.Ş. temel gıda ve tüketim malzemeleri satan marketler zinciridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Gofgof",
+    "description": "Gofgof, BİM Birleşik Mağazalar A.Ş. adına, Bifa Bisküvi ve Gıda San. A.Ş. tarafından üretilen çikolata kaplı draje markasıdır.Ultra işlenmiş aşırı şekerli ürün çok fazla doymuş yağ, aroma vericiler, Palm yağı(Hurma yağı) ve Trans yağ içermektedir. Üründe soya lestini, gluten ve laktoz bulunmaktadır.Bifa Bisküvi 1962 yılında kurulan bisküvi, çikolata, kek, gofret, kraker, şekerleme üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

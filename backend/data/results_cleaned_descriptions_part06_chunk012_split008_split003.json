@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Wiosen",
+    "description": "Wiosen, 2022 yılında kurulan Beatris Kozmetik ve Sağlıklı Yaşam Ürünleri San. Tic. Ltd. Şti. bünyesinde üretilen cilt beyazlatıcı krem, biotin collagen şampuan, göğüs kalça bakım kremi, leke kremi, saç bakım serumu markasıdır.Firma Niğde merkezlidir. Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mueller Industries",
+    "description": "Mueller Industries, 1917 yılında kurulan Mueller Industries Inc. bünyesindeki bakır boru ve bağlantı parçaları, pirinç ve bakır alaşımlı çubuk, çubuk ve şekiller, alüminyum ve pirinç dövmeler, alüminyum ve bakır darbeli ekstrüzyonlar, plastik vanalar ve bağlantı parçaları, soğutma vanaları ve bağlantı parçaları; imal edilmiş boru ürünleri; ve çelik nipeller markasıdır.Firma sıhhi tesisat, ısıtma, iklimlendirme, soğutma, cihaz, medikal, otomotiv, askeri ve savunma, denizcilik, eğlence ve daha pek çok alanda pazarlarda ve sektörlerde yer almaktadır.Mueller Industries Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Seroliva",
+    "description": "Seroliva, 2007 yılında kurulan Oliva Gıda San. Tic. Ltd. Şti. bünyesinde üretilen organik kantaron yağı, organik kekik, adaçayı, el yapımı zeytinyağı sabunu, sofralık zeytin, soğuk sıkım zeytinyağı, kantaron yağı markasıdır.Firma Aydın merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Amphibia",
+    "description": "Amphibia, 1976 yılında kurulan Volteco S.P.A. bünyesinde üretilen suya dayanıklı EPDM sızdırmazlık membranları markasıdır.Şirket inşaat sektörü için su yalıtım ürünleri sunmaktadır. ISO 9001, ISO 14001, OHSAS 18001 belgelerine sahiptir.Volteco S.P.A. İtalya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Cannabench",
+    "description": "Cannabench, 1928 yılında kurulan Knecht Gmbh bünyesinde üretilen tezgah sistemleri markasıdır.Sistemleri her türlü sera, iç mekan tesisi, bodrum veya laboratuvarlarda kullanılabilir.Knecht Gmbh Almanya merkezlidir ve ürünlerini Almanya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

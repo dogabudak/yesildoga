@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Original Prusa",
+    "description": "Original Prusa, 2012 yılında Josef Prusa tarafından kurulan Prusa Development a.s. bünyesinde üretilen 3D yazıcılar, parça ve aksesuarlar, yazılım markasıdır.Kendi donanımını ve yazılımını geliştirmektedir. 3D yazıcıları açık kaynak kodludur ve parçalarının çoğu diğer 3D yazıcılar tarafından basılmıştır, bu yüzden diğer yazıcılar için parçalar oluşturan 600’den fazla yazıcıya sahip büyük bir salonu vardır.Prusa Development a.s. Çek Cumhuriyeti merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CZ",
+    "updated_date": null
+  },
+  {
+    "company": "Bonduelle",
+    "description": "Bonduelle, 1853 yılında kurulan Pierre et Benoit Bonduelle SAS bünyesinde üretilen konserve sebzeler, dondurulmuş gıdalar, hazır salata karışımları ve tüketime hazır salata ve şarküteri ürünleri markasıdır.Pierre et Benoit Bonduelle SAS Fransa merkezlidir. Ürünlerini 100’den fazla ülkede sunuyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Kavlak Zeytinyağı",
+    "description": "Kavlak, 1964 yılında kurulan Kavlak Zeytin San. ve Tic. Ltd. Şti. bünyesinde üretilen zeytin ve zeytinyağı, şarküteri ürünleri, turşu, kozmetik ürünler, doğal ve organik ürünler, şekerleme, kuruyemiş markasıdır.ISO 22000 ve GMP belgelerine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "GMP",
+      "ISO",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Advance Auto Parts",
+    "description": "Advance Auto Parts, 1932 yılında Arthur Taubman tarafından kurulan Advance Auto Parts Inc. bünyesindeki yedek otomotiv parçaları ve aksesuarları markasıdır.Otomobiller için özel markalı otomotiv yedek parça, aksesuar, pil ve bakım öğeleri, kamyonet, spor yeni araçlar, hafif ve ağır hizmet kamyonları sunmaktadır.Advance Auto Parts Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Shopify E-Ticaret",
+    "description": "“Shopify“2006 yılında Tobias Lütke, Daniel Weinand ve Scott Lake tarafından kurulmuş olan Shopify Inc. bünyesinde küçük ve orta ölçekli işletmeler için tasarlanmış bulut tabanlı, çok kanallı bir ticaret platformu markasıdır.Shopify Inc. Kanada merkezlidir. 175’ten fazla ülkede bir milyondan fazla işletme tarafından kullanılmaktadır.Hissedarları:Baillie Gifford Co. (yüzde 4,2)Capital World Investors (yüzde 3,7)Morgan Stanley (yüzde 3,7)Vanguard Group Inc. (yüzde 3,5)Price T Rowe Associates Inc. (yüzde 3,5)Fmr LLC (yüzde 2,8)Capital Research Global Investors (yüzde 2,8)Capital International Investors (yüzde 2,1)Jpmorgan Chase Co. (yüzde 2)Royal Bank Of Canada (yüzde 1,7)Loomis Sayles Co L P (yüzde 1,2)Sands Capital Management LLC (yüzde 1,1)Polen Capital Management LLC (yüzde 1,1)Norges Bank (yüzde 1,1)Franklin Resources Inc (yüzde 0,95)Bank Of Montreal (yüzde 0,88)Bank Of America Corp (yüzde 0,82)Fil Ltd (yüzde 0,77)Artisan Partners Limited Partnership (yüzde 0,69)Td Asset Management Inc (yüzde 0,67)Cibc World Market Inc (yüzde 0,67)Arrowstreet Capital Limited Partnership (yüzde 0,66)Legal General Group PLC (yüzde 0,64)Manufacturers Life Insurance Company The (yüzde 0,6)Wellington Management Group LLP (yüzde 0,54)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": "2024-10-10"
+  }
+]

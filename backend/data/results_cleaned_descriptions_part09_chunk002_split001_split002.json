@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Aquasera Su",
+    "description": "Aquasera1998 yılında kurulmuş olan Aktif Gıda Meşrubat San. ve Tic. A.Ş. bünyesinde üretilen ambalajlı doğal kaynak suları, maden suyu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Soundwave Oyuncak",
+    "description": "Soundwave1923 yılında kurulmuş olan Hasbro Inc. bünyesindeki oyuncak robot, oyuncak aksiyon figürleri markasıdır.Hasbro Inc. Amerika merkezlidir. Ürünlerinin çoğunluğu Doğu Asya’da üretilmektedir ve 100’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Anycubic",
+    "description": "Anycubic2015 yılında kurulmuş olan Shenzhen Zongweilifang Technology Co. Ltd. bünyesinde üretilen 3D yazıcılar, reçine ve pla, aksesuarlar markasıdır.Shenzhen Zongweilifang Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Glidewell Dental",
+    "description": "Glidewell1970 yılında kurulmuş olan James R. Glidewell Dental Ceramics Inc. bünyesinde üretilen diş ürünleri, tıbbi cihazlar markasıdır.Şirket, diş kronları, köprüler, seramik, çıkarılabilir tam ve kısmi protezler, diş implantları, protez bileşenleri ve tam döküm restorasyonlar sunmaktadır.James R. Glidewell Dental Ceramics Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ega Yumuşatıcı",
+    "description": "Ega2012 yılında kurulmuş olan Ega Kimya San. Tic. Ltd. Şti. bünyesinde üretilen tablet soda, deterjan, yumuşatıcı, fırçasız oto yıkama köpüğü, tekstil kimyasalları markasıdır.Firma Bursa merkezlidir. Ürünlerini Bursa ve Özbekistan’da bulunan fabrikalarında üretmektedir ve birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

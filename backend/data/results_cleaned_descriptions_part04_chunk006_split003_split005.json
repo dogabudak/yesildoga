@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Patyka",
+    "description": "Patyka, 2002 yılında kurulan Patyka Cosmetics SAS bünyesinde üretilen kozmetik ürünler markasıdır.Ürünleri mineral yağlar (parafin, silikonlar vb), sentetik varlıklar olmadan, sentetik koruyucular olmadan (parabenler, fenoksietanol vb), GDO aromalar, parfümler veya sentetik boyalar içermez. Hayvanlar üzerinde test edilmez. Kirlilik içermeyen bir üretim sürecinden (örneğin, ekstraksiyon işlemleri, çözücüler olmadan saygılı) geçer.Patyka formülasyon biyo laboratuvarına sahiptir ve üretiminin tamamını Fransa’da gerçekleştirir.2009 yılında Fransa merkezli Finoli Group tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "PB Swiss Tools",
+    "description": "PB Swiss Tools, 1878 yılında Paul Baumann tarafından kurulan PB Swiss Tools AG bünyesinde üretilen el aletleri markasıdır.Üretiminin üçte ikisi 70’ten fazla ülkeye pazarlanmaktadır. ISO 9001, ISO 13485, ISO 14001, OHSAS 18001 belgelerine sahiptir.PB Swiss Tools AG İsviçre merkezlidir ve ürünleri İsviçre’de bulunan üretim tesislerinde üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 13485",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Bona",
+    "description": "Bona, 1919 yılında kurulan Bona AB bünyesindeki ahşap zeminlerin montaj, bakım ve yenilenmesi için ürünler ve UV kaplamaları markasıdır.Bağlı kuruluşlar ve dağıtıcılar aracılığıyla dünya çapında 70’den fazla ülkede bulunmaktadır.Bona AB İsveç merkezlidir. İsveç, Almanya, Amerika ve Çin’de üretim tesislerine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Biomaris",
+    "description": "Biomaris, 1934 yılında Biomaris GmbH & Co. bünyesindeki kozmetik markasıdır.Ürettiği ürünlerin ana bileşeni, Grönland Denizi’nden elde edilen Deniz suyudur.Biomaris GmbH & Co. Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Lise Watier",
+    "description": "Lise Watier, 1972 yılında Lise Watier tarafından kurulan Lise Watier Cosmetics bünyesinde üretilen makyaj, parfüm ve cilt bakımı ürünleri markasıdır.Lise Watier Cosmetics 2016 yılında Kanada merkezli Groupe Marcelle tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  }
+]

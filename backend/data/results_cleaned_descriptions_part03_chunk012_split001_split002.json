@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Seaco",
+    "description": "Seaco, 1998 yılında kurulan Seaco Srl bünyesindeki deniz konteynerleri satım ve kiralama hizmetleri markasıdır.Seaco Srl.ı 2011 yılında HNA Group’a satıldı.2000 yılında kurulan HNA Group Co, Ltd, Çin merkezli havacılık, gayrimenkul, finansal hizmetler, turizm, lojistik ve birçok sanayide faaliyet gösteren ve kendi adı altında çok sayıda varlık satın alan, dünyanın en aktif Çinli yatırım şirketlerinden biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Aroha",
+    "description": "Aroha, 2017 yılında Fulya Genç tarafından kurulan Superisi Tarım Hayvancılık ve Gıda Ürünleri San. ve Tic. Ltd Şti. bünyesindeki çikolata markasıdır.Ürünlerinde lesitin, emülgatör, ilave yağlar, aroma vericiler, domuz yağı ve alkol yoktur.İstanbul, Sarıyer’de bulunan atölyesinde üretim yapan yüzde 100 yerli sermayeli çikolata üreticisidir.Ürün içeriğinde kakao çekirdeği, tatlandırıcı çeşidine göre, bal, hurma özü, pancar şekeri veya stevia, (eğer sütlü ise tam yağlı inek sütü tozu veya hindistan cevizi sütü tozu) yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Marvell Technology",
+    "description": "Marvell Technology, 1995 yılında Sehat Sutardja, Weili Dai ve Pantas Sutardja, Miroslav tarafından kurulan Marvell Technology Group Ltd. bünyesindeki yarı iletken markasıdır.Marvell Technology Group Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Equilibra",
+    "description": "Equilibra, 1987 yılında Franco Bianco tarafından kurulan Equilibra S.r.l. bünyesinde üretilen diş macunu, gıda takviyeleri markasıdır.Equilibra S.r.l. 2018 yılında Unilever Italy Holdings S.r.l.’nin bir yan kuruluşu olarak faaliyet göstermektedir.Unilever Italy Holdings S.r.l. İngiltere merkezli Unilever PLC.’nin iştiraki olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2022-03-26"
+  },
+  {
+    "company": "Polyyarn",
+    "description": "2019 yılında kurulmuş olan Abrayly Dostlar Bireysel girişim bünyesinde üretilen polipropilen multifilament iplikler ve halatlar markasıdır.İplikler, ağ ve ağlar, emniyet kemerleri, plastik borular, örgülü halatlar ve askılar, filtreleme kumaşları, halılar, çantalar ve fıbc’lerin üretiminde kullanılmaktadır.ISO 9001, ISO 10002, ISO 140001, ISO 45001 belgelerine sahiptir.Abrayly Dostlar Türkmenistan merkezlidir ve ürünlerini bin 700 metrekarelik fabrikasında üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 10002",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TM",
+    "updated_date": "2025-02-06"
+  }
+]

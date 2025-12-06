@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Nautubone",
+    "description": "2017 yılında kurulmuş olan IncHealth Gmbh bünyesindeki sırt ve eklem ağrısı giderici jel markasıdır.Doğal bileşenler içermektedir.IncHealth Gmbh İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Evoshield",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kouchi",
+    "description": "2004 yılında kurulmuş olan EME Lighting Co. Ltd. bünyesinde üretilen masa lambaları, mimari aydınlatma, duvar aplikleri, tavan ışıkları ve zemin lambaları markasıdır.EME Lighting Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Anysia Natural Cosmetics",
+    "description": "2021 yılında kurulmuş olan Anysia Natural Cosmetics A.Ş. bünyesindeki cilt, vücut, saç bakım ürünleri markasıdır.Ürünleri zararlı kimyasallar içermez.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ormanya",
+    "description": "1978 yılında kurulmuş olan Sekapark Turizm İşletmecilik ve Yatırım A.Ş. bünyesindeki ilaç, kozmetik, kimya, aromaterapi, gıda, tamamlayıcı tıp vb ürünler markasıdır.Firma tarafından yetiştirilen Biberiye, Tıbbi Nane vb. bitkilerin Ekstraksiyon ve Distilasyon tesislerinde işlenmekte olup esansiyel ve soğuk sıkım yağlar, bitkisel ekstraklar olmak üzere hammadde üretimi yapmaktadır.ISO 9001, ISO 22000, HACCP, Gmp, ECOCERT belgelerine sahiptir.Sekapark, Kocaeli Büyükşehir Belediyesi iştirakidir. 42 dönüm alanda Türkiye’nin en büyük tıbbi aromatik bitki üretim ve işleme tesisine sahiptir.",
+    "documents": [
+      "CE",
+      "GMP",
+      "HACCP",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

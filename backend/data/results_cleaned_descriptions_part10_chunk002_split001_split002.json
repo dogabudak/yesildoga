@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Grimelange",
+    "description": "1993 yılında kurulmuş olan İnternet Tekstil San. ve Tic. A.Ş. bünyesinde üretilen erkek ve kadın hazır giyim ürünleri markasıdır.Firma Adıyaman merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Antyre",
+    "description": "2003 yılında kurulmuş olan Qingdao Fullrun Tyre Corp. Ltd. bünyesinde üretilen araç lastikleri markasıdır.Qingdao Fullrun Tyre Corp. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Güney",
+    "description": "",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Euromix",
+    "description": "1977 yılında kurulmuş olan Euromix Su Armatürleri Musluk Duş Sistemleri Ltd. Şti. bünyesindeki banyo aksesuarları, duş sistemleri, galvaniz fitings ürünleri, plastik sifonlar, pprc fitings ürünleri, puşvit kaplin ürünleri, sarı fitings ürünleri, su armatürleri markasıdır.Firma İstanbul merkezlidir ve ürünlerini 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Danye Laser",
+    "description": "2022 yılında kurulmuş olan Guangzhou Danye Optical Co. Ltd. bünyesindeki 360 cryolipolysis vücut zayıflama, 808nm + q anahtarlı lazer 2’si 1 arada sistem, co2 fraksiyonel lazer, cryo cilt soğutma sistemi, lazer dövme silme sistemi, lazer epilasyon, soğutma monopolar rf sistemi, thermagic rf sistemi markasıdır.Guangzhou Danye Optical Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

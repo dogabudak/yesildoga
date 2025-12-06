@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Celanese",
+    "description": "Celanese, 1918 yılında Camille Dreyfus tarafından kurulan Celanese Corporation bünyesinde üretilen termoplastik selüloz asetat gibi kimyasallar, lifler, farmasötik ürünler ve sentetik malzemeler markasıdır.Celanese Corporation Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Metak",
+    "description": "Metak, 1997 yılında kurulan Metak şirketi bünyesinde üretilen boru ve boru bağlantı parçaları markasıdır.Boru ve bağlantı parçaları, iskele, çivi, yanmış tel ve vidalar, dübeller üretmektedir.Metak Azerbayacan merkezlidir ve ürünlerini Azerbaycan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Entes",
+    "description": "Entes, 1980 yılında kurulan Entes Elektronik Cihazları İmalat ve Ticaret A.Ş. bünyesindeki enerji verimliliği ve kalitesi alanlarında çözümler sunan markadır.Güç kalitesi, elektrik enerjisi, gömülü tasarım, güç sistemi koruması, güç sistemi kontrolü, harmonik, güç ağı analizi, güç faktörü kontrolü, uzaktan izleme yazılımı, endüstriyel iletişim gibi alanlarda faaliyet gösteren yüzde 100 yerli sermayeli şirkettir.Türkiye dışında Yunanistan, Almanya ve Hindistan ofisleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Incore",
+    "description": "Incore, 2017 yılında Mehmet Akçay ve Enis Sağlam tarafından kurulan Incore Electronics Ltd bünyesindeki cep telefonu aksesuarları, usb kablolar, şarj cihazları, adaptörler markasıdır.Tasarımları İngiltere’de yapılan ürünler Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gree",
+    "description": "Gree, 1991 yılında kurulan Gree Electric Appliances, Inc. bünyesinde üretilen klima markasıdır.Gree 200’den fazla ülke ve bölgede faaliyet göstermektedir.Gree Electric Appliances, Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir. Türkiye’de 2016 yılından beri TLC Klima San. Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

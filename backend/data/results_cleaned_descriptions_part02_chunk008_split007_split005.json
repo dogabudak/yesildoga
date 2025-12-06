@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Gerkap",
+    "description": "Gerkap, 1977 yılında kurulan Işıldar Şirketler Gurubuna ait ısı yalıtım kaplama markasıdır.Işıldar Şirketler Gurubu; otomotiv, motosiklet ve motorsiklet aksesuarları, engelli araçları, tarım makineleri, inşaat malzemeleri imalatı, beyaz eşya ve eğitim sektöründe faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mugler",
+    "description": "Mugler, 1992 yılında Thierry Mugler tarafından üretilen parfüm markasıdır.Mugler, kozmetik ve güzellik şirketi L’oreal Group’a ait olan L’oreal SA marka portföyünün bir parçasıdır.Fransa merkezli L’oreal Group’un yüzde 33 hissesi Fransız Françoise Bettencourt Meyers’e, yüzde 23,29 hissesi ise İsviçre merkezli Nestle’ye aittir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2022-01-07"
+  },
+  {
+    "company": "Oysho Ülkeye Aittir",
+    "description": "Oysho, 1977 yılında Confecciones Noite, S.A. adı ile kurulan kadın iç giyim moda markasıdır. Inditex tekstil grubu bünyesindedir.Inditex, 1985 yılında; 8 farklı ticari markayı tek çatı altında toplayıp yönetmek için kurulan, 86 ülkede mağazası bulunan moda dağıtıcılarındandır. İspanya merkezli Inditex grubu; tekstil tasarımı, üretimi ve dağıtıcılığı iş faaliyetlerini yürüten 100’ün üzerinde yan şirketi bünyesinde barındırmaktadır.",
+    "documents": [],
+    "parent": "Oysho Hangi Ülkeye Aittir :",
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "iBlues",
+    "description": "iBlues, 1975 yılında kurulan moda markasıdır. iBlues koleksiyonları Max Mara Moda Grubu’nun bir parçası olan Marella Srl tarafından üretilip dağıtılıyor.Achille Maramotti tarafından kurulan İtalyan şirket Max Mara İtalya’nın en başarılı moda şirketlerinden biri oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Valtra",
+    "description": "Valtra, 2003 yılında AGCO Corporation’ın bir parçası olan, Türkiye’de Hattat Tarım Makineleri AŞ. tarafından üretilen traktör ve tarım makineleri markasıdır.AGCO, 1990 yılında kurulan; traktör, biçerdöver, balya makinesi, kimyasallama makinesi, yem makinesi, toprak işleme makinesi, diğer ekipmanlar ve parça ürünlerini üreten Amerika merkezli şirkettir.Amerikalı şirket ile Hattat Tarım Makineleri 2003 yılından beri Valtra markasının Türkiye’de üretimi ve dağıtımında işbirliği yapıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

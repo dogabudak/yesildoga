@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Symetrix",
+    "description": "Symetrix, 1976 yılında kurulan Symetrix Inc. bünyesinde üretilen yüksek performanslı av donanım, yazılım ve kontrol çözümleri markasıdır.Ürün tekliflerinin kapsamını ve yeteneklerini, basit tek ünite kurulumlarından en gelişmiş 100 bin kişilik stadyumlara kadar sürekli olarak genişletmektedir.Symetrix Inc. Amerika merkezlidir. Her ürün, Amerika’daki en gelişmiş üretim tesisinde test edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Simple Granola",
+    "description": "Simple Granola, Turuncu Mikser Hazır Gıda tarafından üretilen yavaş fırınlanmış organik yulaf ezmesi ile şeker ilavesiz ev yapımı granola markasıdır.Vegan, doyurucu, atıştırmalık, öğün ürünler sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SunLike",
+    "description": "SunLike, 2001 yılında kurulan SunLike Energy Technology Co., Limited bünyesinde üretilen kurşun-asit piller ve jel pil markasıdır.SunLike esas olarak, şarj edilebilir agm sızdırmaz kurşun asit piller, güneş jeli pilleri, opzv pil, derin döngü pilleri, vrla pil, telekom pilleri üretir ve güneş çevirici, güneş şarj cihazı denetleyicisi gibi güneş ile ilgili diğer ürünleri sağlar. Tüm piller güneşte yaygın olarak kullanılır, rüzgar enerjisi, ups, güç istasyonu, telekomünikasyon, inverter sistemi, golf arabası, elektrikli araçlar ve acil durum ve güvenlik sistemi için ürünler üretmektedir. Ürünleri dünya çapında 100’den fazla ülke ve bölgeye ihraç edilmektedir.SunLike Energy Technology Co., Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "ZeePower",
+    "description": "ZeePower, 2019 yılında kurulan Shengshi Wireless Charging technology Co.,Ltd. bünyesinde üretilen kablosuz şarj cihazı, görünmez hızlı kablosuz şarj cihazı ve kablosuz şarj pedi markasıdır.Mobilya, donanım ve tüketici elektroniği pazarlarındaki uygulamaları destekleyen kablosuz şarj çözümleri yelpazesine sahiptir.Shengshi Wireless Technology Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Barbour",
+    "description": "J. Barbour and Sons, 1894 yılında John Barbour tarafından kurulan J. Barbour & Sons Ltd. bünyesindeki hazır pamuk mumlu ceket, ayakkabı ve aksesuarlar markasıdır.Klasik yağlı kumaş montlarında kullanılan kumaş yüzde 100 mısır pamuğudur. Üzerine sürülen yağ sentetiktir.J. Barbour & Sons Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Domatic",
+    "description": "Domatic, 1974 yılında kurulan Fapim S.P.A. bünyesinde üretilen pencere ve kapı aksesuarları markasıdır.Fapim S.P.A. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Anobit",
+    "description": "Anobit, 2006 yılında kurulan Anobit Technologies, Ltd. bünyesinde üretilen flash veri depolama aygıtları markasıdır.Anobit Technologies, Ltd., iPhone için bir flash bellek sürücüsü bileşeni üreticisi olarak 2012 yılında Amerika merkezli Apple Inc. tarafından satın alındı. Anobit Technologies İsrail merkezli bir mikroçip Flash bellek denetleyicisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Advanta Seeds",
+    "description": "Advanta Seeds, 1994 yılında kurulan Advanta Limited bünyesinde üretilen tarımsal ürünler ve sebze tohum markasıdır.Advanta Limited 2006 yılında United Phosphorus Limited tarafından satın alındı.United Phosphorus Limited Hindistan merkezlidir. Ürünlerini 25 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "YDS",
+    "description": "YDS, 1927 yılında kurulan Yakupoğlu A.Ş. bünyesinde üretilen ayakkabı, bot, teknik tekstil, saraciye ve endüstriyel çadır gibi ürünlerin markasıdır.EN ISO 20345 /20347, ISO 9001, OHSAS 18001 belgelerine sahiptir.Ankara’da 3 fabrikasında toplam 100 bin metrekarelik kapalı alanda üretim yapmaktadır. Ürünlerini 40’tan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;GoliathYDS",
+    "documents": [
+      "ISO",
+      "ISO 20345",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Banana Republic",
+    "description": "Banana Republic, 1978 yılında Mel ve Patricia Ziegler tarafından kurulan Banana Republic LLC bünyesindeki giyim ve aksesuar perakende markasıdır.Banana Republic LLC, 1983 yılında Amerika merkezli Gap Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

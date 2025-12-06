@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Tilsiter",
+    "description": "Tilsiter, 1893 yılında kurulan So Tilsiter Switzerland Gmbh bünyesinde üretilen geleneksel peynir markasıdır.Peynirler, doğal olgunlaşma sayesinde laktoz içermez. Ayrıca hiçbir koruyucu veya renklendirici içermez.So Tilsiter Switzerland Gmbh İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Rivella",
+    "description": "Rivella, 1952 yılında kurulan Rivella SA bünyesinde üretilen alkolsüz içecek markasıdır.Peynir altı suyundan üretilen ürün laktoz, laktik asit ve mineraller içermektedir.Rivella SA İsviçre merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Piatnik",
+    "description": "Piatnik, 1824 yılında kurulan Wiener Spielkartenfabrik Ferd. Piatnik & Söhne bünyesinde üretilen her türlü masa oyunları, iskambil kartları ve yapbozlar markasıdır.Wiener Spielkartenfabrik Ferd. Piatnik & Söhne Avusturya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Hybrid Plus Belt",
+    "description": "Hybrid Plus Belt, 1957 yılında kurulan Megadyne S.P.A. bünyesindeki poliüretan ve kauçuk dişli senkron kayışlar, düz kayışlar, konveyör bantlar, trapez kesit kayışlar markasıdır.Megadyne S.P.A. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Kale Seyahat",
+    "description": "Kale Seyahat, 1975 yılında kurulan Kale Uluslararası Turizm Seyahat ve İnşaat Tic. Ltd. Şti. bünyesindeki şehirlerarası yolcu taşımacılığı markasıdır.Tekirdağ, İstanbul, Bursa, Yalova, Eskişehir, Kütahya, Ankara, İzmir, Aydın, Çanakkale, Denizli şehirleri başta olmak üzere yüzlerce ilçeye seferleri bulunmaktadır.2020 yılında İstanbul merkezli Grandtur Turizm ve Organizasyon Hizmetleri Tic. Ltd. Şti. Kale Seyahat’i bünyesine katmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2022-12-29"
+  }
+]

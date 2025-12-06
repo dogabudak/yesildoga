@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Amesia",
+    "description": "Amesia, 2011 yılında kurulan Amesia Gıda Sanayi ve Ticaret Limited Şirketi bünyesindeki süt ve süt ürünleri markasıdır.Amesia markalı ürünler Amasya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Seçkin Peynir",
+    "description": "Seçkin Peynir Nerenin Malı MarkasıSeçkin, 2005 yılında kurulan Seçkin Peynircilik Gıda ve İhtiyaç Maddeleri San. ve Tic. Ltd. Şti. bünyesinde üretilenHayrabolu OSB’deki 20 bin metrekarelik arsada kaşar, beyaz peynir üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tinylove",
+    "description": "Tinylove, 1999 yılında kurulan Bebe Market Sağlik Ürünleri Tekstil Tic. İth. İhr. Ltd. Şti. bünyesindeki anne ve bebek ürünleri markasıdır.Tinylove 2011 yılındandan itibaren anne ve bebek perakende mağazalarını kurdu.Sıfır ve üç yaş aralığındaki bebekler için doğum öncesi ve sonrası annelere ürünler sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Largan Precision",
+    "description": "Largan Precision, 1987 yılında kurulan Largan Precision Company Limited tarafından üretilen akıllı telefonlar, tablet bilgisayarlar, dijital kameralar ve diğer cihazlar için kamera lensi modülleri markasıdır.Largan Precision Company Limited Tayvan merkezlidir. Firmanın Tayvan ve Çin’de ikişer fabrikası bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Bisou",
+    "description": "Bisou, 2019 yılında kurulan Bisou Guzellik ve Kozmetik Sanayi Ticaret A.Ş. bünyesindeki cilt bakım ürünleri markasıdır.Anti selulit kremi, göğüs ve kalça büyütme kremi, vücut bakım jeli ve göğüs bakım jeli ürünlerine sahiptir. Yüzde 99 doğal içerikli bir markadır.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

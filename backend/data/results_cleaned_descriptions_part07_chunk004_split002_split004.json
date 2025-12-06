@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Securitas",
+    "description": "Securitas, 1934 yılında kurulmuş olan Securitas AB bünyesindeki güvenlik hizmetleri, izleme, danışmanlık markasıdır.Securitas AB İsveç merkezlidir. Türkiye dahil 56 ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Fiorio",
+    "description": "Fiorio, 1946 yılında kurulmuş olan Canepa S.P.A. bünyesindeki lüks bir deri ve ipek eşarplar, kravatlar, papyonlar, mayolar ve ceketler markasıdır.Canepa S.P.A. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Wertal",
+    "description": "Wertal, 2020 yılında kurulan Wertal Endüstriyel Ürünler San. ve Tic. Ltd. Şti. bünyesindeki yapıştırıcılar, yağlayıcılar ve gresler, temizleyiciler, bakım ve onarım ürünleri, endüstriyel ve otomotiv ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İma Makas",
+    "description": "İma, 1982 yılında kurulmuş olan İmamoğlu Hirdavat Pazarlama A.Ş. bünyesindeki makaslar, tırnak makası markasıdır.Firma İstanbul merkezlidir.Bünyesindeki makarlar;İmaİmahome",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Woodpecker Dental",
+    "description": "Woodpecker, 1989 yılında kurulmuş olan Guilin Woodpecker Medical Instrument Co. Ltd. bünyesinde üretilen diş ekipmanları, sterilizasyon ve dezenfeksiyon aletleri, tıbbi aletler ve aparatlar, cerrahi aparatlar ve aletler, ultrasonik ölçekleyici, ölçekleyici parlatıcı, diş kür lambaları, tıbbi kullanım için ultrasonik aletler ve bileşenler, tıbbi veya diş amaçlı koltuklar, elektrikli diş aletleri markasıdır.Guilin Woodpecker Medical Instrument Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

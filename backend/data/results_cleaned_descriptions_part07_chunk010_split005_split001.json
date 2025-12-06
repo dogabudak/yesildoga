@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Cherry Mx",
+    "description": "Cherry Mx, 1953 yılında kurulmuş olan Cherry AG bünyesinde üretilen mekanik anahtarlı klavye markasıdır.Cherry AG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Outemu",
+    "description": "Outemu, 2004 yılında kurulmuş olan Dongguan Gaote Electronics Co. Ltd. bünyesinde üretilen mekanik klavye ekseni (klavye anahtarları), USB soketleri, HDMI soketleri, SFP fiber optik konektör serisi, fotoelektrik anahtarlar, dokunmatik anahtarlar, kulaklık jakları, dokunmatik anahtarlar, geçiş anahtarları markasıdır.Dongguan Gaote Electronics Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Ideal Standard",
+    "description": "Ideal Standard, 1901 yılında kurulmuş olan Ideal Standard International NV bünyesinde üretilen sıhhi tesisat armatürü markasıdır.ISO 9001, ISO 14001, OHSAS 18001, TS EN 14749 belgelerine sahiptir.Ideal Standard International NV 2018 yılında Amerika merkezli Anchorage Capital Group L.L.C tarafından tüm hisseleri satın alındı. Firma ürünlerini Bulgaristan, Mısır, Çek Cumhuriyeti, İtalya, Almanya, İngiltere, Fransa’da üretmekte ve 100 ülkeye pazarlamaktadır.Bünyesindeki markalar;American StandardArmitage ShanksBormaIdeal StandardJadoPorcherSottiniVidima",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Rs Ronassi Cosmetics",
+    "description": "Rs Ronassi Cosmetics, 2018 yılında kurulmuş olan Rival İthalat İhracat Petrol İnşaat Gıda San. Tic. Ltd. Şti. bünyesindeki kozmetik ürünler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bimuz",
+    "description": "Bimuz Premium Quality, 1999 yılında kurulmuş olan Öncel Klima ve Enerji Teknolojileri Petrol Ürünleri İnşaat San. Turizm Tic. Ltd. Şti. bünyesinde üretilen muz markasıdır.2017 yılında tarım sektörüne yatırım yapan firma sera için yenilenebilir enerji kaynağı kullanarak havadan-suya ısı pompalarıyla ısıtma yapmakta ve üretilen muzların işlenmesi için 3 bin 500 metrekarelik paketleme ve sarartma tesisini kullanmaktadır.Firma Antalya merkezlidir.Bünyesindeki markalar;AnatomAqsaArea Technology DirectorBirmuzBitropikDilazKlimasorMuzlu SonQtropicSeraplusTropikal SepetiTropik Sepeti",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

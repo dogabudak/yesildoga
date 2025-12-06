@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Fehaute",
+    "description": "2015 yılında kurulmuş olan Chicv International Holding Limited bünyesindeki kadın elbiseleri, moda markasıdır.Chicv International Holding Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "King Seven Gözlük",
+    "description": "2017 yılında kurulmuş olan Yiwu Yuanlan Trading Co. Ltd. bünyesinde üretilen güneş gözlükleri markasıdır.Yiwu Yuanlan Trading Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Paslode",
+    "description": "1935 yılında piyasaya sürülen çivi ve zımba tabancaları markasıdır.1986 yılında Itw Inc. tarafından satın alınmıştır.Itw Inc. Amerika merkezlidir ve 60’a yakın ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "US. Sleeping",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dryvit",
+    "description": "1947 yılında Frank C. Sullivan tarafından kurulmuş olan RPM International Inc. bünyesindeki dış cephe yalıtım ve kaplama markasıdır.Tremco CPG Europe çatısı altındaki RPM International Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

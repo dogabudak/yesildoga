@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Burberry Mr. Burberry",
+    "description": "Burberry Mr. Burberry, 1856 yılında Thomas Burberry tarafından kurulmuş olan Burberry Group PLC bünyesinde üretilen koku markasıdır.Firma giysi, makyaj malzemeleri, parfüm ve aksesuarlar üretmektedir.Burberry Group PLC İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2023-09-11"
+  },
+  {
+    "company": "Cratoni",
+    "description": "Cratoni, 1985 yılında kurulan Cratoni Helmets Gmbh bünyesindeki kask ve spor gözlükleri markasıdır.Firma bisiklet kaskı, bisiklet gözlükleri ve spor ekipmanları üretmektedir.Cratoni Helmets Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Xpelair",
+    "description": "Xpelair, 1973 yılında kurulan Glen Dimplex Group bünyesindeki üst, ön ve kompakt ısıtıcılar, yerden ısıtma ürünleri markasıdır.Ev aletleri endüstrisinde köklü bir konuma sahip olan daha büyük Glen Dimplex Group’un bir yan kuruluşudur.Tek kişilik banyo fanları, tek kişilik oda ve tüm ev ısı geri kazanım ünitelerinden ticari havalandırma sistemlerine kadar, 300’den fazla ürün yelpazesine sahiptir. ISO 9001 belgesine sahiptir.Glen Dimplex Group İrlanda merkezlidir.Bünyesindeki markalar:DimplexXpelairNobo",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Windelhosen",
+    "description": "Windelhosen, 1979 yılında kurulan Ontex Group NV bünyesindeki hasta bezi markasıdır.Tek kullanımlık ped, günlük ped, hijyenik ped, alt bezi, tampon ve ıslak havlu üreten firma dünya çapında toplam 13 üretim tesisine sahiptir.Ontex Group NV Belçika merkezlidir. Çoğunluk hisseleri Belçika merkezli Groupe Bruxelles Lambert SA (yüzde 19,98) ile İngiltere merkezli ENA Investment Capital Llp (yüzde 15,07)’ye aittir.Ontex Hakkında Bilgi ve Hissedarları",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2023-11-21"
+  },
+  {
+    "company": "ISS",
+    "description": "ISS, 1901 yılında kurulan ISS A/S bünyesindeki temizlik hizmetleri, gıda ve catering hizmetleri, emlak hizmetleri, güvenlik hizmetleri, destek hizmetleri, tesis yönetimi, işyeri tasarımı, işyeri deneyimleri markasıdır.ISS A/S Danimarka merkezlidir ve 30’dan fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  }
+]

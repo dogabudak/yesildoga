@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Zümrüt",
+    "description": "Zümrüt, 1995 yılında kurulan Zümrüt Gıda San. ve Tic. A.Ş. bünyesinde üretilen hindistan cevizli ürünler, barlar, tablet çikolatalar, pirinç patlaklı ürünler, çikolata çeşitleri, hediyelik çikolatalar, şeker, sakız ve meyve suyu markasıdır.Firma çikolata, sakız ve şeker ürünlerini Gaziantep’te 15 bin metrekarelik alan üzerinde bulunan 10 bin metrekarelik kapalı alanda üretmekte 70 ülkeye ihraç etmektedir.ISO 9001, ISO 22000 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aatech",
+    "description": "Aatech, 1998 yılında kurulan Aatech International Co. Limited bünyesindeki alkol test cihazları markasıdır.Aatech International Co. Limited Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Maksul",
+    "description": "Maksul, 2000 yılında kurulan Maksul Gıda İnş. Giyim Tic. Ltd. Şti. bünyesindeki baharat, bakliyat, çay ve kahve, diğer ürünler, kuru meyve, kuruyemiş, lokum ve şekerleme markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nova Measuring Instruments",
+    "description": "Nova Measuring Instruments, 1993 yılında kurulan Nova Measuring Instruments Ltd. bünyesinde üretilen yarı iletken ekipmanları markasıdır.Yarı iletken üretiminde kullanılan gelişmiş proses kontrolü için metroloji cihazları sağlayıcısıdır.Nova Measuring Instruments Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Agrose",
+    "description": "Agrose, Agrose Makina Tarım Gıda Tekstil İnş. San. Tic. Ltd. Şti. bünyesindeki bahçe pülverizatörleri, gübre serpme makinaları, pompa ve regulator modelleri, tarla pülverizatörleri, turbo atomizerler markasıdır.Konya merkezli firma ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

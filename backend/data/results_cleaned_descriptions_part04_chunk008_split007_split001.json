@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Sunlux",
+    "description": "Sunlux, 2006 yılında kurulan Sunlux Iot Technology Inc. bünyesinde üretilen 1D/2D barkod tarayıcı, çok yönlü barkod tarayıcı, endüstriyel barkod tarayıcı, kablosuz barkod tarayıcı ve 1D/2D tarama modülü markasıdır.ISO9001, ISO14001, ISO14000 belgelerine sahiptir.Sunlux Iot Technology Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO14000",
+      "ISO14001",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "ZKTeco",
+    "description": "ZKTeco, 1998 yılında kurulan ZKTeco Co. Ltd. bünyesindeki biyometrik doğrulama hizmeti markasıdır.Biyometrik Doğrulama Çekirdek Teknik personel Güçlendirme, Akıllı Giriş & Çıkış “Kişi + Araba + Nesne” Yazılım Platformu Güçlendirme ve ZKTeco+ Smart Office Cloud Platform Güçlendirilmesi olmak üzere üç sektörde faaliyet göstermektedir. ISO 9001 belgesine sahiptir.ZKTeco Co. Ltd. Çin merkezlidir, 14 yan kuruluşu ve 29 şubesi ve Hong Kong, Makao, Tayvan ve denizaşırı ülkelerde 38 yan kuruluşu bulunmaktadır.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Fibaro",
+    "description": "Fibaro, 2010 yılında kurulan Fibar Group S.A. bünyesindeki ev otomasyonu, tüketici elektroniği, ev istihbarat çözümleri, Akıllı Ev ve IoT ürünleri markasıdır.Bina ve ev otomasyonu için çözümler sunar. Nesnelerin interneti teknolojisine dayanan en gelişmiş akıllı ev sistemlerindendir.Fibar Group S.A. Polonya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Teknim",
+    "description": "Teknim, 2002 yılında Bilgi Elektronik A.Ş. bünyesindeki alarm sistemleri, ev alarm sistemi, işyeri güvenlik sistemleri markasıdır.Bilgi Elektronik, hırsız alarm ve yangın alarm sistemleri konusunda tasarım, yazılım ve donanım olarak tamamı Türk mühendisler tarafından Türkiye’de üretilmektedir. Ürünlerini 30’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lorex",
+    "description": "Lorex, 1991 yılında kurulan Lorex Technology Inc. bünyesinde üretilen 4K yüksek çözünürlüklü kameralar, dijital video kaydediciler, ağ video kaydediciler, güvenlik kameraları ve aksesuarları ve güvenlik kamera sistemleri markasıdır.İşletme ve konut tüketicilerine profesyonel kalitede DIY video gözetim sistemleri ve tak kullan kablosuz CCTV kamera sistemleri ve ekipmanları sunar.Lorex Technology Inc., 2018 yılında Çin merkezli Zhejiang Dahua Technology Co. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

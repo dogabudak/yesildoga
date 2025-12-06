@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Sally",
+    "description": "“Sally“1999 yılında kurulmuş olan Ses Kimya Temizlik Ürünleri Gıda San. ve Tic. A.Ş. bünyesinde üretilen kozmetik, parfüm, kişisel bakım ve bebek bakım ürünleri, ev ürünleri markasıdır.Firma İstanbul merkezlidir. Firma 30’a yakın ülkeye ihraç etmektedir.Bünyesindeki markalar;BelchlorisElvonsFunSallySes",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Medisolaris",
+    "description": "“Medisolaris“2020 yılında kurulmuş olan Medisolaris Sağlık Hizmetleri San. ve Tic. Ltd. Şti. bünyesinde üretilen implant markasıdır.ISO 13485, CE belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ormanözü",
+    "description": "“Ormanözü“2020 yılında kurulmuş olan Sazlıca Organik Ürünler A.Ş. bünyesinde üretilen üzüm şırası, kuşburnu marmelatı, sirkeler, madımak konserve, sumak ekşisi markasıdır.ISO 9001, Organik ve Helal belgelerine sahiptir.Firma Tokat merkezlidir.Bünyesindeki markalar;SazlıcaOrmanözü",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Fasa",
+    "description": "“Fasa Future Wisdom Home Appliances“2004 yılında kurulmuş olan Jiangmen POSI Refrigeration Appliance Co. Ltd. bünyesinde üretilen klima markasıdır.Şirket taşınabilir klimalar ve nem alma cihazları üretmektedir.Jiangmen POSI Refrigeration Appliance Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Emsako",
+    "description": "“Emsako“2018 yılında kurulmuş olan Emsako Endüstriyel Mutfak ve Soğutma San. bünyesinde üretilen endüstriyel mutfak ve otel malzemeleri markasıdır.Ürünleri arasında kafeterya malzemeleri, pişirme ürünleri, soğutucu ve dondurucular, bulaşıkhane malzemeleri, teşhir ürünleri ile taşıma ekipmanları yer almaktadır.Firma Van merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

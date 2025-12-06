@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Sividen",
+    "description": "2006 yılında kurulmuş olan Shanghai Sividen Import and Export Co. Ltd. bünyesinde üretilen metal çözümleri markasıdır.Shanghai Sividen Import and Export Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "7Go",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Molex",
+    "description": "1938 yılında kurulmuş olan Molex LLC bünyesindeki özel kablo montaj çözümleri, aktif elektrik kablosu çözümleri, aktif optik kablolar, endüstriyel kablo montajları, fiber optik kablo düzenekleri, güç ve sinyal kablosu düzenekleri, hsautolink ara bağlantı sistemi, premo-flex düz esnek kablolar, rf çözümleri, yüksek hızlı takılabilir io, konektörler markasıdır.Molex LLC Amerika merkezlidir. Ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Coolerguys",
+    "description": "2004 yılında kurulmuş olan CoolPC Inc. bünyesindeki fanlar, ızgaralar, filtreler, fan vidaları, kabine ve raf soğutma, kablolar, soğutucular, aksesuarlar markasıdır.CoolPC Inc. Amerika merkezlidir. Ürünleri 80’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Osende",
+    "description": "2011 yılında kurulan TAB İlaç San. A.Ş. bünyesindeki takviye edici gıdalar markasıdır.Vitamin, mineral, kolajen gibi ürünler sunmaktadır.ISO 9001, ISO 22000, Helal belgelerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

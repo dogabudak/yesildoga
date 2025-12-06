@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Furylevel",
+    "description": "2021 yılında kurulmuş olan Furylevel Teknoloji Ltd. Şti. bünyesindeki kablosuz oyun klavye ve mouse markasıdır.Firma İstanbul merkezlidir. Ürünleri Çin’den ithal edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nanovea",
+    "description": "2004 yılında kurulmuş olan Nanovea Inc. bünyesinde üretilen mekanik test cihazları, profilometreler, tribometreler ve laboratuvar hizmetleri markasıdır.Nanovea Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "BRY Foods",
+    "description": "BRY Gıda Orman Ürünleri İthalat İhracat San. Tic. ve Ltd. Şti. bünyesindeki kuruyemiş, baharat, lokum, doğal sabun çeşitleri markasıdır.ISO 9001, ISO 14001, ISO 22000 belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ogansia Juverty",
+    "description": "2015 yılında kurulmuş olan Ogansia İç ve Dış Tic. A.Ş. bünyesindeki anne adayları için vücut bakım kremi, çift fazlı fön suyu, göğüs ucu bölgesi serumu, köpük el sabunu, konsantre sıvı bulaşık deterjanı, temizleyici tonik, tıraş sonrası balsam, vücut losyonu ürünleri markasıdır.ISO 9001, ISO 14001, ISO 22000, ISO 22716, ISO 45001, Helal, Koşer belgelerine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ev Egzersizleri – Ekipmansız",
+    "description": "",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

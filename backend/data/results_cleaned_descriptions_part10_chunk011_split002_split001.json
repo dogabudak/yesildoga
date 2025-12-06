@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Limmer",
+    "description": "2000 yılında kurulmuş olan Limmer Laser Gmbh bünyesinde üretilen tıbbi lazer sistemleri, aksesuarlar markasıdır.Limmer Laser Gmbh Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Tevadaptor",
+    "description": "1901 yılında kurulan Teva Pharmaceutical Industries Ltd. bünyesindeki şırınga adaptörleri, şişe adaptörleri, kapalı sistem bileşenleri markasıdır.Teva Pharmaceutical Industries Ltd. İsrail merkezlidir. 2007 yılından beri Türkiye’de Teva İlaçları San. ve Tic. A.Ş. olarak faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Epimed",
+    "description": "Epimed International Inc. bünyesindeki tıbbi ve cerrahi enstrümanlar ve aparatlar markasıdır.Şirket kateterler, iğneler, aksesuarlar, problar, pedler, sterilizasyon tepsileri, tüpler ve diğer ürünleri sunmaktadır.Epimed International Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Noba",
+    "description": "1958 yılında kurulmuş olan Nobamed Paul Danz AG bünyesindeki yapışkansız pansuman malzemeleri, cerrahi önlükler, maskeler, eldivenler ve kapaklar, gazlı bez ürünleri, bandaj türleri ve diğer pansuman malzemeleri markasıdır.Nobamed Paul Danz AG Almanya merkezlidir.Bünyesindeki markalar;NobaNobasetNobaspotNobatrastParfümerie Preciosa",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fivics",
+    "description": "2002 yılında kurulmuş olan Fivics Archery Co. Ltd. bünyesinde üretilen nişan ekipmanları, ok, yay ve diğer aksesuarlar gibi okçuluk malzemeleri markasıdır.Fivics Archery Co. Ltd. Güney Kore merkezlidir ve ürünleri Kore’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

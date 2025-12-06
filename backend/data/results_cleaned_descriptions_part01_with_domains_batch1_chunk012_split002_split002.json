@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Skyworth",
+    "description": "Skyworth, 1988 yılında Huang Hongsheng ve Stephen Wong tarafından kurulan Skyworth Digital Holdings Co., Ltd. bünyesindeki elektronik ürünlerin markasıdır.Ürünleri arasında; set üstü kutu, televizyon, A/V güvenlik ürünleri, cep telefonu, tablet, ev aletleri ve oto elektroniği yer alır.Skyworth Digital Holdings Co., Ltd. Hong Kong merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Suavinex",
+    "description": "Suavinex, 1983 yılında kurulan moda aksesuarları, bebek şişe besleme ürünleri, emzikleri ve ilgili aksesuarları, emzirme, sterilizasyon ve temizlik, bebek hijyeni gibi ürünler sunmaktadır.Suavinex İspanya merkezli bir markadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Nissan Arabası",
+    "description": "Nissan, 1933 yılında kurulmuş olan Nissan Motor Co. Ltd. bünyesinde üretilen lüks arabalar, spor arabalar, ticari araçlar markasıdır.Nissan Motor Co. Ltd., Japonya merkezlidir. 80’den fazla ülkede faaliyet göstermektedir. Fransa merkezli Renault SA, Nissan group’un sermayesinin yüzde 43,7’sine sahiptir.Ortaklık yapısı:Renault S.A. (yüzde 43,7)The Master Trust Bank of Japan (Shintaku-guchi) (yüzde 10,1)Custody Bank of Japan (Shintaku-guchi) (yüzde 3,2)The Chase Manhattan Bank, N.A. London (yüzde 3)State Street Bank West Client – Treaty (yüzde 1)Nippon Life Insurance Co. (yüzde 0,9)Moxley and Company (yüzde 0,7)JP Morgan Chase Bank (yüzde 0,6)Ssbtc Client Omnibus Account (yüzde 0,6)The Bank of New York Mellon (yüzde 0,5)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-09-29"
+  },
+  {
+    "company": "Identic Ülke",
+    "description": "Identic, 1994 yılında Stefan Heinig tarafından kurulan, giyim ve gıda dışı ürünler üreten KiK Textilien und Non-Food GmbH şirketine aittir.KiK Textilien und Non-Food GmbH şirketinin sahibi Almanya merkezli Tengelmann Group’tur.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bulldozer",
+    "description": "Bulldozer, 1992 yılında kurulan Hüdaverdi Spor Malzemeleri bünyesindeki ayakkabı markasıdır. Firma 2014 yılında markayı bünyesine kattı.Hüdaverdi bin 500 metrekarelik fabrikasıyla İngiltere, Almanya, Suudi Arabistan, Birleşik Arap Emirlikleri, Yunanistan, Ukrayna, Umman ve Rusya’ya ayakkabı ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

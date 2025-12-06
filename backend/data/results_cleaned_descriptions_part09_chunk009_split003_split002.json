@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Secop",
+    "description": "“Secop“2010 yılında kurulmuş olan Secop Group Holding Gmbh bünyesindeki hermetik kompresör teknolojileri ve soğutma çözümleri markasıdır.Secop Group Holding Gmbh Almanya merkezlidir. Ürünlerini Slovakya ve Çin’deki üretim tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Forest River",
+    "description": "“Forest River“1996 yılında kurulmuş olan Forest River Inc. bünyesindeki eğlence araçları, kargo römorkları, yardımcı römorklar, duba tekneler ve otobüsler markasıdır.2005 yılında Amerika merkezli Berkshire Hathaway Inc. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Romess",
+    "description": "“Romess“1970 yılında kurulmuş olan Romess-Rogg Apparate + Electronic GmbH & Co. KG bünyesindeki fren bakım cihazları, fren hidroliği test cihazı, tüm araba ve kamyon için uyarlamalar, ultrasonik kaçak dedektörleri, tekerlek hizalama, teşhis sistemleri markasıdır.Romess-Rogg Apparate + Electronic GmbH & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fanfaro",
+    "description": "“Fanfaro“2004 yılında kurulan UAB SCT Lubricants bünyesindeki motor yağı ve ürünleri, otomotiv kimyasalları markasıdır.ISO 9001 belgesine sahiptir.UAB SCT Lubricants Almanya merkezli Sct-Vertriebs Gmbh bünyesindedir ve ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Haskyy Tools",
+    "description": "“Haskyy“Alurad Shop GbR Hausch & Yablunovskyy bünyesindeki otomobil bakım ve onarımı için aletler, lastik montaj ürünleri, tekerlek civataları, gürültü koruması, kaldırım rampası markasıdır.Alurad Shop GbR Hausch & Yablunovskyy Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

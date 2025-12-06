@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Assistt",
+    "description": "Assistt2007 yılında kurulmuş olan Assistt A.Ş. bünyesindeki rehberlik ve çağrı merkezi hizmeti markasıdır.ISO 9001, ISO 10002, ISO 14001, ISO 15838, ISO 18295, ISO 20000, ISO 22301, ISO 27001, ISO 45001 belgelerine sahiptir.Türk Telekom A.Ş. iştiraki olarak kurulan şirket İstanbul merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 15838",
+      "ISO 18295",
+      "ISO 20000",
+      "ISO 22301",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Predo Lady",
+    "description": "Predo Lady2013 yılında kurulan Predo Sağlık Ürünleri San. ve Tic. A.Ş. bünyesindeki yetişkin ped markasıdır.Firma Gaziantep merkezlidir, ürünlerini Gaziantep’te üretmektedir ve birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Novak Dikiş Makinesi",
+    "description": "Novak2002 yılında kurulmuş olan Akkoyun Makina Tekstil İnşaat San. ve Tic. A.Ş. bünyesindeki konfeksiyon, dikiş makineleri, saya ve yedek parçaları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jay Tech",
+    "description": "Jay TechJay Smith tarafından kurulmuş olan Jaytech Gmbh bünyesindeki iletişim ve tüketici elektroniği markasıdır.Jaytech Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Vsco",
+    "description": "VSCO2011 yılında Joel Flory ve Greg Lutze tarafından kurulmuş olan Visual Supply Co. bünyesindeki dijital fotoğrafçılık araçları, iOS ve Android fotoğrafçılık uygulamaları, içerik oluşturma ve küratörlük, fotoğraf düzenleme ve fotoğrafçılık markasıdır.Visual Supply Co. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

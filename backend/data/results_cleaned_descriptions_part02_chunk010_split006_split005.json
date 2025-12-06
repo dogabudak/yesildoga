@@ -1,0 +1,46 @@
+[
+  {
+    "company": "BYD",
+    "description": "BYD, 1995 yılında Wang Chuanfu tarafından kurulan BYD Co Ltd. bünyesinde üretilen benzinli ve elektrikli arabalar, akülü bisiklet, otobüs, kamyon, forklift, şarj edilebilir piller ve cep pilleri markasıdır.BYD Co Ltd. ürünlerini Çin’de üretmektedir.BYD Co Ltd. şirketi üzerinde Amerika merkezli Berkshire Hathaway yüzde 24,6 pay, Xiang Yang Lü yüzde 21,6 ve kurucu Wang Chuanfu yüzde 15,7 paya sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "SAIC Motor",
+    "description": "SAIC Motor, 2011 yılında kurulan SAIC Motor Corporation Limited bünyesindeki otomotiv şirketidir.SAIC’in Volkswagen ve General Motors ile ortaklığı bulunmaktadır.SAIC Motor Corporation Limited Çin devletine aittir ve Çin’in en büyük araç üreticisidir.Bünyesindeki markalar:MaxusRoeweMG MotorNanjing AutomobileMG Motor IndiaMG Motor UK",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kamada",
+    "description": "Kamada, 1990 yılında Ralph Hahnve David Tzur tarafından kurulan Kamada Ltd. bünyesindeki biyo-ilaç markasıdır.Şirket yaklaşık 10 enjekte edilebilir ilaç üretmektedir ve 15’ten fazla ülkede pazarlanmaktadır.Kamada Ltd. İsrail merkezlidir ve ürünlerini İsrail’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Raketa",
+    "description": "Raketa, 1961 yılında kurulan, Petrodvorets saat fabrikası tarafından üretilen kol saati markasıdır.Raketa, ürettiği saatlerin başından sonuna kadar kendi parçalarıyla oluşturmaktadır.Raketa Rusya merkezlidir ve ürünlerini Rusya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Okuma",
+    "description": "Okuma, 1993 yılında kurulan Svendsen Sport A/S bünyesindeki olta malzemeleri, olta makine ve olta kamışı, makara, çubuk ve aksesuarları markasıdır.Svendsen Sport A/S’nin hisselerinin yüzde 85’ini Maj Invest Equity satın almıştır.Svendsen Sport A/S Danimarka merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": "2020-05-08"
+  }
+]

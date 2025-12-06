@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Coola",
+    "description": "Coola, 2019 yılında kurulan Coola LLC. bünyesinde üretilen cilt bakım, güneş bakım ürünleri markasıdır.Formülleri en az yüzde 70 sertifikalı organik içeriklerle üretilmiştir.Coola LLC. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mdk Dental",
+    "description": "Mdk, 2013 yılında kurulan Mdk Co. Ltd. bünyesindeki diş el aletleri markasıdır.Mdk Co. Ltd. Güney Kore merkezlidir. Ürünlerini Kore’de üretmekte ve 35’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Biogeniq",
+    "description": "Biogeniq, 2001 yılında kurulan Him Kozmetik İlaç ve Gıda San. Tic. A.Ş. bünyesindeki ayak bakımı, bronzlaştırıcı kremler, yağlar, cilt bakım, el ve vücut bakımı, göz, güneş ürünleri, kaş kiti, makyaj, maskeler, nemlendiriciler, sıkılaştırıcılar, saç bakım ürünleri, yüz bakım, yüz temizleyiciler, yaşlanma karşıtı ürünler markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Breyton",
+    "description": "Breyton, 1988 yılında kurulan Bd Breyton-Design Gmbh bünyesinde üretilen tekerlek jant markasıdır.Bd Breyton-Design Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Feetouch Cosmetics",
+    "description": "Feetouch Cosmetics, 2016 yılında kurulan Keleşoğlu İlaç Kozmetik Turizm San. ve Tic. A.Ş. bünyesinde üretilen göz çevresi bakım kremi, nemlendirici bakım kremi, sıvı peeling, cilt onarıcı jel, dudak bakım kremi, sabun, makyaj temizleme sütü, nemlendirci krem, keçi sütlü yüz maskesi, güneş kremi, aloe vera gel, çil tonik markasıdır.Ürünleri paraben içermemektedir.Firma Konya merkezidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-13"
+  }
+]

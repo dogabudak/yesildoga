@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Goldbergh",
+    "description": "Goldbergh2011 yılında Lieke van den Berg ve Sandra Peet tarafından kurulmuş olan Goldbergh B.V. bünyesindeki lüks giyim markasıdır.Ayrıca her görünümü tamamlamak için şapka, eldiven, eşarp ve güneş gözlüğü gibi çeşitli aksesuarlar sunar.Goldbergh B.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Flsun",
+    "description": "Flsun2014 yılında kurulmuş olan Zhengzhou Chaokao Electronic Technology Co. Ltd. bünyesinde üretilen 3D yazıcılar ve 3D baskı teknolojisi çözümleri markasıdır.Zhengzhou Chaokao Electronic Technology Co. Ltd. Çin merkezlidir. Tüm ürünleri Çin’de üretilmektedir ve 150’den fazla ülkeye pazarlanmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Glutensiz Fabrika",
+    "description": "Glutensiz Fabrika2019 yılında kurulmuş olan Sams Sağlıklı Alışveriş Merkezi San. Tic. A.Ş. bünyesinde üretilen sağlıklı atıştırmalıklar, kahvaltılık, cips, ezme, glütensiz un, granola markasıdır.ISO 9000, ISO 22000, TSE belgelerine sahiptir.Gaziantep merkezli firma ürünlerini 3. OSB’de yer alan 10 bin metrekarelik kapalı alana sahip tesislerinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kusmi Tea",
+    "description": "Kusmi Tea1867 yılında kurulmuş olan Orientis Gourmet Group bünyesindeki çay markasıdır.Parlak renklere sahip metal kutuları dikkat çekmektedir.Sylvain Orebi tarafından kurulmuş olan Orientis Gourmet Group Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Whatsapp",
+    "description": "Whatsapp2009 yılında Jan Koum ve Brian Acton tarafından kurulmuş olan Whatsapp Inc. bünyesindeki mesajlaşma ve arama uygulamasıdır.2014 yılında Meta Platforms Inc. tarafından satın alınmıştır.Dönemin İsrail Cumhurbaşkanının ilk Facebook hesabını bizzat açan Mark Zuckerberg’in kurucusu olduğu Meta Platforms Inc. Amerika merkezlidir.2014 yılında çoğunluk hisselerini satan Jan Koum, bir vakıf kurup 2018 yılında Stanford Üniversitesi’ne 10 milyon dolar bağışta bulunurken ayrıca Yahudi ve İsrail ile ilgili davalara on milyonlarca dolar bağışta bulunmuştur.Mark Zuckerberg şirket üzerindeki tüm oyların yüzde 61,9’una sahiptir.Hissedarlar:Mark Zuckerberg (yüzde 13,4)Eduardo Saverin (yüzde 2,1)Dustin Moskovitz (yüzde 1,2)Jan Koum (yüzde 0,84)James Breyer (yüzde 0,63)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

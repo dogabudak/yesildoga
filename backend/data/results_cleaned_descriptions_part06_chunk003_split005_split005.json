@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Sanyel",
+    "description": "Sanyel, 1996 yılında kurulan Sanyel Kozmetik bünyesinde üretilen kolonya, losyon, şampuan, saç bakım ürünleri, sıvı el sabunu, yardımcı ürünler markasıdır.Konya merkezli firma kuaförlerin ihtiyaç duyduğu kolonya ve saç bakım ürünleri ile ağda yağı, pudra, firkete, kantaşı, kuaför koltuk ve ekipmanları, kuaför koltukları, kuaför bekleme koltukları, saç yıkama setleri, ağda masaları ve makyaj sehpaları sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Daafu Bisiklet",
+    "description": "Daafu Bisiklet, 1986 yılında kurulan Arpağ Dayanıklı Tüketim Mal. Tic. ve Paz. Ltd. Şti. bünyesindeki dağ bisikletleri, şehir bisikletleri, amortisörlü bisikletler, çocuk bisikletleri markasıdır.Bebek gereçleri ve bisikletler sunan firma Adana merkezlidir.Bünyesindeki markalar;Ar BikeBarleyBücürükstimeDaafuMak BebekoMakbisPalyaço",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tineco",
+    "description": "Tineco, 1998 yılında kurulan Tineco Intelligent Technology Co. Ltd. bünyesinde üretilen ıslak kuru vakumlar, akıllı elektrikli süpürgeler, akülü süpürgeler, akıllı saç kurutma makineleri ve aksesuarları markasıdır.Tineco Intelligent Technology Co. Ltd. Çin merkezli Ecovacs Robotics Inc.’e aittir. Ürünlerini 20 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Reynaers",
+    "description": "Reynaers, 1965 yılında Jan Reynaers Duffel tarafından kurulan Reynaers Group bünyesindeki alüminyum, pencere, kapı, cephe, sürme doğrama, katlanır kapı ve güneş kırıcılar markasıdır.ISO 9001 belgesine sahiptir.Reynaers Group Belçika merkezlidir, ürünlerini 70’ten fazla ülkeye pazarlamaktadır. 2000 yılından beri Türkiye’de ofise sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Arden Makarna",
+    "description": "Arden, 2020 yılında kurulan Arden Makarna Gıda San. ve Tic. A.Ş. bünyesinde üretilen makarna, irmik, un markasıdır.ISO 9001, ISO 22000, Helal ve Kosher belgelerine sahiptir.Ürünlerini Gaziantep 5. OSB’de bulunan 10 bin metrekarelik alanda üretmektedir ve çok sayıda ülkeye ihraç etmektedir.Bünyesindeki markalar;ArdenPasta La FataSobremesa",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

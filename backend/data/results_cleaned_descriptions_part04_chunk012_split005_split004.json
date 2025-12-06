@@ -1,0 +1,54 @@
+[
+  {
+    "company": "After Eight",
+    "description": "After Eight, 1962 yılında üretilen nane çikolata kaplı şeker şekerleme markasıdır.1988 yılında Nestle bünyesine geçti.Nestle S.A. İsviçre merkezli Çikolata ve şekerleme üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Saber Sab",
+    "description": "Saber Sab, 2000 yılında kurulan Faber Kozmetik San. ve Tic. Ltd. Şti. bünyesinde üretilen sabun markasıdır.Sabun ve sabun çeşitleri yüzde 100 bitkiseldir. Ürünlerinde labsa, sls, stpp, sodyum perborat, etoksilat ve diğer petrokimyasal gibi insan sağlığına ve çevre sağlığına zarar veren maddeler içermemektetir ve Helal belgesine sahiptir.Firma üretimini Gaziantep’in Nizip ilçesinde yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Faber Naturex",
+    "description": "Faber Naturex, Faber Kimya İlaç San. Tic. Ltd. Şti. bünyesinde üretilen genel temizlik, mutfak temizliği, çamaşır hijyen, kişisel bakım ve endüstriyel temizlik ürünleri markasıdır.ISO 10002, ISO 14001, ISO 45001, ISO 9001 ve Helal belgelerine sahiptir.Ürünlerinde insan, hayvan, bitki ve çevreye zarar vermeyen tamamen bitkisel esaslı organik maddeler kullanmaktadır. Ürünleri hayvansal katkılar içermez ve hayvanlar üzerinde test edilmemektedir.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Celenes",
+    "description": "Celenes, 2010 yılında kurulan Crx Nordic AB bünyesindeki doğal kozmetik markasıdır.Ürünleri alüminyum, paraben, alkol, petrokimyasallar ve renklendirici içermez. Ürünleri hayvanlar üzerinde test edilmiyor.Crx Nordic AB İsveç merkezlidir. Türkiye’de Carex Bitkisel Ürünler ve Kozmetik San. Tic. Ltd. Şti. olarak faaliyet göstermektedir. Ürünlerini 35’e yakın ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Selay Baharat",
+    "description": "Selay, 1995 yılında kurulan Kutluer Gıda ve Makina San. Dış. Tic. Ltd. Şti. bünyesinde üretilen köfte harçları, tavuk sosları, çiğ köfte, kebap harçları, ızgara veya barbekü çeşnileri ve sucuk harçları markasıdır.Dünyanın dört bir yanından toplanan mahsuller, hiçbir katkı maddesi eklenmeden üretilir. Koruyucu ve lezzet artırıcı madde içermez.​ISO 9001, ISO 22000, Helal belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

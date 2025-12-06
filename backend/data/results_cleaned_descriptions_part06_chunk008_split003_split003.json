@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Reveal",
+    "description": "Reveal, 2002 yılında kurulan MPM Products Ltd. bünyesinde üretilen kedi ve köpek maması markasıdır.MPM Products Ltd.’nin çoğunluk hisselerini 2020 yılında özel sermaye şirketi 3i Group satın aldı.3i Group İngiltere merkezlidir ve ürünlerinin yüzde 60’ını yurt dışına pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Gymboree",
+    "description": "Gymboree, 1976 yılında Joan Barnes tarafından kurulan Gymboree Group Inc. bünyesindeki çocuk giysileri ve oyuncakları markasıdır.Gymboree Group Inc. 2010 yılında Amerika merkezli Bain Capital LP tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Moony",
+    "description": "Moony, 1961 yılında kurulan Unicharm Corporation bünyesinde üretilen bebek mendilleri ve ıslak mendilleri markasıdır.Şirket bebek ve çocuk bakım ürünleri, kadın bakım ürünleri, sağlık ürünleri, kozmetik ürünleri ev ürünleri, evcil hayvan bakım ürünleri, endüstriyel malzemeler ve gıda-ambalaj malzemeleri vb. ürünler sunmaktadır.Unicharm Corporation Japonya merkezlidir.Bünyesindeki markalar;Baby TopBodyfitLifreeMamy PokoMamypokoMoonyPower SlımSidegathersSilcotSlim CulotteSofySoofyUnicharm",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Welder Saat",
+    "description": "Welder, 2006 yılında Italo Fontana tarafından kurulan kol saatleri markasıdır.Welder markası 2016 yılında Saat&Saat San. ve Tic. A.Ş. tarafından satın alındı. Ürünleri Hong Kong’da üretilmektedir. Ürünleri 30’dan fazla ülkeye ihraç edilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mzshne",
+    "description": "Mzshne, 2021 yılında kurulan Shenzhen Xiaowan Electronic Commerce Co. Ltd. bünyesindeki kazak, hırka, gömlek, etek, pijama, ayakkabı, bot, rüzgar Mont, yağmurluk, şapka, çorap gibi giyim ürünleri markasıdır.Shenzhen Xiaowan Electronic Commerce Co. Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

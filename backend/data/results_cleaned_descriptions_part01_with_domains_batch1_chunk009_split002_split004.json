@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Hidromek",
+    "description": "Hidromek, 1978 yılında Hasan Basri Bozkurt tarafından kurulan iş makinesi markasıdır.Ankara’da 4, İzmir’de ve Tayland’da birer olmak üzere 6 üretim tesisinde kazıcı yükleyici, hidrolik ekskavatör, lastikli yükleyici ve motor greyder üretimi yapmaktadır. İspanya’da HİDROMEK WEST, Rusya’da HİDROMEK RUS, Tayland’da HİDROMEK CE ve Japonya’da HİDROMEK JAPAN firmalarını kurarak faaliyete geçirmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pinterest",
+    "description": "Pinterest, 2010 yılında Paul Sciarra, Evan Sharp ve Ben Silbermann tarafından kurulan görsel paylaşımlarının yapıldığı pano sistemli bir sosyal platformdur.Pinterest Amerikan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bugatti",
+    "description": "Bugatti, 1909 yılında İtalyan otomobil tasarımcısı Ettore Arco Isidoro Bugatti tarafımdan kurulan Bugatti Automobil S.p.A bünyesindeki lüks spor otomobili markasıdır.Şirket 1995 yılında iflas edince Almanya merkezli Volkswagen AG 1998 yılında Bugatti marka haklarını satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "WinIon Ped",
+    "description": "WinIon, 1997 yılında Vincent Chen tarafından kurulan Winalite bünyesindeki hijyenik ped markasıdır.Lokomotif ürünleri olan, Love Moon Anion hijyenik pedlerle, Winalite International Hong Kong merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Caldion Nerede Üretiliyor",
+    "description": "Caldion Nerede Üretiliyor Hangi ÜlkeninCaldion, 1996 yılında Hunca San. A.Ş. bünyesinde üretilen genç erkek ve kadınlara yönelik parfüm ve deodorant markasıdır.Ürünlerini Tekirdağ’da 22 dönüm arazi üzerinde kurulan fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-11-04"
+  }
+]

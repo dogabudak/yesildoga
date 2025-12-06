@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Belrobotics",
+    "description": "2002 yılında kurulmuş olan akıllı çim biçme robotları markasıdır.Bağlı hat modelleri için uzaktan kumanda, filo yönetimi, hırsızlığa karşı koruma işlevi ve uzaktan yazılım güncellemeleri sunarlar.Marka 2013 yılında Japonya merkezli Yamabiko Corporation tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Choco Parris",
+    "description": "1980 yılında kurulmuş olan Akay Çikolata Bisküvi Gıda San. Tic. Ltd. Şti. bünyesinde üretilen kakao kaplı, beyaz kokolin kaplı, çilek aromalı, marshmallowlu sandviç bisküviler markasıdır.Firma Gaziantep merkezlidir. Ürünlerini 11 bin metrekarelik entegre tesislerinde üretmektedir ve 15’ten fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Trevalli",
+    "description": "1960 yılında kurulmuş olan Cooperlat Soc. Coop. Agr. bünyesinde üretilen UHT ve pastörize süt, krema, tereyağı, tatlılar, pudingler, yoğurt, peynirler ve mozzarella, beşamel sosu markasıdır.13 temel kooperatiften oluşan Cooperlat Soc. Coop. Agricola İtalya merkezlidir. Süt tedarik eden yaklaşık bin üreticisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Barmenia",
+    "description": "1904 yılında kurulmuş olan Barmenia Krankenversicherung Ag bünyesindeki özel sağlık sigortası, maluliyet sigortası, bireysel emeklilik, kaza sigortası, mülk sigortası, işletme sigortası, ipotek kredisi, araç sigortası, hayvancılık, sorumluluk, sağlık sigortası ve evcil hayvan sağlık sigortası hizmetleri markasıdır.Barmenia Krankenversicherung Ag Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Snapmaker",
+    "description": "2016 yılında kurulmuş olan Shenzhen Snapmaker Technologies Co. Ltd. bünyesinde üretilen 3 boyutlu baskı, lazer kesim ve CNC, modüller ve eklentiler markasıdır.Shenzhen Snapmaker Technologies Co. Ltd. Çin merkezlidir ve tüm ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

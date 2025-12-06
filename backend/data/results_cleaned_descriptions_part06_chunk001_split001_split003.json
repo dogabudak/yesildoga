@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Profritöz Yağ",
+    "description": "Profritöz, 1981 yılında kurulan Yonca Gıda San. İşletmeleri İç ve Dış Tic. A.Ş. bünyesinde üretilen bitkisel susuz yağ markasıdır.Özellikle ev dışı tüketim, her türlü sebze, hamur işi ve et ürünlerindeki kızartmalar için piyasaya sunulan yağ kullanımı sırasında dumanlanma ve köpürme yapmıyor.İzmir merkezli firma Manisa OSB’de 60 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Azercell",
+    "description": "Azercell, 1996 yılında kurulan Azercell Telekom MMC bünyesindeki mobil iletişim markasıdır.Azercell Telekom MMC 2018 yılında Azerbaycan Cumhuriyeti’nin sermayesinin tamamına sahip olduğu bir kamu şirketi olan AzInTelecom MMC bünyesine geçti.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Safya Yağ",
+    "description": "Safya Yağ Nerenin Malı MarkasıSafya, 1996 yılında kurulan Aves A.Ş. bünyesinde üretilen ayçiçek yağı markasıdır.ISO 9001, FSSC 22000, ISO 14001, ISO 45001, ISO 27001, HELAL ve KOSHER belgelerine sahiptir.Ürünlerini Mersin’de 120 dönüm arazi üzerine kurulu tesisinde üretmektedir. 60’tan fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 27001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "INA",
+    "description": "INA, 1883 yılında kurulan Schaeffler Technologies AG & Co. KG bünyesindeki otomotiv yedek parçaları markasıdır.Ürün yelpazesinde makaralı rulmanlar, doğrusal kılavuz sistemleri, motor bileşenleri, düz rulmanlar, hassas bileşenler yer almaktadır.Schaeffler Technologies AG & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Bizim Yağ",
+    "description": "Bizim Yağ, 1992 yılında kurulan Besler Gıda ve Kimya Sanayi ve Tic. A.Ş. bünyesindeki margarin, tereyağ, yenilebilir sıvı ve katı yağlar markasıdır.ISO 9001, ISO 14001, OHSAS 18001 ve Helal belgelerine sahiptir.Besler Gıda, 2017 yılında Yıldız Holding bünyesindeki Ülker grubuna dahil oldu.Bünyesindeki bazı markalar;Bizim YağHünerHalkLunaNivaSabahTeremyağÜlker Bizim YağYayla",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Microsoft Office",
+    "description": "Microsoft Office, 1990 yılında Microsoft Corp. tarafından geliştirilen ticari ofis yazılım paketi markasıdır.Seçilen paketlere göre Word, Excel, PowerPoint, OneNote, Outlook, Access ve/veya Publisher gibi bir yazılım paketi sağlar.Microsoft Corporation Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mycey",
+    "description": "Mycey, 2007 yılında kurulan C Bebek Ürünleri San. ve Tic. A.Ş. bünyesindeki bebek ve hamile ürünleri markasıdır.Ürün yelpazesinde bebek ağız bezi, battaniye, bebek önlüğü, beslenme yardımcısı, biberon kordonu, çok amaçlı örtü, emzik kordonu, emzirme önlüğü, minderi ve kılıfı, güvenli nevresim takımı, hamile destek minderi ve yastığı, mama kaşığı, meyve sebze emziği, nevresim takımı pikesi, omuz örtüsü, uyku geceliği ve tulumu, yapışkan boyölçer ve harfler, yeni kundak ürünleri yer almaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Harmonyos",
+    "description": "Harmonyos, 2012 yılında kurulan Huawei Technologies Co. Ltd. bünyesinde geliştirilen mikro çekirdekli işletim sistemi markasıdır.Bağlı nesneler için tasarlanmış gömülü bir işletim sistemidir.Huawei Technologies Co. Ltd. Çin merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Delsey",
+    "description": "Delsey, 1946 yılında Delahaye ve André ve Walter Seynhaeve ortaklığıyla kurulan Delsey SA bünyesindeki valiz, seyahat çantası, sırt çantası, tuvalet çantası ve okul çantası markasıdır.Ürünlerini 110’dan fazla ülkeye satmaktadır.Delsey SA Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Petal Search Maps",
+    "description": "Petal Maps, Huawei Technologies Co. Ltd. bünyesinde geliştirilen haritalama ve gezinme aracı markasıdır.Konum izleme, harita görüntüleme, yol tarifleri ve gerçek zamanlı trafik güncellemesi gibi özellikler sunmaktadır.Petal Maps 129 şehirde gerçek zamanlı toplu taşıma güncellemeleri 140’tan fazla ülke ve bölgedeki kullanıcılara sunmaktadır.Huawei Technologies Co. Ltd. Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2022-01-25"
+  }
+]

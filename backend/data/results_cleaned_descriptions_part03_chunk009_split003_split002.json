@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Arkim",
+    "description": "Arkim, 2011 yılında Elif Güngör Reis ve Prof. Dr. Muzaffer Yaşar tarafından kurulan Arkim Kimyevi Maddeler San. ve Tic. A.Ş. bünyesinde doğal kalsiyum kaynaklarından üretilen gıda koruyucusu markasıdır.Bu doğal içerikli ürün; kanserojen sodyum benzoat, potasyum sorbat ve natamisin gibi zararlı gıda kimyasallarının yerine kullanılmaktadır.Yumurta kabuklarından elde edilen doğal bir gıda koruyucusu ve meyve sebze temizleme maddesidir. Doğal içeriğiyle ürünlerin raf ömrünü minimum 2 kat uzatmaktadır. Birçok paketli gıda, sebze, meyve, ilaç sanayi, kozmetik gibi farklı sektörlerde kullanılabilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kingspec",
+    "description": "Kingspec, 2007 yılında kurulan Shenzhen Kingspec Electronics Technology Co,Ltd. bünyesinde üretilen dahili SSD-2.5″ SATAIII, mSATA, NGFF (M.2), PCIe M.2, Harici SSD, USB flash sürücü, USB muhafaza, Wifi USB Sürücü, vb. ürünler markasıdır.ISO9001 belgesine sahiptir.Shenzhen Kingspec Electronics Technology Co,Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Gelal",
+    "description": "Gelal, 2019 yılında kurulan Gelal Teknoloji A.Ş. bünyesindeki kargo sipariş teslimatı taşımacı uygulaması markasıdır.Gidilen yere en yakın adrese kargo götürerek para kazandırmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "İstegelsin",
+    "description": "İstegelsin.com2017 yılında kurulan Future Teknoloji Tic. A.Ş. bünyesindeki çevrimiçi süpermarket uygulamasıdır.2024 yılında ŞOK Marketler Tic. A.Ş. tarafından satın alınmıştır.ŞOK Market Sahibi Kim?",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2024-08-09"
+  },
+  {
+    "company": "Bodor Laser",
+    "description": "Bodor Laser, 2002 yılında kurulan Jinan Bodor CNC Machine Co.,Ltd. bünyesindeki lazer kesim makinesi, lazer gravür makinesi, lazer işaretleme makinesi, co2 lazer kesim makinesi, değişim platformu lazer kesim makinesi, tüp lazer makinesi, sac lazer makinesi, tıbbi cihaz, spor donatımları markasıdır.ISO 9001 belgesine sahiptir. Ürünlerini 100’den fazla ülkeye satmaktadır.Jinan Bodor CNC Machine Co.,Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

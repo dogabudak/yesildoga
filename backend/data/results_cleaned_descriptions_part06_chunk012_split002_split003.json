@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kesoto",
+    "description": "Kesoto, Shenzhen Luzhengtong Trading Co. Ltd. bünyesindeki otomobil parçaları ve aksesuarları markasıdır.Shenzhen Luzhengtong Trading Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Veltia",
+    "description": "Veltia, 2003 yılında kurulan Veltia B. S.L. bünyesindeki elektrikli el kurutma makineleri, ayak kurutma makinesi, boxer hava temizleyici, hijyen ürünleri, susuz pisuarlar, tuvalet aksesuarları markasıdır.Veltia Barcelona S.L. İspanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Qwetch",
+    "description": "Qwetch, 2010 yılında Stephane Miquel tarafından kurulan Winopia SAS bünyesindeki yiyecek ve içecek kapları markasıdır.Yalıtımlı kupalar ve şişeler, öğle yemeği kutuları vb. ürünlere sahiptir.Winopia SAS Fransa merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "TFA Dostmann",
+    "description": "TFA Dostmann, 1964 yılında kurulan Tfa Dostmann Gmbh & Co. Kg bünyesinde üretilen termometre, nem ölçer, barometre ve hava istasyonu çeşitleri, çalar saatler, göstergeler ve hassas ölçüm cihazları markasıdır.Tfa Dostmann Gmbh & Co. Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Geistlich",
+    "description": "Geistlich, 1851 yılında kurulan Geistlich Pharma AG bünyesinde üretilen rejeneratif tıp için tıbbi cihazlar ve anti-enfektifler, vitaminler markasıdır.Geistlich Pharma AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  }
+]

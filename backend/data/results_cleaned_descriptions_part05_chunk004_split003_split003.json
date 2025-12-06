@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Phoenix Contact",
+    "description": "Phoenix Contact, 1923 yılında Hugo Knümann tarafından kurulan Phoenix Contact GmbH & Co. KG bünyesinde üretilen endüstriyel otomasyon, ara bağlantı ve arayüz çözümlerimarkasıdır.Şirket, terminal blokları, röleler, konektörler, sinyal klimaları, güç kaynakları, kontrolörler ve Plc’ler, G/Ç sistemleri, Endüstriyel Ethernet, kontrol sistemi kablolaması, PCB terminal blokları ve konektörleri ve dalgalanma bastırma ürünleri geliştirmektedir.Phoenix Contact GmbH & Co. KG, elektrik mühendisliği, elektronik ve otomasyon alanlarında bileşenler, sistemler ve çözümler sunan Almanya merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Alfapen",
+    "description": "Alfapen, 1993 yılında kurulan Alfapen A.Ş. bünyesinde üretilen uPVC kapı ve pencere ürünleri markasıdır.Ürünlerini 40 bin metrekarelik arazi üzerinde yer alan 15 bin metrekarelik kapalı alanda üretmektedir. ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ergül Kargo",
+    "description": "Ergül Kargo, 1992 yılında kurulan Ergül Nakliyat Tic. Ltd. Şti. bünyesindeki nakliye, lojistik, parsiyel taşımacılık hizmetleri markasıdır.Bursa merkezli firmanın İstanbul ve Tekirdağ’da şubeleri bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ludwig Krohne",
+    "description": "Ludwig Krohne, 1921 yılında kurulan Ludwig Krohne GmbH & Co. KG bünyesindeki teknolojik ekipman ve hizmetler markasıdır.Ludwig Krohne GmbH & Co. KG Almanya merkezlidir. Ürünlerini 11 ülkede bulunan 16 üretim tesisinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Inovaxis",
+    "description": "Inovaxis, 2013 yılında kurulan İnova Teknoloji Sistemleri San. Tic. Ltd. Şti. bünyesindeki cep telefonu aksesuarları ve maske markasıdır.3 katlı maske, bluetooth kulaklı, l tipi type-c usb ve iphone kablo, micro usb şarj cihazı, micro usb – type c – iphone kablo spiral kablo koruyucu, micro usb kablo, mikrofonlu kulaklık, youtuber selfie stüdyo kuaför makyaj ışığı gibi ürünlerini Çin’den ithal etmektedir.Bünyesindeki markalar;AwetronInovaxis",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

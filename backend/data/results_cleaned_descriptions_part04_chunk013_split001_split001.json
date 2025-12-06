@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Nirvel",
+    "description": "Nirvel, 1979 yılında kurulan Nirvel Cosmetics SL bünyesinde üretilen kozmetik, saç ürünleri, saç boyası, saç spreyi, yüz ve vücut şampuanları markasıdır.Nirvel Cosmetics SL İspanya merkezlidir.Bünyesindeki markalar;NirvelFrivalLevissime",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Performance Brands",
+    "description": "Performance Brands, 1987 yılında kurulan Performance Brands, Inc. bünyesindeki erkek cilt bakımı ürünleri markasıdır.Performance Brands, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Roxxo Hoparlör",
+    "description": "Roxxo, 2018 yılında kurulan Mehmet Atmaca Bilişim A.Ş. tarafından ithal edilen bluetooth hoparlörler markasıdır.Ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pec Products",
+    "description": "Pec Products, 1994 yılında kurulan P&C Products Srl bünyesinde üretilen vücut losyonu ve kremi, bıyık kremi, yaşlanma karşıtı krem, el kremi, beyazlatıcı krem, akne önleyici krem, duş jeli, şampuan, saç kremi, diş macunu, gargara ve tüy dökücü jel markasıdır.P&C Products Srl İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Toyo Beauty",
+    "description": "Toyo Beauty, 1941 yılında kurulan Toyo Beauty Co. Ltd. bünyesinde üretilen kozmetik markasıdır.Toyo Beauty Co. Ltd. Japonya merkezlidir. Ürünlerini Japonya’da üretmektedir.ISO 9001 ve ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  }
+]

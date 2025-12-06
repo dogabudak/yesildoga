@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Halspan",
+    "description": "Halspan, 1999 yılında kurulan Halspan Limited bünyesindeki kapılar ve bileşenler markasıdır.Eğitim, sağlık, otelcilik, ticari, konut, perakende ve devlet sektörlerine yapı ürünleri tedarik eder.Halspan Limited İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Kingspan",
+    "description": "Kingspan, 1965 yılında kurulan Kingspan Group PLC bünyesindeki yalıtımlı paneller ve cepheler, yalıtım, yapısal, güneş ve yenilenebilir mühendislik kereste sistemleri, erişim zeminleri, rüzgar türbinleri, septik tanklar markasıdır.Kingspan Group PLC, İrlanda merkezlidir ve 5 ülkede faaliyet göstermektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Onto",
+    "description": "Onto, 2004 yılında kurulan Unigen Yapı Malzemeleri A.Ş. bünyesinde üretilen ticari tip zemin kaplama malzemeleri markasıdır.Düzce’de yer alan tesislerinde yükseltilmiş döşeme sistemleri üretmektedir.ISO 9001, ISO 18001 ve ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 14001",
+      "ISO 18001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "USG",
+    "description": "USG, 1901 yılında kurulan USG Corporation bünyesinde üretilen alçı, alçıpan, tavan karosu, tavan ızgarası, taşyünü tavan paneli markasıdır.Özellikle alçıpan ve derz bileşiği olmak üzere inşaat malzemeleri üreten USG Corporation Amerika merkezlidir. Kuzey Amerika’daki en büyük alçı ürünleri üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Modulyss",
+    "description": "Modulyss, 2010 yılında kurulan Balta Group bünyesinde üretilen karo halı markasıdır.Halı karoları tasarlayıcısı ve üreticisidir. Dünya çapında 95’ten fazla ülkede faaliyet göstermektedir.Avrupa’nın en büyük halı üreticisi Belçika merkezli Balta Group’un bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

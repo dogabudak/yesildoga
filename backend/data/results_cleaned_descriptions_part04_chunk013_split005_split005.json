@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Poltab",
+    "description": "Poltab, 1996 yılında kurulan Poltab Ayakkabı Taban San. ve Tic. Ltd. Şti. bünyesinde üretilen p.u t.r ve c.p.u ayakkabı taban markasıdır.Firma 5 bin metrekarelik alanda EVA, Poliüretan, Termo/TPU ve Kauçuk ayakkabı tabanları, ayakkabı parçaları ve aksesuarları üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kalyon",
+    "description": "Kalyon, 1968 yılında kurulan Ender Grup’a ait Endeks Kimya A.Ş. bünyesindeki sıvı deterjanlar, toz deterjanlar, yumuşatıcı, bulaşık temizleyiciler, ıslak mendil, genel temizlik ürünleri markasıdır.ISO 14001, ISO 9001, Ohsas 18001, TSE belgelerine sahiptir.Ürünlerini 18 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "SMR Plastics",
+    "description": "SMR Plastics, 2004 yılında kurulan Sumer Plastik San. Kırt. ve Turizm Tic. A.Ş. bünyesinde üretilen PP dosyalama sistemleri markasıdır.Ürün yelpazesinde poşet dosya, PP L dosya , PP telli dosya, PP ayraçlar ve PP kaplama ürünleri yer almaktadır.Kocaeli’de bulunan 3 bin metrekarelik alanda üretim yapmaktadır ve üretim kapasitesinin yüzde 80’ini Almanya, Fransa, İngiltere ve İsrail gibi ülkelere ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Poya",
+    "description": "Poya, 1998 yılında kurulan Poya-Tech Co., Ltd. bünyesinde üretilen cam filmleri markasıdır.Ürün yelpazesinde nano seramik ir film, püskürtülmüş film, boyalı cam filmi, buğu önleyici film, tutkal kaplama filmi, güneş şerit filmi, çift tonlu film, güvenlik filmi, dekoratif fım ve diy kitleri yer almaktadır.ISO 9001, ISO 14001 belgelerine sahiptir.Poya-Tech Co., Ltd. Tayvan merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Liipack",
+    "description": "Liipack, 1995 yılında kurulan Zafer Grup Plastik Ambalaj ve Sünger San. Tic. Ltd. Şti. bünyesinde üretilen market ihtiyaç ürünleri plastik, ambalaj ve temizlik ürünleri markasıdır.ISO 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

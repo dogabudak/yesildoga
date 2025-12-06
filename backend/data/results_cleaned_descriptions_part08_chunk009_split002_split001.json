@@ -1,0 +1,55 @@
+[
+  {
+    "company": "Bionaire",
+    "description": "1903 yılında kurulmuş olan Newell Brands Inc. bünyesindeki ev için hava temizleme cihazları ve filtreler markasıdır.Havadaki parçacıkları yakalamak ve iç mekan hava kalitesini iyileştirmek için 6 aşamalı filtrelemeye sahiptir.Newell Brands Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Meike Ayakkabı",
+    "description": "Meike Ayakkabı Hangi Ülkenin Malı Markası1999 yılında kurulmuş olan Fujian Meike Sports-leisure Co. Ltd. bünyesinde üretilen spor ayakkabı, rahat ayakkabılar, botlar markasıdır.ISO 9001 belgesine sahiptir.Fujian Meike Sports-leisure Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Dr. Norel Wilsz",
+    "description": "Dr. Norel Wilsz1961 yılında kurulmuş olan Norel Dr Wilsz Cosmetics Laboratory bünyesinde üretilen yüz ve vücut bakım kozmetikleri markasıdır.Üünleri, paraben, koku verici maddeler ve mineral yağlar içermez ve hayvanlar üzerinde test edilmemektedir.Norel Dr Wilsz Cosmetics Laboratory Polonya merkezlidir. Ürünlerini Polonya’da bulunan üretim tesisinde üretmektedir ve 10 ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": null
+  },
+  {
+    "company": "Hudson Baby",
+    "description": "1998 yılında kurulmuş olan BabyVision Inc. bünyesindeki bebek yatak takımları, bebek kıyafetleri, banyo havluları ve el bezleri, salya ve mama önlükleri, battaniyeler, biberon ve emzikler, çoraplar ve patikler, hediye setleri, bebek taşıyıcıları ve bebek bezi çantaları markasıdır.BabyVision Inc. Amerika merkezlidir. Ürünlerini 100’den fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Helsan",
+    "description": "1984 yılında kurulmuş olan Helsan Gıda San. ve Ltd. Şti. bünyesinde üretilen haşhaş ezmesi, helvalar, köpük helva, lokum, reçel, susamlı kıtır helva, tahin ve pekmez markasıdır.ISO 9001, ISO 22000, Helal ve Koşer belgelerine sahiptir.Firma Konya merkezlidir. Ürünlerini Konya’da 2 bin 500 metrekaresi kapalı ve 2 bin metrekaresi açın olan tesisinde üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

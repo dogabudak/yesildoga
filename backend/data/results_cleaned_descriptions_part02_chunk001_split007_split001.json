@@ -1,0 +1,50 @@
+[
+  {
+    "company": "TEB Bankası",
+    "description": "Türk Ekonomi Bankası (TEB), 1927 yılında Kocaeli Halk Bankası T. A. Ş. olarak kurulan özel sektör ticari bankalarından biridir. Bankacılık hizmetlerinin yanı sıra grup şirketleri ve iştirakleri vasıtasıyla da faktoring, tüketici finasmanı finansal kiralama, filo kiralama, portföy yönetimini de içeren geniş bir finansal ürün ve hizmet yelpazesini müşterilerine sunmaktadır.2005 yılında Fransa Paris merkezli BNP Paribas S.A. ile Çolakoğlu Grubu arasında gerçekleşen ortaklık sonucunda BNP Paribas TEB’in çoğunluk hissedarı olmuştur.BNP Paribas, 2000 yılında Banque Nationale de Paris (BNP) ve Paribas’ın birleşmesiyle kurulmuştur.2009 yılında, Belçika bankası Fortis’in yüzde 75’lik hissesini satın almıştır.75 ülkede varlığı bulunan uluslararası bir bankacılık grubudur.TEB Ortaklık yapısı:TEB Holding A.Ş. (yüzde 55) (Yarı yarıya BNP Paribas-Fortis Yatırım Holding A.Ş. ve Çolakoğlu Grubu Ortaklığıdır)BNP Paribas Yatırımlar Holding A.Ş. (yüzde 23,51)BNP Paribas Fortis Yatırımlar Holding A.Ş. (yüzde 21,23)BNP Paribas SA (yüzde 0,24)Kocaeli Ticaret Odası (yüzde 0,02)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": "2021-07-28"
+  },
+  {
+    "company": "ICBC Bankası",
+    "description": "ICBC, 1984 yılında kurulan, toplam varlıklar ve piyasa değerine göre dünyanın en büyük bankasıdır.Industrial and Commercial Bank of China Limited (ICBC), Çin’in dört devlet bankasından biridir.Kurumsal Bankacılık, Ticari Bankacılık, KOBİ Bankacılığı ve Bireysel Bankacılık alanlarında faaliyet gösteren ICBC Turkey Bank A.Ş. 2015 yılında ICBC tarafından Tekstilbank’a ait hisseleri satın aldıktan sonra adı değiştirilerek kurulmuştur.ICBC’nin Banka’daki pay sahipliği oranı yüzde 92,8’dir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Intel Security McAfee",
+    "description": "\"Intel Security McAfee\"\nIntel Security McAfeeIntel Security McAfee, 1987 yılında John McAfee tarafından kurulan McAfee Inc bünyesindeki dijital güvenlik yazılımı markasıdır.McAfee Personal Firewall Plus, McAfee Privacy Service, McAfee SecurityCenter, McAfee Shredder, McAfee Security Scan Plus, McAfee SpamKiller gibi yazılımları çok popülerdir.McAfee Inc sahibi yüzde 51 oranında Amerikan merkezli TPG Capital ve Thoma Bravo ile yüzde 49 oranla Intel şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Wolf Garten",
+    "description": "1922 yılında August Wolf, Söhnen Gregor ve Otto tarafından kurulan WOLF-Garten GmbH & Co. KG, 2009 yılında iflas edince şirketi MTD Products AG satın aldı.Almanya merkezli Wolf Garten bahçe makineleri ve aletleri, gübre, çim tohumu ve diğer bahçe aksesuarları üreten Avrupa’nın tarım ve bahçecilik alanında en geniş ürün yelpazesine sahip kuruluşlarından biridir.WOLF-Garten ürünleri, Alman mühendisler tarafından geliştirilerek, Almanya’da üretilmektedir.Türkiye dağıtıcısı Sares firmasıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-05-31"
+  },
+  {
+    "company": "Van Cleef & Arpels",
+    "description": "Van Cleef & Arpels, 1906 yılında kurulan Montblanc International GmbH şirketi bünyesindeki mücevher ve parfüm markasıdır.Montblanc International GmbH şirketini 1999 yılında İsviçre merkezli Richemont satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2019-04-03"
+  }
+]

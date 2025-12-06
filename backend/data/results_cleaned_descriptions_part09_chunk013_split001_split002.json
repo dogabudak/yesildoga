@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Smallman",
+    "description": "Smallman1997 yılında kurulmuş olan Küçük Adam Kırtasiye Bilg. Paz. A.Ş. bünyesindeki çevrimiçi e-ticaret markasıdır.Ofis kırtasiye ürünleri, bilgisayar, elektronik, kırtasiye, tüketim malzemeleri, çay kahve, temizlik ürünleri gibi kategorilerde ürünler sunmaktadır.Firma Ankara merkezlidir ve 3 bin metrekarelik kapalı alanda faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aztea",
+    "description": "2010 yılında kurulmuş olan Astaratea MMC bünyesinde üretilen çay markasıdır.Ürünleri yüzde yüz doğal olarak üretilmektedir ve kimyasal katkılar içermemektedir.Astaratea MMC Azerbaycan merkezlidir.Bünyesindeki markalar;",
+    "documents": [],
+    "parent": null,
+    "origin": "AZ",
+    "updated_date": null
+  },
+  {
+    "company": "Animal Joy",
+    "description": "1994 yılında kurulmuş olan Kor Agro Organik Gıda İnşaat Enerji San. Tic. A.Ş. bünyesindeki protein tozu, sporcu besin ve takviyeleri markasıdır.ISO 9001, ISO 14001, ISO 22000, ISO 22716, ISO 45001, HACCP belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 22716",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Playcity",
+    "description": "2021 yılında kurulmuş olan Playcity Akıl ve Zeka Oyunları San. Tic. Ltd. Şti. bünyesindeki oyun ve havuz topları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Barlowa",
+    "description": "2017 yılında kurulmuş olan Cyccle Danışmanlık İnşaat ve Dış Tic. San. A.Ş. bünyesindeki cam tablolar markasıdır.Temper işlemi görmüş camlara doğrudan UV baskı yapılarak tablolar oluşturulmaktadır. Üfleme camdan neon, led neon ve dekorlu cam seçeneklerine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

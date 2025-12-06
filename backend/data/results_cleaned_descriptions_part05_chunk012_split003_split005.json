@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Dermaceutic",
+    "description": "Dermaceutic, 2002 yılında Nicola Fagiuoli tarafından kurulan Dermosciences Ltd. cilt bakım ürünleri markasıdır.Tüm estetik tedavilerin (peeling, lazer, botoks, mezoterapi gibi) sonuçlarına eşlik eden kozmesötikler sunmaktadır.Dermosciences Ltd. İrlanda merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "AKG Audio",
+    "description": "AKG Audio, 1947 yılında Rudolf Goerike ve Ernst Pless tarafından kurulan Akg Acoustics Gmbh bünyesindeki kulaklık, mikrofon, entegre sistemler, kablosuz sistemler markasıdır.Akg Acoustics Gmbh, 2017 yılında Güney Kore merkezli Samsung Electronics’in iştiraki olan Harman International Industries Incorporated tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Kömmerling",
+    "description": "Kömmerling, 1897 yılında Karl Kömmerling tarafından kurulan Profine Gmbh bünyesinde üretilen kapı pencere profilleri, PVC-Plaka, panjur sistemleri markasıdır.Profine Gmbh Almanya merkezlidir. Ürünlerini 70 ülkeye pazarlamaktadır. Almanya, Fransa, İtalya, İspanya, Rusya, Ukrayna, Çin, Hindistan ve Amerika’da üretim tesislerine sahiptir. 2005 yılından beri Türkiye’de Profine Uluslararası Pvc Sistemleri San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.Bünyesindeki markalar;KömmerlingKbeTrocal",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2025-03-31"
+  },
+  {
+    "company": "Promethean World",
+    "description": "Promethean, 1997 yılında Tony Cann tarafından kurulan Promethean Limited bünyesindeki öğrenme ortamlarını geliştiren, bütünleştiren ve uygulayan küresel bir eğitim teknolojileri markasıdır.Etkileşimli bir öğretim teknolojisi sağlayıcısı olan Promethean World, bir dizi öğretim gösterisi donanım ürünü ve etkileşimli öğretim yazılımı ürünleri sunmaktadır.Promethean Limited 2015 yılında Çin merkezli video oyun şirketi NetDragon Websoft Holdings Limited tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Universal Audio",
+    "description": "Universal Audio, 1999 yılında Bill ve Jim Putnam tarafından kurulan Universal Audio Inc. bünyesindeki ses sinyali işleme donanımı ve efekt pedalları, ses arayüzleri ve dijital sinyal işleme, sanal enstrüman ve dijital ses iş istasyonu yazılımı ve eklentileri markasıdır.Universal Audio Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

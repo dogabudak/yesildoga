@@ -1,0 +1,58 @@
+[
+  {
+    "company": "Nolato",
+    "description": "Nolato, 1961 yılında kurulan Nolato AB bünyesinde üretilen kalıplı ürünler ve bileşenler markasıdır.Polimer malzeme konusunda uzmanlaşan firma endüstriyel şirketlere, telekomünikasyon şirketlerine, tıbbi teknoloji alanındaki şirketlere ve otomotiv şirketlerine satış yapmaktadır.Nolato AB İsveç merkezlidir. Avrupa, Kuzey Amerika ve Asya’da faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "No-With",
+    "description": "No-With, Limer Biyoteknoloji ve İlaç San. Tic. A.Ş. tarafından üretilen takviye edici gıda markasıdır.Haccp, ISO 9001, ISO 14001, ISO 22000, ISO 45001 belgelerine sahiptir.Firma ürünlerini Konya’da üretmektedir.",
+    "documents": [
+      "HACCP",
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Ergün Çikolata",
+    "description": "Ergün Çikolata, 2000 yılında kurulan Ergün Çikolata Goflet Ciklet Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen çikolata, kaplamalı gofret, krem çikolata, dolgulu bar, dolgulu jel, dolgulu yumuşak toffe ve bonbon şekerleme ile bulgur markasıdır.Firma Gaziantep 3. OSB’de 20 bin 980 metrekarelik alanda üretim yapmaktadır. Üretimlerinin yüzde 75’ini ihraç etmektedir.ISO 9001, ISO 22000, ISO 14001, ISO18001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 9001",
+      "ISO18001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Starcool",
+    "description": "Starcool, 1987 yılında kurulan Starcool Soğutma San. ve Tic. A.Ş. bünyesindeki buzdolabı ve dondurucu markasıdır.Araç buzdolapları ve mutfak ünitelerini Kocaeli’de bulunan 12 bin metrekarelik alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Roeyuta",
+    "description": "Roeyuta, 1999 yılında kurulan Shenzhen Roeyuta Electronics Co., Ltd. bünyesinde üretilen güç kaynağı, adaptör, güç bankası, led güç kaynakları, dc-atx güç kaynağı, şarj cihazları, güç invertörü markasıdır.ISO 9001 belgesine sahiptir.Shenzhen Roeyuta Electronics Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

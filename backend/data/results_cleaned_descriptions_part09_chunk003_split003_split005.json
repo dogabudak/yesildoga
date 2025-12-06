@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Chiara Ferragni",
+    "description": "Chiara Ferragni2013 yılında kurulmuş olan Fenice S.R.L bünyesindeki ayakkabı ve moda markasıdır.Fenice S.R.L İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Cellfast",
+    "description": "1990 yılında kurulmuş olan Cell-Fast Sp. Z.o.o. bünyesinde üretilen bahçe aletleri ve aksesuarları, hortum, alet, bahçe aksesuarları, oluk sistemleri ve pvc altlık markasıdır.Cell-Fast Sp. Z.o.o. Polonya merkezlidir ve ürünlerini Polonya’da üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "PL",
+    "updated_date": "2025-07-22"
+  },
+  {
+    "company": "Pesotti",
+    "description": "Pesotti2018 yılında kurulmuş olan Rkare Gıda Turizm Tic. ve San. Ltd. Şti. bünyesinde üretilen profiterol topu, kedi dil bisküvi markasıdır.Firma Bursa merkezlidir. Ürünlerini Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lokkum",
+    "description": "1989 yılında kurulmuş olan Şölen Çikolata Gıda San. A.Ş. bünyesinde üretilen çikolata kaplı lokumlar markasıdır.Gaziantep fabrikası ile İstanbul’da bulunan tesisinde, toplam 210 bin metrekarelik alanda üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-05-08"
+  },
+  {
+    "company": "Piltar",
+    "description": "Piltar2007 yılında kurulmuş olan Piltar Plastik Kimya ve Tarım Ürünleri San. ve Tic. Ltd. Şti. bünyesinde üretilen damla sulama armatürü, yağmurlama sulama armatürü ve yağmurlama başlığı, sulama sistemleri markasıdır.Firma Konya merkezlidir. Ürünlerini 6 bin metrekarelik fabrikasında üretmektedir ve birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

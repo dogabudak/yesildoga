@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Cherry Otomobil",
+    "description": "Cherry, 1997 yılında kurulan Chery Automobile Co., Ltd. bünyesinde üretilen otomobil markasıdır.Binek otomobilleri, minivan ve SUV olan Chery, ticari araç olarak Karry markası altında ürünlerini satmaktadır.Chery Automobile Co., Ltd. Çin hükümeti tarafından kurulan Çinli otomotiv şirketidir. Shanghai Automotive Industry Corporation (SAIC) 2001 yılında Chery’nin yüzde 20 hissesini satın aldı. Chery Automobile, Qoros ve Chery Jaguar Land Rover şirketlerinin yüzde 50 hissesine sahiptir.Chery araçlarının tamamına yakınını Çin’de üretirken diğer üretim tesisleri İran ve Malezya’da bulunuyor.Türkiye pazarına Mermerler Otomotiv tarafından dağıtılıyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Cherry Kılavye",
+    "description": "Cherry, 1953 yılında Walter Cherry tarafından kurulan Cherry GmbH bünyesindeki bilgisayar çevre cihazları markasıdır. Yatırım şirketi GENUI Partners 20016 yılında Cherry GmbH şirketini satın aldı.Şirketin kökleri Amerika Birleşik Devletleri’ne dayanır ve merkezi Almanya’dadır. Amerika, Fransa ve Çin’de ek ofisleri vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "TBI MOTION",
+    "description": "TBI MOTION, 1986 yılında kurulan Tbi Motion Technology Co., Ltd. bünyesindeki mil ve somon markasıdır.PDCA ve TPM sistemleri, lineer aktüatör, bilyalı vida, tek eksenli aktüatör, top spline ve lineer kılavuz gibi doğrusal hareket ürünleri yüksek verimlilik ile sağlanmaktadır.Tbi Motion Technology Co., Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Nural Segman",
+    "description": "Nural Segman, 1947 yılında kurulan Nural Segman Otomotiv ve Servis Hiz.San.Ticaret, Ltd. Şti. bünyesindeki segman, piston ve gömlek markasıdır.Tamamı yerli sermaye ile kurulan Nural Segman, Türkiye’de 5 mm. ile 1.000 mm. arası segman imalatı yapmaktadır.TSE ve ISO 9001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Entergy",
+    "description": "Entergy, 1913 yılında Harvey C. Couch tarafından kurulan Entergy Corporation bünyesindeki elektrik ve doğalgaz markasıdır. Elektrik enerjisi üretip dağıtmaktadır.Kuruluşundan bu yana, Entergy Amerika merkezlidir. 2011 yılında, Entergy ve elektrikli araç şarj istasyonu üreticisi Coulomb Technologies, ABD’de üniversite kampüslerinde 16 ücretsiz elektrikli araç şarj istasyonları bağışlamaya başladı. İlk kurulumu Baton Rouge Louisiana State Üniversitesi’nde oldu ve öğretim üyeleri ile öğrenciler için kullanımı ücretsiz hale getirildi.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

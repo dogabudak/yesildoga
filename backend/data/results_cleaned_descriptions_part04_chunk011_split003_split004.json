@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Cihan Çikolata",
+    "description": "Cihan Çikolata Nerenin Malı MarkasıCihan, 2008 yılında kurulan Niyazi Ayaz Çikolata Şekerleme Gıda San. ve Tic. Ltd. Şti. bünyesinde üretilen çikolata ve şekerleme ürünleri markasıdır.Ürünlerini 6 bin 400 metrekarelik kapalı alanda bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Formosa Plastics",
+    "description": "Formosa Plastics, 1978 yılında kurulan Formosa Plastics Corporation bünyesindeki plastik reçineler ve petrokimyasallar markasıdır.Formosa Plastics, polivinil klorür, polietilen ve polipropilen reçineler, kostik soda ve diğer petrokimya ürünleri sunmaktadır. Polipropilen ve polietilen reçinelerimizi formolene adı altında pazarlamaktadır. Süspansiyon PVC ve özel (dispersiyon) PVC reçinelerini Formolon adı altında pazarlamaktadır.Formosa Plastics Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sd Codefree",
+    "description": "Sd Codefree, 2005 yılında kurulan Sd Biosensor, Inc. bünyesinde üretilen tıbbi, cerrahi, oftalmik ve veterinerlik alet ve aparatlar markasıdır.Sd Biosensor, Inc. Güney Kore merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Johann Maria Farina",
+    "description": "Johann Maria Farina, 1709 yılında Giovanni Battista Farina tarafından kurulan Johann Maria Farina gegenüber dem Jülichs-Platz Gmbh bünyesindeki parfüm markasıdır.Johann Maria Farina gegenüber dem Jülichs-Platz Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Killtox",
+    "description": "Killtox, 1994 yılında kurulan Kozmo Kimya San. ve Dış Tic. Ltd. Şti. bünyesinde üretilen böcek ilacı markasıdır.Firma İstanbul ve Tekirdağ’da bulunan fabrikalarında üretim yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Yat Tool",
+    "description": "Yat, 2002 yılında kurulan Zhejiang Yat Electrical Appliance Co. Ltd. bünyesinde üretilen elektrikli el aletleri, çim ve bahçe aletleri, yüksek basınçlı temizleyiciler, jeneratörler ve kar atıcılar markasıdır.Zhejiang Yat Electrical Appliance Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Luxer Led",
+    "description": "Luxer Led, 2007 yılında kurulan Mitaf Mühendislik San. ve Tic. Ltd. Şti. bünyesinde üretilen led aydınlatma ürünleri markasıdır.Aydınlatma armatürlerinin gövdesi alüminyum enjeksiyon döküm olarak imal edilmektedir.Firma Ankara merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Zacmi",
+    "description": "Zacmi, 1954 yılında kurulan Zanichelli Meccanica spa bünyesinde üretilen gıda endüstrisi için makine ve komple tesisler markasıdır.Zanichelli Meccanica spa İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Zirve Makina",
+    "description": "Zirve Makina, 2006 yılında kurulan Zirve Makine Mühendislik İnşaat ve Kimya Tic. Ltd. Şti. bünyesinde üretilen endüstriyel tesisler için otomatik filtre, boya üretim mikserleri markasıdır.Firma ayrıca p.v.a. üretim tesisleri, termoplastik boya üretim tesisi, polyester reçinesi üretim tesisleri, akrilik polimer üretim tesisleri, boya üretim tesisleri, tiner üretim tesisleri, vernik üretim tesisleri, antifiriz üretim tesisleri, madeni yağ ve gres yaği üretim tesisleri, tekstil ve yapı kimyasallari üretim tesisleri kurmaktadır.Kocaeli merkezli firmanın tesisi 2 bin metrekaresi kapalı, 3 bin metrekarelik alanda yer almaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Konecranes",
+    "description": "Konecranes, 1994 yılında kurulan Konecranes Oyj bünyesinde üretilen vinçler, bakım hizmetleri markasıdır.Liman, şirketin tüm vinç markaları ve takım tezgahları için kaldırma çözümleri ve bakım hizmetleri sunduğu tersaneler, terminaller, makine yapımı ve proses endüstrilerini içermektedirKonecranes Oyj Finlandiya merkezlidir.Hissedarları:Hartwall Capital Oy Ab (yüzde 10.0)Solidium Oy (yüzde 8.51)Keskinäinen Eläkevakuutusyhtiö Ilmarinen (yüzde 3.41)Bestinver Gestión SA SGIIC (yüzde 3.38)Norges Bank Investment Management (yüzde 3.11)Stig Gunnar Gustavson (yüzde 2.99)Keskinäinen Työelakevakuutusyhtiö Varma (yüzde 2.76)Dimensional Fund Advisors LP (yüzde 2.50)The Vanguard Group Inc. (yüzde 2.47)Harris Associates LP (yüzde 2.17)",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "FI",
+    "updated_date": null
+  }
+]

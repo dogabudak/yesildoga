@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kitapyurdu.com",
+    "description": "Kitapyurdu, 2000 yılında Repar Tanıtım İletişim Matbaacılık Ltd. Şti. tarafından kurulan internet üzerinden kitap satışı yapılan site markasıdır.Repar Tanıtım İletişim Matbaacılık kitabevi, yayınevi, dağıtımcılık, matbaacılık ve bilişim alanında faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Galactago",
+    "description": "Galactago, 2013 yılında kurulan Salus İlaç Üretim Pazarlama San. ve Tic. Ltd. Şti. bünyesindeki anne sütü artırmaya yönelik damla markasıdır.Salus İlaç, bebek ve çocukların beslenmesine yönelik takviye edici gıdalar sunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Buccotherm",
+    "description": "Buccotherm, 1998 yılında kurulan Laboratoire D’Odonto-Stomatologie Thermal bünyesinde üretilen organik ağız bakımı, termal su, organik diş macunu, yetişkin diş macunu, çocuk diş macunu, diş spreyi, gargara, bebek diş jeli, spa su diş macunu markasıdır.Laboratoire D’Odonto-Stomatologie Thermal ürünleri Fransa’da üretilmektedir ve dünya çapında 28’den fazla ülkede mevcuttur.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Dorjet",
+    "description": "Dorjet, 2020 yılında White Rose Ltd. Şti. tarafından üretilen Steril Dolap markasıdır.Firma tarafından icat edilen Dorjet Steril Dolabı içindeki elektronik, metal ve plastik ürünler, kıyafetler ile gıdaları 5 dakika içerisinde ısıya ve suya maruz bırakmadan havada bulunan ozon gazının yoğunluğunu artırarak virüs ve bakterileri yok etmektedir.Bir tuşa basarak elbise, laptop, cep telefonu, ayakkabı, gıda, tabak, kaşık, çatal ve bıçak gibi ürünler yüzde 99,9 steril olmaktadır.Ürünlerini Karaman OSB’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "St Dalfour",
+    "description": "St Dalfour, 1984 yılında kurulan St Dalfour SAS bünyesindeki doğal organik meyveler, kurutulmuş meyveler, bal ve çay markasıdır.Ürünleri 95 ülkede satılmaktadır.St Dalfour SAS Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Siruba",
+    "description": "Siruba, 1965 yılında kurulan Kaulin Mfg. Co., Ltd. bünyesinde üretilen endüstriyel dikiş makinesi markasıdır.Overlok ve İnterlok dikiş makineleri, bilgisayar kontrollü Bar-Tacking ve düğme-Holing makineleri gibi çok sayıda dikiş prosedürüne uygulanabilen çeşitli dikiş makinesi ürünlerine sahiptir.Kaulin Mfg. Co., Ltd. Tayvan merkezlidir ve ürünlerini Tayvan’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Proson",
+    "description": "Proson, 2015 yılında kurulan Proson Kimya San. ve Tic. Ltd. Şti. bünyesindeki temizlik malzemeleri markasıdır.Firma Gaziantep merkezlidir.Bünyesindeki markalar;Dream GardenDüşler BahçesiMorning FreshProson",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-11-18"
+  },
+  {
+    "company": "Le Guerandais",
+    "description": "Le Guerandais, 2011 yılında kurulan Societe Cooperative Agricole Les Salines De Guerande – Le Guerandais bünyesinde üretilen tuz markasıdır.Societe Cooperative Agricole Les Salines De Guerande – Le Guerandais Fransa merkezli bir kooperatiftir ürünlerini Fransa’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Masmana",
+    "description": "Masmana, 2017 yılında Ayşegül ve Ali Hayta tarafından kurulan Fersis Gıda San. ve Tic. A.Ş. bünyesinde üretilen zeytin, zeytinyağı ve zeytinyağı bazlı kozmetik ürünler markasıdır.Kendi zeytinyağlarını, Kilis’teki bahçesinde üretmektedir. Ürünleri yüzde 100 organik ve natürel sızma zeytinyağlarından oluştmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "DC Motor Hair Dryer",
+    "description": "DC Motor Hair Dryer, 2006 yılında kurulan Ningbo Taili Electric Appliance Co., Ltd. bünyesinde üretilen saç kurutma makinesi, saç düzleştirici, saç bigudi, elektrikli diş fırçası gibi çeşitli kişisel bakım ürünleri markasıdır.Ningbo Taili Electric Appliance Co., Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

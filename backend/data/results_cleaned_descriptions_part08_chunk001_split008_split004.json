@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Ann Demeulemeester",
+    "description": "Ann Demeulemeester, AD Milano S.r.l. bünyesindeki giysi, çanta, ayakkabı ve aksesuar markasıdır.AD Milano S.r.l. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": "2023-09-08"
+  },
+  {
+    "company": "Ayje",
+    "description": "Ayje, 2019 yılında Ayşe Ofluoğlu tarafından kurulmuş olan Bateks İç Giyim Tekstil Kap San. ve Tic. A.Ş. bünyesindeki mayo, ev giyimi ve iç giyim ürünleri markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Artoncase",
+    "description": "Artoncase, 2019 yılında kurulmuş olan Karataş Teknoloji Tic. Ltd. Şti. bünyesinde ithal edilen cep telefonu kılıfları markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;ArtoncaseBikordonElagoPirigami",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Uretech",
+    "description": "Uretech, 2021 yılında kurulmuş olan Uretech Enerji Mühendislik San. ve Tic. Ltd. Şti. bünyesindeki inverter, şarj kontrol cihazları, akü, güneş panelleri, kablolar markasıdır.Firma Kocaeli merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Unitedhealthcare",
+    "description": "Unitedhealthcare, 1977 yılında Richard T. Burke tarafından kurulmuş olan United HealthCare Services Inc. bünyesindeki sağlık ve sigorta şirketi markasıdır.United HealthCare Services Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "D.Tube",
+    "description": "“DTube“2016 yılında Ned Scott ve blockchain geliştiricisi Dan Larimer tarafından kurulan Steemit Inc. bünyesinde geliştirilen video paylaşım sitesi markasıdır.Blok Zinciri ve IPFS eşler arası ağı üzerine kuruludur ve bu ağ tarafından desteklenmektedir. Sitesinde yayınlanan içerik üzerinde hiçbir kontrolü yoktur.Steemit Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Bolero",
+    "description": "“Bolero Socks & Underwear“2006 yılında kurulmuş olan Bolero Çorap İplik ve Tekstil San. Tic. Ltd. Şti. bünyesinde üretilen kadın ve erkek çorapları, kadın ve erkek iç çamaşırı ile ev giyim ürünleri markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;BoleroColorfullHalistoresHotfeetNordsox",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tory Burch",
+    "description": "2004 yılında kurulmuş olan Tory Burch LLC bünyesindeki hazır giyim, el çantaları, ayakkabılar, aksesuarlar, mücevherler, ev ve güzellik ürünleri markasıdır.Tory Burc LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2025-03-14"
+  },
+  {
+    "company": "McCain Foods",
+    "description": "“McCain Foods“1957 yılında kurulmuş olan McCain Foods Limited bünyesindeki dondurulmuş gıda markasıdır.Patates kızartması, meze, sebze, tatlı ve fırın yemekleri gibi dondurulmuş ürünlere sahiptir.McCain Foods Limited Kanada merkezlidir. 150’den fazla ülkede varlığa sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CA",
+    "updated_date": null
+  },
+  {
+    "company": "Aeron Lamba",
+    "description": "“Aeron“2008 yılında kurulan Hedef Tüketim Ürünleri San. ve Dış Tic. A.Ş. bünyesinde ithal edilen lambalar, solar aydınlatma ürünleri markasıdır.Firma İstanbul merkezlidir. Ürünlerini Asya ülkelerinden ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

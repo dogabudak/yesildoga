@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Avgo",
+    "description": "Avgo, 2015 yılında kurulan Avşar Navigasyon Görüntü Ses Sistemleri A.Ş. bünyesindeki OEM multimedya, navigasyon cihazları markasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ProfiGold",
+    "description": "ProfiGold, 1990 yılında kurulan Bandridge grubu bünyesindeki ses görüntü kablosu, anten kablosu, bilgisayar kablosu, güç anahtarı, konnektör, adaptör, temizleme aksesuarları ve elektronik aksesuarları markasıdır.Dünya çapında 65’den fazla ülkede ürünleri dağıtılmaktadır.Bandridge grubu; Brezilya, Mısır, İngiltere, Tayvan ve Hong Kong’da iştirakleri bulunan Hollanda menşeli özel bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Glories Chocolate",
+    "description": "Glories Chocolate, 2017 yılında Özge Yücesoy tarafından kurulan CM Çikolata Gıda Sanayi ve Ticaret A.Ş. bünyesinde üretilen çikolata markasıdır.Belçika’dan Protos markasıyla ithal edilen ham çikolata kullanılarak fabrikada şefler tarafından tek tek elde, hazırlanmaktadır. Ürünleri Palm yağı, glikoz şurubu içermemektedir.Acı biberli, Lavantalı, Türk Kahveli, Naneli, Antep Fıstıklı, Çilekli, Vişneli, Güllü çeşitlere sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Pulsar Fön Makinesi",
+    "description": "Pulsar, 2012 yılında kurulan Azra Grup Makine San. ve Tic. Ltd. Şti. bünyesindeki fön makinesi markasıdır.Azra Grup; fön makinesi, difizor, tarak, düzleştirici, makas, vent fırça, manikür-pedikür grubu ve ağda ısıtıcı ürünlerine sahiptir. Türkiye’deki bazı büyük spor kulüplerinin lisanslı saç kurutma makinesini satmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Lido",
+    "description": "Lido, 1993 yılında kurulan Karatoprak Endüstriyel İştiraki olan Misnet Kozmetik San. Tic. Ltd. Şti. bünyesinde üretilen koku gidericiler ve kozmetik ürünler markasıdır.Misnet Kozmetik, endüstriyel temizlik ve kozmetik alanında çok amaçlı tablet, cam silme deterjanı, şampuan ve vazelin, kolonya, koku giderici, klozet bloğu, sıvı sabun, lavabo açıcı, kireç çözücü ve oda parfümü üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

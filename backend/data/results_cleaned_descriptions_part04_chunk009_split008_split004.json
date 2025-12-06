@@ -1,0 +1,46 @@
+[
+  {
+    "company": "NCR",
+    "description": "NCR, 1884 yılında John Henry Patterson tarafından kurulan NCR Corporation bünyesindeki barkod okuyucu markasıdır.Şirket ayrıca ATM, çek işleme sistemleri, yazılım, profesyonel hizmetler, danışmanlık ve teknoloji hizmetleri sunmaktadır.NCR Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dealextreme",
+    "description": "2005 yılında kurulmuş olan 2020 yılında faaliyetini durduran Hong Kong merkezli Epro E-Commerce Ltd. bünyesindeki çevrimiçi alışveriş sitesiydi.Ürün yelpazesi, diğerlerinin yanı sıra ev elektroniği, cep telefonları, tabletler ve çok daha fazlasını kapsayan geniş ve çeşitliydi. Şirket, ürünlerini dünya çapında ücretsiz teslimat için sundu.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": "2023-11-01"
+  },
+  {
+    "company": "Pactera",
+    "description": "Pactera, 1995 yılında kurulan Pactera Technology International Ltd. bünyesindeki teknoloji, telekom, finans, sigorta, enerji, seyahat, üretim, perakende ve lojistik hizmetleri markasıdır.Pactera Technology International Ltd. Çin merkezli HNA Group bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bo Hui",
+    "description": "Bo Hui, 2008 yılında kurulan Guizhou Tekang Electronics co. Ltd. bünyesinde üretilen ateş ölçer markasıdır.Techconn Holdings’in bir parçası olan Guizhou Tekang Electronics Co. Ltd, Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Kuulaa",
+    "description": "Kuulaa, 2019 yılında kurulan Shenzhen Kuulaa Technology Co,. Ltd. bünyesinde üretilen güç bankası, usb kablosu, cep telefonu şarj cihazı, bluetooth kulaklık, telefon tutucu markasıdır.Shenzhen Kuulaa Technology Co,. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

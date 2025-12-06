@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Rompetrol",
+    "description": "Rompetrol, 1974 yılında kurulan 1993 yılında özelleştirilen Rompetrol Group N.V. bünyesindeki ham petrol, rafine petrol ürünleri, benzin ve dizel akaryakıt istasyonları zinciri markasıdır.Rompetrol Group N.V. 2007 yılında Kazakistan devletine ait KazMunayGaz (KMG) International iştiraki oldu.",
+    "documents": [],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Robe di Kappa",
+    "description": "Robe di Kappa, 1995 yılında Marco Boglione tarafından kurulan Basic Net SpA bünyesindeki giyim ürünleri markasıdır.Kadın, erkek ve çocuklar için kot pantolon, gündelik üst kıyafetler gibi ürünler üretmektedir.Basic Net SpA İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Simrad",
+    "description": "Simrad, 1946 yılında kurulan her büyüklükteki eğlence gemileri için gelişmiş otomatik direksiyon, navigasyon ve güvenlik ürünü, navigasyon, performans ve iletişim ekipmanı markasıdır. Navico Holding markasıdır.Navico Holding AS 2021 yılında Amerika merkezli Brunswick Corporation tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-12-23"
+  },
+  {
+    "company": "Tepe Home",
+    "description": "Tepe Home, 1997 yılında Bilkent Holding’e bağlı olarak kurulan Tepe Home Mobilya ve Dekorasyon Ürünleri San. Tic. A.Ş. bünyesindeki mobilya ve ev aksesuarı perakendeciliği alanında faaliyet gösteren mağazalar zinciri markasıdır.Mağazalarında; salon ve oturma odası, yemek odası, yatak odası, mutfak ürünleri, aydınlatma, bahçe mobilyaları, çocuk odasına ait tüm mobilya ve dekorasyon ürünler yer almaktadır. Aksesuar ürünlerini yerli ve yabancı üreticilerden tedarik etmektedir. Tasarladığı ürünleri 60 bin metrekarelik alanda üretmektedir.Bilkent Holding 1969 yılında İhsan Doğramacı tarafından kurulmuştur.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Tunçkaya",
+    "description": "Tunçkaya, 1973 yılında kurulan Tunçkaya Kimyevi Maddeler San. ve Tic. A.Ş. bünyesinde üretilen gıda hammaddeleri, gıda katkı maddeleri, deterjan kimyasalları, metal yüzey temizleme, tekstil yardımcı ve su şartlandırma maddeleri markasıdır.Tunçkaya Kimyevi Maddeler San. ve Tic. A.Ş. 2022 yılında Belçika merkezli Azelis Group NV tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  }
+]

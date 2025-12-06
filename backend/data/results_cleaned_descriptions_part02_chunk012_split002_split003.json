@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Goose",
+    "description": "Goose, 1997 yılında kurulan Noor Mimarlık Tekstil San. ve Dış Tic. Ltd. Şti. bünyesindeki hazır giyim, çocuk ürünleri markasıdır.Elbise, pantalon, gömlek, ayakkabı, toka, aksesuar ürünleri üretmektedir. Özel günler, bayramlar, doğum günü, mezuniyet ve her türlü aktivite için sade kıyafetler ve el yapımı toka, şapka gibi aksesuarlar üretiyor.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Accell Firması",
+    "description": "Accell Grup N.V. 1998 yılında kurulan, çok sayıda Avrupalı üreticinin yer aldığı bir bisiklet holding şirketidir.Accell Group bisiklet parçaları ve aksesuarları için pazarda faaliyet göstermektedir. Avrupa’da elektrikli bisikletin önemli bir sağlayıcısıdır.Hollanda, Almanya, Finlandiya, Fransa, Belçika, Macaristan, Türkiye ve Çin’deki üretim sahalarında çeşitli marka ve yan kuruluşlar aracılığıyla bisiklet üretip satmaktadır. Ayrıca Uzakdoğu’dan yarım ürünler de alınmaktadır.Hollanda merkezli Accell Grup N.V. ürünlerini 70’ten fazla ülkeye ihraç etmektedir.Accell Group’un bünyesindeki markalar:AtalaBatavusBrasseur Bike PartsCarraroDiamondbackGhost-BikesHaibikeIZIP e-bikeJuncker Bike PartsKogaLapierreLepperLoekieNishikiRaleighRedlineSeattle BikeSpartaStaigerTorkerTunturiVan NicholasVartexWiener Bike PartsWinoraXLC",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Microsan",
+    "description": "Microsan, 1978 yılında Naci Sönmez tarafından temelleri atılan Mikrosan Makine ve Kalıp Sanayii A.Ş. bünyesindeki ekstruder hatları ve şişirme makineleri markasıdır.Üretimini dört farklı konumda 35 bin metrekarelik alanda yapmaktadır.Avrupanın ve Türkiye’nin en büyük ekstruder hatları üreticisidir.Ürünleri 60’ın üzerinde ülkede satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Simrit",
+    "description": "Simrit, 1849 yılında kurulan Freudenberg & Co. KG bünyesindeki sızdırmazlık ürünleri markasıdır.Freudenberg, 1849 yılında Carl Johann Freudenberg tarafından kurulan; otomotiv, makine mühendisliği, tekstil, inşaat ve telekomünikasyon endüstrileri gibi çeşitli sektörlerde hizmet veren Almanya merkezli aile şirketidir.Standart yağ keçesi, hidrolik keçe, pnömatik keçe, O-Ring, yumuşak salmastra, titreşim önleyici, diyafram ve diğer sızdırmazlık elemanları ürünlerin sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Mellin",
+    "description": "Mellin, 2002 yılında kurulan Mellin Spa. bünyesinde 0-3 yaş arası çocuklar için üretilen özel gıdalar markasıdır.Mellin Spa. Danone’nin bir parçasıdır.Danone, sütlü ürünler ve içecekler üreten Fransa merkezli çok uluslu bir şirkettir. Türkiye pazarına 1997 yılında girmiştir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

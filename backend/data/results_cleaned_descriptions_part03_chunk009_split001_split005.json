@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Kamapp Messenger",
+    "description": "Kamapp Messenger, 2018 yılında Sonet İnternet Erişim Hizmetleri San. ve Tic. Ltd. Şti. bünyesinde üretilen mesajlaşma uygulamasıdır.Bu veriler Türkiye’de kalmaktadır.Görüntülü konuşma, sesli konuşma, dosya ve konum paylaşma, multimedya içerik gönderme, ve mesajlaşma gibi özelliklere sahiptir.Sonet İnternet Erişim Hizmetleri San. ve Tic. Ltd. 2012 yılında Almanya merkezli olarak kurulmuştur.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2021-03-02"
+  },
+  {
+    "company": "Covidien",
+    "description": "Covidien, 2007 yılında Covidien plc bünyesinde kuruldu.Sağlık ürünleri şirketi ve tıbbi cihaz ve malzeme üreticisi Covidien plc 2015 yılında İrlanda merkezli Medtronic plc ile birleşti.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  },
+  {
+    "company": "Glencore",
+    "description": "Glencore, 1974 yılında Marc Rich tarafından kurulan Glencore International AG bünyesindeki petrol, kömür, alüminyum, çinko, nikel, kobalt, kalay, kurşun, tahıl, et, sülfürik asit markasıdır.Glencore International AG İsviçre merkezli hammadde ticareti yapan şirketler grubudur.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Alligator Boya",
+    "description": "Alligator, 1988 yılında kurulan Betek Boya ve Kimya San. A.Ş. bünyesindeki boya ve duvar kaplamaları markasıdır.Alligator Boya, 1988 yılında kurulan Betek Boya Kimya ve Sanayi A.Ş. bünyesindedir.2019 yılında Betek Boya ve Kimya Sanayi A.Ş. ve iştiraklerine ait hisseler Japonya merkezli Nippon Paint Holdings Co., Ltd tarafından satın alınmıştır.",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Native Instruments",
+    "description": "Native Instruments, 1996 yılında Stephan Schmitt, Volker Hinz tarafından kurulan Native Instruments GmbH bünyesinde müzik üretimi, ses tasarımı, performans ve DJ’lik için müzik yazılımı ve bunlarla birlikte çalışabilen donanımlar markasıdır.Native Instruments GmbH Almanya merkezlidir.Ürünler:Guitar RigKontaktMaschineReaktorTraktor",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

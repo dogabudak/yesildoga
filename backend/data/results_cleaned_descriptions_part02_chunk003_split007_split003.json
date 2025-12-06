@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Zoom",
+    "description": "Zoom, 1977 yılında kurulan Zoom Telephonics, Inc. bünyesindeki modem ve bilgisayar ürünleri markasıdır.Zoom kablo/ADSL modemler/yönlendiriciler, 3G Wireless-N yönlendiriciler, kablosuz klavyeler, IP üzerinden ses ağ geçitleri, Bluetooth ürünleri ve Analog ürünler dahil olmak üzere iletişim ürünleri üretmektedir.Zoom Telephonics, Inc. Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Johnson Outdoors",
+    "description": "Johnson Outdoors, 1971 yılında kurulan Johnson Outdoors Inc. bünyesindeki; dalış ekipmanları, pusula ve navigasyon ekipmanları, spor ürünleri ve olta markasıdır.Ürünlerinde LCD ekran, derinlik tespit cihazı, GPS, radar, haritalama ve tekne kontrol özellikleri bulunmaktadır.Johnson Outdoors Inc. Amerika merkezli şirkettir.Bünyesindeki markalar:Silva pusulaHealthwaysScubaproUwatecSubgearJetboilEureka",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Mastek",
+    "description": "Mastek, 1998 yılında kurulan ANKA İletişim Elektronik San. Tic. Ltd. Şti. bünyesindeki elektronik ürünler markasıdır.Şirket bilgisayar aksesuarları, cep telefonu aksesuarları, MP3, Kameralar, Tablet aksesuarları, Dizüstü Bilgisayarlar ve Aksesuarları, Kamera ve Aksesuarları, Ses ve Video Parçaları, Elektronik Aksesuarlar ve Malzemelerini bünyesindeki markalarla Çin’den ithal etmektedir.ANKA İletişim Elektronik San. Tic. Ltd. Şti. bünyesindeki markalar:KingpointUsamsLisonWeileCyberMastekbee.by dj.ericFineblueLankitLisanCase 4u",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": null,
+    "updated_date": null
+  },
+  {
+    "company": "Optare",
+    "description": "Optare, 1914 yılında Muhammet Hinduber tarafından kurulan Hinduja Group bünyesindeki Ashok Leyland’ın bir iştiraki olan otobüs ve kamyon markasıdır.Hindistan’da 7 üretim tesisi, BAE ve İngiltere ile toplamda 9 üretim tesisi bulunmaktadır.Hinduja Group Hindistan firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "ZOTAC",
+    "description": "ZOTAC, 2006 yılında kurulan ZOTAC International Limited bünyesindeki bilgisayar donanım markasıdır.Şirket video kartları, mini bilgisayarlar katı hal sürücüler, anakartlar ve diğer bilgisayar aksesuarlarının üretiminde uzmanlaşmıştır.ZOTAC International Limited Çin merkezli bir şirkettir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Bonheur",
+    "description": "Bonheur, 1897 yılında kurulan Bonheur ASA bünyesindeki enerji, denizcilik, tersaneler, medya ve diğer sektörlerde yatırımları bulunan holding şirketidir. Olsen & Co. şirketin bütün hisselerine sahiptir.Şirket ayrıca rüzgar çiftlikleri portföyü de dahil olmak üzere diğer yenilenebilir enerji faaliyetleri yatırımları vardır.1848 yılında Petter Olsen tarafından kurulan Fred. Olsen & Co. Norveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Çizmeci Time",
+    "description": "Çizmeci Time Nerenin Malı MarkasıÇizmeci Time, 1993 yılında kurulan Çizmeci Gıda San. ve Tic. A.Ş. tarafından üretilen atıştırmalık ürünler markasıdır.Çizmeci Gıda rulo gofret, düz gofret ve bisküvi kategorilerinde ürünler üretmektedir.ISO 9001, ISO 22000, BRC belgelerine sahiptir, yurtiçi ve yurtdışına 60’ın üzerinde ürünle ulaşmaktadır.",
+    "documents": [
+      "BRC",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rice Up",
+    "description": "Rice Up, Nuhealth JSC bünyesinde üretilen kepekli kahverengi pirinçten yapılmış farklı sağlıklı atıştırmalıklar markasıdır.Pirinç kek, pirinç rulo, pirinç cipsi, çikolata ile pirinç kek üretmektedir. Ürünlerinde GDO, glutamat, gluten, yapay renklendirici, tatlandırıcı ve koruyucu yoktur. IFS, HELAL ve KOSHER belgelerine sahiptir.Nuhealth JSC Bulgaristan merkezlidir ve ürünlerini Bulgaristan’da üretmektedir.",
+    "documents": [
+      "CE",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "BG",
+    "updated_date": null
+  },
+  {
+    "company": "Anadolubank Bankası",
+    "description": "Anadolubank, 1997 yılında Habaş Şirketler Grubu tarafından özelleştirme idaresinden satın alındı.1956 yılında Hamdi Başaran tarafından temelleri atılan Habaş Grubu, Sınai ve Tıbbi Gazlar, Demir Çelik, LPG, Doğal Gaz, Ağır Makine İmalatı ve Enerji sektörlerinde faaliyet gösteren sanayi gruplarından biridir.Farklı sanayi kolları için proses, hava ayrışım, çelik üretim tesisleri, haddehaneler, elektrik üretim tesisleri, gaz dolum ve depolama tesisleri kurulumu gerçekleştiren Habaş, bu alanda mühendislik hizmetleri de sunmaktadır. Habaş topluluğu kuruluşları yüzde 100 yerli sermayelidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Türkiye Finans Bankası",
+    "description": "Türkiye Finans Hangi Ülkenin BankasıTürkiye Finans; 2005 yılında Anadolu Finans ve Family Finans’ın birleşmesiyle kuruldu ve bankanın unvanı Türkiye Finans Katılım Bankası A.Ş. olarak değiştirildi.2008 yılında yüzde 60 hissesi The National Commercial Bank (NCB) tarafından satın alındı. Bankanın yüzde 10,57’lik hissesi ise Gözde Girişim Sermayesi Yatırım Ortaklığı A.Ş.’ye aittir.Orta Doğu bölgesindeki en büyük sermayeli bankalarından biri olan The National Commercial Bank (NCB) Suudi Arabistan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SA",
+    "updated_date": null
+  }
+]

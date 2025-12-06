@@ -1,0 +1,51 @@
+[
+  {
+    "company": "Color Specialist",
+    "description": "Color Specialist, 1898 yılında Hans Schwarzkopf tarafından kurulan Schwarzkopf Gmbh bünyesinde üretilen saç boyası markasıdır.Omegaplex teknolojisi ile boyama sırasında ve sonrasında, saç hücresindeki mikro bağları kırılmaya karşı koruyarak güçlendirir.Schwarzkopf Gmbh, 1995 yılında Almanya merkezli Henkel AG & Co. KGaA tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Abax",
+    "description": "Abax, 2002 yılında kurulan Abax Sarl bünyesinde üretilen sürekli döküm makineleri, döküm makineleri için yedek parçalar, otomasyon sistemleri, bakır kalıp boruları ve plakaları, yardımcı ekipmanlar, refrakter ürünler markasıdır.Abax Sarl Fransa merkezlidir. İzmir’de üretim tesisine sahiptir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Tazemiz",
+    "description": "Tazemiz, 2019 yılında kurulan Betül POLAT Tazemiz Doğal Ürünler bünyesinde üretilen doğal ürünler markasıdır.Çörek otu, Hindistan cevizi yağı, Antepfıstığı, Keten tohumu, Ceviz, Susam, Badem, Kabak Çekirdeği, Üzüm Çekirdeği, Aspir gibi yağlı tohumlardan kapalı sistem soğuk pres metodu ile aromatik, natürel yağlar üretmektedir.ISO 9001 ve TS EN ISO 22000 belgelerine sahiptir.Ürünlerini doğal olarak üretmekte ve katkı veya koruyucu içerik kullanmamaktadır.Firma Mersin merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Microtech Knives",
+    "description": "Microtech Knives, 1994 yılında kurulan Microtech Knives Inc. bünyesinde üretilen bıçak markasıdır.Mutfak bıçakları, bıçaklar, balık tutma, ok uçları ve balisong bıçakları gibi birçok yaprak stili üretmektedir.Microtech Knives Inc. Amerika merkezlidir. Ürünlerini Amerika’da üretmektedir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Woomtree",
+    "description": "Woomtree, 1978 yılında kurulan Woomtree Corporation bünyesinde üretilen soslar ve çeşniler markasıdır.HACCP ve FSSC 22000 belgelerine sahiptir.Woomtree Corporation Güney Kore merkezlidir.",
+    "documents": [
+      "HACCP"
+    ],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  }
+]

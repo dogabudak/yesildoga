@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Thermos",
+    "description": "Thermos, 1904 yılında Reinhold Burger tarafından kurulan Thermos L.L.C. bünyesindeki yalıtımlı yiyecek ve içecek kabı, çocuk yemek kiti ürünleri markasıdır.Thermos L.L.C. Japonya merkezli Taiyo Nippon Sanso Corporation tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Deuter",
+    "description": "Deuter, 1898 yılında Hans Deuter tarafından kurulan Deuter Sport GmbH bünyesindeki sırt çantası, uyku tulumu, spor ve seyahat çantası aksesuarları markasıdır.50 ülkede faaliyet gösteren Deuter Sport GmbH, Almanya merkezli firmadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2019-02-26"
+  },
+  {
+    "company": "Fuska Su",
+    "description": "Fuska, 1996 yılında kurulan Koçbey Su ve Meşrubat Paz. San. Tic. A.Ş. bünyesindeki Doğal Kaynak Suyu markasıdır.Koçbey gruba ait 563 bin metrekare arazi ve kaynaklara sahiptir.Sapanca bölgesindeki tesislerinde üretilen markaları:FUSKAREINA",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Agrifarm Traktör",
+    "description": "Agrifarm Traktör Hangi Ülkenin Malı MarkasıAgrifarm Traktör, 1968 yılında kurulan Yağmur Traktör Sanayi ve Ticaret A.Ş. bünyesindeki traktör markasıdır.Düzce 1. OSB’de 80 bin metrekarelik arazide kurulu 35 bin metrekare aktif üretim tesisinde bahçe traktörleri üretimi gerçekleştirmektedir.5 Kıtada 55’den fazla ülkeye traktör ihracatı gerçekleştiren, yüzde 100 yerli sermaye ile kurulan Yağmur Traktör Sanayi ve Ticaret A.Ş. bünyesindeki markalar:AGRIFARMEFSANE",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-12-26"
+  },
+  {
+    "company": "Head & Shoulders",
+    "description": "Head and Shoulders1961 yılında The Procter & Gamble Company bünyesinde üretilen kepek önleyici şampuan markasıdır.Kepek ve kepeğe bağlı saç derisi sorunları ve farklı kozmetik ihtiyaçları için ürün çeşitliliğine sahiptir.The Procter & Gamble Company Amerika merkezlidir ve ürünleri 180 ülkede satılmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-05-07"
+  }
+]

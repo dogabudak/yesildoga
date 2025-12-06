@@ -1,0 +1,56 @@
+[
+  {
+    "company": "Fiesta Crafts",
+    "description": "Fiesta Crafts, 1990 yılında kurulmuş olan Fiesta Crafts Ltd. bünyesindeki kukla, manyetik aktiviteler, bebek oyuncakları, okul öncesi oyuncaklar, tutkalsız yeniden kullanılabilir çıkartma, kumaş duvar askıları markasıdır.Fiesta Crafts Ltd. İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bandai",
+    "description": "Bandai, 2005 yılında kurulmuş olan Bandai Namco Holdings Inc. bünyesinde üretilen oyuncaklar, video oyunları, kitle iletişim araçları, sinema filmleri, restoranlar, eğlence parkları markasıdır.Bandai Namco Holdings Inc. Japonya merkezlidir.Hissedarları:The Master Trust Bank of Japan (yüzde 21,33)Trust & Custody Services Bank (yüzde 9,62)JPMorgan Chase (yüzde 4,97)Nintendo (yüzde 1,75)",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Dantoy",
+    "description": "Dantoy, 1987 yılında kurulmuş olan Dantoy A / S bünyesindeki bebek oyuncakları, erken öğrenme oyuncağı, plastik oyuncaklar markasıdır.Açık hava oyunları, kum ve su oyunları, kar araçları, kurumlar için oyuncaklar üretmektedir.ISO 9001 ve ISO 14001 belgelerine sahiptir.Dantoy A / S Danimarka merkezlidir. Ürünlerini 50’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "DK",
+    "updated_date": null
+  },
+  {
+    "company": "Burdan Ülkennin",
+    "description": "Burdan, 2010 yılında Matlı Süt ve Süt Ürünleri San. ve Tic. A.Ş. bünyesinde üretilen ayran, krema-kaymak, peynir, süt, tereyağı, yoğurt, yumurta çeşitleri markasıdır.ISO 10002, ISO 22000, Helal belgelerine sahiptir.Firma Bursa merkezlidir. Balıkesir’de fabrikası bulunmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 22000"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bioliq",
+    "description": "Bioliq, 2018 yılında kurulmuş olan Ocean Özel Sağlik Hizmetleri Medikal Güzellik ve Kozmetik San. Tic. Ltd. Şti. bünyesinde üretilen bakım kremi, cilt serumu, detoks kremi, göz çevresi kremi, gündüz ve gece kremi, gece kremi, havyar serumu , nemlendirici ve canlandırıcı krem, temizleyici, tonik markasıdır.Firma Antalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

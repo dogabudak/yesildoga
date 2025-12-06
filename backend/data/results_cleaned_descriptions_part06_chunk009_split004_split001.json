@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Eberhard Faber",
+    "description": "Eberhard Faber, 1861 yılında John Eberhard Faber tarafından kurulan Eberhard Faber Vertrieb Gmbh bünyesinde üretilen yazı aletleri, boya kalemleri silgi ve diğer çizim/yazma aksesuarları markasıdır.Eberhard Faber Vertrieb Gmbh Almanya merkezli Faber-Castell AG bünyesindedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Fruiterra",
+    "description": "Fruiterra, 2005 yılında kurulan Tadımda Gıda San. A.Ş. bünyesinde üretilen mandalina, greyfurt, portakal, kiraz, vişne, erik, üzüm ve biber konserveleri, dondurulmuş meyve sebze markasıdır.BRC, IFS, HACCP, Kosher belgelerine sahiptir.Firma İzmir merkezlidir.",
+    "documents": [
+      "BRC",
+      "HACCP",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alsancak Unlu Mamuller",
+    "description": "Alsancak Unlu Mamuller, 2005 yılında Levent ve Deniz Doğanoğlu tarafından kurulan Alsancak Unlu Mamuller bünyesinde üretilen unlu mamuller markasıdır.Türkiye’de 16 şehirde 70 mağazayla hizmet vermektedir.İzmir merkezli firma Çiğli OSB’de bulunan 5 bin metrekarelik fabrikada üretim yapmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Innodisk",
+    "description": "Innodisk, 2005 yılında Richard Lee tarafından kurulan Innodisk Corporation bünyesinde üretilen endüstriyel gömülü flaş ve depolama ürünleri ve teknolojileri markasıdır.Ürünleri ağırlıklı olarak gömülü depolama aygıtları, dinamik rasgele erişimli bellek modülleri, gömülü çevresel modüller ve yazılımdan oluşmaktadır.Innodisk Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Arturia",
+    "description": "Arturia, 1999 yılında Frederic Brun ve Gilles Pommereuil tarafından kurulan Arturia SA bünyesindeki donanım sentezleyicileri, denetleyiciler, ses, yazılım araçları, yazılım efektleri markasıdır.Arturia SA Fransa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  }
+]

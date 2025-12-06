@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Schjerning",
+    "description": "Schjerning, 1923 yılında kurulan The clay and Paint Factory SA bünyesindeki boya, vernik, oyun hamuru markasıdır.İtalya ve Hollanda’da iştirakleri, Fransa, İngiltere, İspanya, Rusya, Kırım ve Şili’de ofisleri bulunmaktadır.The clay and Paint Factory SA Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Apacer",
+    "description": "Apacer, 1997 yılında kurulan Apacer Technology Inc. bünyesindeki flash bellek kartı, USB flash sürücüler, harici sabit disk, cep telefonu aksesuarları, DRAM, SSD, taşınabilir harddisk, powerbank, kablo, adaptör, Hız aşırtma ve Oyun, Endüstriyel Ürünler markasıdır.Apacer Technology Inc. Tayvan merkezlidir. Çin, Amerika, Avrupa, Japonya ve Hindistan’da ofisleri bulunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Freecom",
+    "description": "Freecom, 1989 yılında kurulan Freecom Technologies B.V. bünyesindeki sabit disk, taşınabilir sabit disk, katı hal sürücüleri, sabit disk yuvaları, disket sürücü ve aksesuarlar ürünleri markasıdır.Freecom, kullanımı kolay harici depolama alanında bir endüstri öncüsüdür ve Avrupa’nın önde gelen depolama markalarından biridir.Freecom Technologies B.V. Almanya merkezlidir. Ürünleri Almanya’da kalite standartlarına göre tasarlanır ve sertifikalanır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "McKesson",
+    "description": "McKesson, 1833 yılında John McKesson ve Charles Olcott tarafından kurulan McKesson Corporation bünyesindeki ilaç, tıbbi teknoloji ve sağlık hizmetleri markasıdır.McKesson Corporation Amerika merkezlidir ve ürünlerini Amerika’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Sanovel",
+    "description": "Sanovel, 1983 yılında Erol Toksöz tarafından kurulmuş olan Sanovel İlaç San. ve Tic. A.Ş. bünyesindeki ilaç markasıdır.Ürünlerini 125 bin metrekarelik alanda yer alan 59 bin metrekarelik kapalı modern tesislerde üretmektedir.Toksöz Grup’a ait olan Sanovel A.Ş.’nin yüzde 30’u 2020 yılında İngiltere merkezli Metric ve ortağı Afendis Capital Partners tarafından yönetilen Yamma Investments’a satılmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2024-05-05"
+  }
+]

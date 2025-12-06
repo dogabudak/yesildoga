@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Tektronix",
+    "description": "Tektronix, 1946 yılında kurulan Tektronix, Inc. bünyesindeki elektronik test ve ölçüm cihazları markasıdır.Tektronix, osiloskoplar ve mantıksal analizörler gibi profesyonel elektronik test ve ölçüm enstrümantasyon ekipmanları üreten bir Amerikan şirketidir. Tektronix, Inc., Fortive şirketinin bir iştirakidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Choetech",
+    "description": "Choetech, 2012 yılında kurulan Shenzhen DAK Technology Co.,Ltd bünyesinde üretilen kablosuz şarj cihazı, high tech usb kabloları ve şarj cihazı, usb 3.0 & usb c pd bağlantı cihazları, dijital av ürünleri, kulaklık ve diğer mobil aksesuarlar markasıdır.CE, RoHS, FCC, UL, ETL, USB-IF, Inter Thunderbolt 3 ve Qualcomm Quick Charge 2.0/ 3.0/4.0 ve Power Delivery teknolojisi belgelerine sahiptir.Shenzhen DAK Technology Co.,Ltd Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "HooToo",
+    "description": "HooToo, 2008 yılında kurulan HooToo Inc. bünyesindeki tüketici elektroniği markasıdır.Ürün yelpazesinde USB-C ve flash depolama, barkod tarayıcı gibi ürünler ve elektronik aksesuarlar yer almaktadır.HooToo Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Similar",
+    "description": "Similar, 2003 yılında Zeynel Bayraktar ve Hüseyin Ünver tarafından kurulan Şelale Kimya Ltd. Şti. tarafından üretilen parfüm markasıdır.Şelale Kimya, kozmetik ve temizlik sektörlerinde faaliyet gösteren üretici firmaların ihtiyacı olan esans ve ambalaj malzemeleri İngiltere, Fransa ve İspanya’dan ithal eden bir dış ticaret firmasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Havoline",
+    "description": "Havoline, 1901 yılında kurulan Texaco, Inc. bünyesindeki motor yağı markasıdır.Texaco Inc., 2001 yılında Chevron Corporation tarafından satın alındı.Chevron Corporation çok uluslu bir Amerikan enerji şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

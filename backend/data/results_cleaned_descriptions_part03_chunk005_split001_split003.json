@@ -1,0 +1,52 @@
+[
+  {
+    "company": "Ravaber",
+    "description": "Ravaber, 1961 yılında Raf Van Gorp tarafından kurulan Ravago Grup bünyesindeki plastik, kauçuk ve kimyasallar markasıdır.Ravaber 2018 yılında Ravago ailesine katıldı. Türkiye’nin en büyük taşyünü üreticisidir.Ravago Grup Belçika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": "2022-08-13"
+  },
+  {
+    "company": "Big Master",
+    "description": "Big Master, 1982 yılında kurulan Erol Teknik şirketler grubu bünyesindeki Erol Vitrifiye Ürünleri Sanayi Ticaret Ltd.Şti.’ye ait banyo ürünleri markasıdır.ISO 9001 ve TSE belgelerine sahiptir. Kocaeli’de 3 üretim tesisine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "OKAY Keratin Smooth",
+    "description": "OKAY Keratin Smooth, 1991 yılında Teoman Okay tarafından kurulan Okay Kozmetik San. ve Dış Tic. A.Ş. bünyesinde üretilen saç ürünleri markasıdır.Ürünlerini Çerkezköy’de üretmektedir ve binası özel arıtma ünitesine sahiptir.ISO 9001, ISO 22716, ISO 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22716",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Aztec Secret Indian",
+    "description": "Aztec Secret Indian, 1986 yılında kurulan Aztec Secret Health And Beauty Ltd. bünyesindeki kil maskesi markasıdır.Katkı maddesi, koku ve hayvansal ürünler içermemektedir ve ürün hayvanlar üzerinde test edilmemektedir.Aztec Secret Health And Beauty Ltd. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Birşah Süt",
+    "description": "Birşah markalı ürünler A101 Yeni Mağazacılık A.Ş. adına farklı üretim yerlerinde üretilmektedir.Üzerinde üretici bilgisi bulunmayan yoğurt, ayran, süt ve süt ürünleri ambalajlarında daire içerisinde (00-0000 şeklinde) üretici firmaların onay numarası yazar. Bu onay numarasını sitemizden sorgulayarak ürünün üreticisini öğrenebilirsiniz.Onay Numarası ile ücretici firma öğrenme",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

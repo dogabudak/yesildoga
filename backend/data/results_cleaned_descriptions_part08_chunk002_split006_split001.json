@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Yakamoz Sirke",
+    "description": "Yakamoz, 1996 yılında Suat Karaloğlu tarafından kurulmuş olan Yakamoz Sirke Ltd. Şti. bünyesinde üretilen sirke markasıdır.ISO 22716, ISO 22000, ISO 14001, FSSC 22000 ve Helal belgelerine sahiptir.Firma Manisa merkezlidir. Ürünlerini 21 bin metrekarelik açık ve 10 bin metrekarelik kapalı alana sahip tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 22716"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sano Laser",
+    "description": "Sano Laser, 2005 yılında kurulmuş olan Beijing Sano Laser Co. Ltd. bünyesinde üretilen estetik ürünleri ve ekipmanları; profesyonel güzellik, kuaför ürünleri ve ekipmanları markasıdır.Beijing Sano Laser Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Papix",
+    "description": "Papix, 1969 yılında kurulmuş olan Papiks Plastik San. ve Tic. A.Ş. bünyesinde üretilen polietilen şişe ile endüstriyel yağ bidonları markasıdır.Meşrubat, deterjan, yemeklik yağ, su, ayran ve süt preformları ile çeşitli tasarım ve ölçülerde şişe, kavanoz ve kapaklar üretmektedir.ISO 9001, ISO 14001, ISO 22000, ISO 45001, ISO/IEC 27001 belgelerine sahiptir.Firma İzmir merkezlidir. Ürünlerini 15 bin metrekaresi kapalı olmak üzere toplam 20 bin metrekarelik alanda bulunan tesisinde üretmektedir ve 20’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Abco-Fil",
+    "description": "Abco-Fil Nerenin Malı MarkasıAbco-Fil, 1963 yılında kurulmuş olan Abdioğulları Plastik ve Ambalaj San. A.Ş. bünyesinde üretilen ısı perdesi, karpuz, kavun, çilek serası, malç filmi, sera örtüsü, shrink film, silaj streç, solarizasyon filmi markasıdır.Firma Adana merkezlidir. Üretimini 400 bin metrekarelik alanda bulunan 9 tesisinde gerçekleştirmektedir ve ürünlerini 60’tan fazla ülkeye ihraç etmektedir.Bünyesindeki markalar;Abco-FilAbstarAgroteksBfabricByarnFilbackFil-İp",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Contital",
+    "description": "Contital, 1991 yılında kurulmuş olan Contital SRL bünyesinde üretilen alüminyum folyo kaplar, a-pet kaplar, alüminyum rulolar, gıda filmi, alüminyum kaplar, tepsiler, a-pet tepsiler, alüminyum folyo rulolar, alüminyum tepsiler, pet kaplar, tabaklar, alüminyum plakalar markasıdır.Contital SRL İtalya merkezli Laminazione Sottile S.p.A.’nın bir parçasıdır.Bünyesindeki markalar;ContitalHappy Day",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

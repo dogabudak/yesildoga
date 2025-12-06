@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Mitel",
+    "description": "Mitel, 1972 yılında kurulan Mitel Networks Corporation büyesindeki ip üzerinden ses (VoIP) ürünleri markasıdır.2018 yılından beri Mitel Networks Corporation, Eric Zinterhofer, Oliver Haarmann ve Erol Üzümeri tarafından kurulan Amerika merkezli özel sermaye şirketi Searchlight Capital Partners’a aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Alleva",
+    "description": "Alleva, 1998 yılında kurulan Diusa Pet Italia S.R.L. bünyesinde üretilen kedi ve köpek maması, evcil hayvan yemleri, kuş yemi markasıdır.Diusa Pet Italia S.R.L. İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "XLC Bisiklet Parçaları",
+    "description": "XLC, 1998 yılında kurulan Accell Group N.V. iştiraki Accell Bike Parts Gmbh bünyesindeki bisiklet parçaları ve aksesuarları, giyim ürünleri markasıdır.Ürün yelpazesinde ergonomik koltuk direkleri, kulaklıklar, gidonlar, frenler ve pedallar, damlalıklı koltuk direkleri, bagaj rafları, ayak dayanakları, bar uçları, kulplar ve çanlar, bisiklet römorkları, pompalar, aletler ve diğer aksesuarlar yer almaktadır.Accell Group N.V. Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Bluetooth",
+    "description": "Bluetooth, 1998 yılında kurulan Bluetooth SIG Inc.’in tescilli ticari logo ve markasıdır.Şirket Bluetooth özellikli ürünler üretmez veya satmaz. Bluetooth standartlarının geliştirilmesini ve Bluetooth teknolojilerinin ve ticari markalarının üreticilere lisanslanmasını denetleyen standartlar kuruluşudur.Bluetooth teknolojisi, tablet, PDA, dizüstü bilgisayar, bilgisayar, akıllı telefon, yazıcı ve dijital kameralar gibi kablosuz aygıtlar arasında kısa mesafeli bir radyo frekans bandı aracılığıyla bilgi alışverişinde bulunur.Bluetooth SIG Inc. kâr amacı gütmeyen, hisse senedi olmayan Amerika merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Parachute Yağ",
+    "description": "Parachute Yağ Hangi Ülkenin Malı MarkasıParachute, 1987 yılında Harsh Mariwala tarafından kurulan Marico Limited bünyesinde üretilen yemeklik sıvı yağ markasıdır.Marico Limited Hindistan merkezlidir. Ürünlerini Hindistan’da üretmektedir.Bünyesindeki markalar;Black ChicBlack Chic Avocado RangeCaivilCaivil Teen StarCode 10GraceHair & CareHair CodeHerculesIngweJust for BabyJust for KidsLivonMedikerNihar NaturalsNihar UttamParachute AdvansedParachute Advansed Body LotionParachute Coconut OilReviveSaffolaSet WetThuan Phat",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  }
+]

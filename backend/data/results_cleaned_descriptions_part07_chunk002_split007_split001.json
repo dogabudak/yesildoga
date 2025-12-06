@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Lakto",
+    "description": "Lakto, 2003 yılında kurulan Lakto Hayvancılık Teknolojileri San. Tic. Ltd. Şti. bünyesinde üretilen süt sağım sistemleri, süt sağım makine ve ekipmanları, ahır içi ekipman, gübre yönetimi ürünleri markasıdır.Firma İzmir merkezlidir. Ürünlerini İzmir Atatürk OSB’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Guiyi Sewq",
+    "description": "Guiyi Sewq, 2006 yılında kurulan Shanghai Guiyi Sewing Equipment Co. Ltd. bünyesinde üretilen dikiş makineleri, düğme kilitleme makineleri, kumaş kesiciler, kumaş besleme makineleri, endüstriyel dikiş makineleri için örtüler, ütü makineleri, kumaşlar için portatif döner buhar presleri markasıdır.ISO 9001 belgesine sahiptir.Shanghai Guiyi Sewing Equipment Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Revolution Skincare",
+    "description": "Revolution Skincare, 2014 yılında kurulan Revolution Beauty Limited bünyesindeki cilt bakım ürünleri, difüzörler, ev kokuları, oda spreyleri, makyaj, mumlar, saç bakım ürünleri, takviyeler, uyku, vücut, aksesuarlar markasıdır.Ürünleri hayvanlar üzerinde test edilmemektedir.Revolution Beauty Limited İngiltere merkezlidir. Ürünlerinin yaklaşık yüzde 60’ı Çin’de, yüzde 25’i Tayvan’da, yüzde 15’i İngiltere, İtalya, Fransa ve Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Suud Collection",
+    "description": "Suud Collection, 2016 yılında kurulan Suud Tekstil San. ve Tic. Ltd. Şti. bünyesinde üretilen giyim ve aksesuarlar markasıdır.Ürünlerinde doğal ve sağlıklı kumaşlar kullanmaktadır.İstanbul merkezli firma ürünlerini 30 ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Naccon",
+    "description": "Naccon, 2002 yılında kurulan Naccon Power Technology Co. Ltd. bünyesinde üretilen ag serisi düğme hücresi, alkalin pil, cr lityum düğme hücre, karbon çinko pil, lityum iyon silindirik pil, lityum polimer pil, ni-mh şarj edilebilir pil markasıdır.ISO 9001, ISO 9000, ISO 14001, ISO 14000, ISO 20000, ISO 14064 belgelerine sahiptir.Naccon Power Technology Co. Ltd. Hong Kong merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 14000",
+      "ISO 14001",
+      "ISO 14064",
+      "ISO 20000",
+      "ISO 9000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  }
+]

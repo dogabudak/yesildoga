@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Brinno",
+    "description": "2005 yılında kurulmuş olan Brinno Inc. bünyesindeki inşaat kameraları, zaman atlamalı kameralar, gözetleme kameraları, dış mekan güvenlik kameraları ve aksesuarlar markasıdır.Brinno Inc. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Roku",
+    "description": "2002 yılında kurulmuş olan Roku Inc. bünyesindeki medya çalar, projektör, televizyon, Akıllı Ev sistemi, akışlı oynatıcılar, ses ekipmanları markasıdır.Roku Inc. Amerika merkezlidir. Ürünlerini çok sayıda ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Robinair",
+    "description": "1886 yılında kurulmuş olan Bosch Automotive Service Solutions LLC. bünyesindeki otomotiv, klima bağlantı parçaları ve adaptörleri, klima geri kazanımı ve geri dönüşümü, klima servis araçları, şarj terazileri, soğutma sıvısı servisi, elektronik test cihazları, kaçak tespiti, manifoldlar, hortumlar, göstergeler ve kuplörler, termometreler, iletim hizmeti, vakum pompaları ve ölçerler markasıdır.Bosch Automotive Service Solutions LLC. Almanya merkezli Bosch grup şirketidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "CST / Berger",
+    "description": "1994 yılında iki şirketin birleşmesiyle kurulmuş olan ölçüm ve tesviye aletleri, çelik veya fiberglastan dayanıklı bantlar markasıdır.2008 yılında Robert Bosch Tool Corporation tarafından satın alınmıştır. Robert Bosch Tool Corporation Almanya merkezli Bosch grup şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Einarex",
+    "description": "2009 yılında kurulmuş olan Dongguan Tecnomall Technology Co. Ltd. bünyesinde üretilen bilgisayar bileşenleri, bilgisayar kasası, su soğutma, hava soğutma ve güç kaynağı markasıdır.Dongguan Tecnomall Technology Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

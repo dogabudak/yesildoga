@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Bigo Live",
+    "description": "Bigo Live, 2014 yılında David Li ve Jason Hu tarafından kurulan Bigo Technology canlı yayın uygulamasıdır.Uygulamaya entegre edilmiş yapay zeka, canlı yayın sırasında kullanıcı katılımını ve deneyimini geliştirmek için kullanılır. İzleyiciler, en sevdikleri yayıncıları uygulama içi hediyelerle destekleyebilir ve bazı popüler yayıncılar uygulamayı tam zamanlı bir istihdam olarak kullanır.Bigo Technology 2019 yılında Çin merkezli Joyy Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bialetti",
+    "description": "Bialetti, 1933 Alfonso Bialetti tarafından kurulan Bialetti Industrie S.p.A. bünyesindeki kahve makineleri, tencere ve küçük mutfak aletleri markasıdır.Bialetti Industrie S.p.A. İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Elektra",
+    "description": "Elektra, 1947 yılında Umberto Fregnan tarafından kurulan Elektra srl bünyesindeki espresso makineleri, kahve değirmenleri ve aksesuarları markasıdır.Elektra, sadece manuel portafiltreli makineler üretir. Elektra makineleri ağırlıklı olarak iş sektöründe kullanılmaktadır.Elektra srl İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Cashido",
+    "description": "Cashido, 1998 yılında kurulan Cashido Corporation bünyesindeki güneş enerjisi, led büyüme ışıkları, mikro kabarcık sistemleri-ev kullanımı, mikro kabarcık yıkama sistemi-ticari ve endüstriyel kullanım, ozon antibakteriyel sistemleri, smt oem markasıdır.Sterilizasyon makineleri bakterilerin yüzde 99’undan fazlasını öldürür, pestisitlerin yüzde 75’inden fazlasını giderir, kokuları giderir ve yiyecekleri taze tutar. Ozon teknolojisi, musluk suyunu, yiyecekleri ve yüzeyleri temizlemek için doğal bir dezenfektan olan ozonla şarj eder.Cashido Corporation Tayvan merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Autoen",
+    "description": "Autoen, 2019 yılında kurulan Autoen Oto Tekstil San. İç ve Dış Tic. Ltd. Şti. bünyesindeki oto brandaları, vinleks brandalar, motosiklet brandaları, motosiklet brandası, arka çanta uyumlu, atv brandaları markasıdır.İstanbul merkezli firmanın ürünleri Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

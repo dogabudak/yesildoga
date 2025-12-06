@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Demir İz Kaynak Makinesi",
+    "description": "Demiriz, 1980 yılında Salih Güven Demiriz tarafından kurulan Demiriz Elektrik San. Tic. Ltd. Şti. bünyesinde üretilen elektrod kaynak makineleri, punta kaynak makineleri, kaporta çektirme makineleri, akü şarj redresörleri, otomatik akü şarj redresörleri, gazaltı kaynak makineleri, pedallı elektronik punta kaynak makineleri, pnomatik elektronik punta kaynak makineleri, kablo ürün grubu markasıdır.İstanbul merkezli firma ürünlerini 5 bin 750 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hacı Sayid",
+    "description": "Hacı Sayid Nerenin Malı MarkasıHacı Sayid, 1983 yılında Burhan ve Mehmet Dinçerler tarafından kurulan Hacı Sayid Gıda Paz. San. ve Tic. bünyesindeki baklava, çikolata, kekler, dondurma markasıdır.30’a yakın mağaza ve 15 bin metrekarelik üretim tesisiyle faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Absolute New York",
+    "description": "Absolute New York, 2014 yılında kurulan Absolute Hot New York Corp. bünyesindeki makyaj, kozmetik malzemeleri, takma kirpikler, sabunlar markasıdır.Absolute Hot New York Corp. Amerika merkezlidir ve ürünlerini Çin’den ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Calmio Süt",
+    "description": "Calmio, 1986 yılında Kendirli Grup bünyesinde kurulan Calmio Süt Gıda Tarım İnşaat ve Enerji San. Tic. A.Ş. tarafından üretilen beyaz peynir, kaymak ve krema, yoğurt, ayran, tereyağı, kaşar peynir markasıdır.Niğde merkezli firma ürünlerini 25 bin metrekarelik alanda bulunan 11 bin metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Omen",
+    "description": "Omen, 1939 yılında kurulan HP Hewlett Packard Group LLC bünyesindeki oyun bilgisayarları, dizüstü ve masaüstü bilgisayarlar markasıdır.HP Hewlett Packard Group LLC Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2023-09-25"
+  }
+]

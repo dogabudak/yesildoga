@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Asprey London",
+    "description": "Asprey London, 1781 yılında William Asprey tarafından kurulan Asprey International Limited bünyesindeki cilt bakım ürünleri, mücevher, gümüş eşya, ev eşyaları, deri eşyalar, saatler ve kitap perakende markasıdır.Asprey markalı cilt bakım ürünleri Çek Cumhuriyeti’nde üretilmektedir.Asprey International Limited İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Bonai",
+    "description": "Bonai, 2013 yılında kurulan Shenzhen Tuoman technology co., LTD bünyesinde üretilen AA, AAA piller, şarj cihazları, güç bankası ve diğer aksesuarlar, çocuk oyuncak ve cep telefonu markasıdır.Shenzhen Tuoman technology co., LTD Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Blackspade",
+    "description": "Blackspade, 2005 yılında kurulan Narkonteks Tekstil İhr. İth. San. ve Tic. A.Ş. bünyesinde üretilen iç giyim ve termal giyim ürünleri markasıdır.2007 yılında piyasaya sürülen markanın ürünleri 20’den fazla ülkeye dağıtıcılar aracılığıyla sunulmuştur.İzmir’de kurulan Narkonteks; kadın, erkek ve çocuk kategorilerinde iç giyim, ev giyimi, spor giyimi ve mayo üretimi yapmaktadır.Bünyesindeki markalar:BLACKSPADEALIVE FOREVERALIVE TECHWEAR",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Babyly",
+    "description": "Babyly, 2010 yılında kurulan YIWU Babyly Medical Device Co. Ltd. bünyesinde üretilen kızılötesi termometre, temassız kızılötesi alın termometresi, dijital termometre, kulak termometresi, dijital kan basıncı ekranı, evde kan şekeri ölçüm ve göz masajı ürünleri markasıdır.ISO 13485 belgesine sahiptir.YIWU Babyly Medical Device Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 13485"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Corelife",
+    "description": "Corelife, 2014 yılında kurulan Deppomed Sağlık Ürünleri Turz. İnş. Gıda İç ve Dış San. Tic. Ltd. Şti. bünyesinde ithal edilen temassız ateş ölçer markasıdır.Ürünleri Çin’de bulunan çeşitli üreticiler tarafından üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

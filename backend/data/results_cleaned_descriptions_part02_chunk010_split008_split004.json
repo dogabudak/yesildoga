@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Festo",
+    "description": "Festo, 1925 yılında kurulan Festo AG & Co. KG bünyesindeki otomasyon teknolojisi markasıdır.Festo’nun ürün ve hizmet yelpazesi ayrık malların birleştirilmesi, tornalanması, kavraması, konumlandırılması, bağlanması, saklanması, test edilmesi ve kontrol edilmesi gibi otomasyon görevleri için oluşturulur.Proses otomasyonu için Festo, gazların, sıvıların, macun benzeri malzemelerin veya dökme katı maddelerin üretimi, taşınması, taşınması ve bertarafı için merkezileştirilmiş ve merkezi olmayan otomasyon kavramları sağlar.Fabrika ve proses otomasyonu için dünyanın önde gelen pnömatik ve elektrik otomasyon teknolojisi sağlayıcısıdır.Dünya çapında 61 ulusal şirket ile müşterilerine hizmet vermektedir.Festo AG & Co. KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kinetic Concepts",
+    "description": "Kinetic Concepts, 1976 yılında doktor James R. Leininger tarafından kurulan Kinetic Concepts, Inc. bünyesindeki negatif basınç yara terapisi ve yara iyileşmesi ile ilgili öğeler markasıdır.Ürünleri 25’in üzerinde ülkede satılmaktadır.Kinetic Concepts, Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "IPtronics",
+    "description": "IPtronics, 2003 yılında kurulan IPtronics A/S bünyesindeki optik veri iletişimi uygulamaları için düşük güç tekli ve çok kanallı genişbant transimpedance amplifikatörleri (tia) ve vcsel sürücüleri markasıdır.2013 yılında İsrail merkezli Mellanox Technologies Ltd. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "HLB International",
+    "description": "HLB International, 1969 yılında kurulan ve 153 ülkedeki üye firmalardan oluşan bağımsız danışmanlık ve muhasebe firmalarından oluşan küresel bir ağdır.Üye firmalara denetim, muhasebe, vergi ve iş danışmanlığı hizmetleri sunmaktadır.HLB International İngiltere merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": null
+  },
+  {
+    "company": "Van Lanschot N.V",
+    "description": "Van Lanschot N.V., 1737 yılında kurulan; özel bankacılık, varlık yönetimi ve ticari bankacılık hizmetleri sunan finans kurumudur.Van Lanschot N.V. Hollanda merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  }
+]

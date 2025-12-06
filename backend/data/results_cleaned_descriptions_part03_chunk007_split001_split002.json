@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mikawa",
+    "description": "Mikawa, 1980 yılında kurulan Mapaş Hırdavatçılık İthalat ve Pazarlama A.Ş. tarafından ithal edilen tırpan markasıdır.MAPAŞ bünyesindeki ürünleri 10 ülkede bulunan 20’den fazla firmadan ithal etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wonder Core",
+    "description": "Wonder Core, 2003 yılında kurulan Wonder Fitness International Ltd. bünyesindeki profesyonel spor ve fitness ürünleri markasıdır.Buna ek olarak, Wonder Core Nesnelerin İnterneti için insan gücü (IOT) uygulamaları ve akıllı fitness ekipmanları geliştirir.Wonder Fitness International Ltd. Hong Kong merkezlidir. Ürünleri 60’tan fazla ülkeye satılmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Echo",
+    "description": "Echo, 1972 yılında kurulan Echo Incorporated bünyesindeki el yapımı açık hava güç ekipmanları markasıdır.Testere, üfleyici, düzeltici, mala, tırpan motoru, kesici testereler, toprak veya buz burgular, motor matkaplar, jeneratörler, çeviriciler, çit kesiciler, basınçlı yıkama, püskürtücüler, yayıcılar vs aksesuarlara sahiptir.Echo Incorporated, Yamabiko Corporation’ın en büyük yan kuruluşudur.Testereler, fırça kesiciler, çit kesiciler ve yaprak üfleyiciler de dahil olmak üzere benzinli el aletleri Çin’de üretilmektedir.Yamabiko Corporation, 2008 yılında iki şirketin birleşmesiyle kurulan Japonya merkezli dış mekan, tarım ve genel endüstriyel makineleri üreticisidir.Bünyesindeki markalar:EchoKioritzShindaiwa",
+    "documents": [],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Marshall Amplification",
+    "description": "Marshall, 1962 yılında Jim Marshall tarafından kurulan Marshall Amplification Plc bünyesindeki elektrik ve elektronik ses cihazları, ses amplifikatörleri, ses yankılanma üniteleri, ses karıştırma, işleme ve sentezleme cihazları, mikrofon, kulaklık, hoparlör, korna tipi hoparlör, hoparlör dolabı, buzdolabı ve akıllı telefon markasıdır.Marshall Amplification Plc İngiltere merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2023-05-24"
+  },
+  {
+    "company": "Tabac",
+    "description": "Tabac, 1854 yılında Michael Maurer ve Andreas Wirtz tarafından kurulan MAURER & WIRTZ GmbH & Co. KG bünyesindeki erkek tıraş ve bakım ürünleri markasıdır.Başlıca pazarları: Almanya, Benelüks ülkeleri, Avusturya ve İsviçre’dir.MAURER & WIRTZ GmbH & Co. KG Almanya merkezlidir ve ürünleri Almanya’da üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

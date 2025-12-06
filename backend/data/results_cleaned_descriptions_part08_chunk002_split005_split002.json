@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Aspex",
+    "description": "Aspex, 1992 yılında kurulmuş olan Aspex Corporation bünyesinde üretilen taramalı elektron mikroskobu ve elektron mikroskobu araçları markasıdır.Aspex Corporation Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Cedit Makina",
+    "description": "Cedit Makina, 2005 yılında kurulmuş olan Cedit Makina Elektronik Tekstil İnş. İth. İhr. San ve Tic. Ltd. Şti. bünyesinde üretilen iplik boya, iplik santrifüj, iplik kurutma, iplik baskı, iplik fikse ve kondisyonlama, çile boya, çile santrifüj, çile kurutma makilneleri markasıdır.Firma Bursa merkezlidir. Ürünlerini toplam 4 bin 500 metrekarelik alana sahip fabrikasında üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Btsr",
+    "description": "Btsr, 1979 yılında kurulmuş olan Btsr International S.p.A. bünyesinde üretilen iplik kopma sensörleri, kalite kontrol sensörleri, iplik besleme cihazları, pc link yazılım çözümleri markasıdır.Firma tüm iplik türleriyle ilgili, iplik kayma sürecinin izlenmesi, besleme geriliminin kontrolü ve önemli kalite parametrelerinin kontrolü için ortaya çıkan çeşitli ihtiyaçlar için elektronik sensörler ve akıllı sistem çözümleri sunmaktadır.ISO 9001, ISO 14001 belgelerine sahiptir.Btsr International S.p.A. İtalya merkezlidir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Myfix Yapı Kimyasalları",
+    "description": "Myfix Yapı Kimyasalları Nerenin Malı MarkasıMyfix, 2011 yılında kurulmuş olan Yıldız Yapı Kimyasalları San. ve Tic. Ltd. Şti. bünyesinde üretilen astar ve inşaat boyaları, beton katkı astar koruyucu uygulamaları ve ayırıcıları, derz dolgu uygulamaları, ısı yalıtım uygulamaları, seramik granit mermer uygulamaları, su yalıtım uygulamaları, teknik harçlar, zemin uygulamaları markasıdır.Firma İstanbul merkezlidir ve ürünlerini Kocaeli’de bulunan fabrikasında üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Doill",
+    "description": "Doill, 1960 yılında kurulmuş olan Doğan Boya Makina ve Kimya San. Ltd. Şti. bünyesinde üretilen şanzıman ve diferansiyel yağları, ağır ticari motor yağları, antifriz, endüstriyel yağlar, fren hidroliği, gres yağları, motorsiklet yağları, otomobil ve hafif ticari motor yağları markasıdır.Firma Kayseri merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

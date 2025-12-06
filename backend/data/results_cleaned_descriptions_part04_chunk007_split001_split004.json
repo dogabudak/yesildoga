@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Cosby Capsule Toys",
+    "description": "Cosby Capsule Toys, 2010 yılında kurulan Uçantay Gıda A.Ş. tarafından üretilen oyuncaklı şeker markasıdır.Manisa’da 8 bin 500 metrekarelik kapalı alanda üretim yapmaktadır. Ürünlerini çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "La Germania",
+    "description": "La Germania, 1882 yılında Francesco Bertazzoni tarafından kurulan Bertazzoni Spa bünyesindeki ocak, fırın, havalandırma, buzdolabı, bulaşık makinesi markasıdır.Bertazzoni Spa İtalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Dasani",
+    "description": "Dasani, 1999 yılında The Coca-Cola Company bünyesinde üretilen şişelenmiş su markasıdır.Belediye su kaynaklarından, sodyum ilavesi ile filtrelenmiş ve şişelenmiş musluk suyudur. Ters Ozmoz işlemini kullanarak suyu filtreler ve magnezyum sülfat (epsom tuzu), potasyum klorür ve sodyum klorür (sofra tuzu) dahil olmak üzere eser miktarda mineral ekler.The Coca-Cola Company Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Beaphar",
+    "description": "Beaphar, 1942 yılında kurulmuş olan Beaphar Beheer BV bünyesinde üretilen köpek, kedi, küçük hayvanlar, kuş, sağlık ürünleri ve yiyecekleri, parazit kontrolü ve ilaçları markasıdır.Beaphar Beheer BV Hollanda merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": "2023-08-07"
+  },
+  {
+    "company": "S. Pellegrino",
+    "description": "S. Pellegrino, 1899 yılında kurulan Sanpellegrino SPA. bünyesindeki maden suyu markasıdır.1997 yılında İsviçre merkezli Nestlé’nin bir bölümü olan Perrier Vittel SA tarafından satın alındı. Ürünleri İtalya’da üretilmektedir.Bünyesindeki markalar;Acqua PannaCafe SocietyFine Dining LoversLive In ItalianS. PellegrinoSan PellegrinoSanpellegrinoSpellegrinoSpellegrino HydrasprayTastefully ItalianThe Life DeliziosaWater Codex",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": "2022-04-04"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Kaida",
+    "description": "Zhejiang Kaida Machine Tool Co, Ltd şirketine ait olan Kaida markası altında Torna, CNC makineleri üretilmektedir.Şirket 1952 yılında kurulmuştur.Çin merkezli firmanın tüm ürünleri Çin malıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Yapı Kredi Bankası Bankası",
+    "description": "Yapı Kredi Bankası Hangi Ülkenin BankasıYapı Kredi Bankası 1944 yılında kurulan Türkiye’nin ilk özel bankasıdır. Türkiye’nin dördüncü büyük bankasıdır.2002 yılında Yapı Kredi Bankası ile Unicredit ortalığına ait bankanın yüzde 81,8 hissesi bulunmaktaydı.2020 yılında Koç Grubu ve Unicredit arasında ortaklığı bitiren Fesih Protokolü imzalandı. Bankanın tüm hisselerinin Koç Grubu’na (Koç Holding, Koç şirketleri, Koç Ailesi, Koç Ailesi tarafından kontrol edilen ortaklıklar ve ilişkili vakıflar) geçeceği açıklanmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-01-22"
+  },
+  {
+    "company": "Dekor El Aletleri",
+    "description": "Dekor el aletleri markası 1964 yılında üretildi ardından Hassan Grup bünyesine ait bir şirket grubuna dönüştü.Türkiye pazarında yüzde 80 bir paya sahip olan Hassan 21 bin metrekare kapalı alanda 400’den fazla ürün çeşidiyle 4 kıtada 60 ülkeye ihracat gerçekleştiren yerli sermayeli bir firmadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2020-05-09"
+  },
+  {
+    "company": "Besafe",
+    "description": "HTS Besafe AS şirketine ait olan BeSafe markasıyla çocuklar için otomobil koltukları üretimi yapmaktadır. Koltuklarında EPS / EPP köpük sistemi geliştirilmiş, yan darbe korumaları ve VRF sistemi kullanılıyor.BeSafe’ın ArGe departmanı Hollanda’da test kuruluşları Almanya’da bulunan ADAC tarafından gerçekleştiriliyor.Firma Norveç merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "NO",
+    "updated_date": "2019-05-10"
+  },
+  {
+    "company": "Mangi",
+    "description": "MANGO, kadınlar ve erkekler için giyim ve aksesuar tasarımı, üretimi ve satışı gerçekleştiren uluslararası çok uluslu bir firmadır. İlk mağazasını 1984 yılında açtı.Genel merkezi 153 bin metrekarelik bir alana yayılmış olup, İmge ve Tanıtım, Emlak Yönetimi, Genişleme, Üretim ve Dağıtım Kontrolü alanlarıyla birlikte mağazaların tasarımı ile ilgilenen Mimari ve İç Tasarım bölümü ve ayrıca Lojistik, Yönetim ve Bilgi İşlem Sistemleri gibi bölümlerden oluşan kendine has bir yapı içermektedir.İspanya merkezli firma 2000 yılında kendi özelliklerini temel alarak oluşturulan bir lojistik sistemi ortaya çıkardı, bu sistem kapsamında saatte 30 bin kıyafetin sınıflandırılması ve dağıtımı mümkündür.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  }
+]

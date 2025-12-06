@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Weener Plastics",
+    "description": "Weener Plastics, 1953 yılında kurulan Weener Plastics Group BV bünyesindeki sert plastik ambalaj ürünleri markasıdır.Deo Ambalaj, Beslenme Ambalajı ve Aerosol Ambalaj konusunda uzmanlaşmış Kişisel Bakım, Gıda, İlaç ve Evde Bakım pazarları için katma değerli Kapaklar, Kapaklar, Şişeler ve Kavanozlar tasarlar, geliştirir ve üretmektedirWeener Plastics, Hollanda merkezlidir, dünya çapında 18 ülkede 28 tesisi bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "NL",
+    "updated_date": null
+  },
+  {
+    "company": "Arista",
+    "description": "Arista, 2004 yılında Andy Bechtolsheim, David Cheriton ve Kenneth Duda tarafından kurulan Arista Networks, Inc. bünyesindeki bilgisayar ağı markasıdır.Büyük veri merkezi, bulut bilgi işlem, yüksek performanslı bilgi işlem ve yüksek frekanslı işlem ortamları için yazılım tanımlı ağ çözümleri sunmak için çok katmanlı ağ anahtarları tasarlar.Arista Networks, Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Tangy",
+    "description": "Tangy, TETAŞ Şirketler Grubu bünyesinde 1997 yılında kurulan Temat A.Ş.’ye ait hesap makinesi, yazılabilir cd ve dvd ile top standı ürünleri markasıdır.Yurtiçi ve Çin’den fason üretim yoluyla kendi markalarını tedarik etmektedir. İthal edilen ürünler insan sağlığına zararlı madde içermemektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Almit",
+    "description": "Almit, 1956 yılında kurulan Nihon Almit Co.,Ltd. bünyesinde üretilen lehim teli, krem lehim markasıdır.Almit, havacılık endüstrisinde, otomotiv alanında değil, tüketici elektroniklerinde de başarıyla uygulanan lehim telleri, lehim macunları ve tabii ki kurşunsuz lehimlerin önde gelen sağlayıcılarından biridir.Nihon Almit Co.,Ltd. Japonya merkezlidir.İso 9001 ve İso 14001 belgelerine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "İSO 14001",
+      "İSO 9001"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": null
+  },
+  {
+    "company": "Dorma",
+    "description": "Dorma, 2015 yılında Dormakaba Group’un bir parçası olan kapı teknolojisi sistemleri markasıdır.Şirket; kapı kontrolü, otomatikler, cam, hareketli duvarlar, güvenlik sistemleri ve ticaret sayaçları olmak üzere 6 bölümden oluşmaktadır.Dormakaba Group Almanya merkezlidir ve 45 ülkede sahibi olduğu 69 şirketi kontrol ediyor. Üretim tesisleri Avrupa, Çin, Malezya, Kuzey ve Güney Amerika’da bulunmaktadır.Bünyesindeki markalar:BestDormaDorma HüppedormakabaIlcoKabaKilargoLegicMeskerModernfoldPhi PrecisionProbuckSaflok La GardSilcaSkyfold",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-09-01"
+  }
+]

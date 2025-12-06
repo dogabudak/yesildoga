@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Grossag",
+    "description": "Grossag, 1863 yılında kurulan Pegro Gmbh bünyesinde üretilen kahve otomatları, elektrikli su ısıtıcısı, tost, kıyma makinesi, karıştırıcı, kurutma makineleri ve yedek parçaları markasıdır.Pegro Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Shardor",
+    "description": "Shardor, 2008 yılında kurulan Shardor Bath Co. Ltd. bünyesinde üretilen lavabolar, tuvalet, banyo mobilyası, makyaj masası, banyo aynası, aynalı dolap markasıdır.Shardor Bath Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Livoo Akıllı Saat",
+    "description": "Livoo Akıllı Saat Hangi Ülkenin Malı MarkasıLivoo, 1982 yılında kurulan Shenzhen Smile Technology Co. Ltd. bünyesinde üretilen salonlar, ev ve kişisel kullanım için sağlık ve güzellik bakım ürünleri markasıdır.Shenzhen Smile Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Snowa",
+    "description": "Snowa, 1978 yılında kurulan Entekhab Group bünyesindeki ev aletleri, televizyon, ısıtıcı, klima, elektrikli süpürge, çamaşır makinesi, buzdolabı, ses ve video ürünleri markasıdır.OHSAS 18001, ISO 9001, ISO 14001 belgelerine sahiptir.Entekhab Group İran merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;DeawoSnowaSnowa CowayTecnogas",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "IR",
+    "updated_date": null
+  },
+  {
+    "company": "Beston",
+    "description": "Beston, 2013 yılında kurulan Jiangxi Beston Electronics Science And Technology Co. Ltd. bünyesinde üretilen cep telefonu pilleri, alkalin piller, lityum manganez düğme pil, şarj cihazları ve mobil güç kaynağı ve akıllı telefon aksesuarları markasıdır.Jiangxi Beston Electronics Science And Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

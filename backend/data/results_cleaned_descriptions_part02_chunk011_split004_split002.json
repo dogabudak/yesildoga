@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Laverda",
+    "description": "Laverda, 1873 yılında Pietro Laverda tarafından kurulan biçerdöver markasıdır.Hasat ve saman ekipmanları üreticisi Laverda 2000 yılında AGCO Corporation tarafından satın alındı.AGCO Corporation, merkezi Amerika’da bulunan bir Amerikan tarım ekipmanları üreticisidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gallignani",
+    "description": "Gallignani, 1922 yılında Augusto Gallignani tarafından kuruldu. Şirketin sahibi Kverneland ve IG Holding’tir.2012 yılında Japonya merkezli tarım ve iş makineleri üreticisi Kubota Corporation’a ait olan Kverneland Group Gallignani’deki yuvarlak balya işinin yüzde 100’ünü satın alırken, Gallignani ailesi, IG Holding olarak Türkiye’deki kare balyalama işini ve üretim tesisini elinde tutuyor.Gallignani Tarım A.Ş. tarafından Bursa’da üretilen ürünler 70’in üzerinde ülkeye satılmaktadır.IG Holding Bünyesindeki markalar:GallignaniSigma 4",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Cole Mason",
+    "description": "Cole Mason, 1919 yılında kurulan Diethelm Keller Group’un (DK Group) bir parçası olan DKB Household bünyesindeki tuz ve biber değirmeni, baharat setleri, havan ve yağ şişeleri markasıdır.Diethelm Keller Group İsviçre merkezlidir.Bünyesindeki markalarAdHocCole & MasonCulinareKen HomKoenigOutdoorchefTurmixZyliss",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Mopaş",
+    "description": "Mopaş, 1996 yılında Fazıl Narman ve 10 ortakla kurulan perakende zinciridir. Perakende sektörü dışında Bahçe Evler toplu konut projesi, süt üretim tesisleri, jeotermal sera tesisleri ve lojistik üssü ile tüketicilere ürünler sunmaktadır.180 bin metrekarenin üzerinde ve 130 bağımsız bölümden oluşan ticari inşaat alanı; depo, fabrika ve market alanı olarak kullanılmaktadır.İstanbul ve Kocaeli’de mağazaları bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Arexons",
+    "description": "Arexons, 1925 yılında Achille ve Angelo Verri tarafından kurulan Arexons S.p.A. bünyesindeki otomotiv ürünleri (oto bakım ve temizlik; yakıt katkı maddeleri; aksesuarlar), yağlar ve yüzey işleme ürünleri ve pas çıkarma ürünleri markasıdır.2007 yılında Malezya petrol ve gaz ajansı PETRONAS, Arexons S.p.A.’yı satın aldı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "MY",
+    "updated_date": "2021-05-10"
+  }
+]

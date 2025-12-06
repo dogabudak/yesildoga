@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Pulsar",
+    "description": "“Pulsar“2011 yılında kurulmuş olan Gözmer Gözlük San. ve Tic. Ltd. Şti. bünyesinde üretilen güneş gözlükleri markasıdır.Ürünleri antibakteriyel ve antialerjik İsviçre TR 90 hammaddesinden üretilmektedir ve Bpa, Bisfenol gibi zararlı katkı maddeleri içermemektedir.Firma İstanbul merkezlidir ve ürünlerini bir çok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Hankong",
+    "description": "2000 yılında kurulmuş olan Qingdao Hankong Tyre Ltd. bünyesinde üretilen araç lastikleri markasıdır.Qingdao Hankong Tyre Ltd. Çin merkezlidir. Ürünlerini Çin’de üretmektedir ve 100 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Moira Cosmetics",
+    "description": "“Moira Cosmetics“2011 yılında kurulmuş olan Vizyon Parfümeri Giyim Dış Tic. Ltd. Şti. bünyesinde üretilen duş jeli, bakım fırçası markasıdır.Ürünleri zararlı kimyasallar içermez ve hipoalerjeniktir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "ibon Fruity",
+    "description": "“Elvan İbon Fruity“1952 yılında kurulmuş olan Elvan Gıda San. ve Tic. A.Ş. bünyesinde üretilen meyve aromalı sütlü dolgulu şeker markasıdır.Glikoz şurubu, şeker, palm yağı, soya, aroma vericiler, renklendiriciler içermektedir.ISO 9001, ISO 27001, Helal belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini Eskişehir ve Sakarya’da bulunan tesislerinde üretmektedir ve 100’den fazla ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 27001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Heiman Kamera",
+    "description": "“Heiman“Mesa Depolama Lojistik Hizm. İnş. ve Tic. Ltd. Şti. bünyesinde ithal edilen güneş enerjili güvenlik kameraları, gece görüşlü bebek kamerası, akım korumalı priz, petshop ürünler markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "company": "Ortat",
+    "description": "Ortat, 1995 yılında kurulan Koççelik Yem San. Tic. Ltd. Şti. bünyesinde üretilen beyaz peynir, kaşar peyniri, köy peyniri, tulum peyniri, lor peyniri, rende mozarella peyniri, krema, tereyağı markasıdır.Ürünleri inek sütünden katkısız ve doğal yöntemlerle üretilmektedir. ISO 9001, ISO 22000 belgelerine sahiptir.Firma Aksaray merkezlidir.Bünyesindeki markalar;Aksaray SelayKoççelik SütOrsütOrtatOrtat YemSarı PaşaUtkan Yem",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Biotec Implant",
+    "description": "Biotec, 2005 yılında kurulan Biotec Implant Gmbh bünyesinde üretilen dental implantlar markasıdır.Dental implant sistemleri, cerrahi kitler ve matkaplar, protezler, dijital çözümler üretmektedir.Biotec Implant Gmbh Almanya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Kinsmart",
+    "description": "Kinsmart, 1992 yılında kurulan Kintoy Die-Casting Manufactory Limited bünyesinde üretilen kalıp döküm oyuncak arabalar markasıdır.ISO 9001 belgesine sahiptir.Kintoy Die-Casting Manufactory Limited Hong Kong merkezlidir. Ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Catwalk",
+    "description": "Catwalk, 2003 yılında kurulan Catwalk Worldwide Pvt. Ltd. bünyesinde üretilen ayakkabılar markasıdır.Catwalk Worldwide Pvt. Ltd. Hindistan merkezlidir. Ürünlerini Hindistan ve Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IN",
+    "updated_date": null
+  },
+  {
+    "company": "Çiçeğim Deterjan",
+    "description": "Çiçeğim, A101 Yeni Mağazacılık A.Ş. adına Türkiye’deki çeşitli üreticiler tarafından üretilen temizlik ürünleri markasıdır.A101 Yeni Mağazacılık A.Ş., Çiçeğim markasıyla bulaşık deterjanı, cam temizleyici, çamaşır makinesi temizleyici, çamaşır sodası, çamaşır suyu, jel temizleyici, kireç çözücü, yumuşatıcı, krem temizleyici, lavabo açıcı, toz deterjan, yağ çözücü, yüzey temizleyici gibi ürünler sunmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-10-23"
+  }
+]

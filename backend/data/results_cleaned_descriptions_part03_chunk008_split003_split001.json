@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Urbanears",
+    "description": "Urbanears, 2008 yılında kurulan Zound Industries International AB bünyesindeki kulaklık, hoparlör ve aksesuarlar markasıdır.Ürünleri İsveç’te tasarlanıp Çin’de üretilmektedir.Zound Industries International AB İsveç merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Davines",
+    "description": "Davines, 1983 yılında Bollati Ailesi tarafından kurulan Davines Spa. bünyesindeki cilt ve saç bakım ürünleri markasıdır.Davines, 90’dan fazla ülkede uluslararası bir varlığa sahiptir.Davines Spa. İtalya merkezlidir ve ürünlerini İtalya’da üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "Bisquitte",
+    "description": "Bisquitte, 2009 yılında Alişan Yıldız ve Arda Galin tarafından kurulan Aralco Gıda Restoran İşletmeleri Dan. San. ve Tic. Ltd. Şti. bünyesindeki restoran ve kafe markasıdır.Dünya mutfağına Türk damak tadına uygun eklemeler yapılarak çeşitli ürünler sunulmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Harsan Tanker Treyler",
+    "description": "Harsan Tanker Treyler, 2012 yılında kurulan Harsan Tanker Treyler İth. İhr. San. ve Tic. Ltd. Şti. bünyesindeki lpg tankeri ve yarı römork ürünleri markasıdır.Lpg depolama tankı, lpg taşıma tankı, lpg oto gaz dolum istasyonu tankı, lpg silindir dolum istasyonu tankı, amonya depolama tankı, amonya taşıma tankı, kamyon üstü damperler, akaryakıt depolama tankları ve çimento semi-treyler üretmektedir.Fabrika ve ofisleri toplam 15 bin metrekarelik alanda, 7 bin metrekarelik kapalı alana sahiptir ve ürünlerinde sadece Türk, Avrupa ve Amerika markalarını kullanmaktadır. Ürünlerini AD-2000 Merkblatt, EN 14025, EN 13445, ASME Section VIII, 2014/68 EU PED ve ADR standartlarına göre üretmekte ve üretimin tüm aşamaları TÜV AVUSTRIA TURK tarafından denetlenmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "NovSight",
+    "description": "NovSight, 2015 yılında kurulan Novsight Lighting Technology Inc. bünyesinde üretilen led far ampulü, led sis lambası, led ışık Çubuğu ve diğer otomobil aydınlatma ürünleri markasıdır.Ürünleri Amerika, Almanya, Japonya, İngiltere, Kanada, Avustralya dahil olmak üzere 80’den fazla ülkeye ihraç edilmektedir.Novsight Lighting Technology Inc. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

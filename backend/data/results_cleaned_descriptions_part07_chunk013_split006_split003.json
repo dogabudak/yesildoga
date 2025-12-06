@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Kraftgrip",
+    "description": "Kraftgrip, 1990 yılında kurulmuş olan Oplast d.o.o. bünyesinde üretilen vidalama el aletleri markasıdır.Oplast d.o.o. Slovenya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "SI",
+    "updated_date": null
+  },
+  {
+    "company": "Doppel Leben",
+    "description": "Doppel Leben, 2010 yılında kurulmuş olan Multiprotein Gıda Sağlık Spor Kozmetik Tekstil Otomotiv İç ve Dış Tic. Ltd. Şti. bünyesindeki protein tozu markasıdır.Firma Ankara merkezlidir.Bünyesindeki markalar;Doppel LebenDoppel Leben Nice ButterFa Engineered Nutrition",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "La Sandre Organic",
+    "description": "La Sandre Organic, 2016 yılında kurulmuş olan Sanos Kozmetik Itriyat Bilişim Danışmanlık ve Eğitim San. ve Tic. Ltd. Şti. bünyesinde üretilen şampuan, şekillendirici krem ve waxlar, aktar ürünleri, bitkisel yağlar, boya ve saç açıcılar, bronzlaştırıcı, deodorant, erkek bakım ürünleri, jel ve sabunlar, kaş ve kirpik bakımı, katı sabun, saç bakım ürünleri, serumlar, tüy dökücü krem ve spreyler, vücut yağları markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Procolor",
+    "description": "Procolor, 1990 yılında kurulmuş olan Sengıl San. Tic. Tur. ve İnş. Ltd. Şti. bünyesinde üretilen PVC Pencere ve kapı profil, plastik asma tavan, hazır pencere, sera klipsi, hazır sineklik markasıdır.Firma Antalya merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Eurogold",
+    "description": "Eurogold, 2003 yılında kurulmuş olan Kaya Pet Dış Tic. Evcil Hayv. ve Malz. San. Ltd. Şti. bünyesindeki kuş yemi markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

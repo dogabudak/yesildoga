@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Mr.Bee",
+    "description": "Mr.Bee1995 yılında kurulmuş olan BİM Birleşik Mağazalar A.Ş. adına muhtelif üreticiler tarafından üretilen yüzey temizleyici markasıdır.Üretici firmalar ürünleri Türkiye’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Nexigo",
+    "description": "Nexigo2019 yılında kurulmuş olan Nexight Inc. bünyesindeki web kamerası, projektör, kulaklık ve oyun kumandası markasıdır.Nexight Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Superhandy",
+    "description": "Superhandy2017 yılında kurulmuş olan Great Circle Machinery Corp. bünyesindeki dış mekan güç ekipmanları markasıdır.Great Circle Machinery Corp. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kameks",
+    "description": "Kameks1994 yılında kurulmuş olan Kameks Eksantrik Milleri ve Mak. Par. San. ve Tic. Ltd. Şti. bünyesinde üretilen eksantrik mili markasıdır.37 farklı taşıt markasının 510 çeşit motoru için üretim yapmaktadır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir ve ürünlerini 20 ülkeye ihraç etmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Mipo",
+    "description": "Mipo2014 yılında kurulmuş olan Aral Oyun Konsol ve Aksesuar A.Ş. bünyesinde üretilen akıllı telefon ve aksesuarları markasıdır.Firma İstanbul merkezlidir ve ürünlerini Türkiye’de kendi tesislerinde üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

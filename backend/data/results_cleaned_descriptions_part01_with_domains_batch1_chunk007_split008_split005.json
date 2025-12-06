@@ -1,0 +1,50 @@
+[
+  {
+    "company": "Leicester City",
+    "description": "Leicester City, 2010 yılında King Power şirketi tarafından 40 milyon avroya satın alındı.King Power 1989 yılında kurulan Tayland merkezli bir şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TH",
+    "updated_date": "2019-12-22"
+  },
+  {
+    "company": "Honor",
+    "description": "Honor, 2013 yılında kurulmuş olan Honor Device Co. Ltd. bünyesinde üretilen akıllı telefonlar, tablet bilgisayarlar ve giyilebilir cihazlar markasıdır.Honor Device Co. Ltd. 2020 yılında Çin devletine ait Shenzhen Zhixin New Information Technology Co. Ltd. tarafından satın alınmıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2024-01-12"
+  },
+  {
+    "company": "Asics Ayakkabı",
+    "description": "Asics, 1949 yılında Kihachiro Onitsuka tarafından kurulmuş olan Onitsuka Co. Ltd. bünyesindeki spor ayakkabı, koşu ayakkabısı, dans ayakkabısı ve kayak ayakkabısı, tenis ayakkabısı markasıdır.Onitsuka Co. Ltd. Japonya merkezlidir. Bazı ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "JP",
+    "updated_date": "2023-04-27"
+  },
+  {
+    "company": "Audio",
+    "description": "Audio Elektronik A.Ş. 1979 yılında kurulan diafon ve telefon sistemlerinin, görüntülü ve sesli seçenekleri ile konut ve iş merkezlerinin dahili iletişim cihazları markasıdır.Türk şirket Audio, Türkiye’de 6 bin metrekarelik kapalı alanı ile ilk ve tek bina iletişim sistemlerini üretiyor.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2019-02-20"
+  },
+  {
+    "company": "Avision",
+    "description": "Avision, 1991 yılında kurulan çok fonksiyonlu yazıcılar ve görüntü tarayıcıları üreten firmadır.Avision, Tayvan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

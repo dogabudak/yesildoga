@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Transferpette",
+    "description": "Transferpette, 1949 yılında Rudolf Brand tarafından kurulan Brand Gmbh + Co Kg bünyesinde üretilen laboratuvar aletleri, pipetler ve pipet kullanan ölçüm cihazları, yani miktarları ölçmek için cihazlar markasıdır.Ürün yelpazesi mikropipetleri, marka pipet uçları, sıvı taşıma İstasyonu pipetleme robotu içerir.Brand Gmbh + Co Kg Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Nova Power Solutions",
+    "description": "Nova Power Solutions, 1989 yılında kurulan Nova Power Solutions Inc. bünyesindeki güç koruma, dönüştürme, dağıtım ve yedekleme çözümleri markasıdır.Ürünlerimiz, taşımacılık, endüstriyel, sağlık, enerji, su, geri dönüşüm dahil olmak üzere çeşitli ortamlarda çalışmaktadır.Brezilya’daki özel madencilikten Türkiye’deki kritik altyapıya, Orta Doğu’daki iletişim sistemlerine kadar ekipleri destek vermektedir.Nova Power Solutions Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Kom Mayo",
+    "description": "Kom, 1950 yılında Hasan Cansız tarafından kurulan Kom Tekstil ve Konfeksiyon San. A.Ş. bünyesinde üretilen kadın, erkek ve çocuklar için iç giyim ve mayo markasıdır.İstanbul merkezli firma ürünlerini 25 bin metrekarelik entegre tesisinde iplikten bitmiş ürünlere kadar üretmekte ve çok sayıda ülkeye ihraç etmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2023-02-10"
+  },
+  {
+    "company": "Leramelt",
+    "description": "Leramelt, 2017 yılında kurulan Lera Dış Tic. Ltd. Şti. bünyesindeki endüstriyel yapıştırıcılar markasıdır.Iso 9001 belgesine sahiptir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Banggood",
+    "description": "Banggood, 2005 yılında kurulan GuangZhou Banggood Network Technology Co. Limited bünyesindeki çevrimiçi mağaza markasıdır.Apple aksesuarları, cep telefonları, elektronik, RC oyuncaklar, LED ışıklar, giyim, güzellik, mücevher ve saatler dahil olmak üzere çok çeşitli kategorilerde ürün sunmaktadır.GuangZhou Banggood Network Technology Co. Limited Çin merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

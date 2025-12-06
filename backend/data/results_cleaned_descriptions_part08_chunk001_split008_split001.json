@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Barbican",
+    "description": "Barbican, 2012 yılında Aujan Industries ile The Coca-Cola Company ortaklığında kurulmuş olan Aujan Coca-Cola Beverages Company bünyesinde üretilen alkolsüz malt içecek markasıdır.Aujan Industries Suudi Arabistan merkezli, The Coca-Cola Company Amerika merkezlidir. Ürünlerini 70’ten fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Iunik",
+    "description": "Iunik, Iunik Co. Ltd. bünyesinde üretilen cilt bakım ürünleri markasıdır.Iunik Co. Ltd. Güney Kore merkezlidir ve ürünlerini Kore’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "KR",
+    "updated_date": null
+  },
+  {
+    "company": "Attwood",
+    "description": "2006 yılında kurulmuş olan Navico Holding AS bünyesindeki genel denizcilik aksesuarları, koltuk ve masa donanımı ve su sistemleri, havalandırma markasıdır.Navigasyon aydınlatma, yakıt sistemleri, oturma ve kaide sistemleri, genel denizcilik ve donanım ürünleri sunmaktadır.Navico Holding AS 2021 yılında Amerika merkezli Brunswick Corporation tarafından satın alınmıştır.Bünyesindeki markalar;AncorAttwoodB&GBEPBlue SeaC-MAP",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-12-23"
+  },
+  {
+    "company": "Masterx Kablo",
+    "description": "Masterx, 1984 yılında kurulmuş olan Merter Elektronik San. ve Tic. Ltd. Şti. bünyesinde ithal edilen akım korumalı priz, kablolu grup priz, usb priz, lcd ekran temizleme seti, hdmi kablo markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Wartner",
+    "description": "Wartner, 1887 yılında kurulmuş olan Perrigo Company plc bünyesinde üretilen nasır kalemi, siğil kalemi, siğil ve taban siğili giderici, tırnak mantarı tedavi jeli markasıdır.Amerika menşeli Perrigo Company plc İrlanda merkezlidir ve 2009 yılından beri Türkiye’de faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IE",
+    "updated_date": null
+  }
+]

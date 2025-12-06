@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Awassi Feta Peynir",
+    "description": "Awassi, 2019 yılında kurulmuş olan Kvs Tarım San. Tic. Ltd. Şti. bünyesinde üretilen peynir markasıdır.Firma Şanlıurfa merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Devel Sixteen",
+    "description": "Devel Sixteen, 2013 yılında Defining Extreme Vehicles Car Industry LLC bünyesinde üretilen süperspor otomobil markasıdır.Defining Extreme Vehicles Car Industry LLC BAE merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": null
+  },
+  {
+    "company": "Efsane Spark",
+    "description": "Efsane Spark, 1993 yılında kurulmuş olan Alpha Group Co. Ltd. bünyesinde üretilen animasyon markasıdır.Şirket çocuk içerik sağlayıcısı ve oyuncak üreticisidir. Ayrıca, her yaştan çocuğu hedef alan ve tüm dünyada bilinen birçok güçlü ve çeşitli fikri mülkiyete sahiptir.Alpha Group Co. Ltd. Çin merkezlidir. Üç oyuncak fabrikası ve beş stüdyosu vardır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Belberry",
+    "description": "Belberry, 1956 yılında kurulmuş olan Belberry BV bünyesinde üretilen reçeller, meyve konserveleri markasıdır.Ürünleri ilave şeker içermez. Koşer belgesine sahiptir.Belberry BV Belçika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BE",
+    "updated_date": null
+  },
+  {
+    "company": "Ayca Peynir",
+    "description": "Ayca, 1980 yılında kurulmuş olan Ayca Süt Ürünleri A.Ş. bünyesinde üretilen beyaz peynir, kaşar, mozzarella ve lor peynir, krem peynir, labne peynir, süzme yoğurt, tereyağı, kaymak, tulum peyniri, eritme peyniri, yöresel peynirler markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma Konya merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

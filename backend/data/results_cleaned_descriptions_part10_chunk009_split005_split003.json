@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Mumenim",
+    "description": "Mısra Davet Organizasyon Ayakkabıcılık Oto ve Emlak Ltd. Şti. bünyesindeki spor, günlük ayakkabı, bot markasıdır.Ürünleri kanserojen madde içermez.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Travazol",
+    "description": "1953 yılında kurulmuş olan Bilim İlaç San. ve Tic. A.Ş. bünyesindeki mantar ilacı markasıdır.Vazelin, sorbitan stearat, likit parafin, polisorbat, setostearil alkol ve distile su içermektedir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Stellary",
+    "description": "Stellary Cosmetics AG bünyesindeki makyaj, cilt bakımı ve parfüm markasıdır.Stellary Cosmetics AG İsviçre merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Bicips",
+    "description": "Velaibike S.L. bünyesindeki bisiklet kiralama hizmetleri markasıdır.Velaibike mağazalarında her türden bisiklet aksesuarları, bileşenleri, yedek parçaları ve giysileri yer almaktadır.Velaibike S.L. İspanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "Chefline",
+    "description": "1994 yılında kurulmuş olan Koza Gıda Dağıtım San. ve Tic. A.Ş. bünyesindeki çeşni, baharat, balık ve deniz ürünleri, ekmek, gurme ve organik ürünler, hazır noodle, konserve ürünleri, kuru sebze, makarna, sıvı yağ, sirke ve nar ekşisi, soslar, turşu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Famostone",
+    "description": ",“Famostone“1986 yılında kurulmuş olan Fms Enterprises Migun Ltd. bünyesinde üretilen tek yönlü kumaşlar, dokuma aramid kumaşlar, kişisel panel koruması, askeri, kompozit zırh kitleri ve tekne zırhı gibi araç koruması markasıdır.FMS Enterprises Migun Ltd. İsrail merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IL",
+    "updated_date": null
+  },
+  {
+    "company": "Talika Toys",
+    "description": "“Talika“2017 yılında kurulmuş olan Talika Oyuncak Ltd. Şti. bünyesinde üreitlen ahşap oyuncaklar markasıdır.Hijyenik oyuncakları bakteri içermez ve doğal malzemeden üretilmektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Irie",
+    "description": ",“Irie“2019 yılında kurulmuş olan Zag İlaç San. ve Tic. Ltd. Şti. bünyesindeki intim bakım, menstrüel disk, menstrüel kap, sterilizasyon markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Kulinart",
+    "description": "2009 yılında kurulan Migros Tic. A.Ş. adına muhtelif yerli veya ithal üreticilerden temin edilen defterler, şerit silici, akrilik boya, bant kesici, tahta kalemi, çizim seti, karton, kalem tutma aparatları, kalemler, boya kalemleri, makas, dosya, not kağıdı, zımba seti markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2025-08-24"
+  },
+  {
+    "company": "Zbarz Protein Bar",
+    "description": ",“Zbarz Protein Bar“2020 yılında kurulmuş olan Zbarz Gıda San. ve Tic. A.Ş. bünyesindeki atıştırmalık ürünler, tahıl bar ve protein bar markasıdır.Ürünleri ilave şeker, renklendirici, katkı, koruyucu içermemektedir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Zırhlı Toptan Market",
+    "description": "Zırhlı Toptan Market2020 yılında kurulmuş olan Zırhlıoğlu Gıda Pazarlama İthalat İhracat San. ve Tic. Ltd. Şti. bünyesindeki perakende markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Leopard Akülü Araba",
+    "description": "Dolu Leopard1975 yılında kurulan Dolu Oyuncak San. ve Tic. A.Ş. bünyesinde üretilen akülü araba markasıdır.6 volt akülü ürün 36 ay ve üzeri yaş üstü çocuklar tarafından kullanılabilir. İç ve dış mekanlarda kullanılabilen ürün ileri ve geri vitesli ve amortisörlüdür. Otomatik fren sistemine sahiptir.Firma Tekirdağ merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": "2024-08-06"
+  },
+  {
+    "company": "Weibo",
+    "description": "Weibo2009 yılında kurulmuş olan Weibo Corporation bünyesindeki sosyal ağ markasıdır.Weibo Corporation Çin merkezli Sina Corporation’a aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Bilibili TV",
+    "description": "Bilibili2009 yılında kurulmuş olan Shanghai Hode Information Technology Co. Ltd. bünyesindeki video paylaşım sitesi, mobil uygulamalar ve çevrimiçi video oyunları markasıdır.Shanghai Hode Information Technology Co. Ltd. Çin merkezli Bilibili Inc.’in bir parçasıdır.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Betka Fresh",
+    "description": "Betka Fresh2014 yılında kurulmuş olan Betka Gıda San. ve Tic. Ltd. Şti. bünyesindeki dondurulmuş sebzeler, meyveler, karışımlar markasıdır.ISO 9001, TSE belgelerine sahiptir.Firma Bursa merkezlidir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

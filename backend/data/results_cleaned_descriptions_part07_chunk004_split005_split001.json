@@ -1,0 +1,54 @@
+[
+  {
+    "company": "Frigomilk",
+    "description": "Frigomilk, 1951 yılında kurulmuş olan FIC S.p.A. bünyesinde üretilen süt soğutma tankları, dondurma için pastörizatör ve yaşlandırma tankları, yumurta tankları, gıda endüstrisi için diğer proses tanklar markasıdır.ISO 9001, ISO 3834 belgelerine sahiptir.FIC S.p.A. İtalya merkezlidir. Ürünlerini 60’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 3834",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  },
+  {
+    "company": "İzi Süt",
+    "description": "İzi Süt, 1991 yılında kurulmuş olan İzi Süt ve Gıda Mamüller San. Tic. A.Ş. bünyesinde üretilen kaşar, krema, naturel tam yağlı peynir, sadeyağ, tam yağlı beyaz peynir, tam yağlı süt tozu, tam yağlı vals tipi süt tozu, tereyağı, yağsız süt tozu markasıdır.ISO 9001, ISO 22000, Helal, TSE belgelerine sahiptir.Firma Konya merkezlidir. Akşehir OSB bünyesinde 80 bin metrekarelik açık alanda 28 bin metrekarelik kapalı alanda üretim yapmaktadır.",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Autokit Oto Ürünleri",
+    "description": "Autokit, 1999 yılında kurulmuş olan Falkon Otomotiv Dış Tic. Ltd. Şti. bünyesindeki oto aksesuarları, aydınlatma ürünleri, bakım ve temizlik ürünleri, güvenlik ürünleri, paspasları, performans ürünleri, silecekler, lastik tamir kitleri markasıdır.ISO 9001 belgesine sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Keskinkaya",
+    "description": "Keskinkaya, 2015 yılında kurulmuş olan Keskinkaya Lojistik ve Gıda Tic. Ltd. Şti. bünyesinde üretilen tereyağı, krema, süt tozu, kazein, blok kaşar, hellim peyniri, parmesan markasıdır.Firma İstanbul merkezlidir. Ürünlerini 8 bin metrekarelik açık ve 3 bin 260 metrekarelik kapalı alanda üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Rodos Süt",
+    "description": "Rodos Süt Nerenin Malı MarkasıRodos Süt, 1982 yılında kurulmuş olan Rodos Süt Gıda İnşaat Taahhüt San. ve Tic. Ltd. Şti. bünyesinde üretilen süt, beyaz peynir, tulum peyniri, tereyağı, kaşar peyniri, yoğurt, çecil peyniri, dil peyniri markasıdır.Ürünleri geleneksel yöntemlerle köylüden alınan sütlerden üretilmektedir.Firma Muğla merkezlidir. Ürünlerini Aydın Çine OSB’de 23 bin metrekare üzerinde 6 bin metrekarelik kapalı alanda bulunan fabrikasında üretmektedir.Bünyesindeki markalar;KaşarcılarRodosluRodoslu Doğa’nin MucizesiRodosludoğanbeyRodossüt",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  }
+]

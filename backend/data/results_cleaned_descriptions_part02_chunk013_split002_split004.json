@@ -1,0 +1,49 @@
+[
+  {
+    "company": "Maped Helix",
+    "description": "Maped Helix, 1947 yılında kurulan Maped SAS bünyesindeki kırtasiye ürünleri markasıdır.Maped, okul ve ofis malzemelerinin tasarım ve üretimini yapan bir aile şirketidir.Eğitim, yazma ve ofis ürünleri için geniş bir yelpazede tüm kırtasiye ihtiyaçlarını karşılamaktadır.Maped Group Fransa merkezlidir. 2009 yılından beri Türkiye pazarındadır.2010 yılında MAPED’in bütün Çin imalat tesislerini birleştiren 35 bin metrekarelik fabrikası kuruldu.Maped Group bünyesindeki markalar:HelixOxfordMapedMallatColor’PepsHelitFreewriterTwintip",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "Aveda",
+    "description": "Aveda, 1978 yılında Horst Rechelbacher tarafından kurulan Aveda Corporation bünyesindeki cilt bakımı, makyaj, koku ve saç bakımı markasıdır.1997 yılında Amerika merkezli Estee Lauder Companies bünyesinde katıldı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Brady",
+    "description": "Brady, 1914 yılında William H. Brady tarafından kurulan Brady Corporation bünyesindeki, yüksek performanslı etiketler, işaretler, güvenlik cihazları, yazıcı sistemleri ve yazılımlar markasıdır.Şirketin elektronik, telekomünikasyon, imalat, elektrik, inşaat, eğitim, tıp, havacılık ve çeşitli diğer sektörlerden, kapsamlı bir müşteri kesimi bulunmaktadır.Brady yüksek performanslı etiketleri, endüstriyel yazıcıları, yazılımları, güvenlik ve mekan işaretleri, endüstriyel emiciler, kilit sistemleri ve bir çok başka çözümüyle insanları, mekanları ve ürünleri işaretler veya markalar ve korunmasını sağlar.Brady Corporation Amerika merkezlidir.Hissedarları:The Vanguard Group (yüzde 10,8)SSgA Funds Management (yüzde 7,88)JPMorgan Investment Management (yüzde 5,24)Renaissance Technologies (yüzde 4,73)Dimensional Fund Advisors (yüzde 3,58)BlackRock Fund Advisors (yüzde 2,92)Vaughan Nelson Investment Management (yüzde 2,75)Elizabeth P. Pungello (yüzde 2,37)Daruma Capital Management (yüzde 2,31)Barrow, Hanley, Mewhinney & Strauss (yüzde 2,22)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Dreamolino",
+    "description": "Dreamolino, 1999 yılında kurulan Mediashop Gmbh bünyesindeki ev aletleri markasıdır.MediaShop, Avrupa’da Türkiye dahil 12 ülkede faaliyet gösteren bir Telepazarlama şirketidir. Türkiye’de MediaShop Dayanıklı Tüketim Malları Pazarlama A.Ş. olarak faaliyet göstermektedir.Ürün yelpazesi; mutfak, ev, eğlence, fitness, sağlıklı yaşam ve güzellik alanlarından oluşur.Avusturya merkezli MediaShop Grubu 7 konumda 8 şirketten oluşmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AT",
+    "updated_date": null
+  },
+  {
+    "company": "Upfield",
+    "description": "Upfield, 2018 yılında kurulan Upfield Holdings B.V. bünyesindeki margarin ve en büyük bitki bazlı hızlı tüketim malları şirketidir.95 ülkeye ürünlerini pazarlayan Upfield Holdings B.V. 2018 yılında Amerika merkezli yatırım şirketi KKR & Co. Inc. tarafından satın alındı.KKR & Co. Inc. özel sermaye, enerji, altyapı, emlak, kredi ve riskten korunma fonları gibi birden fazla alternatif varlık sınıfını yönetmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2022-03-22"
+  }
+]

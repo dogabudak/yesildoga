@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Century 21",
+    "description": "Century 21, 1971 yılında kurulmuş olan Real Estate LLC bünyesindeki emlak bayilik sistemi markasıdır.Ayrıca alanında franchising markasıdır.Real Estate LLC. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Ecrou",
+    "description": "Ecrou, 2017 yılında kurulmuş olan Ecrou Mağazacılık A.Ş. bünyesindeki perakende markasıdır.Kişisel bakım, tekstil, ev yaşam, aksesuar, hobi, kırtasiye, dijital aksesuar gibi ürün grupları sunmaktadır.Türkiye’de 30’dan fazla mağazaya sahiptir.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Macdermid",
+    "description": "Macdermid, MacDermid Inc. bünyesinde üretilen üretim ve sondaj kontrol sıvıları, baskı endüstrisi sarf malzemeleri, elektronik endüstrisine hizmet eden kimyasallar, fonksiyonel kaplamalar ve baskı kimyası, yüzey bitirme özel kimyasalları markasıdır.Şirket, metaller, plastik kaplama, elektronik, petrol üretimi ve grafik sanatlar için bir dizi kimyasal sunmaktadır.MacDermid Inc. Amerika merkezlidir. 50’den fazla ülkede faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Posalux",
+    "description": "Posalux, 1943 yılında kurulmuş olan Posalux SA bünyesinde üretilen takım tezgahları markasıdır.Femto-LAZER, EDM ve Mekanik işleme teknolojileri sayesinde sayesinde elektronik, otomotiv ve endüstriyel pazarlar için delme, yönlendirme/frezeleme, kesme ve tornalama uygulamaları geliştirmektedir.Iso 9001 belgesine sahiptir.Posalux SA İsviçre merkezlidir ve ürünlerini İsviçre’de üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CH",
+    "updated_date": null
+  },
+  {
+    "company": "Protomat",
+    "description": "Protomat, 1976 yılında kurulmuş olan LPKF Laser & Electronics SE bünyesinde üretilen teknoloji endüstrisi için lazer tabanlı çözümler markasıdır.Ürünleri baskılı devre kartları, mikroçipler, otomotiv parçaları, güneş panelleri ve diğer birçok bileşenin imalatında kullanılmaktadır.LPKF Laser & Electronics SE Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

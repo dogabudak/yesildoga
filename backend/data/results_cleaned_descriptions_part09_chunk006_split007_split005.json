@@ -1,0 +1,57 @@
+[
+  {
+    "company": "Airbot",
+    "description": "“Airbot“2017 yılında kurulmuş olan Dongguan Meijinghong Industrial Co. Ltd. bünyesinde üretilen elektrikli ev aletleri ve küçük ev aletleri markasıdır.Dongguan Meijinghong Industrial Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Goldsit",
+    "description": "“Goldsit“1993 yılında kurulmuş olan Goldsit Ofis Mobilyaları San. ve Tic. A.Ş. bünyesinde üretilen ofis koltukları, ofis mobilyası markasıdır.ISO 9001, ISO 14001, ISO 45001, TSE belgelerine sahiptir.Firma Bursa merkezlidir. Ürünlerini 40 bin metrekarelik üretim tesisinde üretmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 14001",
+      "ISO 45001",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vanet",
+    "description": "“Vanet“1977 yılında kurulmuş olan Vanet Gıda San. İç ve Dış Tic. bünyesinde üretilen sucuk, salam, sosis, kavurma markasıdır.ISO EN 9001, ISO EN 22000, HCCP 13001 ve Helal kesim belgelerine sahiptir.Firma İstanbul merkezlidir. Van’da 24 bin metrekarelik kapalı alana sahip tesislerinde büyükbaş ve küçükbaş hayvan besiciliği yapmakta ve ayrıca hindi üretim çiftliği bulunmaktadır.",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Sunar Profesyonel",
+    "description": "“Sunar Profesyonel“2006 yılında kurulmuş olan Sunar Topluluğu şirketlerinden Elita Gıda San. ve Tic. A.Ş. bünyesinde üretilen ayçiçek yağı, çiğ köfte yağı, kanola yağı, mısır yağı markasıdır.ISO 9001, ISO 22000, ISO 10002, ISO 27001, ISO 14001, OHSAS 18001, TSE, Helal, Koşer belgelerine sahiptir.Adana merkezli firma ürünlerini birçok ülkeye ihraç etmektedir.Bünyesindeki markalar;ElitaSunarSunar Profesyonel",
+    "documents": [
+      "ISO",
+      "ISO 10002",
+      "ISO 14001",
+      "ISO 22000",
+      "ISO 27001",
+      "ISO 9001",
+      "OHSAS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Vastking",
+    "description": "“Sunar Profesyonel“2010 yılında kurulmuş olan Heyuan Vastking Electronic Co. Ltd. bünyesinde üretilen dizüstü bilgisayar, tablet, aio ve masaüstü bilgisayar markasıdır.Heyuan Vastking Electronic Co. Ltd. Çin merkezlidir ve ürünleri Çin’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  }
+]

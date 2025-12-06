@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Cloud Nine Klavye",
+    "description": "Cloud Nine, 2019 yılında kurulmuş olan Cloud Nine Ergo LLC bünyesindeki ergonomik klavyeler markasıdır.Cloud Nine Ergo LLC Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Deilmi",
+    "description": "Deilmi, 2019 yılında kurulmuş olan Major İthalat İhracat Tic. Ltd. Şti. bünyesinde ithal edilen elektronik ve telefon aksesuarları markasıdır.Firma İstanbul merkezlidir.Bünyesindeki markalar;CimricikDeilmiK-DooKeep ArmorM Micropack Digitally YoursNivagatorePst",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Qearim",
+    "description": "Qearim, 2017 yılında kurulmuş olan Qearim Electronics Industry Limited bünyesinde üretilen 4’ü bir arada Koaksiyel Kamera, IP Kamera, Kablosuz Kamera, Akıllı Kamera, PTZ Kamera, Kablosuz NVR Kitleri ve dvr markasıdır.ISO 9001, CE, FCC, RoHS belgelerine sahiptir.Qearim Electronics Industry Limited Çin merkezlidir ve ürünlerini Çin’de üretmektedir.Bünyesindeki markalar;QealimQearim",
+    "documents": [
+      "CE",
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Keychron",
+    "description": "Keychron, 2017 yılında kurulmuş olan Cafganic Import and Export Trading Co. Ltd. bünyesinde üretilen klavye, fare ve aksesuarları markasıdır.Cafganic Import and Export Trading Co. Ltd. Hong Kong merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Dermatix",
+    "description": "Dermatix, 1995 yılında kurulmuş olan Meda AB bünyesinde üretilen ilaç markasıdır.Meda AB, 2016 yılında Amerika merkezli Viatris Inc. tarafından satın alınmıştır. Ürünlerini 60 ülkeye pazarlamaktadır.Bünyesindeki markalar;AcnacalmAcnapurAcnatacAcnidelAftadiscAftadolAftanoxAftasolAldaraAntadarAsteproAzefluBreakylBuquelChartenDalmadormDermatixDylastineDymistaEasinylEfudixGlutrilIrruptylIsordilKalcipos-DKemudinKyliaraLicatackLiticonLmaxLorametLoxapacMacrodexMedaMestinonMinitranMinocinMolaxoleMoxaloleMuseMyambutolNormisonNovantroneOnsolisOseumPromitPyralvexRheomacrodexSalbulinSerapaxSolcoSonataSynazeTambocorTribvitWaxsolXatalinZartraZereneZidovalZilaraZimaranZyclara",
+    "documents": [
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  }
+]

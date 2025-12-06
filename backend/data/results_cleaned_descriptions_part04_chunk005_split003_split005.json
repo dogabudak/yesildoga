@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Multilaser",
+    "description": "Multilaser, 1987 yılında Israel Ostrowiecki tarafından kurulan Multilaser Industrial Sa bünyesindeki ev aletleri, akıllı telefonlar, tabletler, bilişim ürünleri, kulaklıklar markasıdır.Multilaser Industrial Sa, Brezilya merkezli bir elektronik şirketidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "BR",
+    "updated_date": null
+  },
+  {
+    "company": "Ruf Automobile",
+    "description": "Ruf Automobile, 1939 yılında kurulan Ruf Automobile Gmbh bünyesindeki otomobil ve otomotiv parçaları markasıdır.Özellikle beyaz gövdeler olarak bilinen işaretsiz Porsche şasisini kullanarak orijinal araçlar üretmektedir.Ruf Automobile Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Le Labo",
+    "description": "Le Labo, 2006 yılında Eddie Roschi ve Fabrice Penot tarafından kurulan parfüm markasıdır.Ürünleri hayvansal katkılar, paraben, koruyucular veya renklendiriciler içermez ve hayvanlar üzerinde test edilmemektedir.Le Labo 2014 yılında, Amerika merkezli Estée Lauder tarafından satın alındı.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Al Mar Knives",
+    "description": "Al Mar Knives, 1979 yılında Al Mar tarafından kurulan bıçak markasıdır.Ürünleri Çin çelikleri kullanılarak Çin’de üretilmektedir.2019 yılında Amerika merkezli Edge Technologies Engineering, LLC tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Gravati",
+    "description": "Gravati, 1909 yılında Leonardo Gravati tarafından kurulan Calz. Gravati Mario Spa bünyesinde üretilen erkek ve kadın el yapımı ayakkabıları markasıdır.Calz. Gravati Mario Spa İtalya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "IT",
+    "updated_date": null
+  }
+]

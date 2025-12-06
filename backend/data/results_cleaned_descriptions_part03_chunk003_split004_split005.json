@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Dermaplus",
+    "description": "Dermaplus, 2012 yılında kurulan Este Global bünyesindeki cilt bakım ürünleri markasıdır.Este Global, ulusal ve uluslararası pazarda aktif olarak yer alan yüzde 100 yerli sermayeli şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Babe Laboratorios",
+    "description": "Babe Laboratorios, 1994 yılında kurulan Laboratorios Babe S.L. bünyesinde üretilen Dermokozmetik ürünleri markasıdır.Ürünleri 30’dan fazla ülkede satılmaktadır. ISO 9001 belgesine sahiptir.Laboratorios Babe S.L. İspanya merkezlidir ve ürünleri İspanya’da üretilmektedir.",
+    "documents": [
+      "ISO",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "ES",
+    "updated_date": null
+  },
+  {
+    "company": "One Drop Only",
+    "description": "One Drop Only, 1927 yılında Otto Müller tarafından kurulan One Drop Only GmbH bünyesinde üretilen gargara konsantresi, diş macunu konsantresi, diş macunu, ağız spreyi, ağız yıkama, diş fırçaları, dil temizleyici, interdental fırçalar markasıdır.Ürünleri dünya çapında 20’den fazla ülkede mevcuttur.One Drop Only GmbH Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Haylou",
+    "description": "Haylou, 2015 yılında Dongguan Hele Electronics’in yan kuruluşu olarak kurulan Dongguan Liesheng Electronic Co. Ltd. bünyesinde üretilen bluetooth kulaklık ve hoparlörler markasıdır.Dongguan Liesheng Electronic Co. Ltd. Xiaomi Technology’den sağladığı fonla, Xiaomi Ekolojik Zincirinin en eski üyelerinden biridir. Çin merkezli şirket akıllı ve spor sarf malzemeleri endüstrisi için ürünlerini Çin’de üretmektedir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": "2021-10-26"
+  },
+  {
+    "company": "United Microelectronics",
+    "description": "United Microelectronics, 1980 yılında kurulan United Microelectronics Corporation bünyesindeki yarı iletken markasıdır.United Microelectronics Corporation’ın dünya çapında 11 üretim tesisi bulunmaktadır.United Microelectronics Corporation Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

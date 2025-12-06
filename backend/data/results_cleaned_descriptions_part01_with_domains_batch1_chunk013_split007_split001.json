@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Toscano Traktör",
+    "description": "Toscano, 1991 yılında kurulan, Dündarlar Aile şirketine ait olan Dündarlar Makina bünyesindeki motorlu araç markasıdır.Dündarlar makina ürünlerinin yaklaşık yüzde 80’i Avrupa ülkelerine ihraç edilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bercekız Servet Şekerleme Ülke",
+    "description": "Bercekız Servet Şekerleme Hangi Ülke MalıBercekız Servet Şekerleme, 1987 yılında Servet Erdoğan tarafından kurulan tamamen doğal Lokum, Nugat, Krokan ürünleri markasıdır.Üretilen ürünlerin tamamı doğal meyve özlerinden ve şekerden oluşurken, hiçbir ürün koruyucu madde ve glikoz içermemektedir.Başta Rusya olmak üzere Dubai, Kıbrıs ve Amerika’ya ihracat yapmaktadır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Camelot Parfüm",
+    "description": "Camelot Parfüm, 1981 yılında kurulan Sora Kozmetik’in grup şirketi olan 2016 yılında kurulan Morfose Kişisel Bakım ve Kozmetik Ürünleri San. Tic. A. Ş. bünyesindedir.Kişisel bakım başlığı altında kadın, erkek ve çocuklara yönelik geniş bir cilt bakım, bebek bakım ve kişisel temizlik ürün grubu yelpazesi sunmaktadır.Türk firmasının ürünleri 5 kıtada 70’den fazla ülkede satılmaktadır.Camelot markalı çok sayıda farklı firmalara ait farklı ürünler bulunmaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Royal İlaç",
+    "description": "Royal İlaç, 2002 yılında kuruldu ve hayvan beslenme, sağlığı ve gıda güvenliği ürünleri üretmektedir.70 ülkede faaliyet gösteren, hayvan sağlığı ve besleme şirketidir.Royal İlaç, Türk ve İngiliz ortak yatırımıdır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "GB",
+    "updated_date": "2019-09-25"
+  },
+  {
+    "company": "Hukla",
+    "description": "Hukla, 1990 yılında Gerd J. Hemmerling tarafından kurulan POLIPOL Holding GmbH & Co. Kg bünyesindeki koltuk markasıdır. 2016 yılında HUKLA GmbH & Co. KG şirketi kurulmuştur.Ürün yelpazesi 300’den fazla model ve 150’den fazla televizyon koltuğu içermektedir.Almanya merkezli POLIPOL, Avrupa’nın önde gelen döşemeli mobilya üreticileri arasında yer alır ve ürünlerini Almanya’daki bir tesiste üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

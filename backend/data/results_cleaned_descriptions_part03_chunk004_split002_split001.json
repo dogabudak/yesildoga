@@ -1,0 +1,48 @@
+[
+  {
+    "company": "Berk Çay",
+    "description": "Berk Çay, BİM Birleşik Mağazalar A.Ş. adına muhtelif kuru çay üreticileri tarafından üretilen kuru çay markasıdır.Berk Çay markalı ürünler yerli ve ithal ham madde kullanılarak Türkiye’de üretilmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Alka Elephant",
+    "description": "Alka Elephant, 2015 yılında Alka Co. bünyesinde üretilen kraker markasıdır.Bisküvi, kek, kahve, gofret ve tuzlu aperatifler üretmektedir.Bir aile şirketi olarak 1994 yılında kurulan Alka Co. Romanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RO",
+    "updated_date": null
+  },
+  {
+    "company": "Finn Crisp",
+    "description": "Finn Crisp, 2001 yılında 25 bin çiftçi tarafından kurulan Lantmannen bünyesinde üretilen gıda ürünleri markasıdır.Yaz Olimpiyat oyunlarında Finn Crisp ince cips piyasaya sürülmüştür.Ürünlerini dünya çapında 40’ın üzerinde ülkeye pazarlamaktadır.Lantmannen İsveç merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "SE",
+    "updated_date": null
+  },
+  {
+    "company": "Tweezerman",
+    "description": "Tweezerman, 1980 yılında kurulan Tweezerman International, LLC bünyesindeki kaş, kirpik, tırnak ve cilt bakımı için güzellik araçları markasıdır.Cımbız, kirpik kıvırıcı, cilt bakım araçları, tırnak bakım ürünleri, ayna, güzellik alet setleri, erkek bakım araçları gibi ürün yelpazesine sahiptir.2004 yılında Almanya merkezli aile şirketi Wilh. Werhahn KG’nin sahibi olduğu Zwilling Beauty Group tarafından satın alındı.Zwilling Beauty Group ABD, Avrupa, Hindistan ve Çin’de üretim tesislerine sahiptir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": "2020-12-18"
+  },
+  {
+    "company": "Huda Beauty",
+    "description": "Huda Beauty, Iraklı göçmen Youtuber Huda Kattan tarafından 2010 yılında kuruldu.Ürün yelpazesinde ruj, aydınlatma ve kontur, yapay tırnaklar, endüstriyel kirpikler, yüz setleri, göz farı paletleri, sıvı rujlar, vurgulayıcı paletleri, kapatıcılar dahil olmak üzere diğer güzellik ürünleri, cilt bakımı ürünleri ve parfüm yer alıyor.Huda Beauty’nin ilk ürünü, Fransa merkezli Sephora tarafından 2011 yılında Dubai’de ve 2015 yılında ABD’de satılan yapay kirpik koleksiyonu oldu.BAE merkezli Huda Beauty, formülleri sözleşme esasına göre test etmek için laboratuvar kiralayıp Sephora ve Ulta gibi mağazalar aracılığıyla ürünlerini satabiliyor.Özel bir sermaye şirketi olan Amerika merkezli TSG Consumer Trading Partners’tan azınlık yatırımı almıştır.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "AE",
+    "updated_date": "2021-03-19"
+  }
+]

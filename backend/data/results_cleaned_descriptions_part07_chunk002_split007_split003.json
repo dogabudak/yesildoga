@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Sollich",
+    "description": "Sollich, 1950 yılında Robert Sollich tarafından kurulan Sollich KG bünyesindeki çikolata ve şekerleme endüstrisi için tam otomatik çikolata kaplama ekipmanları, temperleme makineleri, soğutma tünelleri, kalıp, ekstrüzyondan kesme sistemleri markasıdır.Sollich KG Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Radisson Blu",
+    "description": "Radisson Blu, 1998 yılında kurulan Radisson Hospitality Inc. bünyesindeki otel zinciri markasıdır.Şirket, iş seyahati yönetimi, konaklama odaları, yemek ve konaklama hizmetleri sunmaktadır.Radisson Hospitality Inc.’in çoğunluk hisseleri, 2019 yılında Çin hükümetine ait Jin Jiang International Holdings Co. Ltd. tarafından satın alındı.Bünyesindeki markalar;Country Inn & Suites by RadissonPark Inn by RadissonPark PlazaPrizeotelRadissonRadisson BluRadisson CollectionRadisson IndividualsRadisson RED",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Freken Bok",
+    "description": "Freken Bok, 1997 yılında kurulan Biosphere Corporation bünyesindeki ev ve hijyen ürünleri markasıdır.Biosphere Corporation Ukrayna merkezlidir. 3 ülkede 5 üretim tesisine sahiptir. Ürünlerini 30’dan fazla ülkeye pazarlamaktadır.Bünyesindeki markalar;BambikFreken BOKLikeItNovitaPRO serviceSmileSuperfreshVortex",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "UA",
+    "updated_date": null
+  },
+  {
+    "company": "Lunetherm",
+    "description": "Lunetherm, 2021 yılında kurulan Lunet Bilişim ve Dış Tic. Ltd. Şti. bünyesindeki termos ve kupalar markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bea Çakma Makinesi",
+    "description": "Bea, 1910 yılında kurulan Bea Gmbh bünyesinde üretilen endüstriyel sabitleme sistemleri, pnömatik zımba ve çivi çakma makineleri, bağlantı elemanları, endüstriyel otomasyon, mobilya, çerçeve yapımı, ambalaj endüstrisi, sıcakta eriyen yapıştırıcı teknolojisi, karton kapatma, vtt konektörü markasıdır.Bea Gmbh Almanya merkezlidir ve ürünlerini 40’tan fazla ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Golden Power",
+    "description": "Golden Power, 1972 yılında kurulan Golden Power Group Holdings Limited bünyesindeki Alkalin pil, Karbon pil, Alkalin düğme hücresi, Gümüş çinko pil, Lityum pil, Çinko-hava pili, Şarj edilebilir pil ve Şarj cihazı markasıdır.Golden Power Group Holdings Limited, 2000 yılında Hong Kong merkezli yatırım şirketi Hikari Tsushin, Inc. tarafından satın alındı.",
+    "documents": [],
+    "parent": null,
+    "origin": "HK",
+    "updated_date": null
+  },
+  {
+    "company": "Lanner",
+    "description": "Lanner, 1986 yılında kurulan Lanner Electronics, Inc. bünyesindeki; Endüstriyel bilgisayarlar, Gömülü sistemler, Tek kart bilgisayarlar, Anakart, Ağ cihazı ve Araç bilgisayarları markasıdır.Lanner Electronics Tayvan merkezli bir şirkettir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  },
+  {
+    "company": "Faberlic",
+    "description": "Faberlic, 1997 yılında Aleksey Nechaev tarafından kurulan; cilt ve saç bakımı, parfüm, kozmetik, ev ve sağlık ürünleri, giyim ve çorap ürünleri markasıdır.Eşsiz patentli oksijen kozmetik üreticisidir.Faberlic Rusya merkezli bir şirkettir. Dünyanın 24 ülkesinde temsilciliği bulunmaktadır ve 42 ülkeye ürün satabilmektedir.Rusya’nın en temiz ve güvenilir üretici şirketleri arasındadır ve en büyük Rus kozmetik şirketlerinden biridir.",
+    "documents": [],
+    "parent": null,
+    "origin": "RU",
+    "updated_date": null
+  },
+  {
+    "company": "Bounty",
+    "description": "Bounty, 1951 yılında Mars Incorporated tarafından ilk kez üretilen Hindistan cevizli çikolata markasıdır.Mars Incorporated; çikolata, sakız ve şeker ürünleri ile tanınan Amerikan merkezli çok uluslu şirkettir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Hotels.com",
+    "description": "Hotels.com1991 yılında kurulmuş olan Hotels.com L.P. bünyesindeki otel konaklama için çevrimiçi ve telefonla rezervasyon sağlayan bir web sitesi markasıdır.Hotels.com L.P. 2001 yılında Amerika merkezli Expedia Group Inc.’in bir parçası olmuştur.Hissedarları:Liberty Expedia Holdings Inc. (yüzde 22,1)Liberty Media Corp. (yüzde 19,2)Vanguard Group Inc. (yüzde 11,4)Qurate Retail Inc. (yüzde 7,3)Blackrock Inc. (yüzde 7,2)State Street Corp. (yüzde 4,1)Jpmorgan Chase Co. (yüzde 3,6)Invesco Ltd. (yüzde 2,9)Artisan Partners Limited Partnership (yüzde 2,9)Valueact Holdings LP (yüzde 2,5)Geode Capital Management LLC (yüzde 2,3)Par Capital Management Inc. (yüzde 2,1)Arrowstreet Capital Limited Partnership (yüzde 1,8)Boston Partners (yüzde 1,7)Fil Ltd. (yüzde 1,4)Pacer Advisors Inc. (yüzde 1,4)Lyrical Asset Management LP (yüzde 1,3)Morgan Stanley (yüzde 1,2)Fisher Asset Management LLC (yüzde 1,1)Nuveen Asset Management LLC (yüzde 1,1)Fmr LLC (yüzde 1)Ameriprise Financial Inc. (yüzde 1)Northern Trust Corp. (yüzde 1)Bank Of New York Mellon Corp. (yüzde 0,98)Whale Rock Capital Management LLC (yüzde 0,90)",
+    "documents": [
+      "CE",
+      "ISO"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": "2024-05-30"
+  }
+]

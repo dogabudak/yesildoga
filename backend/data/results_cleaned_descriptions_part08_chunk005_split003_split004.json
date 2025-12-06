@@ -1,0 +1,46 @@
+[
+  {
+    "company": "Jasön",
+    "description": "Jasön, 1959 yılında LVMH Grubundan Sephora bünyesinde üretilmiş olan yüz, vücut, saç, diş ve diş etleri için uygun saf ve doğal ürünler markasıdır.Ürünleri vazelin, SLS, paraben, ftalatlar içermez. Formüllerini hayvanlar üzerinde test etmemektedir.LVMH holding Fransa merkezlidir. Şirketin, yüzde 41,5 hissesi Christian Dior’a, yüzde 6,7’si Arnault Ailesine aittir.",
+    "documents": [],
+    "parent": null,
+    "origin": "FR",
+    "updated_date": null
+  },
+  {
+    "company": "İnci Nişasta",
+    "description": "İnci Nişasta Nerenin Malı Markasıİnci, 1975 yılında kurulmuş olan Emin Gıda Pazarlama San. ve Tic. Ltd. Şti. bünyesinde üretilen baharat çeşitleri, soslar, harçlar, hamur içi tatlı yardımcı malzemeleri markasıdır.ISO 9001, ISO 22000 belgelerine sahiptir.Firma İstanbul merkezlidir. Ürünlerini 4 bin metrekarelik fabrikasında üretmektedir.Bünyesindeki markalar;Greppeİnci",
+    "documents": [
+      "ISO",
+      "ISO 22000",
+      "ISO 9001"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "First Response",
+    "description": "First Response, 1846 yılında John Dwight tarafından kurulmuş olan Church & Dwight Co. Inc. bünyesindeki hamilelik testi ve doğurganlık ürünü markasıdır.Hamilelik testleri, yumurtlama tahmin kitleri ve doğurganlık dostu yağlayıcıları içerir.Church & Dwight Co. Inc. Amerika merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Güney Süt",
+    "description": "Güney Süt Nerenin Malı MarkasıGüney Süt, 1980 yılında kurulmuş olan Güney Süt Sanayi ve Gıda Maddeleri Tic. A.Ş. bünyesinde üretilen ayran, beyaz peynir, eritme peynir, kaşar peynir, tost peyniri, meyve suyu, süt, tereyağı, kaymak, yöresel peynirler, yoğurt, süzme yoğurt markasıdır.Firma Mersin merkezlidir. Ürünlerini birçok ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Okuma Fishing",
+    "description": "Okuma Fishing, 1986 yılındak urulmuş olan Okuma Fishing Tackle Co. Ltd. bünyesinde üretilen olta kamış ve makine markasıdır.Fly, float, spin gibi kamış modellerinde ve baitcast, trolling, fly gibi makine modellerini sunmaktadır.Okuma Fishing Tackle Co. Ltd. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "company": "Absina",
+    "description": "Absina2013 yılında kurulmuş olan Absina Gmbh bünyesindeki elektrikli otomobil ve hibrit için tip 2 şarj kablosu, duvar kutusu ve mobil şarj istasyonu markasıdır.Absina Gmbh Almanya merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  },
+  {
+    "company": "Astrap",
+    "description": "Astrap1984 yılında kurulmuş olan As İlaç San. Tic. Ltd. Şti. bünyesinde üretilen fare yapışkanı markasıdır.Firma İstanbul merkezlidir. Ürünlerini 13 bin metrekare açık ve 3 bin metrekare kapalı alana sahip tesislerinde üretmektedir ve 10’dan fazla ülkeye ihraç etmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Dpofirs",
+    "description": "Dpofirs2011 yılında kurulmuş olan Shenzhen Yi Bai Network Technology Co. Ltd. bünyesinde üretilen uydu bulucu, kablosuz ürünler markasıdır.Shenzhen Yi Bai Network Technology Co. Ltd. Çin merkezlidir ve ürünlerini Çin’de üretmektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "CN",
+    "updated_date": null
+  },
+  {
+    "company": "Snapple",
+    "description": "Snapple1981 yılında kurulmuş olan Keurig Dr Pepper Inc. bünyesinde üretilen buzlu çay, meyve suyu içeceği, limonata, su markasıdır.Keurig Dr Pepper Inc. Amerika merkezlidir.",
+    "documents": [
+      "CE"
+    ],
+    "parent": null,
+    "origin": "US",
+    "updated_date": null
+  },
+  {
+    "company": "Vakoss",
+    "description": "Vakoss1990 yılında kurulmuş olan Handsfull Technology Corp. bünyesindeki medya depolama ürünleri, fare, klavye kulaklık ve mikrofon, dizüstü bilgisayar çantaları ve diğer aksesuarlar markasıdır.Handsfull Technology Corp. Tayvan merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TW",
+    "updated_date": null
+  }
+]

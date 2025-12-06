@@ -1,0 +1,45 @@
+[
+  {
+    "company": "Hepsiemlak",
+    "description": "“Hepsiemlak“2006 yılında Doğan Şirketler Grubu Holding A.Ş.’nin dolaylı bağlı ortaklığı olan Glokal Dijital Hizmetler Paz. ve Tic. A.Ş. bünyesindeki gayrimenkul özelinde alım, satım, kiralama ve reklam platformu markasıdır.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Demdem",
+    "description": "“Demdem“2017 yılında kurulmuş olan Demfood Gıda Reklam Tekstil İt. İhr. San. İç ve Dış Tic. Ltd. Şti. bünyesindeki ceylon çay, kolonya, limonata, siyah çay, soğuk çay, soğuk yeşil çay markasıdır.IFS ve Helal belgelerine sahiptir.Firma Tekirdağ merkezlidir.Bünyesindeki markalar;BirsohbetDemdemYöremZeliva",
+    "documents": [
+      "CE",
+      "IFS"
+    ],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Jojobebek",
+    "description": "“Jojobebek“Jojo Mağazacılık A.Ş. bünyesindeki çatal ve kaşık, alıştırma bardakları, beslenme setleri, mama önlüğü, mama kasesi, mama tabağı, termos markasıdır.Silikon ürünleri plastik, Lateks, BPA, PVC içermez.Firma İstanbul merkezlidir.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Bestfood",
+    "description": "“Bestfood“2015 yılında kurulmuş olan Best Food Dış Tic. Ltd. Şti. bünyesinde üretilen bisküvi, çikolata, kek, kraker, çikolata bar, gofret ve kremalı çikolata markasıdır.Firma İstanbul merkezlidir. Ürünlerini Karaman’da bulunan fabrikasında üretmektedir ve 80 ülkeye pazarlamaktadır.",
+    "documents": [],
+    "parent": null,
+    "origin": "TR",
+    "updated_date": null
+  },
+  {
+    "company": "Optibelt",
+    "description": "“Optibelt“1872 yılında kurulmuş olan Optibelt Gmbh bünyesinde üretilen V Kayışı, Triger Kayışı ve Tahrik Kayışı markasıdır.Teknolojik açıdan gelişmiş tahrik kayışları üreticilerinden biridir.Optibelt Gmbh Almanya merkezlidir. 6 ülkede 8 üretim tesisine sahiptir ve ürünlerini 30 ülkeye pazarlamaktadır. Türkiye’de Optibelt Güç Aktarma Ekipmanları San. ve Tic. Ltd. Şti. olarak faaliyet göstermektedir.",
+    "documents": [],
+    "parent": null,
+    "origin": "DE",
+    "updated_date": null
+  }
+]
