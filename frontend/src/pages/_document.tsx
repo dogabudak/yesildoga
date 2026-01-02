@@ -19,13 +19,10 @@ export default class NextDocument extends Document {
 
       return {
         ...initialProps,
-        // @ts-ignore
-        styles: (
-          <>
-            {initialProps.styles}
-            {sheet.getStyleElement()}
-          </>
-        ),
+        styles: [
+          ...(Array.isArray(initialProps.styles) ? initialProps.styles : [initialProps.styles]),
+          sheet.getStyleElement(),
+        ],
       };
     } finally {
       sheet.seal();

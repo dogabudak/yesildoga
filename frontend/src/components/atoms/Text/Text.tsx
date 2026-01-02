@@ -22,7 +22,6 @@ export function Text({
   className,
 }: TextProps): JSX.Element {
   return (
-    // @ts-ignore
     <S.Text textStyle={style} textWeight={weight} className={className}>
       {children}
     </S.Text>
