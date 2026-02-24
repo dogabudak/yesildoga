@@ -3,7 +3,7 @@ from django.db.models import Count
 from django.utils.html import format_html
 from django.urls import reverse
 from django.utils.safestring import mark_safe
-from .models import Company, DataVersion, CompanyAlternative
+from .models import Company, DataVersion, CompanyAlternative, CompanyRequest
 
 
 class CompanyAlternativeInline(admin.TabularInline):
@@ -329,6 +329,140 @@ class DataVersionAdmin(admin.ModelAdmin):
         if DataVersion.objects.count() >= 5:  # Allow up to 5 versions
             return False
         return super().has_add_permission(request)
+
+
+@admin.register(CompanyRequest)
+class CompanyRequestAdmin(admin.ModelAdmin):
+    """
+    Django admin interface for CompanyRequest model.
+    Manages domain requests for companies not in the database.
+    """
+
+    list_display = [
+        'domain',
+        'request_count_badge',
+        'status_badge',
+        'last_requested_at',
+        'created_at',
+        'linked_company',
+    ]
+
+    list_filter = [
+        'status',
+        'created_at',
+        'last_requested_at',
+    ]
+
+    search_fields = [
+        'domain',
+        'admin_notes',
+    ]
+
+    readonly_fields = [
+        'domain',
+        'request_count',
+        'created_at',
+        'updated_at',
+        'last_requested_at',
+        'created_company',
+    ]
+
+    fieldsets = (
+        ('Request Information', {
+            'fields': ('domain', 'request_count', 'status')
+        }),
+        ('Resolution', {
+            'fields': ('created_company', 'admin_notes'),
+            'description': 'If approved, link to the created company'
+        }),
+        ('Timestamps', {
+            'fields': ('last_requested_at', 'created_at', 'updated_at'),
+            'classes': ('collapse',)
+        }),
+    )
+
+    ordering = ['-request_count', '-last_requested_at']
+
+    actions = ['reject_requests', 'reset_to_pending']
+
+    def request_count_badge(self, obj):
+        """Display request count with color coding based on volume."""
+        count = obj.request_count
+        if count >= 100:
+            color = 'red'
+            weight = 'bold'
+        elif count >= 50:
+            color = 'orange'
+            weight = 'bold'
+        elif count >= 10:
+            color = 'blue'
+            weight = 'normal'
+        else:
+            color = 'gray'
+            weight = 'normal'
+
+        return format_html(
+            '<span style="color: {}; font-weight: {};">{}</span>',
+            color, weight, count
+        )
+    request_count_badge.short_description = 'Requests'
+    request_count_badge.admin_order_field = 'request_count'
+
+    def status_badge(self, obj):
+        """Display status as a colored badge."""
+        colors = {
+            'pending': ('orange', 'Pending'),
+            'approved': ('green', 'Approved'),
+            'rejected': ('red', 'Rejected'),
+        }
+        color, label = colors.get(obj.status, ('gray', obj.status))
+
+        return format_html(
+            '<span style="color: {}; font-weight: bold;">{}</span>',
+            color, label
+        )
+    status_badge.short_description = 'Status'
+    status_badge.admin_order_field = 'status'
+
+    def linked_company(self, obj):
+        """Show link to the created company if approved."""
+        if obj.created_company:
+            url = reverse('admin:companies_company_change', args=[obj.created_company.pk])
+            return format_html(
+                '<a href="{}">{}</a>',
+                url, obj.created_company.company
+            )
+        return '-'
+    linked_company.short_description = 'Created Company'
+
+    def reject_requests(self, request, queryset):
+        """Admin action to reject selected requests."""
+        updated = queryset.filter(status='pending').update(status='rejected')
+        self.message_user(
+            request,
+            '{} request(s) marked as rejected.'.format(updated)
+        )
+    reject_requests.short_description = 'Reject selected requests'
+
+    def reset_to_pending(self, request, queryset):
+        """Admin action to reset status to pending."""
+        updated = queryset.exclude(status='pending').update(
+            status='pending',
+            created_company=None
+        )
+        self.message_user(
+            request,
+            '{} request(s) reset to pending.'.format(updated)
+        )
+    reset_to_pending.short_description = 'Reset selected to pending'
+
+    def get_queryset(self, request):
+        """Optimize queryset with select_related."""
+        return super().get_queryset(request).select_related('created_company')
+
+    def has_add_permission(self, request):
+        """Disable manual creation - requests come from API only."""
+        return False
 
 
 # Custom admin site configuration

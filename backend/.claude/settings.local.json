@@ -11,7 +11,8 @@
       "Bash(ls:*)",
       "Bash(source:*)",
       "Bash(mkdir:*)",
-      "Bash(pip install:*)"
+      "Bash(pip install:*)",
+      "Bash(DJANGO_SETTINGS_MODULE=sustainability_api.settings python:*)"
     ],
     "deny": []
   }

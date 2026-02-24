@@ -9,7 +9,7 @@ from rest_framework.decorators import api_view
 from rest_framework.response import Response
 from rest_framework.pagination import LimitOffsetPagination
 
-from .models import Company, DataVersion
+from .models import Company, DataVersion, CompanyRequest
 from .serializers import (
     CompanySerializer, 
     CompanyListSerializer, 
@@ -98,17 +98,20 @@ class CompanyByDomainView(generics.RetrieveAPIView):
         """
         Get company by domain with flexible matching logic.
         Mimics the Node.js backend domain matching.
+        Records the request if company is not found.
         """
         domain = self.kwargs.get('domain', '').strip()
-        
+
         if not domain:
             raise Http404("Domain parameter is required")
-            
+
         company = Company.find_by_domain(domain)
-        
+
         if not company:
+            # Record this request for tracking purposes
+            CompanyRequest.record_request(domain)
             raise Http404(f"Company not found for domain: {domain}")
-            
+
         return company
 
 

@@ -274,6 +274,125 @@ class CompanyAlternative(models.Model):
         from django.core.exceptions import ValidationError
         if self.to_company and not self.to_company.carbon_neutral:
             raise ValidationError("Alternative company must be carbon neutral")
-        
+
         if self.from_company and self.to_company and self.from_company == self.to_company:
             raise ValidationError("Company cannot be an alternative to itself")
+
+
+class CompanyRequest(models.Model):
+    """
+    Track domain lookup requests for companies not in the database.
+    Helps prioritize which companies to add based on request frequency.
+    """
+
+    class Status(models.TextChoices):
+        PENDING = 'pending', 'Pending'
+        APPROVED = 'approved', 'Approved'
+        REJECTED = 'rejected', 'Rejected'
+
+    domain = models.CharField(
+        max_length=255,
+        unique=True,
+        db_index=True,
+        help_text="The domain that was searched but not found"
+    )
+    request_count = models.PositiveIntegerField(
+        default=1,
+        help_text="Number of times this domain has been requested"
+    )
+    status = models.CharField(
+        max_length=20,
+        choices=Status.choices,
+        default=Status.PENDING,
+        db_index=True,
+        help_text="Current status of the request"
+    )
+    created_company = models.ForeignKey(
+        Company,
+        on_delete=models.SET_NULL,
+        null=True,
+        blank=True,
+        related_name='company_requests',
+        help_text="The company created from this request (if approved)"
+    )
+    admin_notes = models.TextField(
+        blank=True,
+        help_text="Optional notes from admin about this request"
+    )
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
+    last_requested_at = models.DateTimeField(
+        auto_now_add=True,
+        help_text="When this domain was last requested"
+    )
+
+    class Meta:
+        verbose_name = "Company Request"
+        verbose_name_plural = "Company Requests"
+        ordering = ['-request_count', '-last_requested_at']
+        indexes = [
+            models.Index(fields=['domain']),
+            models.Index(fields=['status']),
+            models.Index(fields=['request_count']),
+            models.Index(fields=['-last_requested_at']),
+        ]
+
+    def __str__(self):
+        return f"{self.domain} ({self.request_count} requests) - {self.status}"
+
+    @classmethod
+    def record_request(cls, domain):
+        """
+        Record a request for a domain. Creates new record or increments count.
+        Returns the CompanyRequest instance.
+        """
+        # Normalize domain
+        normalized_domain = domain.lower()
+        if normalized_domain.startswith('www.'):
+            normalized_domain = normalized_domain[4:]
+
+        # Use get_or_create with update on existing
+        request, created = cls.objects.get_or_create(
+            domain=normalized_domain,
+            defaults={
+                'request_count': 1,
+                'status': cls.Status.PENDING,
+            }
+        )
+
+        if not created:
+            # Increment count and update timestamp
+            request.request_count += 1
+            request.last_requested_at = timezone.now()
+            request.save(update_fields=['request_count', 'last_requested_at', 'updated_at'])
+
+        return request
+
+    def approve_and_create_company(self, company_name, **kwargs):
+        """
+        Approve this request and create a Company from it.
+        kwargs can include: carbon_neutral, sector, headquarters, origin, etc.
+        """
+        if self.status == self.Status.APPROVED:
+            raise ValueError("Request already approved")
+
+        # Create the company
+        company = Company.objects.create(
+            domains=[self.domain],
+            company=company_name,
+            **kwargs
+        )
+
+        # Update request status
+        self.status = self.Status.APPROVED
+        self.created_company = company
+        self.save(update_fields=['status', 'created_company', 'updated_at'])
+
+        return company
+
+    def reject(self, notes=''):
+        """Reject this request with optional notes."""
+        self.status = self.Status.REJECTED
+        if notes:
+            self.admin_notes = notes
+        self.save(update_fields=['status', 'admin_notes', 'updated_at'])
