@@ -12,7 +12,9 @@
       "Bash(source:*)",
       "Bash(mkdir:*)",
       "Bash(pip install:*)",
-      "Bash(DJANGO_SETTINGS_MODULE=sustainability_api.settings python:*)"
+      "Bash(DJANGO_SETTINGS_MODULE=sustainability_api.settings python:*)",
+      "Bash(lsof:*)",
+      "Bash(xargs kill -9)"
     ],
     "deny": []
   }

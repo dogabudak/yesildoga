@@ -65,7 +65,26 @@ class Company(models.Model):
         blank=True,
         help_text="Description of the company in multiple languages (e.g., {'en': 'description', 'tr': 'açıklama'})"
     )
-    
+
+    # Certification and compliance documents
+    documents = models.JSONField(
+        default=list,
+        blank=True,
+        help_text="List of certifications/documents (e.g., ['CE', 'ISO', 'ISO 22000'])"
+    )
+
+    # Data tracking dates
+    data_updated_date = models.DateField(
+        null=True,
+        blank=True,
+        help_text="When the company data was last updated in source"
+    )
+    data_processed_date = models.DateField(
+        null=True,
+        blank=True,
+        help_text="When the company data was processed/imported"
+    )
+
     is_approved = models.BooleanField(
         default=False,
         db_index=True,

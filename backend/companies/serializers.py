@@ -58,13 +58,16 @@ class CompanySerializer(serializers.ModelSerializer):
         fields = [
             'domain',
             'domains',
-            'company', 
+            'company',
             'carbon_neutral',
             'renewable_share_percent',
             'parent',
             'headquarters',
             'origin',
             'sector',
+            'description',
+            'documents',
+            'data_updated_date',
             'carbon_neutral_alternatives',
             'created_at',
             'updated_at'

@@ -5,6 +5,7 @@ Usage: python manage.py seed_companies [--file path/to/data.json] [--clear]
 
 import json
 import os
+from datetime import datetime
 from django.core.management.base import BaseCommand, CommandError
 from django.db import transaction
 from companies.models import Company, DataVersion
@@ -140,10 +141,36 @@ class Command(BaseCommand):
                         # If no domains, use company name for uniqueness check
                         existing_company = Company.objects.filter(company__iexact=company_name, domains=[]).first()
                     
-                    # Prepare description as JSON
-                    description_text = company_data.get('description', '')
-                    description_json = {'en': description_text} if description_text else None
-                    
+                    # Prepare description - can be a dict with language keys or a string
+                    description_data = company_data.get('description')
+                    if isinstance(description_data, dict):
+                        description_json = description_data
+                    elif isinstance(description_data, str) and description_data:
+                        description_json = {'en': description_data}
+                    else:
+                        description_json = None
+
+                    # Prepare documents list
+                    documents_data = company_data.get('documents', [])
+                    if not isinstance(documents_data, list):
+                        documents_data = []
+
+                    # Parse dates
+                    updated_date = None
+                    processed_date = None
+
+                    if company_data.get('updated_date'):
+                        try:
+                            updated_date = datetime.strptime(company_data['updated_date'], '%Y-%m-%d').date()
+                        except (ValueError, TypeError):
+                            pass
+
+                    if company_data.get('processed_date'):
+                        try:
+                            processed_date = datetime.strptime(company_data['processed_date'], '%Y-%m-%d').date()
+                        except (ValueError, TypeError):
+                            pass
+
                     if existing_company:
                         if update_existing:
                             # Update existing company
@@ -155,7 +182,10 @@ class Command(BaseCommand):
                             existing_company.origin = company_data.get('origin')
                             existing_company.sector = company_data.get('sector')
                             existing_company.description = description_json
-                            existing_company.is_approved = company_data.get('is_approved', False) # Set default to False if not present
+                            existing_company.documents = documents_data
+                            existing_company.data_updated_date = updated_date
+                            existing_company.data_processed_date = processed_date
+                            existing_company.is_approved = company_data.get('is_approved', False)
                             existing_company.save()
                             updated_count += 1
                         else:
@@ -179,7 +209,10 @@ class Command(BaseCommand):
                         origin=company_data.get('origin'),
                         sector=company_data.get('sector'),
                         description=description_json,
-                        is_approved=company_data.get('is_approved', False) # Set default to False if not present
+                        documents=documents_data,
+                        data_updated_date=updated_date,
+                        data_processed_date=processed_date,
+                        is_approved=company_data.get('is_approved', False)
                     )
                     companies_to_create.append(company)
                     

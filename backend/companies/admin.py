@@ -40,21 +40,23 @@ class CompanyAdmin(admin.ModelAdmin):
     
     list_display = [
         'company',
-        'domains_display', 
+        'domains_display',
         'carbon_neutral_badge',
         'renewable_percentage',
-        'parent',
-        'sector',
-        'headquarters',
+        'certifications_display',
+        'has_description',
         'origin',
+        'is_approved',
         'updated_at'
     ]
     
     list_filter = [
         'carbon_neutral',
+        'is_approved',
         'sector',
         'origin',
         ('renewable_share_percent', admin.EmptyFieldListFilter),
+        ('description', admin.EmptyFieldListFilter),
         'created_at',
         'updated_at'
     ]
@@ -83,7 +85,13 @@ class CompanyAdmin(admin.ModelAdmin):
         }),
         ('Corporate Details', {
             'fields': ('headquarters', 'origin', 'sector'),
-            'classes': ('collapse',)
+        }),
+        ('Description & Certifications', {
+            'fields': ('description', 'documents'),
+            'description': 'Company description in multiple languages and certifications'
+        }),
+        ('Data Tracking', {
+            'fields': ('data_updated_date', 'data_processed_date', 'is_approved'),
         }),
         ('Metadata', {
             'fields': ('created_at', 'updated_at', 'get_normalized_domains_display'),
@@ -136,6 +144,34 @@ class CompanyAdmin(admin.ModelAdmin):
         normalized = obj.get_normalized_domains()
         return ', '.join(normalized) if normalized else 'No domains'
     get_normalized_domains_display.short_description = 'Normalized Domains'
+
+    def certifications_display(self, obj):
+        """Display certifications as badges."""
+        if not obj.documents:
+            return format_html('<span style="color: gray;">-</span>')
+        badges = []
+        for doc in obj.documents[:3]:  # Show max 3
+            badges.append(format_html(
+                '<span style="background: #e3f2fd; color: #1565c0; padding: 2px 6px; border-radius: 3px; font-size: 10px; margin-right: 2px;">{}</span>',
+                doc
+            ))
+        result = mark_safe(''.join(badges))
+        if len(obj.documents) > 3:
+            result = mark_safe(result + format_html('<span style="color: gray;"> +{}</span>', len(obj.documents) - 3))
+        return result
+    certifications_display.short_description = 'Certifications'
+
+    def has_description(self, obj):
+        """Show if company has description."""
+        if obj.description and isinstance(obj.description, dict) and len(obj.description) > 0:
+            langs = list(obj.description.keys())
+            return format_html(
+                '<span style="color: green;" title="{}">✓ {}</span>',
+                ', '.join(langs),
+                '/'.join(langs[:3]).upper()
+            )
+        return format_html('<span style="color: gray;">-</span>')
+    has_description.short_description = 'Description'
     
     def mark_carbon_neutral(self, request, queryset):
         """Admin action to mark companies as carbon neutral."""
