@@ -10,15 +10,8 @@ exports[`Anchor 1`] = `
   transition: border-bottom 200ms ease;
 }
 
-@media (hover:hover) {
-  .c0:hover {
-    border-bottom: #F7B628 2px solid;
-  }
-}
-
 <a
   class="c0"
-  href="/test"
 >
   Anchor
 </a>

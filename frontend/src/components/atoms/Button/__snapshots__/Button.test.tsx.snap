@@ -8,7 +8,7 @@ exports[`Button 1`] = `
 }
 
 .c0 {
-  background-color: #0B4256;
+  background-color: #0C9346;
   border: none;
   border-radius: 8px;
   color: white;
@@ -16,13 +16,6 @@ exports[`Button 1`] = `
   padding: 10px 28px;
   -webkit-transition: background-color 0.1s ease-in-out;
   transition: background-color 0.1s ease-in-out;
-}
-
-@media (hover:hover) {
-  .c0:hover {
-    background-color: #0e546d;
-    cursor: pointer;
-  }
 }
 
 @media (max-width:1223px) {
@@ -52,8 +45,8 @@ exports[`Button 2`] = `
 @@ -1,8 +1,8 @@
   <DocumentFragment>
     <button
--     class=\\"sc-gtsrHT eIuphD\\"
-+     class=\\"sc-gtsrHT hhjUsd\\"
+-     class=\\"sc-gtsrHT eJbcBq\\"
++     class=\\"sc-gtsrHT ekLdiM\\"
       data-testid=\\"button\\"
       type=\\"button\\"
     >

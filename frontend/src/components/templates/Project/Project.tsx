@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { SearchBar } from '@molecules/SearchBar/SearchBar';
 import {AgricultureProject} from './Agriculture';
 import {SeaProject} from './Seas';
 import {ForestProject} from './Forest';
@@ -32,7 +31,6 @@ export const ProjectTab: React.FC<ProjectTabProps> = ({ projectName, goalId }) =
 
     return (
         <div>
-            <SearchBar goalId={goalId} />
             <DiscoverButton onClick={toggleProjectVisibility}>
                 {isProjectVisible ? 'Hide Project' : 'Show Project Details'}
             </DiscoverButton>

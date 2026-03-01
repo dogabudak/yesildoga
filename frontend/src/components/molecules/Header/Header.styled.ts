@@ -6,7 +6,7 @@ export const HeaderContainer = styled.div<HTMLAttributes<HTMLDivElement>>`
   align-items: center;
   background-color: white;
   display: flex;
-  flex-wrap: wrap;
+  justify-content: space-between;
   padding: 16px 48px;
 
   ${untilTablet(css`
@@ -22,4 +22,12 @@ export const HamburgerContainer = styled.div<HTMLAttributes<HTMLDivElement>>`
   ${untilTablet(css`
     display: flex;
   `)}
+`;
+
+export const Title = styled.h1`
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+  padding: 0;
 `;

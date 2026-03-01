@@ -3,6 +3,7 @@ module.exports = {
     '^.+\\.tsx?$': 'ts-jest',
   },
   moduleNameMapper: {
+    'src/(.*)': '<rootDir>/src/$1',
     '@atoms/(.*)': '<rootDir>/src/components/atoms/$1',
     '@helpers/(.*)': '<rootDir>/src/helpers/$1',
     '@molecules/(.*)': '<rootDir>/src/components/molecules/$1',

@@ -5,7 +5,7 @@ exports[`Header 1`] = `
 - First value
 + Second value
 
-@@ -22,22 +22,22 @@
+@@ -55,17 +55,17 @@
           role=\\"button\\"
           style=\\"cursor: pointer; height: 48px; position: relative; transition: 0.4s cubic-bezier(0, 0, 0, 1); user-select: none; width: 48px; outline: none;\\"
           tabindex=\\"0\\"
@@ -24,26 +24,11 @@ exports[`Header 1`] = `
           />
         </div>
       </div>
-      <div
--       class=\\"sc-dlnjwi cEonZN\\"
-+       class=\\"sc-dlnjwi gUNUNS\\"
-      >
-        <div
-          class=\\"sc-jSFjdj dkKVhc\\"
-        >
-          <a"
+    </div>
+  </DocumentFragment>"
 `;
 
 exports[`Header: closed 1`] = `
-.c6 {
-  border-bottom: transparent 0.125em solid;
-  font-family: 'PT Sans',sans-serif;
-  font-weight: 400;
-  padding: 2px;
-  -webkit-transition: border-bottom 200ms ease;
-  transition: border-bottom 200ms ease;
-}
-
 .c0 {
   -webkit-align-items: center;
   -webkit-box-align: center;
@@ -54,47 +39,14 @@ exports[`Header: closed 1`] = `
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  padding: 16px 48px;
-}
-
-.c4 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
-  align-items: center;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
-  position: relative;
+  padding: 16px 48px;
 }
 
-.c1 {
-  margin-right: auto;
-}
-
-.c2 {
-  height: 48px;
-}
-
-.c5 {
-  cursor: pointer;
-  padding: 8px 16px;
-  text-align: center;
-  -webkit-text-decoration: none;
-  text-decoration: none;
-  -webkit-transition: all 0.3s ease-in-out;
-  transition: all 0.3s ease-in-out;
-}
-
-.c3 {
+.c6 {
   display: none;
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
@@ -102,10 +54,44 @@ exports[`Header: closed 1`] = `
   margin-right: 16px;
 }
 
-@media (hover:hover) {
-  .c6:hover {
-    border-bottom: #F7B628 2px solid;
-  }
+.c1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+.c2 {
+  margin-left: auto;
+}
+
+.c3 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.c4 {
+  margin-left: 2rem;
+}
+
+.c5 {
+  color: #333;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  font-size: 1.2rem;
+  font-weight: bold;
+  -webkit-transition: color 0.2s ease-in-out;
+  transition: color 0.2s ease-in-out;
+}
+
+.c5:hover {
+  color: #0c9346;
 }
 
 @media (max-width:1223px) {
@@ -115,20 +101,7 @@ exports[`Header: closed 1`] = `
 }
 
 @media (max-width:1223px) {
-  .c4 {
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    max-height: 0;
-    overflow: hidden;
-    -webkit-transition: max-height 0.3s ease-in;
-    transition: max-height 0.3s ease-in;
-    width: 100%;
-  }
-}
-
-@media (max-width:1223px) {
-  .c3 {
+  .c6 {
     display: -webkit-box;
     display: -webkit-flex;
     display: -ms-flexbox;
@@ -136,17 +109,61 @@ exports[`Header: closed 1`] = `
   }
 }
 
+@media (max-width:1223px) {
+  .c2 {
+    display: none;
+  }
+}
+
 <div
   class="c0"
   data-testid="header"
 >
-  <a
+  <h1
     class="c1"
-    href="/"
   >
-  </a>
+    Yesildoga
+  </h1>
+  <nav
+    class="c2"
+  >
+    <ul
+      class="c3"
+    >
+      <li
+        class="c4"
+      >
+        <a
+          class="c5"
+          href="#"
+        >
+          Home
+        </a>
+      </li>
+      <li
+        class="c4"
+      >
+        <a
+          class="c5"
+          href="#"
+        >
+          About
+        </a>
+      </li>
+      <li
+        class="c4"
+      >
+        <a
+          class="c5"
+          href="#"
+        >
+          Contact
+        </a>
+      </li>
+    </ul>
+  </nav>
   <div
-    class="c3"
+    class="c6"
     data-testid="header-hamburger"
   >
     <div
@@ -164,24 +181,6 @@ exports[`Header: closed 1`] = `
       <div
         style="background: currentColor; height: 2px; left: 12px; position: absolute; width: 24px; top: 30px; transition: 0.4s cubic-bezier(0, 0, 0, 1); transform: none;"
       />
-    </div>
-  </div>
-  <div
-    class="c4"
-  >
-    <div
-      class="c5"
-    >
-    </div>
-    <div
-      class="c5"
-    >
-      <a
-        class="c6"
-        href="/#imprint"
-      >
-        Impressum
-      </a>
     </div>
   </div>
 </div>

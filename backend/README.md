@@ -51,7 +51,7 @@ python manage.py seed_companies --directory ../data/chunked --clear
 ### 3. Run Development Server
 
 ```bash
-python manage.py runserver_plus --cert-file /tmp/cert.crt 0.0.0.0:8082
+python manage.py runserver
 ```
 
 The API will be available at `http://localhost:8082`
