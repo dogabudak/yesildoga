@@ -24,7 +24,7 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    background: #dcdcdc;
+    background: #f7f7f7;
   }
 
   .react-tabs {
@@ -32,30 +32,38 @@ export const GlobalStyles = createGlobalStyle`
   }
 
   .react-tabs__tab-list {
-    border-bottom: 2px solid #eee;
-    margin: 0;
-    padding: 0;
+    background: #fff;
+    border-bottom: 1px solid #e5e5e5;
     display: flex;
+    gap: 4px;
     justify-content: center;
+    margin: 0;
+    padding: 0 16px;
   }
 
   .react-tabs__tab {
-    display: inline-block;
     border: none;
-    border-bottom: 2px solid transparent;
-    bottom: -2px;
-    position: relative;
-    list-style: none;
-    padding: 12px 24px;
+    border-bottom: 3px solid transparent;
+    bottom: -1px;
+    color: #888;
     cursor: pointer;
-    font-size: 1.2rem;
-    font-weight: bold;
+    display: inline-block;
+    font-size: 0.95rem;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+    list-style: none;
+    padding: 14px 20px;
+    position: relative;
+    text-transform: uppercase;
+    transition: color 0.2s ease, border-color 0.2s ease;
+  }
+
+  .react-tabs__tab:hover {
     color: #555;
-    transition: all 0.2s ease-in-out;
   }
 
   .react-tabs__tab--selected {
-    border-bottom: 2px solid #0c9346;
+    border-bottom-color: #0c9346;
     color: #0c9346;
   }
 
