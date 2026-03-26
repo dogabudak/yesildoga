@@ -5,11 +5,15 @@ from django.contrib import admin
 from django.urls import path, include
 from django.http import JsonResponse
 from django.utils import timezone
+import logging
+import traceback
+
+logger = logging.getLogger(__name__)
 
 def health_check(request):
     """Health check endpoint similar to the Node.js version."""
     from companies.models import Company
-    
+
     try:
         company_count = Company.objects.count()
         return JsonResponse({
@@ -19,6 +23,7 @@ def health_check(request):
             'service': 'sustainability-api-django'
         })
     except Exception as e:
+        logger.error("Health check failed: %s\n%s", str(e), traceback.format_exc())
         return JsonResponse({
             'status': 'error',
             'timestamp': timezone.now().isoformat(),
