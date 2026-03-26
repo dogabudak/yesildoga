@@ -1,0 +1,43 @@
+services:
+  # Django Backend API
+  - type: web
+    name: yesildoga-api
+    runtime: docker
+    dockerfilePath: ./backend/Dockerfile
+    dockerContext: ./backend
+    region: frankfurt
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: DEBUG
+        value: "False"
+      - key: ALLOWED_HOSTS
+        value: "yesildoga-api.onrender.com"
+      - key: CORS_ALLOW_ALL_ORIGINS
+        value: "False"
+      - key: CORS_ALLOWED_ORIGINS
+        value: "https://yesildoga.onrender.com"
+      - key: SECRET_KEY
+        generateValue: true
+      - key: DATABASE_NAME
+        sync: false
+      - key: DATABASE_USER
+        sync: false
+      - key: DATABASE_PASSWORD
+        sync: false
+      - key: DATABASE_HOST
+        sync: false
+      - key: DATABASE_PORT
+        value: "5432"
+
+  # Next.js Frontend
+  - type: web
+    name: yesildoga
+    runtime: docker
+    dockerfilePath: ./frontend/Dockerfile
+    dockerContext: ./frontend
+    region: frankfurt
+    plan: free
+    envVars:
+      - key: NEXT_PUBLIC_API_URL
+        value: "https://yesildoga-api.onrender.com"
