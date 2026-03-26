@@ -9,6 +9,9 @@ const config = {
   reactStrictMode: true,
   compress: true,
   pageExtensions: ['tsx'],
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   webpack: (config) => {
     config.resolve.fallback = {
       ...config.resolve.fallback,

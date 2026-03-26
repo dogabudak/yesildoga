@@ -21,7 +21,9 @@ const ProjectComponents: { [key: string]: React.FC } = {
 export const ProjectTab: React.FC<ProjectTabProps> = ({ projectName }) => {
   const ProjectComponent = ProjectComponents[projectName];
 
-  if (!ProjectComponent) return null;
+  if (!ProjectComponent) {
+    return null;
+  }
 
   return <ProjectComponent />;
 };
