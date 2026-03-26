@@ -9,6 +9,7 @@ COPY tsconfig.json next.config.js next-env.d.ts .babelrc.js ./
 COPY src/ ./src/
 COPY public/ ./public/
 
+RUN find . -name "*.stories.*" -delete
 RUN yarn build
 
 EXPOSE 3000

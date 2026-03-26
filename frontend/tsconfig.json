@@ -36,7 +36,9 @@
     "incremental": true
   },
   "exclude": [
-    "../node_modules"
+    "../node_modules",
+    "**/*.stories.tsx",
+    "**/*.stories.ts"
   ],
   "include": [
     "next-env.d.ts", "**/*.ts", "**/*.tsx"]
