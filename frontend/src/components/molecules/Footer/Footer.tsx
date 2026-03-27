@@ -31,6 +31,9 @@ export function Footer(): JSX.Element {
             <FooterLinkItem>
               <a href='/progress'>Progress</a>
             </FooterLinkItem>
+            <FooterLinkItem>
+              <a href='/privacy'>Privacy Policy</a>
+            </FooterLinkItem>
           </FooterLinks>
         </div>
         <div>
