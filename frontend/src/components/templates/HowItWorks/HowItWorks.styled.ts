@@ -95,3 +95,36 @@ export const Connector = styled.div`
     transform: rotate(90deg);
   `)}
 `;
+
+export const CtaButton = styled.a`
+  align-items: center;
+  background: #0c9346;
+  border: none;
+  border-radius: 999px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: inherit;
+  font-size: 1.1rem;
+  font-weight: 600;
+  gap: 10px;
+  margin-top: 48px;
+  padding: 14px 36px;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.2s;
+
+  &:hover {
+    background: #0a7a3a;
+    transform: translateY(-2px);
+  }
+
+  ${untilMobile(css`
+    font-size: 1rem;
+    padding: 12px 28px;
+  `)}
+`;
+
+export const CtaChromeIcon = styled.img`
+  height: 22px;
+  width: 22px;
+`;

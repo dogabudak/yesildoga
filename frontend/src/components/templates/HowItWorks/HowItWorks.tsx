@@ -1,6 +1,9 @@
 import React from 'react';
 import * as S from './HowItWorks.styled';
 
+const CHROME_STORE_URL =
+  process.env.NEXT_PUBLIC_CHROME_STORE_URL || '#';
+
 const steps = [
   {
     number: 1,
@@ -46,6 +49,18 @@ export function HowItWorks(): JSX.Element {
           </React.Fragment>
         ))}
       </S.StepsContainer>
+
+      <S.CtaButton
+        href={CHROME_STORE_URL}
+        target='_blank'
+        rel='noopener noreferrer'
+      >
+        <S.CtaChromeIcon
+          src='https://www.google.com/chrome/static/images/chrome-logo-m100.svg'
+          alt=''
+        />
+        Add Green Score to Chrome — It&#39;s Free
+      </S.CtaButton>
     </S.Section>
   );
 }

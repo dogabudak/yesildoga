@@ -79,6 +79,14 @@ export const ProjectInner = styled.div`
   padding: 40px 24px;
 `;
 
+export const HeroButtons = styled.div`
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 20px;
+`;
+
 export const DiscoverButton = styled.button<{ accentColor: string }>`
   background: ${({ accentColor }) => accentColor};
   border: none;
@@ -88,7 +96,6 @@ export const DiscoverButton = styled.button<{ accentColor: string }>`
   font-family: inherit;
   font-size: 1rem;
   font-weight: 600;
-  margin-top: 20px;
   padding: 12px 32px;
   transition: opacity 0.2s, transform 0.2s;
 
@@ -96,4 +103,32 @@ export const DiscoverButton = styled.button<{ accentColor: string }>`
     opacity: 0.9;
     transform: translateY(-1px);
   }
+`;
+
+export const ChromeStoreButton = styled.a`
+  align-items: center;
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(4px);
+  border: 2px solid rgba(255, 255, 255, 0.6);
+  border-radius: 999px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 600;
+  gap: 8px;
+  padding: 10px 28px;
+  text-decoration: none;
+  transition: background 0.2s, transform 0.2s;
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.25);
+    transform: translateY(-1px);
+  }
+`;
+
+export const ChromeIcon = styled.img`
+  height: 20px;
+  width: 20px;
 `;
