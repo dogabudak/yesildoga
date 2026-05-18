@@ -39,6 +39,7 @@ THIRD_PARTY_APPS = [
 
 LOCAL_APPS = [
     'companies',
+    'campaigns',
 ]
 
 INSTALLED_APPS = DJANGO_APPS + THIRD_PARTY_APPS + LOCAL_APPS
@@ -75,19 +76,27 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'sustainability_api.wsgi.application'
 
-DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': env('DATABASE_NAME', default='postgres'),
-        'USER': env('DATABASE_USER', default='postgres'),
-        'PASSWORD': env('DATABASE_PASSWORD', default=''),
-        'HOST': env('DATABASE_HOST', default='localhost'),
-        'PORT': env('DATABASE_PORT', default='5432'),
-        'OPTIONS': {
-            'sslmode': 'require',
-        },
+if env.bool('USE_SQLITE', default=False):
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
     }
-}
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.postgresql',
+            'NAME': env('DATABASE_NAME', default='postgres'),
+            'USER': env('DATABASE_USER', default='postgres'),
+            'PASSWORD': env('DATABASE_PASSWORD', default=''),
+            'HOST': env('DATABASE_HOST', default='localhost'),
+            'PORT': env('DATABASE_PORT', default='5432'),
+            'OPTIONS': {
+                'sslmode': 'require',
+            },
+        }
+    }
 
 AUTH_PASSWORD_VALIDATORS = [
     {

@@ -1,9 +1,11 @@
 import React, { useState } from 'react';
 import * as S from 'src/components/templates/IndexLayout/IndexLayout.styled';
-import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
+import { Tab, Tabs, TabList, TabPanel, resetIdCounter } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
-import { ProjectTab } from '@templates/Project/Project';
+import { CampaignDetails } from '@templates/CampaignDetails/CampaignDetails';
 import { tabData } from './IndexLayout.helpers';
+
+resetIdCounter();
 
 const CHROME_STORE_URL =
   process.env.NEXT_PUBLIC_CHROME_STORE_URL || '#';
@@ -54,7 +56,7 @@ export function IndexLayout(): JSX.Element {
 
           <S.ProjectSection isVisible={visibleProject === tab.name}>
             <S.ProjectInner>
-              <ProjectTab goalId='todo' projectName={tab.name} />
+              <CampaignDetails campaignName={tab.name} />
             </S.ProjectInner>
           </S.ProjectSection>
         </TabPanel>

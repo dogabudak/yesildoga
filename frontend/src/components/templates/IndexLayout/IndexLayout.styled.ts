@@ -68,12 +68,13 @@ export const HeroDescription = styled.p`
 
 export const ProjectSection = styled.div<{ isVisible: boolean }>`
   background: #fff;
-  max-height: ${({ isVisible }) => (isVisible ? '2000px' : '0')};
+  max-height: ${({ isVisible }) => (isVisible ? '3000px' : '0')};
   overflow: hidden;
   transition: max-height 0.5s ease;
 `;
 
 export const ProjectInner = styled.div`
+  background: #f7f7f7;
   margin: 0 auto;
   max-width: 860px;
   padding: 40px 24px;
