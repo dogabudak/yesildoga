@@ -10,7 +10,7 @@ class CompanyModelTest(TestCase):
     
     def setUp(self):
         self.company = Company.objects.create(
-            domain='test.com',
+            domains=['test.com'],
             company='Test Company',
             carbon_neutral=True,
             renewable_share_percent=75.5,
@@ -22,17 +22,17 @@ class CompanyModelTest(TestCase):
         expected = "Test Company (test.com)"
         self.assertEqual(str(self.company), expected)
     
-    def test_get_normalized_domain(self):
+    def test_get_normalized_domains(self):
         """Test domain normalization."""
         # Test normal domain
-        self.assertEqual(self.company.get_normalized_domain(), 'test.com')
-        
+        self.assertEqual(self.company.get_normalized_domains(), ['test.com'])
+
         # Test www domain
         www_company = Company.objects.create(
-            domain='www.example.com',
+            domains=['www.example.com'],
             company='Example Corp'
         )
-        self.assertEqual(www_company.get_normalized_domain(), 'example.com')
+        self.assertEqual(www_company.get_normalized_domains(), ['example.com'])
     
     def test_find_by_domain(self):
         """Test flexible domain matching."""
@@ -58,7 +58,7 @@ class CompanyModelTest(TestCase):
         self.assertTrue(self.company.has_renewable_data)
         
         no_renewable = Company.objects.create(
-            domain='norene.com',
+            domains=['norene.com'],
             company='No Renewable'
         )
         self.assertFalse(no_renewable.has_renewable_data)
@@ -69,14 +69,14 @@ class CompanyAPITest(APITestCase):
     
     def setUp(self):
         Company.objects.create(
-            domain='google.com',
+            domains=['google.com'],
             company='Google',
             carbon_neutral=True,
             renewable_share_percent=85.5,
             sector='Technology'
         )
         Company.objects.create(
-            domain='microsoft.com', 
+            domains=['microsoft.com'],
             company='Microsoft',
             carbon_neutral=True,
             renewable_share_percent=78.2,
@@ -142,13 +142,13 @@ class DataVersionModelTest(TestCase):
     def setUp(self):
         # Create some test companies
         Company.objects.create(
-            domain='test1.com',
+            domains=['test1.com'],
             company='Test Company 1',
             carbon_neutral=True,
             renewable_share_percent=75.0
         )
         Company.objects.create(
-            domain='test2.com', 
+            domains=['test2.com'],
             company='Test Company 2',
             carbon_neutral=False
         )

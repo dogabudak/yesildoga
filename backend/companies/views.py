@@ -74,8 +74,8 @@ class CompanySearchView(generics.ListAPIView):
             if normalized_domain.startswith('www.'):
                 normalized_domain = normalized_domain[4:]
                 
-            search_q |= Q(domain__icontains=normalized_domain)
-            search_q |= Q(domain__icontains=f"www.{normalized_domain}")
+            search_q |= Q(domains__icontains=normalized_domain)
+            search_q |= Q(domains__icontains=f"www.{normalized_domain}")
             
         if company_name:
             # Case insensitive company name search
