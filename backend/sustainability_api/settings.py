@@ -54,6 +54,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'sustainability_api.middleware.RequestLoggingMiddleware',
 ]
 
 ROOT_URLCONF = 'sustainability_api.urls'
@@ -186,6 +187,11 @@ LOGGING = {
         'django.request': {
             'handlers': ['console'],
             'level': 'DEBUG',
+            'propagate': False,
+        },
+        'api.requests': {
+            'handlers': ['console'],
+            'level': 'INFO',
             'propagate': False,
         },
     },
