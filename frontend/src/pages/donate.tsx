@@ -1,29 +1,32 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/router';
 import styled, { css } from 'styled-components';
 import { untilMobile } from 'src/style/helpers/mixins/mediaQueries';
 import Link from 'next/link';
-
-const CAMPAIGN_META: Record<string, { name: string; color: string }> = {
-  forest: { name: 'Forests', color: '#0C6100' },
-  seas: { name: 'Seas & Oceans', color: '#23cafd' },
-  agriculture: { name: 'Agriculture', color: '#dabc0c' },
-  education: { name: 'Education', color: '#0015fa' },
-  charity: { name: 'Charity', color: '#6d836c' },
-};
+import { getCampaignBySlug } from 'src/helpers/api/campaigns';
 
 const PRESETS = [50, 100, 250, 500];
 
 export default function DonatePage() {
   const router = useRouter();
   const slug = (typeof router.query.campaign === 'string' ? router.query.campaign : '').toLowerCase();
-  const meta = CAMPAIGN_META[slug];
 
+  const [campaignName, setCampaignName] = useState('');
+  const [accentColor, setAccentColor] = useState('#0C9346');
   const [selectedAmount, setSelectedAmount] = useState<number | null>(null);
   const [customAmount, setCustomAmount] = useState('');
 
+  useEffect(() => {
+    if (!slug) return;
+    getCampaignBySlug(slug)
+      .then((data) => {
+        setCampaignName(data.name);
+        setAccentColor(data.accent_color || '#0C9346');
+      })
+      .catch(() => { /* keep defaults */ });
+  }, [slug]);
+
   const activeAmount = selectedAmount ?? (customAmount ? Number(customAmount) : null);
-  const accentColor = meta?.color ?? '#0C9346';
 
   return (
     <Page>
@@ -31,7 +34,7 @@ export default function DonatePage() {
         <BackLink href='/'>&#8592; Back to campaigns</BackLink>
 
         <Title>
-          Donate{meta ? ` to ${meta.name}` : ''}
+          Donate{campaignName ? ` to ${campaignName}` : ''}
         </Title>
 
         <Label>Choose an amount</Label>

@@ -1,9 +1,11 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import * as S from 'src/components/templates/IndexLayout/IndexLayout.styled';
 import { Tab, Tabs, TabList, TabPanel, resetIdCounter } from 'react-tabs';
 import 'react-tabs/style/react-tabs.css';
 import { CampaignDetails } from '@templates/CampaignDetails/CampaignDetails';
-import { tabData } from './IndexLayout.helpers';
+import { getCampaigns } from '@helpers/api/campaigns';
+import { campaignsToTabs, fallbackTabs } from './IndexLayout.helpers';
+import type { TabData } from './IndexLayout.helpers';
 
 resetIdCounter();
 
@@ -12,6 +14,13 @@ const CHROME_STORE_URL =
 
 export function IndexLayout(): JSX.Element {
   const [visibleProject, setVisibleProject] = useState<string | null>(null);
+  const [tabs, setTabs] = useState<TabData[]>(fallbackTabs);
+
+  useEffect(() => {
+    getCampaigns()
+      .then((campaigns) => setTabs(campaignsToTabs(campaigns)))
+      .catch(() => { /* keep fallback */ });
+  }, []);
 
   const toggleProject = (name: string) => {
     setVisibleProject(visibleProject === name ? null : name);
@@ -20,13 +29,13 @@ export function IndexLayout(): JSX.Element {
   return (
     <Tabs defaultIndex={0}>
       <TabList>
-        {tabData.map((tab) => (
-          <Tab key={tab.name}>{tab.name}</Tab>
+        {tabs.map((tab) => (
+          <Tab key={tab.slug}>{tab.name}</Tab>
         ))}
       </TabList>
 
-      {tabData.map((tab) => (
-        <TabPanel key={tab.name}>
+      {tabs.map((tab) => (
+        <TabPanel key={tab.slug}>
           <S.Hero backgroundImage={tab.backgroundImage}>
             <S.HeroOverlay />
             <S.HeroContent>
@@ -35,9 +44,9 @@ export function IndexLayout(): JSX.Element {
               <S.HeroButtons>
                 <S.DiscoverButton
                   accentColor={tab.accentColor}
-                  onClick={() => toggleProject(tab.name)}
+                  onClick={() => toggleProject(tab.slug)}
                 >
-                  {visibleProject === tab.name ? 'Hide Details' : 'Discover This Project'}
+                  {visibleProject === tab.slug ? 'Hide Details' : 'Discover This Project'}
                 </S.DiscoverButton>
                 <S.ChromeStoreButton
                   href={CHROME_STORE_URL}
@@ -54,9 +63,9 @@ export function IndexLayout(): JSX.Element {
             </S.HeroContent>
           </S.Hero>
 
-          <S.ProjectSection isVisible={visibleProject === tab.name}>
+          <S.ProjectSection isVisible={visibleProject === tab.slug}>
             <S.ProjectInner>
-              <CampaignDetails campaignName={tab.name} />
+              <CampaignDetails campaignName={tab.slug} />
             </S.ProjectInner>
           </S.ProjectSection>
         </TabPanel>

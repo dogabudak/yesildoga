@@ -22,7 +22,9 @@
       "Bash(npx tsc --noEmit 2>&1 | grep \"react-tabs\")",
       "Bash(ls /Users/doga.budak/Documents/piarcha/yesildoga/yesildoga/frontend/node_modules/@types/react-tabs/*.d.ts 2>/dev/null)",
       "Bash(node -e \"const pkg = require\\('react-tabs/package.json'\\); console.log\\(pkg.version, pkg.types || pkg.typings || 'no types field'\\)\")",
-      "Bash(yarn remove @types/react-tabs 2>&1 | tail -3)"
+      "Bash(yarn remove @types/react-tabs 2>&1 | tail -3)",
+      "Bash(grep -r \"campaigns\" /Users/doga.budak/Documents/piarcha/yesildoga/yesildoga/frontend/src/pages/ --include=\"*.tsx\" --include=\"*.ts\" 2>/dev/null | head -20)",
+      "Bash(npx tsc --noEmit 2>&1)"
     ],
     "deny": []
   }

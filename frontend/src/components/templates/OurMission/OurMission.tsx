@@ -1,42 +1,34 @@
-import React from 'react';
-import { Donations } from 'src/types/Donations';
-import { colors } from 'src/style/colors';
+import React, { useEffect, useState } from 'react';
+import { getCampaigns } from 'src/helpers/api/campaigns';
+import type { CampaignSummary } from 'src/types/Campaign';
 import * as S from './OurMission.styled';
 
-const categories = [
-  {
-    name: Donations.forest,
-    icon: '🌳',
-    color: colors[Donations.forest],
-    description: 'Reforestation and preserving green lungs of our planet.',
-  },
-  {
-    name: Donations.seas,
-    icon: '🌊',
-    color: colors[Donations.seas],
-    description: 'Ocean cleanup and protecting marine ecosystems.',
-  },
-  {
-    name: Donations.agriculture,
-    icon: '🌾',
-    color: colors[Donations.agriculture],
-    description: 'Sustainable farming for healthier communities.',
-  },
-  {
-    name: Donations.education,
-    icon: '📚',
-    color: colors[Donations.education],
-    description: 'Giving every child a fair chance to learn and grow.',
-  },
-  {
-    name: Donations.charity,
-    icon: '🤝',
-    color: colors[Donations.charity],
-    description: 'Direct support for people and communities in need.',
-  },
+const FALLBACK_CATEGORIES = [
+  { name: 'Forest', icon: '🌳', color: '#0C6100', description: 'Reforestation and preserving green lungs of our planet.' },
+  { name: 'Seas & Oceans', icon: '🌊', color: '#23cafd', description: 'Ocean cleanup and protecting marine ecosystems.' },
+  { name: 'Agriculture', icon: '🌾', color: '#dabc0c', description: 'Sustainable farming for healthier communities.' },
+  { name: 'Education', icon: '📚', color: '#0015fa', description: 'Giving every child a fair chance to learn and grow.' },
+  { name: 'Charity', icon: '🤝', color: '#6d836c', description: 'Direct support for people and communities in need.' },
 ];
 
+function campaignsToCategories(campaigns: CampaignSummary[]) {
+  return campaigns.map((c) => ({
+    name: c.name,
+    icon: c.icon,
+    color: c.accent_color,
+    description: c.tagline,
+  }));
+}
+
 export function OurMission(): JSX.Element {
+  const [categories, setCategories] = useState(FALLBACK_CATEGORIES);
+
+  useEffect(() => {
+    getCampaigns()
+      .then((campaigns) => setCategories(campaignsToCategories(campaigns)))
+      .catch(() => { /* keep fallback */ });
+  }, []);
+
   return (
     <S.Section>
       <S.Inner>
