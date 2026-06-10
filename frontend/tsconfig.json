@@ -6,7 +6,6 @@
     "esModuleInterop": true,
     "noEmit": true,
     "skipLibCheck": true,
-    "strictNullChecks": true,
     "jsx": "preserve",
     "lib": ["dom"],
     "baseUrl": "./",
@@ -28,7 +27,7 @@
       "@mockdata/*": ["src/mockdata/*"]
     },
     "allowJs": true,
-    "strict": false,
+    "strict": true,
     "forceConsistentCasingInFileNames": true,
     "moduleResolution": "node",
     "resolveJsonModule": true,

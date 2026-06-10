@@ -4,7 +4,7 @@ import { ToArray } from 'src/helpers/enumToArray';
 import { buildFilters } from 'src/helpers/filterBuilder';
 import { Select } from 'src/components/molecules/Select/Select';
 import { Donations } from 'src/types/Donations';
-import type { Filters, FormikFilters, QueryFilters } from 'src/types/Filter.type';
+import type { Filters, FormikFilters, HTTPFilterBody, QueryFilters } from 'src/types/Filter.type';
 import { useFormik } from 'formik';
 import { useRouter } from 'next/router';
 import * as S from 'src/components/templates/Filter/Filter.styled';
@@ -12,7 +12,7 @@ import 'react-datepicker/dist/react-datepicker.css';
 
 export interface FilterBarProps {
   filters: Filters;
-  onSubmit: (filters) => void;
+  onSubmit: (filters: HTTPFilterBody) => void;
   queryFilters: QueryFilters;
 }
 

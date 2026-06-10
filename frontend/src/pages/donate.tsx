@@ -57,7 +57,7 @@ export default function DonatePage() {
           min='1'
           placeholder='&#8378; Custom amount'
           value={customAmount}
-          onChange={(e) => {
+          onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
             setCustomAmount(e.target.value);
             setSelectedAmount(null);
           }}
