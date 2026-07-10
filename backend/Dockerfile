@@ -16,4 +16,7 @@ RUN python manage.py collectstatic --noinput
 
 EXPOSE 8080
 
-CMD gunicorn sustainability_api.wsgi:application --bind 0.0.0.0:${PORT:-8080} --workers 2 --timeout 120
+# Create the DatabaseCache table (idempotent) before starting the server so
+# cache_page is shared across Gunicorn workers.
+CMD python manage.py createcachetable && \
+    gunicorn sustainability_api.wsgi:application --bind 0.0.0.0:${PORT:-8080} --workers 2 --timeout 120
