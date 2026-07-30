@@ -14,6 +14,9 @@ export const Nav = () => {
         <S.NavItem>
           <S.NavLink href='#'>Contact</S.NavLink>
         </S.NavItem>
+        <S.NavItem>
+          <S.NavLink href='/donate'>Donate</S.NavLink>
+        </S.NavItem>
       </S.NavList>
     </S.NavContainer>
   );

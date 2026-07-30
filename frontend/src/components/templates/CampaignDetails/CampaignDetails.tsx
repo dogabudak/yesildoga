@@ -23,13 +23,13 @@ export function CampaignDetails({ campaignName }: CampaignDetailsProps): JSX.Ele
 
     getCampaignBySlug(campaignName.toLowerCase())
       .then((data) => {
-        if (!cancelled) setCampaign(data);
+        if (!cancelled) {setCampaign(data);}
       })
       .catch(() => {
-        if (!cancelled) setError('Failed to load campaign data.');
+        if (!cancelled) {setError('Failed to load campaign data.');}
       })
       .finally(() => {
-        if (!cancelled) setLoading(false);
+        if (!cancelled) {setLoading(false);}
       });
 
     return () => {
@@ -37,9 +37,9 @@ export function CampaignDetails({ campaignName }: CampaignDetailsProps): JSX.Ele
     };
   }, [campaignName]);
 
-  if (loading) return <S.Spinner />;
-  if (error) return <S.ErrorMessage>{error}</S.ErrorMessage>;
-  if (!campaign) return <S.ErrorMessage>Campaign not found.</S.ErrorMessage>;
+  if (loading) {return <S.Spinner />;}
+  if (error) {return <S.ErrorMessage>{error}</S.ErrorMessage>;}
+  if (!campaign) {return <S.ErrorMessage>Campaign not found.</S.ErrorMessage>;}
 
   return (
     <S.Wrapper>

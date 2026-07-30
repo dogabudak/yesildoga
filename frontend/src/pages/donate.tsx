@@ -1,83 +1,15 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
+
+import Link from 'next/link';
 import { useRouter } from 'next/router';
 import styled, { css } from 'styled-components';
+
+import { getCampaigns } from 'src/helpers/api/campaigns';
 import { untilMobile } from 'src/style/helpers/mixins/mediaQueries';
-import Link from 'next/link';
-import { getCampaignBySlug } from 'src/helpers/api/campaigns';
+import type { CampaignSummary } from 'src/types/Campaign';
 
 const PRESETS = [50, 100, 250, 500];
-
-export default function DonatePage() {
-  const router = useRouter();
-  const slug = (typeof router.query.campaign === 'string' ? router.query.campaign : '').toLowerCase();
-
-  const [campaignName, setCampaignName] = useState('');
-  const [accentColor, setAccentColor] = useState('#0C9346');
-  const [selectedAmount, setSelectedAmount] = useState<number | null>(null);
-  const [customAmount, setCustomAmount] = useState('');
-
-  useEffect(() => {
-    if (!slug) return;
-    getCampaignBySlug(slug)
-      .then((data) => {
-        setCampaignName(data.name);
-        setAccentColor(data.accent_color || '#0C9346');
-      })
-      .catch(() => { /* keep defaults */ });
-  }, [slug]);
-
-  const activeAmount = selectedAmount ?? (customAmount ? Number(customAmount) : null);
-
-  return (
-    <Page>
-      <Card>
-        <BackLink href='/'>&#8592; Back to campaigns</BackLink>
-
-        <Title>
-          Donate{campaignName ? ` to ${campaignName}` : ''}
-        </Title>
-
-        <Label>Choose an amount</Label>
-        <PresetRow>
-          {PRESETS.map((amount) => (
-            <PresetButton
-              key={amount}
-              active={selectedAmount === amount}
-              accentColor={accentColor}
-              onClick={() => {
-                setSelectedAmount(amount);
-                setCustomAmount('');
-              }}
-            >
-              &#8378;{amount}
-            </PresetButton>
-          ))}
-        </PresetRow>
-
-        <Label>Or enter a custom amount</Label>
-        <CustomInput
-          type='number'
-          min='1'
-          placeholder='&#8378; Custom amount'
-          value={customAmount}
-          onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
-            setCustomAmount(e.target.value);
-            setSelectedAmount(null);
-          }}
-        />
-
-        <ProceedButton
-          disabled={!activeAmount || activeAmount <= 0}
-          accentColor={accentColor}
-        >
-          Proceed to Payment{activeAmount && activeAmount > 0 ? ` — ₺${activeAmount}` : ''}
-        </ProceedButton>
-
-        <Notice>Payment integration coming soon. This page is a preview.</Notice>
-      </Card>
-    </Page>
-  );
-}
+const DEFAULT_ACCENT = '#0C9346';
 
 const Page = styled.div`
   align-items: center;
@@ -127,6 +59,42 @@ const Label = styled.label`
   margin-bottom: 10px;
 `;
 
+const ProjectGrid = styled.div`
+  display: grid;
+  gap: 10px;
+  grid-template-columns: repeat(2, 1fr);
+  margin-bottom: 24px;
+`;
+
+const ProjectButton = styled.button<{ active: boolean; accentColor: string }>`
+  align-items: center;
+  background: ${({ active, accentColor }) => (active ? `${accentColor}18` : '#f7f7f7')};
+  border: 2px solid ${({ active, accentColor }) => (active ? accentColor : '#e6e6e6')};
+  border-radius: 12px;
+  cursor: pointer;
+  display: flex;
+  font-family: inherit;
+  gap: 10px;
+  padding: 12px 14px;
+  text-align: left;
+  transition: all 0.15s;
+
+  &:hover {
+    border-color: ${({ accentColor }) => accentColor};
+  }
+`;
+
+const ProjectIcon = styled.span`
+  font-size: 1.4rem;
+  line-height: 1;
+`;
+
+const ProjectName = styled.span`
+  color: #333;
+  font-size: 0.9rem;
+  font-weight: 700;
+`;
+
 const PresetRow = styled.div`
   display: flex;
   gap: 10px;
@@ -166,7 +134,7 @@ const CustomInput = styled.input`
   width: 100%;
 
   &:focus {
-    border-color: #0C9346;
+    border-color: #0c9346;
   }
 `;
 
@@ -199,3 +167,101 @@ const Notice = styled.p`
   margin-top: 16px;
   text-align: center;
 `;
+
+export default function DonatePage(): JSX.Element {
+  const router = useRouter();
+  const querySlug = (typeof router.query.campaign === 'string' ? router.query.campaign : '').toLowerCase();
+
+  const [campaigns, setCampaigns] = useState<CampaignSummary[]>([]);
+  const [selectedSlug, setSelectedSlug] = useState<string>('');
+  const [selectedAmount, setSelectedAmount] = useState<number | null>(null);
+  const [customAmount, setCustomAmount] = useState('');
+
+  useEffect(() => {
+    getCampaigns()
+      .then((data) => setCampaigns(data))
+      .catch(() => { /* keep empty; selector just won't render */ });
+  }, []);
+
+  // Pre-select the campaign passed via URL once campaigns have loaded.
+  useEffect(() => {
+    if (querySlug && campaigns.some((c) => c.slug === querySlug)) {
+      setSelectedSlug(querySlug);
+    }
+  }, [querySlug, campaigns]);
+
+  const selectedCampaign = campaigns.find((c) => c.slug === selectedSlug) || null;
+  const accentColor = selectedCampaign?.accent_color || DEFAULT_ACCENT;
+  const activeAmount = selectedAmount ?? (customAmount ? Number(customAmount) : null);
+  const canProceed = Boolean(selectedSlug) && Boolean(activeAmount) && (activeAmount ?? 0) > 0;
+
+  return (
+    <Page>
+      <Card>
+        <BackLink href='/'>&#8592; Back to campaigns</BackLink>
+
+        <Title>
+          Donate{selectedCampaign ? ` to ${selectedCampaign.name}` : ''}
+        </Title>
+
+        <Label>Choose a project to support</Label>
+        <ProjectGrid>
+          {campaigns.map((campaign) => (
+            <ProjectButton
+              key={campaign.slug}
+              type='button'
+              active={selectedSlug === campaign.slug}
+              accentColor={campaign.accent_color || DEFAULT_ACCENT}
+              onClick={() => setSelectedSlug(campaign.slug)}
+            >
+              <ProjectIcon>{campaign.icon}</ProjectIcon>
+              <ProjectName>{campaign.name}</ProjectName>
+            </ProjectButton>
+          ))}
+        </ProjectGrid>
+
+        <Label>Choose an amount</Label>
+        <PresetRow>
+          {PRESETS.map((amount) => (
+            <PresetButton
+              key={amount}
+              type='button'
+              active={selectedAmount === amount}
+              accentColor={accentColor}
+              onClick={() => {
+                setSelectedAmount(amount);
+                setCustomAmount('');
+              }}
+            >
+              &#8378;{amount}
+            </PresetButton>
+          ))}
+        </PresetRow>
+
+        <Label>Or enter a custom amount</Label>
+        <CustomInput
+          type='number'
+          min='1'
+          placeholder='&#8378; Custom amount'
+          value={customAmount}
+          onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
+            setCustomAmount(e.target.value);
+            setSelectedAmount(null);
+          }}
+        />
+
+        <ProceedButton
+          disabled={!canProceed}
+          accentColor={accentColor}
+        >
+          Proceed to Payment{activeAmount && activeAmount > 0 ? ` — ₺${activeAmount}` : ''}
+        </ProceedButton>
+
+        {!selectedSlug && (
+          <Notice>Select a project above to continue.</Notice>
+        )}
+        <Notice>Payment integration coming soon. This page is a preview.</Notice>
+      </Card>
+    </Page>
+  );
+}

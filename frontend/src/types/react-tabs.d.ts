@@ -1,5 +1,6 @@
 declare module 'react-tabs' {
-  import { Component, ReactNode } from 'react';
+  import type { ReactNode } from 'react';
+import { Component } from 'react';
 
   interface TabsProps {
     children?: ReactNode;

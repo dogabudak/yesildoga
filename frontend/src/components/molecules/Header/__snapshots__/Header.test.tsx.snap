@@ -5,7 +5,7 @@ exports[`Header 1`] = `
 - First value
 + Second value
 
-@@ -55,17 +55,17 @@
+@@ -65,17 +65,17 @@
           role=\\"button\\"
           style=\\"cursor: pointer; height: 48px; position: relative; transition: 0.4s cubic-bezier(0, 0, 0, 1); user-select: none; width: 48px; outline: none;\\"
           tabindex=\\"0\\"
@@ -158,6 +158,16 @@ exports[`Header: closed 1`] = `
           href="#"
         >
           Contact
+        </a>
+      </li>
+      <li
+        class="c4"
+      >
+        <a
+          class="c5"
+          href="/donate"
+        >
+          Donate
         </a>
       </li>
     </ul>
