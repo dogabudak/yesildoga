@@ -31,10 +31,10 @@ export const FactsGrid = styled.div`
   `)}
 `;
 
-export const FactCard = styled.div<{ accentColor: string }>`
+export const FactCard = styled.div<{ $accentColor: string }>`
   background: #fff;
   border: 1px solid #e8e8e8;
-  border-left: 4px solid ${({ accentColor }) => accentColor};
+  border-left: 4px solid ${({ $accentColor }) => $accentColor};
   border-radius: 8px;
   padding: 16px;
 `;

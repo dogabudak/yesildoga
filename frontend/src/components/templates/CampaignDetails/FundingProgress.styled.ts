@@ -19,8 +19,8 @@ export const Amounts = styled.div`
   margin-bottom: 12px;
 `;
 
-export const Raised = styled.span<{ color: string }>`
-  color: ${({ color }) => color};
+export const Raised = styled.span<{ $color: string }>`
+  color: ${({ $color }) => $color};
   font-size: 1.6rem;
   font-weight: 800;
 `;
@@ -45,10 +45,10 @@ export const BarTrack = styled.div`
   width: 100%;
 `;
 
-export const BarFill = styled.div<{ percent: number; color: string }>`
-  background: ${({ color }) => color};
+export const BarFill = styled.div<{ $percent: number; $color: string }>`
+  background: ${({ $color }) => $color};
   border-radius: 8px;
   height: 100%;
   transition: width 0.4s ease;
-  width: ${({ percent }) => Math.min(percent, 100)}%;
+  width: ${({ $percent }) => Math.min($percent, 100)}%;
 `;

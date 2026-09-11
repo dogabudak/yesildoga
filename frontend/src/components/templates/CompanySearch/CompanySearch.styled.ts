@@ -129,10 +129,10 @@ export const BadgeRow = styled.div`
   margin-bottom: 10px;
 `;
 
-export const CarbonBadge = styled.span<{ neutral: boolean }>`
-  background: ${({ neutral }) => (neutral ? '#e8f5e9' : '#fbe9e7')};
+export const CarbonBadge = styled.span<{ $neutral: boolean }>`
+  background: ${({ $neutral }) => ($neutral ? '#e8f5e9' : '#fbe9e7')};
   border-radius: 6px;
-  color: ${({ neutral }) => (neutral ? '#2e7d32' : '#c62828')};
+  color: ${({ $neutral }) => ($neutral ? '#2e7d32' : '#c62828')};
   font-size: 0.78rem;
   font-weight: 600;
   padding: 3px 8px;
@@ -146,12 +146,12 @@ export const RenewableBarWrapper = styled.div`
   width: 100%;
 `;
 
-export const RenewableBarFill = styled.div<{ percent: number }>`
+export const RenewableBarFill = styled.div<{ $percent: number }>`
   background: #0c9346;
   border-radius: 4px;
   height: 100%;
   transition: width 0.3s ease;
-  width: ${({ percent }) => Math.min(Math.max(percent, 0), 100)}%;
+  width: ${({ $percent }) => Math.min(Math.max($percent, 0), 100)}%;
 `;
 
 export const RenewableLabel = styled.div`

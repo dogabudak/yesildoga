@@ -2,7 +2,7 @@
  * MEDIA QUERY FUNCTIONS
  */
 
-import type { FlattenSimpleInterpolation } from 'styled-components';
+import type { RuleSet } from 'styled-components';
 import { css } from 'styled-components';
 import { breakpoints } from 'src/style/breakpoints';
 
@@ -35,12 +35,12 @@ const createQueryCheck = ({ minHeight, minWidth, maxWidth, maxHeight }: QueryChe
   return checks.join(' and ');
 };
 
-type MediaQuery = (styles: FlattenSimpleInterpolation) => FlattenSimpleInterpolation;
+type MediaQuery = (styles: RuleSet<object>) => RuleSet<object>;
 
 const createMediaQuery = (items: QueryCheck[]): MediaQuery => {
   const checkParams = items.map((query) => createQueryCheck(query)).join(', ');
 
-  return (styles: FlattenSimpleInterpolation) => css`
+  return (styles: RuleSet<object>) => css`
     @media ${checkParams} {
       ${styles}
     }

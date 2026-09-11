@@ -36,7 +36,7 @@ export const Overview: React.FC<OverviewProps> = ({
       </S.Description>
       <S.FactsGrid>
         {facts.map((f) => (
-          <S.FactCard key={f.label} accentColor={accentColor}>
+          <S.FactCard key={f.label} $accentColor={accentColor}>
             <S.FactLabel>{f.label}</S.FactLabel>
             <S.FactValue>{f.value}</S.FactValue>
           </S.FactCard>

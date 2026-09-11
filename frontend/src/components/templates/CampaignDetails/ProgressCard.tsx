@@ -19,17 +19,17 @@ export const ProgressCard: React.FC<ProgressCardProps> = ({ milestones, accentCo
         {milestones.map((m, i) => (
           <S.Step key={m.id}>
             <S.DotColumn>
-              <S.Dot completed={m.is_completed} color={accentColor} />
+              <S.Dot $completed={m.is_completed} $color={accentColor} />
               {i < milestones.length - 1 && (
-                <S.Line completed={m.is_completed} color={accentColor} />
+                <S.Line $completed={m.is_completed} $color={accentColor} />
               )}
             </S.DotColumn>
-            <S.StepLabel completed={m.is_completed}>{m.title}</S.StepLabel>
+            <S.StepLabel $completed={m.is_completed}>{m.title}</S.StepLabel>
           </S.Step>
         ))}
       </S.Timeline>
       <S.BarTrack>
-        <S.BarFill percent={percent} color={accentColor} />
+        <S.BarFill $percent={percent} $color={accentColor} />
       </S.BarTrack>
       <S.BarLabel>{completed} of {total} completed</S.BarLabel>
     </S.Card>

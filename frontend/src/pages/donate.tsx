@@ -4,6 +4,7 @@ import Link from 'next/link';
 import { useRouter } from 'next/router';
 import styled, { css } from 'styled-components';
 
+import { Seo } from 'src/components/atoms/Seo/Seo';
 import { getCampaigns } from 'src/helpers/api/campaigns';
 import { untilMobile } from 'src/style/helpers/mixins/mediaQueries';
 import type { CampaignSummary } from 'src/types/Campaign';
@@ -66,10 +67,10 @@ const ProjectGrid = styled.div`
   margin-bottom: 24px;
 `;
 
-const ProjectButton = styled.button<{ active: boolean; accentColor: string }>`
+const ProjectButton = styled.button<{ $active: boolean; $accentColor: string }>`
   align-items: center;
-  background: ${({ active, accentColor }) => (active ? `${accentColor}18` : '#f7f7f7')};
-  border: 2px solid ${({ active, accentColor }) => (active ? accentColor : '#e6e6e6')};
+  background: ${({ $active, $accentColor }) => ($active ? `${$accentColor}18` : '#f7f7f7')};
+  border: 2px solid ${({ $active, $accentColor }) => ($active ? $accentColor : '#e6e6e6')};
   border-radius: 12px;
   cursor: pointer;
   display: flex;
@@ -80,7 +81,7 @@ const ProjectButton = styled.button<{ active: boolean; accentColor: string }>`
   transition: all 0.15s;
 
   &:hover {
-    border-color: ${({ accentColor }) => accentColor};
+    border-color: ${({ $accentColor }) => $accentColor};
   }
 `;
 
@@ -105,11 +106,11 @@ const PresetRow = styled.div`
   `)}
 `;
 
-const PresetButton = styled.button<{ active: boolean; accentColor: string }>`
-  background: ${({ active, accentColor }) => (active ? accentColor : '#f0f0f0')};
-  border: 2px solid ${({ active, accentColor }) => (active ? accentColor : '#e0e0e0')};
+const PresetButton = styled.button<{ $active: boolean; $accentColor: string }>`
+  background: ${({ $active, $accentColor }) => ($active ? $accentColor : '#f0f0f0')};
+  border: 2px solid ${({ $active, $accentColor }) => ($active ? $accentColor : '#e0e0e0')};
   border-radius: 10px;
-  color: ${({ active }) => (active ? '#fff' : '#333')};
+  color: ${({ $active }) => ($active ? '#fff' : '#333')};
   cursor: pointer;
   flex: 1;
   font-family: inherit;
@@ -119,7 +120,7 @@ const PresetButton = styled.button<{ active: boolean; accentColor: string }>`
   transition: all 0.15s;
 
   &:hover {
-    border-color: ${({ accentColor }) => accentColor};
+    border-color: ${({ $accentColor }) => $accentColor};
   }
 `;
 
@@ -138,8 +139,8 @@ const CustomInput = styled.input`
   }
 `;
 
-const ProceedButton = styled.button<{ accentColor: string }>`
-  background: ${({ accentColor }) => accentColor};
+const ProceedButton = styled.button<{ $accentColor: string }>`
+  background: ${({ $accentColor }) => $accentColor};
   border: none;
   border-radius: 999px;
   color: #fff;
@@ -196,72 +197,79 @@ export default function DonatePage(): JSX.Element {
   const canProceed = Boolean(selectedSlug) && Boolean(activeAmount) && (activeAmount ?? 0) > 0;
 
   return (
-    <Page>
-      <Card>
-        <BackLink href='/'>&#8592; Back to campaigns</BackLink>
+    <>
+      <Seo
+        title='Donate - YeşilDoğa'
+        description='Support reforestation, ocean cleanup, sustainable agriculture, environmental education or charity. Every donation to YeşilDoğa goes straight to the campaign you pick.'
+        path='/donate'
+      />
+      <Page>
+        <Card>
+          <BackLink href='/'>&#8592; Back to campaigns</BackLink>
 
-        <Title>
-          Donate{selectedCampaign ? ` to ${selectedCampaign.name}` : ''}
-        </Title>
+          <Title>
+            Donate{selectedCampaign ? ` to ${selectedCampaign.name}` : ''}
+          </Title>
 
-        <Label>Choose a project to support</Label>
-        <ProjectGrid>
-          {campaigns.map((campaign) => (
-            <ProjectButton
-              key={campaign.slug}
-              type='button'
-              active={selectedSlug === campaign.slug}
-              accentColor={campaign.accent_color || DEFAULT_ACCENT}
-              onClick={() => setSelectedSlug(campaign.slug)}
-            >
-              <ProjectIcon>{campaign.icon}</ProjectIcon>
-              <ProjectName>{campaign.name}</ProjectName>
-            </ProjectButton>
-          ))}
-        </ProjectGrid>
+          <Label>Choose a project to support</Label>
+          <ProjectGrid>
+            {campaigns.map((campaign) => (
+              <ProjectButton
+                key={campaign.slug}
+                type='button'
+                $active={selectedSlug === campaign.slug}
+                $accentColor={campaign.accent_color || DEFAULT_ACCENT}
+                onClick={() => setSelectedSlug(campaign.slug)}
+              >
+                <ProjectIcon>{campaign.icon}</ProjectIcon>
+                <ProjectName>{campaign.name}</ProjectName>
+              </ProjectButton>
+            ))}
+          </ProjectGrid>
 
-        <Label>Choose an amount</Label>
-        <PresetRow>
-          {PRESETS.map((amount) => (
-            <PresetButton
-              key={amount}
-              type='button'
-              active={selectedAmount === amount}
-              accentColor={accentColor}
-              onClick={() => {
-                setSelectedAmount(amount);
-                setCustomAmount('');
-              }}
-            >
-              &#8378;{amount}
-            </PresetButton>
-          ))}
-        </PresetRow>
+          <Label>Choose an amount</Label>
+          <PresetRow>
+            {PRESETS.map((amount) => (
+              <PresetButton
+                key={amount}
+                type='button'
+                $active={selectedAmount === amount}
+                $accentColor={accentColor}
+                onClick={() => {
+                  setSelectedAmount(amount);
+                  setCustomAmount('');
+                }}
+              >
+                &#8378;{amount}
+              </PresetButton>
+            ))}
+          </PresetRow>
 
-        <Label>Or enter a custom amount</Label>
-        <CustomInput
-          type='number'
-          min='1'
-          placeholder='&#8378; Custom amount'
-          value={customAmount}
-          onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
-            setCustomAmount(e.target.value);
-            setSelectedAmount(null);
-          }}
-        />
+          <Label>Or enter a custom amount</Label>
+          <CustomInput
+            type='number'
+            min='1'
+            placeholder='&#8378; Custom amount'
+            value={customAmount}
+            onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
+              setCustomAmount(e.target.value);
+              setSelectedAmount(null);
+            }}
+          />
 
-        <ProceedButton
-          disabled={!canProceed}
-          accentColor={accentColor}
-        >
-          Proceed to Payment{activeAmount && activeAmount > 0 ? ` — ₺${activeAmount}` : ''}
-        </ProceedButton>
+          <ProceedButton
+            disabled={!canProceed}
+            $accentColor={accentColor}
+          >
+            Proceed to Payment{activeAmount && activeAmount > 0 ? ` — ₺${activeAmount}` : ''}
+          </ProceedButton>
 
-        {!selectedSlug && (
-          <Notice>Select a project above to continue.</Notice>
-        )}
-        <Notice>Payment integration coming soon. This page is a preview.</Notice>
-      </Card>
-    </Page>
+          {!selectedSlug && (
+            <Notice>Select a project above to continue.</Notice>
+          )}
+          <Notice>Payment integration coming soon. This page is a preview.</Notice>
+        </Card>
+      </Page>
+    </>
   );
 }

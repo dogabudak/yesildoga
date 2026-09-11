@@ -24,7 +24,7 @@ export function Button({
   type = 'button',
 }: ButtonProps): JSX.Element {
   return (
-    <S.Button secondary={secondary} data-testid='button' onClick={onClick} type={type}>
+    <S.Button $secondary={secondary} data-testid='button' onClick={onClick} type={type}>
       <Text>{children}</Text>
     </S.Button>
   );

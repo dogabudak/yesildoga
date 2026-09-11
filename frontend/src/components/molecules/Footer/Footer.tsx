@@ -26,7 +26,7 @@ export function Footer(): JSX.Element {
           <FooterHeading>Quick Links</FooterHeading>
           <FooterLinks>
             <FooterLinkItem>
-              <a href='/about'>About</a>
+              <a href='/#mission'>About</a>
             </FooterLinkItem>
             <FooterLinkItem>
               <a href='/progress'>Progress</a>

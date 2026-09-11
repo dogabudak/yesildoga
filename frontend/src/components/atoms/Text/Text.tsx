@@ -22,7 +22,7 @@ export function Text({
   className,
 }: TextProps): JSX.Element {
   return (
-    <S.Text textStyle={style} textWeight={weight} className={className}>
+    <S.Text $textStyle={style} $textWeight={weight} className={className}>
       {children}
     </S.Text>
   );

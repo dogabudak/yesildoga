@@ -9,7 +9,7 @@ interface SupportButtonProps {
 
 export const SupportButton: React.FC<SupportButtonProps> = ({ slug, accentColor }) => (
   <Link href={`/donate?campaign=${slug}`} passHref legacyBehavior>
-    <S.ButtonLink accentColor={accentColor}>
+    <S.ButtonLink $accentColor={accentColor}>
       Support This Campaign
     </S.ButtonLink>
   </Link>

@@ -62,9 +62,9 @@ export const CategoriesGrid = styled.div`
   `)}
 `;
 
-export const CategoryCard = styled.div<{ accentColor: string }>`
+export const CategoryCard = styled.div<{ $accentColor: string }>`
   background: #fff;
-  border-left: 4px solid ${({ accentColor }) => accentColor};
+  border-left: 4px solid ${({ $accentColor }) => $accentColor};
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
   padding: 24px 20px;

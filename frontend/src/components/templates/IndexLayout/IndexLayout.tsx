@@ -26,8 +26,18 @@ export function IndexLayout(): JSX.Element {
     setVisibleProject(visibleProject === name ? null : name);
   };
 
+  /*
+   * The tab row scrolls horizontally on narrow screens, so a tab that is only
+   * partly visible when tapped needs bringing fully into view.
+   */
+  const scrollTabIntoView = (index: number) => {
+    const tab = document.querySelectorAll('.react-tabs__tab')[index];
+
+    tab?.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'nearest' });
+  };
+
   return (
-    <Tabs defaultIndex={0}>
+    <Tabs defaultIndex={0} onSelect={scrollTabIntoView}>
       <TabList>
         {tabs.map((tab) => (
           <Tab key={tab.slug}>{tab.name}</Tab>
@@ -36,14 +46,14 @@ export function IndexLayout(): JSX.Element {
 
       {tabs.map((tab) => (
         <TabPanel key={tab.slug}>
-          <S.Hero backgroundImage={tab.backgroundImage}>
+          <S.Hero $backgroundImage={tab.backgroundImage}>
             <S.HeroOverlay />
             <S.HeroContent>
               <S.HeroTitle>{tab.title}</S.HeroTitle>
               <S.HeroDescription>{tab.description}</S.HeroDescription>
               <S.HeroButtons>
                 <S.DiscoverButton
-                  accentColor={tab.accentColor}
+                  $accentColor={tab.accentColor}
                   onClick={() => toggleProject(tab.slug)}
                 >
                   {visibleProject === tab.slug ? 'Hide Details' : 'Discover This Project'}
@@ -63,7 +73,7 @@ export function IndexLayout(): JSX.Element {
             </S.HeroContent>
           </S.Hero>
 
-          <S.ProjectSection isVisible={visibleProject === tab.slug}>
+          <S.ProjectSection $isVisible={visibleProject === tab.slug}>
             <S.ProjectInner>
               <CampaignDetails campaignName={tab.slug} />
             </S.ProjectInner>

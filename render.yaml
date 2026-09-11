@@ -41,3 +41,6 @@ services:
     envVars:
       - key: NEXT_PUBLIC_API_URL
         value: "https://yesildoga-api.onrender.com"
+      # Canonical/OG base URL — update when a custom domain is configured
+      - key: NEXT_PUBLIC_SITE_URL
+        value: "https://yesildoga.onrender.com"

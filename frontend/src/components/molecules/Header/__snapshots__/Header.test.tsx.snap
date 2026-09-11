@@ -5,7 +5,33 @@ exports[`Header 1`] = `
 - First value
 + Second value
 
-@@ -65,17 +65,17 @@
+@@ -7,11 +7,11 @@
+        class=\\"sc-dkPwfY gTudpy\\"
+      >
+        Yesildoga
+      </h1>
+      <nav
+-       class=\\"sc-hKwBjT iNffFg\\"
++       class=\\"sc-hKwBjT dzxcvD\\"
+        data-testid=\\"header-nav\\"
+      >
+        <ul
+          class=\\"sc-eCIkAO cCZPxG\\"
+        >
+@@ -56,11 +56,11 @@
+            </a>
+          </li>
+        </ul>
+      </nav>
+      <div
+-       aria-expanded=\\"false\\"
++       aria-expanded=\\"true\\"
+        aria-label=\\"Toggle navigation menu\\"
+        class=\\"sc-gsDMPd iDuILb\\"
+        data-testid=\\"header-hamburger\\"
+        role=\\"button\\"
+      >
+@@ -69,17 +69,17 @@
           role=\\"button\\"
           style=\\"cursor: pointer; height: 48px; position: relative; transition: 0.4s cubic-bezier(0, 0, 0, 1); user-select: none; width: 48px; outline: none;\\"
           tabindex=\\"0\\"
@@ -30,26 +56,16 @@ exports[`Header 1`] = `
 
 exports[`Header: closed 1`] = `
 .c0 {
-  -webkit-align-items: center;
-  -webkit-box-align: center;
-  -ms-flex-align: center;
   align-items: center;
   background-color: white;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
   justify-content: space-between;
   padding: 16px 48px;
+  position: relative;
 }
 
-.c6 {
+.c7 {
   display: none;
-  -webkit-flex-direction: column;
-  -ms-flex-direction: column;
   flex-direction: column;
   margin-right: 16px;
 }
@@ -67,51 +83,74 @@ exports[`Header: closed 1`] = `
 }
 
 .c3 {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   list-style: none;
   margin: 0;
   padding: 0;
 }
 
-.c4 {
+.c5 {
   margin-left: 2rem;
 }
 
-.c5 {
+.c6 {
   color: #333;
-  -webkit-text-decoration: none;
   text-decoration: none;
   font-size: 1.2rem;
   font-weight: bold;
-  -webkit-transition: color 0.2s ease-in-out;
   transition: color 0.2s ease-in-out;
 }
 
-.c5:hover {
+.c6:hover {
   color: #0c9346;
 }
 
-@media (max-width:1223px) {
+@media (max-width: 1223px) {
   .c0 {
     padding: 8px 16px;
   }
 }
 
-@media (max-width:1223px) {
-  .c6 {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
+@media (max-width: 1223px) {
+  .c7 {
     display: flex;
   }
 }
 
-@media (max-width:1223px) {
+@media (max-width: 1223px) {
   .c2 {
+    background: #fff;
+    border-top: 1px solid #e5e5e5;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
     display: none;
+    inset-block-start: 100%;
+    inset-inline: 0;
+    margin-inline-start: 0;
+    position: absolute;
+    z-index: 20;
+  }
+}
+
+@media (max-width: 1223px) {
+  .c3 {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 1223px) {
+  .c5 {
+    margin-inline-start: 0;
+  }
+
+  .c4+.c4 {
+    border-block-start: 1px solid #f0f0f0;
+  }
+}
+
+@media (max-width: 1223px) {
+  .c6 {
+    display: block;
+    padding: 14px 16px;
   }
 }
 
@@ -126,45 +165,46 @@ exports[`Header: closed 1`] = `
   </h1>
   <nav
     class="c2"
+    data-testid="header-nav"
   >
     <ul
       class="c3"
     >
       <li
-        class="c4"
+        class="c4 c5"
       >
         <a
-          class="c5"
-          href="#"
+          class="c6"
+          href="/"
         >
           Home
         </a>
       </li>
       <li
-        class="c4"
+        class="c4 c5"
       >
         <a
-          class="c5"
-          href="#"
+          class="c6"
+          href="/#mission"
         >
           About
         </a>
       </li>
       <li
-        class="c4"
+        class="c4 c5"
       >
         <a
-          class="c5"
-          href="#"
+          class="c6"
+          href="mailto:dogabudak@gmail.com"
         >
           Contact
         </a>
       </li>
       <li
-        class="c4"
+        class="c4 c5"
       >
         <a
-          class="c5"
+          class="c6"
           href="/donate"
         >
           Donate
@@ -173,8 +213,11 @@ exports[`Header: closed 1`] = `
     </ul>
   </nav>
   <div
-    class="c6"
+    aria-expanded="false"
+    aria-label="Toggle navigation menu"
+    class="c7"
     data-testid="header-hamburger"
+    role="button"
   >
     <div
       class="hamburger-react"

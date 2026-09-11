@@ -1,8 +1,8 @@
 import styled, { css } from 'styled-components';
 import { untilTablet, untilMobile } from 'src/style/helpers/mixins/mediaQueries';
 
-export const Hero = styled.div<{ backgroundImage: string }>`
-  background-image: url(${({ backgroundImage }) => backgroundImage});
+export const Hero = styled.div<{ $backgroundImage: string }>`
+  background-image: url(${({ $backgroundImage }) => $backgroundImage});
   background-position: center;
   background-size: cover;
   display: flex;
@@ -66,9 +66,9 @@ export const HeroDescription = styled.p`
   `)}
 `;
 
-export const ProjectSection = styled.div<{ isVisible: boolean }>`
+export const ProjectSection = styled.div<{ $isVisible: boolean }>`
   background: #fff;
-  max-height: ${({ isVisible }) => (isVisible ? '3000px' : '0')};
+  max-height: ${({ $isVisible }) => ($isVisible ? '3000px' : '0')};
   overflow: hidden;
   transition: max-height 0.5s ease;
 `;
@@ -88,8 +88,8 @@ export const HeroButtons = styled.div`
   margin-top: 20px;
 `;
 
-export const DiscoverButton = styled.button<{ accentColor: string }>`
-  background: ${({ accentColor }) => accentColor};
+export const DiscoverButton = styled.button<{ $accentColor: string }>`
+  background: ${({ $accentColor }) => $accentColor};
   border: none;
   border-radius: 999px;
   color: #fff;

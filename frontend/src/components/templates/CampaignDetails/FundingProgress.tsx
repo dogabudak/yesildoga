@@ -20,12 +20,12 @@ export const FundingProgress: React.FC<FundingProgressProps> = ({
   return (
     <S.Card>
       <S.Amounts>
-        <S.Raised color={accentColor}>{fmt(raisedAmount)}</S.Raised>
+        <S.Raised $color={accentColor}>{fmt(raisedAmount)}</S.Raised>
         <S.Goal>/ {fmt(goalAmount)}</S.Goal>
       </S.Amounts>
       <S.Label>collected so far</S.Label>
       <S.BarTrack>
-        <S.BarFill percent={percent} color={accentColor} />
+        <S.BarFill $percent={percent} $color={accentColor} />
       </S.BarTrack>
     </S.Card>
   );

@@ -40,26 +40,26 @@ export const DotColumn = styled.div`
   width: 20px;
 `;
 
-export const Dot = styled.div<{ completed: boolean; color: string }>`
-  background: ${({ completed, color }) => (completed ? color : '#ccc')};
+export const Dot = styled.div<{ $completed: boolean; $color: string }>`
+  background: ${({ $completed, $color }) => ($completed ? $color : '#ccc')};
   border-radius: 50%;
   flex-shrink: 0;
   height: 12px;
   width: 12px;
 `;
 
-export const Line = styled.div<{ completed: boolean; color: string }>`
-  background: ${({ completed, color }) => (completed ? color : '#e0e0e0')};
+export const Line = styled.div<{ $completed: boolean; $color: string }>`
+  background: ${({ $completed, $color }) => ($completed ? $color : '#e0e0e0')};
   height: 28px;
   width: 2px;
 `;
 
-export const StepLabel = styled.span<{ completed: boolean }>`
-  color: ${({ completed }) => (completed ? '#333' : '#888')};
+export const StepLabel = styled.span<{ $completed: boolean }>`
+  color: ${({ $completed }) => ($completed ? '#333' : '#888')};
   font-size: 0.95rem;
   line-height: 1.3;
   padding-top: 0;
-  text-decoration: ${({ completed }) => (completed ? 'line-through' : 'none')};
+  text-decoration: ${({ $completed }) => ($completed ? 'line-through' : 'none')};
 `;
 
 export const BarTrack = styled.div`
@@ -70,12 +70,12 @@ export const BarTrack = styled.div`
   width: 100%;
 `;
 
-export const BarFill = styled.div<{ percent: number; color: string }>`
-  background: ${({ color }) => color};
+export const BarFill = styled.div<{ $percent: number; $color: string }>`
+  background: ${({ $color }) => $color};
   border-radius: 6px;
   height: 100%;
   transition: width 0.4s ease;
-  width: ${({ percent }) => percent}%;
+  width: ${({ $percent }) => $percent}%;
 `;
 
 export const BarLabel = styled.span`

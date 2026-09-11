@@ -30,7 +30,7 @@ export function OurMission(): JSX.Element {
   }, []);
 
   return (
-    <S.Section>
+    <S.Section id='mission'>
       <S.Inner>
         <S.Title>Where Your Impact Goes</S.Title>
         <S.Subtitle>
@@ -44,7 +44,7 @@ export function OurMission(): JSX.Element {
 
         <S.CategoriesGrid>
           {categories.map((cat) => (
-            <S.CategoryCard key={cat.name} accentColor={cat.color}>
+            <S.CategoryCard key={cat.name} $accentColor={cat.color}>
               <S.CategoryIcon>{cat.icon}</S.CategoryIcon>
               <S.CategoryName>{cat.name}</S.CategoryName>
               <S.CategoryDescription>{cat.description}</S.CategoryDescription>

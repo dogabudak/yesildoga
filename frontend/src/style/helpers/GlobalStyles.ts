@@ -1,7 +1,8 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle, css } from 'styled-components';
 import { normalize } from 'styled-normalize';
 import { reset } from 'styled-reset';
 import { fonts } from 'src/style/helpers/css/fonts';
+import { untilMobile } from 'src/style/helpers/mixins/mediaQueries';
 
 export const GlobalStyles = createGlobalStyle`
   ${normalize}
@@ -36,9 +37,31 @@ export const GlobalStyles = createGlobalStyle`
     border-bottom: 1px solid #e5e5e5;
     display: flex;
     gap: 4px;
-    justify-content: center;
+    /*
+     * Not 'justify-content: center' — when the tabs are wider than the
+     * viewport, centering pushes the first tab to a negative offset where it
+     * can never be scrolled back into view. The auto margins on the first and
+     * last tab centre the row when there is spare space and collapse to 0 when
+     * there is not, leaving the row scrollable from its true start.
+     */
+    justify-content: flex-start;
     margin: 0;
+    -webkit-overflow-scrolling: touch;
+    overflow-x: auto;
     padding: 0 16px;
+    scrollbar-width: none;
+  }
+
+  .react-tabs__tab-list::-webkit-scrollbar {
+    display: none;
+  }
+
+  .react-tabs__tab-list > .react-tabs__tab:first-child {
+    margin-inline-start: auto;
+  }
+
+  .react-tabs__tab-list > .react-tabs__tab:last-child {
+    margin-inline-end: auto;
   }
 
   .react-tabs__tab {
@@ -48,6 +71,7 @@ export const GlobalStyles = createGlobalStyle`
     color: #888;
     cursor: pointer;
     display: inline-block;
+    flex: 0 0 auto;
     font-size: 0.95rem;
     font-weight: 600;
     letter-spacing: 0.02em;
@@ -56,7 +80,15 @@ export const GlobalStyles = createGlobalStyle`
     position: relative;
     text-transform: uppercase;
     transition: color 0.2s ease, border-color 0.2s ease;
+    white-space: nowrap;
   }
+
+  ${untilMobile(css`
+    .react-tabs__tab {
+      font-size: 0.85rem;
+      padding: 13px 14px;
+    }
+  `)}
 
   .react-tabs__tab:hover {
     color: #555;

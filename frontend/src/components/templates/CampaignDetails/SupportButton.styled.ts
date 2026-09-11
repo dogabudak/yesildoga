@@ -1,8 +1,8 @@
 import styled from 'styled-components';
 
-export const ButtonLink = styled.a<{ accentColor: string }>`
+export const ButtonLink = styled.a<{ $accentColor: string }>`
   align-items: center;
-  background: ${({ accentColor }) => accentColor};
+  background: ${({ $accentColor }) => $accentColor};
   border: none;
   border-radius: 999px;
   color: #fff;

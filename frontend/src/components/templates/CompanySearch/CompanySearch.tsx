@@ -80,7 +80,7 @@ export function CompanySearch(): JSX.Element {
           type='text'
           placeholder='Search by company name or domain...'
           value={query}
-          onChange={(e) => {
+          onChange={(e: React.ChangeEvent<HTMLInputElement>) => {
             setQuery(e.target.value);
             setSelectedCompany(null);
           }}
@@ -105,13 +105,13 @@ export function CompanySearch(): JSX.Element {
             </S.DetailHeader>
 
             <S.BadgeRow>
-              <S.CarbonBadge neutral={selectedCompany.carbon_neutral}>
+              <S.CarbonBadge $neutral={selectedCompany.carbon_neutral}>
                 {selectedCompany.carbon_neutral ? 'Carbon Neutral' : 'Not Carbon Neutral'}
               </S.CarbonBadge>
             </S.BadgeRow>
 
             <S.RenewableBarWrapper>
-              <S.RenewableBarFill percent={selectedCompany.renewable_share_percent} />
+              <S.RenewableBarFill $percent={selectedCompany.renewable_share_percent} />
             </S.RenewableBarWrapper>
             <S.RenewableLabel>
               {selectedCompany.renewable_share_percent}% Renewable Energy
@@ -179,12 +179,12 @@ export function CompanySearch(): JSX.Element {
               <S.ResultCompany>{company.company}</S.ResultCompany>
               <S.ResultDomain>{company.domain}</S.ResultDomain>
               <S.BadgeRow>
-                <S.CarbonBadge neutral={company.carbon_neutral}>
+                <S.CarbonBadge $neutral={company.carbon_neutral}>
                   {company.carbon_neutral ? 'Carbon Neutral' : 'Not Carbon Neutral'}
                 </S.CarbonBadge>
               </S.BadgeRow>
               <S.RenewableBarWrapper>
-                <S.RenewableBarFill percent={company.renewable_share_percent} />
+                <S.RenewableBarFill $percent={company.renewable_share_percent} />
               </S.RenewableBarWrapper>
               <S.RenewableLabel>
                 {company.renewable_share_percent}% Renewable

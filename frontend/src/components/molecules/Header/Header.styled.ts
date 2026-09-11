@@ -8,6 +8,8 @@ export const HeaderContainer = styled.div<HTMLAttributes<HTMLDivElement>>`
   display: flex;
   justify-content: space-between;
   padding: 16px 48px;
+  /* Anchors the mobile nav drawer, which is absolutely positioned. */
+  position: relative;
 
   ${untilTablet(css`
     padding: 8px 16px;

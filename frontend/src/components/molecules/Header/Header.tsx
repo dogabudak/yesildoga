@@ -16,8 +16,14 @@ export function Header(): JSX.Element {
   return (
     <HeaderContainer data-testid='header'>
       <Title>Yesildoga</Title>
-      <Nav />
-      <HamburgerContainer onClick={() => setOpen(!isOpen)} data-testid='header-hamburger'>
+      <Nav isOpen={isOpen} onNavigate={() => setOpen(false)} />
+      <HamburgerContainer
+        onClick={() => setOpen(!isOpen)}
+        data-testid='header-hamburger'
+        role='button'
+        aria-label='Toggle navigation menu'
+        aria-expanded={isOpen}
+      >
         <Turn size={24} toggled={isOpen} />
       </HamburgerContainer>
     </HeaderContainer>
